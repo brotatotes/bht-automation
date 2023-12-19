@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:07:43",
+    "verseRef": "Romans 9:29",
+    "bestBHT": {
+        "bht": "God, the Lord of Hosts, has left behind a remnant, a small seed, to be saved. The remnant signifies God's gracious acts in preserving and electing a people for Himself. Without this remnant, the chosen people would have faced the same fate as Sodom and Gomorrah. It is through God's mercy and faithfulness that any individuals or nations are kept from sin and destruction. This remnant serves as a reminder of God's fulfillment of promises and His enduring love for His people.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.079778192183862,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+        "commentatorTierSimilarities": [
+            26.05,
+            38.26,
+            35.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Another proof of a remnant to be saved.\" ",
+            "The citation is verbatim from the Septuagint.\" ",
+            "They have put 'seed' for that which is in the Hebrew 'a remnant,' i.e. something left."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Except the Lord of Sabaoth\u2014that is, 'The Lord of Hosts': the word is Hebrew, but occurs so in the Epistle of James, and has thence become naturalized in our Christian phraseology.",
+            "had left us a seed\u2014meaning a 'remnant'; small at first, but in due time to be a seed of plenty.",
+            "But for this precious seed, the chosen people would have resembled the cities of the plain, both in degeneracy of character and in merited doom."
+        ],
+        "Albert Barnes": [
+            "Had preserved, or kept from destruction. Here their preservation is ascribed to God, and it is affirmed that if God had not interposed, 'the whole nation' would have been cut off.\" ",
+            "The nation was so wicked, that unless God had preserved a small number who were pious from the general corruption of the people, they would have been swept off by judgment, like Sodom and Gomorrah.\" ",
+            "It is owing to his mercy that 'any men' are kept from sin, and any nation from destruction."
+        ],
+        "Marvin Vincent": [
+            "Said before [\u03c0\u03c1\u03bf\u03b5\u03b9\u03c1\u03b7\u03ba\u03b5\u03bd] . Not in a previous passage, but by way of prediction.",
+            "Seed. Following the Septuagint, which thus renders the Hebrew remnant. See ver. 27.",
+            "Like the remnant of corn which the farmer leaves for seed."
+        ],
+        "John Calvin": [
+            "The people of Israel had indeed no pre-eminence, except what they had derived from their ancestors; who had yet been in such a manner treated, that the Prophet complained that they had been so afflicted, that they were not far from having been destroyed, as Sodom and Gomorrah had been.",
+            "There was, however, this difference, that a few were preserved for a seed, to raise up the name, that they might not wholly perish, and be consigned to eternal oblivion.",
+            "For it behoved God to be ever mindful of his promise, so as to manifest his mercy in the midst of the severest judgments."
+        ],
+        "Philip Schaff": [
+            "The rendering 'beforehand' indicates that this was said before the fulfillment.",
+            "The Jewish Christians, who escaped the judgment which fell on their nation at the destruction of Jerusalem, constituted such a seed for the Christian Church.",
+            "Just so is the period of salvation conceived as the sum-total of all fulfillment in general, since the complete realization of all God\u2019s promises will bring what will still all the longing and the thirsting of the human heart from thenceforth and forever."
+        ],
+        "Archibald T. Robertson": [
+            "Had left (\u03b5\u03b3\u03ba\u03b1\u03c4\u03b5\u03bb\u03b9\u03c0\u03b5\u03bd). Second aorist active indicative of old verb \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c0\u03c9, to leave behind.",
+            "Condition of second class, determined as unfulfilled, with \u03b1\u03bd \u03b5\u03b3\u03b5\u03bd\u03b7\u03b8\u03b7\u03bc\u03b5\u03bd and \u03b1\u03bd \u03c9\u03bc\u03bf\u03b9\u03c9\u03b8\u03b7\u03bc\u03b5\u03bd as the conclusions.",
+            "A seed (\u03c3\u03c0\u03b5\u03c1\u03bc\u03b1). The remnant of verse Romans 9:27."
+        ],
+        "John Gill": [
+            "He is Lord of the hosts of heaven, the sun, moon, and stars, whom he brings forth by number, calls by their names, and them to praise him.",
+            "The leaving of this small number designs God's gracious acts of reserving in the election of a people for himself.",
+            "The decree of election is so far from being a door to licentiousness, that it is the true spring and source of all real holiness, that has been, or is in the world."
+        ],
+        "John Wesley": [
+            "Unless the Lord had left us a seed \u2014 Which denotes, 1. The present paucity: 2. The future abundance.",
+            "We had been as Sodom \u2014 So that it is no unexampled thing for the main body of the Jewish nation to revolt from God, and perish in their sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a remnant that God has preserved from destruction, like a small seed left by a farmer. The Jewish people, though deserving of judgment, were not entirely cut off because God had shown mercy and kept a few who would form a remnant. This remnant was God's way of fulfilling his promises and continuing the line of faithful believers. Without this remnant, the people of Israel would have been like Sodom and Gomorrah, completely wiped out. It is through God's preserving grace that any individuals or nations are saved from destruction.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.193302835762073,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.27,
+            "commentatorTierSimilarities": [
+                25.92,
+                40.34,
+                33.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has preserved a remnant, a small seed left behind, from the nation of Israel to be saved. Without this remnant, the people would have faced the same fate of Sodom and Gomorrah. The remnant serves as a fulfillment of God's promises and a testament to His mercy amidst severe judgment. Through this preservation, God demonstrates His faithfulness and chooses a people for Himself. It is through the grace of God that individuals and nations are delivered from destruction and kept in His favor.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.003922378110164,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.97,
+            "commentatorTierSimilarities": [
+                25.17,
+                40.41,
+                34.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, the Lord of Hosts, has left behind a remnant, a small seed, to be saved. The remnant signifies God's gracious acts in preserving and electing a people for Himself. Without this remnant, the chosen people would have faced the same fate as Sodom and Gomorrah. It is through God's mercy and faithfulness that any individuals or nations are kept from sin and destruction. This remnant serves as a reminder of God's fulfillment of promises and His enduring love for His people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.079778192183862,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                26.05,
+                38.26,
+                35.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's preservation of a remnant, akin to a small seed, reveals His mercy amidst severe judgment. Without this remnant, the chosen people would have faced the same fate as the cities of Sodom and Gomorrah. It is through God's gracious acts of election that a few were kept from destruction, serving as a testament to His faithfulness and the fulfillment of His promises. The remnant signifies God's enduring love and commitment to a chosen people who will continue to bear fruit.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.056731017068506,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                25.46,
+                37.96,
+                36.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's preservation of a small remnant, like a seed left by a farmer, reflects His mercy amidst severe judgment. The remnant serves as a testament to God's faithfulness and the fulfillment of His promises. Without this remnant, the chosen people would have faced the same fate as Sodom and Gomorrah. God's preservation is an act of grace, ensuring that a few are kept from destruction and becoming a source of hope for the future. It is through God's enduring love that individuals and nations are saved from destruction.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.0550384505562143,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.67,
+            "commentatorTierSimilarities": [
+                24.74,
+                40.51,
+                34.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

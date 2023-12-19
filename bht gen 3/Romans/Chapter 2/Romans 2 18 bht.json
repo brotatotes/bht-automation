@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:57:40",
+    "verseRef": "Romans 2:18",
+    "bestBHT": {
+        "bht": "The Jews prided themselves on their knowledge of God's will, distinguishing and approving things that are excellent through their instruction in the law. However, their discernment often didn't translate into righteous living, as they were quick to judge others but failed to regulate their own conduct accordingly. True discernment and approval come from sincerely attending to God's will as revealed in the law and faithfully putting it into practice.",
+        "wordCount": 72,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 1.6949875150973006,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+        "commentatorTierSimilarities": [
+            12.68,
+            40.28,
+            47.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Knowest his will.\" ",
+            "Approvest things that are more excellent.",
+            "Being habitually instructed out of the law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "18. approvest the things that are",
+            "\texcellent\u2014\"triest the things that differ\" (Margin).",
+            "\tBoth senses are good, and indeed the former is but the result of the",
+            "\tlatter action. (See on :-)."
+        ],
+        "Albert Barnes": [
+            "The Jew valued himself on his knowledge of what was conformable to the will of God.",
+            "The Jew would pride himself on the fact that he had been taught by the Law to make these distinctions, while all the pagan world had been left in ignorance of them.",
+            "This was one of the advantages on which he valued himself and his religion."
+        ],
+        "Marvin Vincent": [
+            "Thou dost test with nice discrimination questions of casuistry.",
+            "This formal instruction is the basis of the critical discrimination.",
+            "The things which differ; in which case we shall render provest instead of approvest."
+        ],
+        "John Calvin": [
+            "Thus the Jews were so learned in the law that they could pass judgment on the conduct of others, but were not careful to regulate their life according to that judgment.",
+            "...excellent things are then only rightly approved (provided our judgment proceeds from sincerity) when God is attended to; for his will, as it is revealed in the law, is here appointed as the guide and teacher of what is to be justly approved.",
+            "Thou provest, or, distinguishest things which differ..."
+        ],
+        "Philip Schaff": [
+            "And knowest his will; lit, \u2018the will,\u2019 evidently God\u2019s will, as revealed in the law.",
+            "Approvest the things that are excellent; or, \u2018dost distinguish the things that differ.\u2019 Both translations are verbally exact, the latter being more in accordance with usage. But it gives so tame a sense here, in this glowing rebuke, that the other is to be preferred.",
+            "Being instructed, etc. This was the means by which the will of God was known, and the excellent things approved. There is a reference to the public reading and exposition of the law in the synagogue."
+        ],
+        "John Gill": [
+            "Persons may know their Lord's will, as the Jews did, and not do it, and so be worthy to be beaten with many stripes.",
+            "Having tried and discerned them, they approved of them in their judgment as the things more excellent; but then they did not put these excellent things in practice which they approved of.",
+            "The knowledge and approbation they had of these things, arose from their being instructed out of the law, and not the Gospel; for the excellent things of the Gospel, they had no discerning, knowledge and approbation of."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the Jews' knowledge and discernment of God's will, recognizing and approving of things that are excellent. They took pride in being instructed out of the law and were able to make careful distinctions. However, their focus on discernment and approval did not always translate into righteous living. While they were learned in the law and able to pass judgment on others, they often neglected to regulate their own lives according to that judgment. It is important to remember that true discernment and approval come from sincerely attending to God's will, as revealed in the law, and putting it into practice.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.558994671590888,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.18,
+            "commentatorTierSimilarities": [
+                11.69,
+                39.97,
+                48.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews prided themselves on their knowledge of God's will, distinguishing and approving excellent things through their instruction in the law. However, their discernment did not always translate into righteous living, as they were quick to judge others while neglecting to regulate their own lives accordingly. True discernment and approval come from sincerely attending to God's will revealed in the law and putting it into practice.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.6497960073777909,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                12.37,
+                41.55,
+                46.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews were well-versed in God's will and had the ability to distinguish and approve excellent things, thanks to their instruction in the law. However, their discernment often didn't translate into righteous actions. While they were quick to judge others, they neglected to regulate their own lives accordingly. True discernment and approval come from sincerely attending to God's will as revealed in the law and faithfully putting it into practice.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5540504226069913,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.01,
+            "commentatorTierSimilarities": [
+                14.49,
+                39.49,
+                46.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews prided themselves on their knowledge of God's will and their ability to distinguish and approve things that are excellent. With their instruction from the law, they were able to test with discrimination and make distinctions between different matters. However, their discernment and approval lacked application in their own lives, as they were quick to judge others yet failed to regulate their own conduct accordingly. True discernment and approval come from sincerely attending to God's will as revealed in the law and faithfully putting it into practice.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5477773357651559,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.81,
+            "commentatorTierSimilarities": [
+                15.06,
+                39.14,
+                45.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews prided themselves on their knowledge of God's will, distinguishing and approving things that are excellent through their instruction in the law. However, their discernment often didn't translate into righteous living, as they were quick to judge others but failed to regulate their own conduct accordingly. True discernment and approval come from sincerely attending to God's will as revealed in the law and faithfully putting it into practice.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.6949875150973006,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.7,
+            "commentatorTierSimilarities": [
+                12.68,
+                40.28,
+                47.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

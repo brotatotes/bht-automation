@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:10:34",
+    "verseRef": "Romans 15:27",
+    "bestBHT": {
+        "bht": "The Gentiles, being debtors to the Jews for spiritual blessings, are called to minister unto them in material things. This ministry of almsgiving is seen as a sacrificial service, a worshipful act of giving that acknowledges their indebtedness. The Gentiles willingly offer their support, not sparingly but generously, recognizing their duty and the justice and mercy of this exchange. It is a fair repayment, acknowledging the value of the spiritual blessings received by contributing to the material needs of the Jews.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 2.1957231914620747,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+        "commentatorTierSimilarities": [
+            36.18,
+            37.43,
+            26.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their good pleasure was not merely a matter of benevolence, but of repayment.\" ",
+            "The Gentiles being debtors to the Jews for spiritual blessings.\" ",
+            "St. Paul wished to hint to the Romans the duty of a similar contribution."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For if the Gentiles have been made partakers of their spiritual things, their duty is also...to minister unto them in carnal things.",
+            "They owe it also.",
+            "To minister unto them in carnal things."
+        ],
+        "Albert Barnes": [
+            "It becomes a matter of 'debt' where the hearer of the gospel 'receives,' in spiritual blessings, far more than he confers by supporting the ministry.",
+            "Every man who contributes his due proportion to support the gospel may receive far more, in return, in his own peace, edification, and in the order and happiness of his family, than his money could purchase in any other way.",
+            "The minister is not a beggar; and what is necessary to his support is not almsgiving. He has an equitable claim - as much as a physician, or a lawyer, or a teacher of youth has - on the necessaries and comforts of life."
+        ],
+        "Marvin Vincent": [
+            "By using this word for priestly service, Paul puts the ministry of almsgiving on the footing of a sacrificial service.",
+            "It expresses the worship of giving.",
+            "Paul puts the ministry of almsgiving on the footing of a sacrificial service."
+        ],
+        "John Calvin": [
+            "he takes his argument from the comparison of the less with the greater",
+            "it ought not to have appeared to them an unjust or a grievous compensation to exchange carnal things, which are immensely of less value, for things spiritual",
+            "Paul meant that it is a kind of sacrifice, when the faithful gave of their own to relieve the wants of their brethren; for they thus perform that duty of love which they owe, and offer to God a sacrifice of an acceptable odor"
+        ],
+        "Philip Schaff": [
+            "The Apostle emphasizes by the repetition the willingness of the Grecian Christians, but adds another statement to mark the reasonableness of such contributions: they were a matter of repayment.",
+            "To such priestly service belongs the privilege and duty of providing for the poor saints.",
+            "This thought is the more emphatic in view of the antithesis between spiritual things and carnal things."
+        ],
+        "Archibald T. Robertson": [
+            "The Gentiles are debtors to the Jews.",
+            "For if they have shared in the Jews' spiritual things.",
+            "Things which belong to the natural life of the flesh."
+        ],
+        "John Gill": [
+            "It arose from themselves; it was the pure effect of their good will and pleasure...",
+            "They performed this service with great alacrity and cheerfulness; they gave not sparingly, but largely...",
+            "Their duty is also to minister unto them in carnal things; in outward and temporal things..."
+        ],
+        "John Wesley": [
+            "They are bound to it, in justice as well as mercy.",
+            "Spiritual things - By the preaching of the gospel.",
+            "Carnal things - Things needful for the body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Gentiles, having received spiritual blessings from the Jews, are in debt to them and should minister to them in their physical needs. This ministry of almsgiving is likened to a sacrificial service, a worshipful act of giving back to those who have given so much. It is not almsgiving in the sense of charity, but rather a repayment for the blessings received. The Gentiles have willingly and cheerfully fulfilled this duty, offering not sparingly but generously, recognizing the justice and mercy of their obligation. It is a fair exchange of carnal things for the greater value of spiritual blessings received.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.179148849594167,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.8,
+            "commentatorTierSimilarities": [
+                32.94,
+                38.66,
+                28.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Gentiles, as debtors to the Jews for spiritual blessings, are called to minister to them in material things. This ministry of almsgiving is seen as a sacrificial service, a worshipful act of giving that acknowledges their indebtedness. The Gentiles willingly offer their support, not sparingly but generously, recognizing their duty and the justice and mercy of this exchange. It is a fair repayment, acknowledging the value of the spiritual blessings received by contributing to the material needs of the Jews.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1931328041613143,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+            "commentatorTierSimilarities": [
+                36.09,
+                37.49,
+                26.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Gentiles, being indebted to the Jews for their spiritual blessings, are called to repay this debt by ministering to them in material things. This ministry is not simply an act of charity but a sacrificial service, a worshipful offering of giving. The Gentiles willingly fulfill this duty with great generosity, recognizing the justice and mercy of their obligation. It is a fair exchange, acknowledging the value of the spiritual blessings received by contributing to the physical needs of the Jews.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1667479614058953,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.39,
+            "commentatorTierSimilarities": [
+                35.4,
+                38.61,
+                25.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Gentiles, having enjoyed the spiritual blessings received from the Jews, are indebted to them and are called to minister to the Jews in material things. This ministry of almsgiving is not just a benevolent act, but a form of repayment and a sacrificial service. It is a worshipful act of giving, where the Gentiles willingly and cheerfully offer their support to the Jews in their temporal needs. It is a fair exchange, recognizing the importance of both spiritual and material blessings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.123078114568112,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                34.87,
+                37.6,
+                27.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gentiles, being debtors to the Jews for spiritual blessings, are called to minister unto them in material things. This ministry of almsgiving is seen as a sacrificial service, a worshipful act of giving that acknowledges their indebtedness. The Gentiles willingly offer their support, not sparingly but generously, recognizing their duty and the justice and mercy of this exchange. It is a fair repayment, acknowledging the value of the spiritual blessings received by contributing to the material needs of the Jews.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.1957231914620747,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                36.18,
+                37.43,
+                26.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

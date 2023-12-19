@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:09:56",
+    "verseRef": "Romans 15:2",
+    "bestBHT": {
+        "bht": "As believers, we are called to please our neighbors not merely for their gratification, but for their good and edification. This means seeking to benefit and accommodate them, especially within the church. We should not compromise the Gospel, but rather please others in what is naturally, morally, and evangelically good. Our aim is to promote their welfare, bearing in mind the ultimate goal of their well-being. By striving to please our neighbors in ways that are beneficial, we fulfill our duties to serve and please them, always with their best interests at heart.",
+        "wordCount": 94,
+        "quoteTokenProportion": 46.03,
+        "qualityScore": 1.6911076084591206,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+        "commentatorTierSimilarities": [
+            27.62,
+            35.42,
+            36.96
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The qualification, for his good with a view to edification, excludes all mere pleasing of men from the Christian\u2019s motives of action.",
+            "The Apostle repudiates it in his own case, Gal. i. 10."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2, 3. Let every one of us\u2014lay",
+            "\thimself out to ",
+            "\t",
+            "please his neighbour\u2014not",
+            "\tindeed for his mere gratification, but ",
+            "\t",
+            "for his good\u2014with a",
+            "\tview ",
+            "\t",
+            "to his edification."
+        ],
+        "Albert Barnes": [
+            "Please his neighbour...especially the friends of the Redeemer.\" ",
+            "The word 'neighbor' here has special reference to the members of the church.",
+            "Not seek to secure for him indulgence in those things which would be injurious to him, but in all those things whereby his welfare would be promoted."
+        ],
+        "John Calvin": [
+            "We are under obligations to others, and it is therefore our duty to please and serve them, and there is no exception in which we ought not to accommodate ourselves to our brethren.\" ",
+            "We are not to be content with our own judgment, nor acquiesce in our own desires, but ought to strive and labor at all times to please our brethren.\" ",
+            "If you wish to be in favor with most men, their salvation must not be so much regarded, but their folly must be flattered; nor must you look to what is expedient, but to what they seek to their own ruin."
+        ],
+        "Philip Schaff": [
+            "Let each one of us (weak as well as strong) please his neighbor for his good unto edification."
+        ],
+        "Archibald T. Robertson": [
+            "For that which is good (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03b1\u03b3\u03b1\u03b8\u03bf\u03bd). \"For the good.\" As in Romans 14:16; Romans 14:19. Not to please men just for popular favours, but for their benefit. "
+        ],
+        "John Gill": [
+            "He should carry it affably and courteously, should make himself agreeable to him; should condescend and accommodate himself to his weakness",
+            "We are not to please any man in anything that is contrary to the Gospel of Christ, for then we should not be faithful servants of his",
+            "In everything that is naturally, civilly, morally, or evangelically good, we should study to please them; and in whatsoever may be for their good, temporal, spiritual, or eternal"
+        ],
+        "John Wesley": [
+            "For his good \u2014 This is a general word: edification is one species of good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As believers, our actions should not be motivated solely by the desire to please others, but to truly benefit and edify them. This means that we should seek to please our neighbors, especially our fellow believers, in ways that promote their welfare. Our aim should be to accommodate ourselves to their needs and weaknesses, not indulging them in harmful behavior, but rather striving for their good. However, it is important to note that this does not mean compromising the truth of the Gospel. We are called to please others in what is naturally, morally, and evangelically good, always keeping their ultimate well-being in mind.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.6275472409872749,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                28.5,
+                28.43,
+                43.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As believers, our actions should not be solely aimed at pleasing others, but rather at benefiting and edifying them. We are called to please our neighbors, particularly within the church, in ways that promote their welfare. Our goal should be to accommodate their needs and weaknesses, without indulging them in harmful behavior. However, it is important to note that this does not mean compromising the truth of the Gospel. We are to please others in what is naturally, morally, and evangelically good, always prioritizing their ultimate well-being.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.5902220551667998,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                27.2,
+                31.05,
+                41.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, our actions should not be solely aimed at pleasing others, but rather at benefiting and edifying them. We are called to please our neighbors, particularly within the church, in ways that promote their welfare. Our goal should be to accommodate their needs and weaknesses, without indulging them in harmful behavior. However, it is important to note that this does not mean compromising the truth of the Gospel. We are to please others in what is naturally, morally, and evangelically good, always prioritizing their ultimate well-being.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.5902220551667998,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                27.2,
+                31.05,
+                41.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, we are called to please our neighbors not merely for their gratification, but for their good and edification. This means seeking to benefit and accommodate them, especially within the church. We should not compromise the Gospel, but rather please others in what is naturally, morally, and evangelically good. Our aim is to promote their welfare, bearing in mind the ultimate goal of their well-being. By striving to please our neighbors in ways that are beneficial, we demonstrate our commitment to fulfilling our obligations to others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.6239015540695854,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.34,
+            "commentatorTierSimilarities": [
+                27.26,
+                35.73,
+                37.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As believers, we are called to please our neighbors not merely for their gratification, but for their good and edification. This means seeking to benefit and accommodate them, especially within the church. We should not compromise the Gospel, but rather please others in what is naturally, morally, and evangelically good. Our aim is to promote their welfare, bearing in mind the ultimate goal of their well-being. By striving to please our neighbors in ways that are beneficial, we fulfill our duties to serve and please them, always with their best interests at heart.",
+            "wordCount": 94,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.6911076084591206,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                27.62,
+                35.42,
+                36.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

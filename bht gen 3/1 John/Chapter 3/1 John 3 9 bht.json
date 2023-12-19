@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:47:33",
+    "verseRef": "1 John 3:9",
+    "bestBHT": {
+        "bht": "The child of God, who has been begotten and remains God's child, is in a state that excludes sin. The regenerate life, brought about by the divine principle of life, is incompatible with sin and gives the believer a hatred for sin. The exceptional sins into which the regenerate are surprised are owing to the new life principle lying dormant, and the divine seed within prevents sin and opposes its influence. Whosoever is born of God cannot go on sinning, for they have been inwardly and universally changed.",
+        "wordCount": 89,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.5180939013358064,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.07,
+        "commentatorTierSimilarities": [
+            36.62,
+            30.95,
+            32.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To be begotten of God and to sin, are states mutually excluding one another.",
+            "The regenerate life is incompatible with sin, and gives the believer a hatred for sin in every shape, and an unceasing desire to resist it.",
+            "The exceptional sins into which the regenerate are surprised, are owing to the new life principle being for a time suffered to lie dormant, and to the sword of the Spirit not being drawn instantly."
+        ],
+        "Albert Barnes": [
+            "Whosoever is born of God doth not commit sin - This passage must either mean that they who are born of God, that is, who are true Christians, do not sin habitually and characteristically, or that everyone who is a true Christian is absolutely perfect, and never commits any sin.",
+            "There is, probably, as Lucke supposes, an allusion in the word to the fact that we are begotten (\u039f\u0314 \u03b3\u03b5\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03b5\u0301\u03bd\u03bf\u03c2 Ho gegenne\u0304menos) of God.",
+            "Unless this passage teaches that no one who is renewed ever can sin in any sense; or that everyone who becomes a Christian is, and must be, absolutely and always perfect, no words could more clearly prove that true Christians will never fall from grace and perish."
+        ],
+        "Marvin Vincent": [
+            "He who hath been begotten and remains God's child.",
+            "The divine principle of life.",
+            "Conceived as a perfect ideal, life in God excludes the possibility of sin."
+        ],
+        "John Calvin": [
+            "The Apostle means the same thing by the seed of God; for God\u2019s Spirit so forms the hearts of the godly for holy affections, that the flesh and its lusts do not prevail, but being subdued and put as it were under a yoke, they are checked and restrained.",
+            "The power of the Spirit is so effectual, that it necessarily retains us in continual obedience to righteousness.",
+            "John does not speak of one act, as they say, but of the continued course of life."
+        ],
+        "Archibald T. Robertson": [
+            "The child of God does not have the habit of sin.",
+            "His seed, 'the divine principle of life'.",
+            "The child of God cannot go on sinning."
+        ],
+        "John Gill": [
+            "The new nature, or new man formed in the soul, is meant; which seminally contains all grace in it, and which, like seed, springs up and gradually increases, and always abides; and is pure and incorruptible, and neither sins itself, nor encourages sin, but opposes, checks, and prevents it.",
+            "He that is born of God, as he is born of God, or that which is born of God in him, the new man, or new creature, cannot sin; for that is pure and holy; there is nothing sinful in it, nor can anything that is sinful come out of it, or be done by it.",
+            "The reason of the impeccability of the regenerate man, as such, is because he is born of God: for that which is born of God in him, does, under the influence of the Spirit, power, and grace of God, preserve him from the temptations of Satan, the pollutions of the world, and the corruptions of his own heart."
+        ],
+        "John Wesley": [
+            "Whosoever is born of God...doth not commit sin.\" ",
+            "The divine seed of loving faith abideth in him; and, so long as it doth, he cannot sin.",
+            "He is born of God - Is inwardly and universally changed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The child of God, who has been begotten and remains God's child, is in a state that excludes sin. The regenerate life, brought about by the divine principle of life, is incompatible with sin and engenders a hatred for it. Although there may be exceptional sins that surprise the believer, they are the result of the new life principle lying dormant, rather than a habitual practice. The seed of God, the new nature within the believer, opposes, checks, and prevents sin. This divine seed, when it abides in the child of God, preserves them from the temptations and corruptions of the world, keeping them steadfast in their obedience to righteousness. Whosoever is born of God cannot go on sinning, for they have been inwardly and universally changed.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 2.2993493201762876,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.79,
+            "commentatorTierSimilarities": [
+                35.0,
+                31.6,
+                33.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The child of God, begotten by Him, is incompatible with sin. The regenerate life gives the believer a hatred for sin and an unceasing desire to resist it. While there may be exceptional sins, they are due to the new life principle lying dormant and the sword of the Spirit not being drawn instantly. The divine principle of life, the seed of God within, opposes, checks, and prevents sin. Whosoever is born of God cannot go on sinning, as they are inwardly and universally changed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.3913422687411487,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.85,
+            "commentatorTierSimilarities": [
+                37.44,
+                29.75,
+                32.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The child of God, who remains begotten by Him, is incompatible with sin. The regenerate life engenders a hatred for sin and an unceasing desire to resist it. The exceptional sins that may occur are due to the new life principle lying dormant and the sword of the Spirit not being drawn instantly. The divine seed, the new nature within, opposes, checks, and prevents sin. Whosoever is born of God cannot go on sinning, having been inwardly and universally changed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.2930334497384197,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.58,
+            "commentatorTierSimilarities": [
+                36.34,
+                29.83,
+                33.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The child of God, who has been begotten and remains God's child, is in a state that excludes sin. The regenerate life, brought about by the divine principle of life, is incompatible with sin and gives the believer a hatred for sin. The exceptional sins into which the regenerate are surprised are owing to the new life principle lying dormant, and the divine seed within prevents sin and opposes its influence. Whosoever is born of God cannot go on sinning, for they have been inwardly and universally changed.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.5180939013358064,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.07,
+            "commentatorTierSimilarities": [
+                36.62,
+                30.95,
+                32.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The child of God, who has been begotten and remains God's child, is in a state that excludes sin. The regenerate life is incompatible with sin and gives the believer a hatred for sin. The exceptional sins into which the regenerate are surprised are owing to the new life principle lying dormant. The divine seed within prevents sin and opposes its influence. Whosoever is born of God cannot go on sinning, for they have been inwardly and universally changed.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.310918039128773,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                36.63,
+                30.43,
+                32.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:08:27",
+    "verseRef": "Romans 11:12",
+    "bestBHT": {
+        "bht": "If the fall of Israel and their diminishing have brought riches to the Gentile world, how much more can we expect when their fullness is restored? Their conversion will fulfill prophecies, demonstrate the preservation of the Jewish people, and bring blessings to the Gentile church. This event will confirm the truth of both the Old and New Testament, serving as a powerful demonstration to convince many.",
+        "wordCount": 66,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.270218386677958,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+        "commentatorTierSimilarities": [
+            33.05,
+            37.39,
+            29.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If their trespass is the riches of the world, and their diminishing, the riches of the Gentiles, how much more shall their fulness be all this?",
+            "If their unbelief is the world\u2019s wealth, and their small number, the wealth of the Gentiles, how much more their full (restored) number!",
+            "If so few Jews can do so much for the Gentile world, what will not the whole number do?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If the fall of them...be the riches of the Gentile world\u2014as being the occasion of their accession to Christ.",
+            "and the diminishing of them\u2014that is, the reduction of the true Israel to so small a remnant.",
+            "how much more their fulness!\u2014that is, their full recovery...of how much greater good may we expect an event so blessed as their full recovery to be productive?"
+        ],
+        "Albert Barnes": [
+            "The gospel is called riches, as it is the means of our highest enjoyment, and eternal welfare. It is the means of conferring numberless spiritual blessings on the Gentile world; and as this was done by the fall of the Jews, so it could be said that their fall was the riches of the world.",
+            "Their conversion, after so long unbelief, would have all the power and influence of a miracle performed in view of all nations. It would be seen why they had been preserved, and their conversion would be a most striking fulfillment of the prophecies.",
+            "[The Jews] have lost none of the ardor, enterprise, and zeal that always characterized their nation. Their conversion would be, therefore, to give to the church a host of missionaries prepared for their work, familiar with all customs, languages, and climes, and already in the heart of all kingdoms, and with facilities for their work in advance, which others must gain only by the slow toil of many years."
+        ],
+        "Marvin Vincent": [
+            "Diminishing [\u03b7\u03c4\u03c4\u03b7\u03bc\u03b1] . The literal translation. Rev. renders loss. Referring apparently to the diminution in numbers of the Jewish people.",
+            "Fullness [\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1] . See on John 1:16. The word may mean that with which anything is filled... that which is filled... possibly the act of filling... Here in the first sense: the fullness of their number contrasted with the diminution.",
+            "They will belong as an integral whole to the people of God."
+        ],
+        "John Calvin": [
+            "If their fall had raised the Gentiles, and their diminution had enriched them, how much more their fullness?",
+            "For the first was done contrary to nature, and the last will be done according to a natural order of things.",
+            "For these things were written to mold the heart and not the tongue."
+        ],
+        "Philip Schaff": [
+            "The fact that the nation, regarded as the people of God, had been thus reduced proved to be the riches of the Gentiles, i.e., thus the Gentile nations were enriched through the Gospel preached to them.",
+            "If the diminution of Israel through unbelief had such a blessed result, how much more their full number when they as a nation become believers.",
+            "Some find here their full restoration or blessedness, contrasted with their impoverishment ('diminishing'). But this leaves out of view the numerical sense, giving to both the contrasted terms a less obvious meaning, and identifies the thought of this verse with that of Romans 11:15."
+        ],
+        "John Gill": [
+            "The fall of the Jews, which was a lessening of them, was the riches of the Gentiles.",
+            "The few that did believe were the means of carrying and spreading the Gospel, which is, 'the unsearchable riches of Christ' in the Gentile world.",
+            "This will be a great accession to the Gentile church, bring much glory to it, contribute greatly to its welfare, and be a means of establishing their faith, and of putting fresh life and vigour into them, and of inspiring them with more zeal for Christ, and for his honour and glory."
+        ],
+        "John Wesley": [
+            "So many prophecies refer to this grand event, that it is surprising any Christian can doubt of it.",
+            "And these are greatly confirmed by the wonderful preservation of the Jews as a distinct people to this day.",
+            "When it is accomplished, it will be so strong a demonstration, both of the Old and New Testament revelation, as will doubtless convince many thousand Deists."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the fall and diminishing of the Jews have brought such richness and blessings to the Gentile world, then how much more can we expect when their fullness is restored? Their conversion will have a powerful impact, demonstrating the fulfillment of prophecies and the preservation of the Jewish people as a distinct group. The fullness of the Jewish nation becoming believers will bring great blessings and contribute to the welfare and establishment of the Gentile church, inspiring greater zeal for Christ. This event will serve as a strong confirmation of both the Old and New Testament revelation, convincing many.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.206214761383861,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.7,
+            "commentatorTierSimilarities": [
+                30.95,
+                38.86,
+                30.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the fall and diminishing of the Jews have enriched the Gentile world, how much more can we expect when their fullness is restored? Their conversion will fulfill prophecies and demonstrate the preservation of the Jewish people. The fullness of the Jewish nation becoming believers will bless and establish the Gentile church, inspiring greater zeal for Christ. This event will confirm the truth of the Old and New Testament, convincing many.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.1748719423918015,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.66,
+            "commentatorTierSimilarities": [
+                32.95,
+                36.95,
+                30.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If the fall of Israel and their diminishing have brought riches to the Gentile world, how much more can we expect when their fullness is restored? Their conversion will fulfill prophecies, demonstrate the preservation of the Jewish people, and bring blessings to the Gentile church. This event will confirm the truth of both the Old and New Testament, serving as a powerful demonstration to convince many.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.270218386677958,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.83,
+            "commentatorTierSimilarities": [
+                33.05,
+                37.39,
+                29.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If the fall and diminishing of the Jews have enriched the Gentile world, then how much more can we expect when their fullness is restored? Their conversion will have a powerful impact, demonstrating the fulfillment of prophecies and the preservation of the Jewish people as a distinct group. The fullness of the Jewish nation becoming believers will bring great blessings and contribute to the welfare and establishment of the Gentile church, inspiring greater zeal for Christ. This event will serve as a strong confirmation of both the Old and New Testament revelation, convincing many.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.186596569125916,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                31.69,
+                38.14,
+                30.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If the fall and diminishing of the Jews have enriched the Gentile world, then how much more can we expect when their fullness is restored? Their conversion will have a powerful impact, demonstrating the fulfillment of prophecies and the preservation of the Jewish people as a distinct group. The fullness of the Jewish nation becoming believers will bring great blessings and contribute to the welfare and establishment of the Gentile church, inspiring greater zeal for Christ. This event will confirm both the Old and New Testament revelation, convincing many.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.1807574671803245,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.85,
+            "commentatorTierSimilarities": [
+                32.05,
+                37.75,
+                30.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

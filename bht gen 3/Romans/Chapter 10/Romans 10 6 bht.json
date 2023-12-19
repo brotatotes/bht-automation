@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:07:47",
+    "verseRef": "Romans 10:6",
+    "bestBHT": {
+        "bht": "Do not despair, thinking that someone must bring down Christ from heaven for you to attain justification. The righteousness that comes by faith speaks a different language and does not require profound inquiries or difficult journeys. It has already been revealed through the Incarnation of Christ. So, do not say in your heart, Who shall ascend into heaven? or Who shall descend into the grave? These actions are not needed for salvation and should not lead to doubt or despair.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.682821629817587,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+        "commentatorTierSimilarities": [
+            30.49,
+            30.5,
+            39.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye have not to sigh over the impossibility of attaining to justification as if one should say, oh! if I could but get someone to mount up to heaven and fetch me down Christ, there might be some hope, but since that cannot be, mine is a desperate case.",
+            "Say not in thine heart, Who shall ascend into heaven? that is, to bring Christ down, c.",
+            "But the\u2014justifying righteousness which is of faith speaketh on this wise\u2014'speaketh thus'\u2014its language or import is to this effect."
+        ],
+        "Albert Barnes": [
+            "They did not require deep research, long journeys, or painful toil. There was no need of crossing seas, and going to other lands, of looking into the profound mysteries of the high heavens, or the deep abyss; but they were near them, had been plainly set before them, and were easily understood.",
+            "To say that it was high as heaven, or that it was necessary to ascend to heaven to understand it, was to express the highest difficulty.",
+            "That work was already accomplished when God gave his Son to become a man, and to die."
+        ],
+        "Marvin Vincent": [
+            "The of-faith righteousness. Righteousness is personified.",
+            "Paul recognizes a secondary meaning in Moses' words, and thus changes the original expressions so as to apply them to the Christian faith-system.",
+            "The phrase 'say in the heart' is a Hebraism for think."
+        ],
+        "John Calvin": [
+            "It is no objection that Moses there speaks of forming the life according to the rule of the law; for the spirit of regeneration is connected with the gratuitous righteousness of faith.\" (Commentary, 6)",
+            "If any one thinks that this interpretation is too strained and too refined, let him understand that it was not the object of the Apostle strictly to explain this passage, but to apply it to the explanation of his present subject.\" (Commentary)",
+            "Christ's ascension into heaven ought indeed fully to confirm our faith as to eternal life; for he in a manner removes Christ himself from the possession of heaven, who doubts whether the inheritance of heaven is prepared for the faithful, in whose name, and on whose account he has entered thither.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "The righteousness of faith.",
+            "Say not in thy heart.",
+            "That is, to bring Christ down."
+        ],
+        "Archibald T. Robertson": [
+            "To say in the heart is to think.",
+            "The Incarnation is already a glorious fact.",
+            "Today some men scout the idea of the Deity and Incarnation of Christ."
+        ],
+        "John Gill": [
+            "The righteousness of faith...forbids all doubting and despair.",
+            "To do so, is to deny that Christ is come in the flesh, and risen from the dead, who has given the true sense and knowledge of the law, and has perfectly fulfilled it...there is no need of such inquiries as these.",
+            "The righteousness of faith...assuring the sinner, that Christ is come down from heaven...and is risen again for justification; so that such questions should not be put, nor such despairing thoughts encouraged."
+        ],
+        "John Wesley": [
+            "But the righteousness which is by faith \u2014 The method of becoming righteous by believing. Speaketh a very different language.\" ",
+            "Say not in thy heart, Who shall ascend into heaven, as if it were to bring Christ down: or, Who shall descend into the grave, as if it were to bring him again from the dead - Do not imagine that these things are to be done now, in order to procure thy pardon and salvation.\" ",
+            "Do not imagine that these things are to be done now, in order to procure thy pardon and salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not despair and think that the only way to attain justification is by someone ascending to heaven to bring down Christ, for the righteousness that comes by faith speaks a different language. It is not necessary to go on a difficult journey or engage in complex research to understand this righteousness; it has already been revealed in the Incarnation of Christ. This righteousness of faith forbids doubting and despair, assuring the sinner that Christ has come down from heaven and risen again for justification. So, do not say in your heart, Who shall ascend into heaven? or Who shall descend into the grave? thinking that these things must be done to secure pardon and salvation.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.833474721720051,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+            "commentatorTierSimilarities": [
+                28.74,
+                28.76,
+                42.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despair not, for you need not worry about someone ascending to heaven to bring down Christ; the righteousness that comes by faith speaks a different language. The Incarnation of Christ is already a glorious fact, and this righteousness of faith assures the sinner of divine justification. Do not think that complex journeys or profound inquiries are necessary for understanding this righteousness; it has been plainly set before you. So, do not say in your heart, Who shall ascend into heaven? or Who shall descend into the grave? for these actions are not required for salvation and pardon.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.719238938012138,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                29.14,
+                28.99,
+                41.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not despair, thinking that someone must bring down Christ from heaven for you to attain justification. The righteousness that comes by faith speaks a different language and does not require profound inquiries or difficult journeys. It has already been revealed through the Incarnation of Christ. So, do not say in your heart, Who shall ascend into heaven? or Who shall descend into the grave? These actions are not needed for salvation and should not lead to doubt or despair.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.682821629817587,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                30.49,
+                30.5,
+                39.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not despair, thinking that you must accomplish the impossible in order to attain justification. You do not need to bring Christ down from heaven or raise Him from the dead. The righteousness that comes from faith speaks a different language, assuring you that Christ has already come down from heaven and risen again for your justification. Do not entertain thoughts of ascending to heaven or descending to the grave to achieve salvation. Instead, trust in the righteousness that is received through faith, which has been fully accomplished by Christ's incarnation and resurrection.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.799002276059185,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.16,
+            "commentatorTierSimilarities": [
+                27.39,
+                29.17,
+                43.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not despair, thinking that you must accomplish the impossible to attain justification. You don't need to bring Christ down from heaven or raise Him from the dead. The righteousness that comes from faith assures you that Christ has already come down from heaven and risen again for your justification. Trust in the righteousness received through faith, fully accomplished by Christ's incarnation and resurrection, and do not entertain thoughts of ascending to heaven or descending to the grave for salvation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.851644104608125,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                27.26,
+                29.95,
+                42.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

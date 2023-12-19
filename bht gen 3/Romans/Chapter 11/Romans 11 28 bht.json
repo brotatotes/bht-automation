@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:08:25",
+    "verseRef": "Romans 11:28",
+    "bestBHT": {
+        "bht": "The unbelieving Jews, regarded and treated as enemies for the benefit of the Gentiles, are still beloved for the fathers' sakes and the covenant with Abraham, Isaac, and Jacob. The grace of the divine calling cannot be made void, and their rejection of the gospel becomes an opportunity for its preaching to the Gentiles. It is important to note that their current enmity towards the gospel does not nullify the love and favor God has for them. They are still beloved and chosen by God, even in their state of exclusion.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.0718140311837194,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+        "commentatorTierSimilarities": [
+            32.28,
+            32.35,
+            35.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "With regard indeed to the gospel, they are enemies for your sakes.",
+            "But with regard to the election, they are beloved for the fathers' sakes.",
+            "...not for the merits of the fathers, but because of the covenant with Abraham, Isaac, and Jacob."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They are regarded and treated as enemies for the benefit of you Gentiles.\" ",
+            "They are beloved even in their state of exclusion for the fathers' sakes."
+        ],
+        "Albert Barnes": [
+            "The enemies of God denote all who are not his true friends.",
+            "Their rejection has become the occasion by which the gospel has been preached to you.",
+            "Yet this should not be abused by others to lead them to security in sin. No man has any security of happiness, and of the favor of God, but he who complies with the terms of his mercy."
+        ],
+        "John Calvin": [
+            "He then admits, that they were for the present alienated from God on account of the gospel, that thus the salvation, which at first was deposited with them, might come to the Gentiles.",
+            "God was not unmindful of the covenant which he had made with their fathers, and by which he testified that according to his eternal purpose he loved that nation.",
+            "The grace of the divine calling cannot be made void; for this is the import of the words."
+        ],
+        "Philip Schaff": [
+            "As touching the gospel...they (the unbelieving Jews, at that time including the mass of the nation) are enemies.",
+            "For your sakes...Israel was the chosen nation.",
+            "Beloved, i.e., of God, for the fathers' sakes...they are still regarded with peculiar favor."
+        ],
+        "Archibald T. Robertson": [
+            "According to the gospel\" - Paul has shown...the gospel order as it has developed.",
+            "Enemies\" - Treated as enemies (of God)...",
+            "For the fathers' sake\" - As in Romans 9:4; Romans 11:16."
+        ],
+        "John Gill": [
+            "They [were] enemies to God and Christ, to the Gospel, and the ministers of it, and particularly to the apostle.",
+            "The present enmity of the Jews to the Gospel turned to the advantage of the Gentiles.",
+            "As many of them as belong to the election of grace, are beloved of God; and will appear to be so when they are called by grace."
+        ],
+        "John Wesley": [
+            "They are now enemies \u2014 To the gospel, to God, and to themselves, which God permits.",
+            "For your sake: but as for the election \u2014 That part of them who believe, they are beloved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The unbelieving Jews, though treated as enemies, are still beloved by God for the sake of their forefathers and the covenant made with them. While they may currently be alienated due to their rejection of the gospel, their exclusion serves a purpose - to bring salvation to the Gentiles. It is important to note that their enmity towards the gospel does not nullify the grace of God's calling, as there are those among them who are chosen by grace and beloved by God. Ultimately, their current state of being enemies to the gospel turns to the advantage of the Gentiles as the salvation of God extends to all who believe.",
+            "wordCount": 110,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.2033577448431902,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                29.64,
+                32.44,
+                37.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The unbelieving Jews, referred to as enemies, are still beloved for their forefathers' sake. Their enmity towards the gospel does not negate the grace of God's calling. This exclusion allows for the salvation of the Gentiles. Their rejection becomes an opportunity for the preaching of the gospel. The chosen ones among them are beloved by God. God remains faithful to the covenant with their forefathers and shows favor to the nation of Israel.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.996335445901372,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                31.11,
+                33.91,
+                34.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The unbelieving Jews, regarded and treated as enemies for the benefit of the Gentiles, are still beloved for the fathers' sakes and the covenant with Abraham, Isaac, and Jacob. The grace of the divine calling cannot be made void, and their rejection of the gospel becomes an opportunity for its preaching to the Gentiles. It is important to note that their current enmity towards the gospel does not nullify the love and favor God has for them. They are still beloved and chosen by God, even in their state of exclusion.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.0718140311837194,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                32.28,
+                32.35,
+                35.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The unbelieving Jews, treated as enemies for the benefit of the Gentiles, are still beloved for the fathers' sakes and the covenant with Abraham, Isaac, and Jacob. Their rejection of the gospel becomes an opportunity for its preaching to the Gentiles, and the grace of the divine calling remains intact. Even in their state of exclusion, they are still beloved and chosen by God, a testament to His unwavering love and the fulfillment of His eternal purpose.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.986384687139046,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                32.94,
+                32.27,
+                34.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unbelieving Jews, considered enemies for the Gentiles' benefit, are still beloved due to the fathers' covenant. Their enmity doesn't nullify the grace of God's calling; rather, it gives the opportunity for the gospel to be preached to the Gentiles. Despite their exclusion, God's love continues to extend to them. Their current state of enmity serves to the advantage of the Gentiles, as the salvation of God reaches all who believe. This shows the faithfulness of God's love and His plan of redemption throughout generations.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9871154557577484,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.41,
+            "commentatorTierSimilarities": [
+                30.73,
+                32.28,
+                37.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

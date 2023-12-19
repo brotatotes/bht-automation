@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:09:35",
+    "verseRef": "Romans 13:13",
+    "bestBHT": {
+        "bht": "Let us abstain from the defiling sins of chambering and wantonness, engaging in various forms of impurity and intemperance. Instead of reveling in rioting and drunkenness, let us live with decency, for our actions are exposed in the light of day. As children of the light and of the day, we should not be involved in quarreling and jealousy that arise from these vices. Rather, let us walk honorably, putting on the armor of light and living in a way that reflects the righteousness of Christ.",
+        "wordCount": 86,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.7693417715357849,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+        "commentatorTierSimilarities": [
+            28.31,
+            37.3,
+            34.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Chambering, in a bad sense: the act itself being a defilement, when unsanctified by God\u2019s ordinance of marriage.",
+            "The words are both plural in the original, chamberings and wantonnesses: i.e. various kinds, or frequent repetitions, of these sins.",
+            "Various kinds, or frequent repetitions, of these sins."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Men choose the night for their revels, but our night is past, for we are all the children of the light and of the day: let us therefore only do what is fit to be exposed to the light of such a day.",
+            "Not in rioting and drunkenness\u2014varied forms of intemperance; denoting revels in general, usually ending in intoxication.",
+            "Not in chambering and wantonness\u2014varied forms of impurity; the one pointing to definite acts, the other more general."
+        ],
+        "Albert Barnes": [
+            "Let us walk - To 'walk' is an expression denoting 'to live;' let us 'live,' or 'conduct,' etc.",
+            "As in the day - As if all our actions were seen and known. People by day, or in open light, live decently; their foul and wicked deeds are done in the night.",
+            "But for such scenes, there would be little contention, and the world would be comparatively at peace."
+        ],
+        "Marvin Vincent": [
+            "Honestly [\u03b5\u03c5\u03c3\u03c7\u03b7\u03bc\u03bf\u03bd\u03c9\u03c2]. Honest is originally honorable, and so here. Compare Wyclif's version of 1 Corinthians 12:23: 'And the members that be unhonest have more honesty; for our honest members have need of none.'\" ",
+            "Rioting [\u03ba\u03c9\u03bc\u03bf\u03b9\u03c2]. Lit., revellings.\" ",
+            "Wantonness [\u03b1\u03c3\u03b5\u03bb\u03b3\u03b5\u03b9\u03b1\u03b9\u03c2]. See on lasciviousness, Mark 7:22. All these three are plural: riotings, drunkennesses, wantonnesses."
+        ],
+        "John Calvin": [
+            "If these have in them so much filthiness, that even carnal men are ashamed to commit them before the eyes of men, it behooves us, who are in the light of God, at all times to abstain from them; yea, even when we are withdrawn from the presence of men.\" ",
+            "As to the third vice, though contention is put before envying, there is yet. no doubt but that Paul intended to remind us, that strifes and contests arise from this fountain; for when any one seeks to excel, there is envying of one another; but ambition is the source of both evils.\" ",
+            "Revelling is first mentioned, though drunkenness goes before it; and 'chambering,' or concubinage, or indulgence in unlawful lusts is first stated, though lasciviousness or wantonness is the source from which it proceeds."
+        ],
+        "Philip Schaff": [
+            "Let us walk seemly, as in the day. Both 'honestly' (E. V.) and 'decently' (E. V. margin) are too limited, the reference being to decorum, such as befits the day when conduct is open to observation.",
+            "Not in rioting and drunkenness. The former refers to nocturnal revels, and was probably suggested by the figures of 'night' and 'day;' the latter means drunken carousals; both are plural in the original.",
+            "Not in chambering and wantonness. Various forms of secret vice are here indicated by the plural. These sins are closely connected with the preceding, often caused by them. In Galatians 5:19; Ephesians 4:19 and elsewhere, the word rendered 'wantonness' occurs, but is translated 'lasciviousness.' It points to an abandoned sensuality."
+        ],
+        "Archibald T. Robertson": [
+            "Honestly is translated as 'honourable' and so decent.",
+            "Not in revellings.",
+            "Quarrelling and jealousy go with the other vices."
+        ],
+        "John Gill": [
+            "Being under the day of the Gospel dispensation...we being exposed to the view of all men in broad daylight, ought not to lie down and sleep, but to arise and be active.\" ",
+            "Walk decently with the armour of light on us, as becomes the Gospel of Christ; not naked and unclothed, which would expose us and the Gospel to shame and contempt.",
+            "Not in rioting, drunkenness, chambering, and wantonness...contention and quarrels, which are usually the consequences of luxury and uncleanness."
+        ],
+        "John Wesley": [
+            "Banqueting \u2014 Luxurious, elegant feasts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us conduct ourselves in a manner that is honorable and fitting for those who are children of the light and of the day. We should abstain from various forms of impurity and intemperance, for these sins defile us. Instead of engaging in revels that lead to drunkenness, quarreling, and jealousy, let us live as if all our actions are seen and known, for it is in the open light that people live decently. As children of the light, we must not be entangled in the vices that bring shame and contempt, but rather walk decently with the armor of light, putting on the righteousness of Christ.",
+            "wordCount": 107,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8557619628470934,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                28.02,
+                39.1,
+                32.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us conduct ourselves honorably, abstaining from impurity and intemperance. Instead of indulging in revelry and drunkenness, let us live openly and decently, for our actions are seen and known. As children of the light, we must not be entangled in shameful vices. Rather, let us walk with the armor of light, putting on the righteousness of Christ, and live in a manner that reflects the Gospel and brings honor to God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.6661195178049022,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+            "commentatorTierSimilarities": [
+                26.96,
+                35.13,
+                37.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us abstain from the defiling sins of chambering and wantonness, engaging in various forms of impurity and intemperance. Instead of reveling in rioting and drunkenness, let us live with decency, for our actions are exposed in the light of day. As children of the light and of the day, we should not be involved in quarreling and jealousy that arise from these vices. Rather, let us walk honorably, putting on the armor of light and living in a way that reflects the righteousness of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7693417715357849,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                28.31,
+                37.3,
+                34.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us abstain from the defiling sins of chambering and wantonness, engaging in various forms of impurity and intemperance. Instead of reveling in rioting and drunkenness, let us live with decency, for our actions are exposed in the light of day. As children of the light, we should not be involved in quarreling and jealousy that arise from these vices. Rather, let us walk honorably, putting on the armor of light, reflecting the righteousness of Christ. Our behavior should bring honor to God and uphold the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.674601592526833,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.02,
+            "commentatorTierSimilarities": [
+                29.31,
+                33.69,
+                37.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us abstain from the defiling sins of chambering and wantonness, engaging in various forms of impurity and intemperance. Instead of reveling in rioting and drunkenness, let us live with decency, for our actions are exposed in the light of day. As children of the light, we should not be involved in quarreling and jealousy that arise from these vices. Let us walk honorably, putting on the armor of light, reflecting the righteousness of Christ, and upholding the Gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.719337002161001,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                29.04,
+                35.39,
+                35.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

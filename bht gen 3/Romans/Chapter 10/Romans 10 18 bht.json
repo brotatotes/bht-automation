@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:08:10",
+    "verseRef": "Romans 10:18",
+    "bestBHT": {
+        "bht": "The universal preaching of the gospel has broken the bounds of Jud\u00e6a, spreading to all parts of the earth. Just as the voice and words of the stars have reached the ends of the world, so too has the message of God's word. The Jews cannot claim ignorance of these glad tidings, for they have heard and had the opportunity to believe. The Gentiles, too, have been touched by the sounds of the gospel, with many nations receiving the preachers of the good news.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.9278316170349084,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+        "commentatorTierSimilarities": [
+            34.49,
+            22.49,
+            43.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Into all the earth went forth their voice, and to the ends of the world their words.",
+            "The Apostle has not, as alleged in nearly all the Commentators, merely accommodated the text allegorically, but taken it in its context, and followed up the comparison of the Psalm.",
+            "It is not the extent, so much as the universality in character, of this preaching, which the Apostle is here asserting: that word of God, hitherto confined within the limits of Jud\u00e6a, had now broken those bounds, and was preached in all parts of the earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Can Israel, through any region of his dispersion, plead ignorance of these glad tidings?",
+            "Their sound went... into all the earth, and their words unto the end of the world.",
+            "The irradiation of the world with the beams of a better Sun by the universal diffusion of the Gospel of Christ, must have a mode of speaking quite natural, and to him scarcely figurative."
+        ],
+        "Albert Barnes": [
+            "But I say - But to this objection, I, the apostle, reply.",
+            "Yes, verily - In the original, a single word, \u03bc\u03b5\u03bd\u03bf\u03c5\u0342\u03bd\u03b3\u03b5 menounge, compounded of \u03bc\u03b5\u0301\u03bd men and \u03bf\u03c5\u0313\u0342\u03bd oun and \u03b3\u03b5\u0301 ge. An intense expression, denoting strong affirmation.",
+            "The meaning here is, that that may be affirmed in fact of the gospel which David affirmed of the works of God, that their sound had gone into all the earth."
+        ],
+        "Marvin Vincent": [
+            "Surely it is not true that they did not hear.",
+            "The voice of the gospel message is like that of the starry sky proclaiming God's glory to all the earth.",
+            "The Septuagint sound seems to be a free rendering in order to secure parallelism with words."
+        ],
+        "John Calvin": [
+            "God has already from the beginning manifested his divinity to the Gentiles, though not by the preaching of men, yet by the testimony of his creatures; for though the gospel was then silent among them, yet the whole workmanship of heaven and earth did speak and make known its author by its preaching.",
+            "It hence appears, that the Lord, even during the time in which he confined the favor of his covenant to Israel, did not yet so withdraw from the Gentiles the knowledge of himself, but that he ever kept alive some sparks of it among them.",
+            "The 'sound,' or voice, as applied in this passage, means the report, the news, respecting the gospel; and the 'words,' the actual preaching of it."
+        ],
+        "Philip Schaff": [
+            "It cannot be that they did not hear, they did hear, though they did not hearken, hence have not this excuse.",
+            "So far from its being the case that they did not hear, the very opposite is true.",
+            "Everywhere there had been opportunity for them to hear."
+        ],
+        "Archibald T. Robertson": [
+            "Did they fail to hear?",
+            "Yea, verily",
+            "Sound, vibration of a musical string."
+        ],
+        "John Gill": [
+            "The Jews heard the Gospel in the times of Isaiah, and other prophets, though they disbelieved the report of it; they heard it from John the Baptist, and were pleased with his ministry for a while; yea, they heard Christ himself preach it, who spake as never man did, with power and authority, as the Scribes did not, and wondered at his gracious words; they heard the apostles of Christ, who for some time were limited in their ministry to them only, and after their commission was enlarged, were ordered to preach first to them; so that they could not say they had not heard it, and they were left entirely inexcusable.",
+            "The Gentiles also had heard it; the apostles were bid to go into all the world, and preach the Gospel to every creature; and at a proper opportunity, they did as the Lord commanded them, and the Gentiles heard the Gospel with joy and pleasure; multitudes were converted everywhere, and churches raised through their ministry, according to the will of God.",
+            "The apostle in an allegorical and mystical sense, or by an argument from the lesser to the greater, or by way of allusion, applies to the apostles and ministers of the Gospel, the luminaries of the world, and stars of heaven; whose ministry, by this time, had reached the then known parts of the habitable world."
+        ],
+        "John Wesley": [
+            "Their unbelief was not owing to the want of hearing.\" ",
+            "So many nations have already heard the preachers of the gospel.",
+            "I may in some sense say of them as David did of the lights of heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The preaching of the word of God has spread throughout the world. Just as the voice and words of the stars have reached to the ends of the earth, so too has the gospel's sound and proclamation. The message of salvation has broken the confines of Judaea and been preached in all corners of the earth. The Jews cannot claim ignorance of the glad tidings, for they have heard the gospel message. The voice of the gospel has been like the resounding vibrations of a musical string, reaching every nation and providing an opportunity to hear and respond to God's grace. And it is not just the Jews who have heard, but the Gentiles as well, who have joyfully received the message and been converted by the ministry of the apostles. The preaching of the gospel has truly reached the known parts of the world, shining as lights in the darkness.",
+            "wordCount": 153,
+            "quoteTokenProportion": 34.18,
+            "qualityScore": 1.9823570487613842,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.25,
+            "commentatorTierSimilarities": [
+                33.23,
+                22.3,
+                44.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word of God has spread universally, reaching every part of the earth. The preaching of the gospel has transcended the boundaries of Jud\u00e6a and has been proclaimed in all nations. There can be no claim of ignorance, for the Jews have heard the glad tidings. The voice of the gospel is like the stars in the sky, proclaiming God's glory to the ends of the earth. Both Jews and Gentiles have had the opportunity to hear and respond to the message. The preaching of the gospel has truly reached the known world.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8956774242836993,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                33.39,
+                23.25,
+                43.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The preaching of the gospel has gone forth to the ends of the earth, breaking the confines of its origin in Jud\u00e6a. Just as the voice and words of the stars have reached the farthest corners of the world, so too has the message of salvation. The Jews cannot plead ignorance, for they have heard the glad tidings. The voice of the gospel is like a resounding vibration, echoing throughout all nations. The Gentiles as well have had the opportunity to hear and respond to God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8955173482885983,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                34.27,
+                24.43,
+                41.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The universal preaching of the gospel has broken the bounds of Jud\u00e6a, spreading to all parts of the earth. Just as the voice and words of the stars have reached the ends of the world, so too has the message of God's word. The Jews cannot claim ignorance of these glad tidings, for they have heard and had the opportunity to believe. The Gentiles, too, have been touched by the sounds of the gospel, with many nations receiving the preachers of the good news.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9278316170349084,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                34.49,
+                22.49,
+                43.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The voice and words of the gospel have resounded throughout the earth, surpassing the confines of Jud\u00e6a. The preaching of the word of God has reached the farthest corners of the world, leaving no room for ignorance or excuses. The message of salvation has echoed like the vibrations of a musical string, penetrating the hearts of both the Jews and the Gentiles. The glad tidings have been heard by many nations, bringing joy and conversion to those who have received it. Truly, the gospel has reached the known parts of the world, shining as lights in the darkness.",
+            "wordCount": 98,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8050363499477449,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                36.5,
+                19.54,
+                43.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

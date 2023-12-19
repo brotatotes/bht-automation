@@ -1,0 +1,92 @@
+{
+    "timestamp": "12-19-2023 16:06:44",
+    "verseRef": "Romans 8:37",
+    "bestBHT": {
+        "bht": "In the face of afflictions, distresses, persecutions, and other challenges, we are not only conquerors, but more than conquerors through Him who loved us. It is His love that empowers us to triumph, for His love gives us a glorious victory over these hardships. This victory is not a simple triumph, but a surpassing one that strengthens our faith, increases our strength, and expands our love for Christ. Nothing can separate us from His love, not even death, for His love conquered death. Thus, even in the midst of trials, we emerge, strengthened and adorned with His glory.",
+        "wordCount": 98,
+        "quoteTokenProportion": 52.31,
+        "qualityScore": 2.392083866863108,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.88,
+        "commentatorTierSimilarities": [
+            32.7,
+            41.38,
+            25.91
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nay, in all these things we are more than conquerors through Him who loved us.",
+            "So far from all these things separating us from His love, that very love has given us a glorious victory over them.",
+            "The use of such an expression as a title of our Lord in a doxology, makes it very probable that where unexplained, as here, it would also designate Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are pre-eminently conquerors.",
+            "And so far are they from 'separating us from Christ's love,' that it is just 'through Him that loved us' that we are victorious over them.",
+            "We are more than conquerors, through him that loved us."
+        ],
+        "Albert Barnes": [
+            "In all these things - In the very midst of them; while we are enduring them we are able to triumph.",
+            "We are more than conquerors - We gain the victory. That is, they have not power to subdue us; to alienate our love and confidence; to produce apostasy.",
+            "It is more than simple triumph; it augments our faith, increases our strength, expands our love to Christ."
+        ],
+        "Marvin Vincent": [
+            "We are more than conquerors [\u03c5\u03c0\u03b5\u03c1\u03bd\u03b9\u03ba\u03c9\u03bc\u03b5\u03bd] . A victory which is more than a victory. \"A holy arrogance of victory in the might of Christ\" (Meyer)."
+        ],
+        "John Calvin": [
+            "We do more than conquer, etc.; that is, we always struggle and emerge.",
+            "This one sentence sufficiently proves, that the Apostle speaks not here of the fervency of that love which we have towards God, but of the paternal kindness of God and of Christ towards us.",
+            "The victory will be this, \u2014 that Christ, who has loved them, will raise them from death and adorn them with that glory, with which all the evils of this life are not worthy to be compared."
+        ],
+        "Philip Schaff": [
+            "We are more than conquerors. A single word in the Greek: \u2018over conquer;\u2019 we are over-victorious.",
+            "This tone of triumph is not selfish, for the abounding victory is through him who loved us.",
+            "Since His love conquered death, even in death we cannot be separated from His love, but are more than conquerors."
+        ],
+        "Archibald T. Robertson": [
+            "Nay (\u03b1\u03bb\u03bb\u03b1). On the contrary, we shall not be separated.",
+            "We are more than conquerors (\u03c5\u03c0\u03b5\u03c1\u03bd\u03b9\u03ba\u03c9\u03bc\u03b5\u03bd). Late and rare compound.",
+            "We gain a surpassing victory through the one who loved us."
+        ],
+        "John Gill": [
+            "Nay, it shall not, nor any of the other things mentioned: 'in all these things' afflictions, distresses, persecutions, famine, nakedness, sword, or any other thing of the same kind.",
+            "They have above overcome, they have exceedingly the better of it; for they not only patiently bear afflictions and persecutions, but they glory in them; their experience, faith, and joy, are often increased by them.",
+            "Through him, who has got the victory over all his and his people's enemies, and makes them sharers in his conquests; 'through him', who is able to help them and has strength sufficient to carry them through, and brings them off more than conquerors."
+        ],
+        "John Wesley": [
+            "We are not only no losers, but abundant gainers, by all these trials.",
+            "We more than conquer.",
+            "This period seems to describe the full assurance of hope."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "In the face of afflictions, distresses, persecutions, and other challenges, we are not only conquerors, but more than conquerors through Him who loved us. It is His love that empowers us to triumph, for His love gives us a glorious victory over these hardships. This victory is not a simple triumph, but a surpassing one that strengthens our faith, increases our strength, and expands our love for Christ. Nothing can separate us from His love, not even death, for His love conquered death. Thus, even in the midst of trials, we emerge, strengthened and adorned with His glory.",
+            "wordCount": 98,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 2.392083866863108,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.88,
+            "commentatorTierSimilarities": [
+                32.7,
+                41.38,
+                25.91
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

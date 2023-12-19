@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:07:06",
+    "verseRef": "Romans 8:39",
+    "bestBHT": {
+        "bht": "Through faith in Jesus Christ, believers are embraced by the everlasting love of God, which nothing can separate us from. This chapter assures us that God, in His sacrificial love, will provide for all our needs. His love triumphs over any possible enemies we may face. We should approach Him with gratitude, knowing that our union with Him is secure and unbreakable. No circumstances, whether in heaven or earth, can sever us from the love of God, which is expressed fully through Christ.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9636874532695543,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+        "commentatorTierSimilarities": [
+            33.01,
+            30.07,
+            36.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thus does this wonderful chapter, with which the argument of the Epistle properly closes, leave us who are 'justified by faith' in the arms of everlasting Love, whence no hostile power or conceivable event can ever tear us.",
+            "To whatever conformity to the Son of God in dignity and glory, believers are or shall hereafter be raised, it will be the joy of everyone of them, as it is most fitting, 'that in all things He should have the pre-eminence.'",
+            "However difficult it may be for finite minds to comprehend the emotions of the Divine Mind, let us never for a moment doubt that in 'not sparing His own Son, but delivering Him up for us all,' God made a real sacrifice of all that was dearest to His heart, and that in doing so He meant for ever to assure His people that all other things which they need...will in due time be forthcoming."
+        ],
+        "Albert Barnes": [
+            "No possible circumstances in which Christians could be placed... could alienate them from the love of Christ.",
+            "The love of God... is produced and secured by his [Christ's] work.",
+            "With what thankfulness, then, should we approach the God of mercy."
+        ],
+        "John Calvin": [
+            "He is the beloved Son, in whom the Father is well pleased. If, then, we are through him united to God, we may be assured of the immutable and unfailing kindness of God towards us.",
+            "He now speaks here more distinctly than before, as he declares that the fountain of love is in the Father, and affirms that it flows to us from Christ.",
+            "If we are in Christ, we are secure in the love and kindness of God, for He is the bond that unites us to the Father."
+        ],
+        "Philip Schaff": [
+            "Nor height, nor depth. The idea of space is now substituted for that of time; but it is difficult to define the exact reference.",
+            "The love of God which is in Christ Jesus our Lord. This is not to be distinguished from \u2018the love of Christ\u2019, since it is rather a fuller statement of the same love.",
+            "With this triumphant expression the Apostle closes his exposition of the main theme: the Gospel is to every one that believeth the power of God unto salvation: this it could not be if anything could separate us from the love of God which is in Christ Jesus our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "God's love is victor over all possible foes."
+        ],
+        "John Gill": [
+            "This takes in the whole compass of created beings in heaven, earth, and sea; and most strongly expresses the inseparableness of the saints from the love of God, by anything or creature whatever; nothing in the whole universe shall be able to separate us from the love of God.",
+            "By 'the love of God', is not meant the saints' love to God...but the apostle would not have expressed such a strong confidence and full persuasion about this, and would rather have said, had this been his meaning, that nothing shall be able to separate our love from God, or God from our love, and not us from the love of God.",
+            "Which is to be understood, not of the effects of love, and the application of it, which may be suspended for a time; nor of the manifestation and sense of it, which believers may be without for a while; nor of any sort of separation from God, for saints themselves may be separated from him, with respect to intimate sensible communion and fellowship; but the sense of this passage is, that they can never be separated from the love of God, so as that that union which is made by it between God and them can ever be dissolved, or they cease to have any share or interest in his love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thus does this wonderful chapter assure us that as believers, through faith in Jesus Christ, we are secure and embraced by the everlasting love of God, from which no power can separate us. God, in His infinite love, made the ultimate sacrifice of His Son to ensure our eternal well-being, assuring us that He will provide all that we need. This love of God conquers all possible foes and circumstances, leaving us with a deep sense of gratitude and the utmost confidence in our union with Him. Nothing in the entire universe, whether in heaven or on earth, can ever sever us from the love of God. We are eternally united to Him through Christ, who is the full expression and conduit of this divine love.",
+            "wordCount": 127,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 2.1832829185636786,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                34.57,
+                27.44,
+                37.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through faith in Jesus Christ, believers are embraced by the everlasting love of God, which nothing can separate us from. This chapter assures us that God, in His sacrificial love, will provide for all our needs. His love triumphs over any possible enemies we may face. We should approach Him with gratitude, knowing that our union with Him is secure and unbreakable. No circumstances, whether in heaven or earth, can sever us from the love of God, which is expressed fully through Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9636874532695543,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "commentatorTierSimilarities": [
+                33.01,
+                30.07,
+                36.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through faith in Jesus Christ, believers are embraced by the everlasting love of God. This love conquers all possible foes and circumstances, assuring us of His provision and security. The sacrifice of God's Son demonstrates the depth of His love for us, leaving us with a deep sense of gratitude. Nothing in the universe can ever sever our union with Him. Our connection to God through Christ ensures that we are eternally enveloped in His love, beyond any doubt or separation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.89659865114878,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.4,
+            "commentatorTierSimilarities": [
+                35.04,
+                29.18,
+                35.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through faith in Jesus Christ, believers are securely embraced by the everlasting love of God, which triumphs over all possible foes and circumstances. God's sacrifice of His Son demonstrates His unwavering commitment to His people, assuring them that all their needs will be met. The love of God in Christ Jesus is unbreakable, uniting believers to the Father and making them inseparable from His love. Nothing in the entire universe can separate us from the deep love and kindness of God, ensuring our eternal security in Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1130967506514193,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.6,
+            "commentatorTierSimilarities": [
+                34.94,
+                28.94,
+                36.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers, justified by faith, are enveloped in the everlasting love of God that cannot be severed by any force. God's sacrifice of His Son affirms His unwavering commitment, assuring that He will provide all our needs. His love conquers all possible enemies and circumstances. The love of God in Christ Jesus is unbreakable, uniting believers with the Father and making us inseparable from His love. We can have full confidence that nothing in the entire universe can separate us from God's profound love and care.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.05078586656759,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                36.14,
+                28.19,
+                35.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

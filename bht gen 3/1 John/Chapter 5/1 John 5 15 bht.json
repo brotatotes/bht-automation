@@ -1,0 +1,99 @@
+{
+    "timestamp": "12-19-2023 15:48:48",
+    "verseRef": "1 John 5:15",
+    "bestBHT": {
+        "bht": "We can have full assurance that our prayers are heard and answered according to God's will. When we humbly and trustingly ask for forgiveness for a sin not unto death, it is an expression of our brotherly love, whereas requesting forgiveness for a sin unto death would be presumptuous. Our past prayers offered in faith are not lost, and we can rejoice over them even before they are answered. We can have confidence that our prayers are already answered, even if the precise outcome is not immediately visible.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 2.429034579388446,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+        "commentatorTierSimilarities": [
+            22.21,
+            49.21,
+            28.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We know that we have them in the truest sense, in possession.",
+            "The asking for a sin not unto death is a humble and trusting petition in the direction of God\u2019s will, and prompted by brotherly love.",
+            "The making request for a sin unto death would be, it is implied, an act savouring of presumption\u2014a prescribing to God, in a matter which lies out of the bounds of our brotherly yearning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not one of our past prayers offered in faith, according to His will, is lost.",
+            "Like Hannah, we can rejoice over them as granted even before the event.",
+            "We can recognize the event when it comes to pass, as not from chance, but obtained by our past prayers."
+        ],
+        "Albert Barnes": [
+            "If we are assured of this as a true doctrine, then, even though we may not 'see' immediately that the prayer is answered, we may have the utmost confidence that it is not disregarded, and that it will be answered in the way best adapted to promote our good.",
+            "We know that we shall have them, or that the prayer will be answered. It cannot mean that we already have the precise thing for which we prayed, or that will be a real answer to the prayer, for the answer to prayer is sometimes delayed, though ultimately granted.",
+            "Yet, in the meantime, we may have the firmest assurance that the prayer is heard, and that it will be answered in the way and at the period when God shall see it to be best."
+        ],
+        "Marvin Vincent": [
+            "Whatsoever we ask. The whole phrase is governed by the verb hear. If we know that He heareth our every petition."
+        ],
+        "John Calvin": [
+            "The godly pray or ask for nothing from God but what they obtain.",
+            "The faithful do not give loose reins to their desires, nor indulge in anything that may please them, but always regard in their prayers what God commands.",
+            "He who is certain of a happy event ought not to abstain from praying to God."
+        ],
+        "Archibald T. Robertson": [
+            "An amplification of the second limitation.",
+            "The confidence of possession by anticipation.",
+            "We have the answer already."
+        ],
+        "John Gill": [
+            "And if we know that he hear us,.... As it may be assured he does hear and answer all such persons that ask according to his will.\" ",
+            "For as it is the nature of that holy confidence, which believers have in God, to believe whatever they ask according to his will, in general, shall be grappled.",
+            "Yea, before the mercy desired, or the favour asked for is conferred, they are as sure of having it in God's own time and way, as if they now had it in hand and fact."
+        ],
+        "John Wesley": [
+            "We have \u2014 Faith anticipates the blessings.",
+            "The petitions which we asked of him \u2014 Even before the event. And when the event comes, we know it comes in answer to our prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "We can have full assurance that our prayers are heard and answered according to God's will. When we humbly and trustingly ask for forgiveness for a sin not unto death, it is an expression of our brotherly love and alignment with God's desires. However, to request forgiveness for a sin unto death would be presumptuous and outside the scope of our brotherly yearning. Our past prayers offered in faith are not lost but are kept by God, and we can rejoice over them as if granted even before they are answered. We can be confident that our prayers are already answered, even if we may not immediately see the precise outcome we desire. Our prayers are heard, and they will be answered in the way best suited for our good, in God's timing.",
+            "wordCount": 136,
+            "quoteTokenProportion": 46.75,
+            "qualityScore": 2.3455298234838304,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.33,
+            "commentatorTierSimilarities": [
+                21.47,
+                48.57,
+                29.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We can have full assurance that our prayers are heard and answered according to God's will. When we humbly and trustingly ask for forgiveness for a sin not unto death, it is an expression of our brotherly love, whereas requesting forgiveness for a sin unto death would be presumptuous. Our past prayers offered in faith are not lost, and we can rejoice over them even before they are answered. We can have confidence that our prayers are already answered, even if the precise outcome is not immediately visible.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.429034579388446,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.11,
+            "commentatorTierSimilarities": [
+                22.21,
+                49.21,
+                28.59
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

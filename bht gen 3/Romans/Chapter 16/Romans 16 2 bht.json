@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:10:31",
+    "verseRef": "Romans 16:2",
+    "bestBHT": {
+        "bht": "Phoebe, a genuine disciple of the Lord Jesus, is commended to the Romans as someone to be received and assisted in a manner befitting saints. She had been a succourer, a patroness, and a helper to many, including Paul himself. It is important to receive her in the Lord, acknowledging her as a servant of the Lord, and to assist her in whatever business or need she may have. By doing so, the Romans would demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+        "wordCount": 86,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 2.0976360867940085,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+        "commentatorTierSimilarities": [
+            28.43,
+            31.41,
+            40.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the Lord, i.e. in a Christian manner,\u2014as mindful of your common Lord: as becometh saints, i.e. 'as saints ought to do,'\u2014refers their conduct to her;\u2014not, 'as saints ought to be received.\" ",
+            "assist her] Her business at Rome may have been such as to require the help of those resident there. a succourer of many] This may refer to a part of the deaconess\u2019s office, the attending on the poor and sick of her own sex.\" ",
+            "of myself also] when and where, we know not. It is not improbable that she may have been, like Lydia, one whose heart the Lord opened at the first preaching of Paul, and whose house was his lodging."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Receive her in the Lord\u2014that is, as a genuine disciple of the Lord Jesus.",
+            "Assist her in whatsoever business she hath\u2014'may have' need of you\u2014some private business of her own.",
+            "For she hath been a succourer of many, and of myself also."
+        ],
+        "Albert Barnes": [
+            "That ye receive her ... - That you acknowledge her as being in the Lord, or as being a servant of the Lord; that is, as a Christian...\" ",
+            "As becometh saints - As it is proper that Christians should treat their brethren.\" ",
+            "She hath been a succourer of many - The word used here \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u0301\u03c4\u03b9\u03c2 prostatis, means properly 'a patron, a help,' and was applied by the Greeks to one who 'presided' over an assembly; to one who became 'a patron' of others..."
+        ],
+        "Marvin Vincent": [
+            "Assist [...] It is used as a legal term, of presenting culprits or witnesses in a court of justice.",
+            "From this, and from the term prostativ succorer, it has been inferred that Phoebe was going to Rome on private legal business [...] This is a mere fancy.",
+            "Succorer [...] The word means patroness. It may refer to her official duties."
+        ],
+        "Philip Schaff": [
+            "That ye receive her in the Lord.",
+            "And that ye assist her, etc.",
+            "For she too, 'she herself also,' hath been a helper of many."
+        ],
+        "Archibald T. Robertson": [
+            "Receive her in a way worthy of the saints.",
+            "Assist her... the very word used by Paul of the help of Jesus in his trial.",
+            "A succourer... illustrates her work as a \u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03bf\u03bd."
+        ],
+        "John Gill": [
+            "That ye receive her in the Lord,.... This is one thing he recommends her to them for, that they would receive her in a kind and friendly manner into their houses, and into their hearts' love and affections...",
+            "and also in his name, and for his sake: as becometh saints; that is, both that they would treat her with that humanity, courteousness, Christian affection, and respect, as became them who were saints by calling and profession...",
+            "for she hath been a succourer of many; or 'a patroness of many' of the saints in necessity and distress."
+        ],
+        "John Wesley": [
+            "In the Lord \u2014 That is, for the Lord's sake, and in a Christian manner. St. Paul seems fond of this expression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Phoebe, a genuine disciple of the Lord Jesus, is commended to the Romans as someone to be received and assisted in a manner befitting saints. She had been a succourer, a patroness, and a helper to many, including Paul himself. It is important to receive her in the Lord, acknowledging her as a servant of the Lord, and to assist her in whatever business or need she may have. By doing so, the Romans would demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0976360867940085,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                28.43,
+                31.41,
+                40.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Phoebe, a genuine disciple of the Lord Jesus, is recommended to be received and assisted by the Romans in a manner befitting saints. She had been a succourer/patroness/helper to many, including Paul. It is important to receive her in the Lord and acknowledge her as a servant of the Lord. By doing so, the Romans would demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0113444071670488,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                26.85,
+                32.84,
+                40.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Phoebe, a genuine disciple of the Lord Jesus, is commended to the Romans as someone to be received and assisted in a manner befitting saints. She had been a succourer, a patroness, and a helper to many, including Paul himself. It is important to receive her in the Lord, acknowledging her as a servant of the Lord, and to assist her in whatever business or need she may have. By doing so, the Romans would demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.0976360867940085,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                28.43,
+                31.41,
+                40.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Phoebe, a genuine disciple of the Lord Jesus, is recommended to be received and assisted by the Romans in a manner befitting saints. She had been a succourer/patroness/helper to many, including Paul himself. It is important to receive her in the Lord and acknowledge her as a servant of the Lord. By doing so, the Romans would demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.0200655863148174,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                27.2,
+                32.6,
+                40.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Phoebe, as a genuine disciple of the Lord Jesus, is commended to the Romans to be received and assisted in a manner suitable for saints. She has been a succourer, a patroness, and a helper to many, including Paul. Thus, it is important to receive her in the Lord, recognizing her as a servant of the Lord, and to provide assistance in any business or need she may have. Through this, the Romans demonstrate their love, kindness, and Christian affection towards a fellow believer.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.0379570716996076,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                28.18,
+                31.34,
+                40.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

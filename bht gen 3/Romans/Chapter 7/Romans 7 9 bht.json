@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:17",
+    "verseRef": "Romans 7:9",
+    "bestBHT": {
+        "bht": "In the days of my ignorance, I considered myself righteous and deserving of life, with sin seemingly dead. However, when the commandment forbidding irregular desires came, sin unexpectedly revived with great strength, revealing the depth of my depravity. This revelation led to my understanding of being dead in sin, as I saw myself deserving of eternal death. The law's compelling force unveiled the reality of my inbred sin, shifting me from a false sense of life to a humble state in need of God's grace.",
+        "wordCount": 87,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 2.422034468825757,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.87,
+        "commentatorTierSimilarities": [
+            35.46,
+            25.35,
+            39.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I was alive without the law once; but when the commandment came, sin came to life, and I died.",
+            "Agreeing in some measure with the last view, I would extend the limits further, and say that he speaks of all that time, be it mere childhood or much more, before the law began its work within him.",
+            "fell into that state of unhappiness, which ever afterwards under the gospel he calls death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the days of my ignorance, when, in this sense, a stranger to the law, I deemed myself a righteous man, and, as such, entitled to life at the hand of God.",
+            "The commandment came\u2014forbidding all irregular desire; for the apostle sees in this the spirit of the whole law.",
+            "Sin revived\u2014came to life; in its malignity and strength it unexpectedly revealed itself, as if sprung from the dead."
+        ],
+        "Albert Barnes": [
+            "The state to which he refers here must be doubtless that to which he himself alludes elsewhere, when he deemed himself to be righteous, depending on his own works, and esteeming himself to be blameless.",
+            "This is the condition of every self-confident sinner, and of everyone who is unawakened.",
+            "Perhaps no words would better express the humble, subdued, melancholy, and helpless state of a converted sinner than the expressive phrase 'I died.'"
+        ],
+        "Marvin Vincent": [
+            "The sin-principle was therefore practically dead.",
+            "The power of sin is originally and in its nature living; but before the coming of the commandment its life is not expressed.",
+            "This very commandment, the aim of which was life, I found unto death."
+        ],
+        "John Calvin": [
+            "When I sinned, having not the knowledge of the law, the sin, which I did not observe, was so laid to sleep, that it seemed to be dead; on the other hand, as I seemed not to myself to be a sinner, I was satisfied with myself, thinking that I had a life of mine own.",
+            "The death of sin is the life of man, and again the life of sin is the death of man.",
+            "It then raised sin as it were from be dead; for it discovered to Paul how great depravity abounded in the recesses of his heart, and at the same time it slew him."
+        ],
+        "Philip Schaff": [
+            "Before an individual has a distinct and vivid perception of the nature and spirituality and extent of the Divine law, he is less active and desperate in his sin and guilt than after he comes to seek a knowledge.\" ",
+            "When the specific precept came home to me with its prohibition and command.\" ",
+            "Just as sin became alive, he died; he, through the knowledge and excitement of sin, entered into a moral state, which he calls death."
+        ],
+        "Archibald T. Robertson": [
+            "I was alive (\u03b5\u03b6\u03c9\u03bd). Imperfect active. Apparently, 'the lost paradise in the infancy of men' (Denney), before the conscience awoke and moral responsibility came, 'a seeming life' (Shedd).\" ",
+            "Sin revived (\u03b7 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1 \u03b1\u03bd\u03b5\u03b6\u03b7\u03c3\u03b5\u03bd). Sin came back to life, waked up, the blissful innocent stage was over, 'the commandment having come' (\u03b5\u03bb\u03b8\u03bf\u03c5\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03bd\u03c4\u03bf\u03bb\u03b7\u03c2, genitive absolute).\" ",
+            "But I died (\u03b5\u03b3\u03c9 \u03b4\u03b5 \u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03bf\u03bd). My seeming life was over for I was conscious of sin, of violation of law. I was dead before, but I did not know."
+        ],
+        "John Gill": [
+            "he lived in the utmost peace and tranquillity, without the least ruffle and uneasiness, free from any terror or despondency, and in perfect security, being in sure and certain hope of eternal life",
+            "sin revived; it lift up its monstrous head, and appeared in its ugly shape, exceeding sinful indeed",
+            "he now saw himself a dead man, dead in sin, dead in law, under a sentence of death which he now had within himself; he saw he was deserving of eternal death"
+        ],
+        "John Wesley": [
+            "And I was once alive without the law \u2014 Without the close application of it. I had much life, wisdom, virtue, strength: so I thought.",
+            "But when the commandment \u2014 That is, the law, a part put for the whole; but this expression particularly intimates its compulsive force, which restrains, enjoins, urges, forbids, threatens.",
+            "Sin revived, and I died \u2014 My inbred sin took fire, and all my virtue and strength died away; and I then saw myself to be dead in sin, and liable to death eternal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When reflecting on Romans 7:9, we can glean various insights from the commentaries. It seems that Paul is describing a time in his life when he was blissfully ignorant of the law, when he deemed himself righteous and deserving of life from God. However, when the commandment came, forbidding all irregular desires and revealing the true nature of sin, it unexpectedly revived and manifested itself as a deadly force within him. This awareness of sin resulted in Paul experiencing a sense of death, as he saw himself as dead in sin, deserving of eternal death. This realization brought about a humble, subdued, and helpless state, which is often found in a converted sinner. Prior to understanding the nature and extent of the Divine law, an individual's sin may be less active and desperate, but once confronted with the specifics of the commandments, the sin becomes alive, and the person dies to their self-righteousness. This verse highlights the transformative power of the law in convicting and humbling us, ultimately leading us to recognize our need for God's grace and redemption.",
+            "wordCount": 181,
+            "quoteTokenProportion": 35.9,
+            "qualityScore": 2.233069082342478,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.59,
+            "commentatorTierSimilarities": [
+                33.03,
+                32.17,
+                34.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Before the law came into Paul's life, he perceived himself as righteous and entitled to life, unaware of the depth of his sin. However, when the commandment arrived, forbidding irregular desires, sin unexpectedly emerged with greater strength, reviving within him. This revelation led Paul to recognize his state of death in sin and his deserving of eternal death. The law's compelling force exposed the reality of his inbred sin, resulting in a profound shift from a seemingly life-filled existence to a humbled, helpless state in need of God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.3185420334038467,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+            "commentatorTierSimilarities": [
+                34.22,
+                28.52,
+                37.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the days of my ignorance, I considered myself righteous and deserving of life, with sin seemingly dead. However, when the commandment forbidding irregular desires came, sin unexpectedly revived with great strength, revealing the depth of my depravity. This revelation led to my understanding of being dead in sin, as I saw myself deserving of eternal death. The law's compelling force unveiled the reality of my inbred sin, shifting me from a false sense of life to a humble state in need of God's grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.422034468825757,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.87,
+            "commentatorTierSimilarities": [
+                35.46,
+                25.35,
+                39.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Before the law came, I deemed myself righteous and entitled to life, unaware of the depth of my sin. However, when the commandment forbidding irregular desires arrived, sin unexpectedly revived with greater strength, revealing its malignity and undeniable presence. This revelation brought about a shift from a perceived life to an awareness of being dead in sin, deserving of eternal death. The law's compelling force awakened me to the reality of my inbred sin, leading me to a place of humility and reliance on God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.376485839692844,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.36,
+            "commentatorTierSimilarities": [
+                35.27,
+                27.02,
+                37.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In my state of ignorance, I believed myself to be righteous, entitled to life. However, when the commandment came, sin unexpectedly revived with greater strength, revealing its true nature. I then saw myself as dead in sin, deserving of eternal death. The law's compelling force exposed the reality of my inbred sin, leading me to a humble and helpless state. This experience highlights the transformative power of the law in convicting and humbling us, emphasizing our need for God's grace and redemption.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.154414288351256,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                34.77,
+                27.69,
+                37.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

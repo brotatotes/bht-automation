@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:07:37",
+    "verseRef": "Romans 9:25",
+    "bestBHT": {
+        "bht": "Through the prophet Hosea, God foretold His future dealings with mankind by calling those who were not His people as His people and showing love to those who were not beloved. The apostle applies this prophetic mirror to the heathen, emphasizing that the exiled Israelites, now mingled with the Gentiles, cannot be brought to God separately. In this way, God exercises His kindness towards both the Jews and the Gentiles, revealing His everlasting and unchangeable love for His people.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.4746213979793454,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.62,
+        "commentatorTierSimilarities": [
+            30.44,
+            32.21,
+            37.35
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is consonant with what we know of God\u2019s dealings, to receive as His people those who were formerly not His people.",
+            "Israel in this, as in so many other things, was the prophetic mirror in which God foreshowed on a small scale His future dealings with mankind.",
+            "The matter in hand was not that directly prophesied in the citation, but one analogous to it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will call them my people, which were not my people; and her beloved, which was not beloved.\" ",
+            "[The apostle] legitimately applies it to the heathen, as 'aliens from the commonwealth of Israel and strangers to the covenants of promise'.\" ",
+            "The apostle legitimately applies it to the heathen, as 'not God's people' and in that sense 'not beloved'."
+        ],
+        "Albert Barnes": [
+            "The doctrine was, (2)That he was bound by no promise and no principle of obligation to bestow salvation on all the Jews.",
+            "That, therefore, it was right for him to reject any or all of the Jews, if he chose, and cut them off from their privileges as a people and from salvation.",
+            "Thus, he supports his main position that God would choose his people from among the Gentiles as well as the Jews, or would exercise toward both his right as a sovereign, bestowing or withholding his blessings as he pleases."
+        ],
+        "Marvin Vincent": [
+            "I will call the not - my - people my - people.",
+            "The new people whom God will call my people will be made up from both Jews and Gentiles.",
+            "The exiled Israelites being mingled with the Gentiles, and forming one homogeneous mass with them, cannot be brought to God separately from them."
+        ],
+        "John Calvin": [
+            "What may seem to be an hinderance to the Gentiles to become partakers of salvation did also exist as to the Jewish nation: as then God did formerly receive into favor the Jews, whom he had cast away and exterminated, so also now he exercises the same kindness towards the Gentiles.",
+            "It was not a new or an unusual thing with the prophets, after having pronounced on the Jews God\u2019s vengeance on account of their sins, to turn themselves to the kingdom of Christ, which was to be propagated through the whole world.",
+            "And where the kingdom of Christ is erected there also is raised up that celestial Jerusalem, into which citizens from all parts of the world assemble."
+        ],
+        "Philip Schaff": [
+            "The Apostle uses the LXX. equivalent of these names (\u2018not beloved\u2019 for Lo-Ruhamah\u2019), inverting the order, to emphasize the thought \u2018not my people,\u2019 which was prominent in his mind.",
+            "'I will call\u2019 is substituted for \u2018I will say to,\u2019 without altering the sense, for\u2019 calling\u2019 here means to \u2018name,\u2019 as do the words of the original prophecy.",
+            "But undoubtedly the Apostle in this application had in mind the calling of the Gentiles to salvation."
+        ],
+        "Archibald T. Robertson": [
+            "\u039f \u03bf\u03c5 \u03bb\u03b1\u03bf\u03c2 \u03bc\u03bf\u03c5 'the not people of mine.' \u039f\u03c5 with substantives obliterates the meaning of the substantive...\" ",
+            "The use of \u03bf\u03c5\u03ba with the perfect passive participle is emphatic, since \u03bc\u03b7 is the usual negative of the participle in the Koine.\" ",
+            "The LXX rendering of Lo-ruhamah (not mercy, without mercy or love), name of Hosea's daughter."
+        ],
+        "John Gill": [
+            "His calling them his people, is his acquainting them with their relation to him, which he had taken them in to himself, of his own grace.",
+            "In the effectual calling, the Spirit of God is sent down into the hearts of his people, to witness their relation to him, and to work faith in their souls, to receive the testimony.",
+            "The loving kindness of God is let down into their hearts in the effectual calling, and with it he draws them to himself, as a fruit and evidence of his everlasting and unchangeable love to them."
+        ],
+        "John Wesley": [
+            "Beloved \u2014 As a spouse. Who once was not beloved - Consequently, not unconditionally elected. This relates directly to the final restoration of the Jews. Hosea 2:23"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's dealings with Israel serve as a prophetic mirror of His future dealings with mankind. By calling those who were not His people as His people and showing love to those who were not beloved, God foreshadowed His inclusion of both Jews and Gentiles in His new people. The apostle applies this to the heathen as those who were once not God's people and not beloved. This demonstrates that the exiled Israelites, now mingled with the Gentiles, cannot be brought to God separately. Through this, God exercises His kindness towards both the Jews and the Gentiles, revealing His everlasting and unchangeable love for His people.",
+            "wordCount": 107,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.424765086057965,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.96,
+            "commentatorTierSimilarities": [
+                32.23,
+                31.62,
+                36.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's dealings with Israel were a prophetic reflection of His future dealings with mankind. By calling those who were not His people as His people and showing love to those who were not beloved, God foreshadowed the inclusion of both Jews and Gentiles in His new people. The apostle applies this to the heathen as those who were once not God's people and not beloved. Through this, God exercises His kindness towards both the Jews and the Gentiles, revealing His everlasting and unchangeable love for His people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.4165182726778314,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.69,
+            "commentatorTierSimilarities": [
+                31.97,
+                31.52,
+                36.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Romans 9:25, the apostle applies Hosea's prophecy to the heathen, as they were once not God's people and not beloved. This reflects God's future dealings with mankind, as He calls those who were not His people as His people and shows love to those who were not beloved. Through this, God reveals His everlasting and unchangeable love for His people, both Jews and Gentiles. This prophetic mirror emphasizes that the exiled Israelites, now mingled with the Gentiles, cannot be brought to God separately from them.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.458196526444203,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.07,
+            "commentatorTierSimilarities": [
+                32.73,
+                31.24,
+                36.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's dealings with Israel were a prophetic reflection of His future dealings with mankind. By calling those who were not His people as His people and showing love to those who were not beloved, God foreshadowed the inclusion of both Jews and Gentiles in His new people. The apostle applies this to the heathen as those who were once not God's people and not beloved. Through this, God exercises His kindness towards both the Jews and the Gentiles, revealing His everlasting and unchangeable love for His people.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.4165182726778314,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.69,
+            "commentatorTierSimilarities": [
+                31.97,
+                31.52,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the prophet Hosea, God foretold His future dealings with mankind by calling those who were not His people as His people and showing love to those who were not beloved. The apostle applies this prophetic mirror to the heathen, emphasizing that the exiled Israelites, now mingled with the Gentiles, cannot be brought to God separately. In this way, God exercises His kindness towards both the Jews and the Gentiles, revealing His everlasting and unchangeable love for His people.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.4746213979793454,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.62,
+            "commentatorTierSimilarities": [
+                30.44,
+                32.21,
+                37.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:09:12",
+    "verseRef": "Romans 12:9",
+    "bestBHT": {
+        "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good. Christians should not only speak of love but also manifest it through acts of kindness and deeds of charity. This genuine love is the practice of heaven and the life of our Lord. It is a love that is free from all dissimulation, arising from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us abhor sin and cling to God, who is infinitely good in nature and works.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.1284221800916265,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+        "commentatorTierSimilarities": [
+            24.71,
+            38.37,
+            36.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our love should arise from a genuine cleaving to that which is good.\" ",
+            "Abhor that which is evil.\" ",
+            "Our love should... aversion from evil."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let your love be unfeigned.\" ",
+            "Abhor the one, and cling, with deepest sympathy, to the other.",
+            "What a lofty tone of moral principle and feeling is here inculcated!"
+        ],
+        "Albert Barnes": [
+            "Let love... refer to benevolence, or to good-will toward all mankind.\" ",
+            "Let it not consist in words or professions only, but let it be manifested in acts of kindness and in deeds of charity.",
+            "Christians should be firmly attached to what is good, and not separate or part from it."
+        ],
+        "Marvin Vincent": [
+            "Love [\u03b7 \u03b1\u03b3\u03b1\u03c0\u03b7]. The article has the force of your.\" ",
+            "Without dissimulation [\u03b1\u03bd\u03c5\u03c0\u03bf\u03ba\u03c1\u03b9\u03c4\u03bf\u03c2]. Rev., without hypocrisy.",
+            "The original distinction between misew and stugew is that the former denotes concealed and cherished hatred, and the latter hatred expressed."
+        ],
+        "John Calvin": [
+            "And respecting this he enjoins what is especially necessary, that all disguises are to be cast aside, and that love is to arise from pure sincerity of mind.",
+            "Hence Paul declares here, that love is no other but that which is free from all dissimulation.",
+            "Love is the sum and substance of all virtues. Philosophers make justice the queen of virtues; but love is the mother of justice, for it renders to God and to our neighbor what is justly due to them."
+        ],
+        "Philip Schaff": [
+            "Let your love be... Unhypocritical.",
+            "Christian love will manifest itself in this abhorrence of what is morally evil and permanent adherence to what is morally good.",
+            "This antithesis constitutes the practice of heaven and heavenly life, and its realization is the life of our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Hypocritical or pretended love is no love at all.",
+            "The present active participle is here employed in the sense of the present active indicative.",
+            "One can supply \u03b5\u03c3\u03c4\u03b5 if he prefers."
+        ],
+        "John Gill": [
+            "Love to God should be with all the heart, soul, and mind, otherwise the fear of him, and obedience to him, will be only outward, formal, customary, and hypocritical.",
+            "Abhor that which is evil; sin, both in its principle and in its actings; it being hateful to God, Father, Son, and Spirit.",
+            "Cleave to that which is good; to God, who is originally, infinitely, and immutably good; who is good in his nature and works."
+        ],
+        "John Wesley": [
+            "Having spoken of faith and its fruit, Romans 12:3, etc., he comes now to love.",
+            "The ninth, tenth, and eleventh verses refer to chapter the seventh; the twelfth verse to chapter the eighth; the thirteenth verse, of communicating to the saints, whether Jews or gentiles, to chapter the ninth, etc.",
+            "Part of the sixteenth verse is repeated from Romans 11:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good, while also avowing and abhorring evil. Hypocritical or pretended love is no love at all. Christians should not only speak of love but also manifest it through acts of kindness and deeds of charity. This genuine love is the practice of heaven and the life of our Lord. It is a love that is free from all dissimulation, arising from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us abhor sin and cling, with deepest sympathy, to God, who is infinitely good in his nature and works.",
+            "wordCount": 119,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.1612216418998997,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+            "commentatorTierSimilarities": [
+                26.94,
+                37.46,
+                35.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good. Christians should not only speak of love but also manifest it through acts of kindness and deeds of charity. This genuine love is the practice of heaven and the life of our Lord. It is a love that is free from all dissimulation, arising from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us abhor sin and cling to God, who is infinitely good in nature and works.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1284221800916265,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+            "commentatorTierSimilarities": [
+                24.71,
+                38.37,
+                36.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good. Abhor evil and manifest love through acts of kindness and deeds of charity. This genuine love is the practice of heaven and the life of our Lord. It is free from all dissimulation, arising from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us cling to God, who is infinitely good in nature and works.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.0392954047356664,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.15,
+            "commentatorTierSimilarities": [
+                25.26,
+                38.17,
+                36.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good. Abhor evil and manifest love through acts of kindness and deeds of charity. This genuine love is the practice of heaven and the life of our Lord. It is free from all dissimulation and arises from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us cling to God, who is infinitely good in nature and works.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0498319685770854,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                24.83,
+                38.41,
+                36.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your love be unfeigned, arising from a genuine cleaving to that which is good. Christians should not only speak of love but also manifest it through acts of kindness and charity. This genuine love is the practice of heaven and the life of our Lord. It is a love that is free from all dissimulation, arising from pure sincerity of mind. Love is the sum and substance of all virtues, rendering what is justly due to God and our neighbor. Therefore, let us cling to God, who is infinitely good in nature and works.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.1011606287263924,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                24.63,
+                38.64,
+                36.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

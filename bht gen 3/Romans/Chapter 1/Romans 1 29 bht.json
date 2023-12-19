@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:58:46",
+    "verseRef": "Romans 1:29",
+    "bestBHT": {
+        "bht": "They were filled with four vices: unrighteousness, wickedness, covetousness, and maliciousness, forming a list presented without connectors to intensify the effect. Envy, murder, strife, and malignity exemplify the depravity of heart and malicious disposition prevalent among the Gentiles. Whisperers, who secretly detract from others, and the covetous also make an appearance. This description of unrighteousness encompasses all forms of sin and wickedness, with covetousness representing insatiable lust and the root of evil. Maliciousness denotes a temper that takes pleasure in causing harm, even without personal gain.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 1.7124126323041393,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+        "commentatorTierSimilarities": [
+            44.52,
+            23.61,
+            31.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "It is scarcely necessary to show that this was common among the Gentiles.",
+            "The fondness for this bloody spectacle continued until the reign of Constantine the Great, the first Christian emperor, by whom they were abolished about six hundred years after the original institution.",
+            "Whisperers - Those who secretly, and in a sly manner, by hints and inuendoes, detract from others, or excite suspicion of them."
+        ],
+        "John Calvin": [
+            "The word (nequitia) then means practiced wickedness, or licentiousness in doing mischief: but maliciousness (malitia) is that depravity and obliquity of mind which leads us to do harm to our neighbour.",
+            "For the word \u03c0\u03bf\u03c1\u03bd\u03b5\u1f77\u03b1\u03bd, which Paul uses, I have put lust (libidinem). I do not, however, object, if one prefers to render it fornication; but he means the inward passion as well as the outward act.",
+            "We have rendered \u03ba\u03b1\u03ba\u03bf\u03b7\u03b8\u03b5\u1f77\u03b1\u03bd, perversity (perversitatem ;) which is a notorious and uncommon wickedness; that is, when a man, covered over, as it were, with hardness, has become hardened in a corrupt course of life by custom and evil habit."
+        ],
+        "Philip Schaff": [
+            "Being filled with all unrighteousness.",
+            "Covetousness; this sin is emphasized in the New Testament.",
+            "Murder. The similarity in sound of the original words may have led to the mention of this sin first here; but \u2018envy\u2019 and \u2018murder\u2019 are related."
+        ],
+        "Archibald T. Robertson": [
+            "Filled to the brim with four vices in the associative instrumental case: unrighteousness, active wickedness, covetousness, and maliciousness.",
+            "Note asyndeton, no connective in the lists in verses Romans 1:29-31. Dramatic effect.",
+            "Full of envy, murder, strife, malignity, and a tendency to put a bad construction on things, depravity of heart and malicious disposition."
+        ],
+        "John Gill": [
+            "They were 'filled with all unrighteousness'. This word includes in it all manner of sin and wickedness in general; fitly expresses the condition of fallen men, destitute of a righteousness; designs every violation of the law respecting our neighbour; and is opposed to that vain conceit of righteousness which these men had.",
+            "covetousness; this may intend every insatiable lust, and particularly the sin which goes by this name, and is the root of all evil",
+            "whisperers; who made mischief among friends, by privately suggesting, and secretly insinuating things into the mind of one to the prejudice of another."
+        ],
+        "John Wesley": [
+            "Filled with all injustice \u2014 This stands in the first place; unmercifulness, in the last.",
+            "Fornication \u2014 Includes here every species of uncleanness.",
+            "Maliciousness \u2014 The Greek word properly implies a temper which delights in hurting another, even without any advantage to itself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were filled to the brim with unrighteousness, active wickedness, covetousness, and maliciousness. This list of vices is presented without connectors, adding to the dramatic effect. From envy to murder, strife to malignity, these words describe the depravity of heart and malicious disposition that were common among the Gentiles. Whisperers, who secretly detract from others, and those filled with covetousness also find their place in this list. The word unrighteousness encompasses all manner of sin and wickedness, while covetousness signifies insatiable lust and the root of all evil. Maliciousness, in its true sense, is a temper that delights in inflicting harm on others, even without any personal gain.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.6227531048419461,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.3,
+            "commentatorTierSimilarities": [
+                42.76,
+                24.58,
+                32.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They were filled to the brim with four vices: unrighteousness, active wickedness, covetousness, and maliciousness. This list of vices, presented without connectors, adds to the dramatic effect. From envy to murder, strife to malignity, these words describe the depravity of heart and malicious disposition common among the Gentiles. Whisperers, who secretly detract from others, and those filled with covetousness also find their place in this list. Unrighteousness encompasses all manner of sin and wickedness, while covetousness signifies insatiable lust and the root of all evil. Maliciousness, in its true sense, is a temper that delights in inflicting harm on others, even without personal gain. ",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.658569503894344,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.49,
+            "commentatorTierSimilarities": [
+                44.25,
+                23.83,
+                31.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "They were filled with four vices: unrighteousness, wickedness, covetousness, and maliciousness, forming a list presented without connectors to intensify the effect. Envy, murder, strife, and malignity exemplify the depravity of heart and malicious disposition prevalent among the Gentiles. Whisperers, who secretly detract from others, and the covetous also make an appearance. This description of unrighteousness encompasses all forms of sin and wickedness, with covetousness representing insatiable lust and the root of evil. Maliciousness denotes a temper that takes pleasure in causing harm, even without personal gain.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.7124126323041393,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+            "commentatorTierSimilarities": [
+                44.52,
+                23.61,
+                31.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "They were filled with four vices: unrighteousness, active wickedness, covetousness, and maliciousness. This dramatic list omits connectives and vividly portrays the depravity of heart and malicious disposition prevalent among the Gentiles. Envy, murder, strife, and malignity are manifestations of this inner corruption. Whisperers, those who secretly detract from others, and the covetous find their place in this catalogue. Unrighteousness encompasses all sin and wickedness, while covetousness signifies insatiable lust and the root of evil. Ultimately, maliciousness reflects a malevolent temperament that delights in causing harm to others without self-interest.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.6598389647057394,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                44.93,
+                22.97,
+                32.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They were filled to the brim with unrighteousness, active wickedness, covetousness, and maliciousness. This comprehensive list, presented without connectors, highlights the dramatic effect of their depravity. Envy, murder, strife, and malignity are among the specific manifestations of their corrupt hearts and malicious disposition. Whisperers, who secretly detract from others, and those consumed by covetousness also contribute to this sinful portrait. Unrighteousness encompasses all forms of wickedness, while covetousness represents insatiable lust and the foundation of all evil. Maliciousness, in its truest sense, is a disposition that derives pleasure from causing harm to others, even without personal gain.",
+            "wordCount": 97,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.5751627548319842,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.72,
+            "commentatorTierSimilarities": [
+                45.31,
+                22.53,
+                32.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

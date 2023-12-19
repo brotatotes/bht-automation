@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:01:49",
+    "verseRef": "Romans 3:3",
+    "bestBHT": {
+        "bht": "Though some Jews were without faith, God's faithfulness cannot be invalidated by their unfaithfulness. The word used implies a breach of their covenant with God. Although the majority of the nation may have lacked faith, God's promises remained firm. There were still those within the nation who remained faithful to the covenant. Despite the privilege of knowledge and evidence, it was an aggravation of their sin that some remained incredulous. However, their unbelief could not diminish God's faithfulness, for it was from the Jews that the Messiah arose.",
+        "wordCount": 91,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 2.2090006947808085,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+        "commentatorTierSimilarities": [
+            29.35,
+            28.59,
+            42.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word does not import \u2018did not believe,\u2019 which certainly would be out of place here, where the Apostle is not speaking of faith or want of faith as yet, but of unrighteousness (ver. 5), and moral guilt.\" ",
+            "The word seems to be used in the sense of were unfaithful to the covenant, the very condition of which was to walk in the ways of the Lord and observe his statutes.\" ",
+            "Because they have broken faith on their part, shall God break faith also on His?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is the unbelief of the great body of the nation which the apostle points at; but as it sufficed for his argument to put the supposition thus gently, he uses this word 'some' to soften prejudice.",
+            "Shall their unbelief make the faith of God\u2014or, 'faithfulness of God'\u2014of none effect?",
+            "Nullify,\" \"invalidate\" it."
+        ],
+        "Albert Barnes": [
+            "What then? or what follows? if it be admitted that some of the nation did not believe, does it not follow that the faithfulness of God in his promises will fail?",
+            "Had it not become vain and nugatory?",
+            "The fact supposed, that the Jews would become unfaithful and be lost, would imply that God had failed to keep his promises to the nation; or that he had made promises which the result showed he was not able to perform."
+        ],
+        "Marvin Vincent": [
+            "Not, as some, were unfaithful, which is contrary to New Testament usage.",
+            "The Rev. rendering is preferable, as bringing out the paronomasia between the Greek words : were without faith; their want of faith; the faithfulness of God.",
+            "The radical meaning is to make inert or idle. Dr. Morison acutely observes that it negatives the idea of agency or operation, rather than of result or effect. It is rather to make inefficient than to make without effect."
+        ],
+        "John Calvin": [
+            "The meaning then is, 'Since most of the Jews are covenant-breakers, is God\u2019s covenant so abrogated by their perfidiousness that it brings forth no fruit among them? To this he answers, that it cannot be that the truth of God should lose its stability through man\u2019s wickedness.'",
+            "Though then the greater part had nullified and trodden under foot God\u2019s covenant, it yet retained its efficacy and manifested its power, not indeed as to all, but with regard to a few of that nation.",
+            "He then means that some ever remained in that nation, who by continuing to believe in the promise, had not fallen away from the privileges of the covenant."
+        ],
+        "Philip Schaff": [
+            "The unbelievers always remain in the minority in real significance, let their number be ever so great.",
+            "Shall their want of faith, etc. The original shows that a negative answer is expected.",
+            "The word used is 'faith,' but that it has here the sense of faithfulness is plain, from the Old Testament usage, and from the fact that no other sense is appropriately applied to God."
+        ],
+        "Archibald T. Robertson": [
+            "Some were without faith...these 'depositaries and guardians of revelation' (Denney). But the word also means to be unfaithful to one's trust and Lightfoot argues for that idea here and in 2 Timothy 2:13.",
+            "The faithfulness of God...God has been faithful (2 Timothy 2:13) whether the Jews (some of them) were simply disbelievers or untrue to their trust.",
+            "Paul can use the words in two senses in verse Romans 3:3, but there is no real objection to taking \u03b7\u03c0\u03b9\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd, \u03b1\u03c0\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd, \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd, all to refer to faithfulness rather than just faith."
+        ],
+        "John Gill": [
+            "Though the Jews enjoyed such a privilege, some of them did not believe; which is an aggravation of their sin, that they should have such means of light, knowledge, and faith, such clear and full evidences of things, and yet be incredulous.",
+            "Their unbelief could not, and did not make void the veracity and faithfulness of God in his promises concerning the Messiah, recorded in the oracles of God, which they had committed to them.",
+            "God raised up the Messiah from among them, which is another advantage the Jews had of the Gentiles; inasmuch as 'of' them, 'as concerning the flesh, Christ came, who is God over all, blessed for evermore'."
+        ],
+        "John Wesley": [
+            "Shall their unbelief disannul the faithfulness of God \u2014 Will he not still make good his promises to them that do believe?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though some of the Jews were without faith, their unfaithfulness does not render God's faithfulness void. The word used here implies not only a lack of belief, but also a breaking of their covenant with God. While the majority may have been unbelievers, God's promises remained steadfast and unaffected by their perfidy. In fact, there were still those within the nation who remained faithful and held fast to the covenant. Despite the privilege of having clear evidence and knowledge, it was an aggravation of their sin that some continued to be incredulous. Yet, their unbelief could not nullify the trustworthiness of God and His promises, for it was from the Jews that the Messiah Himself arose. Thus, God's faithfulness remains unshaken, regardless of the unbelief of some.",
+            "wordCount": 130,
+            "quoteTokenProportion": 48.24,
+            "qualityScore": 2.3193964661595516,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.46,
+            "commentatorTierSimilarities": [
+                28.09,
+                29.76,
+                42.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Although some Jews were without faith, their unfaithfulness does not nullify the faithfulness of God. The word used suggests not only a lack of belief, but also a breach of their covenant with Him. Despite the majority's unbelief, God's promises remained unshakeable. There were still those within the nation who remained faithful to the covenant. The Jews had the privilege of clear evidence and knowledge, yet it was an aggravation of their sin that some remained incredulous. Nevertheless, their unbelief could not undermine God's steadfastness, as it was through the Jews that the Messiah came forth. Thus, God's faithfulness remains unwavering, regardless of the unbelief of some.",
+            "wordCount": 111,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.2594195280039973,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                28.61,
+                28.63,
+                42.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though some Jews were without faith, God's faithfulness cannot be invalidated by their unfaithfulness. The word used implies a breach of their covenant with God. Although the majority of the nation may have lacked faith, God's promises remained firm. There were still those within the nation who remained faithful to the covenant. Despite the privilege of knowledge and evidence, it was an aggravation of their sin that some remained incredulous. However, their unbelief could not diminish God's faithfulness, for it was from the Jews that the Messiah arose.",
+            "wordCount": 91,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 2.2090006947808085,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+            "commentatorTierSimilarities": [
+                29.35,
+                28.59,
+                42.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though some Jews were unfaithful, their lack of belief does not nullify God's faithfulness. The word used implies a breach of their covenant with Him. Despite the majority's unbelief, God's promises remain steadfast. However, there are still those within the nation who remain faithful to the covenant. While the Jews had clear evidence and knowledge, it is an aggravation of their sin that some continue to be incredulous. Yet, their unbelief cannot undermine God's faithfulness, as it is from the Jews that the Messiah arises.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 2.2006736858159295,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.51,
+            "commentatorTierSimilarities": [
+                28.84,
+                28.16,
+                43.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even though some Jews were unfaithful and lacked belief, this does not invalidate God's faithfulness. The word used in this context suggests a breach of their covenant with Him. Despite the majority's unbelief, God's promises remain unwavering. However, there are still those within the nation who remain faithful to the covenant. While the Jews had ample evidence and knowledge, it is a further condemnation that some persisted in their disbelief. Yet, their unbelief cannot undermine the steadfastness of God's faithfulness, as the Messiah Himself arose from among the Jews.",
+            "wordCount": 93,
+            "quoteTokenProportion": 53.73,
+            "qualityScore": 2.122326470321334,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                28.85,
+                28.7,
+                42.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

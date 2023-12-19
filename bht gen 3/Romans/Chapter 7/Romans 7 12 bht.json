@@ -1,0 +1,152 @@
+{
+    "timestamp": "12-19-2023 16:06:28",
+    "verseRef": "Romans 7:12",
+    "bestBHT": {
+        "bht": "The commandment and the law are holy, righteous, and good, teaching us our duty and bringing life. Despite the rebellion against it, the law remains a force to be revered. It is just, free from wrongdoing, and pure. The law requires holiness of heart and life, instructing us to live righteously. It is designed for our good, sourced from God, the author of all good things. The law deserves our highest reverence, for it is wholly good, holy, and designed for our benefit.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 2.094477650739883,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+        "commentatorTierSimilarities": [
+            31.12,
+            29.81,
+            39.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So that the law is holy, and the commandment holy, and righteous, and good.",
+            "He calls it holy, as teaching duty: righteous, as justly condemning transgressions; and good, as bringing life to them that keep it.",
+            "The law is given for life and not for death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12, 13. Wherefore\u2014\"So",
+            "\tthat.\" ",
+            "\t",
+            "the law is\u2014\"is",
+            "\tindeed\" ",
+            "\t",
+            "good, and the",
+            "\tcommandment\u2014that one so often referred to, which forbids all",
+            "\tlusting. ",
+            "\t",
+            "holy, and just, and good."
+        ],
+        "Albert Barnes": [
+            "The source of all this is not the Law, but the corrupt nature of man.",
+            "The Law is good; and yet the position of the apostle is true, that it is not adapted to purify the heart of fallen man.",
+            "If obeyed, it would produce happiness everywhere."
+        ],
+        "Marvin Vincent": [
+            "Holy, just, good. Holy as God 's revelation of Himself; just (Rev., righteous) in its requirements, which correspond to God 's holiness; good, salutary, because of its end."
+        ],
+        "John Calvin": [
+            "the law itself and whatever is commanded in the law, is holy, and therefore to be regarded with the highest reverence",
+            "it is just, and cannot therefore be charged with anything wrong",
+            "it is good, and hence pure and free from everything that can do harm"
+        ],
+        "Philip Schaff": [
+            "The law if holy.",
+            "Holy and just and good.",
+            "A full declaration of the character of 'the commandment'."
+        ],
+        "Archibald T. Robertson": [
+            "Holy, and righteous, and good.",
+            "The commandment is God's and so holy like Him, just in its requirements and designed for our good.",
+            "The modern revolt against law needs these words."
+        ],
+        "John Gill": [
+            "By 'the law' is meant the whole body of the precepts of it in general.",
+            "It requires holiness both of heart and life; it forbids whatever is unholy, and commands nothing but what is holy; it teaches men to live holy, sober, righteous, and godly lives.",
+            "It is rightly called good, from the author of it, God, from whom every good thing comes, and nothing else; from the matter of it, and from the use of it both to saints and sinners."
+        ],
+        "John Wesley": [
+            "The commandment [...] is holy, and just, and good.\" ",
+            "It springs from, and partakes of, the holy nature of God.\" ",
+            "It is designed wholly for the good of man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The commandment and the law are described as holy, righteous, and good, revealing God's character and teaching us our duty. They are not given for death, but for life. Despite the modern revolt against law, the law is to be regarded with the highest reverence. It is just and cannot be charged with anything wrong. It is good and pure, free from anything harmful. The law requires holiness of heart and life, and it teaches us to live righteous and godly lives. It is designed wholly for our good and comes from the author of all good things, God Himself.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9575602199603663,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                29.63,
+                29.18,
+                41.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The commandment and the law are holy, just, and good. They teach us our duty and offer life rather than death. Revering the law is crucial, for it is just and free from any wrongdoing. It requires holiness of heart and life, instructing us to live righteously and godly lives. The law is designed exclusively for our good and is sourced from God, the author of every good thing. Despite the rebellion against it, the law remains a powerful force deserving of reverence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.0641250756378087,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                30.75,
+                31.53,
+                37.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The commandment and the law are holy, righteous, and good, revealing God's character and teaching us our duty. They are not given for death but for life. The law is just and cannot be charged with anything wrong; it is good and pure, free from anything harmful. It requires holiness of heart and life, teaching us to live righteous and godly lives. It is designed wholly for our good and comes from the author of all good things, God Himself.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.018106739257374,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                31.01,
+                28.58,
+                40.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commandment and the law are described as holy, righteous, and good, revealing God's character and teaching us our duty. They are not given for death, but for life. The law is just, free from wrongdoing, and pure. It requires holiness of heart and life, instructing us to live righteous lives. It is designed for our good and comes from the author of all good things, God Himself. Despite the rebellion against it, the law remains a powerful force deserving of reverence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9848281036714681,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                32.04,
+                29.45,
+                38.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The commandment and the law are holy, righteous, and good, teaching us our duty and bringing life. Despite the rebellion against it, the law remains a force to be revered. It is just, free from wrongdoing, and pure. The law requires holiness of heart and life, instructing us to live righteously. It is designed for our good, sourced from God, the author of all good things. The law deserves our highest reverence, for it is wholly good, holy, and designed for our benefit.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.094477650739883,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                31.12,
+                29.81,
+                39.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

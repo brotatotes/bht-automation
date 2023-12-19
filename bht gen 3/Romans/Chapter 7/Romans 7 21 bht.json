@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:06:23",
+    "verseRef": "Romans 7:21",
+    "bestBHT": {
+        "bht": "When I desire to do good, I find a constant battle between my renewed self that desires righteousness and the remnants of my unregenerate self that still clings to sin. It is a struggle between conscience and passion, as I am torn between doing what is right and falling into temptation. This conflict is unique to the redeemed, for it is the result of the new nature contending with the remnants of the old. Evil is always present with me, hindering my pursuit of righteousness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.038066302147204,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+        "commentatorTierSimilarities": [
+            29.46,
+            40.82,
+            29.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I find therefore (i. e. as appears from what has been detailed) this law (presently to be defined as the law of sin in my members), that (consisting in this, that) when I desire (literally, to me desiring) to do good, evil is present with (see above, ver. 18) me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The conflict here graphically described between a self that 'desires' to do good and a self that in spite of this does evil...",
+            "The struggles between conscience and passion in the unregenerate...",
+            "The description given of this 'desire to do good' in Romans 7:22 is such as cannot be ascribed, with the least show of truth, to any but the renewed."
+        ],
+        "Albert Barnes": [
+            "I find then a law - There is a law whose operation I experience whenever I attempt to do good.",
+            "I find a habit, a propensity, an influence of corrupt passions and desires, which, when I would do right, impedes my progress, and prevents my accomplishing what I would.",
+            "It is in the path, and never leaves us, but is always ready to impede our going, and to turn us from our good designs."
+        ],
+        "Marvin Vincent": [
+            "A law. With the article, the law. The constant rule of experience imposing itself on the will.\" ",
+            "When I would. Lit., as Rev., to me who would, or to the wishing me, thus emphasizing the I whose characteristic it is to wish, but not to do."
+        ],
+        "John Calvin": [
+            "To this he joins the law of the mind, and by this he means the prompt readiness of the faithful mind to render obedience to the divine law.\" ",
+            "On the other hand, he sets in opposition to this the law of unrighteousness; and according to a certain kind of similarity, he gives this name to that dominion which iniquity exercises over a man not yet regenerated.\" ",
+            "For a vicious propensity, adverse to and resisting the law of God, is implanted in their very marrow and bones."
+        ],
+        "Philip Schaff": [
+            "I find then the law to me wishing (willing) to do the good, that to me the evil is present.",
+            "I find then (as the summing of my experience, Romans 7:14-20) the law (of moral contradiction) when I wish to do good, that evil is present with me.",
+            "I find, then, while my will is directed to the law in order to do good, that evil is present with men."
+        ],
+        "Archibald T. Robertson": [
+            "The law is the principle already set forth in verse Romans 7:18; Romans 7:19.",
+            "This is the way it works, but there is no surcease for the stings of conscience."
+        ],
+        "John Gill": [
+            "I find then a law...the corruption of nature...forcibly demanding compliance with its lusts.",
+            "...whenever there is any motion to that which is good, it starts up, which seemed to lie asleep before, and exerts itself, so that I cannot do the good I would.",
+            "The apostle here speaks as of two wills in regenerate men, one to good, and another to evil."
+        ],
+        "John Wesley": [
+            "I find then a law \u2014 An inward constraining power, flowing from the dictate of corrupt nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When I desire to do good, I find this law at work within me, a constant battle between my renewed self that desires righteousness and the remnants of my unregenerate self that still clings to sin. It is a struggle between conscience and passion, as I am torn between doing what is right and falling into temptation. This conflict is unique to the redeemed, for it is the result of the new nature contending with the remnants of the old. Despite my best intentions, evil is always present with me, exerting its influence and hindering my pursuit of righteousness. It is an ongoing struggle, and there is no respite from the stings of conscience.",
+            "wordCount": 114,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.075179655444251,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                31.68,
+                38.57,
+                29.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When I desire to do good, I find a constant battle between my renewed self that desires righteousness and the remnants of my unregenerate self that still clings to sin. It is a struggle between conscience and passion, as I am torn between doing what is right and falling into temptation. This conflict is unique to the redeemed, for it is the result of the new nature contending with the remnants of the old. Evil is always present with me, hindering my pursuit of righteousness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.038066302147204,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                29.46,
+                40.82,
+                29.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When I desire to do good, I find a constant battle within me. It is a struggle between my renewed self that desires righteousness and my unregenerate self that still clings to sin. This conflict, described as a law, imposes itself on my will. Despite my best intentions, evil is always present, hindering my pursuit of righteousness. This struggle is unique to the redeemed, as it is the result of the new nature contending with the remnants of the old. There is no surcease for the stings of conscience.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9692479976534032,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                32.04,
+                39.49,
+                28.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When I desire to do good, I find a constant battle within me, a struggle between my renewed self that desires righteousness and my unregenerate self that still clings to sin. This conflict, described as a law, imposes itself on my will. Evil is always present, hindering my pursuit of righteousness. This struggle is unique to the redeemed, as it is the result of the new nature contending with the remnants of the old. There is no respite from the stings of conscience.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.9319374464726158,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.58,
+            "commentatorTierSimilarities": [
+                32.14,
+                38.96,
+                28.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When I desire to do good, I find a constant battle between my renewed self that desires righteousness and my unregenerate self that still clings to sin. This conflict, described as a law, forcibly demands compliance with its lusts, hindering my pursuit of righteousness. It is a struggle between conscience and passion, as I am torn between doing what is right and falling into temptation. This struggle, unique to the redeemed, is the result of the new nature contending with the remnants of the old, with no respite from the stings of conscience.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.033877855890938,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                32.5,
+                35.37,
+                32.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

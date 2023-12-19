@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 16:03:58",
+    "verseRef": "Romans 7:2",
+    "bestBHT": {
+        "bht": "The woman who has a husband is bound by the law to him as long as he lives. However, if her husband dies, she is no longer bound by the law. This example serves as proof of the truth the Apostle Paul is trying to convey. Just as a wife is released from the law of her husband when he dies, believers are made dead to the law through their union with Christ. In this new relationship, there is no divorce or separation.",
+        "wordCount": 83,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.475705803471987,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.66,
+        "commentatorTierSimilarities": [
+            33.9,
+            29.57,
+            36.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The woman which hath an husband is bound by the law to her husband while he liveth.\" ",
+            "But if her husband die, she is loosed from the law of the husband.\" ",
+            "The example is itself the proof."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2, 3. if her husband be dead\u2014\"die.",
+            "\tSo Romans 7:3."
+        ],
+        "Albert Barnes": [
+            "Death dissolves those connections and relations which make law binding in life.",
+            "The wife is subject to his law, in the Lord.",
+            "The husband has no more authority. The connection from which obligation resulted is dissolved."
+        ],
+        "Marvin Vincent": [
+            "The illustration is selected to bring forward the union with Christ after the release from the law, as analogous to a new marriage.",
+            "She dies to that law with the husband's death.",
+            "Believers are made dead to the law as the wife is maritally dead - killed in respect of the marriage relation by her husband's death."
+        ],
+        "John Calvin": [
+            "The law was, as it were our husband, under whose yoke we were kept until it became dead to us: After the death of the law Christ received us, that is, he joined us, when loosed from the law, to himself.",
+            "Then being united to Christ risen from the dead, we ought to cleave to him alone: And as the life of Christ after the resurrection is eternal, so hereafter there shall be no divorce.",
+            "There is no freedom from a law but by death; so that there is no necessity of a correspondence in the other parts, As in the case of man and wife, death destroys the bond of marriage; so in the case of man and the law, that is, the law as the condition of life, there must be a death; else there is no freedom."
+        ],
+        "Philip Schaff": [
+            "The language is plain, but the application has occasioned difficulty.",
+            "Death is common to both parties; when the husband dies, the wife dies so far as that legal relation is concerned.",
+            "As the woman is not dead, but is killed in respect to her marriage relation, or is situated as dead, by the natural death of her husband, so believers have not died a natural death, but are made dead to the law, since they are crucified to the law with Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The wife that hath a husband... stands bound... to the husband while he liveth.\" ",
+            "But if the husband die... she is discharged... she stands free from the law of the husband.",
+            "She stands free from the law of the husband."
+        ],
+        "John Gill": [
+            "For the woman which hath an husband, is bound by the law to her husband; to live with him, in subjection and obedience to him, so long as he liveth.\" ",
+            "By which the bond of marriage is loosed, and for which a divorce or separation may be made, which are equal to death.\" ",
+            "But if the husband be dead, she is loosed from the law of her husband; the bond of marriage is dissolved."
+        ],
+        "John Wesley": [
+            "She is freed from the law of her husband \u2014 From that law which gave him a peculiar property in her."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "The woman who has a husband is bound by the law to him as long as he lives. However, if her husband dies, she is no longer bound by the law. This example serves as proof of the truth the Apostle Paul is trying to convey. Just as a wife is released from the law of her husband when he dies, believers are made dead to the law through their union with Christ. They are no longer under the authority of the law but are free to be united with Christ. In this new relationship, there is no divorce or separation. Death is necessary to free oneself from a law, and through Christ's death and resurrection, believers are freed from the law and united with Him for eternity.",
+            "wordCount": 129,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 2.3222743006436977,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.56,
+            "commentatorTierSimilarities": [
+                31.63,
+                30.55,
+                37.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman who has a husband is bound by the law to him as long as he lives. However, if her husband dies, she is no longer bound by the law. This example serves as proof of the truth the Apostle Paul is trying to convey. Just as a wife is released from the law of her husband when he dies, believers are made dead to the law through their union with Christ. In this new relationship, there is no divorce or separation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.475705803471987,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.66,
+            "commentatorTierSimilarities": [
+                33.9,
+                29.57,
+                36.54
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

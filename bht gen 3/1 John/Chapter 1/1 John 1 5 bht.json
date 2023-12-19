@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:48:12",
+    "verseRef": "1 John 1:5",
+    "bestBHT": {
+        "bht": "God is Light, the fountain of wisdom, purity, beauty, joy, and glory. Just as all spiritual life depends on Him, all material life and growth depend on light. In His nature, there is no darkness; no sin, error, or death. Fellowship with God is based on mutual knowledge and requires walking in the light of His righteousness and holiness, for darkness and God cannot coexist. He repels evil and detests anything that pertains to darkness. Embracing God's light leads to true union and communion with Him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.410751651357664,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.5,
+        "commentatorTierSimilarities": [
+            32.08,
+            33.2,
+            34.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "GOD IS LIGHT.\" ",
+            "light being a material, not an ethical object, some amount of figurative meaning must be conceded.\" ",
+            "He is Light, and the Fountain of Light material and light ethical."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God is light\u2014What light is in the natural world, that God, the source of even material light, is in the spiritual, the fountain of wisdom, purity, beauty, joy, and glory.",
+            "As all material life and growth depends on light, so all spiritual life and growth depends on GOD.",
+            "No, not even one speck of darkness; no ignorance, error, untruthfulness, sin, or death."
+        ],
+        "Albert Barnes": [
+            "The peculiarity, the substance of all that he said, may be summed up in the declaration that God is light, and in the consequences which follow from this doctrine.",
+            "John here says that 'God is light' - not the light, or a light, but light itself; that is, he is himself all light, and is the source and fountain of light in all worlds.",
+            "The expression here is designed to affirm that God is absolutely perfect; that there is nothing in him which is in any way imperfect, or which would dim or mar the pure splendor of his character."
+        ],
+        "Marvin Vincent": [
+            "God is Light, in His very nature. Light is immaterial, diffusive, pure, and glorious.\" ",
+            "Light represents glory, truth, and holiness. It is the condition of life.\" ",
+            "Light enkindles love. In Him is no darkness at all, no, not in any way."
+        ],
+        "John Calvin": [
+            "If we desire to enjoy Christ and his blessings, it is required of us to be conformed to God in righteousness and holiness.",
+            "There is no union between light and darkness; there is a separation between us and God as long as we walk in darkness.",
+            "God is such a light, that no darkness belongs to him. It hence follows, that he hates an evil conscience, pollution, and wickedness, and everything that pertains to darkness."
+        ],
+        "Philip Schaff": [
+            "The subject is fellowship with God; that is, the possession of something common to God and to us.\" ",
+            "God in His moral nature is to us light: 'light' is one of the predicates of God, as related to moral creatures.\" ",
+            "Holiness in God repels evil, and that to the sinner is its first aspect: 'in Him is no darkness' of sin that can be common to Him and us."
+        ],
+        "Archibald T. Robertson": [
+            "Mutual fellowship depends on mutual knowledge."
+        ],
+        "John Gill": [
+            "This is the message,.... Of God by his Son the Word, or from Christ by his apostles.",
+            "God is light; that is, God the Father, as distinguished from 'him', Christ...he is pure and holy in his nature and works, and of such pure eyes as not to behold iniquity.",
+            "In him is no darkness at all; no darkness of sin; nothing is more contrary to him, or more distant from him."
+        ],
+        "John Wesley": [
+            "That God is light \u2014 The light of wisdom, love, holiness, glory. What light is to the natural eye, that God is to the spiritual eye.",
+            "And in him is no darkness at all \u2014 No contrary principle.",
+            "He is pure, unmixed light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is Light, the very source of wisdom, purity, beauty, joy, and glory. Just as all material life and growth depend on light, all spiritual life and growth depend on God. God is pure and glorious, representing truth, holiness, and the condition of life. In Him, there is no darkness, no ignorance, error, untruthfulness, sin, or death. Mutual fellowship with God is dependent on mutual knowledge and conformation to His righteousness and holiness. Darkness and God cannot coexist, and it is through walking in light that we can have union with Him. God, being light, has a nature that repels evil, and He hates anything that pertains to darkness.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.4266884585344997,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.03,
+            "commentatorTierSimilarities": [
+                32.11,
+                34.07,
+                33.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is Light, the source of wisdom, purity, and glory. All spiritual life and growth depend on Him. In His nature, there is no darkness, no sin or ignorance. Union with Him requires walking in light and conformity to His righteousness and holiness. Fellowship with God is based on mutual knowledge. Darkness and God cannot coexist. He repels evil and hates anything that pertains to darkness. Embracing the light of God's presence leads to true union and communion with Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.2503358867436196,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                31.5,
+                33.24,
+                35.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God is Light, the source of wisdom, purity, beauty, and glory. All spiritual life and growth depend on Him just as material life depends on light. In His nature, there is no darkness, no sin, or death. Walking in light is necessary for union with Him. Fellowship with God is built upon mutual knowledge and conformity to His righteousness and holiness. Darkness and God are incompatible. He repels evil and despises anything that pertains to darkness. Embracing God's light leads to true communion with Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.3304760938834175,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.83,
+            "commentatorTierSimilarities": [
+                32.14,
+                32.8,
+                35.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God is Light, the source of wisdom, purity, and glory. All spiritual life and growth depend on Him, just as material life depends on light. In His nature, there is no darkness, no sin, or death. Walking in light is necessary for union with Him. Fellowship with God is built upon mutual knowledge and conformity to His righteousness and holiness. Darkness and God are incompatible. He repels evil and despises anything that pertains to darkness. Embracing God's light leads to true communion with Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.3384451369734656,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.09,
+            "commentatorTierSimilarities": [
+                31.99,
+                32.87,
+                35.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God is Light, the fountain of wisdom, purity, beauty, joy, and glory. Just as all spiritual life depends on Him, all material life and growth depend on light. In His nature, there is no darkness; no sin, error, or death. Fellowship with God is based on mutual knowledge and requires walking in the light of His righteousness and holiness, for darkness and God cannot coexist. He repels evil and detests anything that pertains to darkness. Embracing God's light leads to true union and communion with Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.410751651357664,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.5,
+            "commentatorTierSimilarities": [
+                32.08,
+                33.2,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

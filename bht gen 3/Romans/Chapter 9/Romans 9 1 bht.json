@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:07:07",
+    "verseRef": "Romans 9:1",
+    "bestBHT": {
+        "bht": "In all sincerity and truthfulness, I proclaim this message in Christ, with my conscience bearing witness, illuminated by the Holy Spirit. This triple testimony serves as a strong affirmation, underscoring the importance and veracity of my words. As I call upon Christ to bear witness, my conscience aligns, testifying alongside me, influenced by the Holy Spirit. This is not a matter to be taken lightly; the collective testimony of Christ, conscience, and the Holy Spirit solidifies the truth of my declaration.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 2.4308147361032066,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.16,
+        "commentatorTierSimilarities": [
+            34.47,
+            35.83,
+            29.7
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I say the truth in Christ\u2014as if steeped in the spirit of Him who wept over impenitent and doomed Jerusalem.",
+            "My conscience bearing me witness in the Holy Ghost\u2014my conscience as quickened, illuminated, and even now under the direct operation of the Holy Ghost."
+        ],
+        "Albert Barnes": [
+            "In Christ - Most interpreters regard this as a form of an oath, as equivalent to calling Christ to witness. It is certainly to be regarded, in its obvious sense, as an appeal to Christ as the searcher of the heart, and as the judge of falsehood.",
+            "Conscience is that act or judgment of the mind by which we decide on the lawfulness or unlawfulness of our actions, and by which we instantly approve or condemn them. It exists in every man, and is a strong witness to our integrity or to our guilt.",
+            "In the Holy Ghost - He does not say that he speaks the truth by or in the Holy Spirit, as he had said of Christ; but that the conscience pronounced its concurring testimony by the Holy Spirit; that is, conscience as enlightened and influenced by the Holy Spirit."
+        ],
+        "Marvin Vincent": [
+            "Conscience. See on 1 Peter 3:16.",
+            "Bearing me witness. Rev., bearing witness with me. See on ch. Romans 8:16. Concurring with my testimony.",
+            "In the Holy Ghost. So Rev. The concurrent testimony of his declaration and of conscience was 'the echo of the voice of God's Holy Spirit' (Morison)."
+        ],
+        "John Calvin": [
+            "It so happened in this way, \u2014 Having finished the doctrine he discussed, he turned his attention to the Jews, and being astonished at their unbelief as at something monstrous, he burst forth into this sudden protestation, in the same way as though it was a subject which he had previously handled.\" ",
+            "By this example and the like, (as I reminded you in the first chapter,) we ought to learn that oaths are lawful, that is, when they render that truth credible which is necessary to be known, and which would not be otherwise believed.",
+            "It often happens that a person, blinded by the passions of the flesh, (though not purposing to deceive,) knowingly and wilfully obscures the light of truth. But to swear by the name of God, in a proper sense of the word, is to call him as a witness for the purpose of confirming what is doubtful, and at the same time to bind ourselves over to his judgment, in case we say what is false."
+        ],
+        "Philip Schaff": [
+            "I say the truth in Christ.",
+            "I lie not.",
+            "My conscience also bearing me witness."
+        ],
+        "Archibald T. Robertson": [
+            "Paul really takes a triple oath here so strongly is he stirred.",
+            "He makes a positive affirmation in Christ, a negative one (not lying),",
+            "the appeal to his conscience as co-witness 'in the Holy Spirit.'"
+        ],
+        "John Gill": [
+            "I say the truth in Christ, I lie not.",
+            "My conscience bearing me witness.",
+            "Here are three witnesses called in, Christ, conscience, and the Holy Ghost."
+        ],
+        "John Wesley": [
+            "In Christ \u2014 This seems to imply an appeal to him.",
+            "In the Holy Ghost \u2014 Through his grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I speak the truth in Christ, with a conscience illuminated and guided by the Holy Ghost. This is no trivial matter for me, as I make a triple oath to emphasize its importance. I call upon Christ himself as a witness, and my conscience concurs, testifying alongside me under the influence of the Holy Spirit. This testament is not to be taken lightly, as it serves as an affirmation of truth and an assurance that I am not lying. These three witnesses\u2014Christ, conscience, and the Holy Ghost\u2014stand firm in their support of my declaration.",
+            "wordCount": 96,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.0930400777897145,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.93,
+            "commentatorTierSimilarities": [
+                33.74,
+                35.55,
+                30.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I solemnly attest, in Christ, relying on the testimony of my conscience enlightened by the Holy Spirit. With great conviction, I declare the truth, taking a triple oath to emphasize its significance. Christ himself is my witness, and my conscience aligns with this testimony, as it is guided by the Holy Spirit. I assure you that this affirmation is genuine and I am not being deceitful. These three witnesses\u2014Christ, conscience, and the Holy Spirit\u2014firmly stand by my proclamation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.1883320834175315,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.1,
+            "commentatorTierSimilarities": [
+                33.74,
+                35.52,
+                30.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In all sincerity and truthfulness, I proclaim this message in Christ, with my conscience bearing witness, illuminated by the Holy Spirit. This triple testimony serves as a strong affirmation, underscoring the importance and veracity of my words. As I call upon Christ to bear witness, my conscience aligns, testifying alongside me, influenced by the Holy Spirit. This is not a matter to be taken lightly; the collective testimony of Christ, conscience, and the Holy Spirit solidifies the truth of my declaration.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.4308147361032066,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.16,
+            "commentatorTierSimilarities": [
+                34.47,
+                35.83,
+                29.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With utmost sincerity in Christ, I solemnly declare this truth, as my conscience bears witness accompanied by the enlightening power of the Holy Spirit. As I make a triple oath, I call upon Christ as my witness and express that I do not lie. My conscience aligns with this divine testimony, affirming the truthfulness of my words. This convergence of witness\u2014Christ, conscience, and the Holy Spirit\u2014stands as an unshakable support for my declaration.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.231869824707962,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                34.1,
+                35.15,
+                30.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In complete earnestness, I speak the truth in Christ, as witnessed by my conscience illuminated by the Holy Spirit. This triple affirmation is not to be taken lightly, as I call upon Christ as my witness, ensuring that I do not lie. Alongside me, my conscience testifies, influenced by the Holy Spirit's guidance. This cohesive testimony of Christ, conscience, and the Holy Spirit upholds the veracity of my words with unwavering certainty.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 2.403890163988879,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.27,
+            "commentatorTierSimilarities": [
+                34.67,
+                35.11,
+                30.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

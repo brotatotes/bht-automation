@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:08:05",
+    "verseRef": "Romans 11:5",
+    "bestBHT": {
+        "bht": "Even during Israel's national rejection, God has chosen a remnant according to His election of grace. This remnant is not composed of naturally superior individuals, but rather those who have been graciously chosen by God for salvation. Their selection is not based on merit or deserving, but solely on God's free and undeserved favor. The presence of this remnant within Israel itself reflects God's sovereign choice to believe and be saved, underscoring the principle of divine election.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.26081902609839,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+        "commentatorTierSimilarities": [
+            32.94,
+            31.04,
+            36.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In the present time also (or, even in the present time, viz. of Israel\u2019s national rejection) there is a remnant (literally, there has become a remnant: a part has remained faithful, which thus has become a remnant)",
+            "a remnant according to (in virtue of, in pursuance of) the election (selection, choice of a few out of many)",
+            "election of grace (made not for their desert, nor their foreseen congruity, but of God\u2019s free unmerited favour)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Even so at this present time... there is a remnant according to the election of grace.\" ",
+            "There is now, as there was then, a faithful remnant; not however of persons naturally better than the unbelieving mass, but of persons graciously chosen to salvation.",
+            "This establishes our view of the argument on Election in 2 Thessalonians 2:13- :, as not being an election of Gentiles in the place of Jews, and merely to religious advantages, but a sovereign choice of some of Israel itself, from among others, to believe and be saved."
+        ],
+        "Albert Barnes": [
+            "Though the mass of the nation was to be rejected, yet it did not follow that all were to be excluded from the favor of God.",
+            "The apostle here does not specify the number, but there can be no doubt that a multitude of Jews had been saved by becoming Christians.",
+            "It is of God that all are not corrupt and lost. It is owing only to the election of grace, to his merciful choosing, that any are saved."
+        ],
+        "Philip Schaff": [
+            "Even so then, or, \u2018thus therefore;\u2019 in accordance with this historical fact which indicates (\u2018 therefore\u2019) a permanent principle...",
+            "...there is (more exactly , \u2018has become,\u2019 and still exists) a remnant, a small number out of the mass; and this \u2018remnant\u2019 has become and remains such, according to the election of grace.",
+            "The election has its source in God\u2019s grace, not in man\u2019s merit."
+        ],
+        "Archibald T. Robertson": [
+            "Remnant (\u03bb\u03b9\u03bc\u03bc\u03b1). Old word, but only here in N.T., but in papyri also and with this spelling rather than \u03bb\u03b5\u03b9\u03bc\u03bc\u03b1. From \u03bb\u03b5\u03b9\u03c0\u03c9, to leave.",
+            "According to the election of grace (\u03ba\u03b1\u03c4' \u03b5\u03ba\u03bb\u03bf\u03b3\u03b7\u03bd \u03c7\u03b1\u03c1\u03b9\u03c4\u03bf\u03c2). As in Romans 9:6-13. The election is all of God.",
+            "Verse Romans 11:6 explains it further."
+        ],
+        "John Gill": [
+            "There is a remnant; alluding either to Isaiah 10:21, or to the oracle delivered to Elijah, saying, 'I have reserved', or 'left', c. 1 Kings 19:18, that as God had reserved for himself, in Elijah's time, a number of persons, who had not gone into the idolatrous worship of Baal, when the greater part of the Israelites did, so he had taken care to make a like reserve in the apostle's time.",
+            "This is a further proof, that God had not cast away all the people of the Jews and that as Elijah was not the only worshipper of the true God in his time, so the apostle was not the only instance of grace among that people now.",
+            "But this reverse was made, according to the election of grace; God's choice of these persons before the world was, which is the source and spring of all the blessings of grace, both in time eternity."
+        ],
+        "John Wesley": [
+            "According to the election of grace \u2014 According to that gracious purpose of God, \"He that believeth shall be saved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even during the time of Israel's national rejection, there emerged a faithful remnant, not because they were inherently better or more deserving, but because of God's sovereign choice and his unmerited favor. This remnant, chosen by grace, serves as a reminder that God's election is not a replacement of one group with another, but a sovereign choice within Israel itself. It mirrors God's choice to save some individuals from among others to believe and be saved. This remnant signifies the continuation of God's gracious plan for salvation, clearly establishing the principle of election.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.2375144187749143,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.74,
+            "commentatorTierSimilarities": [
+                32.06,
+                28.6,
+                39.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even in Israel's national rejection, there remains a remnant chosen by God's free and unmerited favor. This remnant, not naturally better than the unbelieving mass, represents God's sovereign choice to save some individuals among others. The remnant is a demonstration of God's profound grace, selecting a faithful few from within Israel itself. This selection is not a mere replacement or a result of human merit, but a reflection of God's eternal plan of salvation. It underscores the principle of election and the continuation of God's gracious purposes.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.0981006633720236,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                32.88,
+                30.77,
+                36.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even in the midst of Israel's national rejection, there remains a faithful remnant, a part that has remained loyal and has become a remnant. Their faithfulness is not due to their superiority over the unbelieving majority, but rather to God's gracious choice. This serves as a powerful reminder that salvation is not based on works or deserving, but is freely given by God's unmerited favor. The remnant according to the election of grace reveals God's sovereign selection of individuals within Israel itself, establishing the principle of divine election.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1154183375877795,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.68,
+            "commentatorTierSimilarities": [
+                33.14,
+                30.91,
+                35.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even amidst Israel's rejection, there is a faithful remnant chosen by God's grace. This remnant does not consist of inherently better individuals, but rather those whom God has graciously elected for salvation. Their selection is not a replacement or a mere result of religious advantages, but a sovereign choice within Israel itself. The remnant highlights the concept of divine election, demonstrating that God's favor extends to those chosen according to His free and unmerited favor.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.200541740607423,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.51,
+            "commentatorTierSimilarities": [
+                35.37,
+                29.62,
+                35.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even during Israel's national rejection, God has chosen a remnant according to His election of grace. This remnant is not composed of naturally superior individuals, but rather those who have been graciously chosen by God for salvation. Their selection is not based on merit or deserving, but solely on God's free and undeserved favor. The presence of this remnant within Israel itself reflects God's sovereign choice to believe and be saved, underscoring the principle of divine election.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.26081902609839,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                32.94,
+                31.04,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

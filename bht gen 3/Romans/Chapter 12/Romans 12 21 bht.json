@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:09:22",
+    "verseRef": "Romans 12:21",
+    "bestBHT": {
+        "bht": "Do not succumb to the temptation of revenge, for that is yielding to the enemy. Instead, overcome evil with good. By responding to evil with acts of kindness and forgiveness, we conquer evil in the noblest sense. This principle stands in contrast to the belief of offering sacrifices for the forgiveness of sins. We should not be defeated by the injuries inflicted upon us, but maintain our Christian principles and demonstrate the power of the gospel. Return good for evil, conquer our enemies with patience and kindness, and persevere in doing good.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.435513073754583,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.32,
+        "commentatorTierSimilarities": [
+            33.06,
+            32.81,
+            34.12
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If you suffered yourselves to be provoked to revenge, you would be yielding to the enemy.\" ",
+            "Overcome the evil (in others) by your good.",
+            "In this, and in all things, overcome the evil."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be not overcome of evil\u2014for then you are the conquered party.\" ",
+            "but overcome evil with good\u2014and then the victory is yours; you have subdued your enemy in the noblest sense.",
+            "In this light, what are we to think of the so-called 'unbloody sacrifice of the mass, continually offered to God as a propitiation for the sins both of the living and the dead,' which the adherents of Rome's corrupt faith have been taught for ages to believe is the highest and holiest act of Christian worship\u2014in direct opposition to the sublimely simple teaching which the Christians of Rome first received."
+        ],
+        "Albert Barnes": [
+            "Be not 'vanquished' or 'subdued' by injury received from others.",
+            "Maintain your Christian principles amidst all opposition, and thus show the power of the gospel.",
+            "The idea of 'overcoming evil with good' never occurred to people until the gospel was preached."
+        ],
+        "John Calvin": [
+            "If we try to retaliate evil, we confess that we are overcome by it.",
+            "If, on the contrary, we return good for evil, by that very deed we show the invincible firmness of our mind.",
+            "He who attempts to overcome evil with evil...carries on war for the devil."
+        ],
+        "Philip Schaff": [
+            "Be not overcome by evil, i.e., injury done to you, but overcome evil with good.",
+            "When we requite evil for evil, we are overcome, when we return good for evil, we overcome it.",
+            "We win by yielding; we gain by giving; we avenge by forgiving; we conquer by forgetting ourselves so as to return good for evil."
+        ],
+        "Archibald T. Robertson": [
+            "Stop being conquered by the evil (thing or man).",
+            "But keep on conquering the evil in the good.",
+            "Drown the evil in the good."
+        ],
+        "John Gill": [
+            "Be not overcome of evil,.... but give no place nor heed unto him, resist him, and he will flee from you.",
+            "nor of the evil of sin that dwells in you; 'for whom a man is overcome, of the same is he brought in bondage'",
+            "overcome the evil man, and the evil he has done you, by doing good to him...which is most likely to win upon him, and of an enemy to make him your friend"
+        ],
+        "John Wesley": [
+            "And if you see no present fruit, yet persevere.",
+            "Be not overcome with evil \u2014 As all are who avenge themselves.",
+            "But overcome evil with good. Conquer your enemies by kindness and patience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we allow ourselves to be consumed by revenge, we are yielding to the enemy. Instead, we are called to overcome the evil in others with our acts of kindness and goodness. By doing so, we do not allow the evil to conquer us, but rather, we become victorious over it. This stands in contrast to the belief of offering sacrifice as a means of atonement for sins. We must not be vanquished by injuries inflicted upon us, but maintain our Christian principles, showing the power of the gospel. Our response should be to return good for evil, to win by yielding, to avenge by forgiving, and to conquer by forgetting ourselves and showing steadfastness of mind. Ultimately, our goal is to overcome the evil man and the evil done to us by doing good, which has the power to win over our enemies and transform them into friends.",
+            "wordCount": 149,
+            "quoteTokenProportion": 44.58,
+            "qualityScore": 2.310666000206391,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.17,
+            "commentatorTierSimilarities": [
+                31.44,
+                34.15,
+                34.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To yield to revenge is to be conquered by the enemy, but we are called to overcome evil with good. By not retaliating, but instead responding with acts of kindness and forgiveness, we show the invincible firmness of our faith. This stands in contrast to the belief in offering sacrifices for forgiveness of sins. We must maintain our Christian principles, returning good for evil, and conquer our enemies by patience and kindness. Persist in doing good, as even if there may be no immediate fruit, our perseverance can lead to victory.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.1789223590155853,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "commentatorTierSimilarities": [
+                31.5,
+                32.83,
+                35.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Instead of yielding to revenge and being overcome by evil, we are called to overcome evil with good. By responding to harm with acts of kindness and forgiveness, we demonstrate the strength and power of our faith. This is in direct contrast to the belief in offering sacrifices for the atonement of sins. We must maintain our Christian principles, returning good for evil, and conquering our enemies with patience and kindness. Even when the results may not be immediate, perseverance in doing good ultimately leads to victory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.12745509186977,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                31.39,
+                34.31,
+                34.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not succumb to the temptation of revenge, for that is yielding to the enemy. Instead, overcome evil with good. By responding to evil with acts of kindness and forgiveness, we conquer evil in the noblest sense. This principle stands in contrast to the belief of offering sacrifices for the forgiveness of sins. We should not be defeated by the injuries inflicted upon us, but maintain our Christian principles and demonstrate the power of the gospel. Return good for evil, conquer our enemies with patience and kindness, and persevere in doing good.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.435513073754583,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.32,
+            "commentatorTierSimilarities": [
+                33.06,
+                32.81,
+                34.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not yield to revenge, for that would mean being conquered by the enemy. Instead, overcome evil with good. By responding to evil with acts of kindness and forgiveness, we triumph over it in the highest sense. This contrasts with the belief in offering sacrifices for the propitiation of sins. Let us not be overcome by the injuries inflicted upon us, but uphold our Christian principles to showcase the power of the gospel. Return good for evil, conquer our adversaries with patience and kindness, and persist in doing good even if the results are not immediate.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.322525634969465,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.56,
+            "commentatorTierSimilarities": [
+                33.34,
+                32.73,
+                33.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:01:20",
+    "verseRef": "Romans 4:10",
+    "bestBHT": {
+        "bht": "The recognition of Abraham's faith and its reckoning for righteousness took place long before his circumcision, highlighting that adherence to the Law and the act of circumcision were not the means to justification. The significant time gap of about twenty-five years between the acknowledgement of his faith and his circumcision underscores that the latter was not the cause or condition for receiving grace. This crucial insight challenges the notion that only circumcised individuals could be justified and extends the possibility of justification to uncircumcised Gentiles as well.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.1255744307802806,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+        "commentatorTierSimilarities": [
+            23.14,
+            32.14,
+            44.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "How, ie. under what circumstances?",
+            "The interval between the recognition of his faith and his circumcision was perhaps as much as twenty-five, certainly not less.",
+            "Than fourteen years."
+        ],
+        "Albert Barnes": [
+            "For if he was justified by faith after he was circumcised, the Jew might pretend that it was in virtue of his circumcision; that even his faith was acceptable, because he was circumcised.",
+            "Circumcision and the deeds of the Law did not conduce to justification; and that as Abraham was justified without those works, so might others be.",
+            "The pagan, therefore, might be admitted to similar privileges."
+        ],
+        "Philip Schaff": [
+            "How then was it reckoned? Not, what was the mode in which it was reckoned, but, 'how was he situated when this took place?'",
+            "The 'reckoning' took place ... at least fourteen years before the circumcision of Abraham; consequently the latter was the Divine ratification of grace already received, not the effective cause or condition of the bestowal of grace."
+        ],
+        "Archibald T. Robertson": [
+            "When he was in circumcision.",
+            "A pertinent point that the average Jew had not noticed."
+        ],
+        "John Gill": [
+            "Was he justified, or his faith reckoned to him for righteousness, when he was a circumcised, or an uncircumcised person?",
+            "It must be 'fourteen' years, or thereabout, before his circumcision, that this declaration of his being a justified person was made.",
+            "If Abraham when uncircumcised was a justified person, as it is certain he was, why may not uncircumcised Gentiles be justified also?"
+        ],
+        "John Wesley": [
+            "Not in circumcision \u2014 Not after he was circumcised; for he was justified before Ishmael was born, Genesis 15:1-21; but he was not circumcised till Ishmael was thirteen years old, Genesis 17:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When considering Romans 4:10, it is important to ask under what circumstances Abraham's faith was recognized. The interval between the recognition of his faith and his circumcision was likely around twenty-five years, emphasizing the fact that his faith was acknowledged before he underwent the physical act. This serves as a pertinent point for the average Jew who may not have noticed that circumcision and adherence to the Law were not necessary for justification. The reckoning of faith occurred at least fourteen years before Abraham's circumcision, signifying that his circumcision was not the cause or condition of the grace he had already received. Thus, if Abraham was justified while still uncircumcised, it opens the possibility for uncircumcised Gentiles to also be justified by faith.",
+            "wordCount": 125,
+            "quoteTokenProportion": 47.56,
+            "qualityScore": 2.252070261749415,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                25.56,
+                32.86,
+                41.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When contemplating the circumstances surrounding Abraham's faith, it becomes evident that the recognition of his faith occurred before his circumcision, which took place approximately twenty-five years later. This distinction sheds light on the fact that adherence to the Law and the act of circumcision were not the prerequisites for justification. The recognition of Abraham's faith occurred at least fourteen years prior to his circumcision, emphasizing that the latter was not the cause or condition for receiving grace. This insight opens the possibility for uncircumcised Gentiles to also be justified by faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0655056831668728,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                23.91,
+                33.61,
+                42.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The recognition of Abraham's faith and its reckoning for righteousness took place long before his circumcision, highlighting that adherence to the Law and the act of circumcision were not the means to justification. The significant time gap of about twenty-five years between the acknowledgement of his faith and his circumcision underscores that the latter was not the cause or condition for receiving grace. This crucial insight challenges the notion that only circumcised individuals could be justified and extends the possibility of justification to uncircumcised Gentiles as well.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.1255744307802806,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                23.14,
+                32.14,
+                44.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The circumstances surrounding Abraham's faith are essential to understanding Romans 4:10. The recognition and reckoning of his faith took place long before his circumcision, emphasizing that adherence to the Law and circumcision were not the means to receive justification. The significant time gap between the acknowledgement of his faith and his circumcision dismantles the belief that only circumcised individuals could be justified. This insight reveals that uncircumcised Gentiles also have the opportunity to find justification through faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9221179466857168,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                23.89,
+                31.91,
+                44.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The recognition and reckoning of Abraham's faith occurred long before his circumcision, highlighting that adherence to the Law and circumcision were not prerequisites for justification. The substantial time interval between the acknowledgement of his faith and his circumcision serves as a reminder that the latter was not the cause or condition for receiving grace. This significant insight challenges the belief that only circumcised individuals could obtain justification, extending the possibility of justification to uncircumcised Gentiles as well.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0937859256511495,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                23.6,
+                32.35,
+                44.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

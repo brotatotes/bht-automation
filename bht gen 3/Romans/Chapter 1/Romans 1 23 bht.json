@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:58:10",
+    "verseRef": "Romans 1:23",
+    "bestBHT": {
+        "bht": "In this depiction, humanity exchanged the uncorruptible glory of God, seen in his power and majesty evident in creation, for corruptible images. By lowering their understanding and worshiping human beings and even reptiles, they descended into debasing and foolish conceptions of the Supreme Being. Throughout religious history, there has been a consistent struggle to rise from the lowest forms of nature worship to a more rational and spiritual understanding of God. However, it is a grave indignity to form such inadequate notions of God's majesty that we dare to create images of him.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.914911312784926,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+        "commentatorTierSimilarities": [
+            40.13,
+            29.45,
+            30.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Quoted from Ps. cvi. 20,\u2014only \u2018their glory,\u2019 of the Psalm, is changed to \u2018God\u2019s glory,\u2019\u2014viz. His Power and Majesty visible in the Creation...\" ",
+            "uncorruptible and corruptible shew by contrast the folly of such a substitution: He who made and upholds all things must be uncorruptible, and no corruptible thing can express His likeness.",
+            "an image of] literally, the similitude of the form,\u2014not of any one particular man, but of man (examples being abundant), to which they degraded God,\u2014and so of the other creatures."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But as if that had not been a deep enough degradation of the living God, there was found 'a lower deep' still.\" ",
+            "In the face of these plain declarations of the descent of man's religious belief from loftier to ever lower and more debasing conceptions of the Supreme Being...",
+            "...man's religious history has been all along a struggle to rise, from the lowest forms of nature worship, suited to the childhood of our race, into that which is more rational and spiritual."
+        ],
+        "Albert Barnes": [
+            "They exchanged a glorious object of worship for what was degrading and humiliating.",
+            "God is unchanging, indestructible, immortal. The word conveys also the idea that God is eternal.",
+            "It was proof of great degradation, that they thus adored human beings with like passions as themselves; and attempted to displace the true God from the throne, and to substitute in his place an idol in the likeness of men."
+        ],
+        "John Calvin": [
+            "They changed the glory of God; for as though one substituted a strange child, so they departed from the true God.\" ",
+            "It is a high indignity to God, to form so gross an idea of his majesty as to dare to make an image of him.\" ",
+            "The madness then here noticed, is, that all attempted to make for themselves an image of God; which was a certain proof that their notions of God were gross and absurd."
+        ],
+        "Philip Schaff": [
+            "The glory, etc. God\u2019s majesty, perfection, etc., made known.",
+            "Incorruptible; introduced to mark the folly of the exchange.",
+            "The order marks a descent to the lowest kind of idolatrous representation; even the images of reptiles were worshipped."
+        ],
+        "John Gill": [
+            "God is incorruptible and immortal in his nature, and so is opposed to all corruptible creatures and things.",
+            "His absolute essential glory cannot be changed, cannot be taken away from him, nor given to another; but his relative glory may be said to be changed.",
+            "His relative glory may be said to be changed when another is worshipped in his stead, and called by his name."
+        ],
+        "John Wesley": [
+            "If a man will not worship God as God, he is so left to himself that he throws away his very manhood.",
+            "The punishment in each case is expressed by God gave them up.",
+            "Reptiles \u2014 Or creeping things; as beetles, and various kinds of serpents."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals the exchange that occurred when human beings substituted the glory of the living God with corruptible images, degrading his power and majesty visible in creation. By worshiping human beings and even reptiles, they descended into lower and debasing conceptions of the Supreme Being, displaying the folly of their substitution. Throughout history, humanity has struggled to rise above these lower forms of nature worship into a more rational and spiritual understanding of the divine. Yet, it is a high indignity to God when we form such gross and inadequate ideas of his majesty that we dare to make images of him, for God's glory is unchanging and incorruptible.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 1.9953099341692742,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                38.63,
+                30.34,
+                31.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exchange illustrated in this passage involved substituting the living God's glory with corruptible images, lowering the understanding of his power and majesty revealed in creation. By worshiping human beings and even reptiles, humanity descended into lower and debasing views of the Supreme Being. Yet, throughout history, there has been a struggle to move beyond these primitive forms of worship towards a more rational and spiritual comprehension. This disrespect towards God, demonstrated by the creation of inadequate images, fails to capture his unchanging and incorruptible glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8425989875666122,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                40.54,
+                30.88,
+                28.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Humanity's exchange depicted here involved substituting the eternal and uncorruptible glory of the living God with worship of corruptible images, diminishing the understanding of his power and majesty clearly revealed in creation. By devolving into the worship of human beings and even reptiles, we descended into lower and debasing conceptions of the Supreme Being. Yet, the course of religious history has been a continual struggle toward a higher understanding of the divine, transitioning from nature worship to a more rational and spiritual approach.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.8680221192748165,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.45,
+            "commentatorTierSimilarities": [
+                41.75,
+                29.93,
+                28.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this depiction, humanity exchanged the uncorruptible glory of God, seen in his power and majesty evident in creation, for corruptible images. By lowering their understanding and worshiping human beings and even reptiles, they descended into debasing and foolish conceptions of the Supreme Being. Throughout religious history, there has been a consistent struggle to rise from the lowest forms of nature worship to a more rational and spiritual understanding of God. However, it is a grave indignity to form such inadequate notions of God's majesty that we dare to create images of him.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.914911312784926,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                40.13,
+                29.45,
+                30.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Humanity's exchange involved substituting the uncorruptible glory of God, displayed in His power and majesty visible in creation, with corruptible images. This foolish substitution highlights the degradation of adoring human beings and even reptiles, lowering the understanding of the Supreme Being. However, throughout religious history, there has been a constant struggle to rise above nature worship into a more rational and spiritual understanding of God. Creating images of God is a grave indignity, as it fails to capture His majesty and eternal nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8316312945768662,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.24,
+            "commentatorTierSimilarities": [
+                40.5,
+                29.13,
+                30.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

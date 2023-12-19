@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:02:00",
+    "verseRef": "Romans 4:12",
+    "bestBHT": {
+        "bht": "Abraham became the father of both the circumcised and those who, though not physically circumcised, followed in his faith. His example serves as a model for believers, both Jew and Gentile, who walk in the steps of his unwavering trust in God. It is important to distinguish between faith and the sacrament of circumcision, as faith alone justifies us before God. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith in Christ, following Abraham's footsteps.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.309880074182124,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.14,
+        "commentatorTierSimilarities": [
+            27.42,
+            34.38,
+            38.2
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and [that he might be] father of the circumcision (the circumcised) to them ( \u2018for those,\u2019 \u2018in the case of those\u2019) who are not only (physically) of the circumcision.\" ",
+            "but to them also who walk in the steps of the faith of our father (speaking here as a Jew) Abraham (which he had) while in uncircumcision."
+        ],
+        "Albert Barnes": [
+            "Not only the father of all believers... but in a special sense the father of the Jewish people.",
+            "Mere circumcision would not avail; but circumcision connected with faith like his, showed that they were especially his descendants.",
+            "Who walk in the steps... who imitate his example; who imbibe his spirit; who have his faith."
+        ],
+        "Marvin Vincent": [
+            "The abstract term is used for the concrete.\" ",
+            "Paul means that Abraham received a seal, etc., that he might be the father of circumcision to those who not only are circumcised, but who add to this outward sign the faith which Abraham exhibited.\" ",
+            "Walk (stoicousin)."
+        ],
+        "John Calvin": [
+            "Let us then beware, lest any of us, by halving things, blend together the two modes of justification.",
+            "It hence appears, how carefully he distinguished between faith and the sacrament; not only that no one might be satisfied with the one without the other, as though it were sufficient for justifying; but also that faith alone might be set forth as accomplishing everything.",
+            "What we have stated disproves also the scholastic dogma respecting the difference between the sacraments of the Old and those of the New Testament; for they deny the power of justifying to the former, and assign it to the latter."
+        ],
+        "Philip Schaff": [
+            "Father' is repeated to take up the line of thought slightly interrupted by the final clause of Romans 4:11.",
+            "Abraham is, indeed, the father of circumcision, but with reference to those Jews who are not merely circumcised, but also believe, as he did.",
+            "For Abraham\u2019s righteousness through faith was attained, when as yet there was no distinction between circumcised and uncircumcised; and to this mode of becoming just before God, independently of external conditions, Christianity by its \u201crighteousness by faith\u201d leads back again and continues it."
+        ],
+        "Archibald T. Robertson": [
+            "A father belonging to circumcision.",
+            "To those who are, I do not say of circumcision only, but also to those who walk.",
+            "\u03a3\u03c4\u03bf\u03b9\u03c7\u03b5\u03c9 is military term, to walk in file as in Galatians 5:25; Philippians 3:16."
+        ],
+        "John Gill": [
+            "He is a father to them who are not of the circumcision only.",
+            "Walk in the steps of that faith of our father Abraham, which he had, being yet uncircumcised.",
+            "Abraham is the father of all that go after him in his faith."
+        ],
+        "John Wesley": [
+            "And the father of the circumcision \u2014 Of those who are circumcised, and believe as Abraham did. To those who believe not, Abraham is not a father, neither are they his seed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham was not only the father of those who were physically circumcised, but he was also the father of those who embraced his faith, even while they were uncircumcised. By using the term father, Paul emphasizes that Abraham's role was not limited to being the father of circumcision, but also to those who walked in the steps of his faith. In this way, Abraham became a model for all believers who followed in his footsteps and embodied his unwavering trust in God. It is important to recognize that faith and the sacrament of circumcision are distinct, as faith alone accomplishes everything and justifies us before God. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith in Christ, just as Abraham did.",
+            "wordCount": 131,
+            "quoteTokenProportion": 49.37,
+            "qualityScore": 2.346189504085525,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.35,
+            "commentatorTierSimilarities": [
+                27.33,
+                34.54,
+                38.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham became the father not only of the circumcised, but also of those who followed his faith while they were uncircumcised. He served as a model for believers, both Jewish and Gentile, who imitated his example and embraced his unwavering trust in God. The distinction between faith and the sacrament of circumcision is crucial, as faith alone accomplishes everything and justifies us before God. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith in Christ, just as Abraham did.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.28763476360458,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                26.29,
+                34.84,
+                38.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham became the father of both the circumcised and those who, though not physically circumcised, followed in his faith. His example serves as a model for believers, both Jew and Gentile, who walk in the steps of his unwavering trust in God. It is important to distinguish between faith and the sacrament of circumcision, as faith alone justifies us before God. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith in Christ, following Abraham's footsteps.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.309880074182124,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.14,
+            "commentatorTierSimilarities": [
+                27.42,
+                34.38,
+                38.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham is not only the father of those who are physically circumcised, but also the father of those who, regardless of circumcision, embrace his faith. By distinguishing between faith and the sacrament, Paul emphasizes that faith alone accomplishes everything. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith, just as Abraham did. He serves as a model for believers who walk in his footsteps, imbibing his spirit and following his unwavering trust in God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.105250319217832,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                26.53,
+                34.58,
+                38.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham is not only the father of the circumcised but also of those who walk in the footsteps of his faith, regardless of physical circumcision. Paul emphasizes the distinction between faith and the outward sign, highlighting that faith alone justifies us before God. Let us not blend the two modes of justification, but fully embrace the righteousness that comes through faith, as Abraham did. We are called to follow his example, imbibing his spirit and embodying his unwavering trust in God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.135556449666704,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.35,
+            "commentatorTierSimilarities": [
+                27.07,
+                33.87,
+                39.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

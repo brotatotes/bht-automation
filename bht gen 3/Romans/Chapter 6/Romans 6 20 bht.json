@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:05:56",
+    "verseRef": "Romans 6:20",
+    "bestBHT": {
+        "bht": "For when you were servants of sin, you were free in regard of righteousness. There is a latent irony in the use of the word free, as it does not appear until the end of that freedom is declared. While in the service of sin, you were not servants of righteousness and never did it one act of real service. Thus, you had full proof of the nature and advantages of sin's service. The searching question that follows further emphasizes this meaning.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 2.1664507822084254,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+        "commentatorTierSimilarities": [
+            33.55,
+            31.81,
+            34.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For when ye were servants of sin, ye were free in regard of (i. e. in relation to) righteousness.\" ",
+            "There is doubtless a latent irony in the use of the word free here: but it must not be brought out too strongly.",
+            "It does not appear, till the end of that freedom is declared."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Since no servant can serve two masters, much less where their interests come into deadly collision, and each demands the whole man, so, while ye were in the service of Sin ye were in no proper sense the servants of Righteousness, and never did it one act of real service.",
+            "Whatever might be your conviction of the claims of Righteousness, your real services were all and always given to Sin: Thus had ye full proof of the nature and advantages of Sin's service.",
+            "The searching question with which this is followed up, shows that this is the meaning."
+        ],
+        "Albert Barnes": [
+            "Ye were free from righteousness - That is, in your former state, you were not at all under the influence of righteousness.",
+            "It settles the question; and proves that they had no native goodness.",
+            "Now they ought to be equally free from sin, since they had become released from their former bondage, and had become the servants of another master."
+        ],
+        "Marvin Vincent": [
+            "Free from righteousness.\" (Ambiguous translation) Better, \"free in regard of righteousness.\" ",
+            "Disengaged (Morison), practically independent of its demands.\" ",
+            "They could not serve two masters."
+        ],
+        "John Calvin": [
+            "He who devotes himself to [sin], necessarily departs from [righteousness].\" ",
+            "He then sets sin on one side, and righteousness on the other; and having stated this distinction, he afterwards shows what results from each of them.",
+            "Wretched then and accursed is this liberty, which with unbridled or rather mad frenzy, leads us exultingly to our destruction."
+        ],
+        "Philip Schaff": [
+            "The only freedom they had was this sad freedom as respects the right service; the deepest slavery in fact, just as to be servants of righteousness is the truest freedom.",
+            "It was not that they counted themselves free, or that righteousness had no claims upon them, but that, as a terrible fact, they were uninfluenced by its demands.",
+            "To be servants of sin is to be free from righteousness; to be servants of righteousness is to be free from sin."
+        ],
+        "Archibald T. Robertson": [
+            "Free in regard of righteousness (\u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03bf \u03c4\u03b7 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7). Ye wore no collar of righteousness, but freely did as ye pleased. They were \"free.\" Note dative case, personal relation, of \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7. "
+        ],
+        "John Gill": [
+            "when they were employed in the drudgery of sin, they were free from righteousness",
+            "hence may be observed what is the free will of man in an unregenerate state; not free to, but 'from' righteousness",
+            "believers, who are delivered from the bondage of corruption, and the servitude of sin, [are called] to a life and service of righteousness"
+        ],
+        "John Wesley": [
+            "When ye were the servants of sin, ye were free from righteousness.",
+            "In all reason, therefore, ye ought now to be free from unrighteousness.",
+            "To be as uniform and zealous in serving God as ye were in serving the devil."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 6:20, the verse speaks about the state of those who were once servants of sin. Although they seemed free in relation to righteousness, there is an underlying irony in this freedom. It becomes clear that while they were in the service of sin, they were not truly servants of righteousness. Their actions and services were solely devoted to sin, with no genuine contribution to righteousness. This verse raises a probing question about the nature and advantages of serving sin versus serving righteousness. The word free here does not mean that they considered themselves free or that righteousness had no claims upon them, but rather, they were disengaged and independent from its demands. The dative case of righteousness indicates their personal relation to it. They could not serve two masters, thus highlighting the necessity of choosing between sin and righteousness.",
+            "wordCount": 140,
+            "quoteTokenProportion": 48.24,
+            "qualityScore": 2.3147579818326234,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.31,
+            "commentatorTierSimilarities": [
+                29.68,
+                36.14,
+                34.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For when you were servants of sin, you were free in regard of righteousness. There is a latent irony in the use of the word free, as it does not appear until the end of that freedom is declared. While in the service of sin, you were not servants of righteousness and never did it one act of real service. Thus, you had full proof of the nature and advantages of sin's service. The searching question that follows further emphasizes this meaning.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 2.1664507822084254,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.38,
+            "commentatorTierSimilarities": [
+                33.55,
+                31.81,
+                34.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When you were servants of sin, you were free in regard of righteousness. There is an irony in this freedom, as it does not become clear until the end. While in the service of sin, you were not true servants of righteousness, and your actions were solely devoted to sin. This verse raises the question of the nature and advantages of serving sin versus righteousness. It highlights the impossibility of serving two masters and emphasizes the need to choose between sin and righteousness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.4016998832825758,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.2,
+            "commentatorTierSimilarities": [
+                29.03,
+                33.99,
+                36.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When serving sin, there is a cynical irony in the freedom experienced. While seemingly unrestricted, it becomes evident that true service was only given to sin. This starkly contrasts with the claims and obligations of righteousness. The verse delves into the nature and advantages of sin's service, highlighting the impossibility of serving two masters. The question posed reveals the need to choose between the two paths. It is a call to leave the former state of bondage and embrace the freedom found in righteousness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.9280819341779973,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                30.3,
+                33.43,
+                36.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the previous state of being servants of sin, a deceptive sense of freedom existed in relation to righteousness. This ironic freedom did not truly involve the service of righteousness, but rather indicated a complete devotion to sin. Their actions were solely dedicated to serving sin, with no genuine contribution to righteousness. This raises a thought-provoking question about the nature and advantages of sin's service compared to serving righteousness. The verse emphasizes the impossibility of serving both sin and righteousness simultaneously, urging a conscious choice between the two paths.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.3737131092459958,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.27,
+            "commentatorTierSimilarities": [
+                28.79,
+                34.18,
+                37.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

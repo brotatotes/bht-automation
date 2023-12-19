@@ -1,0 +1,96 @@
+{
+    "timestamp": "12-19-2023 15:48:23",
+    "verseRef": "1 John 4:11",
+    "bestBHT": {
+        "bht": "If it is true that God so loved us, then we ought to love one another. As children begotten of God, His love should be in us, making us love those begotten of Him. Our apprehension of His love to us should be the motive and measure of our love for one another. In proportion to our appreciation of God's love, we love Him and the brethren. Thus, we ought to keep on loving, imitating God's love for us as a way to show that we have His Spirit and that we are His children.",
+        "wordCount": 97,
+        "quoteTokenProportion": 61.22,
+        "qualityScore": 2.5572152562231754,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.37,
+        "commentatorTierSimilarities": [
+            30.58,
+            35.73,
+            33.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If [it be true that]... God so loved us, we also ought to love one another.\" ",
+            "If we are of God, that love which is in Him, and which He is, will be in us, will make us like Him, causing us to love those who are begotten of Him.\" ",
+            "And of this love, our apprehension of His Love to us will be the motive and the measure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's love to us is the grand motive for our love to one another.",
+            "In proportion as we appreciate God's love to us, we love Him and also the brethren, the children (by regeneration) of the same God.",
+            "The brethren, the children (by regeneration) of the same God, the representatives of the unseen God."
+        ],
+        "Albert Barnes": [
+            "Because it is only in this way that we can show that we have his Spirit.",
+            "Because it is the nature of love to seek the happiness of all.",
+            "There are much stronger reasons why we should love one another than there were why God should love us; and unless we do this, we can have no evidence that we are his children."
+        ],
+        "Marvin Vincent": [
+            "So [\u03bf\u03c5\u03c4\u03c9\u03c2] . Emphatic. ",
+            "We ought. See on 2 6."
+        ],
+        "John Calvin": [
+            "He exhorts us by God\u2019s example to brotherly love.",
+            "Our love ought not to be mercenary, when he bids us to love our neighbors as God has loved us.",
+            "We ought to remember this, that we have been loved freely."
+        ],
+        "Archibald T. Robertson": [
+            "If God so loved us... \u03bf\u03c5\u03c4\u03c9\u03c2 emphasises the manifestation of God's love both in its manner and in its extent.\" ",
+            "Ought (\u03bf\u03c6\u03b5\u03b9\u03bb\u03bf\u03bc\u03b5\u03bd)... Noblesse oblige.\" ",
+            "Keep on loving..."
+        ],
+        "John Gill": [
+            "The obligation is still the greater.",
+            "Then surely we ought to love them now they are become the friends of God, and ours also.",
+            "God is to be imitated in his love; and his love to us, which is unmerited and matchless, should influence and engage us to the love of the brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If it is true that God so loved us, then we also ought to love one another. As children begotten of God, His love should be in us and make us like Him, causing us to love those who are also begotten of Him. Our apprehension of His love to us should be the motive and measure of our love for one another. God's love to us is the grand motive for our love to one another. In proportion to our appreciation of God's love, we love Him and the brethren, who are the representatives of the unseen God. Thus, we ought to keep on loving, imitating God's love for us as a way to show that we have His Spirit and that we are His children. His love for us was unmerited and matchless, and in the same way, we should love others freely.",
+            "wordCount": 148,
+            "quoteTokenProportion": 58.06,
+            "qualityScore": 2.4949498371230936,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.3,
+            "commentatorTierSimilarities": [
+                30.61,
+                34.7,
+                34.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If it is true that God so loved us, then we ought to love one another. As children begotten of God, His love should be in us, making us love those begotten of Him. Our apprehension of His love to us should be the motive and measure of our love for one another. In proportion to our appreciation of God's love, we love Him and the brethren. Thus, we ought to keep on loving, imitating God's love for us as a way to show that we have His Spirit and that we are His children.",
+            "wordCount": 97,
+            "quoteTokenProportion": 61.22,
+            "qualityScore": 2.5572152562231754,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.37,
+            "commentatorTierSimilarities": [
+                30.58,
+                35.73,
+                33.7
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

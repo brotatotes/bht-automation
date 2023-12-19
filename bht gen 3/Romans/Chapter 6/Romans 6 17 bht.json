@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:05:32",
+    "verseRef": "Romans 6:17",
+    "bestBHT": {
+        "bht": "Believers should be grateful for no longer being servants of sin but rather being transformed through the teachings of the gospel. God's grace has delivered them from their past state, and their obedience to the form of doctrine is a reflection of this transformation. This form of teaching acts as a mold or pattern, shaping believers into a new way of life. The heartfelt obedience is not based on works but is influenced by God's grace, warranting gratitude.",
+        "wordCount": 80,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.1458337844000974,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+        "commentatorTierSimilarities": [
+            29.48,
+            39.72,
+            30.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression is most probably used of the practical rule of life accompanying the doctrine of the gospel.\" ",
+            "The form of doctrine is regarded as a mould, exemplar, or pattern after which they were to be fashioned.\" ",
+            "The words ye were delivered implying a superior Power, by whose agency this transformation was to be wrought."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But God be thanked, that ye were the servants of Sin\u2014that is, that this is a state of things now past and gone.\" ",
+            "Ye have obeyed from the heart that form of doctrine which was delivered you\u2014rather, 'whereunto ye were delivered' (Margin), or cast, as in a mould.",
+            "The idea is, that the teaching to which they had heartily yielded themselves had stamped its own impress upon them."
+        ],
+        "Albert Barnes": [
+            "But thanks unto God, that whereas ye were the servants of sin...\" ",
+            "Christians should thank God that they themselves, though once great sinners, have become converted.\" ",
+            "No other obedience is genuine."
+        ],
+        "Marvin Vincent": [
+            "Ye were the servants of sin, but are so no more.",
+            "Form of teaching...points to a special and precisely defined type of Christian instruction.",
+            "They had been handed over to the educative power of this form of teaching."
+        ],
+        "John Calvin": [
+            "We may hence learn, that we are not freed from the bondage of the law that we may sin; for the law does not lose its dominion, until the grace of God restores us to him, in order to renew us in righteousness.",
+            "Christ inwardly forms our souls in a better way, than when the law constrains them by threatening and terrifying us.",
+            "He does not indeed allow his people unbridled freedom, that they might frisk about without any restraint, like horses let loose in the fields; but he brings them to a regular course of life."
+        ],
+        "Philip Schaff": [
+            "That ye were the servants of sin. \u2018Were\u2019 is emphatic; this state is past, and for this the Apostle is thankful, although this negative side of salvation cannot be separated from the positive.",
+            "But ye obeyed from the heart. The moral change at conversion made their true, internal attitude that of obedience.",
+            "Obedience to this type of teaching, over against legalism, is something for which to thank God; because it is God\u2019s work, and because it is worthy of thanks."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is not grateful that they were once slaves of sin, but only that, though they once were, they turned from that state.",
+            "To that form of doctrine whereunto ye were delivered.",
+            "It is hardly proper to take 'form' here to refer to Paul's gospel."
+        ],
+        "John Gill": [
+            "This form of doctrine is \u05e7\u05d1\u05dc\u05d4, 'a Cabala', but not like that of the Jews' oral law, or form of traditions, handed down, as they say, from one man, and set of men, to another; but this is delivered from the Father to Christ, from Christ to his apostles, and by them to the saints; and 'into which they were delivered', as it may be rendered, as into a mould; and so received the impression of it, and were evangelized by it.",
+            "So such are who have a spirit of Gospel liberty, in opposition to a spirit of bondage; who live by faith on Christ, and not by the works of the law; who derive their comfort from him, and not from anything done by them; whose repentance and obedience are influenced by the grace of God, and who are zealous of good works, without any dependence on them.",
+            "And this obedience did not lie in words, or proceed on mercenary views, and in an hypocritical way; but was 'from the heart'; and was real and sincere: and good reason there is why a hearty, cheerful, and voluntary obedience should be yielded to the Gospel; since it is from God; Christ is the substance of it; it is truth, and the word of our salvation."
+        ],
+        "John Wesley": [
+            "The mould into which ye have been delivered; which, as it contains a beautiful allusion, conveys also a very instructive admonition.",
+            "Our minds, all pliant and ductile, should be conformed to the gospel precepts, as liquid metal, take the figure of the mould into which they are cast.",
+            "Our minds should be conformed to the gospel precepts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of believers being delivered from their former state as servants of sin and obeying from the heart the form of doctrine which was delivered to them. The commentary explores the idea of this form of doctrine being a practical rule of life and a mold after which believers are to be fashioned. The transformation from being slaves of sin to living in obedience to the form of teaching is emphasized. The first-tier commentary highlights the gratitude for no longer being in the state of being servants of sin and the imprint that the teaching has left on believers. The second-tier commentary emphasizes the genuine obedience and the work of God in bringing about this change. Overall, the verse and commentaries express the idea that believers have been transformed by God's grace and are now called to live obediently according to the teachings of the gospel.",
+            "wordCount": 151,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.096322789026104,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                31.46,
+                37.31,
+                31.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers should be grateful for their deliverance from the state of being servants of sin and their obedience to the practical rule of life found in the teachings of the gospel. The form of doctrine serves as a mold that shapes and transforms believers. This transformation is not a result of their own efforts, but the work of God. Obedience to this teaching, rooted in genuine internal attitude, is something to be thankful for, as it is a reflection of the grace of God in their lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9808610693790718,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                29.53,
+                39.54,
+                30.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers can express gratitude to God for delivering them from a former state of sin and guiding them to obey the practical rule of life found in the teachings of the gospel. This transformation is not achieved through their own efforts, but through the power of God. The teachings of the gospel act as a mould or pattern, shaping and impressing the believers. Genuine obedience, rooted in a heartfelt response, is a testament to the work of God's grace and deserving of thanksgiving.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9302762705108583,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                27.99,
+                40.06,
+                31.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers can find solace in the fact that they have been delivered from a past state of being servants to sin. Their transformation is attributed to the form of doctrine, a practical rule of life that has been delivered to them. This teaching has imprinted its influence upon them and shaped their behavior. Gratitude should be directed towards God for this change, as it is a result of His grace and the believers' obedience from the heart. Genuine obedience to this form of teaching is both God's work and worthy of thanksgiving.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0234764185341545,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                30.42,
+                41.46,
+                28.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers should be grateful for no longer being servants of sin but rather being transformed through the teachings of the gospel. God's grace has delivered them from their past state, and their obedience to the form of doctrine is a reflection of this transformation. This form of teaching acts as a mold or pattern, shaping believers into a new way of life. The heartfelt obedience is not based on works but is influenced by God's grace, warranting gratitude.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.1458337844000974,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                29.48,
+                39.72,
+                30.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

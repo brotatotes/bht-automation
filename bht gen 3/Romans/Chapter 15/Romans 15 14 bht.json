@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:10:15",
+    "verseRef": "Romans 15:14",
+    "bestBHT": {
+        "bht": "Given the strategic significance of the church in Rome, the apostle Paul commends the believers for their goodness and knowledge, acknowledging their ability to offer mutual exhortations without external instruction. By affirming their moral excellence and capacity for admonition, Paul underscores the importance of brotherly correction. This recognition also reveals his genuine belief in their potential for growth and their ability to effectively minister to one another. This serves as a reminder that Christian admonition should be characterized by gentleness and kindness, devoid of arrogance or asperity.",
+        "wordCount": 87,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.616807162442941,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+        "commentatorTierSimilarities": [
+            22.78,
+            43.29,
+            33.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Even I myself, notwithstanding what I have written.",
+            "Without information from others, I, on my own account.",
+            "Ye also yourselves, i.e. without exhortation of mine."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now I am persuaded, my brethren, even I myself, concerning you that ye also yourselves are full of goodness.\" ",
+            "Filled with all knowledge.\" ",
+            "Able to admonish one another."
+        ],
+        "Albert Barnes": [
+            "They were 'disposed' to obey any just commands; and that consequently any errors in their opinions and conduct had not been the effect of obstinacy or perverseness.",
+            "The apostle Paul was as far as possible from always dwelling on the faults of Christians. When it was necessary to reprove them, he did it, but did it with tenderness and tears.",
+            "The minister who always censures and condemns, whose ministry is made up of complaints and lamentations, who never speaks of Christians but in a strain of fault-finding, is unlike the example of the Savior and of Paul, and may expect little success in his work."
+        ],
+        "Marvin Vincent": [
+            "As one street often leads men, leaving a large city, through several gates, so the conclusion of this Epistle is manifold.",
+            "Goodness [\u03b1\u03b3\u03b1\u03b8\u03c9\u03c3\u03c5\u03bd\u03b7\u03c2].",
+            "To admonish [\u03bd\u03bf\u03c5\u03b8\u03b5\u03c4\u03b5\u03b9\u03bd]."
+        ],
+        "John Calvin": [
+            "There is indeed nothing more opposed to brotherly admonitions than malignity and arrogance, which make us disdainfully despise the erring, and to treat them with ridicule, rather than to set them right.",
+            "Asperity also, whether it appears in words or in the countenance, deprives our admonitions of their fruit.",
+            "Hence he ascribes both these qualifications to the Romans, bearing them a testimony - that they were themselves sufficiently competent, without the help of another, to administer mutual exhortations."
+        ],
+        "Philip Schaff": [
+            "Even I myself, or, 'I myself also.'",
+            "Are full of goodness; moral excellence in general, though it may be specially applied to kindness.",
+            "Able also to admonish one another; without assistance from without. This is a special result of the preceding qualities ascribed to them."
+        ],
+        "Archibald T. Robertson": [
+            "See Romans 7:25 for a like emphasis on himself, here in contrast with 'ye yourselves'... Here begins the Epilogue, the personal matters of importance.",
+            "Paul gives the Roman Christians (chiefly Gentiles) high praise. The 'all knowledge' is not to be pressed too literally, 'our Christian knowledge in its entirety.'",
+            "The strategic position of the church in Rome made it a great centre for radiating and echoing the gospel over the world as Thessalonica did for Macedonia."
+        ],
+        "John Gill": [
+            "...he was thoroughly persuaded of better things of them, though he thus spake; and therefore, to mollify them, and abate their resentment, he adds, my brethren.",
+            "it comes from a good cause, the good Spirit of God; is good in its own nature, not having the least mixture or tincture of evil in it; and good in its effects, since it makes and denominates a man a good man.",
+            "if a man is not a good man himself, he is not fit to admonish another; and if he has not knowledge, he will not be able to do it as it should be; and without humanity and tenderness, he will not perform it aright, and with success."
+        ],
+        "John Wesley": [
+            "Ye are full of goodness - By being created anew.",
+            "And filled with all knowledge - By long experience of the things of God.",
+            "To admonish - To instruct and confirm."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, in his epilogue to the Romans, commends the believers in Rome for their goodness and knowledge, affirming that they are capable of admonishing one another without external instruction. He acknowledges their moral excellence and ability to offer mutual exhortations, emphasizing the importance of brotherly admonition. Paul's praise highlights the strategic significance of the Roman church in spreading the gospel. It is clear that he genuinely believed in the Romans' potential for growth and their ability to effectively minister to one another. This passage serves as a reminder that gentleness and a spirit of kindness should characterize Christian admonition, rather than arrogance or asperity.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.6033553559210374,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                25.8,
+                42.43,
+                31.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Given the strategic significance of the church in Rome, the apostle Paul commends the believers for their goodness and knowledge, acknowledging their ability to offer mutual exhortations without external instruction. By affirming their moral excellence and capacity for admonition, Paul underscores the importance of brotherly correction. This recognition also reveals his genuine belief in their potential for growth and their ability to effectively minister to one another. This serves as a reminder that Christian admonition should be characterized by gentleness and kindness, devoid of arrogance or asperity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.616807162442941,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                22.78,
+                43.29,
+                33.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul, in his epilogue to the Romans, commends the believers in Rome for their goodness and knowledge. He affirms their capacity to offer mutual exhortations without external instruction. Paul's praise highlights the strategic significance of the Roman church in spreading the gospel. It is clear that he genuinely believed in the Romans' potential for growth and their ability to effectively minister to one another. This reminds us that Christian admonition should be characterized by gentleness and kindness, devoid of arrogance or asperity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5301142357630422,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.22,
+            "commentatorTierSimilarities": [
+                26.72,
+                40.5,
+                32.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul praises the believers in Rome for their goodness and knowledge, affirming their ability to offer mutual exhortations without external instruction. He recognizes the strategic significance of the Roman church in spreading the gospel. Paul genuinely believes in their potential for growth and their ability to minister to one another. The importance of brotherly admonition is emphasized, highlighting that Christian correction should be characterized by gentleness and kindness, avoiding arrogance or asperity.",
+            "wordCount": 72,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.5917964635168438,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.27,
+            "commentatorTierSimilarities": [
+                27.27,
+                39.79,
+                32.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul commends the believers in Rome, acknowledging their goodness and knowledge. He recognizes their capacity to offer mutual exhortations without external instruction. Paul's praise highlights the strategic significance of the Roman church in spreading the gospel worldwide. It is evident that he genuinely believes in their potential for growth and their ability to effectively minister to one another. This serves as a reminder that Christian admonition should be characterized by gentleness and kindness, devoid of arrogance or asperity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.490525806328032,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.9,
+            "commentatorTierSimilarities": [
+                25.99,
+                38.91,
+                35.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

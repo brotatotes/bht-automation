@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:08:28",
+    "verseRef": "Romans 11:13",
+    "bestBHT": {
+        "bht": "In Romans 11:13, the Apostle Paul emphasizes the significance of his ministry to the Gentiles. As the Apostle of the Gentiles, Paul magnifies his office, glorifying his ministry and highlighting its importance. Through reaching out to the Gentiles, Paul aims to provoke jealousy in his own people, the Jews, and potentially save some of them. By addressing the Gentiles, Paul underscores the divine plan that connects the salvation of both Jews and Gentiles, ultimately highlighting the grace and goodness of God in enriching the Gentiles with the Gospel.",
+        "wordCount": 87,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.376916401712381,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+        "commentatorTierSimilarities": [
+            30.95,
+            36.76,
+            32.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Why, in an argument concerning the Jews, dwell so much on the reference to the Gentiles discernible in the divine economy regarding Israel?",
+            "I am [the] Apostle of the Gentiles, I glorify mine office.",
+            "If by any means I may provoke to jealousy mine own flesh (the Jews), and may save some of them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I speak\u2014to you Gentiles\u2014another proof that this Epistle was addressed to Gentile believers.\" ",
+            "I magnify\u2014mine office\u2014The clause beginning with 'inasmuch' should be read as a parenthesis."
+        ],
+        "Albert Barnes": [
+            "I am the apostle of the Gentiles [...] because he was especially called to carry the gospel to the Gentiles, and that this was his original commission.\" ",
+            "As Paul was especially appointed to this function, he claimed special authority to address those who were gathered into the Christian church from pagan lands.",
+            "I magnify mine office [...] He may esteem himself as less than the least of all saints, and unworthy to be called a servant of God, yet he may feel that he is an ambassador of Christ, entrusted with a message of salvation, entitled to the respect due to an ambassador, and to the honor which is appropriate to a messenger of God."
+        ],
+        "Marvin Vincent": [
+            "He labors the more earnestly for the Gentiles with a view to the salvation of his own race.",
+            "I glorify my ministry, as Rev. Not I praise, but I honor by the faithful discharge of its duties.",
+            "He implies, however, that the office is a glorious one."
+        ],
+        "John Calvin": [
+            "For he shows, that the salvation of both is so connected, that it can by the same means be promoted.",
+            "And here also he uses the verb \u03c0\u03b1\u03c1\u03b1\u03b6\u03b7\u03bb\u1ff6\u03c3\u03b1\u03b9, to provoke to emulation, and for this purpose, that the Gentiles might seek the accomplishment of Moses\u2019 prophecy, such as he describes, when they understood that it would be for their benefit.",
+            "For whatever served to render Paul\u2019s ministry illustrious, was advantageous to the Gentiles, whose salvation was its object."
+        ],
+        "Philip Schaff": [
+            "But I am sneaking to you Gentiles.",
+            "I glorify my ministry; i.e., his ministry to the Gentiles.",
+            "The original suggests that there is another phase of the subject."
+        ],
+        "Archibald T. Robertson": [
+            "To you that are Gentiles (\u03c5\u03bc\u03b9\u03bd \u03c4\u03bf\u03b9\u03c2 \u03b5\u03b8\u03bd\u03b5\u03c3\u03b9\u03bd). 'To you the Gentiles.' He has a serious word to say to them.",
+            "Inasmuch then (\u03b5\u03c6' \u03bf\u03c3\u03bf\u03bd \u03bc\u03b5\u03bd \u03bf\u03c5\u03bd). Not temporal, quamdiu, 'so long as' (Matthew 9:15), but qualitative quatenus 'in so far then as' (Matthew 25:40).",
+            "I glorify my ministry (\u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b9\u03b1\u03bd \u03bc\u03bf\u03c5 \u03b4\u03bf\u03be\u03b1\u03b6\u03c9). As apostle to the Gentiles (\u03b5\u03b8\u03bd\u03c9\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03bf\u03c2, objective genitive). Would that every minister of Christ glorified his ministry."
+        ],
+        "John Gill": [
+            "For I speak to you Gentiles... to observe unto them the grace and goodness of God, in enriching them with the Gospel of salvation.",
+            "He was ordained and set apart by God, in his eternal purposes, to be a teacher of the Gentiles.",
+            "This was magnified partly by the miracles, signs, and wonders done by him, in proof, and for the confirmation of his apostleship."
+        ],
+        "John Wesley": [
+            "Far from being ashamed of ministering to the gentiles, I glory therein.",
+            "I magnify my office.",
+            "It may be a means of provoking my brethren to jealousy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 11:13, the apostle Paul emphasizes the importance of his ministry to the Gentiles. He glorifies his office, highlighting the significance of his role as the Apostle of the Gentiles and the impact it has on his own people, the Jews. He speaks earnestly to the Gentiles, encouraging them to understand the grace and goodness of God in bringing them salvation. By magnifying his ministry, Paul aims to provoke his Jewish brethren to jealousy and ultimately lead them to salvation as well. His dedication to the Gentiles is essential to the divine economy and the fulfillment of God's plan for both groups.",
+            "wordCount": 103,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.2254492697771693,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                30.7,
+                35.24,
+                34.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, as the Apostle of the Gentiles, glorifies his ministry in Romans 11:13. He aimed to provoke jealousy in his own people, the Jews, by reaching out to the Gentiles. His focus on the Gentiles in his letter indicates a strong connection between the divine economy regarding Israel and the inclusion of the Gentiles. Paul's earnest efforts to bring salvation to the Gentiles magnified his office and illustrated the significance of his role as an ambassador of Christ. This emphasis on his ministry highlights the interconnectedness of the salvation of both Jews and Gentiles.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.3243222512989457,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.62,
+            "commentatorTierSimilarities": [
+                31.88,
+                36.43,
+                31.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, as the Apostle of the Gentiles, expresses the importance of his ministry in Romans 11:13. He seeks to provoke jealousy in his fellow Jews by reaching out to the Gentiles and saving some of them. By magnifying his office, Paul glorifies his ministry and highlights its significance. His dedication to the Gentiles serves as a means of promoting their salvation while also revealing God's grace and goodness to them. Through his role as an ambassador of Christ, Paul aims to bring about the salvation of both Jews and Gentiles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.207491028241007,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.74,
+            "commentatorTierSimilarities": [
+                30.4,
+                35.7,
+                33.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Romans 11:13, the Apostle Paul emphasizes the significance of his ministry to the Gentiles. As the Apostle of the Gentiles, Paul magnifies his office, glorifying his ministry and highlighting its importance. Through reaching out to the Gentiles, Paul aims to provoke jealousy in his own people, the Jews, and potentially save some of them. By addressing the Gentiles, Paul underscores the divine plan that connects the salvation of both Jews and Gentiles, ultimately highlighting the grace and goodness of God in enriching the Gentiles with the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.376916401712381,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+            "commentatorTierSimilarities": [
+                30.95,
+                36.76,
+                32.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Romans 11:13, Paul glorifies his ministry, emphasizing his role as the Apostle of the Gentiles. By reaching out to the Gentiles, he seeks to provoke jealousy among his fellow Jews and ultimately save some of them. Paul's earnest efforts to bring salvation to the Gentiles magnify his office and underline the interconnectedness of the salvation of both Jews and Gentiles. His ministry serves as a means to reveal God's grace and goodness, highlighting the divine plan that unfolds in the salvation of both groups.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.214249231822677,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.96,
+            "commentatorTierSimilarities": [
+                30.33,
+                35.27,
+                34.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

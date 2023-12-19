@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:10:22",
+    "verseRef": "Romans 15:19",
+    "bestBHT": {
+        "bht": "The Apostle Paul fearlessly preached the gospel, not relying on his own strength but on the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to Illyricum, fully developing and expanding its reach. Through signs and wonders, Paul's preaching was accompanied by evidence and conviction, convincing the Gentiles to embrace the gospel. It was not by his own power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.8197179051145902,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+        "commentatorTierSimilarities": [
+            20.68,
+            37.15,
+            42.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Through mighty\u2014literally, 'in the power of'.\" (Romans 15:19) ",
+            "by the power of the Spirit of God\u2014\"the Holy Ghost,\" as the true reading seems to be.\" (Romans 15:19)",
+            "so that from Jerusalem, and round about unto\u2014'as far as' Illyricum\u2014to the extreme northwestern boundary of Greece.\" (Romans 15:19)"
+        ],
+        "Albert Barnes": [
+            "By stupendous and striking miracles.",
+            "He traced his success in 'all' things to the aid of the Holy Spirit.",
+            "He had faithfully diffused the knowledge of the gospel in all that immense country."
+        ],
+        "Marvin Vincent": [
+            "For the facts, Acts 13:19.",
+            "In the division between the Eastern and Western Empire it was divided into Illyris Barbara, annexed to the Western Empires and Illyris Graeca, to the Eastern, including, Greece, Epirus, and Macedonia.",
+            "Fully preached [\u03c0\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03ba\u03b5\u03bd\u03b1\u03b9] . Lit., fulfilled Some explain, have given the Gospel its fall development so that it has reached every quarter."
+        ],
+        "John Calvin": [
+            "For who could have gathered so many churches for Christ, without being aided by the power of God?\" ",
+            "He diffused, as it were by filling up, the preaching of the gospel; for others had before begun, but he spread it wider.",
+            "The notion of filling up, which [Calvin] gives to it, is hardly consistent with what the Apostle says in Romans 15:20."
+        ],
+        "Philip Schaff": [
+            "Christ wrought through him, in word and work, in virtue of these powers; that proceeding from (miraculous) signs and wonders, and that which came from the Holy Spirit working through him on the minds of men.",
+            "So that from Jerusalem, the actual starting point of his apostolical labors, round about, not in the arc of a circle, but in a wide circuit, round about Jerusalem.",
+            "He had fully spread the glad tidings and with success everywhere, sufficient to attest his apostolic mission, and give him a ground of glorying in what Christ had wrought through him."
+        ],
+        "Archibald T. Robertson": [
+            "In power of signs and wonders.",
+            "Note repetition of \u03b5\u03bd \u03b4\u03c5\u03bd\u03b1\u03bc\u03b5 here with \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03b3\u03b9\u03bf\u03c5.",
+            "Arabia and Illyricum would thus be the extreme limits of Paul's mission journeys so far."
+        ],
+        "John Gill": [
+            "These carrying along with them evidence and conviction of the truth of what was delivered, wrought wonderfully and powerfully on the minds of the Gentiles to embrace the Gospel.\" ",
+            "It was not by might, or power of the preacher; nor merely by the power of signs and wonders; but by the powerful and efficacious grace of the Spirit of God.",
+            "He filled all places with it wherever he came, even from Jerusalem round about unto Illyricum."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle Paul boldly proclaimed the gospel, not in his own strength, but in the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to the far-reaching boundaries of Illyricum. Through the power of signs and wonders, he fully preached the Gospel, giving it its complete development. His success in gathering churches for Christ was a testament to the power of God working through him. The Holy Spirit, along with miraculous signs and wonders, had a profound impact on the Gentiles, convincing them to embrace the truth of the Gospel. It was not by human might or power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.",
+            "wordCount": 122,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.8636038367397683,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                20.03,
+                39.36,
+                40.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle Paul fearlessly preached the gospel, not relying on his own strength but on the power of the Holy Spirit. He traveled extensively, spreading the message from Jerusalem to Illyricum, fully developing and expanding its reach. Through signs and wonders, Paul's preaching was accompanied by evidence and conviction, convincing the Gentiles to embrace the gospel. It was not by his own power, but by the efficacious grace of God's Spirit that Paul filled all places with the message of salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8197179051145902,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                20.68,
+                37.15,
+                42.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle Paul fearlessly proclaimed the gospel, empowered by the Holy Spirit. From Jerusalem to Illyricum, he traveled extensively, spreading the good news and fully developing its reach. Accompanied by miraculous signs and wonders, his preaching carried evidence and conviction, persuading the Gentiles to embrace the truth. Paul's success was not by his own effort, but by the powerful grace of God's Spirit. He left no place untouched as he filled all locations with the message of salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6395587191735048,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                18.02,
+                40.74,
+                41.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle Paul fearlessly preached the gospel not in his own strength, but by the power of the Holy Spirit. With signs and wonders accompanying his message, Paul fully developed and spread the good news from Jerusalem to Illyricum. His success in gathering churches for Christ testified to the aid of God's power, bringing evidence and conviction to the Gentiles. The expansive reach of Paul's ministry was not of his own making, but a result of the powerful and efficacious grace of the Spirit of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.7686829277901837,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.15,
+            "commentatorTierSimilarities": [
+                19.01,
+                38.36,
+                42.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle Paul fearlessly preached the gospel, not in his own strength but by the power of the Holy Spirit. Accompanied by signs and wonders, he fully developed and spread the message from Jerusalem to Illyricum. Through God's power, he successfully gathered churches for Christ and filled all places with the good news. It was not by his own might or ability, but by the efficacious grace of the Spirit that Paul carried out his ministry.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7543815163229577,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+            "commentatorTierSimilarities": [
+                18.73,
+                38.32,
+                42.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

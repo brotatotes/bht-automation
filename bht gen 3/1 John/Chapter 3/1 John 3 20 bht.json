@@ -1,0 +1,101 @@
+{
+    "timestamp": "12-19-2023 15:47:55",
+    "verseRef": "1 John 3:20",
+    "bestBHT": {
+        "bht": "When our own heart condemns us, it serves as a reminder that God, who is greater than our heart and knows all things, also sees our flaws. It is not only the condemning testimony of our conscience but the echo of His voice. We cannot find peace by hiding our sins or hoping for favor from Him. Rather, we must confront our self-accusations and find reassurance in the hands of a God who surpasses us in love, compassion, and understanding.",
+        "wordCount": 81,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.5695086767650928,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.78,
+        "commentatorTierSimilarities": [
+            33.78,
+            38.06,
+            28.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If our heart condemn us, it is because God is greater than our heart, and knoweth all things.\" ",
+            "The condemning testimony of our conscience is not alone, but is a token of One sitting above our conscience and greater than our conscience.",
+            "The absence of persuasion is an index to our standing condemned of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If our heart judges us unfavorably, we may be sure that He, knowing more than our heart knows, judges us more unfavorably still.",
+            "The condemning testimony of our conscience is not alone, but is the echo of the voice of Him who is greater and knows all things.",
+            "This gaining over the heart to peace is not so advanced a stage as the having confidence towards God which flows from a heart condemning us not."
+        ],
+        "Albert Barnes": [
+            "If our hearts condemn us for present insincerity, and for secret sins, we can never 'persuade' or soothe them by any external act of piety.",
+            "God is greater than our heart, and knoweth all things - We cannot hope to find peace by hiding anything from his view, or by any supposition that he is not acquainted with the sins for which our consciences trouble us.",
+            "We cannot hope, then, for a calm mind in any supposition that God does not see our sins as clearly as we do, or in any hope that he will look on them with more favor and indulgence."
+        ],
+        "Marvin Vincent": [
+            "Render, as Rev., shall assure our heart before Him whereinsoever our heart condemn us, because God is greater than our heart.",
+            "To be regarded as related to God's judgment, or to His compassion? If to His judgment, the sense is: God who is greater than our heart and knows all things, must not only endorse but emphasize our self-accusation.",
+            "If our heart condemn, how much more God, who is greater than our heart. If to His compassion, the sense is: when our heart condemns us we shall quiet it with the assurance that we are in the hands of a God who is greater than our heart - who surpasses man in love and compassion no less than in knowledge."
+        ],
+        "John Calvin": [
+            "Faith is subverted by the disquiet of an evil conscience.",
+            "He who is harassed and condemned by his own conscience cannot escape the judgment of God.",
+            "No one can stand before God except the integrity of his conscience sustains him."
+        ],
+        "Archibald T. Robertson": [
+            "Whereinsoever our heart condemn us... It means to know something against one, to condemn.\" ",
+            "Because God is greater than our heart... Ablative \u03ba\u03b1\u03c1\u03b4\u03b9\u03b1\u03c2 after the comparative \u03bc\u03b5\u03b9\u03b6\u03c9\u03bd.\" ",
+            "And knoweth all things... God's omniscience is linked with his love and sympathy."
+        ],
+        "John Gill": [
+            "For if our heart condemn us...the conscience, which is meant by the heart here, is accuser, witness and judge...",
+            "God is greater than our heart: for he is the Maker of it, and he has the power over it, and the management of it...",
+            "And knoweth all things; that are in the heart; the principles of actions, and all the actions of men...if the condemnation of men's hearts and consciences be so very great, as sometimes to be intolerable and insupportable, what will be the righteous judgment, and dreadful condemnation of God?"
+        ],
+        "John Wesley": [
+            "much more does God, who is greater than our heart - An infinitely holier and a more impartial Judge.",
+            "knoweth all things \u2014 So that there is no hope of hiding it from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If our heart condemns us, it is because God is greater than our heart and knows all things. The condemning testimony of our conscience is not alone, but is a token of One sitting above our conscience and greater than our conscience. Our heart's condemnation reflects the knowledge and judgment of God, who sees even deeper within us. We can find peace and assurance in the hands of a God who surpasses us in love, compassion, and understanding. We cannot hope to hide anything from Him or find favor in the sins our conscience troubles us with. His omniscience is linked with his love and sympathy, and we must confront our self-accusations in light of His judgment.",
+            "wordCount": 119,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.6532597692431508,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.56,
+            "commentatorTierSimilarities": [
+                35.08,
+                35.77,
+                29.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When our own heart condemns us, it serves as a reminder that God, who is greater than our heart and knows all things, also sees our flaws. It is not only the condemning testimony of our conscience but the echo of His voice. We cannot find peace by hiding our sins or hoping for favor from Him. Rather, we must confront our self-accusations and find reassurance in the hands of a God who surpasses us in love, compassion, and understanding.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.5695086767650928,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.78,
+            "commentatorTierSimilarities": [
+                33.78,
+                38.06,
+                28.15
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

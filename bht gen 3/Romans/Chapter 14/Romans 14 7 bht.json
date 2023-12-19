@@ -1,0 +1,149 @@
+{
+    "timestamp": "12-19-2023 16:09:45",
+    "verseRef": "Romans 14:7",
+    "bestBHT": {
+        "bht": "Both the eater and abstainer in this passage are servants of another, even Christ. Christians do not live to gratify their own desires but strive to live for the glory of God. Living for others and seeking the Lord's will is an evidence of true piety. Our lives as believers are not our own, even in death. Instead, we are called to live and die for the Lord, serving His purposes.",
+        "wordCount": 72,
+        "quoteTokenProportion": 47.06,
+        "qualityScore": 2.1291690940686667,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+        "commentatorTierSimilarities": [
+            30.87,
+            35.0,
+            34.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Both parties, the eater and the abstainer, are servants of another, even Christ.",
+            "Liveth and dieth represent the whole sum of our course on earth.",
+            "This verse illustrates the former, and at the same time sets in a still plainer light than before."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7, 8. For none of us\u2014Christians",
+            "\t",
+            "liveth to himself\u2014(See",
+            "\t2 Corinthians 5:14; 2 Corinthians 5:15),",
+            "\tto dispose of himself or shape his conduct after his own ideas and",
+            "\tinclinations. ",
+            "\t",
+            "and no man\u2014\"and",
+            "\tnone\" of us Christians \"dieth to himself."
+        ],
+        "Albert Barnes": [
+            "No Christian lives to gratify his own inclinations or appetites.",
+            "In nothing else do Christians more differ from the world than in this.",
+            "To 'live to ourselves' is an evidence that we are strangers to piety."
+        ],
+        "Marvin Vincent": [
+            "But unto Christ.",
+            "Hence the meaning 'a Christian should live for others,' so often drawn from these words, is not the teaching of the passage.",
+            "a Christian should live for others"
+        ],
+        "John Calvin": [
+            "It is no matter of wonder that particular acts of our life should be referred to the Lord\u2019s will, since life itself ought to be wholly spent to his glory.",
+            "For then only is the life of a Christian rightly formed, when it has for its object the will of God.",
+            "It is an act of impiety to undertake anything whatever, which thou thinkest will displease him; nay, which thou art not persuaded will please him."
+        ],
+        "Philip Schaff": [
+            "The Christian\u2019s eating or not eating is unto the Lord.",
+            "The sum of his earthly existence, living and dying, is not \u2018unto himself.\u2019",
+            "This is true in the case of all."
+        ],
+        "Archibald T. Robertson": [
+            "To himself (\u03b5\u03b1\u03c5\u03c4\u03c9). Dative of advantage again. But to the Lord as he shows in verse Romans 14:8. Life and death focus in the Lord. "
+        ],
+        "John Gill": [
+            "None of us believers; others may, but these do not, at least they ought not, nor do they when under the influence of the grace of God: they do not live, neither to righteous, nor to sinful self.",
+            "Believers die as well as others, not eternally, or the second death, but corporeally, or a temporal death, but not to themselves.",
+            "Moreover, no man has the power over life or death; as his life is not from himself, he has no power to lengthen or shorten it, nor to hinder or hasten death; this belongs to another Lord and master, whom life and death are both to subserve."
+        ],
+        "John Wesley": [
+            "None of us \u2014 Christians, in the things we do.",
+            "Liveth to himself \u2014 Is at his own disposal; doeth his own will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Both the eater and abstainer in Romans 14:7 are servants of another, even Christ, and their lives on earth do not revolve around their own desires. Instead, they live and die to the Lord. Christians do not live to gratify their own inclinations but strive to live for the glory of God. It is an evidence of true piety for a Christian to live in a way that pleases God and seeks His will in all things. Our lives as believers are not our own, and even in death, we are not unto ourselves. The sum of our existence is focused on serving the Lord and living for His purposes.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.153852063274143,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                29.54,
+                35.78,
+                34.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Both the eater and abstainer in this passage are servants of another, even Christ. Their lives on earth do not revolve around their own desires. Christians do not live to gratify their own inclinations but strive to live for the glory of God. It is an evidence of true piety for a Christian to live in a way that pleases God and seeks His will in all things. Our lives as believers are not our own, and even in death, we are not unto ourselves. The sum of our existence is focused on serving the Lord and living for His purposes.",
+            "wordCount": 101,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.077287936618257,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                29.16,
+                35.66,
+                35.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Both the eater and abstainer in this portion of Romans are servants of another, even Christ. Their lives on earth do not revolve around their own desires. Christians do not live to gratify their own inclinations but strive to live for the glory of God. It is an evidence of true piety for a Christian to live in a way that pleases God and seeks His will in all things. Our lives as believers are not our own, and even in death, we are not unto ourselves. The sum of our existence is focused on serving the Lord and living for His purposes.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.0845020431705317,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                28.9,
+                35.63,
+                35.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Both the eater and abstainer in this passage are servants of another, even Christ. Christians do not live to gratify their own desires but strive to live for the glory of God. Living for others and seeking the Lord's will is an evidence of true piety. Our lives as believers are not our own, even in death. Instead, we are called to live and die for the Lord, serving His purposes.",
+            "wordCount": 72,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.1291690940686667,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                30.87,
+                35.0,
+                34.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Both the eater and abstainer in Romans 14:7 are servants of another, even Christ. Christians do not live to gratify their own inclinations but strive to live for the glory of God. Living for others and seeking the Lord's will is an evidence of true piety. Our lives as believers are not our own, and even in death, we are not unto ourselves. The sum of our existence is focused on serving the Lord and living for His purposes.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 2.128476763145169,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+            "commentatorTierSimilarities": [
+                30.63,
+                35.88,
+                33.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:08:37",
+    "verseRef": "Romans 11:15",
+    "bestBHT": {
+        "bht": "If the rejection of the Jews led to the reconciliation of the Gentiles, then their receiving will be like life from the dead. This life from the dead could refer to the resurrection or a new spiritual life. The casting away of the Jews was not final, and their restoration would show the power of God. It would bring about a transformation, like a resurrection from the dead, changing the mindset of people. Their restoration would also lead to a revival of true religion among the Gentiles, bringing overflowing life to a world that was once dead.",
+        "wordCount": 97,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.4206081457793083,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.83,
+        "commentatorTierSimilarities": [
+            30.26,
+            29.37,
+            40.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "if the rejection of them (not \u2018their loss,\u2019 as Luther and others, by which the antithesis to what follows is weakened) be (the occasion of) the reconciliation of the world (of the Gentiles, viz. to God), what ( \u2018of what, kind,\u2019 in its effect) (will be) the receiving of them, but (the occasion of) life from the dead?",
+            "Life from the dead may be variously taken... It may mean that \u2018life from the dead\u2019 literally should follow on the restoration of the Jewish people; i.e. that the Resurrection, the great consummation, is bound up with it.",
+            "This might well be designated \u2018life from the dead,\u2019 and in it may be implied the glories of the first resurrection, and deliverance from the bondage of corruption, without supposing the words life from the dead to be equivalent to the resurrection of the dead."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But both are true; they were cast away, though neither totally nor finally, and it is of this partial and temporary rejection that the apostle here speaks.",
+            "The reception of the whole family of Israel, scattered as they are among all nations under heaven, and the most inveterate enemies of the Lord Jesus, will be such a stupendous manifestation of the power of God upon the spirits of men.",
+            "So change the dominant mode of thinking and feeling on all spiritual things as to seem like a resurrection from the dead."
+        ],
+        "Albert Barnes": [
+            "By their unbelief, the way had been opened to preach the gospel to the Gentiles; it was the occasion by which God sent it to the nations of the earth.",
+            "One would have supposed that their rejection of the Messiah would have been an important obstacle in the way of the gospel. It was overruled, however, to promote its increase.",
+            "The resurrection of the dead was an image of the most vast and wonderful event that could take place. This image, therefore, in the apostle\u2019s mind, was a striking illustration of the great change and reformation which should take place when the Jews should be restored, and the effect should be felt in the conversion also of the Gentile world."
+        ],
+        "Marvin Vincent": [
+            "The casting away [\u03b7 \u03b1\u03c0\u03bf\u03b2\u03bf\u03bb\u03b7] ... exclusion from God's people.\" ",
+            "Reconciling of the world [\u03ba\u03b1\u03c4\u03b1\u03bb\u03bb\u03b1\u03b3\u03b7 \u03ba\u03bf\u03c3\u03bc\u03bf\u03c5] ... defining the phrase riches of the world.",
+            "Life from the dead. The exact meaning cannot be determined... some refer it to the resurrection... others, a new spiritual life."
+        ],
+        "John Calvin": [
+            "Since the rejection of the Jews has availed so much as to occasion the reconciling of the Gentiles, how much more effectual will be their resumption? Will it not be to raise them even from the dead?",
+            "Since then God has wonderfully drawn forth life from death and light from darkness, how much more ought we to hope, he reasons, that the resurrection of a people, as it were, wholly dead, will bring life to the Gentiles.",
+            "The restoration of the Jews unto God's favor will occasion the revival and spread of true religion through the whole Gentile world."
+        ],
+        "Philip Schaff": [
+            "Their unbelief occasioned the preaching of \u2018reconciliation\u2019 to the Gentiles; many Gentiles were actually reconciled to God, and this was the token of the design and adaptation of the Gospel for the whole world.",
+            "That they would be thus received, is the leading thought of the entire chapter.",
+            "The Apostle has in mind something beyond 'the reconciliation of the world,' some greater blessing than the gradual conversion of the Gentiles through the gospel, and this he terms \u2018life from the dead.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The casting away of them.\" ",
+            "The reconciling of the world.",
+            "Life from the dead."
+        ],
+        "John Gill": [
+            "As the Gentiles received present advantage through the rejection of the Jews, they would receive far greater at their future recovery, and which proves that their rejection is not final...",
+            "If this was the case then, as it was, he asks what shall the receiving of them be but life from the dead?",
+            "Their restoration will be as 'life from the dead'; which regards not so much the quickening of the Jews themselves, though their conversion will be, as the conversion of every sinner is, a resurrection from the death of sin to a life of grace..."
+        ],
+        "John Wesley": [
+            "Life from the dead \u2014 Overflowing life to the world, which was dead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the rejection of the Jews resulted in the reconciliation of the Gentiles, then the receiving of the Jews would be like life from the dead. This could refer to the literal resurrection or a new spiritual life, both of which demonstrate the power of God. The casting away of the Jews was not total or final, and their restoration would bring a stupendous manifestation of God's power. It would change the dominant mode of thinking and feeling, like a resurrection from the dead. Their restoration would not only usher in blessings for the Jews, but it would also bring about a revival and spread of true religion among the Gentiles. The restoration of the Jews and the resulting transformation would be like overflowing life to a world that was dead.",
+            "wordCount": 132,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.331845621606634,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.87,
+            "commentatorTierSimilarities": [
+                29.69,
+                31.5,
+                38.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the rejection of the Jews led to the reconciliation of the Gentiles, then their receiving will be like life from the dead. This life from the dead could refer to the resurrection or a new spiritual life. The casting away of the Jews was not final, and their restoration would show the power of God. It would bring about a transformation, like a resurrection from the dead, changing the mindset of people. Their restoration would also lead to a revival of true religion among the Gentiles, bringing overflowing life to a world that was once dead.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.4206081457793083,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.83,
+            "commentatorTierSimilarities": [
+                30.26,
+                29.37,
+                40.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of the Jews resulted in the reconciliation of the Gentiles, but the receiving of them will be like life from the dead. This can refer to the literal resurrection or a new spiritual life. Their partial and temporary rejection by God was not final, and their restoration would manifest His power. It would bring a profound transformation, like a resurrection from the dead, changing people's mindset and ushering in a revival of true religion among the Gentiles. Their restoration would bring overflowing life to a previously dead world.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.215062785456832,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.99,
+            "commentatorTierSimilarities": [
+                30.22,
+                29.05,
+                40.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of the Jews led to the reconciliation of the Gentiles, but when they are received again, it will be like life from the dead. This life from the dead could mean a literal resurrection or a new spiritual life. Although they were cast away, it was not a final rejection. The restoration of the Jews would be a great manifestation of God's power, transforming the mindset of people and bringing revival to true religion among the Gentiles. It would be like overflowing life to a once spiritually dead world.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.232247433597067,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.56,
+            "commentatorTierSimilarities": [
+                30.1,
+                27.99,
+                41.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of the Jews brought about the reconciliation of the Gentiles, but their receiving will be like life from the dead. This could mean a literal resurrection or a new spiritual life. Their temporary casting away was not final, and their restoration would be a powerful manifestation of God's power. It would bring about a transformative change in thinking and feeling, resembling a resurrection from the dead. Their restoration would also spark a revival of true religion among the Gentiles, filling the once lifeless world with overflowing life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.2756284486303255,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.01,
+            "commentatorTierSimilarities": [
+                31.21,
+                30.04,
+                38.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

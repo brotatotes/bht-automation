@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:59:08",
+    "verseRef": "Romans 2:13",
+    "bestBHT": {
+        "bht": "Those who merely hear the law but do not practice it cannot be justified before God. It is not enough to be a hearer of the law; one must be a doer. The condemnation for those who continue in sin will echo within themselves as their own conscience bears witness against their iniquity. This emphasizes the significance of obedience and action rather than merely hearing. Justification comes from fulfilling the righteous requirements of the law.",
+        "wordCount": 75,
+        "quoteTokenProportion": 54.39,
+        "qualityScore": 2.0516236595710744,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+        "commentatorTierSimilarities": [
+            26.3,
+            41.03,
+            32.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not his mere hearing of the law read in the synagogue...will justify him before God.\" ",
+            "But...the doing of the law.",
+            "(Still keeping to general principles, and not touching as yet on the impossibility of being thus justified)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The condemnation of as many of them as are found sinners at the last involves no difficulty.\" ",
+            "Their condemnation also for all the sin in which they live and die will carry its dreadful echo in their own breasts.\" ",
+            "Which witnesses within them for righteousness and against iniquity."
+        ],
+        "Albert Barnes": [
+            "Simply hearing the Law is not meeting all its requirements, and making people holy.",
+            "This was the plain and obvious demand, not only of common sense, but of the Jewish Law itself; Deuteronomy 4:1; Leviticus 18:5; compare Romans 10:9.",
+            "If the Jews, therefore, expected to be saved by their Law, it must be, not by hearing the Law, nor by being called a Jew, but by perfect and unqualified obedience to all its requirements."
+        ],
+        "Marvin Vincent": [
+            "Hearers [\u03b1\u03ba\u03c1\u03bf\u03b1\u03c4\u03b1\u03b9] . Like the Jews, who heard it regularly in the synagogues.",
+            "Only here in Paul. Three times in James.",
+            "It brings out, better than the participle oiJ ajkouontev those that hear, the characteristic feature; those whose business is hearing."
+        ],
+        "John Calvin": [
+            "The import then of this verse is the following, \u2014 'That if righteousness be sought from the law, the law must be fulfilled; for the righteousness of the law consists in the perfection of works.'",
+            "They who pervert this passage for the purpose of building up justification by works, deserve most fully to be laughed at even by children.",
+            "Now we do not deny but that perfect righteousness is prescribed in the law: but as all are convicted of transgression, we say that another righteousness must be sought."
+        ],
+        "Philip Schaff": [
+            "The Jewish mistake was that the possession of the law of itself gave them an advantage in the judgment.",
+            "The hearers of the law are righteous before God.",
+            "'Shall be justified' means, 'shall be accounted righteous.'"
+        ],
+        "Archibald T. Robertson": [
+            "Not the hearers--but the doers... The virtue is in doing.\" ",
+            "Before God... as God looks at it.\" ",
+            "Shall be justified... 'Shall be declared righteous.'"
+        ],
+        "John Gill": [
+            "Hearing without doing it will never denominate persons righteous in the sight of God, however it might recommend them in the sight of men.",
+            "Regard seems to be had either to the first delivery of the law by Moses to the people of Israel, when he read it to them, and they hearkened to it, and promised obedience; or rather to the reading and hearing it every sabbath day.",
+            "Such only can be intended, who are doers of it spiritually, internally, as well as externally, and that perfectly."
+        ],
+        "John Wesley": [
+            "For not the hearers of the law are, even now, just before God, but the doers of the law shall be justified.\" ",
+            "A most sure and important truth, which respects the gentiles also, though principally the Jews.\" ",
+            "Here is therefore no parenthesis; for the sixteenth verse also depends on the fifteenth, not on the twelfth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who simply hear the law being read or taught are not justified before God. It is not enough to be a hearer of the law; one must be a doer of the law. The condemnation of those who live in sin will have a dreadful echo within themselves, as their own conscience testifies against their iniquity. This verse emphasizes the importance of obedience and action over merely hearing the law. It is not about being declared righteous by simply hearing, but by actually doing what the law requires. In order to be justified, one must fulfill the demands of the law.",
+            "wordCount": 102,
+            "quoteTokenProportion": 52.31,
+            "qualityScore": 2.2006474140511756,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.51,
+            "commentatorTierSimilarities": [
+                25.35,
+                41.92,
+                32.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who merely hear the law but do not practice it cannot be justified before God. It is not enough to be a hearer of the law; one must be a doer. The condemnation for those who continue in sin will echo within themselves as their own conscience bears witness against their iniquity. This passage emphasizes the importance of obedience and action rather than mere hearing. Justification comes from fulfilling the righteous requirements of the law.",
+            "wordCount": 76,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.074995061186708,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                25.9,
+                41.06,
+                33.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who hear the law but do not do it cannot be justified before God. It is not enough to be a hearer of the law; one must be a doer. The condemnation of those who live in sin will have a dreadful echo within themselves, as their own conscience testifies against their iniquity. This verse emphasizes the importance of obedience and action over merely hearing the law. It is not about being declared righteous by simply hearing, but by actually doing what the law requires in order to be justified.",
+            "wordCount": 91,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 2.2506373825964037,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.17,
+            "commentatorTierSimilarities": [
+                26.42,
+                40.05,
+                33.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who merely hear the law but do not practice it cannot be justified before God. It is not enough to be a hearer of the law; one must be a doer. The condemnation for those who continue in sin will echo within themselves as their own conscience bears witness against their iniquity. This emphasizes the significance of obedience and action rather than merely hearing. Justification comes from fulfilling the righteous requirements of the law.",
+            "wordCount": 75,
+            "quoteTokenProportion": 54.39,
+            "qualityScore": 2.0516236595710744,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                26.3,
+                41.03,
+                32.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse reminds us that simply hearing the law and calling ourselves Jews does not make us righteous before God. The true requirement is the doing of the law, fulfilling it completely. The righteousness of the law lies in the perfection of works, not in mere hearing. It is not enough to hear; rather, we must be doers of the law. In God's eyes, it is the doers who will be declared righteous. This is a crucial truth that applies to both Jews and Gentiles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 2.147700156330292,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                24.35,
+                41.78,
+                33.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

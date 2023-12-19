@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:57:39",
+    "verseRef": "Romans 1:10",
+    "bestBHT": {
+        "bht": "Paul fervently prayed to the Lord, earnestly desiring a prosperous journey according to God's will, so that he could visit the Romans. He acknowledged that his entire future was in God's hands, and he continuously sought the removal of obstacles for a joyful and prosperous meeting. Paul's prayers revealed his deep love and concern for the Romans, as he fervently requested that he might have the opportunity to come to them and inspire their faith.",
+        "wordCount": 78,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.9052464712391268,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+        "commentatorTierSimilarities": [
+            26.15,
+            36.22,
+            37.63
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Pray ye to the Lord for me, [in order] that none of these things which ye have spoken come upon me.\" ",
+            "Now at length, i.e. before long:\u2014literally, 'at last, some day or other? shall have a way opened.\" ",
+            "Shall be allowed, prospered."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though long anxious to visit the capital, he met with a number of providential hindrances.",
+            "Nearly a quarter of a century elapsed, after his conversion, ere his desire was accomplished.",
+            "Thus taught that his whole future was in the hands of God, he makes it his continual prayer that at length the obstacles to a happy and prosperous meeting might be removed."
+        ],
+        "Albert Barnes": [
+            "Making request - It was his earnest desire to see them, and he presented the subject before God.",
+            "Yet all such prayers are not answered according to the letter of the petition. The prayer of Paul that be might see the Romans was granted, but in a remarkable way.",
+            "In so mysterious a manner does God often hear the prayers of his people; and though their prayers are answered, yet it is in his own time and way."
+        ],
+        "Marvin Vincent": [
+            "I might have a prosperous journey [\u03b5\u03c5\u03bf\u03b4\u03c9\u03b8\u03b7\u03c3\u03bf\u03bc\u03b1\u03b9] . Rev., I may be prospered. The A. V. brings out the etymological force of the word. See on 3 John 1:2."
+        ],
+        "John Calvin": [
+            "As it is not probable that we from the heart study his benefit, whom we are not ready to assist by our labors.",
+            "He now adds, after having said that he was anxious for their welfare, that he showed by another proof his love to them, as before God, even by requesting that he might be able to advance their interest.",
+            "By saying, 'A prosperous journey by the will of God,' he shows, not only that he looked to the Lord\u2019s favor for success in his journey, but that he deemed his journey prosperous, if it was approved by the Lord."
+        ],
+        "Philip Schaff": [
+            "How unceasingly he remembers them is evident from this constant petition, the purport of which is next expressed."
+        ],
+        "Archibald T. Robertson": [
+            "Now at length somehow it may really come true.",
+            "I may be prospered.",
+            "Paul's way lay 'in' God's will."
+        ],
+        "John Gill": [
+            "A principal thing, which be incessantly and importunately requested at the throne of grace...",
+            "That he might have an opportunity of coming to them; that God in his providence would open a way for him...",
+            "I might have a prosperous journey by the will of God, to come unto you..."
+        ],
+        "John Wesley": [
+            "Always \u2014 In all my solemn addresses to God.",
+            "If by any means now at length \u2014 This accumulation of particles declares the strength of his desire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul fervently prayed to the Lord that the obstacles hindering his visit to the Romans would be removed, and that he would have a prosperous journey according to God's will. He longed to see them and was willing to work for their benefit. Paul understood that his future was in God's hands and believed that his journey would be prosperous if it was approved by the Lord. In his constant petitions, he expressed his unceasing love and concern for them, seeking their welfare and hoping that somehow, at last, his desire to visit them would come true.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8327616164601532,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.28,
+            "commentatorTierSimilarities": [
+                24.45,
+                38.96,
+                36.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul continuously prayed to the Lord for a prosperous journey according to His will, earnestly desiring to visit the Romans. He recognized that his future depended on God and sought to show his love and care for them. Paul's unwavering petitions demonstrated his fervent desire for their welfare, hoping that somehow, at last, the obstacles would be removed and he would have the opportunity to come to them.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.8784038662555291,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.8,
+            "commentatorTierSimilarities": [
+                22.23,
+                41.38,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, being eager to visit the Romans, prayed to the Lord that the hindrances to his journey would be cleared, and that he would have a prosperous and successful voyage according to the will of God. He understood that his whole future was in God's hands and he continuously sought the removal of obstacles to a joyful and prosperous meeting. Paul's heartfelt prayers reflected his deep love and concern for the Romans, as he yearned for the opportunity to come to them and share his message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.8700886092886453,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                25.63,
+                36.28,
+                38.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul fervently prayed to the Lord that the obstacles hindering his visit to the Romans would be removed, and that he would have a prosperous journey according to God's will. He longed to see them and recognized that his future depended on God's providence. By continually seeking their welfare and expressing his love before God, Paul demonstrated his deep care for the Romans. His prayers reflected his unwavering commitment and hope that, somehow and at last, he would have the opportunity to come to them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.8375344949511452,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.44,
+            "commentatorTierSimilarities": [
+                22.14,
+                38.62,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul fervently prayed to the Lord, earnestly desiring a prosperous journey according to God's will, so that he could visit the Romans. He acknowledged that his entire future was in God's hands, and he continuously sought the removal of obstacles for a joyful and prosperous meeting. Paul's prayers revealed his deep love and concern for the Romans, as he fervently requested that he might have the opportunity to come to them and inspire their faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9052464712391268,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                26.15,
+                36.22,
+                37.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

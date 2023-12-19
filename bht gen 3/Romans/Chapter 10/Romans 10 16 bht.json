@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:07:48",
+    "verseRef": "Romans 10:16",
+    "bestBHT": {
+        "bht": "Not all believed the glad tidings because, as Isaiah said, Lord, who believed the hearing of us. Faith comes from hearing, and the hearing is through the word of Christ. The Scripture warns us that some will reject the message. Just like in Isaiah's time, there are those who hear but do not heed. This was also the case during the times of Christ and his apostles. The preaching of the Gospel remains a duty, regardless of whether people choose to listen or not.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7810273456384262,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+        "commentatorTierSimilarities": [
+            37.67,
+            30.77,
+            31.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Howbeit not all hearkened to the glad tidings, for Isaiah saith, Lord, who believed the hearing of us.",
+            "Faith then is from hearing, and the hearing is through the word of Christ.",
+            "The publication of the Gospel produces belief in it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Scripture hath prepared us to expect this sad result.",
+            "Where shall one find a believer?",
+            "They have not all believed."
+        ],
+        "Albert Barnes": [
+            "It must be admitted that all have not obeyed the gospel.",
+            "Isaiah complains that his declarations respecting the Messiah had been rejected by his countrymen.",
+            "Because he did not come with splendor and pomp, as a temporal prince, he was rejected, and put to death."
+        ],
+        "John Calvin": [
+            "Many are called, who are yet not chosen.",
+            "No benefit from the word, except when God shines in us by the light of his Spirit.",
+            "The generality of the promises does not alone and by itself make salvation common to all: on the contrary, the peculiar revelation...confines it to the elect."
+        ],
+        "Philip Schaff": [
+            "Faith was require those who did not believe were those who did not hearken.",
+            "This state of things was foreseen and predicted; was not accidental, but was recognized in the Divine plan.",
+            "The preaching of the gospel is a duty, whether men hearken or not; to believe the message is the necessary condition of really hearkening."
+        ],
+        "Archibald T. Robertson": [
+            "But they did not all hearken. They heard, but did not heed.",
+            "Some disbelieve now as they did then.",
+            "He quotes Isaiah 53:1 to show how Isaiah felt."
+        ],
+        "John Gill": [
+            "there is no success without the power of God attending it",
+            "ministers may preach, and men may hear, and yet not obey the Gospel",
+            "this was the case of the Jews in Isaiah's time, and the same in the times of Christ and his apostles, and is always the case, when divine power does not attend the preaching of the Gospel"
+        ],
+        "John Wesley": [
+            "Isaiah 53:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not everyone listened to the good news, as even Isaiah acknowledged, Lord, who believed the hearing of us. Faith comes from hearing the word of Christ, and the publication of the Gospel leads to belief. However, the Scripture prepares us for the sad reality that not everyone will believe. Just as in Isaiah's time, there are those who hear but do not heed. Some disbelieve now as they did then. This was even predicted, and the preaching of the Gospel remains a duty, regardless of whether people choose to listen or not.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.8094702707475836,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.51,
+            "commentatorTierSimilarities": [
+                41.48,
+                30.09,
+                28.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not everyone hearkened to the glad tidings, as Isaiah noted, Lord, who believed the hearing of us. Faith comes from hearing the word of Christ, and the publication of the Gospel leads to belief. However, the Scripture prepares us for the sad reality that not everyone will believe. Just as in Isaiah's time, some hear but do not heed. Even in the times of Christ and his apostles, there were those who heard but did not obey the Gospel.",
+            "wordCount": 80,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 1.8395712160150604,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.51,
+            "commentatorTierSimilarities": [
+                39.54,
+                28.99,
+                31.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Not all believed the glad tidings because, as Isaiah said, Lord, who believed the hearing of us. Faith comes from hearing, and the hearing is through the word of Christ. The Scripture warns us that some will reject the message. Just like in Isaiah's time, there are those who hear but do not heed. This was also the case during the times of Christ and his apostles. The preaching of the Gospel remains a duty, regardless of whether people choose to listen or not.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7810273456384262,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.56,
+            "commentatorTierSimilarities": [
+                37.67,
+                30.77,
+                31.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Not everyone hearkened to the glad tidings, for as Isaiah said, Lord, who believed the hearing of us. Faith comes from hearing the word of Christ, and the publication of the Gospel produces belief. However, the Scripture prepared us for this sad reality. Just as some disbelieved then, some disbelieve now. They heard but did not heed. Even Isaiah felt this frustration, as he expressed in Isaiah 53:1.",
+            "wordCount": 67,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.7922875339136461,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.94,
+            "commentatorTierSimilarities": [
+                44.22,
+                27.52,
+                28.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not everyone hearkened to the glad tidings, as Isaiah noted, Lord, who believed the hearing of us. Faith comes from hearing the word of Christ, and the publication of the Gospel produces belief. However, the Scripture prepared us to expect this sad result. Some disbelieve now as they did then. They heard but did not heed. This was the case during the times of Christ and his apostles. Isaiah, too, expressed his frustration with unbelief.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.800646166692197,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.21,
+            "commentatorTierSimilarities": [
+                45.75,
+                29.18,
+                25.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:07:21",
+    "verseRef": "Romans 9:12",
+    "bestBHT": {
+        "bht": "God's selection of the younger over the elder is evident in the history of the Israelites and Edomites. While the Edomites initially surpassed the Israelites, they were later incorporated into the Jewish nation, subjected to them in a spiritual sense. This choice was not solely based on age, but on their positions in God's theocratic plan. Paul's reference to Genesis emphasizes God's sovereign selection and the fulfillment of His divine purposes.",
+        "wordCount": 75,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 1.8104851879351531,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+        "commentatorTierSimilarities": [
+            37.73,
+            23.74,
+            38.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The elder shall serve the younger.",
+            "The nations must be considered as spoken of in their progenitors, and the elder nation is in fact that sprung from the elder brother.",
+            "History records several subjugations of Edom by the kings of Judah."
+        ],
+        "Albert Barnes": [
+            "The sense is, that the descendants of Esau, who were Edomites, should be inferior to, and subject to the descendants of Jacob. Jacob was to have the priority; the promised land; the promises; and the honor of being regarded as the chosen of God.",
+            "There was reference here, therefore, to the whole train of temporal and spiritual blessings which were to be connected with the two races of people.",
+            "The fact that it is done in one case proves also that it will be in the other; for the same great principle will run through all the dealings of the divine government."
+        ],
+        "Marvin Vincent": [
+            "While in these cases 'greater' and 'smaller' are evidently used as older and younger, yet the radical meaning is greater and less, and the reference is not to age, but to their relative position in the theocratic plan.\" ",
+            "Historically the Edomites, represented by Esau, were for a time the greater, and surpassed the Israelites in national and military development.",
+            "Their final subjugation was effected by John Hyrcanus, who incorporated them into the Jewish nation and compelled them to be circumcised."
+        ],
+        "John Calvin": [
+            "See how the Lord makes a difference between the sons of Isaac, while they were as yet in their mother\u2019s womb... God designed to show to the younger peculiar favor, which he denied to the elder.",
+            "Though this indeed had reference to the right of primogeniture, yet in this, as the symbol of something greater, was manifested the will of God.",
+            "There was then something greater than the primogeniture promised in the answer given by the Lord."
+        ],
+        "Philip Schaff": [
+            "The elder shall serve the younger; lit., \u2018the greater shall serve the less.\u2019",
+            "Hence it seems best to accept here both the national and personal reference.",
+            "Eternal results in the case of these persons are not involved in the original prophecy."
+        ],
+        "Archibald T. Robertson": [
+            "The source of the selection is God himself.",
+            "Paul quotes Genesis 25:33 (LXX)."
+        ],
+        "John Gill": [
+            "Esau shall be a servant to Jacob; which is to be understood, not of temporal servitude; for in this sense he never was a servant to him.",
+            "This servitude therefore is to be understood in a spiritual sense, of Esau's exclusion from the favour of God.",
+            "Esau was a servant of sin, under the dominion of it, and in bondage to it; whilst Jacob was the Lord's freeman, and, as a prince, had power with God and with men, and prevailed."
+        ],
+        "John Wesley": [
+            "Shall serve the younger \u2014 Not in person, for he never did; but in his posterity.",
+            "Accordingly the Edomites were often brought into subjection by the Israelites.",
+            "Genesis 25:23."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 9:12, Paul quotes Genesis 25:33 to highlight God's selection of the younger over the elder. Historically, the Edomites, represented by Esau, were initially greater than the Israelites, but they were later subjugated and incorporated into the Jewish nation. This selection was not based solely on age, but on their relative positions in God's plan. The phrase the elder shall serve the younger signifies the spiritual exclusion of Esau and the blessings bestowed upon Jacob and his descendants. Ultimately, this verse emphasizes God's sovereign choice and the fulfillment of His divine purposes.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.8122739784578799,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.6,
+            "commentatorTierSimilarities": [
+                36.07,
+                26.09,
+                37.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's selection of the younger over the elder is evident in the history of the Israelites and Edomites. While the Edomites initially surpassed the Israelites, they were later incorporated into the Jewish nation, subjected to them in a spiritual sense. This choice was not solely based on age, but on their positions in God's theocratic plan. Paul's reference to Genesis emphasizes God's sovereign selection and the fulfillment of His divine purposes.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.8104851879351531,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.54,
+            "commentatorTierSimilarities": [
+                37.73,
+                23.74,
+                38.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Romans 9:12, God's sovereign selection is highlighted through the juxtaposition of the elder and the younger. Historically, the Edomites, represented by Esau, were initially greater than the Israelites. However, they eventually became subject to the Israelites, exemplifying God's chosen plan. This selection is not solely based on age but on their relative positions in the theocratic plan. Paul's reference to Genesis demonstrates God's intentional choice and the fulfillment of His divine purposes.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7342381773124713,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.01,
+            "commentatorTierSimilarities": [
+                37.57,
+                24.43,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's selection of the younger over the elder is evident in the history of the Israelites and Edomites. While the Edomites initially surpassed the Israelites, they were later incorporated into the Jewish nation, subjected to them in a spiritual sense. This choice was not solely based on age, but on their positions in God's theocratic plan. The reference to Genesis underscores God's sovereign selection and the fulfillment of His divine purposes.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.8051201218673456,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                37.3,
+                24.91,
+                37.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In God's plan, the elder nation, represented by the Edomites, serves the younger nation, represented by the Israelites. This selection is not merely based on age, but rather on their relative positions in the theocratic plan. Throughout history, the Edomites were subjugated and incorporated into the Jewish nation, demonstrating God's sovereign choice. Paul references Genesis to highlight this divine selection and its fulfillment in His overall purposes.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.7181691430236992,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                39.61,
+                25.14,
+                35.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:10:01",
+    "verseRef": "Romans 14:18",
+    "bestBHT": {
+        "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys.",
+        "wordCount": 82,
+        "quoteTokenProportion": 56.14,
+        "qualityScore": 1.7829586491565657,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+        "commentatorTierSimilarities": [
+            31.56,
+            36.9,
+            31.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For all men will yield admiration, not so much to perfection, as to peace and unanimity.",
+            "In the benefits of this latter all can share, but in that other, no one.",
+            "Chrysostom says, 'all men will yield admiration, not so much to perfection, as to peace and unanimity.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "in this threefold life.",
+            "Christ...as naturally as before.",
+            "these being the things which God delights in, and men are constrained to approve."
+        ],
+        "Albert Barnes": [
+            "He receives Christ as his 'master' or 'teacher' and does his will in regard to them.",
+            "To do these things is to do honor to Christ, and to show the excellency of his religion.",
+            "People will 'approve' of such conduct; they will esteem it to be right, and to be in accordance with the spirit of Christianity."
+        ],
+        "John Calvin": [
+            "He, who with a quiet and peaceful conscience serves Christ in righteousness, renders himself approved by men as well as by God.",
+            "Wherever then there is righteousness and peace and spiritual joy, there the kingdom of God is complete in all its parts.",
+            "But Paul speaks here of honest judgment, blended with no moroseness, no hatred, no superstition."
+        ],
+        "Philip Schaff": [
+            "For he that herein...shows that duty in the kingdom of God consists in service of Christ.",
+            "Is well pleasing to God; since such service is what He enjoins, and approved of men.",
+            "Men can approve of the conduct of Christians even while they hate it for the reproof it conveys."
+        ],
+        "Archibald T. Robertson": [
+            "On the principle implied by these virtues\" (Sanday and Headlam).",
+            "Acceptable to men.\" Stands the test for men.",
+            "See 1 Corinthians 11:19; 2 Corinthians 10:18; 2 Timothy 2:15."
+        ],
+        "John Gill": [
+            "He whose faith is an obedient one, and embraces these things, and from the heart obeys them; who seeks righteousness alone by Christ, and peace and pardon through his blood; who rejoices in Christ Jesus, and puts no trust in the flesh, in moral duties or ceremonial services; and who, from principles of grace, serves Christ in a way of righteousness, wherein he possesses true peace of conscience, and abundance of spiritual joy and comfort...",
+            "...the beloved, in whom he believes, from whom he derives all his peace, joy, and comfort; and whom he serves in righteousness and holiness, and through whom also all his services are acceptable unto God...",
+            "...those who live honestly and uprightly, who cultivate peace and friendship among men, and carry themselves cheerfully and civilly to all men, cannot but be approved of by the generality of them, though they may dislike them on other accounts."
+        ],
+        "John Wesley": [
+            "In these \u2014 Righteousness, peace, and joy.",
+            "Men \u2014 Wise and good men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. On the principle implied by these virtues, stands the test for men. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys. Thus, those who live honestly and uprightly, cultivating peace and friendship, cannot help but be approved of by wise and good men.",
+            "wordCount": 116,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7560466787898634,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                32.97,
+                33.6,
+                33.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. On the principle implied by these virtues, stands the test for men. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys.",
+            "wordCount": 94,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.756404598300073,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                34.79,
+                35.34,
+                29.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys.",
+            "wordCount": 82,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 1.7829586491565657,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                31.56,
+                36.9,
+                31.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys.",
+            "wordCount": 82,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 1.7829586491565657,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                31.56,
+                36.9,
+                31.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For all men will yield admiration, not so much to perfection, as to peace and unanimity. In the benefits of this latter all can share, but in that other, no one. When one receives Christ as their master and does his will in regard to righteousness, peace, and joy, they honor Christ and show the excellency of his religion. People will approve of such conduct and esteem it to be right, even if they may dislike it for the reproof it conveys.",
+            "wordCount": 82,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 1.7829586491565657,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                31.56,
+                36.9,
+                31.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

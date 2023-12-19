@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:07:45",
+    "verseRef": "Romans 10:5",
+    "bestBHT": {
+        "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. This righteousness of the law requires perfect compliance with all the statutes, promoting order, health, purity, and benevolence. However, no one had ever truly fulfilled the law. It is in this context that Paul harmonizes the law with faith. The righteousness of the law lies in both external and internal obedience, requiring love, fear, and faith in God, as well as a conformity of heart and nature to His law.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.1038553089860246,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+        "commentatorTierSimilarities": [
+            34.5,
+            29.15,
+            36.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "This is the one way of justification and life\u2014by 'the righteousness which is of (or, by our own obedience to) the law.'",
+            "The man that doeth hath done those things which it commands.",
+            "Shall live in them."
+        ],
+        "Albert Barnes": [
+            "He who shall render perfect and continued compliance with all the statutes made known, shall receive the reward which the Law promises.\" ",
+            "The effect would be to produce happiness in this life and in the life to come. The tendency and result of obedience would be to promote order, health, purity, benevolence; to advance the welfare of man, and the honor of God, and thus must confer happiness.",
+            "If perfect obedience were rendered, it would, from the nature of the case, confer happiness and life as long as the obedience was rendered. God would not punish the innocent."
+        ],
+        "Marvin Vincent": [
+            "Moses writeth that the man, etc.\" ",
+            "The righteousness which is of the law shall live thereby."
+        ],
+        "John Calvin": [
+            "He then removes this, and in the best manner, when by the teaching of the law itself he confirms the righteousness of faith.",
+            "But we ought to understand the reason why Paul harmonizes the law with faith, and yet sets the righteousness of one in opposition to that of the other.",
+            "The more detestable on this account is the stupidity of the Papists, who think it enough to prove merits by adducing bare promises."
+        ],
+        "Philip Schaff": [
+            "The participle sums up the obedience as one act, which is the condition of \u2018living\u2019; the starting-point is not faith, but the exact and full performance of that which the law requires.\" ",
+            "It is implied, but not directly asserted, that no one had thus fulfilled it.\" ",
+            "Even the doing and living, so far as they became a reality, pointed to Christ, who by His vicarious doing and living makes us live and do."
+        ],
+        "Archibald T. Robertson": [
+            "Thereby (\u03b5\u03bd \u03b1\u03c5\u03c4\u03b7). That is by or in \"the righteousness that is from law.\" He stands or falls with it. The quotation is from Leviticus 18:5. "
+        ],
+        "John Gill": [
+            "The righteousness of the law lies in 'doing' and keeping those statutes, not merely externally, but internally, with all the heart and soul, and strength.",
+            "The law requires love to God, fear of him, and faith in him, and an inward disposition of the mind towards him, and a conformity of heart and nature to his law, as well as outward obedience.",
+            "As the righteousness of the law is a righteousness of works done by men, it cannot be the righteousness God imputes, for that is without works, and by which a man can be justified before God."
+        ],
+        "John Wesley": [
+            "The man who doeth these things shall live by them - that is, he that perfectly keeps all these precepts in every point, he alone may claim life and salvation by them.",
+            "But this way of justification is impossible to any who have ever transgressed any one law in any point.",
+            "Leviticus 18:5"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. This righteousness of the law requires perfect and continued compliance with all the statutes, which would produce happiness and promote order, health, purity, and benevolence. However, it must be noted that no one had ever truly fulfilled the law. It is in this context that Paul harmonizes the law with faith. The righteousness of the law lies in both external and internal obedience, requiring love, fear, and faith in God, as well as a conformity of heart and nature to His law. Yet, this way of justification is impossible for anyone who has ever transgressed even a single law.",
+            "wordCount": 128,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 2.024367462936021,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                32.79,
+                28.97,
+                38.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. This righteousness of the law requires perfect compliance with all the statutes, promoting order, health, purity, and benevolence. However, no one had ever truly fulfilled the law. It is in this context that Paul harmonizes the law with faith. The righteousness of the law lies in both external and internal obedience, requiring love, fear, and faith in God, as well as a conformity of heart and nature to His law.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.1038553089860246,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                34.5,
+                29.15,
+                36.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. However, no one had ever truly fulfilled the law. The righteousness of the law requires perfect compliance with all the statutes, promoting order, health, purity, and benevolence. It is in this context that Paul harmonizes the law with faith. The righteousness of the law lies in both external and internal obedience, requiring love, fear, and faith in God, as well as a conformity of heart and nature to His law.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0980990119982295,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                34.5,
+                29.07,
+                36.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. However, no one had ever truly fulfilled the law. The righteousness of the law requires perfect compliance with all the statutes, promoting order, health, purity, and benevolence. It is in this context that Paul harmonizes the law with faith, recognizing that this way of justification is impossible for anyone who has ever transgressed even a single law.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.07731772758046,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                34.18,
+                28.76,
+                37.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The righteousness that comes from obeying the law is the one way of justification and life. The man who does all that the law commands shall live in them. However, no one had ever truly fulfilled the law. The righteousness of the law requires perfect compliance with all the statutes, promoting order, health, purity, and benevolence. It is in this context that Paul harmonizes the law with faith, recognizing that this way of justification is impossible for anyone who has ever transgressed even a single law.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.07731772758046,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                34.18,
+                28.76,
+                37.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

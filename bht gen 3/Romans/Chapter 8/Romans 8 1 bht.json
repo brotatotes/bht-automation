@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:28",
+    "verseRef": "Romans 8:1",
+    "bestBHT": {
+        "bht": "Through incorporation and union with Christ Jesus, believers are freed from the power of sin and death, experiencing no condemnation. This union is a union in life, as believers have one life with Christ, just as the head and the members of a body have one life. With the indwelling of Christ's Spirit in them, believers can confidently lead a consecrated and crucified life. Through Jesus Christ, there is freedom from condemnation and the capability to live a life dedicated to God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 42.55,
+        "qualityScore": 2.1071350048564144,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+        "commentatorTierSimilarities": [
+            38.23,
+            29.89,
+            31.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is therefore... no condemnation to them which are in Christ Jesus.",
+            "This... setting forth the fact of the deliverance.",
+            "The expression 'in Christ Jesus'... incorporation into and union with Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The scope...is to show how 'the law of sin and death' is deprived of its power to bring believers again into bondage, and how the holy law of God receives in them the homage of a living obedience.\" ",
+            "As Christ...was, to all legal effects, 'made sin for us,' so are we...to all legal effects, 'made the righteousness of God in Him' and thus, one with Him in the divine reckoning. there is to such 'NO CONDEMNATION.'",
+            "But this is no mere legal arrangement: it is a union in life; believers, through the indwelling of Christ's Spirit in them, having one life with Him, as truly as the head and the members of the same body have one life."
+        ],
+        "Albert Barnes": [
+            "The function of the law is to condemn. The one never affords deliverance, but always condemns; the object of the other is to free from condemnation, and to set the soul at liberty.",
+            "There is no final condemnation under the gospel. The function, design, and tendency of the gospel is to free from the condemning sentence of law.",
+            "If a man has these fruits of the Spirit, he is a Christian; if not, he is a stranger to religion, whatever else he may possess."
+        ],
+        "Marvin Vincent": [
+            "Being freed through Jesus Christ, there is therefore no condemnation now.",
+            "Condemnation [\u03ba\u03b1\u03c4\u03b1\u03ba\u03c1\u03b9\u03bc\u03b1] . As ch. 5 16, sentence of condemnation.",
+            "Who walk not, etc. The best texts omit to the end of the verse."
+        ],
+        "John Calvin": [
+            "Though they were still beset by sin, they were yet exempt from the power of death, and from every curse, provided they lived not in the flesh but in the Spirit.",
+            "The trembling consciences of the godly have an invincible fortress, for they know that while they abide in Christ they are beyond every danger of condemnation.",
+            "Those who walk after the Spirit are not such as have wholly put off all the emotions of the flesh, but they are those who sedulously labor to subdue and mortify the flesh, so that the love of true religion seems to reign in them."
+        ],
+        "Philip Schaff": [
+            "No condemnation. 'No' is in emphatic position.\" ",
+            "In Christ Jesus. In vital union with Him; the phrase being a deeply significant one.\" ",
+            "The walk appear as the ground of 'no condemnation.'"
+        ],
+        "Archibald T. Robertson": [
+            "Points back to the triumphant note in Romans 7:25 after the preceding despair.",
+            "But God offers pardon 'to those in Christ Jesus...There and there alone is safety.",
+            "Those in Christ Jesus can lead the consecrated, the crucified, the baptized life."
+        ],
+        "John Gill": [
+            "There is therefore now, no condemnation [...]; there is not one condemnation lies against them, with respect to their numerous sins, original and actual, though every sin deserves one.\" ",
+            "The privilege itself here mentioned is, 'no condemnation': condemnation is sometimes put for the cause of it, which is sin, original and actual; now though God's elect are sinners, both by nature and practice, and after conversion have sin in them, their sanctification being imperfect, yet there is none in them with respect to justification.",
+            "Once more, condemnation may mean actual damnation, or eternal death, the wages of sin, which those who are in Christ shall never die; they are ordained to eternal life, and are redeemed from this death; they are made alive by Christ, and have eternal life secured to them in him, and which they shall certainly enjoy."
+        ],
+        "John Wesley": [
+            "There is therefore now no condemnation - Either for things present or past.\" ",
+            "Now he comes to deliverance and liberty.\" ",
+            "The apostle here resumes the thread of his discourse, which was interrupted, Romans 7:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 8:1, the verse not only declares that there is no condemnation for those who are in Christ Jesus, but it also emphasizes the significance of being incorporated into and united with Him. Through this union, believers are made one with Christ in the divine reckoning, and as a result, they are freed from the power of sin and death. This union is not merely a legal arrangement, but a union in life, with believers having the indwelling of Christ's Spirit within them. While believers may still struggle with sin, the privilege of no condemnation lies against them, and they are beyond the danger of eternal death. This verse offers the assurance that through Jesus Christ, there is freedom from condemnation and the capability to lead a consecrated and crucified life.",
+            "wordCount": 132,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 2.149909572234777,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                35.79,
+                29.21,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through incorporation and union with Christ Jesus, believers are freed from the power of sin and death, experiencing no condemnation. This union goes beyond a mere legal arrangement; it is a union in life, where believers share in the same life as the head and the members of a body. This freedom from condemnation is not limited to a escape from legal consequences; it provides safety and pardoning, allowing believers to live a consecrated and crucified life in Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.023508782412369,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                39.54,
+                28.8,
+                31.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through incorporation and union with Christ Jesus, believers are made one with Him in the divine reckoning, experiencing no condemnation. This union is not merely a legal arrangement, but a union in life; believers have the indwelling of Christ's Spirit within them, sharing one life with Him. As a result, they are freed from the power of sin and death. This freedom from condemnation is not limited to escaping legal consequences, but rather offers safety, pardoning, and the ability to live a consecrated and crucified life in Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.070991618601113,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.2,
+            "commentatorTierSimilarities": [
+                37.97,
+                28.16,
+                33.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through incorporation and union with Christ Jesus, believers share one life with Him, resulting in no condemnation. This union goes beyond a legal arrangement; it is a union in life, akin to the relationship between the head and the members of a body. This freedom from condemnation provides safety, offering believers pardon and the ability to live a consecrated and crucified life. Freed from the power of sin and death, those in Christ Jesus can confidently walk in the Spirit, experiencing deliverance and liberty.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9751284472411852,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                39.12,
+                29.69,
+                31.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through incorporation and union with Christ Jesus, believers are freed from the power of sin and death, experiencing no condemnation. This union is a union in life, as believers have one life with Christ, just as the head and the members of a body have one life. With the indwelling of Christ's Spirit in them, believers can confidently lead a consecrated and crucified life. Through Jesus Christ, there is freedom from condemnation and the capability to live a life dedicated to God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 2.1071350048564144,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                38.23,
+                29.89,
+                31.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

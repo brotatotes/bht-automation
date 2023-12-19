@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:59:01",
+    "verseRef": "Romans 2:11",
+    "bestBHT": {
+        "bht": "God's judgment is impartial and fair, as He does not show favoritism or consider external factors such as wealth or appearance. Both Jews and Gentiles will be judged based on how they have utilized the advantages they have been given. The phrase respect of persons highlights that God's judgment is not influenced by personal preferences, but rather by a person's character and actions. Ultimately, God's judgment is just and will reward each individual according to their works.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.9593056507550777,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+        "commentatorTierSimilarities": [
+            25.86,
+            41.64,
+            32.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This remark serves as the transition to what follows, not merely as the confirmation of what went before.",
+            "Though the Jew has had great advantages, he shall be justly judged for his use of them, not treated as a favourite of Heaven.",
+            "It introduces a comparison, between him and the Gentile to shew how fairly he will be, for those greater advantages, regarded as first in responsibility."
+        ],
+        "Albert Barnes": [
+            "For God would deal with both on the principles of justice.",
+            "He will not be influenced in awarding the retributions of eternity, in actually pronouncing and executing sentence, by any partiality, or by regard to the wealth, function, rank, or appearance of people.",
+            "He will judge righteous judgment; he will judge people as they ought to be judged; according to their character and deserts; and not contrary to their character, or by partiality."
+        ],
+        "Marvin Vincent": [
+            "Respect of persons [\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c8\u03b9\u03b1] Only once outside of Paul 's writings, James 2:1, on which see note."
+        ],
+        "John Calvin": [
+            "There is then a division of the whole human race into two classes; for God had separated the Jews from all the rest, but the condition of all the Gentiles was the same.",
+            "But the word 'person' is taken in Scripture for all outward things, which are wont to be regarded as possessing any value or esteem.",
+            "The first, when he chooses and calls us from nothing through gratuitous goodness, as there is nothing in our nature which can be approved by him; the second, when after having regenerated us, he confers on us his gifts, and shows favor to the image of his Son which he recognizes in us."
+        ],
+        "Philip Schaff": [
+            "For there is no respect, etc. This is not a mere repetition of Romans 2:6; but shows the reason why \u2018the Jew first, and also of the Greek.\u2019 Since God has no respect of persons, He must judge the Jew first.",
+            "The verse, therefore, constitutes a proper transition to the next paragraph (Romans 2:12-16), which sets forth that God\u2019s judgment is according to light.",
+            "The phrase \u2018respect of persons\u2019 is represented in the original by one word. The conception is from the Hebrew (to lift up, or accept, the face), and in the New Testament is always used in a bad sense, of unjust partiality."
+        ],
+        "Archibald T. Robertson": [
+            "Respect of persons (\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c8\u03b9\u03b1). Milligan (Vocabulary) considers this word (in N.T. only here, Colossians 3:25; Ephesians 6:9) and \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c0\u03c4\u03b7\u03c2 (Acts 10:34) and \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c0\u03c4\u03b5\u03c9 (James 2:9) the earliest definitely known Christian words, not in LXX or non-Christian writings.\" ",
+            "See on Acts 10:34 for the formation in imitation of the Hebrew to take note of the face (\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bd, \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9), to judge by the face or appearance."
+        ],
+        "John Gill": [
+            "It will not come into consideration, at the day of judgment, of what nation men are; or from what parents they are descended; nor of what age and sex persons be; nor in what state and condition they have lived in this world; nor will it be asked to what sect they have belonged, and by what denomination they have been called; or whether they have conformed to such and such externals and rituals in religion; but only whether they are righteous men or sinners; and accordingly as they appear under these characters, judgment will proceed.\" ",
+            "This passage respects matters of strict justice, and is a forensic expression relating to courts of judicature, where persons presiding are to have no regard to the faces of men, but do that which is strictly just between man and man.",
+            "Though God, as a Judge, respects no man's person; yet in matters of grace he distinguishes one person from another, as it is plain he does by the bounties of his Providence."
+        ],
+        "John Wesley": [
+            "For there is no respect of persons with God.",
+            "He will reward every one according to his works.",
+            "But this is well consistent with his distributing advantages and opportunities of improvement, according to his own good pleasure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God's judgment is based on justice and fairness, not on personal favoritism or external factors. Both Jews and Gentiles will be judged according to their use of the advantages they have been given. The phrase respect of persons refers to God's impartial judgment, which will not be influenced by wealth, status, or appearance. This verse serves as a transition to the next paragraph, highlighting that God's judgment is based on the amount of light and knowledge individuals have received. Ultimately, God's judgment will be according to a person's character and works, not based on external factors or religious affiliations.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.8791415556238098,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                24.61,
+                44.75,
+                30.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's judgment is not biased or influenced by external factors, such as wealth or appearance. It is based on justice and fairness, as He will judge each person according to their character and works. This impartiality applies to both Jews and Gentiles, who will be judged based on how they have used the advantages given to them. The concept of respect of persons emphasizes that God's judgment is not swayed by personal favoritism. Ultimately, it is the righteousness or sinfulness of individuals that determines the judgment they will receive.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9219339726549836,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.25,
+            "commentatorTierSimilarities": [
+                25.7,
+                43.08,
+                31.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's judgment is impartial and fair, as He does not show favoritism or consider external factors such as wealth or appearance. Both Jews and Gentiles will be judged based on how they have utilized the advantages they have been given. The phrase respect of persons highlights that God's judgment is not influenced by personal preferences, but rather by a person's character and actions. Ultimately, God's judgment is just and will reward each individual according to their works.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.9593056507550777,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                25.86,
+                41.64,
+                32.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's judgment is not based on personal favoritism, external factors, or appearances. It is a just and fair judgment that considers the character and actions of individuals. This applies to both Jews and Gentiles, who will be judged according to how they have used the advantages given to them. The phrase respect of persons emphasizes that God's judgment is not influenced by unfair partiality. Instead, it is a righteous judgment that rewards each individual based on their works.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9134547724270898,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                26.27,
+                42.3,
+                31.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's judgment is not biased by personal preference or the external factors of wealth, status, or appearance. It is a just judgment based on individuals' character, actions, and use of the advantages given to them. This impartiality applies to both Jews and Gentiles, as God's fairness extends to all. The phrase respect of persons underscores God's impartiality, ensuring that judgment is free from unjust partiality. Ultimately, God's judgment rewards each person according to their works, reflecting his perfect justice.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.8116667303961296,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.58,
+            "commentatorTierSimilarities": [
+                22.48,
+                44.42,
+                33.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:47:16",
+    "verseRef": "1 John 2:26",
+    "bestBHT": {
+        "bht": "John is doing his part to rescue the sheep from the wolves, as Paul did. These deceivers are trying to lead the audience astray, attempting to seduce or lead them into error. John urges them to be on guard and not be deceived. It is the duty of a good and diligent pastor to drive away wolves and diligently teach the Church, always striving to expose and banish errors spread by seducers. John is writing to equip and protect the audience from these dangerous deceivers.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.66,
+        "qualityScore": 1.6596877582647154,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+        "commentatorTierSimilarities": [
+            30.09,
+            36.68,
+            33.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These things I wrote to you concerning them that deceive you.",
+            "The present tense, deceive, describes the occupation, the endeavor, of the antichrists.",
+            "What result it had had, is not expressed: some result seems implied by ver. 19."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. These things\u2014 ( :-). ",
+            "\t",
+            "have I written\u2014resumed",
+            "\tfrom 1 John 2:21; 1 John 2:14.",
+            "\t",
+            "seduce you\u2014that is, are",
+            "\ttrying to seduce or lead you into error."
+        ],
+        "Albert Barnes": [
+            "Respecting their character, and in order to guard you against their arts.",
+            "The word 'seduce' means to lead astray; and it here refers to those who would seduce them 'from the truth,' or lead them into dangerous error.",
+            "He refers to the fact that there was danger that they might be led into error."
+        ],
+        "John Calvin": [
+            "It is necessary that the Spirit of God should direct you in all things; for in vain shall I, by the sound of my voice, beat your ears, or rather the air, unless he speaks within you.",
+            "It is the duty of a good and diligent pastor not only to gather a flock, but also to drive away wolves' for what will it avail to proclaim the pure gospel, if we connive at the impostures of Satan?",
+            "No one, then, can faithfully teach the Church, except he is diligent in banishing errors whenever he finds them spread by seducers."
+        ],
+        "Archibald T. Robertson": [
+            "Concerning those that are trying to lead you astray.\" ",
+            "John is doing his part to rescue the sheep from the wolves.\" ",
+            "John is doing his part to rescue the sheep from the wolves, as Paul did."
+        ],
+        "John Gill": [
+            "These men endeavored to seduce them: they lay in wait to deceive, and attempted to deceive them, by walking in craftiness, and handling the word of God deceitfully.",
+            "He acted the part of a tender Father, a faithful shepherd, and a careful monitor.",
+            "That they might be known, and so shunned and avoided, the apostle points them out, and shows who they are; that they are such who deny that Jesus is the Christ, and do not own neither the Father nor the Son."
+        ],
+        "John Wesley": [
+            "I have written to you \u2014 St. John, according to his custom, begins and ends with the same form...\" (1 John 2:26)",
+            "Having finished a kind of parenthesis, 1 John 2:20-26...\" (1 John 2:26)",
+            "Continues, 2:27, what he said in the twentieth verse, concerning them that would seduce you.\" (1 John 2:26)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John is warning his audience about those who are trying to lead them astray. He is urging them to be on guard against these deceivers, for they are like wolves among the sheep. Just as Paul did in his ministry, John is doing his part to protect the flock from the dangers of false teachings. These seducers are attempting to lead them into error, but John is writing to equip them with the truth and help them stay rooted in it. It is the duty of a faithful pastor to drive away such wolves and diligently teach the Church, always on the lookout for and exposing any spread of deception.",
+            "wordCount": 110,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6662080423168013,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.74,
+            "commentatorTierSimilarities": [
+                28.11,
+                36.36,
+                35.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John warns his audience about deceivers who are trying to lead them astray, an occupation of the antichrists. Just as Paul did, John is rescuing the sheep from the wolves. He is equipping them with the truth to protect them from the dangers of false teachings. It is the duty of a faithful pastor to drive away wolves and diligently teach the Church, always on the lookout for and exposing any spread of deception.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.5548722687533167,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.04,
+            "commentatorTierSimilarities": [
+                29.82,
+                33.65,
+                36.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John is doing his part to rescue the sheep from the wolves, as Paul did. These deceivers are trying to lead the audience astray, attempting to seduce or lead them into error. John urges them to be on guard and not be deceived. It is the duty of a good and diligent pastor to drive away wolves and diligently teach the Church, always striving to expose and banish errors spread by seducers. John is writing to equip and protect the audience from these dangerous deceivers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.6596877582647154,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.53,
+            "commentatorTierSimilarities": [
+                30.09,
+                36.68,
+                33.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, like Paul, is rescuing the sheep from the wolves who are attempting to lead them astray. These deceivers are seducing and trying to lead the audience into error. John warns them to be on guard and recognizes it is the duty of a diligent pastor to banish errors and protect the Church. By writing to the audience, John is equipping them with the truth to shield them from the dangers of false teachings and deception.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.6351449025927147,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.71,
+            "commentatorTierSimilarities": [
+                26.46,
+                40.89,
+                32.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John warns his audience about those who are trying to lead them astray. He is urging them to be on guard against these deceivers, for they are like wolves among the sheep. Just as Paul did in his ministry, John is doing his part to protect the flock from the dangers of false teachings. These seducers are attempting to lead them into error, but John is writing to equip them with the truth and help them stay rooted in it. It is the duty of a faithful pastor to drive away such wolves and diligently teach the Church, always on the lookout for and exposing any spread of deception.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 1.6590142482153247,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.5,
+            "commentatorTierSimilarities": [
+                28.21,
+                36.48,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

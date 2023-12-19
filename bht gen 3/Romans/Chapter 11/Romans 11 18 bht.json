@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:08:23",
+    "verseRef": "Romans 11:18",
+    "bestBHT": {
+        "bht": "Boast not against the branches, for it is not thou that bearest the root, but the root thee. Remember that your blessings and standing in the family of God come solely from your union with the spiritual church, whose root is the Father of the faithful. Do not scorn the branches, for you, O Gentile, are like a branch in relation to the root. Acknowledge that all you are and have in the family of God has come from Israel, for salvation is of the Jews. Humbly pray for and be thankful for God's sovereign and distinguishing grace.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.243977797255405,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+        "commentatorTierSimilarities": [
+            33.01,
+            31.82,
+            35.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Boast not against the branches (which were broken off). But if thou boastest against them (know that..., or let this consideration humble thee, that... Similarly 1 Cor. xi. 16, 'But if any man seemeth to be contentious,... we have no such custom'), it is not thou that bearest the root, but the root thee.\" (Romans 11:18)",
+            "Thou partakest of thy blessings solely by union with God's spiritual church, which church has for its root that Father of the faithful, from whom they are descended. Regard them not therefore with scorn.\" (Romans 11:18)",
+            "This is expanded further in ver. 20.\" (Romans 11:18)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If the branches may not boast over the root that bears them, then may not the Gentile boast over the seed of Abraham.\" ",
+            "For what is thy standing, O Gentile, in relation to Israel, but that of a branch in relation to the root?",
+            "From Israel hath come all that thou art and hast in the family of God; for 'salvation is of the Jews'."
+        ],
+        "Albert Barnes": [
+            "The ingrafted shoot, deriving all its vigor and fruitfulness from the stock of another tree, ought not to boast against the branches.",
+            "If there were occasion for boasting, it would rather be in the root or stock which sustains the branches; least of all can it be in those which were grafted in, having been before wholly unfruitful.",
+            "The tree, even with a part of the branches removed. and others ingrafted, retains its identity, and is never regarded as a different tree."
+        ],
+        "Marvin Vincent": [
+            "The branches, Of the olive - tree generally, Jewish Christians and unbelieving Jews. Not those that are broken off, who are specially indicated in ver. 19."
+        ],
+        "John Calvin": [
+            "The Gentiles could not contend with the Jews respecting the excellency of their race without contending with Abraham himself.",
+            "As unreasonable as it would be for the branches to boast against the root, so unreasonable would it have been for the Gentiles to glory against the Jews.",
+            "The calling of the Gentiles was like an ingrafting, and that they did not otherwise grow up as God\u2019s people than as they were grafted in the stock of Abraham."
+        ],
+        "Philip Schaff": [
+            "Boast not against the branches, i.e., the people of Israel... The warning has never been without an application to us Gentile Christians.",
+            "If thou boast... Thou bearest not the root... Salvation was from the Jews.",
+            "The Gentiles had been brought into fellowship with the patriarchs, not the patriarchs with them."
+        ],
+        "Archibald T. Robertson": [
+            "Stop glorying or do not have the habit of glorying over the branches.",
+            "The graft was upon the stock and root, though each affected the other.",
+            "The conclusion of the preceding condition."
+        ],
+        "John Gill": [
+            "Boast not against the branches... but pity them, and pray for and be abundantly thankful and humbled before God, under a sense of his sovereign and distinguishing grace.\" ",
+            "Consider what little reason they had on their side to glory; and if such glorying and boasting, one against another was lawful, the Jews had the greatest reason for it.",
+            "The root and foundation of all their enjoyments were from the Jews, and not those of the Jews from them; hence there was no room, nor reason, for boasting against them, and vaunting it over them."
+        ],
+        "John Wesley": [
+            "Boast not against the branches \u2014 Do not they do this who despise the Jews? or deny their future conversion?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not boast against the branches, for it is not you who bears the root, but the root that bears you. Your blessings and your standing in the family of God come solely from your union with the spiritual church, whose root is the Father of the faithful, from whom the branches are descended. Therefore, do not scorn them, for you, O Gentile, are like a branch in relation to the root. All that you are and have in the family of God has come from Israel, for salvation is of the Jews. Stop glorying over the branches and instead pray for and be humbled before God, under the recognition of His sovereign and distinguishing grace.",
+            "wordCount": 116,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.3195428484426253,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.47,
+            "commentatorTierSimilarities": [
+                33.46,
+                32.7,
+                33.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not boast against the branches, but be humble and recognize that you partake in blessings solely through your union with God's spiritual church, whose root is the Father of the faithful. Your standing, O Gentile, is like that of a branch in relation to the root. Remember that all that you are and have in the family of God comes from Israel, for salvation is of the Jews. So, instead of boasting, pray for and be humbled before God, acknowledging His sovereign and distinguishing grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.2117292066745575,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.88,
+            "commentatorTierSimilarities": [
+                32.9,
+                30.94,
+                36.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Boast not against the branches, for it is not thou that bearest the root, but the root thee. Remember that your blessings and standing in the family of God come solely from your union with the spiritual church, whose root is the Father of the faithful. Do not scorn the branches, for you, O Gentile, are like a branch in relation to the root. Acknowledge that all you are and have in the family of God has come from Israel, for salvation is of the Jews. Humbly pray for and be thankful for God's sovereign and distinguishing grace.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.243977797255405,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+            "commentatorTierSimilarities": [
+                33.01,
+                31.82,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not boast against the branches, but be humbled by the fact that it is not you who bears the root, but the root that bears you. Your blessings and standing in the family of God are solely derived from your union with the spiritual church, whose root is the Father of the faithful. Regard the branches not with scorn, for you, O Gentile, are like a branch in relation to the root. Remember that all that you are and have in the family of God comes from Israel, for salvation is of the Jews. Therefore, cease your boasting and instead pray for and acknowledge God's sovereign and distinguishing grace.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.2541732101238825,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.29,
+            "commentatorTierSimilarities": [
+                33.39,
+                31.89,
+                34.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not boast against the branches, for it is not you who bears the root, but the root that bears you. Your blessings and standing in the family of God come solely from your union with the spiritual church, whose root is the Father of the faithful. Therefore, do not scorn them, for you, O Gentile, are like a branch in relation to the root. All that you are and have in the family of God has come from Israel, for salvation is of the Jews. Stop glorying over the branches and instead pray for and be humbled before God, under the recognition of His sovereign and distinguishing grace.",
+            "wordCount": 109,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.255993690809796,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                33.53,
+                32.25,
+                34.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

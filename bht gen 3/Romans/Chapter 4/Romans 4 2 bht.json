@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:01:41",
+    "verseRef": "Romans 4:2",
+    "bestBHT": {
+        "bht": "Abraham's justification was not earned by works; otherwise, he would have reason to boast. Instead, it was through his trust in God's promise that he entered into the blessing promised to him. In the eyes of God, Abraham had no grounds for boasting, as justification is by faith alone. Works were never meant to be the source of salvation but rather a reflection of faith. Abraham's relationship with God was distinct from his relationship with man, as he had no basis for boasting before God. Salvation is found solely in Christ, not in our own merits.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 2.416876256100001,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.7,
+        "commentatorTierSimilarities": [
+            30.14,
+            37.02,
+            32.84
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that has earned justification by works, has whereof to boast.\" ",
+            "The fact of his trusting God to perform His promise introduced him into the blessing promised.\" ",
+            "In both cases justification is gratuitous, and is by faith: and so far, which is as far as the argument here requires, the parallel is strict and complete."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If works were the ground of Abraham's justification, he would have matter for boasting.\" ",
+            "It is perfectly certain that he hath none in the sight of God.",
+            "Abraham could not have been justified by works."
+        ],
+        "Albert Barnes": [
+            "If Abraham was justified on the ground of his own merits, he would have reason to boast, or to claim praise.",
+            "In the sight of God...he had no ground of boasting on account of works.",
+            "If Abraham was justified by his works, he might boast of his own merits. But he has no ground of boasting before God."
+        ],
+        "Marvin Vincent": [
+            "For, if he did, he has something to boast of.",
+            "In speaking of the relation of works to justification, Paul never uses by or through, but out of.",
+            "Works being regarded by the Jew as the meritorious source of salvation."
+        ],
+        "John Calvin": [
+            "Then he was not justified by works.",
+            "He calls that glorying when we pretend to have anything of our own to which a reward is supposed to be due at God's tribunal.",
+            "Since he takes this away from Abraham, who of us can claim for himself the least particle of merit?"
+        ],
+        "Philip Schaff": [
+            "It is assumed that he was justified, but the Jews held the opinion that he was justified by works.",
+            "If Abraham, as the Jews suppose, was justified by works, he has reason to glory toward God (for he could claim justification from God as 'of debt'), but he has no ground of glorying toward God (and hence was not justified by works), for the Scripture says he was justified by faith.",
+            "The objections to this view are that Romans 4:3 would then contain a refutation introduced by \u2018but\u2019 not \u2018for;\u2019 that it is not like Paul to admit any ground of glorying toward men, much less toward God, in connection with the matter of justification."
+        ],
+        "Archibald T. Robertson": [
+            "The rabbis had a doctrine of the merits of Abraham who had a superfluity of credits to pass on to the Jews.",
+            "Abraham deserved all the respect from men that came to him, but his relation to God was a different matter.",
+            "He had there no ground of boasting at all."
+        ],
+        "John Gill": [
+            "glorying before God in a man's own works, is contrary to the scheme and method of God's grace; is excluded by the doctrine of faith; nor is there any place for glorying before God but in Christ, and his righteousness",
+            "the two apostles, Paul and James, are not speaking of the same thing: Paul speaks of justification before God, James of justification before men",
+            "Paul speaks of works, as the causes of justification, James of them as the effects and evidences of faith"
+        ],
+        "John Wesley": [
+            "The meaning is, If Abraham had been justified by works, he would have had room to glory. But he had not room to glory. Therefore he was not justified by works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham\u2019s justification was not based on works, but on his trust in God's promise. If works were the grounds of his justification, he would have reason to boast. However, in the sight of God, Abraham had no reason to boast because justification is not earned but freely given by faith. Works were never intended to be the source of salvation, as the Jews believed, but rather evidence of faith. Abraham's relationship with God was separate from his respect from men, as he had no ground of boasting before God. His justification was not built on his own merits, but on his faith in God's promises. In Christ alone can we find cause for glorying before God.",
+            "wordCount": 120,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.4753972810487284,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.65,
+            "commentatorTierSimilarities": [
+                29.77,
+                38.68,
+                31.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham\u2019s justification was not by works, but by trusting in God's promise, which introduced him to the blessing promised. If works were the grounds of his justification, he would have reason to boast. However, in God's sight, Abraham had no reason to boast as justification is freely given by faith. Works were not the source of salvation, but rather evidence of faith. Abraham's relationship with God differed from his respect from men; he had no grounds for boasting before God. His justification was not based on his own merits, but on faith in God's promises. In Christ alone lies the cause for glorying before God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.495956127741824,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.33,
+            "commentatorTierSimilarities": [
+                30.65,
+                37.93,
+                31.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's justification was not earned by works; otherwise, he would have reason to boast. Instead, it was through his trust in God's promise that he entered into the blessing promised to him. In the eyes of God, Abraham had no grounds for boasting, as justification is by faith alone. Works were never meant to be the source of salvation but rather a reflection of faith. Abraham's relationship with God was distinct from his relationship with man, as he had no basis for boasting before God. Salvation is found solely in Christ, not in our own merits.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 2.416876256100001,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.7,
+            "commentatorTierSimilarities": [
+                30.14,
+                37.02,
+                32.84
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

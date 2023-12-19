@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:10:37",
+    "verseRef": "Romans 16:24",
+    "bestBHT": {
+        "bht": "The repetition of the benediction in this closing section serves as a reminder of Paul's wish for the grace of the Lord to rest upon all. Though some question its genuineness, the rationale behind this repetition might be Paul's desire to pen it with his own hand, solidifying its authenticity as his own message. Paul's strong affection for the church is evident as he bids them farewell repeatedly, indicating the depth of his love for them. Additionally, the Arabic version attributes the following doxology to Christ, further emphasizing his divinity as the only most wise God.",
+        "wordCount": 99,
+        "quoteTokenProportion": 38.24,
+        "qualityScore": 1.4734267524386813,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+        "commentatorTierSimilarities": [
+            18.7,
+            33.43,
+            47.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24.] The benediction repeated; see above on ver 20."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "24. The grace, &amp;c.\u2014a",
+            "\trepetition of the benediction precisely as in :-, save that it is here invoked on them \"all."
+        ],
+        "Philip Schaff": [
+            "This verse is omitted by the best authorities.",
+            "The repetition of the benediction is not so unexampled as to have given offence to the early transcribers.",
+            "No great weight can be allowed to arguments respecting the genuineness of the closing doxology based upon the repetition of this benediction."
+        ],
+        "Archibald T. Robertson": [
+            "Is not genuine, not in Aleph A B C Coptic. "
+        ],
+        "John Gill": [
+            "The reason of the repetition may either be, because the former might be written by his amanuensis, and this with his own hand, as was usual with him in all his epistles, by which they might be known to be his.",
+            "The apostle having so great an affection for this church, knew not how to take his leave of them, but repeats his valediction again and again.",
+            "The Arabic version...considers the following doxology as belonging to Christ, and to him as God, and as the only most wise God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The closing verse of this chapter is a repetition of the benediction, invoking the grace of the Lord to be upon all. While some authorities consider this verse to be not genuine and others argue the repetition does not detract from its authenticity, the reason for the repetition may have been Paul wanting to write it with his own hand to make it clear that it came from him. It is clear that Paul had a great affection for this church and did not want to say a simple goodbye, hence why he repeats his valediction again and again. The Arabic version even sees the following doxology as belonging to Christ, emphasizing his divine nature.",
+            "wordCount": 115,
+            "quoteTokenProportion": 48.68,
+            "qualityScore": 1.6389961720807733,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.84,
+            "commentatorTierSimilarities": [
+                17.59,
+                36.36,
+                46.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The repetition of the benediction in this closing section of Romans signifies Paul's desire for the grace of the Lord to be upon all. While some question the authenticity of this verse, the reason for this repetition could be that Paul wanted to emphasize his personal involvement in this message. His deep affection for the church is evident in his multiple farewells, showing that his love for them knows no bounds. The Arabic version even ascribes the following doxology to Christ himself, highlighting his divine nature.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.4762036231988,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.43,
+            "commentatorTierSimilarities": [
+                17.33,
+                35.0,
+                47.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The repetition of the benediction in this closing section underscores Paul's desire for the grace of the Lord to be upon all. While its authenticity is questioned, the repetition may symbolize Paul's personal involvement in this message. His profound affection for the church is evident through his multiple farewells, reflecting the depth of his love for them. The Arabic version even attributes the following doxology to Christ, emphasizing his divine nature as the only wise God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.429246348829261,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.87,
+            "commentatorTierSimilarities": [
+                17.62,
+                35.35,
+                47.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The repetition of the benediction in this closing section serves as a reminder of Paul's wish for the grace of the Lord to rest upon all. Though some question its genuineness, the rationale behind this repetition might be Paul's desire to pen it with his own hand, solidifying its authenticity as his own message. Paul's strong affection for the church is evident as he bids them farewell repeatedly, indicating the depth of his love for them. Additionally, the Arabic version attributes the following doxology to Christ, further emphasizing his divinity as the only most wise God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4734267524386813,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+            "commentatorTierSimilarities": [
+                18.7,
+                33.43,
+                47.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The repetition of the benediction in this closing passage of Romans expresses Paul's desire for the grace of the Lord to be upon all. Though some question the authenticity of this verse, the repetition may have been Paul's way of confirming his personal involvement in this message. Paul's deep affection for the church is evident through his repeated farewells, demonstrating his boundless love for them. The Arabic version goes even further, attributing the following doxology to Christ and highlighting his divine nature as the only most wise God.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5749253360155557,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                20.31,
+                34.06,
+                45.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

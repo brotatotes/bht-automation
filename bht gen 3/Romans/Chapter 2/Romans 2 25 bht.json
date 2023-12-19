@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:01:13",
+    "verseRef": "Romans 2:25",
+    "bestBHT": {
+        "bht": "Circumcision, the outward sign of being within the covenant, is now of no value. The Jewish transgressor is no better off than the Gentile sinner. Mere possession of the sign or reliance on external advantages cannot secure favor with God. True circumcision is not a matter of outward observances but of the heart. Claiming righteousness through rituals is futile; a transformed heart is what matters. The worth of circumcision lies in its connection to a genuine relationship with God.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.2715322824880615,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+        "commentatorTierSimilarities": [
+            31.89,
+            34.73,
+            33.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25. is become uncircumcision] i.e. counts for nothing: the Jewish transgressor is no better off than the Gentile transgressor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For circumcision\u2014that is, One's being within the covenant of which circumcision was the outward sign and seal.\" ",
+            "Verily profiteth, if thou keep the law\u2014if the inward reality correspond to the outward sign.\" ",
+            "Otherwise, thou art no better than the uncircumcised heathen."
+        ],
+        "Albert Barnes": [
+            "The Jews of course affixed a high importance to the rite.",
+            "The mere possession of the Law cannot entitle to the favor of God.",
+            "No external advantages, no name, or rite, or ceremony will save you."
+        ],
+        "Marvin Vincent": [
+            "Thy circumcision is made uncircumcision.",
+            "But if any citizen be found guilty of any great or unmentionable wrong, either in relation to the gods, or his parents, or the state, let the judge deem him to be incurable, remembering what an education and training he has had from youth upward, and yet has not abstained from the greatest of crimes."
+        ],
+        "John Calvin": [
+            "They had no reason to lay claim to anything on account of the bare sign.",
+            "Circumcision then requires perfection.",
+            "Those who dare to set up their own merits against the righteousness of God glory more in outward observances than in real goodness."
+        ],
+        "Philip Schaff": [
+            "True circumcision and true Judaism are not outward matters but of the heart.",
+            "The Jew would say: 'my circumcision profits me, even if I am guilty as you charge.'",
+            "The unholy Jew virtually becomes a Gentile. The same principle applies to Christian baptism."
+        ],
+        "Archibald T. Robertson": [
+            "If thou be a doer of the law (\u03b5\u03b1\u03bd \u03bd\u03bf\u03bc\u03bf\u03bd \u03c0\u03c1\u03b1\u03c3\u03c3\u03b5\u03b9\u03c2). Condition of third class and the present (continued action) subjunctive of \u03c0\u03c1\u03b1\u03c3\u03c3\u03c9, a verb meaning to do as a habit.",
+            "Is become uncircumcision (\u03b1\u03ba\u03c1\u03bf\u03b2\u03c5\u03c3\u03c4\u03b9\u03b1 \u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd). The Jew is then like the Gentile, with no privilege at all.",
+            "Circumcision was simply the seal of the covenant relation of Israel with God."
+        ],
+        "John Gill": [
+            "circumcision was of no use to them, but, on the contrary, was an handwriting against them.",
+            "such a man was all one as an uncircumcised Gentile, and appeared to be uncircumcised in a spiritual sense",
+            "the apostle perhaps alludes to a practice among some of the Jews, to bring on and draw over the foreskin, after they had been circumcised"
+        ],
+        "John Wesley": [
+            "Circumcision indeed profiteth \u2014 He does not say, justifies.",
+            "Thy circumcision is become uncircumcision \u2014 is so already in effect.",
+            "Thou wilt have no more benefit by it than if thou hadst never received it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Circumcision, once seen as a mark of being within the covenant with God, now holds no significance. It is no more advantageous than being uncircumcised. The outward sign of circumcision is meaningless unless it is accompanied by a life that aligns with the law. Merely possessing the sign or relying on external advantages does not grant favor with God. True circumcision and true relationship with God are matters of the heart. Whether Jew or Gentile, one's claim to righteousness cannot rest on outward observances but on genuine goodness. The outward sign of circumcision is only valuable if it points to the inward reality of a transformed heart.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 2.3178342852862643,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.41,
+            "commentatorTierSimilarities": [
+                32.32,
+                32.11,
+                35.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Circumcision, once significant as a mark of covenant, is now worthless. Being a transgressor makes the Jew no better off than the Gentile. The outward sign of circumcision is void if not accompanied by adherence to the law. External advantages and rituals hold no saving power. True circumcision is a matter of the heart, not outward observances. Claiming righteousness through the rite is futile; a transformed heart is what matters. Circumcision's worth lies in its connection to a genuine relationship with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.2337422130200775,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.61,
+            "commentatorTierSimilarities": [
+                30.98,
+                35.43,
+                33.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The significance of circumcision, once considered a mark of covenant, has diminished. The transgressions of the Jew put them on equal footing with the Gentile transgressor. Outward observances alone hold no value; true circumcision pertains to matters of the heart. Relying on external advantages, names, or ceremonies cannot secure salvation. It is the inward reality that holds significance, not mere outward signs. Claiming righteousness based on physical rituals is futile; one's heart must be transformed. True circumcision is rooted in a genuine relationship with God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0738802987373326,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                30.26,
+                36.01,
+                33.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Circumcision, the outward sign of being within the covenant, is now of no value. The Jewish transgressor is no better off than the Gentile sinner. Mere possession of the sign or reliance on external advantages cannot secure favor with God. True circumcision is not a matter of outward observances but of the heart. Claiming righteousness through rituals is futile; a transformed heart is what matters. The worth of circumcision lies in its connection to a genuine relationship with God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.2715322824880615,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.87,
+            "commentatorTierSimilarities": [
+                31.89,
+                34.73,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The outward sign of circumcision, once a mark of being within the covenant, now counts for nothing. The Jewish transgressor is no better off than the Gentile transgressor. Mere possession of the sign or reliance on external advantages holds no value. True circumcision is not about outward observances, but rather matters of the heart. Claiming righteousness through rituals is futile; a transformed heart is what truly matters. The worth of circumcision lies in its connection to a genuine relationship with God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.2356286753772237,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.68,
+            "commentatorTierSimilarities": [
+                32.3,
+                35.11,
+                32.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

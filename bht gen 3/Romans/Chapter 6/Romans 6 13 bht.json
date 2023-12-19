@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:04:46",
+    "verseRef": "Romans 6:13",
+    "bestBHT": {
+        "bht": "Do not yield your members as instruments of unrighteousness to sin, but yield yourselves up to God as those that were dead and are alive. Offer your members as instruments of righteousness to God. Stop presenting your members to sin, but rather devote yourself to God's service, fighting against sin and fulfilling obedience to His commands. So, surrender yourself, body and soul, to God, your true King, and refrain from giving in to the desires of the flesh.",
+        "wordCount": 79,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 2.5098572167997437,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.79,
+        "commentatorTierSimilarities": [
+            38.06,
+            24.12,
+            37.82
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Neither yield ye your members as instruments of unrighteousness unto sin; but yield yourselves up to God as those that were dead and are alive.\" ",
+            "Yield yourselves up to God as those that were dead and are alive.\" ",
+            "Yield your members as instruments of righteousness unto God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Neither yield ye your members instruments of unrighteousness unto Sin, but yield yourselves\u2014this is the great surrender.",
+            "unto God as those that are alive from the dead, and\u2014as the fruit of this.",
+            "your members\u2014till now prostituted to sin."
+        ],
+        "Albert Barnes": [
+            "Do not give up, or devote, or employ your members.",
+            "Christians should devote every member of the body to God and to his service.",
+            "He spreads his glories before us, and we should survey them to praise him; he commands, and our hands, and heart, and feet should obey."
+        ],
+        "Marvin Vincent": [
+            "Offer them to God in the service of righteousness.",
+            "Do not offer your members as weapons with which the rule of unrighteousness may be maintained.",
+            "The present tense, be presenting, denotes the daily habit, the giving of the hand, the tongue, etc., to the service of sin as temptation appeals to each."
+        ],
+        "John Calvin": [
+            "Christians ought to regard all their faculties to be the weapons of the spiritual warfare.",
+            "They have made the oath of soldiers to God and to Christ, and by this they are held bound.",
+            "We may regard the will of God alone, being ready to receive his commands, and prepared to execute his orders; and that our members also may be devoted and consecrated to his will."
+        ],
+        "Philip Schaff": [
+            "Nor render. \u2018Nor\u2019 = \u2018and especially not.\u2019 \u2018Render\u2019 (in chap. Romans 12:1, \u2018present\u2019) is preferable to \u2018yield,\u2019 since the latter conveys the idea of previous resistance; the thought is of placing at the disposal of another; probably the figure of military service is suggested.",
+            "As being alive from the dead. Regarding yourselves as those that are alive, almost = since you are. There is no reference to a battle-field, out rather to the thought of Romans 6:11.",
+            "Your members, etc. This is a more particular statement of the previous exhortation, corresponding with the first clause of the verse."
+        ],
+        "Archibald T. Robertson": [
+            "Stop presenting your members or do not have the habit of doing so, 'do not go on putting your members to sin as weapons of unrighteousness.'\" ",
+            "Possibly here figure of two armies arrayed against each other, and see \u03bf\u03c0\u03bb\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7\u03c2 below. The two sets of \u03bf\u03c0\u03bb\u03b1 clash.",
+            "Our 'members' should be at the call of God 'as alive from the dead.'"
+        ],
+        "John Gill": [
+            "by 'yielding', or presenting of them, is designed the employment of them in the service of sin, as instruments of unrighteousness unto sin",
+            "but yield yourselves unto God, as those that are alive from the dead: that is, present themselves soul and body to God, give up and devote themselves to him, and to his service",
+            "yield your members, their whole selves, as instruments, or weapons of righteousness unto God; by fighting against sin, revenging all disobedience, and fulfilling obedience to the commands of God"
+        ],
+        "John Wesley": [
+            "Neither present your members to sin \u2014 To corrupt nature, a mere tyrant.",
+            "But to God \u2014 Your lawful King."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not offer your body parts as instruments of unrighteousness to sin, but present yourselves to God as those who were dead and are now alive. Offer your body parts as instruments of righteousness to God. To stop presenting your members to sin is to stop putting them to use in the service of unrighteousness. Instead, devote your entire self, body and soul, to God's service, fighting against sin and fulfilling obedience to His commands. So, do not give in to the desires of the flesh, but surrender yourself to God, your true King.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.3469873519985907,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.38,
+            "commentatorTierSimilarities": [
+                37.01,
+                23.95,
+                39.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not yield your body parts as instruments of unrighteousness to sin, but yield yourselves up to God as those who were dead and are now alive. Instead, offer your body parts as instruments of righteousness to God. Stop presenting your members to sin and start devoting yourself to God, fighting against sin and fulfilling obedience to His commands. So, do not give in to the desires of the flesh, but surrender yourself to God, your true King.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.3818498702750297,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.54,
+            "commentatorTierSimilarities": [
+                37.63,
+                22.87,
+                39.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not yield your members as instruments of unrighteousness to sin, but yield yourselves up to God as those that were dead and are alive. Offer your members as instruments of righteousness to God. Stop presenting your members to sin, but rather devote yourself to God's service, fighting against sin and fulfilling obedience to His commands. So, surrender yourself, body and soul, to God, your true King, and refrain from giving in to the desires of the flesh.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.5098572167997437,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.79,
+            "commentatorTierSimilarities": [
+                38.06,
+                24.12,
+                37.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stop presenting your members as weapons to maintain the rule of unrighteousness. Instead, yield yourselves to God as those who are alive from the dead and offer your members to Him in the service of righteousness. Do not devote your members to sin, but regard them as instruments for God's will. Christians should consider all their faculties as weapons for the spiritual warfare against sin, ready to receive God's commands and execute His orders. Surrender fully to God, your true King, and refrain from rendering your members to the desires of the flesh.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.402217179244192,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.21,
+            "commentatorTierSimilarities": [
+                36.71,
+                26.12,
+                37.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stop presenting your members as weapons of unrighteousness, but yield yourselves to God as alive from the dead. Offer your members as instruments of righteousness to God. Do not yield your members to sin, but commit yourselves to God's service, fighting against sin and fulfilling obedience to His commands. Devote your body and soul to God, your true King, and resist the desires of the flesh.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 2.4781064332311207,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.74,
+            "commentatorTierSimilarities": [
+                38.46,
+                23.69,
+                37.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

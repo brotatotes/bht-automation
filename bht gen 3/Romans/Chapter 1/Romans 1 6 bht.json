@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:57:54",
+    "verseRef": "Romans 1:6",
+    "bestBHT": {
+        "bht": "The believers in Rome, among whom are ye also, were not called by Jesus Christ, but rather called to be Jesus Christ's. This calling signifies an internal and effectual call that brings about conformity to God's will. It is not simply an external invitation to privilege, but rather a special call by the grace of God that brings about a transformation from darkness to light, from bondage to liberty, and from the world to fellowship with Christ and his saints. The ones who are called are the elect of God, who are redeemed and secured in Christ. This calling is not limited to the believers in Rome, as St. Paul does not give them any preeminence above others.",
+        "wordCount": 120,
+        "quoteTokenProportion": 49.3,
+        "qualityScore": 2.311150664255252,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.19,
+        "commentatorTierSimilarities": [
+            30.49,
+            34.78,
+            34.73
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The assertion, \u2018among whom are ye also,\u2019 is flat and unmeaning.\" ",
+            "The call of believers is generally referred to the FATHER; but sometimes the SON is said to call likewise.",
+            "With beloved of God following so close upon it, the expression can I think hardly be taken otherwise than as called by Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Among whom are ye also\u2014that is, along with others; for the apostle ascribes nothing special to the Church of Rome.",
+            "the called\u2014of Christ Jesus\u2014that is, either called 'by Him' or the called 'belonging to Him'; 'Christ's called ones.'",
+            "Perhaps this latter sense is best supported, but one hardly knows which to prefer."
+        ],
+        "Albert Barnes": [
+            "This proves that the church at Rome was made up partly at least, if not mainly, of Gentiles or pagans.",
+            "The word 'called' denotes not merely an external invitation to privilege, but it also denotes the 'internal' or 'effectual' call which secures conformity to the will of him who calls.",
+            "That true Christians are contemplated by this address is clear from the whole scope of the Epistle."
+        ],
+        "Marvin Vincent": [
+            "Ye also. As Romans among other Gentiles : not, called as I am called."
+        ],
+        "Philip Schaff": [
+            "To prepare for the address he says that his mission for the glory of Christ\u2019s name is to them also; they are included among those for whom he received his apostleship.",
+            "They were not called by Jesus Christ but called to tie His, since the call of believers is always referred to God.",
+            "'Called 'may here mean effectually called, but 'called' and 'chosen,' or, 'elect,' are frequently distinguished in the New Testament; Matthew 22:14."
+        ],
+        "Archibald T. Robertson": [
+            "Called to be Jesus Christ's.",
+            "Predicate genitive after \u03ba\u03bb\u03b7\u03c4\u03bf (verbal adjective from \u03ba\u03b1\u03bb\u03b5\u03c9, to call).",
+            "Possible to consider it the ablative case, 'called of (or from) Jesus Christ.'"
+        ],
+        "John Gill": [
+            "The calling here spoken of is not to an office, or a mere external one by the ministry of the word, but an internal special call by the grace of God.",
+            "By it persons are called out of darkness into light, out of bondage into liberty, out of the world, from the company of the men of it, and the sinful pleasures thereof, to fellowship with Christ and his saints, and off a dependence on themselves, and their own righteousness, to the grace and righteousness of Christ, and to eternal glory.",
+            "The persons so called are the elect of God, who are secured in Christ, and redeemed by him, and who has a concern with the Father and Spirit in the calling of them."
+        ],
+        "John Wesley": [
+            "Among whom \u2014 The nations brought to the obedience of faith.",
+            "Are ye also \u2014 But St. Paul gives them no preeminence above others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers in Rome, among whom are ye also, were not called by Jesus Christ, but rather called to be Jesus Christ's. This calling signifies an internal and effectual call that brings about conformity to God's will. It is not simply an external invitation to privilege, but rather a special call by the grace of God that brings about a transformation from darkness to light, from bondage to liberty, and from the world to fellowship with Christ and his saints. The ones who are called are the elect of God, who are redeemed and secured in Christ. This calling is not limited to the believers in Rome, as St. Paul does not give them any preeminence above others.",
+            "wordCount": 120,
+            "quoteTokenProportion": 49.3,
+            "qualityScore": 2.311150664255252,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.19,
+            "commentatorTierSimilarities": [
+                30.49,
+                34.78,
+                34.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The believers in Rome were called to be Jesus Christ's, indicating an internal and effectual call that aligns with God's will. This calling brings about a transformation from darkness to light, bondage to liberty, and worldly dependency to fellowship with Christ. These called individuals are the elect of God, redeemed and secured in Christ. St. Paul does not give the Romans special preeminence, emphasizing that this calling extends beyond them.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1138450821977357,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.63,
+            "commentatorTierSimilarities": [
+                29.66,
+                35.19,
+                35.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers in Rome were called to be Jesus Christ's and were part of the nations brought to the obedience of faith. This internal and effectual call by the grace of God transforms them from darkness to light, bondage to liberty, and worldly dependence to fellowship with Christ. It is a calling that extends to the elect of God, who are redeemed and secured in Christ. St. Paul does not elevate the Romans above others, emphasizing that this calling is not exclusive to them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.181098806985407,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "commentatorTierSimilarities": [
+                28.19,
+                32.92,
+                38.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Rome were called to be Jesus Christ's and were part of the nations brought to the obedience of faith. This internal and effectual call by the grace of God transforms them from darkness to light, bondage to liberty, and worldly dependence to fellowship with Christ. It is a calling that extends to the elect of God, who are redeemed and secured in Christ. St. Paul does not elevate the Romans above others, emphasizing that this calling is not exclusive to them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.181098806985407,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.86,
+            "commentatorTierSimilarities": [
+                28.19,
+                32.92,
+                38.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers in Rome were included among others and were called to be Jesus Christ's. This call denotes an internal, effectual call by the grace of God that leads to a transformation from darkness to light and bondage to liberty. The called ones are the elect of God, redeemed and secured in Christ. St. Paul does not give the Romans any preeminence, highlighting that this calling is not exclusive to them, but extends to all who are chosen by God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.257041608096281,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.39,
+            "commentatorTierSimilarities": [
+                30.86,
+                35.22,
+                33.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

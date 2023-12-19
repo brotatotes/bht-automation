@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:08:38",
+    "verseRef": "Romans 11:35",
+    "bestBHT": {
+        "bht": "Who has anticipated God and given Him a gift, that He should repay them? This question refers to the freeness and richness of God's mercy and love. Paul is showing that no one can plead their own merits or claim entitlement to God's favors. All the favors of salvation must be bestowed by God's mercy and grace, and He has the right to bestow them as He pleases. It is not in our power to constrain God by our good works, but rather He anticipates the undeserving by His gratuitous goodness. We cannot take away God's right to determine freely regarding His own creatures; there is no mutual debt or credit between us and Him. God cannot be charged with unrighteousness, for He owes nothing to anyone. In the end, men's good works do not give anything to God or lay Him under obligation. God is indebted to none and may do what He will with His own.",
+        "wordCount": 163,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 2.091199216340178,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+        "commentatorTierSimilarities": [
+            20.15,
+            38.06,
+            41.79
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Or who hath previously given to Him, and shall have recompence made to him again?\" ",
+            "But the Hebrew is nearly as our A.V., 'who hath anticipated (i.e. by the context, conferred a benefit on) me, that I may repay him?'",
+            "We can hardly doubt that this question refers to the freeness and richness of God's mercy and love."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "And shall have recompense made to him.\" ",
+            "These questions, it will thus be seen, are just quotations from the Old Testament.",
+            "God's plans and methods in the dispensation of His Grace have a reach of comprehension and wisdom stamped upon them which finite mortals cannot fathom."
+        ],
+        "Albert Barnes": [
+            "Who has anticipated me; who has conferred favors on me before I have on him; who has thus laid me under obligation to him.",
+            "Paul, contrary to the prevailing doctrine of the Jews, shows that no one could plead his own merits, or advance with a claim on God.",
+            "All the favors of salvation must be bestowed by mercy or grace. God owned them all; and he had a right to bestow them when and where he pleased."
+        ],
+        "Marvin Vincent": [
+            "Who hath first given, etc. From Job 41:3. Heb., Who has been beforehand with me that I should repay him?",
+            "Paul here follows the Aramaic translation.",
+            "The Septuagint is: Who shall resist me and abide?"
+        ],
+        "John Calvin": [
+            "God cannot be charged with unrighteousness, except it can be proved, that he renders not to every one his due: but it is evident, that no one is deprived by him of his right, since he is under obligation to none; for who can boast of any thing of his own, by which he has deserved his favor?",
+            "We are here taught, that it is not in our power to constrain God by our good works to bestow salvation on us, but that he anticipates the undeserving by his gratuitous goodness.",
+            "In vain then shall we try to take from him his own right, that he should not, as he pleases, freely determine respecting his own creatures, as though there was mutual debt and credit."
+        ],
+        "Philip Schaff": [
+            "This question refers to the depth of God\u2019s riches.",
+            "The gospel is all of grace; the plan respecting Jews and Gentiles is all of grace.",
+            "Nothing of merit or recompense; all freely bestowed out of the ocean depths of riches in God Himself."
+        ],
+        "Archibald T. Robertson": [
+            "First driven to him.",
+            "Shall be recompensed.",
+            "Double compound \u03b1\u03bd\u03c4\u03b1\u03c0\u03bf\u03b4\u03b9\u03b4\u03c9\u03bc."
+        ],
+        "John Gill": [
+            "No man can give God anything, which he has not first given him, or which he has not a prior right to.\" ",
+            "Men by all their good works, best duties and services, give nothing to God, nor lay him under any manner of obligation to them.\" ",
+            "God is indebted to, and obliged by none, and may do what he will with his own."
+        ],
+        "John Wesley": [
+            "Given to him \u2014 Either wisdom or power?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who has anticipated God and given Him a gift, that He should repay them? This question refers to the freeness and richness of God's mercy and love. Paul is showing that no one can plead their own merits or claim entitlement to God's favors. All the favors of salvation must be bestowed by God's mercy and grace, and He has the right to bestow them as He pleases. It is not in our power to constrain God by our good works, but rather He anticipates the undeserving by His gratuitous goodness. We cannot take away God's right to determine freely regarding His own creatures; there is no mutual debt or credit between us and Him. God cannot be charged with unrighteousness, for He owes nothing to anyone. In the end, men's good works do not give anything to God or lay Him under obligation. God is indebted to none and may do what He will with His own.",
+            "wordCount": 163,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 2.091199216340178,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.87,
+            "commentatorTierSimilarities": [
+                20.15,
+                38.06,
+                41.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Who has anticipated God and given Him a gift, that He should repay them? This question refers to the freeness and richness of God's mercy and love. Paul shows that no one can plead their own merits or claim entitlement to God's favors. The favors of salvation must be bestowed by God's mercy and grace, and He has the right to bestow them as He pleases. We cannot constrain God by our good works, but rather He anticipates the undeserving by His gratuitous goodness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.141611104456567,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                21.57,
+                41.93,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Who has anticipated God and given Him a gift, that He should repay them? This question refers to the richness of God's mercy and love. Paul shows that no one can claim entitlement to God's favors based on their own merits. Salvation is a result of God's free and gracious bestowal, not any human effort. We cannot constrain God by our good works, but rather He anticipates the undeserving by His gratuitous goodness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.0492555561771257,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.48,
+            "commentatorTierSimilarities": [
+                21.25,
+                41.13,
+                37.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Who has anticipated God and given Him a gift, that He should repay them? This question highlights the abundance of God's mercy and love. Paul emphasizes that no one can assert their own merits or demand God's favors. The bestowal of salvation is solely a product of God's free and gracious choice, not human effort. Our good works cannot bind God; rather, He anticipates us with undeserved goodness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9718721821135272,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                21.28,
+                41.44,
+                37.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Who has anticipated God and conferred a benefit on Him that should warrant His repayment? This query underscores the rich abundance of God's mercy and love. Paul reveals that no one can claim their own merits or demand recompense from God. The bestowal of salvation is an act of God's free and lavish grace, not dependent on human effort. Our good works cannot bind or oblige God, for He initiates with undeserved goodness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.028530245385528,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                20.75,
+                43.24,
+                36.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

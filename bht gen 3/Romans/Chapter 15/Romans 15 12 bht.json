@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:10:28",
+    "verseRef": "Romans 15:12",
+    "bestBHT": {
+        "bht": "The prophecy in Isaiah reveals that a powerful figure, a descendant of Jesse, will emerge like a sprout from a root. This figure signifies the humble origins of the Messiah, who will become a beacon of hope for both Jews and Gentiles. The inclusion of Gentiles seeking this ensign demonstrates the universal reach of the Gospel. The fulfillment of this prophecy confirms the calling of the Gentiles and serves as a unifying force among believers. Ultimately, the hope placed in Christ by the Gentiles is evidence of his divinity and the fulfillment of God's plan.",
+        "wordCount": 96,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.1677712807786986,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+        "commentatorTierSimilarities": [
+            25.05,
+            35.94,
+            39.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The version is that of the Septuagint, which here differs considerably from the Hebrew.",
+            "And in that day there shall be a root (Hebrew, \u2018and it shall happen in that day, the branch\u2019) of Jesse, which shall stand for an ensign of the people.",
+            "To it shall the Gentiles seek."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There shall be a\u2014\"the\" root of Jesse\u2014meaning, not 'He from whom Jesse sprang,' but 'He that is sprung from Jesse' (that is, Jesse's son David).",
+            "He that shall rise, &amp;c.\u2014So the Septuagint in substantial, though not verbal, agreement with the original."
+        ],
+        "Albert Barnes": [
+            "When a tree dies, and falls, there may remain a 'root' which shall retain life, and which shall send up a sprout of a similar kind.",
+            "Though he should fall, like an aged tree, yet his name and family should not be extinct. There should be a descendant who should rise, and reign over the Gentiles.",
+            "The design of this quotation is the same as the preceding, to show that it was predicted in the Old Testament that the Gentiles should be made partakers of the privileges of the gospel."
+        ],
+        "Marvin Vincent": [
+            "There is a pleasant contrast: the root is in the lowest place, the banner rises highest, so as to be seen even by the remotest nations.",
+            "Shall - hope.",
+            "The root is a sprout from the root."
+        ],
+        "John Calvin": [
+            "This prophecy is the most illustrious of them all: for in that passage, the Prophet, when things were almost past hope, comforted the small remnant of the faithful, even by this, \u2014 that there would arise a shoot from the dry and the dying trunk of David\u2019s family, and that a branch would flourish from his despised root, which would restore to God\u2019s people their pristine glory.",
+            "But twice in this prophecy is the calling of the Gentiles confirmed, \u2014 by the expression, that Christ was to be raised up as a sign, and he reigns among the faithful alone, \u2014 and by the declaration, that they shall hope in Christ, which cannot take place without the preaching of the word and illumination of the Spirit.",
+            "It may be further added, that hope in Christ is an evidence of his divinity."
+        ],
+        "Philip Schaff": [
+            "And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek.\" ",
+            "These citations, taken from the three divisions of the Old Testament (Law, Psalms, and Prophets) confirm Paul\u2019s view of his own work as well as furnish a motive for unity.",
+            "For this adoration of the Gentiles, to which the four preceding citations refer, is the fruit not only of the enjoyment of actual blessings but also and preeminently of the hope of future blessings."
+        ],
+        "Archibald T. Robertson": [
+            "The root (\u03b7 \u03c1\u03b9\u03b6\u03b1). Rather here, as in Revelation 5:5; Revelation 23:16, the sprout from the root. From Isaiah 11:10.",
+            "On him shall the Gentiles hope (\u03b5\u03c0' \u03b1\u03c5\u03c4\u03c9 \u03b5\u03b8\u03bd\u03b7 \u03b5\u03bb\u03c0\u03b9\u03bf\u03c5\u03c3\u03b9\u03bd).",
+            "Attic future of \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9 for the usual \u03b5\u03bb\u03c0\u03b9\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd."
+        ],
+        "John Gill": [
+            "This character, 'the root of Jesse', may be understood of Christ with respect to his divine nature, who, as God, was before Jesse, and the author of his being...",
+            "This character may be applied to Christ as Mediator, who as a root is unseen and unknown to carnal men, and mean, abject, and of no account in the eyes of the world...",
+            "In him shall the Gentiles trust, or 'hope'; this in the Hebrew text is, 'to him shall the Gentiles seek'; which cannot be truly done without faith and hope..."
+        ],
+        "John Wesley": [
+            "There shall be the root of Jesse - That kings and the Messiah should spring from his house, was promised to Jesse before it was to David.",
+            "In him shall the gentiles hope - Who before had been 'without hope,' Ephesians 2:12.",
+            "Isaiah 11:10."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 15:12, the verse alludes to the prophecy in Isaiah 11:10 about the coming of a powerful figure from the lineage of Jesse. This figure is described as both a root and a branch, representing a sprout that emerges from the root. This contrast highlights the humble beginnings of the Messiah, the descendant of David, who would rise to become a beacon of hope for all nations. The mention of the Gentiles seeking this ensign signifies the inclusivity of the Gospel message, extending salvation beyond the confines of Israel. This prophetic reference serves as confirmation of the calling of the Gentiles and serves as a motivation for unity among believers. Ultimately, the hope that the Gentiles place in Christ is a testament to his divinity and the fulfillment of God's plan.",
+            "wordCount": 131,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.080721295418889,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                26.31,
+                35.48,
+                38.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Apostle Paul refers to a prophecy from Isaiah that speaks of a powerful figure who will spring forth from the lineage of Jesse. This individual is described as a root and a branch, symbolizing their humble yet significant beginnings. The mention of Gentiles seeking this figure emphasizes the inclusive nature of the Gospel message. It serves as a reminder of the hope and trust that all nations place in Christ, for he is the fulfillment of God's plan and the source of salvation for everyone.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.0101971843436957,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                24.92,
+                35.53,
+                39.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy in Isaiah reveals that a powerful figure, a descendant of Jesse, will emerge like a sprout from a root. This figure signifies the humble origins of the Messiah, who will become a beacon of hope for both Jews and Gentiles. The inclusion of Gentiles seeking this ensign demonstrates the universal reach of the Gospel. The fulfillment of this prophecy confirms the calling of the Gentiles and serves as a unifying force among believers. Ultimately, the hope placed in Christ by the Gentiles is evidence of his divinity and the fulfillment of God's plan.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.1677712807786986,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+            "commentatorTierSimilarities": [
+                25.05,
+                35.94,
+                39.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy in Isaiah foretells the coming of a powerful figure, a descendant of Jesse, who will rise as a root and branch. This symbolizes both the humbleness of the Messiah's beginnings and his ultimate influence as a beacon of hope. The mention of the Gentiles seeking this ensign emphasizes the inclusive nature of the Gospel message. Confirming the calling of the Gentiles, this prophecy motivates unity among believers. Placing their hope in Christ, the Gentiles demonstrate both his divinity and the fulfillment of God's plan.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 2.071863542140573,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.23,
+            "commentatorTierSimilarities": [
+                25.42,
+                35.79,
+                38.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy in Isaiah foretells the rise of a powerful figure, the root of Jesse, who will become an ensign for the people. This figure, a descendant of David, will bring hope to the Gentiles. The inclusion of the Gentiles seeking this figure signifies the universal impact of the Gospel. Confirming the calling of the Gentiles, this prophecy encourages unity among believers. Placing their hope in Christ, the Gentiles demonstrate their faith in his divinity and the fulfillment of God's plan.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.1045890105029876,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+            "commentatorTierSimilarities": [
+                26.58,
+                35.78,
+                37.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

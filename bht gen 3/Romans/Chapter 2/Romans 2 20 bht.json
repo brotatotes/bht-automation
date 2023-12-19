@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:59:50",
+    "verseRef": "Romans 2:20",
+    "bestBHT": {
+        "bht": "Having the advantage of definite and precise information from heaven, those who possessed the law saw themselves as instructors and custodians of knowledge and truth, claiming superiority over the Gentiles. However, Paul's portrayal of the Jews reveals their hypocrisy, as their outward appearance of knowledge and truth was not matched by a corresponding obedience to the law. Despite their form of knowledge and their pride in their religious instruction, they could not be justified by the law alone.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.1325057170888764,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.25,
+        "commentatorTierSimilarities": [
+            29.69,
+            33.97,
+            36.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The law, as far as it went, was a reflexion of the holiness and character of God.",
+            "Hardly so much is here meant, as that the law contained a foreshadowing of Christ.",
+            "Such advantages and such pretensions ought undoubtedly to be followed and justified by a corresponding course of holy conduct."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "hast the form of knowledge and the truth in the law\" ",
+            "not being left, as the heathen are, to vague conjecture on divine things\" ",
+            "favored with definite and precise information from heaven"
+        ],
+        "Albert Barnes": [
+            "The word 'foolish' is used in the Scriptures in two significations: to denote those who are void of understanding, and to denote the wicked.",
+            "The expression is figurative, and denotes those who were as ignorant as children - an expression which they would be likely to apply to all the Gentiles.",
+            "Here 'form' denotes that in their teaching they retained the semblance, sketch, or outline of the true doctrines of the Old Testament."
+        ],
+        "Marvin Vincent": [
+            "Instructor [\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b7\u03bd], Rev., corrector. Better, because emphasizing the element of discipline or training.",
+            "Of babes [\u03bd\u03b7\u03c0\u03b9\u03c9\u03bd] The term used by the Jews to designate proselytes or novices.",
+            "The form - in the law [\u03bc\u03bf\u03c1\u03c6\u03c9\u03c3\u03b9\u03bd]. Not mere appearance, but the scheme, the correct embodiment of the lineaments of truth and knowledge in the law."
+        ],
+        "John Calvin": [
+            "Because thou hast the form of knowledge.",
+            "Paul intended... to point out the conspicuous pomp of their teaching.",
+            "Right knowledge must be sought from the law, in order that the truth may have a solid basis."
+        ],
+        "Philip Schaff": [
+            "A teacher of babes. These figurative expressions correctly represent the proud attitude of the Jews as religious instructors.",
+            "Having in the law. The change of order gives clearness. This clause gives, in effect, the reason of the Jewish attitude, just described.",
+            "The very form of knowledge and of the truth. Not the 'mere form,' (as in 2 Timothy 3:5), but the exact model, pattern, representative. Religious knowledge and truth had found their embodiment and expression in the law."
+        ],
+        "Archibald T. Robertson": [
+            "A corrector of the foolish (\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c4\u03b7\u03bd \u03b1\u03c6\u03c1\u03bf\u03bd\u03c9\u03bd). Old word (from \u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c9) for instructor, in Plato, and probably so here, though corrector or chastiser in Hebrews 12:9 (the only N.T. instances).\" ",
+            "\u0391\u03c6\u03c1\u03bf\u03bd\u03c9\u03bd is a hard word for Gentiles, but it is the Jewish standpoint that Paul gives. Each termed the other 'dogs.'",
+            "This is Paul's picture of the Jew as he sees himself drawn with consummate skill and subtle irony."
+        ],
+        "John Gill": [
+            "All men in a state of unregeneracy are foolish, and need instruction.",
+            "These [instructors] are said to be inferior to the wise men, or doctors.",
+            "Though the Jews had the law, and in some sense knew it, yet inasmuch as they did not perform it, they could not be justified by it."
+        ],
+        "John Wesley": [
+            "Having the form of knowledge and truth \u2014 That is, the most accurate knowledge of the truth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who had the law had the advantage of concrete knowledge and precise information about divine things, being favored with clear instruction and guidance. The law, although only a partial reflection of God's holiness and character, contained a foreshadowing of Christ. However, possessing this knowledge and truth in the law was not enough. It required a corresponding course of holy conduct. The Jews, who saw themselves as teachers of the ignorant Gentiles, prided themselves on their form of knowledge and truth, but they failed to live up to their own standards. This is Paul's skillfully drawn and subtly ironic picture of the Jews, highlighting their proud attitude while exposing their inability to be justified by the law alone.",
+            "wordCount": 120,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.934220336249529,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                33.52,
+                34.09,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having the advantage of definite and precise information from heaven, those who possessed the law saw themselves as instructors and custodians of knowledge and truth, claiming superiority over the Gentiles. However, Paul's portrayal of the Jews reveals their hypocrisy, as their outward appearance of knowledge and truth was not matched by a corresponding obedience to the law. Despite their form of knowledge and their pride in their religious instruction, they could not be justified by the law alone.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1325057170888764,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.25,
+            "commentatorTierSimilarities": [
+                29.69,
+                33.97,
+                36.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The law, as a representation of God's holiness, served as a form of knowledge and truth for the Jews, providing them with definite and concise information. They saw themselves as valuable instructors, favored with precise insights from heaven, while the Gentiles were left to vague conjecture. However, their claim to knowledge and truth was undermined by their failure to live according to the standards they preached. Despite their position as teachers and their recognition of the law's embodiment of truth, they could not rely solely on it for justification.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9211122114016073,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                27.54,
+                34.78,
+                37.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The law, a reflection of God's holiness, contained a foreshadowing of Christ and provided the Jews with definite and precise information from heaven, setting them apart from the ignorant Gentiles. They took pride in their form of knowledge and truth, considering themselves as instructors and judges of the foolish. However, Paul's depiction of the Jews exposes their hypocrisy, as their supposed knowledge and truth were not backed by corresponding holy conduct. The law alone could not justify them, revealing the limitations of their self-proclaimed superiority.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.9931667388096304,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                29.97,
+                36.22,
+                33.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who possessed the law had the advantage of concrete knowledge and precise information about divine things. They prided themselves on their form of knowledge and truth, considering themselves as instructors and judges of the ignorant Gentiles. However, their claim to knowledge and truth was undermined by their failure to live up to their own standards. The Jews, who saw themselves as teachers, could not be justified by the law alone, revealing the limitations of their self-proclaimed superiority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9351527667223207,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.69,
+            "commentatorTierSimilarities": [
+                27.78,
+                31.03,
+                41.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

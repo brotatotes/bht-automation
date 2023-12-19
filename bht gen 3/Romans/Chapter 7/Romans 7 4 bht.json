@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:16",
+    "verseRef": "Romans 7:4",
+    "bestBHT": {
+        "bht": "Through the crucified body of Christ, believers were made dead to the law and joined to Him who was raised from the dead. This union results in a double life, where believers lay down their old sin-condemned life and rise with Christ to a new life of acceptance and holiness. The flesh, though not inherently sinful, is tainted by sin. Freed from the power of the law, believers are united with Christ, bearing fruit unto God. The law is nullified through Christ's death, setting believers free from its yoke.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.371255797071595,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.18,
+        "commentatorTierSimilarities": [
+            29.75,
+            37.81,
+            32.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ye also (as well as the woman in my example, who is dead to the law of her husband) were made dead (or, slain) to the law... through (by means of) the (crucified) body of Christ.\" ",
+            "you might be joined to another, (even) to him who was raised from the dead... to the intent that we should bring forth fruit unto the bonour of God.",
+            "the past tense (not 'are become,' as A.V.), to remind them of the great Event by which this was brought about."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The apostle here departs from his usual word 'died,' using the more expressive phrase 'were slain,' to make it clear that he meant their being 'crucified with Christ.'",
+            "It was essential to his argument that we, not the law, should be the dying party, since it is we that are 'crucified with Christ,' and not the law.",
+            "Like Jesus Himself, believers are here viewed as having a double life\u2014the old sin-condemned life, which they lay down with Christ, and the new life of acceptance and holiness to which they rise with their Surety and Head."
+        ],
+        "Albert Barnes": [
+            "The meaning is, as death dissolves the connection between a wife and her husband, and of course the obligation of the law resulting from that connection, so the death of the Christian to the Law dissolves that connection, so far as the scope of the argument here is concerned, and prepares the way for another union, a union with Christ, from which a new and more efficient obligation results.",
+            "The connection between us and the Law is dissolved, so far as the scope of the apostle\u2019s argument is concerned. He does not say that we are dead to it, or released from it as a rule of duty, or as a matter of obligation to obey it; for there neither is, nor can be, any such release, but we are dead to it as a way of justification and sanctification.",
+            "That you might be united to another, and come under his law. As the woman that is freed from the law of her husband by his death, when married again comes under the authority of another, so we who are made free from the Law and its curse by the death of Christ, are brought under the new law of fidelity and obedience to him with whom we are thus united."
+        ],
+        "Marvin Vincent": [
+            "Who was raised. An important addition, because it refers to the newness of life which issues from the rising with Christ.",
+            "The sarx is described as mortal; subject to infirmity... an object of fostering care.",
+            "The flesh is not necessarily sinful in itself; but as it has existed from the time of the introduction of sin through Adam, it is recognized by Paul as tainted with sin."
+        ],
+        "John Calvin": [
+            "It was then by cancelling this handwriting that we were delivered through the body of Christ \u2014 through his body as fixed to the cross.",
+            "He at the same time softens the asperity of the expression, by saying that Christ, in order to join us to his own body, made us free from the yoke of the law.",
+            "He ever annexes the final cause, lest any should indulge the liberty of their flesh and their own lusts, under the pretense that Christ has delivered them from the bondage of the law."
+        ],
+        "Philip Schaff": [
+            "Were made dead to the law...the death of Christians to the law as a death incurred by virtue of the administration of the law.",
+            "The purpose of the death to the law was union to Christ...",
+            "The idea of a new ethical life is constantly joined by the Apostle to the fact of the resurrection."
+        ],
+        "Archibald T. Robertson": [
+            "The relation of marriage is killed 'through the body of Christ' as the 'propitiation' for us.\" ",
+            "First mention of the saints as wedded to Christ as their Husband occurs in 1 Corinthians 6:13; Galatians 4:26.",
+            "He changes the metaphor to that of the tree used in Romans 6:22."
+        ],
+        "John Gill": [
+            "They are represented as 'dead to sin', and 'dead with Christ', Romans 6:2; and here, 'dead to the law', as in Galatians 2:19, and consequently cannot be under it; are out of the reach of its power and government.",
+            "The reason why the law is become so to them, and they to that, is, that ye should be married to another.",
+            "The end of being dead to the law, and of being married to Christ, is, that we should bring forth fruit unto God."
+        ],
+        "John Wesley": [
+            "Are now as free from the Mosaic law as an husband is, when his wife is dead.",
+            "By the body of Christ \u2014 Offered up; that is, by the merits of his death.",
+            "That law expiring with him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the crucified body of Christ, believers were made dead to the law, in order that they may be joined to Him who was raised from the dead. This double life is depicted by Paul, where the old sin-condemned life is laid down and the new life of acceptance and holiness is embraced. The flesh, though not inherently sinful, is recognized as tainted with sin due to its existence since Adam. The connection between believers and the law is dissolved, allowing them to be united with Christ under His new law of fidelity and obedience. This death to the law was essential for believers to be married to Christ and bear fruit unto God. It is through the merits of Christ's death that the law is nullified and believers are set free.",
+            "wordCount": 134,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 2.4770285999395023,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.7,
+            "commentatorTierSimilarities": [
+                28.95,
+                38.43,
+                32.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the crucified body of Christ, believers were made dead to the law, joining them to Him who was raised from the dead. This double life, like Jesus Himself, involves laying down the old sin-condemned life and rising with Christ to a new life of acceptance and holiness. The flesh, though not inherently sinful, is tainted with sin due to its existence since Adam. Believers are freed from the power of the law and instead united with Christ, bringing forth fruit unto God. The law is nullified through the merits of Christ's death, allowing believers to be set free.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.4313678908144674,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.18,
+            "commentatorTierSimilarities": [
+                30.36,
+                36.54,
+                33.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers were made dead to the law through the crucified body of Christ, so that they could be joined to Him who was raised from the dead. This double life is seen in laying down the old sin-condemned life and rising with Christ to a new life of acceptance and holiness. The flesh, though not inherently sinful, bears the taint of sin due to its existence since Adam. Believers are freed from the power of the law and united with Christ, producing fruit unto God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.313242026564752,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.26,
+            "commentatorTierSimilarities": [
+                32.38,
+                34.43,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the crucified body of Christ, believers were made dead to the law and joined to Him who was raised from the dead. This double life is seen in laying down the old sin-condemned life and rising with Christ to a new life of acceptance and holiness. The flesh, though not inherently sinful, bears the taint of sin. Believers are freed from the power of the law and united with Christ, producing fruit unto God. The law is nullified through the merits of Christ's death, allowing believers to be set free.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.339504297489392,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.13,
+            "commentatorTierSimilarities": [
+                29.96,
+                36.77,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the crucified body of Christ, believers were made dead to the law and joined to Him who was raised from the dead. This union results in a double life, where believers lay down their old sin-condemned life and rise with Christ to a new life of acceptance and holiness. The flesh, though not inherently sinful, is tainted by sin. Freed from the power of the law, believers are united with Christ, bearing fruit unto God. The law is nullified through Christ's death, setting believers free from its yoke.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.371255797071595,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.18,
+            "commentatorTierSimilarities": [
+                29.75,
+                37.81,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

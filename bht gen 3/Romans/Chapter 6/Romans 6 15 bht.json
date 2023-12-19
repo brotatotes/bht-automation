@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:05:51",
+    "verseRef": "Romans 6:15",
+    "bestBHT": {
+        "bht": "Can we sin freely now that we're under grace, not the law? This question arises regarding occasional acts of sin. Some argue that under grace, we have the freedom to indulge. But the Apostle Paul firmly denies this, exclaiming God forbid! The removal of the law doesn't dismiss the righteousness God approves. Although we're no longer under the law of Moses, we're still under the law fulfilled by Christ. To misuse God's unchanging grace as an excuse for licentiousness is an abuse of His grace.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.829811605462945,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+        "commentatorTierSimilarities": [
+            24.04,
+            32.02,
+            43.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Are we to sin? i.e. may we sin? Notice, that he is speaking of committing acts of sin; not of a habit of living in sin, although that would be involved by such acts.\" ",
+            "This question is not, any more than that of ver. 1, put into the month of an objector, but is part of the Apostle\u2019s own discourse, arising out of what has preceded.\" ",
+            "Answered by him in the following verses."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "15, 16. What then? . . . Know ye",
+            "\tnot\u2014it is a dictate of common sense."
+        ],
+        "Albert Barnes": [
+            "If Christians are not under the law, which forbids all sin, but are under grace, which pardons sin, will it not follow that they will feel themselves released from obligation to be holy?\" ",
+            "Will they not commit sin freely, since the system of grace is one which contemplates pardon, and which will lead them to believe that they may be forgiven to any extent?\" ",
+            "God forbid."
+        ],
+        "John Calvin": [
+            "We think that when it [the law] is removed all discipline immediately falls to the ground, that restraints are taken away, in a word, that there remains no distinction or difference between good and evil.",
+            "But we are much deceived if we think that the righteousness which God approves of in his law is abolished when the law is abrogated.",
+            "But the right view is, that nothing is taken away but the curse, to which all men without grace are subject."
+        ],
+        "Philip Schaff": [
+            "The connection with chap. 7, as well as the entire argument of chaps. 6-8, points to sanctification by grace, and forbids an exclusive reference to the grace of justification.",
+            "Let it never be; as usual. The denial is expanded in what follows.",
+            "The legal heart makes the objection; but the loyal heart makes this indignant denial."
+        ],
+        "Archibald T. Robertson": [
+            "Shall we commit sin\" (occasional acts of sin as opposed to the life of sin as raised by \u03b5\u03c0\u03b9\u03bc\u03b5\u03bd\u03c9\u03bc\u03b5\u03bd \u03c4\u03b7 \u03b1\u03bc\u03b1\u03c1\u03c4\u03b9\u03b1 in verse Romans 6:1)?",
+            "Surely, the objector says, we may take a night off now and then and sin a little bit 'since we are under grace.'",
+            "The same reason as in verse Romans 6:1 and taken up from the very words in verse Romans 6:14."
+        ],
+        "John Gill": [
+            "Does it follow from hence, that therefore we may sin, and go on and continue in it, because we are not under the law, but under grace?",
+            "Believers, though they are not under the law as the ministry of Moses, yet they are under it, as it is in the hands of Christ.",
+            "To argue from the unchangeableness of God's grace, or the doctrines of it, as encouraging licentiousness, is greatly to abuse the grace of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Should we continue to sin, thinking that we are no longer under the law but under grace? The question arises as we consider whether occasional acts of sin are permissible since we are now under grace. The objector suggests that we can take breaks from holiness and indulge in sin from time to time. However, the Apostle Paul firmly rejects this notion, exclaiming, God forbid! In fact, the removal of the law does not nullify the righteousness that God approves. While we are no longer under the law as it was given through Moses, we are still under it as it is fulfilled by Christ. Therefore, to use the unchangeableness of God's grace as an excuse for licentiousness would be a serious misapplication of His grace.",
+            "wordCount": 127,
+            "quoteTokenProportion": 48.1,
+            "qualityScore": 1.8802025108075804,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                25.11,
+                30.57,
+                44.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Should we continue sinning now that we are under grace and not under the law? This question arises as we consider the possibility of indulging in occasional acts of sin. Some argue that since we are no longer under the law, we may sin freely. However, the Apostle Paul emphatically denies this notion, exclaiming, God forbid! The removal of the law does not abolish the righteousness that God approves. Though we are no longer under the law as given through Moses, we are still under it as fulfilled by Christ. To use God's unchanging grace as a license for licentiousness would be a profound abuse of His grace.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8360446884892931,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                24.49,
+                30.06,
+                45.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Can we continue to sin now that we live under grace and not the law? The question arises, suggesting that occasional acts of sin may be permissible. Those who argue this point suggest that under grace, we have the freedom to indulge. However, the Apostle Paul vehemently rejects this idea, exclaiming God forbid! The removal of the law does not negate the righteousness God approves of. Though we are no longer under the law as given through Moses, we are still subject to it through Christ. Using God's grace as an excuse for licentiousness would be a grave abuse.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8228834105732266,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                24.14,
+                32.0,
+                43.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Should we sin freely now that we are under grace and not the law? This question arises when considering whether occasional acts of sin are excusable. Some argue that since we are no longer under the law, we have the freedom to indulge. But the Apostle Paul strongly rejects this notion, emphatically stating, God forbid! The removal of the law does not nullify the righteousness God approves of. Although we are released from the law given through Moses, we are still accountable to the law fulfilled by Christ. To misuse God's unchanging grace as a justification for licentiousness is a gross misapplication.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.8258944000367294,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.05,
+            "commentatorTierSimilarities": [
+                23.89,
+                31.46,
+                44.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Can we sin freely now that we're under grace, not the law? This question arises regarding occasional acts of sin. Some argue that under grace, we have the freedom to indulge. But the Apostle Paul firmly denies this, exclaiming God forbid! The removal of the law doesn't dismiss the righteousness God approves. Although we're no longer under the law of Moses, we're still under the law fulfilled by Christ. To misuse God's unchanging grace as an excuse for licentiousness is an abuse of His grace.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.829811605462945,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.18,
+            "commentatorTierSimilarities": [
+                24.04,
+                32.02,
+                43.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:10:02",
+    "verseRef": "Romans 14:21",
+    "bestBHT": {
+        "bht": "The apostle's counsel is to regulate our conduct based on the sensitivities of those who are weak in faith. Actions lacking faith are considered sinful, therefore caution is necessary in matters of Christian liberty. It is admirable to abstain from actions that may cause a brother to stumble or be obstructed in his spiritual journey. Let us consider this principle, denying ourselves for the sake of peace and refraining from actions that may offend or weaken others.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.9943651023765758,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+        "commentatorTierSimilarities": [
+            30.41,
+            39.14,
+            30.46
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed is the one who has no scruples about things in which we allow ourselves.",
+            "He that doubts incurs condemnation by eating, because he does not eat in faith.",
+            "Whatever is not grounded in faith is sin."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These three words, it has been remarked, are each intentionally weaker than the other:\u2014'Which may cause a brother to stumble, or even be obstructed in his Christian course, nay\u2014though neither of these may follow\u2014wherein he continues weak; unable wholly to disregard the example, and yet unprepared to follow it.",
+            "But this injunction to abstain from flesh, from wine, and from whatsoever may hurt the conscience of a brother, must be properly understood. Manifestly, the apostle is treating of the regulation of the Christian's conduct with reference simply to the prejudices of the weak in faith.",
+            "His directions are to be considered not as prescriptions for one's entire lifetime, even to promote the good of men on a large scale, but simply as cautions against the too free use of Christian liberty in matters where other Christians, through weakness, are not persuaded that such liberty is divinely allowed."
+        ],
+        "Albert Barnes": [
+            "That which is now in common use is mingled with alcohol, and with other intoxicating ingredients. Little or none of the wine which comes to this country is pure. And in this state of the case, does not the command of the apostle here require the friends of temperance to abstain even from the use of wine?",
+            "So valuable is peace, and so desirable is it not to offend a brother, that we should rather deny ourselves to any extent, than to be the occasion of offences and scandals in the church.",
+            "In this verse we have an eminent instance of the charity of the apostle, and of his spirit of concession and kindness. If this were regarded by all Christians, it would save no small amount of strife, and heart-burnings, and contention."
+        ],
+        "Marvin Vincent": [
+            "To eat flesh - drink wine. The two points of the weak brother 's special scruple. Omit or is offended or is made weak."
+        ],
+        "Philip Schaff": [
+            "It is good; admirable, honorable, morally good, in view of what has been said; hence this is the general principle of action, for the strong brother.",
+            "The self-denial of the strong is not a warrant for the tyranny of the weak, who should study the passages meant especially for him.",
+            "A strong Christian should strive to act upon the principle of this verse, but the weak brother has no right to demand it of him; such a demand is a confession that he is wrong in his scruple."
+        ],
+        "Archibald T. Robertson": [
+            "Not to eat (\u03c4\u03bf \u03bc\u03b7 \u03c6\u03b1\u03b3\u03b5\u03b9\u03bd). 'The not eating.'",
+            "Flesh (\u03ba\u03c1\u03b5\u03b1\u03c2). Old word, in N.T. only here and 1 Corinthians 8:13.",
+            "Whereby (\u03b5\u03bd \u03c9). 'On which thy brother stumbleth' (\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03c0\u03c4\u03b5)."
+        ],
+        "John Gill": [
+            "It is good neither to eat flesh....nor to drink wine...nor anything, whereby thy brother stumbleth.\"  ",
+            "Particularly that Christian liberty in things indifferent be not unseasonably and imprudently used, and so become a means of stumbling and staggering to weak minds.\"  ",
+            "Being ready to think it is not right, since contrary to the law of Moses."
+        ],
+        "John Wesley": [
+            "Thy brother stumbleth... against his conscience, contrary to righteousness.",
+            "Or is offended... to the loss of his peace.",
+            "Or made weak... to the loss of that joy in the Lord which was his strength."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is the one who has no scruples about things in which we allow ourselves. Whatever is not grounded in faith is sin. The apostle is treating of the regulation of the Christian's conduct with reference simply to the prejudices of the weak in faith. His directions are to be considered not as prescriptions for one's entire lifetime, but simply as cautions against the too free use of Christian liberty in matters where other Christians, through weakness, are not persuaded that such liberty is divinely allowed. It is good neither to eat flesh, nor to drink wine, nor anything, whereby thy brother stumbleth. Let us strive to act upon the principle of this verse, denying ourselves for the sake of peace and the avoidance of offending others.",
+            "wordCount": 129,
+            "quoteTokenProportion": 43.82,
+            "qualityScore": 2.140810643034325,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.52,
+            "commentatorTierSimilarities": [
+                38.04,
+                32.57,
+                29.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is the one who acts without scruples, for whatever lacks faith is sin. The apostle guides the conduct of Christians in relation to the weak in faith, cautioning against too much freedom. It is good to avoid actions that might cause a brother to stumble. Let us strive to act accordingly, denying ourselves for the sake of peace and the avoidance of offenses.",
+            "wordCount": 64,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.9462415696660733,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                31.84,
+                35.07,
+                33.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle directs Christians to be cautious about causing the weak in faith to stumble or be obstructed in their Christian journey. He advises against freely exercising Christian liberty in matters that others, through weakness, may not believe is divinely allowed. Whatever is not rooted in faith is considered sin. It is good not to partake in things that may cause a brother's stumbling or offense. Let us strive to act in accordance with this principle, denying ourselves for the sake of peace and avoiding offense.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9327292149778232,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.6,
+            "commentatorTierSimilarities": [
+                33.94,
+                33.48,
+                32.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle sets forth guidelines for Christians regarding the weak in faith. Cautioning against freely exercising Christian liberty in matters where others see it as sinful, he advises that whatever lacks faith is sin. It is commendable to abstain from actions that may cause a brother to stumble or be hindered in his Christian journey. Let us keep this principle in mind, denying ourselves for the sake of peace and avoiding offense to others.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9935585023316156,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                31.67,
+                36.17,
+                32.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle's counsel is to regulate our conduct based on the sensitivities of those who are weak in faith. Actions lacking faith are considered sinful, therefore caution is necessary in matters of Christian liberty. It is admirable to abstain from actions that may cause a brother to stumble or be obstructed in his spiritual journey. Let us consider this principle, denying ourselves for the sake of peace and refraining from actions that may offend or weaken others.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9943651023765758,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                30.41,
+                39.14,
+                30.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

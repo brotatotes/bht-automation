@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 15:49:10",
+    "verseRef": "1 John 5:11",
+    "bestBHT": {
+        "bht": "God has given us eternal life through His Son, a gift that is not merely promised but given once for all. This life is found in Jesus Himself, and it is secured to us through Him. By believing in Christ, we become partakers of this life, which is a pure grace gift from God the Father. It is rooted in His sovereign will and manifests His abundant love for us. Through this gift of eternal life, we are assured that we are now children of God.",
+        "wordCount": 86,
+        "quoteTokenProportion": 54.72,
+        "qualityScore": 2.4160764270085666,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.67,
+        "commentatorTierSimilarities": [
+            31.96,
+            37.9,
+            30.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God gave to us eternal life.",
+            "This life is in His Son.",
+            "The reason of our getting eternal life from God is found in Jesus Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "hath given\u2014Greek, aorist: 'gave' once for all. Not only 'promised' it.\" ",
+            "life is in his Son\u2014essentially (John 1:4; John 11:25; John 14:6); bodily (Colossians 2:9); operatively (2 Timothy 1:10) [LANGE in ALFORD].\" ",
+            "It is in the second Adam, the Son of God, that this life is secured to us, which, if left to depend on us, we should lose, like the first Adam."
+        ],
+        "Albert Barnes": [
+            "And this is the record - This is the sum, or the amount, of the testimony which God has given respecting him.",
+            "That God hath given to us eternal life - Has provided, through the Saviour, the means of obtaining eternal life.",
+            "And this life is in his Son - Is treasured up in him, or is to be obtained through him."
+        ],
+        "Marvin Vincent": [
+            "The reference is to the historic fact of the gift.",
+            "The gift of love abides in the fact that we are now children of God.",
+            "The phrase here, without either article, merely defines the character of the life."
+        ],
+        "John Calvin": [
+            "It is, indeed, a reverence due to God, immediately to receive, as beyond controversy, whatever he declares to us.",
+            "We ought, not only reverently to obey the gospel, lest we should affront God; but, that we ought to love it, because it brings to us eternal life.",
+            "No other way of obtaining life has been appointed for us by God the Father...we cannot otherwise become partakers of this life than by believing in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "That God gave... the great historic fact of the Incarnation...to emphasize the abiding presence of God's love.",
+            "Eternal life... emphasizing quality.",
+            "This is why Jesus who is life... came to give us abundant life."
+        ],
+        "John Gill": [
+            "This is a pure free grace gift of God the Father, proceeding from his sovereigns good will and pleasure, and which he gives to all his chosen ones.",
+            "And to the same in time he gives the right unto it, the meetness for it, and the pledge and earnest of it.",
+            "And because he lives, this life will never be lost, or they come short of it."
+        ],
+        "John Wesley": [
+            "God hath given us a title to, and the real beginning of, eternal life.",
+            "This is purchased by, and treasured up in, his Son.",
+            "He has all the springs and the fulness of it in himself, to communicate to his body, the church, first in grace and then in glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "God has given us eternal life through His Son. This life is found in Him alone, and its source is rooted in the historic fact of the Incarnation. Jesus, who is life Himself, came to give us an abundant life. This gift of eternal life is a manifestation of God's love for us, emphasizing the quality of life rather than just its duration. Through faith in Christ, we become partakers of this life that God has freely given to us. Our assurance of this gift is grounded in the fact that we are now children of God. This is a pure grace gift, proceeding from the sovereign will of the Father, purchased and treasured up in His Son, who is the very source and sustainer of this eternal life.",
+            "wordCount": 130,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.450574162938676,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.82,
+            "commentatorTierSimilarities": [
+                33.45,
+                38.67,
+                27.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has given us eternal life through His Son, a gift that is not merely promised but given once for all. This life is found in Jesus Himself, and it is secured to us through Him. It is a historic fact of the Incarnation, emphasizing the abiding presence of God's love. This gift defines the character of the life and its quality, offering an abundant life that can only be obtained through belief in Christ. By receiving this gift, we become children of God, with a title to and the beginning of eternal life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.4460019589135076,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.67,
+            "commentatorTierSimilarities": [
+                32.9,
+                38.03,
+                29.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God has given us eternal life through His Son, a gift that is not merely promised but given once for all. This life is found in Jesus Himself, and it is secured to us through Him. By believing in Christ, we become partakers of this life, which is a pure grace gift from God the Father. It is rooted in His sovereign will and manifests His abundant love for us. Through this gift of eternal life, we are assured that we are now children of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 2.4160764270085666,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.67,
+            "commentatorTierSimilarities": [
+                31.96,
+                37.9,
+                30.14
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

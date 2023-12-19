@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:08:14",
+    "verseRef": "Romans 11:19",
+    "bestBHT": {
+        "bht": "Some may boast and say that the branches were broken off so they could be grafted in, disregarding and showing contempt for the cast-off Jews. However, this presumption is misplaced, as their rejection was due to their unbelief, not to make way for the Gentiles. It is important to remember that faith should generate humility and fear, not pride and arrogance. The purpose of the Jews being rejected was to allow for the inclusion of the Gentiles, but this does not make the Jews more vile or the Gentiles more deserving.",
+        "wordCount": 92,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.7388371165164618,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+        "commentatorTierSimilarities": [
+            23.54,
+            35.6,
+            40.86
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The branches (viz. which were broken off\u2014not the whole branches) were broken off, that I (emphatic) might be grafted in.",
+            "Thou wilt then (it being supposed that thou boastest, and defendest it) say, The branches (viz. which were broken off\u2014not the whole branches) were broken off, that I (emphatic) might be grafted in.",
+            "Thou wilt then (it being supposed that thou boastest, and defendest it) say, The branches (viz. which were broken off\u2014not the whole branches) were broken off, that I (emphatic) might be grafted in."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19-21. Thou wilt say then\u2014as a",
+            "\tplea for boasting. ",
+            "\t",
+            "The branches were broken off,",
+            "\tthat I might be grafted in."
+        ],
+        "Albert Barnes": [
+            "The branches were broken off ... - The Jews were rejected in order that the gospel might be preached to the Gentiles.",
+            "Perhaps it might be said that there was some ground of exultation from the fact that God had rejected his ancient people for the sake of making a way open to admit the Gentiles to the church.",
+            "To this Paul replies in the next verse, that this was not the reason why they were rejected, but their unbelief was the cause."
+        ],
+        "John Calvin": [
+            "For it is the nature of faith, and what properly belongs to it, to generate humility and fear.",
+            "But this dread, derived from the knowledge of ourselves, keeps not our minds while relying on his goodness, from continuing calm.",
+            "We ought then so far to fear, that our heart may not swell with pride and elate itself."
+        ],
+        "Philip Schaff": [
+            "This has been the presumptuous attitude of too many during all the Christian centuries.",
+            "Branches were broken off, etc. The article is omitted by the best authorities; the reference is to \u2018some of the branches\u2019",
+            "I is emphatic."
+        ],
+        "Archibald T. Robertson": [
+            "A presumptuous Gentile speaks.",
+            "He shows contempt for the cast-off Jews.",
+            "Purpose clause with \u03b9\u03bd\u03b1 and first aorist passive subjunctive."
+        ],
+        "John Gill": [
+            "The branches were broken off, that I might be grafted in.",
+            "The Jews were rejected and left out of the Gospel church, on purpose to make way for the Gentiles, that they might be put in their room.",
+            "Consequently, the Jews must be more vile and unworthy, and the Gentiles more deserving of such favours and privileges, or God would never have taken such a step, to leave out one to make room for the other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Some may boast and say that the branches were broken off so they could be grafted in, disregarding and showing contempt for the cast-off Jews. However, this presumption is misplaced, as their rejection was due to their unbelief, not to make way for the Gentiles. It is important to remember that faith should generate humility and fear, not pride and arrogance. The purpose of the Jews being rejected was to allow for the inclusion of the Gentiles, but this does not make the Jews more vile or the Gentiles more deserving.",
+            "wordCount": 92,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.7388371165164618,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                23.54,
+                35.6,
+                40.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some may boast and say that the branches were broken off so they could be grafted in, disregarding and showing contempt for the cast-off Jews. However, their rejection was due to their unbelief, not to make way for the Gentiles. Faith should generate humility and fear, not pride. The purpose of the Jews being rejected was to allow for the inclusion of the Gentiles, but this does not make the Jews more vile or the Gentiles more deserving.",
+            "wordCount": 79,
+            "quoteTokenProportion": 54.72,
+            "qualityScore": 1.7125200544207253,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.28,
+            "commentatorTierSimilarities": [
+                23.9,
+                35.3,
+                40.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Some may boast and say that the branches were broken off so that they might be grafted in, showing contempt for the cast-off Jews and assuming that they are more deserving of God's favors. But this is a presumptuous attitude that fails to recognize that the branches were broken off not to exalt the Gentiles, but because of their own unbelief. The purpose was not to elevate one group over another, but rather to open the way for the Gentiles to be included in God's plan of salvation. Therefore, let us approach this verse with humility and fear, recognizing that it is only by God's grace that any of us are grafted into the vine.",
+            "wordCount": 119,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.7839085980103904,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.66,
+            "commentatorTierSimilarities": [
+                26.96,
+                35.48,
+                37.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Some may boast and say that the branches were broken off so that they might be grafted in, showing contempt for the cast-off Jews. But this is a presumptuous attitude. The purpose was not to elevate one group over another, but rather to open the way for the Gentiles to be included in God's plan of salvation. Therefore, let us approach it with humility and recognize that it is only by God's grace that any of us are grafted into the vine.",
+            "wordCount": 85,
+            "quoteTokenProportion": 56.45,
+            "qualityScore": 1.563948287328112,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                28.81,
+                34.5,
+                36.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Some may boast and say that the branches were broken off so that they might be grafted in, showing contempt for the cast-off Jews. But this is a presumptuous attitude. The purpose was not to elevate the Gentiles or belittle the Jews, but to provide an opportunity for all to be part of God's plan. Therefore, let us approach this with humility, recognizing that it is only through God's grace that anyone is included.",
+            "wordCount": 77,
+            "quoteTokenProportion": 56.9,
+            "qualityScore": 1.5073595878860044,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.46,
+            "commentatorTierSimilarities": [
+                27.73,
+                35.2,
+                37.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

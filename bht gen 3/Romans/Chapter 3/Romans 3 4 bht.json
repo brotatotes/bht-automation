@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:00:30",
+    "verseRef": "Romans 3:4",
+    "bestBHT": {
+        "bht": "Let God be true, regardless of what becomes of men and their truth. His truth must stand fast and be justified in His words of judgment. We are called to vindicate the righteousness of God, even if it means that every man is found a liar. God's justice is put on trial, but His faithfulness cannot be made void. Let us always assert and abide by the truth that God is true, faithful to His word, and will fulfill His purposes.",
+        "wordCount": 82,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.616350012532516,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.33,
+        "commentatorTierSimilarities": [
+            34.92,
+            34.81,
+            30.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let God be true...His truth must stand fast.\" ",
+            "Whatever becomes of men and their truth, His truth must stand fast.\" ",
+            "That thou mightest be justified (shown to be just) in thy words (sentences, words of judgment), and mightest overcome when thou art judged..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let it not be, 'Away with such a thought'\u2014a favorite expression of our apostle, when he would not only repudiate a supposed consequence of his doctrine, but express his abhorrence of it.",
+            "Yea, let God be held true, and every man a liar\u2014that is, even though it should follow from this that every man is a liar.",
+            "We are to vindicate the righteousness of God, at whatever expense to ourselves."
+        ],
+        "Albert Barnes": [
+            "Let God be esteemed true and faithful, whatever consequence may follow.",
+            "How happy would it be, if all people would regard this as a fixed principle, a matter not to be questioned in their hearts, or debated about, that God is true to his word!",
+            "And if all people were willing to sacrifice their opinions when they appeared to impinge on the veracity of God; if they started back with instinctive shuddering at the very supposition of such a lack of fidelity in him; how soon would it put an end to the boastings of error, to the pride of philosophy, to lofty dictation in religion!"
+        ],
+        "Marvin Vincent": [
+            "Let God be found true.",
+            "Let God turn out to be or be found to be by His creatures.",
+            "God's justice is put on trial."
+        ],
+        "John Calvin": [
+            "So far is it that the truth of God is destroyed by our falsehood and unfaithfulness, that it thereby shines forth and appears more evident.",
+            "Though the word \u03ba\u03c1\u1f77\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9, may be taken actively as well as passively, yet the Greek translators, I have no doubt, rendered it passively, contrary to the meaning of the Prophet.",
+            "Since all the sins of mortals must serve to illustrate the glory of the Lord, and since he is especially glorified by his truth, it follows, that even the falsehood of men serves to confirm rather than to subvert his truth."
+        ],
+        "Philip Schaff": [
+            "God forbid, or, \u2018let it never be\u2019 (far from it). The expression is used in animated discussions, fourteen times by Paul (ten times in this Epistle), and elsewhere in the New Testament (Luke 20:16).",
+            "Rather let us believe all men on earth to have broken their word and troth, than God His. Whatever becomes of men and their truth His truth must stand fast.\" (Alford)",
+            "God\u2019s faithfulness cannot be made void; even the sin of men makes His truthfulness and faithfulness known."
+        ],
+        "Archibald T. Robertson": [
+            "Let God continue to be true.",
+            "Though every man be found a liar.",
+            "Used of God this verb here has to mean 'declared righteous,' not 'made righteous.'"
+        ],
+        "John Gill": [
+            "Let no such thing ever enter into the minds of any, that the truth of God can be, or will be made of none effect by the want of faith in man; let it be always asserted and abode by; that God is true, faithful to his word, constant in his promises, and will always fulfil his purposes; though 'every man is a liar', vain, fallacious, and inconstant.",
+            "This is a proof that God is true, and stands to his word, though men are fallacious, inconstant, and wicked. God made a promise to David... but his sin did not make of no effect the truth and faithfulness of God.",
+            "This now is brought as a full proof, and is a full proof of this truth, that God is always true to his word, though men fail in theirs, and fall into sin."
+        ],
+        "John Wesley": [
+            "Psalm 2:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Let God be true, regardless of what becomes of men and their truth. His truth must stand fast and be justified in His words of judgment. We are called to vindicate the righteousness of God, even if it means that every man is found a liar. God's justice is put on trial, but His faithfulness cannot be made void. Let us always assert and abide by the truth that God is true, faithful to His word, and will always fulfill His purposes, despite the fallaciousness and inconstancy of men.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.606837351759813,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.02,
+            "commentatorTierSimilarities": [
+                34.56,
+                34.92,
+                30.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let God be true, regardless of what becomes of men and their truth. His truth must stand fast and be justified in His words of judgment. We are to vindicate the righteousness of God, even if it means that every man is found a liar. God's justice is put on trial, but His faithfulness cannot be made void. Let us always assert and abide by the truth that God is true, faithful to His word, and will fulfill His purposes, despite the fallaciousness and inconstancy of men.",
+            "wordCount": 88,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 2.607994434420428,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.06,
+            "commentatorTierSimilarities": [
+                34.88,
+                34.62,
+                30.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let God be true, regardless of what becomes of men and their truth. His truth must stand fast and be justified in His words of judgment. We are called to vindicate the righteousness of God, even if it means that every man is found a liar. God's justice is put on trial, but His faithfulness cannot be made void. Let us always assert and abide by the truth that God is true, faithful to His word, and will fulfill His purposes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.616350012532516,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.33,
+            "commentatorTierSimilarities": [
+                34.92,
+                34.81,
+                30.28
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

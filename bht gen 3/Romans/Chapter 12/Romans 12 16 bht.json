@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:09:19",
+    "verseRef": "Romans 12:16",
+    "bestBHT": {
+        "bht": "Believers are called to have a shared spirit of mutual allowance and kindness, cherishing not selfish ambitions but inclining towards the lowly. This requires condescending to men of low estate, which includes the most indigent and least influential in the Church. Seeking common interests and companionship with the humble and obscure is encouraged, as it reflects the Christian's preference for humility and unity. It is important not to become wise in one's own conceits, as this undermines Christian fellowship.",
+        "wordCount": 81,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 2.0904276089282625,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+        "commentatorTierSimilarities": [
+            32.31,
+            35.27,
+            32.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having the same spirit towards one another, i.e. actuated by a common and well-understood feeling of mutual allowance and kindness.\" ",
+            "Condescending to men of low estate.\" ",
+            "Being uplifted one against another would be a sign of this fault being present and operative."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Cherish not ambitious or aspiring purposes and desires. As this springs from selfish severance of our own interests and objects from those of our brethren, so it is quite incompatible with the spirit inculcated in the preceding clause.",
+            "Condescending to men of low estate\u2014or (as some render the words), 'inclining unto the things that be lowly.'",
+            "Be not wise in your own conceits\u2014This is just the application of the caution against high-mindedness to the estimate we form of our own mental character."
+        ],
+        "Albert Barnes": [
+            "Think of, that is, regard, or seek after the same thing for each other; that is, what you regard or seek for yourself, seek also for your brethren.",
+            "Not thinking of high things. That is, not seeking them, or aspiring after them.",
+            "Christians should seek the objects of interest and companionship, not among the great, the rich, and the noble, but among the humble and the obscure."
+        ],
+        "Marvin Vincent": [
+            "The lowly things ought to have for the Christian a force of attraction, in virtue of which he yields himself to fellowship with them, and allows himself to be guided by them in the determination of his conduct.",
+            "The reference is to the most indigent and ignorant and least influential in the Church. It is to them the believer ought to feel most drawn.",
+            "Condescend is a feeble and inferential rendering, open to construction in a patronizing sense; yet it is not easy to furnish a better in a single word."
+        ],
+        "John Calvin": [
+            "Here then is condemned all ambition and that elation of mind which insinuates itself under the name of magnanimity; for the chief virtue of the faithful is moderation, or rather lowliness of mind, which ever prefers to give honor to others, rather than to take it away from them.\" ",
+            "His desire then was, that we should lay this aside, hear others, and regard their counsels.",
+            "The most appropriate remedy for curing arrogance is, that man should not be over-wise in his own esteem."
+        ],
+        "Philip Schaff": [
+            "This precept refers to concord in feeling, though not to the exclusion of corresponding thought and endeavor.",
+            "Mind not high things... a general warning against ambition.",
+            "Be not wise in your own conceits... Nothing destroys Christian fellowship more effectually than this conceit of wisdom."
+        ],
+        "Archibald T. Robertson": [
+            "Set not your mind on high things... Condescend to things that are lowly.\" ",
+            "Be carried away with (borne along with) the lowly things.\" ",
+            "Do not have the habit of becoming wise in your own conceits."
+        ],
+        "John Gill": [
+            "think of one another, as equally interested in the love of God, redeemed by the blood of Christ, blessed with the same spiritual blessings in him, and called in the same hope of your calling",
+            "converse with, men in a low condition, whether in things temporal or spiritual; who may be poor in this world, be very ignorant and illiterate, as to general knowledge and learning; be men of mean parts and abilities, of very small gifts, and be weak in faith and experience; condescend to their weaknesses, bear their infirmities, and become all things to them for their good, and God's glory",
+            "be not wise in your own conceits"
+        ],
+        "John Wesley": [
+            "Mind not high things \u2014 Desire not riches, honour, or the company of the great."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 12:16, it is emphasized that believers should have a shared spirit of mutual allowance and kindness towards one another. This involves condescending to men of low estate and refraining from being uplifted one against another. It is crucial not to cherish ambitious or aspiring desires, as this goes against the spirit of unity and humility. Instead, the lowly things, such as the most indigent and least influential in the Church, should have a force of attraction for the Christian. The warning is also given to not become wise in one's own conceits, as this destroys Christian fellowship. Therefore, the verse encourages believers to seek common interests and companionship among the humble and obscure, rather than aspiring after high things or being carried away by their own conceit of wisdom.",
+            "wordCount": 131,
+            "quoteTokenProportion": 40.23,
+            "qualityScore": 2.068724687730297,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.13,
+            "commentatorTierSimilarities": [
+                32.32,
+                35.78,
+                31.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to have a shared spirit of mutual allowance and kindness, cherishing not selfish ambitions but inclining towards the lowly. This requires condescending to men of low estate, which includes the most indigent and least influential in the Church. Seeking common interests and companionship with the humble and obscure is encouraged, as it reflects the Christian's preference for humility and unity. It is important not to become wise in one's own conceits, as this undermines Christian fellowship.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.0904276089282625,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.85,
+            "commentatorTierSimilarities": [
+                32.31,
+                35.27,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are called to have a common spirit of mutual kindness and allowance, condescending to those of low status. Going against this spirit, being uplifted or cherishing ambitious desires is incompatible with the Christian attitude. Instead, the Christian is encouraged to incline towards the lowly, offering them fellowship and allowing their conduct to guide one's own. This humility should prevail even in the estimation of one's own mental character, avoiding the conceit of wisdom. The warning is clear: seek common interests and companionship among the humble, refraining from thinking of oneself as wise or pursuing high things.",
+            "wordCount": 99,
+            "quoteTokenProportion": 33.78,
+            "qualityScore": 2.086392784744027,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                32.23,
+                34.78,
+                32.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christians should possess a spirit marked by mutual kindness and allowance, condescending to those of lower status. The fault of being uplifted against one another reveals a lack of this spirit. Ambitious desires and selfish aspirations are incompatible with the mindset fostered by the preceding clause. Instead, believers are urged to incline towards the lowly, allowing them to guide their conduct. Fixating on high things and being wise in one's own conceit undermine the harmony and fellowship among believers. Rather, seek the company of the humble and refrain from arrogance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.9706180054365494,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                33.73,
+                33.4,
+                32.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers should cultivate a spirit of mutual kindness and allowance, condescending to those of low status. Elevating oneself above others is a sign of faultiness in this regard. Ambitious desires and being wise in one's own estimation contradict the humility promoted earlier. Instead, the Christian should be drawn towards the lowly, granting them fellowship and allowing their influence to shape their conduct. Seeking after high things and conceit hinder Christian unity. Rather, seek the companionship of the humble, avoiding arrogance and embracing humility.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.037032806281243,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.07,
+            "commentatorTierSimilarities": [
+                31.73,
+                34.37,
+                33.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

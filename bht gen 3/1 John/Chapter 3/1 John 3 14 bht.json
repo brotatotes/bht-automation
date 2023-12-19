@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:48:39",
+    "verseRef": "1 John 3:14",
+    "bestBHT": {
+        "bht": "Though the world may hate us, as believers we have a knowledge that surpasses what the world understands. Our love for one another is not the cause but the evidence of our justification and regeneration. Those who lack love reveal that they have not experienced a saving change in their hearts. We, however, have transitioned from spiritual death to life, and our love for the brethren serves as proof of this transformation. Those who do not love their brothers remain in a state of spiritual death and are not born of God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8341474301883252,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            26.72,
+            39.79,
+            33.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "We\u2014emphatical; hated though we be by the world, we know what the world knows not.",
+            "Love, on our part, is the evidence of our justification and regeneration, not the cause of them.",
+            "His want of love evidences that no saving change has passed over him."
+        ],
+        "Albert Barnes": [
+            "We know that we have passed from death unto life - From spiritual death (Notes, Ephesians 2:1) to spiritual life; that is, that we are true Christians.",
+            "The sentiment here is, that it is an infallible evidence of true piety if we love the followers of Christ as such.",
+            "As love to the Christian brotherhood is essential to true piety, it follows that he who has not that remains unconverted, or is in a state of spiritual death."
+        ],
+        "Marvin Vincent": [
+            "We know. Emphatic; we as distinguished from the world.",
+            "From death [\u03b5\u03ba \u03c4\u03bf\u03c5 \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5] . Lit., out of the death. The article marks it as one of the two spheres in which men must be; death or life.",
+            "We love the brethren [\u03b1\u03b3\u03b1\u03c0\u03c9\u03bc\u03b5\u03bd \u03c4\u03bf\u03c5, \u03c2 \u03b1\u03c5\u03b4\u03b5\u03bb\u03c6\u03bf\u03c5\u03c2] . The only occurrence of the phrase. Elsewhere, love one another, or love his brother."
+        ],
+        "John Calvin": [
+            "Those then who by cherishing hatred willingly give themselves up to death, must be extremely stupid and senseless.",
+            "Love is the special fruit of the Spirit, it is also a sure symbol of regeneration.",
+            "Though faith is confirmed by all the graces of God as aids, yet it ceases not to have its foundation in the mercy of God only."
+        ],
+        "Archibald T. Robertson": [
+            "We have already done it while here on earth.",
+            "Proof of this transition, not the ground of it.",
+            "'The not loving man,' general picture and picture of spiritual death."
+        ],
+        "John Gill": [
+            "And this passing from the one to the other is not of themselves, it is not their own act... in this men are passive.",
+            "This is said to deter from hatred, as also what follows.",
+            "He that loveth not [his] brother, abideth in death."
+        ],
+        "John Wesley": [
+            "We ourselves could not love our brethren, unless we were passed from spiritual death to life, that is, born of God.",
+            "He that loveth not his brother abideth in death \u2014 That is, is not born of God.",
+            "And he that is not born of God, cannot love his brother."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We, hated though we may be by the world, know what the world does not understand. Our love for one another is evidence of our justification and regeneration, not the cause of them. If someone lacks love, it indicates that no saving change has occurred in their life. When we say we know, we are emphasizing that we, as believers, are distinct from the world. We have transitioned from death to life, from a state of spiritual death to spiritual life. Our love for the brethren is a proof of this transition, not the reason for it. The one who does not love his brother remains in a state of spiritual death and is not born of God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 54.55,
+            "qualityScore": 1.7319486897846934,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                30.25,
+                38.66,
+                31.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We know, hated though we be, what the world knows not. Our love is the evidence of our justification and regeneration, not the cause of them. His absence of love shows that no saving change has passed over him. We have passed from death to life. We love the brethren. We have already done it while here on earth. This love is proof of this transition, not the ground of it. The not loving man, this is a general picture and a picture of spiritual death.",
+            "wordCount": 86,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 1.6097969090647215,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                40.05,
+                30.79,
+                29.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We, despite being hated by the world, know what the world does not understand. Our love for one another serves as evidence of our justification and regeneration, rather than being the cause of them. If someone lacks love for their brethren, it indicates that no saving change has occurred in their life. We have undergone a transition from death to life, from a state of spiritual death to spiritual life. Our love for the brethren is a proof of this transition, not the reason for it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 1.686962519286828,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.43,
+            "commentatorTierSimilarities": [
+                33.28,
+                36.8,
+                29.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though the world may hate us, as believers we have a knowledge that surpasses what the world understands. Our love for one another is not the cause but the evidence of our justification and regeneration. Those who lack love reveal that they have not experienced a saving change in their hearts. We, however, have transitioned from spiritual death to life, and our love for the brethren serves as proof of this transformation. Those who do not love their brothers remain in a state of spiritual death and are not born of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8341474301883252,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                26.72,
+                39.79,
+                33.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite being hated by the world, we have a unique understanding that surpasses what the world knows. Our love for one another is not the cause, but rather the proof of our justification and regeneration. Lack of love reveals that no true transformation has taken place. We have transitioned from spiritual death to life and our love for the brethren serves as evidence of this change. Those who do not love their brothers dwell in spiritual death and have not experienced true rebirth in God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.8333295893906638,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+            "commentatorTierSimilarities": [
+                28.62,
+                41.38,
+                30.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

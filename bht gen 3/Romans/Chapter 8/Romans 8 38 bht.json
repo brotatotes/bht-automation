@@ -1,0 +1,149 @@
+{
+    "timestamp": "12-19-2023 16:07:36",
+    "verseRef": "Romans 8:38",
+    "bestBHT": {
+        "bht": "No power in life or death, whether natural or supernatural, can separate us from the love of God. Even the highest and mightiest beings, both good and evil, cannot sever our connection with God. Whether it be present circumstances or future uncertainties, nothing has the power to separate us from the love that God has for us. The love of God is unbreakable and unwavering, surpassing all human understanding and surpassing any attempts to separate us from Him.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.98,
+        "qualityScore": 1.9323991473038316,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+        "commentatorTierSimilarities": [
+            28.33,
+            36.42,
+            35.25
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "our victory is not only over these things, but I dare assert it over greater and more awful than these",
+            "neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers",
+            "nothing shall be able to separate us from the love of God which is in Christ Jesus our Lord"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers\u2014whether good or bad.\" ",
+            "But as the bad are not called 'angels,' or 'principalities,' or 'powers,' save with some addition to show that such are meant, probably the good are meant here.",
+            "nor things present, nor things to come\u2014no condition of the present life and none of the unknown possibilities of the life to come."
+        ],
+        "Albert Barnes": [
+            "Neither death - Neither the fear of death, nor all the pains and tortures of the dying scene, even in the most painful trials of persecution; death in no form.",
+            "The hope of life on so very easy terms would not, could not alienate them from the love of Christ.",
+            "No order of evil angels, however powerful, artful, or numerous, would be able to alienate the hearts of Christians from their Redeemer."
+        ],
+        "Marvin Vincent": [
+            "Powers [\u03b1\u03c1\u03c7\u03b1\u03b9] . Angelic, higher than mere angels.\" ",
+            "Things present [\u03b5\u03bd\u03b5\u03c3\u03c4\u03c9\u03c4\u03b1] . Only in Paul and Hebrews 9:9. The verb literally means to stand in sight. Hence to impend or threaten.",
+            "Things past are not mentioned, not even sins, for they have passed away."
+        ],
+        "John Calvin": [
+            "Whatever, he says, there is in life or in death, which seems capable of tearing us away from God, shall effect nothing; nay, the very angels, were they to attempt to overturn this foundation, shall do us no harm.",
+            "(Quote 1)",
+            "Though he speaks hyperbolically, yet he declares, that by no length of time can it be effected, that we should be separated from the Lord\u2019s favor.",
+            "(Quote 2)",
+            "This declaration is clearly against the schoolmen, who idly talk and say, that no one is certain of final perseverance, except through the gift of special revelation, which they make to be very rare.",
+            "(Quote 3)"
+        ],
+        "Philip Schaff": [
+            "Neither death, nor life. 'Death' is named first, probably because of the reference in Romans 8:36, and the natural antithesis is 'life.' Dying or living, we are the objects of this love.\" ",
+            "Nor angels, nor principalities. This second pair refers to angelic beings; the latter term to a higher order. Comp. Ephesians 1:21; Ephesians 6:12; Colossians 1:16; Colossians 2:15.",
+            "Nor things present, nor things to come, nor powers. Instead of continuing the arrangement by pairs, the Apostle now gives two sets in threes, 'in such a way, that to the two which stand contrasted, he adds a third of a general character' (Meyer)."
+        ],
+        "Archibald T. Robertson": [
+            "For I am persuaded...I stand convinced.\" ",
+            "The items mentioned are those that people dread.",
+            "Life, death, supernatural powers, above, below, any creature to cover any omissions."
+        ],
+        "John Gill": [
+            "death; death separates men from the world, their worldly habitations and substance; it separates the soul from the body, and one friend from another; and in process of time, may take off all thoughts and affections for departed friends, but it is not able to separate from the love of God; it is so far from it, that it lets the soul into the fullest enjoyment of it.",
+            "nor angels; by whom are meant evil angels, the devils; for as for good angels, they never attempt to separate God and his people; they rejoice at their good, minister to them, are their guardians whilst here, at death they carry their souls to heaven, and at the last day will gather all the elect together; but evil angels do endeavour it, by temptations to sin, and accusations for it; by stirring up heresies and persecutions, in order to destroy them, but cannot succeed; for the saints are upon God's heart, are in Christ's hands, and on him the rock; and the Spirit of God is in them, who is greater than he that is in the world.",
+            "nor principalities: civil magistrates; who though they may separate them from their company, and cast them out as evil; may separate them in prisons one from another; and separate soul and body, by killing the latter, which is all they can do; yet they cannot separate neither soul nor body from the love of God."
+        ],
+        "John Wesley": [
+            "Neither death - Terrible as it is to natural men; a violent death in particular.",
+            "Nor height, nor depth \u2014 The former sentence respected the differences of times; this, the differences of places.",
+            "Nor any creature \u2014 Nothing beneath the Almighty; visible enemies he does not even deign to name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers can separate us from the love of God. Death may separate us from worldly things and even from friends, but it cannot separate us from God's love. Evil angels may try to tempt and accuse us, but they cannot succeed in separating us from God. Civil magistrates may try to separate us from the company of other believers and imprison us, but they cannot separate us from the love of God. No matter the circumstances or adversaries we face, nothing in this world or beyond can ever separate us from the overwhelming love of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.0384976750445105,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.12,
+            "commentatorTierSimilarities": [
+                28.85,
+                37.39,
+                33.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers can separate us from the love of God. Death may separate us from worldly things and even from friends, but it cannot separate us from God's love. Evil angels may try to tempt and accuse us, but they cannot succeed. No matter the circumstances or adversaries we face, nothing in this world or beyond can ever separate us from the overwhelming love of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.92,
+            "qualityScore": 2.111995386434619,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                30.86,
+                37.7,
+                31.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No power in life or death, whether natural or supernatural, can separate us from the love of God. Even the highest and mightiest beings, both good and evil, cannot sever our connection with God. Whether it be present circumstances or future uncertainties, nothing has the power to separate us from the love that God has for us. The love of God is unbreakable and unwavering, surpassing all human understanding and surpassing any attempts to separate us from Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.9323991473038316,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                28.33,
+                36.42,
+                35.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our victory over death, life, angels, principalities, powers, and anything present or to come is undeniable. No condition of the present or possibilities of the future can separate us from the love of God in Christ Jesus our Lord. Neither the fear of death nor the pains of dying can alienate us from Him. Evil angels may attempt to overturn our faith, but they will do us no harm. Death, evil angels, and civil authorities may separate us from worldly things, friends, and even our bodies, but they cannot separate us from the love of God. Nothing, no creature beneath the Almighty, can tear us away from His favor.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0722547088372076,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                31.49,
+                38.04,
+                30.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No condition of the present or possibilities of the future can separate us from the love of God in Christ Jesus our Lord. Neither the fear of death nor the pains of dying can alienate us from Him. Evil angels may attempt to overturn our faith, but they will do us no harm. Death, evil angels, and civil authorities may separate us from worldly things, friends, and even our bodies, but they cannot separate us from the love of God. Nothing, no creature beneath the Almighty, can tear us away from His favor.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9982438285828912,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                29.45,
+                38.4,
+                32.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:10:05",
+    "verseRef": "Romans 15:8",
+    "bestBHT": {
+        "bht": "Jesus Christ, as a minister to the circumcision, came to the Jews to confirm the promises made to the fathers and the Messianic promises. His ministry displayed the veracity of God, fulfilling the covenant and showing His faithfulness towards His ancient people. While the Gentiles have no covenant claim, they are grafted in by God's pure mercy. Therefore, Christ's ministry extends to both Jews and Gentiles, demonstrating the unity and inclusivity of God's plan for salvation.",
+        "wordCount": 79,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 2.217892897961652,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.09,
+        "commentatorTierSimilarities": [
+            37.36,
+            31.42,
+            31.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For the sake of God's truth, in order to confirm the promises made unto the fathers.\" ",
+            "Christ came to the Jews in virtue of a long-sealed compact, to the fulfillment of which God's truth was pledged.",
+            "The Gentiles have no covenant promise to claim, they have nothing but the pure mercy of God in grafting them in to allege."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I say that Jesus Christ was... a minister of the circumcision.\" ",
+            "For the truth of God... to make good the veracity of God towards His ancient people.\" ",
+            "To confirm the Messianic promises made unto the fathers."
+        ],
+        "Albert Barnes": [
+            "I affirm also that it had reference to the Gentiles.",
+            "The force of the apostle\u2019s reasoning would often be more striking if he would retain the word 'Messiah,' and not regard the word 'Christ' as a mere surname.",
+            "He remained among them in the exercise of his ministry, to show that God was 'true,' who had said that the Messiah should come to them."
+        ],
+        "Marvin Vincent": [
+            "Of the circumcision. Of those circumcised See on the election, ch. 11 7."
+        ],
+        "John Calvin": [
+            "He shows, that with respect to that which was the seed of all contentions, there was no difference between them; for he had gathered them both from a miserable dispersion, and brought them, when gathered, into the Father\u2019s kingdom, that they might be one flock, in one sheepfold, under one shepherd.",
+            "Christ, the Lord of heaven and earth, put on flesh, that he might procure salvation for them; for the more he humbled himself for their sake, the greater was the honor he conferred on them.",
+            "Either then the benefits of Christ must be confined to temporal things, or the covenant made with Abraham must be extended beyond the things of this world."
+        ],
+        "Philip Schaff": [
+            "The connection of the former with Christ appears as the fulfilment of their theocratic claim, but that of the latter as the enjoyment of grace.",
+            "The emphasis rests on the word 'minister,' which suggests the condescension of Christ, as an example of humility.",
+            "His obedience to the law may also be suggested, showing how He entered into fellowship with the weak."
+        ],
+        "Archibald T. Robertson": [
+            "A minister to the circumcision.",
+            "That he might confirm... the promises to the fathers.",
+            "The promises to the fathers."
+        ],
+        "John Gill": [
+            "Christ has received both Jews and Gentiles.",
+            "Christ was their minister and preacher.",
+            "He declared the righteousness, faithfulness, loving kindness, and truth of God unto them."
+        ],
+        "John Wesley": [
+            "Now I say \u2014 The apostle here shows how Christ received us.",
+            "Christ Jesus-Jesus is the name, Christ the surname.",
+            "Therefore he is styled Jesus Christ, when the words stand in the common, natural order."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the sake of God's truth and to confirm the promises made to the fathers, Jesus Christ came to the Jews in fulfillment of a long-sealed covenant. As a minister to the circumcision, he confirmed the Messianic promises made to the fathers and demonstrated the veracity of God towards his ancient people. However, it is important to note that this reference to the circumcision also has implications for the Gentiles, who have no covenant promise to claim. Instead, they rely solely on the pure mercy of God in being grafted in. In this way, Christ's ministry extends to both Jews and Gentiles, showing the unity and inclusivity of God's plan of salvation.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.264204028738537,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.63,
+            "commentatorTierSimilarities": [
+                40.93,
+                30.75,
+                28.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ, as a minister to the circumcision, came to the Jews to confirm the promises made to the fathers and to fulfill the long-sealed covenant. This confirmed the Messianic promises and showcased God's truth and faithfulness. While the Gentiles have no covenant claim, they are welcomed through God's mercy. Christ's ministry extends to both Jews and Gentiles, highlighting the unity and inclusivity of God's plan of salvation. In him, the barriers between the two are broken down, bringing together one flock under one shepherd.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.0499799328483475,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.5,
+            "commentatorTierSimilarities": [
+                37.29,
+                30.23,
+                32.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ came as a minister to the circumcision, confirming the promises made to the fathers and displaying the truth and faithfulness of God. While the Gentiles have no covenant claim, they are graciously grafted in through God's mercy. Christ's ministry extends to Jews and Gentiles, emphasizing the unity and inclusivity of God's plan of salvation. In him, the divisions are dissolved, and all are brought together under one shepherd.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.044636033558943,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                35.41,
+                30.38,
+                34.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ, as a minister to the circumcision, came to confirm the promises made to the fathers and to fulfill the covenant made by God. In doing so, he displayed God's truth and faithfulness towards His ancient people. The Gentiles, lacking a covenant promise, were graciously grafted in by the pure mercy of God. This demonstrates the inclusivity of Christ's ministry, where both Jews and Gentiles are brought together, united under one shepherd.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.175911288860309,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                37.07,
+                30.86,
+                32.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ, as a minister to the circumcision, came to the Jews to confirm the promises made to the fathers and the Messianic promises. His ministry displayed the veracity of God, fulfilling the covenant and showing His faithfulness towards His ancient people. While the Gentiles have no covenant claim, they are grafted in by God's pure mercy. Therefore, Christ's ministry extends to both Jews and Gentiles, demonstrating the unity and inclusivity of God's plan for salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.217892897961652,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.09,
+            "commentatorTierSimilarities": [
+                37.36,
+                31.42,
+                31.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

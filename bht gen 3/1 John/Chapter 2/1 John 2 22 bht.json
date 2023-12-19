@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:47:15",
+    "verseRef": "1 John 2:22",
+    "bestBHT": {
+        "bht": "To deny that Jesus is the Christ is to deny the Father and the Son, embodying the very essence of falsehood in the form of the Antichrist. This rejection of Jesus as the Messiah invalidates the truth and denies the Son's connection to the Father. The heresy of Cerinthus is directly addressed, revealing the logical consequence of rejecting the Son of God. Those who deny Jesus as the Christ not only deceive themselves but also embody the spirit of antichrist, the epitome of all liars.",
+        "wordCount": 86,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.528643309715513,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.42,
+        "commentatorTierSimilarities": [
+            34.21,
+            34.53,
+            31.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he that denieth that Jesus is the Christ (literally, \u201cdenieth [to the effect] that Jesus is not the Christ\u201d)?",
+            "This (the liar just described) is the antichrist, who denieth the Father and the Son.",
+            "Every one that denieth the Son, neither hath he the Father; he that confesseth the Son hath the Father also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is Antichrist\u2014Greek, 'the Antichrist'; not however here personal, but in the abstract; the ideal of Antichrist is 'he that denieth the Father and the Son.'\" (100 words)",
+            "To deny the latter is virtually to deny the former.\" (14 words)",
+            "Again, the truth as to the Son must be held in its integrity; to deny that Jesus is the Christ, or that He is the Son of God, or that He came in the flesh, invalidates the whole.\" (26 words)"
+        ],
+        "Albert Barnes": [
+            "Their own knowledge of the nature of religion must convince them at once that this opinion was false.",
+            "He has all the characteristics and attributes of antichrist; or, a doctrine which practically involves the denial of both the Father and the Son, must be that of antichrist.",
+            "No man can have just views of God the Father who has not right apprehensions of the Son."
+        ],
+        "Marvin Vincent": [
+            "The liar, the lie is set forth in its concrete personality: the one who impersonates all that is false.",
+            "The denial that Jesus is the Christ is the representative falsehood. He that denies is the representative liar.",
+            "The words are aimed at the heresy of Cerinthus, a man of Jewish descent and educated at Alexandria."
+        ],
+        "John Calvin": [
+            "If perfidy towards God and men is not a crime, what else can we call a crime?",
+            "They have no longer any religion, because they wholly cast away God.",
+            "The Father cannot be separated from the Son."
+        ],
+        "Archibald T. Robertson": [
+            "The liar (with the article) par excellence.",
+            "Except, if not.",
+            "This is the inevitable logic of such a rejection of the Son of God."
+        ],
+        "John Gill": [
+            "He that denies that Jesus of Nazareth is the Messiah of the prophets, is not indeed the only liar in the world, but he is the greatest of liars.",
+            "Those that deny him are the worst of liars, even worse than the devil himself.",
+            "All such persons are antichrists, or opposers of Christ."
+        ],
+        "John Wesley": [
+            "Who is guilty of that lying, but he who denies that truth which is the sum of all Christianity?",
+            "He that denies any part of this, in effect denies the whole.",
+            "And the spirit of antichrist, who in denying the Son denies the Father also."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To deny that Jesus is the Christ, the Son of God, is to embrace the very essence of falsehood, known as the Antichrist. This rejection not only invalidates the truth about Jesus, but it also denies the Father. The heresy of Cerinthus, who denied Jesus as the Christ, is directly addressed here, revealing the logical consequence of rejecting the Son of God. Essentially, to deny the Son is to deny the Father as well. Thus, those who deny Jesus as the Messiah are not just liars, but they embody the spirit of antichrist, being the worst of all liars.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.5088267463604033,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.76,
+            "commentatorTierSimilarities": [
+                34.62,
+                32.22,
+                33.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To deny that Jesus is the Christ, the Son of God, is to embrace the very essence of falsehood, known as the Antichrist. This rejection not only invalidates the truth about Jesus, but it also denies the Father. The heresy of Cerinthus, who denied Jesus as the Christ, is directly addressed here, revealing the logical consequence of rejecting the Son of God. Essentially, to deny the Son is to deny the Father as well. Those who deny Jesus as the Messiah embody the spirit of antichrist, being the worst of all liars.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.515097810959207,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.97,
+            "commentatorTierSimilarities": [
+                34.38,
+                32.61,
+                33.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To deny that Jesus is the Christ is to deny the Father and the Son, embodying the very essence of falsehood in the form of the Antichrist. This denial invalidates the truth about Jesus and His role as the Son of God. The heresy of Cerinthus, who rejected Jesus as the Christ, is specifically targeted here. Rejecting the Son also means rejecting the Father, as they are inseparable. Those who deny Jesus as the Messiah represent the spirit of antichrist, being the ultimate liars.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.416790714742146,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.7,
+            "commentatorTierSimilarities": [
+                34.59,
+                33.33,
+                32.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To deny that Jesus is the Christ is to deny the Father and the Son, embodying the very essence of falsehood in the form of the Antichrist. This rejection of Jesus as the Messiah invalidates the truth and denies the Son's connection to the Father. The heresy of Cerinthus is directly addressed, revealing the logical consequence of rejecting the Son of God. Those who deny Jesus as the Christ not only deceive themselves but also embody the spirit of antichrist, the epitome of all liars.",
+            "wordCount": 86,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.528643309715513,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.42,
+            "commentatorTierSimilarities": [
+                34.21,
+                34.53,
+                31.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To deny that Jesus is the Christ is to deny the Father and the Son, embodying the very essence of falsehood in the form of the Antichrist. This rejection invalidates the truth and denies the Son's connection to the Father. The heresy of Cerinthus is directly addressed, revealing the consequence of rejecting the Son of God. Those who deny Jesus as the Christ not only deceive themselves but also embody the spirit of antichrist, the epitome of all liars.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 2.445512323221362,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.65,
+            "commentatorTierSimilarities": [
+                34.17,
+                34.11,
+                31.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

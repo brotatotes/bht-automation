@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:04:22",
+    "verseRef": "Romans 6:2",
+    "bestBHT": {
+        "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. As justified and sanctified individuals, sin has lost its influence over us. It is inconceivable for the new creature in Christ to entertain the thought of living in sin. For a believer, sin no longer holds us in bondage, but rather it is loathsome and abominable. To live in sin would be to deny the power of Christ's grace and would result in spiritual death",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 2.1090745689243837,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+        "commentatorTierSimilarities": [
+            25.55,
+            28.27,
+            46.18
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God forbid is the only adequate rendering of the expression in the original, let it not be: for it implies a reference to an averting Power.\" ",
+            "The phrase is used of some inference in itself abhorrent from reverence or piety, or precluded by some acknowledged fact inconsistent therewith.",
+            "We who...died unto sin, how shall we live any longer therein?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That be far from us; the instincts of the new creature revolting at the thought.",
+            "We who died to sin (as presently to be explained)",
+            "How shall we live any longer therein?"
+        ],
+        "Albert Barnes": [
+            "The expression is a strong denial of what is implied in the objection in Romans 6:1.\" ",
+            "When it is said, therefore, that a Christian is dead to sin, the sense is, that it has lost its influence over him; he is not subject to it.",
+            "The best way to silence objections is, sometimes, to show that they violate the feelings of all Christians, and that therefore the objection must be wrong."
+        ],
+        "John Calvin": [
+            "Nothing can be more inconsistent than that the grace of Christ, the repairer of our righteousness, should nourish our vices.\" ",
+            "The faithful are never reconciled to God without the gift of regeneration; nay, we are for this end justified, \u2014 that we may afterwards serve God in holiness of life.",
+            "The very argument requires this meaning. The question in the first verse, \u2014 Shall we continue in sin?' does not surely mean \u2014 shall we continue in or under the guilt of sin? but in its service, and in the practice of it."
+        ],
+        "Philip Schaff": [
+            "Let it not be that we continue in sin.",
+            "We who are of such a kind as.",
+            "The justified man is sanctified, not the reverse."
+        ],
+        "Archibald T. Robertson": [
+            "Died to sin... When we surrendered to Christ and took him as Lord and Saviour.\" ",
+            "Qualitative relative (\u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2, we the very ones who).\" ",
+            "How (\u03c0\u03c9\u03c2). Rhetorical question."
+        ],
+        "John Gill": [
+            "Persons may be said to be 'dead to sin', both as justified and sanctified: justified persons are dead to sin, inasmuch as that is not imputed to them to condemnation and death; they are discharged from it; it cannot hurt them, or exert its damning power over them; it is crucified, abolished, and made an end of by Christ.",
+            "Sanctified persons are dead to sin; sin is not made their business, it is not their course of life; it is no longer a pleasure to them, but is loathsome and abominable; it is looked upon, not as a friend, but an enemy; it does not reign, it has not the dominion over them; it is subdued in them, and its power weakened.",
+            "For, for a gracious soul to live in sin, would be to die again, to become dead in sin, which cannot be he that lives and believes in Christ shall never die, spiritually or eternally."
+        ],
+        "John Wesley": [
+            "Dead to sin \u2014 Freed both from the guilt and from the power of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. The phrase God forbid signifies a strong denial and a rejection of something that goes against the very nature of a believer. As we surrendered to Christ and accepted Him as our Lord and Savior, we died to sin and its influence over us. It is inconceivable to the new creature in Christ to even entertain the thought of living in sin. We, as justified and sanctified individuals, are dead to sin in the sense that it no longer holds us in bondage. It is not our business, our course of life, or our pleasure. Sin is now loathsome and abominable to us, and it no longer has dominion over us. To live in sin would be to deny the power of Christ's grace and would result in spiritual death. We have been set free both from the guilt and the power of sin, and it is against the very nature of our new life in Christ to continue living in sin.",
+            "wordCount": 186,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9552908466531507,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                25.31,
+                27.38,
+                47.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. The phrase God forbid signifies a strong denial and a rejection of something that goes against the very nature of a believer. As we surrendered to Christ and accepted Him as our Lord and Savior, we died to sin and its influence over us. It is inconceivable to the new creature in Christ to even entertain the thought of living in sin. We, as justified and sanctified individuals, are dead to sin in the sense that it no longer holds us in bondage.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.0199201071173363,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+            "commentatorTierSimilarities": [
+                26.46,
+                28.79,
+                44.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. As believers who have surrendered to Christ and accepted Him as our Lord and Savior, we are no longer subject to the influence of sin. The very thought of continuing in sin is abhorrent to us. We are justified and sanctified, freed both from the guilt and the power of sin. Living in sin would contradict the transformative work of Christ's grace in our lives.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1042711225311734,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.31,
+            "commentatorTierSimilarities": [
+                25.73,
+                26.84,
+                47.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. As justified and sanctified individuals, sin has lost its influence over us. It is inconceivable for the new creature in Christ to entertain the thought of living in sin. For a believer, sin no longer holds us in bondage, but rather it is loathsome and abominable. To live in sin would be to deny the power of Christ's grace and would result in spiritual death",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.1090745689243837,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+            "commentatorTierSimilarities": [
+                25.55,
+                28.27,
+                46.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God forbid that we, who have died to sin and have been set free from its power, should continue to live in it. When we surrendered to Christ and took him as Lord and Savior, we died to sin. It is inconceivable for the new creature in Christ to even entertain the thought of living in sin. We are justified and sanctified, freed both from the guilt and the power of sin. Living in sin would contradict the transformative work of Christ's grace in our lives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0749963551582686,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                26.65,
+                25.09,
+                48.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

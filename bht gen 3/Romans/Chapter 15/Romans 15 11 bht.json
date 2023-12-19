@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:10:02",
+    "verseRef": "Romans 15:11",
+    "bestBHT": {
+        "bht": "Praise the Lord, all you Gentiles, and laud Him, all people. This call to worship is found in Psalms and is used by the apostle Paul to emphasize that the message of praising God extends to all nations. It is a prophecy that fulfills God's promise to bring salvation to all people. Let us unite in praising the Lord, both Jews and Gentiles, for His faithful kindness and truth.",
+        "wordCount": 70,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.0561218740747202,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.71,
+        "commentatorTierSimilarities": [
+            25.43,
+            35.9,
+            38.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "11. And again\u2014 ( :-). ",
+            "\t",
+            "Praise the Lord, all ye",
+            "\tGentiles; and laud him, all ye people\u2014\"peoples\"\u2014the",
+            "\tvarious nations outside the pale of Judaism."
+        ],
+        "Albert Barnes": [
+            "The apostle accumulates quotations to show that it was the common language of the Old Testament, and that he was not depending on a single expression for the truth of his doctrine.",
+            "All ye Gentiles - In the psalm, 'all ye nations;\u2019 but the original is the same.",
+            "It is a call on 'all' nations to praise God; the very point in the discussion of the apostle."
+        ],
+        "John Calvin": [
+            "Praise God, all ye Gentiles, etc. This passage is not inaptly applied; for how can they, who know not God\u2019s greatness, praise him?",
+            "It is then a prophecy most suitable to prove the calling of the Gentiles.",
+            "He bids them to give thanks for God\u2019s truth and mercy."
+        ],
+        "Philip Schaff": [
+            "Praise the Lord, all ye Gentiles.",
+            "And let all the peoples praise him.",
+            "The E.V. follows the text which conforms to the LXX."
+        ],
+        "Archibald T. Robertson": [
+            "All the Gentiles (\u03c0\u03b1\u03bd\u03c4\u03b1 \u03c4\u03b1 \u03b5\u03b8\u03bd\u03b7). From Psalms 117:1 with slight variations from the LXX text. "
+        ],
+        "John Gill": [
+            "praise the Lord all ye Gentiles, and laud him all ye people",
+            "praise him both Jews and Gentiles, for his merciful kindness and truth",
+            "All people shall be divided into two parts, or be on two sides, Israel shall be in their law, and all the nations in seven precepts"
+        ],
+        "John Wesley": [
+            "Psalm 117:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Praise the Lord, all you Gentiles, and praise Him, all peoples. This call to worship from the book of Psalms is used by the apostle Paul to emphasize that the message of praising God is not limited to the Jews, but extends to all nations. By quoting this verse, Paul affirms his teaching that the Gentiles are also included in God's plan of redemption. It is a prophecy that shows the fulfillment of God's promise to bring salvation to all people, regardless of their background. Let us join together, Jews and Gentiles alike, in praising the Lord for His unfailing kindness and faithfulness.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.011226499214151,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                26.78,
+                35.51,
+                37.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Praise the Lord, all you Gentiles, and praise Him, all peoples. This call to worship from Psalms is used by the apostle Paul to emphasize that the message of praising God extends to all nations. Paul affirms that the Gentiles are included in God's plan of redemption. It is a prophecy that fulfills God's promise to bring salvation to all people, regardless of their background. Let us join together, Jews and Gentiles, in praising the Lord for His unfailing kindness and faithfulness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9866187140670482,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                26.71,
+                35.87,
+                37.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Praise the Lord, all you Gentiles, and laud Him, all people. This call to worship is found in Psalms and is used by the apostle Paul to emphasize that the message of praising God extends to all nations. It is a prophecy that fulfills God's promise to bring salvation to all people. Let us unite in praising the Lord, both Jews and Gentiles, for His faithful kindness and truth.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0561218740747202,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.71,
+            "commentatorTierSimilarities": [
+                25.43,
+                35.9,
+                38.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Praise the Lord, all you Gentiles, and praise Him, all peoples. This call to worship from Psalms highlights the inclusion of Gentiles in God's plan of redemption. The apostle Paul quotes this verse to emphasize that the message of praising God is not limited to the Jews but extends to all nations. It is a powerful prophecy that reveals the fulfillment of God's promise to bring salvation to people from every background. Let us join together, Jews and Gentiles alike, in praising the Lord for His unfailing kindness and faithfulness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0063708049342295,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                27.85,
+                34.16,
+                37.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Praise the Lord, all you Gentiles, and praise Him, all peoples. This call to worship from Psalms shows that the message of praising God is not limited to the Jews but extends to all nations. The inclusion of this verse affirms the apostle Paul's teaching that the Gentiles are also part of God's plan of redemption. It is a prophecy that demonstrates the fulfillment of God's promise to bring salvation to people from every background. Let us unite in praising the Lord for His unfailing kindness and faithfulness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9185564672951188,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                26.29,
+                35.75,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

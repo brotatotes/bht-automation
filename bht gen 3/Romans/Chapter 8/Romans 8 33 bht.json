@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:07:17",
+    "verseRef": "Romans 8:33",
+    "bestBHT": {
+        "bht": "God, the justifier, renders any condemning accusation futile. Believers, referred to as the elect, are chosen by God. The Judge's pronouncement of righteousness nullifies all charges against the elect, as they find consolation in God's paternal kindness and assurance of salvation.",
+        "wordCount": 43,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 2.078007240298705,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+        "commentatorTierSimilarities": [
+            34.37,
+            32.96,
+            32.68
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God that justifieth... For when the vote of the judge himself acquits, and of Such a Judge, of what weight is the accuser?\" ",
+            "All the great points of our redemption are ranged together, from the death of Christ to His still enduring intercession, as reasons for negativing the question above.",
+            "Shall God who justifies them... Who is he that condemns them? [Is it] Christ who died, yea, who is also risen again, who is also at the right hand of God, who also maketh intercession for us?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who shall lay anything to the charge of God's elect?",
+            "The first place in this Epistle where believers are styled 'the elect.'",
+            "In what sense this is meant will appear in next chapter."
+        ],
+        "Albert Barnes": [
+            "Who shall lay anything to the charge - This expression is taken from courts of law, and means, who shall accuse, or condemn, or so charge with crime before the tribunal of God as to cause their condemnation?",
+            "As they are the chosen of God, they are dear to him; and as he purposed to save them, he will do it in such a way as that none can bring against them a charge that would condemn them.",
+            "The fact that he has justified them is, therefore, a strong proof that they will be saved. The passage implies that there would be a high degree of absurdity in supposing that the same being would both justify and condemn the same individual."
+        ],
+        "Marvin Vincent": [
+            "Who shall lay - to the charge [\u03b5\u03b3\u03ba\u03b1\u03bb\u03b5\u03c3\u03b5\u03b9]. Only here by Paul. Frequent in Acts. See Rom 19:38, 40; Rom 23:28, 29; Rom 26:2, 7. Lit., 'to call something in one.' Hence call to account; bring a charge against.",
+            "The following clauses are differently arranged by expositors. I prefer the succession of four interrogatives: Who shall lay? etc. Is it God? etc. Who is He that condemneth? Is it Christ? etc.",
+            "Is it God? etc. Who is He that condemneth? Is it Christ? etc."
+        ],
+        "John Calvin": [
+            "The first and the chief consolation of the godly in adversities, is to be fully persuaded of the paternal kindness of God; for hence arises the certainty of their salvation, and that calm quietness of the soul through which it comes that adversities are sweetened, or at least the bitterness of sorrow mitigated.",
+            "But it must be here observed, as we have before reminded you, that to be justified, according to Paul, is to be absolved by the sentence of God, and to be counted just; and it is not difficult to prove this from the present passage, in which he reasons by affirming one thing which nullifies its opposite; for to absolve and to regard persons as guilty, are contrary things.",
+            "Further, he so mentions the elect, as one who doubted not but that he was of their number; and he knew this, not by special revelation, (as some sophists falsely imagine,) but by a perception (sensu - feeling) common to all the godly."
+        ],
+        "Philip Schaff": [
+            "The term used is a legal one, and suggests an accusation resulting in condemnation.",
+            "Only believers can with any propriety find comfort in the thought, and even they should be careful not to rest their faith upon a decree of election rather than the personal Saviour.",
+            "If the common punctuation be accepted, this is the proof that no one can successfully accuse."
+        ],
+        "Archibald T. Robertson": [
+            "Satan is the great Accuser of the brethren.",
+            "[God] is the Judge who sets us right according to his plan for justification.",
+            "The Accuser must face the Judge with his charges."
+        ],
+        "John Gill": [
+            "The elect of God are a certain select number of persons [...] so that they are peculiarly his.",
+            "All these charges avail nothing, since none of the divine persons, Father, Son, and Spirit, lay anything against them.",
+            "God justifies them from every charge [...] by pronouncing them righteous through the imputation of the righteousness of his Son unto them."
+        ],
+        "John Wesley": [
+            "And these titles were given to all the nation of Israel, including both good and bad.",
+            "Nothing could cut them off from these but their own wilful apostasy.",
+            "And as the separating the Christians from the Jews was a like event, no wonder it was expressed in like words and phrases only with this difference, the term elect was of old applied to all the members of the visible church; whereas in the New Testament it is applied only to the members of the invisible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, the justifier, is the ultimate Judge whose acquittal holds the highest weight, rendering any condemning accusation futile. The interconnectedness of redemption, from Christ's death to His everlasting intercession, serves as a resounding negation to the question of condemnation. In this verse, believers are referred to as the elect, asserting their chosenness by God. Satan, the great Accuser, must face the Judge with his charges, but God, in His plan of justification, sets us aright. Any attempt to bring a charge against the elect is nullified by the Judge's pronouncement of righteousness through the imputation of Christ's righteousness. Therefore, the godly find consolation and certainty in God's paternal kindness, as their assurance of salvation mitigates the bitterness of trials.",
+            "wordCount": 123,
+            "quoteTokenProportion": 28.75,
+            "qualityScore": 2.111713764426443,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                35.32,
+                33.77,
+                30.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God, the justifier, renders any condemning accusation futile. The interconnectedness of redemption, from Christ's death to His intercession, negates condemnation. In this, believers are referred to as the elect, asserting their chosenness by God. Satan, the great Accuser, must face the Judge with his charges, but God, in His plan of justification, sets us aright. Any attempt against the elect is nullified by the Judge's pronouncement of righteousness through the imputation of Christ's righteousness. The godly find consolation in God's paternal kindness, as their assurance of salvation mitigates trials.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.0617963362806755,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                37.28,
+                32.17,
+                30.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, the justifier, renders any condemning accusation futile. In this, believers are referred to as the elect, asserting their chosenness by God. Any attempt against the elect is nullified by the Judge's pronouncement of righteousness. The godly find consolation in God's paternal kindness, as their assurance of salvation mitigates trials.",
+            "wordCount": 52,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0148401198491754,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                34.59,
+                33.04,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, the justifier, renders any condemning accusation futile. Believers, referred to as the elect, are chosen by God. The Judge's pronouncement of righteousness nullifies all charges against the elect, as they find consolation in God's paternal kindness and assurance of salvation.",
+            "wordCount": 43,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.078007240298705,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                34.37,
+                32.96,
+                32.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, who justifies, holds the weight of the Judge's acquittal in such a way that any accusation against the elect is rendered insignificant. The interconnectedness of redemption, from Christ's death to His intercession, serves as a powerful negation to the question of condemnation. The godly find consolation in the paternal kindness of God, which brings certainty to their salvation and mitigates the bitter experiences of adversity. In this verse, believers are portrayed as the chosen ones by God, protected from any charges brought against them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.077578407868973,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+            "commentatorTierSimilarities": [
+                31.54,
+                34.68,
+                33.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

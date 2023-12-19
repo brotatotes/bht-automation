@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:10:03",
+    "verseRef": "Romans 15:3",
+    "bestBHT": {
+        "bht": "Christ's sufferings were not motivated by His own pleasure, but by the Father's good purpose and the work He was given. He chose to please not Himself and instead embraced the reproaches intended for others. By quoting from Psalms 69:9, He exemplified the Messiah bearing the insults directed at Him. This exemplifies the supreme example for Christians, reminding them to prioritize God's will and emulate Christ's selflessness. His sufferings were not in vain, as they played a crucial role in the salvation of humanity.",
+        "wordCount": 87,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.9903602816607073,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+        "commentatorTierSimilarities": [
+            27.75,
+            35.73,
+            36.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He might have escaped reproach, He might have avoided suffering what He did, if He had consulted His own pleasure.\" ",
+            "He willed not thus, but looking at our good, He overlooked His own pleasure.",
+            "His sufferings were undertaken on account of the Father\u2019s good purpose\u2014mere work which He gave Him to do."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. For even Christ pleased not\u2014lived",
+            "\tnot to please ",
+            "\t",
+            "himself; but, as it is",
+            "\twritten\u2014 (Psalms 69:9). ",
+            "\t",
+            "The reproaches, &amp;c.\u2014see",
+            "\tMark 10:42-45."
+        ],
+        "Albert Barnes": [
+            "He came to do the will or desire of God in 'undertaking' the work of salvation. It was the will of God; it was agreeable to the divine purposes, and the Mediator did not consult his own happiness and honor in heaven, but cheerfully came to 'do the will' of God.",
+            "Christ when on earth, made it his great object to do the will of God, to finish the work which God had given him to do, and not to seek his own comfort and enjoyment.",
+            "He bore with patience the ignorance, blindness, erroneous views, and ambitious projects of his disciples. He evinced kindness to them when in error; and was not harsh, censorious, or unkind, when they were filled with vain projects of ambition, or perverted his words, or were dull of apprehension."
+        ],
+        "John Calvin": [
+            "For even Christ pleased not himself...he so devoted himself to the Lord that he was grieved in his soul whenever he perceived his holy name exposed to the slandering of the ungodly.",
+            "But if Christ reigns in us...whatever derogates from the glory of God does not otherwise grieve us than if it was done to ourselves.",
+            "Away then with those whose highest wish is to gain honors from them who treat God\u2019s name with all kinds of reproaches...It is not indeed safe to be so much honored by those by whom Christ is not only despised but also reproachfully treated."
+        ],
+        "Philip Schaff": [
+            "The example of Christ is for the believer the new law to be made real.\" ",
+            "The sufferings of Christ, according to the Psalm, were to fulfill the Father\u2019s purpose.\" ",
+            "That this purpose was for the salvation of men gives the passage here its most appropriate application."
+        ],
+        "Archibald T. Robertson": [
+            "Pleased not himself\u2026 The supreme example for Christians.\" ",
+            "He quotes Psalms 69:9 (Messianic Psalm) and represents the Messiah as bearing the reproaches of others."
+        ],
+        "John Gill": [
+            "For even Christ pleased not himself,.... He sought not his own ease, pleasure, profit, honour, and glory, but to do his Father's will and work.",
+            "But then he met with many things which were far from being grateful to human nature; such as the hardness and unbelief of the Jews, with which he was grieved, their scoffs and insults, reproaches and jeers; the ignorance, frowardness, and moroseness of his own disciples, whose infirmities he bore; and at last the sufferings of death, that bitter cup, which he as man desired might pass from him.",
+            "Moreover, by 'reproaches' may be meant the sins of his people, by which the name of God was blasphemed, his law trampled upon with contempt, and the perfections of his nature, as his justice and holiness, dishonoured; and which fell upon Christ, not by chance, but by the appointment of God, and according to his own voluntary agreement."
+        ],
+        "John Wesley": [
+            "But bore not only the infirmities, but reproaches, of his brethren; and so fulfilled that scripture. Psalm 69:9"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, in his selfless love, did not seek his own pleasure or satisfaction, but instead focused on fulfilling the Father's purpose and doing his holy will. He willingly undertook the sufferings and reproaches, even bearing the sins of his people, in order to bring about the salvation of mankind. This supreme example set by Christ serves as a guiding principle for believers, reminding them to prioritize God's glory and to not be concerned with seeking their own honor or reputation. As followers of Christ, we are called to imitate his selflessness and strive to please God rather than ourselves.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0130439688959543,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.27,
+            "commentatorTierSimilarities": [
+                23.83,
+                36.68,
+                39.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ's selflessness is evident in his choice to fulfill the Father's purpose, rather than seeking personal pleasure. He willingly bore reproaches and suffered on behalf of others, exemplifying patience and kindness even towards those who misunderstood or opposed him. Believers are encouraged to follow this example, prioritizing God's glory over personal gain or reputation. Christ's actions highlight the importance of focusing on the will of God and serving others, rather than seeking self-gratification.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8249625228673874,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.02,
+            "commentatorTierSimilarities": [
+                21.79,
+                37.99,
+                40.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ's sufferings were undertaken for the good purpose of the Father, rather than for His own pleasure. He set the supreme example for Christians, not seeking to please Himself, but fulfilling the Father's will. As the Messiah, He willingly bore the reproaches and insults of others, even quoting a Messianic Psalm to depict Himself as the one who carries these burdens. The suffering He endured was part of God's plan for the salvation of mankind, making this passage relevant for believers striving to imitate His selflessness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.213324616585628,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.93,
+            "commentatorTierSimilarities": [
+                27.46,
+                36.47,
+                36.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ's sufferings were not motivated by His own pleasure, but by the Father's good purpose and the work He was given. He chose to please not Himself and instead embraced the reproaches intended for others. By quoting from Psalms 69:9, He exemplified the Messiah bearing the insults directed at Him. This exemplifies the supreme example for Christians, reminding them to prioritize God's will and emulate Christ's selflessness. His sufferings were not in vain, as they played a crucial role in the salvation of humanity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9903602816607073,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.52,
+            "commentatorTierSimilarities": [
+                27.75,
+                35.73,
+                36.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ's sufferings were not a result of seeking personal pleasure, but rather driven by the Father's purpose and work assigned to Him. He willingly bore reproaches and insults, fulfilling the role of the Messiah as depicted in Psalm 69:9. This sets the supreme example for believers, reminding them to prioritize God's will over self-interest. Christ's sufferings, carried out for the sake of humanity's salvation, demonstrate the relevance of this passage in guiding Christians to imitate His selflessness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.02904542737999,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                26.77,
+                36.0,
+                37.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

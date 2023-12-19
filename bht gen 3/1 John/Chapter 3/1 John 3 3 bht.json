@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:47:08",
+    "verseRef": "1 John 3:3",
+    "bestBHT": {
+        "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed, not separate from this hope but consistently interconnected with it. This purification goes beyond simply being freed from impure actions, encompassing liberation from all forms of defilement, both physical and spiritual. Ultimately, the hope at hand entails the aspiration to be transformed into God's likeness, conformed to the image of God in Christ. This process of purification involves the work of both God and man, presupposing justification through faith, resting upon the grace and righteousness of Christ.",
+        "wordCount": 98,
+        "quoteTokenProportion": 38.81,
+        "qualityScore": 1.9538824825698848,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+        "commentatorTierSimilarities": [
+            34.34,
+            32.53,
+            33.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The man who purifies himself has this hope resting upon God. This mere fact implies a will to purify himself, not out of, nor independent of, this hope, but ever stirred up by, and accompanying it.",
+            "The idea is much the same as that in ch. i. 9: it is entire purification, not merely from unchastity, but from all defilement of flesh and spirit.",
+            "For these reasons and others which may be seen in my Greek Testament, I would interpret He here of the Father, in whom essentially abides this perfection of purity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This hope\u2014of being hereafter 'like Him'.\" ",
+            "Thou purifiest thyself, not of thyself, but of Him who comes that He may dwell in thee.",
+            "One's justification through faith is presupposed."
+        ],
+        "Albert Barnes": [
+            "On the nature and influence of hope, see the notes at Romans 8:24-25.",
+            "The particular thought here is, that the hope of being like Christ, and of being permitted to dwell with him, will lead a man to earnest efforts to become holy, and will be actually followed by such a result.",
+            "There is a world where all who are redeemed shall be perfectly holy."
+        ],
+        "John Calvin": [
+            "The desire for holiness should not grow cold in us, because our happiness has not as yet appeared, for that hope is sufficient.",
+            "Though we have not Christ now present before our eyes, yet if we hope in him, it cannot be but that this hope will excite and stimulate us to follow purity.",
+            "Hope leads us straight to Christ, whom we know to be a perfect pattern of purity."
+        ],
+        "Philip Schaff": [
+            "That the \u2018calling\u2019 and the \u2018being,\u2019 the privilege and the reality, may be hereafter eternally one and indistinguishable, the children of God must in this life become like the Son in His purity.",
+            "Christ is the standard of both: \u2018even as He is righteous,\u2019 \u2018even as He is pure.\u2019",
+            "Then our purifying ourselves has reference to the gradual attainment of that entire deliverance from the stain of sin."
+        ],
+        "Archibald T. Robertson": [
+            "Resting upon Christ, upon God, upon God in Christ.",
+            "The work of both God and man.",
+            "Our destiny is to be conformed to the image of God in Christ."
+        ],
+        "John Gill": [
+            "A true hope of that eternal happiness...is only founded on his person, blood, righteousness, and sacrifice.",
+            "This grace is implanted in regeneration...and have it bestowed upon them as a free grace gift.",
+            "Believers indeed...may, and should consider themselves pure and righteous, and free from sin, as Christ is."
+        ],
+        "John Wesley": [
+            "And every one that hath this hope in him \u2014 In God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed, not separate from this hope but consistently interconnected with it. This purification goes beyond simply being freed from impure actions, encompassing liberation from all forms of defilement, both physical and spiritual. Ultimately, the hope at hand entails the aspiration to be transformed into God's likeness, conformed to the image of God in Christ. This process of purification, which involves the work of both God and man, presupposes the individual's justification through faith, resting upon the grace and righteousness of Christ. As believers anchor themselves in this hope, they are fueled to pursue genuine holiness and strive towards attaining complete deliverance from sin's corruption.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9343432998730916,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                31.42,
+                34.18,
+                34.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed, not separate from this hope but consistently interconnected with it. This purification goes beyond simply being freed from impure actions, encompassing liberation from all forms of defilement, both physical and spiritual. Ultimately, the hope at hand entails the aspiration to be transformed into God's likeness, conformed to the image of God in Christ. This process of purification involves the work of both God and man, presupposing justification through faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9239506653062877,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                35.14,
+                32.66,
+                32.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed, not separate from this hope but consistently interconnected with it. This purification goes beyond simply being freed from impure actions, encompassing liberation from all forms of defilement, both physical and spiritual. Ultimately, the hope at hand entails the aspiration to be transformed into God's likeness, conformed to the image of God in Christ. This process of purification involves the work of both God and man, presupposing justification through faith, resting upon the grace and righteousness of Christ.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9538824825698848,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                34.34,
+                32.53,
+                33.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed and accompanies this hope. This purification signifies not only freedom from impurity but also liberation from all forms of defilement. The ultimate aspiration is to be transformed into God's image in Christ. This process of purification, a joint work of God and man, assumes justification through faith and rests upon God's grace. Anchored in this hope, believers are motivated to pursue genuine holiness, seeking complete deliverance from sin's corruption.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8361285967029213,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.39,
+            "commentatorTierSimilarities": [
+                32.18,
+                33.21,
+                34.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The one who purifies themselves as a response to the hope resting upon God demonstrates a will to be cleansed, not separate from this hope but consistently interconnected with it. This purification goes beyond being freed from impure actions, encompassing liberation from all defilement. Ultimately, the hope at hand entails the aspiration to be transformed into God's likeness, conformed to the image of God in Christ. This process involves the work of both God and man, presupposing justification through faith, resting upon the grace and righteousness of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.910340980786909,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.86,
+            "commentatorTierSimilarities": [
+                34.61,
+                32.05,
+                33.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

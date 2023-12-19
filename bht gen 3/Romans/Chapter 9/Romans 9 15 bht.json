@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:07:34",
+    "verseRef": "Romans 9:15",
+    "bestBHT": {
+        "bht": "God's mercy is pure and without any consideration of human desert. It is solely based on His will, and He has the right to choose whom He will have mercy on. There is no unrighteousness in God's selection, as He Himself claims the right to do so. The expression of God's mercy is not just a sentiment, but a determination to show compassion to those in need. His mercy is an act of free grace, unaffected by any human merit or service.",
+        "wordCount": 85,
+        "quoteTokenProportion": 55.36,
+        "qualityScore": 2.2923382134755954,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+        "commentatorTierSimilarities": [
+            34.01,
+            35.76,
+            30.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whenever I have mercy on any, it shall be pure mercy, no human desert contributing.",
+            "God's mercy be pure mercy without any desert on man's part.",
+            "His will being the only assignable cause of the selection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There can be no unrighteousness in God's choosing whom He will, for to Moses He expressly claims the right to do so.",
+            "Yet it is worthy of notice that this is expressed in the positive rather than the negative form: not, 'I will have mercy on none but whom I will'; but, 'I will have mercy on whomsoever I will.'",
+            "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."
+        ],
+        "Albert Barnes": [
+            "When people, therefore, under the influence of an unrenewed and hostile heart, charge this as an unjust and arbitrary proceeding, they are resisting and perverting what God regards as the very demonstration of his benevolence.",
+            "He has a right to pardon whom he pleases, and to save people on his own terms, and according to his sovereign will and pleasure.",
+            "It should be a matter of joy that any can be pardoned and saved; and not a subject of murmuring and complaint that those who shall finally deserve to die shall be consigned to woe."
+        ],
+        "Marvin Vincent": [
+            "Have mercy therefore contemplates, not merely the sentiment in itself, but the determination of those who should be its objects.",
+            "The former verb emphasizes the sense of human wretchedness in its active manifestation; the latter the inward feeling expressing itself in sighs and tears.",
+            "God asserts that His gift is of His own free grace, without any recognition of Moses ' right to claim it on the ground of merit or service."
+        ],
+        "John Calvin": [
+            "With regard to the elect, God cannot be charged with any unrighteousness; for according to his good pleasure he favors them with mercy.",
+            "The petulancy of men quarrels with God, as though he deferred to persons more than what is right.",
+            "The mercy of God, being gratuitous, is under no restraint, but turns wherever it pleases."
+        ],
+        "Philip Schaff": [
+            "If God accorded it to him, it was not because it was Moses who besought Him, or had any right to it; it was pure grace on His part.",
+            "The word 'whom' in both instances might be rendered 'whomsoever,' and has an emphasis here, describing not merely the mercy, but the choice of the individual objects, as the free act of God.",
+            "Have compassion is stronger than 'have mercy;' it ordinarily includes outward manifestations of compassion."
+        ],
+        "Archibald T. Robertson": [
+            "For he says to Moses (\u03c4\u03c9 \u039c\u03c9\u03c5\u03c3\u03b5 \u03b3\u03b1\u03c1 \u03bb\u03b5\u03b3\u03b5). He has an Old Testament illustration of God's election in the case of Pharaoh (Exodus 33:19).",
+            "On whom I have mercy (\u03bf\u03bd \u03b1\u03bd \u03b5\u03bb\u03b5\u03c9). Indefinite relative with \u03b1\u03bd and the present active subjunctive of \u03b5\u03bb\u03b5\u03b1\u03c9, late verb only here and Jude 1:23 in N.T. 'On whomsoever I have mercy.'",
+            "The same construction in \u03bf\u03bd \u03b1\u03bd \u03bf\u03b9\u03ba\u03c4\u03b5\u03b9\u03c1\u03c9, 'on whomsoever I have compassion.'"
+        ],
+        "John Gill": [
+            "God wills nothing in time, but what he willed before time.",
+            "This grace and mercy rise out of his own free good will and pleasure, and are by no means the creature's due.",
+            "God in determining to bestow his grace and mercy, and in the actual doing of it, whilst he determines to deny it, and does deny it to others, cannot possibly be chargeable with any unrighteousness."
+        ],
+        "John Wesley": [
+            "Exodus 33:19."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When God extends mercy, it is purely an act of His grace, without considering any merits or deserving on the part of humans. His selection is solely based on His will and there is no injustice in His choosing. God asserts His right to show mercy to whomever He pleases, and to have compassion on those He decides. This expression of mercy is not just a sentiment, but a determination to show kindness to those who are in need. His act of mercy flows from His own free will and is not a recognition of anyone's entitlement or righteousness. God's choice of whom to show mercy to is not arbitrary, as He has an Old Testament example of His election in the case of Pharaoh.",
+            "wordCount": 127,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.3187694116477435,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.44,
+            "commentatorTierSimilarities": [
+                32.24,
+                37.28,
+                30.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When God extends mercy, it is purely an act of His grace, without considering any human merit. His selection is solely based on His will, and there is no injustice in His choosing. God asserts His right to show mercy to whomever He pleases. His expression of mercy is not just a sentiment, but a determination to show kindness to those who are in need. This act of mercy flows from His own free will and is not a recognition of human entitlement or righteousness. God's choice of whom to show mercy to is not arbitrary, as He has an Old Testament example of His election in the case of Pharaoh.",
+            "wordCount": 112,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.2792681887774533,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+            "commentatorTierSimilarities": [
+                32.56,
+                36.04,
+                31.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's mercy is pure and without any consideration of human desert. It is solely based on His will, and He has the right to choose whom He will have mercy on. There is no unrighteousness in God's selection, as He Himself claims the right to do so. The expression of God's mercy is not just a sentiment, but a determination to show compassion to those in need. His mercy is an act of free grace, unaffected by any human merit or service.",
+            "wordCount": 85,
+            "quoteTokenProportion": 55.36,
+            "qualityScore": 2.2923382134755954,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                34.01,
+                35.76,
+                30.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God's mercy is pure and without any human desert. It is solely based on His will and there is no unrighteousness in His selection. The expression of His mercy is both a sentiment and a determination to show compassion to those in need. His free grace is not influenced by human merit or entitlement. God's choice of whom to show mercy to is not arbitrary, as He has an Old Testament example of His election in the case of Pharaoh.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.1520485579186146,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.9,
+            "commentatorTierSimilarities": [
+                34.02,
+                35.21,
+                30.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's mercy is solely based on His will and is pure, without any consideration of human merit or desert. His selection of whom to show mercy to is free from any unrighteousness, as He claims the right to do so. The expression of His mercy is not just a sentiment, but a determination to show compassion to those in need. It is an act of His own free grace, unaffected by any human recognition of entitlement or service. God's choice of whom to have mercy on is illustrated in the case of Pharaoh in the Old Testament.",
+            "wordCount": 99,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.2803890016750388,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                34.06,
+                35.87,
+                30.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

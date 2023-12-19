@@ -1,0 +1,102 @@
+{
+    "timestamp": "12-19-2023 16:07:27",
+    "verseRef": "Romans 10:4",
+    "bestBHT": {
+        "bht": "Christ is the end\u2014the aim of the law, fulfilling its purpose of justification for believers, whether Jew or Gentile. He put a stop to the law as a means of salvation and has no longer legislative authority over those who believe in Him. By faith in Christ, the same end is accomplished in regard to justification. The law had a reference to Christ, and no one can understand it without continually aiming for Him. Through Christ alone can we receive gratuitous righteousness, stripped of our own righteousness and confounded with the knowledge of our sin.",
+        "wordCount": 96,
+        "quoteTokenProportion": 51.56,
+        "qualityScore": 2.6015733587301435,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.84,
+        "commentatorTierSimilarities": [
+            32.07,
+            37.09,
+            30.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For Christ is the end\u2014the object or aim of the law\" ",
+            "contains within Himself all that the law demands for the justification of such as embrace Him\" ",
+            "whether Jew or Gentile"
+        ],
+        "Albert Barnes": [
+            "Justification cannot be obtained by our own righteousness, but by faith in Christ.",
+            "The main design or object which the perfect obedience of the Law would accomplish, is accomplished by faith in Christ.",
+            "By faith in Christ the same end is accomplished in regard to our justification, that would be by perfect obedience to the moral law."
+        ],
+        "Marvin Vincent": [
+            "The aim. Either that the intent of the law was to make men righteous, which was accomplished in Christ, or that the law led to Him as a pedagogue (Galatians 3:24).",
+            "The fulfillment, as Matthew 5:17. Matthew 5:3. The termination.",
+            "To believers in Christ the law has no longer legislative authority to say, 'Do this and live; do this or die' (Morison)."
+        ],
+        "John Calvin": [
+            "The law had been given for this end, \u2014 to lead us as by the hand to another righteousness: nay, whatever the law teaches, whatever it commands, whatever it promises, has always a reference to Christ as its main object; and hence all its parts ought to be applied to him.",
+            "But this cannot be done, except we, being stripped of all righteousness, and confounded with the knowledge of our sin, seek gratuitous righteousness from him alone.",
+            "Thus the righteousness of faith, (as we have seen in the first chapter,) receives a testimony from the law. We have then here a remarkable passage, which proves that the law in all its parts had a reference to Christ; and hence no one can rightly understand it, who does not continually level at this mark."
+        ],
+        "Philip Schaff": [
+            "Christ is the object, or aim, of the law.",
+            "Christ is the fulfilment of the law.",
+            "Christ is the termination, conclusion, of the law."
+        ],
+        "Archibald T. Robertson": [
+            "Christ put a stop to the law as a means of salvation.",
+            "Christ is the goal or aim of the law.",
+            "Christ ended the law as a method of salvation for 'every one that believeth' whether Jew or Gentile."
+        ],
+        "John Gill": [
+            "By the 'law' here, is not meant the ceremonial law, of which, indeed, they were all very zealous, and of which Christ also was the end in many respects; he was the final cause of it, or that for the sake of which it was; it had not been given had it not been for him.",
+            "He was the fulfilling end of it, every thing in it had its accomplishment in him.",
+            "He is the destroying end of the law, not as to the nature, being, matter and substance of it, which is invariable and eternal, and is not, and cannot be made void by the doctrine of faith; nor as to the true use of it; but as a covenant of works, as to the ministry of it by Moses, and as to its curse and condemnation."
+        ],
+        "John Wesley": [
+            "For Christ is the end of the law \u2014 The scope and aim of it.",
+            "It is the very design of the law, to bring men to believe in Christ for justification and salvation.",
+            "And he alone gives that pardon and life which the law shows the want of, but cannot give."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Christ is the end\u2014the object or aim of the law, containing within Himself all that the law demands for the justification of believers, whether Jew or Gentile. He put a stop to the law as a means of salvation, ending its legislative authority over those who believe in Him. By faith in Christ, the same end is accomplished in regard to our justification that would be by perfect obedience to the moral law. The law, in all its parts, had a reference to Christ, and no one can rightly understand it without continually aiming for Him. Through Christ alone can we receive gratuitous righteousness, being stripped of all our own righteousness and confounded with the knowledge of our sin. He is the fulfilling end of the law, its final cause, and the one who gives the pardon and life that the law points towards but cannot provide.",
+            "wordCount": 148,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.6117278352493667,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.18,
+            "commentatorTierSimilarities": [
+                30.83,
+                36.02,
+                33.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ is the end\u2014the aim of the law, fulfilling its purpose of justification for believers, whether Jew or Gentile. He put a stop to the law as a means of salvation and has no longer legislative authority over those who believe in Him. By faith in Christ, the same end is accomplished in regard to justification. The law had a reference to Christ, and no one can understand it without continually aiming for Him. Through Christ alone can we receive gratuitous righteousness, stripped of our own righteousness and confounded with the knowledge of our sin.",
+            "wordCount": 96,
+            "quoteTokenProportion": 51.56,
+            "qualityScore": 2.6015733587301435,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.84,
+            "commentatorTierSimilarities": [
+                32.07,
+                37.09,
+                30.85
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

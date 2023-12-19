@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:00:42",
+    "verseRef": "Romans 1:7",
+    "bestBHT": {
+        "bht": "The believers in Rome are addressed as beloved of God, called to be saints, highlighting their divine calling and God's love. This emphasizes the unity between Jews and Gentiles in Christ. The mention of God our Father and the Lord Jesus Christ reflects the grace and peace that come from both. The juxtaposition of Christ with the eternal God in Scripture speaks to His divinity and the command to honor Him. The term saints has three senses: collectively as Christians, individually as holy, and as individuals who live up to their calling.",
+        "wordCount": 93,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.3368211303967,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+        "commentatorTierSimilarities": [
+            31.53,
+            36.06,
+            32.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "beloved of God, called to be saints] Both these clauses refer to all the Christians addressed.",
+            "No such distinction would be in place in an exordium which anticipates the result of the Epistle\u2014that Jew and Gentile are one in guilt, and one in Christ.",
+            "from God our Father, and the Lord Jesus Christ] God is the Giver of grace and peace,\u2014Christ the Imparter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Nothing speaks more decisively for the divinity of Christ than these juxtapositions of Christ with the eternal God, which run through the whole language of Scripture...\" ",
+            "He only, in whom the Word of the Father who is Himself God became flesh, may be named beside Him for men are commanded to honor Him even as they honor the Father...\" ",
+            "The name of no man can be placed by the side of the Almighty."
+        ],
+        "Albert Barnes": [
+            "The word 'saints,' \u03b1\u0314\u0301\u03b3\u03b9\u03bf\u03b9 hagioi, means those who are holy, or those who are devoted or consecrated to God...the Roman Christians had shown. For the use of the word, as stated above, see the following passages of scripture; Luke 2:23; Exodus 13:2, Romans 11:16; Matthew 7:6; 1 Peter 1:16; Acts 9:13; 1 Peter 2:5; Acts 3:21, Ephesians 3:5; 1 Peter 2:9; Philippians 2:15; 1 John 3:1-2.\" (Quote 1)",
+            "Grace...is employed in the sense of benignity or benevolence; felicity, or a prosperous state of affairs; the Christian religion, as the highest expression of the benevolence or favor of God; the happiness which Christianity confers on its friends in this and the future life; the apostolic office; charity, or alms; thanksgiving; joy, or pleasure; and the benefits produced on the Christian\u2019s heart and life by religion.\" (Quote 2)",
+            "But the word 'peace' is also used in contrast with that state of agitation and conflict which a sinner has with his conscience and with God. The sinner is like the troubled sea, which cannot rest...A prayer for peace, therefore, in the epistles, is not a mere formal salutation, but has a special reference to those 'spiritual' blessings which result from reconciliation with God through the Lord Jesus Christ.\" (Quote 3)"
+        ],
+        "Marvin Vincent": [
+            "The term agioi saints is applied to Christians in three senses in the New Testament.",
+            "It is asserted that they are what they are called.",
+            "As individually holy."
+        ],
+        "John Calvin": [
+            "Paul does by no means ascribe the praise of our salvation to ourselves, but derives it altogether from the fountain of God\u2019s free and paternal love towards us; for he makes this the first thing \u2014 God loves us: and what is the cause of his love, except his own goodness alone?\" ",
+            "None rightly connect themselves with the number of the faithful, except they feel assured that the Lord is gracious, however unworthy and wretched sinners they may be, and except they be stimulated by his goodness and aspire to holiness.",
+            "The very foundation then of our felicity is the favor of God, by which we enjoy true and solid prosperity, and by which also our salvation is promoted even when we are in adversities."
+        ],
+        "Philip Schaff": [
+            "Beloved of God. Because reconciled to God through Christ.",
+            "Called to be saints. Just as Paul Vas called to be an Apostle (Romans 1:1), implying that they actually were what they were called to be.",
+            "This joining of Christ with God our Father as the personal source of \u2018grace and peace\u2019 to us, is a strong incidental proof of the divinity of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "St. Paul, if not formally enunciating a doctrine of the Divinity of Christ, held a view which cannot really be distinguished from it\" (Sanday and Headlam).",
+            "Paul's theology is clearly seen in the terms used in verses Romans 1:1-7.",
+            "Ablative case of \u03b8\u03b5\u03bf\u03c5 after the verbal adjective like \u03b4\u03b9\u03b4\u03b1\u03ba\u03c4\u03bf \u03b8\u03b5\u03bf\u03c5 (taught of God) in John 6:45."
+        ],
+        "John Gill": [
+            "Men are first beloved of the Lord, and then called to be his saints.",
+            "By 'grace' is not meant ministerial gifts, which are not common to all the saints; nor the Gospel, which was at Rome already; nor the love and favour of God, which these persons were sharers in, as appears from their above characters; nor the principle of grace, which was now formed there in their effectual calling; but an increase of grace, as to its degrees, acts, and exercise.",
+            "By 'peace' is meant, peace with God through Christ; peace in their own consciences, and with one another; all manner of prosperity inward and outward here, and eternal happiness hereafter."
+        ],
+        "John Wesley": [
+            "Beloved of God \u2014 And from his free love, not from any merit of yours, called by his word and his Spirit to believe in him, and now through faith holy as he is holy.",
+            "Grace \u2014 The peculiar favour of God.",
+            "And peace \u2014 All manner of blessings, temporal, spiritual, and eternal. This is both a Christian salutation and an apostolic benediction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The believers in Rome are addressed as beloved of God, called to be saints, emphasizing their divine calling and God's love for them. This is significant as it highlights the unity of Jew and Gentile under Christ. The mention of God our Father and the Lord Jesus Christ reflects the grace and peace that come from both the Father and the Son. In fact, the juxtaposition of Christ with the eternal God throughout Scripture speaks to the divinity of Christ and the importance of honoring Him. The term saints can be seen in three senses: collectively as all Christians, individually as holy, and as those who are what they are called to be. The use of the ablative case after the verbal adjective further emphasizes the divine teaching and calling. The mention of grace refers not to ministerial gifts or the Gospel, but to an increase of divine favor and the benefits produced in the believers' hearts and lives. On the other hand, peace is not just a mere salutation, but refers to the peace of reconciliation with God and the spiritual blessings that result from it. Overall, this passage presents a powerful picture of God's love, grace, and peace towards His beloved people, who are called to be saints.",
+            "wordCount": 212,
+            "quoteTokenProportion": 36.28,
+            "qualityScore": 2.259535724950383,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                29.72,
+                36.26,
+                34.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Romans 1:7, the believers in Rome are referred to as beloved of God, called to be saints, indicating their divine calling and the love God has for them. By using this phrase, the verse highlights the unity of all Christians, both Jews and Gentiles, under Christ. The mention of both God the Father and the Lord Jesus Christ emphasizes that grace and peace come from both of them. This association of Christ with the eternal God throughout Scripture reveals the divinity of Christ and the importance of honoring Him. The term saints is understood in three senses: as the collective body of believers, as individually holy, and as those called to be what they are. The use of the ablative case brings forth the idea of divine teaching and calling. The mention of grace refers to an increase in divine favor and the transformative effects it produces in the believers' lives. Likewise, peace is not just a customary greeting but refers to the peace that comes from being reconciled with God and the spiritual blessings that result from it. This verse beautifully underscores God's love, grace, and peace toward His beloved people while emphasizing their calling to be saints.",
+            "wordCount": 200,
+            "quoteTokenProportion": 35.51,
+            "qualityScore": 2.270702929894067,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.84,
+            "commentatorTierSimilarities": [
+                29.49,
+                36.85,
+                33.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The believers in Rome are addressed as beloved of God, called to be saints, highlighting their divine calling and God's love. This emphasizes the unity between Jews and Gentiles in Christ. The mention of God our Father and the Lord Jesus Christ reflects the grace and peace that come from both. The juxtaposition of Christ with the eternal God in Scripture speaks to His divinity and the command to honor Him. The term saints has three senses: collectively as Christians, individually as holy, and as individuals who live up to their calling.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.3368211303967,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.04,
+            "commentatorTierSimilarities": [
+                31.53,
+                36.06,
+                32.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believers in Rome are addressed as beloved of God, called to be saints. This highlights their divine calling and emphasizes the unity between Jews and Gentiles in Christ. The mention of God our Father and the Lord Jesus Christ reflects the grace and peace that come from both. The juxtaposition of Christ with the eternal God throughout Scripture speaks to His divinity and the command to honor Him. The term saints has three senses: collectively as Christians, individually as holy, and as individuals who live up to their calling.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.3332757650546587,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.92,
+            "commentatorTierSimilarities": [
+                31.75,
+                36.0,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believers in Rome are referred to as beloved of God, called to be saints, signifying their divine calling and God's love for them. This highlights the unity of all Christians, both Jews and Gentiles, in Christ. The mention of God our Father and the Lord Jesus Christ reflects the grace and peace that originate from both. The connection of Christ with the eternal God in Scripture speaks to His divinity and the importance of honoring Him. The term saints encompasses three aspects: as the collective body of believers, as individually holy, and as those fulfilling their calling.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.311794222592262,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.21,
+            "commentatorTierSimilarities": [
+                30.81,
+                36.57,
+                32.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

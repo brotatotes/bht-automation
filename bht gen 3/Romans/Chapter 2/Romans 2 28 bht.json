@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:00:25",
+    "verseRef": "Romans 2:28",
+    "bestBHT": {
+        "bht": "The outward symbols of being a Jew, like circumcision, were designed to signify separation from an ungodly world and devotedness to God. However, external privileges and signs of discipleship cannot shield one from God's wrath, just as the absence of these symbols does not exclude those who have experienced an inward change of heart. The true essence of being a Jew is not determined by external factors, but by an inner transformation and dedication to God. Circumcision represents the mortification of the whole flesh, signifying a true and spiritual change that is pleasing to God.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.1496995200554307,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.82,
+        "commentatorTierSimilarities": [
+            36.56,
+            28.14,
+            35.3
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The name of 'Jew' and the rite of 'circumcision' were designed but as outward symbols of a separation from the irreligious and ungodly world unto holy devotedness in heart and life to the God of salvation.",
+            "Amidst all the inequalities of religious opportunity measured out to men, and the mysterious bearing of this upon their character and destiny for eternity, the same great principles of judgment, in a form suited to their respective discipline, will be applied to all, and perfect equity will be seen to reign throughout every stage of the divine administration.",
+            "As no external privileges, or badge of discipleship, will shield the unholy from the wrath of God, so neither will the want of them shut out from the kingdom of heaven such as have experienced without them that change of heart which the seals of God's covenant were designed to mark."
+        ],
+        "Albert Barnes": [
+            "He who is merely descended from Abraham, and is circumcised, and externally conforms to the Law only, does not possess the true character, and manifest the true spirit, contemplated by the separation of the Jewish people.\" ",
+            "Neither does it meet the full design of the rite of circumcision, that it is externally performed. It contemplated much more.",
+            "Their separation required much more."
+        ],
+        "John Calvin": [
+            "A real Jew is not to be ascertained, either by natural descent, or by profession, or by an external symbol; that the circumcision which constitutes a Jew, does not consist in an outward sign only, but that both are inward.",
+            "The fore-skin was cut off, not indeed as the small corruption of one part, but as that of the whole nature.",
+            "Circumcision then signified the mortification of the whole flesh."
+        ],
+        "Philip Schaff": [
+            "He is not a Jew who is one outwardly. The one who shows only the outward marks of a Jew is not a true Jew.",
+            "Which is outward. The same phrase just rendered 'outwardly.'",
+            "In the flesh. This is a further explanation of 'outward,' and is to be taken literally."
+        ],
+        "Archibald T. Robertson": [
+            "the in the open Jew\" (circumcision, phylacteries, tithes, etc.)",
+            "the in the open Jew\" (circumcision)",
+            "circumcision, phylacteries, tithes, etc."
+        ],
+        "John Gill": [
+            "He is not a Jew which is one outwardly.",
+            "He is not a Jew which is one outwardly...neither is that circumcision which is outward in the flesh.",
+            "This is nothing, is not the true, solid, substantial, spiritual circumcision, which only avails in the sight of God."
+        ],
+        "John Wesley": [
+            "For he is not a Jew...one in outward show only.\" ",
+            "Who is one in outward show only; neither is that the true, acceptable circumcision.",
+            "The true, acceptable circumcision, which is apparent in the flesh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The name and rite of 'circumcision' were meant to symbolize separation from the ungodly world and dedication to God. External privileges and signs of discipleship do not shield one from God's wrath, nor does their absence exclude those who have experienced a change of heart. The true character of a Jew is not determined by external factors like lineage, conformity to the Law, or outward symbols. Rather, it is about an inward transformation and devotion to God that goes beyond the surface. Circumcision signifies the mortification of the whole flesh and the true circumcision is a spiritual and inward change that is pleasing to God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9384997225200276,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+            "commentatorTierSimilarities": [
+                35.7,
+                29.01,
+                35.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The name and rite of 'circumcision' were meant to symbolize separation and devotion to God. External privileges do not shield from God's wrath, nor does their absence exclude those who have experienced a change of heart. The true character of a Jew is not determined by external factors like lineage or conformity to the Law. Rather, it is about an inward transformation that goes beyond the surface. Circumcision signifies the mortification of the whole flesh and the true circumcision is an inward change that is pleasing to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8576176465021157,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                34.06,
+                29.35,
+                36.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The outward symbols of being a Jew, such as the name and rite of circumcision, were meant to represent a separation from a godless world and a dedication to God. External privileges and signs of discipleship do not protect one from judgment, nor does their absence exclude those who have experienced a heart change. The true essence of being a Jew is not determined by external factors like lineage or adherence to the Law; it is about an inward transformation and devotion to God that transcends outward appearances. Circumcision symbolizes the complete mortification of the flesh and the true circumcision is a spiritual change that pleases God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1672779453525965,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.4,
+            "commentatorTierSimilarities": [
+                36.27,
+                28.57,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The outward symbols of being a Jew, like circumcision, were designed to signify separation from an ungodly world and devotedness to God. However, external privileges and signs of discipleship cannot shield one from God's wrath, just as the absence of these symbols does not exclude those who have experienced an inward change of heart. The true essence of being a Jew is not determined by external factors, but by an inner transformation and dedication to God. Circumcision represents the mortification of the whole flesh, signifying a true and spiritual change that is pleasing to God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.1496995200554307,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.82,
+            "commentatorTierSimilarities": [
+                36.56,
+                28.14,
+                35.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The name and rite of 'circumcision' were but outward symbols of separation from the irreligious world and devotion to God. External privileges won't shield one from God's wrath and the lack of them won't shut out those who've experienced a heart change. Being a true Jew isn't about external factors like lineage or conformity to the Law, but about an inward transformation. Circumcision signifies the mortification of the flesh and the true circumcision involves a spiritual change that pleases God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.084192858845721,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                36.9,
+                27.81,
+                35.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

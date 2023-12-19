@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:08:24",
+    "verseRef": "Romans 11:31",
+    "bestBHT": {
+        "bht": "Through the mercy shown to the Gentiles, Israel as a nation is intended to recover. The unbelief of the Jews has allowed the preaching of the gospel to the Gentiles, who will, in turn, play a role in bringing salvation to the Jews. Although both parties have been disobedient at different times, the present blindness and unbelief of the Jews should not hinder them from obtaining mercy through the mercy shown to the Gentiles. Even in their unbelief, God's purpose is for the Jews to receive a blessing and be called into His kingdom.",
+        "wordCount": 95,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.269971048394723,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+        "commentatorTierSimilarities": [
+            32.33,
+            32.66,
+            35.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Here is an entirely new idea.",
+            "The mercy shown to the Gentiles as a means of Israel's recovery.",
+            "By the instrumentality of believing Gentiles, Israel as a nation is at length to 'look on Him whom they have pierced and mourn for Him,' and so to 'obtain mercy.'"
+        ],
+        "Albert Barnes": [
+            "The immediate effect of the unbelief of the Jews was to confer salvation on the Gentiles, or to open the way for the preaching of the gospel to them.",
+            "Each party should thus cause salvation to come to the other - the Jews to the Gentiles by their unbelief; but the Gentiles, in their turn, to the Jews by their belief.",
+            "The time is coming when the promises of God in regard to them shall be fulfilled. Christians shall be moved with deep compassion for the degraded and forsaken Jews, and they shall be called into the kingdom of God, and made efficient agents in extending the gospel through the whole world."
+        ],
+        "Philip Schaff": [
+            "So also; the cases are parallel.",
+            "Have these (Jews) now, since the gospel of Christ was preached, been disobedient; lit., \u2018were disobedient,\u2019 as in Romans 11:30, but \u2018now\u2019 compels us to render \u2018have been disobedient.\u2019",
+            "That, in order that, by the mercy shown to you (lit. \u2018your mercy;\u2019 in emphatic position in the original) they also may now obtain mercy."
+        ],
+        "Archibald T. Robertson": [
+            "By the mercy shown to you.",
+            "God's purpose is for the Jews to receive a blessing yet."
+        ],
+        "John Gill": [
+            "Now is the time of the Jews' unbelief, blindness has happened to them, the vail is over their hearts...",
+            "They do not believe God in Christ; nor that he is the Father of Christ; or that Christ is the Son of God, the true Messiah, and Saviour of the world.",
+            "The apostle's argument in favor of the call and conversion of the Jews, upon the whole is this, that since the unbelief of the Gentiles was no bar to their obtaining mercy, and that through the infidelity of the Jews; then it cannot be thought, that the present blindness, hardness of heart, enmity, and unbelief, which now attend the Jews, can be any obstacle to their obtaining mercy in the same way the Gentiles have; but as the one has been, the other also will be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the mercy shown to the Gentiles, God has a new plan to bring about the recovery of Israel as a nation. The unbelief of the Jews has opened the way for the preaching of the gospel to the Gentiles, and in turn, the belief of the Gentiles will cause salvation to come to the Jews. This is a parallel situation where both parties have been disobedient at different times, but now is the time for the Jews to obtain mercy through the mercy shown to the Gentiles. In the midst of their unbelief, God's purpose is for the Jews to receive a blessing yet and be called into the kingdom of God.",
+            "wordCount": 114,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.297148289948841,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.72,
+            "commentatorTierSimilarities": [
+                31.62,
+                34.11,
+                34.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the mercy shown to the Gentiles, Israel as a nation is intended to recover. The unbelief of the Jews has allowed the preaching of the gospel to the Gentiles, who will, in turn, play a role in bringing salvation to the Jews. Although both parties have been disobedient at different times, the present blindness and unbelief of the Jews should not hinder them from obtaining mercy through the mercy shown to the Gentiles. Even in their unbelief, God's purpose is for the Jews to receive a blessing and be called into His kingdom.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.269971048394723,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+            "commentatorTierSimilarities": [
+                32.33,
+                32.66,
+                35.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the mercy shown to the Gentiles, Israel as a nation is expected to recover. The unbelief of the Jews has allowed for the preaching of the gospel to the Gentiles, who will, in turn, bring salvation to the Jews through their belief. The present blindness and unbelief of the Jews should not hinder them from obtaining mercy through the mercy previously shown to the Gentiles. Despite their current state, God's intention is for the Jews to receive a blessing and be called into His kingdom.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.2362478646431754,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+            "commentatorTierSimilarities": [
+                32.38,
+                32.56,
+                35.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the mercy shown to the Gentiles, Israel as a nation is destined to recover. The unbelief of the Jews provides an opportunity for the preaching of the gospel to the Gentiles. This reciprocal relationship of salvation between the Jews and the Gentiles is evident. Although the Jews are presently disobedient, their current state should not deter them from obtaining mercy, just as the Gentiles have received mercy. God's ultimate purpose is for the Jews to be blessed and called into His kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.087243870962684,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.74,
+            "commentatorTierSimilarities": [
+                33.52,
+                33.97,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's plan for the salvation of Israel involves the mercy shown to the Gentiles. Through the faith of the Gentiles, Israel as a nation will eventually look upon the pierced Christ and obtain mercy. The unbelief of the Jews has allowed for the preaching of the gospel to the Gentiles. Despite their present state of disobedience, the Jews should not be hindered from receiving mercy, as the Gentiles have also obtained mercy. God's purpose is for the Jews to ultimately be blessed and receive salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.2549012808444013,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                34.82,
+                32.3,
+                32.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:04:23",
+    "verseRef": "Romans 6:16",
+    "bestBHT": {
+        "bht": "You are the servants either of God or of sin\u2014there is no third course, for every person must choose between these two ethical principles. Whichever one they choose becomes their master, and they become its bond-servant. Christians have the choice to become voluntary servants of God, bound to obey Him entirely, or to become servants of sin, which will ultimately lead to death. It is impossible to serve both Christ and sin, for they are in complete opposition to one another.",
+        "wordCount": 83,
+        "quoteTokenProportion": 55.17,
+        "qualityScore": 2.3190852136566766,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.45,
+        "commentatorTierSimilarities": [
+            29.43,
+            35.49,
+            35.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "'You are the servants either of God or of sin,\u2014there is no third course.'\" ",
+            "'Now this must be true of you with regard either to sin or to God.'\" ",
+            "'...DEATH [by sin] in its most general sense, as the contrast to [life by] RIGHTEOUSNESS,\u2014the state of misery induced by sin, in all its awful aspects and consequences.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that to whom ye yield yourselves servants to obey\u2014with the view of obeying him.",
+            "his servants ye are to whom ye obey\u2014to whom ye yield that obedience.",
+            "whether of Sin unto death\u2014that is, 'issuing in death,' in the awful sense of Romans 8:6, as the sinner's final condition."
+        ],
+        "Albert Barnes": [
+            "To whom ye yield yourselves - To whom ye give up yourselves for servitude or obedience... Christians had become the voluntary servants of God, and were therefore bound to obey him entirely.",
+            "Whether of sin - The general law of servitude the apostle now applies to the case before him. If people became the servants of sin, if they gave themselves to its indulgence, they would obey it, let the consequences be what they might.",
+            "Or of obedience ... - The same law exists in regard to holiness or obedience. The man who becomes the servant of holiness will feel himself bound by the law of servitude to obey, and to pursue it to its regular consequences."
+        ],
+        "Marvin Vincent": [
+            "Every man must choose between two ethical principles. Whichever one he chooses is master, and he is its bond-servant.\" ",
+            "Obedience is the true antithesis of sin, since sin is disobedience, and righteousness is life."
+        ],
+        "John Calvin": [
+            "Between the yoke of Christ and that of sin there is so much contrariety, that no one can bear them both.",
+            "The faithful, on the contrary, have been redeemed from the tyranny of sin, that they may serve Christ: it is therefore impossible for them to remain bound to sin.",
+            "Obedience then, though the name of God is suppressed, is yet to be referred to him, for it cannot be a divided obedience."
+        ],
+        "Philip Schaff": [
+            "To present yourselves as servants to any one implies service to that one: in this matter the masters are opposed, hence either,.... or, there is no third.",
+            "Both terms are used in the usual wide sense: \u2018sin\u2019 is personified as the master, the result of the service is \u2018death,\u2019 including all the consequences of sin.",
+            "Of our own free choice we give ourselves as bondmen to sin, but cannot thus give ourselves to righteousness: we can only yield ourselves up to God\u2019s grace, to save us, as servants of obedience, unto righteousness, given to us and inwrought of the Holy Ghost."
+        ],
+        "Archibald T. Robertson": [
+            "His servants ye are whom ye obey...traitors, spies sometimes they are called.\" ",
+            "As Paul used the figure to illustrate death to sin and resurrection to new life in Christ and not in sin, so now he uses slavery against the idea of occasional lapses into sin.\" ",
+            "Loyalty to Christ will not permit occasional crossing over to the other side to Satan's line."
+        ],
+        "John Gill": [
+            "Such who obey sin, are the servants of sin; they are at the beck and command of sin; they give up themselves to the service of it with delight and diligence, and are perfect drudges to it.",
+            "Their service is very unreasonable; and they are rendered incapable of serving God, for no man can serve two masters; they are hereby brought into the drudgery of the devil; into a state of bondage.",
+            "On the other hand, such as obey the Lord, are the servants 'of obedience unto righteousness': but why is not this obedience, which is the obedience of faith to the Gospel, of Christ, and of the new man to God or Christ, said to be 'unto life', as the antithesis seems to require?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "You are the servants either of God or of sin,\u2014there is no third course. Every man must choose between two ethical principles. Whichever one he chooses is master, and he is its bond-servant. Loyalty to Christ will not permit occasional crossing over to the other side to Satan's line. To present yourselves as servants to any one implies service to that one: in this matter the masters are opposed, hence either,.... or, there is no third. Obedience then, though the name of God is suppressed, is yet to be referred to him, for it cannot be a divided obedience.",
+            "wordCount": 102,
+            "quoteTokenProportion": 56.94,
+            "qualityScore": 2.0949324225798427,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                31.47,
+                34.46,
+                34.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You are the servants either of God or of sin,\u2014there is no third course. Every man must choose between two ethical principles. Whichever one he chooses is master, and he is its bond-servant. Loyalty to Christ will not permit occasional crossing over to the other side to Satan's line. Obedience then, though the name of God is suppressed, is yet to be referred to him, for it cannot be a divided obedience.",
+            "wordCount": 75,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 2.0380807187775587,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                33.69,
+                30.95,
+                35.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You are the servants either of God or of sin\u2014there is no third course, for every person must choose between these two ethical principles. Whichever one they choose becomes their master, and they become its bond-servant. Obedience is the true opposite of sin, and loyalty to Christ will not permit occasional crossing over to Satan's side. Christians have the choice to become voluntary servants of God, bound to obey Him entirely, or to become servants of sin, which will ultimately lead to death. It is impossible to serve both Christ and sin, for they are in complete opposition to one another.",
+            "wordCount": 104,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.4000597228314513,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.14,
+            "commentatorTierSimilarities": [
+                29.67,
+                34.37,
+                35.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You are the servants either of God or of sin\u2014there is no third course, for every person must choose between these two ethical principles. Whichever one they choose becomes their master, and they become its bond-servant. Christians have the choice to become voluntary servants of God, bound to obey Him entirely, or to become servants of sin, which will ultimately lead to death. It is impossible to serve both Christ and sin, for they are in complete opposition to one another.",
+            "wordCount": 83,
+            "quoteTokenProportion": 55.17,
+            "qualityScore": 2.3190852136566766,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.45,
+            "commentatorTierSimilarities": [
+                29.43,
+                35.49,
+                35.07
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

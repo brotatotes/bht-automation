@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:08:37",
+    "verseRef": "Romans 11:9",
+    "bestBHT": {
+        "bht": "Let their table, their very blessings, become a snare, a trap, and a stumbling block to them. As the Psalmist warns, may their enjoyments only sting and take vengeance on them. This imprecation remains for the adversaries of Christ, for those who reject Him. Just as the rejecters of Christ become ensnared by their presumptuous security, let their very blessings prove to be their recompense for their wickedness. May we embrace God's grace and avoid the curse that befalls those who reject Christ.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 1.8796060023918981,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+        "commentatorTierSimilarities": [
+            32.1,
+            33.46,
+            34.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let their table be made a snare and a trap... and a stumblingblock, and a recompence to them.\" ",
+            "The word more usually signifies 'a hunt,' or the act of taking or catching,\u2014but here a net, the instrument of capture.",
+            "It is perhaps inserted by the Apostle to give emphasis by the accumulation of synonymes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let their very blessings prove a curse to them, and their enjoyments only sting and take vengeance on them.",
+            "Let their table, &c.\u2014that is, Let their very blessings prove a curse to them.",
+            "In such a Messianic psalm, must be meant of the rejecters of Christ."
+        ],
+        "Marvin Vincent": [
+            "No kind of snare will be wanting. Their presumptuous security will become to them a snare, a hunting, a stumbling - block.",
+            "The anchor is called pagiv the maker - fast of the ships.",
+            "It carries the idea of a just retribution."
+        ],
+        "John Calvin": [
+            "Seeing then that this imprecation remains for all the adversaries of Christ, \u2014 that their meat shall be converted into poison, (as we see that the gospel is to be the savor of death unto death,) let us embrace with humility and trembling the grace of God.",
+            "We may add, that since David speaks of the Israelites, who descended according to the flesh from Abraham, Paul fitly applies his testimony to the subject in hand, that the blindness of the majority of the people might not appear new or unusual.",
+            "The rule to man is, not to curse, but to bless, except to pronounce on God\u2019s enemies as such the judgment which God has already denounced on them. But to curse individuals is what no one is allowed to do, except he be inspired so as to know who those are who are given up by God to final judgment; which may be supposed to have been the case with the Psalmist and with St. Paul."
+        ],
+        "Philip Schaff": [
+            "The Psalm is a portrayal of the sufferings of the Servant of Jehovah at the hands of spiritual foes, rather than of the sorrows of the exiled Jews.\" ",
+            "The imprecations of the Psalm \u2018are to be considered as the language of an ideal person, representing the whole class of righteous sufferers, and particularly Him who, though He prayed for His murderers while dying (Luke 23:34), had before applied the words of this very passage to the unbelieving Jews (Matthew 23:38), as Paul did afterwards.\u2019",
+            "While they think they are consuming the spoils of their earthly sense, they become themselves a spoil to every form of retribution."
+        ],
+        "Archibald T. Robertson": [
+            "Table (\u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b1). For what is on the table, 'a feast.'",
+            "A snare (\u03b5\u03b9\u03c2 \u03c0\u03b1\u03b3\u03b9\u03b4\u03b1). From \u03c0\u03b7\u03b3\u03bd\u03c5\u03bc, to make fast, old word for snares for birds and beasts.",
+            "A stumbling-block (\u03b5\u03b9\u03c2 \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03bf\u03bd). A third word for trap, snare, trap-stick or trigger over which they fall."
+        ],
+        "John Gill": [
+            "By their 'table' may be meant, the altar...likewise the laws concerning the difference of meats, and indeed the whole ceremonial law may be intended.",
+            "That which should have led them to Christ, became an handwriting of ordinances against them, and rendered Christ of no effect to them.",
+            "The preaching of the Gospel, the salutary truths and wholesome words of our Lord Jesus Christ, were a stumbling block to the Jews, nay, even the savour of death unto death."
+        ],
+        "John Wesley": [
+            "So sin is punished by sin; and thus the gospel, which should have fed and strengthened their souls, is become a means of destroying them.",
+            "A recompence \u2014 Of their preceding wickedness.",
+            "In that prophetic imprecation, which is applicable to them, as well as to Judas."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let their table, their very blessings, become a snare, a trap, and a stumbling block to them. As the Psalmist warns, may their enjoyments only sting and take vengeance on them. This imprecation remains for the adversaries of Christ, for those who reject Him. Just as the rejecters of Christ became ensnared by their presumptuous security, let their very blessings prove to be their recompense for their wickedness. The preaching of the Gospel, which should have led them to Christ, became a stumbling block, a snare, and a trap over which they fell. May we humbly embrace God's grace and avoid the curse that befalls those who reject Christ.",
+            "wordCount": 110,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8852182580359227,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                31.95,
+                32.71,
+                35.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May their table, their blessings, become a snare, trap, and stumbling block to those who reject Christ. Their enjoyments shall sting and take vengeance on them. As the Psalmist warns, let their very blessings prove to be their recompense for their wickedness. The preaching of the Gospel, meant to lead them to Christ, became a stumbling block, a snare, and a trap. May we humbly embrace God's grace and avoid the curse that befalls those who reject Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8704195252572549,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                33.35,
+                32.36,
+                34.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let their table, their very blessings, become a snare, a trap, and a stumbling block to them. As the Psalmist warns, may their enjoyments only sting and take vengeance on them. This imprecation remains for the adversaries of Christ, for those who reject Him. Just as the rejecters of Christ become ensnared by their presumptuous security, let their very blessings prove to be their recompense for their wickedness. The preaching of the Gospel, which should have led them to Christ, became a stumbling block, a snare, and a trap over which they fell. May we humbly embrace God's grace and avoid the curse that befalls those who reject Christ.",
+            "wordCount": 110,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.8911843320532935,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                32.14,
+                32.73,
+                35.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let their table, their very blessings, become a snare, a trap, and a stumbling block to them. As the Psalmist warns, may their enjoyments only sting and take vengeance on them. This imprecation remains for the adversaries of Christ, for those who reject Him. Just as the rejecters of Christ become ensnared by their presumptuous security, let their very blessings prove to be their recompense for their wickedness. May we embrace God's grace and avoid the curse that befalls those who reject Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8796060023918981,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                32.1,
+                33.46,
+                34.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May their blessings become a curse, their table a snare, a trap, and a stumbling block. Let their very enjoyments sting and take vengeance on them. As the Psalmist warns, the rejecters of Christ will find themselves ensnared by their presumption and security. The preaching of the Gospel, meant to lead them to Christ, will become a stumbling block over which they fall. Let us humbly embrace God's grace, avoiding the curse that befalls those who reject Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.757342301448825,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.77,
+            "commentatorTierSimilarities": [
+                34.7,
+                30.82,
+                34.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
