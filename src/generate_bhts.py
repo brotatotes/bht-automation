@@ -14,7 +14,7 @@ if __name__ == '__main__':
         # "Romans",
         # "1 Corinthians",
         # "2 Corinthians",
-        # "Galatians",
+        "Galatians",
         # "Ephesians",
         "Philippians",
         # "Colossians",
