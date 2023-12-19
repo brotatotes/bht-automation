@@ -1,7 +1,7 @@
 # Colossians 2:12 Commentary Help Text
 
 ## BHT:
-Baptism is portrayed as the burial of our old life and the initiation of a new one. The act of immersion symbolizes this burial, but the significance of baptism is upheld through other modes like affusion. By putting our faith in God's powerful working, displayed in Christ's resurrection, we are raised to a new moral life. Baptism is a visual representation of the change that has already taken place in our hearts through faith and signifies our fellowship with Christ.
+Through baptism, we symbolically bury our old life and rise to new life in Christ. The act of baptism is a powerful declaration of our faith in the expiatory death of Christ for the forgiveness of our sins. Whether through immersion or affusion, the spirit of the ordinance is maintained, representing the change already wrought in our hearts through faith. Baptism is a picture of our fellowship with Christ, alluding to His resurrection and our future resurrection to new life in Him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -50,40 +50,39 @@ Baptism is portrayed as the burial of our old life and the initiation of a new o
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:28
+- Timestamp: 12-19-2023 01:10:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 82
-- BHT Commentary Usage: 38.18%
-- BHT Quality Score: 2.6340890752134705
+- BHT Commentary Usage: 36.17%
+- BHT Quality Score: 2.540522931112621
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (55):
-	['a', 'act', 'affusion', 'already', 'and', 'are', 'as', 'baptism', 'burial', 'but', 'by', 'change', 'christ', 'displayed', 'faith', 'fellowship', 'god', 'has', 'hearts', 'immersion', 'in', 'initiation', 'is', 'life', 'like', 'modes', 'moral', 'new', 'of', 'old', 'one', 'other', 'our', 'place', 'portrayed', 'powerful', 'putting', 'raised', 'representation', 'resurrection', 's', 'significance', 'signifies', 'symbolizes', 'taken', 'that', 'the', 'this', 'through', 'to', 'upheld', 'visual', 'we', 'with', 'working']
-- ChatGPT injected words (significant words only) (34):
-	['act', 'affusion', 'baptism', 'burial', 'change', 'christ', 'displayed', 'faith', 'fellowship', 'god', 'hearts', 'immersion', 'initiation', 'life', 'like', 'modes', 'moral', 'new', 'old', 'place', 'portrayed', 'powerful', 'putting', 'raised', 'representation', 'resurrection', 's', 'significance', 'signifies', 'symbolizes', 'taken', 'upheld', 'visual', 'working']
+- ChatGPT injected words (47):
+	['a', 'act', 'affusion', 'alluding', 'already', 'and', 'baptism', 'bury', 'change', 'christ', 'death', 'declaration', 'expiatory', 'faith', 'fellowship', 'for', 'forgiveness', 'future', 'hearts', 'him', 'his', 'immersion', 'in', 'is', 'life', 'maintained', 'new', 'of', 'old', 'or', 'ordinance', 'our', 'picture', 'powerful', 'representing', 'resurrection', 'rise', 'sins', 'spirit', 'symbolically', 'the', 'through', 'to', 'we', 'whether', 'with', 'wrought']
+- ChatGPT injected words (significant words only) (30):
+	['act', 'affusion', 'alluding', 'baptism', 'bury', 'change', 'christ', 'death', 'declaration', 'expiatory', 'faith', 'fellowship', 'forgiveness', 'future', 'hearts', 'immersion', 'life', 'maintained', 'new', 'old', 'ordinance', 'picture', 'powerful', 'representing', 'resurrection', 'rise', 'sins', 'spirit', 'symbolically', 'wrought']
 
 ### Logs
-- Attempt 1 BHT: In Colossians 2:12, the process of baptism is seen as the burial of the former life and the beginning of a new life. The physical act of immersion in baptism symbolizes the burial of the old carnal life, but the spirit of the ordinance is kept through other modes of baptism like affusion. Through baptism, we have faith in God's mighty operation displayed in Christ's resurrection, and it is through God's working that we are raised to a new moral life. Baptism serves as a picture of the change already wrought in the heart through faith, and it signifies our fellowship with Christ.
-- 🔄 Colossians 2:12 (attempt 1, 105 words, 34.48% quotes quality score: 2.805820339482813, V2 normalized quality score: 84.63, commentator tiers 1-3: 32.98%, 32.42%, 34.6%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Baptism is portrayed as the burial of our old life and the initiation of a new one. The act of immersion symbolizes this burial, but the significance of baptism is upheld through other modes like affusion. By putting our faith in God's powerful working, displayed in Christ's resurrection, we are raised to a new moral life. Baptism is a visual representation of the change that has already taken place in our hearts through faith and signifies our fellowship with Christ.
-- 🔄 Colossians 2:12 (attempt 2, 82 words, 38.18% quotes quality score: 2.6340890752134705, V2 normalized quality score: 78.92, commentator tiers 1-3: 32.84%, 31.58%, 35.57%) 
+- Attempt 1 BHT: Through the act of baptism, we symbolically bury our old carnal life and rise to new life in Christ. This powerful spiritual transformation is made possible by our faith in God's mighty operation, demonstrated by the resurrection of Jesus. Baptism is not merely a physical act, but a representation of the change already wrought in our hearts through faith. Whether through immersion or affusion, the spirit of the ordinance is kept, signifying our faith in the expiatory death of Christ and our fellowship with Him. In this rite, we are united with Christ, both in His burial and in His resurrection, anticipating our final resurrection and newness of life in Him.
+- 🔄 Colossians 2:12 (attempt 1, 112 words, 34.85% quotes quality score: 2.53296496063592, V2 normalized quality score: 75.56, commentator tiers 1-3: 32.64%, 32.44%, 34.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Through baptism, we proclaim our faith in the expiatory death of Christ, declaring that we put our faith in His sacrifice for the forgiveness of our sins. Baptism is seen as the burial of the old carnal life, symbolized by immersion, and the initiation of a new life in Christ. It is a representation of the change that has already taken place in our hearts through faith, serving as a visual reminder of our fellowship with Christ and the newness of life found in Him.
-- 🔄 Colossians 2:12 (attempt 3, 85 words, 40.0% quotes quality score: 2.6296077398451594, V2 normalized quality score: 78.77, commentator tiers 1-3: 31.35%, 32.25%, 36.4%) 
+- Attempt 2 BHT: Through baptism, we symbolically bury our old life and rise to new life in Christ. The act of immersion is the most fitting mode, signifying the significance of the ordinance, but affusion can still convey its spirit. This transformation is possible through our faith in God's operation, as demonstrated in Jesus' resurrection. In baptism, we express our faith in the expiatory death of Christ and our fellowship with Him, and it serves as a picture of the change already wrought in our hearts through faith.
+- 🔄 Colossians 2:12 (attempt 2, 86 words, 36.84% quotes quality score: 2.396982201808541, V2 normalized quality score: 71.04, commentator tiers 1-3: 32.8%, 31.19%, 36.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Baptism is regarded as the burial of the old carnal life, symbolized by immersion, and the initiation of a new life in Christ. By putting our faith in God's mighty operation displayed in Christ's resurrection, we are raised to a new moral life. It is through baptism that we proclaim our faith in the expiatory death of Christ for the forgiveness of our sins. This act serves as a visual representation of the change already wrought in our hearts through faith and signifies our fellowship with Christ.
-- 🔄 Colossians 2:12 (attempt 4, 89 words, 35.19% quotes quality score: 2.563759581113378, V2 normalized quality score: 76.58, commentator tiers 1-3: 32.52%, 31.25%, 36.23%) 
+- Attempt 3 BHT: Through baptism, we symbolically bury our old life and rise to new life in Christ. The act of baptism is a powerful declaration of our faith in the expiatory death of Christ for the forgiveness of our sins. Whether through immersion or affusion, the spirit of the ordinance is maintained, representing the change already wrought in our hearts through faith. Baptism is a picture of our fellowship with Christ, alluding to His resurrection and our future resurrection to new life in Him.
+- 🔄 Colossians 2:12 (attempt 3, 82 words, 36.17% quotes quality score: 2.540522931112621, V2 normalized quality score: 75.81, commentator tiers 1-3: 32.84%, 31.05%, 36.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Baptism embodies the burial of our old life and the commencement of a new one. Although immersion aligns better with the significance of baptism, affusion retains the essence of the ordinance when immersion is impractical. Having faith in God's power demonstrated in Christ's resurrection, we are raised to a new moral life. Baptism serves as a portrayal of the transformation already accomplished within us through faith and signifies our union with Christ, portraying the change from our old life to the new life in Him.
-- 🔄 Colossians 2:12 (attempt 5, 87 words, 38.18% quotes quality score: 2.4510116784865863, V2 normalized quality score: 72.84, commentator tiers 1-3: 34.52%, 30.57%, 34.91%) 
+- Attempt 4 BHT: Through the act of baptism, we symbolically bury our old carnal life and rise to new life in Christ. This powerful spiritual transformation is made possible by our faith in God's mighty operation, demonstrated by the resurrection of Jesus. Baptism is not merely a physical act, but a representation of the change already wrought in our hearts through faith. Whether through immersion or affusion, the spirit of the ordinance is kept, signifying our faith in the expiatory death of Christ and our fellowship with Him. In this rite, we are united with Christ, both in His burial and in His resurrection, anticipating our final resurrection and newness of life in Him.
+- 🔄 Colossians 2:12 (attempt 4, 112 words, 34.85% quotes quality score: 2.53296496063592, V2 normalized quality score: 75.56, commentator tiers 1-3: 32.64%, 32.44%, 34.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Colossians 2:12 bht prompt v0.7 (82 words, 38.18% quotes)
-- quality score: 2.6340890752134705, V2 normalized quality score: 78.92, commentator tiers 1-3: 32.84%, 31.58%, 35.57%)
+- Attempt 5 BHT: Through baptism, we symbolically bury our old life and rise to new life in Christ. The act of immersion is the most fitting mode, signifying the significance of the ordinance. However, affusion can still convey its spirit. This transformation is possible through our faith in God's operation, demonstrated in Jesus' resurrection. In baptism, we express our faith in Christ's expiatory death and our fellowship with Him. It serves as a picture of the change already wrought in our hearts through faith, leading us to a newness of life.
+- 🔄 Colossians 2:12 (attempt 5, 90 words, 36.67% quotes quality score: 2.0930687587276733, V2 normalized quality score: 60.94, commentator tiers 1-3: 32.95%, 31.24%, 35.81%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Colossians 2:12 bht prompt v0.7 (82 words, 36.17% quotes)
+- quality score: 2.540522931112621, V2 normalized quality score: 75.81, commentator tiers 1-3: 32.84%, 31.05%, 36.11%)

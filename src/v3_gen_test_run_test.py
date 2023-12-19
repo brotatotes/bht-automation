@@ -117,8 +117,8 @@ for group in groups:
         verses_and_scores.append((verse_ref, score))
 
 # inject custom test set
-verses = [str(v) for v in BibleRange("Matthew 22:1-14")]
-verses_and_scores = [(v, scores[v]) for v in verses]
+# verses = [str(v) for v in BibleRange("Matthew 22:1-14")]
+# verses_and_scores = [(v, scores[v]) for v in verses]
 
 
 print(f"Selected {len(verses)} verses.")

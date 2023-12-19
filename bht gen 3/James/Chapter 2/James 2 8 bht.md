@@ -1,7 +1,7 @@
 # James 2:8 Commentary Help Text
 
 ## BHT:
-To truly fulfill the royal law of love, we must refrain from showing partiality and treat all individuals as our neighbors. By doing so, we uphold the essence of the entire Law and the prophets. This law, which reigns supreme like the great King Himself, encompasses all other commandments and embodies true obedience. Let us diligently strive to fulfill this divine commandment and demonstrate our devotion to God by loving our neighbors as ourselves, without regard for their status or appearance.
+If you truly fulfill the royal law of love by treating all persons as your neighbors and showing them equal respect, then you are doing well. This supreme law, ordained by the great King who is God and encompasses all other commandments, reigns supreme. Jesus taught that this law of love is the essence of the Law and the prophets, and to break a part of it is to break the whole. Therefore, if you fulfill this royal law, you will not show partiality or respect of persons, but truly love your neighbor as yourself.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -46,37 +46,22 @@ To truly fulfill the royal law of love, we must refrain from showing partiality 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:28
+- Timestamp: 12-19-2023 01:10:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 38.33%
-- BHT Quality Score: 2.1856129156249144
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['all', 'and', 'appearance', 'as', 'by', 'commandment', 'commandments', 'demonstrate', 'devotion', 'diligently', 'divine', 'doing', 'embodies', 'encompasses', 'entire', 'essence', 'for', 'from', 'fulfill', 'god', 'great', 'himself', 'individuals', 'king', 'law', 'let', 'like', 'love', 'loving', 'must', 'neighbors', 'obedience', 'of', 'or', 'other', 'our', 'ourselves', 'partiality', 'prophets', 'refrain', 'regard', 'reigns', 'royal', 'showing', 'so', 'status', 'strive', 'supreme', 'the', 'their', 'this', 'to', 'treat', 'true', 'truly', 'uphold', 'us', 'we', 'which', 'without']
-- ChatGPT injected words (significant words only) (37):
-	['appearance', 'commandment', 'commandments', 'demonstrate', 'devotion', 'diligently', 'divine', 'embodies', 'encompasses', 'entire', 'essence', 'fulfill', 'god', 'great', 'individuals', 'king', 'law', 'let', 'like', 'love', 'loving', 'neighbors', 'obedience', 'partiality', 'prophets', 'refrain', 'regard', 'reigns', 'royal', 'showing', 'status', 'strive', 'supreme', 'treat', 'true', 'truly', 'uphold']
+- BHT Word Count: 95
+- BHT Commentary Usage: 54.39%
+- BHT Quality Score: 2.483957154368909
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (57):
+	['a', 'all', 'and', 'are', 'as', 'break', 'but', 'by', 'commandments', 'doing', 'encompasses', 'equal', 'essence', 'fulfill', 'god', 'great', 'if', 'is', 'it', 'jesus', 'king', 'law', 'love', 'neighbor', 'neighbors', 'not', 'of', 'or', 'ordained', 'other', 'part', 'partiality', 'persons', 'prophets', 'reigns', 'respect', 'royal', 'show', 'showing', 'supreme', 'taught', 'that', 'the', 'them', 'then', 'therefore', 'this', 'to', 'treating', 'truly', 'well', 'who', 'whole', 'will', 'you', 'your', 'yourself']
+- ChatGPT injected words (significant words only) (26):
+	['break', 'commandments', 'encompasses', 'equal', 'essence', 'fulfill', 'god', 'great', 'jesus', 'king', 'law', 'love', 'neighbor', 'neighbors', 'ordained', 'partiality', 'persons', 'prophets', 'reigns', 'respect', 'royal', 'showing', 'supreme', 'taught', 'treating', 'truly']
 
 ### Logs
-- Attempt 1 BHT: To truly fulfill the royal law, we must not only love our neighbors as ourselves, but we must also refrain from showing partiality or respecting persons based on external factors. This law, which reigns supreme like the great King Himself, encompasses all other commandments. Treating all individuals as our neighbors, regardless of their status or appearance, is the essence of true obedience and the foundation of the law of love. For if we genuinely love our neighbors as ourselves, we will not fall into the trap of showing partiality. Therefore, let us diligently strive to fulfill this royal law and do well in the sight of our God.
-- 🔄 James 2:8 (attempt 1, 108 words, 45.71% quotes quality score: 2.1374761791516335, V2 normalized quality score: 62.41, commentator tiers 1-3: 26.65%, 39.27%, 34.08%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: To fulfill the royal law, we must not respect persons, but love our neighbors as ourselves. This law, the king of all laws, is the embodiment of true obedience and love. It calls us to treat others based on their worth, not outward appearance, and to regard all as our neighbors. By upholding this law, we demonstrate our devotion to God and fulfill the essence of the entire Law and the prophets. Therefore, let us diligently strive to fulfill this divine commandment and do well in the eyes of our heavenly King.
-- 🔄 James 2:8 (attempt 2, 92 words, 42.11% quotes quality score: 2.0634290529214416, V2 normalized quality score: 59.95, commentator tiers 1-3: 26.71%, 39.04%, 34.25%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: To truly fulfill the royal law of love, we must refrain from showing partiality and treat all individuals as our neighbors. By doing so, we uphold the essence of the entire Law and the prophets. This law, which reigns supreme like the great King Himself, encompasses all other commandments and embodies true obedience. Let us diligently strive to fulfill this divine commandment and demonstrate our devotion to God by loving our neighbors as ourselves, without regard for their status or appearance.
-- 🔄 James 2:8 (attempt 3, 81 words, 38.33% quotes quality score: 2.1856129156249144, V2 normalized quality score: 64.01, commentator tiers 1-3: 28.67%, 37.02%, 34.31%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: To fulfill the royal law of love, we must refrain from showing partiality and instead treat all individuals as our neighbors. This law, the king of all laws, encompasses and embodies true obedience. By loving our neighbors as ourselves, without regard for their status or appearance, we uphold the essence of the entire Law and the prophets. Let us diligently strive to fulfill this divine commandment and demonstrate our devotion to God through our actions and treatment of others.
-- 🔄 James 2:8 (attempt 4, 79 words, 36.36% quotes quality score: 2.150657286949813, V2 normalized quality score: 62.85, commentator tiers 1-3: 27.47%, 38.87%, 33.66%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: To truly fulfill the royal law of love, we must refrain from showing partiality. The royal law, the king of all laws, calls us to treat all individuals as our neighbors. By doing so, we uphold the essence of the entire Law and the prophets. Let us diligently strive to fulfill this divine commandment and demonstrate our devotion to God through our actions and treatment of others, regardless of their status or appearance.
-- 🔄 James 2:8 (attempt 5, 73 words, 38.0% quotes quality score: 2.1370370408116033, V2 normalized quality score: 62.4, commentator tiers 1-3: 30.1%, 35.51%, 34.39%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ James 2:8 bht prompt v0.7 (81 words, 38.33% quotes)
-- quality score: 2.1856129156249144, V2 normalized quality score: 64.01, commentator tiers 1-3: 28.67%, 37.02%, 34.31%)
+- Attempt 1 BHT: If in very deed you fulfill the royal law of love by regarding all persons as your neighbors and treating them with dignity and equality, then you are doing well. This royal law, ordained by the great King who is God, reigns supreme and encompasses all other commandments. It is the law of love without distinction, and to break a part of it is to break the whole. Jesus himself taught that this law of love is the essence of the Law and the prophets. Therefore, if you fulfill this royal law, you will not show partiality or respect of persons, but truly love your neighbor as yourself.
+- 🔄 James 2:8 (attempt 1, 108 words, 56.92% quotes quality score: 2.4228583095556235, V2 normalized quality score: 71.9, commentator tiers 1-3: 29.98%, 33.71%, 36.31%) 
+	- BHT WAS OVER 80 WORDS!
+- ✅ James 2:8 bht prompt v0.7 (95 words, 54.39% quotes)
+- quality score: 2.483957154368909, V2 normalized quality score: 73.93, commentator tiers 1-3: 29.15%, 35.56%, 35.28%)

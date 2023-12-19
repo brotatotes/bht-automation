@@ -1,7 +1,7 @@
 # Galatians 1:19 Commentary Help Text
 
 ## BHT:
-James, the Lord's brother, held apostolic authority despite not being one of the Twelve Apostles. Paul encountered James during his visit to Jerusalem, where James's prominence became evident. The explanations vary regarding James's relation to Joseph and Mary, suggesting he was either their son or step-brother. This distinction emphasizes Paul's independence and equality with the Twelve Apostles, refuting the claims of the Judaizers.
+James, the Lord's brother, was one of the Twelve apostles and the only one Paul saw during his visit. It is likely that James was a son of Joseph and Mary, as his brothers are never called sons of Joseph. He should not be confused with James, the son of Zebedee. James and Jude, both apostles, are probably the authors of the Epistles attributed to them. Paul mentioning James as an apostle highlights his equality with the Twelve against the Judaizers' attacks.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -51,41 +51,40 @@ James, the Lord's brother, held apostolic authority despite not being one of the
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:28
+- Timestamp: 12-19-2023 01:10:40
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 40.0%
-- BHT Quality Score: 2.5216067287875994
+- BHT Word Count: 83
+- BHT Commentary Usage: 48.15%
+- BHT Quality Score: 2.8471465264961964
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (50):
-	['and', 'apostles', 'apostolic', 'authority', 'became', 'being', 'brother', 'claims', 'despite', 'distinction', 'during', 'either', 'emphasizes', 'encountered', 'equality', 'evident', 'explanations', 'he', 'held', 'his', 'independence', 'james', 'jerusalem', 'joseph', 'judaizers', 'lord', 'mary', 'not', 'of', 'one', 'or', 'paul', 'prominence', 'refuting', 'regarding', 'relation', 's', 'son', 'step', 'suggesting', 'the', 'their', 'this', 'to', 'twelve', 'vary', 'visit', 'was', 'where', 'with']
-- ChatGPT injected words (significant words only) (30):
-	['apostles', 'apostolic', 'authority', 'brother', 'claims', 'despite', 'distinction', 'emphasizes', 'encountered', 'equality', 'evident', 'explanations', 'held', 'independence', 'james', 'jerusalem', 'joseph', 'judaizers', 'lord', 'mary', 'paul', 'prominence', 'refuting', 'relation', 's', 'son', 'step', 'suggesting', 'vary', 'visit']
+- ChatGPT injected words (54):
+	['a', 'against', 'an', 'and', 'apostle', 'apostles', 'are', 'as', 'attacks', 'attributed', 'authors', 'be', 'both', 'brother', 'brothers', 'called', 'confused', 'during', 'epistles', 'equality', 'he', 'highlights', 'his', 'is', 'it', 'james', 'joseph', 'judaizers', 'jude', 'likely', 'lord', 'mary', 'mentioning', 'never', 'not', 'of', 'one', 'only', 'paul', 'probably', 's', 'saw', 'should', 'son', 'sons', 'that', 'the', 'them', 'to', 'twelve', 'visit', 'was', 'with', 'zebedee']
+- ChatGPT injected words (significant words only) (28):
+	['apostle', 'apostles', 'attacks', 'attributed', 'authors', 'brother', 'brothers', 'called', 'confused', 'epistles', 'equality', 'highlights', 'james', 'joseph', 'judaizers', 'jude', 'likely', 'lord', 'mary', 'mentioning', 'paul', 'probably', 's', 'saw', 'son', 'sons', 'visit', 'zebedee']
 
 ### Logs
-- Attempt 1 BHT: James, the Lord's brother, mentioned in Galatians 1:19, was not one of the Twelve Apostles, but he was an apostle in the broader sense, enjoying apostolic authority due to his close relationship and position with the Lord. He was the only prominent person Paul saw during his visit to Jerusalem, indicating his significance. While some argue that James was a son of Joseph and Mary, others propose that he was a step-brother or a younger son of Joseph and Mary. He should not be confused with James, the son of Zebedee. The distinction between James and the Twelve Apostles is crucial in understanding Paul's assertion of his independence and equality with them.
-- 🔄 Galatians 1:19 (attempt 1, 114 words, 41.79% quotes quality score: 2.6416945430084784, V2 normalized quality score: 79.18, commentator tiers 1-3: 31.13%, 35.56%, 33.31%) 
+- Attempt 1 BHT: James, the Lord's brother mentioned in Galatians 1:19, was one of the Twelve and the only apostle besides Peter that Paul saw at his visit. He is not to be confused with James, the son of Zebedee. James was likely a son of Joseph and Mary, which is supported by the fact that his brothers are never called sons of Joseph. It is probable that James and Jude, both apostles, are also the writers of the Epistles attributed to them. Paul's mention of James as an apostle shows his independence and equality with the Twelve in response to attacks from the Judaizers. The rest of the twelve were probably away preaching at the time of Paul's visit.
+- 🔄 Galatians 1:19 (attempt 1, 119 words, 43.66% quotes quality score: 2.757237931269845, V2 normalized quality score: 83.02, commentator tiers 1-3: 33.65%, 33.66%, 32.69%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: James, the Lord's brother, referred to in the mentioned verse, was not one of the Twelve Apostles but held apostolic authority due to his significant relationship with the Lord. Paul's visit to Jerusalem revealed James's prominence as the only notable figure he encountered. The commentators discuss James's familial ties to Joseph and Mary, suggesting he was either their son or step-brother. This distinction clarifies Paul's emphasis on his equality and independence from the Twelve Apostles, countering the attacks of the Judaizers.
-- 🔄 Galatians 1:19 (attempt 2, 87 words, 36.67% quotes quality score: 2.4228864195209603, V2 normalized quality score: 71.9, commentator tiers 1-3: 31.75%, 34.82%, 33.43%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 2 BHT: James, the Lord's brother mentioned in the passage, was one of the Twelve apostles and the only one Paul saw at his visit. It is likely that James was a son of Joseph and Mary, and not to be confused with James the son of Zebedee. The fact that his brothers are never called sons of Joseph supports this. Furthermore, it is probable that James and Jude, the apostles, are also the authors of the Epistles attributed to them.
+- 🔄 Galatians 1:19 (attempt 2, 80 words, 46.0% quotes quality score: 2.863204468780209, V2 normalized quality score: 86.54, commentator tiers 1-3: 32.22%, 34.02%, 33.75%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: James, the Lord's brother, was not one of the Twelve Apostles. However, he held apostolic authority due to his close relationship with the Lord. Paul encountered James during his visit to Jerusalem, highlighting his prominence. The explanations differ regarding James's familial ties to Joseph and Mary, suggesting he was either their son or step-brother. The distinction between James and the Twelve Apostles emphasizes Paul's equality and independence in response to the attacks of the Judaizers.
-- 🔄 Galatians 1:19 (attempt 3, 79 words, 38.46% quotes quality score: 2.42693925574794, V2 normalized quality score: 72.04, commentator tiers 1-3: 32.4%, 33.72%, 33.89%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: James, the Lord's brother, was a significant figure among the early Christians, although he was not one of the Twelve Apostles. Paul mentions seeing James during his visit to Jerusalem, indicating his prominence. The commentators propose different explanations for James's relationship to Joseph and Mary, suggesting he was either their son or step-brother. This distinction is crucial in understanding Paul's assertion of his equality with the Twelve Apostles and his independence from them, a response to the criticisms of the Judaizers.
-- 🔄 Galatians 1:19 (attempt 4, 85 words, 40.68% quotes quality score: 2.50377126337301, V2 normalized quality score: 74.59, commentator tiers 1-3: 31.83%, 34.73%, 33.44%) 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: James, the Lord's brother mentioned, was one of the Twelve apostles. Paul saw James, along with Peter, during his visit. It is likely that James, as the 'brother of the Lord,' was a son of Joseph and Mary. This distinguishes him from James the son of Zebedee. The fact that James' brothers are never referred to as 'sons of Joseph' supports this distinction. Additionally, James and Jude, the apostles, are likely the authors of the Epistles attributed to them. Paul's mention of James as an apostle emphasizes his equality with the Twelve amidst attacks from the Judaizers.
+- 🔄 Galatians 1:19 (attempt 3, 99 words, 40.35% quotes quality score: 2.779396582740638, V2 normalized quality score: 83.75, commentator tiers 1-3: 32.94%, 33.9%, 33.17%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 5 BHT: James, the Lord's brother, held apostolic authority despite not being one of the Twelve Apostles. Paul encountered James during his visit to Jerusalem, where James's prominence became evident. The explanations vary regarding James's relation to Joseph and Mary, suggesting he was either their son or step-brother. This distinction emphasizes Paul's independence and equality with the Twelve Apostles, refuting the claims of the Judaizers.
-- 🔄 Galatians 1:19 (attempt 5, 68 words, 40.0% quotes quality score: 2.5216067287875994, V2 normalized quality score: 75.18, commentator tiers 1-3: 31.86%, 34.61%, 33.53%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Galatians 1:19 bht prompt v0.7 (68 words, 40.0% quotes)
-- quality score: 2.5216067287875994, V2 normalized quality score: 75.18, commentator tiers 1-3: 31.86%, 34.61%, 33.53%)
+- Attempt 4 BHT: James, the Lord's brother, was one of the Twelve apostles and the only one Paul saw during his visit. This distinguishes him from James, the son of Zebedee. It is likely that James was a son of Joseph and Mary. The fact that his brothers are never called sons of Joseph supports this. James and Jude, the apostles, are probably the authors of the Epistles attributed to them. Paul's mention of James as an apostle demonstrates his equality with the Twelve against the Judaizers' attacks.
+- 🔄 Galatians 1:19 (attempt 4, 87 words, 44.44% quotes quality score: 2.746390462466831, V2 normalized quality score: 82.66, commentator tiers 1-3: 32.93%, 33.86%, 33.21%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: James, the Lord's brother, was one of the Twelve apostles and the only one Paul saw during his visit. It is likely that James was a son of Joseph and Mary, as his brothers are never called sons of Joseph. He should not be confused with James, the son of Zebedee. James and Jude, both apostles, are probably the authors of the Epistles attributed to them. Paul mentioning James as an apostle highlights his equality with the Twelve against the Judaizers' attacks.
+- 🔄 Galatians 1:19 (attempt 5, 83 words, 48.15% quotes quality score: 2.8471465264961964, V2 normalized quality score: 86.01, commentator tiers 1-3: 33.48%, 33.49%, 33.04%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Galatians 1:19 bht prompt v0.7 (83 words, 48.15% quotes)
+- quality score: 2.8471465264961964, V2 normalized quality score: 86.01, commentator tiers 1-3: 33.48%, 33.49%, 33.04%)

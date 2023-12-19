@@ -1,7 +1,7 @@
 # 1 Corinthians 11:20 Commentary Help Text
 
 ## BHT:
-The Corinthians gathered together, but their intention was not to partake in the Lord's Supper. Their focus was on their own meals, neglecting the solemnity and significance of the Lord's Supper. Their self-centered behavior prevented them from truly celebrating and honoring the Lord's Supper as it was intended. Paul condemns their improper observance and emphasizes that their actions were not aligned with the true purpose of the Lord's Supper, which was meant to commemorate Christ's sacrifice and demonstrate unity among believers.
+The Corinthian assembly fell short of truly participating in the Lord's Supper. Instead of honoring Christ through the sacrament, they were consumed with their own meals, displaying greed and lacking the necessary intention. By putting their own needs before the unity and significance of the occasion, they contaminated the sacred institution and rendered it devoid of its solemnity. Their inability to approach the Lord's Supper with reverence and discernment reduced it to a mere formality, rather than a meaningful act of worship.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -51,39 +51,38 @@ It is not eating the Lord's supper — That solemn memorial of his death; but qu
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:29
+- Timestamp: 12-19-2023 01:10:16
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 36.84%
-- BHT Quality Score: 2.6156944152442545
+- BHT Word Count: 84
+- BHT Commentary Usage: 30.51%
+- BHT Quality Score: 2.3272486857283585
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['actions', 'aligned', 'among', 'and', 'as', 'behavior', 'believers', 'but', 'celebrating', 'centered', 'christ', 'commemorate', 'condemns', 'corinthians', 'demonstrate', 'emphasizes', 'focus', 'from', 'gathered', 'honoring', 'improper', 'in', 'intended', 'intention', 'it', 'lord', 'meals', 'meant', 'neglecting', 'not', 'observance', 'of', 'on', 'own', 'partake', 'paul', 'prevented', 'purpose', 's', 'sacrifice', 'self', 'significance', 'solemnity', 'supper', 'that', 'the', 'their', 'them', 'to', 'together', 'true', 'truly', 'unity', 'was', 'were', 'which', 'with']
-- ChatGPT injected words (significant words only) (36):
-	['actions', 'aligned', 'behavior', 'believers', 'celebrating', 'centered', 'christ', 'commemorate', 'condemns', 'corinthians', 'demonstrate', 'emphasizes', 'focus', 'gathered', 'honoring', 'improper', 'intended', 'intention', 'lord', 'meals', 'meant', 'neglecting', 'observance', 'partake', 'paul', 'prevented', 'purpose', 's', 'sacrifice', 'self', 'significance', 'solemnity', 'supper', 'true', 'truly', 'unity']
+- ChatGPT injected words (59):
+	['a', 'act', 'and', 'approach', 'assembly', 'before', 'by', 'christ', 'consumed', 'contaminated', 'corinthian', 'devoid', 'discernment', 'displaying', 'fell', 'formality', 'greed', 'honoring', 'in', 'inability', 'instead', 'institution', 'intention', 'it', 'its', 'lacking', 'lord', 'meals', 'meaningful', 'mere', 'necessary', 'needs', 'occasion', 'of', 'own', 'participating', 'putting', 'rather', 'reduced', 'rendered', 'reverence', 's', 'sacrament', 'sacred', 'short', 'significance', 'solemnity', 'supper', 'than', 'the', 'their', 'they', 'through', 'to', 'truly', 'unity', 'were', 'with', 'worship']
+- ChatGPT injected words (significant words only) (41):
+	['act', 'approach', 'assembly', 'christ', 'consumed', 'contaminated', 'corinthian', 'devoid', 'discernment', 'displaying', 'fell', 'formality', 'greed', 'honoring', 'inability', 'instead', 'institution', 'intention', 'lacking', 'lord', 'meals', 'meaningful', 'mere', 'necessary', 'needs', 'occasion', 'participating', 'putting', 'reduced', 'rendered', 'reverence', 's', 'sacrament', 'sacred', 'short', 'significance', 'solemnity', 'supper', 'truly', 'unity', 'worship']
 
 ### Logs
-- Attempt 1 BHT: When the Corinthians gathered together, their intention was not to partake in the Lord's Supper, but rather to indulge in their own individual meals. They were so focused on satisfying their own appetites that there was no provision for, or discernment of, the true solemnity of the Lord's Supper. Their selfish conduct made it impossible for them to truly eat the Lord's Supper and honor the purpose for which it was instituted. They had lost sight of the communal and sacrificial nature of the meal, and instead turned it into a selfish feast. Paul condemns their profane admixture and emphasizes that their actions were not in alignment with the true significance of the Lord's Supper.
-- 🔄 1 Corinthians 11:20 (attempt 1, 119 words, 41.67% quotes quality score: 2.5602415084114867, V2 normalized quality score: 76.47, commentator tiers 1-3: 37.66%, 30.64%, 31.7%) 
+- Attempt 1 BHT: When the Corinthians came together, it wasn't truly to eat the Lord's Supper. Instead, they were focused on their own meals and lacked the intention and discernment for the sacredness of the occasion. The love-feast that preceded the Lord's Supper had a social and festive character and was a meal of contribution. However, the Corinthians' selfish conduct made it impossible to properly observe the Lord's Supper. Their greediness, intemperance, and individualistic approach demonstrated that their assembly was not for the purpose of worshiping God or honoring Him through the sacrament. In this way, they contaminated the sacred institution of Christ and reduced it to nothing.
+- 🔄 1 Corinthians 11:20 (attempt 1, 110 words, 35.62% quotes quality score: 2.3771277362913255, V2 normalized quality score: 70.38, commentator tiers 1-3: 38.92%, 30.95%, 30.13%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: When the Corinthians gathered together, their intention was not to partake in the Lord's Supper, but rather to indulge in their own individual meals. Their selfish conduct made it impossible for them to truly eat the Lord's Supper, and Paul condemns their profane admixture. They had lost sight of the communal and sacrificial nature of the meal and turned it into a selfish feast. Their actions were not in alignment with the true significance of the Lord's Supper, which was instituted to commemorate Christ's sacrifice and honor Him.
-- 🔄 1 Corinthians 11:20 (attempt 2, 92 words, 40.98% quotes quality score: 2.590240314586274, V2 normalized quality score: 77.46, commentator tiers 1-3: 36.64%, 31.93%, 31.43%) 
+- Attempt 2 BHT: The Corinthians' assembly was not a true celebration of the Lord's Supper, as their intention was misguided and their focus was on their own meals. The love-feast that preceded it was a social and festive gathering, but their selfish conduct made it impossible to properly observe the Lord's Supper. Instead of honoring Christ through the sacrament, their greediness, intemperance, and individualistic approach polluted the sacred institution and reduced it to nothing. Their assembly lacked the necessary intention and discernment for the solemnity of the occasion.
+- 🔄 1 Corinthians 11:20 (attempt 2, 88 words, 31.58% quotes quality score: 2.238343687713429, V2 normalized quality score: 65.77, commentator tiers 1-3: 38.4%, 30.68%, 30.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: When the Corinthians assembly, their focus was not on eating the Lord's Supper but on satisfying their own appetites. Their selfish conduct made it impossible to truly celebrate and honor the Lord's Supper as it was intended. They had lost sight of the communal and sacrificial nature of the meal, turning it into a selfish feast. Paul condemns their profane admixture, emphasizing that their actions were not in line with the true significance of the Lord's Supper and the remembrance of Christ's sacrifice.
-- 🔄 1 Corinthians 11:20 (attempt 3, 87 words, 37.93% quotes quality score: 2.55972957901512, V2 normalized quality score: 76.45, commentator tiers 1-3: 36.8%, 31.98%, 31.23%) 
+- Attempt 3 BHT: The Corinthians' assembly lacked the true intention of celebrating the Lord's Supper. Instead, they focused on their own meals, neglecting the sacredness of the occasion and failing to discern its solemnity. Their selfish conduct, characterized by greed and individualism, rendered it impossible for them to partake in the Lord's Supper. The love-feast that preceded it, a social and festive gathering, became contaminated by their improper approach. In this way, they disregarded the sacred institution of Christ, reducing it to nothing.
+- 🔄 1 Corinthians 11:20 (attempt 3, 83 words, 31.67% quotes quality score: 2.155948815340726, V2 normalized quality score: 63.03, commentator tiers 1-3: 38.36%, 30.0%, 31.64%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Coming together, the Corinthians did not have the intention to eat the Lord's Supper, but rather to satisfy their own appetites. Their selfish conduct prevented them from truly partaking in the Lord's Supper as it was meant to be observed. They had disregarded the communal and sacrificial nature of the meal, transforming it into a self-centered feast. Paul reproves their profane mixture, underscoring that their actions did not align with the true significance of the Lord's Supper and the commemoration of Christ's sacrifice.
-- 🔄 1 Corinthians 11:20 (attempt 4, 88 words, 40.32% quotes quality score: 2.5562819883518477, V2 normalized quality score: 76.34, commentator tiers 1-3: 37.03%, 31.17%, 31.8%) 
+- Attempt 4 BHT: The Corinthians' assembly was not a true celebration of the Lord's Supper. Their focus on their own meals and lack of intention prevented them from properly observing the sacrament. The love-feast that preceded the Lord's Supper had a social and festive character, but their selfish conduct made it impossible for them to partake in a meaningful way. Their actions contaminated the sacred institution and reduced it to nothing, devoid of the necessary reverence and discernment.
+- 🔄 1 Corinthians 11:20 (attempt 4, 78 words, 35.71% quotes quality score: 2.2174983313084278, V2 normalized quality score: 65.07, commentator tiers 1-3: 38.05%, 30.84%, 31.11%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The Corinthian assembly fell short of truly participating in the Lord's Supper. Instead of honoring Christ through the sacrament, they were consumed with their own meals, displaying greed and lacking the necessary intention. By putting their own needs before the unity and significance of the occasion, they contaminated the sacred institution and rendered it devoid of its solemnity. Their inability to approach the Lord's Supper with reverence and discernment reduced it to a mere formality, rather than a meaningful act of worship.
+- 🔄 1 Corinthians 11:20 (attempt 5, 84 words, 30.51% quotes quality score: 2.3272486857283585, V2 normalized quality score: 68.72, commentator tiers 1-3: 37.66%, 31.04%, 31.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Corinthians gathered together, but their intention was not to partake in the Lord's Supper. Their focus was on their own meals, neglecting the solemnity and significance of the Lord's Supper. Their self-centered behavior prevented them from truly celebrating and honoring the Lord's Supper as it was intended. Paul condemns their improper observance and emphasizes that their actions were not aligned with the true purpose of the Lord's Supper, which was meant to commemorate Christ's sacrifice and demonstrate unity among believers.
-- 🔄 1 Corinthians 11:20 (attempt 5, 87 words, 36.84% quotes quality score: 2.6156944152442545, V2 normalized quality score: 78.31, commentator tiers 1-3: 36.33%, 31.7%, 31.97%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 11:20 bht prompt v0.7 (87 words, 36.84% quotes)
-- quality score: 2.6156944152442545, V2 normalized quality score: 78.31, commentator tiers 1-3: 36.33%, 31.7%, 31.97%)
+- ✅ 1 Corinthians 11:20 bht prompt v0.7 (84 words, 30.51% quotes)
+- quality score: 2.3272486857283585, V2 normalized quality score: 68.72, commentator tiers 1-3: 37.66%, 31.04%, 31.31%)

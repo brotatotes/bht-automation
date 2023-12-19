@@ -1,7 +1,7 @@
 # Hebrews 5:5 Commentary Help Text
 
 ## BHT:
-By affirming Thou art my Son, the Father declared Christ's divine appointment as a high priest, emphasizing that this appointment was a result of His eternal Sonship. Unlike assuming the glory of the priestly office, Christ's priesthood had its basis in His sonship. His vocation as a priest was not accidental, but an essential characteristic of His position as the Son. Therefore, Jesus did not glorify Himself, but it was God who glorified Him and bestowed upon Him the high priestly office.
+Christ's appointment as a high priest after the order of Melchizedek was not an accident, but a result of his eternal Sonship. The Father's declaration, Thou art my Son, was a testimony of the divine appointment already involved in Christ's eternal generation. This appointment glorified Christ, as he did not assume the honor himself, but received it from the Father. His divine appointment as high priest was an essential characteristic of his position as the Son and another aspect of his mission sent by the Father.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -52,39 +52,40 @@ By affirming Thou art my Son, the Father declared Christ's divine appointment as
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:29
+- Timestamp: 12-19-2023 01:10:28
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 42.11%
-- BHT Quality Score: 2.735088259864523
+- BHT Word Count: 89
+- BHT Commentary Usage: 42.31%
+- BHT Quality Score: 2.668426281841546
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'accidental', 'affirming', 'an', 'and', 'appointment', 'art', 'as', 'assuming', 'basis', 'bestowed', 'but', 'by', 'characteristic', 'christ', 'declared', 'did', 'divine', 'emphasizing', 'essential', 'eternal', 'father', 'glorified', 'glorify', 'glory', 'god', 'had', 'high', 'him', 'himself', 'his', 'in', 'it', 'its', 'jesus', 'my', 'not', 'of', 'office', 'position', 'priest', 'priesthood', 'priestly', 'result', 's', 'son', 'sonship', 'that', 'the', 'therefore', 'this', 'thou', 'unlike', 'upon', 'vocation', 'was', 'who']
-- ChatGPT injected words (significant words only) (33):
-	['accidental', 'affirming', 'appointment', 'art', 'assuming', 'basis', 'bestowed', 'characteristic', 'christ', 'declared', 'divine', 'emphasizing', 'essential', 'eternal', 'father', 'glorified', 'glorify', 'glory', 'god', 'high', 'jesus', 'office', 'position', 'priest', 'priesthood', 'priestly', 'result', 's', 'son', 'sonship', 'thou', 'unlike', 'vocation']
+- ChatGPT injected words (52):
+	['a', 'accident', 'after', 'already', 'an', 'and', 'another', 'appointment', 'art', 'as', 'aspect', 'assume', 'but', 'by', 'characteristic', 'christ', 'declaration', 'did', 'divine', 'essential', 'eternal', 'father', 'from', 'generation', 'glorified', 'he', 'high', 'himself', 'his', 'honor', 'in', 'involved', 'it', 'melchizedek', 'mission', 'my', 'not', 'of', 'order', 'position', 'priest', 'received', 'result', 's', 'sent', 'son', 'sonship', 'testimony', 'the', 'this', 'thou', 'was']
+- ChatGPT injected words (significant words only) (30):
+	['accident', 'appointment', 'art', 'aspect', 'assume', 'characteristic', 'christ', 'declaration', 'divine', 'essential', 'eternal', 'father', 'generation', 'glorified', 'high', 'honor', 'involved', 'melchizedek', 'mission', 'order', 'position', 'priest', 'received', 'result', 's', 'sent', 'son', 'sonship', 'testimony', 'thou']
 
 ### Logs
-- Attempt 1 BHT: The verse reveals that Christ did not glorify Himself or assume the glory of the priestly office, but rather God appointed Him as a high priest. This appointment was the result of His eternal Sonship, which qualified Him for the role. The priesthood of Christ is not an accident in His history but an essential characteristic of His position as the Son. Jesus repeatedly acknowledged that the Father sent Him on His mission to the world. Thus, the Father nominated the Son to the Messianic priesthood, and His divine appointment as the high priest is firmly established.
-- 🔄 Hebrews 5:5 (attempt 1, 97 words, 39.34% quotes quality score: 2.5611075787051254, V2 normalized quality score: 76.5, commentator tiers 1-3: 35.71%, 34.39%, 29.89%) 
+- Attempt 1 BHT: The verse shows that Christ's appointment as a high priest was wrapped up in his eternal generation as the Son of God. It was the Father who glorified him and called him to this office, and Jesus did not assume this honor himself. The appointment as a high priest after the order of Melchizedek was not an accident in Christ's history, but an essential characteristic of his position as the Son. Furthermore, his divine appointment as a high priest was another aspect of his mission that was sent by the Father. As the Son of God, he had a regular vocation to the priesthood, just as Aaron and his successors had received their appointment from God.
+- 🔄 Hebrews 5:5 (attempt 1, 118 words, 43.08% quotes quality score: 2.7817782110879223, V2 normalized quality score: 83.83, commentator tiers 1-3: 33.42%, 35.53%, 31.05%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Christ's high priestly appointment was not a self-glorification, but a divine call to fulfill the theocratic promises and bring about the Kingdom of God. As the Son, Christ's sonship and priesthood are intertwined, making His priestly vocation an essential characteristic of His position. The Father's declaration, Thou art my Son, established Jesus' divine appointment, highlighting His mission and authority. In accordance with His eternal generation, Christ did not assume the honor of the priesthood without the call of God, demonstrating the superiority and uniqueness of His role as the Mediator between God and humanity.
-- 🔄 Hebrews 5:5 (attempt 2, 98 words, 31.75% quotes quality score: 2.5192342227828206, V2 normalized quality score: 75.1, commentator tiers 1-3: 34.55%, 34.98%, 30.47%) 
+- Attempt 2 BHT: Christ's appointment as a high priest after the order of Melchizedek was not an accident, but a result of his eternal Sonship. The Father's declaration, Thou art my Son, was a testimony of the divine appointment already involved in Christ's eternal generation. This appointment glorified Christ, as he did not assume the honor himself, but received it from the Father. His divine appointment as high priest was an essential characteristic of his position as the Son and another aspect of his mission sent by the Father.
+- 🔄 Hebrews 5:5 (attempt 2, 89 words, 42.31% quotes quality score: 2.668426281841546, V2 normalized quality score: 80.06, commentator tiers 1-3: 35.37%, 33.95%, 30.67%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Christ's appointment as a high priest was not a self-proclamation but a divine calling. Through the declaration of the Father, Thou art my Son, Jesus' sonship and his role as a priest after the order of Melchizedek are intertwined. His priesthood is not an accident but an integral part of his position as the Son. The Father's nomination bestowed upon Jesus the Messianic priesthood, confirming his divine appointment and the fulfillment of the theocratic promises.
-- 🔄 Hebrews 5:5 (attempt 3, 78 words, 35.42% quotes quality score: 2.5444560717144897, V2 normalized quality score: 75.94, commentator tiers 1-3: 35.56%, 34.25%, 30.19%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: By affirming Thou art my Son, the Father declared Christ's divine appointment as a high priest, emphasizing that this appointment was a result of His eternal Sonship. Unlike assuming the glory of the priestly office, Christ's priesthood had its basis in His sonship. His vocation as a priest was not accidental, but an essential characteristic of His position as the Son. Therefore, Jesus did not glorify Himself, but it was God who glorified Him and bestowed upon Him the high priestly office.
-- 🔄 Hebrews 5:5 (attempt 4, 84 words, 42.11% quotes quality score: 2.735088259864523, V2 normalized quality score: 82.28, commentator tiers 1-3: 33.13%, 36.14%, 30.73%) 
+- Attempt 3 BHT: Christ's appointment as a high priest after the order of Melchizedek was not an accident, but involved in his eternal Sonship. The Father's declaration, Thou art my Son, I have this day begotten thee, served as a testimony to this divine appointment. It was the Father who glorified Christ and deemed him worthy of the priesthood, not Christ himself. This appointment was an essential characteristic of Christ's position as the Son and another aspect of his mission sent by the Father.
+- 🔄 Hebrews 5:5 (attempt 3, 84 words, 41.82% quotes quality score: 2.629923885683313, V2 normalized quality score: 78.78, commentator tiers 1-3: 35.07%, 33.06%, 31.87%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Christ's divine appointment as a high priest was not self-proclaimed but confirmed by the Father through the declaration, Thou art my Son. This appointment was a direct result of Christ's eternal Sonship, which qualified Him for the priestly role. His priesthood is an inseparable aspect of His position as the Son, exemplifying the fulfillment of the theocratic promises. Jesus did not assume the glory of the priestly office but received it from God, highlighting the authority behind His vocation as the Mediator between God and humanity.
-- 🔄 Hebrews 5:5 (attempt 5, 89 words, 36.51% quotes quality score: 2.610448397862821, V2 normalized quality score: 78.14, commentator tiers 1-3: 34.28%, 35.43%, 30.28%) 
+- Attempt 4 BHT: Christ's appointment as a high priest after the order of Melchizedek was not an accident, but rather a result of his eternal Sonship. The Father's declaration, Thou art my Son, testified to this divine appointment, as it was wrapped up in his eternal generation. This appointment glorified Christ, as he did not assume the honor himself, but received it from the Father. It was an essential characteristic of his position as the Son, and another aspect of his mission sent by the Father.
+- 🔄 Hebrews 5:5 (attempt 4, 85 words, 44.44% quotes quality score: 2.562093208229385, V2 normalized quality score: 76.53, commentator tiers 1-3: 35.22%, 33.77%, 31.01%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Hebrews 5:5 bht prompt v0.7 (84 words, 42.11% quotes)
-- quality score: 2.735088259864523, V2 normalized quality score: 82.28, commentator tiers 1-3: 33.13%, 36.14%, 30.73%)
+- Attempt 5 BHT: Christ's appointment as a high priest after the order of Melchizedek was not an accident, but rather a result of his eternal Sonship. The Father's declaration, Thou art my Son, testified to this divine appointment, as it was wrapped up in his eternal generation. This appointment glorified Christ, as he did not assume the honor himself, but received it from the Father. It was an essential characteristic of his position as the Son, and another aspect of his mission sent by the Father.
+- 🔄 Hebrews 5:5 (attempt 5, 85 words, 44.44% quotes quality score: 2.562093208229385, V2 normalized quality score: 76.53, commentator tiers 1-3: 35.22%, 33.77%, 31.01%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Hebrews 5:5 bht prompt v0.7 (89 words, 42.31% quotes)
+- quality score: 2.668426281841546, V2 normalized quality score: 80.06, commentator tiers 1-3: 35.37%, 33.95%, 30.67%)

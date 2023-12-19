@@ -1,7 +1,7 @@
 # Romans 12:3 Commentary Help Text
 
 ## BHT:
-We are reminded to have a sober-minded estimation of ourselves and not to think too highly of ourselves. Each person has been given a measure of faith, which is a gift from God and the gateway to receiving other graces. It is important for us to recognize the diversity of gifts and not to overestimate ourselves but judge ourselves by our piety and moral principles. We should surrender ourselves to God, being meek and teachable, remembering that all gifts and graces are bestowed upon us by His kindness.
+We are cautioned against an inflated self-view, as our faith is a divine gift for receiving the grace of the Spirit. Our measure of faith determines our capacity to receive God's gifts, emphasizing the diversity within the body of Christ. Rather than boasting, we should approach our self-evaluation with sobriety and humility, recognizing that our faith is not something to be proud of in itself. Each believer has a unique measure of faith, and by acknowledging our limitations and embracing wise judgment, we foster unity and balanced perspectives within the church.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -51,38 +51,38 @@ We are reminded to have a sober-minded estimation of ourselves and not to think 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:31
+- Timestamp: 12-19-2023 01:09:52
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 50.0%
-- BHT Quality Score: 1.9920234537927737
+- BHT Word Count: 94
+- BHT Commentary Usage: 40.3%
+- BHT Quality Score: 1.9232100765931972
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'all', 'and', 'are', 'been', 'being', 'bestowed', 'but', 'by', 'diversity', 'each', 'estimation', 'faith', 'for', 'from', 'gateway', 'gift', 'gifts', 'given', 'god', 'graces', 'has', 'have', 'highly', 'his', 'important', 'is', 'it', 'judge', 'kindness', 'measure', 'meek', 'minded', 'moral', 'not', 'of', 'other', 'our', 'ourselves', 'overestimate', 'person', 'piety', 'principles', 'receiving', 'recognize', 'remembering', 'reminded', 'should', 'sober', 'surrender', 'teachable', 'that', 'the', 'think', 'to', 'too', 'upon', 'us', 'we', 'which']
-- ChatGPT injected words (significant words only) (30):
-	['bestowed', 'diversity', 'estimation', 'faith', 'gateway', 'gift', 'gifts', 'given', 'god', 'graces', 'highly', 'important', 'judge', 'kindness', 'measure', 'meek', 'minded', 'moral', 'overestimate', 'person', 'piety', 'principles', 'receiving', 'recognize', 'remembering', 'reminded', 'sober', 'surrender', 'teachable', 'think']
+- ChatGPT injected words (67):
+	['a', 'acknowledging', 'against', 'an', 'and', 'approach', 'are', 'as', 'balanced', 'be', 'believer', 'boasting', 'body', 'by', 'capacity', 'cautioned', 'christ', 'church', 'determines', 'diversity', 'divine', 'each', 'embracing', 'emphasizing', 'evaluation', 'faith', 'for', 'foster', 'gift', 'gifts', 'god', 'grace', 'has', 'humility', 'in', 'inflated', 'is', 'itself', 'judgment', 'limitations', 'measure', 'not', 'of', 'our', 'perspectives', 'proud', 'rather', 'receive', 'receiving', 'recognizing', 's', 'self', 'should', 'sobriety', 'something', 'spirit', 'than', 'that', 'the', 'to', 'unique', 'unity', 'view', 'we', 'wise', 'with', 'within']
+- ChatGPT injected words (significant words only) (40):
+	['acknowledging', 'approach', 'balanced', 'believer', 'boasting', 'body', 'capacity', 'cautioned', 'christ', 'church', 'determines', 'diversity', 'divine', 'embracing', 'emphasizing', 'evaluation', 'faith', 'foster', 'gift', 'gifts', 'god', 'grace', 'humility', 'inflated', 'judgment', 'limitations', 'measure', 'perspectives', 'proud', 'receive', 'receiving', 'recognizing', 's', 'self', 'sobriety', 'spirit', 'unique', 'unity', 'view', 'wise']
 
 ### Logs
-- Attempt 1 BHT: We are reminded in this verse not to think of ourselves above what is appropriate, but to have a sober-minded estimation of ourselves. Each individual has been given a measure of faith, which is the gateway to receiving all other graces from God. This measure of faith is not something to be proud of, but a gift from God. It is important for us to recognize the diversity of gifts and not to overestimate ourselves, but to judge ourselves by our piety and the moral principles we live by. Ultimately, this verse encourages us to surrender ourselves to God, being meek and teachable, and to remember that all the gifts and graces we have are bestowed upon us by His kindness.
-- 🔄 Romans 12:3 (attempt 1, 122 words, 49.28% quotes quality score: 2.071374330113861, V2 normalized quality score: 60.21, commentator tiers 1-3: 30.35%, 32.62%, 37.03%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: We are reminded to have a sober-minded estimation of ourselves and not to think too highly of ourselves. Each person has been given a measure of faith, which is a gift from God and the gateway to receiving other graces. It is important for us to recognize the diversity of gifts and not to overestimate ourselves but judge ourselves by our piety and moral principles. We should surrender ourselves to God, being meek and teachable, remembering that all gifts and graces are bestowed upon us by His kindness.
-- 🔄 Romans 12:3 (attempt 2, 89 words, 50.0% quotes quality score: 1.9920234537927737, V2 normalized quality score: 57.58, commentator tiers 1-3: 31.4%, 33.47%, 35.13%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 3 BHT: We are encouraged to have a humble perspective and not to overestimate ourselves. Each person has been given a measure of faith as a gift from God, which serves as the gateway to receiving other graces. It is important to recognize the diversity of gifts and live in accordance with moral principles. By surrendering ourselves to God and remaining meek and teachable, we acknowledge that all gifts and graces are bestowed upon us by His kindness.
-- 🔄 Romans 12:3 (attempt 3, 76 words, 48.21% quotes quality score: 1.8440350880516592, V2 normalized quality score: 52.66, commentator tiers 1-3: 32.04%, 31.91%, 36.05%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: We are reminded not to think more highly of ourselves than we ought to, but to have a balanced and sober judgment. Each individual has been given a measure of faith, which is a gift from God and the inlet to other graces. It is crucial to acknowledge the diversity of gifts and avoid overestimating ourselves, judging ourselves instead by our piety and moral nature. Surrendering to God with a meek and teachable spirit is a recognition that all gifts and graces come from His kindness.
-- 🔄 Romans 12:3 (attempt 4, 86 words, 45.0% quotes quality score: 2.0762693925439475, V2 normalized quality score: 60.38, commentator tiers 1-3: 32.65%, 32.33%, 35.02%) 
+- Attempt 1 BHT: We are instructed to not think too highly of ourselves, for it is God who has given us the capacity to receive his grace. Our faith is the gateway through which we receive his gifts, and it is not something to be proud of in and of itself, but rather a humble acknowledgment of God's generosity. We should have a sober-minded evaluation of ourselves, not overestimating our own abilities or placing ourselves above others. Self-conceit is seen as a form of insanity in this context, and we are reminded that each person is unique, with diverse gifts and contributions to offer in God's kingdom. It is through the measure of faith bestowed on us by God that we accurately discern our own strengths and limitations, and in doing so, we avoid undue pride and cultivate wisdom.
+- 🔄 Romans 12:3 (attempt 1, 140 words, 47.13% quotes quality score: 2.0311270865126243, V2 normalized quality score: 58.88, commentator tiers 1-3: 33.21%, 31.69%, 35.1%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: We are reminded not to think more highly of ourselves than we ought to, but to have a balanced and sober judgment. Each individual has been given a measure of faith, which is a gift from God and the inlet to other graces. It is important to acknowledge the diversity of gifts and avoid overestimating ourselves, judging ourselves instead by our piety and moral nature. Recognizing that all gifts and graces come from God's kindness, we should surrender ourselves with a meek and teachable spirit.
-- 🔄 Romans 12:3 (attempt 5, 86 words, 44.26% quotes quality score: 2.0573178717745604, V2 normalized quality score: 59.75, commentator tiers 1-3: 32.23%, 32.54%, 35.23%) 
+- Attempt 2 BHT: We are cautioned against thinking too highly of ourselves, as our faith is a gift from God and not a reason for pride. Through our faith, we receive the grace of the Spirit, which is God's apportionment to us individually. It is important to have a sober evaluation of ourselves and not overestimate our own abilities. Each person is uniquely gifted and contributes to God's kingdom in their own way. Therefore, we should cultivate humility and wisdom, recognizing our strengths and limitations according to the measure of faith given to us by God.
+- 🔄 Romans 12:3 (attempt 2, 95 words, 45.16% quotes quality score: 1.9217899968716337, V2 normalized quality score: 55.24, commentator tiers 1-3: 30.37%, 32.99%, 36.63%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 12:3 bht prompt v0.7 (89 words, 50.0% quotes)
-- quality score: 1.9920234537927737, V2 normalized quality score: 57.58, commentator tiers 1-3: 31.4%, 33.47%, 35.13%)
+- Attempt 3 BHT: We are called to avoid an inflated view of ourselves, recognizing that our faith is a gift from God and not a reason for arrogance. Our faith serves as the gateway through which we receive divine grace. Hence, it is vital to view ourselves with discernment and humility, rather than overestimating our abilities. Each person possesses a unique measure of faith, highlighting the diversity within the body of Christ. By acknowledging our limitations and embracing wise judgment, we foster a balanced perspective that aligns with God's design.
+- 🔄 Romans 12:3 (attempt 3, 88 words, 40.0% quotes quality score: 1.8186537340327869, V2 normalized quality score: 51.81, commentator tiers 1-3: 33.14%, 30.17%, 36.69%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: We are reminded not to think too highly of ourselves but to approach our self-evaluation with sobriety, understanding that our faith is a gift from God. It is through our faith that we receive the grace and spiritual gifts that God has bestowed upon us. Our individual measure of faith determines our unique capacity to receive and cultivate these gifts. Therefore, we should avoid boasting, embrace humility, and recognize the diverse contributions of others within the body of Christ.
+- 🔄 Romans 12:3 (attempt 4, 80 words, 45.61% quotes quality score: 1.9185531130611753, V2 normalized quality score: 55.13, commentator tiers 1-3: 33.5%, 28.42%, 38.08%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: We are cautioned against an inflated self-view, as our faith is a divine gift for receiving the grace of the Spirit. Our measure of faith determines our capacity to receive God's gifts, emphasizing the diversity within the body of Christ. Rather than boasting, we should approach our self-evaluation with sobriety and humility, recognizing that our faith is not something to be proud of in itself. Each believer has a unique measure of faith, and by acknowledging our limitations and embracing wise judgment, we foster unity and balanced perspectives within the church.
+- 🔄 Romans 12:3 (attempt 5, 94 words, 40.3% quotes quality score: 1.9232100765931972, V2 normalized quality score: 55.29, commentator tiers 1-3: 35.01%, 29.85%, 35.14%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Romans 12:3 bht prompt v0.7 (94 words, 40.3% quotes)
+- quality score: 1.9232100765931972, V2 normalized quality score: 55.29, commentator tiers 1-3: 35.01%, 29.85%, 35.14%)

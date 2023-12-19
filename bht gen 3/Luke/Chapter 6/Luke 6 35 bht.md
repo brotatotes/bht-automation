@@ -1,7 +1,7 @@
 # Luke 6:35 Commentary Help Text
 
 ## BHT:
-As children of the Most High, we are called to imitate God's kindness and generosity. Jesus teaches us to lend without expecting anything in return, refusing no one, doing good without anxiety, and considering nothing as lost when we help others. He encourages us to be kind to the unkind and wicked, echoing God's own kindness. As sons of God, we are reminded to never despair or give up in helping even the apparently hopeless cases, as God is kind to the unthankful and evil.
+As children of the Most High, we are called to imitate God's kindness by doing good and lending without expecting anything in return. By helping the apparently hopeless cases, we refuse no one and do not worry about the outcome. We are to consider nothing as lost and imitate God's kindness, for He is kind to the unthankful and evil. Our acts of love should extend beyond our friends and reach our enemies, emulating God's boundless compassion.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -32,38 +32,38 @@ As children of the Most High, we are called to imitate God's kindness and genero
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:27
+- Timestamp: 12-19-2023 01:09:19
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 45.0%
-- BHT Quality Score: 1.5085075073380705
+- BHT Word Count: 80
+- BHT Commentary Usage: 43.86%
+- BHT Quality Score: 1.4584482451425316
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['and', 'anxiety', 'anything', 'apparently', 'are', 'as', 'be', 'called', 'cases', 'children', 'considering', 'despair', 'doing', 'echoing', 'encourages', 'even', 'evil', 'expecting', 'generosity', 'give', 'god', 'good', 'he', 'help', 'helping', 'high', 'hopeless', 'imitate', 'in', 'is', 'jesus', 'kind', 'kindness', 'lend', 'lost', 'most', 'never', 'no', 'nothing', 'of', 'one', 'or', 'others', 'own', 'refusing', 'reminded', 'return', 's', 'sons', 'teaches', 'the', 'to', 'unkind', 'unthankful', 'up', 'us', 'we', 'when', 'wicked', 'without']
-- ChatGPT injected words (significant words only) (33):
-	['anxiety', 'apparently', 'called', 'cases', 'children', 'considering', 'despair', 'echoing', 'encourages', 'evil', 'expecting', 'generosity', 'god', 'good', 'help', 'helping', 'high', 'hopeless', 'imitate', 'jesus', 'kind', 'kindness', 'lend', 'lost', 'refusing', 'reminded', 'return', 's', 'sons', 'teaches', 'unkind', 'unthankful', 'wicked']
+- ChatGPT injected words (57):
+	['about', 'acts', 'and', 'anything', 'apparently', 'are', 'as', 'beyond', 'boundless', 'by', 'called', 'cases', 'children', 'compassion', 'consider', 'do', 'doing', 'emulating', 'enemies', 'evil', 'expecting', 'extend', 'for', 'friends', 'god', 'good', 'he', 'helping', 'high', 'hopeless', 'imitate', 'in', 'is', 'kind', 'kindness', 'lending', 'lost', 'love', 'most', 'no', 'not', 'nothing', 'of', 'one', 'our', 'outcome', 'reach', 'refuse', 'return', 's', 'should', 'the', 'to', 'unthankful', 'we', 'without', 'worry']
+- ChatGPT injected words (significant words only) (32):
+	['acts', 'apparently', 'boundless', 'called', 'cases', 'children', 'compassion', 'consider', 'emulating', 'enemies', 'evil', 'expecting', 'extend', 'friends', 'god', 'good', 'helping', 'high', 'hopeless', 'imitate', 'kind', 'kindness', 'lending', 'lost', 'love', 'outcome', 'reach', 'refuse', 'return', 's', 'unthankful', 'worry']
 
 ### Logs
-- Attempt 1 BHT: As children of the Most High, we are called to imitate God's kindness and generosity. When Jesus tells us to lend without expecting anything in return, he is urging us to help those in need without worrying about the outcome. Our acts of kindness should not be driven by selfish motives or the desire for personal gain. Instead, we are to do good to others, even those who may seem ungrateful or wicked. Just as God is kind to the unkind and wicked, we are called to extend our love and assistance to all, without discrimination.
-- 🔄 Luke 6:35 (attempt 1, 97 words, 47.76% quotes quality score: 1.3988087957616808, V2 normalized quality score: 37.85, commentator tiers 1-3: 39.02%, 0.0%, 60.98%) 
+- Attempt 1 BHT: We are called to be like children of the Most High and imitate God's kindness towards the unkind and wicked. In Luke 6:35, Jesus teaches us to do good and lend without expecting anything in return, refusing no one and being without anxiety about the result. We are to help the apparently hopeless cases, without despairing about getting the money back. Our acts of love should extend beyond our friends and even towards our enemies, as God Himself is kind to the unthankful and evil.
+- 🔄 Luke 6:35 (attempt 1, 85 words, 42.62% quotes quality score: 1.4273157280723336, V2 normalized quality score: 38.8, commentator tiers 1-3: 41.44%, 0.0%, 58.56%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: We are called to imitate God's kindness towards the unkind and wicked by doing good and lending without expecting anything in return. Our acts of love should extend beyond our friends and reach our enemies. By helping the apparently hopeless cases, we should refuse no one and be without anxiety about the result. As children of the Most High, we should consider nothing as lost and imitate God's kindness, for He is kind to the unthankful and evil.
+- 🔄 Luke 6:35 (attempt 2, 80 words, 44.64% quotes quality score: 1.4261878867930209, V2 normalized quality score: 38.76, commentator tiers 1-3: 39.66%, 0.0%, 60.34%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: As children of the Most High, we are called to imitate God's kindness towards the unkind and wicked by doing good and lending without expecting anything in return. Our acts of love should extend beyond our friends and reach our enemies. By helping the apparently hopeless cases, we should refuse no one and be without anxiety about the result. In doing so, we consider nothing as lost and imitate God's kindness, for He is kind to the unthankful and evil.
+- 🔄 Luke 6:35 (attempt 3, 82 words, 45.61% quotes quality score: 1.4224498385764854, V2 normalized quality score: 38.64, commentator tiers 1-3: 39.54%, 0.0%, 60.46%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: As children of the Most High, we are called to imitate God's kindness and generosity. Jesus teaches us to lend without expecting anything in return, refusing no one, and doing good without anxiety about the result. Our acts of kindness should flow freely, without any regard for personal gain. We are to be kind to the unkind and wicked, just as God is. As sons of God, we are reminded to consider nothing as lost and to help even the apparently hopeless cases.
-- 🔄 Luke 6:35 (attempt 2, 84 words, 42.37% quotes quality score: 1.4512769328966744, V2 normalized quality score: 39.6, commentator tiers 1-3: 43.77%, 0.0%, 56.23%) 
+- Attempt 4 BHT: As children of the Most High, we are called to imitate God's kindness by doing good and lending without expecting anything in return. By helping the apparently hopeless cases, we refuse no one and do not worry about the outcome. We are to consider nothing as lost and imitate God's kindness, for He is kind to the unthankful and evil. Our acts of love should extend beyond our friends and reach our enemies, emulating God's boundless compassion.
+- 🔄 Luke 6:35 (attempt 4, 80 words, 43.86% quotes quality score: 1.4584482451425316, V2 normalized quality score: 39.84, commentator tiers 1-3: 39.43%, 0.0%, 60.57%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: In imitating God's kindness as children of the Most High, we are called to do good and lend without expecting anything in return. By helping the seemingly hopeless cases, we refuse no one and remain undisturbed about the outcome. It is crucial to consider nothing as lost, demonstrating a generosity that mirrors God's own benevolence. As God is kind even to the unthankful and wicked, we should extend our acts of love beyond our friends, reaching out to our enemies with unwavering compassion.
+- 🔄 Luke 6:35 (attempt 5, 85 words, 43.08% quotes quality score: 1.4008809061855054, V2 normalized quality score: 37.92, commentator tiers 1-3: 36.81%, 0.0%, 63.19%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As children of the Most High, we are called to imitate God's kindness and generosity by lending without expecting anything in return. Jesus urges us to do good without anxiety about the result and to consider nothing as lost in our acts of kindness. We are to be kind to the unkind and wicked, just as God is. As sons of God, we are reminded to help even the apparently hopeless cases, without giving up in despair.
-- 🔄 Luke 6:35 (attempt 3, 78 words, 42.31% quotes quality score: 1.4860408622038448, V2 normalized quality score: 40.75, commentator tiers 1-3: 46.45%, 0.0%, 53.55%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As children of the Most High, we are called to imitate God's kindness and generosity. Jesus teaches us to lend without expecting anything in return, refusing no one, doing good without anxiety, and considering nothing as lost when we help others. He encourages us to be kind to the unkind and wicked, echoing God's own kindness. As sons of God, we are reminded to never despair or give up in helping even the apparently hopeless cases, as God is kind to the unthankful and evil.
-- 🔄 Luke 6:35 (attempt 4, 87 words, 45.0% quotes quality score: 1.5085075073380705, V2 normalized quality score: 41.5, commentator tiers 1-3: 42.23%, 0.0%, 57.77%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As children of the Most High, we are called to imitate God's kindness and generosity. Jesus teaches us to lend without expecting anything in return and to do good without anxiety about the result. We are to consider nothing as lost when helping others, as sons of God. Just as God is kind to the unkind and wicked, we are called to be kind to all, even the apparently hopeless cases. Our acts of kindness should be driven by selflessness, reflecting God's love for all.
-- 🔄 Luke 6:35 (attempt 5, 87 words, 45.61% quotes quality score: 1.473055648299044, V2 normalized quality score: 40.32, commentator tiers 1-3: 43.35%, 0.0%, 56.65%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 6:35 bht prompt v0.7 (87 words, 45.0% quotes)
-- quality score: 1.5085075073380705, V2 normalized quality score: 41.5, commentator tiers 1-3: 42.23%, 0.0%, 57.77%)
+- ✅ Luke 6:35 bht prompt v0.7 (80 words, 43.86% quotes)
+- quality score: 1.4584482451425316, V2 normalized quality score: 39.84, commentator tiers 1-3: 39.43%, 0.0%, 60.57%)

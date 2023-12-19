@@ -1,7 +1,7 @@
 # Romans 10:4 Commentary Help Text
 
 ## BHT:
-Christ is the end—the object or aim. He contains within Himself all that the law demands for the justification of those who embrace Him, whether Jew or Gentile. To believers, the law no longer has the legislative authority to say, Do this and live; do this or die. Christ put a stop to the law as a means of salvation. He is the goal or aim of the law, the fulfillment, the termination. Through faith in Christ, the same end is accomplished regarding our justification as would be by perfect obedience to the moral law.
+Christ is the end and goal of the law, containing within Himself all that the law demands for the justification of those who embrace Him. Through faith in Christ, the same end is achieved in regard to our justification that would be through perfect obedience to the moral law. He put a stop to the law as a means of salvation and becomes the fulfillment and aim of the law, providing the righteousness that the law points to but cannot give.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -47,23 +47,22 @@ Christ is the end—the object or aim. He contains within Himself all that the l
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:18
+- Timestamp: 12-19-2023 01:09:58
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 53.33%
-- BHT Quality Score: 2.583054242776825
+- BHT Word Count: 81
+- BHT Commentary Usage: 55.1%
+- BHT Quality Score: 2.813907291106541
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (60):
-	['a', 'accomplished', 'aim', 'all', 'and', 'as', 'authority', 'be', 'believers', 'by', 'christ', 'contains', 'demands', 'die', 'do', 'embrace', 'end', 'faith', 'for', 'fulfillment', 'gentile', 'goal', 'has', 'he', 'him', 'himself', 'in', 'is', 'jew', 'justification', 'law', 'legislative', 'live', 'longer', 'means', 'moral', 'no', 'obedience', 'object', 'of', 'or', 'our', 'perfect', 'put', 'regarding', 'salvation', 'same', 'say', 'stop', 'termination', 'that', 'the', 'this', 'those', 'through', 'to', 'whether', 'who', 'within', 'would']
-- ChatGPT injected words (significant words only) (28):
-	['accomplished', 'aim', 'authority', 'believers', 'christ', 'contains', 'demands', 'die', 'embrace', 'end', 'faith', 'fulfillment', 'gentile', 'goal', 'jew', 'justification', 'law', 'legislative', 'live', 'longer', 'means', 'moral', 'obedience', 'object', 'perfect', 'salvation', 'stop', 'termination']
+- ChatGPT injected words (49):
+	['a', 'achieved', 'aim', 'all', 'and', 'as', 'be', 'becomes', 'but', 'cannot', 'christ', 'containing', 'demands', 'embrace', 'end', 'faith', 'for', 'fulfillment', 'give', 'goal', 'he', 'him', 'himself', 'in', 'is', 'justification', 'law', 'means', 'moral', 'obedience', 'of', 'our', 'perfect', 'points', 'providing', 'put', 'regard', 'righteousness', 'salvation', 'same', 'stop', 'that', 'the', 'those', 'through', 'to', 'who', 'within', 'would']
+- ChatGPT injected words (significant words only) (22):
+	['achieved', 'aim', 'christ', 'containing', 'demands', 'embrace', 'end', 'faith', 'fulfillment', 'goal', 'justification', 'law', 'means', 'moral', 'obedience', 'perfect', 'points', 'providing', 'regard', 'righteousness', 'salvation', 'stop']
 
 ### Logs
-- Attempt 1 BHT: Christ is the culmination and fulfillment of the law, the very aim and goal it was designed to bring people to. No longer does the law have the authority to demand righteousness and salvation, for that has been achieved through faith in Christ. The law's purpose was always to lead us to Christ, and by embracing Him, we find the justification and righteousness that the law sought to provide. Through Christ, both Jew and Gentile alike can obtain the salvation and life that the law could never give.
-- 🔄 Romans 10:4 (attempt 1, 89 words, 48.21% quotes quality score: 2.652194883123972, V2 normalized quality score: 79.52, commentator tiers 1-3: 32.88%, 34.22%, 32.89%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 10:4 bht prompt v0.7 (96 words, 53.33% quotes)
-- quality score: 2.583054242776825, V2 normalized quality score: 77.23, commentator tiers 1-3: 36.39%, 34.33%, 29.28%)
+- Attempt 1 BHT: Christ is the end and goal of the law, containing within Himself all that the law demands for the justification of those who embrace Him, whether Jew or Gentile. He put a stop to the law as a means of salvation, fulfilling its requirements and terminating its authority to say, Do this and live; do this or die. Through faith in Christ, the same end is achieved in regard to our justification that would be through perfect obedience to the moral law. Christ becomes the fulfillment and aim of the law, providing the righteousness that the law points to but cannot give.
+- 🔄 Romans 10:4 (attempt 1, 102 words, 52.38% quotes quality score: 2.7863410584141812, V2 normalized quality score: 83.98, commentator tiers 1-3: 33.48%, 34.21%, 32.31%) 
+	- BHT WAS OVER 80 WORDS!
+- ✅ Romans 10:4 bht prompt v0.7 (81 words, 55.1% quotes)
+- quality score: 2.813907291106541, V2 normalized quality score: 84.9, commentator tiers 1-3: 32.38%, 35.39%, 32.23%)

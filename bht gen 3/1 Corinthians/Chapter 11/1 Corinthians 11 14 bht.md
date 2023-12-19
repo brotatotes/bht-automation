@@ -1,7 +1,7 @@
 # 1 Corinthians 11:14 Commentary Help Text
 
 ## BHT:
-As part of the natural order established by God, there is a clear distinction between men and women when it comes to hair. While women are intended to have long hair and cover their heads, men are meant to be uncovered with shorter hair. Going against this natural distinction would be improper and disgraceful, going against the native sense of propriety and prevailing customs. It is vital to adhere to these indications from nature in order to honor the intended roles and differences between men and women.
+Nature itself teaches us that man should be uncovered and woman covered, as evidenced by the distinction of long hair given to women. This recognition of the objective difference in the constitution of things is not merely a matter of custom, but a reflection of the natural order. To go against this arrangement is seen as improper and disgraceful, bringing shame and exposing a man to ridicule. It is a mark of effeminacy and unmanliness to have long hair, contrary to the design of nature.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -45,42 +45,37 @@ As part of the natural order established by God, there is a clear distinction be
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:27
+- Timestamp: 12-19-2023 01:10:26
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 43.86%
-- BHT Quality Score: 2.0114935863422243
+- BHT Word Count: 85
+- BHT Commentary Usage: 36.84%
+- BHT Quality Score: 2.0705409701781496
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (57):
-	['a', 'adhere', 'against', 'and', 'are', 'as', 'be', 'between', 'by', 'clear', 'comes', 'cover', 'customs', 'differences', 'disgraceful', 'distinction', 'established', 'from', 'god', 'going', 'hair', 'have', 'heads', 'honor', 'improper', 'in', 'indications', 'intended', 'is', 'it', 'long', 'meant', 'men', 'native', 'natural', 'nature', 'of', 'order', 'part', 'prevailing', 'propriety', 'roles', 'sense', 'shorter', 'the', 'their', 'there', 'these', 'this', 'to', 'uncovered', 'vital', 'when', 'while', 'with', 'women', 'would']
-- ChatGPT injected words (significant words only) (32):
-	['adhere', 'clear', 'comes', 'cover', 'customs', 'differences', 'disgraceful', 'distinction', 'established', 'god', 'going', 'hair', 'heads', 'honor', 'improper', 'indications', 'intended', 'long', 'meant', 'men', 'native', 'natural', 'nature', 'order', 'prevailing', 'propriety', 'roles', 'sense', 'shorter', 'uncovered', 'vital', 'women']
+	['a', 'against', 'and', 'arrangement', 'as', 'be', 'bringing', 'but', 'by', 'constitution', 'contrary', 'covered', 'custom', 'design', 'difference', 'disgraceful', 'distinction', 'effeminacy', 'evidenced', 'exposing', 'given', 'go', 'hair', 'have', 'improper', 'in', 'is', 'it', 'itself', 'long', 'man', 'mark', 'matter', 'merely', 'natural', 'nature', 'not', 'objective', 'of', 'order', 'recognition', 'reflection', 'ridicule', 'seen', 'shame', 'should', 'teaches', 'that', 'the', 'things', 'this', 'to', 'uncovered', 'unmanliness', 'us', 'woman', 'women']
+- ChatGPT injected words (significant words only) (36):
+	['arrangement', 'bringing', 'constitution', 'contrary', 'covered', 'custom', 'design', 'difference', 'disgraceful', 'distinction', 'effeminacy', 'evidenced', 'exposing', 'given', 'hair', 'improper', 'long', 'man', 'mark', 'matter', 'merely', 'natural', 'nature', 'objective', 'order', 'recognition', 'reflection', 'ridicule', 'seen', 'shame', 'teaches', 'things', 'uncovered', 'unmanliness', 'woman', 'women']
 
 ### Logs
-- Attempt 1 BHT: According to the commentators, 1 Corinthians 11:14 is highlighting the natural distinction between men and women in regards to their hair. The verse suggests that while it is proper for women to have long hair and cover their heads, men should be uncovered and have short hair. This distinction is part of the law of creation or the natural order of things. The commentators emphasize that society should follow these natural indications in how we present ourselves and not go against them. It is seen as improper and disgraceful for a man to have long hair, as it goes against the traditional custom and the native sense of propriety.
-- 🔄 1 Corinthians 11:14 (attempt 1, 107 words, 43.08% quotes quality score: 1.9483689271177647, V2 normalized quality score: 56.12, commentator tiers 1-3: 36.29%, 26.22%, 37.49%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- VERSE_REF FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: According to nature's law of creation, men and women have distinct roles when it comes to hair. Women are designed to have long hair and cover their heads, while men are meant to be uncovered with short hair. This natural order must be respected in our choices of presentation. Going against this would be improper and disgraceful, as it goes against the native sense of propriety and the prevailing custom. It is important to follow the indications set by nature in order to honor these distinctions.
-- 🔄 1 Corinthians 11:14 (attempt 2, 87 words, 36.67% quotes quality score: 1.7432766947975238, V2 normalized quality score: 49.31, commentator tiers 1-3: 37.08%, 27.74%, 35.18%) 
+- Attempt 1 BHT: It is clear from nature itself that man was designed to be uncovered and woman covered, as indicated by the distinction of long hair given to women. The apostle appeals to the recognized constitution of things in emphasizing the importance of adhering to this natural distinction. It is not merely a matter of custom, but a recognition of the objective difference in the constitution of things. To go against this natural arrangement is seen as improper and disgraceful, as it goes against the almost universal custom that has appropriately assigned long hair to women. It brings shame to a man and exposes him to ridicule and contempt, as it is a mark of effeminacy and unmanliness.
+- 🔄 1 Corinthians 11:14 (attempt 1, 116 words, 34.33% quotes quality score: 1.994576045920164, V2 normalized quality score: 57.66, commentator tiers 1-3: 37.37%, 23.84%, 38.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As part of the natural order established by God, there is a clear distinction between men and women when it comes to hair. While women are intended to have long hair and cover their heads, men are meant to be uncovered with shorter hair. Going against this natural distinction would be improper and disgraceful, going against the native sense of propriety and prevailing customs. It is vital to adhere to these indications from nature in order to honor the intended roles and differences between men and women.
-- 🔄 1 Corinthians 11:14 (attempt 3, 87 words, 43.86% quotes quality score: 2.0114935863422243, V2 normalized quality score: 58.22, commentator tiers 1-3: 37.09%, 28.02%, 34.9%) 
+- Attempt 2 BHT: Nature itself teaches us that man should be uncovered and woman covered, as evidenced by the distinction of long hair given to women. This recognition of the objective difference in the constitution of things is not merely a matter of custom, but a reflection of the natural order. To go against this arrangement is seen as improper and disgraceful, bringing shame and exposing a man to ridicule. It is a mark of effeminacy and unmanliness to have long hair, contrary to the design of nature.
+- 🔄 1 Corinthians 11:14 (attempt 2, 85 words, 36.84% quotes quality score: 2.0705409701781496, V2 normalized quality score: 60.19, commentator tiers 1-3: 34.08%, 25.95%, 39.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: According to the commentators, the distinction between men and women in relation to their hair is outlined in nature's law of creation. Women are designed to have long hair and cover their heads, while men should be uncovered with short hair. Going against this natural order would be both improper and disgraceful, as it contradicts the native sense of propriety and prevailing customs. Adhering to these indications from nature is crucial in order to honor and maintain the intended roles and differences between men and women.
-- 🔄 1 Corinthians 11:14 (attempt 4, 87 words, 37.29% quotes quality score: 1.9066618792818593, V2 normalized quality score: 54.74, commentator tiers 1-3: 37.77%, 27.69%, 34.55%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
-- Attempt 5 BHT: According to the law of creation, there is a clear distinction between men and women regarding their hair. Women are designed to have long hair and cover their heads, while men should be uncovered. Going against this natural order is improper and disgraceful, contravening the native sense of propriety and prevailing customs. By following these indications from nature, we can honor the intended roles and differences between men and women.
-- 🔄 1 Corinthians 11:14 (attempt 5, 70 words, 41.51% quotes quality score: 1.905746846227594, V2 normalized quality score: 54.71, commentator tiers 1-3: 37.65%, 28.91%, 33.44%) 
+- Attempt 3 BHT: Nature itself teaches us that man was intended to be uncovered and woman covered. The recognition of this distinction is not based solely on custom, but on the objective difference in the constitution of things. Going against this arrangement is deemed improper and disgraceful, bringing shame and making a man appear effeminate. It is essential to adhere to the natural order and acknowledge the significance of this distinction in clothing the body.
+- 🔄 1 Corinthians 11:14 (attempt 3, 72 words, 34.62% quotes quality score: 1.8183532332547785, V2 normalized quality score: 51.8, commentator tiers 1-3: 42.21%, 24.46%, 33.33%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 11:14 bht prompt v0.7 (87 words, 43.86% quotes)
-- quality score: 2.0114935863422243, V2 normalized quality score: 58.22, commentator tiers 1-3: 37.09%, 28.02%, 34.9%)
+- Attempt 4 BHT: Nature itself declares that man was intended to be uncovered and woman covered. This is not a matter of mere custom, but a recognition of the objective difference in the constitution of things. To go against this natural arrangement is seen as improper and brings shame to a man, exposing him to ridicule. It is important to adhere to the design of nature and respect the distinction between men and women in the way we adorn ourselves.
+- 🔄 1 Corinthians 11:14 (attempt 4, 77 words, 40.74% quotes quality score: 1.965489207046724, V2 normalized quality score: 56.69, commentator tiers 1-3: 41.22%, 26.12%, 32.66%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Nature confirms that man was meant to be uncovered while woman was intended to be covered. We must adhere to the guidance of nature and dress accordingly. Mere custom alone does not dictate our choices, but rather the objective distinction in the constitution of things. A man having long hair is seen as shameful and brings dishonor to him, as it is a mark of effeminacy. It is crucial to respect the natural order and avoid behaviors that go against it.
+- 🔄 1 Corinthians 11:14 (attempt 5, 81 words, 40.68% quotes quality score: 1.8944197397925902, V2 normalized quality score: 54.33, commentator tiers 1-3: 34.53%, 26.98%, 38.49%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 11:14 bht prompt v0.7 (85 words, 36.84% quotes)
+- quality score: 2.0705409701781496, V2 normalized quality score: 60.19, commentator tiers 1-3: 34.08%, 25.95%, 39.97%)

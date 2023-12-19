@@ -1,7 +1,7 @@
 # 1 Corinthians 8:12 Commentary Help Text
 
 ## BHT:
-To sin against a weak brother, smiting one who is already vulnerable, is a heartless act that shows contempt for the blood of Christ. By violating the law of love and wounding their sensitive conscience, we insult Christ Himself. We are called to love and protect our brethren, taking care not to harm their peace and comfort. Our love for Christ is demonstrated through our actions towards His members, as what we do to them, we do to Him.
+To sin against the weak brethren is unfeeling and akin to striking an invalid—an open insult to Christ. It violates the law of love and wounds their sensitive conscience, thereby sinning against Christ Himself. Such contempt for Christ's blood price blatantly disregards the deep union and sympathy between Christ and His members. Let us remember that our actions towards others reflect our treatment of Christ Himself, and therefore, let us exercise caution not to wound the conscience of our brethren.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -44,37 +44,37 @@ To sin against a weak brother, smiting one who is already vulnerable, is a heart
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:28
+- Timestamp: 12-19-2023 01:09:49
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 48.21%
-- BHT Quality Score: 2.1074632283627683
+- BHT Word Count: 82
+- BHT Commentary Usage: 38.6%
+- BHT Quality Score: 2.2119202910823796
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['a', 'act', 'actions', 'against', 'already', 'and', 'are', 'as', 'blood', 'brethren', 'brother', 'by', 'called', 'care', 'christ', 'comfort', 'conscience', 'contempt', 'demonstrated', 'do', 'for', 'harm', 'heartless', 'him', 'himself', 'his', 'insult', 'is', 'law', 'love', 'members', 'not', 'of', 'one', 'our', 'peace', 'protect', 'sensitive', 'shows', 'sin', 'smiting', 'taking', 'that', 'the', 'their', 'them', 'through', 'to', 'towards', 'violating', 'vulnerable', 'we', 'weak', 'what', 'who', 'wounding']
-- ChatGPT injected words (significant words only) (29):
-	['act', 'actions', 'blood', 'brethren', 'brother', 'called', 'care', 'christ', 'comfort', 'conscience', 'contempt', 'demonstrated', 'harm', 'heartless', 'insult', 'law', 'love', 'members', 'peace', 'protect', 'sensitive', 'shows', 'sin', 'smiting', 'taking', 'violating', 'vulnerable', 'weak', 'wounding']
+- ChatGPT injected words (57):
+	['actions', 'against', 'akin', 'an', 'and', 'between', 'blatantly', 'blood', 'brethren', 'caution', 'christ', 'conscience', 'contempt', 'deep', 'disregards', 'exercise', 'for', 'himself', 'his', 'insult', 'invalid', 'is', 'it', 'law', 'let', 'love', 'members', 'not', 'of', 'open', 'others', 'our', 'price', 'reflect', 'remember', 's', 'sensitive', 'sin', 'sinning', 'striking', 'such', 'sympathy', 'that', 'the', 'their', 'thereby', 'therefore', 'to', 'towards', 'treatment', 'unfeeling', 'union', 'us', 'violates', 'weak', 'wound', 'wounds']
+- ChatGPT injected words (significant words only) (35):
+	['actions', 'akin', 'blatantly', 'blood', 'brethren', 'caution', 'christ', 'conscience', 'contempt', 'deep', 'disregards', 'exercise', 'insult', 'invalid', 'law', 'let', 'love', 'members', 'open', 'price', 'reflect', 'remember', 's', 'sensitive', 'sin', 'sinning', 'striking', 'sympathy', 'treatment', 'unfeeling', 'union', 'violates', 'weak', 'wound', 'wounds']
 
 ### Logs
-- Attempt 1 BHT: To sin against a weak brother is a heartless act, akin to striking an invalid. It is not only a violation of the law to love and seek the welfare of our brethren, but it also wounds their sensitive conscience, damaging their relationship with Christ. By disregarding this, we show contempt for the blood of Christ and insult Him. We must be cautious not to lead others astray by engaging in activities that may harm their peace and comfort. Our duty is to love and protect our brothers and sisters, for in doing so, we demonstrate our love for Christ Himself.
-- 🔄 1 Corinthians 8:12 (attempt 1, 101 words, 45.59% quotes quality score: 1.983947025116293, V2 normalized quality score: 57.31, commentator tiers 1-3: 20.62%, 46.23%, 33.14%) 
+- Attempt 1 BHT: To sin against the brethren is to act unfeeling and cruel, smiting those who are weak. It is to disregard the sensitivity of their conscience, putting them in a position of needing protection. In doing so, not only do we violate the law of love towards our brethren, but we also sin against Christ Himself. This contemptible and insulting behavior shows a lack of regard for the price of Christ's blood and undermines the unity and sympathy between Christ and His members. Jesus Himself warned us that what we do to the least of our brothers, we do unto Him. So let us be mindful of our actions and ensure that we do not wound the conscience of our brethren, for in doing so, we sin against Christ.
+- 🔄 1 Corinthians 8:12 (attempt 1, 129 words, 46.67% quotes quality score: 2.102730523372137, V2 normalized quality score: 61.26, commentator tiers 1-3: 22.59%, 44.95%, 32.46%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: To sin against a weak brother, smiting one who is already vulnerable, is a heartless act that shows contempt for the blood of Christ. By violating the law of love and wounding their sensitive conscience, we insult Christ Himself. We are called to love and protect our brethren, taking care not to harm their peace and comfort. Our love for Christ is demonstrated through our actions towards His members, as what we do to them, we do to Him.
-- 🔄 1 Corinthians 8:12 (attempt 2, 79 words, 48.21% quotes quality score: 2.1074632283627683, V2 normalized quality score: 61.41, commentator tiers 1-3: 21.25%, 44.15%, 34.6%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: To strike a weak brother, sinning against them and disregarding their sensitive conscience, is not only unfeeling but a direct offense to Christ Himself. This contemptuous act demonstrates a lack of regard for the redeeming power of Christ's blood, treating it as inconsequential. We have a responsibility to love and protect our brethren, ensuring that our actions do not harm their peace and comfort. By failing to do so, we dishonor Christ and undermine the unity that exists between Him and His followers.
-- 🔄 1 Corinthians 8:12 (attempt 3, 84 words, 42.19% quotes quality score: 1.9779128688495533, V2 normalized quality score: 57.11, commentator tiers 1-3: 22.2%, 43.85%, 33.95%) 
+- Attempt 2 BHT: To sin against the weak brethren is unfeeling and akin to striking an invalid—an open insult to Christ. It violates the law of love and wounds their sensitive conscience, thereby sinning against Christ Himself. Such contempt for Christ's blood price blatantly disregards the deep union and sympathy between Christ and His members. Let us remember that our actions towards others reflect our treatment of Christ Himself, and therefore, let us exercise caution not to wound the conscience of our brethren.
+- 🔄 1 Corinthians 8:12 (attempt 2, 82 words, 38.6% quotes quality score: 2.2119202910823796, V2 normalized quality score: 64.89, commentator tiers 1-3: 22.33%, 43.65%, 34.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: To strike a weak brother, sinning against them and disregarding their sensitive conscience, is not only unfeeling but an act that dishonors Christ Himself. This contemptuous act disregards the value of Christ's blood and undermines the unity that exists between Him and His followers. Our duty is to love and protect our brethren, ensuring that our actions do not harm their peace and comfort. Neglecting this responsibility is an insult to Christ and diminishes the love and compassion we are called to display.
-- 🔄 1 Corinthians 8:12 (attempt 4, 84 words, 38.98% quotes quality score: 1.9446583467007106, V2 normalized quality score: 56.0, commentator tiers 1-3: 21.4%, 43.87%, 34.73%) 
+- Attempt 3 BHT: To sin against the weak brethren is a cruel act, as if striking an invalid. Such behavior violates the law of love and wounds their sensitive conscience, a slap in the face. This contemptible action is an insult to Christ Himself, disregarding His redeeming sacrifice. It ignores the close union and sympathy between Christ and His members. Let us be cautious not to inflict harm upon our brethren's conscience, for in doing so, we sin against Christ.
+- 🔄 1 Corinthians 8:12 (attempt 3, 78 words, 45.0% quotes quality score: 2.0717573493974477, V2 normalized quality score: 60.23, commentator tiers 1-3: 25.31%, 40.78%, 33.91%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: To sin against the weak brethren is unfeeling and cruel, akin to striking an invalid. Such contemptible behavior insults Christ and disregards His sacrifice. It violates the law of love and wounds their sensitive conscience, which is like a slap in the face. This disregard for Christ's blood price undermines the deep union between Christ and His members. Let us be cautious not to harm our brethren's conscience, for it is in doing so that we sin against Christ.
+- 🔄 1 Corinthians 8:12 (attempt 4, 81 words, 42.37% quotes quality score: 2.1214367528618325, V2 normalized quality score: 61.88, commentator tiers 1-3: 24.49%, 41.36%, 34.15%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: To smite a weak brother, sinning against their sensitive conscience, is an unfeeling act that dishonors Christ Himself. By striking them, we show contempt for Christ and disregard the value of His blood. We are called to love and protect our brethren, ensuring that our actions do not harm their peace and comfort. Neglecting this responsibility is an insult to Christ and diminishes the love and compassion we are called to demonstrate towards one another as members united with Christ.
-- 🔄 1 Corinthians 8:12 (attempt 5, 80 words, 45.76% quotes quality score: 2.068980841105536, V2 normalized quality score: 60.13, commentator tiers 1-3: 22.48%, 42.95%, 34.57%) 
+- Attempt 5 BHT: To sin against the weak brethren is a cruel act, akin to striking an invalid, and an insult to Christ. It violates the law of love and wounds their sensitive conscience, like a slap in the face. The disregard for Christ's sacrifice undermines the deep union with His members. Let us be cautious not to harm our brethren's conscience, for in doing so, we sin against Christ Himself.
+- 🔄 1 Corinthians 8:12 (attempt 5, 70 words, 43.14% quotes quality score: 2.1294841788797543, V2 normalized quality score: 62.15, commentator tiers 1-3: 23.83%, 42.25%, 33.92%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 8:12 bht prompt v0.7 (79 words, 48.21% quotes)
-- quality score: 2.1074632283627683, V2 normalized quality score: 61.41, commentator tiers 1-3: 21.25%, 44.15%, 34.6%)
+- ✅ 1 Corinthians 8:12 bht prompt v0.7 (82 words, 38.6% quotes)
+- quality score: 2.2119202910823796, V2 normalized quality score: 64.89, commentator tiers 1-3: 22.33%, 43.65%, 34.03%)

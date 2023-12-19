@@ -1,7 +1,7 @@
 # Acts 8:12 Commentary Help Text
 
 ## BHT:
-After Simon's frauds were exposed, both men and women were baptized due to Philip's preaching. The repetition of their baptism signified their ongoing decision, while their initial belief came before this act. Philip's ministry laid the foundation for the earliest Gentile congregation, breaking away from Mosaic ordinances and Temple worship. Through their confession of faith, individuals and their families were consecrated to God. They obtained forgiveness, justification, and atonement through Christ's blood, righteousness, and sacrifice.
+As Philip preached and baptized, the detection of Simon's frauds helped extend and deepen the impact. Believers were baptized, both men and women, repeatedly over time, after first believing in the Gospel's power. Stephen initiated the call for the end of Mosaic ordinances, advocating for unrestricted freedom and universal rights for the Gospel. The early Gentile congregation was established by Philip's outreach to the Samaritans. Through baptism, believers confessed their faith and consecrated their families to God, experiencing a transformative journey from hell to heaven through divine grace.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -35,38 +35,39 @@ After Simon's frauds were exposed, both men and women were baptized due to Phili
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:29
+- Timestamp: 12-19-2023 01:09:29
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 26.67%
-- BHT Quality Score: 1.7775403612892111
+- BHT Word Count: 91
+- BHT Commentary Usage: 28.36%
+- BHT Quality Score: 1.7967555275782259
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['act', 'after', 'and', 'atonement', 'away', 'baptism', 'baptized', 'before', 'belief', 'blood', 'both', 'breaking', 'came', 'christ', 'confession', 'congregation', 'consecrated', 'decision', 'due', 'earliest', 'exposed', 'faith', 'families', 'for', 'forgiveness', 'foundation', 'frauds', 'from', 'gentile', 'god', 'individuals', 'initial', 'justification', 'laid', 'men', 'ministry', 'mosaic', 'obtained', 'of', 'ongoing', 'ordinances', 'philip', 'preaching', 'repetition', 'righteousness', 's', 'sacrifice', 'signified', 'simon', 'temple', 'the', 'their', 'they', 'this', 'through', 'to', 'were', 'while', 'women', 'worship']
-- ChatGPT injected words (significant words only) (44):
-	['act', 'atonement', 'away', 'baptism', 'baptized', 'belief', 'blood', 'breaking', 'came', 'christ', 'confession', 'congregation', 'consecrated', 'decision', 'earliest', 'exposed', 'faith', 'families', 'forgiveness', 'foundation', 'frauds', 'gentile', 'god', 'individuals', 'initial', 'justification', 'laid', 'men', 'ministry', 'mosaic', 'obtained', 'ongoing', 'ordinances', 'philip', 'preaching', 'repetition', 'righteousness', 's', 'sacrifice', 'signified', 'simon', 'temple', 'women', 'worship']
+- ChatGPT injected words (67):
+	['a', 'advocating', 'after', 'and', 'as', 'baptism', 'baptized', 'believers', 'believing', 'both', 'by', 'call', 'confessed', 'congregation', 'consecrated', 'deepen', 'detection', 'divine', 'early', 'end', 'established', 'experiencing', 'extend', 'faith', 'families', 'first', 'for', 'frauds', 'freedom', 'from', 'gentile', 'god', 'gospel', 'grace', 'heaven', 'hell', 'helped', 'impact', 'in', 'initiated', 'journey', 'men', 'mosaic', 'of', 'ordinances', 'outreach', 'over', 'philip', 'power', 'preached', 'repeatedly', 'rights', 's', 'samaritans', 'simon', 'stephen', 'the', 'their', 'through', 'time', 'to', 'transformative', 'universal', 'unrestricted', 'was', 'were', 'women']
+- ChatGPT injected words (significant words only) (48):
+	['advocating', 'baptism', 'baptized', 'believers', 'believing', 'confessed', 'congregation', 'consecrated', 'deepen', 'detection', 'divine', 'early', 'end', 'established', 'experiencing', 'extend', 'faith', 'families', 'frauds', 'freedom', 'gentile', 'god', 'gospel', 'grace', 'heaven', 'hell', 'helped', 'impact', 'initiated', 'journey', 'men', 'mosaic', 'ordinances', 'outreach', 'philip', 'power', 'preached', 'repeatedly', 'rights', 's', 'samaritans', 'simon', 'stephen', 'time', 'transformative', 'universal', 'unrestricted', 'women']
 
 ### Logs
-- Attempt 1 BHT: After witnessing the detection of Simon's fraudulent schemes, both men and women responded to Philip's preaching by being baptized. The repetition of their baptism highlights the ongoing nature of their decision, while their initial belief preceded this act. By baptizing Samaritans, Philip laid the foundation for the earliest Gentile congregation. This marked a significant shift towards the universal reach of the Gospel, breaking free from the constraints of the Mosaic ordinances and Temple worship. The power of Philip's ministry and divine grace were evident, bringing individuals from a state of dullness to a heavenly wisdom. Through their confession of faith, not only were they personally consecrated, but their families were as well. In believing and submitting to the power of God, these individuals experienced pardon, justification, and atonement through the virtue of Christ's blood, righteousness, and sacrifice.
-- 🔄 Acts 8:12 (attempt 1, 141 words, 26.32% quotes quality score: 1.712571876367943, V2 normalized quality score: 48.29, commentator tiers 1-3: 31.42%, 37.93%, 30.65%) 
+- Attempt 1 BHT: As Philip was preaching and baptizing, the detection of Simon's fraudulent actions helped to extend and deepen the effects of Philip's message. The believers were baptized repeatedly over time, with their baptism being preceded by their belief in the Gospel. Stephen was the first to challenge the Mosaic ordinances and claim universal rights for the Gospel, laying the foundation for the Gentile congregation. These men and women who were baptized confessed their faith and consecrated their families to God, being brought from hell to heaven through the power of divine grace. Their belief in the Gospel allowed them to submit to the real power of God and partake in the heavenly wisdom. Through the virtues of Christ's blood, righteousness, and sacrifice, they found pardon, justification, and atonement.
+- 🔄 Acts 8:12 (attempt 1, 130 words, 25.93% quotes quality score: 1.8443714847678336, V2 normalized quality score: 52.67, commentator tiers 1-3: 30.28%, 37.9%, 31.82%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: After Simon's frauds were exposed, both men and women were baptized as a result of Philip's preaching. The repetition of their baptism reflects their ongoing decision, while their initial belief preceded this act. Philip's ministry laid the foundation for the earliest Gentile congregation, signifying the widening reach of the Gospel beyond the limitations of the Mosaic ordinances and Temple worship. Through their confession of faith, individuals and their families were consecrated to God. They experienced forgiveness, justification, and atonement through Christ's blood, righteousness, and sacrifice.
-- 🔄 Acts 8:12 (attempt 2, 89 words, 25.0% quotes quality score: 1.7610633448269903, V2 normalized quality score: 49.9, commentator tiers 1-3: 33.02%, 36.35%, 30.63%) 
+- Attempt 2 BHT: As Philip preached and baptized, the detection of Simon's frauds helped extend and deepen the impact. Believers were baptized, both men and women, repeatedly over time, after first believing in the Gospel's power. Stephen initiated the call for the end of Mosaic ordinances, advocating for unrestricted freedom and universal rights for the Gospel. The early Gentile congregation was established by Philip's outreach to the Samaritans. Through baptism, believers confessed their faith and consecrated their families to God, experiencing a transformative journey from hell to heaven through divine grace.
+- 🔄 Acts 8:12 (attempt 2, 91 words, 28.36% quotes quality score: 1.7967555275782259, V2 normalized quality score: 51.08, commentator tiers 1-3: 32.42%, 40.55%, 27.03%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: After Simon's fraudulent schemes were exposed, both men and women were baptized in response to Philip's preaching. The repetition of their baptism highlights the ongoing nature of their decision, while their initial belief preceded this act. Philip's ministry laid the foundation for the earliest Gentile congregation, breaking free from the constraints of the Mosaic ordinances and Temple worship. Through their confession of faith, individuals and their families were consecrated to God. They experienced forgiveness, justification, and atonement through Christ's blood, righteousness, and sacrifice.
-- 🔄 Acts 8:12 (attempt 3, 87 words, 23.81% quotes quality score: 1.741044937850226, V2 normalized quality score: 49.23, commentator tiers 1-3: 33.93%, 35.91%, 30.16%) 
+- Attempt 3 BHT: The impact of Philip's preaching was profound as the exposure of Simon's deceit enhanced the effects of his message. Both men and women were baptized repeatedly, their belief preceding the sacrament. Stephen boldly challenged the Mosaic ordinances, paving the way for the Gospel's rightful liberty and universal rights. Philip's evangelism among the Samaritans laid the foundation for the earliest Gentile congregation. Through baptism, believers not only confessed their faith but also consecrated their families to God, experiencing a transformative journey from darkness to divine grace.
+- 🔄 Acts 8:12 (attempt 3, 89 words, 27.54% quotes quality score: 1.729505364889259, V2 normalized quality score: 48.85, commentator tiers 1-3: 31.46%, 44.24%, 24.3%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: After Simon's frauds were exposed, both men and women were baptized due to Philip's preaching. The repetition of their baptism signified their ongoing decision, while their initial belief came before this act. Philip's ministry laid the foundation for the earliest Gentile congregation, breaking away from Mosaic ordinances and Temple worship. Through their confession of faith, individuals and their families were consecrated to God. They obtained forgiveness, justification, and atonement through Christ's blood, righteousness, and sacrifice.
-- 🔄 Acts 8:12 (attempt 4, 79 words, 26.67% quotes quality score: 1.7775403612892111, V2 normalized quality score: 50.45, commentator tiers 1-3: 33.7%, 36.36%, 29.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Upon the revelation of Simon's fraudulent schemes, both men and women were baptized as a result of Philip's preaching. The repetition of their baptism emphasized the ongoing nature of their decision, while their initial belief preceded this act. Philip's ministry played a pivotal role in establishing the earliest Gentile congregation, marking a significant shift away from the limitations of the Mosaic ordinances and Temple worship. Through their confession of faith, individuals and their families were consecrated to God. They experienced the transformative power of forgiveness, justification, and atonement through the efficacy of Christ's blood, righteousness, and sacrifice.
-- 🔄 Acts 8:12 (attempt 5, 101 words, 22.54% quotes quality score: 1.7251038127551066, V2 normalized quality score: 48.7, commentator tiers 1-3: 32.68%, 35.69%, 31.63%) 
+- Attempt 4 BHT: Philip's preaching had a profound impact as the exposure of Simon's fraudulent actions deepened its effects. Men and women were baptized repeatedly as they believed in the power of the Gospel. Stephen pioneered the call for the abolition of Mosaic ordinances, asserting the Gospel's universal rights and unrestricted freedom. The Samaritans' conversion through Philip's ministry laid the groundwork for the earliest Gentile congregation. Through baptism, believers confessed their faith, consecrating their families to God and experiencing a transformative journey from darkness to heavenly grace.
+- 🔄 Acts 8:12 (attempt 4, 88 words, 24.62% quotes quality score: 1.7191336676977278, V2 normalized quality score: 48.5, commentator tiers 1-3: 30.53%, 42.16%, 27.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 8:12 bht prompt v0.7 (79 words, 26.67% quotes)
-- quality score: 1.7775403612892111, V2 normalized quality score: 50.45, commentator tiers 1-3: 33.7%, 36.36%, 29.94%)
+- Attempt 5 BHT: Philip's preaching had a profound impact as the detection of Simon's frauds deepened and extended its effects. Men and women were repeatedly baptized, their belief preceding the sacrament. Stephen pioneered the call for freedom and universal rights for the Gospel, challenging the Mosaic ordinances. Philip's evangelism among the Samaritans laid the foundation for the earliest Gentile congregation. Through baptism, believers confessed their faith and consecrated their families to God, experiencing a transformative journey from darkness to heavenly grace through divine power.
+- 🔄 Acts 8:12 (attempt 5, 84 words, 23.44% quotes quality score: 1.753080295254409, V2 normalized quality score: 49.63, commentator tiers 1-3: 31.96%, 42.19%, 25.86%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 8:12 bht prompt v0.7 (91 words, 28.36% quotes)
+- quality score: 1.7967555275782259, V2 normalized quality score: 51.08, commentator tiers 1-3: 32.42%, 40.55%, 27.03%)

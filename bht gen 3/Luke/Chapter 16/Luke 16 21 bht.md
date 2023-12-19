@@ -1,7 +1,7 @@
 # Luke 16:21 Commentary Help Text
 
 ## BHT:
-In this depiction, the disparity between the rich man and Lazarus is stark. While the rich man enjoys all forms of luxuries, Lazarus simply yearns for the crumbs that fall from his table. The dogs, typically seen as unclean, exhibit more compassion as they lick Lazarus' sores. This truly conveys the heartless indifference of the rich man and the poignant act of brute pity by the dogs. It underlines the significance of demonstrating empathy and support for the most vulnerable in society.
+In this poignant depiction, we witness the striking contrast between the rich man's indifference and Lazarus's dire circumstances. Even though Lazarus longed for the crumbs from the rich man's table, his only companions were dogs who graciously licked his sores. This scene showcases a heartless disregard for one of God's most impoverished and suffering individuals. It remains unclear whether the licking of Lazarus's sores by the dogs added to his misery or offered a degree of solace in his helpless condition. Nonetheless, the rich man's failure to extend compassion is powerfully condemned.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -42,43 +42,42 @@ In this depiction, the disparity between the rich man and Lazarus is stark. Whil
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:30
+- Timestamp: 12-19-2023 01:09:23
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 33.93%
-- BHT Quality Score: 1.9603602697429205
+- BHT Word Count: 98
+- BHT Commentary Usage: 35.29%
+- BHT Quality Score: 2.064753071493375
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (56):
-	['act', 'all', 'and', 'as', 'between', 'brute', 'by', 'compassion', 'conveys', 'crumbs', 'demonstrating', 'depiction', 'disparity', 'dogs', 'empathy', 'enjoys', 'exhibit', 'fall', 'for', 'forms', 'from', 'heartless', 'his', 'in', 'indifference', 'is', 'it', 'lazarus', 'lick', 'luxuries', 'man', 'more', 'most', 'of', 'pity', 'poignant', 'rich', 'seen', 'significance', 'simply', 'society', 'sores', 'stark', 'support', 'table', 'that', 'the', 'they', 'this', 'truly', 'typically', 'unclean', 'underlines', 'vulnerable', 'while', 'yearns']
-- ChatGPT injected words (significant words only) (37):
-	['act', 'brute', 'compassion', 'conveys', 'crumbs', 'demonstrating', 'depiction', 'disparity', 'dogs', 'empathy', 'enjoys', 'exhibit', 'fall', 'forms', 'heartless', 'indifference', 'lazarus', 'lick', 'luxuries', 'man', 'pity', 'poignant', 'rich', 'seen', 'significance', 'simply', 'society', 'sores', 'stark', 'support', 'table', 'truly', 'typically', 'unclean', 'underlines', 'vulnerable', 'yearns']
+- ChatGPT injected words (68):
+	['a', 'added', 'and', 'between', 'by', 'circumstances', 'companions', 'compassion', 'condemned', 'condition', 'contrast', 'crumbs', 'degree', 'depiction', 'dire', 'disregard', 'dogs', 'even', 'extend', 'failure', 'for', 'from', 'god', 'graciously', 'heartless', 'helpless', 'his', 'impoverished', 'in', 'indifference', 'individuals', 'is', 'it', 'lazarus', 'licked', 'licking', 'longed', 'man', 'misery', 'most', 'nonetheless', 'of', 'offered', 'one', 'only', 'or', 'poignant', 'powerfully', 'remains', 'rich', 's', 'scene', 'showcases', 'solace', 'sores', 'striking', 'suffering', 'table', 'the', 'this', 'though', 'to', 'unclear', 'we', 'were', 'whether', 'who', 'witness']
+- ChatGPT injected words (significant words only) (44):
+	['added', 'circumstances', 'companions', 'compassion', 'condemned', 'condition', 'contrast', 'crumbs', 'degree', 'depiction', 'dire', 'disregard', 'dogs', 'extend', 'failure', 'god', 'graciously', 'heartless', 'helpless', 'impoverished', 'indifference', 'individuals', 'lazarus', 'licked', 'licking', 'longed', 'man', 'misery', 'nonetheless', 'offered', 'poignant', 'powerfully', 'remains', 'rich', 's', 'scene', 'showcases', 'solace', 'sores', 'striking', 'suffering', 'table', 'unclear', 'witness']
 
 ### Logs
-- Attempt 1 BHT: In Luke 16:21, the contrast between the rich man and Lazarus is striking. While the rich man indulges in luxurious excesses, Lazarus is reduced to longing for even the crumbs that fall from his table. The dogs, often associated with uncleanliness, show more compassion by licking Lazarus' sores. This heartbreaking scene highlights the heartless indifference of the rich man in the face of extreme poverty and suffering. Even the wild street dogs, in their brute simplicity, provide a measure of pity and companionship for Lazarus. It is uncertain whether the licking of the sores by the dogs adds to his misery or offers some comfort in his helpless condition. Nevertheless, this passage exposes the stark contrast between the opulent riches of the rich man and the destitution of Lazarus, emphasizing the importance of compassion and care for the marginalized and impoverished.
-- 🔄 Luke 16:21 (attempt 1, 140 words, 32.1% quotes quality score: 2.0688164973280925, V2 normalized quality score: 60.13, commentator tiers 1-3: 30.73%, 46.73%, 22.54%) 
+- Attempt 1 BHT: In Luke 16:21, we see the heartbreaking contrast between the rich man's abundance and the destitution of Lazarus. Lazarus desired to be fed with even the crumbs that fell from the rich man's table, but instead had only the dogs as companions, who even licked his sores. This scene depicts heartless indifference to one of God's poorest and most afflicted ones, where even the wild dogs showed more pity than the wealthy. The dogs' licking of Lazarus' sores is debated to whether it added to his misery or provided him with some measure of comfort. Regardless, it is clear that the rich man's failure to show compassion and provide for Lazarus in his need is starkly condemned.
+- 🔄 Luke 16:21 (attempt 1, 120 words, 41.77% quotes quality score: 2.251517424711789, V2 normalized quality score: 66.2, commentator tiers 1-3: 30.56%, 44.79%, 24.65%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In this passage, the rich man's heartless indifference is contrasted with Lazarus' destitution. Lazarus, desiring the crumbs from the rich man's table, was left with only the dogs as companions who licked his sores. The scene highlights the complete lack of compassion shown towards one of God's poorest and most afflicted. The dogs' actions, whether adding to Lazarus' misery or offering some form of comfort, are unclear. Nevertheless, the rich man's failure to provide for Lazarus is strongly condemned.
+- 🔄 Luke 16:21 (attempt 2, 83 words, 38.33% quotes quality score: 2.0617887211549393, V2 normalized quality score: 59.9, commentator tiers 1-3: 31.46%, 44.76%, 23.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: The juxtaposition in this verse reveals the callousness of the rich man towards Lazarus' suffering. While the rich man revels in extravagance, Lazarus can only hope for the crumbs that fall from his table. The dogs, perceived as unclean, offer a surprising act of kindness by licking Lazarus' sores. This poignant scene illustrates the stark contrast between the rich man's indifference and the basic compassion shown by the dogs. It serves as a reminder to prioritize empathy and care for those in need.
-- 🔄 Luke 16:21 (attempt 2, 84 words, 33.9% quotes quality score: 1.9284609228577614, V2 normalized quality score: 55.46, commentator tiers 1-3: 32.08%, 47.48%, 20.44%) 
+- Attempt 3 BHT: The stark contrast between the rich man's indifference and Lazarus's destitution is evident in this verse. Despite desiring to be fed with even the crumbs that fell from the rich man's table, Lazarus was left with only the dogs, who licked his sores. The absence of human relief and the mere act of brute pity from the dogs highlight the heartlessness and lack of compassion towards one of God's most afflicted. The dogs' actions, whether adding to Lazarus's misery or bringing some measure of comfort, remain uncertain.
+- 🔄 Luke 16:21 (attempt 3, 92 words, 35.94% quotes quality score: 2.2618931560757014, V2 normalized quality score: 66.55, commentator tiers 1-3: 31.46%, 44.36%, 24.18%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 3 BHT: This passage paints a vivid picture of the stark inequality between the rich man and Lazarus. While the rich man indulges in decadence, Lazarus longs for even the scraps that fall from his table. The dogs, often associated with impurity, display more compassion by licking Lazarus' sores. The contrast highlights the rich man's heartless indifference and the simple yet powerful act of compassion from the dogs. It serves as a poignant reminder of the importance of caring for the marginalized and destitute.
-- 🔄 Luke 16:21 (attempt 3, 83 words, 35.09% quotes quality score: 1.8510530729353405, V2 normalized quality score: 52.89, commentator tiers 1-3: 31.6%, 46.69%, 21.7%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 4 BHT: In this depiction, the disparity between the rich man and Lazarus is stark. While the rich man enjoys all forms of luxuries, Lazarus simply yearns for the crumbs that fall from his table. The dogs, typically seen as unclean, exhibit more compassion as they lick Lazarus' sores. This truly conveys the heartless indifference of the rich man and the poignant act of brute pity by the dogs. It underlines the significance of demonstrating empathy and support for the most vulnerable in society.
-- 🔄 Luke 16:21 (attempt 4, 82 words, 33.93% quotes quality score: 1.9603602697429205, V2 normalized quality score: 56.52, commentator tiers 1-3: 31.52%, 48.15%, 20.33%) 
+- Attempt 4 BHT: The contrast between the rich man's abundance and Lazarus's destitution is vividly portrayed. Lazarus desired the crumbs from the rich man's table, but instead found himself with only dogs as companions, who even licked his sores. This portrayal reveals the heartless indifference towards one of God's poorest and most afflicted. The dogs' actions, whether intensifying Lazarus's suffering or providing some measure of comfort, are uncertain. Nevertheless, the failure to extend compassion and care to Lazarus is strongly condemned.
+- 🔄 Luke 16:21 (attempt 4, 83 words, 38.71% quotes quality score: 1.9593182168016685, V2 normalized quality score: 56.49, commentator tiers 1-3: 31.99%, 45.73%, 22.28%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In Luke 16, the contrast between the rich man and Lazarus is profound. While the rich man revels in abundance, Lazarus desires even the crumbs that fall from his table. The dogs, typically seen as unclean, exhibit compassion by licking Lazarus' sores. This illustrates the heartless indifference of the rich man and the touching act of pity by the dogs. It emphasizes the importance of caring for the marginalized and exposes the disparity between opulence and destitution.
-- 🔄 Luke 16:21 (attempt 5, 76 words, 32.0% quotes quality score: 2.0088549440131325, V2 normalized quality score: 58.14, commentator tiers 1-3: 30.0%, 48.71%, 21.29%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Luke 16:21 bht prompt v0.7 (82 words, 33.93% quotes)
-- quality score: 1.9603602697429205, V2 normalized quality score: 56.52, commentator tiers 1-3: 31.52%, 48.15%, 20.33%)
+- Attempt 5 BHT: In this poignant depiction, we witness the striking contrast between the rich man's indifference and Lazarus's dire circumstances. Even though Lazarus longed for the crumbs from the rich man's table, his only companions were dogs who graciously licked his sores. This scene showcases a heartless disregard for one of God's most impoverished and suffering individuals. It remains unclear whether the licking of Lazarus's sores by the dogs added to his misery or offered a degree of solace in his helpless condition. Nonetheless, the rich man's failure to extend compassion is powerfully condemned.
+- 🔄 Luke 16:21 (attempt 5, 98 words, 35.29% quotes quality score: 2.064753071493375, V2 normalized quality score: 59.99, commentator tiers 1-3: 30.0%, 45.53%, 24.46%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 16:21 bht prompt v0.7 (98 words, 35.29% quotes)
+- quality score: 2.064753071493375, V2 normalized quality score: 59.99, commentator tiers 1-3: 30.0%, 45.53%, 24.46%)

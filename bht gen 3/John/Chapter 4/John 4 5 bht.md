@@ -1,7 +1,7 @@
 # John 4:5 Commentary Help Text
 
 ## BHT:
-Jesus arrives at Sychar, an ancient town known as Shechem in the Old Testament. Situated in a valley between Mount Ebal and Mount Gerizim, its disputed size and importance do not deter Jesus from resting at a well around noon, despite his weariness from the journey. Sychar holds historical significance as Jacob once bought land there and the people renewed their covenant with the Lord. By pausing in Sychar, Jesus demonstrates his willingness to bridge the divide between the Jewish and Samaritan worlds, embodying sympathy and compassion for our weaknesses.
+Jesus arrived in Sychar, an old town on the range of Mount Ephraim, known by the derogatory name drunken town. Though not a place of great importance, Sychar held historical significance as Jacob had bought a piece of land there. Tired from His journey, Jesus sat at the well in a posture of fatigue, showing His genuine weariness. Sychar was notorious for the sin of drunkenness, which adds to the context of Jesus encountering the Samaritan woman at the well.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -52,39 +52,37 @@ Jacob gave — On his death bed, Genesis 48:22.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 00:41:31
+- Timestamp: 12-19-2023 01:09:31
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 33.82%
-- BHT Quality Score: 1.8613814346659923
+- BHT Word Count: 80
+- BHT Commentary Usage: 36.21%
+- BHT Quality Score: 1.7535405316029178
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (68):
-	['a', 'an', 'ancient', 'and', 'around', 'arrives', 'as', 'at', 'between', 'bought', 'bridge', 'by', 'compassion', 'covenant', 'demonstrates', 'despite', 'deter', 'disputed', 'divide', 'do', 'ebal', 'embodying', 'for', 'from', 'gerizim', 'his', 'historical', 'holds', 'importance', 'in', 'its', 'jacob', 'jesus', 'jewish', 'journey', 'known', 'land', 'lord', 'mount', 'noon', 'not', 'old', 'once', 'our', 'pausing', 'people', 'renewed', 'resting', 'samaritan', 'shechem', 'significance', 'situated', 'size', 'sychar', 'sympathy', 'testament', 'the', 'their', 'there', 'to', 'town', 'valley', 'weaknesses', 'weariness', 'well', 'willingness', 'with', 'worlds']
-- ChatGPT injected words (significant words only) (45):
-	['ancient', 'arrives', 'bought', 'bridge', 'compassion', 'covenant', 'demonstrates', 'despite', 'deter', 'disputed', 'divide', 'ebal', 'embodying', 'gerizim', 'historical', 'holds', 'importance', 'jacob', 'jesus', 'jewish', 'journey', 'known', 'land', 'lord', 'mount', 'noon', 'old', 'pausing', 'people', 'renewed', 'resting', 'samaritan', 'shechem', 'significance', 'situated', 'size', 'sychar', 'sympathy', 'testament', 'town', 'valley', 'weaknesses', 'weariness', 'willingness', 'worlds']
+- ChatGPT injected words (58):
+	['a', 'adds', 'an', 'arrived', 'as', 'at', 'bought', 'by', 'context', 'derogatory', 'drunken', 'drunkenness', 'encountering', 'ephraim', 'fatigue', 'for', 'from', 'genuine', 'great', 'had', 'held', 'his', 'historical', 'importance', 'in', 'jacob', 'jesus', 'journey', 'known', 'land', 'mount', 'name', 'not', 'notorious', 'of', 'old', 'on', 'piece', 'place', 'posture', 'range', 'samaritan', 'sat', 'showing', 'significance', 'sin', 'sychar', 'the', 'there', 'though', 'tired', 'to', 'town', 'was', 'weariness', 'well', 'which', 'woman']
+- ChatGPT injected words (significant words only) (37):
+	['adds', 'arrived', 'bought', 'context', 'derogatory', 'drunken', 'drunkenness', 'encountering', 'ephraim', 'fatigue', 'genuine', 'great', 'held', 'historical', 'importance', 'jacob', 'jesus', 'journey', 'known', 'land', 'mount', 'notorious', 'old', 'piece', 'place', 'posture', 'range', 'samaritan', 'sat', 'showing', 'significance', 'sin', 'sychar', 'tired', 'town', 'weariness', 'woman']
 
 ### Logs
-- Attempt 1 BHT: Jesus arrives at Sychar, a town known by its O.T. name of Shechem, situated in a narrow valley between two mountains. The name Sychar, meaning drunken or lying, could be a contemptuous name given by the Jews to Shechem. Despite its disputed size and importance, Jesus, fatigued from the journey, stopped at Sychar, resting at a well around noon. This location holds historical significance, as it was where Jacob bought a piece of ground near Shechem and where the people renewed their covenant with the Lord. Although the Samaritans received only the Pentateuch, they held it in peculiar reverence, making alterations to authenticate their worship and maintain the honor of their sacred places. Jesus' choice to rest in Sychar shows his willingness to bridge the gap between the Jewish and Gentile world, embodying sympathy and compassion by sharing in our weaknesses.
-- 🔄 John 4:5 (attempt 1, 142 words, 30.61% quotes quality score: 1.7927564188907605, V2 normalized quality score: 50.95, commentator tiers 1-3: 30.19%, 44.33%, 25.47%) 
+- Attempt 1 BHT: Jesus arrived in the town of Sychar, which is located in a narrow valley between Mount Ebal and Mount Gerizim and has a history dating back to Jacob's time. Some believe that Sychar was a derogatory name given by the Jews to Shechem. It is not a particularly large or significant place, but it holds biblical significance as the place where Joshua assembled the people and where Jacob bought a piece of land near Shechem. The name Sychar means drunken or lying town, highlighting the sinful reputation of the Ephraimites who lived there. Jesus, tired from the journey, sat at the well in a position of weariness, showing His humanity and preparing Himself to show compassion and sympathy towards us.
+- 🔄 John 4:5 (attempt 1, 121 words, 38.1% quotes quality score: 1.8678797047530828, V2 normalized quality score: 53.45, commentator tiers 1-3: 32.76%, 39.93%, 27.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Arriving at the town of Sychar, also known as Shechem, Jesus finds himself in a narrow valley between Mount Ebal and Mount Gerizim. This place holds historical significance, as it is where Jacob bought a piece of ground and where the people renewed their covenant with the Lord. Despite its disputed size and importance, Jesus, fatigued from the journey, rests at a well around noon. By stopping at Sychar, Jesus bridges the gap between the Jewish and Samaritan worlds, showing sympathy and compassion for our weaknesses.
-- 🔄 John 4:5 (attempt 2, 86 words, 35.38% quotes quality score: 1.7534899478959636, V2 normalized quality score: 49.65, commentator tiers 1-3: 30.94%, 45.89%, 23.17%) 
+- Attempt 2 BHT: Jesus arrived in Sychar, an old town on the range of Mount Ephraim, known by the derogatory name drunken town. Though not a place of great importance, Sychar held historical significance as Jacob had bought a piece of land there. Tired from His journey, Jesus sat at the well in a posture of fatigue, showing His genuine weariness. Sychar was notorious for the sin of drunkenness, which adds to the context of Jesus encountering the Samaritan woman at the well.
+- 🔄 John 4:5 (attempt 2, 80 words, 36.21% quotes quality score: 1.7535405316029178, V2 normalized quality score: 49.65, commentator tiers 1-3: 31.22%, 35.95%, 32.83%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Jesus arrived in Sychar, a town located between Mount Ebal and Mount Gerizim, better known as Shechem in the Old Testament. The name Sychar, meaning drunken or lying, reflects the sinful reputation of the Ephraimites. Despite its lack of size or importance, Sychar holds historical significance as the place where Jacob purchased a piece of land. Fatigued from his journey, Jesus sat at the well, demonstrating his genuine weariness. This context of weariness and the sinful reputation of the town add depth to the encounter with the Samaritan woman.
+- 🔄 John 4:5 (attempt 3, 89 words, 29.03% quotes quality score: 1.7460213898273333, V2 normalized quality score: 49.4, commentator tiers 1-3: 33.67%, 35.23%, 31.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Jesus arrives at Sychar, a town known as Shechem in the Old Testament, situated in a narrow valley between Mount Ebal and Mount Gerizim. Despite the disputed size and importance of the town, Jesus, fatigued from the journey, rests at a well around noon. This location holds historical significance, as it is where Jacob bought a piece of ground near Shechem, and where the people renewed their covenant with the Lord. By stopping at Sychar, Jesus bridges the gap between the Jewish and Samaritan worlds, embodying sympathy and compassion for our weaknesses.
-- 🔄 John 4:5 (attempt 3, 92 words, 30.77% quotes quality score: 1.8490045684756877, V2 normalized quality score: 52.82, commentator tiers 1-3: 32.19%, 48.22%, 19.6%) 
+- Attempt 4 BHT: Jesus arrived in Sychar, a town between Mount Ebal and Mount Gerizim, also known as Shechem in the Old Testament. Sychar, meaning drunken or lying, reflects the sinful reputation associated with the Ephraimites residing there. Though not of great importance, Sychar held significance as the place where Jacob purchased a piece of land. Fatigued from his journey, Jesus sat at the well, showing his genuine weariness. This context adds depth to the encounter with the Samaritan woman and highlights Jesus' ability to empathize with our weaknesses.
+- 🔄 John 4:5 (attempt 4, 86 words, 31.82% quotes quality score: 1.6855656586709857, V2 normalized quality score: 47.39, commentator tiers 1-3: 32.1%, 36.81%, 31.09%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Jesus arrives at Sychar, an ancient town situated between the mountains of Ebal and Gerizim, traditionally known as Shechem. The name Sychar, possibly derived from drunken or lying, holds historical significance as Jacob bought land near Shechem and the people renewed their covenant there. Despite the disputed size and importance of Sychar, Jesus, fatigued from the journey, rested at a well around noon. This choice shows his willingness to bridge the gap between the Jewish and Samaritan worlds, displaying sympathy and compassion for our weaknesses.
-- 🔄 John 4:5 (attempt 4, 85 words, 30.3% quotes quality score: 1.7786417642151822, V2 normalized quality score: 50.48, commentator tiers 1-3: 31.67%, 39.85%, 28.48%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Arriving in Sychar, a town nestled between Mount Ebal and Mount Gerizim, Jesus encountered the sinful reputation of the Ephraimites who resided there. While not a place of great significance, Sychar held historical importance as the location where Jacob acquired a piece of land. Exhausted from his journey, Jesus sought rest at the well, genuinely fatigued. This context adds depth to the encounter with the Samaritan woman, illustrating Jesus' capacity to understand and show compassion for human frailties.
+- 🔄 John 4:5 (attempt 5, 78 words, 33.33% quotes quality score: 1.615371663028051, V2 normalized quality score: 45.05, commentator tiers 1-3: 28.95%, 40.12%, 30.92%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Jesus arrives at Sychar, an ancient town known as Shechem in the Old Testament. Situated in a valley between Mount Ebal and Mount Gerizim, its disputed size and importance do not deter Jesus from resting at a well around noon, despite his weariness from the journey. Sychar holds historical significance as Jacob once bought land there and the people renewed their covenant with the Lord. By pausing in Sychar, Jesus demonstrates his willingness to bridge the divide between the Jewish and Samaritan worlds, embodying sympathy and compassion for our weaknesses.
-- 🔄 John 4:5 (attempt 5, 90 words, 33.82% quotes quality score: 1.8613814346659923, V2 normalized quality score: 53.23, commentator tiers 1-3: 31.24%, 46.11%, 22.65%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ John 4:5 bht prompt v0.7 (90 words, 33.82% quotes)
-- quality score: 1.8613814346659923, V2 normalized quality score: 53.23, commentator tiers 1-3: 31.24%, 46.11%, 22.65%)
+- ✅ John 4:5 bht prompt v0.7 (80 words, 36.21% quotes)
+- quality score: 1.7535405316029178, V2 normalized quality score: 49.65, commentator tiers 1-3: 31.22%, 35.95%, 32.83%)
