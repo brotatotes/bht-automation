@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:35:43",
+    "verseRef": "James 2:1",
+    "bestBHT": {
+        "bht": "Do not hold the faith of our Lord Jesus Christ by measuring individual Christians based on their fortune and external qualities, and by preferring some over others according to this standard. The glory of Christ resting on the poor believer should make them be regarded as highly by their brethren as their richer brother. The equality of all Christians as brethren is the groundwork of this admonition. Hold not the faith of our common Lord, the Lord of glory, with respect of persons, but rather let the equality of Christians be the foundation for their actions.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.1,
+        "qualityScore": 2.406018051090977,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.34,
+        "commentatorTierSimilarities": [
+            33.29,
+            32.18,
+            34.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fault itself, as here intended, is easily explained by the context, where an example is taken of one kind of it. Theile says well, that it is the fault of measuring individual Christians not by their Christian graces, but by their fortune, and external qualities,\u2014and of preferring some to others according to this standard.",
+            "Hold the faith of our Lord Jesus Christ, [the Lord] of glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The equality of all Christians as 'brethren,' forms the groundwork of the admonition.",
+            "James grounds Christian practice on Christian faith.",
+            "The glory of Christ resting on the poor believer should make him be regarded as highly by 'brethren' as his richer brother; nay, more so, if the poor believer has more of Christ's spirit than the rich brother."
+        ],
+        "Albert Barnes": [
+            "Faith is the distinguishing thing in the Christian religion, for it is this by which man is justified, and hence, it comes to be put for religion itself.\" ",
+            "The meaning here is, 'do not hold such views of the religion of Christ, as to lead you to manifest partiality to others on account of their difference of rank or outward circumstances.'",
+            "The design here seems to be to show that the religion of such a Lord should be in no way dishonored."
+        ],
+        "Marvin Vincent": [
+            "Have [\u03b5\u03c7\u03b5\u03c4\u03b5] . Rev., hold, not in the sense of hold fast, cleave to, but of possessing, occupying, and practicing, as a matter of habit.",
+            "With respect of persons [\u03b5\u03bd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03bb\u03b7\u03bc\u03c8\u03b9\u03b1\u03b9\u03c2] . From proswpon, the countenance, and lambanw, to receive.",
+            "The Lord of glory."
+        ],
+        "John Calvin": [
+            "For he does not simply disapprove of honor being paid to the rich, but that this should not be done in a way so as to despise or reproach the poor.\" ",
+            "He sins who honors the rich alone and despises the poor, and treats him with contempt.",
+            "The respect of persons is inconsistent with the faith of Christ, so that they cannot be united together, and rightly so."
+        ],
+        "Philip Schaff": [
+            "The true service of God consists in active benevolence, exercised especially toward the poor and afflicted.",
+            "Do not hold [faith] in such a manner, as that respect of persons should constitute a part of it.",
+            "In the house of God, the rich and the poor meet on the same footing of equality."
+        ],
+        "Archibald T. Robertson": [
+            "Hold not (\u03bc\u03b7 \u03b5\u03c7\u03b5\u03c4\u03b5). Present active imperative of \u03b5\u03c7\u03c9 with negative \u03bc\u03b7, exhortation to stop holding or not to have the habit of holding in the fashion condemned.\" ",
+            "The faith of our Lord Jesus Christ (\u03c4\u03b7\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03c4\u03bf\u03c5 \u03ba\u03c5\u03c1\u03b9\u03bf\u03c5 \u03b7\u03bc\u03c9\u03bd \u0399\u03b7\u03c3\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). Clearly objective genitive, not subjective (faith of), but 'faith in our Lord Jesus Christ,' like \u03b5\u03c7\u03b5\u03c4\u03b5 \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd \u03b8\u03b5\u03bf\u03c5 (Mark 11:22), 'have faith in God.'\" ",
+            "James thus terms 'our Lord Jesus Christ' the Shekinah Glory of God. See Hebrews 9:5 for 'the cherubim of Glory.' Other New Testament passages where Jesus is pictured as the Glory are Romans 9:4; 2 Corinthians 4:6; Ephesians 1:17; Hebrews 1:3. Cf. 2 Corinthians 8:9; Philippians 2:5-11."
+        ],
+        "John Gill": [
+            "since the saints are all brethren, they are children of the same Father, belong to the same family, and are all one in Christ Jesus, whether high or low, rich, or poor",
+            "faith, whether as a doctrine or as a grace, is alike precious, and common to all",
+            "the poor as well as the rich are espoused by him, as their Lord and husband; and are redeemed by him, and are equally under his government and protection, and members of his body"
+        ],
+        "John Wesley": [
+            "The equality of Christians, intimated by this name, is the ground of the admonition.",
+            "Hold not the faith of our common Lord, the Lord of glory - Of which glory all who believe in him partake.",
+            "With respect of persons \u2014 That is, honour none merely for being rich; despise none merely for being poor."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not hold the faith of our Lord Jesus Christ by showing partiality towards others based on external qualities or fortune. Instead, let the glory of Christ resting on the poor believer make them be regarded as highly by their brethren as their richer brother. The equality of all Christians as brothers and sisters forms the foundation of this admonition. In the house of God, the rich and the poor meet on the same footing of equality, and true service to God consists in active benevolence towards the poor and afflicted. Therefore, do not hold faith in a way that includes respect of persons, for the faith of our Lord Jesus Christ is the Shekinah Glory of God. Just as the glory of God is eminent in Jesus, believers should not differentiate between one another based on their earthly status, but rather recognize their unity in Christ.",
+            "wordCount": 147,
+            "quoteTokenProportion": 38.82,
+            "qualityScore": 2.327307112617369,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.72,
+            "commentatorTierSimilarities": [
+                30.73,
+                35.21,
+                34.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not hold the faith of our Lord Jesus Christ by measuring individual Christians based on their fortune and external qualities, and by preferring some over others according to this standard. The glory of Christ resting on the poor believer should make them be regarded as highly by their brethren as their richer brother. The equality of all Christians as brethren is the groundwork of this admonition. Hold not the faith of our common Lord, the Lord of glory, with respect of persons, but rather let the equality of Christians be the foundation for their actions.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.406018051090977,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.34,
+            "commentatorTierSimilarities": [
+                33.29,
+                32.18,
+                34.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Christian faith, it is important not to measure individuals based on their external qualities or fortune, but rather by their Christian graces. The glory of Christ should prompt believers to regard each other equally, regardless of their social standing. Christians are called to hold the faith of our Lord Jesus Christ without showing favoritism or partiality. True Christian practice is founded on Christian faith, which recognizes the equality of all believers as brothers and sisters in Christ. Hold the faith of our common Lord, the Lord of glory, without respect of persons.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.3511324909991087,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.52,
+            "commentatorTierSimilarities": [
+                33.6,
+                32.2,
+                34.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not judge or evaluate individual Christians based on their outward circumstances or social status, but rather by their Christian graces. It is important to treat all believers equally as brothers and sisters in Christ, regardless of their worldly status. Do not hold the faith of our Lord Jesus Christ with partiality or favoritism, but instead recognize the glory of Christ resting on all believers. Practice and demonstrate your faith by showing love and compassion, especially to the poor and afflicted. Hold the faith of our Lord Jesus Christ without showing respect of persons.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2393451426268824,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.8,
+            "commentatorTierSimilarities": [
+                32.55,
+                31.78,
+                35.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fault in measuring individual Christians by their external qualities and fortune, and favoring some over others, is clearly explained in the context. Instead, let the glory of Christ resting on the poor believer be regarded highly by their brethren. The equality of all Christians as brethren is the foundation of this admonition. Hold the faith of our Lord Jesus Christ without showing respect of persons, recognizing that the faith in our Lord is the Shekinah Glory of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.2559286404067924,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                34.51,
+                32.94,
+                32.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

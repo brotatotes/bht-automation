@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:36:16",
+    "verseRef": "James 3:18",
+    "bestBHT": {
+        "bht": "The peaceable fruit of righteousness is sown in peace by them who work peace. Those who are wise according to God's will make it their chief concern to sow righteousness, reproving sins with peaceable moderation. Only in peace is the fruit of righteousness found. The seed of righteousness is sown by the peacemakers in a spirit of peace. This righteousness promises a plentiful reward of happiness for those who make peace and labor to promote pure and holy peace.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 2.8621900258946322,
+        "qualityScoreNormalizedComparedToV2BHTs": 86.51,
+        "commentatorTierSimilarities": [
+            32.67,
+            34.93,
+            32.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That result was designated as a present one... this is a future one, but beautifully anticipated by the pregnant expression of 'fruit being sown.'\" ",
+            "Fruit of righteousness is sown in peace... by them who work peace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The peaceable fruit of righteousness.\" He says \"righteousness\"; because it is itself the true wisdom. (James 3:18)",
+            "Righteousness, now in germ, when fully developed as 'fruit' shall be itself the everlasting reward of the righteous.\" (James 3:18)",
+            "Those truly wise towards God... make it their chief concern to sow righteousness, not cloaking men's sins, but reproving them with such peaceable moderation as to be the physicians, rather than the executioners, of sinners.\" (James 3:18)"
+        ],
+        "Albert Barnes": [
+            "Righteousness or true religion produces certain results on the life like the effects of seed sown in good ground.",
+            "In a pure and holy life; in the peaceful scenes of the sanctuary and the Sabbath; by noiseless and unobtrusive laborers, the seed is scattered over the world, and the result is seen in an abundant harvest in producing peace and order.",
+            "The whole effect, therefore, of religion, is to produce peace. It is all peace - peace in its origin and in its results; in the heart of the individual, and in society; on earth, and in heaven."
+        ],
+        "John Calvin": [
+            "those who are wise according to God\u2019s will, are so kind, meek, and merciful, as yet not to cover vices nor favor them; but on the contrary in such a way as to strive to correct them, and yet in a peaceable manner.\" ",
+            "those who wish to be physicians to heal vices ought not to be executioners.",
+            "they who study peace, are nevertheless careful to sow righteousness; nor are they slothful or negligent in promoting and encouraging good works; but they moderate their zeal with the condiment of peace, while hypocrites throw all things into confusion by a blind and furious violence."
+        ],
+        "Philip Schaff": [
+            "As bitter emulation and party-strife are the fruits of earthly wisdom, so righteousness is the fruit of heavenly wisdom.\" ",
+            "The seed of righteousness is sown by the peacemakers in a spirit of peace.\" ",
+            "Only those who are actuated by the spirit of peace are the true sowers of righteousness."
+        ],
+        "Archibald T. Robertson": [
+            "The seed which bears the fruit is sown, but James catches up the metaphor of \u03ba\u03b1\u03c1\u03c0\u03bf\u03c2 (fruit) from verse James 3:17.",
+            "Only in peace is the fruit of righteousness found.",
+            "Only those who act peaceably are entitled to peace."
+        ],
+        "John Gill": [
+            "And the fruit of righteousness... is sown in peace of them that make peace.\" ",
+            "That peace which they make, pursue after, exercise, and maintain, is a seed, which, being sown by them, will, in the issue, be followed with eternal happiness and felicity.",
+            "Righteousness and peace promise a large and comfortable harvest both here and hereafter."
+        ],
+        "John Wesley": [
+            "And the principle productive of this righteousness is sown, like good seed, in the peace of a believer's mind.\" ",
+            "Brings forth a plentiful harvest of happiness, (which is the proper fruit of righteousness).\" ",
+            "For them that make peace - That labor to promote this pure and holy peace among all men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The peaceable fruit of righteousness is sown in peace by those who work peace, as the result of true wisdom. This fruit, when fully developed, shall be the everlasting reward of the righteous. Those who are wise according to God's will sow righteousness, not hiding or favoring sins, but reproving them with peaceable moderation. They strive to correct and heal vices, acting as physicians rather than executioners. Only in peace is the fruit of righteousness found, and only those who act peaceably are entitled to peace. This righteousness, sown by peacemakers, promises a plentiful harvest of happiness both here and in eternity.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.484653419454604,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.95,
+            "commentatorTierSimilarities": [
+                33.41,
+                32.63,
+                33.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The peaceable fruit of righteousness is sown in peace by those who work peace, as the result of true wisdom. This fruit, when fully developed, shall be the everlasting reward of the righteous. Those who are wise according to God's will sow righteousness, not hiding or favoring sins, but reproving them with peaceable moderation. Only in peace is the fruit of righteousness found, and only those who act peaceably are entitled to peace. This righteousness, sown by peacemakers, promises a bountiful harvest both here and in eternity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.730287161668601,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.12,
+            "commentatorTierSimilarities": [
+                34.26,
+                33.74,
+                32.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The peaceable fruit of righteousness is sown in peace by those who work peace, as the result of true wisdom. This fruit, when fully developed, shall be the everlasting reward of the righteous. Only in peace is the fruit of righteousness found. Those who act peaceably are entitled to peace. This righteousness, sown by peacemakers, promises a bountiful harvest both here and in eternity.",
+            "wordCount": 64,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.674499901845558,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.27,
+            "commentatorTierSimilarities": [
+                35.17,
+                33.63,
+                31.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The peaceable fruit of righteousness is sown in peace by them who work peace. Those truly wise towards God make it their chief concern to sow righteousness, reproving sins with peaceable moderation rather than being executioners of sinners. Only in peace is the fruit of righteousness found. The seed of righteousness is sown by the peacemakers in a spirit of peace. This righteousness promises a plentiful and everlasting reward of happiness for those who make peace and labor to promote pure and holy peace among all.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.8597433099304364,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.43,
+            "commentatorTierSimilarities": [
+                32.91,
+                34.69,
+                32.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The peaceable fruit of righteousness is sown in peace by them who work peace. Those who are wise according to God's will make it their chief concern to sow righteousness, reproving sins with peaceable moderation. Only in peace is the fruit of righteousness found. The seed of righteousness is sown by the peacemakers in a spirit of peace. This righteousness promises a plentiful reward of happiness for those who make peace and labor to promote pure and holy peace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.8621900258946322,
+            "qualityScoreNormalizedComparedToV2BHTs": 86.51,
+            "commentatorTierSimilarities": [
+                32.67,
+                34.93,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:36:41",
+    "verseRef": "James 5:10",
+    "bestBHT": {
+        "bht": "The prophets, who were especially persecuted and endured affliction, serve as examples for us to imitate. They were models of patience in their trials and showed us how to bear evils. Our sufferings are not unique, as the prophets experienced even greater afflictions. By considering their sufferings and the ways they courageously endured them, we can find consolation and strength when we face difficulties. Their holiness and high commission did not shield them from suffering, reminding us that even those highly honored by God may still endure hardship.",
+        "wordCount": 88,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.9215678115307024,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+        "commentatorTierSimilarities": [
+            22.26,
+            41.51,
+            36.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "10. the prophets\u2014who were",
+            "\tespecially persecuted, and therefore were especially \"blessed.",
+            "\t",
+            "example of suffering",
+            "\taffliction\u2014rather, simply, \"of affliction,",
+            "\tliterally, \"evil treatment."
+        ],
+        "Albert Barnes": [
+            "If the prophets were persecuted and tried, it may be expected that other good men will be.",
+            "That they showed such patience in their trials as to be a model for us.",
+            "They showed us how evils are to be borne."
+        ],
+        "Marvin Vincent": [
+            "The word does not mean the endurance of affliction, but affliction itself. Hence, Rev., rightly, suffering.",
+            "The prophets.",
+            "Compare Matthew 5:12."
+        ],
+        "John Calvin": [
+            "It is a singular consolation when we know that we suffer nothing different from them; nay, when we know that we have to sustain the same yoke with them.",
+            "Nothing so breaks us down and disheartens us as the feeling of misery; it is therefore a real consolation to know that those things commonly deemed evils are aids and helps to our salvation.",
+            "He has laid before our eyes a pattern, that we may learn to look at it whenever we are tempted to impatience or to despair: and he takes this principle as granted, that the prophets were blessed in their afflictions, for they courageously sustained them."
+        ],
+        "Philip Schaff": [
+            "It is an argument for patience in affliction that our sufferings are not peculiar, but that others have likewise suffered, especially those eminent for holiness.",
+            "The prophets were examples both of affliction and of patience; their afflictions were greater than ours, and therefore the patience with which they endured them was so much the more commendable and worthy of imitation.",
+            "Examples of affliction are not hard to find; we have only to open our eyes, and we shall see greater sufferers than ourselves; but examples both of affliction and of patience are rarer, yet, thank God, they also may be found."
+        ],
+        "Archibald T. Robertson": [
+            "For an example (\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1)... here for copy to be imitated... as a warning.\" ",
+            "Of suffering (\u03c4\u03b7\u03c2 \u03ba\u03b1\u03ba\u03bf\u03c0\u03b1\u03b8\u03b9\u03b1\u03c2).",
+            "In the name of (\u03b5\u03bd \u03c4\u03c9 \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4). With the authority of the Lord."
+        ],
+        "John Gill": [
+            "Men who have been highly honoured of God, with a gift of prophesying, or foretelling things to come; to whom God revealed his secrets, doing nothing without acquainting them with it...",
+            "And yet, though these were his favourites, they suffered much; as cruel mockings, scourgings, imprisonment, famine, nakedness, and death in various shapes...",
+            "And therefore the apostle proposes them to be taken, for an example suffering affliction, and of patience; their afflictions were many and great, and yet they were very patient under them..."
+        ],
+        "John Wesley": [
+            "Take the prophets for an example \u2014 Once persecuted like you, even for speaking in the name of the Lord.",
+            "The very men that gloried in having prophets yet could not bear their message.",
+            "Nor did either their holiness or their high commission screen them from suffering."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophets, who were especially persecuted and endured affliction, serve as examples for us to imitate. They were models of patience in their trials and showed us how to bear evils. Our sufferings are not unique, as the prophets experienced even greater afflictions. By considering their sufferings and the ways they courageously endured them, we can find consolation and strength when we face difficulties. Their holiness and high commission did not shield them from suffering, reminding us that even those highly honored by God may still endure hardship. Therefore, let us take the prophets as an example of suffering affliction and patience, knowing that we too are blessed in our afflictions as we endure them in the name of the Lord.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 1.9912397345195165,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                23.11,
+                40.8,
+                36.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophets, as examples of suffering and patience, were especially persecuted and endured affliction. Their experiences serve as a model for us to imitate, reminding us that our sufferings are not unique. Despite their holiness and high commission, the prophets still faced cruel mockings, scourgings, imprisonment, and even death. By considering their endurance in the midst of affliction, we can find consolation and strength. Let us take them as an example, knowing that we too are blessed in our afflictions as we endure them in the name of the Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8152384496558267,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                23.77,
+                39.02,
+                37.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophets, who were especially persecuted and endured affliction, serve as examples for us to imitate. They were models of patience in their trials and showed us how to bear evils. Our sufferings are not unique, as the prophets experienced even greater afflictions. By considering their sufferings and the ways they courageously endured them, we can find consolation and strength when we face difficulties. Their holiness and high commission did not shield them from suffering, reminding us that even those highly honored by God may still endure hardship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.9215678115307024,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                22.26,
+                41.51,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophets, who endured affliction and were especially persecuted, serve as examples for us to imitate in our own sufferings. Their experiences of patient endurance in the face of cruel mockings, scourgings, imprisonment, and even death teach us the importance of perseverance. By considering their afflictions and the strength they displayed, we can find consolation and encouragement in knowing that our sufferings are not unique. Just as the prophets were blessed in their afflictions, we too can find blessings as we endure our trials in the name of the Lord.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9138367768413513,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                23.6,
+                38.38,
+                38.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophets were especially persecuted and endured affliction, making them models of patience amidst trials. Their sufferings teach us that our own afflictions are not unique, reminding us to find consolation and strength in their examples. Despite their holiness, they faced cruel mockings, scourgings, imprisonment, and death. By learning from their endurance, we can bear our own sufferings with courage and hope, knowing that even those highly honored by God may still experience hardship. In enduring affliction, we share in the blessings of the prophets, finding solace and empowerment through the name of the Lord.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.818503776538468,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                23.06,
+                38.01,
+                38.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

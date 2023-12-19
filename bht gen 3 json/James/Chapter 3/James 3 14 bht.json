@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:36:18",
+    "verseRef": "James 3:14",
+    "bestBHT": {
+        "bht": "Kindly, generous emulation is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth, while your lives belie your glorying. The bad sense is defined and emphasized by the epithet bitter. By your conduct, do not belie the truth. Envy at the happiness of others is a root of bitterness in the heart. Strife in the mind, or an intention to strive and quarrel with others, is very sinful. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness, he lies against the truth.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.985116533288301,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+        "commentatorTierSimilarities": [
+            34.18,
+            33.38,
+            32.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Kindly, generous emulation, or zeal, is not condemned, but that which is 'bitter'.\" ",
+            "To boast of your wisdom is virtually a lying against the truth (the gospel), while your lives belie your glorying.\" ",
+            "Your words and deeds flow from your hearts, like a fountain."
+        ],
+        "Albert Barnes": [
+            "If ye have bitter envying and strife in your hearts...a spirit of ambition and contention.\" ",
+            "Do not boast... Nothing would render you more unfit for such an office than such a spirit.\" ",
+            "Men should seek no office or station which they could not properly seek if the whole truth about them were known."
+        ],
+        "Marvin Vincent": [
+            "The bad sense is predominant in the New Testament. See Acts 5:17; Romans 13:13; Galatians 5:20, and here, where the bad sense is defined and emphasized by the epithet bitter.\" ",
+            "It is often joined with eriv, strife, as here with ejriqeia, intriguing or faction.",
+            "It is derived from eriqov, a hired servant, and means, primarily, labor for hire."
+        ],
+        "John Calvin": [
+            "He points out the fruits which proceed from that extreme austerity which is contrary to meekness; for immoderate rigor necessarily begets mischievous emulations, which presently break forth into contentions.\" ",
+            "He has called envying, or emulation, bitter; for it prevails not, except when minds are so infected with the poison of malignity, that they turn all things into bitterness.",
+            "That we may then really glory that we are the children of God, he bids us to act calmly and meekly towards our brethren; otherwise he declares that we are lying in assuming the Christian name."
+        ],
+        "Philip Schaff": [
+            "But if ye have bitter envying zeal or emulation in a bad sense..."
+        ],
+        "Archibald T. Robertson": [
+            "Pride of knowledge is evil and leaves a bitter taste.\" ",
+            "Wisdom is essential for the teacher. Boasting arrogance disproves the possession of wisdom.",
+            "Lying against the truth is futile. By your conduct do not belie the truth which you teach; a solemn and needed lesson."
+        ],
+        "John Gill": [
+            "Envy at the happiness of others, whether at the external blessings of Providence, or at the internal endowments of their minds, is a root of bitterness in the heart.\" (27 words)",
+            "Strife in the mind, or an intention to strive and quarrel with others, who are the objects of envy, is very sinful, and of pernicious consequence.\" (25 words)",
+            "For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness in his heart, and quarrelling and contention in his mind, he lies both against the truth of God's word and his own conscience.\" (38 words)"
+        ],
+        "John Wesley": [
+            "True Christian zeal is only the flame of love.",
+            "Even in your hearts - Though it went no farther.",
+            "Do not lie against the truth - As if such zeal could consist with heavenly wisdom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Kindly, generous emulation, or zeal, is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth (the gospel), while your lives belie your glorying. Your words and deeds flow from your hearts, like a fountain. The bad sense is predominant in the New Testament, where the bad sense is defined and emphasized by the epithet bitter. Pride of knowledge is evil and leaves a bitter taste. Wisdom is essential for the teacher, and boasting arrogance disproves the possession of wisdom. By your conduct, do not belie the truth which you teach; a solemn and needed lesson. Envy at the happiness of others, whether at the external blessings of Providence or at the internal endowments of their minds, is a root of bitterness in the heart. Strife in the mind or an intention to strive and quarrel with others who are the objects of envy is very sinful and of pernicious consequence. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness in his heart and quarreling and contention in his mind, he lies both against the truth of God's word and his own conscience. True Christian zeal is only the flame of love.",
+            "wordCount": 210,
+            "quoteTokenProportion": 31.93,
+            "qualityScore": 1.9775539099871662,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                36.1,
+                29.4,
+                34.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Kindly, generous emulation is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth, while your lives belie your glorying. Your words and deeds flow from your hearts, like a fountain. The bad sense is defined and emphasized by the epithet bitter. Pride of knowledge is evil and leaves a bitter taste. Wisdom is essential for the teacher, and boasting arrogance disproves the possession of wisdom. By your conduct, do not belie the truth. Envy at the happiness of others is a root of bitterness in the heart. Strife in the mind, or an intention to strive and quarrel with others, is very sinful. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness in his heart, he lies against the truth. True Christian zeal is only the flame of love.",
+            "wordCount": 147,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.929143767488984,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.49,
+            "commentatorTierSimilarities": [
+                36.37,
+                30.72,
+                32.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Kindly, generous emulation is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth, while your lives belie your glorying. The bad sense is defined and emphasized by the epithet bitter. By your conduct, do not belie the truth. Envy at the happiness of others is a root of bitterness in the heart. Strife in the mind, or an intention to strive and quarrel with others, is very sinful. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness in his heart, he lies against the truth.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9814483098601023,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                34.08,
+                33.01,
+                32.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Kindly, generous emulation is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth, while your lives belie your glorying. The bad sense is defined and emphasized by the epithet bitter. By your conduct, do not belie the truth. Envy at the happiness of others is a root of bitterness in the heart. Strife in the mind, or an intention to strive and quarrel with others, is very sinful. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness, he lies against the truth.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.985116533288301,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                34.18,
+                33.38,
+                32.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Kindly, generous emulation is not condemned, but that which is 'bitter.' To boast of your wisdom is virtually a lying against the truth, while your lives belie your glorying. The bad sense is defined and emphasized by the epithet bitter. By your conduct, do not belie the truth. Envy at the happiness of others is a root of bitterness in the heart. Strife in the mind, or an intention to strive and quarrel with others, is very sinful. For a man to assert himself to be a wise and knowing man, and yet cherishes bitterness, he lies against the truth.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.985116533288301,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                34.18,
+                33.38,
+                32.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

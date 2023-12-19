@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:44",
+    "verseRef": "James 1:14",
+    "bestBHT": {
+        "bht": "Each one is tempted when drawn out and enticed by their own lust. This lust is the effect of sin in themselves, arising from their own temperament and habits. It is like bait that allures and entices, pulling them away from the line of duty. The cause of sin lies within, as even Satan's suggestions cannot harm until they are embraced as our own. We sin because we choose to sin, as no external impulse can be blamed.",
+        "wordCount": 79,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 2.274447331734943,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.97,
+        "commentatorTierSimilarities": [
+            33.78,
+            35.57,
+            30.65
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Each man is tempted, being drawn out and enticed by his own lust.",
+            "James is not here speaking of the original source of sin in man, but of the actual source of temptation to sin.",
+            "The lust here is the lust there, itself the effect of sin in the members, and leading to sin in the conduct."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The cause of sin is in ourselves. Even Satan's suggestions do not endanger us before they are made our own.\" ",
+            "Each one has his own peculiar lust, arising from his own temperament and habit.\" ",
+            "Lust flows from the original birth-sin in man, inherited from Adam."
+        ],
+        "Albert Barnes": [
+            "The fountain or source of all temptation is in man himself.",
+            "The power of the temptation is laid in some propensity of our nature, some desire of that which we do not now possess.",
+            "The whole passage, with the words and figures which are used, show that the idea in the apostle\u2019s mind was that of an enticing harlot."
+        ],
+        "Marvin Vincent": [
+            "Drawn away, as beasts are enticed from a safe covert into a place beset with snares.\" ",
+            "Note the present participle, as indicating the progress of the temptation: 'is being drawn away.'",
+            "Enticed, as a fish with bait."
+        ],
+        "John Calvin": [
+            "In vain does the sinner seek a cause from an external impulse.\" ",
+            "It ensnares us by its allurements, and it does us away; each of which is sufficient to render us guilty.\" ",
+            "He is first drawn off from the line of duty, and then he is caught by something that is pleasing and plausible, but like the bait, it has in it a deadly hook."
+        ],
+        "Philip Schaff": [
+            "These solicitations, he observes, arise from within; they have their origin in our evil desires; our passions are the occasion of our yielding to temptation.",
+            "St. James, then, here tells us where to lay the blame of our temptation or incitement to sin; certainly not on God, for He tempteth no man to evil; but on ourselves on those sinful propensities which exist within us.",
+            "It is we ourselves that yield. We sin simply because we choose to sin. Even Satan can only tempt; he cannot constrain men to commit evil."
+        ],
+        "Archibald T. Robertson": [
+            "Like a fish drawn out from his retreat.",
+            "Enticed... to catch fish by bait or to hunt with snares.",
+            "Allured by definite bait."
+        ],
+        "John Gill": [
+            "Every man is tempted... when he is drawn away of his own lust and enticed; the metaphor is taken either from fishes, who are enticed by the bait, and drawn out by the hook; or from a lascivious woman, who meeting with a young man, entices him, and draws him away after her to commit iniquity with her.\" ",
+            "By 'lust' is meant the principle of corrupt nature, which has its residence in the heart of man... He brings it into the world with him, and it continues in him, and is called his own heart's lust.\" ",
+            "Now this meeting with some bait, which entices and draws it out, or with some external object, which promises pleasure or profit, a man is allured, and ensnared, and drawn away by it, and so the temptation begins."
+        ],
+        "John Wesley": [
+            "We are therefore to look for the cause of every sin, in, not out of ourselves.\" ",
+            "Even the injections of the devil cannot hurt before we make them our own.",
+            "And every one has desires arising from his own constitution, tempers, habits, and way of life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Each person is tempted when they are drawn out and enticed by their own lust. This lust is the effect of sin in the members, flowing from the original sin inherited from Adam. The cause of sin is within ourselves, even Satan's suggestions do not harm us until we make them our own. We each have our own specific desires and propensities that make us susceptible to temptation. We are enticed and allured by specific bait that appeals to our individual temperament and habits. Ultimately, we sin because we choose to sin, as no one can force us to commit evil.",
+            "wordCount": 102,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 2.2848964442684574,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.31,
+            "commentatorTierSimilarities": [
+                31.74,
+                39.8,
+                28.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Each person is tempted when drawn out and enticed by their own lust, flowing from the original sin in man. Lust is like bait, enticing and alluring us based on our own desires and propensities. Satan's suggestions do not harm us until we make them our own. We sin because we choose to sin, as no one can force us to commit evil. The cause of sin is within ourselves, from our own constitution, temperament, habits, and way of life.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.2688455005544332,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.78,
+            "commentatorTierSimilarities": [
+                30.29,
+                40.54,
+                29.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Each one is tempted when drawn out and enticed by their own lust. This lust is the effect of sin in themselves, arising from their own temperament and habits. It is like bait that allures and entices, pulling them away from the line of duty. The cause of sin lies within, as even Satan's suggestions cannot harm until they are embraced as our own. We sin because we choose to sin, as no external impulse can be blamed.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 2.274447331734943,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.97,
+            "commentatorTierSimilarities": [
+                33.78,
+                35.57,
+                30.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man is tempted by his own lust, a temptation that arises from his sinful nature and is further fueled by his own desires and tendencies. This temptation acts like bait, drawing man away from what is right and enticing him to sin. These desires and temptations are unique to each individual, influenced by their temperament, habits, and predispositions. The blame for succumbing to temptation lies solely with man himself, as even Satan's suggestions can only tempt but not force man to commit evil. Therefore, when man is enticed and drawn away by his own desires, he becomes vulnerable to sin, like a fish lured by bait or a person led astray by a seductive harlot. It is within ourselves that the root of sin lies, and it is our own choices that ultimately lead us to sin.",
+            "wordCount": 138,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.4548896484664633,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.96,
+            "commentatorTierSimilarities": [
+                30.61,
+                40.52,
+                28.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Each man is tempted by his own lust, drawn away and enticed, as a fish with bait. These lustful desires arise from the original birth-sin in man and are influenced by individual temperament and habit. The cause of sin lies within us, even Satan's suggestions do not harm us before they become our own. Temptation progressively leads us astray, like beasts enticed from safety. The blame for yielding to temptation rests solely on us, for we sin by choice, not constraint.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.3686834035986344,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.1,
+            "commentatorTierSimilarities": [
+                33.22,
+                39.05,
+                27.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

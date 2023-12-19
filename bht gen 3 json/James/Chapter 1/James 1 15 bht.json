@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:34",
+    "verseRef": "James 1:15",
+    "bestBHT": {
+        "bht": "When our will aligns with our lustful desires, sin is conceived and brings forth death. The temptation to sin cannot be attributed to God, as trials originate from Him. Lust, depicted as a harlot, seduces the will, resulting in sin. This sinful action, when completed, begets death. It is crucial to understand that even our thoughts and desires, if left unchecked, can lead to death - both in this life and in eternity.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 2.660223093304656,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.79,
+        "commentatorTierSimilarities": [
+            31.09,
+            38.16,
+            30.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The inner act is the union of the will with the lust, the 'bringing forth' denoting extrusion into outward act.",
+            "The second sin...being thus perfected, brings forth eternal death.",
+            "So that temptation to sin cannot be from God, while trial is from Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lust,\" the harlot, then, \"brings forth sin,\" namely, of that kind to which the temptation inclines.",
+            "Then the particular sin (so the Greek implies), \"when it is completed, brings forth death,\" with which it was all along pregnant.",
+            "This \"death\" stands in striking contrast to the \"crown of life\" which \"patience\" or endurance ends in when it has its \"perfect work."
+        ],
+        "Albert Barnes": [
+            "When that which is conceived in the heart is matured, it is seen to be sin.",
+            "There is enough in the heart of man to account for all actual sin, without supposing that it is caused by God.",
+            "Any one who indulges in a sinful thought or corrupt desire, should reflect that it may end in death - death temporal and eternal."
+        ],
+        "Marvin Vincent": [
+            "When sin has reached its full development.",
+            "Sin, figured as male, when it has reached maturity, becomes the begetter of death.",
+            "The impious deed begets a numerous brood alike in kind."
+        ],
+        "John Calvin": [
+            "He first calls that lust which is not any kind of evil affection or desire, but that which is the fountain of all evil affections.",
+            "But as the use of a word is various, there is nothing unreasonable if it be taken here, as in many other places, for actual sin.",
+            "By perfected sin, therefore, I understand, not any one act of sin perpetrated, but the completed course of sinning."
+        ],
+        "Philip Schaff": [
+            "Lust is here considered as a harlot who seduces the will, and sin is the consequence of this unhallowed alliance.",
+            "Sin is the child of our corrupt passions; it has its origin in our evil desires; it is the outcome of inward depravity.",
+            "Lust is the mother of sin and death its progeny."
+        ],
+        "Archibald T. Robertson": [
+            "The will yields to lust and conception takes place.",
+            "Sin is the union of the will with lust.",
+            "The child of lust is sin, of sin is death, powerful figure of abortion. The child is dead at birth."
+        ],
+        "John Gill": [
+            "And so it follows here, it bringeth forth sin; into act, not only by consenting to it, but by performing it.\" ",
+            "Sin, when it is finished: being solicited, is agreed to, and actually committed.",
+            "Every sin is deserving of death, death is the just wages of it; yea, even the motions of sin work in men to bring forth fruit unto death."
+        ],
+        "John Wesley": [
+            "It doth not follow that the desire itself is not sin.",
+            "He that begets a man is himself a man.",
+            "Sin is born big with death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When our wills align with our sinful desires, it gives birth to sin, which ultimately leads to death. This temptation and resulting sin cannot be attributed to God, as trials are separate from the lure of sin. Lust, depicted as a harlot, seduces the will, and sin becomes the consequence of this unholy union. Sin, therefore, is the offspring of our corrupt passions and the product of our inward depravity. Just as a completed course of sinning brings forth sin, its ultimate outcome is death. It is vital to remember that even our thoughts and desires, if left unchecked, can lead to death - both temporal and eternal.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.7078225240100826,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.37,
+            "commentatorTierSimilarities": [
+                30.4,
+                39.33,
+                30.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When our wills merge with our sinful desires, it results in the birth of sin and, ultimately, death. This temptation and resulting sin cannot be ascribed to God, as trials are distinct from the enticement of sin. Lust, depicted as a harlot, seduces the will, and sin becomes the offspring of this unholy alliance. Sin is born from our corrupt passions and is the manifestation of our inner depravity. Completing the course of sin brings forth death as its ultimate consequence. It is crucial to recognize that even our thoughts and desires, if left unchecked, can lead to death - both temporal and eternal.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 2.642203132073817,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.19,
+            "commentatorTierSimilarities": [
+                30.6,
+                39.51,
+                29.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When our will colludes with our sinful desires, it gives birth to sin, which ultimately leads to death. This powerful imagery portrays sin as the offspring of the unholy union between lust and the will. The completed course of sinning brings forth its deadly consequences. It is important to differentiate between trials, which come from God, and temptations, which arise from our own sinful inclinations. Even our thoughts and desires, if unchecked, can pave the way to death - both temporal and eternal.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.4430535913847047,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.57,
+            "commentatorTierSimilarities": [
+                32.04,
+                39.07,
+                28.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When our will aligns with our lustful desires, sin is conceived and brings forth death. The temptation to sin cannot be attributed to God, as trials originate from Him. Lust, depicted as a harlot, seduces the will, resulting in sin. This sinful action, when completed, begets death. It is crucial to understand that even our thoughts and desires, if left unchecked, can lead to death - both in this life and in eternity.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.660223093304656,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.79,
+            "commentatorTierSimilarities": [
+                31.09,
+                38.16,
+                30.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When our will unites with our lust, sin is birthed and ultimately leads to death. The temptations we face are not from God, as He allows trials but not the enticement of sin. Lust, portrayed metaphorically as a harlot, seduces the will, giving rise to sin. This sinful act, once fully developed, gives birth to death. It is vital to recognize that even our thoughts and desires, if unchecked, can result in death - both in this life and in eternity.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.653587475141963,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.57,
+            "commentatorTierSimilarities": [
+                31.59,
+                38.25,
+                30.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

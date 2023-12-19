@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 17:35:13",
+    "verseRef": "James 2:5",
+    "bestBHT": {
+        "bht": "God has chosen the poor as rich in faith, making them heirs of His promised kingdom. Their poverty, in the world's eyes, does not diminish their true riches, which lie in their faith. The poor, as a class, contribute more believers than the rich. Believers, no matter how poor they may be, possess true riches in their faith. Instead of looking down on the poor, we should honor and acknowledge them, for they are chosen and blessed by God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.913110598361918,
+        "qualityScoreNormalizedComparedToV2BHTs": 88.2,
+        "commentatorTierSimilarities": [
+            33.7,
+            39.53,
+            26.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Did not God choose out the poor as regards the world rich in faith.\" ",
+            "The riches are the treasures of salvation, and especially...the sonship in God's family.\" ",
+            "Heirs of the kingdom which He promised to them that love Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The poor, as a class, furnish more believers than the rich as a class.",
+            "Their riches consist in faith.",
+            "Christ's poverty is the source of the believer's riches."
+        ],
+        "Albert Barnes": [
+            "God has chosen the poor of this world...that in fact the great mass of believers is taken from those who are in comparatively humble life.",
+            "Though poor in this world\u2019s goods, they are rich in a higher and more important sense. They have faith in God their Saviour; and in this world of trial and sin, that is a more valuable possession than piles of hoarded silver or gold.",
+            "Faith in God the Saviour will answer more purposes, and accomplish more valuable ends for man, than the wealth of the Indies could: and this the poor may have as well as the rich."
+        ],
+        "Marvin Vincent": [
+            "Poor as to the world, in the world's esteem."
+        ],
+        "John Calvin": [
+            "The first is, that it is unbecoming and disgraceful to cast down those whom God exalts, and to treat reproachfully those whom he honors.",
+            "if we are empty or needy, that proves the deficiency of our faith; for if we only enlarge the bosom of faith, God is always ready to fill it.",
+            "He says, that a kingdom is promised to those who love God: not that the promise depends on love; but he reminds us that we are called by God unto the hope of eternal life, on this condition and to this end, that we may love him."
+        ],
+        "Philip Schaff": [
+            "Hath not God chosen the poor of this world;... the poor in worldly wealth.\" ",
+            "Rich in faith... the spiritual blessings which faith procured.\" ",
+            "The rich are under far greater temptations than the poor; they are led to trust in uncertain riches, and to seek their good things in this world."
+        ],
+        "Archibald T. Robertson": [
+            "As to the world, by the use of the article (the poor) James does not affirm that God chose all the poor, but only that he did choose poor people.",
+            "Rich in faith. Rich because of their faith.",
+            "Which he promised. The Messianic kingdom."
+        ],
+        "John Gill": [
+            "God has chosen the poor of this world; and which is to be understood, not of the choice of them to an office, either in church or state; though sometimes this has been the case...nor of the effectual calling, though this is true; but of eternal election, which is the act of God the Father.",
+            "Men are chosen, not because they do believe, or shall believe, but that they might believe; and which faith they have in consequence of election; and which when they have, they are rich.",
+            "Believers, how poor soever they may be, to this world's goods, are truly rich men."
+        ],
+        "John Wesley": [
+            "Does not the presumption lie rather in favour of the poor man?",
+            "Are not they whom God hath chosen, generally speaking, poor in this world?",
+            "Those whom God so highly honours, ought not ye to honour likewise?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "God has chosen the poor in this world to be rich in faith and heirs of the promised kingdom. Being poor in the world's eyes does not diminish their true riches, which come from their faith and their position as children of God. It is not that God chose all the poor, but specifically poor people who have faith. Their poverty reflects Christ's own poverty, which is the source of believers' riches. Despite their lack of worldly goods, believers are truly rich because of their faith. So instead of looking down on the poor, we should honor and consider them blessed.",
+            "wordCount": 103,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.9253098324803037,
+            "qualityScoreNormalizedComparedToV2BHTs": 88.61,
+            "commentatorTierSimilarities": [
+                33.74,
+                39.31,
+                26.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has chosen the poor as rich in faith, making them heirs of His promised kingdom. Their poverty, in the world's eyes, does not diminish their true riches, which lie in their faith. The poor, as a class, contribute more believers than the rich. Believers, no matter how poor they may be, possess true riches in their faith. Instead of looking down on the poor, we should honor and acknowledge them, for they are chosen and blessed by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.913110598361918,
+            "qualityScoreNormalizedComparedToV2BHTs": 88.2,
+            "commentatorTierSimilarities": [
+                33.7,
+                39.53,
+                26.77
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-19-2023 17:36:44",
+    "verseRef": "James 5:1",
+    "bestBHT": {
+        "bht": "Go now, you who are rich, and weep and howl over the miseries that are coming upon you swiftly and unexpectedly. This is not a suggestion, but a command calling your solemn attention to the impending judgment. These miseries are not the natural consequences of worldly riches, but rather they are the swift and certain judgment connected to the coming of the Lord. You who have neglected the true enjoyment of wealth by not doing good will soon find yourselves weeping and howling in passionate expressions of grief.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.927762094892731,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+        "commentatorTierSimilarities": [
+            34.55,
+            25.8,
+            39.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Go to now, ye rich, go weep, howling over your miseries which are coming on.\" ",
+            "The tense in the original gives the command a concentrated force, as that which ought to be done at once and without delay.",
+            "These miseries are not to be thought of as the natural and determined end of all worldly riches, but are the judgments connected with the coming of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Go to now\u2014Come now. A",
+            "phrase to call solemn attention.\" ",
+            "ye rich\u2014who have",
+            "neglected the true enjoyment of riches, which consists in doing good.",
+            "miseries that shall",
+            "come\u2014literally, 'that are coming upon you'",
+            "unexpectedly and swiftly, namely, at the coming of the Lord."
+        ],
+        "Albert Barnes": [
+            "There is no sin in merely being rich; where sin exists peculiarly among the rich, it arises from the manner in which wealth is acquired, the spirit which it tends to engender in the heart, and the way in which it is used.",
+            "The language is intensive in a high degree, showing that the calamities which were coming upon them were not only such as would produce tears, but tears accompanied with loud lamentations.",
+            "If there is any class of men which has special reason to dread the wrath of God at all times, it is just the class of men here referred to."
+        ],
+        "Marvin Vincent": [
+            "Weep and howl. The latter is a descriptive word, ol - ol - uz - o. Only here in the New Testament, and denoting a more demonstrative and passionate expression of grief than weeping.\" (Commentary)",
+            "Miseries. Only here and Romans 3:16.\" (Commentary)",
+            "That shall come upon. Present participle. More correctly, as Rev., that are coming.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "It seems to me to be a simple denunciation of God\u2019s judgment, by which he meant to terrify them without giving them any hope of pardon; for all that he says tends only to despair.\" ",
+            "But he does not speak of the rich indiscriminately, but of those who, being immersed in pleasures and inflated with pride, thought of nothing but of the world, and who, like inexhaustible gulfs, devoured everything.",
+            "James intimates that the heaviness of God\u2019s vengeance will be so horrible and severe on the rich, that they will be constrained to break forth into howling, as though he had said briefly to them, 'Woe to you!' But it is a prophetic mode of speaking: the ungodly have the punishment which awaits them set before them, and they are represented as already enduring it."
+        ],
+        "Philip Schaff": [
+            "The rich men, whom St. James must here mean, are those already mentioned in chap, James 2:6-7: those who practiced violence on the disciples of Christ, the confessors of the Lord of glory, and blasphemed that good name by which they were called.",
+            "Riches are too frequently an obstacle to salvation, a weight which prevents the soul soaring upwards to heaven.",
+            "St. James, like a Christian Jeremiah, is uttering a Divine prophecy of the woes that are coming on Jerusalem and the Jews throughout the world."
+        ],
+        "Archibald T. Robertson": [
+            "Come now, ye rich...The plea here is not directly for reform, but a warning of certain judgment.\" ",
+            "Weep and howl...burst into weeping, howling with grief.\" ",
+            "That are coming upon you...used here in futuristic prophetic sense."
+        ],
+        "John Gill": [
+            "and yet wicked rich men, or those that were the openly profane, are not here intended neither; for the apostle only writes to such who were within the church, and not without...",
+            "meaning, not temporal calamities that should come upon them at the destruction of Jerusalem...but eternal miseries, or the torments of hell are intended...",
+            "when their present joy and laughter would be turned into howling and weeping."
+        ],
+        "John Wesley": [
+            "Come now, ye rich \u2014 The apostle does not speak this so much for the sake of the rich themselves, as of the poor children of God, who were then groaning under their cruel oppression.",
+            "Weep and howl for your miseries which are coming upon you \u2014 Quickly and unexpectedly.",
+            "And as these were an awful prelude of that wrath which was to fall upon them in the world to come, so this may likewise refer to the final vengeance which will then be executed on the impenitent."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Go now, you who are wealthy, and lament over the impending miseries that will swiftly come upon you. This is not a mere suggestion, but a urgent command. These miseries are not the natural consequences of worldly riches, but rather they are judgments connected to the coming of the Lord. You who have neglected the true purpose of riches, which is to do good, will soon find yourselves weeping and howling with grief. This will be a passionate expression of your grief, for the calamities are not only tears, but tears accompanied with loud lamentations. It is a warning of certain judgment, a prophecy of the woes that will befall the ungodly rich.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 1.8527490748062876,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                31.29,
+                30.91,
+                37.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Go now, you wealthy ones, and weep and howl over the miseries that are coming upon you. This is not a mere suggestion, but an urgent command to pay attention. These miseries are not the natural and determined end of all worldly riches, but rather the judgments that will swiftly come upon you at the coming of the Lord. Those who have neglected the true enjoyment of riches, which consists in doing good, will soon find themselves weeping and howling with grief.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 1.904609920038848,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                34.44,
+                26.31,
+                39.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Go now, you who are rich, and weep and howl over the miseries that are coming upon you swiftly and unexpectedly. This is not a suggestion, but a command calling your solemn attention to the impending judgment. These miseries are not the natural consequences of worldly riches, but rather they are the swift and certain judgment connected to the coming of the Lord. You who have neglected the true enjoyment of wealth by not doing good will soon find yourselves weeping and howling in passionate expressions of grief.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.927762094892731,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                34.55,
+                25.8,
+                39.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Listen, you wealthy individuals, and tremble with fear as you lament and wail over the imminent miseries that will swiftly descend upon you. Pay attention to this urgent command that demands immediate action. These troubles are not the natural consequences of material wealth, but rather they are the divine judgments associated with the coming of the Lord. You, who have neglected the true purpose of riches\u2014doing good\u2014will soon find yourselves overcome with intense grief, weeping and howling in passionate despair.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.705576480992479,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                30.66,
+                29.5,
+                39.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Go now, you who possess great wealth, and lament and cry aloud over the sorrowful miseries that swiftly approach. This is not a mere suggestion, but an urgent command that demands immediate attention. These afflictions are not the inevitable consequence of worldly riches, but the judgments that will unexpectedly befall you at the coming of the Lord. You, who have disregarded the true enjoyment of wealth through acts of kindness, will soon find yourselves weeping and wailing, overwhelmed by deep grief.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.829334502901005,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                31.11,
+                29.71,
+                39.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

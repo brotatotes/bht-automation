@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:35:55",
+    "verseRef": "James 3:10",
+    "bestBHT": {
+        "bht": "Life and death are in the power of the tongue, making it morally incongruous for blessing and cursing to come from the same mouth. Individuals who both praise their Maker and slander their fellow men with the same organ engage in an unnatural and sinful contradiction. Such conduct deserves severe reprobation, and it is our responsibility to ensure that blessings, not curses, flow from our mouths. This inconsistency, whether in religious councils or among individuals, is unworthy of those who seek to honor God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.8924348340618762,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.26,
+        "commentatorTierSimilarities": [
+            31.17,
+            32.92,
+            35.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Out of the same mouth cometh forth blessing and cursing...the inconsistency is further shewn."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The tongue, says \u00c6SOP, is at once the best and the worst of things.\" ",
+            "Life and death are in the power of the tongue.",
+            "Ought not so to be\u2014a mild appeal, leaving it to themselves to understand that such conduct deserves the most severe reprobation."
+        ],
+        "Albert Barnes": [
+            "No organ should be devoted to uses so unlike, and the mouth should be employed in giving utterance only to that which is just, benevolent, and good.",
+            "It is true of many individuals that at one time they praise their Maker, and then, with the same organ, calumniate, and slander, and revile their fellow-men.",
+            "They are as incongruous as it would be for the same fountain to send forth both salt water and fresh; or for the same tree to bear different kinds of fruit."
+        ],
+        "John Calvin": [
+            "Severe censors discover their own virulence, which they suddenly vomit forth against their brethren whatever curses they can imagine, after having in sweet strains offered praises to God.",
+            "The image of God in human nature has been miserably deformed, but in such a way that some of its lineaments still appear.",
+            "He, then, who truly worships and honors God, will be afraid to speak slanderously of man."
+        ],
+        "Philip Schaff": [
+            "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.\" ",
+            "The annals of Christendom show that the necessity for the warning has not passed away.\" ",
+            "Councils formulating the faith, and uttering their curses on heretics; Te Deums chanted at an Auto da Fe, or after a massacre of St. Bartholomew; the railings of religious parties who are restrained from other modes of warfare, present the same melancholy inconsistency."
+        ],
+        "Archibald T. Robertson": [
+            "It is a moral incongruity for blessing and cursing to come out of the same mouth.",
+            "So to keep on happening, not just to be.",
+            "Present middle infinitive."
+        ],
+        "John Gill": [
+            "Out of the same mouth proceedeth blessing and cursing,.... Which is not only a contradiction, but unnatural, as well as wicked and sinful.",
+            "These things ought not so to be: in any, and much less in professors of religion.",
+            "Such things are unbecoming men, are a scandal upon human nature, and exceeding unworthy of the Christian name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is a moral incongruity for blessing and cursing to come out of the same mouth. Life and death are in the power of the tongue, and yet, some individuals use this powerful organ to both praise their Maker and slander their fellow men. The warning given in this verse still holds true today. Whether it is councils formulating the faith, religious parties engaging in warfare through railings, or individuals vomiting forth curses against their brethren, these acts of inconsistency and virulence are unbecoming of those who seek to worship and honor God. We ought to understand that such conduct deserves the most severe reprobation and that it is our responsibility to ensure that blessings, not curses, flow from our mouths.",
+            "wordCount": 121,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7596315069718926,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.85,
+            "commentatorTierSimilarities": [
+                31.99,
+                34.31,
+                33.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It is a moral incongruity for blessing and cursing to come out of the same mouth. Life and death are in the power of the tongue. Individuals who praise their Maker and then slander their fellow men with the same organ are engaging in a contradiction that is both unnatural and sinful. Whether in councils, religious parties, or individuals, this inconsistency is unbecoming and unworthy of those who seek to honor God. We must reprove such conduct and ensure that blessings, not curses, flow from our mouths.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.8545206393317695,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                35.07,
+                31.36,
+                33.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "It is morally incongruous for blessing and cursing to flow from the same mouth. The power of the tongue to bring both life and death is evident. Yet, some individuals praise God and then speak ill of their fellow men. This contradiction, both unnatural and sinful, deserves severe reprobation. Whether in religious councils or among individuals, such inconsistency is unbecoming and unworthy. We must strive to ensure that blessings, not curses, emanate from our mouths, honoring both God and our fellow human beings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8126866726538666,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                33.8,
+                29.68,
+                36.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Life and death are in the power of the tongue, making it morally incongruous for blessing and cursing to come from the same mouth. Individuals who both praise their Maker and slander their fellow men with the same organ engage in an unnatural and sinful contradiction. Such conduct deserves severe reprobation, and it is our responsibility to ensure that blessings, not curses, flow from our mouths. This inconsistency, whether in religious councils or among individuals, is unworthy of those who seek to honor God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8924348340618762,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.26,
+            "commentatorTierSimilarities": [
+                31.17,
+                32.92,
+                35.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The moral incongruity of blessing and cursing coming from the same mouth highlights the power of the tongue. Life and death reside within its control. Yet, it is both unnatural and sinful to praise God and slander fellow humanity with the same organ. Such behavior deserves severe reprobation and is unworthy of those who seek to honor God. Our responsibility is to ensure that blessings, rather than curses, flow from our mouths, regardless of whether we are in religious councils or acting as individuals.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6708660929131094,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                32.94,
+                30.24,
+                36.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

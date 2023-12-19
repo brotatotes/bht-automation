@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:35:38",
+    "verseRef": "James 2:23",
+    "bestBHT": {
+        "bht": "Abraham's faith was not a passive belief, but a faith that was fully realized through his works. His offering of Isaac was not just an act of obedience, but a profound act of faith that fulfilled the very words of Scripture. This act of obedience served as proof that Abraham possessed a living faith and was justified. The title Friend of God was not only used by James, but was also attributed to Abraham in the Old Testament. Abraham's faith and works epitomize a genuine and justified person.",
+        "wordCount": 90,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.6240238491825476,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.59,
+        "commentatorTierSimilarities": [
+            28.14,
+            39.55,
+            32.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "James must mean by works the same thing as Paul means by faith, only that he speaks of faith at its manifested development, whereas Paul speaks of it in its germ.",
+            "Abraham's offering of Isaac was not a mere act of obedience, but an act of faith.",
+            "He was called so, being recognized as such by all on the ground of his works of faith."
+        ],
+        "Albert Barnes": [
+            "The fair and full meaning of the language of Scripture was expressed by this act, showing in the highest sense that his faith was genuine.",
+            "The act of offering his son on the altar by which James says this Scripture was fulfilled, occurred some 20 years afterward. That act confirmed or fulfilled the declaration.",
+            "Abraham believed God, and it was imputed ... In virtue of his strong faith and obedience."
+        ],
+        "Marvin Vincent": [
+            "Was fulfilled [\u03b5\u03c0\u03bb\u03b7\u03c1\u03c9\u03b8\u03b7] . Not was confirmed, which the word does not mean either in New - Testament or in classical usage, but was actually and fully realized.\" ",
+            "Imputed [\u03b5\u03bb\u03bf\u03b3\u03b9\u03c3\u03b8\u03b7] . Lit., as Rev., reckoned.",
+            "He was called the friend of God. The term, however, does not occur either in the Hebrew or Septuagint, though it is found in the A. V. and retained in Rev. Old Testament."
+        ],
+        "John Calvin": [
+            "The imputation of righteousness which Moses mentions, preceded more than thirty years the work by which they would have Abraham to have been justified.",
+            "I consider that all those are bound fast by an indissoluble knot, who imagine that righteousness was imputed to Abraham before God, because he sacrificed his son Isaac, who was not yet born when the Holy Spirit declared that Abraham was justified.",
+            "Man is not justified by faith alone, that is, by a bare and empty knowledge of God; he is justified by works, that is, his righteousness is known and proved by its fruits."
+        ],
+        "Philip Schaff": [
+            "This great act of obedience on the part of Abraham was a proof of the fulfilment of the scriptural declaration made concerning him.",
+            "It is therefore evident that this act of obedience was not the cause of Abraham\u2019s justification; but, because it proved that Abraham was possessed of a living faith, it fulfilled the words of Scripture.",
+            "Abraham was the Beloved of God...this is still the favourite description of Abraham, both by the Jews and by the Mahometans."
+        ],
+        "Archibald T. Robertson": [
+            "So James quotes Genesis 15:6 as proving his point in verse James 2:21 that Abraham had works with his faith, the very same passage that Paul quotes in Romans 4:3 to show that Abraham's faith preceded his circumcision and was the basis of his justification.\" ",
+            "And he was called the friend of God (\u03ba\u03b1 \u03c6\u03b9\u03bb\u03bf\u03c2 \u03b8\u03b5\u03bf\u03c5 \u03b5\u03ba\u03bb\u03b7\u03b8\u03b7). First aorist passive indicative of \u03ba\u03b1\u03bb\u03b7\u03bf. Not a part of the Scripture quoted.\" ",
+            "It was evidently a common description before James used it, as in Isaiah 41:8; 2 Chronicles 20:7."
+        ],
+        "John Gill": [
+            "By this it was made known what a strong faith he had in God, and what reason there was to believe that he was a justified person.",
+            "Abraham believed God, and it was imputed to him for righteousness.",
+            "Abraham was loved by God with an everlasting love, who showed acts of friendship to him; called him by his grace, and blessed him with spiritual blessings."
+        ],
+        "John Wesley": [
+            "Abraham believed God, and it was imputed to him for righteousness - This was twice fulfilled, - when Abraham first believed, and when he offered up Isaac.\" ",
+            "And he was called the Friend of God - Both by his posterity, 2 Chronicles 20:7; and by God himself, Isaiah 41:8 so pleasing to God were the works be wrought in faith.\" ",
+            "Genesis 15:6"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham's faith and works are intimately connected. James emphasizes that Abraham's faith was not merely a belief, but a faith that was fully realized through his works. The offering of Isaac was not just an act of obedience, but an act of faith that demonstrated Abraham's trust in God. In fact, this act fulfilled the very words of Scripture that declared Abraham righteous. It is important to note that Abraham's faith was the basis of his justification, preceding even his circumcision. The title Friend of God was not only attributed to Abraham by James, but also in the Old Testament. Abraham's faith and works are a beautiful example of a genuine and living faith.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.4865615249154924,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.02,
+            "commentatorTierSimilarities": [
+                28.33,
+                39.32,
+                32.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham's works were the manifestation of his faith, as James and Paul use the term works to refer to the development and expression of faith. His offering of Isaac was not merely an act of obedience, but a powerful act of faith that fulfilled the Scripture's declaration about him. The title Friend of God was not given to Abraham by James alone, but was recognized in the Old Testament as well. Abraham's faith, demonstrated through his works, serves as a profound example of a genuine and living faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.599720471026285,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.78,
+            "commentatorTierSimilarities": [
+                30.49,
+                38.69,
+                30.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham's faith was not empty knowledge, but a faith that was fully realized and proven by his works. His act of offering Isaac on the altar confirmed and fulfilled the scriptural declaration made about him. This act of obedience was not the cause of Abraham's justification, but rather a proof of his living faith. The title Friend of God was not unique to James, as it was used both by his posterity and by God Himself. Abraham's faith and works beautifully exemplify a genuine and justified person.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.431987780096649,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+            "commentatorTierSimilarities": [
+                28.43,
+                38.94,
+                32.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham's faith was not a passive belief, but a faith that was fully realized through his works. His offering of Isaac was not just an act of obedience, but a profound act of faith that fulfilled the very words of Scripture. This act of obedience served as proof that Abraham possessed a living faith and was justified. The title Friend of God was not only used by James, but was also attributed to Abraham in the Old Testament. Abraham's faith and works epitomize a genuine and justified person.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.6240238491825476,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.59,
+            "commentatorTierSimilarities": [
+                28.14,
+                39.55,
+                32.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham's faith was not mere belief, but a faith fully realized through his works. His offering of Isaac demonstrated not only obedience, but also a profound act of faith that fulfilled the Scripture. This act of obedience proved that Abraham possessed a living faith and was justified. The title Friend of God was attributed to Abraham not only by James, but also in the Old Testament. Abraham's faith and works provide a powerful example of a genuine and justified person.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.50526104968932,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.64,
+            "commentatorTierSimilarities": [
+                26.99,
+                39.39,
+                33.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

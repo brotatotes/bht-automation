@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:35:15",
+    "verseRef": "James 2:16",
+    "bestBHT": {
+        "bht": "If you do not actively provide the necessaries of life to those in need, your kind words and sentiments are unprofitable. While it may seem compassionate to offer empty words and wishes, without corresponding actions, such gestures only serve to harden the heart and leave the needy without real help. Instead, let your faith be shown through tangible deeds of love, following the example of Christ. Do not merely offer well-wishes and empty words, but seek to fulfill the physical needs of others, providing them with warmth, sustenance, and the essentials of life.",
+        "wordCount": 94,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.8083053311317836,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+        "commentatorTierSimilarities": [
+            27.03,
+            42.65,
+            30.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and (literally, but: bringing in the slight contrast between the want and the manner of its supply)",
+            "some one from among you (not, as Grotius, of you, 'who believe faith to suffice for salvation,' but generally; and put in this form to bring the inference nearer home to themselves)",
+            "but ye (enlarging the former 'one of you,' and now applying the hypothesis to all) give them not (have not given them) the necessaries of the body; what is the profit?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The habit of receiving passively sentimental impressions from sights of woe without carrying them out into active habits only hardens the heart.",
+            "Depart in peace\u2014as if all their wants were satisfied by the mere words addressed to them. The same words in the mouth of Christ, whose faith they said they had, were accompanied by efficient deeds of love.",
+            "Just retribution: kind professions unaccompanied with corresponding acts, as they are of no 'profit' to the needy object of them, so are of no profit to the professor himself. So faith consisting in mere profession is unacceptable to God, the object of faith, and profitless to the possessor."
+        ],
+        "Marvin Vincent": [
+            "Depart in peace.",
+            "Be filled.",
+            "Those things which are needful."
+        ],
+        "Philip Schaff": [
+            "Expressions of kind wishes toward the destitute; mere words, but no actions.",
+            "'Depart in peace,' are the words which our Saviour employed when He dismissed those whom He had cured (Luke 7:50).",
+            "What good do your kind words do either to them or to yourselves? Undoubtedly charity, if it have not works, is dead."
+        ],
+        "Archibald T. Robertson": [
+            "Warm yourselves.\" \u03a7\u03bf\u03c1\u03c4\u03b1\u03b6\u03c9 was originally used for pasturing cattle, but came to be used of men also as here. \"Feed yourselves\" (if middle, as is likely).",
+            "Instead of warm clothes and satisfying food they get only empty words to look out for themselves.",
+            "The necessities of the body\" (the necessaries of life). Old adjective from adverb \u03b5\u03c0\u03b9\u03c4\u03b7\u03b4\u03b5\u03c2 (enough), only here in N.T."
+        ],
+        "John Gill": [
+            "Depart in peace; wishing them all prosperity and happiness, inward and outward.\" ",
+            "What doth it profit? the Ethiopic version reads, 'what doth it profit them?'\" ",
+            "As that charity which lies only in words, and in tongue, and not in deed, and in truth, is unprofitable, and good for nothing, even to them that profess it; so that faith, which a man says he has, and yet is without works, is alike unprofitable unto him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though you may express kind wishes and sentiments towards those in need, if you do not actively meet their physical needs, what profit is there? Mere words, without corresponding actions, do nothing to address the necessities of life. It is like telling someone to depart in peace, without actually providing them with the warmth and nourishment they require. This is a principle that holds true not only in this specific situation but also on a broader scale. Charity devoid of tangible deeds is ultimately unprofitable and insincere, both towards those in need and to oneself.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 1.6183312565865253,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.15,
+            "commentatorTierSimilarities": [
+                27.24,
+                38.96,
+                33.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When you merely express kind wishes for those in need without actively meeting their physical needs, what profit is there? Mere words, without corresponding actions, do nothing to address the necessities of life. It is like telling someone to depart in peace, without actually providing them with the warmth and nourishment they require. This principle applies to both charity lacking tangible deeds and faith without works\u2013both are ultimately unprofitable and insincere.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8045826743561606,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.34,
+            "commentatorTierSimilarities": [
+                26.15,
+                39.71,
+                34.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When you do not provide the necessaries of the body to those in need, your kind wishes and sentiments are profitless. Mere words without corresponding actions only harden the heart, leaving the needy with empty words to look out for themselves. Instead, let your faith be accompanied by deeds of love, just as Christ exemplified. Charity without works is dead, unprofitable to both the giver and the receiver. Depart in peace, but be sure to fulfill the needs of others, providing them with warmth, sustenance, and the necessities of life.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.7736965366909512,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                26.93,
+                41.71,
+                31.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When you fail to provide the necessities of life to those in need, your kind wishes and sentiments are profitless. Mere words without corresponding actions only harden the heart, leaving the needy with empty words to look out for themselves. Instead, let your faith be accompanied by deeds of love, just as Christ exemplified. Depart in peace, but be sure to fulfill the needs of others, providing them with warmth, sustenance, and the necessities of life.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7763908303299034,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                29.94,
+                40.84,
+                29.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you do not actively provide the necessaries of life to those in need, your kind words and sentiments are unprofitable. While it may seem compassionate to offer empty words and wishes, without corresponding actions, such gestures only serve to harden the heart and leave the needy without real help. Instead, let your faith be shown through tangible deeds of love, following the example of Christ. Do not merely offer well-wishes and empty words, but seek to fulfill the physical needs of others, providing them with warmth, sustenance, and the essentials of life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8083053311317836,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+            "commentatorTierSimilarities": [
+                27.03,
+                42.65,
+                30.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

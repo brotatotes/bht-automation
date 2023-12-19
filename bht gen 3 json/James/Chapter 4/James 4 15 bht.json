@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:36:37",
+    "verseRef": "James 4:15",
+    "bestBHT": {
+        "bht": "Instead of arrogantly claiming control over our plans, we should humbly acknowledge that our lives and actions are dependent on the will of the Lord. We must recognize that success is not guaranteed by our own efforts, but by God's favor. Our plans should always be made with reference to His will, as there is nothing within our control that guarantees success without His guidance. Instead of boasting about our future actions, we should adopt the mindset of saying, If the Lord wills, and we shall live, we will do this.",
+        "wordCount": 92,
+        "quoteTokenProportion": 52.46,
+        "qualityScore": 1.963206461627761,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+        "commentatorTierSimilarities": [
+            22.83,
+            48.42,
+            28.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Instead of your saying, If the Lord will, we shall both live, and shall do this or that.\" ",
+            "If the Lord (God, as usual in this Epistle: see on ver. 10) will (properly, shall have willed; i.e. have so determined it in His counsel), we shall both live.",
+            "(ver. 14 was parenthetical, and demonstrated the folly of their conduct. Now the sense proceeds)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This refers to 'ye that say' (James 4:13)...\" ",
+            "The boasters spoke as if life, action, and the particular kind of action were in their power, whereas all three depend entirely on the will of the Lord.",
+            "Life, action, and the particular kind of action depend entirely on the will of the Lord."
+        ],
+        "Albert Barnes": [
+            "Instead of what you do say, 'we will go into such a city,' you ought rather to recognise your absolute dependence on God, and feel that life and success are subject to his will.",
+            "We are, in the proper way, to recognise our dependence on him, and to form all our plans with reference to his will.",
+            "There is nothing on which the success of our plans depends over which we have absolute control; there is nothing, therefore, on which we can base the assurance of success but his favor."
+        ],
+        "Marvin Vincent": [
+            "For that ye ought to say...instead of your saying.\" (Commentary)",
+            "Ver. 14 was parenthetical, so that at this point the thought is taken up from ver 13 Ye who say we will go, etc.\" (Commentary)",
+            "The rendering in margin of Rev. is simpler.\" (Commentary)"
+        ],
+        "John Calvin": [
+            "A twofold condition is laid down, 'If we shall live so long,' and, 'If the Lord will;' because many things may intervene to upset what we may have determined; for we are blind as to all future events.",
+            "By will he means not that which is expressed in the law, but God\u2019s counsel by which he governs all things.",
+            "So that living and doing are both dependent on God\u2019s will."
+        ],
+        "Philip Schaff": [
+            "Ye assert your self-dependence, instead of humbly acknowledging your dependence on God.",
+            "The meaning being precisely the same as our common phrase: 'God willing, I shall do so and so.'",
+            "We must not only acknowledge in words, but deeply realize our dependence on God."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of the saying as to you.",
+            "The proper attitude of mind, not to be uttered always in words like a charm.",
+            "Applicable to every act."
+        ],
+        "John Gill": [
+            "If the Lord will, and we shall live, we will do this\": so that here are two conditions of doing anything; the one is, if it should be agreeable to the determining will and purpose of God...",
+            "and the other is, if we should live, since life is so very uncertain and precarious...",
+            "since the words are so short and comprehensive, it might be proper for Christians to use themselves to such a way of speaking; upon all occasions..."
+        ],
+        "John Wesley": [
+            "Instead of your saying \u2014 That is, whereas ye ought to say."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Instead of boasting about our plans and assuming control over our own lives, we should humbly acknowledge our dependence on God. Life, our actions, and the outcomes of our plans are entirely subject to God's will. We must recognize that our plans should always be made in reference to His will, for there is nothing within our control that guarantees success without His favor. Instead of exclaiming what we will do, we should adopt the attitude of saying, If the Lord wills, and we shall live, we will do this. This acknowledgment of our dependence on God's will applies to every aspect of our lives.",
+            "wordCount": 107,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.0236695337755135,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                20.85,
+                50.8,
+                28.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Instead of boasting about our plans and assuming control over our lives, we should humbly acknowledge our complete dependence on God. Life, our actions, and the outcomes of our plans all hinge on God's will. Recognizing this, our plans should always be made with reference to His will, for there is nothing within our control that guarantees success without His favor. Instead of confidently stating what we will do, we should adopt an attitude of saying, If the Lord wills, and we shall live, we will do this.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.0319826446703897,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                21.84,
+                50.38,
+                27.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Instead of boasting about our plans and assuming control over our lives, we should humbly acknowledge our dependence on God's will. Life and the success of our actions are entirely subject to His sovereign purpose. Our plans should always be made with reference to His will, recognizing that there is nothing within our control that guarantees success without His favor. Instead of confidently stating what we will do, we should adopt an attitude of saying, If the Lord wills, and we shall live, we will do this.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.9602685288157367,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                21.59,
+                50.24,
+                28.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Instead of arrogantly claiming control over our plans, we should humbly acknowledge that our lives and actions are dependent on the will of the Lord. We must recognize that success is not guaranteed by our own efforts, but by God's favor. Our plans should always be made with reference to His will, as there is nothing within our control that guarantees success without His guidance. Instead of boasting about our future actions, we should adopt the mindset of saying, If the Lord wills, and we shall live, we will do this.",
+            "wordCount": 92,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.963206461627761,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.62,
+            "commentatorTierSimilarities": [
+                22.83,
+                48.42,
+                28.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Instead of boasting about our plans and assuming control over our lives, we should humbly acknowledge our dependence on God's will. Life and the success of our actions are entirely subject to His sovereign purpose. Our plans should always be made with reference to His will, recognizing that there is nothing within our control that guarantees success without His favor. Instead of arrogantly stating what we will do, we should adopt an attitude of saying, If the Lord wills, and we shall live, we will do this.",
+            "wordCount": 88,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.9617587886390568,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                21.61,
+                50.06,
+                28.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

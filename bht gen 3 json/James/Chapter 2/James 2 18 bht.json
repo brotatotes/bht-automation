@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:35:43",
+    "verseRef": "James 2:18",
+    "bestBHT": {
+        "bht": "True faith is revealed through works, not just words. Faith cannot be displayed without actions; it is like a tree that shows its life through its fruits. The point is not about how one is justified, but about the evidence of genuine faith. Works do not save, but they demonstrate the validity of our faith. It is by our deeds, such as caring for the needy, that we prove the authenticity of our faith. Faith without works is empty and incomplete.",
+        "wordCount": 81,
+        "quoteTokenProportion": 51.92,
+        "qualityScore": 2.2727534356612793,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+        "commentatorTierSimilarities": [
+            28.11,
+            29.88,
+            42.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou hast faith, and I have works: shew me thy faith without the works, and I will shew thee my faith by my works.",
+            "The whole difficulty found in this verse by Commentators has arisen from overlooking the fact that it continues the argument from the previous verses and does not begin a new portion of the subject.",
+            "The same mistaken person is in the Apostle's view throughout, down to ver. 22: and it is as addressed to him, on the part of a chance objector to his inconsistency, that this saying is introduced."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Show\" does not mean here to prove to me, but exhibit to me. Faith is unseen save by God. To show faith to man, works in some form or other are needed.",
+            "The question here is not as to the ground on which believers are justified, but about the demonstration of their faith: so in the case of Abraham.",
+            "The tree shows its life by its fruits, but it was alive before either fruits or even leaves appeared."
+        ],
+        "Albert Barnes": [
+            "That is, it might perhaps be said that religion is not always manifested in the same way, or we should not suppose that, because it is not always exhibited in the same form, it does not exist.\" ",
+            "The existence of the one was to be known only by its developing itself in the form of the other. A man could not show that he possessed the one unless it developed itself in the form of the other.\" ",
+            "By their fruits the principles held by men are known."
+        ],
+        "Marvin Vincent": [
+            "Without [\u03c7\u03c9\u03c1\u03b9\u03c2] . Rev., more literally, apart from.",
+            "And I will shew thee, etc.",
+            "I by my works will shew, etc."
+        ],
+        "John Calvin": [
+            "Unless thy faith brings forth fruits, I deny that thou hast any faith.",
+            "This only he means, that faith, without the evidence of good works, is vainly pretended, because fruit ever comes from the living root of a good tree.",
+            "This verse is a key to the meaning of James: faith is to be proved by works; then faith properly justifies and saves, and works prove its genuineness."
+        ],
+        "Philip Schaff": [
+            "To show faith without works is simply an impossibility. If it exist at all in such a state, it exists in a passive or latent form in a man\u2019s mind, and cannot be shown to others.\" ",
+            "Justification is denied to a dead faith, and affirmed only of a living faith - a faith which manifests itself in works.\" ",
+            "We shall not then be examined as to the pureness of our creed or the extent of our knowledge, but whether we have fed the hungry, clothed the naked, visited the sick, and ministered to the afflicted."
+        ],
+        "Archibald T. Robertson": [
+            "The point lies in \u03c7\u03c9\u03c1\u03b9\u03c2, which means not 'without,' but 'apart from,' as in Hebrews 11:6, 'the works that properly belong to it and should characterise it' (Hort). James challenges the objector to do this.",
+            "It is not faith or works, but proof of real faith. The mere profession of faith with no works or profession of faith shown to be alive by works. This is the alternative clearly stated.",
+            "James is not here discussing 'works' (ceremonial works) as a means of salvation as Paul in James 2:3; James 2:4, but works as proof of faith."
+        ],
+        "John Gill": [
+            "Shew me thy faith without thy works, if thou canst; see what ways, means, and methods thou canst make use of, to make it appear to me, or any other, that you have the faith you talk of.",
+            "Faith is an inward principle in the heart; an hidden thing, and cannot be seen and known but by external acts.",
+            "Works may deceive, and do not infallibly prove truth of faith, yet it is certain, that where they are not, but persons live in a continued course of sinning, there cannot be true faith."
+        ],
+        "John Wesley": [
+            "But one \u2014 Who judges better.",
+            "Will say \u2014 To such a vain talker. Show me, if thou canst, thy faith without thy works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith cannot be shown without works; it is not enough to simply profess faith without demonstrating it through actions. James argues that true faith is alive and evident through works, just as a tree shows its life through fruits. The point is not about the grounds of justification, but about the proof of genuine faith. Works are not the means of salvation, but they reveal the authenticity of faith. Without works, faith is dead. Therefore, let us not be examined solely on the purity of our beliefs, but also on whether we have cared for the needy and shown compassion to others.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 2.2389007778659087,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                29.36,
+                31.09,
+                39.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True faith is not merely a profession, but a demonstration of belief through actions. Just as a tree shows its life through fruits, believers are called to show their faith through works. Without works, faith is dead. While works do not save, they serve as proof of genuine faith. Our faith should not only be judged by the purity of our beliefs, but also by our actions towards others. Let us remember that true faith is shown by how we care for the needy and show compassion to those around us.",
+            "wordCount": 91,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 2.133802672512635,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.29,
+            "commentatorTierSimilarities": [
+                27.67,
+                30.97,
+                41.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Works are necessary to demonstrate faith; faith cannot be proven without works. This does not refer to salvation by works, but to the evidence of genuine faith. Just as a tree shows its life through its fruits, believers must show their faith through their actions. It is not enough to simply profess faith; it must be accompanied by tangible expressions of love and righteousness. Our faith should be evident not only in our beliefs, but also in how we care for and serve others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.93,
+            "qualityScore": 2.2137750761464705,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.95,
+            "commentatorTierSimilarities": [
+                28.44,
+                32.05,
+                39.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith without works is incomplete; it must be demonstrated through actions. Genuine faith is not just a matter of belief, but a lived experience that manifests in tangible works of love and righteousness. Like a tree bearing fruits, our faith should be evident through the good deeds we do for others. It is not enough to claim faith; it must be proven by our works. Our actions reflect the authenticity of our faith and reveal the transformative power of God's grace within us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.1702937680863013,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.5,
+            "commentatorTierSimilarities": [
+                27.53,
+                32.2,
+                40.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True faith is revealed through works, not just words. Faith cannot be displayed without actions; it is like a tree that shows its life through its fruits. The point is not about how one is justified, but about the evidence of genuine faith. Works do not save, but they demonstrate the validity of our faith. It is by our deeds, such as caring for the needy, that we prove the authenticity of our faith. Faith without works is empty and incomplete.",
+            "wordCount": 81,
+            "quoteTokenProportion": 51.92,
+            "qualityScore": 2.2727534356612793,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                28.11,
+                29.88,
+                42.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

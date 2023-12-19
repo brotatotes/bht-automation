@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:35:17",
+    "verseRef": "James 1:16",
+    "bestBHT": {
+        "bht": "Be not deceived, my beloved brethren, and do not err in attributing temptation to evil to God, for He is the author of all good. The way of sin is to deceive and kill, and the devil is skilled at blinding our eyes. However, God is the source of every good and perfect gift. To ascribe evil to God denies His holiness and is a damnable heresy that brings swift destruction. Let us guard against this deception and abhor any notion that tarnishes His name and glory.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0633070202838857,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+        "commentatorTierSimilarities": [
+            28.47,
+            32.76,
+            38.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But so far is it from this being so, that He is the Author of all good.\" ",
+            "Do not err, my beloved brethren.\" ",
+            "Both this earnest address and the caution show how important the Writer feels this to be."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. Do not err in attributing to",
+            "\tGod temptation to evil; nay (as he proceeds to show), \"every",
+            "\tgood,\" all that is good on earth, comes from God."
+        ],
+        "Albert Barnes": [
+            "There was great danger that they would embrace that opinion, for experience has shown that it is a danger into which men are always prone to fall.",
+            "To meet the danger he says that, so far is it from being true that God is the source of evil, he is in fact the author of all that is good.",
+            "Every good gift, and every perfect gift, is from him."
+        ],
+        "John Calvin": [
+            "To do good is what properly belongs to him, and according to his nature; and from him all good things come to us.\" ",
+            "Then, whatever evil he does, is not agreeable to his nature.\" ",
+            "But if God is in all things and always like himself, it hence follows that well-doing is his perpetual work."
+        ],
+        "Philip Schaff": [
+            "Do not err...in supposing that temptation to evil comes from God.\" ",
+            "Be not deceived in this matter.",
+            "Be not deceived...in supposing that temptation to evil comes from God."
+        ],
+        "Archibald T. Robertson": [
+            "Be not deceived... This is the way of sin to deceive and to kill.",
+            "The devil is a pastmaster at blinding men's eyes about sin.",
+            "The way of sin is to deceive and to kill."
+        ],
+        "John Gill": [
+            "To make God the author of sin, or to charge him with being concerned in temptation to sin, is a very great error, a fundamental one, which strikes at the nature and being of God, and at the perfection of his holiness.",
+            "It is a denying of him, and is one of those damnable errors and heresies, which bring upon men swift destruction.",
+            "Therefore to be guarded against, rejected, and abhorred by all that profess any regard unto him, his name and glory."
+        ],
+        "John Wesley": [
+            "Do not err \u2014 It is a grievous error to ascribe the evil and not the good which we receive to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be not deceived, my beloved brethren, and do not err in attributing temptation to evil to God, for He is the author of all good. It is important to recognize that the way of sin is to deceive and kill, and the devil is skilled at blinding our eyes to this truth. However, God is the source of every good gift, and every perfect gift, for to do good is inherent to His nature. Therefore, it is a grievous error to ascribe evil to God and to deny His holiness, for this is a damnable heresy that brings swift destruction. Let us guard against this deception and abhor any notion that tarnishes His name and glory.",
+            "wordCount": 116,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 2.070267915170641,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.18,
+            "commentatorTierSimilarities": [
+                26.58,
+                31.86,
+                41.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be not deceived, my beloved brethren, and do not err in attributing temptation to evil to God, for He is the author of all good. The way of sin is to deceive and kill, and the devil is skilled at blinding our eyes. However, God is the source of every good and perfect gift. To ascribe evil to God denies His holiness and is a damnable heresy that brings swift destruction. Let us guard against this deception and abhor any notion that tarnishes His name and glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0633070202838857,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                28.47,
+                32.76,
+                38.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not err, my beloved brethren, in attributing temptation to evil from God, for He is the author of all good. The way of sin is to deceive and kill, and the devil is skilled at blinding men's eyes about sin. However, every good and perfect gift comes from Him. To make God the author of sin is a grievous error and a heresy that brings swift destruction. Let us reject and abhor any notion that tarnishes His name and glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9482750042943804,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                29.13,
+                30.97,
+                39.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware of being deceived, my beloved brethren, and do not make the mistake of ascribing temptation to evil from God, for He is the source of all good. Sin operates by deceiving and killing, with the devil being skilled at blinding men's eyes to this truth. Nevertheless, all good things come from God. To accuse Him of being the author of sin is a grave error that undermines His holiness and leads to swift destruction. Let us be cautious in affirming His name and glory.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9300863116226676,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                31.16,
+                31.73,
+                37.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Be not deceived, my beloved brethren, and do not err in attributing temptation to evil from God, for He is the author of all good. Sin deceives and kills, and the devil is skilled at blinding our eyes. However, every good gift and perfect gift comes from God. To ascribe evil to Him is a grave error, denying His nature and holiness and leading to swift destruction. Let us guard against this deception, rejecting anything that tarnishes His name and glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9951187297760373,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                27.99,
+                32.11,
+                39.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

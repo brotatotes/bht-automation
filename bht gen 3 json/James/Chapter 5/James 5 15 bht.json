@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:36:48",
+    "verseRef": "James 5:15",
+    "bestBHT": {
+        "bht": "Through the prayer of faith offered by the congregation and the accompanying act of anointing with oil, the sick can be saved. This emphasizes that it is the prayer of faith, not the oil itself, that brings about healing. The connection between sin and sickness is implied, and the forgiveness of sins is tied to the absolution of the sick. While the use of medicine is encouraged, it is important to approach prayer and medicine with sincerity and faith, recognizing that it is God who ultimately heals.",
+        "wordCount": 87,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.4958220788609307,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.33,
+        "commentatorTierSimilarities": [
+            30.88,
+            33.94,
+            35.18
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prayer of faith (the prayer which faith offers) shall save the sick man...",
+            "Let them, representing the congregation of the faithful, pray over the sick man, accompanying that prayer with the symbolic and sacramental act of anointing with oil in the name of the Lord.",
+            "Such is the simple and undeniable sense of the Apostle, arguing for the efficacy of prayer: and such, as above seen, the perversion of that sense by the Church of Rome."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He does not say the oil shall save: it is but the symbol.",
+            "The connection of sin and sickness is implied.",
+            "The absolution of the sick, retained in the Church of England, refers to the sins which the sick man confesses and repents of."
+        ],
+        "Albert Barnes": [
+            "The prayer of faith is to accompany the use of means, for all means would be ineffectual without the blessing of God.",
+            "It may fairly be inferred from this statement:",
+            "(1)That there would be cases in large numbers where these means would be attended with this happy result; and,",
+            "(2)That there was so much encouragement to do it that it would be proper in any case of sickness so make use of these means.",
+            "And it was proper then, as it is now, having made use of those means, to implore the divine blessing on them, and to feel that their efficacy depends wholly on him. Thus used, there was ground of hope and of faith in regard to the recovery of the sufferer; and no one can show that in thousands of instances in the apostles\u2019 day, and since, the prayer of faith, accompanying the proper use of means, may not have raised up those who were on the borders of the grave, and who but for these means would have died."
+        ],
+        "Marvin Vincent": [
+            "The word originally means to work. Hence, 'him that is laboring under disease.'\" ",
+            "Literally the words read, if he be having committed sins; i.e., in a state of having committed, and under the moral or physical consequences of transgression.",
+            "Forgiveness [\u03b1\u03c6\u03b5\u03c3\u03b9\u03c2] is a putting or sending away of sins, with a consequent discharge of the sinner; thus differing from paresiv (Romans 3:25), which a passing by of sin, a pretermission as distinguished from a remission."
+        ],
+        "John Calvin": [
+            "Whosoever then really seeks to be heard, must be fully persuaded that he does not pray in vain.\" ",
+            "But since it appears that the Papists have no certainty as to their anointing, as it is manifest that they have not the gift, it is evident that their anointing is spurious.",
+            "Let us then know that it is the only fit remedy for our diseases and other calamities, when we carefully examine ourselves, being solicitous to be reconciled to God, and to obtain the pardon of our sins."
+        ],
+        "Philip Schaff": [
+            "The person who performs the miracle must be endowed with this miraculous faith; and the person on whom the miracle is wrought must have faith to be healed.",
+            "The recovery of the sick is not attributed to the anointing with oil, but to the prayer of faith.",
+            "The elders of the church being sent for anointed the sick man with oil in the name of Christ, and by the prayer of faith miraculously restored him to health."
+        ],
+        "Archibald T. Robertson": [
+            "The medicine does not heal the sick, but it helps nature (God) do it. The doctor cooperates with God in nature.",
+            "Precious promise, but not for a professional 'faith-healer' who scoffs at medicine and makes merchandise out of prayer.",
+            "Not in any magical way, not because his sickness has been healed, not without change of heart and turning to God through Christ."
+        ],
+        "John Gill": [
+            "And the prayer of faith shall save the sick...such a prayer is a means of bringing down from God a blessing on the sick man, and of restoring him to his former health.\" ",
+            "The Lord shall raise him up...to praise his name, and to fear and glorify him.",
+            "If he has been guilty of any sins...they shall be forgiven him; he shall have a discovery and an application of pardoning grace to him."
+        ],
+        "John Wesley": [
+            "And the prayer offered in faith shall save the sick - From his sickness; and if any sin be the occasion of his sickness, it shall be forgiven him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prayer of faith, offered by the congregation of the faithful, accompanied by the symbolic act of anointing with oil, has the power to save the sick. It is important to note that it is the prayer of faith, not the oil itself, that saves. Sin and sickness are connected, and the absolution of the sick refers to the sins confessed and repented of. Forgiveness is a putting away of sins, resulting in a discharge of the sinner. The use of medicine and means in conjunction with prayer is encouraged, as they can be effective when blessed by God. However, it is essential to understand that this promise is not for those who misuse prayer or reject the use of medicine. The prayer of faith, when accompanied by the proper means, can raise up those who were on the brink of death.",
+            "wordCount": 142,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.269280119745804,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.79,
+            "commentatorTierSimilarities": [
+                31.3,
+                33.55,
+                35.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prayer of faith, accompanied by anointing with oil, has the power to save the sick. Sin and sickness are connected, and the absolution of the sick refers to the sins confessed and repented of. The use of medicine and means in conjunction with prayer is encouraged, as they can be effective when blessed by God. However, it is important to note that this promise is not for those who misuse prayer or reject the use of medicine. The prayer of faith, when accompanied by the proper means, can raise up those on the brink of death.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.358849943180478,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.77,
+            "commentatorTierSimilarities": [
+                30.55,
+                35.49,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the prayer of faith offered by the congregation and the accompanying act of anointing with oil, the sick can be saved. This emphasizes that it is the prayer of faith, not the oil itself, that brings about healing. The connection between sin and sickness is implied, and the forgiveness of sins is tied to the absolution of the sick. While the use of medicine is encouraged, it is important to approach prayer and medicine with sincerity and faith, recognizing that it is God who ultimately heals.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.4958220788609307,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.33,
+            "commentatorTierSimilarities": [
+                30.88,
+                33.94,
+                35.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prayer of faith, accompanied by anointing with oil, has the power to save the sick. Sin and sickness are connected, and the absolution of the sick refers to the sins confessed and repented of. The use of medicine and means in conjunction with prayer is encouraged. However, it is important to note that this promise is not for those who misuse prayer or reject the use of medicine. The prayer of faith, when accompanied by the proper means, can raise up those on the brink of death.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.32007190502787,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.48,
+            "commentatorTierSimilarities": [
+                30.85,
+                35.17,
+                33.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prayer of faith, when accompanied by the symbolic act of anointing with oil, has the power to save the sick. Sin and sickness are connected, and the absolution of the sick refers to the sins confessed and repented of. The use of medicine and means in conjunction with prayer is encouraged, as they can be effective when blessed by God. However, it is important to note that this promise is not for those who misuse prayer or reject the use of medicine. The prayer of faith, when accompanied by the proper means, can raise up those on the brink of death.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.3532300794971137,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.59,
+            "commentatorTierSimilarities": [
+                30.75,
+                35.38,
+                33.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

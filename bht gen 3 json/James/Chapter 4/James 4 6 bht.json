@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:36:18",
+    "verseRef": "James 4:6",
+    "bestBHT": {
+        "bht": "God bestows His grace on the humble, but opposes the proud. Those who strive after worldly honors and riches are God's enemies, while the lowly and humble are recipients of His ever-increasing grace. This serves as a solemn exhortation for believers to resist envy and pride. Scripture teaches that pride is the source of envy, and the same God who indwells believers also speaks through the Scriptures. As such, we should humbly seek God's grace, recognizing that even the smallest measure of His grace far surpasses all worldly possessions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.4038387655607227,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.27,
+        "commentatorTierSimilarities": [
+            29.43,
+            37.51,
+            33.06
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But He giveth the more grace, wherefore he saith, God is set against the proud, but giveth grace to the lowly.\" ",
+            "This is a proof that the ambitious and restless after worldly honours and riches are God\u2019s enemies, whereas the humble and lowly the objects of His gifts of ever-increasing grace.",
+            "The inference follows in the form of solemn exhortation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ever increasing grace; the farther ye depart from 'envy'\".",
+            "The same God who causes His spirit to dwell in believers, by the Spirit also speaks in Scripture\".",
+            "God repays sinners in their own coin. 'Pride' is the mother of 'envy'; it is peculiarly satanic, for by it Satan fell\"."
+        ],
+        "Albert Barnes": [
+            "Another passage of Scripture struck his mind, containing the truth that there was a class of men to whom God gave grace to restrain these passions, and to subdue these corrupt inclinations.",
+            "The proud are those who have an inordinate self-esteem; who have a high and unreasonable conceit of their own excellence or importance.",
+            "God has done nothing to foster the self-estimation of the human heart; but how much has he done to 'stain the pride of all glory?'"
+        ],
+        "Marvin Vincent": [
+            "Resisteth. See on 1 Peter 5:5. ",
+            "Proud. See on Mark 7:22. ",
+            "Humble. See on Matthew 7:29."
+        ],
+        "Philip Schaff": [
+            "Just because the Spirit does not lust to envy; and yet there is a lust to envy in man: therefore, to overcome this lust, He giveth more grace.",
+            "God resisteth the proud, but giveth grace to the humble.",
+            "By the proud here are meant the contentious those who eagerly desire worldly objects; and by the humble, those who have overcome their worldly desires and govern their passions."
+        ],
+        "Archibald T. Robertson": [
+            "Greater grace in view of the greater requirement\" (Ropes), like Romans 5:20. God does this.",
+            "To prove this point James quotes Proverbs 3:34.",
+            "Anarthrous adjective again, 'to humble or lowly persons,' for which word see James 1:9. Cf. James 2:5-7; James 5:1-6."
+        ],
+        "John Gill": [
+            "The least measure of grace, of faith, and hope, and love, and of a spiritual knowledge of Christ, and interest in him, and of peace, joy, and comfort, is more worth than all the world, and everything in it.",
+            "Greater grace, more favors than the saints are able to ask or think.",
+            "Grace is God's gift; he gives all the grace that is in Christ, and all the blessings of grace that are in the covenant, and all the grace that is in the hearts of his people."
+        ],
+        "John Wesley": [
+            "But he giveth greater grace \u2014 To all who shun those tempers.",
+            "Therefore it \u2014 The scripture.",
+            "Saith, God resisteth the proud \u2014 And pride is the great root of all unkind affections."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God bestows His grace on the humble, but opposes the proud. Those who strive after worldly honors and riches are God's enemies, while the lowly and humble are recipients of His ever-increasing grace. This serves as a solemn exhortation for believers to resist envy and pride. Scripture teaches that pride is the source of envy, and the same God who indwells believers also speaks through the Scriptures. As such, we should humbly seek God's grace, recognizing that even the smallest measure of His grace far surpasses all worldly possessions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.4038387655607227,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.27,
+            "commentatorTierSimilarities": [
+                29.43,
+                37.51,
+                33.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God gives more grace to the lowly while opposing the proud. This warns against ambition and restlessness for worldly honors and riches, as they make us enemies of God. Instead, we should strive for humility, as the humble receive His ever-increasing grace. Scripture teaches that pride leads to envy, which is satanic in nature. By resisting pride and seeking God's grace, even in the smallest measure, we can find surpassing value that exceeds all worldly possessions.",
+            "wordCount": 78,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.233399570976665,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.6,
+            "commentatorTierSimilarities": [
+                29.08,
+                38.99,
+                31.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God bestows His grace on the humble, while opposing the proud. Those who strive after worldly honors and riches are God's enemies, whereas the humble and lowly are the objects of His ever-increasing grace. This serves as a solemn exhortation to depart from envy and embrace humility. Scripture teaches that pride is the mother of envy and is peculiarly satanic. By resisting pride and seeking God's grace, we can find greater favor and blessings than we could ever ask or imagine.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.3349448762616736,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.98,
+            "commentatorTierSimilarities": [
+                29.51,
+                38.12,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God gives more grace to the lowly, for He opposes the proud. Ambition for worldly honors and riches makes us enemies of God, while humility makes us recipients of His ever-increasing grace. Scripture warns against the satanic nature of pride, as it leads to envy. We should resist pride and seek God's grace, which surpasses all worldly possessions. Even the smallest measure of His grace holds immeasurable worth, for it encompasses faith, hope, love, knowledge of Christ, and peace, joy, and comfort.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.300815448290562,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.84,
+            "commentatorTierSimilarities": [
+                27.63,
+                36.33,
+                36.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God gives more grace to the lowly, while opposing the proud. The ambitious and restless pursuit of worldly honors and riches makes us enemies of God. Instead, we should seek humility, for it brings us into the realm of God's ever-increasing grace. Pride, the root of envy, is satanic in nature and must be resisted. Embracing humility and shunning envy allow us to receive the immeasurable value of God's grace, which far exceeds all worldly possessions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.268774240427795,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.78,
+            "commentatorTierSimilarities": [
+                28.77,
+                38.97,
+                32.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

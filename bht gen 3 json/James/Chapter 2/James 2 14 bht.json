@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:42",
+    "verseRef": "James 2:14",
+    "bestBHT": {
+        "bht": "What is the profit of claiming to have faith but lacking works? Can this kind of faith save? James exposes the fallacy of a hollow faith, emphasizing the need for genuine actions as evidence of true faith. Believing and doing are inseparable, and a faith that remains fruitless is empty and futile. Salvation is not attained through a lifeless, theoretical faith, but through a living faith that is active and expressed through works of love and mercy.",
+        "wordCount": 77,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 2.671370415373305,
+        "qualityScoreNormalizedComparedToV2BHTs": 80.16,
+        "commentatorTierSimilarities": [
+            27.09,
+            39.24,
+            33.67
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What is the profit, if any man say that he has faith, but have not works?\" ",
+            "Those acts in his life which are proofs and fruits of faith: not mere ceremonial works.",
+            "Can his faith save him?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Believing and doing are blood relatives\" [RUTHERFORD].",
+            "What is the profit?\" - referring to a mere profession of faith, such as was usually made at baptism.",
+            "Can such a faith save him?\" - the empty name of boasted faith, contrasted with true fruit-producing faith."
+        ],
+        "Albert Barnes": [
+            "As this abuse probably existed in the time of the apostles, and as the Holy Ghost saw that there would be danger that in later times the great and glorious doctrine of justification by faith would be thus abused, it was important that the error should be rebuked.\" ",
+            "That faith can have no value which is not followed by good works; that is, that it is not real faith, and that good works are necessary if a man would have evidence that he is justified.",
+            "The meaning here is, that that faith which does not produce good works, or which would not produce holy living if fairly acted out, will save no man, for it is not genuine faith."
+        ],
+        "Marvin Vincent": [
+            "What doth it profit ? [\u03c4\u03b9 \u03c4\u03bf \u03bf\u03c6\u03b5\u03bb\u03bf\u03c2] . Lit., what is the profit ? Ofelov, profit, only here, ver. 16, and 1 Corinthians 14:32."
+        ],
+        "John Calvin": [
+            "The sum, then, of what is said is, that faith without love avails nothing, and that it is therefore wholly dead.",
+            "This is the same as though he had said, that we do not attain salvation by a frigid and bare knowledge of God, which all confess to be most true; for salvation comes to us by faith for this reason, because it joins us to God.",
+            "There is no such thing as this in the dead image of faith. There is then no wonder that James denies that salvation is connected with it."
+        ],
+        "Philip Schaff": [
+            "Faith without works will not profit at the judgment; it will not be conducive to the saving of the soul.",
+            "James admits the existence of a speculative faith; the man is supposed to have faith of a certain kind, though not saving faith.",
+            "Faith certainly does save; nothing can be more evidently the doctrine of Scripture than that our salvation is attached to faith; but not the faith to which James here alludes: Can this faith save him? this dead, barren faith; this mere speculative belief in the doctrines of the Gospel."
+        ],
+        "Archibald T. Robertson": [
+            "What doth it profit? (\u03c4 \u03bf\u03c6\u03b5\u03bb\u03bf\u03c3;). Rhetorical question, almost of impatience.",
+            "It is the spurious claim to faith that James here condemns.",
+            "The article \u03b7 here is almost demonstrative in force as it is in origin, referring to the claim of faith without works just made."
+        ],
+        "John Gill": [
+            "Faith without works, particularly without works of mercy, is of no profit and advantage.",
+            "True faith indeed has no causal influence on salvation, or has any virtue and efficacy in itself to save.",
+            "He may have all faith in that sense, and be nothing; it is no other than the devils themselves have; and so he may have it, and be damned."
+        ],
+        "John Wesley": [
+            "St. James, purposely repeating ( James 2:21,23,25) the same phrases, testimonies, and examples, which St. Paul had used, refutes not the doctrine of St. Paul, but the error of those who abused it.",
+            "Here, therefore, true, living faith is meant: but in other parts of the argument the apostle speaks of a dead, imaginary faith.",
+            "He does not, therefore, teach that true faith can, but that it cannot, subsist without works: nor does he oppose faith to works; but that empty name of faith, to real faith working by love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What is the profit of claiming to have faith without demonstrating it through works? Can such a faith truly save? James raises these questions to challenge the notion that a mere profession of faith, void of genuine actions, can lead to salvation. True faith is not simply a ceremonial declaration, but rather a belief that is accompanied by tangible deeds. Believing and doing are inseparable. Faith without works is like an empty name, lacking the power to bring forth fruit. Salvation is not achieved through a dead and barren faith, but rather through a living faith that is expressed through works of love and mercy.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.533085664579499,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.56,
+            "commentatorTierSimilarities": [
+                27.21,
+                38.3,
+                34.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What is the profit of faith without works? Can it save? James challenges the idea that a mere profession of faith, devoid of actions, can lead to salvation. True faith is not a ceremonial declaration, but a belief accompanied by tangible deeds. Believing and doing are inseparable. Faith without works is an empty name, lacking the power to bring forth fruit. Salvation is attained through a living faith expressed in works of love and mercy.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.357441713966664,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.73,
+            "commentatorTierSimilarities": [
+                27.5,
+                37.95,
+                34.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "What is the profit of a faith that remains devoid of works? Can it truly save? James exposes the hollowness of a mere profession of faith, emphasizing the importance of tangible actions as proof and fruit of genuine faith. Believing and doing are intimately connected, and a faith that lacks works is empty and futile. Salvation is not achieved through a lifeless and barren faith, but through an active, living faith that is demonstrated through acts of love and mercy.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4814286852464775,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.85,
+            "commentatorTierSimilarities": [
+                26.82,
+                38.86,
+                34.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "What is the profit, if any man say that he has faith but have not works? Can his faith save him? Believing and doing are blood relatives. James challenges the empty name of boasted faith, contrasting it with true fruit-producing faith. He condemns the spurious claim to faith that lacks works, emphasizing that a mere profession of faith, such as was usually made at baptism, does not save. True faith is not a frigid and bare knowledge, but a genuine belief that is joined to God and expressed through works of love and mercy.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.5776980233026388,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.05,
+            "commentatorTierSimilarities": [
+                29.87,
+                36.75,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "What is the profit of claiming to have faith but lacking works? Can this kind of faith save? James exposes the fallacy of a hollow faith, emphasizing the need for genuine actions as evidence of true faith. Believing and doing are inseparable, and a faith that remains fruitless is empty and futile. Salvation is not attained through a lifeless, theoretical faith, but through a living faith that is active and expressed through works of love and mercy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.671370415373305,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.16,
+            "commentatorTierSimilarities": [
+                27.09,
+                39.24,
+                33.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

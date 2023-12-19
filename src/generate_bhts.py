@@ -25,7 +25,7 @@ if __name__ == '__main__':
         "Titus",
         "Philemon",
         # "Hebrews",
-        # "James",
+        "James",
         "1 Peter",
         "2 Peter",
         "1 John",

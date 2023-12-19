@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:35:46",
+    "verseRef": "James 2:26",
+    "bestBHT": {
+        "bht": "Faith without works can be likened to a lifeless body, lacking the spirit that gives it vitality. Just as a body without breath is dead and unproductive, so too is faith without corresponding actions. While works do not bring life to faith, their absence signifies a faith that is dormant and ineffective. This serves as a powerful reminder to assess our own faith and ensure it is not merely a superficial fa\u00e7ade, but a vibrant and transforming force in our lives.",
+        "wordCount": 81,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.64551758346108,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.3,
+        "commentatorTierSimilarities": [
+            33.43,
+            31.73,
+            34.84
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faith is the body, the sum and substance, of the Christian life: works (obedience), the moving and quickening of that body; just as the spirit is the moving and quickening principle of the natnral body.\" ",
+            "So that as the body without the spirit is dead, so faith without works is also dead.\" ",
+            "Faith without its works, the works belonging to it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith is a spiritual thing: works are material.",
+            "The form of faith without the working reality answers to the body without the animating spirit.",
+            "It does not follow that living faith derives its life from works, as the body derives its life from the animating spirit."
+        ],
+        "Albert Barnes": [
+            "The body is animated or kept alive by the presence of the soul, and that when that is withdrawn, hope departs.",
+            "If good works do not follow, it is clear that there is no true and proper faith; none that justifies and saves.",
+            "This shows that James was not arguing against real and genuine faith, nor against its importance in justification, but against the supposition that mere faith was all that was necessary to save a man, whether it"
+        ],
+        "Marvin Vincent": [
+            "Works [\u03c4\u03c9\u03bd \u03b5\u03c1\u03b3\u03c9\u03bd] . Note the article : the works belonging or corresponding to faith; its works. "
+        ],
+        "Philip Schaff": [
+            "For as the body without the spirit is dead.",
+            "Faith without works is dead also.",
+            "A mere system of doctrine, however correct, is a mere dead body, unless it be animated by a living working spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Startling picture of dead faith in our churches and church members with only a name to live.",
+            "Apart from breath\" (the breath of life). ",
+            "The absence of a sign of breath on a glass before the mouth and nose is proof of death."
+        ],
+        "John Gill": [
+            "For as the body without the spirit is dead....\" - This simile is made use of to illustrate what the apostle had asserted.",
+            "the body without the spirit, or breath, is a carcass\" - Illustrating that without the spirit, the body is without motion and useless.",
+            "So faith without works is dead also\" - Faith without works is vain, useless, and unprofitable, unable to justify or save."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith without works is like a body without a spirit; it lacks the animating force that gives it life and purpose. Just as a body without a spirit is dead and useless, so too is faith without its corresponding works. While works do not give life to faith, their absence is a clear sign of a dead and empty faith. This passage paints a startling picture of those who claim to have faith but lack the evidence of transformed lives and good deeds. Let it serve as a reminder to examine our own lives and ensure that our faith is not merely a name but a living reality.",
+            "wordCount": 108,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.755719715846396,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.97,
+            "commentatorTierSimilarities": [
+                33.37,
+                32.37,
+                34.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith without works can be likened to a lifeless body, lacking the spirit that gives it vitality. Just as a body without breath is dead and unproductive, so too is faith without corresponding actions. While works do not bring life to faith, their absence signifies a faith that is dormant and ineffective. This serves as a powerful reminder to assess our own faith and ensure it is not merely a superficial fa\u00e7ade, but a vibrant and transforming force in our lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.64551758346108,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.3,
+            "commentatorTierSimilarities": [
+                33.43,
+                31.73,
+                34.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith, like a body, is dependent on its accompanying works to bring it to life. Without works, faith becomes stagnant and inactive, resembling a dead body without a spirit. Just as a lifeless body is useless, faith without works is empty and unable to justify or save. This passage underscores the importance of genuine faith that is accompanied by transformative actions. It serves as a cautionary reminder against a faith that exists in name only, devoid of the living, working spirit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.6330608958966146,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.89,
+            "commentatorTierSimilarities": [
+                32.91,
+                31.51,
+                35.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith, without its corresponding works, is like a motionless body devoid of a spirit. Just as a body without breath is lifeless and unproductive, so is faith without actions. Works do not generate life for faith, but their absence reveals a faith that is void and unfruitful. This verse portrays a compelling image of those who claim faith but lack transformative actions, emphasizing the importance of genuine faith that manifests in deeds. May it prompt us to assess our own faith and ensure its vibrancy and authenticity.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.5569573170005975,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.36,
+            "commentatorTierSimilarities": [
+                35.03,
+                31.09,
+                33.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith, without its corresponding works, resembles a lifeless body, lacking the animating spirit. Just as a body without breath is useless and inactive, so is faith without deeds. Works do not bring life to faith, but their absence reveals a faith that is empty and unproductive. This vivid illustration highlights the importance of genuine faith accompanied by transformative actions. It serves as a powerful reminder to examine our own faith, ensuring that it is not merely a name, but a living testimony displayed through our works.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.4628531249394277,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.23,
+            "commentatorTierSimilarities": [
+                35.47,
+                30.61,
+                33.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

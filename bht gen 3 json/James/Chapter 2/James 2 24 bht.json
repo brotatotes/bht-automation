@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 17:35:43",
+    "verseRef": "James 2:24",
+    "bestBHT": {
+        "bht": "Faith alone cannot justify a person; rather, works are required to substantiate and display the righteousness of one's faith. Good works serve as the visible evidence of a living and authentic faith. The example of Abraham is given to emphasize the necessity of works in demonstrating the fruit of faith. It is important to understand that James is not focusing on the initial act of being justified before God, but rather on the proof of faith through obedient actions. Therefore, true and living faith is one that not only believes, but also produces righteous works.",
+        "wordCount": 96,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.6469112567549438,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.35,
+        "commentatorTierSimilarities": [
+            32.14,
+            36.24,
+            31.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye see that by (from, out of, as a source) works a man is justified (accounted righteous before God, as above).",
+            "Not by (from) faith only (notice only: St. James never says that a man is not justified by faith, provided that faith include in it the condition of obedience).",
+            "But by faith only, without works, is no man justified."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Faith to justify must, from the first, include obedience in germ (to be developed subsequently), though the former alone is the ground of justification.\" ",
+            "The scion must be grafted on the stock that it may live; it must bring forth fruit to prove that it does live."
+        ],
+        "Albert Barnes": [
+            "Not by a cold, abstract, inoperative faith. It must be by a faith that shall produce good works, and whose existence will be shown to men by good works.",
+            "As a matter of fact, therefore, it is only the faith that produces good works that justifies; and good works, therefore, as the proper expression of the nature of faith, foreseen by God as the certain result of faith, and actually performed as seen by men, are necessary in order to justification.",
+            "He does deny that a man is justified by a faith which would not produce good works, and which is not expressed by good works; and thus he maintains, as Paul always did, that nothing else than a holy life can show that a man is a true Christian, and is accepted of God."
+        ],
+        "Philip Schaff": [
+            "Ye see then, from this example of Abraham, how that by works a man is justified.\" ",
+            "Not by faith simply, by a faith without works, which cannot justify either in whole or in part.",
+            "Justifying faith must not be alone, but must be productive of works."
+        ],
+        "Archibald T. Robertson": [
+            "Is justified (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c5\u03c4\u03b1). Present passive indicative of \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c9, here not 'is made righteous,' but 'is shown to be righteous.'",
+            "James is discussing the proof of faith, not the initial act of being set right with God (Paul's idea in Romans 4:1-10).",
+            "Faith (live faith) is what we must all have (James 2:18), only it must shew itself also in deeds as Abraham's did."
+        ],
+        "John Gill": [
+            "Good works do not go before justification as causes or conditions, but follow it as fruits and effects.",
+            "The one speaks of a mere profession of faith, a dead and lifeless one; the other of a true faith, which has Christ, and his righteousness, for its object, and works by love, and produces peace, joy, and comfort in the soul.",
+            "The one speaks of good works as causes, which he denies to have any place as such in justification; and the other speaks of them as effects flowing from faith, and showing the truth of it, and so of justification by it."
+        ],
+        "John Wesley": [
+            "Ye see then that a man is justified by works, and not by faith only.\" ",
+            "They do not speak of the same faith: St. Paul speaking of living faith; St. James here, of dead faith.",
+            "They do not speak of the same works: St. Paul speaking of works antecedent to faith; St. James, of works subsequent to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Works are the proof of faith. Faith alone is not enough; it must be accompanied by works, as works demonstrate the reality of faith. The emphasis is on the connection between faith and obedience. Good works are the evidence that faith is alive and genuine, while a faith without works is dead. The example of Abraham is given to illustrate this point\u2014that he was justified by his works, which showed the fruit of his faith. It is important to note that James is not discussing the initial act of being set right with God, but rather the proof of faith. Therefore, true faith is one that not only believes, but also produces deeds of obedience and righteousness.",
+            "wordCount": 118,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.5374093255990493,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.71,
+            "commentatorTierSimilarities": [
+                31.83,
+                35.83,
+                32.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith alone is not enough to be justified before God; it must be coupled with works. Works serve as the visible evidence of a living and genuine faith. The connection between faith and obedience is emphasized, as good works demonstrate the authenticity of one's faith. The example of Abraham exemplifies this, as his works proved the fruit of his faith. It is important to understand that James is not discussing the initial act of being set right with God, but rather the proof of faith through obedient actions.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.5589367682409163,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.42,
+            "commentatorTierSimilarities": [
+                32.39,
+                36.04,
+                31.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith alone cannot justify a person; it must be accompanied by works that demonstrate the reality and vitality of faith. Good works are the fruit and effect of true faith and serve as evidence of its genuineness. The example of Abraham shows that works are necessary to confirm faith. James is not discussing the initial act of being set right with God, but rather the proof of faith that manifest in obedient deeds. Therefore, authentic faith combines belief with the production of righteous actions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.567951720979792,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.72,
+            "commentatorTierSimilarities": [
+                32.74,
+                35.79,
+                31.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith alone cannot justify a person; rather, works are required to substantiate and display the righteousness of one's faith. Good works serve as the visible evidence of a living and authentic faith. The example of Abraham is given to emphasize the necessity of works in demonstrating the fruit of faith. It is important to understand that James is not focusing on the initial act of being justified before God, but rather on the proof of faith through obedient actions. Therefore, true and living faith is one that not only believes, but also produces righteous works.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.6469112567549438,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.35,
+            "commentatorTierSimilarities": [
+                32.14,
+                36.24,
+                31.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith alone is not sufficient for justification, as works are necessary to validate and display the righteousness of one's faith. The example of Abraham illustrates that works are essential in demonstrating the fruit of genuine faith. James does not address the initial act of being justified, but rather the proof of faith through obedient actions. Thus, true faith encompasses both belief and the production of righteous deeds, serving as visible proof of one's relationship with God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.582036223935522,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.19,
+            "commentatorTierSimilarities": [
+                33.69,
+                35.37,
+                30.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

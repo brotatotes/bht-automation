@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:35:25",
+    "verseRef": "James 1:23",
+    "bestBHT": {
+        "bht": "One's faith is demonstrated by the action they take in response to God's word. If one merely hears the word but does not put it into practice, they are like a person who looks at their reflection in a mirror and then forgets what they look like. The word of God serves as a mirror where we can perceive our moral visage and recognize both our natural vileness and God's glory. It is not enough to passively hear the word; we must actively put it into action and be transformed by it.",
+        "wordCount": 95,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 2.0116873720399115,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+        "commentatorTierSimilarities": [
+            33.24,
+            39.34,
+            27.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any is a hearer of the word, and not a doer, this man is like to a man contemplating the countenance of his birth in a mirror.",
+            "The word of God is a mirror in which we may and ought to see our moral visage.",
+            "...the easy translation of the remark from the one department to the other, in which 'the word of God is a mirror in which we may and ought to see our moral visage.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The true disciple, say the rabbis, learns in order that he may do, not in order that he may merely know or teach.",
+            "As a man may behold his natural face in a mirror, so the hearer may perceive his moral visage in God's Word.",
+            "This faithful portraiture of man's soul in Scripture, is the strongest proof of the truth of the latter. In it, too, we see mirrored God's glory, as well as our natural vileness."
+        ],
+        "Marvin Vincent": [
+            "It is not mere careless hearing of the word which James rebukes, but the neglect to carry into practice what is heard.\" ",
+            "One may be an attentive and critical hearer of the word, yet not a doer.",
+            "His natural face, the countenance of his birth."
+        ],
+        "John Calvin": [
+            "Heavenly doctrine is indeed a mirror in which God presents himself to our view; but so that we may be transformed unto his image.\" ",
+            "A doctrine merely heard and not received inwardly into the heart avails nothing, because it soon vanishes away.\" ",
+            "External glance of the eye, not of the vivid and efficacious meditation which penetrates into the heart."
+        ],
+        "Philip Schaff": [
+            "A hearer of the word, who is not a doer, resembles a man seeing his face in a mirror, without its making any permanent impression upon him.",
+            "If any man be a hearer of the word and not a doer, he is like unto a man beholding his natural face: literally, 'the countenance of his birth, that face with which he was born; and therefore here well translated 'his natural face.'",
+            "The ancients had no looking-glasses properly so called; their mirrors were usually made of polished metals. In them objects could be but dimly discerned: 'Now we see through a glass darkly' (1 Corinthians 13:12)."
+        ],
+        "Archibald T. Robertson": [
+            "Unto a man beholding... to take note of.\" ",
+            "His natural face... the face of his birth.\" ",
+            "In a mirror... The mirrors of the ancients were not of glass, but of polished metal."
+        ],
+        "John Gill": [
+            "not hearing, but practice, is the main thing; not theory, but action",
+            "if a man is only a preacher, or a hearer, and not a doer",
+            "he is like unto a man beholding his natural face in a glass"
+        ],
+        "John Wesley": [
+            "Beholding his face in a glass \u2014 How exactly does the scripture glass show a man the face of his soul!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If one merely hears the word of God without putting it into action, they are like someone who looks in a mirror and forgets what they look like. The word of God is a mirror that reflects our moral visage, allowing us to see both our natural vileness and God's glory. It is not enough to simply hear and analyze the word; one must also practice and apply it in their life. The mirrors of the ancients were not like our modern glass mirrors, but rather polished metal that provided a dim reflection, reminding us that our understanding may be incomplete and imperfect. Therefore, let us not be mere hearers of the word, but doers of it, allowing it to transform us into the image of God.",
+            "wordCount": 128,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.112537306349021,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                32.07,
+                42.69,
+                25.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If any is a hearer of the word, but not a doer, they are like a person observing their natural face in a mirror but forgetting what they look like. The word of God serves as a mirror through which we can see our moral visage and God's glory. Rather than solely listening and analyzing the word, we must also put it into practice. Similar to the mirrors of ancient times, the reflection may be dim and imperfect, reminding us of our incomplete understanding. Let us not be passive hearers, but active doers, allowing the word to transform us.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.051463299028086,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                32.8,
+                42.22,
+                24.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A person who hears the word of God but fails to put it into action is like someone gazing at their own reflection in a mirror and then forgetting what they look like. The word of God is a mirror that reveals our moral visage and exposes both our natural vileness and the glory of God. It is not enough to merely listen to and analyze the word; true disciples are those who learn in order to do, not just to know or teach. Let us not be complacent hearers, but rather obedient doers of the word.",
+            "wordCount": 97,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.0024123744388422,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.92,
+            "commentatorTierSimilarities": [
+                33.05,
+                40.09,
+                26.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "One's faith is demonstrated by the action they take in response to God's word. If one merely hears the word but does not put it into practice, they are like a person who looks at their reflection in a mirror and then forgets what they look like. The word of God serves as a mirror where we can perceive our moral visage and recognize both our natural vileness and God's glory. It is not enough to passively hear the word; we must actively put it into action and be transformed by it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 2.0116873720399115,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                33.24,
+                39.34,
+                27.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Merely hearing the word of God without putting it into practice is akin to looking at one's reflection in a mirror and promptly forgetting what they saw. The word of God serves as a mirror that reveals our moral visage and displays both our inherent corruption and God's glory. Mere passive listening is not enough; we must actively apply the teachings in our lives. Let us not be content with mere knowledge but strive to be obedient doers of the word, allowing it to shape and transform us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9866173349442668,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                32.61,
+                39.03,
+                28.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

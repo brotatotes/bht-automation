@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:36:35",
+    "verseRef": "James 5:5",
+    "bestBHT": {
+        "bht": "Those who have lived a life of wanton luxury, feasting and indulging themselves, are likened to cattle blissfully unaware of their approaching slaughter. The connection between their indulgence and their mistreatment of others is evident, as their luxurious lifestyles come at the expense of the impoverished. The impending judgment that awaits them is emphasized, as the same earth that witnessed their wantonness will be the stage for their reckoning. Their ignorance of the consequences of their actions is compared to beasts that gorge themselves until the very day of their slaughter.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.8875049594991946,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+        "commentatorTierSimilarities": [
+            31.16,
+            35.41,
+            33.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye luxuriated on the earth and wantoned, ye nourished your hearts in the day of slaughter.",
+            "Like cattle, who on the very day of slaughter feed and fill themselves, happy and careless.",
+            "This seems the simplest and most obvious interpretation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their luxury was at the expense of the defrauded poor.",
+            "The same earth which has been the scene of your wantonness, shall be the scene of the judgment coming on you.",
+            "Ye are like beasts which eat to their hearts' content on the very day of their approaching slaughter, unconscious it is near."
+        ],
+        "Albert Barnes": [
+            "A life of mere indolence and ease, of delicacy and luxury, is nowhere countenanced in the Bible.",
+            "There is a close connection between what the apostle says here, and what he refers to in the previous verses - the oppression of others, and the withholding of what is due to those who labor.",
+            "They lived only to eat and drink, and to enjoy life. But, by such a course, they were as certainly preparing for perdition, as cattle were prepared to be killed by being stall-fed."
+        ],
+        "Marvin Vincent": [
+            "Ye have lived in pleasure...ye have lived delicately.\" ",
+            "Been wanton...luxurious or prodigal living.",
+            "These men are like beasts, which, on the very day of their slaughter, gorge themselves in unconscious security."
+        ],
+        "John Calvin": [
+            "There are, indeed, some rich men, as I have said, who pine themselves in the midst of their abundance.",
+            "And though the Lord allows them to live freely on what they have, yet profusion ought to be avoided and frugality practiced.",
+            "He means that they indulged themselves, not only as far as to satisfy nature, but as far as their cupidity led them."
+        ],
+        "Philip Schaff": [
+            "The second sin is luxury or self-indulgence.",
+            "You have nourished yourselves like fed beasts prepared for the slaughter.",
+            "You have made yourselves ripe for the impending judgment."
+        ],
+        "Archibald T. Robertson": [
+            "Ye have lived delicately... to lead a soft life\" ",
+            "Taken your pleasure... to live voluptuously or wantonly\" ",
+            "Ye have nourished... fattening themselves like sheep or oxen all unconscious of 'the day of slaughter' ahead of them"
+        ],
+        "John Gill": [
+            "and others lived a voluptuous and luxurious life, indulged themselves in carnal lusts and pleasures, and gratified the senses by eating, drinking, gaming, and so were dead while they lived.",
+            "ye have nourished your hearts as in a day of slaughter, when beasts were slain for some extraordinary entertainment, or for the solemn festivals and sacrifices the Jews, when they lived more deliciously than at other times",
+            "like beasts that are fattened in order to be killed, so were they preparing and fitting up by their sins for destruction."
+        ],
+        "John Wesley": [
+            "Ye have cherished your hearts \u2014 Have indulged yourselves to the uttermost.",
+            "As in a day of sacrifice \u2014 Which were solemn feast-days among the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those addressed in this verse are compared to cattle fattening themselves up before being slaughtered, indulging in a life of luxury at the expense of the impoverished. The commentators emphasize that this interpretation is straightforward and points to the connection between their self-indulgence and their neglect of others. Their excessive lifestyles and lack of concern for justice and compassion are seen as preparations for their impending judgment. The third-tier commentary supports this idea by stressing the need for frugality and avoiding profusion. Ultimately, their hearts are likened to beasts, blissfully ignorant of the consequences of their actions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.672399764395001,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                28.41,
+                38.06,
+                33.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Addressing those who have lived a life of wanton luxury at the expense of the poor, this passage illustrates their indulgence and ignorance of the impending judgment. They are compared to beasts gorging themselves, unaware of their approaching fate. The third-tier commentary emphasizes the need for frugality and avoiding excess, while second-tier commentary highlights the connection between their mistreatment of others and their self-indulgence. Ultimately, they have nourished themselves and led a life of pleasure, unaware of the consequences that await them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.736551097966979,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                27.13,
+                39.26,
+                33.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who have lived a life of wanton luxury, feasting and indulging themselves, are likened to cattle blissfully unaware of their approaching slaughter. The connection between their indulgence and their mistreatment of others is evident, as their luxurious lifestyles come at the expense of the impoverished. The impending judgment that awaits them is emphasized, as the same earth that witnessed their wantonness will be the stage for their reckoning. Their ignorance of the consequences of their actions is compared to beasts that gorge themselves until the very day of their slaughter.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8875049594991946,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                31.16,
+                35.41,
+                33.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who have lived a life of luxurious self-indulgence, nourishing themselves and indulging their desires without regard for others, are likened to cattle fattening up for slaughter. The message is clear: their excessive comfort comes at the expense of the oppressed. Unbeknownst to them, their blissful ignorance of the impending judgment parallels the carefree nature of beasts unaware of their fate. Their extravagant lifestyle prepares them for destruction, as they thrive in pleasure, unaware of the consequences that lie ahead.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.767951396842522,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                31.38,
+                33.89,
+                34.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who have lived in wanton luxury, satisfying their desires without concern for others, are likened to beasts that gorge themselves on the day of slaughter, unaware of the impending judgment. Their excessive lifestyle has come at the expense of the impoverished. The earth, witness to their indulgence, will be the very scene of their reckoning. They have been careless, oblivious to the consequences of their actions, while nurturing their hearts in moments of transient pleasure.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.8115266405568993,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                33.46,
+                31.76,
+                34.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:35:39",
+    "verseRef": "James 1:22",
+    "bestBHT": {
+        "bht": "Let your occupation be to systematically and continually be doers of the implanted word, the word of truth. Do not deceive yourself by falsely reasoning that hearing alone is enough. Obey the gospel, let it influence your life, and produce action that aligns with its teachings. Embrace God's word, testify through works, and ensure it takes root in you. Remember, relying solely on hearing is self-deception, so guard against false reasoning and strive to be a genuine doer of the word.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.9783312572142195,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+        "commentatorTierSimilarities": [
+            31.77,
+            35.03,
+            33.2
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But be ye doers of the word (viz. of the implanted word, the word of truth.",
+            "the \u201chearer only\u201d does this, when he infers that the mere sound of the word received in his outward ear will suffice for him",
+            "let this be your occupation"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be ye doers . . . not hearers only\"; not merely \"Do the word,\" but \"Be doers\" systematically and continually, as if this was your regular business. James here again refers to the Sermon on the Mount (Matthew 7:21-29).",
+            "Deceiving your own selves\u2014by the logical fallacy (the Greek implies this) that the mere hearing is all that is needed.",
+            "Be doers\" systematically and continually, as if this was your regular business."
+        ],
+        "Albert Barnes": [
+            "Obey the gospel, and do not merely listen to it.",
+            "If a man supposes that by a mere punctual attendance on preaching, or a respectful attention to it, he has done all that is required of him, he is laboring under a most gross self-deception.",
+            "Of its influence on their lives, and its claims to obedience, they are utterly regardless."
+        ],
+        "Marvin Vincent": [
+            "The deception referred to is, therefore, that into which one betrays himself by false reasoning - reasoning beside the truth.",
+            "Used by James only.",
+            "The deception referred to is, therefore, that into which one betrays himself by false reasoning."
+        ],
+        "John Calvin": [
+            "The doer here is not the same as in Romans 2:13, who satisfied the law of God and fulfilled it in every part, but the doer is he who from the heart embraces God\u2019s word and testifies by his life that he really believes.",
+            "We must further observe, that faith with all its works is included by James, yea, faith especially, as it is the chief work which God requires from us.",
+            "The import of the whole is, that we ought to labor that the word of the Lord should strike root in us, so that it may afterwards fructify."
+        ],
+        "Philip Schaff": [
+            "The implanted word, or the word of truth, must be so heard and received as to produce a corresponding course of action.\" ",
+            "Practice, and not opinion, is the desired effect of the reception of the word.\" ",
+            "If a man were deceived by others, it would be comparatively easy to undeceive him, by placing things in their true light. But if a man be deceived by himself, it is next to impossible to undeceive him, because prejudices have blinded his eyes."
+        ],
+        "Archibald T. Robertson": [
+            "But keep on becoming doers of the word.\" ",
+            "Such a man does not delude anyone but himself.\" ",
+            "Hearers."
+        ],
+        "John Gill": [
+            "And they are such, who spiritually understand it; gladly receive it; and from the heart obey it, and make a sincere and ingenuous profession of it.",
+            "Men should not depend upon their hearing, as if that would save them; this is deceiving your own selves.",
+            "Arguments taken from hence are like the sophisms, paralogisms, and false reasonings of sophisters, which carry a fair show, and ensnare and deceive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let your occupation be to systematically and continually be doers of the implanted word, the word of truth. Do not be deceived by the false reasoning that merely hearing the word is enough. Instead, obey the gospel and let it influence your life, producing a corresponding course of action. For if a man deceives himself, it is difficult to undeceive him. Therefore, embrace God's word, testify to your faith through works, and labor for the word to strike root in you. Do not rely solely on hearing, for this is self-deception.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8350712216557448,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                33.43,
+                34.71,
+                31.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let your occupation be to systematically and continually be doers of the implanted word, the word of truth. Do not be deceived by false reasoning that hearing alone suffices. Embrace God's word, testify to your faith through works, and labor for the word to strike root in you. For if a man deceives himself, it is difficult to undeceive him. Do not rely solely on hearing, for this is self-deception.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8290605997520997,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                35.8,
+                32.37,
+                31.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Make being doers of the implanted word, the word of truth, your regular business, rather than deceiving yourselves with the false reasoning that merely hearing is sufficient. Let the gospel influence your life, producing action. Understand that if one deceives themselves, it is challenging to correct that falsehood. Embrace God's word and let it take root in you. Remember, relying solely on hearing is self-deception.",
+            "wordCount": 67,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.6362840397507619,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.75,
+            "commentatorTierSimilarities": [
+                35.56,
+                32.84,
+                31.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Make it your occupation to be doers of the implanted word, the word of truth, and not mere hearers. Deceive no one, but especially not yourself, by thinking that just hearing the word is enough. Obey the gospel, let it influence your life, and produce a course of action that aligns with its teachings. Remember, embracing God's word and testifying through works is key. Do not rely solely on hearing, for it is easy to be deceived by false reasoning.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.943519629179214,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                32.04,
+                35.57,
+                32.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let your occupation be to systematically and continually be doers of the implanted word, the word of truth. Do not deceive yourself by falsely reasoning that hearing alone is enough. Obey the gospel, let it influence your life, and produce action that aligns with its teachings. Embrace God's word, testify through works, and ensure it takes root in you. Remember, relying solely on hearing is self-deception, so guard against false reasoning and strive to be a genuine doer of the word.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9783312572142195,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.12,
+            "commentatorTierSimilarities": [
+                31.77,
+                35.03,
+                33.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:35:34",
+    "verseRef": "James 2:8",
+    "bestBHT": {
+        "bht": "Fulfilling the royal law, the law of love, means treating all people as neighbors without showing partiality. It is a law that encompasses all commandments and requires us to love others as ourselves. By living out this law of love, we demonstrate true obedience and fulfill the essence of the Law and the prophets. Our interactions with others should not be based on their social status or background, but on the principle of treating them with love and respect.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.252022134241411,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+        "commentatorTierSimilarities": [
+            28.43,
+            37.46,
+            34.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "If in very deed (or 'indeed on the one hand') ye fulfil the royal law . . . ye do well, but if (on the other hand) ye respect persons, ye practice sin.",
+            "The great King, God, is love His law is the royal law of love, and that law, like Himself, reigns supreme.",
+            "To break a part is to break the whole."
+        ],
+        "Albert Barnes": [
+            "It is called a 'royal law,' or kingly law, on account of its excellence or nobleness; not because it is ordained by God as a king, but because it has some such prominence and importance among other laws as a king has among other men; that is, it is majestic, noble, worthy of veneration.",
+            "You are to regard all persons as your 'neighbors,' and are to treat them according to their real worth; you are not to be influenced in judging of them, or in your treatment of them, by their apparel, or their complexion, or the circumstances of their birth, but by the fact that they are fellow-beings.",
+            "This is another reason why they should not show partiality in their treatment of others, for if, in the true sense, they regarded all others as 'neighbors,' they would treat no one with neglect or contempt."
+        ],
+        "Marvin Vincent": [
+            "Fulfill the royal law [\u03bd\u03bf\u03bc\u03bf\u03bd \u03c4\u03b5\u03bb\u03b5\u03b9\u03c4\u03b5 \u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ba\u03bf\u03bd]. Telein, fulfill, is stronger than the more common word threin, observe or keep...",
+            "It is the royal law; the king of all laws. The phrase royal law is of Roman origin (lex regia).",
+            "The will of a single man, of a child, perhaps, was allowed to prevail over the wisdom of ages and the inclinations of millions; and the degenerate Greeks were proud to declare that in his hands alone the arbitrary exercise of legislation could be safely deposited."
+        ],
+        "John Calvin": [
+            "He shews that it was falsely pretended by them, because they shewed this submission of homage, not from love to their neighbors, but from respect of persons.",
+            "He, then, who says, that a very few, according to his own fancy, ought to be honored, and others passed by, does not keep the law of God, but yields to the depraved desires of his own heart.",
+            "It is said, indeed, to be a royal law, as it is the royal way, or road; that is, plain, straight, and level, which, by implication, is set in opposition to sinuous by-paths and windings."
+        ],
+        "Philip Schaff": [
+            "The law which is the king of all laws, which includes in itself all other commandments.",
+            "Love to our neighbour is not so much a single command as the principle of all true obedience; it is the chief of all laws; all other laws are its ministering servants.",
+            "Thou shalt love thy neighbour as thyself, ye do well. For then it would follow that if you did so, you would not have this respect of persons."
+        ],
+        "Archibald T. Robertson": [
+            "The absence of the article is common with \u03bd\u03bf\u03bc\u03bf\u03c2... It can mean a law fit to guide a king, or such as a king would choose, or even the king of laws.",
+            "Jesus had said that on the law of love hang all the law and the prophets, and he had given the Golden Rule as the substance of the Law and the prophets.",
+            "This is probably the royal law which is violated by partiality."
+        ],
+        "John Gill": [
+            "It is the law of love to men, without distinction of rich and poor, high and low, bond and free.",
+            "Love to the neighbour is the second and next unto it, and may very well bear the name of the queen of laws, and so has royalty in it.",
+            "This royal law is fulfilled when it is regarded without respect of persons."
+        ],
+        "John Wesley": [
+            "If ye fulfil the royal law \u2014 The supreme law of the great King which is love; and that to every man, poor as well as rich, ye do well. Leviticus 19:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you truly fulfill the royal law, the law of love, by treating all people as your neighbors without showing partiality or respect of persons, you do well. This royal law, which is the king of all laws and encompasses all commandments, requires us to love our neighbors as ourselves. It is a law of love that is meant to guide us in our interactions with others, regardless of their social status or background. By living out this law of love, we demonstrate true obedience and fulfill the essence of the Law and the prophets.",
+            "wordCount": 95,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.4863998621170573,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.01,
+            "commentatorTierSimilarities": [
+                29.51,
+                35.62,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fulfilling the royal law, the law of love, means treating all people as neighbors without showing partiality. It is a law that encompasses all commandments and requires us to love others as ourselves. By living out this law of love, we demonstrate true obedience and fulfill the essence of the Law and the prophets. Our interactions with others should not be based on their social status or background, but on the principle of treating them with love and respect.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.252022134241411,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.22,
+            "commentatorTierSimilarities": [
+                28.43,
+                37.46,
+                34.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If indeed you fulfill the royal law, the law of love, you do well. This law is the king of all laws, reigning supreme, and encompassing all other commandments. It is the way of righteousness, the straight and level path that leaves no room for partiality or discrimination. By treating all others as neighbors, regardless of their outward appearance or social standing, you demonstrate true obedience and fulfill the very essence of the law. In loving your neighbor as yourself, you fulfill the commandments and reflect the heart of the great King who is love.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.2498667255758837,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.15,
+            "commentatorTierSimilarities": [
+                30.25,
+                35.31,
+                34.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you fulfill the royal law, the law of love, you do well. This law is the king of all laws, reigning supreme, and encompassing all other commandments. It is the way of righteousness, the straight and level path that leaves no room for partiality or discrimination. By treating all others as neighbors, regardless of their outward appearance or social standing, you demonstrate true obedience and fulfill the essence of the law. In loving your neighbor as yourself, you fulfill the commandments and reflect the heart of the great King who is love.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.2314507409541298,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.54,
+            "commentatorTierSimilarities": [
+                30.36,
+                35.21,
+                34.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If indeed you fulfill the royal law, the law of love, you do well. The great King, God, is love. This law is the king of all laws, reigning supreme. It is the royal law, the king of laws. Treat all others as neighbors, regardless of their outward appearance or social standing. By doing so, you demonstrate true obedience and fulfill the essence of the law. In loving your neighbor as yourself, you fulfill the commandments and reflect the heart of the great King who is love.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.225436926521633,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                32.36,
+                32.74,
+                34.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

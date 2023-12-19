@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:36:26",
+    "verseRef": "James 4:11",
+    "bestBHT": {
+        "bht": "Let us not arrogantly condemn the actions and words of others, for this places our own self-righteousness above the law of God. Speaking ill of others undermines the true spirit of religion and goes against the unity and obedience that should characterize the Christian brotherhood. Instead, let us live in accordance with God's law and our own conscience, being doers of the law and agents of peace rather than judges. Speaking evil of others is, in fact, speaking evil of the law itself.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.0945104743880183,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+        "commentatorTierSimilarities": [
+            30.04,
+            34.94,
+            35.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Speak not against\" one another.",
+            "Those who superciliously condemn the acts and words of others which do not please themselves, thus aiming at the reputation of sanctity, put their own moroseness in the place of the law, and claim to themselves a power of censuring above the law of God, condemning what the law permits.",
+            "Setting aside the Christian brotherhood as all alike called to be doers of the law, in subjection to it, such a one arrogates the office of a judge."
+        ],
+        "Albert Barnes": [
+            "The evil here referred to is that of talking against others - against their actions, their motives, their manner of living, their families, etc. Few things are more common in the world; nothing is more decidedly against the true spirit of religion.",
+            "Religion forbids both, and would restrain us from all evil speaking against any human being.",
+            "Those who held the opinion that all the Jewish ceremonial laws were still binding on Christians, and who judged and condemned their brethren who did not observe them, by such a course judged and condemned 'the law of liberty' under which they acted - the law of Christianity that had abolished the ceremonial observances, and released men from their obligation."
+        ],
+        "John Calvin": [
+            "We are by nature hypocrites, fondly exalting ourselves by calumniating others.",
+            "There is also another disease innate in human nature, that every one would have all others to live according to his own will or fancy.",
+            "He intimates, that so much is taken away from the law as one claims of authority over his brethren."
+        ],
+        "Philip Schaff": [
+            "Evil speaking has its origin in resentment and envy. Those whom we do not like, or who are our successful rivals, we are apt to depreciate.",
+            "The evil speaking which St. James here condemns, is sinful censuring; judging the motives and character of men; pretending to see into their hearts, and discerning the motives of their actions; condemning them without good reason from prejudice and envy, and thus usurping the judicial authority of God.",
+            "He who in a censorious spirit judges his brother, sets at nought this law of love, and thus speaks evil of it, or undervalues it."
+        ],
+        "Archibald T. Robertson": [
+            "Prohibition against such a habit or a command to quit doing it.\" ",
+            "In the sense of harsh judgment.\" ",
+            "We cannot select the laws which we will obey unless some contravene God's law, and so our own conscience."
+        ],
+        "John Gill": [
+            "Speaking evil one of another...is barbarous and unnatural.\" ",
+            "He that speaketh evil of his brother...speaks evil of the law, and judges the law.",
+            "If thou judge the law, thou art not a doer of the law; but a judge."
+        ],
+        "John Wesley": [
+            "Speak not evil one of another \u2014 This is a grand hinderance of peace. O who is sufficiently aware of it!",
+            "He that speaketh evil of another does in effect speak evil of the law, which so strongly prohibits it.",
+            "Thou art not a doer of the law, but a judge \u2014 Of it; thou settest thyself above, and as it were condemnest, it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us refrain from speaking against one another, for those who arrogantly condemn the actions and words of others are placing their own self-righteousness above the law of God. By doing so, they position themselves as judges, disregarding the unity and obedience that should characterize the Christian brotherhood. We are not at liberty to selectively follow the laws as we please, unless they go against the law of God and our own conscience. Speaking ill of others stems from resentment and envy, and it undermines the spirit of true religion. Therefore, let us remember that when we speak evil of our brothers and sisters, we are also speaking evil of the law and assuming the role of a judge, rather than being doers of the law and agents of peace.",
+            "wordCount": 131,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.036134480661488,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                29.88,
+                38.46,
+                31.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let us not arrogantly condemn the actions and words of others, for this places our own self-righteousness above the law of God. Such behavior goes against the unity and obedience that should characterize the Christian brotherhood. We must not selectively follow the laws, but instead live in accordance with God's law and our own conscience. Speaking ill of others stems from resentment and envy, and it undermines the true spirit of religion. Therefore, let us refrain from judging and instead strive to be doers of the law and agents of peace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.918273334704483,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                32.08,
+                36.21,
+                31.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let us refrain from arrogantly condemning the actions and words of others, for this places our self-righteousness above the law of God. Speaking ill of others undermines the true spirit of religion and goes against the unity and obedience that should characterize the Christian brotherhood. Instead, let us live in accordance with God's law and our own conscience, being doers of the law and agents of peace rather than judges. May we remember that speaking evil of others is, in fact, speaking evil of the law itself.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.084588974490228,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.65,
+            "commentatorTierSimilarities": [
+                29.98,
+                35.85,
+                34.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let us not arrogantly condemn the actions and words of others, for this places our own self-righteousness above the law of God. Speaking ill of others undermines the true spirit of religion and goes against the unity and obedience that should characterize the Christian brotherhood. Instead, let us live in accordance with God's law and our own conscience, being doers of the law and agents of peace rather than judges. Speaking evil of others is, in fact, speaking evil of the law itself.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0945104743880183,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.94,
+                35.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let us refrain from arrogantly condemning others, for by doing so, we place our own self-righteousness above God's law. Such behavior undermines unity and obedience within the Christian community. Instead, let us live in accordance with our conscience and be doers of the law, promoting peace rather than acting as judges. Speaking ill of others is not only contrary to the spirit of true religion but also reflects a disrespect for God's law.",
+            "wordCount": 76,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.9806267044327135,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                34.47,
+                34.24,
+                31.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

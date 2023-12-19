@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 17:35:00",
+    "verseRef": "James 1:24",
+    "bestBHT": {
+        "bht": "He looked at himself for a moment and then went on his way, immediately forgetting what he had seen. This forgetfulness is not excusable, as it represents a hasty and careless attitude towards the truth. The image he saw may have revealed his flaws or his beauty, but either way, it made no meaningful impression on him. It is as if he glanced at himself in passing, without truly knowing or remembering his own features. He becomes a mere hearer of the word, acknowledging his shortcomings and admiring the perfection of Christ, yet failing to put it into practice or reflect upon it once the discourse is over.",
+        "wordCount": 108,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.049730054094865,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+        "commentatorTierSimilarities": [
+            31.64,
+            39.82,
+            28.53
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He contemplated himself, and has departed, and immediately forgot of what appearance he was.\" ",
+            "It is to be observed, that the contemplating answers to the hearing of the word: the going away to the relaxing the attention after hearing\u2014letting the mind go elsewhere, and the interest of the thing heard pass away: and then the forgetfulness in both cases follows.",
+            "In the next verse we pass to one who looks and does not depart."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Forgetfulness is no excuse.",
+            "No sooner has he contemplated his image than he is gone his way.",
+            "The repetition expresses hastiness joined with levity."
+        ],
+        "Marvin Vincent": [
+            "He beholdeth [\u03ba\u03b1\u03c4\u03b5\u03bd\u03bf\u03b7\u03c3\u03b5\u03bd] . The aorist tense, throwing the sentence into a lively, narrative form : he beheld himself and forgot. Compare ver. 11."
+        ],
+        "Philip Schaff": [
+            "For he contemplated himself, and has gone his way, and immediately forgot what manner of man he was.",
+            "A man has seldom any true or accurate notion of his own features: from beholding himself in a glass or mirror, he retains no distinct recollection of what he has seen.",
+            "No distinct impression is made on him; he cannot recall his own features."
+        ],
+        "Archibald T. Robertson": [
+            "He glanced at himself and off he has gone and straightway forgot what sort of a man he was."
+        ],
+        "John Gill": [
+            "He takes a slight glance of himself, and departs.\" ",
+            "He forgets either his spots, blemishes, and imperfections; or his comeliness and beauty.",
+            "A bare hearer of the word, who is not concerned to practise what he hears, while he is hearing, he observes some things amiss in himself, and some excellencies in Christ; but, when the discourse is over, he goes his way, and thinks no more of either."
+        ],
+        "John Wesley": [
+            "He beheld himself, and went away \u2014 To other business.",
+            "And forgot \u2014 But such forgetting does not excuse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He looked at himself for a moment and then went on his way, immediately forgetting what he had seen. This forgetfulness is not excusable, as it represents a hasty and careless attitude towards the truth. The image he saw may have revealed his flaws or his beauty, but either way, it made no meaningful impression on him. It is as if he glanced at himself in passing, without truly knowing or remembering his own features. He becomes a mere hearer of the word, acknowledging his shortcomings and admiring the perfection of Christ, yet failing to put it into practice or reflect upon it once the discourse is over.",
+            "wordCount": 108,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.049730054094865,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                31.64,
+                39.82,
+                28.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He glanced at himself and immediately forgot what he looked like. Forgetting in this case is not an excuse. He hurriedly and thoughtlessly moved on from self-reflection. He neglects to acknowledge his flaws or recognize his value. He becomes a passive listener of the Word, recognizing faults in himself and perfections in Christ, yet failing to take any action or ponder the significance of what was heard.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9574093099548995,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                33.52,
+                32.48,
+                33.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Glancing at his reflection, he hastily departs and instantly forgets his own image. This forgetfulness cannot be overlooked or excused. The rapidity and lightness with which he goes his way is evident. It is as if he catches a brief glimpse of himself but fails to truly comprehend or remember his own features. He becomes a mere listener of the Word, acknowledging his flaws and admiring the beauty of Christ, yet neglecting to internalize or reflect upon it once the conversation concludes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9663128497483155,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.72,
+            "commentatorTierSimilarities": [
+                32.73,
+                37.29,
+                29.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After briefly contemplating his reflection, he swiftly departs and immediately forgets what he saw. This forgetfulness cannot be used as an excuse. The hastiness and levity with which he moves on from self-reflection is apparent. It is as if he glances at himself for a moment but fails to truly comprehend or retain the details of his appearance. He becomes a mere hearer of the Word, acknowledging his flaws and recognizing the beauty of Christ, yet failing to internalize or remember it once the conversation ends.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.987398432829312,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                34.16,
+                35.32,
+                30.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Glancing at himself, he quickly departs and immediately forgets his own reflection. This oblivion is not a valid excuse. The rapidity and thoughtlessness of his departure is evident. It is as if he takes a brief look at himself but fails to truly grasp or remember his appearance. He becomes a mere listener of the Word, acknowledging his flaws and admiring the beauty of Christ, yet neglecting to apply or recollect it once the conversation concludes.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.914075924659555,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                33.15,
+                35.03,
+                31.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

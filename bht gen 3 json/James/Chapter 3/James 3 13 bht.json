@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:36:03",
+    "verseRef": "James 3:13",
+    "bestBHT": {
+        "bht": "The true display of wisdom and knowledge lies not in empty claims, but in the tangible evidence of good conduct and works. Wisdom without meekness is incomplete, for humility is the essence of true wisdom. Mere words do not suffice to prove wisdom; it is the practical application that truly matters. A combination of wisdom and meekness empowers one to impact others. The true test of wisdom is not in boastful speech, but in the manifestation of good works as a testament of true wisdom.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.73,
+        "qualityScore": 2.36706904530811,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.05,
+        "commentatorTierSimilarities": [
+            34.02,
+            29.47,
+            36.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who is wise and a man of knowledge among you? Let him show out of his good conduct his works.\" ",
+            "The good conduct is the general manifestation: the works, the particular results of that general manifestation.\" ",
+            "In that meekness which is the proper attribute of wisdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All wish to appear 'wise': few are so.",
+            "'Wisdom' and 'knowledge,' without these being 'shown,' are as dead as faith would be without works.",
+            "With meekness of wisdom - with the meekness inseparable from true 'wisdom'."
+        ],
+        "Albert Barnes": [
+            "The primary things to be sought in reference to that office were wisdom and knowledge, and they who were endowed with these things should be selected for public instructors.",
+            "He should be a man of a holy life.",
+            "A noisy, boisterous, and stormy declaimer we never select as a safe counsellor. He may accomplish much in his way by his bold eloquence of manner, but we do not put him in places where we need far-reaching thought, or where we expect the exercise of profound philosophical views."
+        ],
+        "Marvin Vincent": [
+            "Knowledge is proud that she has learned so much, Wisdom is humble that she knows no more.",
+            "In this passage the word appears to be used in the sense of practical wisdom in pious living.",
+            "The meekness which is the proper attribute of wisdom."
+        ],
+        "John Calvin": [
+            "That supercilious censors, who largely indulge themselves, and at the same time spare none, seem to themselves to be very wise, but are greatly mistaken; for the Lord teaches his people far otherwise, even to be meek, and to be courteous to others.",
+            "They, then, are alone wise in the sight of God, who connect this meekness with an honest conversation; for they who are severe and inexorable, though they may excel others in many virtues, do not yet follow the right way of wisdom.",
+            "Wisdom the effect first, then knowledge the cause or what precedes it. In what follows the order is reversed; knowledge distinguishes between good and bad works, and the good ought to be exhibited with that meekness which wisdom dictates."
+        ],
+        "Philip Schaff": [
+            "The want of command over our tongues argues a defect in wisdom and knowledge; so that if you do not govern your tongues, your boast of these qualities is a mere pretence.",
+            "Who is a wise man? that is, Who among you professes to be such? The Jews were great pretenders to wisdom, and they as well as the Greek sophists gloried in the title of wise men; and indeed an assertion of wisdom is a general feature of the human race; humility is the rarest of virtues.",
+            "Let him show: let him make good his profession, let him prove his possession of wisdom and knowledge. out of, or rather \u2018by,\u2019 a good conversation, \u2018by a holy conduct\u2019\" "
+        ],
+        "Archibald T. Robertson": [
+            "Actions speak louder than words even in the case of the professional wise man.",
+            "As about faith in James 2:18. Emphatic position of this verb.",
+            "Startling combination."
+        ],
+        "John Gill": [
+            "And he is a wise man, who is both wise to do good, and wise unto salvation...",
+            "...for the first lesson in the school of spiritual wisdom is for a man to know that he is a fool...",
+            "...such an one ought to perform good works, and he will perform them; and it is right in him to show them forth, that they may be a means of others glorifying God upon the sight of them..."
+        ],
+        "John Wesley": [
+            "Let him show his wisdom as well as his faith by his works; not by words only."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A truly wise and knowledgeable person is not just one who claims to possess these qualities, but one who demonstrates them through their good conduct and works. Wisdom is not just about knowledge, but about the practical application of that knowledge in a meek and humble manner. It is not enough to simply talk about wisdom and knowledge; they must be shown through actions. The combination of wisdom and meekness is a powerful and impactful one. The true test of wisdom is not in boastful words, but in the manifestation of good works.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.3284315271713654,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.76,
+            "commentatorTierSimilarities": [
+                32.48,
+                30.81,
+                36.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A wise and knowledgeable individual is not simply defined by their claims, but rather by their display of good conduct and works. Wisdom is not just about knowledge, but about the practical application of that knowledge with meekness. Actions speak louder than words, and a truly wise person showcases their wisdom through their deeds. The combination of wisdom and meekness is a powerful and humble approach. True wisdom is not found in empty words, but in the tangible evidence of good works.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.242617000066221,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.91,
+            "commentatorTierSimilarities": [
+                34.63,
+                27.42,
+                37.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wisdom and knowledge are not just empty claims, but are revealed through a person's good conduct and works. It is in the manifestation of these qualities that one truly demonstrates wisdom. Meekness is an essential attribute of wisdom, reflecting a humble recognition of one's limitations. It is not enough to merely speak of wisdom and knowledge; they must be exemplified through actions. It is through the combination of wisdom and meekness that true spiritual growth and transformation occur.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.2741928522281007,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.96,
+            "commentatorTierSimilarities": [
+                34.83,
+                29.73,
+                35.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true display of wisdom and knowledge lies not in empty claims, but in the tangible evidence of good conduct and works. Wisdom without meekness is incomplete, for humility is the essence of true wisdom. Mere words do not suffice to prove wisdom; it is the practical application that truly matters. A combination of wisdom and meekness empowers one to impact others. The true test of wisdom is not in boastful speech, but in the manifestation of good works as a testament of true wisdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.36706904530811,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.05,
+            "commentatorTierSimilarities": [
+                34.02,
+                29.47,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True wisdom and knowledge are not empty claims but are made evident through one's actions and good conduct. Meekness is an essential attribute of wisdom, revealing humility and a sincere heart. Mere words without works are lifeless, just as faith without works is dead. Wisdom is not about pride in one's knowledge, but about living a life of practical piety. The true wise person is known by their deeds, not simply by their profession.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.2264787617393798,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.37,
+            "commentatorTierSimilarities": [
+                33.81,
+                27.86,
+                38.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:36:41",
+    "verseRef": "James 5:4",
+    "bestBHT": {
+        "bht": "The cries of oppressed workers whose wages are withheld by their rich employers reflect a sinful act of fraud and an injustice towards those dependent on their earnings. It serves as a reminder that the Lord, as the defender and avenger of the poor, hears their pleas and will ensure justice. God's title as the Lord of hosts signifies His power to respond to the cries of the oppressed. This evokes a sense of terror for those who believe the poor have no protector, as the Lord is their guardian.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.0855723482304565,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+        "commentatorTierSimilarities": [
+            35.87,
+            30.44,
+            33.69
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the hire of the workmen who mowed your fields, which has been held back, crieth out from you.",
+            "the cries of them who reaped have entered into the ears of the Lord of hosts.",
+            "He calls God the Lord of armies, to strike terror into those who imagine that the poor have no defender."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'keeping back of the hire' was, on the part of the rich, virtually an act of 'fraud,' because the poor laborers were not immediately paid... The rich ought to have given freely to the poor; their not doing so was sin.\" ",
+            "A still greater sin was their not paying their debts. Their greatest sin was not paying them to the poor, whose wages is their all.\" ",
+            "It reminds the rich who think the poor have no protector, that the Lord of the whole hosts in heaven and earth is the guardian and avenger of the latter."
+        ],
+        "Albert Barnes": [
+            "The very essence of slavery, therefore, is fraud; and there is nothing to which the remarks of the apostle here are more applicable than to that unjust and oppressive system.",
+            "Any one of these things would come under the denomination of fraud.",
+            "If everywhere the workman was fairly paid for his earnings; if the poor slave who cultivates the fields of the rich were properly compensated for his toil; if he received what a freeman would contract to do the work for; if there was no fraud in withholding what he earns, the system would soon cease in the earth."
+        ],
+        "Marvin Vincent": [
+            "The secondary, which some mistake for the primary sense, is to gather, as for harvest.\" ",
+            "In two cases it refers to a rich man's estates; and in John 4:35, the Lord directs the attention of the disciples to a broad area or series of fields.\" ",
+            "An inarticulate cry. Compare Genesis 4:10."
+        ],
+        "John Calvin": [
+            "For if a humane and a just man, as Solomon says in Proverbs 12:10, regards the life of his beast, it is a monstrous barbarity, when man feels no pity towards the man whose sweat he has employed for his own benefit.",
+            "Hence the Lord has strictly forbidden, in the law, the hire of the laborer to sleep with us (Deuteronomy 24:15).",
+            "We ought to notice what he adds, that the cries of the poor come to the ears of God, so that we may know that the wrong done to them shall not be unpunished."
+        ],
+        "Philip Schaff": [
+            "The first sin mentioned is injustice. Behold, the hire of the laborers who have reaped down your fields, which is of you kept back by fraud.",
+            "Crieth: that is, for assistance to the defrauded, or rather for vengeance on the defrauders; like as Abel\u2019s blood crieth unto God.",
+            "And the cries of them that have reaped are entered into the ears of the Lord of Sabaoth. [...] It is expressive of the power of God; as, being the Lord of hosts, He has all agencies at His command, and therefore is able to respond to the cries of the oppressed."
+        ],
+        "Archibald T. Robertson": [
+            "The stolen money 'cries out', the workers cry out for vengeance.\" (\u03b1 \u03b2\u03bf\u03b1)",
+            "Pitiful picture of earned wages kept back by rich Jews, old problem of capital and labour that is with us yet in acute form.",
+            "God hears the cries of the oppressed workmen even if the employers are deaf.\" (Of the Lord of Sabaoth)"
+        ],
+        "John Gill": [
+            "To detain their just wages from them argues great inhumanity and wickedness.",
+            "Such an evil, however privately and fraudulently it may be done, will be made public, and is a crying one.",
+            "The cries of them which have reaped are entered into the ears of the Lord of sabaoth; that is, the Lord of hosts; of angels, and of men."
+        ],
+        "John Wesley": [
+            "Those sins chiefly cry to God concerning which human laws are silent.",
+            "Such are luxury, unchastity, and various kinds of injustice.",
+            "The labourers themselves also cry to God, who is just coming to avenge their cause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the cries of the oppressed workers whose wages have been withheld by their rich employers. This act of fraud is not only a sin, but also an injustice towards those who rely on their wages to survive. It is a reminder that the Lord, who is the protector and avenger of the poor, hears their cries and will bring justice. This picture of earned wages being kept back by the wealthy serves as a poignant example of the longstanding struggle between capital and labor. It is a call for compassion and fairness, as well as a warning that such acts of injustice will not go unpunished.",
+            "wordCount": 110,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.0372580711885435,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.08,
+            "commentatorTierSimilarities": [
+                33.04,
+                32.73,
+                34.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cries of oppressed workers whose wages are withheld by their rich employers reflect a sinful act of fraud and an injustice towards those dependent on their earnings. It serves as a reminder that the Lord, as the defender and avenger of the poor, hears their pleas and will ensure justice. This scenario sheds light on the timeless conflict between capital and labor, highlighting the need for fairness and compassion. Such injustices will not go unnoticed, as God is the ultimate judge who will bring about retribution.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.9049131537814024,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.68,
+            "commentatorTierSimilarities": [
+                31.67,
+                34.71,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cries of oppressed workers whose wages are withheld by their rich employers reflect a sinful act of fraud and an injustice towards those dependent on their earnings. It serves as a reminder that the Lord, as the defender and avenger of the poor, hears their pleas and will ensure justice. God's title as the Lord of hosts signifies His power to respond to the cries of the oppressed. This evokes a sense of terror for those who believe the poor have no protector, as the Lord is their guardian.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0855723482304565,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.69,
+            "commentatorTierSimilarities": [
+                35.87,
+                30.44,
+                33.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The cries of oppressed workers, whose wages are fraudulently withheld by the rich, serve as a call for justice and a condemnation of this act. The Lord, the protector of the poor, hears their pleas and will avenge their cause. This portrayal of earned wages being kept back highlights the ongoing struggle between capital and labor. It serves as a reminder that God, as the Lord of hosts, has the power to respond to the cries of the oppressed and ensure that their injustice will not go unpunished.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9797868883459633,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.17,
+            "commentatorTierSimilarities": [
+                34.0,
+                31.41,
+                34.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cries of oppressed workers, whose wages are fraudulently withheld, serve as a call for justice and a condemnation of this act. The Lord, the protector of the poor, hears their pleas and will avenge their cause. This portrayal of earned wages kept back by the rich highlights the ongoing struggle between capital and labor. It reminds us that God, as the Lord of hosts, has the power to respond to the cries of the oppressed, ensuring that their injustice will not go unpunished.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9936095648116683,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.63,
+            "commentatorTierSimilarities": [
+                34.7,
+                30.64,
+                34.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

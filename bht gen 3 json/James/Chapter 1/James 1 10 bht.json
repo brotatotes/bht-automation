@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 17:35:21",
+    "verseRef": "James 1:10",
+    "bestBHT": {
+        "bht": "The caution given is to the rich against boasting in their worldly riches, for they will pass away. Rather, they should rejoice in their humility and lowliness, as it is through the Gospel that they are freed from the temptations of wealth. The Cross of Christ brings the proud low and exalts the poor. In light of the fleeting nature of earthly glory, finding contentment in both prosperity and poverty reminds us that true worth is found in eternity.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.169746820264164,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+        "commentatorTierSimilarities": [
+            31.79,
+            38.72,
+            29.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "So far as one is merely 'rich' in worldly goods, 'he shall pass away'.",
+            "In so far as his predominant character is that of a 'brother', he 'abideth for ever'.",
+            "To avoid making the rich a brother, he translates, 'But the rich glories in his humiliation', namely, in that which is really his debasement, just as the low is told to rejoice in what is really his exaltation."
+        ],
+        "Albert Barnes": [
+            "A Christian may find occasion for thanksgiving... because it would furnish to the mind an impressive and salutary illustration of the fact that all earthly glory is soon to fade away.",
+            "The transition from affluence to poverty is often borne by Christians with the manifestation of a most lovely spirit, and with an entire freedom from murmuring and complaining.",
+            "To learn this effectually, though by the loss of property, is of more value to him than all his wealth would be if he were forgetful of it."
+        ],
+        "Marvin Vincent": [
+            "In that he is made low [\u03b5\u03bd \u03c4\u03b7 \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03c9\u03c3\u03b5\u03b9 \u03b1\u03c5\u03c4\u03bf\u03c5]. A form of expression similar to the preceding. Lit., in his humiliation. Both the A. V. and Rev. preserve the kinship between tapeinov and tapeinwsei, by the word low.",
+            "Flower [\u03b1\u03bd\u03b8\u03bf\u03c2]. Only here, ver. 11, and 1 Peter 1:24."
+        ],
+        "John Calvin": [
+            "He bids them to glory in their lowness or littleness, in order to repress the haughtiness of those who are usually inflated with prosperity.",
+            "For Christ, who is not a teacher except of babes, checks by his doctrine all the haughtiness of the flesh.",
+            "The meaning is, that glorying in riches is foolish and preposterous, because they pass away in a moment."
+        ],
+        "Philip Schaff": [
+            "Let the rich brother glory in that he is made low: literally, 'in his humiliation.'",
+            "Let the wealthy brother rejoice in that lowliness of spirit which the Gospel has conferred upon him.",
+            "Let the rich brother rejoice when he becomes poor, when he is reduced from affluence to poverty because he is then freed from the snares and temptations of riches."
+        ],
+        "Archibald T. Robertson": [
+            "The Cross of Christ lifts up the poor and brings down the high."
+        ],
+        "John Gill": [
+            "Such an one should rejoice or glory in his lowness, or low estate; in the consideration of the low estate, out of which he was raised, by the good providence of God.",
+            "He may be at present reduced, through the violence of persecution being stripped of all his riches for Christ's sake, of which he might make his boast, and count it his greatest glory.",
+            "He is so blessed with the grace of humility, as not to lift up himself above others, not to mind high things, but to condescend to men of low estate."
+        ],
+        "John Wesley": [
+            "But the rich, in that he is made low \u2014 Is humbled by a deep sense of his true condition.",
+            "Because as the flower \u2014 Beautiful, but transient.",
+            "He shall pass away \u2014 Into eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that worldly riches are temporary and will eventually fade away. However, those who have a predominant character of being a brother in Christ will abide forever. Therefore, the rich should not boast in their wealth, but rather find glory in their humility and lowliness, as it is through the Gospel that they are freed from the snares and temptations of riches. The Cross of Christ lifts up the poor and brings down the high, teaching us to repress any haughtiness and to embrace the grace of humility. Ultimately, the passing nature of earthly glory is a reminder for Christians to find gratitude in the midst of both affluence and poverty, recognizing that true worth lies in eternity.",
+            "wordCount": 121,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 2.045323097439884,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                30.35,
+                39.71,
+                29.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage urges the rich to not boast in their worldly riches, for they are transient. Instead, they should find glory in their humility and lowliness, recognizing that the Cross of Christ uplifts the poor and humbles the proud. By rejoicing in their low estate, the rich can embrace the grace of humility and avoid being consumed by the snares and temptations of wealth. This serves as a reminder that the passing nature of earthly glory highlights the importance of finding contentment in both affluence and poverty.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.036107711554034,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                27.91,
+                40.98,
+                31.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The reminder for the rich is that their worldly wealth is fleeting, while the enduring character of a brother in Christ remains. Instead of boasting in riches, one should find glory in the experience of being humbled, as the Gospel frees them from the traps of wealth. The Cross of Christ uplifts the poor and brings down the high, teaching us to embrace humility. The temporal nature of earthly glory underscores the importance of finding contentment regardless of wealth or poverty.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.1387021294773554,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                30.2,
+                40.63,
+                29.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse encourages the rich not to boast in their worldly wealth, as it will fade away. Instead, they should find glory in their humility and lowliness, acknowledging that it is through the Gospel that they are freed from the snares of riches. The Cross of Christ humbles the proud and lifts up the poor. This serves as a reminder to find contentment in both prosperity and poverty, recognizing that true value lies in eternity rather than in temporal riches.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.1937514647339507,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                32.48,
+                38.56,
+                28.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The caution given is to the rich against boasting in their worldly riches, for they will pass away. Rather, they should rejoice in their humility and lowliness, as it is through the Gospel that they are freed from the temptations of wealth. The Cross of Christ brings the proud low and exalts the poor. In light of the fleeting nature of earthly glory, finding contentment in both prosperity and poverty reminds us that true worth is found in eternity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.169746820264164,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                31.79,
+                38.72,
+                29.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

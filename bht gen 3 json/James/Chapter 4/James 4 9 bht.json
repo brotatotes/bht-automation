@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:36:28",
+    "verseRef": "James 4:9",
+    "bestBHT": {
+        "bht": "Let the joy of laughter be replaced with deep sorrow and mourning for your wretchedness caused by sin. Cast down your eyes, afflict your soul, and weep inwardly, acknowledging the impurity of your heart and the various sins in your life. This blessed mourning calls for true repentance, a turning away from strife and contention. Embrace godly sorrow and seek a change of heart, forsaking the worldly joys and enmity towards God. Be afflicted and mourn for your past unfaithfulness to Him.",
+        "wordCount": 82,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 2.456784496903194,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.03,
+        "commentatorTierSimilarities": [
+            31.09,
+            35.69,
+            33.23
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be wretched and mourn and weep.",
+            "Let your laughter be turned into mourning.",
+            "And your joy into humiliation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Endure misery,\" that is, mourn over your wretchedness through sin. Repent with deep sorrow instead of your present laughter. ",
+            "A blessed mourning.",
+            "Falling of the countenance,\" casting down of the eyes."
+        ],
+        "Albert Barnes": [
+            "The sins to which the apostle refers are those which he had specified in the previous part of the chapter, and which he had spoken of as so evil in their nature, and so dangerous in their tendency.",
+            "The language here used shows that the apostle supposed that it was possible that those who had done wrong should voluntarily feel sorrow for it, and that, therefore, it was proper to call upon them to do it.",
+            "Sorrow, deep and unfeigned, was appropriate on account of their sins, and the sound of laughter and of revelry should be changed to notes of lamentation."
+        ],
+        "Marvin Vincent": [
+            "Be afflicted... Mourn... Heaviness."
+        ],
+        "John Calvin": [
+            "Christ denounces mourning on those who laugh, as a curse...\" (Luke 6:25)",
+            "He addresses those who, being inebriated in their minds, did not perceive God\u2019s judgment.",
+            "That he might shake off from them this deadly torpor, he admonishes them to learn to mourn, that being touched with sorrow of conscience they might cease to flatter themselves and to exult on the verge of destruction."
+        ],
+        "Philip Schaff": [
+            "Be afflicted, and mourn, and weep namely, over your envy and hatred, your strifes and contentions, and the miseries occasioned by them.",
+            "The epithets \u2018sinners\u2019 and \u2018double-minded\u2019 imply the necessity of repentance; and true repentance must ever be accompanied with godly sorrow.",
+            "Let your laughter be turned to mourning, and your joy to heaviness: feelings which are more appropriate for the occasion."
+        ],
+        "Archibald T. Robertson": [
+            "A call to the godly sorrow spoken of in 2 Corinthians 7:10.",
+            "Laughter (\u03b3\u03b5\u03bb\u03c9\u03c2). Old word from Homer down, only here in N.T. as \u03b3\u03b5\u03bb\u03b1\u03c9, to laugh (opposite of \u03ba\u03bb\u03b1\u03b9\u03c9), in N.T. only in Luke 6:21; Luke 6:25, but \u03ba\u03b1\u03c4\u03b1\u03b3\u03b5\u03bb\u03b1\u03c9 in Luke 8:53 (Mark 5:40; Matthew 9:24).",
+            "Heaviness (\u03ba\u03b1\u03c4\u03b7\u03c6\u03b5\u03b9\u03b1\u03bd). Old word from \u03ba\u03b1\u03c4\u03b7\u03c6\u03b7\u03c2 (of a downcast look, from \u03ba\u03b1\u03c4\u03b1, \u03c6\u03b1\u03b7 eyes), hanging down of the eyes like the publican in Luke 18:13, here only in N.T."
+        ],
+        "John Gill": [
+            "Be afflicted, and mourn, and weep... afflicting the soul is meant, an inward mourning and weeping over the plague of the heart, the impurity of nature, and the various sins of life...",
+            "Let your laughter be turned to mourning, and your joy to heaviness... meaning their carnal joy, on account of their friendship with the world, and their enjoyment of the things of it, since they consumed them on their lusts, and which betrayed enmity to God.",
+            "In an evangelical way, looking to Jesus, and being affected with the pardoning grace and love of God in Christ."
+        ],
+        "John Wesley": [
+            "Be afflicted \u2014 For your past unfaithfulness to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Repent with deep sorrow and mourn over your wretchedness through sin. Let your laughter be turned into mourning and your joy into humiliation. Afflict your soul and weep inwardly, recognizing the plague of the heart and the impurity of nature that separates you from God. This blessed mourning calls for godly sorrow and a turning away from the sins that have caused strife and contention. Cast down your eyes and be afflicted, for it is a call to true repentance and a change of heart.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.395096665953618,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.98,
+            "commentatorTierSimilarities": [
+                31.6,
+                36.81,
+                31.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Repent with deep sorrow and mourn over your wretchedness through sin. Let your laughter be turned into mourning and your joy into humiliation. This blessed mourning calls for godly sorrow and a turning away from the sins that have caused strife and contention. Cast down your eyes and be afflicted, for it is a call to true repentance and a change of heart.",
+            "wordCount": 63,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.4523266086789928,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.88,
+            "commentatorTierSimilarities": [
+                33.08,
+                37.42,
+                29.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Repent with deep sorrow and mourn over your wretchedness through sin. Let your laughter be turned into mourning and your joy into humiliation. Afflict your soul and weep inwardly, recognizing the plague of the heart and the impurity of nature that separates you from God. This blessed mourning calls for godly sorrow and a turning away from the sins that have caused strife and contention. Cast down your eyes and be afflicted, for it is a call to true repentance and a change of heart.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.395096665953618,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.98,
+            "commentatorTierSimilarities": [
+                31.6,
+                36.81,
+                31.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of your wretchedness through sin, adopt a state of deep sorrow and mourning. Instead of laughter, let humiliation fill your heart. This blessed mourning is a call to true repentance and a turning away from the sins that have caused strife and contention. Cast down your eyes and afflict your soul, recognizing the impurity of your nature. Embrace godly sorrow as you seek a change of heart and a reconnection with God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.228941886963261,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                32.48,
+                34.91,
+                32.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let the joy of laughter be replaced with deep sorrow and mourning for your wretchedness caused by sin. Cast down your eyes, afflict your soul, and weep inwardly, acknowledging the impurity of your heart and the various sins in your life. This blessed mourning calls for true repentance, a turning away from strife and contention. Embrace godly sorrow and seek a change of heart, forsaking the worldly joys and enmity towards God. Be afflicted and mourn for your past unfaithfulness to Him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.456784496903194,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.03,
+            "commentatorTierSimilarities": [
+                31.09,
+                35.69,
+                33.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

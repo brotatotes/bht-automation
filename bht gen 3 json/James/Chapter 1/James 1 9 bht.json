@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:42",
+    "verseRef": "James 1:9",
+    "bestBHT": {
+        "bht": "The remedy for double-mindedness is Christian simplicity, enabling the lowly brother to rejoice in their exaltation and the rich brother to glory in their humiliation. Transitioning from poverty to affluence or adversity to prosperity tests the reality of one's faith. Regardless of circumstances, both rich and poor should place implicit trust in God. The poor brother should find consolation in their adoption as a child of God and rejoice in their spiritual riches and the crown of life. The true measure of honor lies in being a child of God and an heir of glory.",
+        "wordCount": 97,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 2.3185143413032945,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+        "commentatorTierSimilarities": [
+            32.35,
+            38.82,
+            28.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This double-mindedness, one soul drawn upwards to God, the other drawn downwards to the world, causes nothing but instability, and cannot result in that joy which is to be our attitude in trial.",
+            "But let the brother who is low glory in his exaltation, which he has obtained by being admitted into the fellowship of Christ\u2019s sufferings, and which he has further in reversion in the glorious crown of life hereafter.",
+            "The rich glories in his humiliation, in that which is in reality his debasement, just as in the other case the lowly Christian is called on to boast in what is in reality his exaltation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The best remedy against double-mindedness is that Christian simplicity of spirit whereby the 'brother,' low in outward circumstances, may 'rejoice' in that he is exalted.",
+            "The rich may rejoice 'in that he is made low,' by being stripped of his goods for Christ's sake.",
+            "The 'low,' rather than the 'rich,' is here called 'the brother'."
+        ],
+        "Albert Barnes": [
+            "Wherever change occurs in the external circumstances of life, there a man\u2019s religion is put to the test, and there he should feel that God is trying the reality of his faith.",
+            "There is almost no trial of religion which is more certain and decisive than that furnished by a sudden transition from poverty to affluence from adversity to prosperity, from sickness to health.",
+            "The most important thing conceivable for us is to know whether we are true Christians, and we should rejoice in everything that will enable us to settle this point."
+        ],
+        "Marvin Vincent": [
+            "The brother of low degree... poor and afflicted, as contrasted with rich.\" ",
+            "Boast... glory.",
+            "In his exaltation... in his high estate."
+        ],
+        "John Calvin": [
+            "Let the lowly brother glory in his elevation or exaltation; for if he be accepted of God, he has sufficient consolation in his adoption alone.",
+            "He who estimates this favor of God aright, will regard all other things as worthless.",
+            "It behooves me patiently to bear the loss of other things, which are inferior."
+        ],
+        "Philip Schaff": [
+            "We must avoid all doubting of God in prayer, all double-mindedness; we must exercise confidence in Him, and realize His gracious dealings in all the dispensations of His Providence; and, whether rich or poor, we must place implicit trust in Him.",
+            "The majority of the early Christians were from among the poor; and it is probable that the unbelieving Jews by fines and extortions deprived their believing brethren of their goods. Poverty was a frequent form of persecution for conscience\u2019 sake.",
+            "Let the poor brother rejoice in the dignity and glory which as a Christian he possesses, in those spiritual riches which are conferred upon him, and in the crown of life which is in reserve for him."
+        ],
+        "Archibald T. Robertson": [
+            "The lowly\" brother, in outward condition... humble and poor as in Psalms 9:39; Proverbs 30:14, not the spiritually humble as in Matthew 11:29; James 4:6.",
+            "In the LXX \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03bf\u03c2 was used for either the poor in goods or the poor in spirit. Christianity has glorified this word in both senses.",
+            "In his low estate he is \"in his height\" (\u03c5\u03c8\u03bf\u03c2, old word, in N.T., also in Luke 1:78; Ephesians 3:1; etc.)."
+        ],
+        "John Gill": [
+            "Let the brother of low degree...rejoice in that he is exalted.\" ",
+            "A person may be very low and mean, as to his worldly circumstances, and yet be very high, and greatly exalted in a spiritual sense.\" ",
+            "This height of honour have all the saints, be they ever so poor in this world, who can vie with the greatest of princes for sublimity and grandeur."
+        ],
+        "John Wesley": [
+            "Let the brother \u2014 St James does not give this appellation to the rich.",
+            "Rejoice \u2014 The most effectual remedy against doublemindedness.",
+            "In that he is exalted \u2014 To be a child of God, and an heir of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The double-mindedness that causes instability can only be remedied by the Christian simplicity of spirit, enabling the lowly brother to rejoice in their exaltation and the rich brother to glory in their humiliation. The transition from poverty to affluence or adversity to prosperity serves as a decisive trial of faith. The poor brother should rejoice in their spiritual riches and the crown of life, while the focus should be on settling the matter of true Christianity. Regardless of their circumstances, both rich and poor should exercise confidence in God, avoiding doubt and placing implicit trust in Him. Ultimately, the brother of low degree, though humble and poor in outward condition, is exalted in their spiritual sense, attaining a height of honor and grandeur that surpasses worldly measures.",
+            "wordCount": 128,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 2.4065329044493167,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.36,
+            "commentatorTierSimilarities": [
+                33.39,
+                40.49,
+                26.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The double-mindedness of being drawn both to God and the world leads to instability and the inability to experience true joy in trials. The lowly brother should glory in their exaltation, finding consolation in their adoption as a child of God. Transitioning from poverty to affluence or adversity to prosperity can test the reality of one's faith. Regardless of their circumstances, both the rich and the poor should place their trust in God and rejoice in the spiritual riches and crown of life that await them. The true measure of honor and grandeur lies in being a child of God and an heir of glory.",
+            "wordCount": 107,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 2.193560130104683,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.28,
+            "commentatorTierSimilarities": [
+                30.58,
+                39.99,
+                29.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The remedy for double-mindedness is Christian simplicity, enabling the lowly brother to rejoice in their exaltation and the rich brother to glory in their humiliation. Transitioning from poverty to affluence or adversity to prosperity tests the reality of one's faith. Regardless of circumstances, both rich and poor should place implicit trust in God. The poor brother should find consolation in their adoption as a child of God and rejoice in their spiritual riches and the crown of life. The true measure of honor lies in being a child of God and an heir of glory.",
+            "wordCount": 97,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.3185143413032945,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.43,
+            "commentatorTierSimilarities": [
+                32.35,
+                38.82,
+                28.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The remedy for double-mindedness is to embrace Christian simplicity. The lowly brother should rejoice in their exaltation, while the rich should glory in their humiliation. Transitioning from poverty to affluence or adversity to prosperity tests one's faith. Regardless of circumstances, both rich and poor should place implicit trust in God. The poor brother should find consolation in their adoption as a child of God and rejoice in their spiritual riches and the crown of life. The true measure of honor lies in being a child of God and an heir of glory.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.1460568618174074,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.7,
+            "commentatorTierSimilarities": [
+                32.22,
+                37.86,
+                29.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Embracing Christian simplicity is the remedy for double-mindedness. The lowly brother should rejoice in their exaltation, while the rich should glory in their humiliation. Transitioning from poverty to affluence or adversity to prosperity tests one's faith, settling the matter of true Christianity. Trusting God and finding consolation in being a child of God, both rich and poor can rejoice in their spiritual riches and the crown of life that awaits them. The honor lies in being an heir of glory, surpassing worldly measures.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 2.144041289473466,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.63,
+            "commentatorTierSimilarities": [
+                33.2,
+                37.38,
+                29.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

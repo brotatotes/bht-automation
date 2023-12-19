@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:35:54",
+    "verseRef": "James 3:2",
+    "bestBHT": {
+        "bht": "Sins of the tongue are so weighty a part and so constant a cause. The man who bridles his tongue does not stumble in speech and is able also to control his whole body with all its passions. Those who can control their tongue demonstrate exceptional maturity and self-control. By carefully watching their speech and avoiding offense, they reveal themselves to be sincere and truly religious individuals.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9580720034323083,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+        "commentatorTierSimilarities": [
+            31.16,
+            33.44,
+            35.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For oftentimes we all offend\u2026 If any man offendeth not in word, he [is] a perfect man, able to bridle the whole body also.",
+            "We all oftentimes offend... sins of the tongue are so weighty a part and so constant a cause.",
+            "He who is free from sins of the tongue may be said to be perfect, inasmuch as he is able to rule every other minor cause of offence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "all\u2014The Greek implies 'all without exception': even the apostles.\" ",
+            "offend not\u2014literally 'stumbleth not': is void of offence or 'slip' in word.",
+            "in which respect one is especially tried who sets up to be a 'teacher.'"
+        ],
+        "Albert Barnes": [
+            "The particular thing, doubtless, which the apostle had in his eye, was the peculiar liability to commit error, or to do wrong with the tongue.",
+            "If a man can control his tongue, he has complete dominion over himself, as much as a man has over a horse by the bit, or as a steersman has over a ship if he has hold of the rudder.",
+            "A man always has complete government over himself if he has the entire control of his tongue."
+        ],
+        "Marvin Vincent": [
+            "Offend [\u03c0\u03c4\u03b1\u03b9\u03bf\u03bc\u03b5\u03bd] . Lit., stumble, as Rev. Compare ch. 2 10. ",
+            "To bridle. See on ch. James 1:26."
+        ],
+        "John Calvin": [
+            "There is nothing which serves more to moderate extreme rigor than the knowledge of our own infirmity.",
+            "The disease of evil-speaking is more odious than other sins.",
+            "They who reproved others pretended a zeal for perfect holiness, but they ought to have begun with the tongue, if they wished to be perfect."
+        ],
+        "Philip Schaff": [
+            "Believers, though they may not actually fall, often stumble.",
+            "By \u2018a perfect man,\u2019 here and elsewhere in Scripture, is not meant a man who is absolutely free from sin, but one who is comparatively perfect.",
+            "A man\u2019s character is known by his words: \u2018Out of the abundance of the heart the mouth speaketh\u2019 (Matthew 12:34): even as the nature of a fountain is known by the quality of the stream which issues from it."
+        ],
+        "Archibald T. Robertson": [
+            "In many things...James includes himself in this list of stumblers.",
+            "The man who bridles his tongue does not stumble in speech and is able also to control his whole body with all its passions.",
+            "The wife is at liberty to test her husband by this rule of the tongue."
+        ],
+        "John Gill": [
+            "No man lives without sin; in many, in most, if not in all things, a good man himself does, he sins.",
+            "If a man has so much guard upon himself, and such a command over his tongue, and so much wisdom to use it, as to give no offence by it, to his fellow creatures, and fellow Christians: the same is a perfect man.",
+            "He who in common is so careful of his speech, as not to offend his brethren, may be looked upon as a sincere and truly religious man."
+        ],
+        "John Wesley": [
+            "The same is able to bridle the whole body \u2014 That is, the whole man. And doubtless some are able to do this, and so are in this sense perfect."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As human beings, we often stumble and offend others, especially through our words. Those who can control their tongue and refrain from causing offense demonstrate exceptional maturity and self-control. They not only avoid stumbling in speech but also have the ability to govern their entire being, including their passions. This does not mean they are completely sinless, but rather that they exercise mastery over themselves. By carefully watching their speech and avoiding offense, they reveal themselves to be sincere and truly religious individuals. In fact, one's character can be discerned by the words they speak, as a fountain is judged by the quality of its streams. Ultimately, this challenge to control our tongues helps us humbly acknowledge our own weaknesses and strive for moderation and holiness in all aspects of life.",
+            "wordCount": 133,
+            "quoteTokenProportion": 41.24,
+            "qualityScore": 1.7455328227206541,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                29.99,
+                33.24,
+                36.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We often stumble and offend through our words. Those who control their tongue avoid stumbling in speech and govern their entire being, showing exceptional maturity and self-control. Though not sinless, they exercise mastery over themselves, refraining from causing offense and revealing sincerity and religious devotion. Character can be discerned from spoken words, just as a fountain is judged by its streams. This challenge helps us acknowledge our weaknesses, pursue moderation and holiness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.681247917542692,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.24,
+            "commentatorTierSimilarities": [
+                31.78,
+                34.59,
+                33.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For oftentimes we all offend... sins of the tongue are so weighty a part and so constant a cause. Those who can control their tongue and refrain from causing offense demonstrate exceptional maturity and self-control. They not only avoid stumbling in speech but also have the ability to govern their entire being, including their passions. The man who bridles his tongue does not stumble in speech and is able also to control his whole body with all its passions. By carefully watching their speech and avoiding offense, they reveal themselves to be sincere and truly religious individuals. The wife is at liberty to test her husband by this rule of the tongue.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.75,
+            "qualityScore": 1.9070480371146687,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                34.8,
+                31.52,
+                33.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sins of the tongue are so weighty a part and so constant a cause. The man who bridles his tongue does not stumble in speech and is able also to control his whole body with all its passions. Those who can control their tongue demonstrate exceptional maturity and self-control. By carefully watching their speech and avoiding offense, they reveal themselves to be sincere and truly religious individuals.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9580720034323083,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.45,
+            "commentatorTierSimilarities": [
+                31.16,
+                33.44,
+                35.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sins of the tongue are weighty and constant, and even the apostles are not exempt. If someone can control their tongue and not stumble in speech, they have complete dominion over themselves and are able to rule every other cause of offense. By bridling the tongue, one can also control their whole body and passions. A person's character is known by their words, for 'out of the abundance of the heart the mouth speaketh.' Therefore, if a person can guard their speech and not offend others, they may be considered a sincere and truly religious individual.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.0235793905086155,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                30.46,
+                35.34,
+                34.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

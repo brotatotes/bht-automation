@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:35:30",
+    "verseRef": "James 2:20",
+    "bestBHT": {
+        "bht": "Those who deceive themselves with an empty and unreal faith, resting on a delusive hope, are like barren and idle land. Their faith, devoid of works, is dead and unavailing, unable to save them. The true nature of faith is exposed when it fails to produce good works, for faith without works is not faith at all, but rather faithlessness. Let us not be like vain and empty vessels, boasting in our faith while lacking the fruit of righteousness.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0355807008080706,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+        "commentatorTierSimilarities": [
+            26.01,
+            37.24,
+            36.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Vain men are not willing to know, since they have no wish to 'do' the will of God.",
+            "Who deceivest thyself with a delusive hope, resting on an unreal faith.",
+            "Is dead... unavailing to effect what you hope, namely, to save you."
+        ],
+        "Albert Barnes": [
+            "Will you have a full demonstration of it; will you have the clearest proof in the case.",
+            "The reference by this language is to a man who held an opinion that could not be defended.",
+            "That the faith which does not produce good works is useless in the matter of salvation."
+        ],
+        "Marvin Vincent": [
+            "Vain [\u03ba\u03b5\u03bd\u03b5] . Lit., empty, without spiritual life.",
+            "Dead [\u03bd\u03b5\u03ba\u03c1\u03b1] . But the best texts read ajrgh, idle; as of money which yields no interest, or of land lying fallow."
+        ],
+        "John Calvin": [
+            "We must understand the state of the question, for the dispute here is not respecting the cause of justification, but only what avails a profession of faith without works, and what opinion we are to form of it.",
+            "Absurdly then do they act who strive to prove by this passage that man is justified by works, because James meant no such thing.",
+            "No one will ever understand what is said, nor judge wisely of words, except he who keeps in view the design of the writer."
+        ],
+        "Philip Schaff": [
+            "O vain man; that is, O empty man, puffed up with pride, trusting to thy outward privileges, but without seriousness and spiritual life.",
+            "That faith without works is dead.",
+            "Faith without works is properly not faith at all, but reprobate faithlessness."
+        ],
+        "Archibald T. Robertson": [
+            "But dost thou wish to know?",
+            "O vain man.",
+            "Barren."
+        ],
+        "John Gill": [
+            "Faith without works is dead, useless, and unprofitable.",
+            "The man that boasts of his faith, and has no works to show it, he calls a 'vain man', an empty one, sounding brass, and a tinkling cymbal.",
+            "Empty vessels make the greatest sound; such are proud boasters, vainly puffed up by their fleshly mind; but are empty of the true knowledge of God, and of the faith of Christ, and of the grace of the Spirit."
+        ],
+        "John Wesley": [
+            "O empty man \u2014 Empty of all goodness.",
+            "That the faith which is without works is dead - And so is not properly faith, as a dead carcase is not a man.",
+            "Indeed thou art not: thou wouldest fain be ignorant of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are unwilling to do the will of God are deceived by a delusive hope, resting on an unreal faith that is empty and unavailing. For faith without works is not true faith at all, but rather faithlessness. This passage does not speak to the cause of justification, but rather the worthlessness of a profession of faith without corresponding actions. Therefore, let us not be like the vain and empty vessels boasting in our faith without producing any fruit, but rather let us show our faith through our works, for true faith is alive and fruitful.",
+            "wordCount": 97,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 2.0359837021515426,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.04,
+            "commentatorTierSimilarities": [
+                22.15,
+                39.33,
+                38.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who deceive themselves with an empty and unreal faith, resting on a delusive hope, are like barren and idle land. Their faith, devoid of works, is dead and unavailing, unable to save them. The true nature of faith is exposed when it fails to produce good works, for faith without works is not faith at all, but rather faithlessness. Let us not be like vain and empty vessels, boasting in our faith while lacking the fruit of righteousness.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0355807008080706,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.02,
+            "commentatorTierSimilarities": [
+                26.01,
+                37.24,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Vain men are empty and unwilling to do the will of God. They deceive themselves with a deluded hope that rests on an unreal faith, which is dead and unavailing. Their faith is like barren land or idle money that yields no interest. James challenges them, asking if they truly want to know the truth. He calls them empty, vain, and barren, for their faith without works is dead, useless, and unprofitable. They are boastful but lack substance, like sounding brass and tinkling cymbals. Their faith is empty of all goodness and is not truly faith at all. May they come to understand the true design of James' writing and not remain ignorant of the truth.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8083720469820284,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.47,
+            "commentatorTierSimilarities": [
+                30.65,
+                31.01,
+                38.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Vain men deceive themselves with an unreal faith that is dead and unavailing. Their faith is empty and without spiritual life, like barren land or idle money. James challenges them to truly know the truth and calls them empty, vain, and barren. Their faith without works is dead, useless, and unprofitable. They boast but lack substance, like sounding brass and tinkling cymbals. May they understand the true design of James' writing and not remain ignorant of the truth.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8774503103261344,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                31.25,
+                30.78,
+                37.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Vain men, who are unwilling to do the will of God, deceive themselves with a delusive hope resting on an unreal faith that is dead and unavailing. Their faith is empty, without spiritual life, like idle money or land lying fallow. James challenges them, calling them empty, vain, and barren. Their faith without works is useless and unprofitable. They are like empty vessels, boasters puffing themselves up with fleshly pride, lacking true knowledge of God, faith in Christ, and the grace of the Spirit. May they come to understand the true intent of James' writing and not remain ignorant.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.9545039474677395,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                30.83,
+                31.93,
+                37.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

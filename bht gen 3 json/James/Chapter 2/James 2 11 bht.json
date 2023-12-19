@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 17:35:03",
+    "verseRef": "James 2:11",
+    "bestBHT": {
+        "bht": "He who made the whole law, God Himself, declared, Commit not adultery, said also, Commit not murder. If we violate His will in even one thing, we violate it all. Adultery and murder serve as glaring examples of violations against our neighbors. Transgressing one article of the law is seen as destroying the righteousness of God. Therefore, it is crucial to obey all the laws of God without exception, as any violation makes us transgressors of the law.",
+        "wordCount": 78,
+        "quoteTokenProportion": 51.85,
+        "qualityScore": 2.400817192380397,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.17,
+        "commentatorTierSimilarities": [
+            29.63,
+            38.66,
+            31.72
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is one who made the whole law: those who violate His will in one thing, violate it all.\" (Bengel)",
+            "For He who said, Commit not adultery, said also, Commit not murder... thou hast become a transgressor of the law.\" (Bengel)",
+            "If a man do them all, but omit one, he is guilty of all and every of them.\" (Rabbis)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is One who gave the whole law; therefore, they who violate His will in one point, violate it all.\" ",
+            "The law and its Author alike have a complete unity.",
+            "Adultery and kill\u2014selected as being the most glaring cases of violation of duty towards one's neighbor."
+        ],
+        "Albert Barnes": [
+            "If, therefore, you violate either of these precepts, you transgress the law of God as such, and must be held to be guilty of violating it as a whole.",
+            "The penalty of the law will be incurred, whatever precept you violate.",
+            "These are parts of the same law of God, and one is as obligatory as the other."
+        ],
+        "Marvin Vincent": [
+            "A transgressor, therefore, is one who goes beyond the line.\" ",
+            "So, also, trespass, which is trespass, from the Latin trans, across, and passus, a step.",
+            "A similar word occurs in Homer, uJperbasia, a transgression or trespass, from uJper, over, and bainw, to go."
+        ],
+        "John Calvin": [
+            "Whosoever, then, transgresses one article of the Law, destroys, as far as he can, the righteousness of God.",
+            "Besides, as in one part, so in every part, God\u2019s will is to try our obedience.",
+            "We further see, that the transgressor of the law, and the guilty of all, mean the same according to James."
+        ],
+        "Philip Schaff": [
+            "There is a Divine unity in the law, as well as in the Lawgiver.",
+            "We must obey all the laws of God, without exception or limitation; if we offend in one particular, the law is broken and we become transgressors.",
+            "A man who is a liar, although he may observe all the other precepts of the moral law, is evidently living in open violation of the law of God."
+        ],
+        "Archibald T. Robertson": [
+            "The unity of the law lies in the Lawgiver who spoke both prohibitions.",
+            "A transgressor of the law, as in verse James 2:9.",
+            "People free from fleshly sins have often 'made their condemnation of fleshly sins an excuse for indulgence towards spiritual sins.'"
+        ],
+        "John Gill": [
+            "For he that said, Do not commit adultery....said also, Do not kill; delivered the sixth command, which forbids murder.\" ",
+            "Yet if thou kill, break the sixth command,",
+            "thou art become a transgressor of the law.",
+            "The breach of one precept, as well as of another, is the breach of the law."
+        ],
+        "John Wesley": [
+            "For it is the same authority which establishes every commandment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "God is the One who made the whole law, so if we violate His will in even one thing, we are violating it all. Committing adultery and murder are highlighted as examples of glaring violations of our duty towards our neighbors, showing that going beyond the line and crossing into transgression is not limited to physical actions. The unity of the law lies in the Lawgiver Himself, and transgressing one article of the law is seen as destroying the righteousness of God. Therefore, it is essential to obey all the laws of God without exception, as any violation makes us transgressors of the law.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.55715254742881,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.36,
+            "commentatorTierSimilarities": [
+                28.28,
+                42.18,
+                29.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who made the whole law, God Himself, declared, Commit not adultery, said also, Commit not murder. If we violate His will in even one thing, we violate it all. Adultery and murder serve as glaring examples of violations against our neighbors. Transgressing one article of the law is seen as destroying the righteousness of God. Therefore, it is crucial to obey all the laws of God without exception, as any violation makes us transgressors of the law.",
+            "wordCount": 78,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.400817192380397,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.17,
+            "commentatorTierSimilarities": [
+                29.63,
+                38.66,
+                31.72
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

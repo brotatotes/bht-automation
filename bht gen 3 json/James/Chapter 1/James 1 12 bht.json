@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:35",
+    "verseRef": "James 1:12",
+    "bestBHT": {
+        "bht": "Blessed is the one who endures trials and temptations without faltering in their faith. The crown of life is not a Greek athletic crown, but rather the crown of eternal life promised to those who love God. Trials and afflictions are tests that strengthen our character and prove our love for God. We are to endure them patiently and constantly until the end, aided by the knowledge that the crown is given by the righteous Judge as a reward of grace.",
+        "wordCount": 81,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.1259799229989658,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+        "commentatorTierSimilarities": [
+            27.83,
+            34.77,
+            37.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed is the man who endureth temptation: because when he has become approved he shall receive the crown of life.",
+            "No image derived from athletes must be thought of in the verse, as is done by many: such an image would be foreign to the ideas of Jews.",
+            "The crown is life eternal, which He promised to them that love Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The enduring of temptation 'unto the end'.\" ",
+            "When he has passed through the 'trying', his 'faith' having finally gained the victory.\" ",
+            "The crown implies a kingdom."
+        ],
+        "Albert Barnes": [
+            "Blessed is the man that endureth temptation... Anything that will try or test the reality of our religion.",
+            "Affliction, persecution, sickness, etc., may be regarded as, in a certain sense, temptations to sin... the question comes before the mind whether we will adhere to the religion... or revolt and murmur.",
+            "In any way - if he bears the trial... He shall receive the crown of life... promised... to those who love him."
+        ],
+        "Marvin Vincent": [
+            "The meaning is not, as the A. V. suggests, when his trial is finished, but when he has been approved by trial.\" ",
+            "The figure is not that of the athlete's crown, for an image from the Grecian games, which the Jews despised, would be foreign to James' thought and displeasing to his readers.\" ",
+            "Rather the kingly crown, the proper word for which is diadhma, diadem."
+        ],
+        "John Calvin": [
+            "It is, however, a paradox, that they are not happy to whom all things come according to their wishes, but such as are not overcome with evils.\" ",
+            "If, then, it be our chief happiness to be crowned in the kingdom of God, it follows, that the contests with which the Lord tries us, are aids and helps to our happiness.\" ",
+            "He adds, that it is promised to those who love God... the conquerors of all temptations are those who love God, and that we fail not in courage when we are tried, for no other cause than because the love of the world prevails in us."
+        ],
+        "Philip Schaff": [
+            "A man who has been tempted, and has come victorious out of the temptation, is a far nobler man than one who preserves a moral character, because he has never been tempted.",
+            "Temptations impart a manliness, a strength, a vigour to virtue.",
+            "Earthly trials are the flowers of which the heavenly garland is made."
+        ],
+        "Archibald T. Robertson": [
+            "This beatitude (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c2) is for the one who has come out unscathed.\" (Quote #1)",
+            "The crown of life (\u03c4\u03bf\u03bd \u03c3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03bd \u03c4\u03b7\u03c2 \u03b6\u03c9\u03b7\u03c2). The same phrase occurs in Revelation 2:10. It is the genitive of apposition, life itself being the crown as in 1 Peter 5:4.\" (Quote #2)",
+            "\u03a3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2 has a variety of uses. Cf. the thorn chaplet on Jesus (Matthew 27:29).\" (Quote #3)"
+        ],
+        "John Gill": [
+            "Blessed is the man that endureth temptation...and endures afflictions in such manner as not to murmur and repine at them, but is quiet and still, and bears them patiently and constantly, and so endures to the end.\" ",
+            "They are happy now, and shall be hereafter. Saints are happy under afflictions, and even on account of them, for they are tokens of God's love to them, and evidences of their sonship.",
+            "The man that bears up under afflictions, and holds out unto the end, shall have this crown put upon him, and he shall receive it as the free gift of God, as it will be given him by the righteous Judge, as a reward of grace, and not of debt."
+        ],
+        "John Wesley": [
+            "Happy is the man that endureth temptation \u2014 Trials of various kinds.",
+            "He shall receive the crown \u2014 That fadeth not away.",
+            "Which the Lord hath promised to them that love him \u2014 And his enduring proves his love. For it is love only that 'endureth all things.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is the one who endures trials and temptations without faltering in their faith. This is not about a crown won in Greek athletic games, but rather the crown of eternal life promised to those who love God. The crown represents a kingdom, a reward of grace given by the righteous Judge. Trials and afflictions are tests that strengthen our character and prove our love for God. We are to endure them patiently and constantly until the end, for they are aids and helps in attaining our ultimate happiness in the kingdom of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0586392247983456,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                28.44,
+                33.16,
+                38.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is the man who endures temptation, for he shall receive the crown of life - not a greek athletic crown, but the crown of eternal life promised to those who love God. Trials and afflictions test our faith, proving our love for God. We are to endure them patiently until the end, for they are aids to our happiness in the kingdom of God.",
+            "wordCount": 64,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.08677189133601,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                28.03,
+                32.05,
+                39.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed is the one who endures trials and temptations without faltering in their faith. The crown of life is not a Greek athletic crown, but rather the crown of eternal life promised to those who love God. Trials and afflictions are tests that strengthen our character and prove our love for God. We are to endure them patiently and constantly until the end, for they are aids and helps in attaining our ultimate happiness in the kingdom of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.0564146612385468,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                26.27,
+                34.51,
+                39.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed is the one who endures trials and temptations without faltering in their faith. The crown of life is not a Greek athletic crown, but rather the crown of eternal life promised to those who love God. Trials and afflictions are tests that strengthen our character and prove our love for God. We are to endure them patiently and constantly until the end, aided by the knowledge that the crown is given by the righteous Judge as a reward of grace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1259799229989658,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                27.83,
+                34.77,
+                37.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed is the one who endures trials and temptations without faltering in their faith. The crown of life is not a Greek athletic crown, but rather the crown of eternal life promised to those who love God. Trials and afflictions are tests that strengthen our character and prove our love for God. We are to endure them patiently and constantly until the end, for they are aids to our happiness, given by the righteous Judge as a reward of grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0858924364407816,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                26.27,
+                35.03,
+                38.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

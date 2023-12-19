@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:35:56",
+    "verseRef": "James 3:9",
+    "bestBHT": {
+        "bht": "The combination of Father and Lord for God is uncommon, implying His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him above beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse. To truly praise God, we must correct our tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
+        "wordCount": 80,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.9414018967131084,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+        "commentatorTierSimilarities": [
+            32.63,
+            35.71,
+            31.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Father implies His paternal love; 'Lord,' His dominion.",
+            "We ought to reverence this remnant and earnest of what man shall be in ourselves and in others.",
+            "Man resembles in humanity the Son of man, 'the express image of His person.'"
+        ],
+        "Albert Barnes": [
+            "All this is done by the same organ - the tongue.",
+            "The absurdity of employing the tongue in such contradictory uses as to bless one who has to us the relation of a father, and to curse any being, especially those who are made in his image.",
+            "As we bless God, we ought with the same organ to bless those who are like him."
+        ],
+        "Marvin Vincent": [
+            "God, even the Father...the Lord and Father. This combination of terms for God is uncommon.\" ",
+            "This combination of terms for God is uncommon.",
+            "James designates them generically."
+        ],
+        "John Calvin": [
+            "For since God ought to be blessed in all his works, he ought to be so especially as to men, in whom his image and glory peculiarly shine forth.",
+            "There can be then no calling on God, and his praises must necessarily cease, when evil-speaking prevails; for it is impious profanation of God\u2019s name, which the tongue is virulent towards our brethren and pretends to praise him.",
+            "That he may therefore rightly praise God, the view of evil speaking as to our neighbor must especially be corrected."
+        ],
+        "Philip Schaff": [
+            "To praise God is the proper use of the tongue.",
+            "Man in his understanding and affections, and especially in his conscience, still bears the traces of the moral image of his Creator...",
+            "This Divine image obscured by sin is restored by Christ."
+        ],
+        "Archibald T. Robertson": [
+            "This is the highest function of speech.",
+            "Both terms applied to God.",
+            "It is this image of God which sets man above the beasts."
+        ],
+        "John Gill": [
+            "This is the instrument that is used in blessing God...and in joining with the saints...in blessing God for all spiritual blessings in Christ.\" ",
+            "What an absurd and monstrous thing is this, that one and the same instrument should be used in blessing God...and in cursing his children.",
+            "His offering, as all men are by creation, and bear some resemblance to him."
+        ],
+        "John Wesley": [
+            "Indeed we have now lost this likeness; yet there remains from thence an indelible nobleness.\" ",
+            "We ought to reverence both in ourselves and others.",
+            "There remains from thence an indelible nobleness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The combination of Father and Lord as terms for God in this verse is uncommon, emphasizing both God's paternal love and His dominion. As man is made in the image of God, we should revere this remnant of what man shall be in ourselves and in others. It is through our speech, the highest function of communication, that we have the ability to bless God and those who resemble Him. The tongue, though it can bless and praise God, is often used contradictorily to curse and speak evil of others. As we seek to praise God, we must correct our tendency towards evil-speaking and recognize the indelible nobleness that remains from our creation in His image.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.0241725793745236,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.64,
+            "commentatorTierSimilarities": [
+                30.71,
+                35.13,
+                34.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The combination of Father and Lord for God is uncommon, highlighting His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him apart from beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse and speak evil. To truly praise God, we must correct the tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9028627925747148,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                31.92,
+                35.51,
+                32.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The combination of Father and Lord for God is uncommon, implying His paternal love and dominion. Man, resembling the Son of man, bears the image of God, setting him above beasts. Through speech, we have the ability to bless God and others, but too often, the same tongue is used to curse. To truly praise God, we must correct our tendency to speak ill of our neighbors and recognize the indelible nobleness that remains from our creation in His image.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.9414018967131084,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "commentatorTierSimilarities": [
+                32.63,
+                35.71,
+                31.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The combination of Father and Lord for God is uncommon, highlighting both His paternal love and dominion. As man resembles the Son of man and the image of God, we ought to reverence this remnant and earnest of what man shall be in ourselves and in others. The highest function of speech is to bless God and those who resemble Him. However, it is often this same tongue that is used to curse and speak evil. To truly praise God, we must correct our tendency towards evil-speaking and recognize the indelible nobleness that remains from our creation in His image.",
+            "wordCount": 101,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.9785797446117743,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.13,
+            "commentatorTierSimilarities": [
+                33.84,
+                33.56,
+                32.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The combination of Father and Lord signifies God's paternal love and dominion. Man, resembling the Son of man and reflecting the image of God, holds a noble position above beasts. Speech, the highest form of communication, allows us to praise God and bless those who resemble Him. Yet, it is this same tongue that can also be used to curse and speak evil. In order to truly honor God, we must correct our tendency towards negative speech and recognize the inherent nobility within ourselves and others.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.8110114799498804,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                34.22,
+                34.7,
+                31.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

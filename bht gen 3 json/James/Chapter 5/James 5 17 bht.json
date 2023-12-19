@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:36:40",
+    "verseRef": "James 5:17",
+    "bestBHT": {
+        "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months, showing the efficacy of prayer made according to the will of God. In jealousy for God's honor and in his abhorrence of apostasy, he prayed for a national judgment and then for the removal of the drought upon Israel's repentance. This example of prayer demonstrates the wonderful power of prayer and provides confidence that when we pray rightly, we will be heard.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.2205932255784715,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+        "commentatorTierSimilarities": [
+            30.49,
+            31.51,
+            38.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Elijah was a man of like passions with us... and he prayed with prayer... and it rained not on the earth for three years and six months.\" ",
+            "and again he prayed... and the heavens gave rain and the earth brought forth her fruit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Elias . . . like passions as we\u2014therefore it cannot be said that he was so raised above us as to afford no example applicable to common mortals like ourselves.",
+            "Hebraism for prayed intensely.",
+            "In jealousy for God's honor, and being of one mind with God in his abhorrence of apostasy, he prayed that the national idolatry should be punished with a national judgment, drought; and on Israel's profession of repentance, he prayed for the removal of the visitation."
+        ],
+        "Albert Barnes": [
+            "Was a man subject to like passions as we are - ...he was like affected; that he was capable of suffering the same things, or being affected in the same manner. In other words, he was a mere man, subject to the same weaknesses and infirmities as other men.",
+            "And he prayed earnestly - Greek, 'He prayed with prayer' - a Hebraism, to denote that he prayed earnestly.",
+            "That it might not rain - Not to gratify any private resentment of his, but as a punishment on the land for the idolatry which prevailed in the time of Ahab."
+        ],
+        "Marvin Vincent": [
+            "The meaning is rather of like nature and constitution.\" ",
+            "Lit., he prayed with prayer. See a similar mode of expression, Genesis 2:17 (Sept.), ye shall surely die [\u03b8\u03b1\u03bd\u03b1\u03c4\u03c9 \u03b1\u03c0\u03bf\u03b8\u03b1\u03bd\u03b5\u03b9\u03c3\u03b8\u03b5]; lit., ye shall die with death.\" ",
+            "A familiar Hebrew phrase."
+        ],
+        "John Calvin": [
+            "Hence appeared the wonderful power of prayer.",
+            "He, therefore, thus accommodates this example, \u2014 that if Elias was heard, so also we shall be heard when we rightly pray.",
+            "For we profit less by the examples of saints, because we imagine them to have been half gods or heroes, who had peculiar intercourse with God; so that because they were heard, we receive no confidence."
+        ],
+        "Philip Schaff": [
+            "An instance in the life of Elijah is given as an example of the efficacy of the earnest prayer of a righteous man.",
+            "By this is not meant passionate, or liable to passion, but liable to the same human infirmities and sufferings, of the same nature as we.",
+            "James reminds us that the saints ought to be considered as having the infirmity of the flesh, so that we may learn to ascribe what they obtained from the Lord, not to their merits, but to the efficacy of prayer."
+        ],
+        "Archibald T. Robertson": [
+            "Of like passions with us.",
+            "He prayed fervently.",
+            "For three years and six months."
+        ],
+        "John Gill": [
+            "Elias was a man subject to like passions as we are...he was not only born, but born in sin, as others are, and was by nature no better than others.",
+            "And he prayed earnestly; or prayed in prayer...with the Spirit, and with the understanding, and with the heart engaged in it, with inwrought prayer.",
+            "And this instance of prayer is mentioned, not with a view that it should be imitated; we are not to pray for judgments, unless we have a divine order for it, as Elijah had; but to show the efficacy of prayer made according to the will of God."
+        ],
+        "John Wesley": [
+            "Elijah was a man of like passions \u2014 Naturally as weak and sinful as we are.",
+            "And he prayed \u2014 When idolatry covered the land."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months, and it did not rain on the earth. In jealousy for God's honor and in his abhorrence of apostasy, he prayed for a national judgment. And then, when Israel repented, he prayed for the removal of the drought. This example of prayer is not meant to be imitated, but it shows the efficacy of prayer made according to the will of God. Elijah's prayer was powerful, a demonstration that when we pray rightly, we will be heard, just as he was heard.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 2.1694392569925505,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.47,
+            "commentatorTierSimilarities": [
+                30.3,
+                32.08,
+                37.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months, demonstrating the wonderful power of prayer. In jealousy for God's honor and in his abhorrence of apostasy, he prayed for a national judgment and then for the removal of the drought upon Israel's repentance. This example of prayer shows the efficacy of prayer made according to the will of God. Just as Elijah was heard, we too shall be heard when we pray rightly.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1371239310837735,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                29.79,
+                30.38,
+                39.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months, showing the efficacy of prayer made according to the will of God. In jealousy for God's honor and in his abhorrence of apostasy, he prayed for a national judgment and then for the removal of the drought upon Israel's repentance. This example of prayer demonstrates the wonderful power of prayer and provides confidence that when we pray rightly, we will be heard.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.2205932255784715,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.18,
+            "commentatorTierSimilarities": [
+                30.49,
+                31.51,
+                38.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months for a national judgment and the removal of the drought upon Israel's repentance. His example of prayer shows the efficacy of prayer made according to God's will. It demonstrates the wonderful power of prayer and gives us confidence that when we pray rightly, we will be heard, just as Elijah was heard.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.1433497933825847,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.61,
+            "commentatorTierSimilarities": [
+                28.77,
+                31.1,
+                40.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Elijah, a man of like passions with us, fervently prayed for three years and six months, demonstrating the efficacy of prayer according to God's will. In jealousy for God's honor, he prayed for a national judgment, a drought, until Israel repented. This example of prayer reveals the powerful impact of earnest prayer and provides us with assurance that when we pray fervently and rightly, we too will be heard by God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.214576179386401,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.98,
+            "commentatorTierSimilarities": [
+                30.6,
+                32.13,
+                37.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

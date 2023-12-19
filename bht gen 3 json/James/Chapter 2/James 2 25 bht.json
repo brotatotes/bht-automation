@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:53",
+    "verseRef": "James 2:25",
+    "bestBHT": {
+        "bht": "Rahab, the saved harlot, was justified by her works, which manifested her genuine faith through receiving and thrusting forth the messengers in haste and fear. She serves as an example of how faith is not just a verbal profession but is expressed and proven through works. Rahab's inclusion alongside Abraham highlights the significance of her faith and shows that justifying faith can be found in people from every class and background. Her story reminds us that faith without works is incomplete and lacks the full realization of God's grace.",
+        "wordCount": 91,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.299755958781896,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+        "commentatorTierSimilarities": [
+            27.37,
+            38.06,
+            34.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And in like manner (with Abraham) was not Rahab the harlot justified by works, when she received the messengers and thrust them forth by another way?\".",
+            "The term is not simply sent then forth\".",
+            "She received the messengers and thrust them forth in haste and fear\"."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As an example of free grace justifying men through an operative, as opposed to a mere verbal faith, none could be more suitable than a saved 'harlot.'",
+            "The nature of the works alleged is such as to prove that James uses them only as evidences of faith, as contrasted with a mere verbal profession: not works of charity and piety, but works the value of which consisted solely in their being proofs of faith: they were faith expressed in act, synonymous with faith itself.",
+            "Justifying faith has been manifested in those of every class."
+        ],
+        "Albert Barnes": [
+            "Her act showed that she truly believed God. If that act had not been performed, the fact would have shown that her faith was not genuine, and she could not have been justified.",
+            "The act which she performed was the public manifestation of her faith, the evidence that she was justified.",
+            "We commend that which has induced him to abandon his evil course, and to turn to the ways of righteousness."
+        ],
+        "Marvin Vincent": [
+            "Rahab became the wife of Salmon, and the ancestress of Boaz, Jesse's grandfather.",
+            "There is a peculiar significance in this selection of Rahab with Abraham as an example of faith, by James the Lord's brother.",
+            "Sent them out [\u03b5\u03ba\u03b2\u03b1\u03bb\u03bf\u03c5\u03c3\u03b1]. Better, thrust them forth, implying haste and fear."
+        ],
+        "John Calvin": [
+            "He designedly put together two persons so different in their character, in order more clearly to shew, that no one, whatever may have been his or her condition, nation, or class in society, has ever been counted righteous without good works.",
+            "James, according to his manner of speaking, declares that Rahab was justified by works; and the Sophists hence conclude that we obtain righteousness by the merits of works. But we deny that the dispute here is concerning the mode of obtaining righteousness.",
+            "The meaning is not, that works are to faith what the spirit is to the body, for that would make works to be the life of faith, the reverse of the fact; but the meaning is, that faith having no works is like a dead carcass without life."
+        ],
+        "Philip Schaff": [
+            "The example is not so obvious as that of Abraham; and we can assign no sufficient reason why it was selected by both writers.",
+            "This was certainly a work springing from her faith; it arose from her firm belief in the God of Israel.",
+            "Her faith cooperated with her works, and by works was her faith made perfect received its full realization; and in this sense she is said to be justified by works."
+        ],
+        "Archibald T. Robertson": [
+            "Her vicious life she left behind, but the name clung to her always.",
+            "In that she received (\u03c5\u03c0\u03bf\u03b4\u03b5\u03be\u03b1\u03bc\u03b5\u03bd\u03b7). First aorist middle participle of \u03c5\u03c0\u03bf\u03b4\u03b5\u03c7\u03bf\u03bc\u03b1\u03b9, to welcome.",
+            "Sent out (\u03b5\u03ba\u03b2\u03b1\u03bb\u03bf\u03c5\u03c3\u03b1). Second aorist active participle of \u03b5\u03ba\u03b2\u03b1\u03bb\u03bb\u03c9, to hurl out."
+        ],
+        "John Gill": [
+            "This woman was an instance of the grace of God in calling the chief of sinners, and was a true believer."
+        ],
+        "John Wesley": [
+            "In every nation and sex true faith produces works.",
+            "Faith is perfected by them.",
+            "The grace of God working in the believer, while he is showing his faith by his works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rahab the harlot was justified by her works when she received and thrust forth the messengers. Her works were evidence of her genuine faith, not merely acts of charity or piety. By welcoming and sending out the messengers in haste and fear, she demonstrated her trust in God and abandoned her sinful past. This example, coupled with Abraham's, emphasizes that people from all walks of life can have justifying faith. Rahab's marriage to Salmon and her role as Boaz's ancestress further underscore the significance of her inclusion in James' discussion of faith and works.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.0968046785729015,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                31.56,
+                38.2,
+                30.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rahab, the saved harlot, was justified by her works when she hastily and fearfully received and thrust forth the messengers. Her works were not mere acts of charity or piety, but evidence of her faith in action. James uses Rahab as an example of how faith is expressed through deeds, proving that justifying faith can be found in people from all walks of life. Rahab's inclusion alongside Abraham underscores the significance of her faith and serves as a reminder that works are the manifestation of genuine faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.3162626671349544,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.36,
+            "commentatorTierSimilarities": [
+                28.52,
+                38.64,
+                32.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rahab, the saved harlot, was justified by her works when she received and hastily thrust forth the messengers in fear. Her works were not acts of charity or piety, but clear expressions of faith, proving that justifying faith can be found in people from all walks of life. James chooses Rahab alongside Abraham to highlight the significance of her faith and the role works play in revealing genuine faith. Her inclusion serves as a powerful reminder that faith without works is incomplete.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.261582236562785,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                28.64,
+                38.91,
+                32.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rahab, the saved harlot, demonstrated her genuine faith by receiving and swiftly thrusting forth the messengers in fear. Her works were not mere acts of charity, but tangible evidence of her faith expressed through action. James intentionally includes Rahab alongside Abraham to emphasize that justifying faith exists in individuals from all backgrounds. Rahab's remarkable story of transformation and faith serves as a powerful reminder that faith without corresponding works is incomplete and lacks true manifestation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.184379166766739,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                28.0,
+                38.06,
+                33.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rahab, the saved harlot, was justified by her works, which manifested her genuine faith through receiving and thrusting forth the messengers in haste and fear. She serves as an example of how faith is not just a verbal profession but is expressed and proven through works. Rahab's inclusion alongside Abraham highlights the significance of her faith and shows that justifying faith can be found in people from every class and background. Her story reminds us that faith without works is incomplete and lacks the full realization of God's grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.299755958781896,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+            "commentatorTierSimilarities": [
+                27.37,
+                38.06,
+                34.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

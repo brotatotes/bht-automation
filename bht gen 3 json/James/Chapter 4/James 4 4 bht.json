@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:36:36",
+    "verseRef": "James 4:4",
+    "bestBHT": {
+        "bht": "By loving the world, we break our marriage covenant with God and show hostility towards Him. We become adulterers and adulteresses, corrupted by the vanities of this world. The world and God are in such disagreement that any inclination towards the world separates us from God. An excessive love for worldly things and conformity to sinful customs declare war with God. We cannot love and serve both God and mammon. Therefore, friendship with the world is enmity against God.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0400037779605196,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+        "commentatorTierSimilarities": [
+            23.39,
+            33.72,
+            42.89
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This is one of those cases where the testimony of our ancient MSS. is so valuable, in restoring to us the nervous and pregnant rebuke of the original.",
+            "God and the world stand opposed to one another: so that a man cannot join the one without deserting the other.",
+            "He that would be a friend of the world, must make up his mind to be God's enemy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God is the rightful husband; the men of the world are regarded collectively as one adulteress, and individually as adulteresses.",
+            "The world - in so far as the men of it and their motives and acts are aliens to God.",
+            "Whether he succeed or not, if his wish be to be the friend of the world, he renders himself, becomes by the very fact, 'the enemy of God'."
+        ],
+        "Albert Barnes": [
+            "You have in effect broken your marriage covenant with God by loving the world more than him; and, by the indulgence of your carnal inclinations, you have violated those obligations to self-mortification and self-denial to which you were bound by your religious engagements.",
+            "To love that world is, therefore, to be arrayed against God; and the spirit which would lead us to this is, in fact, a spirit of hostility to God.",
+            "There are many in the church who, so far as human judgment can go, are characteristically lovers of the world... They have never known what is true friendship for him, and by their lives they show that they can be ranked only among his foes."
+        ],
+        "Marvin Vincent": [
+            "Adulteresses [\u03bc\u03bf\u03b9\u03c7\u03b1\u03bb\u03b9\u03b4\u03b5\u03c2] . The feminine term is the general designation of all whom James here rebukes.",
+            "The apostate members of the church are figuratively regarded as unfaithful spouses.",
+            "Thereby constitutes himself. Rev., maketh himself."
+        ],
+        "John Calvin": [
+            "He calls them adulterers, as I think, metaphorically; for they corrupted themselves with the vanities of this world, and alienated themselves from God.",
+            "This chastity is violated and corrupted by all impure affections towards the world.",
+            "For such and so great is the disagreement between the world and God, that as much as any one inclines to the world, so much he alienates himself from God."
+        ],
+        "Philip Schaff": [
+            "It is spiritual adultery to which St. James here alludes.",
+            "The believer is considered as married to the Lord.",
+            "The more the world occupies our hearts, the less room there is in them for God, and the more forgetful are we of the world to come."
+        ],
+        "Archibald T. Robertson": [
+            "Either view makes sense in this context, probably the literal view being more in harmony with the language of verses James 4:2.",
+            "Whosoever therefore would be (\u03bf\u03c2 \u03b5\u03b1\u03bd \u03bf\u03c5\u03bd \u03b2\u03bf\u03c5\u03bb\u03b7\u03b8\u03b7). Indefinite relative clause with \u03bf\u03c2 and modal \u03b5\u03b1\u03bd and the first aorist passive (deponent) subjunctive of \u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b1, to will (purpose).",
+            "Maketh himself (\u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03b1\u03c4\u03b1). Present passive (not middle) indicative as in James 3:6, \"is constituted,\" \"is rendered.\""
+        ],
+        "John Gill": [
+            "Such men and women are adulterers and adulteresses, who, instead of loving God, whom they ought to love with all their hearts and souls, set their affections upon the world, and the things of it.",
+            "An immoderate love for the good things of the world, and a prevailing desire after the evil things of it, and a delight in the company and conversation of the men of the world, and a conformity to, and compliance with, the sinful manners and customs of the world, are so many declarations of war with God.",
+            "Whoever is in league with the one must be an enemy to the other; God and mammon cannot be loved and served by the same persons, at the same time."
+        ],
+        "John Wesley": [
+            "Ye adulterers and adulteresses \u2014 Who have broken your faith with God, your rightful spouse.",
+            "Know ye not that the friendship or love of the world... is enmity against God?",
+            "Whosoever desireth to be a friend of the world... does thereby constitute himself an enemy of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By loving the world, we break our marriage covenant with God and show hostility towards Him. We become adulterers and adulteresses, corrupted by the vanities of this world. If we desire to be friends with the world, we make ourselves enemies of God. The world and God are in such disagreement that any inclination towards the world separates us from God. An excessive love for worldly things and a conformity to sinful customs declare war with God. We cannot love and serve both God and mammon; they cannot be loved by the same person simultaneously. Therefore, we must be mindful that friendship with the world is enmity against God",
+            "wordCount": 109,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 2.046580927191998,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                23.87,
+                32.75,
+                43.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By loving the world, we break our marriage covenant with God and show hostility towards Him. We become adulterers and adulteresses, corrupted by the vanities of this world. The world and God are in such disagreement that any inclination towards the world separates us from God. An excessive love for worldly things and conformity to sinful customs declare war with God. We cannot love and serve both God and mammon. Therefore, friendship with the world is enmity against God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0400037779605196,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.17,
+            "commentatorTierSimilarities": [
+                23.39,
+                33.72,
+                42.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who desire to be friends with the world establish themselves as enemies of God. Such individuals are like adulteresses, as they have forsaken their covenant with the Lord and chosen to indulge in the pleasures and vanities of the world instead. The world and God are fundamentally at odds, and one cannot align themselves with both simultaneously. The more our hearts are occupied with worldly desires, the less room there is for God. Thus, we must be cautious not to let our affections for the world lead us into spiritual adultery and enmity against God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.006343501705471,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                24.4,
+                34.52,
+                41.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who desire to be friends with the world establish themselves as enemies of God. They are like adulteresses, forsaking their covenant with the Lord for the pleasures and vanities of the world. The world and God are fundamentally opposed, and one cannot align with both. The more our hearts are occupied with worldly desires, the less room for God. We must be cautious not to let our affections for the world lead us into spiritual adultery and enmity against God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 2.0317301378489705,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                24.25,
+                34.79,
+                40.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who desire to be friends with the world render themselves enemies of God. They are like adulteresses, forsaking their covenant with the Lord and indulging in the vanities of the world. The world and God stand opposed to each other, and one cannot embrace both simultaneously. The more our hearts are occupied with worldly desires, the less space there is for God. Let us be cautious not to let our love for the world lead us into spiritual adultery and enmity against God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.0183531722809764,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                24.89,
+                34.14,
+                40.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:28",
+    "verseRef": "James 2:22",
+    "bestBHT": {
+        "bht": "Faith is developed and brought to perfection by obedience. Faith without obedience is dead, until obedience, the spirit, sets faith in motion and brings it to its full maturity. Works are not the cause of our salvation or the justification before God, but they serve as evidence of the sincerity and genuineness of our faith. Faith begets works and works perfect faith, allowing the full exhibition of the Christian character.",
+        "wordCount": 70,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.490828779716167,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.16,
+        "commentatorTierSimilarities": [
+            26.78,
+            33.25,
+            39.96
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Faith is developed and brought to perfection by obedience.",
+            "Faith without obedience is dead, until obedience, the spirit, sets faith in motion.",
+            "The saying received on, and not until this occasion, its entire and full realization."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By works was faith made perfect\u2014not was vivified, but attained its fully consummated development, and is shown to be real.",
+            "The germ really, from the first, contains in it the full-grown tree, but its perfection is not attained till it is matured fully.",
+            "Let patience have her perfect work... fully developed in the exhibition of the Christian character."
+        ],
+        "Albert Barnes": [
+            "The apostle means to say that this was so plain that they could not but see it.",
+            "The idea here is, that the result in the case of Abraham, that is, his salvation, or his religion, was secured, not by one of these things alone, but that both contributed to it.",
+            "Made complete, finished, or entire. It was so carried out as to show its legitimate and fair results."
+        ],
+        "Marvin Vincent": [
+            "Wrought with his works [\u03c3\u03c5\u03bd\u03b7\u03c1\u03b3\u03b5\u03b9 \u03c4\u03bf\u03b9\u03c2 \u03b5\u03c1\u03b3\u03bf\u03b9\u03c2] . There is a play on the words in the Greek : worked with his works."
+        ],
+        "John Calvin": [
+            "The question here is not respecting the cause of our salvation, but whether works necessarily accompany faith.",
+            "It is said to have been perfected by works, not because it received thence its own perfection, but because it was thus proved to be true.",
+            "James then understood no other thing, than that the integrity of his faith then appeared, because it brought forth that remarkable fruit of obedience."
+        ],
+        "Philip Schaff": [
+            "Faith is only perfected when it is embodied or realized in good works.",
+            "By works faith attains its legitimate development or completion.",
+            "\u2018Faith creates works; works perfect faith\u2019 (Stier)."
+        ],
+        "Archibald T. Robertson": [
+            "Thou seest (\u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03c2). Obvious enough with any eyes to see. This may be a question, seest thou?\" ",
+            "Wrought with (\u03c3\u03c5\u03bd\u03b7\u03c1\u03b3\u03b5). Imperfect active of \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b5\u03c9, old verb for which see Romans 8:28. Followed by associative-instrumental case \u03b5\u03c1\u03b3\u03bf\u03b9\u03c2. Faith cooperated with the deed of offering up Isaac.",
+            "Was made perfect (\u03b5\u03c4\u03b5\u03bb\u03b5\u03b9\u03c9\u03b8\u03b7). First aorist passive indicative of \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03c9, to carry to the end, to complete like love in 1 John 4:18. See James 1:4 for \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03bd \u03b5\u03c1\u03b3\u03bf\u03bd."
+        ],
+        "John Gill": [
+            "Not to justify him before God; for neither faith nor works are ever said in Scripture to justify any man.",
+            "And by works was faith made perfect?... hereby his faith was declared to be sincere, unfeigned, true, and genuine.",
+            "Just as love is said to be perfected."
+        ],
+        "John Wesley": [
+            "Faith has one energy and operation; works, another: and the energy and operation of faith are before works, and together with them.\" ",
+            "Works do not give life to faith, but faith begets works, and then is perfected by them.\" ",
+            "Faith hath not its being from works, but its perfection. That vigour of faith which begets works is then excited and increased thereby."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith is not complete without obedience. It is through works that faith is developed and brought to perfection. Just as a tree starts from a small seed and is fully matured, so too is faith. Faith is not justified by works, but rather works serve as evidence of the sincerity and genuineness of faith. Faith and works go hand in hand, with faith energizing and begetting works, and works in turn perfecting faith. It is through this cooperation between faith and works that the Christian character is fully exhibited.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.4295538279126427,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+            "commentatorTierSimilarities": [
+                24.75,
+                34.99,
+                40.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith without obedience is dead, until obedience sets faith in motion and brings it to perfection. Works are not the cause of our salvation or the justification before God, but they serve as proof of the sincerity and genuineness of our faith. Just as a tree starts as a seed and is fully matured, so too faith requires works to attain its full development. Faith begets works and works perfect faith, demonstrating the true exhibition of the Christian character.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.395634933953435,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.99,
+            "commentatorTierSimilarities": [
+                25.6,
+                34.09,
+                40.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Faith is developed and brought to perfection by obedience. Faith without obedience is dead, until obedience, the spirit, sets faith in motion and brings it to its full maturity. Works are not the cause of our salvation or the justification before God, but they serve as evidence of the sincerity and genuineness of our faith. Faith begets works and works perfect faith, allowing the full exhibition of the Christian character.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.490828779716167,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.16,
+            "commentatorTierSimilarities": [
+                26.78,
+                33.25,
+                39.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Faith is made perfect through obedience and works. It is not enough for faith to exist without being accompanied by obedience and the demonstration of good works. Works do not justify or save us, but they serve as a tangible expression and proof of our genuine faith. Just as a seed contains the potential for a fully grown tree, faith contains the potential for good works, which then bring it to its complete development. True faith energizes and begets works, ultimately manifesting the fullness of the Christian character.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.2769086038221635,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.05,
+            "commentatorTierSimilarities": [
+                24.98,
+                34.0,
+                41.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Faith is perfected through obedience and works. While faith is not justified by works, they serve as evidence of the genuineness of our faith. Just as a seed contains the potential for a fully grown tree, faith contains the potential for good works, which bring it to its complete development. Genuine faith initiates and produces good works, allowing the Christian character to be fully exhibited. It is through this cooperation between faith and works that faith is perfected and demonstrated.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.9,
+            "qualityScore": 2.37385562659036,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.27,
+            "commentatorTierSimilarities": [
+                24.54,
+                34.92,
+                40.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

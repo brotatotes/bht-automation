@@ -1,0 +1,107 @@
+{
+    "timestamp": "12-19-2023 17:35:19",
+    "verseRef": "James 2:19",
+    "bestBHT": {
+        "bht": "Thou self-deceiving claimant to faith without works, thou doest well to believe that God is one, but the demons also believe and shudder. Their faith only adds to their torment at the thought of having to meet Him who is to consign them to their just doom. The demons do more than believe a fact; they shudder at it. It is a good faith, as far as it goes, but unless it goes farther than an assent to this truth, it is not the faith of love, but of fear, that hath torment.",
+        "wordCount": 94,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 2.508150193187305,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.74,
+        "commentatorTierSimilarities": [
+            36.19,
+            32.41,
+            31.4
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou believest that God is one... thou doest well: the demons also believe and shudder.\" ",
+            "It is a good faith, as far as it goes.",
+            "Their belief does nothing for them but certify to them their own misery."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thou\u2014emphatic. Thou self-deceiving claimant to faith without works.",
+            "But unless thy faith goes farther than an assent to this truth, 'the evil spirits believe' so far in common with thee, 'and shudder' so the Greek.",
+            "Their faith only adds to their torment at the thought of having to meet Him who is to consign them to their just doom: so thine, it is not the faith of love, but of fear, that hath torment."
+        ],
+        "Albert Barnes": [
+            "The design of the apostle seems to have been to select one of the doctrines of religion, the belief of which would - if mere belief in any doctrine could - save the soul; and to show that even this might be held as an article of faith by those who could be supposed by no one to have any claim to the name of Christian.",
+            "Thou doest well - So far as this is concerned, or so far as it goes. It is a doctrine which ought to be held, for it is one of the great fundamental truths of religion.",
+            "A man should not infer, therefore, because he has faith, even that faith in God which will fill him with alarm, that therefore he is safe. He must have a faith which will produce another effect altogether - that which will lead to a holy life."
+        ],
+        "Marvin Vincent": [
+            "Tremble [\u03c6\u03c1\u03b9\u03c3\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd]. It means, originally, to be rough on the surface; to bristle.",
+            "Hence, used of the fields with ears of corn; of a line of battle bristling with shields and spears; of a silver or golden vessel rough with embossed gold.",
+            "Hence, of a horror which makes the hair stand on end and contracts the surface of the skin making 'gooseflesh.' Rev., much better, shudder."
+        ],
+        "John Calvin": [
+            "From this one sentence it appears evident that the whole dispute is not about faith, but of the common knowledge of God, which can no more connect man with God, than the sight of the sun carry him up to heaven.",
+            "The devil trembles, he says, at the mention of God\u2019s name, because when he acknowledges his own judge he is filled with the fear of him. He then who despises an acknowledged God is much worse.",
+            "Obedient faith is that which saves, and not merely that which makes us tremble."
+        ],
+        "Philip Schaff": [
+            "Thou hast more knowledge and a more correct faith than the Gentiles, who have gods many and lords many.",
+            "The faith of the nominal Christian is no better than the faith which devils possess; nay, it is not even so good, for the devils not only believe, but they also tremble.",
+            "The devils\u2019 belief in God, because unproductive of works and obedience, not only cannot save them, but is the cause of their trembling before the Divine tribunal."
+        ],
+        "Archibald T. Robertson": [
+            "Thou doest well. That is good as far as it goes, which is not far.",
+            "The demons also believe. They go that far. They never doubt the fact of God's existence.",
+            "The demons do more than believe a fact. They shudder at it."
+        ],
+        "John Gill": [
+            "Thou believest that there is one God... to believe there is one God, is not merely to give into this article, in opposition to the polytheism of the Gentiles, or barely to confess the God of Israel, as believed on by the Jews, but to believe that there are three persons, Father, Son, and Spirit, and that these three are the one God.\" ",
+            "the devils also believe... they know and believe there is but one God, and not many; and they know that the God of Israel is he; and that the Father, Son, and Spirit, are the one God.\" ",
+            "a bare historical faith will not profit, and cannot save any; a man may have all faith of this kind, and be damned; and therefore it is not to be boasted of, nor trusted to."
+        ],
+        "John Wesley": [
+            "Thou believest there is one God \u2014 I allow this: but this proves only that thou hast the same faith with the devils.",
+            "Nay, they not only believe, but tremble - At the dreadful expectation of eternal torments.",
+            "So far is that faith from either justifying or saving them that have it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Thou self-deceiving claimant to faith without works, thou doest well to believe that God is one, but the demons also have this belief and shudder. Their faith only adds to their torment at the thought of having to meet Him who is to consign them to their just doom. The demons do more than believe a fact; they shudder at it. It is a good faith, as far as it goes, but unless it goes farther than an assent to this truth, it is not the faith of love, but of fear, that hath torment. Thou hast more knowledge and a more correct faith than the Gentiles, but a faith which produces fear alone is not enough. A man must have a faith that will lead to a holy life.",
+            "wordCount": 131,
+            "quoteTokenProportion": 47.95,
+            "qualityScore": 2.4560340820091726,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.0,
+            "commentatorTierSimilarities": [
+                31.64,
+                36.23,
+                32.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thou self-deceiving claimant to faith without works, thou doest well to believe that God is one, but the demons also believe and shudder. Their faith only adds to their torment at the thought of having to meet Him who is to consign them to their just doom. The demons do more than believe a fact; they shudder at it. It is a good faith, as far as it goes, but unless it goes farther than an assent to this truth, it is not the faith of love, but of fear, that hath torment.",
+            "wordCount": 94,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.508150193187305,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.74,
+            "commentatorTierSimilarities": [
+                36.19,
+                32.41,
+                31.4
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

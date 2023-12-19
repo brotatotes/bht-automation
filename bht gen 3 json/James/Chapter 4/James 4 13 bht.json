@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 17:36:32",
+    "verseRef": "James 4:13",
+    "bestBHT": {
+        "bht": "Come now, pay attention to this. You confidently say, Today or tomorrow we will go to such and such a place and spend a year there, doing business and making a profit. But your plans are solely focused on worldly gain and you fail to realize your dependence on God. By using the phrase go to now, I am calling your attention to the fact that your plans, formed with a presumptuous confidence in yourselves, are in the wrong. Remember, it is important to acknowledge God's providence and submit to His will in all our plans.",
+        "wordCount": 97,
+        "quoteTokenProportion": 48.48,
+        "qualityScore": 1.4786990043961834,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.51,
+        "commentatorTierSimilarities": [
+            30.95,
+            31.53,
+            37.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Go to now\u2014'Come now'; said to excite attention.",
+            "To-day or to-morrow\u2014as if ye had the free choice of either day as a certainty.",
+            "Their plans for the future are all worldly."
+        ],
+        "Albert Barnes": [
+            "The phrase 'go to now,' (\u03b1\u0313\u0301\u03b3\u03b5 \u03bd\u03c5\u0342\u03bd age nun,) is a phrase designed to arrest attention, as if there were something that demanded their notice, and especially, as in this case, with the implied thought that that to which the attention is called is wrong.",
+            "All plans are wrong that are formed in the same spirit.",
+            "The practice to which the apostle here alludes is very common in the East to this day, among a very respectable and intelligent class of merchants."
+        ],
+        "Marvin Vincent": [
+            "Go to now. Go to is an obsolete phrase, though retained in Rev. It is a formula for calling attention: come now.\" ",
+            "Spend a year there. The word poihsomen implies more than mere continuance; rather, a doing something with the year.\" ",
+            "The frequent use of the copulative gives a lively tone to the passage, expressive of the lightness and thoughtlessness of a careless spirit. Trade."
+        ],
+        "John Calvin": [
+            "It is indeed right and proper, when we promise anything as to future time, to accustom ourselves to such words as these, 'If it shall please the Lord,' 'If the Lord will permit.' But no scruple ought to be entertained, as though it were a sin to omit them.",
+            "James roused the stupidity of those who disregarded God\u2019s providence, and claimed for themselves a whole year, though they had not a single moment in their own power.",
+            "The gain which was afar off they promised to themselves, though they had no possession of that which was before their feet."
+        ],
+        "Philip Schaff": [
+            "Go to, a call to attention, found only here and in the beginning of the next chapter.\" ",
+            "now: this being the case; an inference from the preceding warning against worldliness and presumptuous confidence.",
+            "There could be nothing wrong in the mere merchandise; the sin consisted in a presumptuous confidence in themselves, and in a want of realization of their dependence on God."
+        ],
+        "Archibald T. Robertson": [
+            "Today or tomorrow. Correct text, not 'and'."
+        ],
+        "John Gill": [
+            "The phrase, 'go to now', is a note of transition, as well as of attention, and contains the form of a solemn and grave address to persons",
+            "Nor does the apostle design by this to condemn merchandise, and the lawful practice of buying and selling, and getting gain",
+            "Men should not resolve upon those things without consulting God and attending to his will, and subjecting themselves to it"
+        ],
+        "John Wesley": [
+            "Come now, ye that say \u2014 As peremptorily as if your life were in your own hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Come now, pay attention to this. You confidently say, Today or tomorrow we will go to such and such a place and spend a year there, doing business and making a profit. But your plans are focused solely on worldly gain, and you fail to realize your dependence on God. This thoughtless and careless spirit is evident in your mindset. By using the phrase go to now, I am calling your attention to the fact that your plans, formed with a presumptuous confidence in yourselves, are in the wrong. Remember, it is important to acknowledge God's providence in all of our plans and to submit to His will.",
+            "wordCount": 109,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 1.4569777072345504,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "commentatorTierSimilarities": [
+                30.19,
+                34.42,
+                35.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Come now, pay attention to this. You confidently say, Today or tomorrow we will go to such and such a place and spend a year there, doing business and making a profit. But your plans are solely focused on worldly gain and you fail to realize your dependence on God. By using the phrase go to now, I am calling your attention to the fact that your plans, formed with a presumptuous confidence in yourselves, are in the wrong. Remember, it is important to acknowledge God's providence and submit to His will in all our plans.",
+            "wordCount": 97,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.4786990043961834,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.51,
+            "commentatorTierSimilarities": [
+                30.95,
+                31.53,
+                37.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Come now, pay attention, I say to you. You confidently declare, Today or tomorrow we will go to this or that place, spend a year there, and engage in business and make a profit. However, your plans are consumed with worldly pursuits, demonstrating a lack of understanding of your reliance on God. With the phrase go to now, I aim to capture your focus and highlight the erroneous nature of your presumptuous self-assurance. Remember to acknowledge God's providence and submit to His will in all your plans.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.4232556423611418,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.67,
+            "commentatorTierSimilarities": [
+                31.89,
+                28.29,
+                39.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Come now, I say to you, pay attention. You confidently declare, Today or tomorrow we will go to this or that place, spend a year there, and engage in business to make a profit. However, your plans are solely focused on worldly gain, reflecting a disregard for God's providence and your dependence on Him. By using the phrase go to now, I hope to grab your attention and emphasize the error of your presumptuous self-assurance. Remember to acknowledge God's sovereignty and submit your plans to His will.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.4645784139946314,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.04,
+            "commentatorTierSimilarities": [
+                33.33,
+                26.9,
+                39.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Come now, I say to you, pay attention. You confidently declare, Today or tomorrow we will go to this or that place, spend a year there, and engage in business to make a profit. However, your plans are solely focused on worldly gain, reflecting a disregard for God's providence and your dependence on Him. By using the phrase go to now, I aim to grab your attention and highlight the error of your presumptuous self-assurance. Remember to acknowledge God's sovereignty and submit your plans to His will.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.447182704608605,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.46,
+            "commentatorTierSimilarities": [
+                33.2,
+                26.67,
+                40.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

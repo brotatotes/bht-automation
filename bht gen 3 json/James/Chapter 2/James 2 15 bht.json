@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:35:20",
+    "verseRef": "James 2:15",
+    "bestBHT": {
+        "bht": "If a fellow Christian is found destitute of daily food, lacking sufficient clothing, it is our duty to help them. The case of a Christian brother or sister brings out our obligation to assist them, emphasizing the importance of love as the instrument by which our faith works. Just as sending away a poor man with empty words is a mockery, having faith without works is useless and cannot save. Therefore, let us not trifle with God by neglecting to provide practical help to our brothers and sisters in need.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 2.027637767521415,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+        "commentatorTierSimilarities": [
+            25.53,
+            42.81,
+            31.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if a brother or a sister be naked and destitute of daily food...\" ",
+            "The case of a Christian brother or sister is supposed, to bring out more strongly the obligation to help, as a duty.",
+            "Extreme destitution, and nakedness in the literal, or almost literal sense, might well go together."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if,\" &c.: the \"But\" taking up the argument against such a one as \"said he had faith, and yet had not works,\" which are its fruits.",
+            "A brother...a fellow Christian, to whom we are specially bound to give help, independent of our general obligation to help all our fellow creatures.",
+            "Be found, on your access to them."
+        ],
+        "Marvin Vincent": [
+            "If a brother or sister, having been in a destitute condition, be found by you in that condition.",
+            "Destitute [\u03bb\u03b5\u03b9\u03c0\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . Lit., left behind; and hence lacking, as Rev.",
+            "Daily [\u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03bf\u03c5] . Only here in New Testament."
+        ],
+        "John Calvin": [
+            "If any one, on the contrary, boasted that he was satisfied with faith without works, he compares this shadowy faith to the saying of one who bids a famished man to be filled without supplying him with the food of which he is destitute.",
+            "As, then, he who sends away a poor man with words, and offers him no help, treats him with mockery, so they who devise for themselves faith without works, and without any of the duties of religion, trifle with God.",
+            "This is adduced as an illustration: as the saying of a man to the naked, 'Be ye clothed,' when he does nothing, effects no good, is wholly useless, so is that faith that produces no works; it being as it were dead, it cannot save."
+        ],
+        "Philip Schaff": [
+            "To prove the uselessness of a barren faith, the apostle illustrates the subject by showing the uselessness of a barren charity, which every one will at once admit.\" ",
+            "Love is the indispensable attendant on a living faith, the instrument by which it works.\" ",
+            "A Christian brother or sister, a fellow-believer, bringing forward more strongly our duty to assist them, and our culpability if we refuse such assistance."
+        ],
+        "Archibald T. Robertson": [
+            "It does not here mean absolutely naked, but without sufficient clothing as in Matthew 25:36; John 21:7; Acts 19:16.",
+            "Present passive participle of \u03bb\u03b5\u03b9\u03c0\u03c9 and ablative case \u03c4\u03c1\u03bf\u03c6\u03b7\u03c2 like \u03bb\u03b5\u03b9\u03c0\u03b5\u03c4\u03b1 \u03c3\u03bf\u03c6\u03b9\u03b1\u03c2 (James 1:5).",
+            "The old adjective \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03bf\u03c2 (\u03bf \u03b5\u03c0 \u03b7\u03bc\u03b5\u03c1\u03b1\u03bd \u03c9\u03bd, that which is for a day) occurs here only in the N.T., though \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03b9\u03b1 (daily routine) is found in Luke 1:5; Luke 1:8."
+        ],
+        "John Gill": [
+            "If a brother or sister... be naked; or clothed in rags, or in very mean and sordid apparel...",
+            "...such as will neither keep them warm, nor clean and decent...",
+            "...and destitute of daily food; have not food sufficient for the day..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If a fellow Christian is found destitute of daily food, lacking sufficient clothing, it is our duty to help them. The case of a Christian brother or sister brings out our obligation to assist them, emphasizing the importance of love as the instrument by which our faith works. Just as sending away a poor man with empty words is a mockery, having faith without works is useless and cannot save. Therefore, let us not trifle with God by neglecting to provide practical help to our brothers and sisters in need.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.027637767521415,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                25.53,
+                42.81,
+                31.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If a brother or sister, a fellow Christian, is found destitute of daily food and lacking sufficient clothing, it is our duty to help. Their extreme destitution and nakedness call for our assistance, as love is the indispensable instrument by which our faith works. We must not turn them away with empty words but instead provide practical help, for without works, our faith is useless and cannot save. Let us show true love by meeting the physical needs of our fellow believers in need.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.925392981956212,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                24.96,
+                46.35,
+                28.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If a brother or sister, a fellow Christian, is found destitute of daily food and lacking sufficient clothing, it is our duty to help. Their extreme destitution and daily need call for our assistance. Love is the indispensable instrument by which our faith works, and without works, our faith is useless and cannot save. Let us not neglect our fellow believers in need, but instead show true love through practical acts of kindness, meeting both their physical and spiritual needs.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8901414035663133,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                26.97,
+                44.06,
+                28.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we come across a brother or sister, a fellow Christian, who is lacking sufficient food and clothing, it is our duty to assist them. Such extreme destitution and daily need require our help. Love is the vital instrument through which our faith functions, and without accompanying works, our faith is rendered useless and cannot offer salvation. Therefore, let us not ignore the needs of our fellow believers, but rather demonstrate genuine love by providing practical assistance, addressing both their physical and spiritual well-being.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.843791489806897,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.65,
+            "commentatorTierSimilarities": [
+                27.85,
+                42.53,
+                29.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we encounter a fellow Christian in a state of extreme destitution, lacking daily sustenance and adequate clothing, it falls upon us to lend a helping hand. Love, the essential companion of a living faith, is the means through which faith finds expression. Devoid of works, faith becomes barren and incapable of saving. Let us not trifle with God by espousing a faith without deeds but instead be moved to action, manifesting genuine care and selflessness by fulfilling the tangible needs of our brothers and sisters in need.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.8753133480881858,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                21.39,
+                44.34,
+                34.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

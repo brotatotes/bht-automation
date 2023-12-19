@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:35:58",
+    "verseRef": "James 3:6",
+    "bestBHT": {
+        "bht": "The tongue, like a world of iniquity, is a fire that defiles and kindles destructive flames which consume both the speaker and those around them. Its influence, like a revolving wheel, sets the entire course of life ablaze. If only people would speak what ought to be spoken, the world would see a transformative change. The tongue is a fiery torch ignited by the fires of hell, spreading its evil influence throughout every aspect of existence. Its power to defile and set the universe aflame is unparalleled.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.072977467907066,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+        "commentatorTierSimilarities": [
+            32.3,
+            35.37,
+            32.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The tongue, that world of iniquity, is a fire.",
+            "The tongue is (constituted), among the members, the one which defileth.",
+            "While a man inflames others, he passes out of his own power, being consumed in the flame himself."
+        ],
+        "Albert Barnes": [
+            "And what evil is there which may not be originated or fomented by the tongue? What else is there that might, with so much propriety, be represented as a little world of iniquity?",
+            "If all men were dumb, what a portion of the crimes of the world would soon cease! If all men would speak only that which ought to be spoken, what a change would come over the face of human affairs!",
+            "The image which seems to have been before the mind of the apostle was that of a torch which enkindles and burns everything as it goes along - a torch itself lighted at the fires of hell."
+        ],
+        "Marvin Vincent": [
+            "A world of iniquity is an organism containing within itself all evil essence, which from it permeates the entire man.\" ",
+            "The tongue works the chief mischief, kindles the most baleful fires in the course of life.",
+            "This revolving wheel is kindled by the tongue, and rolls on in destructive blaze."
+        ],
+        "John Calvin": [
+            "A slender portion of flesh contains in it the whole world of iniquity.\" ",
+            "The vice of the tongue spreads and prevails over every part of life.\" ",
+            "The outrageousness of the tongue is the flame of the infernal fire."
+        ],
+        "Philip Schaff": [
+            "The tongue is a fire, the world of iniquity the forest.",
+            "The tongue is a combination of all that is evil.",
+            "The tongue sets the universe in flames."
+        ],
+        "Archibald T. Robertson": [
+            "The tongue is a fire",
+            "Clearly James means to say that the tongue can play havoc in the members of the human body.",
+            "The wheel of life may be considered either in motion or standing still, though setting on fire implies motion."
+        ],
+        "John Gill": [
+            "It cannot well be said how much sin is in it, and done, or occasioned by it; as blasphemy against God, Father, Son, and Spirit; cursing of men, imprecations on themselves, their souls, and bodies, and on others, with a multitude of profane and dreadful oaths...",
+            "The tongue is fire, and a wicked world is fuel to it.",
+            "The tongue is influenced, instigated, and stirred up by Satan, to speak many evil things, and it will be hereafter set on fire in hell, as the tongue of the rich man in Luke 16:24."
+        ],
+        "John Wesley": [
+            "A world of iniquity \u2014 Containing an immense quantity of all manner of wickedness.",
+            "It defileth \u2014 As fire by its smoke.",
+            "And setteth on fire the course of nature \u2014 All the passions, every wheel of his soul."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tongue, a world of iniquity, is set ablaze and spreads its destructive flames throughout the entire being. It defiles and kindles baleful fires, wreaking havoc and consuming not only others but also the one who wields it. Its power to ignite is compared to a revolving wheel, setting on fire the course of life. If the tongue were restrained and used wisely, much evil and sin would cease. Its influence is vast, permeating every part of existence. The tongue is a fire, fueled by a wicked world and instigated by Satan. It is a force that defiles, sets aflame the passions, and spews forth a multitude of profane and dreadful words.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.077795726750062,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.43,
+            "commentatorTierSimilarities": [
+                33.27,
+                33.26,
+                33.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tongue, a world of iniquity, is set ablaze and spreads its destructive flames throughout the entire being. It defiles and kindles baleful fires, wreaking havoc and consuming not only others but also the one who wields it. If the tongue were restrained and used wisely, much evil and sin would cease. Its influence is vast, permeating every part of existence. The tongue is a fire, fueled by a wicked world. It is a force that defiles and spews a multitude of profane words.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.069468666698662,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                32.65,
+                33.92,
+                33.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tongue, a world of iniquity, is set ablaze and spreads its destructive flames throughout the entire being. It defiles and kindles baleful fires, wreaking havoc and consuming not only others but also the one who wields it. If the tongue were restrained and used wisely, much evil and sin would cease. Its influence is vast, permeating every part of existence. The tongue is a fire, fueled by a wicked world. It is a force that defiles and spews a multitude of profane words.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.069468666698662,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.15,
+            "commentatorTierSimilarities": [
+                32.65,
+                33.92,
+                33.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tongue, like a world of iniquity, is a fire that defiles and kindles destructive flames which consume both the speaker and those around them. Its influence, like a revolving wheel, sets the entire course of life ablaze. If only people would speak what ought to be spoken, the world would see a transformative change. The tongue is a fiery torch ignited by the fires of hell, spreading its evil influence throughout every aspect of existence. Its power to defile and set the universe aflame is unparalleled.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.072977467907066,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                32.3,
+                35.37,
+                32.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tongue, a world of iniquity, is a blazing fire that defiles and consumes not only its wielder but also others. It sets the course of life on fire, spreading its destructive influence throughout. If people were cautious and spoke only what should be spoken, it could bring about a significant change in human affairs. The tongue can be compared to a torch, lighting and burning everything it touches, drawing its flames from the depths of hell. It is a combination of all evil and has the power to ignite the entire universe.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.0531216265549856,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                32.34,
+                35.72,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

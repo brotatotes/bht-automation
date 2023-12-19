@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:36:39",
+    "verseRef": "James 5:13",
+    "bestBHT": {
+        "bht": "If anyone is troubled, let them pray; if anyone is joyful, let them sing praises. Express your feelings in a Christian and sober manner, seeking solace and comfort through prayer. Instead of swearing in rash impatience, let us continue to pray. When we are merry and joyous, let us express it through singing psalms of praise. Prayer and praise should not be separated; they should be combined to reflect our gratitude and reliance on God in all circumstances. Afflictions should spur us to pray, while moments of joy should inspire us to offer praises.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.1579654460937476,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+        "commentatorTierSimilarities": [
+            22.51,
+            45.34,
+            32.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is any among you in trouble? let him pray.",
+            "Is any in joy (light of heart)? let him sing praise.",
+            "Express your feelings not by random and unjustifiable exclamations, but in a Christian and sober manner, as here prescribed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "let him pray\u2014not 'swear' in rash impatience.\" ",
+            "merry\u2014joyous in mind.\" ",
+            "sing psalms\u2014of praise. Paul and Silas sang psalms even in affliction."
+        ],
+        "Marvin Vincent": [
+            "Is afflicted. See on the kindred word kakopaqeia, suffering, ver. 10.\" ",
+            "The word means, primarily, to pluck or twitch. Hence of the sharp twang on a bowstring or harp-string, and so to play upon a stringed instrument.\" ",
+            "The verb, however, is used in the New Testament of singing praise generally."
+        ],
+        "John Calvin": [
+            "There is no time in which God does not invite us to himself.",
+            "Afflictions ought to stimulate us to pray; prosperity supplies us with an occasion to praise God.",
+            "We ought... to set forth the goodness of God, and... let our sorrow teach us to pray."
+        ],
+        "Philip Schaff": [
+            "Is any afflicted? The word rendered 'afflicted' is a general term, denoting all kinds of affliction sickness, pain, bereavement, disappointment, persecution... let him pray, prayer being the natural resort of the afflicted.",
+            "Is any merry? that is, cheerful, in good spirits... let him sing psalms: literally, 'let him praise.' We are not to express our cheerfulness in riotous mirth, but in praise and gratitude to God.",
+            "Nor ought prayer and praise to be separated; they should be combined; our prayers should often express themselves in praise, and our praise should be a prayer."
+        ],
+        "Archibald T. Robertson": [
+            "Let him keep on praying\" (instead of cursing as in verse James 5:12). ",
+            "Let him sing praise\" (\u03c8\u03b1\u03bb\u03bb\u03b5\u03c4\u03c9). ",
+            "Let him keep on making melody."
+        ],
+        "John Gill": [
+            "Times of afflictions are proper times for prayer; there is then more especially need of it.",
+            "God sometimes lays his afflicting hand upon his people, when they have been negligent of their duty, and he has not heard of them for some time, in order to bring them near to him.",
+            "Let him not only be inwardly joyful... but let him express it vocally, and melodiously, by singing psalms, hymns, and spiritual songs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone is troubled, they should pray, seeking solace in the presence of God. If someone is joyful, they should respond by singing praises to the Lord. We are encouraged to express our emotions in a Christian and composed manner, rather than resorting to impulsive and unjustifiable outbursts. Instead of cursing, let us continue to pray and instead of relying on riotous mirth, let our cheerfulness be characterized by praising and thanking God. Prayer and praise should not be separated; they complement and enhance each other. May afflictions lead us to prayer and times of joy lead us to praise.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.1012973135350004,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                20.46,
+                45.66,
+                33.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If anyone is troubled, let them pray; if anyone is joyful, let them sing praises. Express your feelings in a Christian and sober manner, seeking solace and comfort through prayer. Instead of swearing in rash impatience, let us continue to pray. When we are merry and joyous, let us express it through singing psalms of praise. Prayer and praise should not be separated; they should be combined to reflect our gratitude and reliance on God in all circumstances. Afflictions should spur us to pray, while moments of joy should inspire us to offer praises.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.1579654460937476,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.09,
+            "commentatorTierSimilarities": [
+                22.51,
+                45.34,
+                32.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In times of trouble, we are encouraged to turn to prayer, seeking solace and guidance from God. Likewise, when we experience joy and light-heartedness, let us express it through singing psalms of praise. Rather than resorting to random and unjustifiable exclamations, let us approach our emotions in a Christian and composed manner. May we not swear in rash impatience, but instead keep on praying, continually seeking God's presence. And as we experience joy, let us keep on making melody, offering our praises with a heart full of gratitude.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.92078159393322,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                22.61,
+                42.64,
+                34.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When facing troubles, our response should be grounded in prayer, seeking comfort and guidance from God. Alternatively, in times of joy, we should express our gratitude through singing psalms and offering praise. Let us refrain from impulsive outbursts and instead approach our emotions in a Christian and composed manner. Rather than cursing, we should continue to pray, consistently seeking God's presence. Likewise, in moments of happiness, let us continue making melody, joyfully expressing our praises to the Lord.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.9179683488776573,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                20.74,
+                43.35,
+                35.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If anyone is troubled, they should pray, seeking solace in the presence of God. If someone is joyful, they should respond by singing praises to the Lord. We are encouraged to express our emotions in a Christian and composed manner, rather than resorting to impulsive and unjustifiable outbursts. Instead of cursing, let us continue to pray and instead of relying on riotous mirth, let our cheerfulness be characterized by praising and thanking God. Prayer and praise should not be separated; they complement and enhance each other. May afflictions lead us to prayer and times of joy lead us to praise.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.1012973135350004,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.21,
+            "commentatorTierSimilarities": [
+                20.46,
+                45.66,
+                33.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

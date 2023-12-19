@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 17:36:06",
+    "verseRef": "James 4:3",
+    "bestBHT": {
+        "bht": "If you really prayed aright, this feeling of continual craving after more worldly things would not exist: all your proper wants would be supplied, for it is not enough to ask for good things, but we must ask with a good spirit and intention. God does not hear prayers that are amiss, offered with evil intent solely for self-gratification. Let us subject our desires to the will of God, seeking to do good to others, for in doing so, our prayers will be answered in unexpected ways.",
+        "wordCount": 88,
+        "quoteTokenProportion": 52.24,
+        "qualityScore": 2.608169748690175,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.06,
+        "commentatorTierSimilarities": [
+            31.07,
+            40.65,
+            28.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ye ask and do not receive, because ye ask amiss (with evil intent, see below), that ye may spend [it] (that which ye ask for) in ( \u2018in the exercise of,\u2019 \u2018under the dominion of:\u2019 in does not belong to the verb,\u2014 \u2018that ye may consume it upon,\u2019 as A.V.: \u2018may spend it, but to the state in which the spenders are, in the course of satisfying) your lusts.",
+            "The general sense is: if you really prayed aright, this feeling of continual craving after more worldly things would not exist: all your proper wants would he supplied:",
+            "Ye would ask, and ask aright, and consequently would obtain."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is not enough to ask for good things, but we must ask with a good spirit and intention.",
+            "If ye prayed aright, all your proper wants would be supplied; the improper cravings which produce 'wars and fightings' would then cease.",
+            "Even believers' prayers are often best answered when their desires are most opposed."
+        ],
+        "Albert Barnes": [
+            "It is not uncommon for men who go to war to pray, or to procure the services of a chaplain to pray for them.",
+            "If such persons do not receive what they ask for, if they are not prospered in their plans, they should not set it down as evidence that God does not hear prayer, but as evidence that their prayers are offered for improper objects, or with improper motives.",
+            "Prayers offered that we may have the means of sensuality and voluptuousness, we have no reason to suppose God will answer, for he has not promised to hear such prayers."
+        ],
+        "Marvin Vincent": [
+            "Besought, Matthew 14:23.",
+            "Lit., evilly: with evil intent.",
+            "Spend it in. The sense is not lay out expense upon your pleasures, but spend in the exercise of; under the dominion of."
+        ],
+        "John Calvin": [
+            "Though they sought, yet they were deservedly denied; because they wished to make God the minister of their own lusts.",
+            "They set no bounds to their wishes... and ask those things of which man, conscious of what is right, ought especially to be ashamed.",
+            "Our desires ought to be bridled: and the way of bridling them is to subject them to the will of God."
+        ],
+        "Philip Schaff": [
+            "Ye ask, and receive not: as if to anticipate the reply of his readers that they did ask, but still did not receive the object of their desires.",
+            "because ye ask amiss: or wrongly, wickedly; either in an improper spirit, without faith in God as the Hearer of prayer; or rather for improper objects, for worldly things which are pernicious in themselves or prejudicial to the petitioner for the sole purpose of self-gratification, without any thought of the glory of God. Such asking is equivalent to not asking.",
+            "that ye may consume it (that which ye ask) on, or spend it in, your lusts: in order to gratify your own sinful desires. The meaning is: if you pray in a proper spirit, these selfish desires, which are the occasion of those bitter contentions among you, would cease to exist."
+        ],
+        "Archibald T. Robertson": [
+            "Ye ask for yourselves\" and that is \"evilly\" or amiss... God does not hear prayers like this.",
+            "Ye ask amiss... as James explains.",
+            "God does not hear prayers like this."
+        ],
+        "John Gill": [
+            "Ye ask, and receive not, because ye ask amiss.\" ",
+            "Not in the faith of a divine promise; nor with thankfulness for past mercies; nor with submission to the will of God; nor with a right end, to do good to others, and to make use of what might be bestowed, for the honour of God, and the interest of Christ.",
+            "That ye may consume it upon your lusts; indulge in intemperance and luxury."
+        ],
+        "John Wesley": [
+            "But if ye do ask, ye receive not, because ye ask amiss - That is, from a wrong motive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If you really prayed aright, this feeling of continual craving after more worldly things would not exist: all your proper wants would be supplied, for it is not enough to ask for good things, but we must ask with a good spirit and intention. And yet, even believers' prayers are often best answered when their desires are most opposed, for God does not hear prayers that are amiss, that are offered with evil intent and solely for the purpose of self-gratification. So let us subject our desires to the will of God, bridling them and seeking to do good to others, for in doing so, we will find that our prayers are answered in a way that surpasses our expectations.",
+            "wordCount": 121,
+            "quoteTokenProportion": 51.85,
+            "qualityScore": 2.6737517782972064,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.24,
+            "commentatorTierSimilarities": [
+                29.98,
+                41.37,
+                28.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you really prayed aright, this feeling of continual craving after more worldly things would not exist: all your proper wants would be supplied, for it is not enough to ask for good things, but we must ask with a good spirit and intention. God does not hear prayers that are amiss, offered with evil intent solely for self-gratification. Let us subject our desires to the will of God, seeking to do good to others, for in doing so, our prayers will be answered in unexpected ways.",
+            "wordCount": 88,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 2.608169748690175,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.06,
+            "commentatorTierSimilarities": [
+                31.07,
+                40.65,
+                28.27
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:39",
+    "verseRef": "James 1:4",
+    "bestBHT": {
+        "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. The purpose of enduring trials with patience is to reach perfection and completeness, lacking nothing. The work of God in a person is the person itself, and this work is accomplished through the moral purification and ennobling of patience. By enduring to the end, true and sincere patience is perfected, leading to the fullness of holiness and happiness, adorned with every Christian grace. This patience is not merely passive, but an active virtue with a perfect work.",
+        "wordCount": 93,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.3910455998478364,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.84,
+        "commentatorTierSimilarities": [
+            30.76,
+            37.34,
+            31.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But (as if it had been said, and be not weary of enduring: but) let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing.",
+            "For the work of God in a man is the man. If God\u2019s teaching by patience have had a perfect work in you, you are perfect.",
+            "And the purpose of that work is, to make us perfect and entire, deficient in nothing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let endurance have a perfect work, that is, have its full effect, by showing the most perfect degree of endurance, namely, 'joy in bearing the cross.'",
+            "The work of God in a man is the man. If God's teachings by patience have had a perfect work in you, you are perfect.",
+            "Entire\u2014that which has all its parts complete, wanting no integral part."
+        ],
+        "Albert Barnes": [
+            "Let patience have her perfect work [...] without being hindered.\" ",
+            "There may be the elements of a good character; there may be sound principles, but those principles may not be fully carried out so as to show what they are.\" ",
+            "The idea here is, that it is desirable not only to have the elements or principles of piety in the soul, but to have them fairly carried out, so as to show what is their real tendency and value."
+        ],
+        "Marvin Vincent": [
+            "Work [\u03b5\u03c1\u03b3\u03bf\u03bd] is the word with which katergazetai, worketh, is compounded. It is the accomplished result of patience in moral purification and ennobling.\" ",
+            "Perfect, from perfectus, per factus, made throughout, denotes that which has reached its maturity or fulfilled the end contemplated.\" ",
+            "Rev., more literally, lacking in nothing. Note James' characteristic corroboration of a positive statement by a negative clause: entire, lacking in nothing."
+        ],
+        "John Calvin": [
+            "Real patience is that which endures to the end.",
+            "But what he means by these two words, he afterwards explains of those who fail not, or become not wearied.",
+            "They were to be like men full grown, and not maimed or mutilated, but having all their members complete."
+        ],
+        "Philip Schaff": [
+            "Patience is not merely a passive but an active virtue; there is a work of patience, yea a perfect work.",
+            "The most perfect Christians are not the most active, but the most enduring; not so much in the bustle of the world is the work of grace carried on, as in the quietness of the sick-chamber.",
+            "'The work of God in a man,\u2019 as Dean Alford observes, \u2018is the man. If God\u2019s teaching by patience have had a perfect work in you, you are perfect.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Let it keep on having.",
+            "Perfect and entire: 'perfected all over.'",
+            "Lacking in nothing: negative statement of the preceding positive."
+        ],
+        "John Gill": [
+            "Patience may be said to be perfect, when it appears to be real and sincere, and not dissembled.",
+            "He that endures, or is patient, and continues so unto the end, shall be saved, and enjoy that perfection of glory and happiness.",
+            "When patience has had its perfect work, and has been tried to the uttermost, and is found right, and has held out to the end; then shall the saints be perfect in holiness and happiness, and be entire, whole, and complete."
+        ],
+        "John Wesley": [
+            "Let patience have its perfect work \u2014 Give it full scope, under whatever trials befal you.",
+            "That ye may be perfect and entire \u2014 Adorned with every Christian grace.",
+            "And wanting nothing \u2014 Which God requires in you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. The work of God in a person is the person itself, and it is through enduring trials and challenges with patience that one can reach perfection. The purpose of this work is to make us complete, lacking nothing, and to bring out the true value and tendencies of our principles of piety. Patience is not just a passive virtue but an active one, and the most perfect Christians are not necessarily the most active, but the most enduring. It is through enduring to the end, without becoming weary, that true and sincere patience is perfected, leading to the fullness of holiness and happiness, adorned with every Christian grace.",
+            "wordCount": 124,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2992978407036855,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.79,
+            "commentatorTierSimilarities": [
+                29.75,
+                38.79,
+                31.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. The work of God in a person is the person itself, and it is through enduring trials and challenges with patience that one can reach perfection. The purpose is to make us complete, lacking nothing, and to bring out the true value and tendencies of our principles of piety. The most perfect Christians are the most enduring ones, and through enduring to the end, true and sincere patience is perfected, leading to fullness of holiness and happiness, adorned with every Christian grace.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.260353939294994,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+            "commentatorTierSimilarities": [
+                31.67,
+                35.81,
+                32.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. Through enduring trials with patience, we can reach perfection. The work of God in a person is the person itself, and through enduring to the end, true and sincere patience is perfected, leading to fullness of holiness and happiness, adorned with every Christian grace. The most perfect Christians are the most enduring ones, not necessarily the most active ones. This patience is not just passive, but an active virtue with a perfect work. It is through enduring without becoming weary that real patience is manifested.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.2955256246545352,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                29.07,
+                38.27,
+                32.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. The purpose of enduring trials with patience is to reach perfection and completeness, lacking nothing. The work of God in a person is the person itself, and this work is accomplished through the moral purification and ennobling of patience. By enduring to the end, true and sincere patience is perfected, leading to the fullness of holiness and happiness, adorned with every Christian grace. This patience is not merely passive, but an active virtue with a perfect work.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3910455998478364,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.84,
+            "commentatorTierSimilarities": [
+                30.76,
+                37.34,
+                31.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let endurance have a perfect work... that ye may be perfect and entire, deficient in nothing. The purpose of enduring trials with patience is to reach perfection and completeness, lacking nothing. The work of God in a person is the person itself, and this work is accomplished through patience's moral purification and ennobling. By enduring to the end, true and sincere patience is perfected, leading to the fullness of holiness and happiness, adorned with every Christian grace. This patience is not merely passive but an active virtue with a perfect work.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.3559178095100632,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.67,
+            "commentatorTierSimilarities": [
+                31.19,
+                37.15,
+                31.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

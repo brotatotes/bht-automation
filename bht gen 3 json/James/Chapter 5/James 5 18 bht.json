@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 17:36:42",
+    "verseRef": "James 5:18",
+    "bestBHT": {
+        "bht": "The power of prayer is evident in the connection between the prayer and its accomplishment. In the case of Elijah, he prayed for rain, and after three and a half years of drought, heaven gave rain and the earth brought forth fruit. This example shows that though not explicitly mentioned, the power of prayer is a matter of inference. Through this miracle, it is reasonable to believe that God will answer our prayers and bestow the blessings we need.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7801865783154693,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+        "commentatorTierSimilarities": [
+            25.01,
+            44.45,
+            30.54
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Mark the connection between the prayer and its accomplishment.",
+            "Her usual and due fruit, heretofore withheld on account of sin.",
+            "Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.'"
+        ],
+        "Albert Barnes": [
+            "It is remarkable that it is not expressly mentioned, and quite as remarkable that James should have made his argument turn on a thing which is not expressly mentioned, but which seems to have been a matter of inference.",
+            "The case referred to here was indeed a miracle, but it was a case of the power of prayer, and therefore to the point.",
+            "If God would work a miracle in answer to prayer, it is reasonable to presume that he will bestow upon us the blessings which we need in the same way."
+        ],
+        "Philip Schaff": [
+            "And he prayed again.",
+            "It is there said that \u2018Elijah went up to the top of Carmel, and he cast himself down upon the earth, and put his face between his knees\u2019 (1 Kings 18:42); that is, placed himself in the attitude of prayer.",
+            "And the heaven gave rain, and the earth brought forth her fruit."
+        ],
+        "Archibald T. Robertson": [
+            "Gave rain (\u03c5\u03b5\u03c4\u03bf\u03bd \u03b5\u03b4\u03c9\u03ba\u03b5\u03bd).",
+            "This idiom is in the LXX of God as here of heaven.",
+            "Brought forth (\u03b5\u03b2\u03bb\u03b1\u03c3\u03c4\u03b7\u03c3\u03b5\u03bd)."
+        ],
+        "John Gill": [
+            "And the heaven gave rain; see 1 Kings 18:45.",
+            "The apostle chose to give this example, because it was a common thing for the Jews to ask for rain.",
+            "His view is to observe, that the weakness and infirmities of the saints ought not to discourage them from prayer; and that they should be earnest and fervent in it, as was Elias, a man of like passions with themselves."
+        ],
+        "John Wesley": [
+            "He prayed again \u2014 When idolatry was abolished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mark the connection between the prayer and its accomplishment. Her usual and due fruit, heretofore withheld on account of sin. Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.' Gave rain. This idiom is in the LXX of God as here of heaven. Brought forth. It is remarkable that it is not expressly mentioned, and quite as remarkable that James should have made his argument turn on a thing which is not expressly mentioned, but which seems to have been a matter of inference. The case referred to here was indeed a miracle, but it was a case of the power of prayer, and therefore to the point. If God would work a miracle in answer to prayer, it is reasonable to presume that he will bestow upon us the blessings which we need in the same way.",
+            "wordCount": 155,
+            "quoteTokenProportion": 47.19,
+            "qualityScore": 1.633397730192296,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                35.41,
+                39.06,
+                25.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mark the connection between the prayer and its accomplishment. Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.' Gave rain. Brought forth. It is remarkable that it is not expressly mentioned, but seems to have been a matter of inference. The case referred to here was a miracle, a case of the power of prayer. If God would work a miracle in answer to prayer, he will bestow blessings in the same way.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.5982211013740755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                33.57,
+                39.65,
+                26.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mark the connection between the prayer and its accomplishment. Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.' Gave rain. Brought forth. It is remarkable that it is not expressly mentioned, but seems to have been a matter of inference. The case referred to here was a miracle, a case of the power of prayer. If God would work a miracle in answer to prayer, he will bestow blessings in the same way.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.5982211013740755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.48,
+            "commentatorTierSimilarities": [
+                33.57,
+                39.65,
+                26.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power of prayer is evident in the connection between the prayer and its accomplishment. In the case of Elijah, he prayed for rain, and after three and a half years of drought, heaven gave rain and the earth brought forth fruit. This example shows that though not explicitly mentioned, the power of prayer is a matter of inference. Through this miracle, it is reasonable to believe that God will answer our prayers and bestow the blessings we need.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7801865783154693,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                25.01,
+                44.45,
+                30.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power of prayer is evident in the connection between the prayer and its accomplishment. Three and a half years is the time also that the two witnesses prophesy who 'have power to shut and open heaven that it rain not.' In the case of Elijah, he prayed and heaven gave rain, bringing forth fruit on the earth. It is remarkable that this is not expressly mentioned, but the power of prayer can be inferred. This miraculous example highlights the effectiveness of earnest and fervent prayer, even from someone like Elijah, who had the same human weaknesses as us.",
+            "wordCount": 99,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7284403430657438,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                27.85,
+                40.44,
+                31.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

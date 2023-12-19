@@ -1,0 +1,94 @@
+{
+    "timestamp": "12-19-2023 17:35:07",
+    "verseRef": "James 2:13",
+    "bestBHT": {
+        "bht": "Blessed are the merciful, for they shall obtain mercy. The judgment that is coming shall be unmerciful to those who have not shown mercy. Mercy triumphs over judgment, knowing that it cannot condemn them. The mercy of God towards believers, producing mercy on their part, allows them to triumph over the judgment that all deserve. Only mercy can triumph over justice with God and men. So let us show mercy to our fellow men, in expectation of receiving mercy from God.",
+        "wordCount": 81,
+        "quoteTokenProportion": 57.14,
+        "qualityScore": 3.211688797052035,
+        "qualityScoreNormalizedComparedToV2BHTs": 98.13,
+        "commentatorTierSimilarities": [
+            35.59,
+            32.03,
+            32.38
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed are the merciful: for they shall obtain mercy.",
+            "The judgment (which is coming) (shall be) unmerciful to him who wrought not mercy.",
+            "Mercy boasteth over judgment, and mercy prevails over it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The judgment (which is coming on all of us) shall be without mercy to him who hath showed no mercy.\" ",
+            "Mercy, so far from fearing judgment in the case of its followers, actually glorifieth against it, knowing that it cannot condemn them.",
+            "Not that their mercy is the ground of their acquittal, but the mercy of God in Christ towards them, producing mercy on their part towards their fellow men, makes them to triumph over judgment, which all in themselves otherwise deserve."
+        ],
+        "Albert Barnes": [
+            "No mercy is to be shown when the character is not such that it will be proper that it should be; and that we should habitually feel in our conduct that God will be impartial, and should frame our lives accordingly.",
+            "In the dispensations of justice before human tribunals, this often occurs. Strict justice demands the punishment of the offender; and yet there are cases when mercy pleads, and when every man feels that it would be desirable that pardon should be extended to the guilty, and when we always rejoice if mercy triumphs.",
+            "In the plan of salvation, this does occur. Respect is done to justice, but mercy triumphs. Justice indeed pleaded for the condemnation of the sinner, but mercy interposed, and he is saved."
+        ],
+        "Marvin Vincent": [
+            "Judgment is without mercy to him that hath shewed no mercy.",
+            "Mercy is clothed with the divine glory, and stands by the throne of God.",
+            "When we are in danger of being condemned, [mercy] rises up and pleads for us, and covers us with her defense, and enfolds us with her wings."
+        ],
+        "John Calvin": [
+            "It is, indeed, a singular commendation of kindness and benevolence, that God promises that he will be merciful to us, if we be so to our brethren.",
+            "God\u2019s mercy alone is that which delivers us from the dread and terror of judgment.",
+            "Mercy itself in a manner triumphs, and alone reigns when the severity of judgment gives way."
+        ],
+        "Philip Schaff": [
+            "We must show mercy to our fellow-men, if we expect mercy from God.",
+            "Mercy and judgment are here personified; judgment threatens to condemn the sinner, but mercy interposes and overcomes judgment.",
+            "Mercy prevails against judgment. 'Mercy,' says St. Chrysostom, 'is dear to God, and intercedes for the sinner, and breaks his chains, and dissipates the darkness, and quenches the fire of hell, and destroys the worm, and rescues from the gnashing of teeth.'"
+        ],
+        "Archibald T. Robertson": [
+            "Mercy is clothed with the divine glory and stands by the throne of God.",
+            "Only mercy can triumph over justice with God and men.",
+            "See Romans 8:31-39; Matthew 9:13; Matthew 12:7."
+        ],
+        "John Gill": [
+            "For he shall have judgment without mercy....that hath showed no mercy.\" ",
+            "Mercy rejoiceth against judgment.\" ",
+            "He only shall glory in the day of judgment, who hath showed mercy."
+        ],
+        "John Wesley": [
+            "Judgment without mercy shall be to him \u2014 In that day.",
+            "Who hath showed no mercy \u2014 To his poor brethren.",
+            "But the mercy of God to believers, answering to that which they have shown, will then glory over judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are the merciful, for they shall obtain mercy. The judgment that is coming shall be unmerciful to those who have not shown mercy. Mercy triumphs over judgment, knowing that it cannot condemn them. The mercy of God towards believers, producing mercy on their part, allows them to triumph over the judgment that all deserve. Only mercy can triumph over justice with God and men. So let us show mercy to our fellow men, in expectation of receiving mercy from God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 3.211688797052035,
+            "qualityScoreNormalizedComparedToV2BHTs": 98.13,
+            "commentatorTierSimilarities": [
+                35.59,
+                32.03,
+                32.38
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

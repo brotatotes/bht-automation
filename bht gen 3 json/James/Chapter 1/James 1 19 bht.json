@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:43",
+    "verseRef": "James 1:19",
+    "bestBHT": {
+        "bht": "To truly benefit from God's word, we must be swift to hear and slow to speak authoritatively or in anger. We need to approach the Word with an eager and receptive mind, leaving behind anger and wrath. By being slow to speak when angry, we can better control our temper. This verse emphasizes the importance of attentive listening and discourages hasty and disputatious speech. Remember, being swift to listen, slow to speak, and slow to wrath allows us to truly hear and understand God's truth.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.157364875850715,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+        "commentatorTierSimilarities": [
+            27.67,
+            34.52,
+            37.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let every man be swift to hear, slow to speak.\" ",
+            "Be eager to listen, not eager to discourse.",
+            "The quick speaker is the quick kindler."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The true method of hearing is treated in James 1:21-27; James 2:1-26.\" ",
+            "Slow to speak authoritatively as a master or teacher of others (compare James 3:1): a common Jewish fault: slow also to speak such hasty things of God, as in James 1:13.",
+            "Hastiness of temper hinders hearing God's word; so Naaman, 2 Kings 5:11; Luke 4:28."
+        ],
+        "Albert Barnes": [
+            "Our appropriate condition is rather that of learners than instructors; and the attitude of mind which we should cultivate is that of a readiness to receive information from any quarter.",
+            "Be swift to hear, and with deep consideration give answer.",
+            "We should lay aside all anger and wrath, and should come to the investigation of truth with a calm mind, and an imperturbed spirit."
+        ],
+        "Marvin Vincent": [
+            "The correct reading is 'ye know,'",
+            "Others render it as imperative, know ye,",
+            "calling attention to what follows."
+        ],
+        "John Calvin": [
+            "When God so freely and kindly presents himself to you, you also ought to render yourselves teachable, lest your slowness should cause him to desist from speaking.",
+            "No one can be a true disciple of God, except he hears him in silence.",
+            "Except the heat of contention be banished, we shall never observe towards God that calm silence of which he has just spoken."
+        ],
+        "Philip Schaff": [
+            "Ye know, my beloved brethren, let every man be swift to hear\" - This quote underscores the importance of attentive listening.",
+            "Be not rash in entering upon the office of a teacher.\" - This advice cautions against impulsive engagement in teaching without proper preparation.",
+            "On all occasions we ought to be slow to wrath\" - This statement highlights the virtue of exercising restraint and being slow to anger."
+        ],
+        "Archibald T. Robertson": [
+            "The picture points to listening to the word of truth and is aimed against violent and disputatious speech.",
+            "Slow to begin speaking, not slow while speaking.",
+            "Slowness to speak up when angry will tend to curb the anger."
+        ],
+        "John Gill": [
+            "Let every man be swift to hear... the word of God; to the hearing of which men should fly, as doves to their windows; should make haste, and be early in their attendance on it, as well, as constant; and receive it with all readiness, and with a sort of greediness of mind, that their souls may be profited, and God may be glorified.",
+            "Slow to speak... think before you speak, meditate on the word, and study to be approved to God and men.",
+            "Slow to wrath... which are apt to fill natural men with wrath, and which must greatly hinder the usefulness of the word."
+        ],
+        "John Wesley": [
+            "Let every man be swift to hear.\"  ",
+            "Slow to speak.\"  ",
+            "Slow to wrath."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let every man be swift to hear, not eager to speak authoritatively or angrily, but eager to listen and learn. We should approach the word of truth with a calm and imperturbed spirit, laying aside anger and wrath. The picture painted by this verse emphasizes the importance of attentive listening, curbing hasty and disputatious speech. By being slow to speak when angry, we can better control our temper. In order to truly hear God's word and benefit from it, we must be swift to listen, slow to speak, and slow to wrath.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.1413962289799806,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.54,
+            "commentatorTierSimilarities": [
+                27.71,
+                35.72,
+                36.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To truly benefit from God's word, we must be swift to hear and slow to speak authoritatively or in anger. We need to approach the Word with an eager and receptive mind, leaving behind anger and wrath. By being slow to speak when angry, we can better control our temper. This verse emphasizes the importance of attentive listening and discourages hasty and disputatious speech. Remember, being swift to listen, slow to speak, and slow to wrath allows us to truly hear and understand God's truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.157364875850715,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                27.67,
+                34.52,
+                37.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In our journey of faith, we are encouraged to be eager to listen and slow to speak. This allows us to approach God's word with humility and attentiveness, rather than seeking to assert our own opinions or engage in heated debates. By restraining our impulse to quickly respond, we create space for understanding and growth. This verse reminds us of the importance of listening with an open heart, speaking thoughtfully, and avoiding anger and hasty words that hinder our spiritual journey.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.798336416775859,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.14,
+            "commentatorTierSimilarities": [
+                25.46,
+                38.3,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly grow in our faith, we must be swift to hear and slow to speak. Instead of being quick to assert our authority or engage in hasty speech, we are called to be eager listeners and slow to engage in contentious arguments. This verse emphasizes the importance of attentive listening, curbing impulsiveness, and exercising self-control when angry. By practicing restraint and being intentional in our speech, we can create an environment that fosters understanding, reflection, and spiritual growth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.9600080396847885,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                27.82,
+                38.61,
+                33.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To truly benefit from God's word, we must be swift to hear, not eager to engage in contentious debates or assert our authority. It is crucial to approach Scripture with an open and receptive mind, setting aside anger and wrath. By being deliberate and cautious in our speech, we can better control our emotions and respond in a manner that is pleasing to God. This passage reminds us to be attentive listeners, restrained in our speech, and slow to anger, in order to fully understand and apply the teachings of God's word.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.9744312194129812,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.99,
+            "commentatorTierSimilarities": [
+                24.82,
+                37.88,
+                37.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

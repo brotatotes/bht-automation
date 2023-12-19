@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:23",
+    "verseRef": "James 1:11",
+    "bestBHT": {
+        "bht": "The sun arose and withered the beauty of its appearance, just as the rich man withers in his ways. Grass and flowers symbolize the transitoriness of human life, where the flower's face fades away. The rich man's journeys to acquire riches will come to an end when he fades away amidst all his riches and glory.",
+        "wordCount": 58,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 2.295225988788773,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.66,
+        "commentatorTierSimilarities": [
+            30.83,
+            38.22,
+            30.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (justification of the last words) the sun arose... and the beauty of its appearance perished.\" ",
+            "Thus also shall the rich man wither in his ways.",
+            "The arid scorching which accompanies the increasing power of the sun."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'burning heat' of the sun is not at its rising, but rather at noon; whereas the scorching Kadim wind is often at sunrise.\" ",
+            "The grace of the fashion, that is of the external appearance.\" ",
+            "Referring to the burdensome extent of the rich man's devices."
+        ],
+        "Albert Barnes": [
+            "That man himself is blasted and withered, and then that all the external splendor which encircled him falls to the ground, like a flower whose support is gone.",
+            "Its beauty disappears.",
+            "The rich man, with all by which he is known, shall vanish."
+        ],
+        "Marvin Vincent": [
+            "For the sun arose - and withered.",
+            "The article denotes something familiar; and the reference may be to the scorching east - wind, which withers vegetation.",
+            "His goings to and fro in acquiring riches."
+        ],
+        "John Calvin": [
+            "I agree with Erasmus, and read the last word, \u03c0\u03bf\u03c1\u1f77\u03b1\u03b9\u03c2, without the diphthong 'in his riches,' or, with his riches.\" (104)",
+            "The received text is regarded as the best reading; the other is found in very few copies.\" (104)"
+        ],
+        "Philip Schaff": [
+            "For the sun is no sooner risen...for the sun arose with its heat.\" ",
+            "But it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: 'it converted the rich and luxuriant field into an arid waste.",
+            "He who trusts in earthly riches shall fade away like the flower of the field."
+        ],
+        "Archibald T. Robertson": [
+            "Grass and flowers are often used to picture the transitoriness of human life.",
+            "The flower is pictured as having a 'face,' like a rose or lily.",
+            "The rich man's travels will come to 'journey's end.'"
+        ],
+        "John Gill": [
+            "This shows, that earthly riches, like the flower of the field, have an outward show and glory in them, which attract the mind, and fix an attention to them for a while; they are gay and glittering, and look lovely, are pleasant to behold, and desirable to enjoy; but when the sun of persecution, or any other outward calamity arises, they are quickly destroyed, and are no more.",
+            "Riches are uncertain things now, they often make themselves wings and flee away; they are things that are not, that are not solid and substantial they are a vain show.",
+            "If not, when he fades away, and dies amidst all his riches, his glory does not descend after him, but falls off from him, as the flower of the field before the heat of the sun."
+        ],
+        "John Wesley": [
+            "There is an unspeakable beauty and elegance [...] intimating both the certainty and the suddenness of the event.",
+            "So shall the rich fade away in his ways \u2014 In the midst of his various pleasures and employments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sun arose and withered the beauty of its appearance, just as the rich man withers in his ways. This withering is like the burning heat of the sun at noon, or the scorching Kadim wind at sunrise. The external splendor of the rich man, like a flower whose support is gone, quickly falls to the ground. Grass and flowers symbolize the transitoriness of human life, where the flower's face, like a rose or lily, fades away. The rich man's journeys to acquire riches will come to an end when he fades away amidst all his wealth and glory.",
+            "wordCount": 101,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.200862761720657,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                31.59,
+                39.74,
+                28.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rising sun withers the beauty of its appearance, just as the rich man's ways lead to his own withering. This withering can be compared to the scorching Kadim wind at sunrise. The external splendor, like a flower, quickly falls to the ground. Grass and flowers symbolize the transitoriness of human life, where the flower's face fades away. The rich man's journeys to acquire wealth will come to an end when he fades away amidst his riches and glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.106069261540361,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                32.69,
+                39.63,
+                27.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sun arose and withered the beauty of its appearance, just as the rich man withers in his ways. Grass and flowers are often used to illustrate the transitoriness of human life, where the flower is pictured as having a 'face', like a rose or lily. The rich man's travels and his burden in acquiring riches will come to 'journey's end', and he himself will fade away amidst all his riches and glory.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2140327068108516,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.96,
+            "commentatorTierSimilarities": [
+                33.08,
+                36.15,
+                30.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rising sun, like the scorching Kadim wind at sunrise, withers the external splendor of the rich man, just as grass and flowers symbolize the transitoriness of human life. The flower, like a rose or lily, quickly fades away, illustrating the certainty and suddenness of the rich man's fading away amidst his wealth and journeys in acquiring riches. The beauty and elegance of his ways will ultimately come to an end and his glory will fall off, leaving him with nothing.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.198367732109079,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.44,
+            "commentatorTierSimilarities": [
+                27.52,
+                37.33,
+                35.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sun arose and withered the beauty of its appearance, just as the rich man withers in his ways. Grass and flowers symbolize the transitoriness of human life, where the flower's face fades away. The rich man's journeys to acquire riches will come to an end when he fades away amidst all his riches and glory.",
+            "wordCount": 58,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.295225988788773,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.66,
+            "commentatorTierSimilarities": [
+                30.83,
+                38.22,
+                30.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

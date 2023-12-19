@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:35:54",
+    "verseRef": "James 3:8",
+    "bestBHT": {
+        "bht": "The tongue is an unruly mischief, full of death-bringing poison, that no one can tame. Bursting forth to assail and ruin others, it is restless and incapable of restraint. Like the venomous tongue of a serpent, it is evil when set on fire by hell. Only with the help of the Holy Spirit and the grace of God can one begin to govern and lay an embargo on the tongue, for no man can do so by his own power alone.",
+        "wordCount": 82,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.043551344059593,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+        "commentatorTierSimilarities": [
+            33.37,
+            23.45,
+            43.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The tongue no one of men can tame...it is a restless mischief, [it is] full of death-bringing poison.",
+            " ",
+            "The assertion is absolute, not to be weakened by 'without great labour,' as some have done.",
+            "Adders' poison is under their lips...it is full of death-bringing poison."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "no one of men\": neither can a man control his neighbor's, nor even his own tongue.",
+            "it is at once restless and incapable of restraint",
+            "burst from its barriers to assail and ruin men"
+        ],
+        "Albert Barnes": [
+            "",
+            " ",
+            "return to 'Top of Page'",
+            ""
+        ],
+        "Marvin Vincent": [
+            "No man [\u03bf\u03c5\u03b4\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd]. A strong expression. Lit., no one of men.",
+            "Unruly [\u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c7\u03b5\u03c4\u03bf\u03bd]. Lit., not to be held back. The proper reading, however, is ajkatastaton, unsettled.",
+            "Deadly [\u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03bf\u03c1\u03bf\u03c5]. Lit., death-bearing, or bringing. Only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "But, expressive of contrast, the tongue, generally considered whether our own tongue or the tongue of others can no man tame or subdue. The tongue is more unconquerable than the wildest animal.",
+            "It is an unruly evil incapable of being curbed, full of disturbance. The best manuscripts read, 'it is a restless evil' incapable of being quieted.",
+            "Full of deadly poison: the reference being to the poison of serpents which was supposed to be connected with their tongues."
+        ],
+        "Archibald T. Robertson": [
+            "No one (\u03bf\u03c5\u03b4\u03b5\u03b9\u03c2). Especially his own tongue and by himself, but one has the help of the Holy Spirit.",
+            "The tongue is evil when set on fire by hell, not evil necessarily.",
+            "Like the restless death-bringing tongue of the asp before it strikes."
+        ],
+        "John Gill": [
+            "no man can, by his own power and strength, tame or subdue his tongue, or restrain it from evils it is habituated to",
+            "the tongue is worse than anything to be found in the whole compass of nature",
+            "nothing but the grace of God can in any measure govern it, or lay an embargo on it"
+        ],
+        "John Wesley": [
+            "But no man can tame the tongue \u2014 Of another; no, nor his own, without peculiar help from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the untamable nature of the tongue, describing it as a restless mischief full of death-bringing poison. It emphasizes that no one can truly control the tongue, as it bursts forth to assail and ruin others. The tongue is portrayed as unruly and unsettled, incapable of being held back or restrained. It is compared to the death-bringing tongue of a serpent, ready to strike. It is an evil that, when set ablaze by the forces of hell, becomes particularly dangerous. Ultimately, no person, not even oneself, can tame the tongue without the assistance of the Holy Spirit and the grace of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9219052814974407,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.24,
+            "commentatorTierSimilarities": [
+                32.42,
+                24.61,
+                42.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tongue is an unruly mischief, full of death-bringing poison, that no one can tame. Bursting forth to assail and ruin others, it is restless and incapable of restraint. Like the venomous tongue of a serpent, it is evil when set on fire by hell. Only with the help of the Holy Spirit and the grace of God can one begin to govern and lay an embargo on the tongue, for no man can do so by his own power alone.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.043551344059593,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                33.37,
+                23.45,
+                43.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tongue, described as a restless mischief full of death-bringing poison, cannot be tamed by any man. It bursts forth to assail and ruin others, unable to be restrained. Like the venomous tongue of a serpent, it is evil when ignited by hell. Only with help from the Holy Spirit and the grace of God can one begin to govern and control the tongue. Self-restraint is insufficient; it is only through divine assistance that the tongue can be brought under control.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9694465581069562,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                32.39,
+                23.39,
+                44.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tongue, an untamable and restless mischief, is filled with death-bringing poison. No one can control their own tongue, nor can they control the tongue of others. It bursts forth to attack and destroy, like the poisonous tongue of an asp. Only with the aid of the Holy Spirit can one hope to govern the tongue. No amount of human effort can completely subdue its unruly nature. It is only through the grace of God that the tongue can be brought under control.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.9152734813443781,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                32.29,
+                21.75,
+                45.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tongue is uncontrollable, a restless mischief full of death-bringing poison. No one, neither oneself nor another, can truly tame it. Bursting forth from its barriers, it seeks to assail and ruin others. It is unruly, incapable of being held back, and like the venomous tongue of an asp, it brings death. Human power alone is insufficient to govern the tongue; it requires the help of the Holy Spirit and the grace of God to bring it under control.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.8778839864611778,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+            "commentatorTierSimilarities": [
+                33.49,
+                21.77,
+                44.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

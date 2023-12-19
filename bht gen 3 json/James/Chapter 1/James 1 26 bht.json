@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:44",
+    "verseRef": "James 1:26",
+    "bestBHT": {
+        "bht": "If any man imagines that he is religious, not bridling his tongue, but deceiving his heart, of this man the religious service is vain. True religion consists not so much in outward observances as in acts of mercy and humble piety. The tongue and actions should reflect genuine religious devotion, for a man can scarcely seem to be religious when his religious pretensions are belied and refuted by his unbridled tongue. Let us not be deceived, but strive to control our speech and truly live out the principles of our faith.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.4465318409849264,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+        "commentatorTierSimilarities": [
+            33.64,
+            37.11,
+            29.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any man imagines that he is religious, not bridling his tongue, but deceiving his heart, of this man the religious service is vain.\" ",
+            "Thinks that he is religious, marking the external manifestation of a religious mind, not bridling his tongue, but deceiving his heart.\" ",
+            "The religious service is vain, idle and fruitless."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If any man think himself to be religious, that is, observant of the offices of religion, let him know these consist not so much in outward observances, as in such acts of mercy and humble piety as visiting the fatherless, and keeping one's self unspotted from the world.",
+            "Discretion in speech is better than fluency of speech.",
+            "It and the tongue act and react on one another."
+        ],
+        "Albert Barnes": [
+            "A man may undoubtedly have many things in his character which seem to be evidences of the existence of religion in his heart, and yet there may be some one thing that shall show that all those evidences are false.",
+            "Religion is designed to produce an effect on our whole conduct; and if there is any one thing in reference to which it does not bring us under its control, that one thing may show that all other appearances of piety are worthless.",
+            "A single unsubdued sinful propensity neutralizes all these things, and shows that there is no true religion."
+        ],
+        "Marvin Vincent": [
+            "A man can scarcely seem to be religious, when, as Trench observes, 'his religious pretensions are belied and refuted by the allowance of an unbridled tongue.'\" ",
+            "The adjective here refers to a zealous and diligent performance of religious services.",
+            "Lit., to guide with a bridle. So Plato, 'Laws,' 701: 'I think that the argument ought to be pulled up from time to time, and not to be allowed to run away, but held with bit and bridle.'"
+        ],
+        "John Calvin": [
+            "He now reproves even in those who boasted that they were doers of the law, a vice under which hypocrites commonly labor, that is, the wantonness of the tongue in detraction.",
+            "He who is neither an adulterer, nor a thief, nor a drunkard, but, on the contrary, seems brilliant with some outward shew of sanctity will set himself off by defaming others, and this under the pretense of zeal, but really through the lust of slandering.",
+            "If any one, he says, seems to be religious, that is, who has a show of sanctity, and the meantime flatters himself by speaking evil of others, it is hence evident that he does not truly serve God."
+        ],
+        "Philip Schaff": [
+            "If any man among you seem, that is, not seems to others, but thinketh himself, appears to himself to be religious. The words denote the false opinion which a man has of himself; the false estimate which he has formed of his religion.",
+            "It is not internal religion to which St. James alludes, but the manifestation of religion, the service of God or religious worship... To be religious, in the sense of our verse, is to be a diligent observer of the external forms of worship.",
+            "this man\u2019s religion, religious service or worship, is vain of no value in the sight of God."
+        ],
+        "Archibald T. Robertson": [
+            "The word \u03b8\u03c1\u03b7\u03c3\u03ba\u03bf\u03c2 is found nowhere else except in lexicons. Hatch (Essays in Biblical Greek, pp. 55-57) shows that it refers to the external observances of public worship, such as church attendance, almsgiving, prayer, fasting (Matthew 6:1-18). It is the Pharisaic element in Christian worship.",
+            "The picture is that of a man putting the bridle in his own mouth, not in that of another. See the similar metaphor of muzzling (\u03c6\u03b9\u03bc\u03bf\u03c9) one's mouth (Matthew 22:12 \u03b5\u03c6\u03b9\u03bc\u03c9\u03b8\u03b7).",
+            "Religion (\u03b8\u03c1\u03b7\u03c3\u03ba\u03b5\u03b9\u03b1). Later form of \u03b8\u03c1\u03b7\u03c3\u03ba\u03b9\u03b7 (Herodotus) from \u03b8\u03c1\u03b7\u03c3\u03ba\u03bf\u03c2 above. It means religious worship in its external observances, religious exercise or discipline, but not to the exclusion of reverence. In the N.T. we have it also in Acts 26:5 of Judaism and in Colossians 2:18 of worshipping angels. It is vain (\u03bc\u03b1\u03c4\u03b1\u03b9\u03bf\u03c2, feminine form same as masculine) or empty. Comes to nothing."
+        ],
+        "John Gill": [
+            "who, upon the account of these things, 'thinks himself to be a religious man'",
+            "gives his tongue a liberty of speaking anything, to the injury of others, and the dishonour of God, and his ways",
+            "all his preaching, praying, hearing, and attendance on the ordinances will be of no avail to him"
+        ],
+        "John Wesley": [
+            "If any one be ever so religious... he only deceiveth his own heart.",
+            "...bridleth not his tongue... he only deceiveth his own heart.",
+            "if he fancies he has any true religion at all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If any man thinks that he is religious, yet fails to control his tongue and deceives his own heart, then his religious service is in vain. True religion is not just about external observances or acts of worship, but also about acts of mercy and humble piety towards others. Discretion in speech is better than fluency of speech, for the tongue can reveal the true character of a person's religious pretensions. If a person claims to be religious, yet allows their unbridled tongue to speak harm to others, it shows that their religious service is empty and fruitless. True religion should guide and control our speech, just as a bridle guides and controls a horse. The external manifestations of religion, such as church attendance and prayer, should not be divorced from true reverence and devotion to God. Therefore, let us be careful in our speech and not deceive ourselves into thinking that we are truly religious if we fail to bridle our tongues and speak ill of others.",
+            "wordCount": 169,
+            "quoteTokenProportion": 42.27,
+            "qualityScore": 2.327113612280594,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.72,
+            "commentatorTierSimilarities": [
+                33.94,
+                37.98,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If any man imagines that he is religious, not bridling his tongue, but deceiving his heart, of this man the religious service is vain. True religion consists not so much in outward observances as in acts of mercy and humble piety. The tongue and actions should reflect genuine religious devotion, for a man can scarcely seem to be religious when his religious pretensions are belied and refuted by his unbridled tongue. Let us not be deceived, but strive to control our speech and truly live out the principles of our faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.4465318409849264,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.69,
+            "commentatorTierSimilarities": [
+                33.64,
+                37.11,
+                29.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If any man thinks he is religious but fails to control his tongue, his religious service is in vain. True religion is not merely about external observances, but about acts of mercy and humble piety. Discretion in speech is better than fluency of speech, for our words can reveal the authenticity of our religious devotion. Let us not deceive ourselves by allowing our tongues to harm others, for true religion should guide and control our speech, reflecting reverence and devotion to God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.4182914056249283,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.75,
+            "commentatorTierSimilarities": [
+                33.1,
+                39.17,
+                27.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If any man thinks he is religious, yet fails to control his tongue and deceives his heart, then his religious service is in vain. True religion is not just about external observances but about acts of mercy and humble piety. Our words have power to reflect our true character and devotion to God. Let us not deceive ourselves with empty religious services if we fail to bridle our tongues and speak ill of others. True religion should guide and control our speech, reflecting true reverence and devotion to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3124256892223016,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.23,
+            "commentatorTierSimilarities": [
+                31.32,
+                39.67,
+                29.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If any man thinks he is religious but does not control his tongue, his religious service is in vain. True religion is not just about outward observances, but also about acts of mercy and humble piety. The tongue and actions are intertwined, reflecting the authenticity of one's religious devotion. A person cannot claim to be religious while allowing their unbridled tongue to speak ill of others. Let us not deceive ourselves, but strive to bridle our tongues and live out the true principles of our faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.3629601840331107,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.91,
+            "commentatorTierSimilarities": [
+                33.68,
+                36.51,
+                29.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

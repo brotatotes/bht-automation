@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:42",
+    "verseRef": "James 1:6",
+    "bestBHT": {
+        "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt is a union of 'Yes' and 'No,' but leaning towards unbelief. It is the characteristic of hesitation that balances between faith and unbelief, like a restless wave of the sea, driven by the wind. To obtain favors from God, we should approach Him with unwavering faith, the persuasion that He can and will give according to His promises.",
+        "wordCount": 84,
+        "quoteTokenProportion": 49.09,
+        "qualityScore": 2.5382143811197775,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.74,
+        "commentatorTierSimilarities": [
+            32.72,
+            35.87,
+            31.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about.",
+            "Doubt is not unbelief, but includes in it the essential character of unbelief: while faith says \u2018Yes,\u2019 and unbelief \u2018No,\u2019 doubt is the union of \u2018Yes\u2019 and \u2018No,\u2019 but so that \u2018No\u2019 is the weightier: it is that inward giving way which leans not to faith, but to unbelief.",
+            "Sometimes he is cast on the shore of faith and hope, sometimes he is rolled back into the deep of distrust: now he is borne up into the height of worldly pride, now he is mingled with the lowest sands of desperation and trouble."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "ask in faith\u2014that is, the persuasion that God can and will give.",
+            "wavering\u2014between belief and unbelief.",
+            "like a wave of the sea\u2014driven with the wind."
+        ],
+        "Albert Barnes": [
+            "We cannot hope to obtain any favor from God if there is not faith; and where, as in regard to the wisdom necessary to guide us, we are sure that it is in accordance with his will to grant it to us, we may come to him with the utmost confidence, the most entire assurance, that it will be granted.\" ",
+            "Nothing wavering - Doubting or hesitating as to nothing, or in no respect. In regard to the matter under consideration, there is to be no hesitancy, no doubting, no vacillation of the mind. We are to come to God with the utmost confidence and assurance.",
+            "The wave of the sea has no stability. It is at the mercy of every wind, and seems to be driven and tossed every way. So he that comes to God with unsettled convictions and hopes, is liable to be driven about by every new feeling that may spring up in the mind."
+        ],
+        "Marvin Vincent": [
+            "Doubting... expressing the hesitation which balances between faith and unbelief.\" ",
+            "A wave... a billow or surge, driven by the wind in lines, and tossed into waves.\" ",
+            "Tossed... Anyone who has watched the great ocean-swell throwing itself up into pointed waves, the tops of which are caught by the wind and fanned off into spray, will appreciate the vividness of the figure."
+        ],
+        "John Calvin": [
+            "Faith is that which relies on God\u2019s promises, and makes us sure of obtaining what we ask.\" ",
+            "He [God] would have us then to be so convinced of what God has once promised, as not to admit a doubt whether he shall be heard or not.\" ",
+            "This principle, then, we hold, that our prayers are not heard by the Lord, except when we have a confidence that we shall obtain."
+        ],
+        "Philip Schaff": [
+            "Let him ask in faith; that is, not believing that God will give us the precise thing that we ask, but believing that God hears prayer.\" ",
+            "Nothing wavering...means 'not doubting that God hears prayer.' The nature of this doubting...is an internal wavering which leans not to faith, but to unbelief.\" ",
+            "For he that wavereth, or doubteth, is like a wave of the sea...there is wanting rest and calmness. It is in stillness that God communicates His grace; unrest is adverse to His operations."
+        ],
+        "Archibald T. Robertson": [
+            "Faith here 'is the fundamental religious attitude,' belief in God's beneficent activity and personal reliance on him.",
+            "It is a vivid picture of internal doubt.",
+            "It is a picture of 'the restless swaying to and fro of the surface of the water, blown upon by shifting breezes,' the waverer with slight rufflement."
+        ],
+        "John Gill": [
+            "Let him ask in faith...in the faith of the promises he has made...whatever is asked...shall be given.\" ",
+            "Nothing wavering...nor at all questioning but what is proper, suitable, and convenient, will be given in God's own time and way.",
+            "For he that wavereth is like a wave of the sea driven with the wind and tossed...easily carried away with every wind of doctrine, temptation, and lust."
+        ],
+        "John Wesley": [
+            "But let him ask in faith \u2014 A firm confidence in God.",
+            "He that doubteth is like a wave of the sea \u2014 Yea, such are all who have not asked and obtained wisdom.",
+            "Driven with the wind \u2014 From without. And tossed \u2014 From within, by his own unstableness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt is not unbelief, but includes in it the essential character of unbelief. It is a vivid picture of internal doubt, the restless swaying to and fro of the surface of the water, blown upon by shifting breezes. We cannot hope to obtain any favor from God if there is not faith; and where, as in regard to the wisdom necessary to guide us, we are sure that it is in accordance with his will to grant it to us, we may come to him with the utmost confidence, the most entire assurance, that it will be granted. Faith here is the fundamental religious attitude, belief in God's beneficent activity and personal reliance on him.",
+            "wordCount": 141,
+            "quoteTokenProportion": 40.45,
+            "qualityScore": 2.417079385948939,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.71,
+            "commentatorTierSimilarities": [
+                30.59,
+                39.49,
+                29.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt is the union of 'Yes' and 'No,' leaning towards unbelief. It is the inward giving way that balances between faith and unbelief. The doubter is like a wave of the sea, constantly swaying and tossed by the shifting winds. To obtain favor from God, we must approach Him with unwavering faith, confident that He hears and grants our prayers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.4296151905629646,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.12,
+            "commentatorTierSimilarities": [
+                32.82,
+                36.48,
+                30.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt, a union of 'Yes' and 'No,' leans towards unbelief. The doubter is a wave of the sea, swayed by shifting winds, lacking stability and rest. To obtain favor from God, we must approach Him with unwavering faith, confident that He hears and grants our prayers. Faith is the fundamental religious attitude, a belief in God's beneficent activity and personal reliance on Him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.40380690589331,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.27,
+            "commentatorTierSimilarities": [
+                31.35,
+                38.03,
+                30.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt combines Yes and No, leaning towards unbelief and wavering between belief and unbelief. It is a vivid picture of internal doubt, the restless swaying to and fro of the surface of the water, blown upon by shifting breezes. To obtain favor from God, we must approach Him with unwavering faith, confident that He hears and answers our prayers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.2147775591537817,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.98,
+            "commentatorTierSimilarities": [
+                33.25,
+                37.61,
+                29.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let him ask in faith, nothing doubting: for he that doubteth is like a wave of the sea driven by the wind and tossed about. Doubt is a union of 'Yes' and 'No,' but leaning towards unbelief. It is the characteristic of hesitation that balances between faith and unbelief, like a restless wave of the sea, driven by the wind. To obtain favors from God, we should approach Him with unwavering faith, the persuasion that He can and will give according to His promises.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.5382143811197775,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.74,
+            "commentatorTierSimilarities": [
+                32.72,
+                35.87,
+                31.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

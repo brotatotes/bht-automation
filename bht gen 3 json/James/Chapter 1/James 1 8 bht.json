@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:38",
+    "verseRef": "James 1:8",
+    "bestBHT": {
+        "bht": "A double-minded man, one with two souls, is fickle and unsure in every aspect of life. This unusual term, found only in James, does not refer to hypocrisy but to someone who is wavering and indecisive. Such an individual is torn between God and the world, constantly changing their mind and lacking stability. Their thoughts are confused, their intentions unsettled, and their actions inconsistent. This dubiousness permeates their entire being, rendering them unreliable and unstable in all their ways.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.9955843168423422,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+        "commentatorTierSimilarities": [
+            28.47,
+            36.32,
+            35.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is a man with two minds, unstable in all his ways.",
+            "The common way, to take 'a double-minded man' as a new subject, has this against it, that it makes the very unusual word 'doubled-souled,' found here and in ch. iv. 8 for the first time in Greek literature, to be a mere usual epithet and word of passage.",
+            "Such is the best way of taking this sentence, making it all predicate and all to apply to that man as its subject."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A man double-minded, unstable in all his ways!\" ",
+            "The word for 'double-minded' is found here and in James 1:7- :, for the first time in Greek literature.",
+            "It is not a hypocrite that is meant, but a fickle, 'wavering' man, as the context shows."
+        ],
+        "Albert Barnes": [
+            "A double minded man... means, properly, one who has two souls; then one who is wavering or inconstant.",
+            "The hesitancy which manifested on that one subject would extend to all; and we might expect to find such a man irresolute and undetermined in all things.",
+            "If we find a man who takes hold of the promises of God with firmness... we shall find one who is firm in his principles, steady in his integrity, settled in his determinations, and steadfast in his plans of life - a man whose character we shall feel that we understand, and in whom we can confide."
+        ],
+        "Marvin Vincent": [
+            "Let not that man think, etc., 'a doubleminded man, unstable in all his ways.'",
+            "Double - minded [\u03b4\u03b9\u03c8\u03c5\u03c7\u03bf\u03c2]. Peculiar to James, here and ch. 4 8. Not deceitful, but dubious and undecided.",
+            "Unstable [\u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c4\u03bf\u03c2]. Only here in New Testament. The kindred ajkatastasia, confusion, is found ch. 3 16, and elsewhere."
+        ],
+        "John Calvin": [
+            "He then says that the unbelieving, who have tortuous recesses, are unstable; because they are never firm or fixed, but at one time they swell with the confidence of the flesh, at another they sink into the depth of despair.",
+            "The double-minded man...means here no doubt the man who hesitates between faith and unbelief, because faith is the subject of the passage.",
+            "When [double-minded] is used again, in James 4:8, it means a hesitation between God and the world."
+        ],
+        "Philip Schaff": [
+            "He,' that is, the doubter, 'is a double-minded man, unstable in all his ways.",
+            "Double-mindedness is here used not in the sense of duplicity, but of dubiousness and indecision a man whose affections are divided between God and the world.",
+            "The man is actuated sometimes by one impulse, and sometimes by another; and thus will be perpetually running into inconsistencies of conduct."
+        ],
+        "Archibald T. Robertson": [
+            "Double-minded, double-souled, double-minded, Bunyan's 'Mr. Facing-both-ways.'\" (33 words)",
+            "From \u03b4\u03b9\u03c2 twice and \u03c8\u03c5\u03c7\u03b7 soul, double-souled, double-minded.\" (13 words)",
+            "Surely to James such 'doubt' is no mark of intellectuality.\" (12 words)"
+        ],
+        "John Gill": [
+            "A man of two souls, or of a double heart, that speaks and asks with an heart, and an heart... halts between two opinions, and is at an uncertainty what to do or say...",
+            "Such an one is unstable in all his ways; he is confused in his mind; restless in his thoughts, unsettled in his designs and intentions...",
+            "He never continues long either in an opinion, or in a practice, but is ever shifting and moving."
+        ],
+        "John Wesley": [
+            "A doubleminded man \u2014 Who has, as it were, two souls; whose heart is not simply given up to God.",
+            "Is unstable \u2014 Being without the true wisdom; perpetually disagrees both with himself and others.",
+            "James 3:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A double-minded man is someone with two souls, wavering and unsure in all aspects of life. This term, unique to James, does not refer to deceit but rather to a fickle and indecisive person. This individual is not firm in their beliefs and is constantly changing their mind, unsure of whether to put their faith in God or in the world. Their thoughts are confused, their intentions unsettled, and their actions inconsistent. This lack of stability permeates their entire being, rendering them unreliable in their ways.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9243217090687752,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                27.27,
+                36.05,
+                36.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A double-minded man, one with two souls, is fickle and unsure in every aspect of life. This unusual term, found only in James, does not refer to hypocrisy but to someone who is wavering and indecisive. Such an individual is torn between God and the world, constantly changing their mind and lacking stability. Their thoughts are confused, their intentions unsettled, and their actions inconsistent. This dubiousness permeates their entire being, rendering them unreliable and unstable in all their ways.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9955843168423422,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.69,
+            "commentatorTierSimilarities": [
+                28.47,
+                36.32,
+                35.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A double-minded man, characterized by having two souls, is not only fickle and wavering, but also unstable in all aspects of life. This particular word, used exclusively by James, does not imply hypocrisy, but rather doubt and indecision. Such an individual vacillates between God and the world, resulting in confusion of thoughts, unsettled intentions, and inconsistent actions. Ultimately, their lack of firmness impacts their reliability and stability, causing them to waver in all their ways.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9498064746207424,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.17,
+            "commentatorTierSimilarities": [
+                27.76,
+                38.21,
+                34.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A double-minded man, described as having two souls, is someone who is indecisive and unstable in all aspects of life. This term, unique to James, does not connote hypocrisy but rather hesitancy and uncertainty. Such an individual vacillates between faith in God and worldly pursuits, leading to confusion of thoughts, unsettled intentions, and inconsistent actions. Their lack of steadfastness affects their reliability and stability, causing them to waver in all their ways.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9674110155083806,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.76,
+            "commentatorTierSimilarities": [
+                27.71,
+                38.29,
+                34.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A double-minded man, one with two souls, is fickle and wavering in all aspects of life. This individual lacks stability and is uncertain in their beliefs, torn between God and the world. Their thoughts are confused, their intentions unsettled, and their actions inconsistent. As James points out, the character of such a person is marked by doubt, indecision, and a lack of steadfastness. Ultimately, this double-mindedness renders them unstable and unreliable in all their ways.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9767284046820057,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.07,
+            "commentatorTierSimilarities": [
+                26.78,
+                38.74,
+                34.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

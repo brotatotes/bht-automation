@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:38",
+    "verseRef": "James 2:10",
+    "bestBHT": {
+        "bht": "Breaking one part of the law makes us guilty of the entire law. God does not accept reservations or selective obedience. We must not choose parts of the law to keep based on our whims while neglecting others. Perfect obedience, not partial, is what God requires. We are all transgressors of the law and deserving of its penalty.",
+        "wordCount": 58,
+        "quoteTokenProportion": 51.16,
+        "qualityScore": 2.1409070717684218,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+        "commentatorTierSimilarities": [
+            30.18,
+            34.77,
+            35.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whosoever shall have kept the whole law, but shall have offended (literally, stumbled) in (the matter of: as in ch. iii. 2: see there) one thing has become guilty of (brought into the condemning power of, involved in) all (things mentioned as objects of prohibition\u2014for such is the reference here, see below\u2014in the law).\" ",
+            "The fact of transgression of this law is proved by its solidarity, not admitting of being broken in one point, and yet kept in the whole.",
+            "God will not be served with reservations, so that we might except from this law what happens not to please us."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The law is one seamless garment which is rent if you but rend a part; or a musical harmony which is spoiled if there be one discordant note.",
+            "You thus break the whole law, though not the whole of the law, because you offend against love, which is the fulfilling of the law.",
+            "God requires perfect, not partial, obedience. We are not to choose out parts of the law to keep, which suit our whim, while we neglect others."
+        ],
+        "Albert Barnes": [
+            "if he had failed in any one particular - in showing respect to persons, or in anything else - he could not but be held to be a transgressor.",
+            "he is guilty of violating the law of God as such; he shows that be has not the true spirit of obedience; he has exposed himself to the penalty of the law, and made it impossible now to be saved by it.",
+            "One portion of the law is as much binding as another, and if a man violates any one plain commandment, he sets at nought the authority of God."
+        ],
+        "Marvin Vincent": [
+            "He is guilty [\u03b3\u03b5\u03b3\u03bf\u03bd\u03b5\u03bd \u03b5\u03bd\u03bf\u03c7\u03bf\u03c2] . Lit., he is become guilty. Enocov, guilty, is, strictly, holden; within the condemning power of.\" ",
+            "Huther cites a Talmudic parallel : 'But if he perform all, but omit one, he is guilty of every single one.'",
+            "Offend [\u03c0\u03c4\u03b1\u03b9\u03c3\u03b7] . Lit., as Rev., stumble."
+        ],
+        "John Calvin": [
+            "He denies that our neighbors are loved when a part only of them is through ambition chosen, and the rest neglected.",
+            "Let there be, therefore, a uniformity, if we desire rightly to obey God.",
+            "Foolish, then, are the schoolmen, who deem partial righteousness, as they call it, to be meritorious; for this passage and many others, clearly shew that there is no righteousness except in a perfect obedience to the law."
+        ],
+        "Philip Schaff": [
+            "although respect of persons may appear to be the violation only of a single precept, yet it is a transgression of the whole law.",
+            "whosoever breaks one commandment opposes himself to the will of God.",
+            "God will not be honoured with exceptions, nor will He allow us to cut off from His law what is less pleasing to us."
+        ],
+        "Archibald T. Robertson": [
+            "It is incipient falling\" (Hort).",
+            "To be a lawbreaker one does not have to violate all the laws, but he must keep all the law to be a law-abiding citizen, even laws that one does not like.",
+            "There is Talmudic parallel: 'If a man do all, but omit one, he is guilty for all and each.'"
+        ],
+        "John Gill": [
+            "Nor can any of his posterity now keep it perfectly: they are all transgressors of it, and liable to its penalty.",
+            "The several parts of the law may be indeed kept by a believer, and that sincerely, but not to a perfect degree, for in many things they all offend.",
+            "He that transgresses in anyone point of the law, breaks the whole, commits sin, and is deserving of death, and is treated by the law as a transgressor of it, let it be in what instance it will."
+        ],
+        "John Wesley": [
+            "Whosoever keepeth the whole law, except in one point, he is guilty of all - Is as liable to condemnation as if he had offended in every point."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we stumble in even one aspect of the law, we are found guilty of breaking the entire law. The law is not a pick-and-choose selection of commandments that we can selectively obey to suit our preferences. Just as a garment is torn if even a small part is ripped, or a musical harmony is disrupted with one discordant note, so too does breaking one part of the law render us lawbreakers in the eyes of God. We must strive for perfect obedience, not partial obedience, and not exempt ourselves from certain commandments that we may find inconvenient or displeasing.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.3147086441774327,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.3,
+            "commentatorTierSimilarities": [
+                30.31,
+                36.45,
+                33.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we stumble in one thing, we are guilty of breaking the entire law. The law is a seamless garment that is ripped apart by even a small tear, or a musical harmony that is spoiled by one discordant note. Thus, breaking even one part of the law makes us lawbreakers. We cannot choose which commandments to follow and which to neglect based on our own preferences. God requires perfect obedience, not partial obedience.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.061022622344698,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                32.44,
+                34.51,
+                33.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we stumble in one thing, we become guilty of the entire law. The law is one seamless garment, torn if we rend just a part. God does not accept reservations or selective obedience. We cannot choose which commandments to keep and which to disregard. Perfect, not partial, obedience is required. Breaking one point of the law makes us a lawbreaker, deserving of its penalties. We must strive for a uniformity of obedience if we truly desire to honor God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.051221510735349,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                30.29,
+                35.92,
+                33.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Breaking one aspect of the law renders us guilty of violating the entire law. Just as a torn garment or a disrupted musical harmony ruins the whole, choosing to selectively obey certain commandments while disregarding others is unacceptable to God. He requires wholehearted obedience, without reservations. We must not deceive ourselves by thinking that partial obedience is enough, for perfect obedience is the only righteousness in God's eyes. All of us, in our imperfection, are transgressors of the law, deserving its penalty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.22012230159214,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.16,
+            "commentatorTierSimilarities": [
+                29.07,
+                37.08,
+                33.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Breaking one part of the law makes us guilty of the entire law. God does not accept reservations or selective obedience. We must not choose parts of the law to keep based on our whims while neglecting others. Perfect obedience, not partial, is what God requires. We are all transgressors of the law and deserving of its penalty.",
+            "wordCount": 58,
+            "quoteTokenProportion": 51.16,
+            "qualityScore": 2.1409070717684218,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                30.18,
+                34.77,
+                35.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:35:58",
+    "verseRef": "James 3:7",
+    "bestBHT": {
+        "bht": "Man, through gentle firmness and his nature, has the ability to tame every kind of beast. Despite man's small inherent power, he has subdued the beasts by his superior understanding. Skill and perseverance can render any animal tame and obedient to man's will. Just as man has dominion over the beasts, it is crucial to restrain our tongues, for they possess the potential to inflict great harm. Tongues are likened to a hidden fire of hell that must be controlled in order to live a righteous life.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.9898337715447105,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+        "commentatorTierSimilarities": [
+            35.08,
+            39.81,
+            25.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "every nature\" (that is, natural disposition and characteristic power).",
+            "quadrupeds of every disposition; as distinguished from the three other classes of creation, 'birds, creeping things...and things in the sea.'",
+            "man, by gentle firmness, may tame the inferior animal, and even elevate its nature."
+        ],
+        "Albert Barnes": [
+            "Small is the power which nature has given to man; but, by various acts of his superior understanding, he has subdued the tribes of the sea, the earth, and the air.",
+            "A portion of the leathered race, as the hen, the goose, the duck, is thoroughly domesticated. The pigeon, the martin, the hawk, the eagle, may be; and perhaps there are none of that race which might not be made subject to the will of man.",
+            "It may be affirmed with confidence that there is no animal which might not, by proper skill and perseverance, be rendered tame, or made obedient to the will of man."
+        ],
+        "Marvin Vincent": [
+            "Kind [\u03c6\u03c5\u03c3\u03b9\u03c2] . Wrong. Jas. is not speaking of the relation between individual men and individual beasts, but of the relation between the nature of man and that of beasts, which may be different in different beasts.\" ",
+            "Beasts [\u03b8\u03b7\u03c1\u03b9\u03c9\u03bd] . Quadrupeds. Not beasts generally, nor wild beasts only.",
+            "Every nature of beasts is tamed by the nature of man."
+        ],
+        "John Calvin": [
+            "For he says that there is no animal so savage or fierce, which is not tamed by the skill of man, \u2014 that fishes, which in a manner inhabit another world, \u2014 that birds, which are so quick and roving \u2014 and that serpents, which are so inimical to mankind, are sometimes tamed.\" ",
+            "Since then the tongue cannot be restrained, there must be some secret fire of hell hidden in it.",
+            "Though all these things most suitably refer in the first place to the subject of this passage \u2014 that they claim an unreasonable command over others, who labor under a worse vice; yet a universal doctrine may be understood as taught here, \u2014 that if we desire to form our life aright, we must especially strive to restrain the tongue, for no part of man does more harm."
+        ],
+        "Philip Schaff": [
+            "For every kind: literally, every nature or disposition.",
+            "is tamed better, 'is subdued,' as we can hardly say that all the inferior animals are tamed, many of them being incapable of being so; but they may all be subdued.",
+            "of mankind: literally, 'by the nature of men,' answering to the nature of the inferior animals mentioned above; hence 'by human nature.'"
+        ],
+        "Archibald T. Robertson": [
+            "Kind (\u03c6\u03c5\u03c3\u03b9\u03c2). Old word from \u03c6\u03c5\u03c9, order of nature (Romans 1:26), here of all animals and man, in 2 Peter 1:4 of God and redeemed men.",
+            "Of beasts (\u03b8\u03b7\u03c1\u03b9\u03c9\u03bd). Old word diminutive from \u03b8\u03b7\u03c1 and so 'little beasts' originally, then wild animals in general (Mark 1:13), or quadrupeds as here.",
+            "Is tamed (\u03b4\u03b1\u03bc\u03b1\u03b6\u03b5\u03c4\u03b1). Present passive indicative of \u03b4\u03b1\u03bc\u03b1\u03b6\u03c9, old verb kin to Latin dominus and English tame, in N.T. only in this passage and Mark 5:4. The present tense gives the general picture of the continuous process through the ages of man's lordship over the animals as stated in Genesis 1:28."
+        ],
+        "John Gill": [
+            "For every kind of beasts, and of birds.... is tamed, and hath been tamed of mankind.\" ",
+            "by the wit and industry of man; by the various ways, means, and methods devised by man.",
+            "elephants, lions and tigers among beasts, and the eagle among birds, and crocodiles, asps, and other serpents, and fishes of the sea, have been tamed."
+        ],
+        "John Wesley": [
+            "Every kind \u2014 The expression perhaps is not to be taken strictly.",
+            "Reptiles \u2014 That is, creeping things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By gentle firmness, man can tame the disposition and characteristic power of every kind of beast, distinguishing them from birds, creeping things, and sea creatures. Though man possesses a small natural power compared to these beasts, he has subdued them through his superior understanding. By skill and perseverance, all animals can be rendered tame and obedient to the will of man. Therefore, just as man has dominion over the beasts, it is essential for us to restrain our tongues, for it is like a fire of hell hidden within us. This universal doctrine teaches us that if we desire to live rightly, we must strive to control our words, as they have the potential to cause great harm.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.35,
+            "qualityScore": 1.993479168318318,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                34.34,
+                39.57,
+                26.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man, through gentle firmness and his nature, has the ability to tame every kind of beast. Despite man's small inherent power, he has subdued the beasts by his superior understanding. Skill and perseverance can render any animal tame and obedient to man's will. Just as man has dominion over the beasts, it is crucial to restrain our tongues, for they possess the potential to inflict great harm. Tongues are likened to a hidden fire of hell that must be controlled in order to live a righteous life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9898337715447105,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                35.08,
+                39.81,
+                25.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through gentle firmness, man can tame the disposition and characteristic power of every kind of beast, distinguished from birds, creeping things, and sea creatures. Though man possesses small natural power, he has subdued beasts by his superior understanding. Skill and perseverance can render animals obedient to man's will. Therefore, it is essential for us to restrain our tongues, as they have the potential to cause great harm. This universal doctrine teaches us to control our words, for they can be like a hidden fire of hell within us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8002696052037361,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.2,
+            "commentatorTierSimilarities": [
+                34.49,
+                39.29,
+                26.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man, through gentle firmness, can tame the disposition and characteristic power of every kind of beast. Though man possesses small natural power, he has subdued beasts by superior understanding. Skill and perseverance render all animals obedient to man's will. Therefore, it is crucial to restrain our tongues, for they possess the potential to cause great harm. Tongues are likened to a hidden fire of hell that must be controlled to live a righteous life.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8231667187617289,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                34.55,
+                40.11,
+                25.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By gentle firmness, man can tame every kind of beast, distinguished from birds, creeping things, and sea creatures. Though man possesses small natural power, he has subdued beasts by his superior understanding. Skill and perseverance render all animals obedient to man's will. Therefore, it is crucial to restrain our tongues, for they possess the potential to cause great harm. Tongues are like a hidden fire of hell that must be controlled to live a righteous life.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8351092323686404,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                34.0,
+                38.7,
+                27.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

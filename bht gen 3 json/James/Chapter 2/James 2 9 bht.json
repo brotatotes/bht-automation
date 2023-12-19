@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:35:27",
+    "verseRef": "James 2:9",
+    "bestBHT": {
+        "bht": "If we show favoritism or discriminate against others, it is a sin because we are breaking God's command to love our neighbors without partiality. This sin encompasses the entire law, not just a single commandment. When we have respect of persons, we commit sin and are convicted as transgressors by the law. This is a serious offense, as the law reproves and convinces us of our error. The sin of partiality is condemned throughout Scripture, and we should strive to treat all people with love and equality.",
+        "wordCount": 88,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2240178427027724,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.29,
+        "commentatorTierSimilarities": [
+            27.12,
+            35.77,
+            37.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "if ye respect persons, it is sin that ye are working",
+            "being convicted by the law as transgressors",
+            "For God commands us to love our neighbours, not to respect persons."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Respect of persons violates the command to love all alike 'as thyself.'\" (Commentary)",
+            "Your works are sin, whatever boast of the law ye make in words.\" (Commentary)",
+            "Not merely of this or that particular command, but of the whole absolutely.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "But if ye have respect to persons, ye commit sin - You transgress the plain law of God, and do wrong.\" ",
+            "A man who has done wrong, though he supposed he was doing what was proper, may be convinced of his error.",
+            "The argument here is not from the personal distress which this course would produce in their own minds, but from the fact that the law of God condemned it."
+        ],
+        "Marvin Vincent": [
+            "Ye have respect to persons. Only here in New Testament.",
+            "The phrase is rather stronger than the more common aJmartian poiein, to do sin.",
+            "The word, which is variously rendered in A. V. tell a fault, reprove, rebuke, convince, while it carries the idea of rebuke, implies also a rebuke which produces a conviction of the error or sin."
+        ],
+        "John Calvin": [
+            "Every one who, with a few exceptions, rejects all the rest, breaks the bond of God, and inverts also his order, and is, therefore, rightly called a transgressor of the law.",
+            "Those who had respect of persons were convinced, or reproved by the law.",
+            "The law is taken according to its proper meaning."
+        ],
+        "Philip Schaff": [
+            "But if ye have respect of persons, ye commit sin, ye violate this royal law...\" ",
+            "By the law here is not meant a single commandment, as the law against partiality or respect of persons, but the moral law...",
+            "...such a respect of persons is contrary and opposed to a disinterested and universal love to others."
+        ],
+        "Archibald T. Robertson": [
+            "But if ye have respect of persons...Ye commit sin...Being convicted...As transgressors.\" ",
+            "A serious charge, apparently, for what was regarded as a trifling fault.",
+            "See this very sin of partiality condemned in Leviticus 19:15; Deuteronomy 1:17; Deuteronomy 16:19."
+        ],
+        "John Gill": [
+            "But if ye have respect to persons, ye commit sin, This is not doing well, but is a transgression of the law."
+        ],
+        "John Wesley": [
+            "Being convicted \u2014 By that very law. Exodus 23:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we show favoritism or discriminate against others based on their status or appearance, we are committing a sin. The commandment from God is to love our neighbors without partiality. When we respect certain individuals more than others, we violate the command to love all equally. This sin goes beyond a specific commandment, encompassing the entirety of God's law. It is a serious offense, as the law convicts and rebukes us, bringing about a recognition of our wrongdoing. This sin of partiality is reproached throughout Scripture, highlighting its gravity. Therefore, let us refrain from having respect of persons and strive to treat all people with love and equality.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.0210168557738992,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.54,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.69,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we show favoritism or discriminate against others, it is a sin because we are breaking God's command to love our neighbors without partiality. This sin encompasses the entire law, not just a single commandment. When we have respect of persons, we commit sin and are convicted as transgressors by the law. This is a serious offense, as the law reproves and convinces us of our error. The sin of partiality is condemned throughout Scripture, and we should strive to treat all people with love and equality.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2240178427027724,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.29,
+            "commentatorTierSimilarities": [
+                27.12,
+                35.77,
+                37.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Showing favoritism and discriminating against others is a sin, as it disobeys God's command to love our neighbors without partiality. It is a violation of the law, convicting us as transgressors. This sin of respecting certain individuals over others goes beyond a single commandment, encompassing the entirety of God's law. The seriousness of this offense is evident as the law reproves and convinces us of our wrongdoing. The sin of partiality is condemned in various passages of Scripture, reminding us to treat all people with love and equality.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1050765205329376,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+            "commentatorTierSimilarities": [
+                27.86,
+                36.0,
+                36.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Respecting certain individuals while showing favoritism and discrimination is a sin, as it violates God's command to love our neighbors without partiality. This offense transgresses the entire law, not just a single commandment. The seriousness of this sin is apparent as the law reproves and convinces us of our wrongdoing. Throughout Scripture, the sin of partiality is condemned, emphasizing the need to treat all people with equal love and fairness. Let us refrain from having respect of persons and strive to uphold God's command to love all alike.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 2.199404872961288,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.47,
+            "commentatorTierSimilarities": [
+                29.75,
+                36.73,
+                33.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Showing favoritism and discrimination violates God's command to love our neighbors without partiality. This sin goes beyond a specific commandment, transgressing the entire law. The seriousness of this offense is evident as the law reproves and convicts us. The sin of partiality is condemned throughout Scripture, emphasizing the need to treat all people with equal love and fairness. Let us refrain from having respect of persons and strive to uphold God's command to love all alike.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.101627546963746,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                29.95,
+                35.63,
+                34.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:49",
+    "verseRef": "James 3:3",
+    "bestBHT": {
+        "bht": "The power of the tongue is akin to the authority of a bit in the mouth of a horse, turning its entire body. Just as horses are guided by bridles, the tongue serves as a means of governing man. It is a reminder of the great power that lies within our seemingly small and insignificant tongue, which has the ability to shape our lives and interactions.",
+        "wordCount": 66,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.539126612344849,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.77,
+        "commentatorTierSimilarities": [
+            29.62,
+            42.29,
+            28.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But if, in the mouths of horses we put bits... in order to their obeying us, we turn about also their whole body.\" ",
+            "This mention of bridling, and the situation of the tongue where the bridle also is placed, introduce this similitude.",
+            "Thus shewing, by the expression of this purpose, that we recognize the principle of turning the whole body by the tongue."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Now whensoever (in the case) of horses (such is the emphatic position of 'horses' in the Greek) we put the bits (so literally, 'the customary bits') into their mouths that they may obey us, we turn about also their whole body.",
+            "This is to illustrate how man turns about his whole body with the little tongue.",
+            "The same applies to the pen, which is the substitute for the tongue among the absent."
+        ],
+        "Albert Barnes": [
+            "He who has a proper control over his tongue can govern his whole body.\" ",
+            "As we control a horse by the bit - though the bit is a small thing - so the body is controlled by the tongue.",
+            "The meaning of this simple illustration is, that as we control a horse by the bit - though the bit is a small thing - so the body is controlled by the tongue."
+        ],
+        "Marvin Vincent": [
+            "Bridle is preferable because it corresponds with the verb to bridle (ver. 2) which is compounded with this noun.",
+            "The position in the sentence is emphatic.",
+            "Used by James only."
+        ],
+        "John Calvin": [
+            "A great part of true perfection is in the tongue, and that it exercises dominion, as he has just said, over the whole life.",
+            "Though a horse be a ferocious animal, yet he is turned about at the will of its rider, because he is bridled; no less can the tongue serve to govern man.",
+            "Though the tongue be a small member, yet it avails much in regulating the life of man."
+        ],
+        "Philip Schaff": [
+            "if a man is able to command his tongue, he is able also to command his whole conduct.",
+            "As the horses are governed by bits in their mouths, so axe we governed by the tongue in our mouths.",
+            "The chief point of comparison here is that of governing."
+        ],
+        "Archibald T. Robertson": [
+            "The horses' bridles...the first of the several illustrations of the power and the peril of the tongue.\" ",
+            "This is the only N.T. example of \u03c7\u03b1\u03bb\u03b9\u03bd\u03bf\u03c2, old word for bridle, except Revelation 14:20.\" ",
+            "The body of the horse follows his mouth, guided by the bridle."
+        ],
+        "John Gill": [
+            "Horses are without understanding, and need direction in what path to go, and are strong, and would be truly and ungovernable unless bits and bridles were put into their mouths.",
+            "And of such use is the tongue to the natural body, that being bridled itself, bridles, directs, and governs the whole body.",
+            "Its influence on bodies, and societies of men, and Christians, is like that of the bit in the horse's mouth; who, like horses, would be unruly and ungovernable, were it not for the force of language, the power of words, and strength of argument."
+        ],
+        "John Wesley": [
+            "We \u2014 That is, men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage speaks about the power of the tongue and its ability to control the whole body. Just as a small bit in the mouth of a horse allows us to turn its entire body, so does the tongue have the ability to direct and govern our actions. By emphasizing the importance of bridling the tongue, the author highlights the significant role that our words play in shaping our behavior and interactions with others. This illustration reminds us that the seemingly insignificant tongue holds great power and influence over our lives.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.226288616087068,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.36,
+            "commentatorTierSimilarities": [
+                28.13,
+                43.8,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as a bit in a horse's mouth turns its whole body, the tongue has the ability to direct and govern our actions. By emphasizing the importance of bridling the tongue, the author highlights the significant role that our words play in shaping our behavior and interactions with others. This illustration reminds us that the seemingly insignificant tongue holds great power and influence over our lives.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 2.190921357291697,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                28.14,
+                42.52,
+                29.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power of the tongue is akin to the authority of a bit in the mouth of a horse, turning its entire body. Just as horses are guided by bridles, the tongue serves as a means of governing man. Through this comparison, the author emphasizes the influence of the tongue on our conduct and highlights the significance of controlling our speech. It is a reminder of the great power that lies within our seemingly small and insignificant tongue, which has the ability to shape our lives and interactions.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.3995667382388097,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.13,
+            "commentatorTierSimilarities": [
+                29.31,
+                42.96,
+                27.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power of the tongue is akin to the authority of a bit in the mouth of a horse, turning its entire body. Just as horses are guided by bridles, the tongue serves as a means of governing man. It is a reminder of the great power that lies within our seemingly small and insignificant tongue, which has the ability to shape our lives and interactions.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.539126612344849,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.77,
+            "commentatorTierSimilarities": [
+                29.62,
+                42.29,
+                28.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tongue holds great power to shape our lives, just as a bit in a horse's mouth can turn its entire body. By highlighting the significance of bridling the tongue, the author emphasizes the governing role our words play in our behavior and interactions. It is a reminder that despite its small size, the tongue has the ability to exert profound influence over our lives, directing and guiding our actions and thoughts. This illustration calls us to mindful speech, recognizing the immense impact our words can have.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.0203707427821405,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+            "commentatorTierSimilarities": [
+                27.51,
+                42.66,
+                29.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

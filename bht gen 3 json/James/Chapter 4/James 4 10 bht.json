@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:36:26",
+    "verseRef": "James 4:10",
+    "bestBHT": {
+        "bht": "To be exalted by the Lord, one must have their mind deep-rooted in humility. By recognizing His presence in all aspects of life, humbling ourselves before Him, and acknowledging our meanness and sinfulness, we can seek His grace and mercy. Walking humbly with God, depending on His grace, and ascribing all we have and are unto it, enable us to be raised from brokenness to become forgiven children. God's usual way is to lift up the meek and exalt those who humble themselves.",
+        "wordCount": 85,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.1854603290449175,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+        "commentatorTierSimilarities": [
+            24.08,
+            37.43,
+            38.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be humbled before the Lord and He shall exalt you.",
+            "By His grace and counsel here to the hidden glory of His waiting children.",
+            "By His fruition and presence hereafter to the ineffable glory of His manifested children."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The tree, to grow upwards, must strike its roots deep downwards; so man, to be exalted, must have his mind deep-rooted in humility.",
+            "Recognizing His presence in all your ways, the truest incentive to humility.",
+            "In part in this world, fully in the world to come."
+        ],
+        "Albert Barnes": [
+            "Humble yourselves in the sight of the Lord...be willing to take your appropriate place in the dust on account of your transgressions...be humble before him with penitent confession.\" ",
+            "He will exalt you from the condition of a broken-hearted penitent to that of a forgiven child; will wipe away your tears, remove the sadness of your heart, fill you with joy, and clothe you with the garments of salvation.",
+            "God is willing to show mercy to the humble and contrite, and to receive those who are truly penitent into his favor."
+        ],
+        "John Calvin": [
+            "The conclusion of what is gone before is, that the grace of God then be ready to raise us up when he sees that our proud spirits are laid aside.",
+            "Whosoever, then, seeks a firm elevation, let him be cast down under a sense of his own infirmity, and think humbly of himself.",
+            "As a tree must strike deep roots downwards, that it may grow upwards, so every one who has not his soul fixed deep in humility, exalts himself to his own ruin."
+        ],
+        "Philip Schaff": [
+            "Humble yourselves. All the above exhortations are enforcements of humility.",
+            "The true way to exaltation is through humility.",
+            "Humility is one of the rarest and one of the most lovely of all graces."
+        ],
+        "Archibald T. Robertson": [
+            "Humble yourselves (\u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03c9\u03b8\u03b7\u03c4\u03b5). First aorist passive imperative of \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03bf\u03c9...",
+            "The passive here has almost the middle or reflexive sense. The middle voice was already giving way to the passive.",
+            "He shall exalt you (\u03c5\u03c8\u03c9\u03c3\u03b5 \u03c5\u03bc\u03b1\u03c2). Future active indicative of \u03c5\u03c8\u03bf\u03c9, common verb from \u03c5\u03c8\u03bf\u03c2 (height)..."
+        ],
+        "John Gill": [
+            "Humble yourselves in the sight of the Lord,....acknowledge their meanness and unworthiness, their vileness, sinfulness, and wretchedness, and implore the grace and mercy of God in Christ.",
+            "Walk humbly with God, owning their dependence on his grace, and ascribing all they have, and are, unto it.",
+            "This is God's usual way to lift up the meek, and exalt those that humble themselves; he lifts them from the dunghill, to set them among princes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To truly be exalted by the Lord, one must first humble themselves before Him. This involves having a deep-rooted mind in humility, recognizing His presence in all aspects of life, and being willing to take our appropriate place in the dust on account of our transgressions. In doing so, we acknowledge our meanness, unworthiness, and sinfulness, seeking His grace and mercy. By walking humbly with God, depending on His grace and ascribing all we have and are unto it, we position ourselves to be raised up by Him from our brokenness to become forgiven children, filled with joy and clothed in the garments of salvation. This is God's usual way of exalting those who have humbled themselves, lifting them from their lowly state to set them among princes.",
+            "wordCount": 130,
+            "quoteTokenProportion": 41.76,
+            "qualityScore": 2.043967705957635,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.3,
+            "commentatorTierSimilarities": [
+                24.43,
+                36.64,
+                38.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To be exalted by the Lord, one must first strike deep roots of humility. By acknowledging our meanness, sinfulness, and unworthiness, and seeking the grace and mercy of God, we humble ourselves in His sight. This involves recognizing His presence in all areas of life and walking humbly with Him, depending on His grace. God is willing to show mercy to the humble and contrite, lifting them from brokenness to become forgiven children, filled with joy and clothed in the garments of salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.087933074000314,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.76,
+            "commentatorTierSimilarities": [
+                24.46,
+                38.49,
+                37.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To be exalted by the Lord, one must have their mind deep-rooted in humility. By recognizing His presence in all aspects of life, humbling ourselves before Him, and acknowledging our meanness and sinfulness, we can seek His grace and mercy. Walking humbly with God, depending on His grace, and ascribing all we have and are unto it, enable us to be raised from brokenness to become forgiven children. God's usual way is to lift up the meek and exalt those who humble themselves.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.1854603290449175,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+            "commentatorTierSimilarities": [
+                24.08,
+                37.43,
+                38.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To be exalted by the Lord, one must strike deep roots in humility. By acknowledging meanness, sinfulness, and seeking God's grace and mercy, we humble ourselves. Recognizing His presence in all aspects of life and walking humbly with Him, dependent on His grace, allows us to be raised from brokenness to become forgiven children. God's usual way is to uplift the meek and exalt the humble, lifting them from lowly states to the company of princes.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.1369631109913745,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.39,
+            "commentatorTierSimilarities": [
+                23.87,
+                37.63,
+                38.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be exalted by the Lord, we must strike deep roots in humility and acknowledge our meanness and sinfulness. By seeking God's grace and mercy, recognizing His presence in all aspects of life, and walking humbly with Him, we position ourselves for His exaltation. This involves humbling ourselves before Him, depending on His grace, and ascribing all we have unto it. God's usual way is to lift up the meek, exalting those who humble themselves, and setting them among princes.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0783404488116206,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                23.68,
+                35.15,
+                41.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

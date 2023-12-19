@@ -1,0 +1,92 @@
+# James 4:2 Commentary Help Text
+
+## BHT:
+Coveting what others have can lead to envy, oppression, and conflicts - seen as 'murder' by God. Wars and fights stem from insatiable desires and lack of contentment. Only by praying with aligned desires and seeking God's blessings can we find true fulfillment. Rather than engaging in worldly hustle and quarrels, it is wiser to prioritize serving God and seek His guidance. Letting go of envy and contention, we can approach prayer with a heart ready to receive His blessings.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Ye desire...ye murder...ye fight and make war." 
+2. "Lust of possession does not ensure possession itself."
+3. "Ye have not, because ye ask not."
+
+### Jamieson-Fausset-Brown:
+1. "Ye kill and envy (as the Greek for 'desire to have' should be translated), that is, harass and oppress through envy, and so are 'murderers' in God's eyes."
+2. "If literal murder were meant, I do not think it would occur so early in the series; nor had Christians then as yet reached so open criminality. In the Spirit's application of the passage to all ages, literal killing is included... There is a climax: 'Ye desire,' the individual lust for an object; 'ye kill and envy,' the feeling and action of individuals against individuals; 'ye fight and war,' the action of many against many."
+3. "God promises to those who pray, not to those who fight. The petition of the lustful, murderous, and contentious is not recognized by God as prayer. If ye prayed, there would be no 'wars and fightings.'"
+
+### Albert Barnes:
+1. "The general reason is, that others have that which we have not, and which we desire to have; and not content with endeavoring to obtain it, if we can, in a peaceful and honest manner, and not willing to content ourselves without its possession, we resolve to secure it by force."
+2. "The system of wars in general, therefore, has been a system of great robberies, no more honest or honorable than the purposes of the foot-pad, and more dignified only because it involves greater skill and talent."
+3. "In all the wars which have been waged on the earth, whether for the settlement of disputed questions, for the adjustment of boundaries, for the vindication of violated rights, or for the permanent extension of empire, how rare has it been that the object which prompted to the war has been secured!"
+
+### Marvin Vincent:
+1. Ye lust. See on desire, 1 Peter 1:12; Mark 4:19. 
+Desire to have [ζηλουτε] . Rev., covet, and are jealous, in margin. See on ch. James 3:14.
+
+
+### John Calvin:
+1. "He seems to intimate that the soul of man is insatiable, when he indulges wicked lusts; and truly it is so; for he who suffers his sinful propensities to rule uncontrolled, will know no end to his lust."
+2. "They derived no benefit from contentions of this kind, for he affirms that they received the punishment of their own wickedness."
+3. "They then sought to be happy, but not through God. It was therefore no wonder that they were frustrated in their efforts, since no success can be expected except through the blessings of God alone."
+
+### Philip Schaff:
+1. "This spirit of restless desire was also at this time the national character of the Jews; they were restless under the government of the Romans, and eagerly desired national liberty and the lordship over other nations."
+2. "These desires were especially fostered by their belief in an earthly Messiah, who should bestow worldly blessings on His followers."
+3. "Not the external act, but the internal disposition, the bitter hatred, is described. Strong and vehement expressions are characteristic of the style of St. James."
+
+### Archibald T. Robertson:
+1. "Coveting what a man or nation does not have is the cause of war according to James."
+2. "Ye covet and cannot obtain, and as a result ye fight and war."
+3. "Make the service of God your supreme end, and then your desires will be such as God can fulfil in answer to your prayer."
+
+### John Gill:
+1. "they envy at the good and happiness of others, and covet after another's property, but cannot enjoy it; all such envy and covetousness are fruitless, as well as sinful"
+2. "make a great stir and hustle to get the things of the world; rise early, and sit up late; strive who should get most, and quarrel about what is gotten, and seek to get all advantages of one another"
+3. "instead of all this worldly stir and bustle, and these strivings and quarrellings with one another, it would be much more advisable, and, in the issue, be found to turn to more account, to pray to God for a blessing on your endeavors"
+
+### John Wesley:
+1. "He that hateth his brother is a murderer."
+2. "Furiously strive and contend."
+3. "A man full of evil desire, of envy or hatred, cannot pray."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 17:36:29
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 80
+- BHT Commentary Usage: 35.0%
+- BHT Quality Score: 1.8945654731134227
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (60):
+	['a', 'aligned', 'and', 'approach', 'as', 'blessings', 'by', 'can', 'conflicts', 'contention', 'contentment', 'coveting', 'desires', 'engaging', 'envy', 'fights', 'find', 'from', 'fulfillment', 'go', 'god', 'guidance', 'have', 'heart', 'his', 'hustle', 'in', 'insatiable', 'is', 'it', 'lack', 'lead', 'letting', 'murder', 'of', 'only', 'oppression', 'others', 'prayer', 'praying', 'prioritize', 'quarrels', 'rather', 'ready', 'receive', 's', 'seek', 'seeking', 'seen', 'serving', 'stem', 'than', 'to', 'true', 'wars', 'we', 'what', 'wiser', 'with', 'worldly']
+- ChatGPT injected words (significant words only) (39):
+	['aligned', 'approach', 'blessings', 'conflicts', 'contention', 'contentment', 'coveting', 'desires', 'engaging', 'envy', 'fights', 'find', 'fulfillment', 'god', 'guidance', 'heart', 'hustle', 'insatiable', 'lack', 'lead', 'letting', 'murder', 'oppression', 'prayer', 'praying', 'prioritize', 'quarrels', 'ready', 'receive', 's', 'seek', 'seeking', 'seen', 'serving', 'stem', 'true', 'wars', 'wiser', 'worldly']
+
+### Logs
+- Attempt 1 BHT: The verse we are focusing on speaks about the desires and conflicts that arise due to coveting what others have. In God's eyes, this envy and oppression can be seen as a form of murder. The root cause of wars and fights is the insatiable desire for things that we do not possess. When we engage in such behaviors, we are not recognized by God as praying. Instead, if our desires are aligned with God's will and we seek His blessings through prayer, we can find fulfillment. Ultimately, the verse calls us to make the service of God our supreme end, allowing Him to guide our desires and actions.
+- 🔄 James 4:2 (attempt 1, 111 words, 45.45% quotes quality score: 1.8546406113805722, V2 normalized quality score: 53.01, commentator tiers 1-3: 38.24%, 27.17%, 34.59%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The desires and conflicts arising from coveting what others have can be seen as a form of murder in God's eyes. Wars and fights are driven by the insatiable desire for what we lack. Engaging in such behavior prevents our prayers from being recognized by God. However, by aligning our desires with God's will and seeking His blessings through prayer, we can find fulfillment. The verse emphasizes the need to prioritize serving God above all else, allowing Him to guide our desires and actions.
+- 🔄 James 4:2 (attempt 2, 86 words, 45.31% quotes quality score: 1.8460235687518942, V2 normalized quality score: 52.72, commentator tiers 1-3: 36.41%, 28.72%, 34.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 3 BHT: According to the commentary, coveting what others have leads to envy and oppression, akin to murder in God's eyes. The continual pursuit of desires that go unfulfilled fuels conflicts, wars, and fights. Instead, the commentator suggests that praying to God aligns our desires with His will and helps us find contentment. The verse reminds us to prioritize the service of God as our ultimate goal, seeking His blessings through prayer rather than engaging in envy and contention with others.
+- 🔄 James 4:2 (attempt 3, 80 words, 33.33% quotes quality score: 1.9072274907015139, V2 normalized quality score: 54.76, commentator tiers 1-3: 35.79%, 26.01%, 38.2%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: Coveting what others possess sparks envy and oppression - a metaphorical 'murder' in God's view. These unchecked desires breed conflicts and wars. However, by aligning our desires with God's will through prayer, we find fulfillment. Seeking worldly possessions and quarreling with one another proves fruitless. Instead, it is wiser to pray to God for His blessings on our endeavors, putting our trust in Him rather than engaging in envy and contention. The key lies in prioritizing the service of God as our ultimate aim.
+- 🔄 James 4:2 (attempt 4, 85 words, 40.3% quotes quality score: 1.7578896695184048, V2 normalized quality score: 49.79, commentator tiers 1-3: 35.86%, 25.39%, 38.75%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Coveting what others have can lead to envy, oppression, and conflicts - seen as 'murder' by God. Wars and fights stem from insatiable desires and lack of contentment. Only by praying with aligned desires and seeking God's blessings can we find true fulfillment. Rather than engaging in worldly hustle and quarrels, it is wiser to prioritize serving God and seek His guidance. Letting go of envy and contention, we can approach prayer with a heart ready to receive His blessings.
+- 🔄 James 4:2 (attempt 5, 80 words, 35.0% quotes quality score: 1.8945654731134227, V2 normalized quality score: 54.34, commentator tiers 1-3: 34.82%, 25.82%, 39.36%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ James 4:2 bht prompt v0.8 (80 words, 35.0% quotes)
+- quality score: 1.8945654731134227, V2 normalized quality score: 54.34, commentator tiers 1-3: 34.82%, 25.82%, 39.36%)

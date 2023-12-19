@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:35:56",
+    "verseRef": "James 3:5",
+    "bestBHT": {
+        "bht": "Just as a small fire can kindle a great forest, the tongue is a little member that boasts great things. It is a world of iniquity, defiling the whole body. Our words have immense power, able to set a neighborhood or village ablaze. Like a bit to a horse or a helm to a ship, ruling our tongues means governing our entire selves. Our speech is a potent instrument for both good and evil, holding great influence and impact.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 1.9056604863688014,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+        "commentatorTierSimilarities": [
+            26.2,
+            45.36,
+            28.45
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus also the tongue is a little member, and boasteth great things.\" ",
+            "Likewise the tongue is a fire, that world of iniquity.\" ",
+            "The tongue is among our members, that one which defileth the whole body."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is great moment in what the careless think 'little' things.\" ",
+            "Compare 'a world,' 'the course of nature,' 'hell,' which illustrate how the little tongue's great words produce great mischief.",
+            "How little a fire kindleth how great a."
+        ],
+        "Albert Barnes": [
+            "Even so the tongue is a little member - Little compared with the body, as the bit or the rudder is, compared with the horse or the ship.",
+            "The particular idea here is, that the tongue seems to be conscious of its influence and power, and boasts largely of what it can do.",
+            "A spark will kindle a lofty pile; and a word spoken by the tongue may set a neighborhood or a village 'in a flame.'"
+        ],
+        "Marvin Vincent": [
+            "The word ulh (only here in New Testament) means wood or a forest, and hence the matter or raw material of which a thing is made.",
+            "The authorized version has taken the word in one of its secondary senses, hardly the philosophical sense it would seem; but any departure from the earlier sense was not only needless, but impaired the vividness of the figure, the familiar and natural image of a forest on fire.",
+            "Behold how much wood or how great a forest is kindled by how small a fire."
+        ],
+        "John Calvin": [
+            "But James in this passage did not intend to reprove ostentation so much as to show that the tongue is the doer of great things.",
+            "He then means that the tongue is endued with great power.",
+            "I indeed allow that among the Greeks it designates those lusts which are not subservient to reason. But here James simply speaks of the will of the pilot."
+        ],
+        "Philip Schaff": [
+            "If we rule our tongues, we govern the whole man; for the tongue is to the man what the bit is to the horse, or the helm to the ship.",
+            "The tongue is small in proportion to the whole body, and to many of its members.",
+            "We are here taught, most emphatically, the power of the tongue. Speech is that which distinguishes man from the inferior animals. It is a powerful instrument for good or evil."
+        ],
+        "Archibald T. Robertson": [
+            "A little member (\u03bc\u03b9\u03ba\u03c1\u03bf\u03bd \u03bc\u03b5\u03bb\u03bf\u03c2). \u039c\u03b5\u03bb\u03bf\u03c2 is old and common word for members of the human body.",
+            "Boasteth great things (\u03bc\u03b5\u03b3\u03b1\u03bb\u03b1 \u03b1\u03c5\u03c7\u03b5). Present active indicative of \u03b1\u03c5\u03c7\u03b5\u03c9, old verb, here only in N.T.",
+            "How much--how small (\u03b7\u03bb\u03b9\u03ba\u03bf\u03bd--\u03b7\u03bb\u03b9\u03ba\u03b7\u03bd). The same relative form for two indirect questions together, 'What-sized fire kindles what-sized forest?'"
+        ],
+        "John Gill": [
+            "A bridled and sanctified tongue, that is influenced by the grace of God, and directed by the Spirit of God, as it speaks great and good things, it has great power, weight, and influence.",
+            "The tongue of the just is as choice silver, and the lips of the righteous feed many.",
+            "Behold, how great a matter a little fire kindleth; what vast quantities of wood, large forests, stately buildings, and populous towns and cities, are at once seized on by a little fire, a few sparks, and in a short time burnt down, and utterly destroyed."
+        ],
+        "John Wesley": [
+            "Boasteth great things \u2014 Hath great influence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as a small fire can ignite a great forest, the tongue, though a little member of the body, boasts great things and has the power to defile the whole body. The careless may think of these little things as insignificant, but James reminds us of the immense impact that the tongue can have. It is a world of iniquity that can produce great mischief. Our speech has the potential to set a neighborhood or village ablaze, for the tongue is a powerful instrument for both good and evil. We must therefore be mindful of our words, for they have great power, weight, and influence.",
+            "wordCount": 105,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.987415411749697,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                25.68,
+                39.76,
+                34.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as a small fire kindles a great forest, the tongue, though a little member of the body, boasts great things. It is a world of iniquity that defiles the whole body. The tongue\u2019s immense influence cannot be underestimated. Our words have the power to set a neighborhood or village ablaze. Like a bit to a horse or a helm to a ship, ruling our tongues means governing our whole selves. Our speech is a powerful instrument, capable of both good and evil.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.8985556468266878,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                26.78,
+                44.93,
+                28.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tongue, though small in size, is a mighty force that boasts great things and holds great power. It is like a little spark that can set a whole forest on fire. We often underestimate the impact of our words, but they have the ability to defile the entire body. Just as a bit controls a horse or a rudder steers a ship, ruling our tongues governs our entire being. Our speech is a remarkable tool that can bring about both good and evil.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.836643284709024,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.41,
+            "commentatorTierSimilarities": [
+                23.94,
+                45.2,
+                30.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as a small fire can kindle a great forest, the tongue is a little member that boasts great things. It is a world of iniquity, defiling the whole body. Our words have immense power, able to set a neighborhood or village ablaze. Like a bit to a horse or a helm to a ship, ruling our tongues means governing our entire selves. Our speech is a potent instrument for both good and evil, holding great influence and impact.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.9056604863688014,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                26.2,
+                45.36,
+                28.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tongue, a little member of the body, boasts great things and holds tremendous power. It is like a small fire that can kindle a vast forest, defiling the entire body. Our words have immense influence, able to set a neighborhood or village ablaze. As the bit governs a horse or a helm steers a ship, ruling our tongues governs our whole being. Our speech is a potent tool, capable of bringing about both great good and great evil.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8997254376540629,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                24.41,
+                46.27,
+                29.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

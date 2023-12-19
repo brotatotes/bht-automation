@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:35:27",
+    "verseRef": "James 1:20",
+    "bestBHT": {
+        "bht": "Man's anger and zeal, even in God's behalf, does not produce God's righteousness. Instead, it diverts and blights endeavors, leading only to disgrace. True righteousness is sown in peace, not in wrath. One's personal anger does not necessarily accomplish God's righteousness. The wrath of man brings contention and is not conducive to holiness. It is important to approach God's word and ordinances with a spirit of peace, rather than a wrathful one. The righteousness of God includes all duties pleasing to Him.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.3346410868425305,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+        "commentatorTierSimilarities": [
+            34.77,
+            30.7,
+            34.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The wrath of man worketh not the righteousness of God.",
+            "Be not intemperately zealous, hastily rash to speak and to be angered, even in God\u2019s behalf.",
+            "How many an endeavor, which might have ended in working the righteousness of God, has been diverted and blighted by hasty speaking and anger, and ended only in disgracing ourselves, and Him whom we would have served, before men!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Man's angry zeal in debating, as if jealous for the honor of God's righteousness, is far from working that which is really righteousness in God's sight.",
+            "True righteousness is sown in peace, not in wrath.",
+            "The oldest and best reading means 'worketh,' that is, practiceth not: the received reading is 'worketh,' produceth not."
+        ],
+        "Albert Barnes": [
+            "For the wrath of man worketh not the righteousness of God - Does not produce in the life that righteousness which God requires.",
+            "Its tendency is not to incline us to keep the law, but to break it; not to induce us to embrace the truth, but the opposite.",
+            "A man is never sure of doing right under the influence of excited feelings; he may do that which is in the highest sense wrong, and which he will regret all his life."
+        ],
+        "Philip Schaff": [
+            "The wrath of man, that is, carnal zeal, whose fruit is not peace, but contention... The word of God was then abused, as it is now, into an occasion of strife.",
+            "By the righteousness of God is not meant the righteousness imputed by God, as if the meaning were that the wrath of man does not work out the faith which God counts to men for righteousness; nor that righteousness which God possesses the Divine attribute of righteousness; but that righteousness which is approved by God, and which He Himself forms within us by His Holy Spirit.",
+            "The meaning of the verse is that contention, arising from dispute or controversy, is not conducive to holiness... Furious zeal does not promote the interests of God\u2019s kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "There is such a thing as righteous indignation, but one is not necessarily promoting the cause of God by his own personal anger.",
+            "A man's anger (settled indignation in contrast with \u03b8\u03c5\u03bc\u03bf\u03c2, boiling rage or fury) does not necessarily work God's righteousness.",
+            "If taken in this sense, it means that a man's anger...does not necessarily work God's righteousness."
+        ],
+        "John Gill": [
+            "For the wrath of man worketh not the righteousness of God.\" ",
+            "This is so far from engaging persons to do that which is right and acceptable in the sight of God, that it puts them upon doing that which is evil.",
+            "Do not attend upon the word and ordinances of God with a wrathful spirit."
+        ],
+        "John Wesley": [
+            "The righteousness of God here includes all duties prescribed by him, and pleasing to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Man's anger and zeal, even in the name of God's righteousness, does not produce the righteousness that God desires. Instead, it often leads to hasty and rash speech, disgracing ourselves and the very God we seek to serve. True righteousness is sown in peace, not in wrath. While there is such a thing as righteous indignation, one cannot assume that their own personal anger is automatically promoting God's cause. The wrath of man may stir up contention and strife, but it does not further the interests of God's kingdom. Therefore, we should approach the word and ordinances of God with a spirit of peace and humility, seeking to fulfill all the duties prescribed by Him and pleasing to Him.",
+            "wordCount": 123,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 2.3648191596409642,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.97,
+            "commentatorTierSimilarities": [
+                35.27,
+                32.85,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Man's anger and zeal, even in God's behalf, does not produce God's righteousness. Instead, it diverts and blights endeavors, leading only to disgrace. True righteousness is sown in peace, not in wrath. One's personal anger does not necessarily accomplish God's righteousness. The wrath of man brings contention and is not conducive to holiness. It is important to approach God's word and ordinances with a spirit of peace, rather than a wrathful one. The righteousness of God includes all duties pleasing to Him.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.3346410868425305,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+            "commentatorTierSimilarities": [
+                34.77,
+                30.7,
+                34.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Man's anger and zeal, even in God's behalf, does not produce God's righteousness. Instead, it often leads to hasty and rash speech, disgracing ourselves and the very God we seek to serve. True righteousness is sown in peace, not in wrath. The wrath of man may provoke contention and is not conducive to holiness. It is important to approach God's word and ordinances with a spirit of peace, seeking to fulfill all the duties prescribed by Him and pleasing to Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.3058540856693917,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.01,
+            "commentatorTierSimilarities": [
+                34.68,
+                32.04,
+                33.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Man's anger and zeal, even in God's behalf, does not produce the righteousness of God. It can divert and blight endeavors, ending in disgrace. True righteousness is sown in peace, not in wrath. One's personal anger does not necessarily accomplish God's righteousness. The wrath of man brings contention and is not conducive to holiness. To approach God's word and ordinances with a peaceful spirit, rather than a wrathful one, is vital. The righteousness of God encompasses all duties that please Him.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.327585618031379,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.73,
+            "commentatorTierSimilarities": [
+                35.63,
+                30.68,
+                33.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Man's anger and zeal, even in God's behalf, does not produce God's righteousness. Instead, it often leads to hasty and rash speech, disgracing ourselves and Him. True righteousness is sown in peace, not in wrath. The wrath of man may provoke contention and is not conducive to holiness. It is important to approach God's word and ordinances with a spirit of peace, seeking to fulfill all the duties prescribed by Him and pleasing to Him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.231199422858108,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                34.84,
+                32.07,
+                33.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:36:36",
+    "verseRef": "James 4:12",
+    "bestBHT": {
+        "bht": "Who are we, mere mortals, to judge our neighbors when there is only one Lawgiver and Judge? In His sovereignty, God alone has the power to save and destroy. It is audacious and ignorant of us to assume the role of judge over others and strip God of His rightful authority. As fallible beings, we have no right to make laws or pass judgment, especially in matters of faith. Let us remember that God is the source of all authority and justice, and it is His prerogative to be the ultimate Lawgiver and Judge.",
+        "wordCount": 94,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.0454356922858348,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+        "commentatorTierSimilarities": [
+            29.75,
+            38.14,
+            32.11
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "One (God) is the lawgiver and judge... He who is able to save and destroy...\" ",
+            "He who is able, because He alone has the power to carry out His judgment when pronounced.",
+            "But thou, who art thou... that judgest thy neighbour?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is One (alone) who is (at once) Lawgiver and Judge, (namely) He who is able to save and destroy.",
+            "But (inserted in oldest manuscripts) thou, who art thou that judgest another?",
+            "How rashly arrogant in judging thy fellows, and wresting from God the office which belongs to Him over thee and THEM alike!"
+        ],
+        "Albert Barnes": [
+            "The tendency everywhere has been to enact other laws than those appointed by Christ...and to claim that Christians are bound to observe them...all attempts to make other laws pertaining to religion binding on the conscience is a usurpation of his prerogatives.",
+            "The church is safe while it adheres to this as a settled principle; it is not safe when it submits to any legislation in religious matters as binding the conscience.",
+            "There is nothing more decidedly condemned in the Scriptures than the habit of pronouncing a judgment on the motives and conduct of others."
+        ],
+        "Marvin Vincent": [
+            "One only is the lawgiver.\" ",
+            "But thou, who art thou?",
+            "According to the Greek order: but thou, who art thou?"
+        ],
+        "John Calvin": [
+            "The whole majesty of God is forcibly assumed by those who claim for themselves the right of making a law.",
+            "Human precepts cast the snare of necessity on consciences.",
+            "It is a prevaricating obedience, rendered to the devil, when we allow any other than God himself to be a lawgiver to rule our souls."
+        ],
+        "Philip Schaff": [
+            "There is one Lawgiver and Judge: these are not many, but one: one pre-eminently and exclusively.",
+            "God is the source of all authority, the fountain of justice.",
+            "Thou, who art so ignorant and so erring, so sinful and so liable to fall; thou, who hast no power and no authority; thou, who art thyself guilty and as a sinner obnoxious to the judgment of God: how darest thou invade the office of this supreme and universal Lawgiver and Judge?"
+        ],
+        "Archibald T. Robertson": [
+            "One only. No 'only' in the Greek, but \u03b5\u03b9\u03c2 here excludes all others but God.",
+            "The lawgiver. Old compound (from \u03bd\u03bf\u03bc\u03bf\u03c3, \u03c4\u03b9\u03b8\u03b7\u03bc), only here in N.T.",
+            "But who art thou? Proleptic and emphatic position of \u03c3\u03c5 (thou) in this rhetorical question."
+        ],
+        "John Gill": [
+            "There is one lawgiver,.... The Alexandrian copy, and others, and the Syriac, Ethiopic, and Vulgate Latin versions, add, 'and judge'.",
+            "...though there may be many lawgivers in things political, whose legislative power is to be obeyed, both for the Lord's sake, and for conscience sake; yet in things religious, and relating to conscience, God is the only lawgiver, who is to be hearkened unto.",
+            "God, the lawgiver, is sovereign, and can destroy, or save, whom he pleases; he is able to save the brother that is spoken against, and to destroy him that speaks against him."
+        ],
+        "John Wesley": [
+            "There is one lawgiver that is able \u2014 To execute the sentence he denounces.",
+            "But who art thou \u2014 A poor, weak, dying worm."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who are we, mere mortals, to judge our neighbors when there is only one Lawgiver and Judge? In His sovereignty, God alone has the power to save and destroy. It is audacious and ignorant of us to assume the role of judge over others and strip God of His rightful authority. As fallible beings, we have no right to make laws or pass judgment, especially in matters of faith. Let us remember that God is the source of all authority and justice, and it is His prerogative to be the ultimate Lawgiver and Judge.",
+            "wordCount": 94,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.0454356922858348,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.35,
+            "commentatorTierSimilarities": [
+                29.75,
+                38.14,
+                32.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Who are we, mere mortals, to judge our neighbors when there is only one Lawgiver and Judge? In His sovereignty, God alone has the power to save and destroy. It is audacious and ignorant of us to assume the role of judge over others and strip God of His rightful authority. As fallible beings, we have no right to make laws or pass judgment, especially in matters of faith. Let us remember that God is the source of all authority and justice and that it is His prerogative to be the ultimate Lawgiver and Judge.",
+            "wordCount": 95,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.0418874545492565,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                29.73,
+                38.17,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Who are we to judge our neighbors? One alone, God, is the lawgiver and judge, with the power to save and destroy. How daring it is for us, ignorant and sinful, to take on the role of judge, usurping God's authority. We have no right to enact laws or pass judgment, especially in matters of faith. Instead, let us acknowledge that God is the ultimate source of authority and justice, the one true Lawgiver and Judge.",
+            "wordCount": 77,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.9883347269054306,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                31.16,
+                38.78,
+                30.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Who are we, mere mortals, to judge our neighbors when there is only one Lawgiver and Judge? God alone has the power to save and destroy. It is audacious and ignorant of us to assume the role of judge over others, stripping God of His rightful authority. As fallible beings, we have no right to make laws or pass judgment, especially in matters of faith. Let us remember that God is the source of authority and justice, and it is His prerogative to be the ultimate Lawgiver and Judge.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.021301951657157,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                29.99,
+                38.02,
+                31.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How daring it is for us, mere mortals, to judge our neighbors when there is only one Lawgiver and Judge? God alone has the power to save and destroy. It is audacious and ignorant of us to assume the role of judge over others, stripping God of His rightful authority. Let us remember that God is the source of authority and justice, and it is His prerogative to be the ultimate Lawgiver and Judge.",
+            "wordCount": 74,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 2.0362196936481016,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                30.55,
+                37.0,
+                32.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

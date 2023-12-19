@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:52",
+    "verseRef": "James 3:1",
+    "bestBHT": {
+        "bht": "The warning given here is against the hasty desire to assume the role of a teacher, as not everyone is truly qualified for such responsibility. While being a teacher is a noble position, it carries great danger of failure. Those who take on this role will face greater condemnation if they abuse it, compared to those who are mere hearers. Careful discernment should be exercised in selecting worthy and competent teachers, rather than allowing ambition to drive the desire for the position.",
+        "wordCount": 82,
+        "quoteTokenProportion": 47.62,
+        "qualityScore": 2.0939552012509353,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+        "commentatorTierSimilarities": [
+            34.21,
+            37.62,
+            28.17
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Be not...many teachers, my brethren, knowing...that we shall receive greater condemnation.\" ",
+            "Knowing...that we shall receive greater condemnation than others who are not teachers.\" ",
+            "Be not many teachers, for in such office there is great danger of failing, and if we teachers fail, our condemnation will be greater."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The office is a noble one; but few are fit for it.",
+            "Few govern the tongue well, and only such as can govern it are fit for the office.",
+            "If we teachers abuse the office, we shall receive greater condemnation than those who are mere hearers."
+        ],
+        "Albert Barnes": [
+            "A small number, well qualified, would better discharge the duties of the office, and do more good, than many would.",
+            "It would seem that this was a prevailing fault among those to whom the apostle wrote. This desire was common among the Jewish people, who coveted the name and the office of 'Rabbi'...and who were ambitious to be doctors and teachers.",
+            "If there is anything which ought to be managed with extreme prudence and caution, it is that of introducing men into the Christian ministry."
+        ],
+        "Marvin Vincent": [
+            "Masters [\u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b1\u03bb\u03bf\u03b9] . Literally, and better, teachers, with a reference to the exhortation to be slow to speak (ch. 1 19).",
+            "Compare 1 Corinthians 14:26-34.",
+            "Jas. is warning against the too eager and general assumption of the privilege of teaching, which was not restricted to a particular class, but was exercised by believers generally."
+        ],
+        "John Calvin": [
+            "It is, as it were, an innate disease in mankind to seek reputation by blaming others.",
+            "James does not discourage those brotherly admonitions, which the Spirit so often and so much recommends to us, but that immoderate desire to condemn, which proceeds from ambition and pride.",
+            "They who are too rigid towards their brethren provoke against themselves the severity of God."
+        ],
+        "Philip Schaff": [
+            "Do not rashly enter upon the office of a teacher.",
+            "Many, especially in a season of religious excitement, assume the office of teacher, without any qualification of knowledge or experience.",
+            "The responsibility of teachers is great, they shall be the more strictly dealt with by God."
+        ],
+        "Archibald T. Robertson": [
+            "Stop becoming many teachers\" - There was a call for wise teachers, not for foolish ones.",
+            "Teachers are necessary, but incompetent and unworthy ones do much harm.",
+            "The pretence of knowledge adds to the teacher's responsibility and condemnation."
+        ],
+        "John Gill": [
+            "Be not many masters... be not fond, and forward, and ambitious of being preachers of the word, but rather choose to be hearers of it.",
+            "Reproof for sin ought to be given... but then this ought to be done in a gentle manner, and in a spirit of meekness; and when it is a clear case, and plain matter of fact, and which ought not to be exaggerated and aggravated.",
+            "Should men enter into the office of teaching others without a call, or perform it negligently, or live not according to the doctrine they teach others, such would be judged out of their own mouths, and by their own words, and their condemnation would be aggravated."
+        ],
+        "John Wesley": [
+            "Be not many teachers \u2014 Let no more of you take this upon you than God thrusts out; seeing that it is so hard not to offend in speaking much.",
+            "Knowing that we \u2014 That all who thrust themselves into the office. Shall receive greater condemnation \u2014 For more offenses.",
+            "St. James here, as in several of the following verses, by a common figure of speech, includes himself: we shall receive, - we offend, - we put bits, - we curse - None of which, as common sense shows, are to be interpreted either of him or of the other apostles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The warning in this verse is for believers to exercise caution and not rush into the role of a teacher. Being a teacher is a noble position, but it comes with great responsibility, as those who teach will be held to a higher standard and face greater condemnation if they fail. James emphasizes that not everyone is fit to be a teacher, as few have the ability to properly govern their tongue and teach with wisdom. He urges believers to be discerning in choosing qualified and competent teachers, as the desire to be a teacher should not stem from ambition or the desire for personal recognition.",
+            "wordCount": 106,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 2.2560725226687937,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                35.19,
+                35.35,
+                29.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The role of a teacher is not to be taken lightly, as it carries a significant responsibility. James warns against the desire for many to become teachers, as not everyone is fit for the position. The privilege of teaching should not be assumed by everyone, but rather should be held by those who are competent and capable of governing their speech. Those who take on the role of a teacher will face greater condemnation if they abuse their position. It is important to exercise caution in selecting qualified teachers and not to pursue teaching out of ambition or ego.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.203518294114774,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                35.94,
+                36.59,
+                27.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cautionary message in this passage warns believers about the dangers of eagerly assuming the role of a teacher. While the office of teaching is significant, not everyone is truly equipped for it. Those who choose to become teachers should be aware that they will be held to a higher standard and face greater condemnation if they fail in their duties. It is crucial to exercise discernment in selecting competent and worthy teachers, rather than being driven by ambition or the desire for personal recognition.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.1205300592760565,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.85,
+            "commentatorTierSimilarities": [
+                35.73,
+                37.04,
+                27.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The warning given here is against the hasty desire to assume the role of a teacher, as not everyone is truly qualified for such responsibility. While being a teacher is a noble position, it carries great danger of failure. Those who take on this role will face greater condemnation if they abuse it, compared to those who are mere hearers. Careful discernment should be exercised in selecting worthy and competent teachers, rather than allowing ambition to drive the desire for the position.",
+            "wordCount": 82,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.0939552012509353,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.96,
+            "commentatorTierSimilarities": [
+                34.21,
+                37.62,
+                28.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The call in this verse is to exercise caution in assuming the position of a teacher. Not everyone is fit for this responsibility, as few can truly govern their words and teach with wisdom. The ambition to become a teacher should not be driven by a desire for personal recognition or status. Instead, the focus should be on selecting qualified and competent teachers, understanding that the failure to fulfill this role will result in greater condemnation.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.019489602293852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.49,
+            "commentatorTierSimilarities": [
+                34.44,
+                36.88,
+                28.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

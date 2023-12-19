@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:36:39",
+    "verseRef": "James 4:1",
+    "bestBHT": {
+        "bht": "Wars and fightings arise among people due to their selfish desires, pride, envy, and covetousness. These conflicts stem from the internal lusts that reside within individuals. Although the cause of quarrels may appear to be external circumstances, the true origin lies within one's own sinful pleasures and the desires for things they do not possess. This internal battle then manifests itself in conflicts between individuals, nations, and even within oneself. Such contentions arise from the evil passions and lustful desires that cannot be satisfied without causing harm to others. Therefore, to promote peace and unity, individuals must mortify these lusts and abstain from wrongdoing.",
+        "wordCount": 105,
+        "quoteTokenProportion": 41.56,
+        "qualityScore": 2.0760197557813886,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+        "commentatorTierSimilarities": [
+            31.73,
+            35.46,
+            32.81
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whence are wars, and whence fightings among you?... Are they not from thence, from your lusts which militate in your members?",
+            "quarrels which spring up about common worldly interests from selfish considerations of pride, envy, covetousness, and the like",
+            "our fellow-men, against whom, to put down whom and set ourselves up, our lusts are as it were an army of soldiers ever encamped within us and waging war"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The cause of quarrels is often sought in external circumstances, whereas internal lusts are the true origin.\" (James 4:1)",
+            "The members are the first seat of war thence it passes to conflict between man and man, nation and nation.\" (James 4:1)",
+            "But while warring thus against others, they (without his knowledge) war against the soul of the man himself, and against the Spirit; therefore they must be 'mortified' by the Christian.\" (James 4:1)"
+        ],
+        "Albert Barnes": [
+            "When the apostle says 'among you,' it is not necessary to suppose that he refers to those who were members of the Christian church as actually engaged in these strifes... but he speaks of them as a part of the Jewish people.",
+            "Is not this the true source of all war and contention?... The lust or desire of rapine, of plunder, of ambition, of fame, of a more extended dominion... All this is the same spirit evinced on a larger or smaller scale.",
+            "Most of the wars which have occurred in the world can be traced to what the apostle here calls lusts. The desire of booty, the love of conquest, the ambition for extended rule, the gratification of revenge, these and similar causes have led to all the wars that have desolated the earth."
+        ],
+        "Marvin Vincent": [
+            "The sinful pleasures are the outgrowths of the lusts.",
+            "The thought of wars and fightings is carried into the figurative description of the sensuality which arrays its forces and carries on its campaign in the members.",
+            "Whence come wars and fightings and factions? Whence but from the body and the lusts of the body?"
+        ],
+        "John Calvin": [
+            "They had their hot conflicts, because their lusts were allowed to prevail unchecked.",
+            "It hence appears, that greater peace would have been among them, had every one abstained from doing wrong to others.",
+            "He takes lusts as designating all illicit and lustful desires or propensities which cannot be satisfied without doing injury to others."
+        ],
+        "Philip Schaff": [
+            "From whence come wars and fightings among you?... The terms \u2018wars\u2019 and \u2018fightings\u2019 express the bitter contentions which prevailed among them; \u2018wars\u2019 denoting a state of contention generally, and \u2018fightings\u2019 particular outbreaks of it.",
+            "These contentions are not to be limited to disputes among teachers or to religious controversies, but are to be understood generally all those quarrels which arise from our sinful passions and selfish desires.",
+            "And such has been the cause of all the wars which have devastated this earth; these spring from the evil passions of men. \u2018Nothing,\u2019 observes Plato, \u2018but the body and its lusts and appetites kindle sedition, quarrels, and wars in this world.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The origin of a war or of any quarrel is sometimes hard to find, but James touches the sore spot here.",
+            "Out of your sinful, sensual lusts, the desire to get what one does not have and greatly desires.",
+            "James seems to be addressing nominal Christians, 'among you.' Modern church disturbances are old enough in practice."
+        ],
+        "John Gill": [
+            "From whence come wars and fightings among you?.... Which are to be understood, not of public and national wars, such as might be between the Jews and other nations at this time...nor do these design theological debates and disputes, or contentions about religious principles; but rather lawsuits, commenced before Heathen magistrates, by the rich, to the oppression of the poor;...or at least at the expense of their own peace, and that of others.",
+            "nor were Christians in general as yet increased, and become such large bodies, or were whole nations become Christians, and much less at war one against another, which has been the case since; and which, when it is, generally speaking arises from a lust after an increase of power; from the pride and ambitious views of men, and their envy at the happiness of other princes and states.",
+            "in the believer, or converted man, however, there is as it were two armies; a law in the members, warring against the law of the mind; the flesh against the Spirit, and the Spirit against the flesh; and from this inward war arise external ones; or at least from the corruption of nature, which militates against all that is good."
+        ],
+        "John Wesley": [
+            "From whence come wars and fightings \u2014 Quarrels and wars among you, quite opposite to this peace? Is it not from your pleasures - Your desires of earthly pleasures.",
+            "Which war \u2014 Against your souls.",
+            "In your members \u2014 Here is the first seat of the war. Hence proceeds the war of man with man, king with king, nation with nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wars and fightings arise among people due to their selfish desires, pride, envy, and covetousness. These conflicts stem from the internal lusts that reside within individuals. Although the cause of quarrels may appear to be external circumstances, the true origin lies within one's own sinful pleasures and the desires for things they do not possess. This internal battle then manifests itself in conflicts between individuals, nations, and even within oneself. Such contentions arise from the evil passions and lustful desires that cannot be satisfied without causing harm to others. Therefore, to promote peace and unity, individuals must mortify these lusts and abstain from wrongdoing.",
+            "wordCount": 105,
+            "quoteTokenProportion": 41.56,
+            "qualityScore": 2.0760197557813886,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.37,
+            "commentatorTierSimilarities": [
+                31.73,
+                35.46,
+                32.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wars and fightings among individuals can be traced back to the selfish desires, pride, envy, and covetousness within them. These conflicts arise from the lusts and sinful pleasures that reside within one's own being, prompting them to put others down in order to elevate themselves. Instead of seeking external sources for the cause of quarrels, James points out that the true origin lies within individuals themselves. This internal battle extends beyond personal struggles and can lead to conflicts and contentions on a larger scale, affecting relationships, communities, and even nations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.1093718509870696,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                32.53,
+                37.46,
+                30.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Quarrels and conflicts among people are often fueled by their own selfish desires, such as pride, envy, and covetousness. these internal lusts serve as an army within individuals, waging war on both themselves and others. While the apparent cause of disputes may lie in external circumstances, James highlights the deep-rooted origin within one's sinful cravings and the desire to obtain what is intensely desired. Thus, in order to foster peace and harmony, individuals must strive to subdue these lusts and refrain from causing harm to others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.141642913670001,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                31.82,
+                35.32,
+                32.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wars and fightings among people stem from their own selfish desires and worldly interests, driven by pride, envy, and covetousness. These internal lusts act as an army within individuals, causing conflicts with others and warring against their own souls. Often, the true origin of quarrels is overlooked, with blame assigned to external circumstances. However, James highlights the need to address the root cause, the sinful pleasures and desires within, in order to promote peace and overcome the battles within ourselves and with others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.076972602525437,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                33.18,
+                34.6,
+                32.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wars and conflicts among people arise from their own lusts, which encompass selfish desires like pride, envy, and covetousness. These internal cravings function as an army within individuals, waging war on both themselves and others. While the external circumstances may seem to be the cause of disputes, James points out that the true origin lies within their own sinful pleasures. Thus, individuals must strive to mortify these lusts, both for the sake of their own souls and to maintain peace with others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.1133669948403178,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.61,
+            "commentatorTierSimilarities": [
+                32.24,
+                34.6,
+                33.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

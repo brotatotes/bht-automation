@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:36:14",
+    "verseRef": "James 3:17",
+    "bestBHT": {
+        "bht": "True wisdom calls us to prioritize purity and sanctity, both in our relationship with God and how we interact with others. It is characterized by a genuine desire for peace, rejecting hypocrisy and ambitious pursuits. This wisdom is marked by mercy and compassion, showing kindness to all without showing partiality. Pursuing this wisdom leads to a pure heart and life, free from impure desires, and enables us to yield to the judgments and reasonings of others. It bears good fruits in our thoughts and actions, harmonizing with the heavenly truth revealed in Christ.",
+        "wordCount": 93,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.7636705095304537,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+        "commentatorTierSimilarities": [
+            26.97,
+            37.89,
+            35.14
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Purity or sanctity is put first because it has respect both to God and to ourselves; the six that follow regard our fellow men.",
+            "Our first concern is to have in ourselves sanctity; our second, to be at peace with men.",
+            "Our peaceableness and mercy towards others must be 'without dissimulation.'"
+        ],
+        "Albert Barnes": [
+            "The first thing which [wisdom from above] produces is to make the man himself pure and good; then follows the train of blessings which the apostle enumerates as flowing from that.",
+            "A pure spirit is the best promoter of peace, and will do more than anything else to secure the prevalence of truth.",
+            "The effect of true religion - the wisdom which is from above - will be to dispose a man to live in peace with all others."
+        ],
+        "Marvin Vincent": [
+            "Emphasizing its inner quality, pure, as distinguished from its outward expressions.",
+            "The other qualities are secondary as outgrowths of this primary quality.",
+            "Without partiality [\u03b1\u03b4\u03b9\u03b1\u03ba\u03c1\u03b9\u03c4\u03bf\u03c2] . Only here in New Testament and very rare in classical Greek."
+        ],
+        "John Calvin": [
+            "He says first that it is pure; by which term he excludes hypocrisy and ambition.",
+            "He, in the second place, calls it peaceable, to intimate that it is not contentious.",
+            "In the last place, he says that it is full of mercy, etc., while hypocrisy is inhuman and inexorable."
+        ],
+        "Philip Schaff": [
+            "The heavenly wisdom is described by seven qualities which, as has been well said, are \u2018nothing but the seven colours of the one ray of light of heavenly truth which has appeared and been revealed in Christ Himself the Wisdom of God.\u2019\" ",
+            "Purity is its primary quality; all other qualities of heavenly wisdom are subservient to this.\" ",
+            "The spirit of love will cause us, as much as possible, to live peaceably with all men; instead of strife there will be a readiness to be reconciled."
+        ],
+        "Archibald T. Robertson": [
+            "Purity (righteousness) comes before peace and peace at any price is not worth the having.",
+            "Hence Jesus spurned the devil's peace of surrender.",
+            "This wisdom does not put a premium on doubt."
+        ],
+        "John Gill": [
+            "It produces purity of heart, of life, and conversation; and is the means of keeping persons pure and chaste, and free from impure lusts, lusts of uncleanness, pride, envy, wrath, c. which prevail in carnal and unregenerate men.",
+            "And it is easy to be treated; or those who have it readily yield to the superior judgments and stronger reasonings of others; and are easily induced to hope and believe all things, and entertain a good opinion of men, and their conduct; and are far from being proud, arrogant, obstinate, and overbearing.",
+            "Without partiality: to one another; or making a difference between them; showing no respect to persons; bestowing upon the poor and indigent, without any distinction."
+        ],
+        "John Wesley": [
+            "But the wisdom from above is first pure \u2014 From all that is earthly, natural, devilish.",
+            "Then peaceable \u2014 True peace attending purity, it is quiet, inoffensive.",
+            "Full of good fruits \u2014 Both in the heart and in the life, two of which are immediately specified."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "True wisdom is characterized by purity and sanctity, as it first focuses on our relationship with God before addressing our relationships with others. It emphasizes the importance of being at peace with men, while also cautioning against hypocrisy and ambition. This wisdom is not contentious, but rather peaceable, seeking reconciliation instead of strife. It is full of mercy, showing kindness and compassion, while rejecting inhumanity and being without partiality. Ultimately, this wisdom leads to a pure heart and life, keeping us free from impure desires and enabling us to live in harmony with others. Through the pursuit of this wisdom, we are encouraged to yield to superior judgments and reasonings, treating others with fairness, and bearing good fruits in our thoughts and actions.",
+            "wordCount": 123,
+            "quoteTokenProportion": 36.78,
+            "qualityScore": 1.7821492734205284,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                28.5,
+                36.79,
+                34.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "True wisdom first focuses on purity and sanctity, as it pertains to our relationship with God, before addressing our relationships with others. It emphasizes the importance of being at peace with men, without dissimulation, while also cautioning against hypocrisy and ambition. This wisdom is not contentious, but rather peaceable, seeking reconciliation instead of strife. It is full of mercy, showing kindness and compassion, while rejecting inhumanity and being without partiality. Through the pursuit of this wisdom, we are encouraged to yield to superior judgments and reasonings and bear good fruits in our thoughts and actions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7311873711437737,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                29.46,
+                34.99,
+                35.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True wisdom first focuses on purity and sanctity, as it pertains to our relationship with God, before addressing our relationships with others. It emphasizes the importance of being at peace with men, without dissimulation, while also cautioning against hypocrisy and ambition. This wisdom is not contentious, but rather peaceable, seeking reconciliation instead of strife. It is full of mercy, showing kindness and compassion, while rejecting inhumanity and being without partiality. Through the pursuit of this wisdom, we are encouraged to yield to superior judgments and reasonings and bear good fruits in our thoughts and actions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7311873711437737,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.9,
+            "commentatorTierSimilarities": [
+                29.46,
+                34.99,
+                35.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True wisdom calls us to prioritize purity and sanctity, both in our relationship with God and how we interact with others. It is characterized by a genuine desire for peace, rejecting hypocrisy and ambitious pursuits. This wisdom is marked by mercy and compassion, showing kindness to all without showing partiality. Pursuing this wisdom leads to a pure heart and life, free from impure desires, and enables us to yield to the judgments and reasonings of others. It bears good fruits in our thoughts and actions, harmonizing with the heavenly truth revealed in Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.7636705095304537,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.98,
+            "commentatorTierSimilarities": [
+                26.97,
+                37.89,
+                35.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True wisdom prioritizes purity and sanctity, regarding both our relationship with God and our interactions with others. It values peace, detests hypocrisy and ambition, and is devoid of partiality. This wisdom is characterized by mercy, compassion, and a willingness to reconcile. By pursuing this wisdom, we maintain a pure heart and life, free from impure desires, and bear good fruits in our thoughts and actions. It aligns with the heavenly truth revealed in Christ, guiding us towards a harmonious existence with others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.7527384187159116,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                28.35,
+                37.64,
+                34.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

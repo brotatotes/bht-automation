@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:36:39",
+    "verseRef": "James 4:14",
+    "bestBHT": {
+        "bht": "What is your life? It is a fleeting vapor, appearing for a short time and then vanishing into thin air. We cannot predict the future or secure even a moment of continuance in this transient existence. Our audacious plans, built on the frail foundation of our uncertain and evanescent lives, are like smoke that dissipates without a trace. We must recognize the brevity of our days, checking our boldness and submitting to the reality that we do not hold our own destiny in our hands.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.6688241244320487,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+        "commentatorTierSimilarities": [
+            23.62,
+            42.5,
+            33.88
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whereas ye know not the (event) (or, matter, or content: the more general and indefinite, the better.",
+            "of what sort (depreciative, as in 1 Pet. ii. 20) is your life? for (refers to the depreciative force in of what sort: 'I may well pour contempt on it, for\u2026')",
+            "ye are (ye yourselves: so that any thing of yours, even your life, must partake of the same unstability and transitoriness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What nature is your life? That is, how evanescent it is.\" ",
+            "Ye yourselves are transitory; so everything of yours, even your life, must partake of the same transitoriness.\" ",
+            "Afterwards vanishing as it came."
+        ],
+        "Albert Barnes": [
+            "We have no power of penetrating the future so as to be able to determine what will occur in a single day or a single hour, and yet we are almost habitually forming our plans as if we saw with certainty all that is to happen.",
+            "All your plans must depend of course on the continuance of your life; but what a frail and uncertain thing is that! How transitory and evanescent as a basis on which to build any plans for the future!",
+            "The comparison of life with a vapor is common, and is as beautiful as it is just. Like the dissipated vapor, it is entirely gone. There is no remnant, no outline, nothing that reminds us that it ever was."
+        ],
+        "Marvin Vincent": [
+            "Ye know not what your life shalt be on the morrow, for ye are a vapor.",
+            "What is your life? It is even a vapor.",
+            "The vapor vanishes even as it appeared."
+        ],
+        "John Calvin": [
+            "For what is your life? Canst thou, a dying man, do what thou so confidently resolvest to do?",
+            "He who remembers the shortness of his life will have his audacity easily checked so as not to extend too far his resolves.",
+            "By the similitude of vapor, he strikingly shows that the purposes which are founded only on the present life are altogether evanescent."
+        ],
+        "Philip Schaff": [
+            "Ye are a mere vapour; a smoke, or an exhalation from the ground.",
+            "We are but as a smoke which is only seen to vanish; a vapour which rises from the ground at dawn, and disappears long before noon-day.",
+            "Such is the vanity of life; we appear as a flash, and then are swallowed up in darkness."
+        ],
+        "Archibald T. Robertson": [
+            "Who indeed do not know.",
+            "What is your life? Thus Westcott and Hort punctuate it as an indirect question, not direct.",
+            "As vapor. This is the answer."
+        ],
+        "John Gill": [
+            "No man can secure a day, an hour, a moment, and much less a year of continuance in this life; nor can he foresee what will befall him today or tomorrow.\" ",
+            "It is great stupidity to determine on this, and the other, without the leave of God, in whom he lives, moves, and has his being.",
+            "It is even a vapor that appeareth for a little time, and then vanisheth away; which rises out of the earth, or water, and expires almost as soon as it exists."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "What nature is your life? How evanescent it is. Like a vapor, it appears for a little time, and then vanishes away. We have no power to determine what will happen in the future, yet we make plans as if we can. But our plans are built on a frail and uncertain foundation, for our lives are transitory and unpredictable. We are like a mere smoke, a vapor that rises from the ground at dawn and disappears before noon. We must remember the shortness of our lives and not extend our resolves too far, for we cannot secure even a moment of continuance in this world. Our audacity is easily checked when we realize that we do not have control over our own existence.",
+            "wordCount": 124,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 1.6658185823943827,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                25.23,
+                42.59,
+                32.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "What is your life? It is a fleeting vapor, appearing for a short time and then vanishing into thin air. We cannot predict the future or secure even a moment of continuance in this transient existence. Our audacious plans, built on the frail foundation of our uncertain and evanescent lives, are like smoke that dissipates without a trace. We must recognize the brevity of our days, checking our boldness and submitting to the reality that we do not hold our own destiny in our hands.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.6688241244320487,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+            "commentatorTierSimilarities": [
+                23.62,
+                42.5,
+                33.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "How evanescent is your life! Like a vapor, it appears for a little time, then vanishes away. We cannot see into the future or secure even a moment in this transitory existence. Yet we often make plans as if we have complete control. But our plans rest on the uncertain foundation of our brief lives, which are comparable to smoke that quickly dissipates. We must remember the brevity of our days, curbing our audacity and acknowledging our dependence on the divine.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.6468059072312904,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                27.36,
+                40.11,
+                32.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "How evanescent is your life! It is a vapor, appearing for a little time and then vanishing away. We cannot see into the future or secure a single moment in this transient existence. Yet, we so confidently make plans, oblivious to the fragility of our lives. Our audacious resolves rest on a foundation as frail as smoke that dissipates quickly. We must acknowledge the brevity of our days and recognize our limited control, seeking wisdom and humility in the face of our transitory nature.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6141478759770522,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.01,
+            "commentatorTierSimilarities": [
+                26.36,
+                40.74,
+                32.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "How evanescent is your life! It is a vapor, appearing for a little time and then vanishing away. We cannot secure even a moment of continuance in this transient existence. Yet, we often foolishly make plans, unaware of our own mortality. Our audacious resolves rest on a foundation as frail as smoke that quickly dissipates. We must humbly acknowledge the brevity of our days and the unpredictability of life, remembering that we depend on a higher power for our existence.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.592701951142493,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.3,
+            "commentatorTierSimilarities": [
+                25.3,
+                41.13,
+                33.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

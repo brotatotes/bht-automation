@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:40",
+    "verseRef": "James 1:17",
+    "bestBHT": {
+        "bht": "Every good and perfect gift descends from above, from the Father of lights. God, the Father of those glorious fountains of light, is free from all uncertainty and change, unlike the material heavenly bodies. He is the author and maintainer of the lights, and in Him, there is no trace of variation or shadow of a change. The gifts of God, better than the joys of this present life, are contrasted with the evil that springs from man's lust, leading to righteousness, remission of sins, adoption, regeneration, and eternal life.",
+        "wordCount": 91,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 2.3963500995684432,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.02,
+        "commentatorTierSimilarities": [
+            38.39,
+            28.98,
+            32.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Every good gift and every perfect gift descendeth from above, from the Father of the lights.",
+            "Being the Father of those glorious fountains of light, and thus purer and clearer than they all, it cannot be that He should tempt to evil.",
+            "[God], the Father of lights, is free [from all the uncertainty and change of the material heavenly bodies]."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the 'perfect boon' is in contrast to 'sin when it is finished', bringing forth death.",
+            "These [spiritual lights] were typified by the supernatural lights on the breastplate of the high priest, the Urim.",
+            "None of the alternations of light and shadow which the physical 'lights' undergo, and which even the spiritual lights are liable to, as compared with God."
+        ],
+        "Albert Barnes": [
+            "The general sense is, that God is the author of all good. Every thing that is good on the earth we are to trace to him; evil has another origin.",
+            "There is, doubtless, an allusion here to the heavenly bodies, among which the sun is the most brilliant. It appears to us to be the great original fountain of light, diffusing its radiance overall worlds...all the moral light and purity which there is in the universe is to be traced to him.",
+            "With him there is no variableness, not even the appearance of turning. He is always the same, at all seasons of the year, and in all ages; there is no change in his character, his mode of being, his purposes and plans."
+        ],
+        "Marvin Vincent": [
+            "The gifts of God are contrasted with the evil springing from man's lust.",
+            "God is called 'the Father of the lights,' as being their creator and maintainer.",
+            "There is in God not the faintest hint or shade of change."
+        ],
+        "John Calvin": [
+            "This passage teaches us, that we ought to be so affected by God\u2019s innumerable blessings, which we daily receive from his hand, as to think of nothing but of his glory...",
+            "God is called the Father of lights, as possessing all excellency and the highest dignity...",
+            "And to shew that God is ever the same, he adds, 'with whom there is no variableness or the shadow (or shade, of the slightest appearance) of a change;' that is, who never varies in his dealings with men, and shews no symptom of any change, being the author and giver of all good, and the author of no evil, that is, of no sin."
+        ],
+        "Philip Schaff": [
+            "All good is from God.",
+            "Every perfect gift descendeth from above.",
+            "God is the Father of all lights."
+        ],
+        "Archibald T. Robertson": [
+            "God is the Author of light and lights.",
+            "In fact, the text is by no means certain, for Aleph B papyrus of fourth century actually read \u03b7 \u03c4\u03c1\u03bf\u03c0\u03b7\u03c2 \u03b1\u03c0\u03bf\u03c3\u03ba\u03b9\u03b1\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 (the variation of the turning of the shadow).",
+            "At any rate there is no such periodic variation in God like that we see in the heavenly bodies."
+        ],
+        "John Gill": [
+            "Every good gift and every perfect gift... is... better than those which only relate to the present life: and is 'perfect' such as the gifts of righteousness, remission of sins, adoption, regeneration, and eternal life.\" (100 words)",
+            "Every such an one is from above; is not from a man's self, from the creature, or from below, but from heaven, and from God who dwells there.\" (36 words)",
+            "With God, who is light itself, and in him is no darkness at all, there is no change, nor anything like it; he is changeable in his nature, perfections, purposes, promises, and gifts.\" (45 words)"
+        ],
+        "John Wesley": [
+            "No evil, but every good gift - Whatever tends to holiness.",
+            "And every perfect gift \u2014 Whatever tends to glory.",
+            "In God is nothing of this kind. He is mere light. If there Is any such vicissitude, it is in ourselves, not in him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every good and perfect gift comes from above, from the Father of lights. God, the author and giver of all good, is free from any change or uncertainty. He is the creator and maintainer of the lights, and in Him, there is no trace of variation or shadow of a change. All good comes from God, and He is the father of all lights, the source of all moral light and purity in the universe. In Him, there is no hint of evil or darkness, only goodness and perfection. These gifts from God are far better than the temporary and fleeting joys of this present life, for they lead to righteousness, remission of sins, adoption, regeneration, and eternal life.",
+            "wordCount": 119,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.330686707806298,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.84,
+            "commentatorTierSimilarities": [
+                34.45,
+                31.16,
+                34.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every good and perfect gift descends from above, from the Father of lights. God, the Father of those glorious fountains of light, is free from all uncertainty and change, unlike the material heavenly bodies. He is the author and maintainer of the lights, and in Him, there is no trace of variation or shadow of a change. The gifts of God, better than the joys of this present life, are contrasted with the evil that springs from man's lust, leading to righteousness, remission of sins, adoption, regeneration, and eternal life.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.3963500995684432,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.02,
+            "commentatorTierSimilarities": [
+                38.39,
+                28.98,
+                32.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Every good and perfect gift comes from the Father of lights, the creator and maintainer of the lights. God, the author of light and lights, is free from the uncertainty and change that the physical lights undergo. In Him, there is no variableness or shadow of a change. The gifts of God, in contrast to the evil that comes from man's lust, are far superior and lead to righteousness, remission of sins, adoption, regeneration, and eternal life. God's blessings should cause us to think of His glory and recognize Him as the source of all good.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2920240334706454,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.55,
+            "commentatorTierSimilarities": [
+                37.4,
+                29.26,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every good and perfect gift comes from above, from the Father of lights. God, the creator and maintainer of the lights, is free from all uncertainty and change. There is no hint or shade of change in Him. In contrast to evil, which arises from man's desires, the gifts of God are pure and perfect. They are likened to the supernatural lights on the high priest's breastplate, leading to righteousness and eternal life. God's blessings should always remind us of His glory and inspire gratitude.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.253013260758908,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.25,
+            "commentatorTierSimilarities": [
+                37.4,
+                28.49,
+                34.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Father of lights is the source of every good and perfect gift, free from change or temptation to evil. God's gifts are contrasted with the sinful desires of mankind. He is the author of light and lights, and in Him, there is no variableness or hint of change. The gifts that come from above are far superior to the temporal joys of this life. They include righteousness, remission of sins, adoption, regeneration, and eternal life. We should acknowledge and give thanks for the countless blessings we receive from God's hand.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.0923112016402436,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.91,
+            "commentatorTierSimilarities": [
+                34.88,
+                27.96,
+                37.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

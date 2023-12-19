@@ -1,0 +1,92 @@
+{
+    "timestamp": "12-19-2023 17:35:05",
+    "verseRef": "James 2:6",
+    "bestBHT": {
+        "bht": "It is improper to dishonor the poor, those whom God honors, and to favor the rich who oppress and drag you to court. The rich, whom you show respect, are the very ones who treat you unjustly. You have despised the poor and given preference to those who are enemies of both you and Christ. Do not forget that the rich often oppress and drag you to court. This is not to say that all rich men are the same, but rather that you should not dishonor the poor in favor of the rich.",
+        "wordCount": 94,
+        "quoteTokenProportion": 56.25,
+        "qualityScore": 2.375719692419916,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.33,
+        "commentatorTierSimilarities": [
+            26.9,
+            38.95,
+            34.15
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is improper to debase those whom God extols, and to treat contumeliously those whom He counts worthy of honour.\" ",
+            "But God honours the poor: therefore he inverts God\u2019s order, who rejects them.",
+            "Do not the rich oppress you and is it not they that drag you to courts of judgment?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To dishonor the poor is to dishonor those whom God honors, and so to invert the order of God.\" ",
+            "Is it not they (those very persons whom ye partially prefer) that drag you (namely, with violence)?\" ",
+            "Instituting persecutions for religion, as well as oppressive lawsuits, against you."
+        ],
+        "Albert Barnes": [
+            "You despise the poor, do you, and are disposed to honor the rich! Look then, and see how the rich treat you, and see whether you have so much occasion to regard them with any peculiar respect.",
+            "It is probable that then, as since, a considerable portion of those who were Christians were in fact poor, and that this would have all the force of a personal appeal; but still the particular thought is, that it was a characteristic of the rich and the great, whom they were disposed peculiarly to honor, to oppress and crush the poor.",
+            "It was undoubtedly the case that many of the rich were engaged in persecuting Christians, and that on various pretences they dragged them before the judicial tribunals."
+        ],
+        "Marvin Vincent": [
+            "They had manifested their contempt; had done despite to them.",
+            "The preposition kata, against, implies a power exercised for harm.",
+            "The word implies violence. Hence, better, as Rev., drag."
+        ],
+        "John Calvin": [
+            "But the object of James was another; for he only wished to shew that they were without reason or judgment who through ambition honored their executioners, and in the meantime injured their own friends.",
+            "For hence appeared more fully their vanity, that they were induced by no acts of kindness: they only admired the rich, because they were rich; nay, they servilely flattered those whom they found, to their own loss, to be unjust and cruel.",
+            "The more careful then ought the rich to be, lest they should contract any of the contagion which everywhere prevails among those of their own rank."
+        ],
+        "Philip Schaff": [
+            "God has chosen the poor of this world to be rich in faith.",
+            "Now follows a second consideration; that by showing respect to the rich, they give a preference to those who were the enemies both of themselves and of Christ.",
+            "The rich unbelieving Jews were the bitterest enemies to their believing countrymen: they fined and imprisoned them, as apostates from Judaism."
+        ],
+        "Archibald T. Robertson": [
+            "But ye have dishonoured the poor man.\" ",
+            "Already poor Christians are feeling pressure from rich Jews as overlords.",
+            "Drag you...Before the judgment-seats."
+        ],
+        "John Gill": [
+            "But ye have despised the poor...which is a reproaching not only of them, but their Maker; and is in effect saying, that God has done either a weak or a wrong thing...\" (30 words)",
+            "Do not rich men oppress you, and draw you before the judgment seats?...seeing they had but little reason to show so much regard unto them, who had treated them in so evil a manner.\" (42 words)",
+            "This is not to be understood of all rich men; nor is the apostle's design to destroy that natural and civil order there is among men, by reason of their different stations, offices, and circumstances; it being highly proper that honour should he given to whom honour is due, but not to the dishonour of another.\" (50 words)"
+        ],
+        "John Wesley": [
+            "Do not the rich often oppress you \u2014 By open violence; often drag you - Under colour of law."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "It is improper to dishonor the poor, those whom God honors, and to favor the rich who oppress and drag you to court. The rich, whom you show respect, are the very ones who treat you unjustly. You have despised the poor and given preference to those who are enemies of both you and Christ. Do not forget that the rich often oppress and drag you to court. This is not to say that all rich men are the same, but rather that you should not dishonor the poor in favor of the rich.",
+            "wordCount": 94,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.375719692419916,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.33,
+            "commentatorTierSimilarities": [
+                26.9,
+                38.95,
+                34.15
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

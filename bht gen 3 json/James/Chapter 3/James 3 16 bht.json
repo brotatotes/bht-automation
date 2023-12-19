@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:36:09",
+    "verseRef": "James 3:16",
+    "bestBHT": {
+        "bht": "Envy and rivalry lead to confusion and every evil deed. The envious person undermines others, disregarding the unique qualities given by God. In contrast to the peaceable composure of true wisdom, there is tumultuous anarchy. This restless disturbance hinders trust, unity, and cooperation, resulting in a breakdown of collective goals. Love, harmony, and progress become unattainable as wicked passions arise. Envy and strife create a state of disorder, prompting impulsive and harmful actions. It is essential to recognize the destructive nature of envy and rivalry in any context.",
+        "wordCount": 88,
+        "quoteTokenProportion": 23.88,
+        "qualityScore": 1.7492892439469323,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+        "commentatorTierSimilarities": [
+            34.91,
+            25.96,
+            39.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For where is emulation (in a bad sense) and rivalry, there is confusion.",
+            "There is confusion (anarchy, restless disturbance) and every evil thing (or, deed).",
+            "Where there is emulation and rivalry, there is every evil thing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The envious man stands in his own light. He thinks his candle cannot shine in the presence of another's sun.",
+            "He aims directly at men, obliquely at God, who makes men to differ.",
+            "In contrast to the 'peaceable' composure of true 'wisdom', [there is] tumultuous anarchy."
+        ],
+        "Albert Barnes": [
+            "There is no mutual confidence; there is no union of plan and effort; there is no co-operation in promoting a common object; there is no stability in any plan; for a purpose, though for good, formed by one portion, is defeated by another.",
+            "All love and harmony of course are banished; all happiness disappears; all prosperity is at an end. In place of the peaceful virtues which ought to prevail, there springs up every evil passion that tends to mar the peace of a community.",
+            "Where this spirit prevails in a church, it is of course impossible to expect any progress in divine things; and in such a church any effort to do good is vain."
+        ],
+        "Marvin Vincent": [
+            "Confusion [\u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1] .",
+            "Evil [\u03c6\u03b1\u03c5\u03bb\u03bf\u03bd] . An inadequate rendering...",
+            "Rev., vile, which, according to its etymology, Lat., vilis, follows the same process of development from cheap, or paltry, to bad."
+        ],
+        "John Calvin": [
+            "For wisdom requires a state of mind that is calm and composed, but envying disturbs it, so that in itself it becomes in a manner tumultuous, and boils up immoderately against others.",
+            "For James meant to express something more than levity, even that the malignant and the slanderer does everything confusedly and rashly, as though he were beside himself.",
+            "And hence he adds, every evil work."
+        ],
+        "Philip Schaff": [
+            "For, the reason assigned for the above description of earthly wisdom, where envying and strife is; where zeal (in a bad sense) and party-strife are, there is confusion and every evil work all kinds of wickedness.\" (James 3:16)",
+            "Certainly the reference is primarily to religious controversy.\" (James 3:16)",
+            "...the supposition that the controversy between the Jewish and Gentile Christians is here referred to is without foundation.\" (James 3:16)"
+        ],
+        "Archibald T. Robertson": [
+            "Confusion (\u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1). Late word (from \u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c4\u03bf\u03c2), a state of disorder.",
+            "Vile (\u03c6\u03b1\u03c5\u03bb\u03bf\u03bd). Kin to German faul, first slight, ordinary, then bad.",
+            "The steps are cheap, paltry, evil."
+        ],
+        "John Gill": [
+            "For where envying and strife is... there is confusion and every evil work.\" ",
+            "These occasion disturbances, raise uneasiness, make disquietude, and cause tumults whenever they appear.\" ",
+            "Put persons upon doing everything that is wicked, to gratify such insatiable lusts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When envy and rivalry exist, confusion ensues and all sorts of evil deeds are carried out. This destructive state of unrest and disorder is in stark contrast to the peace and composure that true wisdom brings. Those who are envious seek to undermine others, disregarding the unique qualities that God has given each individual. This unhealthy pursuit of comparison and competition leads to a breakdown in trust, unity, and cooperation, resulting in the derailment of any collective goal. In such an atmosphere, love, harmony, and progress become impossible, giving way to a multitude of wicked passions. The malicious and slanderous nature of envy and strife compels individuals to act impulsively and frantically, causing confusion and chaos. It is important to recognize that this verse is not limited to religious controversies but speaks to the broader implications of envy and rivalry in any context.",
+            "wordCount": 143,
+            "quoteTokenProportion": 25.51,
+            "qualityScore": 1.756675413177883,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.75,
+            "commentatorTierSimilarities": [
+                29.0,
+                31.61,
+                39.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Envy and rivalry breed confusion and every evil work. These negative qualities disrupt the peace and composure that wisdom brings. The envious person disregards their own light in an attempt to overshadow others. This pursuit of comparison and competition deviates from God's intention for individuals to appreciate their unique differences. In this state of unrest, trust, unity, and cooperation break down, preventing progress and fostering wicked passions. It is crucial to recognize how envy and strife cause chaos and disturbance in various contexts, not just religious controversies.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.6344425931267217,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                31.51,
+                26.24,
+                42.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Envy and rivalry lead to confusion and every evil deed. The envious person undermines others, disregarding the unique qualities given by God. In contrast to the peaceable composure of true wisdom, there is tumultuous anarchy. This restless disturbance hinders trust, unity, and cooperation, resulting in a breakdown of collective goals. Love, harmony, and progress become unattainable as wicked passions arise. Envy and strife create a state of disorder, prompting impulsive and harmful actions. It is essential to recognize the destructive nature of envy and rivalry in any context.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.7492892439469323,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.51,
+            "commentatorTierSimilarities": [
+                34.91,
+                25.96,
+                39.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Envy and rivalry bring about confusion and every evil thing. The envious individual stands in their own light, believing their candle cannot shine in the presence of another's sun. They direct their efforts towards others, rather than towards God who distinguishes and blesses each person. This destructive mindset leads to disorder and wickedness. In the absence of mutual trust and cooperation, unity and progress are unattainable. It is important to recognize the harmful effects of envy and rivalry, which disrupt peace and harmony in any context.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7183373530341297,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.48,
+            "commentatorTierSimilarities": [
+                32.55,
+                28.38,
+                39.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Envy and rivalry lead to confusion and every evil deed. The envious person undermines others, disregarding the unique qualities given by God. This restless disturbance hinders trust, unity, and cooperation, resulting in a breakdown of collective goals. Love, harmony, and progress become unattainable as wicked passions arise. Envy and strife create a state of disorder, prompting impulsive and harmful actions. It is crucial to recognize the destructive nature of envy and rivalry in any context.",
+            "wordCount": 75,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.7145475067941982,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+            "commentatorTierSimilarities": [
+                33.82,
+                25.74,
+                40.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

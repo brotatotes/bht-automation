@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:35:38",
+    "verseRef": "James 2:7",
+    "bestBHT": {
+        "bht": "By dishonoring the poor in comparison with the rich, one is contravening the standard of honor set by God, and in turn, helping to blaspheme the name of Christ. The rich heathen and rich Christians, by their inconsistency, directly cause Christ's name to be blasphemed. This is a disgraceful act, for the name of Christ is a beautiful and honorable name invoked in baptism. It is crucial that Christians do not engage in such behavior, as it leads to the dishonor and blasphemy of Christ's name among both Jews and Gentiles.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.5039724513487043,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.6,
+        "commentatorTierSimilarities": [
+            35.11,
+            31.9,
+            33.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is it not they that blaspheme the goodly name which was called on you?",
+            "So that if ye thus dishonour the poor in comparison with the rich, you are contravening the standard of honour which God sets up in His dealings.",
+            "Opposing your own interest... helping to blaspheme the name of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rich heathen must here chiefly be meant for none others would directly blaspheme the name of Christ.",
+            "Only indirectly rich Christians can be meant, who, by their inconsistency, caused His name to be blasphemed.",
+            "They who dishonor God's name by wilful and habitual sin, 'take (or bear) the Lord's name in vain.'"
+        ],
+        "Albert Barnes": [
+            "They who persecuted Christians, would revile the name which they bore... many of those who were not disposed to engage in open persecution, would revile the name of Christ, by speaking contemptuously of him and his religion.",
+            "Nothing has been more remarkable than the very thing adverted to here by James, that notwithstanding this, many who profess to be Christians have been more disposed to treat even such persons with respect and attention than they have their own brethren, if they were poor.",
+            "There is many a professing Christian who would prefer to be at a party given by such persons than at a prayer-meeting where their poorer brethren are assembled; who would rather be known by the world to be the associates and friends of such persons, than of those humble believers who can make no boast of rank or wealth."
+        ],
+        "Marvin Vincent": [
+            "Is it not they who blaspheme?\" ",
+            "The disgracefulness of the blasphemy is emphasized.\" ",
+            "The name of Christ, invoked in baptism."
+        ],
+        "John Calvin": [
+            "The good name in which ye glory, or which ye deem it an honor to be called by.\" ",
+            "If they proudly calumniate the glory of God, how unworthy are they of being honored by Christians!",
+            "How unworthy are they of being honored by Christians!"
+        ],
+        "Philip Schaff": [
+            "Is it not they who blaspheme.",
+            "It is a goodly name, for Christ is the Lord of glory, the Founder of Christianity, the Messiah promised to their fathers.",
+            "The allusion is to the name of God being put upon the children of Israel to distinguish them as His property."
+        ],
+        "Archibald T. Robertson": [
+            "Blaspheme (\u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03bf\u03c5\u03c3\u03b9\u03bd). Present active indicative of common verb \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03b5\u03c9 (from \u03b2\u03bb\u03b1\u03c3\u03c6\u03b7\u03bc\u03bf\u03c2, speaking evil, \u03b2\u03bb\u03b1\u03be or \u03b2\u03bb\u03b1\u03c0\u03c4\u03c9 and \u03c6\u03b7\u03bc\u03b7), as in Luke 22:65.",
+            "The honourable name (\u03c4\u03bf \u03ba\u03b1\u03bb\u03bf\u03bd \u03bf\u03bd\u03bf\u03bc\u03b1). 'The beautiful name.'",
+            "It was blasphemy to speak against Christ as some Jews and Gentiles were doing (Acts 13:45; Acts 18:6; Acts 26:11; 1 Corinthians 12:3; 1 Timothy 1:13)."
+        ],
+        "John Gill": [
+            "Do they not blaspheme that worthy name,.... Of Christ, or Christians;",
+            "by the which ye are called?",
+            "caused the name of Christ, after which they were called Christians, to be blasphemed and evil spoken of, among the Gentiles."
+        ],
+        "John Wesley": [
+            "Do not they blaspheme that worthy name \u2014 Of God and of Christ.",
+            "The apostle speaks chiefly of rich heathens: but are Christians, so called, a whit behind them?",
+            "But are Christians, so called, a whit behind them?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who dishonor the poor in favor of the rich are contravening the standard of honor which God sets up. By doing so, they are indirectly blaspheming the name of Christ and causing it to be spoken against. It is the rich heathens, and even rich Christians, who engage in such behavior and bring disgrace upon the honorable name of Christ. This blasphemy against Christ's name is emphasized, for it is a beautiful name that was invoked in our baptism. It is a name that should be respected and revered, not defamed. Christians should not associate themselves more closely with the wealthy and powerful than with their poorer brethren, for by doing so they are contributing to the dishonor and blasphemy of Christ's name.",
+            "wordCount": 126,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.337670607215202,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.07,
+            "commentatorTierSimilarities": [
+                34.75,
+                32.26,
+                32.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who dishonor the poor in comparison to the rich are contravening God's standard of honor and indirectly blaspheming the name of Christ. It is the rich heathens and even rich Christians who cause His name to be spoken against, bringing disgrace upon it. This blasphemy against the honorable name of Christ, invoked in baptism, should be emphasized. Christians should not prioritize association with the wealthy over their poorer brethren, as this contributes to dishonoring and blaspheming Christ's name.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.45329661375683,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.91,
+            "commentatorTierSimilarities": [
+                34.53,
+                33.21,
+                32.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By dishonoring the poor in favor of the rich, one is contravening God's standard of honor and, in turn, blaspheming the name of Christ. The rich heathens, and even rich Christians, who engage in this behavior directly cause Christ's name to be spoken against. As Christians, we must not contribute to the dishonor of Christ's name by prioritizing association with the wealthy over our poorer brethren. Instead, we should uphold the honor of His beautiful name, which was invoked in our baptism.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.2850987914028353,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.32,
+            "commentatorTierSimilarities": [
+                33.39,
+                34.07,
+                32.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who dishonor the poor in comparison to the rich are contravening God's standard of honor and indirectly blaspheming the name of Christ. It is the rich heathens and even rich Christians who cause His name to be spoken against, bringing disgrace upon it. This blasphemy against the honorable name of Christ, invoked in baptism, should be emphasized. Christians should not prioritize association with the wealthy over their poorer brethren, as this contributes to dishonoring and blaspheming His name.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.4368942006216248,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.37,
+            "commentatorTierSimilarities": [
+                34.78,
+                33.36,
+                31.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By dishonoring the poor in comparison with the rich, one is contravening the standard of honor set by God, and in turn, helping to blaspheme the name of Christ. The rich heathen and rich Christians, by their inconsistency, directly cause Christ's name to be blasphemed. This is a disgraceful act, for the name of Christ is a beautiful and honorable name invoked in baptism. It is crucial that Christians do not engage in such behavior, as it leads to the dishonor and blasphemy of Christ's name among both Jews and Gentiles.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.5039724513487043,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.6,
+            "commentatorTierSimilarities": [
+                35.11,
+                31.9,
+                33.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

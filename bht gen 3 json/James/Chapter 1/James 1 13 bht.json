@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 17:35:10",
+    "verseRef": "James 1:13",
+    "bestBHT": {
+        "bht": "God is unversed in things evil, but He does not entice or tempt anyone to sin. Temptation does not spring from God, but rather from human inclination or the allurements of the devil. Although God allows individuals to undergo trials, His purpose is not to lead them into sin, but to test and purify their character. It is important that we do not accuse God or place blame on Him for our own sinful choices, as His intentions are focused on guiding us towards righteousness.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.7468494299135955,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.67,
+        "commentatorTierSimilarities": [
+            28.58,
+            35.76,
+            35.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God ordains the temptation, overrules the temptation, but does not tempt, is not the spring of the solicitation to sin.",
+            "There does not seem to be any allusion to the fatalism of the Pharisees, as some seem to think: the fault is one of common life.",
+            "God is unversed in things evil, but HE tempteth no man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let no one fancy that God lays upon him an inevitable necessity of sinning.",
+            "Neither do any of our sins tempt God to entice us to worse things, nor does He tempt any of His own accord.",
+            "God is said in Genesis 22:1 to have 'tempted Abraham'; but there the tempting meant is that of trying or proving, not that of seducement."
+        ],
+        "Albert Barnes": [
+            "No one should charge it on God. He did nothing in any way with a view to induce men to do evil.\" ",
+            "Nothing can be presented to his mind as an inducement to do wrong, and as little can he present anything to the mind of man to induce him to sin.\" ",
+            "God does not place inducements before us with a view that we should sin, or in order to lead us into sin. None of his decrees, or his arrangements, or his desires, are based on that, but all have some other purpose and end."
+        ],
+        "Marvin Vincent": [
+            "But some of the best expositors render is unversed in evil things, as better according both with the usage of the word and with the context...\" ",
+            "'Apeirastov only here in New Testament.\" ",
+            "Neither tempteth he [\u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03b5\u03b9 \u03b4\u03b5 \u03b1\u03c5\u03c4\u03bf\u03c2] . The A. V. fails to render aujtov :\" He himself tempteth no man."
+        ],
+        "John Calvin": [
+            "The fact really is, that we are not otherwise led astray, except that every one has his own inclination as his leader and impeller.",
+            "For it is the devil who allures us to sin, and for this reason, because he wholly burns with the mad lust of sinning.",
+            "Being himself unassailable by evils, he cannot seduce others to what is evil. As God cannot be tempted to do what is sinful, he cannot possibly tempt others to sin."
+        ],
+        "Philip Schaff": [
+            "If, instead of enduring the temptation, we yield to it and are overcome by it, we must not lay the blame of our fall from virtue upon God.",
+            "These two views of temptation involve each other; what is a test of character may also be a solicitation to sin.",
+            "God certainly tempts in the sense of tries. But the design of the Divine trying is not to excite to sin, not that sin should arise, but that it should be overcome; He tries our virtues, in order that they may be purified."
+        ],
+        "Archibald T. Robertson": [
+            "Temptation does not spring 'from God.'",
+            "Temptation does not spring 'from God.'",
+            "Because 'untemptable'."
+        ],
+        "John Gill": [
+            "Let no man say when he is tempted... that I am tempted of God... sinful men are apt to charge God with their sins, and temptations to them.",
+            "God cannot be tempted with evil... he is proof against all such temptations.",
+            "He never tempts or solicits them [the righteous ones] to sin... temptations to sin come from another quarter."
+        ],
+        "John Wesley": [
+            "But let no man who is tempted - To sin.",
+            "Say, I am tempted of God \u2014 God thus tempteth no man."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "God does not tempt anyone to sin, nor does He have any inclination or desire for mankind to give in to temptation. Rather, He allows individuals to undergo trials and tests to strengthen and purify their character. It is important to understand that temptations do not originate from God, but rather from human inclinations or the enticing efforts of the devil. Therefore, it is futile to accuse God of leading us astray or blame Him for our sins, as His intentions are pure and focused on guiding us towards righteousness. ",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.4399535707996227,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.47,
+            "commentatorTierSimilarities": [
+                25.81,
+                37.03,
+                37.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is unversed in things evil, but He does not entice or tempt anyone to sin. Temptation does not spring from God, but rather from human inclination or the allurements of the devil. Although God allows individuals to undergo trials, His purpose is not to lead them into sin, but to test and purify their character. It is important that we do not accuse God or place blame on Him for our own sinful choices, as His intentions are focused on guiding us towards righteousness.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.7468494299135955,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.67,
+            "commentatorTierSimilarities": [
+                28.58,
+                35.76,
+                35.66
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

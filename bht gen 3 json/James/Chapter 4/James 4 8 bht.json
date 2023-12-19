@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:36:32",
+    "verseRef": "James 4:8",
+    "bestBHT": {
+        "bht": "To draw near to God, we must resist Satan and cleanse both our hands and hearts from impurity. The double-mindedness of being divided between God and the world must be overcome. By approaching God in prayer and seeking His grace with true hearts, we open ourselves to His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God, for He is the one who draws nigh to those who draw nigh to Him.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.120986604839821,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.86,
+        "commentatorTierSimilarities": [
+            29.64,
+            35.87,
+            34.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Draw nigh to God\u2014So 'cleave unto Him,' Deuteronomy 30:20, namely, by prayerfully... 'resisting Satan'... who would oppose our access to God.\" ",
+            "Cleanse... hands\u2014the outward instruments of action. None but the clean-handed can ascend into the hill of the Lord... 'purify... hearts'... the inward source of all impurity.",
+            "Double-minded\u2014divided between God and the world. The 'double-minded' is at fault in heart; the sinner in his hands likewise."
+        ],
+        "Albert Barnes": [
+            "If we wish the favor of God, we must come to him; nor can we hope for his mercy, unless we approach him and ask him for it.",
+            "To obtain the favor of God, it is necessary to put away our sins; to approach him with a desire to be pure and holy.",
+            "If the heart is wrong, nothing can be right. If, while we seek an external reformation, we still give indulgence to the secret corruptions of the heart, it is clear that we can have no true religion."
+        ],
+        "Marvin Vincent": [
+            "Purify. One of the three instances in the New Testament in which the word is not used of ceremonial purification.",
+            "Double minded. Compare ch. 1 8."
+        ],
+        "John Calvin": [
+            "But as God stands on our side, there is no reason to fear succumbing.",
+            "He is like one who brings the hungry to a table and the thirsty to a fountain.",
+            "We hence learn what is the true character of repentance. It is not only an outward amendment of life, but its beginning is the cleansing of the heart."
+        ],
+        "Philip Schaff": [
+            "Draw nigh to God: not to be limited to prayer, but to be understood of our intercourse with God generally.",
+            "Cleanse your hands, ye sinners...The hands are specially mentioned as being the instruments of wickedness.",
+            "Ye double-minded: having, as it were, two souls the one professing to be attached to God, and the other really attached to the world."
+        ],
+        "Archibald T. Robertson": [
+            "Draw nigh to God... as the priests in the sanctuary drew nigh to God, as we should now.",
+            "Cleanse your hands... if we always had clean (from sin) hands and hearts?",
+            "Ye sinners... a reproach meant to startle and sting."
+        ],
+        "John Gill": [
+            "They draw nigh to him when they come to the throne of his grace, for grace and mercy to help them; when they draw near to him in prayer with true hearts, and lift them up with their hands to God; when in the exercise of faith and hope they enter within the vail, and come up even to his seat...\" ",
+            "...he draws nigh to them by granting them his gracious presence, by communicating his love to them, by applying the blessings of his grace, by helping them in times of need and distress, and by protecting them from their enemies...",
+            "Cleansing of their hands and hearts denotes the purity of outward conversation, and of the inward affections; and supposes impurity both of flesh and spirit, that the body and all its members, the soul and all its powers and faculties, are unclean; and yet not that men have a power to cleanse themselves..."
+        ],
+        "John Wesley": [
+            "Then draw nigh to God in prayer, and he will draw nigh unto you.\" ",
+            "Cleanse your hands - Cease from doing evil.\" ",
+            "And purify your hearts \u2014 From all spiritual adultery. Be no more double minded, vainly endeavoring to serve both God and mammon."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To draw near to God, we must resist Satan and cleanse both our hands and hearts from impurity. The double-mindedness of being divided between God and the world must be overcome. This purification is not merely external, but a cleansing of the heart. By approaching God in prayer and seeking His grace with true hearts, we open ourselves to His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God, for He is the one who draws nigh to those who draw nigh to Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0579927838473937,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                30.33,
+                34.87,
+                34.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To draw near to God, we must resist Satan and cleanse both our hands and hearts from impurity. The double-mindedness of being divided between God and the world must be overcome. By approaching God in prayer and seeking His grace with true hearts, we open ourselves to His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God, for He is the one who draws nigh to those who draw nigh to Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.120986604839821,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.86,
+            "commentatorTierSimilarities": [
+                29.64,
+                35.87,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To draw near to God, we must resist Satan and cleanse our hands and hearts from impurity. This purification is not merely external but requires a deep cleansing of the heart. By approaching God in prayer with true hearts and seeking His grace, we open ourselves to His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God. For when we draw near to Him, He draws near to us, pouring out His love and granting us the blessings of His grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.041847735225592,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.23,
+            "commentatorTierSimilarities": [
+                29.49,
+                34.62,
+                35.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To draw near to God, we must resist Satan and cleanse both our hands and hearts from impurity. The double-mindedness of being divided between God and the world must be overcome. By approaching God in prayer and seeking His grace with true hearts, we open ourselves to His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God, for He is the one who draws nigh to those who draw nigh to Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.120986604839821,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.86,
+            "commentatorTierSimilarities": [
+                29.64,
+                35.87,
+                34.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To draw near to God, we must resist Satan and cleanse our hands and hearts from impurity. This requires a deep cleansing of the heart, not just external reform. By approaching God in prayer with true hearts, we invite His presence and protection. Let us cease from doing evil, purify our hearts, and be single-minded in our devotion to God. When we draw near to Him, He draws near to us, extending His grace and help in times of need.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9414621396107374,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.89,
+            "commentatorTierSimilarities": [
+                28.49,
+                35.56,
+                35.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

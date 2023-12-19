@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 17:35:38",
+    "verseRef": "James 1:27",
+    "bestBHT": {
+        "bht": "Pure and undefiled religion, the right spirit of religion, demands personal contact with the world's sorrow: to visit the afflicted, and to visit them in their affliction. God is so called to imply that if we would be like our Father, it is not by fasting, for He does none of these things, but in being merciful as our Father is merciful. Religion in its rise interests us about ourselves in its progress, about our fellow creatures: in its highest stage, about the honor of God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.9386639970905306,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+        "commentatorTierSimilarities": [
+            43.75,
+            25.66,
+            30.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Religious service pure and unpolluted...is this, To visit orphans and widows in their affliction.",
+            "To preserve himself unspotted from the world...the whole earthly creation, separated from God, and lying in sin, which...is to Christians a source of continual defilement.",
+            "This keeping is indeed in the higher sense God's work, but it is also our work."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Pure\" expresses the positive, \"undefiled\" the negative side of religious service.",
+            "God is so called to imply that if we would be like our Father, it is not by fasting, c., for He does none of these things, but in being \"merciful as our Father is merciful.",
+            "Religion in its rise interests us about ourselves in its progress, about our fellow creatures: in its highest stage, about the honor of God."
+        ],
+        "Albert Barnes": [
+            "The phrase 'pure religion' means that which is genuine and sincere, or which is free from any improper mixture.\" ",
+            "Pure religion will lead to a life of practical benevolence; and, ",
+            "(2)That it will keep us unspotted from the world.",
+            "If a man is truly benevolent, he bears the image of that God who is the fountain of benevolence; if he is pure and uncontaminated in his walk and deportment, he also resembles his Maker, for he is holy."
+        ],
+        "Marvin Vincent": [
+            "The two adjectives, pure and undefiled, present the positive and negative sides of purity.",
+            "Pure and undefiled religion demands personal contact with the world's sorrow: to visit the afflicted, and to visit them in their affliction.",
+            "That far nobler charity which makes men familiar with the haunts of wretchedness, and follows the object of its care through all the phases of his life."
+        ],
+        "John Calvin": [
+            "Pure religion...is nothing;...religion without...important duties...is not to be estimated by the pomp of ceremonies.\" ",
+            "Let him who would be deemed religious, prove himself to be such by self denial and by mercy and benevolence towards his neighbors.\" ",
+            "We ought to seek what pleases him."
+        ],
+        "Philip Schaff": [
+            "Not, as some arbitrarily think, 'pure' referring to the inner, and 'undefiled' to the external life.",
+            "Pure and undefiled may almost be regarded as synonymous terms, the one expressing the idea positively, and the other negatively.",
+            "Personal purity which, like the delicate pupil of the eye, shrinks from the very approach of everything which defileth."
+        ],
+        "Archibald T. Robertson": [
+            "Pure religion and undefiled...the right spirit of religion which leads to such acts.",
+            "To visit...the fatherless and widows...the natural objects of charity in the community.",
+            "Unspotted...the harder to execute...to keep oneself un-specked from the world."
+        ],
+        "John Gill": [
+            "Pure religion and undefiled, before God and the Father, is this\" ",
+            "To visit the fatherless and widows in their affliction\" ",
+            "To keep himself unspotted from the world"
+        ],
+        "John Wesley": [
+            "The only true religion in the sight of God, is this, to visit - With counsel, comfort, and relief.\" ",
+            "The fatherless and widows \u2014 Those who need it most.\" ",
+            "And to keep himself unspotted from the world \u2014 From the maxims, tempers, and customs of it. But this cannot be done, till we have given our hearts to God, and love our neighbour as ourselves."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pure and undefiled religion, the right spirit of religion, demands personal contact with the world's sorrow: to visit the afflicted, and to visit them in their affliction. God is so called to imply that if we would be like our Father, it is not by fasting, for He does none of these things, but in being merciful as our Father is merciful. Religion in its rise interests us about ourselves in its progress, about our fellow creatures: in its highest stage, about the honor of God. It is a personal purity which, like the delicate pupil of the eye, shrinks from the very approach of everything which defileth.",
+            "wordCount": 109,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.8878676508590924,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                39.9,
+                33.42,
+                26.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pure and undefiled religion, the right spirit of religion, demands personal contact with the world's sorrow: to visit the afflicted, and to visit them in their affliction. God is so called to imply that if we would be like our Father, it is not by fasting, for He does none of these things, but in being merciful as our Father is merciful. Religion in its rise interests us about ourselves in its progress, about our fellow creatures: in its highest stage, about the honor of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.9386639970905306,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+            "commentatorTierSimilarities": [
+                43.75,
+                25.66,
+                30.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pure and undefiled religion, the right spirit of religion, demands personal contact with the world's sorrow: to visit the afflicted, and to visit them in their affliction. God is so called to imply that if we would be like our Father, it is not by fasting, for He does none of these things, but in being merciful as our Father is merciful. Religion in its rise interests us about ourselves in its progress, about our fellow creatures: in its highest stage, about the honor of God. It is a personal purity which, like the delicate pupil of the eye, shrinks from the very approach of everything which defileth.",
+            "wordCount": 109,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.8878676508590924,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.11,
+            "commentatorTierSimilarities": [
+                39.9,
+                33.42,
+                26.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pure and undefiled religion demands personal contact with the world's sorrow: to visit the afflicted and to visit them in their affliction, being merciful as our Father is merciful. Religion in its rise interests us about ourselves, about our fellow creatures, and ultimately about the honor of God. It is a personal purity that shrinks from the very approach of everything that defiles. This true spirit of religion prioritizes acts of mercy, self-denial, and benevolence towards others, reflecting the image of our holy Maker.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.992700905017951,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                38.55,
+                32.42,
+                29.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pure and undefiled religion demands personal contact with the world's sorrow, visiting the afflicted in their affliction and practicing mercy like our Father does. It involves being unspotted from the world, separating oneself from the defilement of sin. This genuine and sincere religion focuses on personal purity, avoiding everything that defiles. It encompasses acts of benevolence and self-denial, resembling the benevolent nature of God. True religion is not about ceremonies or rituals, but about selflessness and demonstrating love towards others.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9646727832327366,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                36.13,
+                32.27,
+                31.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
