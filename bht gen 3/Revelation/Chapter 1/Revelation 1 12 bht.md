@@ -1,68 +1,78 @@
 # Revelation 1:12 Commentary Help Text
 
 ## BHT:
-The seven golden candlesticks represent the local churches, each with its own candlestick. While they are independent in ceremonies and government, they are united in the unity of the Spirit and the Headship of Christ. The candlestick is not the light itself, but the bearer of light, reflecting the Lord's light. The voice in the vision is God the Father presenting Christ as our High Priest. The churches receive their light from Christ, shining with excellence and purity.
+The representation of the seven golden candlesticks reveals the entire church, though no longer bound in one unity. Each local church has its own candlestick, showcasing distinctiveness. Despite varying external practices, churches share the unity of the Spirit under Christ's Headship. These candlesticks serve as vessels to hold forth the Lord's light, emphasizing the church's cherished value. The number seven signifies the richness and fullness of the New Testament dispensation. Ultimately, the candlesticks communicate the church's significance and esteem in Christ's eye.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "the seven golden candlesticks are [united in one] part of the furniture of the tabernacle" 
-2. "Here there are seven separate candlesticks, typifying, as that one, the entire church, but now no longer bound together in one outward unity and one place."
-3. "Each local church has now its candlestick, to be retained or removed from its place according to its own works"
+1. "The seven golden candlesticks are [united in one] part of the furniture of the tabernacle...Here there are seven separate candlesticks, typifying, as that one, the entire church, but now no longer bound together in one outward unity and one place." 
+2. "Each local church has now its candlestick, to be retained or removed from its place according to its own works."
+3. "The seven golden candlesticks...typifying...the entire church."
 
 ### Jamieson-Fausset-Brown:
 1. "The voice is that of God the Father, as at Christ's baptism and transfiguration, so here in presenting Christ as our High Priest."
-2. "The several churches are mutually independent as to external ceremonies and government (provided all things are done to edification, and schisms or needless separations are avoided), yet one in the unity of the Spirit and the Headship of Christ."
-3. "The candlestick is not light, but the bearer of light, holding it forth to give light around. The light is the Lord's, not the Church's; from Him she receives it. She is to be a light-bearer to His glory."
+2. "The several churches are mutually independent as to external ceremonies and government, yet one in the unity of the Spirit and the Headship of Christ."
+3. "The candlestick is not light, but the bearer of light, holding it forth to give light around. The light is the Lord's, not the Church's; from Him she receives it."
 
 ### Albert Barnes:
 1. "To see the 'voice' here means to see the 'person' who spake."
-2. "These were the 'first' things that met his eye... there 'seemed' to be there seven such lamps or candelabras."
-3. "The lamp-bearers evidently sustained each a light, and these gave a special brilliancy to the scene."
+2. "The lamp-bearers evidently sustained each a light, and these gave a special brilliancy to the scene."
+3. "A Christian church may be represented as a light standing in the midst of surrounding darkness."
 
 ### Philip Schaff:
-1. "The first thing that strikes his eyes as the outer circle of the vision is seven golden candlesticks, each of them like the golden candlestick of the Tabernacle."
+1. "The Seer naturally turns to see; and the first thing that strikes his eyes as the outer circle of the vision is seven golden candlesticks, each of them like the golden candlestick of the Tabernacle."
 2. "That we have seven candlesticks instead of one points to the richness and fulness of the New Testament Dispensation in its contrast with the Old."
 3. "The number seven is not less expressive of unity than unity itself."
 
 ### Archibald T. Robertson:
 1. "The voice put for the person speaking."
+2. "Seven golden candlesticks. Symbols of the seven churches."
+3. "Here the lampstands are separate."
 
 ### John Gill:
-1. "so the churches of Christ have no light of themselves, but what is put into them; and the light which is put into them, is not the mere light of nature, nor the law of Moses, but the Gospel of Christ"
-2. "this light is put into the churches by Christ, whose the Gospel is, and who is himself come a light into the world"
-3. "they are compared to 'golden' candlesticks, because of their excellency, preciousness, and value, in the esteem of Christ; and for their brightness and purity in doctrine, discipline, and life"
+1. "These [churches] have none of themselves, but what is put into them, and being put into them, they hold it forth."
+2. "The light which is put into them, is not the mere light of nature, nor the law of Moses, but the Gospel of Christ."
+3. "They [the churches] are compared to 'golden' candlesticks, because of their excellency, preciousness, and value, in the esteem of Christ."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-18-2023 19:29:23
+- Timestamp: 12-19-2023 00:41:31
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 38.0%
-- BHT Quality Score: 1.8372345447637115
+- BHT Word Count: 87
+- BHT Commentary Usage: 25.0%
+- BHT Quality Score: 1.879852442981813
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (50):
-	['and', 'are', 'as', 'bearer', 'but', 'candlestick', 'candlesticks', 'ceremonies', 'christ', 'churches', 'each', 'excellence', 'father', 'from', 'god', 'golden', 'government', 'headship', 'high', 'in', 'independent', 'is', 'its', 'itself', 'light', 'local', 'lord', 'not', 'of', 'our', 'own', 'presenting', 'priest', 'purity', 'receive', 'reflecting', 'represent', 's', 'seven', 'shining', 'spirit', 'the', 'their', 'they', 'united', 'unity', 'vision', 'voice', 'while', 'with']
-- ChatGPT injected words (significant words only) (31):
-	['bearer', 'candlestick', 'candlesticks', 'ceremonies', 'christ', 'churches', 'excellence', 'father', 'god', 'golden', 'government', 'headship', 'high', 'independent', 'light', 'local', 'lord', 'presenting', 'priest', 'purity', 'receive', 'reflecting', 'represent', 's', 'seven', 'shining', 'spirit', 'united', 'unity', 'vision', 'voice']
+- ChatGPT injected words (60):
+	['and', 'as', 'bound', 'candlestick', 'candlesticks', 'cherished', 'christ', 'church', 'churches', 'communicate', 'despite', 'dispensation', 'distinctiveness', 'each', 'emphasizing', 'entire', 'esteem', 'external', 'eye', 'forth', 'fullness', 'golden', 'has', 'headship', 'hold', 'in', 'its', 'light', 'local', 'longer', 'lord', 'new', 'no', 'number', 'of', 'one', 'own', 'practices', 'representation', 'reveals', 'richness', 's', 'serve', 'seven', 'share', 'showcasing', 'significance', 'signifies', 'spirit', 'testament', 'the', 'these', 'though', 'to', 'ultimately', 'under', 'unity', 'value', 'varying', 'vessels']
+- ChatGPT injected words (significant words only) (45):
+	['bound', 'candlestick', 'candlesticks', 'cherished', 'christ', 'church', 'churches', 'communicate', 'despite', 'dispensation', 'distinctiveness', 'emphasizing', 'entire', 'esteem', 'external', 'eye', 'forth', 'fullness', 'golden', 'headship', 'hold', 'light', 'local', 'longer', 'lord', 'new', 'number', 'practices', 'representation', 'reveals', 'richness', 's', 'serve', 'seven', 'share', 'showcasing', 'significance', 'signifies', 'spirit', 'testament', 'ultimately', 'unity', 'value', 'varying', 'vessels']
 
 ### Logs
-- Attempt 1 BHT: The seven golden candlesticks represent the local churches, no longer bound together in one outward unity. Each church has its own candlestick, symbolizing their independence in external ceremonies and government. Yet, they are united in the unity of the Spirit and the Headship of Christ. The candlestick is not the light itself, but the bearer of light, showcasing the Lord's light to the world. The voice in the vision represents God the Father presenting Christ as our High Priest. Just as the churches have no light of themselves, but receive it from Christ, they are compared to golden candlesticks for their excellence, preciousness, and brightness in doctrine, discipline, and life.
-- 🔄 Revelation 1:12 (attempt 1, 111 words, 39.44% quotes quality score: 1.8675973078760268, V2 normalized quality score: 53.44, commentator tiers 1-3: 32.66%, 24.74%, 42.6%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 2 BHT: The seven golden candlesticks represent the local churches, each with its own candlestick, symbolizing their independence in ceremonies and government. Yet, they are united in the unity of the Spirit and the Headship of Christ. The candlestick is not the light itself, but the bearer of light, showcasing the Lord's light. The voice in the vision represents God the Father presenting Christ as our High Priest. The churches have no light of themselves, but receive it from Christ, shining with excellence and purity.
-- 🔄 Revelation 1:12 (attempt 2, 84 words, 41.07% quotes quality score: 1.8625812682480127, V2 normalized quality score: 53.27, commentator tiers 1-3: 32.17%, 24.41%, 43.42%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 3 BHT: The seven golden candlesticks represent the local churches, each with its own candlestick. While they are independent in ceremonies and government, they are united in the unity of the Spirit and the Headship of Christ. The candlestick is not the light itself, but the bearer of light, reflecting the Lord's light. The voice in the vision is God the Father presenting Christ as our High Priest. The churches receive their light from Christ, shining with excellence and purity.
-- 🔄 Revelation 1:12 (attempt 3, 79 words, 38.0% quotes quality score: 1.8372345447637115, V2 normalized quality score: 52.43, commentator tiers 1-3: 32.61%, 24.71%, 42.68%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 4 BHT: The seven golden candlesticks represent the local churches, each independent in ceremonies and government. They are united in the unity of the Spirit and the Headship of Christ. The candlesticks bear the Lord's light, signifying the churches as light-bearers to His glory. The voice in the vision is God the Father presenting Christ as our High Priest. The churches receive their light from Christ, shining with excellence, brightness, and purity in doctrine, discipline, and life.
-- 🔄 Revelation 1:12 (attempt 4, 77 words, 29.41% quotes quality score: 1.808123359547868, V2 normalized quality score: 51.46, commentator tiers 1-3: 31.76%, 22.94%, 45.3%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 5 BHT: The seven golden candlesticks symbolize the local churches, each with its own candlestick. While independent in ceremonies and government, they are united in the unity of the Spirit and the Headship of Christ. The candlesticks bear the Lord's light, showcasing the churches as light-bearers to His glory. The voice in the vision represents God the Father, presenting Christ as our High Priest. The churches receive their light from Christ, shining with excellence and purity in doctrine, discipline, and life.
-- 🔄 Revelation 1:12 (attempt 5, 81 words, 31.48% quotes quality score: 1.8262435458108492, V2 normalized quality score: 52.06, commentator tiers 1-3: 31.82%, 23.26%, 44.92%) 
-	- BHT WAS OVER 70 WORDS!
-- ✅ Revelation 1:12 bht prompt v0.7 (79 words, 38.0% quotes)
-- quality score: 1.8372345447637115, V2 normalized quality score: 52.43, commentator tiers 1-3: 32.61%, 24.71%, 42.68%)
+- Attempt 1 BHT: The imagery of the seven golden candlesticks in this verse represents the entire church, not bound together in one outward unity and one place like the furniture in the tabernacle, but with each local church having its own candlestick, symbolizing the individuality and independence of each congregation. The voice heard is that of God the Father, presenting Christ as our High Priest. Although the churches may differ in external ceremonies and government, they are united in the unity of the Spirit and the Headship of Christ. The candlesticks themselves are not sources of light but bearers of the light, which comes from the Lord. The number seven signifies not only unity but also the richness and fullness of the New Testament Dispensation. Overall, the golden candlesticks symbolize the preciousness and value of the church in the eyes of Christ.
+- 🔄 Revelation 1:12 (attempt 1, 139 words, 32.1% quotes quality score: 1.9721153919106555, V2 normalized quality score: 56.91, commentator tiers 1-3: 35.25%, 27.98%, 36.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The seven golden candlesticks in Revelation 1:12 represent the entire church, though no longer bound in one unity and place. Each local church has its own candlestick, illustrating its individuality and independence. Though the churches may differ externally, they are united by the Spirit and Christ's Headship. The candlesticks bear the Lord's light, symbolizing the church's preciousness and value. The number seven signifies the richness and fullness of the New Testament, showcasing the contrast with the Old. Overall, the candlesticks highlight the church's importance in Christ's eyes.
+- 🔄 Revelation 1:12 (attempt 2, 91 words, 27.12% quotes quality score: 1.915453591203062, V2 normalized quality score: 55.03, commentator tiers 1-3: 34.81%, 27.34%, 37.85%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The seven golden candlesticks in this passage symbolize the entire church, with each local church having its own candlestick, demonstrating its individuality and independence. Although the churches vary in external rituals, they are united in the unity of the Spirit and the leadership of Christ. The candlesticks themselves do not generate light, but instead, they hold forth the light that comes from the Lord. The number seven signifies the richness and fullness of the New Testament era. Overall, the candlesticks highlight the church's preciousness and value in Christ's estimation.
+- 🔄 Revelation 1:12 (attempt 3, 91 words, 30.0% quotes quality score: 1.8783199749550405, V2 normalized quality score: 53.8, commentator tiers 1-3: 33.2%, 26.64%, 40.17%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 4 BHT: The representation of the seven golden candlesticks reveals the entire church, though no longer bound in one unity. Each local church has its own candlestick, showcasing distinctiveness. Despite varying external practices, churches share the unity of the Spirit under Christ's Headship. These candlesticks serve as vessels to hold forth the Lord's light, emphasizing the church's cherished value. The number seven signifies the richness and fullness of the New Testament dispensation. Ultimately, the candlesticks communicate the church's significance and esteem in Christ's eye.
+- 🔄 Revelation 1:12 (attempt 4, 87 words, 25.0% quotes quality score: 1.879852442981813, V2 normalized quality score: 53.85, commentator tiers 1-3: 34.8%, 28.6%, 36.61%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The seven golden candlesticks symbolize the entire church, with each local congregation having its own candlestick, illustrating their individuality and independence. While the churches may differ in external ceremonies, they are united by the unity of the Spirit and the leadership of Christ. The candlesticks themselves do not generate light; instead, they bear the light received from the Lord. The number seven signifies the richness and fullness of the New Testament era. Overall, the candlesticks highlight the preciousness and value of the church in Christ's view.
+- 🔄 Revelation 1:12 (attempt 5, 87 words, 30.51% quotes quality score: 1.8650620400830826, V2 normalized quality score: 53.35, commentator tiers 1-3: 33.94%, 27.19%, 38.87%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Revelation 1:12 bht prompt v0.7 (87 words, 25.0% quotes)
+- quality score: 1.879852442981813, V2 normalized quality score: 53.85, commentator tiers 1-3: 34.8%, 28.6%, 36.61%)

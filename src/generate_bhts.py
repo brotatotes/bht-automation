@@ -9,7 +9,7 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
 
-    verses =  ["Romans 6:7", "John 5:22", "Ephesians 1:22", "Ephesians 6:13", "Galatians 5:22", "John 10:27", "Romans 6:21", "Revelation 3:3"]
+    # verses =  ["Romans 6:7", "John 5:22", "Ephesians 1:22", "Ephesians 6:13", "Galatians 5:22", "John 10:27", "Romans 6:21", "Revelation 3:3"]
 
     # verses = ["Romans 6:7", "Ephesians 1:22", "Romans 6:21"]
 

@@ -46,7 +46,7 @@ class BHT:
         self.word_count = len(self.tokens)
 
         self.bht_analyzer = BHTAnalyzer()
-        self.quality_score = None
+        self.accuracy_score = None
 
         self.checked = False
 
@@ -95,9 +95,9 @@ class BHT:
         self.injected_words = sorted(list(self.tokens_set - self.choicests_tokens_set))
         self.injected_significant_words = sorted(list(self.tokens_set - self.choicests_tokens_set - stop_words_set))
 
-        self.quality_score, self.t1_avg, self.t2_avg, self.t3_avg = self.bht_analyzer.compute_quality_score(self.verse_ref, self.bht, self.choicest_quotes)
+        self.accuracy_score, self.t1_avg, self.t2_avg, self.t3_avg = self.bht_analyzer.compute_quality_score(self.verse_ref, self.bht, self.choicest_quotes)
 
-        self.v2_normalized_quality_score = round(self.bht_analyzer.normalize_quality_score(self.quality_score), 2)
+        self.v2_normalized_quality_score = round(self.bht_analyzer.normalize_quality_score(self.accuracy_score), 2)
 
         tier_total = self.t1_avg + self.t2_avg + self.t3_avg
         self.t1_percent = round(100 * self.t1_avg / tier_total, 2)
@@ -117,7 +117,7 @@ class BHT:
         return [
             self.outside_strict_word_limits,
             self.not_enough_words,
-            # self.not_enough_from_quotes,
+            self.not_enough_from_quotes,
             self.too_much_from_quotes,
             # self.excluded_word_in_tokens,
             self.commentator_in_tokens,
@@ -135,21 +135,20 @@ class BHT:
             not self.list_detected,            
             # not self.excluded_word_in_tokens,
             not self.commentator_in_tokens,
-            not self.passage_in_tokens, 
             not self.verse_ref_in_bht,
-            not self.verse_in_tokens,
+            not self.passage_in_tokens and not self.verse_in_tokens,
             not self.too_much_from_quotes,
-            not self.outside_strict_word_limits, 
             not self.outside_strict_proportion_limits,
+            not self.outside_strict_word_limits,
             # not self.not_enough_words,
             # not self.too_many_words,
-            # not self.not_enough_from_quotes,
-            # self.content_score
-            self.quality_score,
+            not self.not_enough_from_quotes,
+            # self.content_score,
+            self.accuracy_score,
         )
 
     def passes_checks(self):
-        return not any(self.get_generation_time_checks()) and self.quality_score >= 2
+        return not any(self.get_generation_time_checks()) and self.accuracy_score >= 2.3
     
     def generate_footnotes(self):
         self.footnotes = self.bht_analyzer.get_footnotes(self.verse_ref, self.bht, self.choicest_quotes)
@@ -186,7 +185,7 @@ class BHT:
             "bht": self.bht,
             "wordCount": self.word_count,
             "quoteTokenProportion": self.proportion_percentage,
-            "qualityScore": self.quality_score,
+            "qualityScore": self.accuracy_score,
             "qualityScoreNormalizedComparedToV2BHTs": self.v2_normalized_quality_score,
             "commentatorTierSimilarities": [self.t1_percent, self.t2_percent, self.t3_percent],
             "generationAttempt": self.generation_attempt,

@@ -326,8 +326,8 @@ class BHTGenerator:
                 target_proportion = 0.7
                 # word_limits = (50, 100)
                 # strict_word_limits = (40, 130)
-                word_limits = (30, 70)
-                strict_word_limits = (20, 80)
+                word_limits = (30, 80)
+                strict_word_limits = (20, 100)
                 target_word_count = 50
                 min_proportion_limit, max_proportion_limit = proportion_limits
                 min_word_limit, max_word_limit = word_limits
@@ -373,7 +373,7 @@ class BHTGenerator:
 
                         complaints = []
 
-                        info_msg = [f"🔄 {verse_ref} (attempt {current_attempt}, {current_bht.word_count} words, {current_bht.proportion_percentage}% quotes", f"quality score: {current_bht.quality_score}, V2 normalized quality score: {current_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(current_bht.t1_percent)}%, {(current_bht.t2_percent)}%, {(current_bht.t3_percent)}%)"]
+                        info_msg = [f"🔄 {verse_ref} (attempt {current_attempt}, {current_bht.word_count} words, {current_bht.proportion_percentage}% quotes", f"quality score: {current_bht.accuracy_score}, V2 normalized quality score: {current_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(current_bht.t1_percent)}%, {(current_bht.t2_percent)}%, {(current_bht.t3_percent)}%)"]
 
                         if current_bht.too_many_words:
                             complaints.append(f"Please limit your response to {max_word_limit} words.")
@@ -382,9 +382,9 @@ class BHTGenerator:
                             complaints.append(f"Please make sure your response is at least {min_word_limit} words.")
                             info_msg.append(f"\n\t- BHT WAS UNDER {min_word_limit} WORDS!")
                         
-                        # if current_bht.not_enough_from_quotes:
-                        #     complaints.append(f"Please make sure at least {min_proportion_limit * 100}% of the words in your response come from the quotes.")
-                        #     info_msg.append(f"\n\t- LESS THAN {min_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
+                        if current_bht.not_enough_from_quotes:
+                            complaints.append(f"Please make sure at least {min_proportion_limit * 100}% of the words in your response come from the quotes.")
+                            info_msg.append(f"\n\t- LESS THAN {min_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
 
                         elif current_bht.too_much_from_quotes:
                             complaints.append(f"Please make sure you are not just completely copying the quotes.")
@@ -426,7 +426,7 @@ class BHTGenerator:
                 os.makedirs(os.path.dirname(out_path_md), exist_ok=True)
 
                 debug_logs.append(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes)")
-                debug_logs.append(f"quality score: {best_bht.quality_score}, V2 normalized quality score: {best_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(best_bht.t1_percent)}%, {(best_bht.t2_percent)}%, {(best_bht.t3_percent)}%)")
+                debug_logs.append(f"quality score: {best_bht.accuracy_score}, V2 normalized quality score: {best_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(best_bht.t1_percent)}%, {(best_bht.t2_percent)}%, {(best_bht.t3_percent)}%)")
 
                 generation_timestamp_string = datetime.datetime.now().strftime('%m-%d-%Y %H:%M:%S')
 
@@ -449,7 +449,7 @@ class BHTGenerator:
                     out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
                     out_file.write(f"- BHT Word Count: {best_bht.word_count}\n")
                     out_file.write(f"- BHT Commentary Usage: {best_bht.proportion_percentage}%\n")
-                    out_file.write(f"- BHT Quality Score: {best_bht.quality_score}\n")
+                    out_file.write(f"- BHT Quality Score: {best_bht.accuracy_score}\n")
                     out_file.write(f"- Generate Attempts: {current_attempt} / {attempts_limit}\n")
                     out_file.write(f"- ChatGPT injected words ({len(best_bht.injected_words)}):\n\t{best_bht.injected_words}\n")
                     out_file.write(f"- ChatGPT injected words (significant words only) ({len(best_bht.injected_significant_words)}):\n\t{best_bht.injected_significant_words}\n")
@@ -465,7 +465,7 @@ class BHTGenerator:
                 with open(out_path_json, 'w', encoding='utf-8') as out_file:
                     out_file.write(single_bht_generation.to_json())
                 
-                print(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes, quality score: {best_bht.quality_score})")
+                print(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes, quality score: {best_bht.accuracy_score})")
 
                 # time.sleep(0.017) # follow rate limits
 
