@@ -1,0 +1,88 @@
+# Acts 22:3 Commentary Help Text
+
+## BHT:
+Paul, in his speech, highlights the importance of his upbringing and education at the feet of Gamaliel, who was known for his wisdom and candor. By studying the perfect manner of the law of the fathers, Paul gained a deep understanding of Judaism. He now claims to be a zealot for God, reflecting his past zeal against the disciples of Jesus in their treatment of him. Paul's sincere devotion is evident as he appeals to his own conduct, which demonstrates his commitment to godliness.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The expression 'at the feet of Gamaliel' indicates, literally at his feet." 
+2. "According to the perfect manner, the strict acceptation, of the law of the fathers." 
+3. "I had the same zealous character which you all show today."
+
+### Jamieson-Fausset-Brown:
+1. "a fact of great importance in the apostle's history, standing in the same relation to his future career as Moses' education in the Egyptian court to the work for which he was destined."
+2. "the perfect manner of the law of the fathers—the strictest form of traditional Judaism."
+3. "his own former murderous zeal against the disciples of the Lord Jesus being merely reflected in their present treatment of himself."
+
+### Albert Barnes:
+1. "The phrase to sit at the feet of one is expressive of the condition of a disciple or learner."
+2. "Paul mentions his having been instructed in this manner in order to show that he was entitled to the full privileges of a Jew, and that he had had every opportunity to become fully acquainted with the nature of the Law."
+3. "He had a constant burning zeal for God and His Law, which was expressed not only by scrupulous adherence to its forms, but by persecuting all who opposed it."
+
+### Marvin Vincent:
+1. "Gamaliel was a liberal Pharisee. 'As Aquinas among the schoolmen was called Doctor Angelicus, and Bonaventura Doctor Seraphicus, so Gamaliel was called the Beauty of the Law.' He had no antipathy to the Greek learning. Candor and wisdom seem to have been features of his character." 
+2. "According to the perfect manner, lit., according to the strictness."
+3. "Zealous. Or a zealot."
+
+### John Calvin:
+1. "There is nothing more bold to cause trouble than unlearned men."
+2. "But Paul saith chiefly that he was well taught in the law, that the Jews may understand that it was not through ignorance... that he causeth such ado, and doth counterfeit their monsters."
+3. "But because many who are well taught are, notwithstanding, full stuffed with Epicurish contempt of God, he declareth that he was zealous toward God; as if he should say, that the serious study of godliness was annexed to doctrine."
+
+### Philip Schaff:
+1. "I was a Jew."
+
+### Archibald T. Robertson:
+1. "Paul recounts his Jewish advantages or privileges with manifest pride."
+2. "Paul definitely claims, whatever freedom he demanded for Gentile Christians, to be personally 'a zealot for God'."
+3. "But Paul is sincere as he proceeds to show by appeal to his own conduct."
+
+### John Gill:
+1. "I am verily a man which am a Jew,.... By birth, a thorough genuine one; an Hebrew of the Hebrews, both by father and mother side, both parents being Jews, and so a true descendant from Abraham, Isaac, and Jacob."
+2. "This latter sense is commonly understood, and adapted to the passage here, as illustrating it; though it may be, that the sense may only be this, that the apostle boarded in Gamaliel's house, ate at his table, and familiarly conversed with him; which he modestly expresses by being brought up at his feet, who was a man that was had in great reverence with the Jews."
+3. "And was zealous towards God; or 'a zealot of God'; one of those who were called 'Kanaim', or zealots; who in their great zeal for the glory of God, took away the lives of men, when they found them guilty of what they judged a capital crime; see Matthew 10:4."
+
+### John Wesley:
+1. "I am verily... because the time was short."
+2. "The scholars usually sat on low seats, or upon mats on the floor, at the feet of their masters, whose seats were raised to a considerable height."
+3. "Unsanctified learning made his bonds strong, and furnished him with numerous arguments against the Gospel. Yet when the grace of God had changed his heart... he was the fitter instrument to serve God's wise and merciful purposes."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:35:08
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 85
+- BHT Commentary Usage: 36.67%
+- BHT Quality Score: 1.940908595395249
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (60):
+	['a', 'against', 'and', 'appeals', 'as', 'at', 'be', 'by', 'candor', 'claims', 'commitment', 'conduct', 'deep', 'demonstrates', 'devotion', 'disciples', 'education', 'evident', 'fathers', 'feet', 'for', 'gained', 'gamaliel', 'god', 'godliness', 'he', 'highlights', 'him', 'his', 'importance', 'in', 'is', 'jesus', 'judaism', 'known', 'law', 'manner', 'now', 'of', 'own', 'past', 'paul', 'perfect', 'reflecting', 's', 'sincere', 'speech', 'studying', 'the', 'their', 'to', 'treatment', 'understanding', 'upbringing', 'was', 'which', 'who', 'wisdom', 'zeal', 'zealot']
+- ChatGPT injected words (significant words only) (38):
+	['appeals', 'candor', 'claims', 'commitment', 'conduct', 'deep', 'demonstrates', 'devotion', 'disciples', 'education', 'evident', 'fathers', 'feet', 'gained', 'gamaliel', 'god', 'godliness', 'highlights', 'importance', 'jesus', 'judaism', 'known', 'law', 'manner', 'past', 'paul', 'perfect', 'reflecting', 's', 'sincere', 'speech', 'studying', 'treatment', 'understanding', 'upbringing', 'wisdom', 'zeal', 'zealot']
+
+### Logs
+- Attempt 1 BHT: Paul, in his speaking before the people, emphasizes his privileged upbringing and education at the feet of Gamaliel in the perfect manner of the law of the fathers. This was a formative experience for him, as significant as Moses' education in the Egyptian court. Despite his former zeal against the disciples of the Lord Jesus, Paul now acknowledges his sincere zeal for God. He wants the Jews to understand that his actions are not out of ignorance or a desire to cause trouble, but rather a result of his serious study of godliness. Though his learning initially made him resistant to the Gospel, it ultimately served as a foundation for him to serve God's purposes.
+- 🔄 Acts 22:3 (attempt 1, 116 words, 37.66% quotes quality score: 1.8016755620993612, V2 normalized quality score: 51.25, commentator tiers 1-3: 31.49%, 30.9%, 37.61%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Paul's upbringing and education at the feet of Gamaliel in the perfect manner of the law of the fathers played a crucial role in his journey. His former violent zeal against the disciples of Jesus now reflects their treatment of him. Paul's sincerity is evident as he emphasizes his privileged upbringing and claims to be personally a zealot for God. Though initially resistant to the Gospel, Paul's learning served as a foundation for him to serve God's purposes.
+- 🔄 Acts 22:3 (attempt 2, 82 words, 34.55% quotes quality score: 1.8453653271337052, V2 normalized quality score: 52.7, commentator tiers 1-3: 39.12%, 26.54%, 34.34%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Paul proudly recounts his upbringing and education at the feet of Gamaliel, where he learned the perfect manner of the law of the fathers. This early education was a significant part of his journey, similar to Moses' education in the Egyptian court. Despite his past zealousness against the disciples of Jesus, Paul now claims to be a zealot for God. His sincerity is evident as he appeals to his own conduct, showing that his actions are not out of ignorance but a result of his serious study of godliness.
+- 🔄 Acts 22:3 (attempt 3, 89 words, 41.27% quotes quality score: 1.7745187628671504, V2 normalized quality score: 50.34, commentator tiers 1-3: 37.62%, 27.84%, 34.54%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Paul takes pride in his upbringing and education at the feet of Gamaliel, where he learned the strictest form of traditional Judaism. He wants the Jews to understand that his actions are not out of ignorance but a genuine zeal for God. Through his own conduct, he demonstrates his sincerity and shows that his past zealousness against the disciples of Jesus is now reflected in their treatment of him. Paul's early education served as a foundation for his journey and his ability to serve God's purposes.
+- 🔄 Acts 22:3 (attempt 4, 88 words, 38.71% quotes quality score: 1.8506926518766362, V2 normalized quality score: 52.88, commentator tiers 1-3: 34.05%, 31.94%, 34.01%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul, in his speech, highlights the importance of his upbringing and education at the feet of Gamaliel, who was known for his wisdom and candor. By studying the perfect manner of the law of the fathers, Paul gained a deep understanding of Judaism. He now claims to be a zealot for God, reflecting his past zeal against the disciples of Jesus in their treatment of him. Paul's sincere devotion is evident as he appeals to his own conduct, which demonstrates his commitment to godliness.
+- 🔄 Acts 22:3 (attempt 5, 85 words, 36.67% quotes quality score: 1.940908595395249, V2 normalized quality score: 55.88, commentator tiers 1-3: 39.91%, 28.81%, 31.28%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 22:3 bht prompt v0.8 (85 words, 36.67% quotes)
+- quality score: 1.940908595395249, V2 normalized quality score: 55.88, commentator tiers 1-3: 39.91%, 28.81%, 31.28%)

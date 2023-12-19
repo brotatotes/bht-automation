@@ -1,0 +1,63 @@
+# Luke 3:17 Commentary Help Text
+
+## BHT:
+John the Baptist's ministry was highly successful in arousing anticipation for the immediate appearance of the Messiah, which was a testament to the high regard and reverence people held for him. With a fan in his hand, he exemplified the process of separating the valuable wheat from the worthless chaff. By emphasizing the significance of John's role and his ability to command respect, Luke 3:17 underscores the profound impact of his ministry and his pivotal role in preparing the way for the coming Savior.
+
+## Choicest Commentary Quotes:
+### Jamieson-Fausset-Brown:
+1. "showing both how successful he had been in awakening the expectation of Messiah's immediate appearing"
+2. "the high estimation, and even reverence, which his own character commanded"
+3. "his own character commanded"
+
+### Marvin Vincent:
+1. Fan - floor - purge. See on Matthew 3:12.
+
+
+### John Gill:
+1. Whose fan is in his hand,....
+ :-
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:14:21
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 85
+- BHT Commentary Usage: 26.79%
+- BHT Quality Score: 0.921355851172291
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (56):
+	['a', 'ability', 'and', 'anticipation', 'appearance', 'arousing', 'baptist', 'by', 'chaff', 'coming', 'command', 'emphasizing', 'exemplified', 'fan', 'for', 'from', 'hand', 'he', 'held', 'high', 'highly', 'him', 'his', 'immediate', 'impact', 'in', 'john', 'luke', 'messiah', 'ministry', 'of', 'people', 'pivotal', 'preparing', 'process', 'profound', 'regard', 'respect', 'reverence', 'role', 's', 'savior', 'separating', 'significance', 'successful', 'testament', 'the', 'to', 'underscores', 'valuable', 'was', 'way', 'wheat', 'which', 'with', 'worthless']
+- ChatGPT injected words (significant words only) (41):
+	['ability', 'anticipation', 'appearance', 'arousing', 'baptist', 'chaff', 'coming', 'command', 'emphasizing', 'exemplified', 'fan', 'hand', 'held', 'high', 'highly', 'immediate', 'impact', 'john', 'luke', 'messiah', 'ministry', 'people', 'pivotal', 'preparing', 'process', 'profound', 'regard', 'respect', 'reverence', 'role', 's', 'savior', 'separating', 'significance', 'successful', 'testament', 'underscores', 'valuable', 'way', 'wheat', 'worthless']
+
+### Logs
+- Attempt 1 BHT: John the Baptist's ministry was incredibly effective in stirring up anticipation for the coming of the Messiah. People were not only drawn to him because of his message, but also because of the deep respect they held for him. The verse talks about how John held a fan in his hand, symbolizing the work of disconnecting the wheat from the chaff. This ties in with Matthew 3:12, where the image of the fan is further explained. Overall, Luke 3:17 highlights the powerful impact of John's ministry in preparing the way for the Savior.
+- 🔄 Luke 3:17 (attempt 1, 93 words, 40.32% quotes quality score: 0.9332207367420755, V2 normalized quality score: 22.37, commentator tiers 1-3: 69.05%, 0.0%, 30.95%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: John the Baptist's ministry was highly successful in arousing anticipation for the immediate appearance of the Messiah, which was a testament to the high regard and reverence people held for him. With a fan in his hand, he exemplified the process of separating the valuable wheat from the worthless chaff. By emphasizing the significance of John's role and his ability to command respect, Luke 3:17 underscores the profound impact of his ministry and his pivotal role in preparing the way for the coming Savior.
+- 🔄 Luke 3:17 (attempt 2, 85 words, 26.79% quotes quality score: 0.921355851172291, V2 normalized quality score: 21.98, commentator tiers 1-3: 59.81%, 0.0%, 40.19%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: John the Baptist's successful ministry in awakening the anticipation for the immediate appearance of the Messiah is a testament to the high esteem and reverence people had for him. With a fan in his hand, he symbolized the process of separating the valuable wheat from the worthless chaff. Luke 3:17 highlights the powerful impact of John's character and his pivotal role in preparing the way for the coming Savior.
+- 🔄 Luke 3:17 (attempt 3, 70 words, 28.57% quotes quality score: 0.9035991809636454, V2 normalized quality score: 21.39, commentator tiers 1-3: 64.98%, 0.0%, 35.02%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: John the Baptist's ministry proved to be highly effective in arousing anticipation for the imminent arrival of the Messiah. The respect and reverence generated by his own character played a significant role in his success. By illustrating the image of a fan in his hand, John symbolized the act of separating the valuable wheat from the worthless chaff. Luke 3:17 captures the profound impact of John's ministry, underscoring his crucial role in preparing the way for the coming Savior.
+- 🔄 Luke 3:17 (attempt 4, 80 words, 22.64% quotes quality score: 0.8669542110474322, V2 normalized quality score: 20.17, commentator tiers 1-3: 70.34%, 0.0%, 29.66%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: John the Baptist's ministry was successful in stirring up anticipation for the immediate appearing of the Messiah, and this success can be attributed to the high estimation and reverence that people held for his character. Luke 3:17 emphasizes the powerful image of a fan in John's hand as he separates the wheat from the chaff, symbolizing the process of purification. This verse highlights the profound impact of John's ministry in preparing the way for the coming Savior.
+- 🔄 Luke 3:17 (attempt 5, 79 words, 30.91% quotes quality score: 0.8897470684540918, V2 normalized quality score: 20.93, commentator tiers 1-3: 74.46%, 0.0%, 25.54%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Luke 3:17 bht prompt v0.8 (85 words, 26.79% quotes)
+- quality score: 0.921355851172291, V2 normalized quality score: 21.98, commentator tiers 1-3: 59.81%, 0.0%, 40.19%)

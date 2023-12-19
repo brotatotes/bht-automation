@@ -1,0 +1,84 @@
+# 2 Thessalonians 2:9 Commentary Help Text
+
+## BHT:
+The Antichrist's power, signs, and wonders are all rooted in falsehood, as Satan works through him. These wonders of falsehood imitate Christ's works but are ultimately deceitful. The Antichrist's dominion will be powerful, accompanied by false miracles that appear real but are delusive. However, his reign is limited to darkness and will be extinguished with the dawn of day. The Antichrist aims to deceive and lead astray the elect with his deceitful profession of faith.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "corresponding to the working of Satan in all power and signs and wonders of falsehood."
+2. "the varieties of his manifested power, and signs, and wonders, all have falsehood for their base, and essence, and aim"
+3. "all have falsehood for their base, and essence, and aim"
+
+### Jamieson-Fausset-Brown:
+1. "Satan works through him."
+2. "Wonders of falsehood."
+3. "He will try to imitate Christ's works as a 'sign.'"
+
+### Albert Barnes:
+1. "the manner of his appearing would be accompanied by such works as would show that the agency of Satan was employed, and such as he only could produce."
+2. "It would not be a feeble and imbecile dominion. The dominion of the papacy has been one of the most powerful on earth."
+3. "False or pretended miracles. They would be such as would be claimed to be miracles; such as would excite wonder; and yet such as were false and delusive."
+
+### Marvin Vincent:
+1. "The sense is that the coming of Antichrist proclaims itself to be according to the working of Satan by means of power, signs, etc."
+2. "Signs and lying wonders. Lit. signs and wonders of a lie. Of a lie characterizes the three words, power, signs, wonders. All bear the stamp of fraud."
+3. "For signs and wonders see on Matthew 24:24, and mighty works, Matthew 11:20."
+
+### John Calvin:
+1. "In fine, as it is only in darkness that he reigns, the dawn of the day puts to flight and extinguishes the thick darkness of his reign."
+2. "For after having spoken of the working or efficacy of Satan, he marks it out particularly when he says, in signs and lying wonders, and in all deceivableness."
+3. "He gives the name of miracles of falsehood, not merely to such as are falsely and deceptively contrived by cunning men with a view to impose upon the simple — a kind of deception with which all Papacy abounds, for they are a part of his power which he has previously touched upon; but takes falsehood as consisting in this, that Satan draws to a contrary end works which otherwise are truly works of God, and abuses miracles so as to obscure God’s glory."
+
+### Philip Schaff:
+1. "The coming of the Man of Sin will be accompanied with such manifestations of power as are peculiar to Satan."
+2. "The power, signs, and wonders were all used in the service of falsehood, and had rather the appearance than the reality of true miracles."
+3. "The qualifying addition, 'of falsehood,' refers to all three preceding nouns."
+
+### Archibald T. Robertson:
+1. "Whose coming is...The Antichrist has his παρουσια also." 
+2. "Lying wonders...but all according to the working of Satan." 
+3. "Wonders that would almost lead astray the very elect."
+
+### John Gill:
+1. "He comes in a deceitful way, under a profession of Christ, and a pretension of faith in him, and love to him; but speaks lies in hypocrisy."
+2. "Is not only a murderer of the bodies of the saints, but of the souls of men; which are the wares the whore of Babylon deals in."
+3. "Such signs and miracles as are not real, but reigned, only in appearance, not in truth, like those that were done by the magicians of Egypt."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:38:23
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 78
+- BHT Commentary Usage: 37.04%
+- BHT Quality Score: 2.191108302657163
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (54):
+	['accompanied', 'aims', 'all', 'and', 'antichrist', 'appear', 'are', 'as', 'astray', 'be', 'but', 'by', 'christ', 'darkness', 'dawn', 'day', 'deceitful', 'deceive', 'delusive', 'dominion', 'elect', 'extinguished', 'faith', 'false', 'falsehood', 'him', 'his', 'however', 'imitate', 'in', 'is', 'lead', 'limited', 'miracles', 'of', 'power', 'powerful', 'profession', 'real', 'reign', 'rooted', 's', 'satan', 'signs', 'that', 'the', 'these', 'through', 'to', 'ultimately', 'will', 'with', 'wonders', 'works']
+- ChatGPT injected words (significant words only) (34):
+	['accompanied', 'aims', 'antichrist', 'appear', 'astray', 'christ', 'darkness', 'dawn', 'day', 'deceitful', 'deceive', 'delusive', 'dominion', 'elect', 'extinguished', 'faith', 'false', 'falsehood', 'imitate', 'lead', 'limited', 'miracles', 'power', 'powerful', 'profession', 'real', 'reign', 'rooted', 's', 'satan', 'signs', 'ultimately', 'wonders', 'works']
+
+### Logs
+- Attempt 1 BHT: The verse speaks of the coming of the Antichrist and his deceptive nature. The Antichrist's power, signs, and wonders are all rooted in falsehood, a means by which Satan works through him. These wonders of falsehood are meant to imitate the works of Christ, but their essence and aim are deceitful. They are signs and lying wonders, bearing the stamp of fraud and aiming to lead astray even the elect. The manner of the Antichrist's appearing will be accompanied by powerful manifestations of Satan's agency, presenting false miracles that excite wonder but are ultimately delusive. While the dominion of the papacy has demonstrated the power that Satan can wield, the Antichrist's dominion will be even more formidable. However, it is only in darkness that he reigns, and with the dawn of the day, his deceitful reign will be extinguished.
+- 🔄 2 Thessalonians 2:9 (attempt 1, 143 words, 36.9% quotes quality score: 2.1602284449837614, V2 normalized quality score: 63.17, commentator tiers 1-3: 32.42%, 32.37%, 35.21%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The Antichrist's power, signs, and wonders are all rooted in falsehood, as Satan works through him. These wonders of falsehood imitate Christ's works but are ultimately deceitful. The Antichrist's dominion will be powerful, accompanied by false miracles that appear real but are delusive. However, his reign is limited to darkness and will be extinguished with the dawn of day. The Antichrist comes in a deceitful manner, professing faith in Christ while speaking lies in hypocrisy. His aim is to deceive and lead astray the elect.
+- 🔄 2 Thessalonians 2:9 (attempt 2, 88 words, 36.07% quotes quality score: 2.0985204371422097, V2 normalized quality score: 61.12, commentator tiers 1-3: 33.25%, 30.2%, 36.56%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Antichrist's power, signs, and wonders are all rooted in falsehood, as Satan works through him. These wonders of falsehood imitate Christ's works but are ultimately deceitful. The Antichrist's dominion will be powerful, accompanied by false miracles that appear real but are delusive. However, his reign is limited to darkness and will be extinguished with the dawn of day. The Antichrist aims to deceive and lead astray the elect with his deceitful profession of faith.
+- 🔄 2 Thessalonians 2:9 (attempt 3, 78 words, 37.04% quotes quality score: 2.191108302657163, V2 normalized quality score: 64.19, commentator tiers 1-3: 32.44%, 31.56%, 36.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The Antichrist's power, signs, and wonders are all falsehoods, with a fraudulent base and aim that Satan works through. These deceptive wonders imitate Christ's works as a sign, aiming to lead the very elect astray. The Antichrist's dominion, accompanied by false miracles and manifestations of power, shows the agency of Satan at work. However, the Antichrist's reign is limited to darkness and will be extinguished with the dawn of day. His deceitful appearance includes a profession of faith but speaks lies in hypocrisy.
+- 🔄 2 Thessalonians 2:9 (attempt 4, 87 words, 34.92% quotes quality score: 2.1117890464832083, V2 normalized quality score: 61.56, commentator tiers 1-3: 32.24%, 31.34%, 36.42%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The Antichrist's power, signs, and wonders are all rooted in falsehood, as Satan works through him. These wonders of falsehood imitate Christ's works but are ultimately deceitful. The Antichrist's dominion will be accompanied by false miracles that appear real but are delusive. However, his reign is limited to darkness and will be extinguished with the dawn of day. The Antichrist aims to deceive and lead astray the elect with his deceitful profession of faith.
+- 🔄 2 Thessalonians 2:9 (attempt 5, 77 words, 37.74% quotes quality score: 2.1846173309072054, V2 normalized quality score: 63.98, commentator tiers 1-3: 32.62%, 31.36%, 36.02%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 2 Thessalonians 2:9 bht prompt v0.8 (78 words, 37.04% quotes)
+- quality score: 2.191108302657163, V2 normalized quality score: 64.19, commentator tiers 1-3: 32.44%, 31.56%, 36.0%)

@@ -1,0 +1,80 @@
+# Acts 5:42 Commentary Help Text
+
+## BHT:
+Every day, undeterred by past punishment or fear for the future, the disciples proclaimed that Jesus of Nazareth is the Messiah. In private assemblies, they taught the doctrines of their Crucified and Risen Lord. Their constancy and joy accompanied their message, increasing their zeal for Christ amidst reproaches and persecutions. They declared Jesus to be the Son of God, the only Savior of sinners, who ascended to heaven and now intercedes for his people. Their example inspires us to continually proclaim Jesus, the hope of the world.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1.  42.] On in the houses see note, ch. ii. 46.
+
+### Jamieson-Fausset-Brown:
+1. 42. in every house—in private.
+	(See on Acts 2:46). 
+	
+ceased not to preach Jesus
+	Christ—that is, Jesus (to be the) Christ.
+
+
+### Albert Barnes:
+1. And daily ... - Compare 2 Timothy 4:2. See also notes on Acts 2:46.
+
+
+### John Calvin:
+1. "Constancy did also accompany their Joy." 
+2. "That man which thinketh with himself that he is happy when he suffereth for Christ’s sake, shall never faint."
+3. "Therefore, woe be to our daintiness, who, having suffered a little persecution, do by and by resign up the light to another, as if we were now old worn soldiers."
+
+### Philip Schaff:
+1. "Undismayed by any punishment in the past, undeterred by any fear for the future, they did their Master’s bidding daily without rest or repose."
+2. "In private assemblies, too, held in the now many homes of the faithful, they taught the doctrines of their Crucified and Risen Lord."
+3. "They proclaimed to all in the crowded Temple courts, as in the little earnest home gatherings of the believers, that Jesus the Crucified was no other than the Christ the Messiah."
+
+### Archibald T. Robertson:
+1. "Every day... all through every day."
+2. "They kept it up."
+3. "Jesus of Nazareth is the Messiah of promise."
+
+### John Gill:
+1. "they ceased not to teach and preach Jesus Christ, that he is the Son of God, truly and properly God, the only Saviour of sinners."
+2. "they declared his ascension to heaven, his session at the right hand of God, and intercession for his people."
+3. "their reproaches and persecutions increased their zeal for Christ, and his cause."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:26:54
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 30.65%
+- BHT Quality Score: 1.5166213521523546
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (62):
+	['accompanied', 'amidst', 'and', 'ascended', 'assemblies', 'be', 'by', 'christ', 'constancy', 'continually', 'crucified', 'day', 'declared', 'disciples', 'doctrines', 'every', 'example', 'fear', 'for', 'future', 'god', 'heaven', 'his', 'hope', 'in', 'increasing', 'inspires', 'intercedes', 'is', 'jesus', 'joy', 'lord', 'message', 'messiah', 'nazareth', 'now', 'of', 'only', 'or', 'past', 'people', 'persecutions', 'private', 'proclaim', 'proclaimed', 'punishment', 'reproaches', 'risen', 'savior', 'sinners', 'son', 'taught', 'that', 'the', 'their', 'they', 'to', 'undeterred', 'us', 'who', 'world', 'zeal']
+- ChatGPT injected words (significant words only) (43):
+	['accompanied', 'amidst', 'ascended', 'assemblies', 'christ', 'constancy', 'continually', 'crucified', 'day', 'declared', 'disciples', 'doctrines', 'example', 'fear', 'future', 'god', 'heaven', 'hope', 'increasing', 'inspires', 'intercedes', 'jesus', 'joy', 'lord', 'message', 'messiah', 'nazareth', 'past', 'people', 'persecutions', 'private', 'proclaim', 'proclaimed', 'punishment', 'reproaches', 'risen', 'savior', 'sinners', 'son', 'taught', 'undeterred', 'world', 'zeal']
+
+### Logs
+- Attempt 1 BHT: Every day, without rest or repose, the disciples boldly proclaimed in public places and in private assemblies that Jesus of Nazareth is the long-awaited Messiah. They were undeterred by past punishment or fear for the future. In homes of believers, they taught the doctrines of their Crucified and Risen Lord. Their constancy and joy accompanied their message, even in the face of persecution. Their reproaches and persecutions only increased their zeal for Christ and his cause. They proclaimed the Son of God, truly and properly God, the only Savior of sinners. They declared his ascension to heaven, his session at the right hand of God, and his intercession for his people. May their example inspire us to proclaim Jesus without ceasing, for he is the Messiah, the hope of the world.
+- 🔄 Acts 5:42 (attempt 1, 132 words, 27.16% quotes quality score: 1.4240024380195109, V2 normalized quality score: 38.69, commentator tiers 1-3: 16.88%, 33.29%, 49.83%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Every day, undeterred by past punishment or fear for the future, the disciples proclaimed that Jesus of Nazareth is the Messiah. In private assemblies, they taught the doctrines of their Crucified and Risen Lord. Their constancy and joy accompanied their message, increasing their zeal for Christ amidst reproaches and persecutions. They declared Jesus to be the Son of God, the only Savior of sinners, who ascended to heaven and now intercedes for his people. Their example inspires us to continually proclaim Jesus, the hope of the world.
+- 🔄 Acts 5:42 (attempt 2, 87 words, 30.65% quotes quality score: 1.5166213521523546, V2 normalized quality score: 41.77, commentator tiers 1-3: 19.34%, 35.43%, 45.23%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Every day, undeterred by fear for the future, the disciples ceaselessly proclaimed Jesus as the promised Messiah. In private assemblies, they taught the doctrines of their Crucified and Risen Lord with constancy and joy. Their zeal grew stronger in the face of reproaches and persecutions, firm in their belief that Jesus is the Son of God, the true Savior of sinners. They boldly declared his ascension to heaven, his session at the right hand of God, and his intercession for his people. Inspired by their example, may we faithfully proclaim the hope of the world, Jesus Christ.
+- 🔄 Acts 5:42 (attempt 3, 97 words, 27.27% quotes quality score: 1.485807017941182, V2 normalized quality score: 40.75, commentator tiers 1-3: 16.92%, 35.24%, 47.84%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Every day, undeterred by past punishment or fear for the future, the disciples boldly proclaimed that Jesus of Nazareth is the Messiah. In private assemblies, they taught the doctrines of their Crucified and Risen Lord. Their constancy and joy accompanied their message, even in the face of persecution. Their reproaches and persecutions only increased their zeal for Christ and his cause. They declared Jesus to be the Son of God, truly and properly God, the only Savior of sinners. May their example inspire us to proclaim Jesus without ceasing, for he is the Messiah, the hope of the world.
+- 🔄 Acts 5:42 (attempt 4, 99 words, 32.31% quotes quality score: 1.5122791611230633, V2 normalized quality score: 41.63, commentator tiers 1-3: 19.13%, 32.95%, 47.92%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Every day, undeterred by fear of punishment or the future, the disciples ceaselessly proclaimed Jesus as the promised Messiah. In private assemblies, they taught the doctrines of their Crucified and Risen Lord with constancy and joy. Their zeal intensified amidst reproaches and persecutions, firmly convinced that Jesus is the Son of God, the true Savior of sinners. Fearlessly, they declared his ascension to heaven, his presence at the right hand of God, and his intercession for his people. May we draw inspiration from their unwavering commitment to proclaim Jesus, who offers hope to the world.
+- 🔄 Acts 5:42 (attempt 5, 95 words, 30.0% quotes quality score: 1.4527932143746847, V2 normalized quality score: 39.65, commentator tiers 1-3: 17.46%, 34.89%, 47.65%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 5:42 bht prompt v0.8 (87 words, 30.65% quotes)
+- quality score: 1.5166213521523546, V2 normalized quality score: 41.77, commentator tiers 1-3: 19.34%, 35.43%, 45.23%)

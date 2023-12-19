@@ -1,0 +1,87 @@
+# Luke 17:20 Commentary Help Text
+
+## BHT:
+The Pharisees asked the question not with good intentions, but with the aim of entangling Jesus and drawing out an accusation against Him. Jesus responds by explaining that the kingdom of God does not come with observation, in a way that can be visibly discerned. The growth of God's kingdom cannot be defined by external signs or outward displays, but rather it is a process of pervasion, like leaven permeating through dough. The kingdom of God is an inward and spiritual renewal, established within the hearts of His chosen people.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The question certainly is asked by the Pharisees, as all their questions were asked, with no good end in view."
+2. "To entangle our Lord, or draw from Him some direct announcement which might be matter of accusation."
+3. "The cognate verb is used ch. xiv. 1 of the Pharisees 'watching' Jesus."
+
+### Jamieson-Fausset-Brown:
+1. "It cometh not with observation—with watching or lying in wait, as for something outwardly imposing and at once revealing itself."
+2. "To meet the erroneous views not only of the Pharisees, but of the disciples themselves, our Lord addresses both, announcing the coming of the kingdom under different aspects."
+3. "The coming of the kingdom under different aspects."
+
+### Albert Barnes:
+1. "The kingdom of God is 'within' people, and it makes its way, not by pomp and noise, but by silence, decency, and order." 
+2. "He did not deny that, according to their views, the time was drawing near; but he denied that his kingdom would come in the 'manner' in which they expected."
+3. "The Messiah would 'not' come with pomp like an earthly prince; perhaps not in such a manner as to be 'discerned' by the eyes of sagacious and artful people, who were expecting him in a way agreeable to their own feelings."
+
+### Marvin Vincent:
+1. "The progress of the kingdom cannot be defined by visible marks like that of an earthly kingdom."
+2. "Its growth in the world is a process of pervasion, like the working of the leaven through the lump."
+3. "The progress of the kingdom cannot be defined by visible marks."
+
+### John Calvin:
+1. "The kingdom of God will not come with observation."
+2. "He means, that they are greatly mistaken who seek with the eyes of the flesh the kingdom of God, which is in no respect carnal or earthly, for it is nothing else than the inward and spiritual renewal of the soul."
+3. "That restoration of the Church which God has promised must be looked for within; for, by quickening his elect into a heavenly newness of life, he establishes his kingdom within them."
+
+### Philip Schaff:
+1. "The coming of the kingdom of God will not be of such a character that men can see outward tokens of preparation for it, and determine when it is to come."
+2. "The kingdom of God, which means the actual kingdom of the Messiah."
+3. "The Pharisees would in that case have scrupulously avoided the expression: the kingdom of God."
+
+### Archibald T. Robertson:
+1. "With observation (μετα παρατησεως). Late Greek word from παρατηρεω, to watch closely. Only here in the N.T." 
+2. "But close watching of external phenomena will not reveal the signs of the kingdom of God."
+
+### John Gill:
+1. "When the kingdom of God should come; either the kingdom that God had promised, or the kingdom of the Messiah, who is truly God, that had been so often spoken of by John the Baptist, Christ, and his apostles."
+2. "The kingdom of God cometh not with observation; or so as to be observed by the eye, or to be distinguished when it comes as the kingdoms of this world, by outward pomp and splendour."
+3. "Though it so far came with observation, that had they had eyes to see, they might have observed that it was come, by what they saw done by Christ, particularly the power that he showed in the dispossessing devils out of the bodies of men."
+
+### John Wesley:
+1. The kingdom of God cometh not with observation — With such outward pomp as draws the observation of every one.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:21:15
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 39.06%
+- BHT Quality Score: 2.270979077212525
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (64):
+	['a', 'accusation', 'against', 'aim', 'an', 'and', 'asked', 'be', 'but', 'by', 'can', 'cannot', 'chosen', 'come', 'defined', 'discerned', 'displays', 'does', 'dough', 'drawing', 'entangling', 'established', 'explaining', 'external', 'god', 'good', 'growth', 'hearts', 'him', 'his', 'in', 'intentions', 'inward', 'is', 'it', 'jesus', 'kingdom', 'leaven', 'like', 'not', 'observation', 'of', 'or', 'out', 'outward', 'people', 'permeating', 'pervasion', 'pharisees', 'process', 'question', 'rather', 'renewal', 'responds', 's', 'signs', 'spiritual', 'that', 'the', 'through', 'visibly', 'way', 'with', 'within']
+- ChatGPT injected words (significant words only) (39):
+	['accusation', 'aim', 'asked', 'chosen', 'come', 'defined', 'discerned', 'displays', 'dough', 'drawing', 'entangling', 'established', 'explaining', 'external', 'god', 'good', 'growth', 'hearts', 'intentions', 'inward', 'jesus', 'kingdom', 'leaven', 'like', 'observation', 'outward', 'people', 'permeating', 'pervasion', 'pharisees', 'process', 'question', 'renewal', 'responds', 's', 'signs', 'spiritual', 'visibly', 'way']
+
+### Logs
+- Attempt 1 BHT: The question asked by the Pharisees was not genuine, but rather an attempt to entangle Jesus in order to accuse Him. Jesus responds to both the Pharisees and His disciples by explaining that the coming of the kingdom of God cannot be defined by visible marks or observed with the eyes. The progress of the kingdom is not like that of an earthly kingdom, but rather a process of pervasion, like leaven working through a lump of dough. The kingdom of God is within people and makes its way in silence, decency, and order, rejecting the expectations of those who seek outward signs. It is an inward and spiritual renewal, establishing God's kingdom within His elect.
+- 🔄 Luke 17:20 (attempt 1, 117 words, 37.5% quotes quality score: 2.410171773061979, V2 normalized quality score: 71.48, commentator tiers 1-3: 27.41%, 37.25%, 35.34%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: The question asked by the Pharisees was not genuine, but rather an attempt to entangle Jesus and draw out a direct announcement that could be used against Him. Jesus addresses both the Pharisees and His disciples, explaining that the kingdom of God does not come with observation or outwardly imposing signs. Its growth is not defined by visible marks, but rather by a process of pervasion, like leaven working through dough. The kingdom of God is an inward and spiritual renewal, establishing itself within the hearts of His chosen people.
+- 🔄 Luke 17:20 (attempt 2, 90 words, 43.08% quotes quality score: 2.1610053096372415, V2 normalized quality score: 63.19, commentator tiers 1-3: 28.49%, 36.37%, 35.14%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The Pharisees asked the question without good intentions, seeking to entangle Jesus and accuse Him. He responds by explaining that the kingdom of God does not come with observation, in the way earthly kingdoms do. It cannot be defined by visible signs or outward displays. The progress of God's kingdom is a process of pervasion, like leaven working through dough. The kingdom is within people, not manifested in external pomp, but in inward spiritual renewal.
+- 🔄 Luke 17:20 (attempt 3, 76 words, 37.7% quotes quality score: 2.248901317228399, V2 normalized quality score: 66.12, commentator tiers 1-3: 28.99%, 34.33%, 36.68%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The question asked by the Pharisees was not genuine but rather an attempt to entangle Jesus and draw from Him a direct announcement that could be used against Him. Jesus responds by explaining that the kingdom of God does not come with observation, meaning it cannot be defined by visible marks or observed with the eyes. Instead, the growth of the kingdom is a process of pervasion, like leaven working through dough. The kingdom of God is an inward and spiritual renewal, establishing itself within the hearts of His chosen people.
+- 🔄 Luke 17:20 (attempt 4, 91 words, 43.08% quotes quality score: 2.2018442681470978, V2 normalized quality score: 64.55, commentator tiers 1-3: 28.03%, 35.53%, 36.44%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The Pharisees asked the question not with good intentions, but with the aim of entangling Jesus and drawing out an accusation against Him. Jesus responds by explaining that the kingdom of God does not come with observation, in a way that can be visibly discerned. The growth of God's kingdom cannot be defined by external signs or outward displays, but rather it is a process of pervasion, like leaven permeating through dough. The kingdom of God is an inward and spiritual renewal, established within the hearts of His chosen people.
+- 🔄 Luke 17:20 (attempt 5, 91 words, 39.06% quotes quality score: 2.270979077212525, V2 normalized quality score: 66.85, commentator tiers 1-3: 25.44%, 37.53%, 37.03%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 17:20 bht prompt v0.8 (91 words, 39.06% quotes)
+- quality score: 2.270979077212525, V2 normalized quality score: 66.85, commentator tiers 1-3: 25.44%, 37.53%, 37.03%)

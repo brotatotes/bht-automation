@@ -1,0 +1,90 @@
+# Acts 1:1 Commentary Help Text
+
+## BHT:
+The book of Acts is a continuation of Jesus' ministry, both in terms of His teachings and His acts. It distinguishes between the beginning of His earthly ministry and the ongoing work of salvation through the apostles and the early church. The narrative emphasizes the connectedness and continuity between Jesus' work on earth and His ministry from heaven. It provides a comprehensive account of the significant events that contribute to the spread of the Gospel and the establishment of the early Church, serving as a model for ministers and the Church throughout history.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Whatever latitude may be given to the word all, it must at all events serve to refute the notion that St. Luke had at this time seen the Gospels of Matthew or Mark, in which many things which Jesus did and taught are contained, which he had not related in his former treatise." 
+2. "That meaning here seems to be, that the Gospel contained the beginnings, the outset, of all the doings and teachings of our Lord, as distinguished from this second treatise, which was to relate their sequel and results."
+3. "The position of emphasis given to the verb shows that the beginning of the doing and teaching of Jesus must be contrasted with the continuance of the same, now about to be related."
+
+### Jamieson-Fausset-Brown:
+1. "began to do and teach—a very important statement, dividing the work of Christ into two great branches: the one embracing His work on earth, the other His subsequent work from heaven." 
+2. "the one complete when He sat down at the right hand of the Majesty on high, the other to continue till His second appearing." 
+3. "all the subsequent labors of the apostles are just an exhibition of the ministry of the glorified Redeemer Himself because they were acting under His authority, and He was the principle that operated in them all."
+
+### Albert Barnes:
+1. "Since these events pertained to the descent of the Spirit, to the spread of the gospel, to the organization of the church, to the kind of preaching by which the church was to be collected and organized, and as the facts in the case constituted a full proof of the truth of the Christian religion, and the conduct of the apostles would be a model for ministers and the church in all future times, it was of great importance that a fair and full narrative of these things should be preserved."
+2. "Of all - That is, of the principal, or most important parts of the life and doctrines of Christ. It cannot mean that he recorded all that Jesus did, as he had omitted many things that have been preserved by the other evangelists."
+3. "To do - This refers to his miracles and his acts of benevolence, including all that he did for man’s salvation. It probably includes, therefore, his sufferings, death, and resurrection, as a part of what he has done to save people."
+
+### Marvin Vincent:
+1. "The earthly life of Jesus, concluded with the ascension, has its fruit and continued efficacy; and his heavenly life, commencing with the ascension, has its manifestation and proof in the acts and experiences of the apostles and first churches."
+2. "The history of the Church was under the immediate control of the exalted Redeemer, and may justly be considered as the continuation in heaven of the work which he had begun on earth."
+3. "Thus the history which follows is linked to, or (may I not rather say) welded with, the past; and the founding of the Church in the earth is presented as one continuous work, begun by the Lord in person, and perfected by the same Lord through the ministry of men."
+
+### John Calvin:
+1. "Now we see that the sum of the gospel consisteth of these two parts, namely, of the doctrine of Christ, and of his acts."
+2. "For this is a holy knot which no man may dissolve. Therefore, whensoever mention is made of the doctrine of Christ, let us learn to adjoin thereunto his works, as seals whereby the truth thereof is established and confirmed, and the effect declared."
+3. "It is, therefore, manifest that those works and sayings only which make any thing unto the sum of our salvation are noted in this place."
+
+### Philip Schaff:
+1. "The position this book occupied from the very early days of Christianity in the teaching of the Church, leads us to conclude that it must tell the story of some peculiar and critical period in the Church’s history, that it must relate some all-important and vital developments of Christian practice and government."
+2. "The first words of the Acts give us the key to the understanding of the object and purpose for which this book was written... The writer of these Acts commences his memoirs of the early Christian Church by sharply distinguishing between the work of Jesus among men when He was in the form of a man upon earth, and the work of the same Jesus from His glory throne in heaven after He has been taken up."
+3. "These opening words with which St. Luke commences the ‘Acts’ throw light upon the whole book. They at once remove the first impression which leads men to view the Acts of the Apostles as detached memoirs, or a recital deeply interesting containing inspired utterances, but on the whole as disconnected, without any set defined purpose."
+
+### Archibald T. Robertson:
+1. "The Acts, according to Luke, is a continuation of the doings and teachings of Jesus."
+2. "The record which Luke now records is really the Acts of Jesus as much as the Acts of the Apostles."
+3. "The following writings appear intended to give us, and do, in fact, profess to give us, that which Jesus continued to do and teach after the day in which he was taken up."
+
+### John Gill:
+1. "This is a summary of his former treatise, his Gospel, which gave an account of what Christ began to do, and did; not of the common and private actions of his life... but of his extraordinary actions, of the miracles he wrought." 
+2. "Particularly of all things he did relating to the salvation of his people; of the whole of his obedience; of his compliance with the ceremonial law; of his submission to baptism; of his holy life and conversation, and entire conformity to the law; of his sufferings and death, how that thereby he made full atonement for sin, brought in an everlasting righteousness, and obtained eternal redemption for his people." 
+3. "He intended in this latter to treat, as he does, of what the apostles of Christ began to do and teach."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:24:52
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 33.96%
+- BHT Quality Score: 2.5613904784639243
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (53):
+	['a', 'account', 'acts', 'and', 'apostles', 'as', 'beginning', 'between', 'book', 'both', 'church', 'comprehensive', 'connectedness', 'continuation', 'continuity', 'contribute', 'distinguishes', 'early', 'earth', 'earthly', 'emphasizes', 'establishment', 'events', 'for', 'from', 'gospel', 'heaven', 'his', 'history', 'in', 'is', 'it', 'jesus', 'ministers', 'ministry', 'model', 'narrative', 'of', 'on', 'ongoing', 'provides', 'salvation', 'serving', 'significant', 'spread', 'teachings', 'terms', 'that', 'the', 'through', 'throughout', 'to', 'work']
+- ChatGPT injected words (significant words only) (35):
+	['account', 'acts', 'apostles', 'beginning', 'book', 'church', 'comprehensive', 'connectedness', 'continuation', 'continuity', 'contribute', 'distinguishes', 'early', 'earth', 'earthly', 'emphasizes', 'establishment', 'events', 'gospel', 'heaven', 'history', 'jesus', 'ministers', 'ministry', 'model', 'narrative', 'ongoing', 'provides', 'salvation', 'serving', 'significant', 'spread', 'teachings', 'terms', 'work']
+
+### Logs
+- Attempt 1 BHT: The book of Acts serves as a continuation of the earlier Gospel of Luke, beginning where Luke left off and chronicling the ongoing work of Jesus through his apostles and the early church. It distinguishes between the work of Jesus during his earthly ministry and his work from heaven after his ascension. The acts and experiences of the apostles and the growth of the church are presented as a continuation and fulfillment of the ministry that Jesus began. Luke's intention in writing Acts was to provide a comprehensive account of the key events that pertained to the spread of the Gospel, the descent of the Holy Spirit, and the organization of the church. This narrative serves as a model for future ministers and the church, and its preservation was deemed crucial for the proof and understanding of the Christian faith. Ultimately, Acts is not just about the acts of the apostles, but also about the ongoing acts of Jesus himself through their ministry.
+- 🔄 Acts 1:1 (attempt 1, 164 words, 36.59% quotes quality score: 2.518325588234575, V2 normalized quality score: 75.07, commentator tiers 1-3: 35.41%, 36.08%, 28.51%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: The book of Acts is a continuation of the Gospel of Luke, highlighting that it serves as the Acts of Jesus as much as the Acts of the Apostles. It delineates the distinction between the earthly ministry of Jesus and His subsequent work from heaven. The acts and experiences of the apostles and the growth of the church are presented as an extension of the ministry initiated by Jesus in person. Acts provides a comprehensive account of crucial events, which is of great importance for the proof and understanding of the Christian faith.
+- 🔄 Acts 1:1 (attempt 2, 93 words, 34.62% quotes quality score: 2.399035989217992, V2 normalized quality score: 71.11, commentator tiers 1-3: 36.24%, 35.02%, 28.73%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: The book of Acts can be seen as a continuation of Jesus' ministry, as emphasized by the distinction between the beginning of His teachings and the ongoing ministry of the apostles. It is a comprehensive account of the spread of the gospel, the descent of the Holy Spirit, and the establishment of the early church. Acts serves as a record of the acts and teachings of Jesus, both during His earthly life and from His exalted position in heaven. The narrative highlights the connectedness and continuity between Jesus' work on earth and the subsequent work of the apostles and the Church.
+- 🔄 Acts 1:1 (attempt 3, 101 words, 32.08% quotes quality score: 2.5537000779570453, V2 normalized quality score: 76.25, commentator tiers 1-3: 36.25%, 35.13%, 28.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The book of Acts serves as the continuation of Jesus' ministry, focusing on the acts and teachings of Jesus as well as the works and experiences of the apostles and early churches. It emphasizes the distinction between the beginning of Jesus' ministry and the ongoing work of salvation, beginning with His ascension. The narrative highlights the connection and continuity between Jesus' earthly life and His ministry from heaven. Acts provides a comprehensive account of the pivotal events that contribute to the spread of the Gospel and the establishment of the early Church.
+- 🔄 Acts 1:1 (attempt 4, 92 words, 27.45% quotes quality score: 2.513852647428364, V2 normalized quality score: 74.93, commentator tiers 1-3: 35.25%, 35.64%, 29.11%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: The book of Acts is a continuation of Jesus' ministry, both in terms of His teachings and His acts. It distinguishes between the beginning of His earthly ministry and the ongoing work of salvation through the apostles and the early church. The narrative emphasizes the connectedness and continuity between Jesus' work on earth and His ministry from heaven. It provides a comprehensive account of the significant events that contribute to the spread of the Gospel and the establishment of the early Church, serving as a model for ministers and the Church throughout history.
+- 🔄 Acts 1:1 (attempt 5, 93 words, 33.96% quotes quality score: 2.5613904784639243, V2 normalized quality score: 76.51, commentator tiers 1-3: 35.4%, 35.56%, 29.04%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Acts 1:1 bht prompt v0.8 (93 words, 33.96% quotes)
+- quality score: 2.5613904784639243, V2 normalized quality score: 76.51, commentator tiers 1-3: 35.4%, 35.56%, 29.04%)

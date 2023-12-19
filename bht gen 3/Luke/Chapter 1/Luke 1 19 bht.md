@@ -1,0 +1,92 @@
+# Luke 1:19 Commentary Help Text
+
+## BHT:
+Gabriel, the man of God, one of the chief angels near God's throne, appeared to Zacharias to bring him glad tidings. Gabriel is the messenger of peace and restoration, contrasting with Michael, the champion of God against evil. By stating I am Gabriel, the angel rebuked Zacharias' doubt. In bringing the message, Gabriel proclaimed a gospel message filled with mercy, grace, and love. The angels, as ministering spirits, are sent to aid those who will inherit salvation. We should render to God the obedience of faith and receive the glad tidings with joy and readiness.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The names of the angels, say the Rabbis, came up with Israel from Babylon."
+2. "But we are not therefore to suppose that they were borrowed from any heathen system, as Strauss and the rationalists have done."
+3. "That stand in the presence of God, one of the chief angels near the throne of God."
+
+### Jamieson-Fausset-Brown:
+1. 19. Gabriel—signifying "man
+	of God," the same who appeared to Daniel at the time of incense
+	(Daniel 9:21) and to Mary (Daniel 9:21- :). 
+	
+stand, &amp;c.—as his
+	attendant (compare 1 Kings 17:1).
+
+
+### Albert Barnes:
+1. "To stand before God signifies merely that he was honored or favored by God. He was permitted to come near him, and to see much of his glory."
+2. "The angels are 'ministering spirits' sent forth to minister for them who shall be heirs of salvation... There is no more absurdity or impropriety in supposing that angels may render such aid, than there is in supposing that good people may assist one another."
+3. "In the eye of holy beings all God’s creatures are parts of one great family, and whenever they can do them good they rejoice in the opportunity, at any sacrifice."
+
+### Marvin Vincent:
+1. "Gabriel. Meaning man of God. In Jewish tradition the guardian of the sacred treasury." 
+2. "Michael is the destroyer, the champion of God against evil, the minister of wrath. Gabriel is the messenger of peace and restoration."
+3. "The former is the forerunner of Jehovah the Judge; the latter of Jehovah the Savior."
+
+### John Calvin:
+1. "By these words the angel intimates that it was not his veracity, but that of God who sent him, and whose message he brought, that had been questioned."
+2. "The preaching of the gospel [...] its majesty ought to make as deep an impression upon us, as if all the angels were heard loudly proclaiming its attestation from heaven."
+3. "Let us learn to render to God the obedience of faith, which he values more highly than all sacrifices."
+
+### Philip Schaff:
+1. "I am Gabriel; comp. Daniel 8:16; Daniel 9:21. 'Man of God.'" 
+2. "That stand in the presence of God. One of the chief angels (archangels) nearest to God." 
+3. "To bring thee these glad tidings. The message was a gospel message."
+
+### Archibald T. Robertson:
+1. "Gabriel... The Man of God." 
+2. "The other angel whose name is given in Scripture is Michael." 
+3. "The description of himself is a rebuke to the doubt of Zacharias."
+
+### John Gill:
+1. "Gabriel, according to the Jews, is one of the four angels that surround the throne of God."
+2. "Gabriel was one of the ministering spirits sent to minister to them that were heirs of salvation; his messages were messages of mercy, grace and love."
+3. "He is called Piskon, because he decides, or determines judgment against them that are above; and Itmon, because he stops up the sins of the Israelites; and Sigron, because when he shuts (the gates of judgment) there is none can open again."
+
+### John Wesley:
+1. "I am Gabriel, that stand in the presence of God." 
+2. "There seems to be a remarkable gradation in the words, enhancing the guilt of Zacharias's unbelief." 
+3. "Nay, and to show thee glad tidings, such as ought to be received with the greatest joy and readiness."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:13:22
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 32.31%
+- BHT Quality Score: 2.1455309493092405
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (65):
+	['a', 'against', 'aid', 'am', 'and', 'angel', 'angels', 'appeared', 'are', 'as', 'bring', 'bringing', 'by', 'champion', 'chief', 'contrasting', 'doubt', 'evil', 'faith', 'filled', 'gabriel', 'glad', 'god', 'gospel', 'grace', 'him', 'i', 'in', 'inherit', 'is', 'joy', 'love', 'man', 'mercy', 'message', 'messenger', 'michael', 'ministering', 'near', 'obedience', 'of', 'one', 'peace', 'proclaimed', 'readiness', 'rebuked', 'receive', 'render', 'restoration', 's', 'salvation', 'sent', 'should', 'spirits', 'stating', 'the', 'those', 'throne', 'tidings', 'to', 'we', 'who', 'will', 'with', 'zacharias']
+- ChatGPT injected words (significant words only) (44):
+	['aid', 'angel', 'angels', 'appeared', 'bring', 'bringing', 'champion', 'chief', 'contrasting', 'doubt', 'evil', 'faith', 'filled', 'gabriel', 'glad', 'god', 'gospel', 'grace', 'inherit', 'joy', 'love', 'man', 'mercy', 'message', 'messenger', 'michael', 'ministering', 'near', 'obedience', 'peace', 'proclaimed', 'readiness', 'rebuked', 'receive', 'render', 'restoration', 's', 'salvation', 'sent', 'spirits', 'stating', 'throne', 'tidings', 'zacharias']
+
+### Logs
+- Attempt 1 BHT: Gabriel, the man of God and one of the chief angels near God's throne, appeared to Zacharias to bring him glad tidings. Gabriel is the messenger of peace and restoration, contrasting with Michael who is the champion of God against evil. By stating I am Gabriel, the angel rebuked Zacharias' doubt and emphasized that it was God's veracity being questioned. In bringing the message to Zacharias, Gabriel proclaimed a gospel message filled with mercy, grace, and love. The angels, as ministering spirits, are sent to aid those who will inherit salvation. Just as they rejoice in the opportunity to do good, we should also render to God the obedience of faith and receive the glad tidings of the gospel with joy and readiness.
+- 🔄 Luke 1:19 (attempt 1, 125 words, 36.71% quotes quality score: 2.164742404720755, V2 normalized quality score: 63.32, commentator tiers 1-3: 26.48%, 39.2%, 34.32%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Gabriel, the man of God, one of the chief angels near God's throne, appeared to Zacharias to bring him glad tidings. Gabriel is the messenger of peace and restoration, contrasting with Michael, the champion of God against evil. By stating I am Gabriel, the angel rebuked Zacharias' doubt. In bringing the message, Gabriel proclaimed a gospel message filled with mercy, grace, and love. The angels, as ministering spirits, are sent to aid those who will inherit salvation. We should render to God the obedience of faith and receive the glad tidings with joy and readiness.
+- 🔄 Luke 1:19 (attempt 2, 96 words, 32.31% quotes quality score: 2.1455309493092405, V2 normalized quality score: 62.68, commentator tiers 1-3: 27.25%, 38.76%, 33.99%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Gabriel, the man of God, one of the chief angels near God's throne, appeared to Zacharias with glad tidings. By stating I am Gabriel, the angel rebuked Zacharias' doubt. Gabriel's message proclaimed a gospel message filled with mercy, grace, and love. The angels, as ministering spirits, aid those who will inherit salvation. We should render to God the obedience of faith and receive the glad tidings with joy and readiness.
+- 🔄 Luke 1:19 (attempt 3, 72 words, 32.0% quotes quality score: 2.110509088018947, V2 normalized quality score: 61.52, commentator tiers 1-3: 26.17%, 39.0%, 34.83%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Gabriel, the man of God, and one of the chief angels near the throne of God, appeared to Zacharias to bring him glad tidings. By proclaiming I am Gabriel, the angel rebuked Zacharias' doubt and emphasized that it was God's veracity being questioned, not his. Gabriel's message to Zacharias was filled with mercy, grace, and love, akin to a gospel message. As ministering spirits, the angels joyfully aid those who will inherit salvation. Therefore, let us render to God the obedience of faith and receive the glad tidings with joy and readiness.
+- 🔄 Luke 1:19 (attempt 4, 94 words, 36.51% quotes quality score: 2.118192829315415, V2 normalized quality score: 61.77, commentator tiers 1-3: 25.39%, 38.79%, 35.82%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Gabriel, the man of God and one of the chief angels near God's throne, appeared to Zacharias with glad tidings. By stating I am Gabriel, the angel rebuked Zacharias' doubt. Gabriel's message was a gospel message filled with mercy, grace, and love. The angels, as ministering spirits, aid those who will inherit salvation. Let us render to God the obedience of faith and receive the glad tidings with joy and readiness.
+- 🔄 Luke 1:19 (attempt 5, 73 words, 32.0% quotes quality score: 2.1154361856712347, V2 normalized quality score: 61.68, commentator tiers 1-3: 26.11%, 38.94%, 34.95%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Luke 1:19 bht prompt v0.8 (96 words, 32.31% quotes)
+- quality score: 2.1455309493092405, V2 normalized quality score: 62.68, commentator tiers 1-3: 27.25%, 38.76%, 33.99%)

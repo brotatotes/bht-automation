@@ -1,0 +1,63 @@
+# Luke 1:53 Commentary Help Text
+
+## BHT:
+God's mercy is celebrated as He fills the hungry with good things. This applies not only to temporal needs but also to the spiritual desires of those who long for salvation, forgiveness, righteousness, and communion with Christ. They will be filled with a sense of their interest in Him, their hearts satisfied with joy and peace. However, those who are self-righteous and trust in their works will be sent away empty, without God's love or blessing. It is a reminder of our need for God's provision and dependence on Him over worldly riches.
+
+## Choicest Commentary Quotes:
+### Albert Barnes:
+1. "He hath filled the hungry with good things - This is a celebration of the general mercy of God."
+2. "When this is the case, God not unfrequently not only 'withholds' what they ask, but he takes their riches away by fire, or flood, or disappointments, and sends them away empty."
+3. "It is better to be poor and go to God for our daily bread, than to be rich and forget our dependence on Him, and to seek only a great increase of our property."
+
+### Philip Schaff:
+1. "He hath filled the hungry with good things." - Luke 1:53
+2. "Neither exclusively temporal, nor exclusively spiritual in its meaning." - Commentary on Luke 1:53
+3. "It is hard to divide the two, and no doubt all God’s merciful providing was in the mind of Mary." - Commentary on Luke 1:53
+
+### John Gill:
+1. "Such as earnestly desired and longed after the coming of the Messiah, as good old Simeon, and Anna the prophetess; and those that looked for redemption in Israel, to whom she spake: and all such persons as heartily desire salvation by Christ, and breathe after the forgiveness of their sins through his blood, and thirst after his righteousness, and long for communion with him, and a greater knowledge of him, and more conformity to him, and pant after his word and ordinances; these are filled, sooner or later, with a sense of their interest in Christ, and his salvation."
+2. "...with joy and peace, with food and gladness, even to satisfaction; so that they can say with Jacob, they have enough, yea, all things; seeing Christ is theirs, and all things with him."
+3. "but such who are rich in their opinion, and in their own works; and trust in their righteousness, and despise others; these, as they come full of themselves to the throne of grace, as the Pharisee, are sent empty away; without any token of the love and favour of God, or any blessing from him."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 16:13:28
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 97
+- BHT Commentary Usage: 44.44%
+- BHT Quality Score: 1.5706067215857382
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (72):
+	['a', 'also', 'and', 'applies', 'are', 'as', 'away', 'be', 'blessing', 'but', 'celebrated', 'christ', 'communion', 'dependence', 'desires', 'empty', 'filled', 'fills', 'for', 'forgiveness', 'god', 'good', 'he', 'hearts', 'him', 'however', 'hungry', 'in', 'interest', 'is', 'it', 'joy', 'long', 'love', 'mercy', 'need', 'needs', 'not', 'of', 'on', 'only', 'or', 'our', 'over', 'peace', 'provision', 'reminder', 'riches', 'righteous', 'righteousness', 's', 'salvation', 'satisfied', 'self', 'sense', 'sent', 'spiritual', 'temporal', 'the', 'their', 'they', 'things', 'this', 'those', 'to', 'trust', 'who', 'will', 'with', 'without', 'works', 'worldly']
+- ChatGPT injected words (significant words only) (40):
+	['applies', 'away', 'blessing', 'celebrated', 'christ', 'communion', 'dependence', 'desires', 'filled', 'fills', 'forgiveness', 'god', 'good', 'hearts', 'hungry', 'interest', 'joy', 'long', 'love', 'mercy', 'need', 'needs', 'peace', 'provision', 'reminder', 'riches', 'righteous', 'righteousness', 's', 'salvation', 'satisfied', 'self', 'sense', 'sent', 'spiritual', 'temporal', 'things', 'trust', 'works', 'worldly']
+
+### Logs
+- Attempt 1 BHT: God's mercy is celebrated in Luke 1:53, as He fills the hungry with good things. This generosity extends not only to temporal needs, but also to spiritual desires. Those who earnestly long for salvation, forgiveness, righteousness, and communion with Christ will be filled with a sense of their interest in Him. Their hearts will be satisfied, overflowing with joy, peace, and a deep contentment in knowing that everything they need is found in Christ. On the other hand, those who are self-righteous and trust in their own works will be sent away empty, without any token of God's love or blessing. It is a reminder that it is better to be poor and dependent on God for daily provision than to be rich and forget our need for Him.
+- 🔄 Luke 1:53 (attempt 1, 131 words, 40.45% quotes quality score: 1.6074302611925997, V2 normalized quality score: 44.79, commentator tiers 1-3: 0.0%, 46.87%, 53.13%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: God's mercy is celebrated as He fills the hungry with good things. This applies not only to temporal needs but also to the spiritual desires of those who long for salvation, forgiveness, righteousness, and communion with Christ. They will be filled with a sense of their interest in Him, their hearts satisfied with joy and peace. However, those who are self-righteous and trust in their works will be sent away empty, without God's love or blessing. It is a reminder of our need for God's provision and dependence on Him over worldly riches.
+- 🔄 Luke 1:53 (attempt 2, 97 words, 44.44% quotes quality score: 1.5706067215857382, V2 normalized quality score: 43.57, commentator tiers 1-3: 0.0%, 44.45%, 55.55%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: God's mercy is celebrated in filling the hungry with good things. This generosity is not limited to physical provision but extends to encompass spiritual longings. Those who earnestly desire salvation, forgiveness, righteousness, and communion with Christ will be filled with a sense of their interest in Him. Their hearts will be satisfied, overflowing with joy, peace, and contentment, knowing that everything they need is found in Christ alone. In contrast, those who trust in their own righteousness and despise others will be sent away empty, devoid of God's favor and blessing.
+- 🔄 Luke 1:53 (attempt 3, 93 words, 35.82% quotes quality score: 1.5037549012468292, V2 normalized quality score: 41.34, commentator tiers 1-3: 0.0%, 43.22%, 56.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: God's mercy is celebrated as He fills the hungry with good things. This includes both temporal needs and spiritual desires, such as salvation, forgiveness, righteousness, and communion with Christ. Those who earnestly seek these things will experience a sense of fulfillment in their relationship with Him, finding joy, peace, and contentment. However, those who rely on their own righteousness and disregard others will leave empty-handed, lacking God's favor and blessings. This verse reminds us of the importance of dependence on God and the sufficiency found in Christ alone.
+- 🔄 Luke 1:53 (attempt 4, 91 words, 37.88% quotes quality score: 1.4858373594781082, V2 normalized quality score: 40.75, commentator tiers 1-3: 0.0%, 44.38%, 55.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 5 BHT: God's mercy is displayed in the fulfillment of the hungry with good things. This encompasses both temporal and spiritual aspects, satisfying the deep longings of those who seek salvation, forgiveness, righteousness, and communion with Christ. Their hearts will be filled with a sense of their connection to Him, radiating with joy, peace, and contentment. Conversely, those who trust in their own righteousness and disregard others will be left empty-handed, devoid of God's favor and blessings. This verse serves as a reminder of our need to rely on God and find ultimate satisfaction in Him alone.
+- 🔄 Luke 1:53 (attempt 5, 98 words, 33.82% quotes quality score: 1.4734255675390948, V2 normalized quality score: 40.33, commentator tiers 1-3: 0.0%, 42.42%, 57.58%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Luke 1:53 bht prompt v0.8 (97 words, 44.44% quotes)
+- quality score: 1.5706067215857382, V2 normalized quality score: 43.57, commentator tiers 1-3: 0.0%, 44.45%, 55.55%)
