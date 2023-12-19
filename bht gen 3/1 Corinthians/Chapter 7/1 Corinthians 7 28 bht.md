@@ -1,0 +1,83 @@
+# 1 Corinthians 7:28 Commentary Help Text
+
+## BHT:
+Marriage is not a sin, but it can bring outward troubles due to the present distress. Paul's motive in advising against marriage is to spare believers from such tribulations. The Greek word for 'I' highlights his intent to spare them from this trouble in the flesh. He gives these injunctions to spare them from potential tribulations. Marriage is honorable and lawful, and there is no prohibition against it. However, they should be prepared for the potential trouble that may arise in their circumstances.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Not sin, but outward trouble, will be incurred by contracting marriage." 
+2. "If also thou shalt have married, thou didst not sin (viz. when thou marriedst); and if a virgin shall have married, she sinned not." 
+3. "Such persons, they who have married, shall have tribulation in the flesh: but I (emphatic, my motive is) am sparing you."
+
+### Jamieson-Fausset-Brown:
+1. "Trouble in the flesh" refers to "outward state, by reason of the present distress," not sin, the trouble of the spirit.
+2. The emphasis in the Greek is on "I." My motive in advising is to "spare you" such trouble in the flesh.
+3. The antithesis in the Greek of "I . . . you" and "such" favors the former.
+
+### Albert Barnes:
+1. "Marriage is honorable and lawful; and though there may be circumstances where it is advisable not to enter into this relation, yet there is no law which prohibits it." 
+2. "They shall have anxiety, care; solicitude, trials. Days of persecution are coming on, and you may be led to the stake, and in those fiery trials your families may be torn asunder, and a part be put to death."
+3. "If you choose to marry, it is lawful; and I will not imbitter your joys and harrow up your feelings by the description of your future difficulties and trials."
+
+### Marvin Vincent:
+1. "I spare you further mention of these things."
+2. "I give you these injunctions in order to spare you the tribulation of the flesh."
+3. "I would spare"
+
+### John Calvin:
+1. "As it is allowable for a virgin, so is it for widows also."
+2. "He says, that there are many troubles that are connected with the married life, and that on that account he wishes all to be free from marriage, who desire to be exempt from troubles."
+3. "Do not, however, infer from this that Paul reckons marriage to be a necessary evil for those troubles of which he speaks do not arise so much from the nature of marriage, as from the corruption of it, for they are the fruits of original sin."
+
+### Archibald T. Robertson:
+1. "But if thou also commit matrimony or get married, in spite of Paul's advice to the contrary."
+2. "Thou hast not sinned. Precisely the same construction occurs with the case of the virgin."
+3. "Shall have tribulation in the flesh. And I would spare you."
+
+### John Gill:
+1. "If a man that has never been married, or one that has, if legally loosed from his wife, thinks fit to marry, he commits no sin, he breaks no law of God..."
+2. "The apostle would be understood, that in the advice he before gives, he is not dissuading from marriage, as a thing sinful and criminal; only that it was more advisable to such as could to abstain from it, under the present circumstances of things..."
+3. "shall meet with a great deal of trouble; and that even where they expected the most satisfaction and delight, 'in the flesh'; the body, the outward man, and external circumstances of life."
+
+### John Wesley:
+1. Such will have trouble in the flesh — Many outward troubles.
+But I spare you — I speak as little and as tenderly as possible.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:07:36
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 84
+- BHT Commentary Usage: 50.85%
+- BHT Quality Score: 1.8016783636348657
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (59):
+	['a', 'advising', 'against', 'and', 'arise', 'be', 'believers', 'bring', 'but', 'can', 'circumstances', 'distress', 'due', 'flesh', 'for', 'from', 'gives', 'greek', 'he', 'highlights', 'his', 'honorable', 'however', 'i', 'in', 'injunctions', 'intent', 'is', 'it', 'lawful', 'marriage', 'may', 'motive', 'no', 'not', 'outward', 'paul', 'potential', 'prepared', 'present', 'prohibition', 's', 'should', 'sin', 'spare', 'such', 'that', 'the', 'their', 'them', 'there', 'these', 'they', 'this', 'to', 'tribulations', 'trouble', 'troubles', 'word']
+- ChatGPT injected words (significant words only) (29):
+	['advising', 'arise', 'believers', 'bring', 'circumstances', 'distress', 'flesh', 'gives', 'greek', 'highlights', 'honorable', 'injunctions', 'intent', 'lawful', 'marriage', 'motive', 'outward', 'paul', 'potential', 'prepared', 'present', 'prohibition', 's', 'sin', 'spare', 'tribulations', 'trouble', 'troubles', 'word']
+
+### Logs
+- Attempt 1 BHT: Marriage itself is not a sin, but it can bring about outward troubles due to the present distress. The apostle Paul emphasizes that his motive in advising against marriage is to spare believers from such tribulations. The Greek word for I in this passage carries significant weight, highlighting Paul's intent to spare them from this trouble in the flesh. He gives these injunctions to spare them from the tribulations that may arise. However, he clarifies that marriage is honorable and lawful, and there is no prohibition against it. Though there may be difficulties, especially in the face of imminent persecution, choosing to marry is not sinful. Thus, if one decides to marry, they commit no wrongdoing. However, they should be prepared for the potential trouble that may arise in their external circumstances.
+- 🔄 1 Corinthians 7:28 (attempt 1, 133 words, 43.53% quotes quality score: 1.822761521503817, V2 normalized quality score: 51.95, commentator tiers 1-3: 30.03%, 37.08%, 32.89%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 2 BHT: Marriage is not a sin, but it can bring outward troubles due to the present distress. Paul's motive in advising against marriage is to spare believers from such tribulations. The Greek word for 'I' highlights his intent to spare them from this trouble in the flesh. He gives these injunctions to spare them from potential tribulations. Marriage is honorable and lawful, and there is no prohibition against it. However, they should be prepared for the potential trouble that may arise in their circumstances.
+- 🔄 1 Corinthians 7:28 (attempt 2, 84 words, 50.85% quotes quality score: 1.8016783636348657, V2 normalized quality score: 51.25, commentator tiers 1-3: 32.46%, 36.41%, 31.13%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 3 BHT: Marriage is not sinful, but it can lead to outward troubles due to difficult circumstances. Paul's intention in advising against marriage is to spare believers from these tribulations. By highlighting the emphasis on I, he makes it clear that his motive is to protect them from trouble in the flesh. He provides these instructions in order to spare them from the potential challenges that may arise. While marriage is both honorable and lawful, one should be aware of the possible troubles that may accompany it.
+- 🔄 1 Corinthians 7:28 (attempt 3, 86 words, 45.0% quotes quality score: 1.7546513592085071, V2 normalized quality score: 49.68, commentator tiers 1-3: 27.34%, 39.03%, 33.63%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Marriage is not a sin, but it may bring about outward troubles due to the present distress. Paul's motive in advising against marriage is to spare believers from this trouble in the flesh. He emphasizes the Greek word for I to highlight his intent of sparing them. By giving these injunctions, Paul aims to spare believers from potential tribulations. Though marriage is honorable and lawful, one should be prepared for potential challenges that may arise in their external circumstances.
+- 🔄 1 Corinthians 7:28 (attempt 4, 80 words, 46.77% quotes quality score: 1.8706202171446487, V2 normalized quality score: 53.54, commentator tiers 1-3: 32.18%, 36.12%, 31.71%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Marriage is not sinful; however, it can result in external troubles due to the present distress. Paul's purpose in discouraging marriage is to spare believers from these tribulations. The emphasis on I underscores his motivation to protect them from trouble in the flesh. Paul offers these instructions as a means of sparing them from potential challenges. While marriage is noble and permissible, one should acknowledge the possibility of hardships in their circumstances.
+- 🔄 1 Corinthians 7:28 (attempt 5, 73 words, 41.82% quotes quality score: 1.6618527984439355, V2 normalized quality score: 46.6, commentator tiers 1-3: 29.0%, 36.0%, 35.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 7:28 bht prompt v0.8 (84 words, 50.85% quotes)
+- quality score: 1.8016783636348657, V2 normalized quality score: 51.25, commentator tiers 1-3: 32.46%, 36.41%, 31.13%)

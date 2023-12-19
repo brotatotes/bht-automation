@@ -1,0 +1,83 @@
+# 2 Corinthians 10:10 Commentary Help Text
+
+## BHT:
+Paul's physical appearance and delivery were lacking in comparison to the false teachers among the Corinthians, leaving him vulnerable to criticism. His letters, however, were filled with powerful arguments and rebukes, exhibiting his true strength. The Corinthians preferred the articulate speech of Apollos, while disregarding Paul's unimpressive manner. This difference in reception highlights the contrast between Paul's presence and his powerful writing style. Despite any physical weaknesses or deficiencies, Paul's letters carried great weight and authority, manifesting his true power as an apostle.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "No countenance is given by these words to the idea that Paul was of weak physical constitution, or short in stature."
+2. "It is, that when he was present among them, he brought, not the strength of presence or words of the carnal teachers, but abjured all such influence, and in fear and trembling preached Christ crucified."
+3. "At the same time, the contrast being between his epistles and his word of mouth, his authority as unaccompanied or accompanied by his presence, it must be assumed, that there was something which discommended his appearance and delivery."
+
+### Jamieson-Fausset-Brown:
+1. "letters—implying that there had been already more letters of Paul received by the Corinthians than the one we have, namely, First Corinthians; and that they contained strong reproofs."
+2. "say they—Greek, 'says one,' 'such a one' seems to point to some definite individual."
+3. "weak—There was nothing of majesty or authority in his manner; he bore himself tremblingly among them, whereas the false teachers spoke with authoritative bearing and language."
+
+### Albert Barnes:
+1. "His letters were energetic and powerful. They abounded with strong argument, manly appeals, and impressive reproof."
+2. "They are powerful in reproof - abounding with strokes of great boldness of denunciation, and also with specimens of most withering sarcasm and most delicate irony."
+3. "What a chasm in the religious opinions and in the consolations of the Christian world!"
+
+### Marvin Vincent:
+1. "The only instance of the very words used by Paul's adversaries."
+2. "As though he felt that his appearance was against him.... His language leaves on us the impression of one who was acutely sensitive."
+3. "A bronze medal discovered in the cemetery of St. Domitilla at Rome, and ascribed to the first or second century, represents the apostle with a bald, round, well-developed head; rather long, curling beard; high forehead; prominent nose; and open, staring eye."
+
+### Philip Schaff:
+1. "His letters, they say, are weighty and strong, but his bodily presence is weak, and his speech of no account."
+2. "The weakness here ascribed to his ‘bodily presence’ refers to his physical weakness."
+3. "The context shows the contrast between his tone and manner when present with the Corinthians, and that when merely writing to them."
+
+### Archibald T. Robertson:
+1. "It seems clear that Paul did not have a commanding appearance like that of Barnabas (Acts 14:12). He had some physical defect of the eyes (Galatians 4:14) and a thorn in the flesh (2 Corinthians 12:7)."
+2. "However that may be, his accusers sneered at his personal appearance as 'weak' (ασθενης)."
+3. "The Corinthians (some of them) cared more for the brilliant eloquence of Apollos and did not find Paul a trained rhetorician (1 Corinthians 1:17; 1 Corinthians 2:1; 1 Corinthians 2:4; 2 Corinthians 11:6)."
+
+### John Gill:
+1. "His letters, say they, are weighty and powerful....with threatenings what he would do, when he came among them." 
+2. "His bodily presence is weak, and his speech contemptible." 
+3. "He was not a man of that greatness of soul...his style neglected; and, upon all accounts, a person worthy of no notice, and not at all to be either feared or regarded."
+
+### John Wesley:
+1. His bodily presence is weak — His stature, says St. Chrysostom, was low, his body crooked, and his head bald.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:17:54
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 28.57%
+- BHT Quality Score: 2.164678652462775
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (63):
+	['among', 'an', 'and', 'any', 'apollos', 'apostle', 'appearance', 'arguments', 'articulate', 'as', 'authority', 'between', 'carried', 'comparison', 'contrast', 'corinthians', 'criticism', 'deficiencies', 'delivery', 'despite', 'difference', 'disregarding', 'exhibiting', 'false', 'filled', 'great', 'highlights', 'him', 'his', 'however', 'in', 'lacking', 'leaving', 'letters', 'manifesting', 'manner', 'of', 'or', 'paul', 'physical', 'power', 'powerful', 'preferred', 'presence', 'rebukes', 'reception', 's', 'speech', 'strength', 'style', 'teachers', 'the', 'this', 'to', 'true', 'unimpressive', 'vulnerable', 'weaknesses', 'weight', 'were', 'while', 'with', 'writing']
+- ChatGPT injected words (significant words only) (45):
+	['apollos', 'apostle', 'appearance', 'arguments', 'articulate', 'authority', 'carried', 'comparison', 'contrast', 'corinthians', 'criticism', 'deficiencies', 'delivery', 'despite', 'difference', 'disregarding', 'exhibiting', 'false', 'filled', 'great', 'highlights', 'lacking', 'leaving', 'letters', 'manifesting', 'manner', 'paul', 'physical', 'power', 'powerful', 'preferred', 'presence', 'rebukes', 'reception', 's', 'speech', 'strength', 'style', 'teachers', 'true', 'unimpressive', 'vulnerable', 'weaknesses', 'weight', 'writing']
+
+### Logs
+- Attempt 1 BHT: When Paul was present among the Corinthians, his appearance and delivery lacked the strength and authority of the false teachers. His physical presence was weak, and his speech was considered of no account. It is possible that he had some physical defect, such as a thorn in the flesh or an issue with his eyes. Nevertheless, his letters were powerful and weighty, abounding with strong argument and reproof. The Corinthians, however, seemed to prefer the eloquence of Apollos over the unimpressive manner of Paul. This shows the contrast between Paul's tone and manner when present with the Corinthians and when writing to them.
+- 🔄 2 Corinthians 10:10 (attempt 1, 104 words, 43.48% quotes quality score: 2.0912242057904966, V2 normalized quality score: 60.87, commentator tiers 1-3: 35.52%, 30.41%, 34.07%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: When Paul was present among the Corinthians, his appearance and delivery lacked strength, making him seem weak and his speech unimpressive compared to the false teachers. It is possible that he had a physical defect such as poor eyesight or a thorn in the flesh. However, his letters were powerful and weighty, filled with strong argument and reproof. The Corinthians preferred the eloquence of Apollos and did not find Paul's appearance or delivery captivating. This contrast highlights the difference between Paul's demeanor in person and his writing style.
+- 🔄 2 Corinthians 10:10 (attempt 2, 90 words, 39.71% quotes quality score: 2.0575248704853313, V2 normalized quality score: 59.75, commentator tiers 1-3: 36.12%, 29.29%, 34.59%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Paul's physical appearance and delivery were lacking in comparison to the false teachers among the Corinthians, leaving him vulnerable to criticism. His letters, however, were filled with powerful arguments and rebukes, exhibiting his true strength. The Corinthians preferred the articulate speech of Apollos, while disregarding Paul's unimpressive manner. This difference in reception highlights the contrast between Paul's presence and his powerful writing style. Despite any physical weaknesses or deficiencies, Paul's letters carried great weight and authority, manifesting his true power as an apostle.
+- 🔄 2 Corinthians 10:10 (attempt 3, 87 words, 28.57% quotes quality score: 2.164678652462775, V2 normalized quality score: 63.32, commentator tiers 1-3: 35.79%, 31.1%, 33.11%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Paul's physical appearance and delivery were weak and lacked authority, unlike the false teachers who spoke with confidence. His letters, however, were weighty and powerful, containing strong reproofs. The Corinthians, preferring the eloquence of Apollos, did not find Paul's presence or speech impressive. The contrast between Paul's demeanor in person and his authoritative writing style is evident, revealing the genuine power behind his words. Despite any personal shortcomings, Paul's letters carried significant weight and showcased his true strength as a teacher of Christ.
+- 🔄 2 Corinthians 10:10 (attempt 4, 87 words, 26.87% quotes quality score: 2.146447498631129, V2 normalized quality score: 62.71, commentator tiers 1-3: 35.37%, 30.4%, 34.23%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul's appearance and delivery were unimpressive, lacking authority compared to the false teachers among the Corinthians. While he bore himself tremblingly, his letters were weighty and powerful, containing strong reproofs. The Corinthians favored the eloquence of Apollos and disregarded Paul's weak presence and speech. This contrast emphasizes the disparity between Paul's personal manner and his impactful writing style. Despite his physical shortcomings, Paul's letters carried immense weight, reflecting his true strength and authority as an apostle.
+- 🔄 2 Corinthians 10:10 (attempt 5, 80 words, 24.14% quotes quality score: 2.161648186828074, V2 normalized quality score: 63.22, commentator tiers 1-3: 35.54%, 30.08%, 34.38%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 2 Corinthians 10:10 bht prompt v0.8 (87 words, 28.57% quotes)
+- quality score: 2.164678652462775, V2 normalized quality score: 63.32, commentator tiers 1-3: 35.79%, 31.1%, 33.11%)

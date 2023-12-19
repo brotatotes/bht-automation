@@ -1,0 +1,76 @@
+# 1 Corinthians 8:8 Commentary Help Text
+
+## BHT:
+The eating or abstaining from meat holds no spiritual advantage before God, as it neither commends nor disapproves us. Our standing before God is not affected by what we eat or don't eat. The acceptable worship of God is not found in such external factors but rather in something deeper and more spiritual. These outward observances do not determine our righteousness or our standing in God's love and favor. Instead, God's recommmendation to us is to prioritize love above all else.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Reason why we should accommodate ourselves to the prejudices of the weak in this matter: because it is not one in which any spiritual advantage is to be gained, but one perfectly indifferent." 
+2. "It will not affect our (future) standing before God."
+3. "Shall not be reckoned to us before God."
+
+### Jamieson-Fausset-Brown:
+1. "Neither if we do not eat, are we the better: neither if we eat are we the worse"
+2. "Meat neither presents [so the Greek for 'commendeth'] us as commended nor as disapproved before God"
+3. "It does not affect our standing before God"
+
+### Albert Barnes:
+1. "The mere circumstance of eating 'meat,' or abstaining from it, cannot make a man better or worse in the sight of a holy God."
+2. "The acceptable worship of God is not placed in such things. It is more spiritual; more deep; more important."
+3. "God does not regard this as a matter of importance. He does not make his favor depend on unimportant circumstances like this."
+
+### Marvin Vincent:
+1. Commendeth - not [ου παραστησει] . Lit., present. Rev., more correctly, will not commend. See on shewed himself, Acts 1:3.
+
+
+### John Calvin:
+1. "It is certain that meat recommendeth us not to God; and Paul acknowledges this, but he states this exception, that love is recommended to us by God, which it were criminal to overlook."
+2. "We have neither more nor less of righteousness from eating or from abstaining."
+3. "The kingdom of God, which is spiritual, does not consist in these outward observances, and therefore, things indifferent are in themselves of no importance in the sight of God."
+
+### Philip Schaff:
+1. "But meat will not commend us to God: neither, if we eat, are we the better; nor if we eat not, are we the worse."
+2. "The order of these clauses is reversed in some texts; but as the evidence is pretty equally balanced, the sense precisely the same, and the matter of no importance either way, the natural English order may be adhered to."
+
+### Archibald T. Robertson:
+1. "Food will not give us an entree to God for commendation or condemnation, whether meat-eaters or vegetarians." 
+2. "Are we left behind, do we fall short." 
+3. "Paul here disposes of the pride of knowledge (the enlightened ones) and the pride of prejudice (the unenlightened)."
+
+### John Gill:
+1. "eating of meat, any sort of meat, and so that which is offered to idols, or abstinence from it, neither one nor the other recommends any to the love and favour of God"
+2. "does not bring near, or give access to God, as the Syriac version renders the phrase; does not ingratiate any into his affectionate regards, or make them acceptable unto him"
+3. "true grace and piety are not a whit the less; nor are such persons less in the love and favour of God, which is not to be known and judged of by any such action, or the omission of it"
+
+### John Wesley:
+1. But meat commendeth us not to God — Neither by eating, nor by refraining from it. Eating and not eating are in themselves things merely indifferent.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:08:16
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 84
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 2.379146686517089
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (60):
+	['above', 'abstaining', 'acceptable', 'advantage', 'affected', 'all', 'and', 'as', 'before', 'but', 'by', 'commends', 'deeper', 'determine', 'disapproves', 'do', 'don', 'eat', 'eating', 'else', 'external', 'factors', 'favor', 'found', 'from', 'god', 'holds', 'in', 'instead', 'is', 'it', 'love', 'meat', 'more', 'neither', 'no', 'nor', 'not', 'observances', 'of', 'or', 'our', 'outward', 'prioritize', 'rather', 'recommmendation', 'righteousness', 's', 'something', 'spiritual', 'standing', 'such', 't', 'the', 'these', 'to', 'us', 'we', 'what', 'worship']
+- ChatGPT injected words (significant words only) (30):
+	['abstaining', 'acceptable', 'advantage', 'affected', 'commends', 'deeper', 'determine', 'disapproves', 'don', 'eat', 'eating', 'external', 'factors', 'favor', 'found', 'god', 'holds', 'instead', 'love', 'meat', 'observances', 'outward', 'prioritize', 'recommmendation', 'righteousness', 's', 'spiritual', 'standing', 't', 'worship']
+
+### Logs
+- Attempt 1 BHT: The verse reminds us that the act of eating meat or abstaining from it does not affect our standing before God. It is not a matter of spiritual advantage or disadvantage. Meat does not commend or disapprove us before God. It is not a means to gain favor or condemnation. The acceptable worship of God is not based on such things, as it is more deep and spiritual. Therefore, whether we eat or not, it does not make us better or worse in the sight of God. The kingdom of God is not dependent on outward observances like this. Instead, it is love that is truly recommended to us by God, and that is what we should focus on.
+- 🔄 1 Corinthians 8:8 (attempt 1, 119 words, 42.42% quotes quality score: 2.2153772848896414, V2 normalized quality score: 65.0, commentator tiers 1-3: 25.96%, 35.54%, 38.49%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Whether we eat meat or abstain from it, it does not affect our standing before God or bring us closer to His favor. Eating or not eating is of no spiritual significance. The act of eating meat is not a means of commendation or disapproval before God. What truly matters is love, which is what God recommends to us. Our righteousness does not increase or decrease based on our eating habits. The kingdom of God does not rely on these outward observances.
+- 🔄 1 Corinthians 8:8 (attempt 2, 82 words, 42.0% quotes quality score: 2.2114246205679553, V2 normalized quality score: 64.87, commentator tiers 1-3: 26.58%, 31.89%, 41.53%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 8:8 bht prompt v0.8 (84 words, 50.0% quotes)
+- quality score: 2.379146686517089, V2 normalized quality score: 70.45, commentator tiers 1-3: 25.68%, 34.01%, 40.31%)

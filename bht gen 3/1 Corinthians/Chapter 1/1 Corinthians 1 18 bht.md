@@ -1,0 +1,87 @@
+# 1 Corinthians 1:18 Commentary Help Text
+
+## BHT:
+The preaching of the cross, deemed foolishness by some, is actually the power of God for those being saved. Though it may seem weak and foolish in the world's eyes, it is the highest wisdom of God. This message of the cross, encompassing past salvation, present state, process, and future result, holds the dynamite of God's power. It is a doctrine reproached and persecuted throughout history, yet the only one that brings conversion and comfort. The preaching of the cross is the power of God for those saved on the path to everlasting salvation.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "The preaching of the cross is to them that are perishing, foolishness."
+2. "...but to us who are being saved, it is the power of God."
+3. "The eloquence of the Cross: referring to the term wisdom of speech."
+
+### Jamieson-Fausset-Brown:
+1. "What seems to the world 'weakness' in God's plan of salvation is really His mighty 'power.'" (1 Corinthians 1:18)
+2. "What seems 'foolishness' because wanting man's 'wisdom of words' is really the highest 'wisdom of God'." (1 Corinthians 1:18)
+3. "God's powerful instrument of salvation; the highest exhibition of God's power." (1 Corinthians 1:18)
+
+### Albert Barnes:
+1. "The preaching of the cross must denote more than [Christ's death] as a mere martyr's death."
+2. "The preaching of the cross is 'the power of God;' and every minister may present it with the assurance that he is presenting, not 'a cunningly devised fable,' but a system 'really suited' to save people."
+3. "Its reception by the human mind depends on the promised presence of the Holy Spirit."
+
+### Marvin Vincent:
+1. "The word of the cross, that, namely, of the cross."
+2. "To them that are perishing. They who are on the way to destruction."
+3. "Foolishness. Only in this epistle."
+
+### John Calvin:
+1. "For the preaching of the cross, as having nothing of human wisdom to recommend it to esteem, is reckoned foolishness by them that perish; in our view, notwithstanding, the wisdom of God clearly shines forth in it."
+2. "He indirectly reproves, however, the perverted judgment of the Corinthians, who, while they were, through seduction of words, too easily allured by ambitious teachers, regarded with disdain an Apostle who was endowed with the power of God for their salvation, and that simply because he devoted himself to the preaching of Christ."
+3. "In what way the preaching of the cross is the power of God unto salvation, we have explained in commenting upon Romans 1:16."
+
+### Philip Schaff:
+1. "For the word of the cross is to them that are perishing, foolishness."
+
+### Archibald T. Robertson:
+1. "The discussions in the Corinthian Church are for a time forgotten, and he takes the opportunity of correcting his converts for their undue exaltation of human eloquence and wisdom."
+2. "Salvation is described by Paul as a thing done in the past, as a present state, as a process, as a future result."
+3. "No other message has this dynamite of God. God's power is shown in the preaching of the Cross of Christ through all the ages, now as always."
+
+### John Gill:
+1. "It is a doctrine which is not received by the wise and learned, but has been in all ages loaded with reproach, stigmatized either as a novel or licentious doctrine, and attended with persecution; though the only doctrine God owns for conversion, which administers comfort to distressed souls, and is food for the faith of believers."
+2. "unto us which are saved; who are chosen in Christ unto salvation; whose persons and grace are secured in Christ, and in the everlasting covenant; for whom Christ has wrought out salvation; and to whom it is applied by the Spirit of God; and who are kept unto the full enjoyment of it by divine grace: to these it is the power of God."
+3. "the manner in which they spread it, not by force of arms, by carnal weapons, but spiritual ones; moreover, the opposition they met with from rabbins, philosophers, princes, kings, and emperors, and all the states and powers of the world; and yet in how short a time, maugre all opposition, did they carry the Gospel throughout the whole world, to the conversion of millions of souls, and the planting of churches everywhere; and which Gospel has continued and increased, notwithstanding the efforts of persecutors and false teachers, and all the power and artifice of men and devils; all which can be attributed to nothing else but the mighty power of God."
+
+### John Wesley:
+1. "By obstinately rejecting the only name whereby they can be saved."
+2. "Now saved from our sins, and in the way to everlasting salvation, it is the great instrument of the power of God."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:00:50
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 39.66%
+- BHT Quality Score: 2.329719707899943
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (58):
+	['a', 'actually', 'and', 'being', 'brings', 'by', 'comfort', 'conversion', 'cross', 'deemed', 'doctrine', 'dynamite', 'encompassing', 'everlasting', 'eyes', 'foolish', 'foolishness', 'for', 'future', 'god', 'highest', 'history', 'holds', 'in', 'is', 'it', 'may', 'message', 'of', 'on', 'one', 'only', 'past', 'path', 'persecuted', 'power', 'preaching', 'present', 'process', 'reproached', 'result', 's', 'salvation', 'saved', 'seem', 'some', 'state', 'that', 'the', 'this', 'those', 'though', 'throughout', 'to', 'weak', 'wisdom', 'world', 'yet']
+- ChatGPT injected words (significant words only) (35):
+	['actually', 'brings', 'comfort', 'conversion', 'cross', 'deemed', 'doctrine', 'dynamite', 'encompassing', 'everlasting', 'eyes', 'foolish', 'foolishness', 'future', 'god', 'highest', 'history', 'holds', 'message', 'past', 'path', 'persecuted', 'power', 'preaching', 'present', 'process', 'reproached', 'result', 's', 'salvation', 'saved', 'state', 'weak', 'wisdom', 'world']
+
+### Logs
+- Attempt 1 BHT: The preaching of the cross, which some consider foolishness, is in fact the power of God for those who are being saved. Though it may seem weak and foolish in the eyes of the world, it is actually the highest wisdom of God. This message of the cross, which encompasses both the past work of salvation and the present state, process, and future result of salvation, has the dynamite of God's power like no other. It is a doctrine that has been reproached and persecuted throughout history, yet it is the only doctrine that brings conversion and comfort to believers. The preaching of the cross is not received by the wise and learned, but it is the power of God unto salvation for those who are saved. Through the spiritual weapons of the Gospel, the early apostles were able to spread the message of salvation to millions of souls despite great opposition, a testament to the mighty power of God. Ultimately, it is by rejecting the message of the cross that one remains obstinately unsaved. Therefore, for those who have been saved from their sins and are on the path to everlasting salvation, the preaching of the cross is the great instrument of the power of God.
+- 🔄 1 Corinthians 1:18 (attempt 1, 208 words, 38.24% quotes quality score: 2.3560117300075083, V2 normalized quality score: 69.68, commentator tiers 1-3: 30.21%, 30.56%, 39.23%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: The preaching of the cross, deemed foolishness by some, is actually the power of God for those being saved. Though it may seem weak and foolish in the world's eyes, it is the highest wisdom of God. This message of the cross, encompassing past salvation, present state, process, and future result, holds the dynamite of God's power. It is a doctrine reproached and persecuted throughout history, yet the only one that brings conversion and comfort. The preaching of the cross is the power of God for those saved on the path to everlasting salvation.
+- 🔄 1 Corinthians 1:18 (attempt 2, 96 words, 39.66% quotes quality score: 2.329719707899943, V2 normalized quality score: 68.8, commentator tiers 1-3: 32.18%, 30.86%, 36.96%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The preaching of the cross, regarded as foolishness by some, is actually the power of God for those being saved. Although it may appear weak and foolish, it is the highest wisdom of God. This message of the cross embodies past salvation, present state, process, and future result—a display of God's mighty power. It is a doctrine that has been persecuted, yet brings about conversion and comfort. For those saved and journeying towards eternal salvation, the preaching of the cross serves as the great instrument of God's power.
+- 🔄 1 Corinthians 1:18 (attempt 3, 91 words, 37.5% quotes quality score: 2.2578006261406482, V2 normalized quality score: 66.41, commentator tiers 1-3: 32.46%, 30.76%, 36.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The preaching of the cross, deemed foolishness by some, is actually the power of God for those being saved. Though it may seem weak and foolish, it is the highest wisdom of God. This message embodies past salvation, present state, process, and future result—a display of God's mighty power. It is a doctrine reproached and persecuted, yet brings about conversion and comfort. For those saved and moving towards eternal salvation, the preaching of the cross is the great instrument of God's power.
+- 🔄 1 Corinthians 1:18 (attempt 4, 85 words, 34.62% quotes quality score: 2.22501808609168, V2 normalized quality score: 65.32, commentator tiers 1-3: 32.8%, 29.93%, 37.28%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The preaching of the cross, considered foolishness by some, is the power of God for those being saved. While it may appear weak and foolish, it is actually the highest wisdom of God. This message encompasses past salvation, present state, process, and future result—an awe-inspiring display of God's mighty power. It is a doctrine that faces reproach and persecution, yet it brings about conversion and comfort. For those saved and on the path to eternal salvation, the preaching of the cross is the remarkable instrument of God's power.
+- 🔄 1 Corinthians 1:18 (attempt 5, 92 words, 34.48% quotes quality score: 2.2238475660420622, V2 normalized quality score: 65.28, commentator tiers 1-3: 32.7%, 29.95%, 37.35%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 1:18 bht prompt v0.8 (96 words, 39.66% quotes)
+- quality score: 2.329719707899943, V2 normalized quality score: 68.8, commentator tiers 1-3: 32.18%, 30.86%, 36.96%)

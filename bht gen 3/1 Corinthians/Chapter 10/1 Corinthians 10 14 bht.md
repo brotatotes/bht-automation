@@ -1,0 +1,87 @@
+# 1 Corinthians 10:14 Commentary Help Text
+
+## BHT:
+Idolatry is a temptation that should be shunned and escaped from entirely. The Corinthians were warned against participating in idol feasts and any practices that even resemble idolatry. Fleeing from idolatry is a command that urges believers to avoid all approaches to it. The honor due to God should never be transferred to idols through any action or appearance of adoration. It is of utmost importance to wholly shun whatever borders on idolatry and to stay away from any occasion or temptation associated with it.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "Idolatry is by all means to be shunned; not tampered with, but fled from." 
+2. "Flee from presses very strongly the entire avoidance." 
+3. "This verse of itself would by inference forbid the Corinthians having any share in the idol feasts."
+
+### Jamieson-Fausset-Brown:
+1. "The only safety is in wholly shunning whatever borders on idolatry."
+2. "The Holy Spirit herein also presciently warned the Church against the idolatry."
+3. "Subsequently transferred from the idol feast to the Lord's Supper itself, in the figment of transubstantiation."
+
+### Albert Barnes:
+1. "Flee from idolatry - Escape from the service of idols; from the feasts celebrated in honor of them; from the temples where they are worshipped."
+2. "He had told them, indeed, that God was faithful; and yet he did not expect that God would keep them without any effort of their own."
+3. "He returns, therefore, in this verse, to the particular subject discussed in 1 Corinthians 8:1-13 - the propriety of partaking of the feasts in honor of idols; and shows the danger which would follow such a practice."
+
+### Marvin Vincent:
+1. Idolatry. Notice the article : the idolatry, the temptation of which is constantly present in the idol - feasts.
+
+
+### John Calvin:
+1. "Flee, says he, from idolatry...he condemns this liberty taken by them, as being a very bad example." 
+2. "For, as we owe to God not merely the secret affection of the heart, but also outward adoration, the man who offers to an idol an appearance of adoration takes away so much of the honor due to God."
+3. "Let him allege as he may that his heart is quite away from it. The action itself is to be seen, in which the honor that is due to God is transferred to an idol."
+
+### Philip Schaff:
+1. 1 Corinthians 10:14. Wherefore, my beloved, flee from idolatry,
+	
+
+
+### Archibald T. Robertson:
+1.  Wherefore (διοπερ). Powerfully Paul applies the example of the Israelites to the perilous state of the Corinthians about idolatry. See on verse 1 Corinthians 10:7 for word ειδωλολατρεια. 
+
+
+### John Gill:
+1. "flee from idolatry; as what is most dishonourable, pernicious, and abominable."
+2. "his sense is, that they would abstain from all appearance of idolatry, from every occasion of it, and whatsoever led unto it"
+3. "he means, that they would not eat of things sacrificed to idols as such, and in an idol's temple; which he considers as a species of idolatrous worship"
+
+### John Wesley:
+1. Flee from idolatry — And from all approaches to it.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:11:26
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 85
+- BHT Commentary Usage: 41.38%
+- BHT Quality Score: 2.5958397023744793
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (58):
+	['a', 'action', 'adoration', 'against', 'all', 'and', 'any', 'appearance', 'approaches', 'associated', 'avoid', 'away', 'be', 'believers', 'borders', 'command', 'corinthians', 'due', 'entirely', 'escaped', 'even', 'feasts', 'fleeing', 'from', 'god', 'honor', 'idol', 'idolatry', 'idols', 'importance', 'in', 'is', 'it', 'never', 'occasion', 'of', 'on', 'or', 'participating', 'practices', 'resemble', 'should', 'shun', 'shunned', 'stay', 'temptation', 'that', 'the', 'through', 'to', 'transferred', 'urges', 'utmost', 'warned', 'were', 'whatever', 'wholly', 'with']
+- ChatGPT injected words (significant words only) (34):
+	['action', 'adoration', 'appearance', 'approaches', 'associated', 'avoid', 'away', 'believers', 'borders', 'command', 'corinthians', 'entirely', 'escaped', 'feasts', 'fleeing', 'god', 'honor', 'idol', 'idolatry', 'idols', 'importance', 'occasion', 'participating', 'practices', 'resemble', 'shun', 'shunned', 'stay', 'temptation', 'transferred', 'urges', 'utmost', 'warned', 'wholly']
+
+### Logs
+- Attempt 1 BHT: Idolatry is a dangerous temptation, and it is not something to be taken lightly or indulged in. Instead, it is crucial for believers to completely avoid idolatry. The Holy Spirit warned the early Church about the allure of idolatry because it could easily lead them astray from true worship. This includes not participating in idol feasts and refraining from any practices that even resemble idol worship. Fleeing from idolatry is not just a suggestion, but a command for the sake of honoring God and avoiding any dishonor towards Him. So, believers should be cautious and aware of any situation or action that could potentially lead to idolatry and promptly flee from it.
+- 🔄 1 Corinthians 10:14 (attempt 1, 112 words, 38.89% quotes quality score: 2.4609260114884393, V2 normalized quality score: 73.17, commentator tiers 1-3: 36.79%, 25.45%, 37.76%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Idolatry is a perilous temptation that must be shunned and escaped from. It is not something to be tampered with or approached lightly. The Corinthians were warned against partaking in idol feasts and engaging in any practices that border on idolatry. The danger lies in the transfer of honor due to God being given to idols. Therefore, believers are urged to flee from idolatry completely and avoid any resemblance or occasion of it. This command serves to protect the honor of God and safeguard believers from the detrimental effects of idol worship.
+- 🔄 1 Corinthians 10:14 (attempt 2, 92 words, 40.32% quotes quality score: 2.3070532889004234, V2 normalized quality score: 68.05, commentator tiers 1-3: 35.61%, 27.07%, 37.32%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Idolatry is to be shunned and completely fled from, not just tampered with. The Corinthians were warned against participating in idol feasts and any practices that resemble idol worship. The Holy Spirit presciently cautioned the Church about the dangers of idolatry. Fleeing from idolatry is a command meant to protect the honor due to God and prevent believers from dishonoring Him. It is essential to wholly avoid anything that borders on idolatry and to abstain from any appearance or occasion of it.
+- 🔄 1 Corinthians 10:14 (attempt 3, 82 words, 39.66% quotes quality score: 2.550072511839261, V2 normalized quality score: 76.13, commentator tiers 1-3: 37.53%, 25.67%, 36.8%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Idolatry is a temptation that should be shunned and escaped from entirely. The Corinthians were warned against participating in idol feasts and any practices that even resemble idolatry. Fleeing from idolatry is a command that urges believers to avoid all approaches to it. The honor due to God should never be transferred to idols through any action or appearance of adoration. It is of utmost importance to wholly shun whatever borders on idolatry and to stay away from any occasion or temptation associated with it.
+- 🔄 1 Corinthians 10:14 (attempt 4, 85 words, 41.38% quotes quality score: 2.5958397023744793, V2 normalized quality score: 77.65, commentator tiers 1-3: 37.02%, 24.96%, 38.02%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Idolatry is a dangerous temptation that believers should completely avoid. The Holy Spirit warned the early Church about the allure of idolatry and the need to flee from it. This includes refraining from idol feasts and any practices that resemble idol worship. Honoring God requires abstaining from actions that transfer honor to idols instead. Therefore, believers must be cautious and steer clear of any situation or activity that could lead to idolatry. Safeguarding the honor of God should be prioritized and any semblance of idolatry should be promptly abandoned.
+- 🔄 1 Corinthians 10:14 (attempt 5, 89 words, 30.51% quotes quality score: 2.4016705466688153, V2 normalized quality score: 71.2, commentator tiers 1-3: 36.24%, 25.81%, 37.95%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 10:14 bht prompt v0.8 (85 words, 41.38% quotes)
+- quality score: 2.5958397023744793, V2 normalized quality score: 77.65, commentator tiers 1-3: 37.02%, 24.96%, 38.02%)

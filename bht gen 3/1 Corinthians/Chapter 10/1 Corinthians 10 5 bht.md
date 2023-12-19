@@ -1,0 +1,86 @@
+# 1 Corinthians 10:5 Commentary Help Text
+
+## BHT:
+The majority of the Israelites who came out of Egypt displeased God and were ultimately overthrown in the wilderness, with the exception of Joshua and Caleb. This overthrow was not a simple death, but a powerful and devastating punishment from God. The picture painted is one of desolation, as the rebelliousness and disobedience of the Israelites led to their downfall. This serves as a warning for us to take heed and learn from their example, for God will not let our actions go unpunished.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1.  5.] Howbeit with the more part of them (in fact the exceptions were Joshua and Caleb only) God was not well pleased.
+
+### Jamieson-Fausset-Brown:
+1. "the majority of them"; "the whole part." All except Joshua and Caleb of the first generation.
+2. "Not," as one might have naturally expected, "with the more part of them was," &amp;c.
+3. "overthrown—literally, 'strewn in heaps'."
+
+### Albert Barnes:
+1. "Although they enjoyed so many privileges, yet they were destroyed."
+2. "Their privileges did not constitute an absolute security from danger."
+3. "God was not well pleased - Was offended with their ingratitude and rebellion."
+
+### Marvin Vincent:
+1. "All perished save Caleb and Joshua."
+2. "Overthrown... were strewn down along (the ground)."
+3. "It is used of spreading a couch."
+
+### John Calvin:
+1. "Let us, therefore, take heed, lest the same thing should happen to us, being admonished by so many examples, for God will not suffer that to go unpunished in us, which he punished so severely in them." 
+2. "The sacrament does not change its nature, nor does it lose anything of its efficacy. Hence the manna, in relation to God, was spiritual meat even to unbelievers, but because the mouth of unbelievers was but carnal, they did not eat what was given them."
+3. "Proof is here furnished, by adducing a token, that they did not please God — inasmuch as he exercised his wrath upon them with severity, and took vengeance on their ingratitude."
+
+### Philip Schaff:
+1. "Howbeit with most of them God was not well pleased in point of fact, with all that came out of Egypt by Moses." 
+2. "Save Caleb and Joshua, because they 'had another spirit with them, and followed the Lord fully' (Numbers 14:24)."
+3. "For (as the issue shewed) they were overthrown in the wilderness."
+
+### Archibald T. Robertson:
+1. "A mournful understatement." 
+2. "Only two (Caleb and Joshua) actually reached the Promised Land." 
+3. "Powerful picture of the desolation wrought by the years of disobedience and wanderings in the desert."
+
+### John Gill:
+1. "In him only persons and services are accepted with God; and this was the way of acceptance in the Old, as in the New Testament dispensation."
+2. "How many of the Jewish fathers God was not well pleased with, or took no delight in, but hated and abhorred, which is the sense of the phrase here, whether they were the greatest part or not, is not certain."
+3. "These, their carcasses fell in the wilderness, being stricken, thrown down, and overthrown by the immediate hand of God; they did not die a common death, according to the ordinary course of nature."
+
+### John Wesley:
+1. Yet — Although they had so many tokens of the divine presence.
+They were overthrown — With the most terrible marks of his displeasure.
+
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 15:10:02
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 84
+- BHT Commentary Usage: 43.1%
+- BHT Quality Score: 1.8210494018563907
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (58):
+	['a', 'actions', 'and', 'as', 'but', 'caleb', 'came', 'death', 'desolation', 'devastating', 'disobedience', 'displeased', 'downfall', 'egypt', 'example', 'exception', 'for', 'from', 'go', 'god', 'heed', 'in', 'is', 'israelites', 'joshua', 'learn', 'led', 'let', 'majority', 'not', 'of', 'one', 'our', 'out', 'overthrow', 'overthrown', 'painted', 'picture', 'powerful', 'punishment', 'rebelliousness', 'serves', 'simple', 'take', 'the', 'their', 'this', 'to', 'ultimately', 'unpunished', 'us', 'warning', 'was', 'were', 'who', 'wilderness', 'will', 'with']
+- ChatGPT injected words (significant words only) (33):
+	['actions', 'caleb', 'came', 'death', 'desolation', 'devastating', 'disobedience', 'displeased', 'downfall', 'egypt', 'example', 'exception', 'god', 'heed', 'israelites', 'joshua', 'learn', 'led', 'let', 'majority', 'overthrow', 'overthrown', 'painted', 'picture', 'powerful', 'punishment', 'rebelliousness', 'serves', 'simple', 'ultimately', 'unpunished', 'warning', 'wilderness']
+
+### Logs
+- Attempt 1 BHT: The majority of the Israelites who came out of Egypt displeased God and were ultimately overthrown in the wilderness, with the exception of Joshua and Caleb. This overthrow was not a simple death, but a powerful and devastating punishment from God. The picture painted is one of desolation, as the rebelliousness and disobedience of the Israelites led to their downfall. This serves as a warning for us to take heed and learn from their example, for God will not let our actions go unpunished. While the Israelites had many privileges and blessings, they did not guarantee absolute security, as their ingratitude and rebellion offended God. Thus, it is crucial to approach God with the right spirit and wholeheartedly follow Him, just as Caleb and Joshua did.
+- 🔄 1 Corinthians 10:5 (attempt 1, 126 words, 41.98% quotes quality score: 1.8576039214564042, V2 normalized quality score: 53.11, commentator tiers 1-3: 30.87%, 35.31%, 33.82%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: The majority of the Israelites who came out of Egypt, with the exception of Joshua and Caleb, displeased God, resulting in their overthrown and strewn down in the wilderness. This severe punishment serves as a powerful picture of the desolation caused by their years of disobedience and wandering. It is a mournful understatement that only two individuals reached the Promised Land. Their downfall is a solemn warning for us to avoid repeating their mistakes, as God will not let our ingratitude and rebellion go unpunished.
+- 🔄 1 Corinthians 10:5 (attempt 2, 85 words, 39.06% quotes quality score: 1.8025020543586137, V2 normalized quality score: 51.27, commentator tiers 1-3: 32.97%, 33.72%, 33.32%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The majority of the Israelites, except Joshua and Caleb, were not pleasing to God and were ultimately overthrown in the wilderness. The severity of their punishment is evident in their desolation and being strewn down. This serves as a cautionary tale for us to learn from their example, as God will not overlook our ingratitude and rebellion. We must recognize that privileges do not guarantee absolute security, and we need to approach God with the right spirit and wholehearted obedience.
+- 🔄 1 Corinthians 10:5 (attempt 3, 80 words, 43.1% quotes quality score: 1.7221834624701091, V2 normalized quality score: 48.6, commentator tiers 1-3: 29.05%, 34.71%, 36.25%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The majority of the Israelites, with the exception of Joshua and Caleb, displeased God, resulting in their overthrown and strewn down in the wilderness. This severe punishment serves as a powerful picture of the desolation caused by their years of disobedience and wandering. It is a mournful understatement that only two individuals reached the Promised Land. Their downfall is a solemn warning for us to avoid repeating their mistakes, as God will not let our ingratitude and rebellion go unpunished.
+- 🔄 1 Corinthians 10:5 (attempt 4, 80 words, 38.33% quotes quality score: 1.816408697893599, V2 normalized quality score: 51.74, commentator tiers 1-3: 33.82%, 32.85%, 33.33%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The majority of the Israelites who came out of Egypt displeased God and were ultimately overthrown in the wilderness, with the exception of Joshua and Caleb. This overthrow was not a simple death, but a powerful and devastating punishment from God. The picture painted is one of desolation, as the rebelliousness and disobedience of the Israelites led to their downfall. This serves as a warning for us to take heed and learn from their example, for God will not let our actions go unpunished.
+- 🔄 1 Corinthians 10:5 (attempt 5, 84 words, 43.1% quotes quality score: 1.8210494018563907, V2 normalized quality score: 51.89, commentator tiers 1-3: 31.55%, 32.95%, 35.5%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Corinthians 10:5 bht prompt v0.8 (84 words, 43.1% quotes)
+- quality score: 1.8210494018563907, V2 normalized quality score: 51.89, commentator tiers 1-3: 31.55%, 32.95%, 35.5%)
