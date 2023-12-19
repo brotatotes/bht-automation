@@ -1,90 +1,90 @@
 # 1 Thessalonians 1:3 Commentary Help Text
 
 ## BHT:
-The Thessalonians demonstrated their faith, love, and hope through their actions. Their faith was not merely a passive belief, but a working and realizing faith that had an outward effect on their lives. Their love was characterized by the labor and toil it prompted, while their hope inspired endurance in the face of setbacks. These graces were not just for show, but were seen by God Himself. Their faith produced works, their love involved labor, and their hope was marked by patience. These virtues formed a strong bond among the believers.
+The three great Christian graces - faith, love, and hope - are not just superficial, but sincere and active virtues. Faith is not a mere assent, but a realizing and working faith, while love is a labor that gladly bears troublesome toil. Hope is accompanied by patience, enduring trials and waiting for the unseen things. These virtues work together harmoniously, with faith maintaining our relationship with God, love maintaining our relationship with others, and hope guiding and uplifting our lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "faith, love, hope, are the three great Christian graces of 1 Cor. xiii." 
-2. "Your faith, hope, and love; a faith that had its outward effect on your lives: a love that spent itself in the service of others: a hope that was no mere transient feeling, but was content to wait for the things unseen when Christ should be revealed." 
-3. "the labour of your love...of...love, not as springing from, but as belonging to, love—characterizing it."
+1. "faith, love, hope, are the three great Christian graces" 
+2. "the labour of your love, not as springing from, but as belonging to, love" 
+3. "Your faith, hope, and love; a faith that had its outward effect on your lives: a love that spent itself in the service of others: a hope that was no mere transient feeling, but was content to wait for the things unseen when Christ should be revealed."
 
 ### Jamieson-Fausset-Brown:
-1. "Not an otiose assent; but a realizing, working faith; not 'in word only,' but in one continuous chain of 'work'." 
+1. "Not an otiose
+assent; but a realizing, working faith; not 'in word only,' but in one continuous chain of 'work'." 
 2. "The Greek implies toil, or troublesome labor, which we are stimulated by love to bear."
 3. "Your 'faith, hope, and love' were not merely such as would pass for genuine before men, but 'in the sight of God,' the Searcher of hearts."
 
 ### Albert Barnes:
-1. "Remembering your faith and love whenever we pray. This is not to be understood literally, but it is language such as we use respecting anything that interests us much. It is constantly in our mind." 
-2. "Works of faith are those to which faith prompts, and which show that there is faith in the heart. This does not mean, therefore, a work of their own producing faith, but a work which showed that they had faith."
-3. "Patience in your trials, showing that you have such a hope of future blessedness as to sustain you in your afflictions. It was the hope of heaven through the Lord Jesus that gave them patience."
+1. "Remembering your faith and love whenever we pray. This is not to be understood literally, but it is language such as we use respecting anything that interests us much." 
+2. "Labour produced by love, or showing that you are actuated by love. Such would be all their kindness toward the poor, the oppressed, and the afflicted; and all their acts which showed that they loved the souls of people."
+3. "It is a hope which we have through the merits of the Redeemer, and which we are permitted to cherish before God; that is, in his very presence."
 
 ### Marvin Vincent:
 1. "The salutations of Paul reproduce ordinary conventional forms of greeting. Thus the familiar Greek greeting cairein be joyful, hail, welcome, appears in cariv grace."
-2. "The genitives, of faith, love, hope, mark the generating principles of the work and labor and patience, which set their stamp upon each; thus, work which springs from faith, and is characteristic of faith."
-3. "Hope is prominent throughout the two Epistles. The triad appears, 1 Thessalonians 5:8; Galatians 5:5, Galatians 5:6; 1 Corinthians 8:13; Ephesians 4:2-5; Colossians 1:4, Colossians 1:5; Hebrews 10:22-24; 1 Peter 1:21-22."
+2. "We have here the great triad of Christian graces, corresponding to 1 Corinthians 8:0. Hope is prominent throughout the two Epistles."
+3. "In our Lord, etc. [του κυριου] . Lit. of our Lord. For a similar use of the genitive, see John 5:42; 1 John 2:5, 1 John 2:15; Acts 9:31; Romans 1:5; iii. 18, 22, 26, etc. Connect with hope only."
 
 ### John Calvin:
-1. "For what is more worthy of love than God? Hence there is nothing that should tend more to excite our love to individuals, than when the Lord manifests himself in them by the gifts of his Spirit. This is the highest commendation of all among the pious — this the most sacred bond of connection, by which they are more especially bound to each other."
-2. "I reckon the effect to be in the root of faith rather than in its fruits — 'A rare energy of faith has strewn itself powerfully in you.'"
-3. "To hope he assigns patience, as it is always conjoined with it, for what we hope for, we in patience wait for, and the statement should be explained to mean, that Paul remembers their patience in hoping for the coming of Christ."
+1. "The more that any one excels in piety and other excellences, so much the more ought we to hold him in regard and esteem."
+2. "What is more worthy of love than God? Hence there is nothing that should tend more to excite our love to individuals, than when the Lord manifests himself in them by the gifts of his Spirit."
+3. "True Christianity is a faith that is lively and full of vigor, so that it spares no labor, when assistance is to be given to one’s neighbors, but, on the contrary, all the pious employ themselves diligently in offices of love."
 
 ### Philip Schaff:
-1. "Work of faith, i.e. that which faith does or effects; its fruit or product."
-2. "Labour of love, i.e. the fatiguing and devoted toil in the service of others, which was dictated by the love they had for one another."
-3. "Patience [endurance] of hope in our Lord Jesus Christ. The Thessalonians were distinguished by the vivid expectation they cherished of the second coming of the Lord, and this expectation enabled them to display an unwavering constancy in persecution."
+1. "What faith does is to make us ‘walk worthy of God who hath called us unto His kingdom and glory’."
+2. "The labour alluded to is that which Paul specifies in chap. 1 Thessalonians 5:12."
+3. "The three graces, faith, love, hope, are commonly grouped together by Paul... Faith maintains us in our right relation to God; love maintains us in our right relation to men; hope steadies, directs, and elevates our own life."
 
 ### Archibald T. Robertson:
 1. "We are justified by faith, but faith produces works."
-2. "Labour of love: the labour that love prompts, assuming gladly the toil."
-3. "Patience of hope: the endurance inspired by hope, yes, and sustained by hope in spite of delays and setbacks."
+2. "Labour of love: It is the labor that love prompts, assuming gladly the toil."
+3. "Patience of hope: It is patience marked by hope, 'the endurance inspired by hope.'"
 
 ### John Gill:
 1. "faith is a working grace, it has a deal of work to do, it has its hands always full, and is employed about many things"
 2. "love is a laborious grace when in lively exercise; love to God and Christ will constrain a believer to engage in, and go through, great hardships, difficulties, toil, and labour, for their sakes"
-3. "hope had him for its object, it was an hope of interest in him, of being for ever with him, of his, second coming and glorious appearance, and of eternal life and happiness through him"
+3. "hope ... was attended with patience, with a patient bearing of reproaches, afflictions, and persecutions, for the sake of Christ, and a patient waiting for his coming, his kingdom and glory"
 
 ### John Wesley:
-1. "Remembering in the sight of God — That is, praising him for it."
-2. "Your work of faith — Your active, ever-working faith."
-3. "Faith works, love labours, hope patiently suffers all things."
+1. "Your work of faith — Your active, ever-working faith."
+2. "And labour of love — Love continually labouring for the bodies or souls of men."
+3. "They who do not thus labour, do not love. Faith works, love labours, hope patiently suffers all things."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:32
+- Timestamp: 12-19-2023 13:57:13
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 40.68%
-- BHT Quality Score: 2.0882635002244108
+- BHT Word Count: 78
+- BHT Commentary Usage: 34.62%
+- BHT Quality Score: 2.2748994649721928
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'actions', 'among', 'an', 'and', 'belief', 'believers', 'bond', 'but', 'by', 'characterized', 'demonstrated', 'effect', 'endurance', 'face', 'faith', 'for', 'formed', 'god', 'graces', 'had', 'himself', 'hope', 'in', 'inspired', 'involved', 'it', 'just', 'labor', 'lives', 'love', 'marked', 'merely', 'not', 'of', 'on', 'outward', 'passive', 'patience', 'produced', 'prompted', 'realizing', 'seen', 'setbacks', 'show', 'strong', 'that', 'the', 'their', 'these', 'thessalonians', 'through', 'toil', 'virtues', 'was', 'were', 'while', 'working', 'works']
-- ChatGPT injected words (significant words only) (35):
-	['actions', 'belief', 'believers', 'bond', 'characterized', 'demonstrated', 'effect', 'endurance', 'face', 'faith', 'formed', 'god', 'graces', 'hope', 'inspired', 'involved', 'labor', 'lives', 'love', 'marked', 'merely', 'outward', 'passive', 'patience', 'produced', 'prompted', 'realizing', 'seen', 'setbacks', 'strong', 'thessalonians', 'toil', 'virtues', 'working', 'works']
+- ChatGPT injected words (52):
+	['a', 'accompanied', 'active', 'and', 'are', 'assent', 'bears', 'but', 'by', 'christian', 'enduring', 'faith', 'for', 'gladly', 'god', 'graces', 'great', 'guiding', 'harmoniously', 'hope', 'is', 'just', 'labor', 'lives', 'love', 'maintaining', 'mere', 'not', 'others', 'our', 'patience', 'realizing', 'relationship', 'sincere', 'superficial', 'that', 'the', 'these', 'things', 'three', 'together', 'toil', 'trials', 'troublesome', 'unseen', 'uplifting', 'virtues', 'waiting', 'while', 'with', 'work', 'working']
+- ChatGPT injected words (significant words only) (34):
+	['accompanied', 'active', 'assent', 'bears', 'christian', 'enduring', 'faith', 'gladly', 'god', 'graces', 'great', 'guiding', 'harmoniously', 'hope', 'labor', 'lives', 'love', 'maintaining', 'mere', 'patience', 'realizing', 'relationship', 'sincere', 'superficial', 'things', 'toil', 'trials', 'troublesome', 'unseen', 'uplifting', 'virtues', 'waiting', 'work', 'working']
 
 ### Logs
-- Attempt 1 BHT: The verse speaks of the Thessalonians' faith, love, and hope, which are the three great Christian graces. Their faith is not just a mere assent, but a working and realizing faith that manifests in their actions. Their love is characterized by the labor and toil that it prompts, while their hope inspires endurance even in the face of delays and setbacks. These graces are not just for show, but were seen by God, the Searcher of hearts. The Thessalonians' faith produced works, their love involved labor, and their hope was marked by patience. This triad of faith, love, and hope was notable in their lives, as it was grounded in their trust in God and the expectation of Christ's second coming. Ultimately, these graces were not only commendable but also the sacred bond that bound them together as believers.
-- 🔄 1 Thessalonians 1:3 (attempt 1, 140 words, 37.18% quotes quality score: 2.227371080684959, V2 normalized quality score: 65.4, commentator tiers 1-3: 31.76%, 35.48%, 32.76%) 
+- Attempt 1 BHT: The verse speaks of the virtues of faith, love, and hope, which are the three great Christian graces. These graces were not just superficial or passive, but rather active and sincere in the sight of God. Faith is not simply assent or words, but a realizing and working faith that produces continuous works. Love is not simply a feeling, but a labor of love that gladly bears troublesome labor. Hope is accompanied by patience, enduring trials and patiently waiting for the unseen things when Christ is revealed. These virtues work together harmoniously, with faith maintaining our relationship with God, love maintaining our relationship with others, and hope guiding and uplifting our own life.
+- 🔄 1 Thessalonians 1:3 (attempt 1, 113 words, 35.71% quotes quality score: 2.1813488355417934, V2 normalized quality score: 63.87, commentator tiers 1-3: 32.33%, 31.81%, 35.87%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The Thessalonians demonstrated their faith, love, and hope through their actions. Their faith was not merely a passive belief, but a working and realizing faith that had an outward effect on their lives. Their love was characterized by the labor and toil it prompted, while their hope inspired endurance in the face of setbacks. These graces were not just for show, but were seen by God Himself. Their faith produced works, their love involved labor, and their hope was marked by patience. These virtues formed a strong bond among the believers.
-- 🔄 1 Thessalonians 1:3 (attempt 2, 91 words, 40.68% quotes quality score: 2.0882635002244108, V2 normalized quality score: 60.78, commentator tiers 1-3: 30.44%, 37.11%, 32.45%) 
+- Attempt 2 BHT: The three great Christian graces - faith, love, and hope - are not mere outward displays, but sincere and active virtues in the sight of God. Faith goes beyond words, requiring continuous works. Love is not a mere feeling, but a labor motivated by love. Hope is accompanied by patience and endurance. These graces work together, with faith maintaining our relationship with God, love maintaining our relationship with others, and hope guiding and uplifting our own lives.
+- 🔄 1 Thessalonians 1:3 (attempt 2, 75 words, 36.73% quotes quality score: 2.0954495844626537, V2 normalized quality score: 61.01, commentator tiers 1-3: 33.33%, 30.27%, 36.4%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The three great Christian graces - faith, love, and hope - are not just superficial, but sincere and active virtues. Faith is not a mere assent, but a realizing and working faith, while love is a labor that gladly bears troublesome toil. Hope is accompanied by patience, enduring trials and waiting for the unseen things. These virtues work together harmoniously, with faith maintaining our relationship with God, love maintaining our relationship with others, and hope guiding and uplifting our lives.
+- 🔄 1 Thessalonians 1:3 (attempt 3, 78 words, 34.62% quotes quality score: 2.2748994649721928, V2 normalized quality score: 66.98, commentator tiers 1-3: 33.06%, 30.06%, 36.88%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: The three great Christian graces - faith, love, and hope - are not just for show, but sincere and active virtues in the sight of God. Faith is not an empty assent, but a faith that is realized in works. Love is not a passive feeling, but a labor of love that gladly takes up troublesome toil. Hope is patient and endures, steadfastly waiting for the unseen things that will be revealed when Christ comes. Together, faith, love, and hope work harmoniously, maintaining our relationship with God, others, and guiding us in our own lives.
+- 🔄 1 Thessalonians 1:3 (attempt 4, 93 words, 41.94% quotes quality score: 2.25686753176773, V2 normalized quality score: 66.38, commentator tiers 1-3: 32.62%, 31.14%, 36.24%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The Thessalonians' faith, love, and hope were not mere surface-level expressions, but were deeply rooted and genuine. Their faith was an active force that produced works, while their love manifested in labor and selfless service to others. Their hope was marked by patient endurance amidst various challenges. These virtues were not done for show, but were seen by God Himself. Together, this triad formed a strong bond that characterized their lives as believers, reflecting their trust in God and anticipation of Christ's return.
-- 🔄 1 Thessalonians 1:3 (attempt 3, 85 words, 38.46% quotes quality score: 1.9137298245188177, V2 normalized quality score: 54.97, commentator tiers 1-3: 30.51%, 37.04%, 32.45%) 
+- Attempt 5 BHT: The three great Christian graces - faith, love, and hope - are not just for show, but sincere and active virtues in the sight of God. Faith is not an otiose assent, but a realizing and working faith that goes beyond mere words. Love is a labor of love, gladly taking up troublesome toil. Hope is patient, enduring trials and waiting for the unseen things to be revealed. Together, these graces work harmoniously, maintaining our relationship with God, others, and guiding our own lives.
+- 🔄 1 Thessalonians 1:3 (attempt 5, 82 words, 40.98% quotes quality score: 2.1103616264162905, V2 normalized quality score: 61.51, commentator tiers 1-3: 33.6%, 29.57%, 36.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The Thessalonians displayed a sincere faith, selfless love, and enduring hope. Their faith went beyond mere words, as it was a realizing and working faith that had a tangible impact on their lives. Their love was not passive, but a labor of devotion towards others. In the midst of trials, their hope remained steadfast, enabling them to patiently endure. These graces were not superficial, but recognized and valued by God. Their faith, love, and hope formed a strong bond that characterized their lives as believers.
-- 🔄 1 Thessalonians 1:3 (attempt 4, 85 words, 37.93% quotes quality score: 2.0690745923860394, V2 normalized quality score: 60.14, commentator tiers 1-3: 29.49%, 36.53%, 33.98%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Thessalonians' faith, love, and hope were not empty gestures, but genuine expressions that were evident in their actions. Their faith was a working and realizing faith, not just a mere assent. Their love motivated them to engage in laborious toil for the sake of others. Despite facing setbacks, their hope inspired patience and endurance. These virtues were not superficial, but seen by God Himself. The bond formed by their faith, love, and hope characterized their lives as devoted believers.
-- 🔄 1 Thessalonians 1:3 (attempt 5, 80 words, 38.18% quotes quality score: 2.062345836341289, V2 normalized quality score: 59.91, commentator tiers 1-3: 30.91%, 35.41%, 33.68%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 1:3 bht prompt v0.7 (91 words, 40.68% quotes)
-- quality score: 2.0882635002244108, V2 normalized quality score: 60.78, commentator tiers 1-3: 30.44%, 37.11%, 32.45%)
+- ✅ 1 Thessalonians 1:3 bht prompt v0.8 (78 words, 34.62% quotes)
+- quality score: 2.2748994649721928, V2 normalized quality score: 66.98, commentator tiers 1-3: 33.06%, 30.06%, 36.88%)

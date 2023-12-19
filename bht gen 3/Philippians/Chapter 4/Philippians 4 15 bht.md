@@ -1,38 +1,36 @@
 # Philippians 4:15 Commentary Help Text
 
 ## BHT:
-In the beginning of the gospel, Paul places himself in the situation of the Philippians and dates from their Christian era. The Philippians alone opened an account of giving and receiving with Paul, with the giving being all on their part and the receiving all on his. Paul commends the Philippians for their special attention to him and remembers their former liberality in his time of need. This account between Paul and the Philippians serves as a mark of deep regard and a reminder of their care for him.
+In the beginning of the Gospel, the Philippians were the only church that opened an account with Paul in regards to giving and receiving. While they were the ones who gave, Paul was the one who received. This did not make it any less of an account of giving-and-receiving. We should not wait for others in doing good works, but rather go forward, even if we are alone. The Philippians demonstrated a grateful and beneficent spirit from the moment the Gospel was preached to them, and their past favors were greatly commended.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "in the beginning of the gospel... he places himself in their situation; dates from (so to speak) their Christian era."
+1. "in the beginning of the gospel] i.e. of your receiving the Gospel: he places himself in their situation; dates from (so to speak) their Christian era."
 2. "no church communicated with me as to (in) an account of giving and receiving... ye alone opened such an account with me."
-3. "It is true the Philippians had all the giving, the Apostle all the receiving... but this did not make it any the less an account of 'giving-and-receiving,' categorically so called."
+3. "It is true the Philippians had all the giving, the Apostle all the receiving: the debtor side was vacant in their account, the creditor side in his: but this did not make it any the less an account of 'giving-and-receiving,' categorically so called."
 
 ### Jamieson-Fausset-Brown:
-1. "Ye also know (as well as I do myself)."
-2. "We are not to wait for others in a good work, saying, 'I will do so, when others do it.' We must go forward, though alone."
-3. "In the account between us, 'the giving' was all on your part; 'the receiving' all on mine."
+1. "We are not to wait for others in a good work, saying, 'I will do so, when others do it.' We must go forward, though alone."
+2. "The giving was all on your part; the receiving was all on mine."
+3. "Arrange as Greek, 'Ye also know (as well as I do myself).'"
 
 ### Albert Barnes:
 1. "At the time when I first preached the gospel to you; or when the gospel began its benign influence on your hearts."
-2. "No church so participated with me in my sufferings and necessities, as to send to my relief; compare 2 Corinthians 11:8-9."
+2. "No church so participated with me in my sufferings and necessities, as to send to my relief."
 3. "All that is implied here is, that he specially commends the Philippians for their attention to him."
 
 ### Marvin Vincent:
-1. "On his first European circuit, going by way of Athens to Corinth, where he was joined by Silvanus and Timothy, bringing a contribution from Macedonia."
-2. "Acts 18:5; 2 Corinthians 11:9."
-3. "Bringing a contribution from Macedonia."
+1. "On his first European circuit, going by way of Athens to Corinth, where he was joined by Silvanus and Timothy."
 
 ### John Calvin:
 1. "We must also, after Paul’s example, take heed lest the pious, on seeing us too much inclined to receive from others, should on good grounds reckon us to be insatiable."
-2. "In the matter of giving and receiving He alludes to pecuniary matters, in which there are two parts, the one receiving, the other expending."
-3. "What base ingratitude, and how very unseemly, to treat such an Apostle with neglect, to whom they knew themselves to be under obligation beyond their power to discharge!"
+2. "What base ingratitude, and how very unseemly, to treat such an Apostle with neglect, to whom they knew themselves to be under obligation beyond their power to discharge!"
+3. "On the other hand, how great the forbearance of this holy man, to bear with their inhumanity with so much gentleness and indulgence, as not to make use of one sharp word by way of accusing them!"
 
 ### Philip Schaff:
-1. "That he may more folly show how well he remembers their care of him, and that he meant no reproach by his words in Philippians 4:10, he proceeds to recall to them their former liberality in his need."
-2. "The name stands emphatically in the original, and is inserted as a mark of deep regard, as he might say, ‘the church of my special joy.’"
-3. "The phrase of the apostle is taken from the keeping of accounts. He pictures the transaction as a matter of debtor and creditor. They give, and he receives, and so there is an account on both sides on his of debt, on theirs of claim."
+1. "The name stands emphatically in the original, and is inserted as a mark of deep regard, as he might say, ‘the church of my special joy.’"
+2. "This seems to show, what we might almost have gathered from the Acts (Acts 17:14), that the congregation of Philippi took charge of St. Paul in his whole journey through Macedonia, and were the brethren who sent him sway to the sea, and conducted him, and supplied the means for his journey to Athens."
+3. "And he is willing, nay glad, that it should stand so: he would not have it wiped out or lessened; for what they, of their free will, have given unto him, has been given unto God, and will receive its reward at His hands; and it is at the same time an outward sign of the work of grace and faith in their souls grace because they are conscious of how much they owe for the consolations of the Gospel; faith because they bestow, looking for nothing again, but giving unto the Lord."
 
 ### Archibald T. Robertson:
 1. "No other church opened an account with Paul."
@@ -40,9 +38,9 @@ In the beginning of the gospel, Paul places himself in the situation of the Phil
 3. "Not even Antioch contributed anything but good wishes and prayers for Paul's work."
 
 ### John Gill:
-1. "ye only; the phrase, 'giving and receiving', is the same with משא ומתן, which is often used by the Jews for trading and commerce; and the allusion is to the keeping of accounts by men in business, by debtor and creditor, in a book, putting down in one column what is delivered out, and in the other what is received, whereby accounts are kept clear." 
-2. "the apostle's meaning is, that whereas he and his fellow ministers had delivered out spiritual things to this church, they had in return communicated their carnal things."
-3. "so that there was a proper account kept, which was not observed by other churches, and which was greatly to the commendation of this."
+1. "they not only communicated now, but also had done formerly...he not only commends them for their present kindness to him, but for their past favours."
+2. "as soon as ever the Gospel was preached to them, they showed a grateful and beneficent spirit"
+3. "they had in return communicated their carnal things; so that there was a proper account kept, which was not observed by other churches, and which was greatly to the commendation of this."
 
 ### John Wesley:
 1. In the beginning of the gospel — When it was first preached at Philippi.
@@ -53,44 +51,43 @@ And receiving — On mine.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:12
+- Timestamp: 12-19-2023 13:56:37
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 46.94%
-- BHT Quality Score: 2.0794108931759907
+- BHT Word Count: 94
+- BHT Commentary Usage: 58.46%
+- BHT Quality Score: 1.889717252145275
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (49):
-	['a', 'account', 'all', 'alone', 'an', 'and', 'as', 'attention', 'beginning', 'being', 'between', 'care', 'christian', 'commends', 'dates', 'deep', 'era', 'for', 'former', 'from', 'giving', 'gospel', 'him', 'himself', 'his', 'in', 'liberality', 'mark', 'need', 'of', 'on', 'opened', 'part', 'paul', 'philippians', 'places', 'receiving', 'regard', 'remembers', 'reminder', 'serves', 'situation', 'special', 'the', 'their', 'this', 'time', 'to', 'with']
-- ChatGPT injected words (significant words only) (26):
-	['account', 'attention', 'beginning', 'care', 'christian', 'commends', 'dates', 'deep', 'era', 'giving', 'gospel', 'liberality', 'mark', 'need', 'opened', 'paul', 'philippians', 'places', 'receiving', 'regard', 'remembers', 'reminder', 'serves', 'situation', 'special', 'time']
+- ChatGPT injected words (65):
+	['a', 'account', 'alone', 'an', 'and', 'any', 'are', 'beginning', 'beneficent', 'but', 'church', 'commended', 'demonstrated', 'did', 'doing', 'even', 'favors', 'for', 'forward', 'from', 'gave', 'giving', 'go', 'good', 'gospel', 'grateful', 'greatly', 'if', 'in', 'it', 'less', 'make', 'moment', 'not', 'of', 'one', 'ones', 'only', 'opened', 'others', 'past', 'paul', 'philippians', 'preached', 'rather', 'received', 'receiving', 'regards', 'should', 'spirit', 'that', 'the', 'their', 'them', 'they', 'this', 'to', 'wait', 'was', 'we', 'were', 'while', 'who', 'with', 'works']
+- ChatGPT injected words (significant words only) (27):
+	['account', 'beginning', 'beneficent', 'church', 'commended', 'demonstrated', 'favors', 'forward', 'gave', 'giving', 'good', 'gospel', 'grateful', 'greatly', 'moment', 'ones', 'opened', 'past', 'paul', 'philippians', 'preached', 'received', 'receiving', 'regards', 'spirit', 'wait', 'works']
 
 ### Logs
-- Attempt 1 BHT: In the beginning of the gospel, Paul places himself in the situation of the Philippians and dates from their Christian era. The Philippians alone opened an account of giving and receiving with Paul, with the giving being all on their part and the receiving all on his. Paul commends the Philippians for their special attention to him and remembers their former liberality in his time of need. This account between Paul and the Philippians serves as a mark of deep regard and a reminder of their care for him. Through this exchange, the Philippians demonstrated their willingness to give and Paul's gratitude in receiving, creating a clear account of debt and claim. Thus, they stood alone among the churches in their support of Paul's work.
-- 🔄 Philippians 4:15 (attempt 1, 127 words, 41.79% quotes quality score: 2.0481186696620868, V2 normalized quality score: 59.44, commentator tiers 1-3: 33.22%, 36.43%, 30.35%) 
+- Attempt 1 BHT: In the beginning of the Gospel, the Philippians were the only church that opened an account with Paul in regards to giving and receiving. While they were the ones who gave, Paul was the one who received. This did not make it any less of an account of giving-and-receiving. We should not wait for others in doing good works, but rather go forward, even if we are alone. The Philippians demonstrated a grateful and beneficent spirit from the moment the Gospel was preached to them, and their past favors were greatly commended.
+- 🔄 Philippians 4:15 (attempt 1, 94 words, 58.46% quotes quality score: 1.889717252145275, V2 normalized quality score: 54.17, commentator tiers 1-3: 36.16%, 31.0%, 32.84%) 
+	- BHT WAS OVER 80 WORDS! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In the early days of the Gospel, the Philippians were the only ones who opened an account with Paul for giving and receiving. While the giving was on their part, the receiving was on Paul's part. This account of giving-and-receiving is significant, for it showcases the Philippians' grateful and generous nature. They were not only generous in the present, but they had also shown a beneficent spirit from the beginning. This commendable behavior sets them apart from other churches and demonstrates their deep appreciation for the Gospel.
+- 🔄 Philippians 4:15 (attempt 2, 90 words, 48.21% quotes quality score: 1.8471442811556984, V2 normalized quality score: 52.76, commentator tiers 1-3: 31.62%, 32.45%, 35.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: In the beginning of the gospel, Paul places himself in the situation of the Philippians and dates from their Christian era. The Philippians alone opened an account of giving and receiving with Paul, with the giving being all on their part and the receiving all on his. Paul commends the Philippians for their special attention to him and remembers their former liberality in his time of need. This account between Paul and the Philippians serves as a mark of deep regard and a reminder of their care for him.
-- 🔄 Philippians 4:15 (attempt 2, 89 words, 46.94% quotes quality score: 2.0794108931759907, V2 normalized quality score: 60.48, commentator tiers 1-3: 31.73%, 38.53%, 29.74%) 
+- Attempt 3 BHT: In the early days of the Gospel, the Philippians stood out by being the only church that opened an account of giving-and-receiving with Paul. While they were the ones who gave, Paul was the one who received. This act of generosity not only showed their grateful and beneficent spirit, but it also reflected their deep appreciation for the Gospel. Their past favors and continued support set them apart from other churches and highlighted their unwavering commitment to God's work.
+- 🔄 Philippians 4:15 (attempt 3, 82 words, 43.75% quotes quality score: 1.9271388637988216, V2 normalized quality score: 55.42, commentator tiers 1-3: 30.14%, 34.44%, 35.42%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: In the beginning of the gospel, Paul places himself in the situation of the Philippians, recognizing their special attention and care for him. They alone opened an account of giving and receiving, with the giving on their part and the receiving on Paul's. This act of giving and receiving serves as a mark of deep regard, as they demonstrated their willingness to support Paul's work. Through their liberality, they showed their gratitude and created a clear account of debt and claim.
-- 🔄 Philippians 4:15 (attempt 3, 83 words, 38.0% quotes quality score: 1.8595880837083727, V2 normalized quality score: 53.17, commentator tiers 1-3: 29.81%, 35.67%, 34.51%) 
+- Attempt 4 BHT: From the beginning of the Gospel, the Philippians proved to be exceptional in their generosity towards Paul. They were the only church that opened an account of giving-and-receiving, with the giving being on their part and the receiving on Paul's. Their selflessness and gratitude were evident in their past acts of kindness and support, which set them apart from other churches. Their unwavering commitment to God's work and their profound appreciation for the Gospel is truly commendable.
+- 🔄 Philippians 4:15 (attempt 4, 81 words, 42.59% quotes quality score: 1.9561417254961189, V2 normalized quality score: 56.38, commentator tiers 1-3: 27.47%, 36.15%, 36.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: In the beginning of the gospel, the Philippians opened an account of giving and receiving with Paul. They alone demonstrated their support and care for him, as they contributed while Paul was in a position of receiving. This act of giving and receiving served as a mark of deep regard, highlighting their special attention and liberality towards him. Through their actions, a clear account of debt and claim was created, setting them apart from other churches. This act of support stands as a testament to their willingness to contribute to Paul's work.
-- 🔄 Philippians 4:15 (attempt 4, 93 words, 37.93% quotes quality score: 1.8183905713527082, V2 normalized quality score: 51.8, commentator tiers 1-3: 31.97%, 35.11%, 32.91%) 
+- Attempt 5 BHT: In the early days of the Gospel, the Philippians displayed their exceptional generosity by being the sole church to open an account of giving-and-receiving with Paul. While they provided the giving, Paul received. Their actions were not driven by the expectation of reciprocation, rather it exemplified their gratitude for the consolations of the Gospel and their faith in the Lord. Their past acts of kindness and unwavering commitment to support Paul's work spoke volumes about their deep appreciation for the Gospel.
+- 🔄 Philippians 4:15 (attempt 5, 84 words, 32.73% quotes quality score: 1.9757105162433621, V2 normalized quality score: 57.03, commentator tiers 1-3: 27.83%, 35.47%, 36.7%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In the beginning of the gospel, the Philippians opened an account of giving and receiving with Paul, with the giving being all on their part and the receiving all on his. Paul commends them for their special attention and care, recognizing their willingness to support his work. They stood alone among the churches in their willingness to contribute, creating a clear account of debt and claim. This act of support reflects their deep regard and gratitude towards Paul, setting them apart from others.
-- 🔄 Philippians 4:15 (attempt 5, 83 words, 43.4% quotes quality score: 1.88003289704687, V2 normalized quality score: 53.85, commentator tiers 1-3: 30.83%, 36.32%, 32.85%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Philippians 4:15 bht prompt v0.7 (89 words, 46.94% quotes)
-- quality score: 2.0794108931759907, V2 normalized quality score: 60.48, commentator tiers 1-3: 31.73%, 38.53%, 29.74%)
+- ✅ Philippians 4:15 bht prompt v0.8 (94 words, 58.46% quotes)
+- quality score: 1.889717252145275, V2 normalized quality score: 54.17, commentator tiers 1-3: 36.16%, 31.0%, 32.84%)

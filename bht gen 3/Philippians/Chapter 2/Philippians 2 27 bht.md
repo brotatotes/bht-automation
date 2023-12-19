@@ -1,13 +1,11 @@
 # Philippians 2:27 Commentary Help Text
 
 ## BHT:
-The mention of sorrow upon sorrow in the text refers to the distress caused by Epaphroditus' illness and the potential sorrow of losing him. This sickness, not necessarily cured by miracles, shows that miracles were not always a permanent gift for the apostles. Paul's genuine grief is highlighted, with the potential addition of sorrow from losing his friend. Epaphroditus' recovery is seen as an act of God's compassion and mercy. It reminds us that even in our faith, we experience physical and emotional suffering, emphasizing empathy and God's sovereignty over life and death.
+The apostle Paul's sorrow is evident as he expresses deep concern for his dear friend Epaphroditus, who was severely ill and on the verge of death. This reveals that miraculous gifts were not constantly bestowed upon the apostles, but rather given as needed by the Holy Spirit. Paul's sorrow would have been compounded by the thought of losing Epaphroditus in addition to his own imprisonment. However, God's mercy prevailed, restoring Epaphroditus to health through ordinary means. This heartfelt account underscores the genuineness of Paul's writing and his profound emotional investment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "sorrow upon sorrow."
-2. "The second sorrow refers to his own distress."
-3. "sorrow coming upon sorrow."
 
 ### Jamieson-Fausset-Brown:
 1. "Epaphroditus' sickness proves that the apostles had not ordinarily the permanent gift of miracles, any more than of inspiration: both were vouchsafed to them only for each particular occasion, as the Spirit thought fit."
@@ -15,28 +13,26 @@ The mention of sorrow upon sorrow in the text refers to the distress caused by E
 3. "Here only occurs anything of a sorrowful tone in this Epistle, which generally is most joyous."
 
 ### Albert Barnes:
-1. "Dr. Paley has remarked (Hor. Paul. on Phil no. ii.) that the account of the sickness and recovery of Epaphroditus is such as to lead us to suppose that he was not restored by miracle."
-2. "This account, he adds, shows also that this Epistle is not the work of an impostor. Had it been, a miracle would not have been spared."
-3. "His grief might have been aggravated from the consideration that his life had been lost in endeavoring to do him good."
+1. "For indeed he was sick nigh unto death...this account...shows also that this Epistle is not the work of an impostor."
+2. "But God had mercy on him - By restoring him to health evidently not by miracle, but by the use of ordinary means."
+3. "On me also, lest I should have sorrow upon sorrow - In addition to all the sorrows of imprisonment...His grief might have been aggravated from the consideration that his life had been lost in endeavoring to do him good."
 
 ### Marvin Vincent:
 1. Sorrow upon sorrow [λυπην επι λυπην] . The accusative implies motion. Sorrow coming upon sorrow, as wave after wave.
 
 
 ### John Calvin:
-1. "It were tedious to enumerate all the things which tend to make death better than life to believers, and more to be desired."
-2. "Paul acknowledges that the death of Epaphroditus would have been bitterly painful to him, and he recognises it as an instance of God’s sparing mercy toward himself, that he had been restored to health."
-3. "What excellence were there in patiently enduring the cross, if there were in it no feeling of pain and bitterness?"
+1. "It is, however, surprising that he should ascribe it to the mercy of God that Epaphroditus had had his period of life prolonged, while he had previously declared that he desired death in preference to life."
+2. "Christian patience differs widely from philosophical obstinacy, and still more from the stubborn and fierce sterness of the Stoics."
+3. "In the first place, that the dispositions which God originally implanted in our nature are not evil in themselves, because they do not arise from the fault of corrupt nature, but come forth from God as their Author."
 
 ### Philip Schaff:
-1. "Such a sickness must also in all probability have extended over some time."
+1. "For indeed he was sick nigh unto death. Such a sickness must also in all probability have extended over some time."
 2. "St. Paul does not consider that for all men it is a mercy to them that they be taken away, though he can say of himself that ‘to die is gain.’"
-3. "He rather regards his life as an heritage of sorrow, from which sorrow never departs, and he says that to this, his wonted grief, the death of his friend would have brought an addition of sorrow."
+3. "St. Paul does not mean by this that he would have had the sorrow of mourning over Epaphroditus’ death added to the grief which he had felt while he was sick. He rather regards his life as an heritage of sorrow, from which sorrow never departs, and he says that to this, his wonted grief, the death of his friend would have brought an addition of sorrow."
 
 ### John Gill:
-1. "Good men, such as Christ loves, as he did Lazarus, are sometimes sick; though their spiritual diseases are healed, and their sins forgiven, so that the inhabitants of Zion have no more reason to say that they are sick, since Christ has took their infirmities, and bore their sickness, yet they are not exempt from bodily disorders; and which are sometimes such as bring them to the brink of the grave, and, as it were, to the gates of death; and such was this good man's case."
-2. "His recovery was not by man, but by God, and owing to his power, mercy, and goodness; and indeed, whenever means are made rise of, and they succeed to the restoration of health, it ought to be ascribed to the divine blessing on them."
-3. "Grace, and the doctrine of grace, though they regulate the passions, and restrain them from immoderate sorrow, they do not destroy them, nor deny the proper use of them. Christianity does not countenance a stoical apathy, but requires and encourages a Christian sympathy, and directs us to weep with them that weep within due bounds."
+1. "Good men, such as Christ loves, as he did Lazarus, are sometimes sick; though their spiritual diseases are healed, and their sins forgiven, so that the inhabitants of Zion have no more reason to say that they are sick, since Christ has took their infirmities, and bore their sickness, yet they are not exempt from bodily disorders."
 
 ### John Wesley:
 1. God had compassion on him — Restoring him to health.
@@ -45,42 +41,40 @@ The mention of sorrow upon sorrow in the text refers to the distress caused by E
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:30
+- Timestamp: 12-19-2023 13:54:26
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 39.13%
-- BHT Quality Score: 2.1280313436748264
+- BHT Word Count: 94
+- BHT Commentary Usage: 37.5%
+- BHT Quality Score: 1.8968226653165072
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (69):
-	['a', 'act', 'addition', 'always', 'an', 'and', 'apostles', 'as', 'by', 'caused', 'compassion', 'cured', 'death', 'distress', 'emotional', 'empathy', 'emphasizing', 'epaphroditus', 'even', 'experience', 'faith', 'for', 'friend', 'from', 'genuine', 'gift', 'god', 'grief', 'highlighted', 'him', 'his', 'illness', 'in', 'is', 'it', 'life', 'losing', 'mention', 'mercy', 'miracles', 'necessarily', 'not', 'of', 'our', 'over', 'paul', 'permanent', 'physical', 'potential', 'recovery', 'refers', 'reminds', 's', 'seen', 'shows', 'sickness', 'sorrow', 'sovereignty', 'suffering', 'text', 'that', 'the', 'this', 'to', 'upon', 'us', 'we', 'were', 'with']
-- ChatGPT injected words (significant words only) (42):
-	['act', 'addition', 'apostles', 'caused', 'compassion', 'cured', 'death', 'distress', 'emotional', 'empathy', 'emphasizing', 'epaphroditus', 'experience', 'faith', 'friend', 'genuine', 'gift', 'god', 'grief', 'highlighted', 'illness', 'life', 'losing', 'mention', 'mercy', 'miracles', 'necessarily', 'paul', 'permanent', 'physical', 'potential', 'recovery', 'refers', 'reminds', 's', 'seen', 'shows', 'sickness', 'sorrow', 'sovereignty', 'suffering', 'text']
+- ChatGPT injected words (72):
+	['account', 'addition', 'and', 'apostle', 'apostles', 'as', 'been', 'bestowed', 'but', 'by', 'compounded', 'concern', 'constantly', 'dear', 'death', 'deep', 'emotional', 'epaphroditus', 'evident', 'expresses', 'for', 'friend', 'genuineness', 'gifts', 'given', 'god', 'have', 'he', 'health', 'heartfelt', 'his', 'holy', 'however', 'ill', 'imprisonment', 'in', 'investment', 'is', 'losing', 'means', 'mercy', 'miraculous', 'needed', 'not', 'of', 'on', 'ordinary', 'own', 'paul', 'prevailed', 'profound', 'rather', 'restoring', 'reveals', 's', 'severely', 'sorrow', 'spirit', 'that', 'the', 'this', 'thought', 'through', 'to', 'underscores', 'upon', 'verge', 'was', 'were', 'who', 'would', 'writing']
+- ChatGPT injected words (significant words only) (45):
+	['account', 'addition', 'apostle', 'apostles', 'bestowed', 'compounded', 'concern', 'constantly', 'dear', 'death', 'deep', 'emotional', 'epaphroditus', 'evident', 'expresses', 'friend', 'genuineness', 'gifts', 'given', 'god', 'health', 'heartfelt', 'holy', 'ill', 'imprisonment', 'investment', 'losing', 'means', 'mercy', 'miraculous', 'needed', 'ordinary', 'paul', 'prevailed', 'profound', 'restoring', 'reveals', 's', 'severely', 'sorrow', 'spirit', 'thought', 'underscores', 'verge', 'writing']
 
 ### Logs
-- Attempt 1 BHT: The verse speaks of sorrow upon sorrow, referring to the distress caused by Epaphroditus' sickness and the potential sorrow of losing him by death. This sickness, though not necessarily cured through miracles, demonstrated that miracles were not always a permanent gift for the apostles. Despite the generally joyous tone of this Epistle, the mention of sorrow highlights Paul's genuine grief and the potential addition of sorrow from losing his friend. Ultimately, Epaphroditus' recovery is seen as an act of God's compassion and mercy. This passage reminds us that even in the midst of our faith, we are not exempt from physical and emotional suffering, emphasizing the importance of empathy and the recognition of God's sovereignty over life and death.
-- 🔄 Philippians 2:27 (attempt 1, 122 words, 35.0% quotes quality score: 2.118169017427265, V2 normalized quality score: 61.77, commentator tiers 1-3: 36.83%, 30.61%, 32.56%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The mention of sorrow upon sorrow in the text refers to the distress caused by Epaphroditus' illness and the potential sorrow of losing him. This sickness, not necessarily cured by miracles, shows that miracles were not always a permanent gift for the apostles. Paul's genuine grief is highlighted, with the potential addition of sorrow from losing his friend. Epaphroditus' recovery is seen as an act of God's compassion and mercy. It reminds us that even in our faith, we experience physical and emotional suffering, emphasizing empathy and God's sovereignty over life and death.
-- 🔄 Philippians 2:27 (attempt 2, 96 words, 39.13% quotes quality score: 2.1280313436748264, V2 normalized quality score: 62.1, commentator tiers 1-3: 37.85%, 29.81%, 32.34%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The mention of sorrow upon sorrow refers to the distress caused by Epaphroditus' illness and the potential sorrow of losing him. This sickness shows that miracles were not always a permanent gift for the apostles. Paul's genuine grief and the potential addition of sorrow from losing his friend are highlighted. Epaphroditus' recovery is seen as an act of God's compassion and mercy. It reminds us that even in our faith, we experience physical and emotional suffering, emphasizing empathy and God's sovereignty over life and death.
-- 🔄 Philippians 2:27 (attempt 3, 88 words, 40.91% quotes quality score: 2.1121492624961338, V2 normalized quality score: 61.57, commentator tiers 1-3: 38.13%, 29.83%, 32.04%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The mention of sorrow upon sorrow signifies the distress caused by Epaphroditus' illness and the potential sorrow of losing him. This reveals that miracles were not always a permanent gift for the apostles. Paul's genuine grief and the possibility of added sorrow from losing his friend are emphasized. Epaphroditus' recovery is viewed as an act of God's compassion and mercy. This passage reminds us that even in our faith, we encounter physical and emotional suffering, highlighting the significance of empathy and God's control over life and death.
-- 🔄 Philippians 2:27 (attempt 4, 90 words, 37.88% quotes quality score: 2.0762675293223856, V2 normalized quality score: 60.38, commentator tiers 1-3: 37.45%, 30.07%, 32.49%) 
+- Attempt 1 BHT: The apostle Paul writes with a sense of deep sorrow in this passage, expressing his concern for his dear friend Epaphroditus who was sick and on the brink of death. This shows that Paul, despite his apostolic authority, did not possess a permanent gift of miracles or inspiration but rather relied on the Spirit's guidance for each specific situation. He felt the weight of sorrow, both from the possibility of losing Epaphroditus and from his own imprisonment. It is notable that this is the only instance of sadness in an otherwise joyous epistle. Paul describes this sorrow as wave after wave, emphasizing the mounting and overwhelming nature of his grief. Nevertheless, God showed mercy by restoring Epaphroditus to health, not through a miraculous intervention but through ordinary means. This account affirms the genuineness of Paul's writing and highlights the depth of his emotions.
+- 🔄 Philippians 2:27 (attempt 1, 145 words, 35.05% quotes quality score: 1.9527220589462306, V2 normalized quality score: 56.27, commentator tiers 1-3: 37.18%, 36.98%, 25.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'PASSAGE' FOUND IN BHT!
-- Attempt 5 BHT: The mention of sorrow upon sorrow highlights the distress caused by Epaphroditus' illness and the potential sorrow of losing him. This suggests that miracles were not always a permanent gift for the apostles. Paul's genuine grief and the possibility of added sorrow from losing his friend are emphasized. Epaphroditus' recovery is seen as an act of God's compassion and mercy. This reminds us that even in our faith, we experience physical and emotional suffering, underscoring the importance of empathy and recognizing God's sovereignty over life and death.
-- 🔄 Philippians 2:27 (attempt 5, 90 words, 37.88% quotes quality score: 2.0615864149621554, V2 normalized quality score: 59.89, commentator tiers 1-3: 37.15%, 30.31%, 32.54%) 
+- Attempt 2 BHT: The apostle Paul reveals a deep sense of sorrow as he expresses concern for his beloved friend Epaphroditus, who was gravely ill. Paul's poignant words convey the limited nature of the apostles' gifts of miracles and inspiration, given only for specific occasions. His sorrow was compounded by the prospect of losing Epaphroditus, in addition to the hardships of his own imprisonment. However, Paul finds solace in God's mercy, as He restored Epaphroditus to health using ordinary means rather than a miraculous intervention. This heartfelt account demonstrates the authenticity of Paul's writing and reveals the profound emotional depth he experienced.
+- 🔄 Philippians 2:27 (attempt 2, 102 words, 28.17% quotes quality score: 1.9180480902663928, V2 normalized quality score: 55.12, commentator tiers 1-3: 32.88%, 37.95%, 29.17%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Philippians 2:27 bht prompt v0.7 (96 words, 39.13% quotes)
-- quality score: 2.1280313436748264, V2 normalized quality score: 62.1, commentator tiers 1-3: 37.85%, 29.81%, 32.34%)
+- Attempt 3 BHT: The apostle Paul's sorrow is evident as he expresses deep concern for his dear friend Epaphroditus, who was severely ill and on the verge of death. This reveals that miraculous gifts were not constantly bestowed upon the apostles, but rather given as needed by the Holy Spirit. Paul's sorrow would have been compounded by the thought of losing Epaphroditus in addition to his own imprisonment. However, God's mercy prevailed, restoring Epaphroditus to health through ordinary means. This heartfelt account underscores the genuineness of Paul's writing and his profound emotional investment.
+- 🔄 Philippians 2:27 (attempt 3, 94 words, 37.5% quotes quality score: 1.8968226653165072, V2 normalized quality score: 54.41, commentator tiers 1-3: 30.64%, 39.46%, 29.91%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Paul's genuine concern is evident as he lamentably shares the news of Epaphroditus' serious illness. This revealing episode highlights the reality that the apostles did not possess permanent gifts of miracles or inspiration but relied on the Spirit's guidance for specific occasions. Paul's sorrow would have been compounded by the potential loss of Epaphroditus and his personal imprisonment. Thankfully, God showed mercy by restoring Epaphroditus to health through ordinary means. This authentic account emphasizes the depth of emotion in Paul's writing and underscores the value of genuine human connection.
+- 🔄 Philippians 2:27 (attempt 4, 93 words, 31.94% quotes quality score: 1.6715734649768987, V2 normalized quality score: 46.92, commentator tiers 1-3: 28.28%, 38.94%, 32.78%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Paul's sorrow is palpable in his heartfelt concern for his dear friend Epaphroditus, who was dangerously ill. This powerfully demonstrates that the apostles did not possess constant gifts of miracles or inspiration, but rather relied on the Spirit’s guidance as necessary. The prospect of losing Epaphroditus, combined with Paul’s own imprisonment, intensified his grief. Yet, God's mercy intervened, restoring Epaphroditus to health through ordinary means. This poignant account underscores the authenticity of Paul’s writing and the depth of his emotional investment in his relationships.
+- 🔄 Philippians 2:27 (attempt 5, 89 words, 33.82% quotes quality score: 1.7961122485376988, V2 normalized quality score: 51.06, commentator tiers 1-3: 30.62%, 38.84%, 30.53%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Philippians 2:27 bht prompt v0.8 (94 words, 37.5% quotes)
+- quality score: 1.8968226653165072, V2 normalized quality score: 54.41, commentator tiers 1-3: 30.64%, 39.46%, 29.91%)

@@ -1,13 +1,13 @@
 # 1 Thessalonians 4:3 Commentary Help Text
 
 ## BHT:
-The will of God is revealed through the commandments of the Lord Jesus, and it is His desire that we be sanctified. This sanctification extends to every aspect of our lives and includes abstaining from fornication, a sin that was prevalent and even condoned among the Gentiles. The emphasis on holiness and purity is essential because converts from heathenism were heavily influenced by licentious customs and pagan practices. Thus, it is imperative that as Christians, we pursue sanctification and reject immoral behavior, as it aligns with the will of God for our lives.
+The will of God is that you be sanctified, which means living a life of purity, abstaining from vices that degrade the soul. Fornication was not considered a sin among the Gentiles, but as Christians, we are called to a higher standard. We must internalize sanctification by aligning our will with God's and cultivating holiness within, while also demonstrating it through righteous living. Thus, it is vital that we refrain from sexual immorality and impurity, as this aligns with God's will and purpose for us.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The words the will of God serve to take up again the preceding assertion that the commandments were given 'by the Lord Jesus.'" 
-2. "Your sanctification is in apposition with the will of God, as a matter patent to all, the will of God respecting us being known to be, our sanctification."
-3. "Sanctification must be taken in the most general sense, and that which is afterwards introduced, as forming a part of our sanctification."
+1. "The will of God... your sanctification is in apposition with the will of God, as a matter patent to all, the will of God respecting us being known to be, our sanctification."
+2. "Therefore sanctification must be taken in the most general sense, and that which is afterwards introduced, as forming a part of our sanctification."
+3. "Your sanctification... i.e. the sanctification of you."
 
 ### Jamieson-Fausset-Brown:
 1. "Since 'this is the will of God,' let it be your will also."
@@ -16,17 +16,17 @@ The will of God is revealed through the commandments of the Lord Jesus, and it i
 
 ### Albert Barnes:
 1. "It is the will or command of God that you should be holy."
-2. "This text...is a proof only that he requires holiness."
-3. "Sanctification consists in two things: (1) In 'ceasing to do evil;' and, (2) In 'learning to do well.'"
+2. "The word here rendered 'sanctification'...means here 'purity of life,' and particularly abstinence from those vices which debase and degrade the soul."
+3. "The first work of sanctification is in overcoming the propensities to evil in our nature, and checking and subduing the unholy habits which we had formed before we became Christians; the second part of the work consists in cultivating the positive principles of holiness in the soul."
 
 ### Marvin Vincent:
-1. "Fornication. Paul wrote from Corinth, where sensuality in the guise of religion was rife."
-2. "In Thessalonica, besides the ordinary licentious customs of the Gentiles, immorality was fostered by the Cabeiric worship."
+1. "In Thessalonica, besides the ordinary licentious customs of the Gentiles, immorality was fostered by the Cabeiric worship."
+2. "Sensuality in the guise of religion was rife."
 3. "About the time of Paul, a political sanction was given to this worship by deifying the Emperor as Cabeirus."
 
 ### John Calvin:
-1. "For this end ye are Christians — this the gospel aims at — that ye may sanctify yourselves to God."
-2. "Where the knowledge of God reigns, lusts must be subdued."
+1. "For this end ye are Christians — this the gospel aims at — that ye may sanctify yourselves to God." 
+2. "Where the knowledge of God reigns, lusts must be subdued." 
 3. "He would, therefore, have us keep our body pure from all uncleanness."
 
 ### Philip Schaff:
@@ -35,14 +35,14 @@ The will of God is revealed through the commandments of the Lord Jesus, and it i
 3. "This is the particular virtue in which their sanctification was to be manifested. And here and elsewhere emphasis is laid upon purity of life, because licentiousness was bred in the bone of the converts from heathenism, and fornication was in Greece considered a venial transgression."
 
 ### Archibald T. Robertson:
-1. "Your sanctification... as being 'the will of God'." 
-2. "Paul makes a sharp and pointed stand here for the Christian idea of sanctification."
-3. "Pagan religion did not demand sexual purity of its devotees."
+1. "Paul makes a sharp and pointed stand here for the Christian idea of sanctification as being 'the will of God'." 
+2. "Pagan religion did not demand sexual purity of its devotees, the gods and goddesses being grossly immoral." 
+3. "Priestesses were in the temples for the service of the men who came."
 
 ### John Gill:
-1. "Sanctification is internal or external. Internal sanctification is the work of the Spirit of God, and is a principle of spiritual life in the soul... External sanctification arises from this, and lies in holiness of life and conversation." 
-2. "This is his approving will, or what is well pleasing in his sight, being agreeable to his nature, and divine perfections, particularly his holiness, in which he is glorious."
-3. "Abstinence from [fornication] being a branch of external holiness; and because that this sin was common among the Gentiles, and not esteemed a sin by them."
+1. "Sanctification is internal or external. Internal sanctification is the work of the Spirit of God, a flexion of the will to the will of God, and a settlement of the affections on divine things. External sanctification lies in holiness of life and conversation." 
+2. "This is the will of God, the will of His purpose and decree, that he wills the salvation of any by Jesus Christ, he also wills their sanctification in heart and life, and here and hereafter."
+3. "Abstaining from fornication is a branch of external holiness, and it is particularly mentioned because this sin was common among the Gentiles and not esteemed a sin by them."
 
 ### John Wesley:
 1. "Sanctification — Entire holiness of heart and life: particular branches of it are subjoined."
@@ -52,37 +52,38 @@ The will of God is revealed through the commandments of the Lord Jesus, and it i
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:23
+- Timestamp: 12-19-2023 14:00:02
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 43.08%
-- BHT Quality Score: 2.4811084721703134
+- BHT Word Count: 87
+- BHT Commentary Usage: 49.23%
+- BHT Quality Score: 2.3399790181891893
 - Generate Attempts: 5 / 5
 - ChatGPT injected words (65):
-	['a', 'abstaining', 'aligns', 'among', 'and', 'as', 'aspect', 'be', 'because', 'behavior', 'by', 'christians', 'commandments', 'condoned', 'converts', 'customs', 'desire', 'emphasis', 'essential', 'even', 'every', 'extends', 'for', 'fornication', 'from', 'gentiles', 'god', 'heathenism', 'heavily', 'his', 'holiness', 'immoral', 'imperative', 'includes', 'influenced', 'is', 'it', 'jesus', 'licentious', 'lives', 'lord', 'of', 'on', 'our', 'pagan', 'practices', 'prevalent', 'purity', 'pursue', 'reject', 'revealed', 'sanctification', 'sanctified', 'sin', 'that', 'the', 'this', 'through', 'thus', 'to', 'was', 'we', 'were', 'will', 'with']
-- ChatGPT injected words (significant words only) (37):
-	['abstaining', 'aligns', 'aspect', 'behavior', 'christians', 'commandments', 'condoned', 'converts', 'customs', 'desire', 'emphasis', 'essential', 'extends', 'fornication', 'gentiles', 'god', 'heathenism', 'heavily', 'holiness', 'immoral', 'imperative', 'includes', 'influenced', 'jesus', 'licentious', 'lives', 'lord', 'pagan', 'practices', 'prevalent', 'purity', 'pursue', 'reject', 'revealed', 'sanctification', 'sanctified', 'sin']
+	['a', 'abstaining', 'aligning', 'aligns', 'also', 'among', 'and', 'are', 'as', 'be', 'but', 'by', 'called', 'christians', 'considered', 'cultivating', 'degrade', 'demonstrating', 'for', 'fornication', 'from', 'gentiles', 'god', 'higher', 'holiness', 'immorality', 'impurity', 'internalize', 'is', 'it', 'life', 'living', 'means', 'must', 'not', 'of', 'our', 'purity', 'purpose', 'refrain', 'righteous', 's', 'sanctification', 'sanctified', 'sexual', 'sin', 'soul', 'standard', 'that', 'the', 'this', 'through', 'thus', 'to', 'us', 'vices', 'vital', 'was', 'we', 'which', 'while', 'will', 'with', 'within', 'you']
+- ChatGPT injected words (significant words only) (33):
+	['abstaining', 'aligning', 'aligns', 'called', 'christians', 'considered', 'cultivating', 'degrade', 'demonstrating', 'fornication', 'gentiles', 'god', 'higher', 'holiness', 'immorality', 'impurity', 'internalize', 'life', 'living', 'means', 'purity', 'purpose', 'refrain', 'righteous', 's', 'sanctification', 'sanctified', 'sexual', 'sin', 'soul', 'standard', 'vices', 'vital']
 
 ### Logs
-- Attempt 1 BHT: The will of God, as expressed by the Lord Jesus, is for our sanctification. This sanctification encompasses our general holiness and includes abstaining from fornication, which was prevalent and even accepted in Gentile culture. The emphasis on purity of life is necessary because the converts from heathenism were deeply influenced by licentious customs and pagan worship. Therefore, it is crucial for Christians to strive for sanctification and to reject immoral practices, as God desires our holiness and purity.
-- 🔄 1 Thessalonians 4:3 (attempt 1, 78 words, 38.18% quotes quality score: 2.382814045823534, V2 normalized quality score: 70.57, commentator tiers 1-3: 35.43%, 35.45%, 29.12%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The will of God is revealed through the commandments of the Lord Jesus, and it is His desire that we be sanctified. This sanctification extends to every aspect of our lives and includes abstaining from fornication, a sin that was prevalent and even condoned among the Gentiles. The emphasis on holiness and purity is essential because converts from heathenism were heavily influenced by licentious customs and pagan practices. Thus, it is imperative that as Christians, we pursue sanctification and reject immoral behavior, as it aligns with the will of God for our lives.
-- 🔄 1 Thessalonians 4:3 (attempt 2, 93 words, 43.08% quotes quality score: 2.4811084721703134, V2 normalized quality score: 73.84, commentator tiers 1-3: 34.25%, 35.76%, 29.99%) 
+- Attempt 1 BHT: The will of God is your sanctification, which includes purity of life and abstinence from vices that degrade the soul. It is emphasized because licentiousness was common among the Gentiles and not seen as a sin. The pagan religion did not demand sexual purity, and even had priestesses in the temples for the service of men who came. However, as Christians, we are called to a higher standard. The sanctification God desires is both internal and external, involving a flexion of the will to the will of God and a settlement of the affections on divine things. Therefore, let us abstain from fornication and any form of impurity, knowing that this is the will and purpose of God for us.
+- 🔄 1 Thessalonians 4:3 (attempt 1, 120 words, 42.11% quotes quality score: 2.2243941279674377, V2 normalized quality score: 65.3, commentator tiers 1-3: 29.96%, 37.42%, 32.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The will of God, as expressed by the Lord Jesus, is for our sanctification. This sanctification encompasses our general holiness and includes abstaining from fornication, which was prevalent and even accepted among the Gentiles. The emphasis on purity of life is necessary because the converts from heathenism were deeply influenced by licentious customs and pagan worship. Christians must strive for sanctification and reject immoral practices, as God desires our holiness and purity.
-- 🔄 1 Thessalonians 4:3 (attempt 3, 72 words, 37.25% quotes quality score: 2.4075408339604403, V2 normalized quality score: 71.39, commentator tiers 1-3: 35.76%, 35.1%, 29.14%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The will of God, known to be our sanctification, is closely linked to the commandments given by the Lord Jesus. Paul emphasizes the importance of sanctification, urging believers to align their will with God's. Fornication, which was widely accepted among the Gentiles, is specifically mentioned as a sin that needs to be denounced. This call for sanctification stands in contrast to the pagan religions that did not demand sexual purity. Christians are urged to pursue holiness and reject immoral practices, thus honoring God's will for their lives.
-- 🔄 1 Thessalonians 4:3 (attempt 4, 89 words, 37.88% quotes quality score: 2.3770557942968535, V2 normalized quality score: 70.38, commentator tiers 1-3: 37.6%, 33.88%, 28.52%) 
+- Attempt 2 BHT: The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Among the Gentiles, fornication was not seen as a sin, leading to licentiousness. However, as Christians, we are called to a higher standard. This sanctification is both internal, through aligning our will with God's, and external, living a holy life. Thus, we are encouraged to abstain from fornication and impurity, knowing that this is God's will and purpose for us.
+- 🔄 1 Thessalonians 4:3 (attempt 2, 84 words, 46.43% quotes quality score: 2.1969909465816446, V2 normalized quality score: 64.39, commentator tiers 1-3: 27.71%, 37.39%, 34.9%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The will of God, being our sanctification, is known through the commandments given by the Lord Jesus. Fornication, not regarded as a sin by the Gentiles, is specifically denounced. Paul emphasizes the need for Christians to stand firm in their pursuit of sanctification, despite the prevalent sensuality of their surroundings. The call for sanctification is rooted in the Christian idea of purity and counters the licentious customs of the pagan worship. Christians are thus encouraged to align their will with God's and reject immoral practices.
-- 🔄 1 Thessalonians 4:3 (attempt 5, 86 words, 33.9% quotes quality score: 2.3116242675346186, V2 normalized quality score: 68.2, commentator tiers 1-3: 37.96%, 33.74%, 28.3%) 
+- Attempt 3 BHT: The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Among the Gentiles, fornication was not seen as a sin, leading to licentiousness. However, as Christians, we are called to a higher standard. This sanctification is both internal and external, through aligning our will with God's and living a holy life. Thus, we must abstain from fornication and impurity, knowing that this is God's will and purpose for us.
+- 🔄 1 Thessalonians 4:3 (attempt 3, 83 words, 48.21% quotes quality score: 2.2019270651023173, V2 normalized quality score: 64.55, commentator tiers 1-3: 27.81%, 37.22%, 34.97%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 4:3 bht prompt v0.7 (93 words, 43.08% quotes)
-- quality score: 2.4811084721703134, V2 normalized quality score: 73.84, commentator tiers 1-3: 34.25%, 35.76%, 29.99%)
+- Attempt 4 BHT: The will of God is for your sanctification, which involves purity of life and abstinence from the vices that degrade the soul. Fornication was not seen as a sin among the Gentiles, but as Christians, we are called to a higher standard. This sanctification is both internal and external, aligning our will with God's and living a holy life. Thus, we must abstain from fornication and impurity, knowing that this is God's will and purpose for us.
+- 🔄 1 Thessalonians 4:3 (attempt 4, 79 words, 49.06% quotes quality score: 2.3188833779615035, V2 normalized quality score: 68.44, commentator tiers 1-3: 26.98%, 37.87%, 35.15%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The will of God is that you be sanctified, which means living a life of purity, abstaining from vices that degrade the soul. Fornication was not considered a sin among the Gentiles, but as Christians, we are called to a higher standard. We must internalize sanctification by aligning our will with God's and cultivating holiness within, while also demonstrating it through righteous living. Thus, it is vital that we refrain from sexual immorality and impurity, as this aligns with God's will and purpose for us.
+- 🔄 1 Thessalonians 4:3 (attempt 5, 87 words, 49.23% quotes quality score: 2.3399790181891893, V2 normalized quality score: 69.14, commentator tiers 1-3: 28.6%, 38.03%, 33.37%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Thessalonians 4:3 bht prompt v0.8 (87 words, 49.23% quotes)
+- quality score: 2.3399790181891893, V2 normalized quality score: 69.14, commentator tiers 1-3: 28.6%, 38.03%, 33.37%)

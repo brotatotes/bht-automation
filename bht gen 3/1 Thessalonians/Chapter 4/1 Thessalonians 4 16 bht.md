@@ -1,48 +1,48 @@
 # 1 Thessalonians 4:16 Commentary Help Text
 
 ## BHT:
-At the Lord's coming, He Himself will descend with a commanding shout and the trumpet blast of God, summoning His elect together. The purpose of this description is to emphasize that the dead in Christ will rise before the living are changed, ensuring that they will not be deprived of any advantage at His coming. It is possible that the archangel Michael is leading the heavenly hosts, representing Jesus as a victorious King, reigning over sin, death, and Satan. Ultimately, Christ will be revealed as the Conqueror, descending from heaven with a voice that reflects His authority.
+When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Because the Lord Himself (said for solemnity’s sake, and to shew that it will not be a mere gathering to Him, but HE HIMSELF will descend, and we all shall be summoned before Him) with (literally, ‘in, as the element,—the accompanying circumstance) a signal-shout..."
-2. "Then we who are living, who remain behind (as above), shall be caught up (the great change spoken of, 1 Cor. xv. 52, having first suddenly taken place) all together, with them, in (the) clouds, to meet the Lord (as He descends."
-3. "That he advances no further in the prophetic description, but breaks off at our union in Christ’s presence, is accounted for, by his purpose being accomplished, in having shewn that they who have died in Christ, shall not be thereby deprived of any advantage at His coming."
+1. "Because the Lord Himself ... will descend, and we all shall be summoned before Him" 
+2. "the dead in Christ shall first rise" 
+3. "we shall be always with the Lord"
 
 ### Jamieson-Fausset-Brown:
-1. "Jesus is represented as a victorious King, giving the word of command to the hosts of heaven in His train for the last onslaught, at His final triumph over sin, death, and Satan."
-2. "Michael is perhaps meant, to whom especially is committed the guardianship of the people of God."
-3. "The trumpet blast...to summon God's elect together, preparatory to their glorification with Christ."
+1. "Jesus is represented as a victorious King, giving the word of command to the hosts of heaven in His train for the last onslaught, at His final triumph over sin, death, and Satan." 
+2. "The trumpet blast which usually accompanies God's manifestation in glory, here to summon God's elect together, preparatory to their glorification with Christ." 
+3. "'The dead in Christ' shall rise, THEN the living shall be caught up. The Lord's people alone are spoken of here."
 
 ### Albert Barnes:
-1. "With a shout - The word here used (κέλευσμα keleusma), does not elsewhere occur in the New Testament. It properly means a 'cry’ of excitement, or of arging on; an outcry, clamor, or shout."
-2. "The names of three only of the seven are mentioned in the Jewish writings: Michael, the patron of the Jewish nation... Gabriel... Raphael."
-3. "It is implied in all this description, that the interval between their resurrection and the change which will occur to the living, will be brief, or that the one will rapidly succeed the other."
+1. "With a shout... with the voice of the archangel... and with the trump of God." 
+2. "It is not quite certain what is meant here by ‘the voice of the archangel’... but it seems most probable that the meaning is, that this will be a part of the loud shout or cry which will be made by the descending hosts of heaven."
+3. "The dead in Christ... shall rise first... before the living shall be changed."
 
 ### Marvin Vincent:
 1. "The following description of the Lord's descent from heaven is intended to emphasise the fact that the reunion of dead and living believers will be accomplished by the Lord in person."
-2. "With a shout [εν κελευσματι]. N. T. o. Once in LXX, Proverbs 24:6 Proverbs 24:2 (English Bib 30:27). From keleuein to summon. Often in Class. Lit. a shout of command, as of a general to his army, an admiral to his oarsmen, or a charioteer to his horses."
-3. "With the trumpet of God [εν σαλπιγγι θεου]. For the trumpet heralding great manifestations of God, see Exodus 19:13, Exodus 19:16; Psalms 47:5; Isaiah 27:13; Zechariah 9:14; Zephaniah 1:16; Joel 2:1; Matthew 24:31; 1 Corinthians 14:52; Revelation 1:10; Revelation 4:1."
+2. "With a shout. Lit. a shout of command, as of a general to his army, an admiral to his oarsmen, or a charioteer to his horses."
+3. "For the trumpet heralding great manifestations of God, see Exodus 19:13, Exodus 19:16; Psalms 47:5; Isaiah 27:13; Zechariah 9:14; Zephaniah 1:16; Joel 2:1; Matthew 24:31; 1 Corinthians 14:52; Revelation 1:10; Revelation 4:1."
 
 ### John Calvin:
 1. "He appoints one in the foremost place to take the lead of the others."
-2. "The dead who are in Christ... will rise first."
-3. "A sudden change will be like death. Ordinary death, it is true, is the separation of the soul from the body; but this does not hinder that the Lord may in a moment destroy this corruptible nature, so as to create it anew by his power."
+2. "He says that those that survive will be carried up together with them."
+3. "The solution, however, is easy, inasmuch as a sudden change will be like death."
 
 ### Philip Schaff:
-1. "The Lord Himself shall descend from heaven... the first intimation of His coming shall be the signals given not to the living but to the dead." 
-2. "The word here rendered 'shout' is literally 'word of command,' being the common and technical term for the military word of command... The whole representation, the angelic host with their archangelic leader, the trumpet 'sounding louder and louder,' the descent of the Lord Himself, finds its original in the descent of God upon Mount Sinai."
-3. "The dead in Christ... shall rise first. Before anything else transpires, and especially before the living are gathered to the Lord."
+1. "The Lord Himself shall descend from heaven...the first intimation of His coming shall be the signals given not to the living but to the dead." 
+2. "The word here rendered 'shout' is literally 'word of command,' being the common and technical term for the military word of command, or for the loud cry of the boatswain giving time to the rowers."
+3. "The dead in Christ...shall rise first. Before anything else transpires, and especially before the living are gathered to the Lord."
 
 ### Archibald T. Robertson:
 1. "Christ will come as Conqueror."
-2. "The only archangel mentioned in N.T. is Michael in Jude 1:9. But note absence of article with both φωνη and αρχαγγελου. The reference may be thus indefinite."
+2. "The reference may be thus indefinite."
 3. "First here refers plainly to the fact that, so far from the dead in Christ having no share in the Parousia, they will rise before those still alive are changed."
 
 ### John Gill:
 1. "Christ will now appear as the King of kings, and Lord of lords, as the Judge of the whole earth, attended with the host, or armies of heaven, and the shout of a king will be among them."
-2. "Christ shall descend from heaven with a voice, or shall then utter such a voice, as will show him to be the archangel."
-3. "Christ will come; but the wicked will not rise till the evening of that day, or till the close of the thousand years."
+2. "[Christ] shall descend from heaven with a voice, or shall then utter such a voice, as will show him to be the archangel; or as the Syriac version renders it, "the head", or "prince of angels"."
+3. "Christ shall descend from heaven...with great glory, and marks of honour and respect; with angels shouting, trumpets blowing, and saints rejoicing."
 
 ### John Wesley:
 1. With a shout — Properly, a proclamation made to a great multitude. Above this is, the voice of the archangel; above both, the trumpet of God; the voice of God, somewhat analogous to the sound of a trumpet.
@@ -51,38 +51,39 @@ At the Lord's coming, He Himself will descend with a commanding shout and the tr
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:41
+- Timestamp: 12-19-2023 14:00:36
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 37.14%
-- BHT Quality Score: 2.359406033089402
+- BHT Word Count: 82
+- BHT Commentary Usage: 41.67%
+- BHT Quality Score: 2.5238447979923793
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (70):
-	['a', 'advantage', 'and', 'any', 'archangel', 'are', 'as', 'at', 'authority', 'be', 'before', 'blast', 'changed', 'christ', 'coming', 'commanding', 'conqueror', 'dead', 'death', 'deprived', 'descend', 'descending', 'description', 'elect', 'emphasize', 'ensuring', 'from', 'god', 'he', 'heaven', 'heavenly', 'himself', 'his', 'hosts', 'in', 'is', 'it', 'jesus', 'king', 'leading', 'living', 'lord', 'michael', 'not', 'of', 'over', 'possible', 'purpose', 'reflects', 'reigning', 'representing', 'revealed', 'rise', 's', 'satan', 'shout', 'sin', 'summoning', 'that', 'the', 'they', 'this', 'to', 'together', 'trumpet', 'ultimately', 'victorious', 'voice', 'will', 'with']
-- ChatGPT injected words (significant words only) (44):
-	['advantage', 'archangel', 'authority', 'blast', 'changed', 'christ', 'coming', 'commanding', 'conqueror', 'dead', 'death', 'deprived', 'descend', 'descending', 'description', 'elect', 'emphasize', 'ensuring', 'god', 'heaven', 'heavenly', 'hosts', 'jesus', 'king', 'leading', 'living', 'lord', 'michael', 'possible', 'purpose', 'reflects', 'reigning', 'representing', 'revealed', 'rise', 's', 'satan', 'shout', 'sin', 'summoning', 'trumpet', 'ultimately', 'victorious', 'voice']
+- ChatGPT injected words (60):
+	['a', 'about', 'accompanied', 'accompanies', 'all', 'and', 'army', 'as', 'be', 'before', 'believers', 'blast', 'brings', 'by', 'christ', 'command', 'dead', 'descends', 'described', 'first', 'followed', 'general', 'giving', 'glorious', 'god', 'heaven', 'him', 'himself', 'his', 'hosts', 'in', 'is', 'jesus', 'king', 'like', 'living', 'lord', 'manifestation', 'of', 'or', 'reunion', 'rise', 's', 'scene', 'shall', 'shout', 'summoned', 'that', 'the', 'then', 'this', 'to', 'trumpet', 'usually', 'victorious', 'we', 'when', 'which', 'will', 'word']
+- ChatGPT injected words (significant words only) (35):
+	['accompanied', 'accompanies', 'army', 'believers', 'blast', 'brings', 'christ', 'command', 'dead', 'descends', 'described', 'followed', 'general', 'giving', 'glorious', 'god', 'heaven', 'hosts', 'jesus', 'king', 'like', 'living', 'lord', 'manifestation', 'reunion', 'rise', 's', 'scene', 'shall', 'shout', 'summoned', 'trumpet', 'usually', 'victorious', 'word']
 
 ### Logs
-- Attempt 1 BHT: At the Lord's coming, He Himself will descend with a commanding shout and the trumpet blast of God. This is to summon His elect together, as a general would call his army or a charioteer would command his horses. The archangel, possibly Michael, may be the one leading the heavenly hosts. The purpose of this description is to emphasize that the dead in Christ will rise before the living are changed, indicating that they will not be deprived of any advantage at His coming. This event symbolizes Jesus as a victorious King, leading the final onslaught against sin, death, and Satan. Ultimately, Christ will be revealed as the Conqueror, the King of kings and Lord of lords, descending from heaven with a voice that reflects His authority as the archangel.
-- 🔄 1 Thessalonians 4:16 (attempt 1, 131 words, 36.14% quotes quality score: 2.2055713948671274, V2 normalized quality score: 64.68, commentator tiers 1-3: 32.62%, 31.78%, 35.6%) 
+- Attempt 1 BHT: When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers. It is important to note that the dead in Christ have a share in His coming and will rise before the living are changed.
+- 🔄 1 Thessalonians 4:16 (attempt 1, 106 words, 41.18% quotes quality score: 2.5247929462445597, V2 normalized quality score: 75.29, commentator tiers 1-3: 35.27%, 37.87%, 26.85%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: At the Lord's coming, He Himself will descend with a commanding shout and the trumpet blast of God. This is to summon His elect together, as a general would call his army or a charioteer would command his horses. The archangel, possibly Michael, may be the one leading the heavenly hosts. The dead in Christ will rise before the living are changed, indicating that they will not be deprived of any advantage at His coming. Ultimately, Christ will be revealed as the Conqueror, descending from heaven with a voice that reflects His authority as the archangel.
-- 🔄 1 Thessalonians 4:16 (attempt 2, 97 words, 43.28% quotes quality score: 2.254947535696327, V2 normalized quality score: 66.32, commentator tiers 1-3: 31.46%, 32.11%, 36.43%) 
+- Attempt 2 BHT: When the Lord Himself descends, the dead in Christ will rise first, followed by the living, and then we all shall be summoned before Him. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast, which usually accompanies God's glorious manifestation. This shout or command is like that of a general to his army, as the Lord brings about the reunion of the dead and living believers.
+- 🔄 1 Thessalonians 4:16 (attempt 2, 82 words, 41.67% quotes quality score: 2.5238447979923793, V2 normalized quality score: 75.26, commentator tiers 1-3: 34.68%, 36.28%, 29.04%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: At the Lord's coming, He Himself will descend with a commanding shout and the trumpet blast of God, summoning His elect together. The purpose of this description is to emphasize that the dead in Christ will rise before the living are changed, ensuring that they will not be deprived of any advantage at His coming. It is possible that the archangel Michael is leading the heavenly hosts, representing Jesus as a victorious King, reigning over sin, death, and Satan. Ultimately, Christ will be revealed as the Conqueror, descending from heaven with a voice that reflects His authority.
-- 🔄 1 Thessalonians 4:16 (attempt 3, 98 words, 37.14% quotes quality score: 2.359406033089402, V2 normalized quality score: 69.79, commentator tiers 1-3: 33.12%, 31.9%, 34.98%) 
+- Attempt 3 BHT: When the Lord Himself descends, accompanied by a trumpet blast, the dead in Christ shall rise first, followed by the living. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, initiating the final triumph over sin, death, and Satan. This command is like that of a general to his army or a charioteer to his horses. The trumpet blast serves as a summons for God's elect to be gathered together for glorification with Christ.
+- 🔄 1 Thessalonians 4:16 (attempt 3, 85 words, 35.0% quotes quality score: 2.2177649718516648, V2 normalized quality score: 65.08, commentator tiers 1-3: 34.59%, 32.83%, 32.58%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: At the Lord's coming, He will descend with a commanding shout and the trumpet blast of God, summoning His elect together. The dead in Christ will rise before the living are changed, ensuring they are not deprived of any advantage. The archangel, perhaps Michael, may lead the heavenly hosts. This description emphasizes Jesus as a victorious King, triumphing over sin, death, and Satan. Ultimately, Christ will be revealed as the Conqueror, descending from heaven with a voice that reflects His authority.
-- 🔄 1 Thessalonians 4:16 (attempt 4, 82 words, 36.92% quotes quality score: 2.1790762652489395, V2 normalized quality score: 63.79, commentator tiers 1-3: 32.33%, 31.68%, 35.99%) 
+- Attempt 4 BHT: When the Lord Himself descends, the dead in Christ shall rise first, followed by the living. This scene is described as Jesus, the victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast. The purpose of this trumpet blast is to summon the elect together in preparation for their glorification with Christ. The shout or command that the Lord utters is reminiscent of a general addressing his army, an admiral directing his oarsmen, or a charioteer guiding his horses.
+- 🔄 1 Thessalonians 4:16 (attempt 4, 86 words, 34.48% quotes quality score: 2.274675790740629, V2 normalized quality score: 66.97, commentator tiers 1-3: 35.38%, 33.87%, 30.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: When the Lord Himself descends with a commanding shout and the trumpet blast of God, His elect will be summoned together. The dead in Christ will rise before the living are changed, ensuring they are not deprived of any advantage. Possibly led by the archangel Michael, the heavenly hosts will accompany Jesus as a victorious King, triumphing over sin, death, and Satan. Ultimately, Christ will be revealed as the Conqueror, descending from heaven with a voice that reflects His authority.
-- 🔄 1 Thessalonians 4:16 (attempt 5, 80 words, 36.07% quotes quality score: 2.3066826809494465, V2 normalized quality score: 68.04, commentator tiers 1-3: 32.87%, 31.99%, 35.14%) 
+- Attempt 5 BHT: When the Lord Himself descends, the dead in Christ shall rise first, followed by the living. Jesus is represented as a victorious King, giving a word of command to the hosts of heaven, accompanied by a trumpet blast. This shout or command is like that of a general to his army, an admiral to his oarsmen, or a charioteer to his horses. The trumpet blast serves as a summons for God's elect to be gathered together, preparatory to their glorification with Christ.
+- 🔄 1 Thessalonians 4:16 (attempt 5, 83 words, 36.84% quotes quality score: 2.2722484239396796, V2 normalized quality score: 66.89, commentator tiers 1-3: 34.75%, 34.12%, 31.13%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 4:16 bht prompt v0.7 (98 words, 37.14% quotes)
-- quality score: 2.359406033089402, V2 normalized quality score: 69.79, commentator tiers 1-3: 33.12%, 31.9%, 34.98%)
+- ✅ 1 Thessalonians 4:16 bht prompt v0.8 (82 words, 41.67% quotes)
+- quality score: 2.5238447979923793, V2 normalized quality score: 75.26, commentator tiers 1-3: 34.68%, 36.28%, 29.04%)

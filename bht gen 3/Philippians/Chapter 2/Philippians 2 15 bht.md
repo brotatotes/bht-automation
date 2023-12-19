@@ -1,89 +1,89 @@
 # Philippians 2:15 Commentary Help Text
 
 ## BHT:
-Imitating our heavenly Father is the instinctive guide to our duty as His children, more than any external law. As luminaries in the world, we should prove ourselves to be harmless and unblemished, shining both morally and in reputation. We are called to be blameless, unadulterated, and to stand straight in the midst of a crooked generation. Let the purity of our lives shine forth amidst the darkness of the world, so that the grace of God may appear more illustrious. May our conduct be blameless before men and inoffensive to all, shining as lights in the world.
+Children of God are to imitate their heavenly Father by being blameless and without blemish, both in reputation and reality. They are like luminaries, shining brightly in the world, reflecting the light of Christ. By living virtuously and harmlessly, they demonstrate the purity of their lives and the grace of God. Despite living in a crooked and perverse generation, believers are called to stand out as a visible example amidst the darkness, shining with the light of God's truth and love.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The whole clause is a reminiscence of Deut. xxxii. 8..."
-2. "Not 'lights' merely, but luminaries, 'heavenly bodies.'"
-3. "For (result of your thus walking, as concerns myself) a matter of boasting for me against (temporal: reserved for) the day of Christ..."
+1. "The whole clause is a reminiscence of Deut. xxxii. 8. ye shine] indicative, not 'shine ye,' imperative: for this is the position of Christians in the world."
+2. "Not 'lights' merely, but luminaries, 'heavenly bodies.' But this can hardly be satisfactorily given in an English version."
+3. "for (result of your thus walking, as concerns myself) a matter of boasting for me against (temporal: reserved for) the day of Christ, that I did not run (the past tense is from the point of view of that day) for nothing, nor labour for nothing."
 
 ### Jamieson-Fausset-Brown:
 1. "Imitation of our heavenly Father is the instinctive guide to our duty as His children, more than any external law."
-2. "The whole verse tacitly refers by contrast to Deuteronomy 32:5, 'Their spot . . . not . . . of His children . . . a perverse and crooked generation.'"
-3. "Show yourselves as luminaries in the world, as the sun and moon, 'the lights,' or 'great lights,' in the material world or in the firmament."
+2. "Without (giving handle for) reproach."
+3. "Show yourselves."
 
 ### Albert Barnes:
 1. "That ye may be blameless - That you may give no occasion for others to accuse you of having done wrong."
-2. "And harmless - The Greek word (ἀκέραιος akeraios) means properly that which is unmixed; and then pure, sincere."
-3. "As lights in the world - The comparison of Christians with light, often occurs in the Scriptures."
+2. "And harmless - Margin, 'sincere.' The Greek word (ἀκέραιος akeraios) means properly that which is unmixed; and then pure, sincere."
+3. "As lights in the world - The comparison of Christians with light, often occurs in the Scriptures; see at Matthew 5:14, note, 16, note."
 
 ### Marvin Vincent:
-1. "May prove or show yourselves to be harmless, guileless in your own hearts." 
-2. "Unblemished in reputation and in reality." 
-3. "Being seen as luminaries in the world, not only material but moral."
+1. "May prove or show yourselves to be... blameless in the sight of others, guileless in your own hearts." 
+2. "Children... without blemish... unblemished in reputation and in reality."
+3. "Crooked, froward, perverse... warped, twisted."
 
 ### John Calvin:
-1. "You are, it is true, inclosed in the midst of the wicked; but, in the mean time, bear in mind that you are, by God’s adoption, separated from them: let there be, therefore, in your manner of life, conspicuous marks by which you may be distinguished."
-2. "The whole life of unbelievers is, as it were, a labyrinth of various windings, that draw us off from the right way."
+1. "Believers, it is true, live on earth, intermingled with the wicked...so much the more does Paul stir up the Philippians to guard carefully against all corruptions."
+2. "You are, it is true, inclosed in the midst of the wicked; but, in the mean time, bear in mind that you are, by God’s adoption, separated from them: let there be, therefore, in your manner of life, conspicuous marks by which you may be distinguished."
 3. "Believers, it is true, are children of the night, and there is in the world nothing but darkness; but God has enlightened you for this end, that the purity of your life may shine forth amidst that darkness, that his grace may appear the more illustrious."
 
 ### Philip Schaff:
 1. "The advance will be one which will make itself felt by others."
-2. "The 'children of God' shall be known unto men by their works."
+2. "That the 'children of God' shall be known unto men by their works is declared by St, John."
 3. "Christians are to be the lights of the world, shining, however, with the reflected light of Him who is the only true light."
 
 ### Archibald T. Robertson:
-1. "That ye may become blameless, harmless, without blemish." 
-2. "Unmixed, unadulterated as in Romans 16:19."
-3. "Curved as opposed to straight. Perverse."
+1. "Blameless (αμεμπτο). Free from censure (μεμφομα, to blame)."
+2. "Harmless (ακεραιο). Unmixed, unadulterated as in Romans 16:19."
+3. "Without blemish (αμωμα). Without spot, 'unblemished in reputation and in reality' (Vincent)."
 
 ### John Gill:
-1. "That ye may be blameless.... their being blameless before men"
-2. "and harmless... behaving in an inoffensive manner to all men"
-3. "among whom ye shine; or 'shine ye'... The saints are the lights of the world"
+1. "That ye may be blameless.... their being blameless before men.... actively, that they might be without blaming others.... passively, that they might not be blamed by others justly." 
+2. "and harmless; that is, that they might be, and appear to be so; harmless as doves, in imitation of Christ." 
+3. "Among whom ye shine.... as lights in the world.... the saints are the lights of the world.... they are called into marvellous light, and are filled with light spiritual and evangelical."
 
 ### John Wesley:
 1. "That ye may be blameless — Before men."
 2. "And simple — Before God, aiming at him alone."
-3. "Unrebukable in the midst of a crooked — Guileful, serpentine, and perverse generation."
+3. "Unrebukable in the midst of a crooked — Guileful, serpentine, and perverse generation - Such as the bulk of mankind always were."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:12
+- Timestamp: 12-19-2023 13:53:34
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 37.5%
-- BHT Quality Score: 1.8592201790489127
+- BHT Word Count: 82
+- BHT Commentary Usage: 29.63%
+- BHT Quality Score: 1.849763633961048
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'all', 'amidst', 'and', 'any', 'appear', 'are', 'as', 'be', 'before', 'blameless', 'both', 'called', 'children', 'conduct', 'crooked', 'darkness', 'duty', 'external', 'father', 'forth', 'generation', 'god', 'grace', 'guide', 'harmless', 'heavenly', 'his', 'illustrious', 'imitating', 'in', 'inoffensive', 'instinctive', 'is', 'law', 'let', 'lights', 'lives', 'luminaries', 'may', 'men', 'midst', 'morally', 'more', 'of', 'our', 'ourselves', 'prove', 'purity', 'reputation', 'shine', 'shining', 'should', 'so', 'stand', 'straight', 'than', 'that', 'the', 'to', 'unadulterated', 'unblemished', 'we', 'world']
-- ChatGPT injected words (significant words only) (40):
-	['amidst', 'appear', 'blameless', 'called', 'children', 'conduct', 'crooked', 'darkness', 'duty', 'external', 'father', 'forth', 'generation', 'god', 'grace', 'guide', 'harmless', 'heavenly', 'illustrious', 'imitating', 'inoffensive', 'instinctive', 'law', 'let', 'lights', 'lives', 'luminaries', 'men', 'midst', 'morally', 'prove', 'purity', 'reputation', 'shine', 'shining', 'stand', 'straight', 'unadulterated', 'unblemished', 'world']
+- ChatGPT injected words (54):
+	['a', 'amidst', 'and', 'are', 'as', 'being', 'believers', 'blameless', 'blemish', 'both', 'brightly', 'by', 'called', 'children', 'christ', 'crooked', 'darkness', 'demonstrate', 'despite', 'example', 'father', 'generation', 'god', 'grace', 'harmlessly', 'heavenly', 'imitate', 'in', 'light', 'like', 'lives', 'living', 'love', 'luminaries', 'of', 'out', 'perverse', 'purity', 'reality', 'reflecting', 'reputation', 's', 'shining', 'stand', 'the', 'their', 'they', 'to', 'truth', 'virtuously', 'visible', 'with', 'without', 'world']
+- ChatGPT injected words (significant words only) (38):
+	['amidst', 'believers', 'blameless', 'blemish', 'brightly', 'called', 'children', 'christ', 'crooked', 'darkness', 'demonstrate', 'despite', 'example', 'father', 'generation', 'god', 'grace', 'harmlessly', 'heavenly', 'imitate', 'light', 'like', 'lives', 'living', 'love', 'luminaries', 'perverse', 'purity', 'reality', 'reflecting', 'reputation', 's', 'shining', 'stand', 'truth', 'virtuously', 'visible', 'world']
 
 ### Logs
-- Attempt 1 BHT: Imitating our heavenly Father is the instinctive guide to our duty as His children, more than any external law. As luminaries in the world, we should prove ourselves to be harmless and unblemished, shining both morally and in reputation. We are called to be blameless, unadulterated, and to stand straight in the midst of a crooked generation. Let the purity of our lives shine forth amidst the darkness of the world, so that the grace of God may appear more illustrious. May our conduct be blameless before men and inoffensive to all, shining as lights in the world.
-- 🔄 Philippians 2:15 (attempt 1, 98 words, 37.5% quotes quality score: 1.8592201790489127, V2 normalized quality score: 53.16, commentator tiers 1-3: 29.76%, 34.03%, 36.21%) 
+- Attempt 1 BHT: Imitating our heavenly Father is our instinctive guide to our duty as His children. We must show ourselves to be blameless, without blemish in reputation and in reality, in order to prove that we have not run or labored in vain. We are to be like lights, shining in the world with the reflected light of the only true light, Jesus Christ. We must be blameless and harmless, giving no occasion for others to accuse us of wrongdoing, and our advance in righteousness and purity should be felt and seen by others. Though we live in a world of darkness, we have been enlightened by God's adoption, and it is through the purity of our lives that His grace appears more illustrious.
+- 🔄 Philippians 2:15 (attempt 1, 123 words, 43.04% quotes quality score: 1.78345321274407, V2 normalized quality score: 50.64, commentator tiers 1-3: 30.93%, 34.35%, 34.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Imitating our heavenly Father is the instinctive guide to our duty as His children. As luminaries in the world, we should prove ourselves to be harmless and unblemished, shining both morally and in reputation. Let the purity of our lives shine forth amidst the darkness of the world, so that the grace of God may appear more illustrious. May our conduct be blameless before men and shining as lights in the world.
-- 🔄 Philippians 2:15 (attempt 2, 72 words, 38.78% quotes quality score: 1.8191708761053431, V2 normalized quality score: 51.83, commentator tiers 1-3: 29.02%, 36.74%, 34.25%) 
+- Attempt 2 BHT: Imitating our heavenly Father is our guide as His children. We must prove ourselves blameless, without blemish, showing others our true reputation and reality. We are to shine like lights in the world, reflecting Christ's light. Giving no occasion for accusation, our righteousness and purity must be felt and seen by others. Though in a dark world, we have been enlightened by God's adoption, and the purity of our lives displays His grace more illustriously.
+- 🔄 Philippians 2:15 (attempt 2, 77 words, 40.68% quotes quality score: 1.7413881818748207, V2 normalized quality score: 49.24, commentator tiers 1-3: 31.3%, 35.28%, 33.42%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Imitating our heavenly Father is the instinctive guide to our duty as His children, more than any external law. Show yourselves as luminaries in the world, being seen as both material and moral lights. May you prove yourselves to be harmless, unblemished, and without guile in your hearts. Stand straight and unadulterated in the midst of a perverse and crooked generation. Let the purity of your lives shine forth amidst the darkness, so that the grace of God may be more illustrious. May your conduct be blameless before men, shining as lights in the world.
-- 🔄 Philippians 2:15 (attempt 3, 95 words, 37.88% quotes quality score: 1.8093405330853498, V2 normalized quality score: 51.5, commentator tiers 1-3: 33.75%, 30.53%, 35.72%) 
+- Attempt 3 BHT: As children of God, it is our duty to imitate our heavenly Father. We are called to show ourselves blameless, without blemish, both in reputation and reality. Like luminaries in the world, we must shine brightly, reflecting the light of Christ. By living blamelessly and harmlessly, without giving any occasion for accusation, we demonstrate the purity of our lives and the grace of God. Though we exist in a crooked and perverse generation, we are called to be a visible and distinct example in the midst of darkness.
+- 🔄 Philippians 2:15 (attempt 3, 88 words, 36.67% quotes quality score: 1.7597643013468836, V2 normalized quality score: 49.85, commentator tiers 1-3: 31.94%, 31.35%, 36.71%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Imitating our heavenly Father is the instinctive guide to our duty as His children, more than any external law. Show yourselves as luminaries in the world, being seen as both material and moral lights. May you prove yourselves harmless, unblemished, and without guile in your hearts. Stand straight and unadulterated in the midst of a perverse and crooked generation. Let the purity of your lives shine forth amidst the darkness, so that the grace of God may be more illustrious. May your conduct be blameless before men, shining as lights in the world.
-- 🔄 Philippians 2:15 (attempt 4, 93 words, 37.88% quotes quality score: 1.8022833758149694, V2 normalized quality score: 51.27, commentator tiers 1-3: 33.78%, 30.49%, 35.73%) 
+- Attempt 4 BHT: As children of God, we have the responsibility to imitate our heavenly Father. To be blameless and without blemish in reputation and reality is a testament to our commitment. We are called to shine like luminaries in the world, reflecting the light of Christ. Living blamelessly and harmlessly, we can demonstrate the purity of our lives and the grace of God. Though surrounded by a crooked and perverse generation, our lives can stand out as a visible example amidst the darkness.
+- 🔄 Philippians 2:15 (attempt 4, 81 words, 33.33% quotes quality score: 1.676829541902498, V2 normalized quality score: 47.1, commentator tiers 1-3: 31.09%, 31.5%, 37.4%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Imitating our heavenly Father is the instinctive guide to our duty as His children, more than any external law. Show yourselves as luminaries in the world, being seen as both material and moral lights. May you prove yourselves harmless, unblemished, and without guile in your hearts. Stand straight and unadulterated in the midst of a perverse and crooked generation. Let the purity of your lives shine forth amidst darkness, so that the grace of God may be more illustrious. May your conduct be blameless before men, shining as lights in the world.
-- 🔄 Philippians 2:15 (attempt 5, 92 words, 37.88% quotes quality score: 1.8085511471582678, V2 normalized quality score: 51.48, commentator tiers 1-3: 33.88%, 30.57%, 35.55%) 
+- Attempt 5 BHT: Children of God are to imitate their heavenly Father by being blameless and without blemish, both in reputation and reality. They are like luminaries, shining brightly in the world, reflecting the light of Christ. By living virtuously and harmlessly, they demonstrate the purity of their lives and the grace of God. Despite living in a crooked and perverse generation, believers are called to stand out as a visible example amidst the darkness, shining with the light of God's truth and love.
+- 🔄 Philippians 2:15 (attempt 5, 82 words, 29.63% quotes quality score: 1.849763633961048, V2 normalized quality score: 52.85, commentator tiers 1-3: 27.99%, 33.25%, 38.76%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Philippians 2:15 bht prompt v0.7 (98 words, 37.5% quotes)
-- quality score: 1.8592201790489127, V2 normalized quality score: 53.16, commentator tiers 1-3: 29.76%, 34.03%, 36.21%)
+- ✅ Philippians 2:15 bht prompt v0.8 (82 words, 29.63% quotes)
+- quality score: 1.849763633961048, V2 normalized quality score: 52.85, commentator tiers 1-3: 27.99%, 33.25%, 38.76%)

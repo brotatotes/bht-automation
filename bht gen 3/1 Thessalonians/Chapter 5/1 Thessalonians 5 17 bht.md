@@ -1,13 +1,12 @@
 # 1 Thessalonians 5:17 Commentary Help Text
 
 ## BHT:
-Prayer is not just a mere act, but rather a continuous and constant communion with God, unceasingly directing supplications to Him and evermore communing with Him, without allowing prayerless gaps to intervene. We need to be regular and constant in our prayers, maintaining an uninterrupted and constant spirit of prayer. By making prayer a regular part of our lives, we continually seek His guidance and find pleasure in approaching His holy throne. Even a small omission or interruption in our prayers can result in loss and detriment, so we must diligently persist in our devotion.
+We are called to pray without ceasing, in direct supplication to God, maintaining a constant spirit of prayer that fills our hearts and communes with Him. This means praying without intermission, without allowing prayerless gaps to interrupt our times of prayer. We must be diligent in our prayers, not neglecting them or ceasing from them due to sin, discouragement, or carelessness. The reason for this constant and frequent prayer is because believers are always in need, constantly seeking God's mercy and grace to help them in their daily lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Pray, not of the mere spirit of prayer, but...direct supplications to God."
-2. "These may be unceasing, in the heart which is full of his presence."
-3. "Evermore communing with Him."
+1. "pray, not of the mere spirit of prayer...but...of direct supplications to God." 
+2. "These may be unceasing, in the heart which is full of his presence and evermore communing with Him."
 
 ### Jamieson-Fausset-Brown:
 1. 17. The Greek is, "Pray
@@ -16,61 +15,60 @@ Prayer is not just a mere act, but rather a continuous and constant communion wi
 
 
 ### Albert Barnes:
-1. "That we are to be regular and constant in the observance of the stated seasons of prayer."
+1. "We are to observe the duty of prayer in the closet, in the family, and in the assembly convened to call on the name of the Lord." 
 2. "We are to maintain an uninterrupted and constant spirit of prayer."
-3. "There has been evil done to the soul if it is not prepared for communion with God at all times, and if it would not find pleasure in approaching his holy throne."
+3. "That Christian is in a bad state of mind who has suffered himself... to be brought into such a condition that he cannot engage in prayer with proper feelings."
 
 ### Marvin Vincent:
 1. Without ceasing [αδιαλειπτως] . Comp. Romans 9:0; Romans 12:12; Ephesians 6:18; Colossians 4:2.
 
 
 ### Philip Schaff:
-1. "We obey this precept when our prayers are not fitful and intermittent, but steady and persistent; when we are careful to lay all our concerns before God, and when day is linked to day in our life by a regular recurrence to Him as our Guide and Father."
-2. "Paul does not mean that we should employ our whole time in prayer, but that we should not omit those times of devotion we have resolved upon, nor forget to bring any matter before God, nor relax our earnestness through any disappointment or decay of faith."
-3. "In thy prayers wait for God, and think not every hearty prayer can procure everything thou askest... A little omission of any usual exercise of piety cannot happen to thee without some loss and detriment, even though it be upon a considerable cause."
+1. "Pray without ceasing. We obey this precept when our prayers are not fitful and intermittent, but steady and persistent."
+2. "We should, as Barrow says, 'with assiduous urgency drive on the intent of our prayers, never quitting it, or desisting, till our requests are granted, or our desires are accomplished.'"
+3. "In thy prayers wait for God, and think not every hearty prayer can procure everything thou askest. . . . A little omission of any usual exercise of piety cannot happen to thee without some loss and detriment, even though it be upon a considerable cause."
 
 ### John Gill:
-1. "But the meaning is, that believers should be daily, and often found in the performance of this duty; for as their wants daily return upon them, and they are called to fresh service, and further trials and exercises, they have need of more grace, strength, and assistance, and therefore should daily pray for it."
-2. "There is such a thing as mental prayer, praying in the heart, private ejaculations of the soul, which may be sent up to heaven, while a man is engaged in the affairs of life."
-3. "These words are opposed to the practice of such, who either pray not at all, or, having used it, have left it off, or who only pray in a time of trouble and distress."
+1. "Pray without ceasing. Not that saints should be always on their knees...but the meaning is, that believers should be daily, and often found in the performance of this duty." 
+2. "do not leave off praying, or cease from it through the prevalence of sin, the temptations of Satan, or through discouragement, because an answer is not immediately had, or through carelessness and negligence, but continue in it, and be often at it." 
+3. "the reason for this rule of praying with frequency and constancy is, because the saints are always needy, they are always in want of mercies of one kind or another, and therefore should continually go to the throne of grace, and there ask for grace and mercy to help them in time of need."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:42
+- Timestamp: 12-19-2023 14:01:08
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 37.88%
-- BHT Quality Score: 2.1368111417056546
+- BHT Word Count: 90
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 2.293440337536554
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (66):
-	['a', 'act', 'allowing', 'an', 'and', 'approaching', 'be', 'but', 'by', 'can', 'communing', 'communion', 'constant', 'continually', 'continuous', 'detriment', 'devotion', 'diligently', 'directing', 'even', 'evermore', 'find', 'gaps', 'god', 'guidance', 'him', 'his', 'holy', 'in', 'interruption', 'intervene', 'is', 'just', 'lives', 'loss', 'maintaining', 'making', 'mere', 'must', 'need', 'not', 'of', 'omission', 'or', 'our', 'part', 'persist', 'pleasure', 'prayer', 'prayerless', 'prayers', 'rather', 'regular', 'result', 'seek', 'small', 'so', 'spirit', 'supplications', 'throne', 'to', 'unceasingly', 'uninterrupted', 'we', 'with', 'without']
-- ChatGPT injected words (significant words only) (41):
-	['act', 'allowing', 'approaching', 'communing', 'communion', 'constant', 'continually', 'continuous', 'detriment', 'devotion', 'diligently', 'directing', 'evermore', 'find', 'gaps', 'god', 'guidance', 'holy', 'interruption', 'intervene', 'lives', 'loss', 'maintaining', 'making', 'mere', 'need', 'omission', 'persist', 'pleasure', 'prayer', 'prayerless', 'prayers', 'regular', 'result', 'seek', 'small', 'spirit', 'supplications', 'throne', 'unceasingly', 'uninterrupted']
+- ChatGPT injected words (65):
+	['a', 'allowing', 'always', 'and', 'are', 'be', 'because', 'believers', 'called', 'carelessness', 'ceasing', 'communes', 'constant', 'constantly', 'daily', 'diligent', 'direct', 'discouragement', 'due', 'fills', 'for', 'frequent', 'from', 'gaps', 'god', 'grace', 'hearts', 'help', 'him', 'in', 'intermission', 'interrupt', 'is', 'lives', 'maintaining', 'means', 'mercy', 'must', 'need', 'neglecting', 'not', 'of', 'or', 'our', 'pray', 'prayer', 'prayerless', 'prayers', 'praying', 'reason', 's', 'seeking', 'sin', 'spirit', 'supplication', 'that', 'the', 'their', 'them', 'this', 'times', 'to', 'we', 'with', 'without']
+- ChatGPT injected words (significant words only) (39):
+	['allowing', 'believers', 'called', 'carelessness', 'ceasing', 'communes', 'constant', 'constantly', 'daily', 'diligent', 'direct', 'discouragement', 'fills', 'frequent', 'gaps', 'god', 'grace', 'hearts', 'help', 'intermission', 'interrupt', 'lives', 'maintaining', 'means', 'mercy', 'need', 'neglecting', 'pray', 'prayer', 'prayerless', 'prayers', 'praying', 'reason', 's', 'seeking', 'sin', 'spirit', 'supplication', 'times']
 
 ### Logs
-- Attempt 1 BHT: Prayer is not just a mere act, but rather a continuous and constant communion with God. It is not about praying without ceasing in a physical sense, but rather about maintaining a steady and persistent spirit of prayer. We need to be regular and constant in our prayers, not allowing prayerless gaps to interrupt our communication with God. By making prayer a regular part of our lives, we continually seek His guidance and find pleasure in approaching His holy throne. Even a small omission or interruption in our prayers can result in loss and detriment, so we must diligently persist in our devotion.
-- 🔄 1 Thessalonians 5:17 (attempt 1, 103 words, 37.31% quotes quality score: 2.1212938146208233, V2 normalized quality score: 61.87, commentator tiers 1-3: 19.21%, 45.43%, 35.36%) 
+- Attempt 1 BHT: We are called to pray without ceasing, not just in the sense of a general spirit of prayer, but in constant and direct supplication to God. This means that our prayers should be unceasing, filling our hearts with His presence and constantly communing with Him. We should not allow prayerless gaps to interrupt our times of prayer. We fulfill this duty by praying in the closet, the family, and in the assembly with other believers. Prayer should be uninterrupted and constant, and we should not let ourselves fall into a state where we cannot engage in prayer with proper feelings. We must persistently and assiduously pursue the intent of our prayers, continuing until our requests are granted or our desires are accomplished. Our prayers should be fervent and unceasing because as believers, we are always in need of God's mercy and grace.
+- 🔄 1 Thessalonians 5:17 (attempt 1, 143 words, 38.1% quotes quality score: 2.1318903434435432, V2 normalized quality score: 62.23, commentator tiers 1-3: 22.06%, 44.08%, 33.86%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Prayer is not just a mere act, but rather a continuous and constant communion with God, unceasingly directing supplications to Him and evermore communing with Him, without allowing prayerless gaps to intervene. We need to be regular and constant in our prayers, maintaining an uninterrupted and constant spirit of prayer. By making prayer a regular part of our lives, we continually seek His guidance and find pleasure in approaching His holy throne. Even a small omission or interruption in our prayers can result in loss and detriment, so we must diligently persist in our devotion.
-- 🔄 1 Thessalonians 5:17 (attempt 2, 95 words, 37.88% quotes quality score: 2.1368111417056546, V2 normalized quality score: 62.39, commentator tiers 1-3: 19.68%, 45.99%, 34.32%) 
+- Attempt 2 BHT: We are called to pray without ceasing, in direct supplication to God, maintaining a constant spirit of prayer that fills our hearts and communes with Him. This means praying without intermission, without allowing prayerless gaps to interrupt our times of prayer. We must be diligent in our prayers, not neglecting them or ceasing from them due to sin, discouragement, or carelessness. The reason for this constant and frequent prayer is because believers are always in need, constantly seeking God's mercy and grace to help them in their daily lives.
+- 🔄 1 Thessalonians 5:17 (attempt 2, 90 words, 40.0% quotes quality score: 2.293440337536554, V2 normalized quality score: 67.6, commentator tiers 1-3: 21.4%, 39.67%, 38.93%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Prayer is not just a mere act, but rather a continuous and constant communion with God, unceasingly directing supplications to Him. It is about evermore communing with Him, without allowing prayerless gaps to intervene. To obey this precept, we must not have fitful and intermittent prayers, but rather steady and persistent ones. We need to be regular and constant in our prayers, diligently persisting in our devotion. Maintaining a steady spirit of prayer is essential, as even a small omission can result in loss and detriment to our souls.
-- 🔄 1 Thessalonians 5:17 (attempt 3, 89 words, 38.71% quotes quality score: 2.0051171705051307, V2 normalized quality score: 58.01, commentator tiers 1-3: 22.84%, 44.85%, 32.32%) 
+- Attempt 3 BHT: We should pray without ceasing, constantly and persistently seeking God's presence in direct supplication. Our prayers should not be intermittent or fitful, but steady and persistent. This duty extends to our personal prayer times, family prayers, and prayer gatherings with fellow believers. It is important to maintain an uninterrupted and constant spirit of prayer, not allowing ourselves to be in a state where we cannot engage in prayer with the right attitude. Through prayer, we continuously express our dependence on God, seeking His grace and mercy in all aspects of our lives.
+- 🔄 1 Thessalonians 5:17 (attempt 3, 93 words, 38.81% quotes quality score: 2.208165862528768, V2 normalized quality score: 64.76, commentator tiers 1-3: 20.8%, 44.13%, 35.08%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Prayer is not just a mere act, but rather a continuous and constant communion with God. We are called to pray without intermission, without allowing prayerless gaps to interrupt our communication with Him. By maintaining a steady and persistent spirit of prayer, we seek His guidance and find pleasure in approaching His holy throne. This means being regular and constant in our prayers, diligently persisting in our devotion. Even a small omission or interruption in our prayers can result in loss and detriment, emphasizing the importance of unwavering commitment to prayer.
-- 🔄 1 Thessalonians 5:17 (attempt 4, 91 words, 36.36% quotes quality score: 2.047376240178595, V2 normalized quality score: 59.42, commentator tiers 1-3: 20.83%, 44.52%, 34.65%) 
+- Attempt 4 BHT: Praying without ceasing means having a constant and direct communication with God, not allowing prayerless gaps to interrupt our supplications. We should maintain an unceasing spirit of prayer, filling our hearts with His presence and continually seeking Him. This duty encompasses our personal prayer time, family prayers, and congregational worship. It is essential to persistently and fervently pursue our prayers, not neglecting or ceasing them due to sin, discouragement, or lack of immediate answers. Our continuous and frequent prayers reflect our constant need for God's grace and mercy in our lives.
+- 🔄 1 Thessalonians 5:17 (attempt 4, 92 words, 30.43% quotes quality score: 2.2265449046978194, V2 normalized quality score: 65.37, commentator tiers 1-3: 21.78%, 41.5%, 36.72%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In 1 Thessalonians 5:17, we are reminded to pray without ceasing, not merely with the spirit of prayer, but by directing our supplications to God at all times. Prayer is not restricted to physical acts, but encompasses a continuous and unbroken connection with God in our hearts. It is about maintaining an uninterrupted and constant spirit of prayer, diligently persisting in our devotion to Him. By making prayer a regular part of our lives, we continually seek His guidance and find joy in approaching His holy presence.
-- 🔄 1 Thessalonians 5:17 (attempt 5, 85 words, 38.98% quotes quality score: 2.1846280023684153, V2 normalized quality score: 63.98, commentator tiers 1-3: 21.94%, 44.17%, 33.89%) 
+- Attempt 5 BHT: Praying without ceasing involves a constant and direct communication with God, not allowing gaps of prayerlessness to interrupt our supplications. We are to maintain an unceasing spirit of prayer, consistently seeking His presence and communing with Him. This encompasses personal, family, and congregational prayers, demonstrating an uninterrupted and steadfast devotion to prayer. Our continuous and persistent prayers are a reflection of our constant need for God's mercy and grace in our lives, as we seek His assistance and guidance in every situation.
+- 🔄 1 Thessalonians 5:17 (attempt 5, 83 words, 30.51% quotes quality score: 2.191627496481723, V2 normalized quality score: 64.21, commentator tiers 1-3: 22.69%, 43.02%, 34.29%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ 1 Thessalonians 5:17 bht prompt v0.7 (95 words, 37.88% quotes)
-- quality score: 2.1368111417056546, V2 normalized quality score: 62.39, commentator tiers 1-3: 19.68%, 45.99%, 34.32%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Thessalonians 5:17 bht prompt v0.8 (90 words, 40.0% quotes)
+- quality score: 2.293440337536554, V2 normalized quality score: 67.6, commentator tiers 1-3: 21.4%, 39.67%, 38.93%)

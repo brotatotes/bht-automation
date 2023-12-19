@@ -1,38 +1,38 @@
 # Philippians 4:1 Commentary Help Text
 
 ## BHT:
-Even if you see these men rejoicing and being lightly spoken of, stand firm, my joy and crown, in the Lord. The Philippian converts are a chaplet of victory, showing that my ministry has not been in vain. So, stand fast in the Lord, for standing firm is difficult when a panic starts. Be steadfast in the humble example of Christ and in following the example of His servant, me.
+Stand firm, even if you see these men rejoicing or speaking lightly, since we have such a glorious hope and expect such a change. The Philippians are my joy and crown, and I long for them. They are my chaplet of victory, showing that my work has not been in vain. Standing firm can be difficult when panic sets in, but remember that you are citizens of a heavenly country, and the trials and temptations of the world should not lead you astray from your true home.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Wherefore, even if ye see these men rejoicing, even if lightly spoken of, stand firm." (Commentary)
-2. "My joy and crown." (Commentary)
-3. "In the Lord." (Commentary)
+1. "Wherefore, since we have such a home, and look for such a Saviour, and expect such a change:— 'so then, even if you see these men rejoicing, even if lightly spoken of, stand firm.'" 
+2. "My joy and crown." 
+3. "He closes his teaching after his manner with more earnest exhortations, that he may fix it more firmly in men’s minds. And he insinuates himself into their affections with tender appellations: which however are not used in flattery, but in sincere love."
 
 ### Jamieson-Fausset-Brown:
-1. "Wherefore"; since we have such a glorious hope... dearly beloved—repeated again at the close of the verse, implying that his great love to them should be a motive to their obedience.
-2. longed for—"yearned after" in your absence...
-3. stand fast—
+1. "Wherefore"; since we have such a glorious hope... (Philippians 3:20; Philippians 3:21).
+2. Dearly beloved—repeated again at the close of the verse, implying that his great love to them should be a motive to their obedience.
+3. Longed for—"yearned after" in your absence... (Philippians 3:21- :).
 
 ### Albert Barnes:
 1. "The accumulation of epithets of endearment in this verse shows his tender regard for them, and is expressive of his earnest solicitude for their welfare, and his deep conviction of their danger."
 2. "Our chief joy is in our friends; and the chief happiness of a minister of the gospel is in the pure lives of those to whom he ministers."
-3. "The idea here is, that the church at Philippi was that in which the apostle gloried. He regarded it as a high honor to have been the means of founding such a church."
+3. "The church at Philippi was that in which the apostle gloried. He regarded it as a high honor to have been the means of founding such a church."
 
 ### Marvin Vincent:
-1. "The Philippian converts are his chaplet of victory, showing that he has not run in vain." 
-2. "Joy and crown." 
+1. "The Philippian converts are his chaplet of victory, showing that he has not run in vain."
+2. "Joy and crown."
 3. "So stand fast."
 
 ### John Calvin:
-1. "He calls them his joy and crown; because, delighted to see those who had been gained over through his instrumentality persevering in the faith, he hoped to attain that triumph, of which we have spoken, when the Lord will reward with a crown those things which have been accomplished under his guidance."
-2. "When he bids them so stand fast in the Lord, he means that their condition is approved of by him."
-3. "They had already, it is true, given some evidence of their constancy. Paul, however, well knowing human weakness, reckons that they have need of confirmation for the future."
+1. "He concludes his doctrine, as he is wont, with most urgent exhortations, that he may fix it the more firmly in the minds of men."
+2. "They had already, it is true, given some evidence of their constancy. Paul, however, well knowing human weakness, reckons that they have need of confirmation for the future."
+3. "And calling them by lovely and kind names, he endeavors to gain their hearts."
 
 ### Philip Schaff:
-1. "Because you are citizens of a heavenly country, whom the trials and temptations of the world should not be able to draw into forgetfulness of your true home..."
-2. "...that is not his only thought with reference to them. They have given him as a church nothing but delight."
-3. "Be stedfast in the way in which I have been pointing out, bearing in mind the humility of Christ, and the feebler yet more attainable example of me, His servant."
+1. "Because you are citizens of a heavenly country, whom the trials and temptations of the world should not be able to draw into forgetfulness of your true home." 
+2. "They are his own, and treasured in his heart, the great desire of which is that he may see them once more." 
+3. "But it must not be attempted in your own strength. It must be in trust on Christ, and for the love of Christ, or, while thinking you stand, you will be in peril of falling."
 
 ### Archibald T. Robertson:
 1. "Longed for (επιποθητο). Late and rare verbal adjective (here alone in N.T.) from επιποθεω." 
@@ -40,9 +40,9 @@ Even if you see these men rejoicing and being lightly spoken of, stand firm, my 
 3. "Standing firm is difficult when a panic starts."
 
 ### John Gill:
-1. "exhorts to steadfastness in him, under the most tender, affectionate, and endearing appellations"
-2. "they were his 'crown', valued more than the richest diadem"
-3. "Christ is the only foundation where they can stand safe and sure"
+1. "and they were his 'crown', as they were seals of his ministry"
+2. "Christ is the only foundation where they can stand safe and sure"
+3. "so stand fast in his grace, exercising the graces of faith, hope, and love upon him"
 
 ### John Wesley:
 1. So stand — As ye have done hitherto.
@@ -51,36 +51,43 @@ Even if you see these men rejoicing and being lightly spoken of, stand firm, my 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:12
+- Timestamp: 12-19-2023 13:56:38
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 47.06%
-- BHT Quality Score: 1.7160593574309568
+- BHT Word Count: 87
+- BHT Commentary Usage: 48.48%
+- BHT Quality Score: 1.6966011915242971
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (51):
-	['a', 'and', 'are', 'be', 'been', 'being', 'chaplet', 'christ', 'converts', 'crown', 'difficult', 'even', 'example', 'fast', 'firm', 'following', 'for', 'has', 'his', 'humble', 'if', 'in', 'is', 'joy', 'lightly', 'lord', 'me', 'men', 'ministry', 'my', 'not', 'of', 'panic', 'philippian', 'rejoicing', 'see', 'servant', 'showing', 'so', 'spoken', 'stand', 'standing', 'starts', 'steadfast', 'that', 'the', 'these', 'vain', 'victory', 'when', 'you']
-- ChatGPT injected words (significant words only) (27):
-	['chaplet', 'christ', 'converts', 'crown', 'difficult', 'example', 'fast', 'firm', 'following', 'humble', 'joy', 'lightly', 'lord', 'men', 'ministry', 'panic', 'philippian', 'rejoicing', 'servant', 'showing', 'spoken', 'stand', 'standing', 'starts', 'steadfast', 'vain', 'victory']
+- ChatGPT injected words (66):
+	['a', 'and', 'are', 'astray', 'be', 'been', 'but', 'can', 'change', 'chaplet', 'citizens', 'country', 'crown', 'difficult', 'even', 'expect', 'firm', 'for', 'from', 'glorious', 'has', 'have', 'heavenly', 'home', 'hope', 'i', 'if', 'in', 'joy', 'lead', 'lightly', 'long', 'men', 'my', 'not', 'of', 'or', 'panic', 'philippians', 'rejoicing', 'remember', 'see', 'sets', 'should', 'showing', 'since', 'speaking', 'stand', 'standing', 'such', 'temptations', 'that', 'the', 'them', 'these', 'they', 'trials', 'true', 'vain', 'victory', 'we', 'when', 'work', 'world', 'you', 'your']
+- ChatGPT injected words (significant words only) (34):
+	['astray', 'change', 'chaplet', 'citizens', 'country', 'crown', 'difficult', 'expect', 'firm', 'glorious', 'heavenly', 'home', 'hope', 'joy', 'lead', 'lightly', 'long', 'men', 'panic', 'philippians', 'rejoicing', 'remember', 'sets', 'showing', 'speaking', 'stand', 'standing', 'temptations', 'trials', 'true', 'vain', 'victory', 'work', 'world']
 
 ### Logs
-- Attempt 1 BHT: Even if these men are rejoicing and being lightly spoken of, stand firm, my joy and crown, in the Lord. You are dearly beloved, and I longed for you in your absence. The Philippian converts are a chaplet of victory, showing that my ministry has not been in vain. So, stand fast in the Lord, for standing firm is difficult when a panic starts. I deeply care for you and am earnestly concerned for your welfare. You have given me nothing but delight as a church. Be steadfast in the humble example of Christ and in following the example of His servant, me.
-- 🔄 Philippians 4:1 (attempt 1, 103 words, 43.48% quotes quality score: 1.5792669662007057, V2 normalized quality score: 43.85, commentator tiers 1-3: 33.95%, 40.4%, 25.66%) 
+- Attempt 1 BHT: Wherefore, since we have such a home, and look for such a Saviour, and expect such a change, even if you see others rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. I have much love for you, and I want to urge you to obedience. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when panic sets in. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.
+- 🔄 Philippians 4:1 (attempt 1, 106 words, 47.83% quotes quality score: 1.5806352055932482, V2 normalized quality score: 43.9, commentator tiers 1-3: 42.75%, 36.6%, 20.65%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Even if you see these men rejoicing and being lightly spoken of, stand firm, my joy and crown, in the Lord. You are dearly beloved, and I longed for you in your absence. The Philippian converts are a chaplet of victory, showing that my ministry has not been in vain. So, stand fast in the Lord, for standing firm is difficult when a panic starts. Be steadfast in the humble example of Christ and in following the example of His servant, me.
-- 🔄 Philippians 4:1 (attempt 2, 82 words, 45.61% quotes quality score: 1.6369401193822704, V2 normalized quality score: 45.77, commentator tiers 1-3: 38.99%, 35.6%, 25.41%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Wherefore, since we have such a glorious hope and expect such a change, even if you see these men rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when a panic starts. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.
+- 🔄 Philippians 4:1 (attempt 2, 88 words, 48.44% quotes quality score: 1.6244374379162276, V2 normalized quality score: 45.35, commentator tiers 1-3: 44.64%, 34.23%, 21.13%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Even if you see these men rejoicing, stand firm. You are dearly beloved, and I longed for you. The Philippian converts are my joy and crown, showing that my ministry has not been in vain. So, stand fast in the Lord. Be steadfast in the humble example of Christ and in following the example of His servant, me.
-- 🔄 Philippians 4:1 (attempt 3, 58 words, 48.84% quotes quality score: 1.5790585566224986, V2 normalized quality score: 43.85, commentator tiers 1-3: 37.32%, 32.24%, 30.44%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Even if you see these men rejoicing, stand firm, my joy and crown. The Philippian converts are a chaplet of victory, showing that my ministry has not been in vain. Stand fast in the Lord, for standing firm is difficult when a panic starts. Be steadfast in the humble example of Christ and in following the example of His servant, me.
-- 🔄 Philippians 4:1 (attempt 4, 61 words, 46.81% quotes quality score: 1.6823659138597948, V2 normalized quality score: 47.28, commentator tiers 1-3: 40.25%, 32.67%, 27.08%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Even if you see these men rejoicing and being lightly spoken of, stand firm, my joy and crown, in the Lord. The Philippian converts are a chaplet of victory, showing that my ministry has not been in vain. So, stand fast in the Lord, for standing firm is difficult when a panic starts. Be steadfast in the humble example of Christ and in following the example of His servant, me.
-- 🔄 Philippians 4:1 (attempt 5, 70 words, 47.06% quotes quality score: 1.7160593574309568, V2 normalized quality score: 48.4, commentator tiers 1-3: 37.57%, 35.48%, 26.94%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Philippians 4:1 bht prompt v0.7 (70 words, 47.06% quotes)
-- quality score: 1.7160593574309568, V2 normalized quality score: 48.4, commentator tiers 1-3: 37.57%, 35.48%, 26.94%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Wherefore, since we have such a glorious hope and expect such a change, even if you see these men rejoicing or speaking lightly, stand firm. You are my joy and crown, and I long for you. The Philippians are my chaplet of victory, showing that my work has not been in vain. Stand firm, even though it may be difficult when a panic starts. You are citizens of a heavenly country, and the trials and temptations of the world should not draw you away from your true home.
+- 🔄 Philippians 4:1 (attempt 3, 88 words, 48.44% quotes quality score: 1.6244374379162276, V2 normalized quality score: 45.35, commentator tiers 1-3: 44.64%, 34.23%, 21.13%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: Stand firm, even if you see these men rejoicing or speaking lightly, since we have such a glorious hope and expect such a change. The Philippians are my joy and crown, and I long for them. They are my chaplet of victory, showing that my work has not been in vain. Standing firm can be difficult when panic sets in, but remember that you are citizens of a heavenly country, and the trials and temptations of the world should not lead you astray from your true home.
+- 🔄 Philippians 4:1 (attempt 4, 87 words, 48.48% quotes quality score: 1.6966011915242971, V2 normalized quality score: 47.75, commentator tiers 1-3: 42.26%, 34.59%, 23.15%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 5 BHT: Stand firm in your faith, even when faced with the rejoicing or mockery of others. The Philippians are my source of joy and pride, and I deeply desire their spiritual growth. They are a testament to my ministry, like a victory crown. It may be challenging to remain steadfast when panic arises, but remember that you belong to a heavenly kingdom. Do not let the trials and temptations of the world distract you from your ultimate home.
+- 🔄 Philippians 4:1 (attempt 5, 77 words, 42.62% quotes quality score: 1.6263051444444487, V2 normalized quality score: 45.42, commentator tiers 1-3: 35.69%, 40.82%, 23.49%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- ✅ Philippians 4:1 bht prompt v0.8 (87 words, 48.48% quotes)
+- quality score: 1.6966011915242971, V2 normalized quality score: 47.75, commentator tiers 1-3: 42.26%, 34.59%, 23.15%)

@@ -1,43 +1,43 @@
 # 1 Thessalonians 2:8 Commentary Help Text
 
 ## BHT:
-As spiritual parents, Paul, Silas, and Timothy gladly imparted not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. Their love was genuine and cordial, as they were willing to lay down their lives for these dear believers. They continued to show their deep affectionate solicitude and interest in the Thessalonians' spiritual welfare, always pleased to invest not only in their spiritual growth but even in their own personal well-being for the sake of Christ.
+The Apostle Paul and his companions displayed a tender and selfless love towards the Thessalonians, comparing it to the devoted care of a nursing mother for her children. They not only shared the spiritual milk of the word, but willingly risked their own lives for the sake of their growth in Christ. This sacrificial love, reflecting the example of Christ, goes beyond mere words and demonstrates the depth of their affection. It serves as a powerful reminder of the transformative impact that genuine love and selflessness can have in spreading the gospel.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The expression our own lives... shews beyond doubt that he is including here Silas and Timothy with himself."
-2. "The comparison is exceedingly tender and beautiful: as the nursing-mother, cherishing her children, joys to give not only her milk, but her life, for them,—so we, bringing up you as spiritual children, delighted in giving, not only the milk of the word but even (and here it was matter of fact) our own lives, for your nourishment in Christ."
-3. "And that, because ye became very dear unto us."
+1. "The expression our own lives, as remarked above, shews beyond doubt that he is including here Silas and Timothy with himself." 
+2. "The comparison is exceedingly tender and beautiful: as the nursing-mother, cherishing her children, joys to give not only her milk, but her life, for them..."
+3. "...we, bringing up you as spiritual children, delighted in giving, not only the milk of the word, but even (and here it was matter of fact) our own lives, for your nourishment in Christ."
 
 ### Jamieson-Fausset-Brown:
-1. "As a nursing mother is ready to impart not only her milk to them, but her life for them, so we not only imparted gladly the spiritual milk of the word to you, but risked our own lives for your spiritual nourishment." 
-2. "Imitating Him who laid down His life for His friends, the greatest proof of love."
-3. "Ye were become, as having become our spiritual children, dear, dearly beloved."
+1. "As a nursing mother is ready to impart not only her milk to them, but her life for them, so we not only imparted gladly the spiritual milk of the word to you, but risked our own lives for your spiritual nourishment, imitating Him who laid down His life for His friends, the greatest proof of love."
+2. "The Greek implies, literally, to connect one's self with another to be closely attached to another."
+3. "The Greek is stronger, 'we were well content'; 'we would gladly have imparted,' c. 'even our own lives' as we showed in the sufferings we endured in giving you the Gospel."
 
 ### Albert Barnes:
-1. "The sense here is, that Paul was so strongly attached to them that he would have been willing to lay down his life for them."
-2. "We show strong interest for one who is in danger, when we tell him of a way of escape, or for one who is sick, when we tell him of a medicine that will restore him; but we manifest a much higher love when we tell a lost and ruined sinner of the way in which he may be saved."
-3. "His object seems to be to assure them that he did not leave them from any want of love to them, or from the fear of being put to death. It was done from the strong conviction of duty."
+1. "Paul was so strongly attached to them that he would have been willing to lay down his life for them."
+2. "To be willing to communicate the knowledge of the gospel was in itself a strong proof of love."
+3. "There is no method in which we can show so strong an interest in our fellow-men, and so much true benevolence for them, as to go to them and tell them of the way by which they may be rescued from everlasting ruin."
 
 ### Marvin Vincent:
 1. "The figure of the nursing mother is continued. She is not satisfied with nursing the child, but interests herself affectionately in all that concerns it."
 2. "We were pleased. Imperfect tense: we continued to entertain and manifest our affectionate solicitude."
-3. "Better lives."
+3. "Souls. Better lives."
 
 ### Philip Schaff:
-1. "So genuine and cordial was the love of Paul and his companions for the Thessalonians, that they did not merely deliver their message as officials seeking to discharge a responsibility laid upon them, but they were willing to sacrifice their lives for them." 
-2. "This willingness manifested itself in the self-denying and excessive toil of which Paul proceeds to speak."
+1. "Not the gospel of God only, but our own souls also." 
+2. "So genuine and cordial was the love of Paul and his companions for the Thessalonians."
 3. "They were willing to sacrifice their lives for them, if need were."
 
 ### Archibald T. Robertson:
-1. "We were well pleased (ηυδοκουμεν). Imperfect active of ευδοκεω, common verb in later Greek and in N.T., picturing Paul's idea of their attitude while in Thessalonica." 
-2. "Paul often has it with the infinitive as here."
-3. "Paul and his associates held nothing back."
+1. "We were well pleased (ηυδοκουμεν). Imperfect active of ευδοκεω, common verb in later Greek and in N.T., picturing Paul's idea of their attitude while in Thessalonica."
+2. "To impart (μεταδουνα). Second aorist active infinitive of μεταδιδωμ, old verb to share with... Paul and his associates held nothing back."
+3. "Because ye were become very dear to us (διοτ αγαπητο ημιν εγενηθητε). ... A beautiful picture of the growth of Paul's affection for them as should be true with every pastor."
 
 ### John Gill:
-1. "Not of theirs but them; not of glory from them, nor a maintenance by them, but of their spiritual and eternal welfare."
-2. "To have imparted unto you, not the Gospel of God only; the sincere milk of the word, which they did freely, fully, and for their spiritual good and profit, without any regard to any advantage of their own."
-3. "Because ye were dear unto us; both because they were loved by God, redeemed by Christ, regenerated by the Spirit of Christ, and had the image of Christ stamped upon them."
+1. "were as fond of them as a nursing mother is of her children"
+2. "we were willing...to have imparted unto you, not the Gospel of God only; the sincere milk of the word"
+3. "but also our own souls, or 'lives'; which is the highest expression and strongest proof of love that can be given"
 
 ### John Wesley:
 1. To impart our own souls — To lay down our lives for your sake.
@@ -46,38 +46,41 @@ As spiritual parents, Paul, Silas, and Timothy gladly imparted not only the milk
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:42
+- Timestamp: 12-19-2023 13:58:43
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 41.51%
-- BHT Quality Score: 2.1567749393559166
+- BHT Word Count: 92
+- BHT Commentary Usage: 35.38%
+- BHT Quality Score: 2.036449341670598
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['affectionate', 'always', 'and', 'as', 'being', 'believers', 'but', 'christ', 'continued', 'cordial', 'dear', 'deep', 'down', 'even', 'for', 'genuine', 'gladly', 'growth', 'imparted', 'in', 'interest', 'invest', 'lay', 'lives', 'love', 'milk', 'not', 'nourishment', 'of', 'only', 'own', 'parents', 'paul', 'personal', 'pleased', 'sake', 'show', 'silas', 'solicitude', 'spiritual', 'the', 'their', 'these', 'thessalonians', 'they', 'timothy', 'to', 'was', 'welfare', 'well', 'were', 'willing', 'word']
-- ChatGPT injected words (significant words only) (31):
-	['affectionate', 'believers', 'christ', 'continued', 'cordial', 'dear', 'deep', 'genuine', 'gladly', 'growth', 'imparted', 'interest', 'invest', 'lay', 'lives', 'love', 'milk', 'nourishment', 'parents', 'paul', 'personal', 'pleased', 'sake', 'silas', 'solicitude', 'spiritual', 'thessalonians', 'timothy', 'welfare', 'willing', 'word']
+- ChatGPT injected words (65):
+	['a', 'affection', 'and', 'apostle', 'as', 'beyond', 'but', 'can', 'care', 'children', 'christ', 'companions', 'comparing', 'demonstrates', 'depth', 'devoted', 'displayed', 'example', 'for', 'genuine', 'goes', 'gospel', 'growth', 'have', 'her', 'his', 'impact', 'in', 'it', 'lives', 'love', 'mere', 'milk', 'mother', 'not', 'nursing', 'of', 'only', 'own', 'paul', 'powerful', 'reflecting', 'reminder', 'risked', 'sacrificial', 'sake', 'selfless', 'selflessness', 'serves', 'shared', 'spiritual', 'spreading', 'tender', 'that', 'the', 'their', 'thessalonians', 'they', 'this', 'to', 'towards', 'transformative', 'willingly', 'word', 'words']
+- ChatGPT injected words (significant words only) (42):
+	['affection', 'apostle', 'care', 'children', 'christ', 'companions', 'comparing', 'demonstrates', 'depth', 'devoted', 'displayed', 'example', 'genuine', 'goes', 'gospel', 'growth', 'impact', 'lives', 'love', 'mere', 'milk', 'mother', 'nursing', 'paul', 'powerful', 'reflecting', 'reminder', 'risked', 'sacrificial', 'sake', 'selfless', 'selflessness', 'serves', 'shared', 'spiritual', 'spreading', 'tender', 'thessalonians', 'transformative', 'willingly', 'word', 'words']
 
 ### Logs
-- Attempt 1 BHT: As spiritual parents, Paul, Silas, and Timothy delighted in giving not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. They were so strongly attached to them that they would have willingly laid down their lives for them. Their love was not merely a sense of duty, but genuine and cordial, as they were even willing to sacrifice themselves if necessary. The Thessalonians were dear to them, not just in words, but in action, as they continued to manifest their affectionate solicitude and interest in their spiritual welfare.
-- 🔄 1 Thessalonians 2:8 (attempt 1, 98 words, 42.62% quotes quality score: 2.1007140999581657, V2 normalized quality score: 61.19, commentator tiers 1-3: 26.1%, 43.34%, 30.56%) 
+- Attempt 1 BHT: As the commentators note, the Apostle Paul and his associates treated the Thessalonians with a deep affection, akin to a nursing mother's love for her children. They were not content with merely sharing the milk of the word, but were willing to give even their own lives for the spiritual nourishment of the Thessalonians. This unyielding dedication, imitating Christ's sacrificial love, demonstrates the highest expression and strongest proof of love. It is a beautiful picture of the growth of Paul's affection for them and a reminder of the profound impact that genuine love and selflessness can have in sharing the gospel.
+- 🔄 1 Thessalonians 2:8 (attempt 1, 104 words, 37.68% quotes quality score: 2.037768286189336, V2 normalized quality score: 59.1, commentator tiers 1-3: 34.15%, 36.88%, 28.97%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
+- Attempt 2 BHT: The Apostle Paul and his companions displayed a tender and selfless love towards the Thessalonians, comparing it to the devoted care of a nursing mother for her children. They not only shared the spiritual milk of the word, but willingly risked their own lives for the sake of their growth in Christ. This sacrificial love, reflecting the example of Christ, goes beyond mere words and demonstrates the depth of their affection. It serves as a powerful reminder of the transformative impact that genuine love and selflessness can have in spreading the gospel.
+- 🔄 1 Thessalonians 2:8 (attempt 2, 92 words, 35.38% quotes quality score: 2.036449341670598, V2 normalized quality score: 59.05, commentator tiers 1-3: 33.94%, 36.13%, 29.92%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: As spiritual parents, Paul, Silas, and Timothy delighted in giving not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. They were strongly attached to them, willing to lay down their lives for them. Their love was genuine and cordial, as they manifested their affectionate solicitude and interest in the spiritual welfare of the Thessalonians. The Thessalonians were dear to them, and they continued to show their love by sacrificing themselves if necessary.
-- 🔄 1 Thessalonians 2:8 (attempt 2, 83 words, 43.14% quotes quality score: 2.073075942398753, V2 normalized quality score: 60.27, commentator tiers 1-3: 25.94%, 42.69%, 31.37%) 
+- Attempt 3 BHT: The Apostle Paul and his companions showed a remarkable love for the Thessalonians, likening it to the care of a nursing mother for her children. They not only shared the spiritual milk of the word but were even willing to risk their lives for their spiritual nourishment, imitating Jesus' greatest proof of love. This deep affection went beyond words, demonstrating their sincere and continuing concern for the Thessalonians' well-being. It serves as a beautiful example of the love and sacrifice that should accompany the sharing of the gospel.
+- 🔄 1 Thessalonians 2:8 (attempt 3, 89 words, 37.1% quotes quality score: 2.0186340302433154, V2 normalized quality score: 58.46, commentator tiers 1-3: 33.85%, 37.88%, 28.27%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: As spiritual parents, Paul, Silas, and Timothy gladly imparted not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. Their love was genuine and cordial, as they were willing to lay down their lives for these dear believers. They continued to show their deep affectionate solicitude and interest in the Thessalonians' spiritual welfare, always pleased to invest not only in their spiritual growth but even in their own personal well-being for the sake of Christ.
-- 🔄 1 Thessalonians 2:8 (attempt 3, 86 words, 41.51% quotes quality score: 2.1567749393559166, V2 normalized quality score: 63.05, commentator tiers 1-3: 28.82%, 35.81%, 35.36%) 
+- Attempt 4 BHT: The Apostle Paul and his companions went beyond sharing the milk of the word with the Thessalonians. They willingly risked their lives for their spiritual nourishment, a sincere and continuing sign of their deep affection. This sacrificial love, resembling a nursing mother's care for her children, imitated the selfless act of Jesus laying down His life for His friends. Such devotion demonstrates the highest expression of love and exemplifies the level of care and commitment required in spreading the Gospel message.
+- 🔄 1 Thessalonians 2:8 (attempt 4, 82 words, 25.42% quotes quality score: 1.9140126400398327, V2 normalized quality score: 54.98, commentator tiers 1-3: 33.02%, 37.75%, 29.23%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: As spiritual parents, Paul, Silas, and Timothy delighted in giving not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. Their love was genuine and cordial, manifesting in their affectionate solicitude and interest in the Thessalonians' spiritual welfare. They were willing to sacrifice themselves, showing a deep attachment to these dear believers. The Thessalonians, having become their spiritual children, were loved and cherished by Paul and his associates.
-- 🔄 1 Thessalonians 2:8 (attempt 4, 78 words, 40.0% quotes quality score: 1.9944245227038646, V2 normalized quality score: 57.66, commentator tiers 1-3: 29.4%, 38.58%, 32.01%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As spiritual parents, Paul, Silas, and Timothy gladly imparted not only the milk of the word but even their own lives for the nourishment of the Thessalonians in Christ. Their love was genuine and cordial, as they were willing to lay down their lives for these dear believers. They continued to show their deep affectionate solicitude and interest in the Thessalonians' spiritual welfare, always pleased to invest not only in their spiritual growth but even in their own personal well-being for the sake of Christ.
-- 🔄 1 Thessalonians 2:8 (attempt 5, 86 words, 41.51% quotes quality score: 2.1567749393559166, V2 normalized quality score: 63.05, commentator tiers 1-3: 28.82%, 35.81%, 35.36%) 
+- Attempt 5 BHT: As the commentators note, the Apostle Paul and his companions treated the Thessalonians with a deep affection, akin to a nursing mother's love for her children. They were not content with merely sharing the milk of the word but were willing to give even their own lives for the spiritual nourishment of the Thessalonians. This unyielding dedication demonstrates the highest expression and strongest proof of love. It is a beautiful picture of the growth of Paul's affection and a reminder of the profound impact that genuine love and selflessness can have in sharing the gospel.
+- 🔄 1 Thessalonians 2:8 (attempt 5, 97 words, 38.46% quotes quality score: 1.9705742492137217, V2 normalized quality score: 56.86, commentator tiers 1-3: 33.59%, 37.02%, 29.39%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 2:8 bht prompt v0.7 (86 words, 41.51% quotes)
-- quality score: 2.1567749393559166, V2 normalized quality score: 63.05, commentator tiers 1-3: 28.82%, 35.81%, 35.36%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!
+- ✅ 1 Thessalonians 2:8 bht prompt v0.8 (92 words, 35.38% quotes)
+- quality score: 2.036449341670598, V2 normalized quality score: 59.05, commentator tiers 1-3: 33.94%, 36.13%, 29.92%)

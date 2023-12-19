@@ -1,7 +1,7 @@
 # 1 Thessalonians 5:15 Commentary Help Text
 
 ## BHT:
-We are called to follow after the good and not to retaliate with evil, whether towards believers or non-believers. This means refraining from seeking revenge and instead choosing to bestow favors upon even our enemies. As Christians, we are called to a higher standard of conduct, showing kindness and generosity to all. This teaching sets us apart and reflects the example of Jesus, who showed us the way of forgiveness and love. Let us seek to do good and honor God in all our actions.
+Christians are warned not to retaliate with evil for evil, but rather to pursue what is good and beneficial to others, regardless of whether they are fellow believers or non-believers. This teaching goes against the common practice of retaliation, emphasizing the unique standard of conduct set by Christianity. By patiently enduring and refraining from inflicting harm, believers can demonstrate their faith, love, and commitment to the glory of God by bestowing favors even upon their enemies.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -22,34 +22,34 @@ follow—as a matter of
 
 
 ### Albert Barnes:
-1. "The moment we feel ourselves acting from a desire to 'return evil for evil,' that moment we are acting wrong."
-2. "But ever follow that which is good - Which is benevolent, kind, just, generous"
+1. "The moment we feel ourselves acting from a desire to 'return evil for evil,' that moment we are acting wrong." 
+2. "It may be right to defend our lives and the lives of our friends... but in no case should the motive be to do them wrong for the evil which they have done us."
 3. "To every man we are to do good as we are able - no matter what they do to us."
 
 ### Marvin Vincent:
-1. "Not to be limited to profitable, beneficent (as Lightfoot, Lunemann), although ajgaqov commonly includes a corresponding beneficent relation of its subject to another subject, which is emphasized here by to all men." 
-2. "It may also include what is absolutely, morally good, as Romans 2:10."
+1. "That which is good [το αγαθον] . Not to be limited to profitable, beneficent... although ajgaqov commonly includes a corresponding beneficent relation of its subject to another subject..." 
+2. "It may also include what is absolutely, morally good..."
 3. "So Hebrews 13:21; 1 Peter 3:11; Romans 7:18."
 
 ### John Calvin:
-1. "This doctrine is peculiar to Christians—not to retaliate injuries, but to endure them patiently."
-2. "But as vengeance is forbidden us in every case, without exception, however wicked the man that has injured us may be, we must refrain from inflicting injury."
-3. "The first step, therefore, in the exercise of patience, is not to revenge injuries; the second is to bestow favors even upon enemies."
+1. "This doctrine is peculiar to Christians — not to retaliate injuries, but to endure them patiently."
+2. "For particular excuses are wont to be brought forward in some cases. 'What! why should it be unlawful for me to avenge myself on one that is so worthless, so wicked, and so cruel?' But as vengeance is forbidden us in every case, without exception, however wicked the man that has injured us may be, we must refrain from inflicting injury."
+3. "The first step, therefore, in the exercise of patience, is, not to revenge injuries; the second is, to bestow favors even upon enemies."
 
 ### Philip Schaff:
-1. "But this is what I long ago held and still do hold, that to do wrong and to return wrong to any one is never allowable, nor to protect oneself from wrong by doing wrong."
-2. "Christianity may claim this peculiar merit, that it has set up that type of conduct as a general law for every man, which among the ancients was admired as the exceptive virtue of the few." 
-3. "Buddha and Confucius more nearly approached to the Christian law of forgiveness; but until Christ by His life and death showed it to be the law for God and man alike, no teacher, however he may have had glimpses of the truth, could hopefully promulgate it as a duty."
+1. "We must not then do wrong or do evil to any man, whatever we suffer from men. . . . to do wrong and to return wrong to any one is never allowable." 
+2. "Christianity may claim this peculiar merit, that it has set up that type of conduct as a general law for every man, which among the ancients was admired as the exceptive virtue of the few."
+3. "'In the sense of kind and beneficent.'"
 
 ### Archibald T. Robertson:
 1. "See to it that no one render unto any one evil for evil." 
-2. "Retaliation, condemned by Jesus...usually takes the form of 'evil for evil,' rather than 'good for good.'"
-3. "Follow after the good."
+2. "Retaliation, condemned by Jesus and by Paul, usually takes the form of 'evil for evil,' rather than 'good for good.'"
+3. "Follow after, keep up the chase after the good."
 
 ### John Gill:
-1. "See that none render evil for evil unto any man....Not an ill word for an ill word, railing for railing, nor an ill action for an ill action." 
-2. "But ever follow that which is good; honestly, morally, pleasantly, and profitably good; even every good work, which is according to the will of God, is done in faith, from love, and to the glory of God."
-3. "Both among yourselves, and to all men; not only to the household of faith, though to them especially, and in the first place, but to all other men, as opportunity offers, even to our enemies, and them that persecute us, and despitefully use us."
+1. "See that none render evil for evil unto any man....not to a brother, a believer in Christ...should watch over one another, and see to it, that no such practice is found in each other."
+2. "But ever follow that which is good...done in faith, from love, and to the glory of God...acts of beneficence and liberality to the poor...to be followed and pursued after, and that always."
+3. "Both among yourselves, and to all men...to our enemies, and them that persecute us...do good to their bodies, and to their souls, as much as in you lies."
 
 ### John Wesley:
 1. See that none|-Watch over both yourselves and each other.
@@ -59,39 +59,39 @@ Follow that which is good — Do it resolutely and perseveringly.
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:50
+- Timestamp: 12-19-2023 14:01:25
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 38.71%
-- BHT Quality Score: 1.7930953083279273
+- BHT Word Count: 77
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 1.7625736384617041
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (62):
-	['a', 'actions', 'after', 'all', 'and', 'apart', 'are', 'as', 'believers', 'bestow', 'called', 'choosing', 'christians', 'conduct', 'do', 'enemies', 'even', 'evil', 'example', 'favors', 'follow', 'forgiveness', 'from', 'generosity', 'god', 'good', 'higher', 'honor', 'in', 'instead', 'jesus', 'kindness', 'let', 'love', 'means', 'non', 'not', 'of', 'or', 'our', 'reflects', 'refraining', 'retaliate', 'revenge', 'seek', 'seeking', 'sets', 'showed', 'showing', 'standard', 'teaching', 'the', 'this', 'to', 'towards', 'upon', 'us', 'way', 'we', 'whether', 'who', 'with']
-- ChatGPT injected words (significant words only) (38):
-	['actions', 'apart', 'believers', 'bestow', 'called', 'choosing', 'christians', 'conduct', 'enemies', 'evil', 'example', 'favors', 'follow', 'forgiveness', 'generosity', 'god', 'good', 'higher', 'honor', 'instead', 'jesus', 'kindness', 'let', 'love', 'means', 'non', 'reflects', 'refraining', 'retaliate', 'revenge', 'seek', 'seeking', 'sets', 'showed', 'showing', 'standard', 'teaching', 'way']
+- ChatGPT injected words (60):
+	['against', 'and', 'are', 'believers', 'beneficial', 'bestowing', 'but', 'by', 'can', 'christianity', 'christians', 'commitment', 'common', 'conduct', 'demonstrate', 'emphasizing', 'enduring', 'enemies', 'even', 'evil', 'faith', 'favors', 'fellow', 'for', 'from', 'glory', 'god', 'goes', 'good', 'harm', 'inflicting', 'is', 'love', 'non', 'not', 'of', 'or', 'others', 'patiently', 'practice', 'pursue', 'rather', 'refraining', 'regardless', 'retaliate', 'retaliation', 'set', 'standard', 'teaching', 'the', 'their', 'they', 'this', 'to', 'unique', 'upon', 'warned', 'what', 'whether', 'with']
+- ChatGPT injected words (significant words only) (36):
+	['believers', 'beneficial', 'bestowing', 'christianity', 'christians', 'commitment', 'common', 'conduct', 'demonstrate', 'emphasizing', 'enduring', 'enemies', 'evil', 'faith', 'favors', 'fellow', 'glory', 'god', 'goes', 'good', 'harm', 'inflicting', 'love', 'non', 'patiently', 'practice', 'pursue', 'refraining', 'regardless', 'retaliate', 'retaliation', 'set', 'standard', 'teaching', 'unique', 'warned']
 
 ### Logs
-- Attempt 1 BHT: We are reminded to follow after the good and not to retaliate with evil, whether it be towards a fellow believer or someone outside of the faith. The call to do good applies to everyone, and we are urged to earnestly pursue it. This means that we should not only do what is beneficial and morally right, but also to engage in acts of kindness and generosity towards others. As Christians, we are called to a higher standard of conduct, one that rejects the temptation to seek revenge and instead seeks to do good to those who have wronged us. This teaching is unique to Christianity and sets us apart. We are to refrain from inflicting injuries and instead bestow favors, even upon our enemies, following the example set by Christ himself.
-- 🔄 1 Thessalonians 5:15 (attempt 1, 132 words, 46.07% quotes quality score: 1.7602748313588328, V2 normalized quality score: 49.87, commentator tiers 1-3: 20.99%, 41.78%, 37.23%) 
+- Attempt 1 BHT: In this verse, there is a warning against retaliating with evil for evil, both towards fellow Christians and non-believers. Christians are called to pursue what is morally good and beneficial to others, rather than seeking revenge. This teaching stands in contrast to the common practice of retaliation and reflects the unique standard of conduct set by Christianity. Christians are encouraged to endure patiently, refrain from inflicting harm, and even bestow favors upon their enemies. By following this command, believers can demonstrate their faith, love, and commitment to the glory of God.
+- 🔄 1 Thessalonians 5:15 (attempt 1, 92 words, 36.23% quotes quality score: 1.7485856431888198, V2 normalized quality score: 49.48, commentator tiers 1-3: 24.34%, 34.89%, 40.76%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Christians are warned not to retaliate with evil for evil, but rather to pursue what is good and beneficial to others, regardless of whether they are fellow believers or non-believers. This teaching goes against the common practice of retaliation, emphasizing the unique standard of conduct set by Christianity. By patiently enduring and refraining from inflicting harm, believers can demonstrate their faith, love, and commitment to the glory of God by bestowing favors even upon their enemies.
+- 🔄 1 Thessalonians 5:15 (attempt 2, 77 words, 40.0% quotes quality score: 1.7625736384617041, V2 normalized quality score: 49.95, commentator tiers 1-3: 22.83%, 38.45%, 38.72%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Christians are called to heed the warning against retaliating with evil for evil, extending it to both believers and non-believers. Instead, they are to diligently pursue what is morally good and beneficial, refraining from revenge. This teaching defies the common practice of retaliation and showcases Christianity's distinctive standard of conduct. Through patient endurance and the bestowal of favors upon enemies, believers exemplify their faith, love, and commitment to glorifying God. This distinctive doctrine sets Christians apart, prohibiting the infliction of harm and requiring the persistent pursuit of goodness.
+- 🔄 1 Thessalonians 5:15 (attempt 3, 90 words, 26.87% quotes quality score: 1.7124024613630109, V2 normalized quality score: 48.28, commentator tiers 1-3: 23.59%, 35.39%, 41.02%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: We are called to follow after the good and not retaliate with evil, whether towards believers or non-believers. We should pursue what is beneficial and morally right, but also engage in acts of kindness and generosity. This teaching is unique to Christianity and sets us apart. We are to refrain from inflicting injuries and instead bestow favors, even upon enemies, following the example set by Jesus. This calling applies to all, urging us to do good to those who have wronged us.
-- 🔄 1 Thessalonians 5:15 (attempt 2, 83 words, 45.31% quotes quality score: 1.7585487327603175, V2 normalized quality score: 49.81, commentator tiers 1-3: 21.79%, 40.76%, 37.45%) 
+- Attempt 4 BHT: Christians are warned against retaliating with evil when wronged, directed towards both believers and non-believers. Instead, they are urged to actively pursue what is morally good and beneficial, rejecting revenge. This teaching challenges the cultural norm of retaliation and highlights the unique standard of conduct within Christianity. By patiently enduring and even bestowing kindness upon enemies, believers exhibit their faith, love, and commitment to honoring God. This principle is distinctive to Christianity, forbidding harm towards others and promoting the continuous pursuit of goodness.
+- 🔄 1 Thessalonians 5:15 (attempt 4, 84 words, 30.3% quotes quality score: 1.6649784390355347, V2 normalized quality score: 46.7, commentator tiers 1-3: 22.66%, 38.73%, 38.61%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: We are reminded to not retaliate with evil, but to follow after the good, showing kindness and generosity to all. This calling applies to both believers and non-believers alike. As Christians, we are called to a higher standard of conduct, refraining from revenge and instead choosing to bestow favors upon even our enemies. This sets us apart and reflects the teachings of Jesus, who showed us the way of forgiveness and love. Let us seek to do good and honor God in all our actions.
-- 🔄 1 Thessalonians 5:15 (attempt 3, 86 words, 37.1% quotes quality score: 1.7349083040180249, V2 normalized quality score: 49.03, commentator tiers 1-3: 21.95%, 41.21%, 36.84%) 
+- Attempt 5 BHT: Christians are cautioned against retaliating with evil, be it towards fellow believers or non-believers. Instead, they are urged to earnestly pursue what is morally good and beneficial, resisting the temptation to seek revenge. This teaching challenges the prevalent practice of exchanging evil for evil and highlights the distinctive standard of conduct set by Christianity. By patiently enduring and graciously bestowing kindness upon enemies, believers demonstrate their faith, love, and commitment to glorifying God. This principle of refraining from harm and actively pursuing goodness is a defining characteristic of the Christian faith.
+- 🔄 1 Thessalonians 5:15 (attempt 5, 92 words, 29.58% quotes quality score: 1.7361962352614335, V2 normalized quality score: 49.07, commentator tiers 1-3: 23.2%, 38.63%, 38.17%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: We are called to follow after the good and not to retaliate with evil, whether towards believers or non-believers. This means refraining from seeking revenge and instead choosing to bestow favors upon even our enemies. As Christians, we are called to a higher standard of conduct, showing kindness and generosity to all. This teaching sets us apart and reflects the example of Jesus, who showed us the way of forgiveness and love. Let us seek to do good and honor God in all our actions.
-- 🔄 1 Thessalonians 5:15 (attempt 4, 86 words, 38.71% quotes quality score: 1.7930953083279273, V2 normalized quality score: 50.96, commentator tiers 1-3: 21.61%, 42.24%, 36.15%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: As Christians, we are called to follow after the good and refrain from retaliating with evil, whether towards believers or non-believers. This requires us to reject the temptation to seek revenge and instead strive for acts of kindness and generosity. This unique teaching emphasizes doing what is morally right and beneficial, while also extending these behaviors to all people, even those who have wronged us. By embracing this standard of conduct, we reflect the example of Jesus and demonstrate our commitment to living out His teachings.
-- 🔄 1 Thessalonians 5:15 (attempt 5, 87 words, 44.29% quotes quality score: 1.7401872930449787, V2 normalized quality score: 49.2, commentator tiers 1-3: 21.58%, 43.16%, 35.26%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 5:15 bht prompt v0.7 (86 words, 38.71% quotes)
-- quality score: 1.7930953083279273, V2 normalized quality score: 50.96, commentator tiers 1-3: 21.61%, 42.24%, 36.15%)
+- ✅ 1 Thessalonians 5:15 bht prompt v0.8 (77 words, 40.0% quotes)
+- quality score: 1.7625736384617041, V2 normalized quality score: 49.95, commentator tiers 1-3: 22.83%, 38.45%, 38.72%)

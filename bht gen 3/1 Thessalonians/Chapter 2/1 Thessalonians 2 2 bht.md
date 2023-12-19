@@ -1,43 +1,43 @@
 # 1 Thessalonians 2:2 Commentary Help Text
 
 ## BHT:
-Amidst the conflicts and personal indignities faced by Paul and Silas, their boldness in speaking the Gospel was not mere natural courage, but a result of their confidence in God. Despite the opposition and abuse they experienced, they did not shy away from calling things by their right names. It was their unwavering faith and reliance on God that gave them the courage to continue proclaiming the message of salvation, even in the face of great opposition. Their triumph in Thessalonica was not founded on self-interest but on their deep conviction that the gospel came from God Himself.
+Despite facing conflicts and suffering before, we were bold in our God to speak the Gospel of God with much contention. This boldness stemmed from our confidence and trust in God as our God. The insults and mistreatment we endured in Philippi did not silence us, but rather fueled our determination and courage. It was not fanaticism, but a firm reliance on God that empowered us to continue preaching fearlessly in Thessalonica. Our sufferings and endurance served as proof that our cause was just and worth fighting for, and that the message we proclaimed came directly from God himself.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "We had the confidence to speak, our God, because all true confidence is in God as our God."
+1. "Our God, because all true confidence is in God as our God."
 2. "This word reproduces the feeling with which Paul and Silas opened their ministry among them."
 3. "in (amidst) much conflict, viz. under outward circumstances conflicting much with our work: and therefore that work could be no empty thing, which was thus maintained."
 
 ### Jamieson-Fausset-Brown:
-1. "a circumstance which would have deterred mere natural, unspiritual men from further preaching."
+1. "A circumstance which would have deterred mere natural, unspiritual men from further preaching."
 2. "The ground of our boldness in speaking was the realization of God as 'OUR God.'"
-3. "striving earnestness... But here outward conflict with persecutors, rather than inward and mental, was what the missionaries had to endure."
+3. "Striving earnestness [as] competitors in a contest."
 
 ### Albert Barnes:
-1. "It is not wrong to call things by their right names, and when we have been abused, it is not necessary that we should attempt to smooth the matter over by saying that it was not so."
-2. "Paul evidently appeals to this in order to show them that they were not impostors, and that they were not influenced by the hope of ease or of selfish gains."
-3. "The triumph of the gospel there was secured only by an effort of the highest kind, and by overcoming the most formidable opposition."
+1. "The shame of the treatment consisted in the fact that it was wholly undeserved; that it was contrary to the laws; and that it was accompanied with circumstances designed to make their punishment as ignominious as possible."
+2. "It is not wrong to call things by their right names, and when we have been abused, it is not necessary that we should attempt to smooth the matter over by saying that it was not so."
+3. "Paul evidently appeals to this in order to show them that they were not impostors, and that they were not influenced by the hope of ease or of selfish gains."
 
 ### Marvin Vincent:
-1. "Paul's sensitiveness to personal indignity appears in the narrative in Acts 16:0, which gives the historical explanation of the two words."
-2. "Their boldness was not mere natural courage, but was inspired by God."
-3. "It points to the monotheistic character of the gospel."
+1. "Having suffered before [προπαθοντες] . N. T. o. Although we had suffered."
+2. "Having been shamefully entreated [υβρισθεντες] . Comp. Matthew 22:32; Acts 14:5."
+3. "We waxed bold [επαρρησιασαμεθα] . Only once elsewhere in Paul, Ephesians 6:20. Frequent in Acts."
 
 ### Philip Schaff:
-1. "Such breaks in the consecution of his thoughts are not infrequent in Paul’s writing."
-2. "There was much in Thessalonica to alarm and silence him: there was that which produced in his own spirit much commotion and perturbation; but amidst this inward disturbance his wrestling faith triumphed, and by leaning on God he derived courage sufficient for the emergency."
+1. "Paul speaks of his fearlessness in preaching, and permits his readers to infer the results."
+2. "Paul appeals to his voluntary and continued endurance of suffering and to his braving of perils, in proof that his cause was a good one, worth suffering for."
 3. "The gospel of God, so called because the message comes from God, and because He also originates the salvation of which it speaks."
 
 ### Archibald T. Robertson:
-1. "More than the bodily suffering it was the personal indignity that had been offered to him as a Roman citizen." (Commentary)
-2. "The insult in Philippi did not close Paul's mouth, but had precisely the opposite effect 'in our God.'" (Commentary)
-3. "It was not wild fanaticism, but determined courage and confidence in God that spurred Paul to still greater boldness in Thessalonica." (Commentary)
+1. "More than the bodily suffering it was the personal indignity that had been offered to him as a Roman citizen" (Milligan), for which account see Acts 16:16-40, an interesting example of how Acts and the Epistles throw light on each other.
+2. The insult in Philippi did not close Paul's mouth, but had precisely the opposite effect "in our God." It was not wild fanaticism, but determined courage and confidence in God that spurred Paul to still greater boldness in Thessalonica.
+3. This figure of the athletic games (αγων) may refer to outward conflict like Philippians 1:30 or inward anxiety (Colossians 2:1). He had both in Thessalonica.
 
 ### John Gill:
-1. "and were shamefully entreated, as ye know, at Philippi"
-2. "we were bold in our God to speak unto you the Gospel of God with much contention"
-3. "and all this was 'in our God'; or 'by the confidence' of our God"
+1. "But even after that we had suffered before,.... Before they came to Thessalonica, which they would not have done, had their ministry been a light and empty one in itself, and unprofitable to others; and especially had this been the case, they would never have rashly engaged in it again, and exposed themselves to fresh sufferings and dangers, as they did..." 
+2. "we were bold in our God to speak unto you the Gospel of God with much contention: and which still made it more manifestly appear, that the errand they came upon was a matter of importance, and that they did not proceed on a slight foundation..."
+3. "The Syriac version renders it the 'Gospel of Christ'; see Romans 1:16 and it being so, they 'were bold to speak it'; or they spoke it both with liberty of mind, the Spirit of God being with them, and with freedom of speech, a door of utterance being opened for them..."
 
 ### John Wesley:
 1. We had suffered — In several places.
@@ -48,38 +48,37 @@ With much contention — Notwithstanding both inward and outward conflicts of al
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:27
+- Timestamp: 12-19-2023 13:58:34
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 99
-- BHT Commentary Usage: 31.25%
-- BHT Quality Score: 2.012917318167906
+- BHT Commentary Usage: 40.3%
+- BHT Quality Score: 1.8012318138204075
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (64):
-	['a', 'abuse', 'amidst', 'and', 'away', 'boldness', 'but', 'by', 'calling', 'came', 'confidence', 'conflicts', 'continue', 'conviction', 'courage', 'deep', 'despite', 'did', 'even', 'experienced', 'face', 'faced', 'faith', 'founded', 'from', 'gave', 'god', 'gospel', 'great', 'himself', 'in', 'indignities', 'interest', 'it', 'mere', 'message', 'names', 'natural', 'not', 'of', 'on', 'opposition', 'paul', 'personal', 'proclaiming', 'reliance', 'result', 'right', 'salvation', 'self', 'shy', 'silas', 'speaking', 'that', 'the', 'their', 'them', 'thessalonica', 'they', 'things', 'to', 'triumph', 'unwavering', 'was']
-- ChatGPT injected words (significant words only) (44):
-	['abuse', 'amidst', 'away', 'boldness', 'calling', 'came', 'confidence', 'conflicts', 'continue', 'conviction', 'courage', 'deep', 'despite', 'experienced', 'face', 'faced', 'faith', 'founded', 'gave', 'god', 'gospel', 'great', 'indignities', 'interest', 'mere', 'message', 'names', 'natural', 'opposition', 'paul', 'personal', 'proclaiming', 'reliance', 'result', 'right', 'salvation', 'self', 'shy', 'silas', 'speaking', 'thessalonica', 'things', 'triumph', 'unwavering']
+- ChatGPT injected words (67):
+	['a', 'and', 'as', 'before', 'bold', 'boldness', 'but', 'came', 'cause', 'confidence', 'conflicts', 'contention', 'continue', 'courage', 'despite', 'determination', 'did', 'directly', 'empowered', 'endurance', 'endured', 'facing', 'fanaticism', 'fearlessly', 'fighting', 'firm', 'for', 'from', 'fueled', 'god', 'gospel', 'himself', 'in', 'insults', 'it', 'just', 'message', 'mistreatment', 'much', 'not', 'of', 'on', 'our', 'philippi', 'preaching', 'proclaimed', 'proof', 'rather', 'reliance', 'served', 'silence', 'speak', 'stemmed', 'suffering', 'sufferings', 'that', 'the', 'thessalonica', 'this', 'to', 'trust', 'us', 'was', 'we', 'were', 'with', 'worth']
+- ChatGPT injected words (significant words only) (40):
+	['bold', 'boldness', 'came', 'cause', 'confidence', 'conflicts', 'contention', 'continue', 'courage', 'despite', 'determination', 'directly', 'empowered', 'endurance', 'endured', 'facing', 'fanaticism', 'fearlessly', 'fighting', 'firm', 'fueled', 'god', 'gospel', 'insults', 'message', 'mistreatment', 'philippi', 'preaching', 'proclaimed', 'proof', 'reliance', 'served', 'silence', 'speak', 'stemmed', 'suffering', 'sufferings', 'thessalonica', 'trust', 'worth']
 
 ### Logs
-- Attempt 1 BHT: Amidst the conflicts and personal indignities faced by Paul and Silas, their boldness in speaking the Gospel was not mere natural courage, but a result of their confidence in God. Despite the opposition and abuse they experienced, they did not shy away from calling things by their right names, acknowledging the difficulties they encountered. It was their unwavering faith and reliance on God that gave them the courage to continue proclaiming the message of salvation, even in the face of great opposition. Their triumph in Thessalonica was not founded on self-interest or hope of ease but on their deep conviction that the gospel they preached came from God Himself.
-- 🔄 1 Thessalonians 2:2 (attempt 1, 110 words, 29.58% quotes quality score: 2.020014934497161, V2 normalized quality score: 58.51, commentator tiers 1-3: 39.92%, 44.42%, 15.66%) 
+- Attempt 1 BHT: Despite facing conflicts and suffering before, we were bold in our God to speak the Gospel of God with much contention. This boldness stemmed from our confidence and trust in God as our God. The insults and mistreatment we endured in Philippi did not silence us, but rather fueled our determination and courage. It was not fanaticism, but a firm reliance on God that empowered us to continue preaching fearlessly in Thessalonica. Our sufferings and endurance served as proof that our cause was just and worth fighting for, and that the message we proclaimed came directly from God himself.
+- 🔄 1 Thessalonians 2:2 (attempt 1, 99 words, 40.3% quotes quality score: 1.8012318138204075, V2 normalized quality score: 51.23, commentator tiers 1-3: 31.33%, 32.35%, 36.31%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Paul and Silas did not let the conflicts and personal indignities they faced deter them from boldly speaking the Gospel. Their confidence was not in themselves but in God as their source of true courage. Despite the obstacles, they embraced the reality of their sufferings and overcame them through their unwavering faith. The message they preached was not rooted in self-interest, but in the assurance that it came directly from God. Their reliance on Him fueled their determination to continue proclaiming His truth.
-- 🔄 1 Thessalonians 2:2 (attempt 2, 84 words, 35.59% quotes quality score: 1.8193324251189864, V2 normalized quality score: 51.83, commentator tiers 1-3: 41.85%, 39.7%, 18.45%) 
+- Attempt 2 BHT: Despite suffering and conflicts, we boldly proclaimed the Gospel of God with much contention, relying on God as our source of confidence. The insults and mistreatment we faced in Philippi only strengthened our resolve to continue preaching fearlessly in Thessalonica. Our endurance and willingness to face perilous situations were evidence of the validity and importance of our cause. This message, known as the Gospel of God or the Gospel of Christ, originated from God and held so much significance that we were willing to endure suffering for its sake.
+
+- 🔄 1 Thessalonians 2:2 (attempt 2, 89 words, 33.9% quotes quality score: 1.6265072255081596, V2 normalized quality score: 45.42, commentator tiers 1-3: 26.55%, 35.79%, 37.66%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Amidst the conflicts and personal indignities faced by Paul and Silas, their boldness in speaking the Gospel was not mere natural courage, but a result of their confidence in God. Despite the opposition and abuse they experienced, they did not shy away from calling things by their right names. It was their unwavering faith and reliance on God that gave them the courage to continue proclaiming the message of salvation, even in the face of great opposition. Their triumph in Thessalonica was not founded on self-interest but on their deep conviction that the gospel came from God Himself.
-- 🔄 1 Thessalonians 2:2 (attempt 3, 99 words, 31.25% quotes quality score: 2.012917318167906, V2 normalized quality score: 58.27, commentator tiers 1-3: 39.62%, 43.16%, 17.23%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 3 BHT: Amidst conflicts and suffering, we found the boldness to declare the Gospel of God with determination and perseverance. Our trust in God as our own led us to press on despite the opposition we faced. The mistreatment we endured in Philippi did not silence us; instead, it ignited our courage to speak out even more fervently in Thessalonica. By enduring hardships and showing resilience, we demonstrated the credibility and worthiness of our cause, which originates from God himself.
+- 🔄 1 Thessalonians 2:2 (attempt 3, 78 words, 38.6% quotes quality score: 1.6566366203691978, V2 normalized quality score: 46.43, commentator tiers 1-3: 31.27%, 32.51%, 36.22%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Amidst conflicts and personal indignities, Paul and Silas boldly proclaimed the Gospel with confidence in God. Their courage to speak came from the realization of God as OUR God, allowing them to persevere despite opposition and abuse. This boldness was not merely natural courage, but inspired by God Himself. Their unwavering faith enabled them to overcome inward and outward conflicts, demonstrating the monotheistic character of the gospel. Despite the setbacks faced, they remained resolute, relying on God's strength and conviction to continue spreading His truth.
-- 🔄 1 Thessalonians 2:2 (attempt 4, 86 words, 31.25% quotes quality score: 1.9266262894702324, V2 normalized quality score: 55.4, commentator tiers 1-3: 41.43%, 35.53%, 23.03%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 4 BHT: In the midst of much conflict, we confidently spoke the Gospel of God amidst striving earnestness. Despite having suffered and been shamefully mistreated, we grew even bolder in our God. It was not the bodily suffering that emboldened us, but the indignity we faced as Roman citizens. Through our unwavering commitment and determination, we discovered that the insults and hardships we endured only fueled our resolve to proclaim the message of God with even greater boldness and conviction.
+- 🔄 1 Thessalonians 2:2 (attempt 4, 78 words, 35.09% quotes quality score: 1.7432265476194158, V2 normalized quality score: 49.3, commentator tiers 1-3: 34.42%, 23.72%, 41.86%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul and Silas fearlessly proclaimed the Gospel amidst external conflicts and personal indignities. Their confidence to speak arose from the realization that God was their true source of courage. Despite suffering and opposition, their unwavering faith allowed them to withstand and overcome these challenges. Their boldness was not rooted in natural bravery but was inspired by God Himself. By relying on God's strength, they persevered in spreading the message of salvation, demonstrating that the gospel came directly from God.
-- 🔄 1 Thessalonians 2:2 (attempt 5, 80 words, 28.81% quotes quality score: 1.8765322077445656, V2 normalized quality score: 53.74, commentator tiers 1-3: 41.46%, 36.92%, 21.62%) 
+- Attempt 5 BHT: In the face of intense conflict and suffering, we fearlessly spoke the Gospel of God with much contention. It was our realization of God as OUR God that grounded our boldness and confidence. The personal indignity and mistreatment we experienced in Philippi did not deter us; rather, it propelled us to be even more courageous in Thessalonica. Our boldness in speaking stemmed from a deep understanding that our work was not in vain, but significant in the eyes of God.
+- 🔄 1 Thessalonians 2:2 (attempt 5, 80 words, 43.4% quotes quality score: 1.7975903839881608, V2 normalized quality score: 51.11, commentator tiers 1-3: 34.11%, 30.06%, 35.83%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 2:2 bht prompt v0.7 (99 words, 31.25% quotes)
-- quality score: 2.012917318167906, V2 normalized quality score: 58.27, commentator tiers 1-3: 39.62%, 43.16%, 17.23%)
+- ✅ 1 Thessalonians 2:2 bht prompt v0.8 (99 words, 40.3% quotes)
+- quality score: 1.8012318138204075, V2 normalized quality score: 51.23, commentator tiers 1-3: 31.33%, 32.35%, 36.31%)

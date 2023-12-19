@@ -1,87 +1,93 @@
 # Philippians 1:20 Commentary Help Text
 
 ## BHT:
-I eagerly expect and hope to have sufficient courage so that now as always Christ will be magnified in my body, whether by life or by death. Through my sufferings, I anticipate that Christ will appear more glorious, even in death. By being a faithful advocate of the gospel, Christ is magnified in the death of believers when his gospel sustains them. I am confident that I will not be put to shame, as my expectation is founded on God's word.
+Paul expresses unwavering confidence that he will boldly magnify Christ, whether in life or death, without shame. His expectation is based on God's word, and he eagerly awaits its fulfillment. Through his bodily sufferings, Paul believes that Christ will be glorified, even in death. Living in obedience to the Gospel and being a witness to God's grace, Paul seeks to exalt Christ in all things. Past experiences of God's faithfulness give him hope and assurance in the face of challenges.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "I shall be ashamed, but in (or with) all boldness."
-2. "Life or death are both alike glorious for me."
-3. "Either by (means of) life or by (means of) death."
+1. "in nothing I shall be ashamed, but in all boldness."
+2. "Christ shall be magnified in my body."
+3. "either by life or by death."
 
 ### Jamieson-Fausset-Brown:
-1. "The anxious desire of an anticipated prosperous issue in afflictive circumstances."
-2. "In nothing have reason to be ashamed of 'my work for God, or His work in me.'"
+1. "The Greek expresses, 'expectation with uplifted head and outstretched neck.'" 
+2. "In nothing have reason to be ashamed of 'my work for God, or His work in me'."
 3. "Whatever be the issue, I cannot lose; I must be the gainer by the event."
 
 ### Albert Barnes:
 1. "The main thing was, to stand up everywhere as the advocate of the gospel, to maintain its truth, and to exhibit its spirit."
 2. "That in these heavy trials, I may not be left to deny the truth of the Christian religion; that, even before the emperor, I may maintain its principles."
-3. "Christ is magnified in the death of Christians, when his gospel is seen to sustain them; when, supported by its promises, they are enabled to go calmly into the dark valley."
+3. "Christ is magnified in the death of Christians, when his gospel is seen to sustain them; when, supported by its promises, they are enabled to go calmly into the dark valley; and when, in the departing moments, they confidently commit their eternal all into his hands."
 
 ### Marvin Vincent:
-1. "Earnest expectation [αποκαραδοκιαν] . Only here and Romans 8:19, on which see note."
-2. "Shall be ashamed [αισχυνθησομαι] . Rev., better, giving the force of the passive, shall be put to shame."
+1. "Earnest expectation [αποκαραδοκιαν]. Only here and Romans 8:19, on which see note."
+2. "Shall be ashamed [αισχυνθησομαι]. Rev., better, giving the force of the passive, shall be put to shame."
 3. "Through my bodily sufferings Christ shall appear more glorious, and that even if I die."
 
 ### John Calvin:
-1. "Let then the pious reader carefully observe this adverb secundum, that he may be fully assured in his own mind, that it is impossible but that the Lord will fulfill our expectation, inasmuch as it is founded on his own word."
+1. "Let then the pious reader carefully observe this adverb secundum, (according to), that he may be fully assured in his own mind, that it is impossible but that the Lord will fulfill our expectation, inasmuch as it is founded on his own word."
 2. "By making express mention, however, of the body, he intimates that, amongst the conflicts of the present life, he is in no degree doubtful as to the issue, for we are assured as to this by God."
-3. "He expresses the way in which Christ will be magnified - by full assurance. Hence it follows, that through our fault he is cast down and lowered, so far as it is in our power to do so, when we give way through fear."
+3. "He adds, as always, that they may confirm their faith from past experience of the grace of God. Thus, in Romans 5:4, he says, Experience begets hope."
 
 ### Philip Schaff:
 1. "He awaits the future both of his work on earth and of his call to heaven without fear."
 2. "The only way in which the apostle could be put to shame was by the frustration of his labours and hopes."
-3. "When he says ‘in my body,’ he means, by all his powers, by everything that he can do or suffer in this present life."
+3. "That Christ may be magnified... by everything that he can do or suffer in this present life."
 
 ### Archibald T. Robertson:
-1. "Earnest expectation (αποκαραδοκιαν). In Paul alone from αποκαραδοκεω (in papyri)."
-2. "Shall be magnified (μεγαλυνθησετα). Future passive indicative of μεγαλυνω, old verb, to make great, from μεγας (great)."
-3. "In my body (εν τω σωματ μου). See Romans 12:1. It is harder often to make Christ great in the body than in the spirit."
+1. "Earnest expectation (αποκαραδοκιαν). In Paul alone from αποκαραδοκεω."
+2. "Shall be magnified (μεγαλυνθησετα). Future passive indicative of μεγαλυνω, old verb, to make great."
+3. "It is harder often to make Christ great in the body than in the spirit."
 
 ### John Gill:
-1. "He had a full persuasion that he should not be put to shame on any account."
-2. "His great concern was to glorify him in it; and though it was a poor, weak, and crazy body, yet rich treasure being put into this earthen vessel, Christ had been greatly magnified."
-3. "He had a well-grounded hope and confidence, that it would ever be so: whether [it be] by life or by death."
+1. "He had a full persuasion that he should not be put to shame on any account;"
+2. "His great concern was to glorify him in it;"
+3. "Christ was also magnified by him, by his life and conversation, which influenced by his grace, was in obedience to his will, was directed to his glory, was as became his Gospel, and what adorned his doctrine in all things."
 
 ### John Wesley:
-1. "In my body — however it may be disposed of."
-2. "For the apostles did not know all things; particularly in things pertaining to themselves, they had room to exercise faith and patience."
-3. "How that might be, he did not yet know."
+1. "As always — Since my call to the apostleship."
+2. "In my body — however it may he disposed of."
+3. "For the apostles did not know all things; particularly in things pertaining to themselves, they had room to exercise faith and patience."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:11
+- Timestamp: 12-19-2023 13:53:32
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 54.39%
-- BHT Quality Score: 1.9876464620166496
+- BHT Word Count: 83
+- BHT Commentary Usage: 38.33%
+- BHT Quality Score: 1.9034770536595431
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'advocate', 'always', 'am', 'and', 'anticipate', 'appear', 'as', 'be', 'being', 'believers', 'body', 'by', 'christ', 'confident', 'courage', 'death', 'eagerly', 'even', 'expect', 'expectation', 'faithful', 'founded', 'glorious', 'god', 'gospel', 'have', 'his', 'hope', 'i', 'in', 'is', 'life', 'magnified', 'more', 'my', 'not', 'now', 'of', 'on', 'or', 'put', 's', 'shame', 'so', 'sufferings', 'sufficient', 'sustains', 'that', 'the', 'them', 'through', 'to', 'when', 'whether', 'will', 'word']
-- ChatGPT injected words (significant words only) (26):
-	['advocate', 'anticipate', 'appear', 'believers', 'body', 'christ', 'confident', 'courage', 'death', 'eagerly', 'expect', 'expectation', 'faithful', 'founded', 'glorious', 'god', 'gospel', 'hope', 'life', 'magnified', 's', 'shame', 'sufferings', 'sufficient', 'sustains', 'word']
+- ChatGPT injected words (60):
+	['a', 'all', 'and', 'assurance', 'awaits', 'based', 'be', 'being', 'believes', 'bodily', 'boldly', 'challenges', 'christ', 'confidence', 'death', 'eagerly', 'even', 'exalt', 'expectation', 'experiences', 'expresses', 'face', 'faithfulness', 'fulfillment', 'give', 'glorified', 'god', 'gospel', 'grace', 'he', 'him', 'his', 'hope', 'in', 'is', 'its', 'life', 'living', 'magnify', 'obedience', 'of', 'on', 'or', 'past', 'paul', 's', 'seeks', 'shame', 'sufferings', 'that', 'the', 'things', 'through', 'to', 'unwavering', 'whether', 'will', 'without', 'witness', 'word']
+- ChatGPT injected words (significant words only) (37):
+	['assurance', 'awaits', 'based', 'believes', 'bodily', 'boldly', 'challenges', 'christ', 'confidence', 'death', 'eagerly', 'exalt', 'expectation', 'experiences', 'expresses', 'face', 'faithfulness', 'fulfillment', 'glorified', 'god', 'gospel', 'grace', 'hope', 'life', 'living', 'magnify', 'obedience', 'past', 'paul', 's', 'seeks', 'shame', 'sufferings', 'things', 'unwavering', 'witness', 'word']
 
 ### Logs
-- Attempt 1 BHT: I eagerly expect and hope that I will not be ashamed, but will have sufficient courage so that now as always Christ will be magnified in my body, whether by life or by death. Through my bodily sufferings, in which I am earnestly expecting and hoping for the glory of God, Christ will appear more glorious, and that even if I die. The main thing for me is to stand up as the advocate of the gospel, to maintain its truth, and to exhibit its spirit. Christ is magnified in the death of Christians when his gospel is seen to sustain them, but I have a full persuasion that I should not be put to shame on any account. The only way in which I could be put to shame is through the frustration of my labors and hopes. Let the pious reader carefully observe this, that it is impossible but the Lord will fulfill our expectation, inasmuch as it is founded on his own word.
-- 🔄 Philippians 1:20 (attempt 1, 166 words, 46.94% quotes quality score: 1.9699384060680285, V2 normalized quality score: 56.84, commentator tiers 1-3: 28.74%, 41.52%, 29.74%) 
+- Attempt 1 BHT: In this verse, the apostle Paul expresses his unwavering confidence that he will not be put to shame but will boldly magnify Christ whether in life or in death. He eagerly anticipates the fulfillment of his expectation, with an uplifted head and outstretched neck, fully assured that he will not be disappointed because his expectation is founded on God's own word. Paul's ultimate desire is to glorify Christ in his body, even if it means experiencing bodily sufferings or facing death. He understands that Christ is magnified not only through his works and sufferings but also through his obedience and the way he lives his life in accordance with the Gospel. Overall, Paul's firm conviction and past experiences of God's grace give him hope and confidence in the face of any trial or challenge he may encounter.
+- 🔄 Philippians 1:20 (attempt 1, 141 words, 36.78% quotes quality score: 1.9409864409174613, V2 normalized quality score: 55.88, commentator tiers 1-3: 22.56%, 44.24%, 33.21%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: The apostle Paul in Philippians 1:20 confidently declares his unwavering expectation that he will not be put to shame but will boldly magnify Christ in his body, regardless of whether he lives or dies. He eagerly awaits the fulfillment of his expectation, fully assured that it is based on God's word. For Paul, glorifying Christ extends beyond his works and sufferings; it is seen in his obedient life and the way he embodies the Gospel. His past experiences of God's grace fuel his hope and resolve in the midst of trials.
+- 🔄 Philippians 1:20 (attempt 2, 92 words, 32.26% quotes quality score: 1.9139241384142753, V2 normalized quality score: 54.98, commentator tiers 1-3: 19.06%, 45.94%, 35.01%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Paul's resolute conviction in Philippians 1:20 is that he will confidently magnify Christ in his body without shame, regardless of life or death. The Greek emphasizes his eager expectation, founded on God's word, to be fulfilled. Paul understands that through his bodily sufferings, Christ's glory is heightened, even in the face of death. His deep desire is to live a life that exalts Christ, displaying the transformative power of the Gospel. Through past experiences of God's grace, Paul derives the hope and assurance to face any challenge with unwavering faith.
+- 🔄 Philippians 1:20 (attempt 3, 93 words, 30.16% quotes quality score: 1.912320746188119, V2 normalized quality score: 54.93, commentator tiers 1-3: 24.85%, 43.04%, 32.1%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: Paul expresses unwavering confidence that he will boldly magnify Christ, whether in life or death, without shame. His expectation is based on God's word, and he eagerly awaits its fulfillment. Through his bodily sufferings, Paul believes that Christ will be glorified, even in death. Living in obedience to the Gospel and being a witness to God's grace, Paul seeks to exalt Christ in all things. Past experiences of God's faithfulness give him hope and assurance in the face of challenges.
+- 🔄 Philippians 1:20 (attempt 4, 83 words, 38.33% quotes quality score: 1.9034770536595431, V2 normalized quality score: 54.63, commentator tiers 1-3: 24.89%, 44.32%, 30.79%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: I eagerly expect and hope that I will not be ashamed, but will have sufficient courage so that now as always Christ will be magnified in my body, whether by life or by death. Through my bodily sufferings, Christ will appear more glorious, even if I die. The main thing for me is to maintain the truth and spirit of the gospel. Christ is magnified in the death of Christians when his gospel sustains them, and I am fully persuaded that I will not be put to shame. The Lord will fulfill our expectation, as it is founded on his word.
-- 🔄 Philippians 1:20 (attempt 2, 101 words, 52.24% quotes quality score: 1.9214010430195487, V2 normalized quality score: 55.23, commentator tiers 1-3: 31.41%, 41.58%, 27.01%) 
-	- BHT WAS OVER 80 WORDS!
-- Attempt 3 BHT: With eager expectation and hope, I anticipate not being ashamed but having the courage to magnify Christ in my body, whether in life or death. Through my sufferings, I believe Christ will be glorified, even in my death. My main concern is upholding the truth and spirit of the gospel. I am confident that I will not be put to shame, as my expectation is grounded in God's faithful word.
-- 🔄 Philippians 1:20 (attempt 3, 71 words, 44.0% quotes quality score: 1.9535319014886867, V2 normalized quality score: 56.3, commentator tiers 1-3: 35.18%, 37.93%, 26.89%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: I eagerly expect and hope to have sufficient courage so that now as always Christ will be magnified in my body, whether by life or by death. Through my bodily sufferings, I anticipate that Christ will appear more glorious, even in death. The main thing is to maintain the truth and spirit of the gospel. By being a faithful advocate of the gospel, Christ is magnified in the death of believers when his gospel sustains them. I am confident that I will not be put to shame, as my expectation is founded on God's word.
-- 🔄 Philippians 1:20 (attempt 4, 96 words, 49.21% quotes quality score: 1.9053025265203543, V2 normalized quality score: 54.69, commentator tiers 1-3: 30.28%, 43.23%, 26.49%) 
+- Attempt 5 BHT: Confident and unashamed, Paul boldly declares his determination to magnify Christ in his body, whether in life or in death. He eagerly awaits the fulfillment of his expectation, deeply rooted in God's word. For Paul, bodily sufferings serve as opportunities to showcase the glory of Christ, even unto death. He believes that his life and actions, guided by God's grace, should exemplify obedience to the Gospel. Paul's resolute faith draws from past experiences of God's faithfulness, inspiring hope and assurance in every circumstance.
+- 🔄 Philippians 1:20 (attempt 5, 87 words, 27.87% quotes quality score: 1.8390770700129604, V2 normalized quality score: 52.49, commentator tiers 1-3: 21.47%, 44.68%, 33.85%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: I eagerly expect and hope to have sufficient courage so that now as always Christ will be magnified in my body, whether by life or by death. Through my sufferings, I anticipate that Christ will appear more glorious, even in death. By being a faithful advocate of the gospel, Christ is magnified in the death of believers when his gospel sustains them. I am confident that I will not be put to shame, as my expectation is founded on God's word.
-- 🔄 Philippians 1:20 (attempt 5, 82 words, 54.39% quotes quality score: 1.9876464620166496, V2 normalized quality score: 57.43, commentator tiers 1-3: 33.01%, 39.21%, 27.79%) 
-	- BHT WAS OVER 80 WORDS!
-- ✅ Philippians 1:20 bht prompt v0.7 (82 words, 54.39% quotes)
-- quality score: 1.9876464620166496, V2 normalized quality score: 57.43, commentator tiers 1-3: 33.01%, 39.21%, 27.79%)
+- ✅ Philippians 1:20 bht prompt v0.8 (83 words, 38.33% quotes)
+- quality score: 1.9034770536595431, V2 normalized quality score: 54.63, commentator tiers 1-3: 24.89%, 44.32%, 30.79%)

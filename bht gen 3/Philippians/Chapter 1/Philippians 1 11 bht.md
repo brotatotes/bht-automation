@@ -1,12 +1,12 @@
 # Philippians 1:11 Commentary Help Text
 
 ## BHT:
-The works of righteousness that believers produce through the power of the Holy Spirit are likened to the fruit of righteousness. By being grafted into Christ, they become fruitful branches, manifesting a life devoted to God. These works are not limited to external actions, but rather encompass all aspects of a believer's life, springing from the seed of grace implanted in their heart. Through these fruits, believers honor and glorify God, as others witness their good works and are led to praise Him.
+The fruits of righteousness, as the harmonious whole of the works of righteousness, are like the fruit of the Spirit in believers' lives. By being grafted into Christ, the root of life, we become fruitful branches. Through the grace of Christ and the Spirit sent by the Father, these fruits of righteousness are produced. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly as a testimony to God's transformative work in their lives.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Regarding the works of righteousness, however manifold, as one harmonious whole, 'the fruit of the Spirit.'"
-2. "We are wild and useless olive trees till we are grafted into Christ, who, by His living root, makes us fruit-bearing branches."
+1. "Regarding the works of righteousness, however manifold, as one harmonious whole, 'the fruit of the Spirit'." 
+2. "We are wild and useless olive trees till we are grafted into Christ, who, by His living root, makes us fruit-bearing branches." 
 3. "Through His sending to us the Spirit from the Father."
 
 ### Albert Barnes:
@@ -16,68 +16,69 @@ The works of righteousness that believers produce through the power of the Holy 
 
 ### Marvin Vincent:
 1. "Fruit of righteousness." (James 3:18, Proverbs 11:30) 
-2. "Glory and praise of God." (Romans 3:23, Ephesians 1:6)
+2. "Glory and praise of God." (Romans 3:23) 
+3. "That God's glory may be both manifested and recognized." (Ephesians 1:6)
 
 ### John Calvin:
-1. "For the beginning of our well-doing is, when we are sanctified by his Spirit, for he rested upon him, that we might all receive of his fullness."
-2. "He at the same time shews the end — that we may promote the glory of God. For no life is so excellent in appearance as not to be corrupted and become offensive in the view of God, if it is not directed towards this object."
-3. "Paul’s speaking here of works under the term righteousness, is not at all inconsistent with the gratuitous righteousness of faith."
+1. "Such fruits, he says, are by Christ, because they flow from the grace of Christ."
+2. "And as Paul here derives a similitude from trees, we are wild olive-trees, and unproductive, until we are ingrafted into Christ, who by his living root makes us fruitbearing trees."
+3. "For no life is so excellent in appearance as not to be corrupted and become offensive in the view of God, if it is not directed towards this object."
 
 ### Philip Schaff:
-1. "Men cannot be sincere and void of offense without making their character known by their works."
-2. "The fruit of righteousness is uniform, which is through Jesus Christ."
-3. "God may be praised and glorified... by those who see their good works, and are led also to glorify the Father in heaven."
+1. "Men cannot be sincere and void of offence without making their character known by their works."
+2. "There is much to be said for the singular number 'fruit.' It gives the idea, which is the true one, that the fruit of righteousness is uniform."
+3. "That God thereby may be praised and glorified, first by those who through Christ have been aided to bring forth fruit to abundance, and then by those who see their good works, and are led also to glorify the Father in heaven."
 
 ### Archibald T. Robertson:
 1.  Fruits of righteousness (καρπον δικαιοσυνης). Singular, collective idea, fruit of righteousness. Accusative case retained with perfect passive participle. 
 
 
 ### John Gill:
-1. "Like fruits, they spring from a seed, even from the incorruptible seed of grace in the heart, implanted there in regeneration."
-2. "They are pleasant and delightful, they are well pleasing to Christ, and are acceptable to God through Christ."
-3. "They are performed by a righteous man; for as none but a good tree can bring forth good fruit, so none but a tree of righteousness can bear fruits of righteousness."
+1. "Good works in general are meant, which are called 'fruits', because, like fruits, they spring from a seed, even from the incorruptible seed of grace in the heart, implanted there in regeneration."
+2. "The apostle wishes, that these saints might be 'filled' with [good works]; that they might be like trees laden with fruit, which have fruit on every branch, bough, and twig; that they might abound in the performance of them, be ready to, and fruitful in every good work."
+3. "And this end is necessary to a good work, that it be done to the glory of God; for if anything else is in view and not that, let it have ever such an appearance of a good work, it is none at all."
 
 ### John Wesley:
-1. "It must bear fruits, the fruits of righteousness, all inward and outward holiness, all good tempers, words, and works; and that so abundantly, that we may be filled with them"
-2. "The branch and the fruits must derive both their virtue and their very being from the all-supporting, all-supplying root, Jesus Christ"
-3. "As all these flow from the grace of Christ, so they must issue in the glory and praise of God"
+1. "It must bear fruits, the fruits of righteousness, all inward and outward holiness, all good tempers, words, and works; and that so abundantly, that we may be filled with them."
+2. "The branch and the fruits must derive both their virtue and their very being from the all-supporting, all-supplying root, Jesus Christ."
+3. "As all these flow from the grace of Christ, so they must issue in the glory and praise of God."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:38:46
+- Timestamp: 12-19-2023 13:53:11
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 40.0%
-- BHT Quality Score: 2.172770954843716
+- BHT Word Count: 92
+- BHT Commentary Usage: 40.35%
+- BHT Quality Score: 2.153323485940269
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'actions', 'all', 'and', 'are', 'as', 'aspects', 'become', 'being', 'believer', 'believers', 'branches', 'but', 'by', 'christ', 'devoted', 'encompass', 'external', 'from', 'fruit', 'fruitful', 'fruits', 'glorify', 'god', 'good', 'grace', 'grafted', 'heart', 'him', 'holy', 'honor', 'implanted', 'in', 'into', 'led', 'life', 'likened', 'limited', 'manifesting', 'not', 'of', 'others', 'power', 'praise', 'produce', 'rather', 'righteousness', 's', 'seed', 'spirit', 'springing', 'that', 'the', 'their', 'these', 'they', 'through', 'to', 'witness', 'works']
-- ChatGPT injected words (significant words only) (36):
-	['actions', 'aspects', 'believer', 'believers', 'branches', 'christ', 'devoted', 'encompass', 'external', 'fruit', 'fruitful', 'fruits', 'glorify', 'god', 'good', 'grace', 'grafted', 'heart', 'holy', 'honor', 'implanted', 'led', 'life', 'likened', 'limited', 'manifesting', 'power', 'praise', 'produce', 'righteousness', 's', 'seed', 'spirit', 'springing', 'witness', 'works']
+- ChatGPT injected words (57):
+	['a', 'abundantly', 'and', 'are', 'as', 'be', 'become', 'being', 'believers', 'branches', 'by', 'called', 'christ', 'displaying', 'father', 'filled', 'fruit', 'fruitful', 'fruits', 'glory', 'god', 'grace', 'grafted', 'harmonious', 'him', 'honor', 'in', 'into', 'leading', 'life', 'like', 'lives', 'manifest', 'of', 'others', 'praise', 'produced', 'recognize', 'righteousness', 'root', 's', 'sent', 'spirit', 'testimony', 'the', 'their', 'them', 'these', 'they', 'through', 'to', 'transformative', 'we', 'whole', 'with', 'work', 'works']
+- ChatGPT injected words (significant words only) (34):
+	['abundantly', 'believers', 'branches', 'called', 'christ', 'displaying', 'father', 'filled', 'fruit', 'fruitful', 'fruits', 'glory', 'god', 'grace', 'grafted', 'harmonious', 'honor', 'leading', 'life', 'like', 'lives', 'manifest', 'praise', 'produced', 'recognize', 'righteousness', 'root', 's', 'sent', 'spirit', 'testimony', 'transformative', 'work', 'works']
 
 ### Logs
-- Attempt 1 BHT: The verse talks about the fruit of righteousness, which is described as the works of righteousness that believers produce through the power of the Holy Spirit. By being grafted into Christ and receiving the Spirit, followers of Christ become fruitful branches, producing these works that bring glory and praise to God. These fruits of righteousness are not limited to external actions but encompass all aspects of a believer's life, springing from the seed of grace implanted in their heart. It is through these fruits that God is honored and glorified, as others witness and are led to praise Him.
-- 🔄 Philippians 1:11 (attempt 1, 100 words, 39.39% quotes quality score: 2.199890713897405, V2 normalized quality score: 64.49, commentator tiers 1-3: 32.61%, 31.06%, 36.33%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: The works of righteousness that believers produce through the power of the Holy Spirit are likened to the fruit of righteousness. By being grafted into Christ, they become fruitful branches, manifesting a life devoted to God. These works are not limited to external actions, but rather encompass all aspects of a believer's life, springing from the seed of grace implanted in their heart. Through these fruits, believers honor and glorify God, as others witness their good works and are led to praise Him.
-- 🔄 Philippians 1:11 (attempt 2, 84 words, 40.0% quotes quality score: 2.172770954843716, V2 normalized quality score: 63.59, commentator tiers 1-3: 32.44%, 32.97%, 34.59%) 
+- Attempt 1 BHT: The works of righteousness are likened to the fruit of the Spirit, produced through being grafted into Christ and empowered by the Spirit sent by the Father. These fruits of righteousness manifest the glory and praise of God, making His glory known and recognized. The abundance of these fruits in the lives of believers not only honors God but also serves as a testimony to others, leading them to glorify the Father in heaven. It is through the grace of Christ that these fruits are brought forth, as our lives are directed towards the purpose of glorifying God. These fruits encompass all aspects of a believer's life, both inward and outward, and it is by being filled with these fruits that we truly display our righteousness in Christ.
+- 🔄 Philippians 1:11 (attempt 1, 129 words, 39.73% quotes quality score: 2.232798254566271, V2 normalized quality score: 65.58, commentator tiers 1-3: 31.99%, 31.81%, 36.2%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The fruit of righteousness refers to the works of righteousness produced through the empowering presence of the Holy Spirit in the lives of believers. By being united with Christ, believers become fruitful branches, bearing these works that bring honor and praise to God. These fruits are not merely external actions but encompass all areas of a believer's life, flowing from the seed of grace implanted in their hearts. Through these fruits, believers demonstrate their devotion to God and inspire others to give glory to Him.
-- 🔄 Philippians 1:11 (attempt 3, 86 words, 36.67% quotes quality score: 2.077917429505023, V2 normalized quality score: 60.43, commentator tiers 1-3: 31.71%, 31.97%, 36.32%) 
+- Attempt 2 BHT: The works of righteousness, as the fruit of the Spirit, flow from being grafted into Christ and His sending of the Spirit. These fruits, which include the abundance of good works, manifest the glory and praise of God. They serve as a testimony to others, leading them to honor and glorify the Father. By being filled with these fruits, believers display their righteousness in Christ and fulfill the purpose of bringing glory to God. It is through the grace of Christ that these fruits are produced, springing from the incorruptible seed of grace planted in the heart.
+- 🔄 Philippians 1:11 (attempt 2, 97 words, 40.68% quotes quality score: 2.1102709515697757, V2 normalized quality score: 61.51, commentator tiers 1-3: 31.64%, 30.45%, 37.91%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Believers are called to bear the fruit of righteousness, which refers to the works of righteousness stemming from the Holy Spirit's empowering presence. By being grafted into Christ, believers become fruitful branches, displaying a life dedicated to God. These works encompass both internal and external aspects, all influenced by the seed of grace in their hearts. Through these fruits, believers honor and praise God, inspiring others to acknowledge His glory.
-- 🔄 Philippians 1:11 (attempt 4, 71 words, 36.36% quotes quality score: 1.9958714891072502, V2 normalized quality score: 57.7, commentator tiers 1-3: 33.62%, 31.23%, 35.15%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Believers are called to bear the fruit of righteousness, which is the collective result of various works performed by a righteous person. These fruits are not limited to external actions but encompass all aspects of a believer's life, springing from the seed of grace implanted in their heart. Through the empowering presence of the Holy Spirit and being grafted into Christ, believers become fruitful branches, producing works that bring glory and honor to God. These works serve as a testimony to others, inspiring them to glorify God as well.
-- 🔄 Philippians 1:11 (attempt 5, 90 words, 38.24% quotes quality score: 1.9979742424006293, V2 normalized quality score: 57.77, commentator tiers 1-3: 32.92%, 31.24%, 35.85%) 
+- Attempt 3 BHT: The fruit of the Spirit, the works of righteousness, are like a branch grafted into Christ, producing abundant and uniform fruits. Through the grace of Christ and the sending of the Spirit, believers are enabled to bring forth these fruits, which manifest the glory and praise of God. By being filled with these fruits, our lives become a testimony that leads others to honor and glorify the Father. These fruits encompass all areas of our lives, both inward and outward, and spring from the incorruptible seed of grace within us.
+- 🔄 Philippians 1:11 (attempt 3, 90 words, 37.93% quotes quality score: 2.103761743430172, V2 normalized quality score: 61.29, commentator tiers 1-3: 32.05%, 28.57%, 39.38%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Philippians 1:11 bht prompt v0.7 (84 words, 40.0% quotes)
-- quality score: 2.172770954843716, V2 normalized quality score: 63.59, commentator tiers 1-3: 32.44%, 32.97%, 34.59%)
+- Attempt 4 BHT: The works of righteousness are like the fruit of the Spirit, produced through being grafted into Christ who makes us fruit-bearing branches. These fruits flow from the grace of Christ and the Spirit sent by the Father. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly in their lives, both inwardly and outwardly, as a testimony to the transformative power of Christ.
+- 🔄 Philippians 1:11 (attempt 4, 81 words, 41.38% quotes quality score: 2.0897795382301005, V2 normalized quality score: 60.83, commentator tiers 1-3: 32.95%, 29.79%, 37.26%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: The fruits of righteousness, as the harmonious whole of the works of righteousness, are like the fruit of the Spirit in believers' lives. By being grafted into Christ, the root of life, we become fruitful branches. Through the grace of Christ and the Spirit sent by the Father, these fruits of righteousness are produced. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly as a testimony to God's transformative work in their lives.
+- 🔄 Philippians 1:11 (attempt 5, 92 words, 40.35% quotes quality score: 2.153323485940269, V2 normalized quality score: 62.94, commentator tiers 1-3: 34.73%, 30.62%, 34.66%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Philippians 1:11 bht prompt v0.8 (92 words, 40.35% quotes)
+- quality score: 2.153323485940269, V2 normalized quality score: 62.94, commentator tiers 1-3: 34.73%, 30.62%, 34.66%)

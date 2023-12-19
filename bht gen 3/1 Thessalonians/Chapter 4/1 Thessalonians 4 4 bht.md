@@ -1,31 +1,31 @@
 # 1 Thessalonians 4:4 Commentary Help Text
 
 ## BHT:
-To maintain purity and sanctification, each person should acquire their own spouse and engage in the divinely-appointed commerce of the sexes with holiness and honor. This acquisition of a spouse serves as a safeguard against fornication and protects against dishonoring one's own body. It underscores the importance of treating one's spouse with honor and respect, ensuring that the marriage bed is approached with purity and chastity. By learning the habit of purity and acquiring a spouse in sanctification and honor, individuals can fulfill God's intended purpose for marriage.
+In this context, sanctification is explained as abstaining from fornication and conducting marital relations in holiness and honor. Each person is instructed to possess their own wife in sanctification and honor, treating her with respect and purity. The metaphorical acquiring his own vessel refers to acquiring one's own wife, highlighting the importance of having one's own spouse to avoid temptations and maintain purity. By approaching the marriage bed with chastity, the sanctity of the marital union is preserved.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "We do really acquire the body, when it remains pure, and is in sanctification" (Chrysostom)
-2. "In carrying on the divinely-appointed commerce of the sexes in holiness and honour."
-3. "That each of you should know how to acquire his own vessel (for this purpose) in sanctification and honour."
+1. "The sanctification has been explained to consist in abstaining from fornication. And now this fornication comes to be specified, wherein it consists, and how it may be guarded against: viz. in carrying on the divinely-appointed commerce of the sexes in holiness and honour."
+2. "Thus the context would be satisfied, and the emphatic position of his own...and acquire would retain its proper meaning: that each of you should know how to acquire his own vessel (for this purpose) in sanctification and honour."
+3. "This interpretation is that of some of the principal among the ancients, including Augustine, and of many of the principal moderns."
 
 ### Jamieson-Fausset-Brown:
-1. "how to acquire (get for himself) his own vessel, that is, that each should have his own wife so as to avoid fornication." 
-2. "in sanctification" stands in opposition to dishonoring his brother by lusting after his wife.
-3. "honour" contrasted with "dishonor their own bodies."
+1. "know—by moral self-control." 
+2. "how to acquire (get for himself) his own vessel" 
+3. "in sanctification"
 
 ### Albert Barnes:
-1. "That every one of you should know how to possess his vessel..." 
-2. "The word vessel here probably refers to the body."
-3. "In sanctification and honour - Should not debase or pollute it; that is, that we should honor it as a noble work of God, to be employed for pure purposes."
+1. "The word 'vessel' here probably refers to the body... because it is that which contains the soul, or in which the soul is lodged."
+2. "The word vessel... was used by the latter Hebrews to denote a wife, as the vessel of her husband."
+3. "The injunction then is, that we should preserve the body pure... that we should honor it as a noble work of God, to be employed for pure purposes."
 
 ### Marvin Vincent:
-1. "That every one of you should know how to possess his vessel, etc."
-2. "Render, that every one of you treat his own wife honorably."
-3. "That he pursue his gain - getting in sanctification and honor."
+1. "That every one of you should know how to possess his vessel...render, that every one of you treat his own wife honorably." 
+2. "Neither in LXX nor Class. does it mean body...Here, metaphorically, for wife."
+3. "On the contrary, let each one treat honorably his own wife."
 
 ### Philip Schaff:
-1. "They were to abstain from fornication; and, that they might do so, each was to possess a wife of his own."
+1. "Each was to possess a wife of his own. As to the Corinthians (1 Corinthians 7:2), Paul says, ‘To avoid fornication, let every man have his own wife.’"
 2. "Let every man get a wife of his own, that thus neither the public prostitute nor another man’s spouse may be a temptation to him."
 3. "Impurity and shame are always connected with ill-regulated appetites and lawless passions; men are therefore to marry that they may be pure and without shame."
 
@@ -35,51 +35,52 @@ To maintain purity and sanctification, each person should acquire their own spou
 3. "When the husband comes to the marriage bed, he should come as a chaste man to a chaste wife."
 
 ### John Gill:
-1. "Now for a man to possess his vessel in this sense, is to enjoy his wife, and to use that power he has over her in a becoming manner; in sanctification and honour."
-2. "Possessing of her according to the order and course of nature... is chaste and honourable."
-3. "For a man to possess his vessel in sanctification and honour, is to keep under his body and bring it into subjection, and preserve it in purity and chastity."
+1. "Now for a man to possess his vessel in this sense, is to enjoy his wife, and to use that power he has over her in a becoming manner."
+2. "For marriage is honourable when the bed is kept undefiled; and which may be defiled, not only by taking another into it, and which is not possessing the wife in sanctification and honour, it is the reverse, for it is a breaking through the rules of chastity and honour."
+3. "For, by fornication, a man sins against his own body; and by adultery he gets a wound, and a dishonour, and a reproach that will not be wiped away; and by sodomy, and such like unnatural lusts, men dishonour their own bodies between themselves."
 
 ### John Wesley:
 1. "That every one know — For this requires knowledge, as well as chastity."
 2. "To possess his vessel — His wife."
-3. "In sanctification and honour — So as neither to dishonour God or himself, nor to obstruct, but further, holiness; remembering, marriage is not designed to inflame, but to conquer, natural desires."
+3. "Remembering, marriage is not designed to inflame, but to conquer, natural desires."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:16
+- Timestamp: 12-19-2023 13:59:26
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 35.59%
-- BHT Quality Score: 2.3087228825136004
+- BHT Word Count: 80
+- BHT Commentary Usage: 32.08%
+- BHT Quality Score: 2.2890721902728486
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['a', 'acquire', 'acquiring', 'acquisition', 'against', 'and', 'appointed', 'approached', 'as', 'bed', 'body', 'by', 'can', 'chastity', 'commerce', 'dishonoring', 'divinely', 'each', 'engage', 'ensuring', 'for', 'fornication', 'fulfill', 'god', 'habit', 'holiness', 'honor', 'importance', 'in', 'individuals', 'intended', 'is', 'it', 'learning', 'maintain', 'marriage', 'of', 'one', 'own', 'person', 'protects', 'purity', 'purpose', 'respect', 's', 'safeguard', 'sanctification', 'serves', 'sexes', 'should', 'spouse', 'that', 'the', 'their', 'this', 'to', 'treating', 'underscores', 'with']
-- ChatGPT injected words (significant words only) (38):
-	['acquire', 'acquiring', 'acquisition', 'appointed', 'approached', 'bed', 'body', 'chastity', 'commerce', 'dishonoring', 'divinely', 'engage', 'ensuring', 'fornication', 'fulfill', 'god', 'habit', 'holiness', 'honor', 'importance', 'individuals', 'intended', 'learning', 'maintain', 'marriage', 'person', 'protects', 'purity', 'purpose', 'respect', 's', 'safeguard', 'sanctification', 'serves', 'sexes', 'spouse', 'treating', 'underscores']
+- ChatGPT injected words (53):
+	['abstaining', 'acquiring', 'and', 'approaching', 'as', 'avoid', 'bed', 'by', 'chastity', 'conducting', 'context', 'each', 'explained', 'fornication', 'from', 'having', 'her', 'highlighting', 'his', 'holiness', 'honor', 'importance', 'in', 'instructed', 'is', 'maintain', 'marital', 'marriage', 'metaphorical', 'of', 'one', 'own', 'person', 'possess', 'preserved', 'purity', 'refers', 'relations', 'respect', 's', 'sanctification', 'sanctity', 'spouse', 'temptations', 'the', 'their', 'this', 'to', 'treating', 'union', 'vessel', 'wife', 'with']
+- ChatGPT injected words (significant words only) (36):
+	['abstaining', 'acquiring', 'approaching', 'avoid', 'bed', 'chastity', 'conducting', 'context', 'explained', 'fornication', 'having', 'highlighting', 'holiness', 'honor', 'importance', 'instructed', 'maintain', 'marital', 'marriage', 'metaphorical', 'person', 'possess', 'preserved', 'purity', 'refers', 'relations', 'respect', 's', 'sanctification', 'sanctity', 'spouse', 'temptations', 'treating', 'union', 'vessel', 'wife']
 
 ### Logs
-- Attempt 1 BHT: In order to maintain purity and sanctification, it is important for each person to acquire their own spouse and engage in the divinely-appointed union of marriage in holiness and honor. By acquiring a spouse, one is able to avoid the temptation of sexual immorality and instead satisfy their desires within the bounds of marriage. This concept of acquiring a spouse also emphasizes the importance of treating one's own spouse with respect and honor, rather than pursuing illicit relationships. Through this, individuals learn the habit of purity and approach the marriage bed with chastity, ensuring that their union is done in accordance with God's design.
-- 🔄 1 Thessalonians 4:4 (attempt 1, 107 words, 34.33% quotes quality score: 2.1711118342479736, V2 normalized quality score: 63.53, commentator tiers 1-3: 32.62%, 29.34%, 38.04%) 
+- Attempt 1 BHT: In 1 Thessalonians 4:4, the concept of sanctification is explained as abstaining from fornication, specifically in the context of the appropriate conduct within the divine institution of marriage. This requires treating one's own spouse with sanctification and honor, respecting the marriage bed as a place of purity and maintaining moral self-control. The idea of acquiring his own vessel metaphorically refers to acquiring one's own wife, emphasizing the importance of each person having their own spouse to avoid temptations and maintaining purity. Ultimately, this verse encourages believers to approach the marriage bed with chastity, honoring the sanctity of the marital relationship.
+- 🔄 1 Thessalonians 4:4 (attempt 1, 101 words, 26.15% quotes quality score: 2.266058940410239, V2 normalized quality score: 66.69, commentator tiers 1-3: 30.43%, 34.98%, 34.59%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: In this passage, the focus is on the importance of sanctification within the context of marriage. It emphasizes the need for spouses to treat one another with honor and purity. Each person is encouraged to acquire their own spouse in sanctification, using moral self-control and knowing how to possess their own vessel, metaphorically referring to their wife. The aim is to approach the marriage bed with chastity, ensuring that it remains a place of purity and honor.
+- 🔄 1 Thessalonians 4:4 (attempt 2, 78 words, 39.62% quotes quality score: 2.237930918818452, V2 normalized quality score: 65.75, commentator tiers 1-3: 31.51%, 33.72%, 34.77%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'PASSAGE' FOUND IN BHT!
+- Attempt 3 BHT: In this verse, sanctification is explained as abstaining from fornication and carrying on marital relations in holiness and honor. Each person is encouraged to acquire their own spouse in sanctification, and by doing so, they treat their own wife honorably. The emphasis is on moral self-control and the importance of maintaining purity within the marriage relationship. By approaching the marriage bed with chastity, husbands and wives uphold the sacredness of their union.
+- 🔄 1 Thessalonians 4:4 (attempt 3, 73 words, 35.85% quotes quality score: 2.222649290819165, V2 normalized quality score: 65.24, commentator tiers 1-3: 32.49%, 32.99%, 34.53%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: The sanctification within marriage is explained as abstaining from fornication and conducting the divine institution of spousal relations in holiness and honor. The emphasis is on each person's responsibility to possess their own wife in sanctification and honor, treating her with respect and purity. This concept of acquiring his own vessel metaphorically refers to acquiring one's own wife and emphasizes the importance of each person having their own spouse to avoid temptations and maintain purity within the marital relationship. It highlights the significance of approaching the marriage bed with chastity, honoring the sanctity of the marital union.
+- 🔄 1 Thessalonians 4:4 (attempt 4, 99 words, 30.65% quotes quality score: 2.240248869480463, V2 normalized quality score: 65.83, commentator tiers 1-3: 30.47%, 33.94%, 35.58%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: To remain pure and sanctified, it is crucial to acquire one's own spouse and engage in the divinely-appointed marriage with holiness and honor. By acquiring a spouse, one can avoid the allure of sexual immorality and instead satisfy their desires within the sacred boundaries of marriage. This acquisition of a spouse also emphasizes the necessity of treating one's own spouse with reverence and dignity, rather than engaging in forbidden relationships. This not only promotes purity and honor but also serves as a reminder to approach the marriage bed with chastity and reverence as intended by God.
-- 🔄 1 Thessalonians 4:4 (attempt 2, 99 words, 35.94% quotes quality score: 2.2432593909327143, V2 normalized quality score: 65.93, commentator tiers 1-3: 31.78%, 28.78%, 39.45%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: In this context, sanctification is explained as abstaining from fornication and conducting marital relations in holiness and honor. Each person is instructed to possess their own wife in sanctification and honor, treating her with respect and purity. The metaphorical acquiring his own vessel refers to acquiring one's own wife, highlighting the importance of having one's own spouse to avoid temptations and maintain purity. By approaching the marriage bed with chastity, the sanctity of the marital union is preserved.
+- 🔄 1 Thessalonians 4:4 (attempt 5, 80 words, 32.08% quotes quality score: 2.2890721902728486, V2 normalized quality score: 67.45, commentator tiers 1-3: 31.12%, 33.79%, 35.09%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: To keep oneself pure and sanctified, it is important to acquire a spouse of one's own in sanctification and honor. By doing so, one can avoid the temptation of sexual immorality and instead engage in the divine purpose of marital intimacy with reverence. This acquisition of a spouse is not only a means to avoid dishonoring one's own body but also to honor and treat one's spouse with respect. In this way, individuals learn the importance of maintaining purity and approaching the marriage bed with chastity.
-- 🔄 1 Thessalonians 4:4 (attempt 3, 89 words, 36.84% quotes quality score: 2.2331836268157677, V2 normalized quality score: 65.59, commentator tiers 1-3: 33.46%, 29.17%, 37.37%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: To maintain purity and sanctification, each person should acquire their own spouse and engage in the divinely-appointed commerce of the sexes with holiness and honor. This acquisition of a spouse serves as a safeguard against fornication and protects against dishonoring one's own body. It underscores the importance of treating one's spouse with honor and respect, ensuring that the marriage bed is approached with purity and chastity. By learning the habit of purity and acquiring a spouse in sanctification and honor, individuals can fulfill God's intended purpose for marriage.
-- 🔄 1 Thessalonians 4:4 (attempt 4, 92 words, 35.59% quotes quality score: 2.3087228825136004, V2 normalized quality score: 68.11, commentator tiers 1-3: 33.49%, 28.21%, 38.3%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: In order to maintain purity, it is important for each person to acquire their own spouse and engage in the divinely-appointed union of marriage with holiness and honor. By doing so, one can avoid the temptation of sexual immorality and instead satisfy their desires within the boundaries of this sanctified relationship. This acquisition of a spouse also emphasizes the significance of treating one's partner with respect and honor, promoting purity and chastity in the marriage bed. Through acquiring a spouse in sanctification and honor, individuals can uphold God's intended purpose for marriage.
-- 🔄 1 Thessalonians 4:4 (attempt 5, 95 words, 34.92% quotes quality score: 2.219832838483884, V2 normalized quality score: 65.15, commentator tiers 1-3: 32.71%, 28.58%, 38.7%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 4:4 bht prompt v0.7 (92 words, 35.59% quotes)
-- quality score: 2.3087228825136004, V2 normalized quality score: 68.11, commentator tiers 1-3: 33.49%, 28.21%, 38.3%)
+- ✅ 1 Thessalonians 4:4 bht prompt v0.8 (80 words, 32.08% quotes)
+- quality score: 2.2890721902728486, V2 normalized quality score: 67.45, commentator tiers 1-3: 31.12%, 33.79%, 35.09%)

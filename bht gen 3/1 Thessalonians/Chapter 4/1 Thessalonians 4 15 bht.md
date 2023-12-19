@@ -1,88 +1,89 @@
 # 1 Thessalonians 4:15 Commentary Help Text
 
 ## BHT:
-Through a direct revelation from the Lord, Paul confirms that both he and the Thessalonians expected to be alive at the Lord's coming. The early Christians did not perceive their departed brethren as preceding them in entering glory, but needed assurance that the living believers would not precede those who have fallen asleep. The Spirit intended believers in every age to live in continued expectation of the Lord's coming and strive not to prioritize death over the return of our Lord.
+The hope of the Thessalonians, and all believers, rests not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His glorious coming. Each generation, represented by the plural we, bears witness to this blessed hope, anticipating the resurrection of the saints and the joy of being caught up together to meet the Lord. Let us therefore eagerly await His return, not fearing death, but eagerly longing for the coming of our Lord.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Confirmation of last verse by direct revelation from the Lord. this—this which follows: taken up by that. in (virtue of: an assertion made within the sphere and element of that certainty, which the word of the Lord gives) the word of the Lord,—i. e. by direct revelation from Him made te me." 
-2. "Then beyond question, he himself expected to be alive, together with the majority of those to whom he was writing, at the Lord’s coming." 
-3. "At the same time it must be borne in mind, that this inclusion of himself and his hearers among the 'living and remaining behind' does not in any way enter into the fact revealed and here announced, which is respecting that class of persons only as they are, and must be, one portion of the faithful at the Lord’s coming."
+1. "That is, we say it not of ourselves, but having learned it from Christ."
+2. "For we cannot for a moment accept the evasion of Theodoret...but must take the words in their only plain grammatical meaning."
+3. "There is no reason to fear, that we shall...gain an advantage over...and fail of the prize."
 
 ### Jamieson-Fausset-Brown:
-1. "So far were the early Christians from regarding their departed brethren as anticipating them in entering glory, that they needed to be assured that those who remain to the coming of the Lord 'will not anticipate them that are asleep." 
-2. "The Spirit designed that believers in each successive age should live in continued expectation of the Lord's coming, not knowing but that they should be among those found alive at His coming."
-3. "It is a sad fall from this blessed hope, that death is looked for by most men, rather than the coming of our Lord."
+1. "Each successive generation in its time and place represents the generation which shall actually survive till His coming."
+2. "It is a sad fall from this blessed hope, that death is looked for by most men, rather than the coming of our Lord."
+3. "The 'we' is an affectionate identifying of ourselves with our fellows of all ages, as members of the same body, under the same Head, Christ Jesus."
 
 ### Albert Barnes:
-1. "Paul means that the Lord Jesus had made a special communication to him on the subject."
-2. "From this expression, it would seem, that some of the Thessalonians supposed that Paul meant to teach that he himself, and many of the living, would survive until the coming of the Lord Jesus."
-3. "The object seems to be to correct an opinion which prevailed among the Thessalonians that they who should survive to the coming of the Lord Jesus would have great advantages over those who had died."
+1. "For this we say unto you by the word of the Lord - By the command or inspired teaching of the Lord."
+2. "The meaning here is, that they who would be alive at the coming of the Lord Jesus, would not be 'changed' and received up into glory before those who were in their graves were raised up."
+3. "The apostle, therefore, states that no such disadvantage could follow, for the matter of fact was, that the dead would rise first."
 
 ### Marvin Vincent:
-1. "By the word of the Lord... We do not say this on our own authority." 
-2. "The plural we indicates that Paul himself expected to be alive at the parousia." 
+1. "The plural we indicates that Paul himself expected to be alive at the parousia." 
+2. "Shall not prevent in the older sense of anticipate, be beforehand with." 
 3. "The living shall not share the blessings of the advent sooner than the dead in Christ."
 
 ### John Calvin:
 1. "We are not the first witnesses of the resurrection, but instead of this the Master himself declared it."
-2. "We shall accordingly not rise without them."
+2. "The order of the resurrection will begin with them: we shall accordingly not rise without them."
 3. "He means by this to arouse the Thessalonians to wait for it, nay more, to hold all believers in suspense, that they may not promise themselves some particular time."
 
 ### Philip Schaff:
-1. "The account of the Lord’s Second Advent which follows is one of those revelations which human reasoning could not even help the apostle to predict."
-2. "The 'we' embraces along with the apostle all the Christian Thessalonians at that time alive; if, therefore, the expression implies that Paul expected that he would live till the reappearance of Christ, it equally implies that he expected that all the Thessalonians would survive till that time; which no one is hardy enough to maintain."
-3. "The beginning of the following chapter shows that Paul was unwilling to speak definitely of the times and seasons; and the Second Epistle shows that the one point on which he was confident was that other events must occur before the second coming."
+1. "The account of the Lord’s Second Advent which follows is one of those revelations which human reasoning could not even help the apostle to predict. It must be revealed directly." 
+2. "What the words do imply is the possibility, but not the expectation, that some or all of them might see the day of the Son of man before dying."
+3. "Shall in no wise precede, i.e. shall not anticipate or be beforehand with."
 
 ### Archibald T. Robertson:
-1. "By the word of the Lord (εν λογω Κυριου). We do not know to what word of the Lord Jesus Paul refers, probably Paul meaning only the point in the teaching of Christ rather than a quotation." 
-2. "Ye that are alive (ημεις ο ζωντες). Paul here includes himself, but this by no means shows that Paul knew that he would be alive at the Parousia of Christ. He was alive, not dead, when he wrote." 
-3. "Shall in no wise precede (ου μη φθασωμεν). Second aorist active subjunctive of φθανω, to come before, to anticipate. This strong negative with ου μη (double negative) and the subjunctive is the regular idiom (Robertson, Grammar, p. 929). Hence there was no ground for uneasiness about the dead in Christ."
+1. "By the word of the Lord (εν λογω Κυριου)... Jesus may have spoken on this subject though it has not been preserved to us." 
+2. "Ye that are alive (ημεις ο ζωντες). Paul here includes himself, but this by no means shows that Paul knew that he would be alive at the Parousia of Christ."
+3. "Shall in no wise precede (ου μη φθασωμεν)... Hence there was no ground for uneasiness about the dead in Christ."
 
 ### John Gill:
-1. "...what he was about to say, was not a fancy and conjecture of his own, the fruit and produce of his own brain, but what he could assert upon a sure foundation, upon the best and greatest authority, even the word of the Lord..." 
-2. "...he speaks of himself and others in the first person plural, by way of instance and example, for illustration sake; that supposing he and others should be then in being, the following would be the case..."
-3. "...from hence it appears, that there will be saints alive at Christ's second coming; he will have a seed to serve him till he comes again; he always had in the worst of times, and will have..."
+1. "What he was about to say, was not a fancy and conjecture of his own, the fruit and produce of his own brain, but what he could assert upon a sure foundation, upon the best and greatest authority, even the word of the Lord."
+2. "From hence it appears, that there will be saints alive at Christ's second coming; he will have a seed to serve him till he comes again."
+3. "They shall not get the start of them, and be in the arms of Jesus, and enjoy his presence when he comes, before the dead in Christ, which might be thought, but this will not be the case; for the dead saints will rise before the living ones are changed, and both will be caught up together to meet the Lord."
 
 ### John Wesley:
 1. "By the word of the Lord — By a particular revelation."
-2. "We who are left — This intimates the fewness of those who will be then alive, compared to the multitude of the dead."
-3. "Believers of all ages and nations make up, as it were, one body; in consideration of which, the believers of that age might put themselves in the place, and speak in the person, of them who were to live till the coming of the Lord."
+2. "Believers of all ages and nations make up, as it were, one body."
+3. "Not that St. Paul hereby asserted (though some seem to have imagined so) that the day of the Lord was at hand."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:39
+- Timestamp: 12-19-2023 14:00:28
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 42.62%
-- BHT Quality Score: 2.6156118169064646
+- BHT Word Count: 94
+- BHT Commentary Usage: 41.27%
+- BHT Quality Score: 2.263242948775914
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'age', 'alive', 'and', 'as', 'asleep', 'assurance', 'at', 'be', 'believers', 'both', 'brethren', 'but', 'christians', 'coming', 'confirms', 'continued', 'death', 'departed', 'did', 'direct', 'early', 'entering', 'every', 'expectation', 'expected', 'fallen', 'from', 'glory', 'have', 'he', 'in', 'intended', 'live', 'living', 'lord', 'needed', 'not', 'of', 'our', 'over', 'paul', 'perceive', 'precede', 'preceding', 'prioritize', 'return', 'revelation', 's', 'spirit', 'strive', 'that', 'the', 'their', 'them', 'thessalonians', 'those', 'through', 'to', 'who', 'would']
-- ChatGPT injected words (significant words only) (35):
-	['age', 'alive', 'asleep', 'assurance', 'believers', 'brethren', 'christians', 'coming', 'confirms', 'continued', 'death', 'departed', 'direct', 'early', 'entering', 'expectation', 'expected', 'fallen', 'glory', 'intended', 'live', 'living', 'lord', 'needed', 'paul', 'perceive', 'precede', 'preceding', 'prioritize', 'return', 'revelation', 's', 'spirit', 'strive', 'thessalonians']
+- ChatGPT injected words (63):
+	['all', 'and', 'anticipating', 'at', 'await', 'bears', 'being', 'believers', 'blessed', 'but', 'by', 'caught', 'christ', 'coming', 'conjecture', 'dead', 'death', 'each', 'eagerly', 'fearing', 'for', 'foundation', 'generation', 'glorious', 'have', 'himself', 'his', 'hope', 'in', 'joy', 'learned', 'let', 'living', 'longing', 'lord', 'meet', 'mere', 'not', 'of', 'on', 'our', 'plural', 'precede', 'represented', 'rests', 'resurrection', 'return', 'saints', 'shall', 'sure', 'that', 'the', 'therefore', 'thessalonians', 'this', 'through', 'to', 'together', 'up', 'us', 'we', 'witness', 'word']
+- ChatGPT injected words (significant words only) (37):
+	['anticipating', 'await', 'bears', 'believers', 'blessed', 'caught', 'christ', 'coming', 'conjecture', 'dead', 'death', 'eagerly', 'fearing', 'foundation', 'generation', 'glorious', 'hope', 'joy', 'learned', 'let', 'living', 'longing', 'lord', 'meet', 'mere', 'plural', 'precede', 'represented', 'rests', 'resurrection', 'return', 'saints', 'shall', 'sure', 'thessalonians', 'witness', 'word']
 
 ### Logs
-- Attempt 1 BHT: The apostle Paul, through a direct revelation from the Lord, confirms that he and the majority of the Thessalonians, to whom he is writing, expect to be alive at the coming of the Lord. However, it is important to note that this inclusion of themselves does not overshadow the fact that this revelation pertains to all faithful believers who will be present at the coming of the Lord. The early Christians did not view their departed brethren as anticipating them in entering glory, but rather needed assurance that those who remain until the Lord's coming would not precede those who have fallen asleep. The Spirit intended for believers in every age to live in continued expectation of the Lord's coming, without knowing whether they would be among the living at that time. Thus, it is crucial for believers to not lose sight of this blessed hope and instead eagerly anticipate the return of our Lord.
-- 🔄 1 Thessalonians 4:15 (attempt 1, 157 words, 43.16% quotes quality score: 2.5609959807395652, V2 normalized quality score: 76.49, commentator tiers 1-3: 37.26%, 37.91%, 24.82%) 
+- Attempt 1 BHT: The hope of the Thessalonians, and all believers, rests not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His glorious coming. Each generation, represented by the plural we, bears witness to this blessed hope, anticipating the resurrection of the saints and the joy of being caught up together to meet the Lord. Let us therefore eagerly await His return, not fearing death, but eagerly longing for the coming of our Lord.
+- 🔄 1 Thessalonians 4:15 (attempt 1, 94 words, 41.27% quotes quality score: 2.263242948775914, V2 normalized quality score: 66.59, commentator tiers 1-3: 32.05%, 34.22%, 33.73%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Through a direct revelation from the Lord, Paul confirms that he and the majority of the Thessalonians expect to be alive at the Lord's coming. However, it is important to note that this inclusion does not overshadow the fact that this revelation pertains to all faithful believers who will be present. The early Christians did not view their departed brethren as anticipating them in entering glory, but rather needed assurance that those who remain until the Lord's coming would not precede those who have fallen asleep. Thus, believers must hold onto the blessed hope of the Lord's return.
-- 🔄 1 Thessalonians 4:15 (attempt 2, 101 words, 47.22% quotes quality score: 2.4072195243522145, V2 normalized quality score: 71.38, commentator tiers 1-3: 37.26%, 37.33%, 25.4%) 
+- Attempt 2 BHT: Each generation, represented by the plural we, bears witness to the hope of the Thessalonians, and all believers, resting not on mere conjecture, but on the sure foundation of the word of the Lord. Through Christ Himself, we have learned that the living shall not precede the dead in Christ at His coming. Let us eagerly await His return, not fearing death, but eagerly longing for the glorious reunion of the saints and the joy of being caught up together to meet the Lord.
+- 🔄 1 Thessalonians 4:15 (attempt 2, 84 words, 39.66% quotes quality score: 2.2504795268104427, V2 normalized quality score: 66.17, commentator tiers 1-3: 33.22%, 33.52%, 33.26%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Through a direct revelation from the Lord, Paul confirms that he and the Thessalonians expected to be alive at the Lord's coming. However, this does not overshadow the fact that this revelation pertains to all faithful believers. The early Christians did not see their departed brethren as anticipating them in glory, but believers should eagerly await the Lord's coming. This blessed hope should not be overshadowed by the expectation of death rather than the return of our Lord.
-- 🔄 1 Thessalonians 4:15 (attempt 3, 80 words, 49.12% quotes quality score: 2.447760374304438, V2 normalized quality score: 72.73, commentator tiers 1-3: 38.16%, 37.55%, 24.29%) 
+- Attempt 3 BHT: The hope of believers, including the Thessalonians, lies in the certainty of the word of the Lord. The living will not precede the dead in Christ at His coming, as generations past and present eagerly anticipate the resurrection and the joy of being caught up together to meet the Lord. This blessed hope, taught by Christ Himself, unites believers across time as one body, encouraging them to eagerly await the glorious return of their Lord without fear.
+- 🔄 1 Thessalonians 4:15 (attempt 3, 77 words, 39.62% quotes quality score: 2.238892496525179, V2 normalized quality score: 65.78, commentator tiers 1-3: 30.39%, 35.57%, 34.04%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Through a direct revelation from the Lord, Paul confirms that both he and the Thessalonians expected to be alive at the Lord's coming. The early Christians did not perceive their departed brethren as preceding them in entering glory, but needed assurance that the living believers would not precede those who have fallen asleep. The Spirit intended believers in every age to live in continued expectation of the Lord's coming and strive not to prioritize death over the return of our Lord.
-- 🔄 1 Thessalonians 4:15 (attempt 4, 83 words, 42.62% quotes quality score: 2.6156118169064646, V2 normalized quality score: 78.31, commentator tiers 1-3: 37.9%, 38.84%, 23.26%) 
+- Attempt 4 BHT: Through the word of the Lord, believers have learned the truth behind their hope—the living shall not precede the dead in Christ at His coming. This cherished hope unites believers of all generations as one body, and it should inspire eager anticipation for the glorious return of the Lord. The certainty of this hope, rooted in the teachings of Christ Himself, encourages believers to await His coming without fear, longing for the day when they will be caught up together with the saints to meet their Lord.
+- 🔄 1 Thessalonians 4:15 (attempt 4, 88 words, 46.67% quotes quality score: 2.2299638561243875, V2 normalized quality score: 65.49, commentator tiers 1-3: 30.81%, 34.99%, 34.2%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Through a direct revelation from the Lord, Paul confirms that he and the Thessalonians expected to be alive at the Lord's coming. The early Christians did not anticipate their departed brethren entering glory before them, but rather needed reassurance that the living believers would not precede those who had fallen asleep. Thus, believers should eagerly await and prioritize the return of our Lord, rather than settling for the anticipation of death.
-- 🔄 1 Thessalonians 4:15 (attempt 5, 72 words, 46.55% quotes quality score: 2.4498758017819906, V2 normalized quality score: 72.8, commentator tiers 1-3: 37.39%, 38.22%, 24.4%) 
+- Attempt 5 BHT: The hope of believers lies in the certainty of the word of the Lord. The living will not precede the dead in Christ at His coming. This cherished hope unites believers as one body, encouraging an eager anticipation for the glorious return of the Lord. The certainty of this hope, rooted in the teachings of Christ Himself, inspires believers to await His coming without fear, longing for the day when they will be caught up together with the saints to meet their Lord.
+- 🔄 1 Thessalonians 4:15 (attempt 5, 83 words, 43.14% quotes quality score: 2.1237119558422473, V2 normalized quality score: 61.95, commentator tiers 1-3: 30.52%, 36.04%, 33.44%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 4:15 bht prompt v0.7 (83 words, 42.62% quotes)
-- quality score: 2.6156118169064646, V2 normalized quality score: 78.31, commentator tiers 1-3: 37.9%, 38.84%, 23.26%)
+- ✅ 1 Thessalonians 4:15 bht prompt v0.8 (94 words, 41.27% quotes)
+- quality score: 2.263242948775914, V2 normalized quality score: 66.59, commentator tiers 1-3: 32.05%, 34.22%, 33.73%)

@@ -1,33 +1,34 @@
 # Philippians 1:26 Commentary Help Text
 
 ## BHT:
-May our rejoicing and boasting in Christ Jesus abound greatly, for it is through His presence among us that we possess the Gospel, which increases and assures our matter of glorying. In this case, it is Paul, as the worker of this material, who is the cause of our Christian joy. Though we would rejoice even more if he were to return to us, our rejoicing is ultimately in Christ and in what the Lord has done, for it is His grace that has been bestowed upon us.
+May your matter of rejoicing and boasting in Christ Jesus abound through the presence of the apostle Paul. Your joy evolves within the sphere of life in Christ, and it is through Paul's coming to you again that your rejoicing will be more abundant in Jesus Christ. Your glorying is not centered on Paul himself, but on Christ, whose person, righteousness, and salvation are held forth by Paul for your comfort and edification.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "That your matter of boasting may abound in Christ Jesus." 
-2. "Their Christian matter of boasting in him was, the possession of the Gospel, which they had received from him, which would abound, be assured and increased, by his presence among them." 
-3. "I being the worker of that which furnishes this material."
+1. "Their Christian matter of boasting in him was, the possession of the Gospel, which they had received from him, which would abound, be assured and increased, by his presence among them."
+ 
+2. "May abound in Christ Jesus, its field, element of increase, it being a Christian matter of glorying"
+3. "Its field, element, of abounding in Christ Jesus, I being the worker of that which furnishes this material"
 
 ### Jamieson-Fausset-Brown:
-1. "That your matter of glorying (or rejoicing) may abound in Christ Jesus."
-2. "In me (that is, in my case; in respect to me, or for me who have been granted to your prayers."
-3. "Through my presence again among you."
+1. "That your matter of glorying (or rejoicing) may abound in Christ Jesus." 
+2. "in my case; in respect to me, or for me who have been granted to your prayers," 
+3. "in me implies that Paul is the worker of the material of abounding in Christ Jesus."
 
 ### Albert Barnes:
-1. "That your rejoicing may be more abundant in Jesus Christ."
+1. "That your rejoicing may be more abundant in Jesus Christ - Through the mercy and grace of Christ..."
 2. "If he was spared, his deliverance would be traced to Christ, and they would rejoice together in one who had so mercifully delivered him."
 3. "Their joy would not only be that he was delivered, but that he was permitted to see them again."
 
 ### Marvin Vincent:
-1. "Christ is conceived as the element in which the matter of rejoicing grows and abounds."
-2. "The conjunction of the two phrases in Christ, in me, is somewhat confusing Paul's presence is the immediate cause of their christian joy; hence in me; but their rejoicing in Paul is in Christ - a joy evolved within the sphere of life in Christ, and peculiar to those only to whom to live is Christ."
-3. "Coming [παρουσιας]. Rev., better, presence."
+1. "Christ is conceived as the element in which the matter of rejoicing grows and abounds." 
+2. "Paul's presence is the immediate cause of their christian joy; hence in me; but their rejoicing in Paul is in Christ - a joy evolved within the sphere of life in Christ, and peculiar to those only to whom to live is Christ." 
+3. "Coming presence."
 
 ### John Calvin:
-1. "No one assuredly will deny that I have faithfully brought out Paul’s mind."
-2. "For in Christ is employed in place of Secundum Christum, (According to Christ,) or Christiane, (Christianly,) to intimate that it was a holy kind of glorying."
-3. "He anticipates this calumny by saying that they will do this according to Christ — glorying in a servant of Christ, with a view to the glory of his Lord, and that with an eye to the doctrine rather than to the individual."
+1. "For in Christ is employed in place of Secundum Christum, (According to Christ,) or Christiane, (Christianly,) to intimate that it was a holy kind of glorying."
+2. "He anticipates this calumny by saying that they will do this according to Christ — glorying in a servant of Christ, with a view to the glory of his Lord."
+3. "...and that with an eye to the doctrine rather than to the individual, and in opposition to the false apostles, just as David, by comparing himself with hypocrites, boasts of his righteousness."
 
 ### Philip Schaff:
 1. "The Christian man may boast, but it can never be of himself, but of what in mercy has been done for him, and such boasting becomes a glorification of his Lord."
@@ -36,33 +37,34 @@ May our rejoicing and boasting in Christ Jesus abound greatly, for it is through
 
 ### Archibald T. Robertson:
 1. "In Christ Jesus" as the basis for the glorying, "in me" as the instance in point.
-2. Through my presence, the word so often used of the second coming of Christ.
-3. [The word is used] here in its ordinary sense.
+2. Through my presence. The word so often used of the second coming of Christ.
+3. "Through my presence" - here in its ordinary sense.
 
 ### John Gill:
-1. "That your rejoicing may be more abundant... upon his deliverance, they had so earnestly prayed and so much longed for..." 
-2. "[Their joy] had Christ for its object, whose person, righteousness, and salvation were held forth by [the apostle] to their view and comfort..."
-3. "Though they would still more and more rejoice should he return to them once more... still it would he in Christ, and because of the fulness of the blessing of the Gospel of Christ, in which he should come to them."
+1. "That your rejoicing may be more abundant... their joy did not centre in the apostle, but had Christ for its object, whose person, righteousness, and salvation were held forth by him to their view and comfort." 
+2. "Their joy did not centre in the apostle, but had Christ for its object."
+3. "By my coming to you again; yet still it would he in Christ, and because of the fulness of the blessing of the Gospel of Christ, in which he should come to them."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:38:31
+- Timestamp: 12-19-2023 13:51:20
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 55.17%
-- BHT Quality Score: 2.3266157525455187
+- BHT Word Count: 74
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 2.5319969435063636
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (58):
-	['abound', 'among', 'and', 'as', 'assures', 'been', 'bestowed', 'boasting', 'case', 'cause', 'christ', 'christian', 'done', 'even', 'for', 'glorying', 'gospel', 'grace', 'greatly', 'has', 'he', 'his', 'if', 'in', 'increases', 'is', 'it', 'jesus', 'joy', 'lord', 'material', 'matter', 'may', 'more', 'of', 'our', 'paul', 'possess', 'presence', 'rejoice', 'rejoicing', 'return', 'that', 'the', 'this', 'though', 'through', 'to', 'ultimately', 'upon', 'us', 'we', 'were', 'what', 'which', 'who', 'worker', 'would']
-- ChatGPT injected words (significant words only) (26):
-	['abound', 'assures', 'bestowed', 'boasting', 'case', 'cause', 'christ', 'christian', 'glorying', 'gospel', 'grace', 'greatly', 'increases', 'jesus', 'joy', 'lord', 'material', 'matter', 'paul', 'possess', 'presence', 'rejoice', 'rejoicing', 'return', 'ultimately', 'worker']
+- ChatGPT injected words (50):
+	['abound', 'abundant', 'again', 'and', 'apostle', 'are', 'be', 'boasting', 'but', 'by', 'centered', 'christ', 'comfort', 'coming', 'edification', 'evolves', 'for', 'forth', 'glorying', 'held', 'himself', 'in', 'is', 'it', 'jesus', 'joy', 'life', 'matter', 'may', 'more', 'not', 'of', 'on', 'paul', 'person', 'presence', 'rejoicing', 'righteousness', 's', 'salvation', 'sphere', 'that', 'the', 'through', 'to', 'whose', 'will', 'within', 'you', 'your']
+- ChatGPT injected words (significant words only) (25):
+	['abound', 'abundant', 'apostle', 'boasting', 'centered', 'christ', 'comfort', 'coming', 'edification', 'evolves', 'forth', 'glorying', 'held', 'jesus', 'joy', 'life', 'matter', 'paul', 'person', 'presence', 'rejoicing', 'righteousness', 's', 'salvation', 'sphere']
 
 ### Logs
-- Attempt 1 BHT: May our boasting and rejoicing in Christ Jesus abound greatly, for it is through His presence among us that we possess the Gospel, which increases and assures our matter of glorying. In this case, it is Paul, who is the worker of that which furnishes this material for our rejoicing. It is through his presence again among us, akin to the eventual second coming of Christ, that our joy is experienced. Our rejoicing is not of ourselves, but a glorification of the Lord, for our boasting is in what the Lord has done and the grace He has bestowed upon us.
-- 🔄 Philippians 1:26 (attempt 1, 101 words, 50.88% quotes quality score: 2.22659078969822, V2 normalized quality score: 65.37, commentator tiers 1-3: 30.64%, 36.51%, 32.85%) 
-	- BHT WAS OVER 80 WORDS!
-- ✅ Philippians 1:26 bht prompt v0.7 (88 words, 55.17% quotes)
-- quality score: 2.3266157525455187, V2 normalized quality score: 68.7, commentator tiers 1-3: 28.12%, 36.22%, 35.66%)
+- Attempt 1 BHT: May your matter of rejoicing and boasting in Christ Jesus abound, increasing through the presence of the apostle Paul among you. The Gospel that you have received from him will be assured and multiplied in his presence. Indeed, it is in Christ Jesus that your joy grows and flourishes, while Paul's presence serves as the immediate cause of your Christian delight. By his coming to you again, your joy is not centered on the apostle himself, but on Christ, whose person, righteousness, and salvation are held forth by Paul for your comfort and edification.
+- 🔄 Philippians 1:26 (attempt 1, 95 words, 49.21% quotes quality score: 2.4863334887751827, V2 normalized quality score: 74.01, commentator tiers 1-3: 29.13%, 32.85%, 38.02%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Philippians 1:26 bht prompt v0.8 (74 words, 50.0% quotes)
+- quality score: 2.5319969435063636, V2 normalized quality score: 75.53, commentator tiers 1-3: 28.94%, 32.47%, 38.59%)

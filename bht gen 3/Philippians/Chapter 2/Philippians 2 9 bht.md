@@ -1,48 +1,48 @@
 # Philippians 2:9 Commentary Help Text
 
 ## BHT:
-Christ willingly humbled Himself, emptying Himself of His divine privileges and taking on the form of a servant. As a result, God highly exalted Him, bestowing upon Him a super-eminent exaltation. The name JESUS, which was given to Christ at the beginning of His humiliation, is now His name of honor in glory. This exaltation did not change His person, but rather lifted Him above the state of glory He enjoyed before the Incarnation. By following His example of humility, we too can attain the glory of the heavenly kingdom.
+Christ, the eternal Son of God, voluntarily took on human nature and humbled Himself in perfect obedience. In response, God exalted Him and bestowed upon Him a name that surpasses all others. This serves as an example for us to humble ourselves and follow Christ's path to future exaltation. His exaltation is represented by the name 'JESUS' and signifies His glory and honor. As Christ returned to heaven, He carried with Him His humanity, becoming both the Son of Man and the Son of God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Wherefore also God highly exalted Him."
-2. "His exaltation being a super-eminent one."
-3. "The name which is above every name."
+1. "Herein Christ was not a man, nor an example what we can do, but the eternal Son of God, lowering Himself to take the nature of men, and in it rendering voluntary and perfect obedience."
+2. "God highly exalted Him, and gave to Him the name which is above every name."
+
 
 ### Jamieson-Fausset-Brown:
 1. "An intimation, that if we would hereafter be exalted, we too must, after His example, now humble ourselves."
 2. "Christ emptied Christ; God exalted Christ as man to equality with God."
-3. "The name 'JESUS' (Philippians 2:10), which is even now in glory His name of honor."
+3. "The name 'JESUS', which is even now in glory His name of honor."
 
 ### Albert Barnes:
-1. "There was an appropriate reward for [Christ's] humiliation and suffering, and that was bestowed upon him by his exaltation as Mediator to the right hand of God."
-2. "This exaltation is spoken of the Redeemer as he was, sustaining a divine and a human nature."
-3. "No other name can be compared with [Christ's]. It stands alone. He only is Redeemer, Saviour. He only is Christ, the Anointed of God."
+1. "There was an appropriate reward for it, and that was bestowed upon him by his exaltation as Mediator to the right hand of God."
+2. "Though he was thus humbled, and appeared in the form of a servant, he is now raised up to the throne of glory, and to universal dominion."
+3. "No other name can be compared with his. It stands alone. He only is Redeemer, Saviour. He only is Christ, the Anointed of God."
 
 ### Marvin Vincent:
-1. "Hath highly exalted [υπερυψωσεν] . Lit., exalted above." 
-2. "Hath given [εχαρισατο] . Freely bestowed, even as Jesus freely offered Himself to humiliation." 
-3. "The name Jesus was bestowed on Christ at the beginning of His humiliation, but prophetically as the One who should save His people from their sins."
+1. "In consequence of this humiliation."
+2. "This expression is differently explained: either the particular name given to Christ, as Jesus or Lord; or name is taken in the sense of dignity or glory."
+3. "He bears the name in His glory."
 
 ### John Calvin:
-1. "Who would now be reluctant to exercise humility, by means of which the glory of the heavenly kingdom is attained?"
-2. "For of what exaltation of Christ does the Apostle here speak? It is, that everything may be accomplished in him that God, by the prophet Isaiah, exclusively claims to himself."
+1. "Every one therefore that humbles himself will in like manner be exalted. Who would now be reluctant to exercise humility, by means of which the glory of the heavenly kingdom is attained?"
+2. "Who does not see that this is a suggestion of Satan — that Christ suffered upon the cross, that he might acquire for himself, by the merit of his work, what he did not possess?"
 3. "Paul, on the other hand, speaks of the honor that is to be rendered to the Son of God—not to mere syllables."
 
 ### Philip Schaff:
-1. "As His humiliation was the lowest, so His exaltation was the highest."
-2. "The person is not changed, only the 'form of a servant' is voluntarily worn by Him who afore had worn the 'form of God.'"
-3. "It is worth notice that the name which was provided for the Incarnate Son (Jesus, i.e., Joshua) had by a special change which Moses made (Numbers 13:16) been compounded with the Tetragrammaton, the most sacred name of the Eternal, as though the compound should speak of salvation through Jehovah but with a human as well as Divine nature in Him who should be the true 'Jehoshua.'"
+1. "As His humiliation was the lowest, so His exaltation was the highest, for the form of man has been received at the right hand of God." 
+2. "St. Paul has his mind still full of the thought of the voluntary humiliation, and so he represents the gift made by the Father to the Incarnate Son as a gift of grace." 
+3. "The best MSS. give ‘the name’ instead of ‘a name,’ and the reference is probably to that supreme name of God which among the Jews was held as incommunicable, a name which represented the concentrated omnipresence of the Godhead."
 
 ### Archibald T. Robertson:
 1. "Because of Christ's voluntary humiliation God lifted him above or beyond the state of glory which he enjoyed before the Incarnation."
-2. "What glory did Christ have after the Ascension that he did not have before in heaven? What did he take back to heaven that he did not bring? Clearly his humanity."
-3. "The name which is above every name. What name is that? Apparently and naturally the name Jesus."
+2. "What glory did Christ have after the Ascension that he did not have before in heaven? What did he take back to heaven that he did not bring? Clearly his humanity. He returned to heaven the Son of Man as well as the Son of God."
+3. "Some think it is 'Jesus Christ,' some 'Lord,' some the ineffable name Jehovah, some merely dignity and honour."
 
 ### John Gill:
-1. "The first step of Christ's exaltation was his resurrection from the dead, when he had a glory given him as a man; his body was raised in incorruption, in glory, in power, and a spiritual one."
-2. "The exaltation of Christ lies in his having the gifts of the Spirit without measure, to bestow on his ministers and churches, in all succeeding generations, for the carrying on of his interest and the enlargement of his kingdom."
-3. "Christ has on his vesture and on his thigh a name written, King of kings, and Lord of lords. Is a deliverer of a nation a title of great honour? Christ is exalted to be a Prince and a Savior of men of all nations."
+1. "The first step of Christ's exaltation was his resurrection from the dead, when he had a glory given him as man; his body was raised in incorruption, in glory, in power, and a spiritual one; it became a glorious body, and the pledge and exemplar of the saints at the general resurrection."
+2. "Christ's exaltation lies in his having the gifts of the Spirit without measure, to bestow on his ministers and churches, in all succeeding generations, for the carrying on of his interest, and the enlargement of his kingdom."
+3. "Christ has that which is superior to it. Was a priest a name of honour and dignity among the Jews? Christ is not only a priest, and an high priest, but a great high priest; a priest not after the order of Aaron, but after the order of Melchizedek, Hebrews 7:11, and a greater than he himself."
 
 ### John Wesley:
 1. "He humbled himself; but God hath exalted him - So recompensing his humiliation."
@@ -52,38 +52,40 @@ Christ willingly humbled Himself, emptying Himself of His divine privileges and 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:13
+- Timestamp: 12-19-2023 13:53:47
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 46.15%
-- BHT Quality Score: 2.45515303348708
+- BHT Word Count: 86
+- BHT Commentary Usage: 45.0%
+- BHT Quality Score: 2.5031462759177128
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (65):
-	['a', 'above', 'and', 'as', 'at', 'attain', 'before', 'beginning', 'bestowing', 'but', 'by', 'can', 'change', 'christ', 'did', 'divine', 'eminent', 'emptying', 'enjoyed', 'exaltation', 'exalted', 'example', 'following', 'form', 'given', 'glory', 'god', 'he', 'heavenly', 'highly', 'him', 'himself', 'his', 'honor', 'humbled', 'humiliation', 'humility', 'in', 'incarnation', 'is', 'jesus', 'kingdom', 'lifted', 'name', 'not', 'now', 'of', 'on', 'person', 'privileges', 'rather', 'result', 'servant', 'state', 'super', 'taking', 'the', 'this', 'to', 'too', 'upon', 'was', 'we', 'which', 'willingly']
-- ChatGPT injected words (significant words only) (35):
-	['attain', 'beginning', 'bestowing', 'change', 'christ', 'divine', 'eminent', 'emptying', 'enjoyed', 'exaltation', 'exalted', 'example', 'following', 'form', 'given', 'glory', 'god', 'heavenly', 'highly', 'honor', 'humbled', 'humiliation', 'humility', 'incarnation', 'jesus', 'kingdom', 'lifted', 'person', 'privileges', 'result', 'servant', 'state', 'super', 'taking', 'willingly']
+- ChatGPT injected words (60):
+	['a', 'all', 'an', 'and', 'as', 'becoming', 'bestowed', 'both', 'by', 'carried', 'christ', 'eternal', 'exaltation', 'exalted', 'example', 'follow', 'for', 'future', 'glory', 'god', 'he', 'heaven', 'him', 'himself', 'his', 'honor', 'human', 'humanity', 'humble', 'humbled', 'in', 'is', 'jesus', 'man', 'name', 'nature', 'obedience', 'of', 'on', 'others', 'ourselves', 'path', 'perfect', 'represented', 'response', 'returned', 's', 'serves', 'signifies', 'son', 'surpasses', 'that', 'the', 'this', 'to', 'took', 'upon', 'us', 'voluntarily', 'with']
+- ChatGPT injected words (significant words only) (33):
+	['bestowed', 'carried', 'christ', 'eternal', 'exaltation', 'exalted', 'example', 'follow', 'future', 'glory', 'god', 'heaven', 'honor', 'human', 'humanity', 'humble', 'humbled', 'jesus', 'man', 'nature', 'obedience', 'path', 'perfect', 'represented', 'response', 'returned', 's', 'serves', 'signifies', 'son', 'surpasses', 'took', 'voluntarily']
 
 ### Logs
-- Attempt 1 BHT: Christ willingly humbled Himself, emptying Himself of His divine privileges and taking on the form of a servant. As a result, God highly exalted Him, bestowing upon Him a super-eminent exaltation. The name JESUS, which was given to Christ at the beginning of His humiliation, is now His name of honor in glory. This exaltation did not change His person, but rather lifted Him above the state of glory He enjoyed before the Incarnation. His exaltation as Mediator and the Redeemer is the appropriate reward for His humility and suffering. The name Jesus, which is above every name, signifies His role as the Savior and the Anointed of God. By following Christ's example of humility, we too can attain the glory of the heavenly kingdom.
-- 🔄 Philippians 2:9 (attempt 1, 127 words, 41.56% quotes quality score: 2.447273040363191, V2 normalized quality score: 72.71, commentator tiers 1-3: 32.73%, 34.4%, 32.87%) 
+- Attempt 1 BHT: In Philippians 2:9, Christ is described as the eternal Son of God who willingly took on the nature of man and obediently humbled Himself. As a result, God exalted Him and gave Him a name that is above every other name. This exaltation serves as an example for us, urging us to likewise humble ourselves now in order to be exalted later. Christ's exaltation to glory is not only represented by the name 'JESUS' but also refers to His dignity and honor. Furthermore, this exaltation includes the elevation of His humanity, which was taken back to heaven, making Him the Son of Man as well as the Son of God. Indeed, Christ's exaltation is the highest because of His voluntary humiliation.
+- 🔄 Philippians 2:9 (attempt 1, 122 words, 47.37% quotes quality score: 2.5505488406036996, V2 normalized quality score: 76.15, commentator tiers 1-3: 35.22%, 35.16%, 29.62%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: Christ, the eternal Son of God, willingly took on human nature and obediently humbled Himself. As a result, God exalted Him, giving Him a name above all others. His exaltation serves as an example for us to humble ourselves now for future exaltation. This exaltation is represented by the name 'JESUS' and signifies His dignity and honor. Additionally, Christ's humanity was taken back to heaven, making Him both the Son of Man and the Son of God. His exaltation is the highest because of His voluntary humiliation.
+- 🔄 Philippians 2:9 (attempt 2, 88 words, 44.07% quotes quality score: 2.4199463777237504, V2 normalized quality score: 71.8, commentator tiers 1-3: 34.43%, 35.48%, 30.09%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Christ willingly humbled Himself, emptying Himself of His divine privileges and taking on the form of a servant. As a result, God highly exalted Him, bestowing upon Him a super-eminent exaltation. The name JESUS, which was given to Christ at the beginning of His humiliation, is now His name of honor in glory. This exaltation did not change His person, but rather lifted Him above the state of glory He enjoyed before the Incarnation. By following His example of humility, we too can attain the glory of the heavenly kingdom.
-- 🔄 Philippians 2:9 (attempt 2, 91 words, 46.15% quotes quality score: 2.45515303348708, V2 normalized quality score: 72.97, commentator tiers 1-3: 33.03%, 32.92%, 34.05%) 
+- Attempt 3 BHT: Christ, the eternal Son of God, voluntarily took on human nature and humbled Himself in perfect obedience. In response, God exalted Him and bestowed upon Him a name that surpasses all others. This serves as an example for us to humble ourselves and follow Christ's path to future exaltation. His exaltation is represented by the name 'JESUS' and signifies His glory and honor. As Christ returned to heaven, He carried with Him His humanity, becoming both the Son of Man and the Son of God.
+- 🔄 Philippians 2:9 (attempt 3, 86 words, 45.0% quotes quality score: 2.5031462759177128, V2 normalized quality score: 74.57, commentator tiers 1-3: 36.03%, 34.6%, 29.37%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Christ willingly humbled Himself and took on the form of a servant, emptying Himself of His divine privileges. In response, God highly exalted Him, granting Him a super-eminent exaltation. The name JESUS, bestowed upon Him at the beginning of His humiliation, now stands as His name of honor in glory. This exaltation did not alter His person, but rather raised Him above the pre-Incarnation glory. By emulating Christ's humility, we too can aspire to the heavenly kingdom's glory.
-- 🔄 Philippians 2:9 (attempt 3, 82 words, 41.67% quotes quality score: 2.434394043615436, V2 normalized quality score: 72.28, commentator tiers 1-3: 33.19%, 31.92%, 34.89%) 
+- Attempt 4 BHT: Christ, the eternal Son of God, willingly entered into humanity, humbling Himself in perfect obedience. In response, God exalted Him, granting Him a name that surpasses all others. In this way, Christ's exaltation serves as a model for us to embrace humility now in anticipation of future exaltation. His exaltation is represented by the name 'JESUS', symbolizing His honor and glory. As Christ ascended to heaven, He brought with Him His humanity, now the Son of Man and the Son of God, achieving a supreme level of dignity and majesty.
+- 🔄 Philippians 2:9 (attempt 4, 91 words, 38.33% quotes quality score: 2.4494214923425055, V2 normalized quality score: 72.78, commentator tiers 1-3: 34.35%, 34.87%, 30.78%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Christ voluntarily emptied Himself of His divine privileges and took on the form of a servant. As a result, God highly exalted Him to a super-eminent exaltation. The name JESUS, given to Him at the beginning of His humble journey, is now His name of honor in glory. Christ's exaltation did not change His person, but elevated Him beyond the glory He had before the Incarnation. By humbling ourselves like Christ, we too can attain the heavenly kingdom's glory.
-- 🔄 Philippians 2:9 (attempt 4, 82 words, 45.76% quotes quality score: 2.428098009467387, V2 normalized quality score: 72.07, commentator tiers 1-3: 33.99%, 32.5%, 33.51%) 
+- Attempt 5 BHT: Christ, the eternal Son of God, willingly took on human nature and humbled Himself in perfect obedience. As a result, God exalted Him, giving Him a name that exceeds all others. This serves as an example for us to likewise humble ourselves, expecting future exaltation. The exaltation of Christ is represented by the name 'JESUS' and signifies His dignity and honor. Through His ascension, Christ returns to heaven as both the Son of Man and the Son of God, embodying supreme glory and majesty.
+- 🔄 Philippians 2:9 (attempt 5, 84 words, 40.68% quotes quality score: 2.4520681667924267, V2 normalized quality score: 72.87, commentator tiers 1-3: 36.14%, 33.73%, 30.13%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Christ, in an act of humility, emptied Himself and took on the form of a servant. As a result, God highly exalted Him, granting Him a super-eminent exaltation. The name JESUS, bestowed upon Him during His humbling, now represents His name of honor in glory. By following Christ's example of humility, we can also attain the heavenly kingdom's glory. This exaltation did not change Christ's person, but rather raised Him above His pre-Incarnation glory.
-- 🔄 Philippians 2:9 (attempt 5, 79 words, 43.86% quotes quality score: 2.4156323450985093, V2 normalized quality score: 71.66, commentator tiers 1-3: 33.36%, 32.11%, 34.53%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Philippians 2:9 bht prompt v0.7 (91 words, 46.15% quotes)
-- quality score: 2.45515303348708, V2 normalized quality score: 72.97, commentator tiers 1-3: 33.03%, 32.92%, 34.05%)
+- ✅ Philippians 2:9 bht prompt v0.8 (86 words, 45.0% quotes)
+- quality score: 2.5031462759177128, V2 normalized quality score: 74.57, commentator tiers 1-3: 36.03%, 34.6%, 29.37%)

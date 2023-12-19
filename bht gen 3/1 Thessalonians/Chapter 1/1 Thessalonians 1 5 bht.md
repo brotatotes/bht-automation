@@ -1,43 +1,43 @@
 # 1 Thessalonians 1:5 Commentary Help Text
 
 ## BHT:
-The power and confidence with which the Thessalonians received and delivered the message of the gospel was a sign of God's grace and their election. The preaching was not just eloquent words, but had a powerful effect on their hearts and lives, leading them to turn away from sin and embrace the truth wholeheartedly. It was the Holy Spirit working through the preaching that brought about this conviction and assurance, enabling them to fully believe in the love of God and their chosen status.
+The power and confidence in the preachers' message served as proof that God had chosen and loved the Thessalonians. This divine power produced faith, love, and hope, affirming their status as elect of God. The preachers' firm conviction in the truth of the gospel, combined with the Holy Spirit's testimony, left no doubt about their divine calling. The gospel preached to them was not a mere display of eloquence, but a message that penetrated their hearts and brought about full assurance through the Spirit's work.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Both these were signs of God’s grace to them—tokens of their election vouchsafed by Him." 
-2. "The quality was evinced, in the power and confidence with which they delivered their message." 
-3. "You know what God enabled us to be,—how mighty in preaching the word,—for your sakes—thereby proving that He loved you, and had chosen you for His own."
+1. "The quality [of the preachers] was evinced, in the power and confidence with which they delivered their message."
+2. "The proof given by the manner of their preaching."
+3. "You know what God enabled us to be, how mighty in preaching the word, for your sakes— thereby proving that He loved you, and had chosen you for His own."
 
 ### Jamieson-Fausset-Brown:
-1. "God's having made our preaching among you to be attended with such 'power,' is the proof that you are 'elect of God'." 
+1. "God's having made our preaching among you to be attended with such 'power' is the proof that you are 'elect of God.'"
 2. "As 'power' produces faith; so 'the Holy Ghost,' love; and 'much assurance,' hope."
-3. "You know what God enabled us to be... how mighty in preaching the word... for your sakes... thereby proving that He had chosen you for His own."
+3. "The purpose herein indicated is not so much that of the apostles, as that of God. 'You know what God enabled us to be...how mighty in preaching the word...for your sakes...thereby proving that He had chosen you for His own.'"
 
 ### Albert Barnes:
-1. "It produced a powerful effect on the heart and life. It was not a mere empty sound that produced no other effect than to entertain or amuse." 
-2. "There was great power manifested in the gospel in its leading them to break off from their sins, to abandon their idols, and to give their hearts to God."
-3. "There was the firmest conviction of its truth, and they embraced it 'heart and soul.'"
+1. "It was not a mere empty sound that produced no other effect than to entertain or amuse; compare Ezekiel 33:32."
+2. "There was the firmest conviction of its truth, and they embraced it 'heart and soul;' compare Colossians 2:2; Hebrews 6:11."
+3. "The holy life of a preacher goes far to confirm the truth of the religion which he preaches, and is among the most efficacious means of inducing them to embrace the gospel."
 
 ### Marvin Vincent:
-1. "The gospel did not appeal to them as mere eloquent and learned discourse."
-2. "Power of spiritual persuasion and conviction : not power as displayed in miracles, at least not principally, although miraculous demonstrations may be included."
+1. "For similar usage see 1 Corinthians 1:26."
+2. "The gospel did not appeal to them as mere eloquent and learned discourse."
 3. "Assured persuasion of the preacher that the message was divine."
 
 ### John Calvin:
-1. "Paul...has it as his aim, that the Thessalonians...may entertain no doubt that they were elected by God."
-2. "For it had been the design of God, in honoring Paul's ministry, that he might manifest to them their adoption."
-3. "He (Paul) was such for their sake, by which he means that all this had been given them, in order that they might be fully persuaded that they were loved by God, and that their election was beyond all controversy."
+1. "Paul, as I have said before, has it as his aim, that the Thessalonians, influenced by the same considerations, may entertain no doubt that they were elected by God."
+2. "For it had been the design of God, in honoring Paul’s ministry, that he might manifest to them their adoption."
+3. "He means that all this had been given them, in order that they might be fully persuaded that they were loved by God, and that their election was beyond all controversy."
 
 ### Archibald T. Robertson:
-1. "Paul had a definite, clear-cut message of grace that he preached everywhere including Thessalonica." 
-2. "In both instances it is the subjective genitive." 
-3. "The word πληροφορια is not found in ancient Greek or the LXX. It appears once in Clement of Rome and one broken papyrus example. For the verb πληροφορεω see on Luke 1:1. The substantive in the N.T. only here and Colossians 2:2; Hebrews 6:11; Hebrews 10:22. It means the full confidence which comes from the Holy Spirit."
+1. "In its origin Paul's gospel is of God, in its substance it is Christ's, and Paul is only the bearer of it."
+2. "Paul and his associates have been entrusted with this gospel and preach it."
+3. "The full confidence which comes from the Holy Spirit."
 
 ### John Gill:
-1. "But the preaching of the Gospel was accompanied with the powerful efficacy of the grace of God, working by it upon them; so that it became the power of God unto salvation to them; it came to them in the demonstration of the Spirit of God, and of power."
-2. "The Gospel was not only preached under the influence, and by the assistance of the Holy Spirit, and attended with his extraordinary gifts for the confirmation of it, which it might be, and be no proof of the election of these persons to eternal life; but it came by the power of the Holy Spirit to their souls, working and implanting his graces in them."
-3. "The Gospel preached to them was blessed to produce in them much assurance, or a large assurance, if not a full one, of the grace of faith in Christ, and of hope of eternal life by him, and of understanding of the doctrines of the Gospel, and of interest in the blessings of grace held forth in them; and this being a fruit, was an evidence of electing grace."
+1. "For our Gospel came not unto you... but in power." 
+2. "It came to them not in word only...but in power."
+3. "But the preaching of the Gospel was accompanied with the powerful efficacy of the grace of God...from whence it clearly appeared that they were the chosen of God, and precious."
 
 ### John Wesley:
 1. "With power — Piercing the very heart with a sense of sin and deeply convincing you of your want of a Saviour from guilt, misery, and eternal ruin."
@@ -47,39 +47,38 @@ The power and confidence with which the Thessalonians received and delivered the
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:27
+- Timestamp: 12-19-2023 13:57:02
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 36.67%
-- BHT Quality Score: 2.351806407454907
+- BHT Word Count: 87
+- BHT Commentary Usage: 33.9%
+- BHT Quality Score: 2.2448482897133606
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'about', 'and', 'assurance', 'away', 'believe', 'brought', 'but', 'chosen', 'confidence', 'conviction', 'delivered', 'effect', 'election', 'eloquent', 'embrace', 'enabling', 'from', 'fully', 'god', 'gospel', 'grace', 'had', 'hearts', 'holy', 'in', 'it', 'just', 'leading', 'lives', 'love', 'message', 'not', 'of', 'on', 'power', 'powerful', 'preaching', 'received', 's', 'sign', 'sin', 'spirit', 'status', 'that', 'the', 'their', 'them', 'thessalonians', 'this', 'through', 'to', 'truth', 'turn', 'was', 'which', 'wholeheartedly', 'with', 'words', 'working']
-- ChatGPT injected words (significant words only) (38):
-	['assurance', 'away', 'believe', 'brought', 'chosen', 'confidence', 'conviction', 'delivered', 'effect', 'election', 'eloquent', 'embrace', 'enabling', 'fully', 'god', 'gospel', 'grace', 'hearts', 'holy', 'leading', 'lives', 'love', 'message', 'power', 'powerful', 'preaching', 'received', 's', 'sign', 'sin', 'spirit', 'status', 'thessalonians', 'truth', 'turn', 'wholeheartedly', 'words', 'working']
+- ChatGPT injected words (59):
+	['a', 'about', 'affirming', 'and', 'as', 'assurance', 'brought', 'but', 'calling', 'chosen', 'combined', 'confidence', 'conviction', 'display', 'divine', 'doubt', 'elect', 'eloquence', 'faith', 'firm', 'full', 'god', 'gospel', 'had', 'hearts', 'holy', 'hope', 'in', 'left', 'love', 'loved', 'mere', 'message', 'no', 'not', 'of', 'penetrated', 'power', 'preached', 'preachers', 'produced', 'proof', 's', 'served', 'spirit', 'status', 'testimony', 'that', 'the', 'their', 'them', 'thessalonians', 'this', 'through', 'to', 'truth', 'was', 'with', 'work']
+- ChatGPT injected words (significant words only) (39):
+	['affirming', 'assurance', 'brought', 'calling', 'chosen', 'combined', 'confidence', 'conviction', 'display', 'divine', 'doubt', 'elect', 'eloquence', 'faith', 'firm', 'god', 'gospel', 'hearts', 'holy', 'hope', 'left', 'love', 'loved', 'mere', 'message', 'penetrated', 'power', 'preached', 'preachers', 'produced', 'proof', 's', 'served', 'spirit', 'status', 'testimony', 'thessalonians', 'truth', 'work']
 
 ### Logs
-- Attempt 1 BHT: The power and confidence with which the Thessalonians received and delivered the message of the gospel was a sign of God's grace and their election. The preaching was not just eloquent words, but had a powerful effect on their hearts and lives, leading them to turn away from sin and embrace the truth wholeheartedly. It was the Holy Spirit working through the preaching that brought about this conviction and assurance, enabling them to fully believe in the love of God and their chosen status. The preaching came with great efficacy, the power of the Holy Spirit penetrating their souls, implanting graces in them, and producing much assurance of faith, hope, and understanding. It was a message that not only convinced their intellect but pierced their hearts, revealing their need for a Savior and giving them a deep sense of their forgiven and saved state.
-- 🔄 1 Thessalonians 1:5 (attempt 1, 145 words, 29.07% quotes quality score: 2.2508383570765913, V2 normalized quality score: 66.18, commentator tiers 1-3: 27.7%, 35.74%, 36.57%) 
+- Attempt 1 BHT: The power and confidence in the preachers' message serves as proof of their divine calling. By delivering the word with authority, they demonstrated that God loved and chose the Thessalonians. This divine power produced faith, love, and hope in the hearts of the listeners. It is important to note that the purpose behind this preaching was not solely that of the apostles, but of God Himself. The gospel went beyond mere eloquent and learned discourse; it was a message that pierced the hearts of the Thessalonians, firmly convincing them of its truth. This gospel, entrusted to Paul and his associates, came not with empty words, but with the full confidence and assurance that can only be experienced through the Holy Spirit.
+- 🔄 1 Thessalonians 1:5 (attempt 1, 121 words, 38.96% quotes quality score: 2.196328715351483, V2 normalized quality score: 64.37, commentator tiers 1-3: 37.16%, 33.41%, 29.43%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: The power and confidence with which the Thessalonians received and delivered the message of the gospel was a sign of God's grace and their election. The preaching was not just eloquent words, but had a powerful effect on their hearts and lives, leading them to turn away from sin and embrace the truth wholeheartedly. It was the Holy Spirit working through the preaching that brought about this conviction and assurance, enabling them to fully believe in the love of God and their chosen status.
-- 🔄 1 Thessalonians 1:5 (attempt 2, 85 words, 36.67% quotes quality score: 2.351806407454907, V2 normalized quality score: 69.54, commentator tiers 1-3: 28.53%, 35.52%, 35.96%) 
+- Attempt 2 BHT: The power and confidence in the preachers' message serves as proof of their divine calling, showing that God loved and chose the Thessalonians. This divine power produced faith, love, and hope in the hearts of the listeners. The purpose behind the preaching was not solely that of the apostles, but of God Himself. The gospel pierced their hearts, firmly convincing them of its truth. It came not with empty words, but with full confidence and assurance through the Holy Spirit.
+- 🔄 1 Thessalonians 1:5 (attempt 2, 80 words, 37.74% quotes quality score: 2.131907096093886, V2 normalized quality score: 62.23, commentator tiers 1-3: 36.85%, 34.46%, 28.69%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: The power and confidence displayed by the preachers in delivering the message serves as undeniable proof of their divine calling. God's divine grace was palpable in their words, demonstrating His love for the Thessalonians. The preachers' faith in the gospel was evident, leading to a strong conviction that resonated with the listeners. This assurance was not based on mere eloquence or human wisdom, but on the power of the Holy Spirit, which penetrated their hearts and testified to the truth of the message. The gospel came not with empty words, but carried the full assurance that can only come from the Spirit of God.
+- 🔄 1 Thessalonians 1:5 (attempt 3, 105 words, 37.31% quotes quality score: 2.2415339160776564, V2 normalized quality score: 65.87, commentator tiers 1-3: 36.67%, 34.39%, 28.94%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: The power and confidence exhibited by the Thessalonians in delivering the gospel was a clear demonstration of God's grace and their election. It was not just mere eloquence or empty sound, but a message that had a powerful effect on their hearts and lives. The Holy Spirit worked through the preaching to produce conviction and assurance, enabling them to fully embrace the truth and believe in God's love for them. This preaching came with the demonstration of the Spirit's power, implanting His graces in their souls and leading them to a deep sense of faith, hope, and understanding.
-- 🔄 1 Thessalonians 1:5 (attempt 3, 101 words, 35.82% quotes quality score: 2.2483654969817004, V2 normalized quality score: 66.1, commentator tiers 1-3: 27.35%, 37.57%, 35.08%) 
+- Attempt 4 BHT: The power and confidence in the preachers' message served as proof that God had chosen and loved the Thessalonians. This divine power produced faith, love, and hope, affirming their status as elect of God. The preachers' firm conviction in the truth of the gospel, combined with the Holy Spirit's testimony, left no doubt about their divine calling. The gospel preached to them was not a mere display of eloquence, but a message that penetrated their hearts and brought about full assurance through the Spirit's work.
+- 🔄 1 Thessalonians 1:5 (attempt 4, 87 words, 33.9% quotes quality score: 2.2448482897133606, V2 normalized quality score: 65.98, commentator tiers 1-3: 35.63%, 35.08%, 29.29%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The power and confidence displayed by the Thessalonians in delivering the gospel was a tangible evidence of God's grace and their chosen status. The preaching, driven by the Holy Spirit, had a profound impact on their hearts and lives, leading them to abandon their idols and turn to God. It was not mere eloquence, but a message that carried the conviction of truth, resulting in a firm belief in the love of God and a deep assurance of their election. The preaching came with the power of the Holy Spirit, implanting His graces and producing a strong faith, hope, and understanding.
-- 🔄 1 Thessalonians 1:5 (attempt 4, 102 words, 28.12% quotes quality score: 2.25852280276882, V2 normalized quality score: 66.44, commentator tiers 1-3: 28.48%, 35.11%, 36.41%) 
+- Attempt 5 BHT: The power and confidence in the preachers' message served as proof of their divine calling, demonstrating God's love for and election of the Thessalonians. This powerful preaching produced faith, love, and hope in their hearts. The purpose of the preaching was not solely that of the apostles, but of God Himself. It is important to note that the gospel did not merely appeal as eloquent and learned discourse; rather, it was a message that deeply convicted and assured the Thessalonians through the work of the Holy Spirit.
+- 🔄 1 Thessalonians 1:5 (attempt 5, 88 words, 35.09% quotes quality score: 2.236406807020474, V2 normalized quality score: 65.7, commentator tiers 1-3: 36.81%, 34.46%, 28.73%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: The Thessalonians' unwavering commitment and boldness in preaching the gospel served as a clear indication of God's grace and their election. Their message was not mere empty words or learned discourse; it held a powerful effect on their hearers, leading them to break free from sin and devote themselves to God. Through the Holy Spirit's work, their preaching was accompanied by conviction and assurance, instilling faith, hope, and understanding in the hearts of those who listened. This undeniable impact showed that God had chosen and loved them, making their election beyond dispute.
-- 🔄 1 Thessalonians 1:5 (attempt 5, 94 words, 35.21% quotes quality score: 2.139990080262518, V2 normalized quality score: 62.5, commentator tiers 1-3: 28.28%, 34.28%, 37.44%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 1:5 bht prompt v0.7 (85 words, 36.67% quotes)
-- quality score: 2.351806407454907, V2 normalized quality score: 69.54, commentator tiers 1-3: 28.53%, 35.52%, 35.96%)
+- ✅ 1 Thessalonians 1:5 bht prompt v0.8 (87 words, 33.9% quotes)
+- quality score: 2.2448482897133606, V2 normalized quality score: 65.98, commentator tiers 1-3: 35.63%, 35.08%, 29.29%)

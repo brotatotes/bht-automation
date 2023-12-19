@@ -1,28 +1,28 @@
 # 1 Thessalonians 4:5 Commentary Help Text
 
 ## BHT:
-Ignorance of true religion breeds unchastity, as a people's morals mirror their deities. The call, here, is to resist the lust of concupiscence and avaricious greed. This goes beyond sensual desire, encompassing all worldly yearnings. The heathen worshipped licentious gods, while lacking knowledge of the true God. Sadly, the revival of paganism today stems from the desire for freedom from God's inhibitions against licentiousness. Thus, believers are urged to live honorably and purely within marriage, cognizant of the fact that those who do not know God lack the same standard of holiness.
+Marriage is not simply about satisfying physical desires, but about cultivating pure, honorable relationships. Engaging in lustful behavior reflects a lack of true knowledge and understanding of God. The heathen worshiped licentious gods, contributing to their immoral behavior. The revival of paganism in modern times is driven by a desire to rid oneself of moral inhibitions imposed by God, leading to a disregard for sanctity. As Christians, we bear the responsibility to live above the standards of the pagans, honoring the institution of marriage and striving for sanctification.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
-1. "Ignorance of true religion is the parent of unchastity."
-2. "A people's morals are like the objects of their worship."
+1. "which implies that such a one is unconsciously the passive slave of lust."
+2. "Ignorance of true religion is the parent of unchastity."
 3. "A people's morals are like the objects of their worship."
 
 ### Albert Barnes:
 1. "Not in the lust of concupiscence - In gross gratifications."
 2. "Even as the Gentiles - This was, and is, a common vice among the pagan."
-3. "Which know not God."
+3. "Which know not God - See the Romans 1:21, Romans 1:28 notes; Ephesians 2:12 note."
 
 ### Marvin Vincent:
-1. "Not in the lust of concupiscence. Not with avaricious greed." 
-2. "Its meaning is by no means limited to sensual lust."
+1. "Not with avaricious greed." 
+2. "Its meaning is by no means limited to sensual lust." 
 3. "It is used as including all kinds of worldly desires."
 
 ### Philip Schaff:
-1. "Marriage is to be contracted not for mere bodily gratification, but to gratify purer feelings and yearnings."
+1. "Marriage is to be contracted not for mere bodily gratification, but to gratify purer feelings and yearnings." 
 2. "Married people are so to live that they may be mutually conscious that with them marriage is an honourable estate, with nothing in it that makes them ashamed, and that it promotes their sanctification."
-3. "Those who know not God cannot be expected to have the same ideal of holiness and purity. They have not heard the words, ‘Be ye holy, for I am holy;’ neither have they become acquainted with perfect holiness in the incarnate God."
+3. "Every Christian, therefore, must feel how much more is required of him than of the heathen. Increased knowledge is increased responsibility."
 
 ### Archibald T. Robertson:
 1. "Not in the passion of lust. Plain picture of the wrong way for the husband to come to marriage."
@@ -30,8 +30,8 @@ Ignorance of true religion breeds unchastity, as a people's morals mirror their 
 3. "One of the reasons for the revival of paganism in modern life is professedly this very thing that men wish to get rid of the inhibitions against licentiousness by God."
 
 ### John Gill:
-1. "To blow up the flame of lust, and to make provision for the flesh to fulfil the lusts thereof."
-2. "They did not like to retain him in their knowledge, and therefore were given up to judicial blindness and hardness, to a reprobate mind, and to vile affections."
+1. "For a man so to possess his vessel, is to cherish the sin of concupiscence, the first motions of sin in the heart, by which a man is drawn away, and enticed; to blow up the flame of lust, and to make provision for the flesh to fulfil the lusts thereof." 
+2. "Though they knew him, or might know him with a natural knowledge, by the light and works of nature, yet they knew him not savingly and spiritually, as he is revealed in the word, of which they were destitute."
 3. "For a man to use either his wife or his body in any unchaste and dishonourable manner, for the gratifying of his lusts, is to act an Heathenish part."
 
 ### John Wesley:
@@ -42,41 +42,39 @@ Ignorance of true religion breeds unchastity, as a people's morals mirror their 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:28
+- Timestamp: 12-19-2023 13:59:27
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 35.14%
-- BHT Quality Score: 1.8395637885948428
+- BHT Word Count: 88
+- BHT Commentary Usage: 25.0%
+- BHT Quality Score: 1.763618943751291
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (74):
-	['a', 'against', 'all', 'and', 'are', 'as', 'avaricious', 'believers', 'beyond', 'breeds', 'call', 'cognizant', 'concupiscence', 'deities', 'desire', 'do', 'encompassing', 'fact', 'for', 'freedom', 'from', 'god', 'gods', 'goes', 'greed', 'heathen', 'here', 'holiness', 'honorably', 'ignorance', 'inhibitions', 'is', 'know', 'knowledge', 'lack', 'lacking', 'licentious', 'licentiousness', 'live', 'lust', 'marriage', 'mirror', 'morals', 'not', 'of', 'paganism', 'people', 'purely', 'religion', 'resist', 'revival', 's', 'sadly', 'same', 'sensual', 'standard', 'stems', 'that', 'the', 'their', 'this', 'those', 'thus', 'to', 'today', 'true', 'unchastity', 'urged', 'while', 'who', 'within', 'worldly', 'worshipped', 'yearnings']
+- ChatGPT injected words (64):
+	['a', 'about', 'above', 'and', 'as', 'bear', 'behavior', 'but', 'by', 'christians', 'contributing', 'cultivating', 'desire', 'desires', 'disregard', 'driven', 'engaging', 'for', 'god', 'gods', 'heathen', 'honorable', 'honoring', 'immoral', 'imposed', 'in', 'inhibitions', 'institution', 'is', 'knowledge', 'lack', 'leading', 'licentious', 'live', 'lustful', 'marriage', 'modern', 'moral', 'not', 'of', 'oneself', 'paganism', 'pagans', 'physical', 'pure', 'reflects', 'relationships', 'responsibility', 'revival', 'rid', 'sanctification', 'sanctity', 'satisfying', 'simply', 'standards', 'striving', 'the', 'their', 'times', 'to', 'true', 'understanding', 'we', 'worshiped']
 - ChatGPT injected words (significant words only) (48):
-	['avaricious', 'believers', 'breeds', 'cognizant', 'concupiscence', 'deities', 'desire', 'encompassing', 'fact', 'freedom', 'god', 'gods', 'goes', 'greed', 'heathen', 'holiness', 'honorably', 'ignorance', 'inhibitions', 'know', 'knowledge', 'lack', 'lacking', 'licentious', 'licentiousness', 'live', 'lust', 'marriage', 'mirror', 'morals', 'paganism', 'people', 'purely', 'religion', 'resist', 'revival', 's', 'sadly', 'sensual', 'standard', 'stems', 'today', 'true', 'unchastity', 'urged', 'worldly', 'worshipped', 'yearnings']
+	['bear', 'behavior', 'christians', 'contributing', 'cultivating', 'desire', 'desires', 'disregard', 'driven', 'engaging', 'god', 'gods', 'heathen', 'honorable', 'honoring', 'immoral', 'imposed', 'inhibitions', 'institution', 'knowledge', 'lack', 'leading', 'licentious', 'live', 'lustful', 'marriage', 'modern', 'moral', 'oneself', 'paganism', 'pagans', 'physical', 'pure', 'reflects', 'relationships', 'responsibility', 'revival', 'rid', 'sanctification', 'sanctity', 'satisfying', 'simply', 'standards', 'striving', 'times', 'true', 'understanding', 'worshiped']
 
 ### Logs
-- Attempt 1 BHT: Ignorance of true religion is the root cause of unchastity, as a people's morals are influenced by their objects of worship. The admonition here is to not give in to worldly desires, whether it be the lust of concupiscence or avaricious greed. This meaning extends beyond sensual lust, encompassing all kinds of worldly desires. The heathen knew gods as licentious as themselves, but not the true God. Sadly, the revival of paganism in modern life is fueled by the desire to rid oneself of inhibitions against licentiousness imposed by God. It is a call for believers to live in a way that reflects the sanctity and honor of marriage, knowing that those who do not know God cannot have the same ideal of holiness and purity. The passage warns against using one's spouse or body for dishonorable and unchaste purposes, which is comparable to the behavior of heathens.
-- 🔄 1 Thessalonians 4:5 (attempt 1, 150 words, 36.36% quotes quality score: 1.9031433184425772, V2 normalized quality score: 54.62, commentator tiers 1-3: 41.03%, 33.71%, 25.26%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 2 BHT: Ignorance of true religion leads to unchastity, for a people's morals are shaped by their objects of worship. The call here is to resist worldly desires, whether it is the lust of concupiscence or avaricious greed. These desires are not limited to sensual lust, but encompass all sorts of worldly cravings. The heathen, not knowing the true God, were familiar with licentious gods. It is alarming that in modern times, there is a resurgence of paganism, as people seek to cast off God's restrictions on licentiousness. Believers are urged to honorably and purely live in marriage, aware that those who do not know God lack the same standard of holiness.
-- 🔄 1 Thessalonians 4:5 (attempt 2, 112 words, 38.75% quotes quality score: 1.8736251320064294, V2 normalized quality score: 53.64, commentator tiers 1-3: 42.76%, 34.34%, 22.9%) 
+- Attempt 1 BHT: Marriage is not simply about satisfying our physical desires; it is about cultivating pure and honorable relationships. When individuals engage in sexual immorality, they become enslaved by their own passions. This is a reflection of their ignorance of true religion and their worship of worldly desires. The heathen, who worship gods as licentious as themselves, do not truly know God. In our modern world, there is a resurgence of paganism driven by the desire to be free from godly inhibitions against licentiousness. As Christians, we must remember that increased knowledge brings increased responsibility, and we are called to live in a way that promotes our sanctification and honors the institution of marriage. We should strive for a higher standard than the Gentiles, not seeking gratification in gross pleasures, but cherishing the purity and dignity of our relationships.
+- 🔄 1 Thessalonians 4:5 (attempt 1, 137 words, 35.79% quotes quality score: 1.760338045775456, V2 normalized quality score: 49.87, commentator tiers 1-3: 36.87%, 37.03%, 26.1%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Ignorance of true religion breeds unchastity, as a people's morals mirror their deities. The call, here, is to resist the lust of concupiscence and avaricious greed. This goes beyond sensual desire, encompassing all worldly yearnings. The heathen worshipped licentious gods, while lacking knowledge of the true God. Sadly, the revival of paganism today stems from the desire for freedom from God's inhibitions against licentiousness. Thus, believers are urged to live honorably and purely within marriage, cognizant of the fact that those who do not know God lack the same standard of holiness.
-- 🔄 1 Thessalonians 4:5 (attempt 3, 94 words, 35.14% quotes quality score: 1.8395637885948428, V2 normalized quality score: 52.51, commentator tiers 1-3: 42.37%, 34.05%, 23.58%) 
+- Attempt 2 BHT: Marriage should not be reduced to mere bodily gratification; it is meant to satisfy purer feelings and promote sanctification. Engaging in lustful behavior means succumbing to the passions of the flesh, revealing a lack of true knowledge and understanding of God. It is important to remember that our morals are shaped by our worship, and when we worship licentious gods, we risk propagating immoral behavior. As Christians, we bear the responsibility of living above the standards of the pagans and upholding the honor and sanctity of marriage.
+- 🔄 1 Thessalonians 4:5 (attempt 2, 87 words, 30.65% quotes quality score: 1.7227553770829873, V2 normalized quality score: 48.62, commentator tiers 1-3: 32.14%, 40.02%, 27.84%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Ignorance of true religion leads to unchastity, for a people's morals are shaped by their objects of worship. The call here is to resist worldly desires, whether it is the lust of concupiscence or avaricious greed. These desires are not limited to sensual lust, but encompass all sorts of worldly cravings. The heathen, not knowing the true God, were familiar with licentious gods. It is alarming that in modern times, there is a resurgence of paganism, as people seek to cast off God's restrictions on licentiousness. Believers are urged to honorably and purely live in marriage, aware that those who do not know God lack the same standard of holiness.
-- 🔄 1 Thessalonians 4:5 (attempt 4, 112 words, 38.75% quotes quality score: 1.8736251320064294, V2 normalized quality score: 53.64, commentator tiers 1-3: 42.76%, 34.34%, 22.9%) 
+- Attempt 3 BHT: Marriage is not simply for satisfying physical desires; it is about cultivating pure relationships and avoiding the bondage of lust. Ignorance of true religion leads to immorality, as people's morals are influenced by their objects of worship. The pagan gods were known for their licentiousness, unlike the true God. The modern resurgence of paganism stems from a desire to remove inhibitions against licentiousness. As Christians, we have a greater responsibility to live according to higher standards and promote sanctification within marriage.
+- 🔄 1 Thessalonians 4:5 (attempt 3, 82 words, 31.25% quotes quality score: 1.750914894339703, V2 normalized quality score: 49.56, commentator tiers 1-3: 40.77%, 36.74%, 22.49%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Ignorance of true religion is the root cause of unchastity, as a people's morals are influenced by their objects of worship. The admonition here is to not give in to worldly desires, whether it be the lust of concupiscence or avaricious greed. This meaning extends beyond sensual lust, encompassing all kinds of worldly desires. The heathen knew gods as licentious as themselves, but not the true God. Sadly, the revival of paganism in modern life is fueled by the desire to rid oneself of inhibitions against licentiousness imposed by God. It is a call for believers to live in a way that reflects the sanctity and honor of marriage, knowing that those who do not know God cannot have the same ideal of holiness and purity. The passage warns against using one's spouse or body for dishonorable and unchaste purposes, which is comparable to the behavior of heathens.
-- 🔄 1 Thessalonians 4:5 (attempt 5, 150 words, 36.36% quotes quality score: 1.9031433184425772, V2 normalized quality score: 54.62, commentator tiers 1-3: 41.03%, 33.71%, 25.26%) 
+- Attempt 4 BHT: Marriage is not merely about fulfilling sensual desires, but about pursuing and maintaining pure, honorable relationships. Engaging in lustful behavior reveals a lack of true knowledge and understanding of God, and reflects the inevitable influence that one's worship has on their morals. The pagan gods worshipped by the heathen were known for their licentiousness, in contrast to the true God. The modern rise of paganism can be traced back to society's desire to cast off inhibitions against licentiousness imposed by God. As Christians, we are called to live above the standards of the pagan world, striving for purity and sanctification in our relationships.
+- 🔄 1 Thessalonians 4:5 (attempt 4, 105 words, 36.36% quotes quality score: 1.7000797686625746, V2 normalized quality score: 47.87, commentator tiers 1-3: 35.94%, 36.2%, 27.85%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ 1 Thessalonians 4:5 bht prompt v0.7 (94 words, 35.14% quotes)
-- quality score: 1.8395637885948428, V2 normalized quality score: 52.51, commentator tiers 1-3: 42.37%, 34.05%, 23.58%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Marriage is not simply about satisfying physical desires, but about cultivating pure, honorable relationships. Engaging in lustful behavior reflects a lack of true knowledge and understanding of God. The heathen worshiped licentious gods, contributing to their immoral behavior. The revival of paganism in modern times is driven by a desire to rid oneself of moral inhibitions imposed by God, leading to a disregard for sanctity. As Christians, we bear the responsibility to live above the standards of the pagans, honoring the institution of marriage and striving for sanctification.
+- 🔄 1 Thessalonians 4:5 (attempt 5, 88 words, 25.0% quotes quality score: 1.763618943751291, V2 normalized quality score: 49.98, commentator tiers 1-3: 36.22%, 36.89%, 26.88%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Thessalonians 4:5 bht prompt v0.8 (88 words, 25.0% quotes)
+- quality score: 1.763618943751291, V2 normalized quality score: 49.98, commentator tiers 1-3: 36.22%, 36.89%, 26.88%)

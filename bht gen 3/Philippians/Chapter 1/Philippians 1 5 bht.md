@@ -1,91 +1,93 @@
 # Philippians 1:5 Commentary Help Text
 
 ## BHT:
-The believers in Philippi had a unanimous and active partnership in spreading the Gospel, which included their cooperation, communion, and holy liberality towards one another and ministers. This ongoing fellowship displayed their zeal for the Gospel, both in their personal lives and in their efforts to spread it. Their association with all believers in the faith of the Gospel was evident in their teachability and ongoing generous spirit. Their continuous participation in the Gospel from the beginning was a testament to their commitment and dedication.
+The Philippians had a unified and unanimous action in their fellowship with one another as it pertains to the Gospel. This fellowship included acts of communion, liberality towards brethren and ministers, and contributions for the spread of the gospel. They had been partakers of the Gospel and had shown a common interest in its furtherance. From the very beginning, they had actively participated in the fellowship of the Gospel, continuously growing in the spirit of it. Their joyful reception and steadfast perseverance in the Gospel had resulted in the furtherance of the Gospel within themselves and among the people.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Your fellowship (with one another: entire accord, unanimous action: not your fellowship with me) as regards the Gospel"
+1. "Your fellowship (with one another: entire accord, unanimous action: not your fellowship with me) as regards the Gospel." 
 2. "Their mutual accord was for the purposes of the Gospel—i.e. the perfecting, of which he proceeds to treat."
 3. "The expression 'your fellowship as regards the Gospel' may include without expressly mentioning their contribution (ch. iv. 15) to the Apostle’s necessity."
 
 ### Jamieson-Fausset-Brown:
-1. "Believers have the fellowship of the Son of God and of the Father in the Gospel."
-2. "Exercise that fellowship by acts of communion."
-3. "Holy liberality to brethren and ministers."
+1. "Believers have the fellowship of the Son of God and of the Father in the Gospel, by becoming partakers of 'the fellowship of the Holy Ghost.'" (75 words)
+2. "They exercise that fellowship by acts of communion, not only the communion of the Lord's Supper, but holy liberality to brethren and ministers." (28 words)
+3. "Philippians 4:10; Philippians 4:15, 'communicated . . . concerning giving'; 2 Corinthians 9:13; Galatians 6:6; Hebrews 13:16, 'To communicate forget not.'" (34 words)
 
 ### Albert Barnes:
-1. "For your fellowship in the gospel - 'For your liberality toward me, a preacher of the gospel.'" - Wetstein.
-2. "That one of the highest joys which a minister of the gospel can have, is that furnished by the holy walk of the people to whom he has ministered." 
-3. "God is as careful to commend his people when they do well, as he is to rebuke them when they do wrong."
+1. "They felt a common interest in every thing that pertained to [the gospel], and they showed this in every suitable way, and especially in ministering to the wants of those who were appointed to preach it."
+2. "One of the highest joys which a minister of the gospel can have, is that furnished by the holy walk of the people to whom he has ministered."
+3. "In this world there is nothing that goes so far in promoting happiness as a willingness to be pleased rather than displeased, to be satisfied rather than dissatisfied with the conduct of others."
 
 ### Marvin Vincent:
 1. "For fellowship, see on 1 John 1:3."
-2. "The word sometimes has the meaning of almsgiving, contributions, as Romans 14:26; Hebrews 13:16."
-3. "Though here it is used in the larger sense of sympathetic cooperation, yet it is no doubt colored by the other idea, in view of the Philippians' pecuniary contributions to Paul."
+2. "The word sometimes has the meaning of almsgiving, contributions."
+3. "In the Gospel: Lit., unto the Gospel : Rev., in furtherance of."
 
 ### John Calvin:
 1. "They had come into the fellowship of the gospel, that is, had become partakers of the gospel, which, as is well known, is accomplished by means of faith."
-2. "The term fellowship may be viewed as referring to the common society of the saints, as though he had said that they had been associated with all the children of God in the faith of the gospel."
-3. "He commends their promptitude in having shown themselves teachable immediately upon the doctrine being set before them."
+2. "At the same time the term fellowship may be viewed as referring to the common society of the saints, as though he had said that they had been associated with all the children of God in the faith of the gospel."
+3. "Now we know how rare an excellence it is, to follow God immediately upon his calling us, and also to persevere steadfastly unto the end."
 
 ### Philip Schaff:
-1. "The preposition requires a fuller rendering than is given by the Authorised Version. There the sentence indicates a state of rest; that they with St. Paul were living under the Gospel. He meant much more than this. He spoke of a state of progress and advance." 
-2. "In their own persons they had been growing daily more and more into the spirit of the Gospel, and thus they were his fellows, for he was ever pressing forward, and never counting himself to have attained." 
-3. "But not only in their own spiritual life was this fellowship manifested, but in their labours for the spread of the Gospel. There must have been a zeal in the Philippians akin to that of the apostle himself, to bring about so great a result as is indicated by the language of this letter."
+1. "He spoke of a state of progress and advance."
+2. "In their own persons they had been growing daily more and more into the spirit of the Gospel."
+3. "The Gospel had been furthered in themselves, and also in the people among whom they lived."
 
 ### Archibald T. Robertson:
 1. "On the basis of your contribution" as in 2 Corinthians 8:4; 2 Corinthians 9:13; Acts 2:42.
 2. "The particular kind of 'partnership' or 'fellowship' involved is the contribution made by the Philippians for the spread of the gospel."
-3. "From the first day until now" - As when in Thessalonica (Philippians 4:15), in Corinth (Acts 18:5; 2 Corinthians 11:7-10), and now in Rome.
+3. "From the first day until now" as when in Thessalonica (Philippians 4:15), in Corinth (Acts 18:5; 2 Corinthians 11:7-10), and now in Rome.
 
 ### John Gill:
-1. "And this same generous spirit still continued, of which their present by Epaphroditus was an evidence."
-2. "The Gospel was in a very wonderful and providential manner brought unto them, and it was attended with mighty power to the conversion of them."
-3. "Moreover, through the Gospel being thus brought unto them, and succeeded among them, they became a Gospel church, and had, through the Gospel, and the ordinances of it, fellowship one with another."
+1. "They had been very communicative to him, and those that were with him, from the beginning of the Gospel being preached to them."
+2. "They received it with joy and gladness, and cheerfully submitted to the ordinances of it; they had much light into it, and spiritual knowledge of it."
+3. "They continued in the Gospel which they were made partakers of, and in fellowship with one another, in breaking of bread, and in prayer, and in hearing the word, which they constantly attended to, and were blessed with communion with Father, Son, and Spirit, to that time."
 
 ### John Wesley:
-1. "I thank God for your fellowship with us in all the blessings of the gospel." 
-2. "I have done [thanking God] from the first day of your receiving it until now."
+1. "I thank God for your fellowship with us in all the blessings of the gospel..."
+2. "...from the first day of your receiving it..."
+3. "...until now."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:06
+- Timestamp: 12-19-2023 13:53:37
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 37.74%
-- BHT Quality Score: 2.074078984970795
+- BHT Word Count: 99
+- BHT Commentary Usage: 42.86%
+- BHT Quality Score: 2.3152511880918505
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (53):
-	['a', 'active', 'all', 'and', 'another', 'association', 'beginning', 'believers', 'both', 'commitment', 'communion', 'continuous', 'cooperation', 'dedication', 'displayed', 'efforts', 'evident', 'faith', 'fellowship', 'for', 'from', 'generous', 'gospel', 'had', 'holy', 'in', 'included', 'it', 'liberality', 'lives', 'ministers', 'of', 'one', 'ongoing', 'participation', 'partnership', 'personal', 'philippi', 'spirit', 'spread', 'spreading', 'teachability', 'testament', 'the', 'their', 'this', 'to', 'towards', 'unanimous', 'was', 'which', 'with', 'zeal']
-- ChatGPT injected words (significant words only) (33):
-	['active', 'association', 'beginning', 'believers', 'commitment', 'communion', 'continuous', 'cooperation', 'dedication', 'displayed', 'efforts', 'evident', 'faith', 'fellowship', 'generous', 'gospel', 'holy', 'included', 'liberality', 'lives', 'ministers', 'ongoing', 'participation', 'partnership', 'personal', 'philippi', 'spirit', 'spread', 'spreading', 'teachability', 'testament', 'unanimous', 'zeal']
+- ChatGPT injected words (56):
+	['a', 'action', 'actively', 'acts', 'among', 'and', 'another', 'as', 'been', 'beginning', 'brethren', 'common', 'communion', 'continuously', 'contributions', 'fellowship', 'for', 'from', 'furtherance', 'gospel', 'growing', 'had', 'in', 'included', 'interest', 'it', 'its', 'joyful', 'liberality', 'ministers', 'of', 'one', 'partakers', 'participated', 'people', 'perseverance', 'pertains', 'philippians', 'reception', 'resulted', 'shown', 'spirit', 'spread', 'steadfast', 'the', 'their', 'themselves', 'they', 'this', 'to', 'towards', 'unanimous', 'unified', 'very', 'with', 'within']
+- ChatGPT injected words (significant words only) (32):
+	['action', 'actively', 'acts', 'beginning', 'brethren', 'common', 'communion', 'continuously', 'contributions', 'fellowship', 'furtherance', 'gospel', 'growing', 'included', 'interest', 'joyful', 'liberality', 'ministers', 'partakers', 'participated', 'people', 'perseverance', 'pertains', 'philippians', 'reception', 'resulted', 'shown', 'spirit', 'spread', 'steadfast', 'unanimous', 'unified']
 
 ### Logs
-- Attempt 1 BHT: The believers in Philippi had a unanimous and active partnership in spreading the Gospel. This fellowship went beyond just their contributions to Paul's needs; it involved their cooperation, communion, and holy liberality towards one another and ministers. This partnership was not a one-time occurrence, but had been ongoing from the very beginning. The Philippians displayed a zeal for the Gospel akin to that of the apostle himself, both in their personal lives and in their efforts to spread the Gospel. Their teachability and ongoing generous spirit were evidence of their association with all the children of God in the faith of the Gospel.
-- 🔄 Philippians 1:5 (attempt 1, 105 words, 41.18% quotes quality score: 1.9801952533206637, V2 normalized quality score: 57.18, commentator tiers 1-3: 30.2%, 33.22%, 36.58%) 
+- Attempt 1 BHT: The Philippians had a unified and unanimous action in their fellowship with one another as it pertains to the Gospel. This fellowship included acts of communion, liberality towards brethren and ministers, and contributions for the spread of the gospel. They had been partakers of the Gospel and had shown a common interest in its furtherance. From the very beginning, they had actively participated in the fellowship of the Gospel, continuously growing in the spirit of it. Their joyful reception and steadfast perseverance in the Gospel had resulted in the furtherance of the Gospel within themselves and among the people.
+- 🔄 Philippians 1:5 (attempt 1, 99 words, 42.86% quotes quality score: 2.3152511880918505, V2 normalized quality score: 68.32, commentator tiers 1-3: 32.35%, 34.3%, 33.35%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: The believers in Philippi were in complete accord and acted unanimously in their partnership for the sake of the Gospel. This partnership involved their contributions towards the spread of the Gospel, as well as their cooperation and holy liberality towards one another and ministers. Their fellowship was not a one-time occurrence, but had been ongoing from the beginning. The Philippians exhibited a zeal for the Gospel, both in their personal lives and in their dedication to spreading it, showing their association with all believers in the faith of the Gospel.
-- 🔄 Philippians 1:5 (attempt 2, 91 words, 44.64% quotes quality score: 2.0171353563558814, V2 normalized quality score: 58.41, commentator tiers 1-3: 29.89%, 33.38%, 36.73%) 
+- Attempt 2 BHT: The Philippians demonstrated a unanimous action in their fellowship with one another, specifically in regard to the Gospel. This fellowship encompassed acts of communion and generous support towards brethren and ministers. They actively contributed to the spread of the Gospel and had been partakers of its blessings since the very beginning. Their commitment to the Gospel resulted in its furtherance within themselves and the people around them. They joyfully embraced the Gospel, persevering in their faith and continuously growing in its spirit.
+- 🔄 Philippians 1:5 (attempt 2, 82 words, 40.74% quotes quality score: 2.1854069059975947, V2 normalized quality score: 64.01, commentator tiers 1-3: 31.05%, 34.88%, 34.07%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: The believers in Philippi had a unanimous and active partnership in spreading the Gospel, which included their cooperation, communion, and holy liberality towards one another and ministers. This ongoing fellowship displayed their zeal for the Gospel, both in their personal lives and in their efforts to spread it. Their association with all believers in the faith of the Gospel was evident in their teachability and ongoing generous spirit. Their continuous participation in the Gospel from the beginning was a testament to their commitment and dedication.
-- 🔄 Philippians 1:5 (attempt 3, 85 words, 37.74% quotes quality score: 2.074078984970795, V2 normalized quality score: 60.3, commentator tiers 1-3: 26.59%, 34.69%, 38.72%) 
+- Attempt 3 BHT: The Philippians shared a unanimous action in their fellowship, specifically in regard to the Gospel. Their fellowship involved acts of communion and generous support towards brethren and ministers. They actively contributed to the spread of the Gospel and had partaken in its blessings since the beginning. Their commitment resulted in the furtherance of the Gospel within themselves and their community. They wholeheartedly embraced the Gospel, persevered in faith, and continuously grew in its spirit.
+- 🔄 Philippians 1:5 (attempt 3, 74 words, 30.43% quotes quality score: 2.1827992684293287, V2 normalized quality score: 63.92, commentator tiers 1-3: 32.71%, 33.22%, 34.08%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: The Philippians exhibited a unanimous action in their fellowship with one another, specifically in relation to the Gospel. Their fellowship was characterized by acts of communion and liberality towards brethren and ministers. They actively contributed to the spread of the Gospel and had become partakers of its blessings. Their unwavering commitment to the Gospel resulted in its furtherance, both within themselves and among the people they lived among. From the very beginning of their reception of the Gospel, they joyfully embraced it, persevered in faith, and continually grew in its spirit.
+- 🔄 Philippians 1:5 (attempt 4, 91 words, 41.38% quotes quality score: 2.236007013071391, V2 normalized quality score: 65.69, commentator tiers 1-3: 30.89%, 34.91%, 34.21%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: The believers in Philippi had a unanimous partnership centered around the Gospel. This fellowship encompassed their cooperation, communion, and holy liberality towards one another and ministers. Their ongoing zeal for the Gospel was evident in both their personal lives and spread of it. Their teachability and continuous generous spirit showcased their association with all believers in the faith of the Gospel. From the beginning, the Philippians actively participated in the Gospel, demonstrating their commitment and dedication to its growth.
-- 🔄 Philippians 1:5 (attempt 4, 79 words, 38.18% quotes quality score: 2.039593247400315, V2 normalized quality score: 59.16, commentator tiers 1-3: 29.35%, 34.0%, 36.65%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: The believers in Philippi had a unanimous partnership in spreading the Gospel, demonstrating their cooperation, communion, and holy liberality towards one another and ministers. This ongoing fellowship revealed their zealous commitment to the Gospel in their personal lives and efforts to share it. Their teachability and continual generous spirit indicated their association with all believers in the faith of the Gospel. From the very beginning, the Philippians actively engaged in the Gospel, displaying their dedication and commitment to its advancement.
-- 🔄 Philippians 1:5 (attempt 5, 80 words, 33.96% quotes quality score: 2.1176188549958184, V2 normalized quality score: 61.75, commentator tiers 1-3: 28.85%, 34.33%, 36.82%) 
+- Attempt 5 BHT: The Philippians shared a unanimous action in their fellowship with one another, specifically in relation to the Gospel. Their fellowship involved acts of communion and generosity towards brethren and ministers. They actively contributed to the spread of the Gospel, becoming partakers of its blessings. Their unwavering commitment to the Gospel resulted in its furtherance within themselves and the community. From the very beginning, they joyfully embraced the Gospel, persevered in faith, and continually grew in its spirit.
+- 🔄 Philippians 1:5 (attempt 5, 77 words, 36.0% quotes quality score: 2.1783189059365293, V2 normalized quality score: 63.77, commentator tiers 1-3: 32.65%, 33.48%, 33.88%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Philippians 1:5 bht prompt v0.7 (85 words, 37.74% quotes)
-- quality score: 2.074078984970795, V2 normalized quality score: 60.3, commentator tiers 1-3: 26.59%, 34.69%, 38.72%)
+- ✅ Philippians 1:5 bht prompt v0.8 (99 words, 42.86% quotes)
+- quality score: 2.3152511880918505, V2 normalized quality score: 68.32, commentator tiers 1-3: 32.35%, 34.3%, 33.35%)

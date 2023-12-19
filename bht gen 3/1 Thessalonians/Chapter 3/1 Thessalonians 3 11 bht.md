@@ -1,37 +1,37 @@
 # 1 Thessalonians 3:11 Commentary Help Text
 
 ## BHT:
-This verse illustrates the absolute power of God and Jesus, indicating that if they expedite a way, it will be accomplished. Though hindered by Satan, Paul and his companions desired to come to the Thessalonians, but the singular verb suggests the essential unity of the Father and Son. Acknowledging the shared divinity and power of both God and Christ, they pray to both, recognizing that blessings come through Christ's hand. They request a direct path, removing obstacles, and showcasing our reliance on God's guidance.
+Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "This word exalts the absolute power of God and the Lord Jesus—if He expedites the way, it will be accomplished." 
 2. "Himself then is in contrast with ourselves, who have once and again tried to come to you, but have been hindered by Satan." 
-3. "Mere unity of will between the Father and the Son would not be enough, unless absolute unity were also in the writer’s mind."
+3. "It would be hardly possible that it should be so, unless some reason existed in the subjects of the verb. Mere unity of will between the Father and the Son would not be enough, unless absolute unity were also in the writer’s mind."
 
 ### Jamieson-Fausset-Brown:
-1. "The 'Himself' stands in contrast with 'we' (we desired to come but could not through Satan's hindrance; but if God Himself direct our way (as we pray), none can hinder Him."
+1. "The 'Himself' stands in contrast with 'we' ( :-) we desired to come but could not through Satan's hindrance; but if God Himself direct our way (as we pray), none can hinder Him." 
 2. "It is a remarkable proof of the unity of the Father and Son, that in the Greek here, and in 2 Thessalonians 2:16; 2 Thessalonians 2:17, the verb is singular, implying that the subject, the Father and Son, are but one in essential Being, not in mere unity of will."
-3. "Paul does not think the prosperous issue of a journey an unfit subject for prayer."
+3. "Almost all the chapters in both Epistles to the Thessalonians are sealed, each with its own prayer."
 
 ### Albert Barnes:
-1. "Now God himself...our Father - Even our Father. The reference is particularly to the 'Father,' the First Person of the Trinity."
-2. "And our Lord Jesus Christ...It is right therefore to offer prayer to God as the First Person of the Trinity."
-3. "Direct our way unto you - The idea is that of conducting one straight to a place, and not by a round-about course. Here the petition is, that God would remove all obstacles so that he could come directly to them."
+1. "Now God himself - This is evidently a prayer."
+2. "It is right therefore to offer prayer to God as the First Person of the Trinity."
+3. "What can be its meaning, unless the apostle believed that the Lord Jesus had power to direct his way to them, and that it was proper for him to express this wish to him; that is, to pray to him?"
 
 ### Marvin Vincent:
 1. Direct [κατευθυναι] . Lit. make straight. Only in Paul and Luke. See on Luke 1:79, and comp. 2 Thessalonians 3:5. Frequent in LXX
 
 
 ### John Calvin:
-1. "By this he intimates, that we cannot move a step with success, otherwise than under God’s guidance, but that when he holds out his hand, it is to no purpose that Satan employs every effort to change the direction of our course." 
-2. "We must take notice that he assigns the same office to God and to Christ, as, unquestionably, the Father confers no blessing upon us except through Christ’s hand." 
-3. "When, however, he thus speaks of both in the same terms, he teaches that Christ has divinity and power in common with the Father."
+1. "He now prays that the Lord, having removed Satan’s obstructions, may open a door for himself, and be, as it were, the leader and director of his way to the Thessalonians."
+2. "We cannot move a step with success otherwise than under God’s guidance, but that when he holds out his hand, it is to no purpose that Satan employs every effort to change the direction of our course."
+3. "He assigns the same office to God and to Christ, as, unquestionably, the Father confers no blessing upon us except through Christ’s hand."
 
 ### Philip Schaff:
-1. "May He whose power cannot be baffled by Satan as my efforts have been, may He whose purposes stand fast and who overrules all human affairs, bring me to you." 
-2. "Christ is conjoined with God as the object of prayer and as the disposer of persons and events. Divine rank and Divine power are thus ascribed to Him." 
-3. "It exhibits them as one source of energy."
+1. "May He whose power cannot be baffled by Satan as my efforts have been, may He whose purposes stand fast and who overrules all human affairs, bring me to you."
+2. "Divine rank and Divine power are thus ascribed to Him [Christ]."
+3. "It exhibits them [God and Jesus Christ] as one source of energy."
 
 ### Archibald T. Robertson:
 1. "Our God and Father himself (αυτος ο θεος κα πατηρ ημων). Note one article with both substantives for one person."
@@ -39,9 +39,9 @@ This verse illustrates the absolute power of God and Jesus, indicating that if t
 3. "First aorist optative (acute accent on penult, not circumflex first aorist active infinitive) of κατευθυνω, old verb to make straight path. Singular verb also, though both God and Christ mentioned as subject (unity in the Godhead)."
 
 ### John Gill:
-1. "God himself, our Father, the first person in the Trinity, who is God himself, truly and properly so..."
-2. "...the Father of Christ, and of all the saints, not only by creation, in which sense he is the Father of all men, but by adopting grace..."
-3. "...our Lord Jesus Christ, who is equally the object of prayer with God his Father and ours; who is sometimes distinctly prayed unto..."
+1. "He is a God that hears prayer; and who is omnipotent, and able to do more than the saints can ask or think; and omniscient, and knows their persons and cases, and what is proper for them, and how and when to help and supply them."
+2. "He is the Father of Christ, and of all the saints... to encourage freedom and boldness in prayer, which children may use with a father, and to raise an expectation of succeeding and receiving an answer."
+3. "Journey is not to be taken without the will of God, without seeking to know it, without submission to it, and dependence on it; nor is there any prosperous one, but by it."
 
 ### John Wesley:
 1. Direct our way — This prayer is addressed to Christ, as well as to the Father.
@@ -50,44 +50,37 @@ This verse illustrates the absolute power of God and Jesus, indicating that if t
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:41:20
+- Timestamp: 12-19-2023 13:59:12
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 32.79%
-- BHT Quality Score: 2.1736682442132804
+- BHT Word Count: 88
+- BHT Commentary Usage: 41.07%
+- BHT Quality Score: 2.2175050539345644
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (61):
-	['a', 'absolute', 'accomplished', 'acknowledging', 'and', 'be', 'blessings', 'both', 'but', 'by', 'christ', 'come', 'companions', 'desired', 'direct', 'divinity', 'essential', 'expedite', 'father', 'god', 'guidance', 'hand', 'hindered', 'his', 'if', 'illustrates', 'indicating', 'it', 'jesus', 'obstacles', 'of', 'on', 'our', 'path', 'paul', 'power', 'pray', 'recognizing', 'reliance', 'removing', 'request', 's', 'satan', 'shared', 'showcasing', 'singular', 'son', 'suggests', 'that', 'the', 'thessalonians', 'they', 'this', 'though', 'through', 'to', 'unity', 'verb', 'verse', 'way', 'will']
-- ChatGPT injected words (significant words only) (41):
-	['absolute', 'accomplished', 'acknowledging', 'blessings', 'christ', 'come', 'companions', 'desired', 'direct', 'divinity', 'essential', 'expedite', 'father', 'god', 'guidance', 'hand', 'hindered', 'illustrates', 'indicating', 'jesus', 'obstacles', 'path', 'paul', 'power', 'pray', 'recognizing', 'reliance', 'removing', 'request', 's', 'satan', 'shared', 'showcasing', 'singular', 'son', 'suggests', 'thessalonians', 'unity', 'verb', 'verse', 'way']
+- ChatGPT injected words (56):
+	['absolute', 'acknowledging', 'and', 'apostle', 'are', 'as', 'being', 'believes', 'between', 'blessings', 'can', 'christ', 'direct', 'divine', 'energy', 'essential', 'expresses', 'father', 'for', 'god', 'guidance', 'he', 'him', 'himself', 'hindrances', 'in', 'is', 'it', 'jesus', 'just', 'lord', 'not', 'of', 'one', 'overcome', 'power', 'prayer', 'praying', 'rank', 'reveals', 's', 'satan', 'singular', 'son', 'source', 'suggests', 'that', 'the', 'their', 'through', 'to', 'trust', 'unity', 'verb', 'way', 'will']
+- ChatGPT injected words (significant words only) (33):
+	['absolute', 'acknowledging', 'apostle', 'believes', 'blessings', 'christ', 'direct', 'divine', 'energy', 'essential', 'expresses', 'father', 'god', 'guidance', 'hindrances', 'jesus', 'lord', 'overcome', 'power', 'prayer', 'praying', 'rank', 'reveals', 's', 'satan', 'singular', 'son', 'source', 'suggests', 'trust', 'unity', 'verb', 'way']
 
 ### Logs
-- Attempt 1 BHT: Our verse highlights the absolute power of God and Jesus, emphasizing that if they expedite a way, it will be accomplished. While Paul and his companions desired to come to the Thessalonians but were hindered by Satan, the singular verb used suggests the essential unity of the Father and Son. Paul acknowledges that the successful outcome of their journey is a fitting subject for prayer and asks God, the Father of all, and Jesus, our Lord, to direct their path straight to the Thessalonians. This prayer acknowledges the divine rank, power, and energy of both God and Christ, emphasizing that all blessings come through Christ's hand. Thus, this verse reminds us of our need for God's guidance and the shared divinity and power of the Father and Son.
-- 🔄 1 Thessalonians 3:11 (attempt 1, 130 words, 36.0% quotes quality score: 2.338312754863969, V2 normalized quality score: 69.09, commentator tiers 1-3: 30.01%, 28.74%, 41.24%) 
+- Attempt 1 BHT: Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. It is fitting to offer this prayer to God as the First Person of the Trinity, believing that the Lord Jesus has the power to direct and fulfill their desires. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.
+- 🔄 1 Thessalonians 3:11 (attempt 1, 118 words, 39.39% quotes quality score: 2.293014832010813, V2 normalized quality score: 67.58, commentator tiers 1-3: 27.03%, 35.5%, 37.47%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: Acknowledging the absolute power of God and Jesus, this passage highlights the unity of the Father and Son in their ability to expedite a way according to their will. Paul and his companions desired to visit the Thessalonians, but Satan hindered them. However, through prayer, they recognize that the prosperous outcome of their journey is a suitable subject to bring before God and Jesus, asking them to make a direct path, removing all obstacles. This reaffirms the shared divinity, power, and blessings bestowed through Christ's hand.
-- 🔄 1 Thessalonians 3:11 (attempt 2, 87 words, 32.26% quotes quality score: 2.0982312988298344, V2 normalized quality score: 61.11, commentator tiers 1-3: 30.52%, 29.48%, 40.0%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. As the singular verb suggests, the Father and Son are one in essential being, not just in unity of will. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.
+- 🔄 1 Thessalonians 3:11 (attempt 2, 88 words, 41.07% quotes quality score: 2.2175050539345644, V2 normalized quality score: 65.07, commentator tiers 1-3: 28.92%, 33.79%, 37.29%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: Emphasizing the absolute power of God and Jesus, this verse underscores their unity and ability to expedite their will. Though hindered by Satan, Paul and his companions sought God and Jesus' guidance, recognizing that the outcome of their journey was a fitting matter for prayer. They asked God and Jesus to remove obstacles and make a direct path, highlighting the shared divinity and power between them. This reveals our dependence on God's guidance and the blessings bestowed through Christ's hand.
-- 🔄 1 Thessalonians 3:11 (attempt 3, 82 words, 36.21% quotes quality score: 2.104607893053778, V2 normalized quality score: 61.32, commentator tiers 1-3: 28.67%, 31.1%, 40.22%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The singular verb suggests the essential unity of the Father and Son. This prayer reflects their trust in Christ's divine rank and power, recognizing Him as the source of blessings and energy.
+- 🔄 1 Thessalonians 3:11 (attempt 3, 77 words, 36.54% quotes quality score: 2.1650258108354685, V2 normalized quality score: 63.33, commentator tiers 1-3: 26.97%, 35.15%, 37.89%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. Mere unity of will between the Father and the Son would not be enough, unless absolute unity were also in the writer’s mind. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The apostle's prayer reveals their trust in the divine rank and power of Christ, acknowledging Him as the source of energy and blessings.
+- 🔄 1 Thessalonians 3:11 (attempt 4, 92 words, 43.86% quotes quality score: 2.1965278838003264, V2 normalized quality score: 64.38, commentator tiers 1-3: 29.13%, 33.65%, 37.22%) 
 	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 4 BHT: This verse highlights the absolute power of God and Jesus, emphasizing that if they expedite a way, it will be accomplished. While hindered by Satan, Paul and his companions desired to come, but the singular verb used suggests the essential unity of the Father and Son. Acknowledging the shared divinity and power of both God and Christ, they direct their prayer to both, recognizing that blessings come through Christ's hand. They ask for a direct path, removing obstacles, and revealing our dependence on God's guidance.
-- 🔄 1 Thessalonians 3:11 (attempt 4, 87 words, 36.51% quotes quality score: 2.165847292727811, V2 normalized quality score: 63.36, commentator tiers 1-3: 30.11%, 29.52%, 40.37%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 5 BHT: This verse illustrates the absolute power of God and Jesus, indicating that if they expedite a way, it will be accomplished. Though hindered by Satan, Paul and his companions desired to come to the Thessalonians, but the singular verb suggests the essential unity of the Father and Son. Acknowledging the shared divinity and power of both God and Christ, they pray to both, recognizing that blessings come through Christ's hand. They request a direct path, removing obstacles, and showcasing our reliance on God's guidance.
-- 🔄 1 Thessalonians 3:11 (attempt 5, 86 words, 32.79% quotes quality score: 2.1736682442132804, V2 normalized quality score: 63.62, commentator tiers 1-3: 30.85%, 29.36%, 39.78%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ 1 Thessalonians 3:11 bht prompt v0.7 (86 words, 32.79% quotes)
-- quality score: 2.1736682442132804, V2 normalized quality score: 63.62, commentator tiers 1-3: 30.85%, 29.36%, 39.78%)
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: Praying for God Himself and the Lord Jesus to direct their way, the apostle expresses the unity of will and absolute power between the Father and the Son. It is through their guidance that the apostle believes he can overcome the hindrances of Satan. The singular verb suggests the essential unity of the Father and Son. This prayer reflects their trust in Christ's divine rank and power, recognizing Him as the source of blessings and energy.
+- 🔄 1 Thessalonians 3:11 (attempt 5, 77 words, 36.54% quotes quality score: 2.1650258108354685, V2 normalized quality score: 63.33, commentator tiers 1-3: 26.97%, 35.15%, 37.89%) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ 1 Thessalonians 3:11 bht prompt v0.8 (88 words, 41.07% quotes)
+- quality score: 2.2175050539345644, V2 normalized quality score: 65.07, commentator tiers 1-3: 28.92%, 33.79%, 37.29%)

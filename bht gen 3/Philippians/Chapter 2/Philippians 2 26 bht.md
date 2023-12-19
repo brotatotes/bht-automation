@@ -1,7 +1,7 @@
 # Philippians 2:26 Commentary Help Text
 
 ## BHT:
-His longing for them to receive the letter was actually present, as he felt overwhelmed with grief at the thought of how saddened they would be. His concern was not just out of affection, but out of a true pastor's love for his flock. Epaphroditus was deeply troubled, almost to the point of death, and he yearned to see his beloved church in Philippi, not merely his hometown or family. This mutual love and sympathy between him and the Philippians exemplifies the tender affection that exists between ministers and their congregations.
+Epaphroditus, the messenger from the Philippians, longed after them all with a deep and earnest yearning. He was not only longing for the city of Philippi, but for the church and all its members. His distress was akin to the heaviness Christ experienced in Gethsemane, as it greatly troubled him and he was even near death. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -23,23 +23,23 @@ His longing for them to receive the letter was actually present, as he felt over
 
 
 ### John Calvin:
-1. "He longed after you. [...] it is a sign of a true pastor." 
-2. "He was concerned as to their grief." 
+1. "He longed after you. It is a sign of a true pastor..."
+2. "On learning that his sheep were distressed on his account, he was concerned as to their grief."
 3. "The anxiety of the Philippians for their pastor is here discovered."
 
 ### Philip Schaff:
 1. "Since he longed after you all."
-2. "Its strong character is not unsuited to the feelings of one who has been very sick at a distance from all his friends, and in his recovery feels that home is the only place in which he can thoroughly recover."
-3. "This becomes known at Philippi, and the anxiety of his friends has been reported at Rome."
+2. "The strength of this word will be recognised from its being used [...] of Christ’s agony in the garden."
+3. "There can be no question that a considerable amount of time must have elapsed since St. Paul came to Rome before these words were written."
 
 ### Archibald T. Robertson:
-1. "He longed after, he was yearning after."
-2. "He was sore troubled, the distress of Epaphroditus was greatly increased."
-3. "Nigh unto death, only example in N.T. of this compound adverbial preposition."
+1. "He longed after... " - He was yearning after.
+2. "Was sore troubled... " - The distress of Epaphroditus was greatly increased.
+3. "Nigh unto death... " - Nigh unto death.
 
 ### John Gill:
-1. "It was not the city of Philippi he longed to see, which might be his native place, nor his natural relations and family, but the church there."
-2. "He was full of heaviness: almost pressed down, quite disheartened and dispirited, ready to sink and die away."
+1. "It was not the city of Philippi he longed to see... but the church there; and not the officers of it only, the bishops and deacons, but all the members of it..."
+2. "He was full of heaviness: almost pressed down, quite disheartened and dispirited, ready to sink and die away, not so much with his own disorder and illness, as with sorrow on account of the church at Philippi."
 3. "We have here an instance of that mutual love, tender affection and sympathy; which were in the first churches, and what subsisted between ministers and people; see how they loved one another!"
 
 ### John Wesley:
@@ -49,43 +49,39 @@ His longing for them to receive the letter was actually present, as he felt over
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:39:19
+- Timestamp: 12-19-2023 13:54:09
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 44.78%
-- BHT Quality Score: 2.0243412341994484
+- BHT Word Count: 77
+- BHT Commentary Usage: 50.85%
+- BHT Quality Score: 1.9768812807275555
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (67):
-	['a', 'actually', 'affection', 'almost', 'and', 'as', 'at', 'be', 'beloved', 'between', 'but', 'church', 'concern', 'congregations', 'death', 'deeply', 'epaphroditus', 'exemplifies', 'exists', 'family', 'felt', 'flock', 'for', 'grief', 'he', 'him', 'his', 'hometown', 'how', 'in', 'just', 'letter', 'longing', 'love', 'merely', 'ministers', 'mutual', 'not', 'of', 'or', 'out', 'overwhelmed', 'pastor', 'philippi', 'philippians', 'point', 'present', 'receive', 's', 'saddened', 'see', 'sympathy', 'tender', 'that', 'the', 'their', 'them', 'they', 'this', 'thought', 'to', 'troubled', 'true', 'was', 'with', 'would', 'yearned']
-- ChatGPT injected words (significant words only) (37):
-	['actually', 'affection', 'beloved', 'church', 'concern', 'congregations', 'death', 'deeply', 'epaphroditus', 'exemplifies', 'exists', 'family', 'felt', 'flock', 'grief', 'hometown', 'letter', 'longing', 'love', 'merely', 'ministers', 'mutual', 'overwhelmed', 'pastor', 'philippi', 'philippians', 'point', 'present', 'receive', 's', 'saddened', 'sympathy', 'tender', 'thought', 'troubled', 'true', 'yearned']
+- ChatGPT injected words (59):
+	['a', 'after', 'akin', 'all', 'and', 'as', 'being', 'but', 'christ', 'church', 'city', 'concerned', 'death', 'deep', 'demonstrates', 'distress', 'earnest', 'epaphroditus', 'even', 'experienced', 'flock', 'for', 'from', 'gethsemane', 'greatly', 'grief', 'he', 'heaviness', 'him', 'his', 'in', 'is', 'it', 'its', 'longed', 'longing', 'members', 'messenger', 'near', 'not', 'of', 'only', 'pastor', 'philippi', 'philippians', 'sign', 'someone', 'the', 'their', 'them', 'this', 'to', 'troubled', 'true', 'was', 'well', 'who', 'with', 'yearning']
+- ChatGPT injected words (significant words only) (29):
+	['akin', 'christ', 'church', 'city', 'concerned', 'death', 'deep', 'demonstrates', 'distress', 'earnest', 'epaphroditus', 'experienced', 'flock', 'gethsemane', 'greatly', 'grief', 'heaviness', 'longed', 'longing', 'members', 'messenger', 'near', 'pastor', 'philippi', 'philippians', 'sign', 'troubled', 'true', 'yearning']
 
 ### Logs
-- Attempt 1 BHT: His longing for them to receive the letter was actually present, as he felt overwhelmed with grief at the thought of how saddened they would be. His concern was not just out of affection, but out of a true pastor's love for his flock. Epaphroditus was deeply troubled, almost to the point of death, and he yearned to see his beloved church in Philippi, not merely his hometown or family. This mutual love and sympathy between him and the Philippians exemplifies the tender affection that exists between ministers and their congregations.
-- 🔄 Philippians 2:26 (attempt 1, 92 words, 44.78% quotes quality score: 2.0243412341994484, V2 normalized quality score: 58.65, commentator tiers 1-3: 33.95%, 26.45%, 39.6%) 
+- Attempt 1 BHT: The apostle Paul writes that Epaphroditus, the messenger from the Philippians, longed after them all. Epaphroditus felt a deep yearning to be with the church in Philippi, as reflected in the use of the past tense for his longing. He was not only longing for the city of Philippi, but for the church and all its members. The distress he felt was akin to the heaviness Christ experienced in Gethsemane. Epaphroditus was greatly troubled and even near death because he knew his illness would cause distress to the Philippians. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.
+- 🔄 Philippians 2:26 (attempt 1, 110 words, 45.07% quotes quality score: 2.0400158900371688, V2 normalized quality score: 59.17, commentator tiers 1-3: 34.56%, 27.75%, 37.68%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: His longing for them to receive the letter was actually present, as he felt overwhelmed with grief at the thought of how saddened they would be. His concern was not just out of affection, but out of a true pastor's love for his flock. Epaphroditus was deeply troubled, almost to the point of death, and he yearned to see his beloved church in Philippi, not merely his hometown or family. This mutual love and sympathy between him and the Philippians exemplifies the tender affection that exists between ministers and their congregations.
-- 🔄 Philippians 2:26 (attempt 2, 92 words, 44.78% quotes quality score: 2.0243412341994484, V2 normalized quality score: 58.65, commentator tiers 1-3: 33.95%, 26.45%, 39.6%) 
+- Attempt 2 BHT: Epaphroditus, the messenger from the Philippians, longed after them all with a deep and earnest yearning. He was not only longing for the city of Philippi, but for the church and all its members. His distress was akin to the heaviness Christ experienced in Gethsemane, as it greatly troubled him and he was even near death. This demonstrates the sign of a true pastor, someone who is concerned for the well-being and grief of their flock.
+- 🔄 Philippians 2:26 (attempt 2, 77 words, 50.85% quotes quality score: 1.9768812807275555, V2 normalized quality score: 57.07, commentator tiers 1-3: 33.21%, 25.97%, 40.81%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 3 BHT: Epaphroditus, the messenger from the Philippians, deeply longed to be with them. He was not only longing for the city of Philippi, but for the church and all its members. His distress was comparable to the heaviness Christ experienced in Gethsemane, as it greatly troubled him to the point of near death. This highlights the true nature of a pastor, someone who cares deeply and is concerned for the well-being and grief of their flock.
+- 🔄 Philippians 2:26 (attempt 3, 76 words, 50.0% quotes quality score: 1.9383120076427498, V2 normalized quality score: 55.79, commentator tiers 1-3: 32.17%, 27.34%, 40.48%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 4 BHT: Epaphroditus, the messenger from the Philippians, yearned to be with them all. His deep longing extended to the church and its members, causing him great distress similar to the heaviness that weighed on Christ in Gethsemane. This genuine concern exemplifies the heart of a true pastor, who is not only attentive to the physical well-being of the flock but also deeply empathizes with their sorrows. Epaphroditus' love for the Philippians reflects the mutual affection and sympathy that characterized the early churches.
+- 🔄 Philippians 2:26 (attempt 4, 82 words, 42.19% quotes quality score: 1.789655226137421, V2 normalized quality score: 50.85, commentator tiers 1-3: 34.67%, 25.42%, 39.9%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Epaphroditus, in his role as a true pastor, longed for the Philippians to receive the letter, showing his deep concern for their well-being. He was so troubled and heavyhearted, almost to the point of death, because he knew how saddened they would be upon hearing about his sickness. His longing was not for his hometown or family, but for the church in Philippi, exemplifying the strong bond between a minister and their congregation. This mutual love and tender affection showcased their genuine care for one another.
-- 🔄 Philippians 2:26 (attempt 3, 87 words, 45.45% quotes quality score: 1.883796883825441, V2 normalized quality score: 53.98, commentator tiers 1-3: 30.18%, 28.2%, 41.62%) 
-	- BHT WAS OVER 80 WORDS! 
+- Attempt 5 BHT: Epaphroditus, the messenger from the Philippians, deeply longed to be reunited with them. He not only yearned for the city of Philippi, but also for the church and its members. His distress was akin to the heaviness Christ experienced in the garden of Gethsemane, greatly troubling him to the point of near death. This displays the genuine care and concern of a true pastor, who empathizes with the sorrows of the flock and seeks to alleviate their anxieties.
+- 🔄 Philippians 2:26 (attempt 5, 78 words, 39.66% quotes quality score: 1.7716904691874893, V2 normalized quality score: 50.25, commentator tiers 1-3: 31.26%, 27.98%, 40.75%) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: Epaphroditus, deeply saddened and full of heaviness, longed for the Philippians to receive the letter and was eager to return to them. His distress was so great that he was almost overcome by grief. His concern for their well-being went beyond mere affection, reflecting the heart of a true pastor. This vividly demonstrates the profound love and mutual affection between a minister and their congregation, exemplifying the deep bond that exists within a church community.
-- 🔄 Philippians 2:26 (attempt 4, 76 words, 38.6% quotes quality score: 1.997784612019767, V2 normalized quality score: 57.77, commentator tiers 1-3: 32.94%, 29.27%, 37.79%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: Epaphroditus, overwhelmed with heavy grief, longed and yearned for the Philippians. His deep distress stemmed from the understanding of how greatly they would be saddened upon hearing about his sickness. His longing was not for his hometown or family, but for the church in Philippi. This heartfelt longing exemplifies the deep love and tender affection that existed between ministers and their congregations in the early churches. Epaphroditus' genuine care and concern for the Philippians emphasizes the true pastoral nature within him.
-- 🔄 Philippians 2:26 (attempt 5, 81 words, 39.34% quotes quality score: 1.8989161521595017, V2 normalized quality score: 54.48, commentator tiers 1-3: 35.3%, 25.94%, 38.77%) 
-	- BHT WAS OVER 80 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- VERSE_REF FOUND IN BHT!
-- ✅ Philippians 2:26 bht prompt v0.7 (92 words, 44.78% quotes)
-- quality score: 2.0243412341994484, V2 normalized quality score: 58.65, commentator tiers 1-3: 33.95%, 26.45%, 39.6%)
+- ✅ Philippians 2:26 bht prompt v0.8 (77 words, 50.85% quotes)
+- quality score: 1.9768812807275555, V2 normalized quality score: 57.07, commentator tiers 1-3: 33.21%, 25.97%, 40.81%)

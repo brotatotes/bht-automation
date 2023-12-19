@@ -1,23 +1,23 @@
 # 1 Thessalonians 2:1 Commentary Help Text
 
 ## BHT:
-Paul's entering in unto the Thessalonians was not in vain. It was not a mere empty scheme, but an earnest, bold, self-denying endeavor for their good. Their witness and knowledge of his character refute the slanderous accusations made against him by his enemies. From their own observation, they knew that his preaching was not vain, but filled with power. His message was not a hollow and trivial one, but solid and substantial, with the potential to convert many souls.
+The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not a show of ambition or deceit, but a demonstration of Divine power at work in him. His preaching was characterized by its abiding nature and effectiveness, bringing about the conversion of many souls. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching in their lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "For refers back to ch. i. 9: ‘not only do strangers report it, but you know it to be true.’"
+1. "He makes use now of that knowledge to carry out the description of his preaching among them, with a view, by recapitulating these details, to confirm them, who were as yet but novices, in the faith."
 2. "It is evident from vv. 2 ff., that this does not here apply to the fruits, but to the character of his preaching: the result does not appear till ver. 13."
-3. "It probably expresses, that his entering in was and continued ‘no empty scheme’ ( ‘no light matter,’ as we say), but an earnest, bold, self-denying endeavour for their good."
+3. "And within this limitation, we may observe that the verb is hath been, not was; to be understood therefore not of any mere intent of the Apostle at the time of his coming among them, but of some abiding character of his preaching."
 
 ### Jamieson-Fausset-Brown:
 1. "Not only do strangers report it, but you know it to be true [ALFORD] 'yourselves.'" 
-2. "Not vain, that is, it was full of 'power' (1 Thessalonians 2:13-15, 2.16)." 
+2. "Not vain... it was full of 'power' (1 Thessalonians 2:13-52.2.16- :)."
 3. "The Greek for 'was,' expresses rather 'hath been and is,' implying the permanent and continuing character of his preaching."
 
 ### Albert Barnes:
-1. "Paul frequently appeals to his own life, and to what they, among whom he labored, knew of it, as a full refutation of the slanderous accusations of his enemies."
+1. "Paul appeals to themselves for proof that they had not come among them as impostors."
 2. "Every minister of the gospel ought so to live as to be able, when slanderously attacked, to make such an appeal to his people."
-3. "He tells them that from their own observation they knew that this was not so."
+3. "Paul tells them that from their own observation they knew that this was not so."
 
 ### Marvin Vincent:
 1. Was not in vain [ου κενη γεγονεν] . More accurately, hath not proved vain. Kenh is empty. Mataia, also rendered vain, is fruitless.
@@ -26,20 +26,21 @@ Paul's entering in unto the Thessalonians was not in vain. It was not a mere emp
 ### John Calvin:
 1. "He says, therefore, that his entering in unto them had not been vain, as ambitious persons manifest much show, while they have nothing of solidity; for he employs the word vain here as contrasted with efficacious."
 2. "It was therefore an evidence of a Divine work that Paul, after having been subjected to evils of various kinds and to ignominy, did, as if in a perfectly sound state, shew no hesitation in making an attempt upon a large and opulent city, with the view of subjecting the inhabitants of it to Christ."
-3. "In the mean time he stood firm and undaunted, from which it appears that he was held up (521) by the hand of God; for this is what he means when he says that he was emboldened."
+3. "In the second department the same Divine power is beheld, for he does not discharge his duty with applause and favor, but required to maintain a keen conflict. In the mean time he stood firm and undaunted, from which it appears that he was held up by the hand of God."
 
 ### Philip Schaff:
 1. "For yourselves are my witnesses." 
 2. "It has not been useless and inefficacious."
+3. "Without this reference to the effects of his preaching, it is impossible to give its proper significance to the verb."
 
 ### Archibald T. Robertson:
-1. "That it has not become empty." 
-2. "Non inanis, sed plena virtutis." 
-3. "One easily leads to the other."
+1. "that it hath not been found vain"
+2. "Non inanis, sed plena virtutis."
+3. "Κενος is hollow, empty, while ματαιος is fruitless, ineffective."
 
 ### John Gill:
-1. "It was not a vain show with outward pomp and splendour, as the public entrances of ambassadors into cities usually are; but with great meanness, poverty, reproach, and persecution."
-2. "The message they came with, from the King of kings, was not a vain, light, empty, and trifling one; but solid and substantial, and of the greatest importance."
+1. "It was not a vain show with outward pomp and splendour."
+2. "The apostle came not with deceit and guile, with flattering words or a cloak of covetousness."
 3. "The word did not return void and empty; but was powerful and efficacious to the conversion of many souls."
 
 ### John Wesley:
@@ -49,36 +50,38 @@ Paul's entering in unto the Thessalonians was not in vain. It was not a mere emp
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-19-2023 01:40:26
+- Timestamp: 12-19-2023 13:58:29
 - Choicest Prompt: "choicest prompt v0.4"
-- BHT Prompt: "bht prompt v0.7"
+- BHT Prompt: "bht prompt v0.8"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 43.33%
-- BHT Quality Score: 1.8240501299286525
+- BHT Word Count: 84
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 1.9749160969402486
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (60):
-	['a', 'accusations', 'against', 'an', 'and', 'bold', 'but', 'by', 'character', 'convert', 'denying', 'earnest', 'empty', 'endeavor', 'enemies', 'entering', 'filled', 'for', 'from', 'good', 'him', 'his', 'hollow', 'in', 'it', 'knew', 'knowledge', 'made', 'many', 'mere', 'message', 'not', 'observation', 'of', 'one', 'own', 'paul', 'potential', 'power', 'preaching', 'refute', 's', 'scheme', 'self', 'slanderous', 'solid', 'souls', 'substantial', 'that', 'the', 'their', 'thessalonians', 'they', 'to', 'trivial', 'unto', 'vain', 'was', 'with', 'witness']
-- ChatGPT injected words (significant words only) (34):
-	['accusations', 'bold', 'character', 'convert', 'denying', 'earnest', 'endeavor', 'enemies', 'entering', 'filled', 'good', 'hollow', 'knew', 'knowledge', 'mere', 'message', 'observation', 'paul', 'potential', 'power', 'preaching', 'refute', 's', 'scheme', 'self', 'slanderous', 'solid', 'souls', 'substantial', 'thessalonians', 'trivial', 'unto', 'vain', 'witness']
+- ChatGPT injected words (58):
+	['a', 'abiding', 'about', 'affirm', 'ambition', 'among', 'and', 'as', 'at', 'authenticity', 'bear', 'bringing', 'but', 'by', 'characterized', 'conversion', 'could', 'deceit', 'demonstration', 'divine', 'effectiveness', 'effects', 'efficacy', 'firsthand', 'full', 'had', 'him', 'his', 'in', 'it', 'its', 'knew', 'lasting', 'lives', 'many', 'ministry', 'nature', 'not', 'of', 'or', 'paul', 'power', 'preaching', 's', 'show', 'souls', 'that', 'the', 'their', 'them', 'themselves', 'thessalonians', 'they', 'to', 'vain', 'was', 'witness', 'work']
+- ChatGPT injected words (significant words only) (29):
+	['abiding', 'affirm', 'ambition', 'authenticity', 'bear', 'bringing', 'characterized', 'conversion', 'deceit', 'demonstration', 'divine', 'effectiveness', 'effects', 'efficacy', 'firsthand', 'knew', 'lasting', 'lives', 'ministry', 'nature', 'paul', 'power', 'preaching', 's', 'souls', 'thessalonians', 'vain', 'witness', 'work']
 
 ### Logs
-- Attempt 1 BHT: Paul's entering in unto the Thessalonians was not in vain. It was not a mere empty scheme, but a bold and self-denying endeavor for their good. Their witness and knowledge of his character refute the slanderous accusations made against him by his enemies. From their own observation, they knew that his preaching was not vain, but filled with power. His message was not a hollow and trivial one, but solid and substantial, with the potential to convert many souls.
-- 🔄 1 Thessalonians 2:1 (attempt 1, 81 words, 43.1% quotes quality score: 1.8110950564650126, V2 normalized quality score: 51.56, commentator tiers 1-3: 31.41%, 28.3%, 40.29%) 
+- Attempt 1 BHT: Through their own firsthand experience and knowledge, the Thessalonians could affirm that Paul's preaching among them was genuine and not in vain. His preaching had a lasting impact and was filled with power, proving to be effective in bringing about the conversion of many souls. Unlike empty and fruitless words, his preaching was characterized by its abiding nature and lasting effects. Paul's ministry was not a mere show of ambition, but a demonstration of the Divine power at work in him. His preaching was not marked by deceit or manipulation, but by sincerity and truth. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching, as it had brought about true transformation in their lives.
+- 🔄 1 Thessalonians 2:1 (attempt 1, 122 words, 41.56% quotes quality score: 1.9250930765340137, V2 normalized quality score: 55.35, commentator tiers 1-3: 29.89%, 28.96%, 41.15%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 2 BHT: Paul's entering in unto the Thessalonians was not in vain, as their own witnesses confirm. It was not a mere empty scheme, but an earnest and bold endeavor for their good. His preaching was filled with power and efficacy, not vanity. The message he brought was not a trivial one, but solid and substantial, with the potential to convert many souls. His character and actions stood firm and undaunted, a testimony to the divine work at hand.
-- 🔄 1 Thessalonians 2:1 (attempt 2, 78 words, 36.84% quotes quality score: 1.763463482493803, V2 normalized quality score: 49.98, commentator tiers 1-3: 30.81%, 24.59%, 44.6%) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 3 BHT: Paul's entering in unto the Thessalonians was not in vain. It was not a mere empty scheme, but an earnest, bold, self-denying endeavor for their good. Their witness and knowledge of his character refute the slanderous accusations made against him by his enemies. From their own observation, they knew that his preaching was not vain, but filled with power. His message was not a hollow and trivial one, but solid and substantial, with the potential to convert many souls.
-- 🔄 1 Thessalonians 2:1 (attempt 3, 81 words, 43.33% quotes quality score: 1.8240501299286525, V2 normalized quality score: 51.99, commentator tiers 1-3: 32.32%, 27.17%, 40.51%) 
+- Attempt 2 BHT: The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not a show of ambition or deceit, but a demonstration of Divine power at work in him. His preaching was characterized by its abiding nature and effectiveness, bringing about the conversion of many souls. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching in their lives.
+- 🔄 1 Thessalonians 2:1 (attempt 2, 84 words, 50.0% quotes quality score: 1.9749160969402486, V2 normalized quality score: 57.01, commentator tiers 1-3: 27.39%, 30.99%, 41.62%) 
+	- BHT WAS OVER 80 WORDS!
+- Attempt 3 BHT: The Thessalonians could confirm that Paul's preaching among them was not in vain. They knew from their firsthand experience that it was filled with power and had lasting impact. Paul's ministry was not a show of ambition or deceit, but a display of Divine power at work. His preaching was marked by its abiding nature and effectiveness, resulting in the conversion of many souls. The Thessalonians themselves could testify to the authenticity and effectiveness of Paul's preaching in their lives.
+- 🔄 1 Thessalonians 2:1 (attempt 3, 83 words, 48.21% quotes quality score: 1.814959631911933, V2 normalized quality score: 51.69, commentator tiers 1-3: 27.07%, 32.82%, 40.11%) 
 	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 4 BHT: Paul's entering in unto the Thessalonians was not in vain. It was not an empty scheme, but an earnest, self-denying endeavor for their good. Their witness and knowledge of his character refute the slanderous accusations made against him. From their own observation, they knew his preaching was not in vain, but full of power. His message was not trivial, but substantial, with the potential to convert many souls.
-- 🔄 1 Thessalonians 2:1 (attempt 4, 70 words, 45.1% quotes quality score: 1.782831405636442, V2 normalized quality score: 50.62, commentator tiers 1-3: 31.91%, 28.9%, 39.19%) 
+- Attempt 4 BHT: Through their own firsthand experience and knowledge, the Thessalonians could affirm that Paul's preaching among them was genuine and not in vain. His preaching had a lasting impact and was filled with power, proving to be effective in bringing about the conversion of many souls. Unlike empty and fruitless words, his preaching was characterized by its abiding nature and lasting effects. Paul's ministry was not a mere show of ambition, but a demonstration of the Divine power at work in him. The Thessalonians themselves could bear witness to the authenticity and efficacy of Paul's preaching, as it had brought about true transformation in their lives.
+- 🔄 1 Thessalonians 2:1 (attempt 4, 108 words, 43.66% quotes quality score: 1.9411379008374623, V2 normalized quality score: 55.88, commentator tiers 1-3: 28.67%, 30.32%, 41.01%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- Attempt 5 BHT: Paul's entering in unto the Thessalonians was not in vain. It was not a mere empty scheme, but an earnest, bold, self-denying endeavor for their good. Their witness and knowledge of his character refute the slanderous accusations against him. From their own observation, they knew his preaching was not in vain, but full of power. His message was not trivial, but substantial, with the potential to convert many souls.
-- 🔄 1 Thessalonians 2:1 (attempt 5, 71 words, 43.4% quotes quality score: 1.7933323890522206, V2 normalized quality score: 50.97, commentator tiers 1-3: 32.56%, 28.43%, 39.01%) 
+- Attempt 5 BHT: The Thessalonians could affirm that Paul's preaching among them was not in vain, as they knew firsthand that it was full of power and had lasting effects. Paul's ministry was not marked by deceit or a mere show of ambition, but by the abiding nature and effectiveness of his preaching. It brought about the conversion of many souls and was characterized by its authenticity and Divine power at work. The Thessalonians themselves could testify to the truth and efficacy of Paul's preaching, as it had transformed their lives.
+- 🔄 1 Thessalonians 2:1 (attempt 5, 91 words, 47.46% quotes quality score: 1.9369807724676966, V2 normalized quality score: 55.75, commentator tiers 1-3: 26.88%, 29.44%, 43.68%) 
+	- BHT WAS OVER 80 WORDS! 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Thessalonians 2:1 bht prompt v0.7 (81 words, 43.33% quotes)
-- quality score: 1.8240501299286525, V2 normalized quality score: 51.99, commentator tiers 1-3: 32.32%, 27.17%, 40.51%)
+- ✅ 1 Thessalonians 2:1 bht prompt v0.8 (84 words, 50.0% quotes)
+- quality score: 1.9749160969402486, V2 normalized quality score: 57.01, commentator tiers 1-3: 27.39%, 30.99%, 41.62%)
