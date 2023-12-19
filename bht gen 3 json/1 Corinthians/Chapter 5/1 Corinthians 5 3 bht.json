@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:04:01",
+    "verseRef": "1 Corinthians 5:3",
+    "bestBHT": {
+        "bht": "The nature of the offensive act leading to the marriage remains unclear, but it was apparently scandalous or unusually heinous in some way. Despite being physically absent, Paul was compelled to pass judgment and has already decided on the appropriate action. In the name of Jesus, Paul's disciplinary decision aims to correct rather than destroy, contrasting with the severe excommunication of the Roman Catholic Church. He admonishes the Corinthians to cast out the offender, removing the stain from the community, and emphasizes the importance of performing this form of excommunication.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 1.5671761525958492,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+        "commentatorTierSimilarities": [
+            33.34,
+            33.8,
+            32.86
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The so may point to some peculiarly offensive method in which he had brought about the marriage, which was known to the Corinthians, but unknown to us.",
+            "Or we may understand it, \u2018under such circumstances,\u2019 \u2018being such as he is, a member of Christ\u2019s body.\u2019",
+            "Perhaps after all, it refers merely to the peculiar heinousness of the kind of offence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "as absent\u2014The best manuscripts read, 'being absent.'",
+            "present in spirit\u2014(2 Kings 5:26; Colossians 2:5).",
+            "so done\u2014rather, 'perpetrated,' as the Greek word here is stronger than that for 'done' in Colossians 2:5-: 'So,' that is, so scandalously while called a brother."
+        ],
+        "Albert Barnes": [
+            "I have judged this case to be so flagrant as to demand the exercise of discipline.",
+            "My heart is with you; my feelings are with you; I have a deep and tender interest in the case.",
+            "I have made up my mind; have decided, and do decide."
+        ],
+        "John Calvin": [
+            "In order that this stain may be removed, they must cast out this incestuous person from the society of the faithful.",
+            "He severely reproves in this way the remissness of the Corinthians, for there is here all implied contrast.",
+            "Now it is of importance to observe what he teaches as to the mode of excommunication."
+        ],
+        "Philip Schaff": [
+            "In the name of our Lord Jesus, in whose name, as the unseen yet ever-present Lord of the Church, every act of discipline should be performed.\" (1 Corinthians 5:3) ",
+            "Corrective, therefore, not destructive, was this severe discipline designed to be destructive only of what would have destroyed the soul of the offender.\" (1 Corinthians 5:3)",
+            "What a caricature of this is the greater excommunication of the Church of Rome, as carried into effect in the darker and palmier days of sacerdotal power!\" (1 Corinthians 5:3)"
+        ],
+        "Archibald T. Robertson": [
+            "I have already decided or judged, as though present.",
+            "Paul felt compelled to reach a conclusion about the case.",
+            "He did have such power and used it against Elymas as Peter did against Ananias and Sapphira."
+        ],
+        "John Gill": [
+            "For I verily, as absent in body,.... As he really was, being now at Philippi, if any dependence is to be had upon the subscription of this epistle; or rather at Ephesus; however, wherever he was, it is certain he was not at Corinth...\" ",
+            "but present in spirit; in his affection to them, care of them, and concern for their good, and the glory of God...",
+            "to him that hath so done this deed; this infamous one, and in so scandalous a manner, and which was continued in: what that was which the apostle, upon mature deliberation and judgment, determined to do with this wicked man, is expressed in 1 Corinthians 5:5 which is to be connected with this, the whole fourth verse being to be read in a parenthesis, and that was to deliver him to Satan."
+        ],
+        "John Wesley": [
+            "Having a full (it seems, a miraculous) view of the whole fact.",
+            "Have already, as if I were actually present, judged him who hath so scandalously done this.",
+            "I verily, as present in spirit"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The situation surrounding the marriage in question is not fully known or understood, but it seems to have been offensive in some way. Some speculate that the offense may have been one of a peculiarly heinous nature or that it was simply that the manner in which it was done was scandalous. Regardless, Paul, although physically absent, felt compelled to make a judgment in this matter and has already decided on the appropriate course of action. His decision, in the name of the Lord, is corrective rather than destructive, aimed at saving the soul of the offender. It is crucial to note that this discipline should be performed only in the name of the unseen yet ever-present Lord of the Church, Jesus Christ. This stands in stark contrast to the harsh excommunication practices of the Roman Catholic Church. Paul's desire is for the Corinthians to be mindful of the mode of excommunication and to cast out the incestuous individual in order to remove the stain from the community of believers.",
+            "wordCount": 172,
+            "quoteTokenProportion": 37.38,
+            "qualityScore": 1.5141424156173855,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                31.29,
+                35.86,
+                32.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The nature of the offensive act leading to the marriage remains unclear, but it was apparently scandalous or unusually heinous in some way. Despite being physically absent, Paul was compelled to pass judgment and has already decided on the appropriate action. In the name of Jesus, Paul's disciplinary decision aims to correct rather than destroy, contrasting with the severe excommunication of the Roman Catholic Church. He admonishes the Corinthians to cast out the offender, removing the stain from the community, and emphasizes the importance of performing this form of excommunication.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.5671761525958492,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                33.34,
+                33.8,
+                32.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The specifics of the offensive act leading to the marriage are unknown, but it appears to have been scandalous or particularly heinous. Despite his physical absence, Paul has made a judgment and decided on the appropriate response. In the name of Jesus, his decision is intended to correct rather than destroy, in contrast to the excommunication practices of the Roman Catholic Church. Paul urges the Corinthians to remove the offending individual from the community to cleanse it from the stain, emphasizing the proper method of excommunication.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.562454960505304,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                34.31,
+                33.68,
+                32.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Although the circumstances of the offensive act leading to the marriage are unknown, it is believed to have been scandalous or exceptionally egregious. Despite his physical absence, Paul has come to a decision and judged on the appropriate course of action. Acting in the name of Jesus, his intention is to correct rather than destroy, in contrast to the severe excommunication practices of the Roman Catholic Church. Paul advises the Corinthians to expel the offender, eradicating the blemish from the community, and emphasizes the importance of following the proper methods of excommunication.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.4933767451306148,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.0,
+            "commentatorTierSimilarities": [
+                35.19,
+                32.89,
+                31.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While the exact details of the offensive act leading to the marriage are unclear, it is believed to have been scandalous or particularly heinous. Despite his physical absence, Paul has reached a decision and judged on the appropriate course of action. Acting in the name of Jesus, his intention is to correct rather than destroy, in contrast to the severe excommunication practices of the Roman Catholic Church. Paul urges the Corinthians to remove the offender from the community, cleansing it from the stain, and emphasizes the importance of following the proper methods of excommunication.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.5350567015339815,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                33.33,
+                33.2,
+                33.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

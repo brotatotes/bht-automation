@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:43",
+    "verseRef": "2 Corinthians 12:6",
+    "bestBHT": {
+        "bht": "I wish to be judged based on what you have seen and heard from me personally, not by any boasting I may do. I have good reason to boast, but I refrain from it because those who think too highly of themselves deceive themselves. I have no desire to be seen as foolish, which is why I speak of the Paul you have seen and heard, not the one who experienced revelations. I want you to form your opinion of me based on my present actions and teachings, rather than my past boasts.",
+        "wordCount": 93,
+        "quoteTokenProportion": 54.84,
+        "qualityScore": 1.7838430545036132,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+        "commentatorTierSimilarities": [
+            34.41,
+            34.54,
+            31.05
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I shall say the truth: but I abstain, that no one may reckon of me beyond what he seeth me (to be), or heareth perchance from me.",
+            "Lest he should seem to undervalue so legitimate a subject of boasting, he alleges the reason why he abstains.",
+            "He wished to be judged of by what they really had seen and heard of and from himself in person."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "FOR if I should desire to glory, I shall not be a fool\"; for I have things to glory, or boast of which are good matter for glorying.",
+            "I wish each of you to estimate me by 'what he sees' my present acts and 'hears' my teaching to be; not by my boasting of past revelations.",
+            "They who allow themselves to be thought of more highly than is lawful, defraud themselves of the honor which is at God's disposal."
+        ],
+        "Albert Barnes": [
+            "I could seriously state what all would admit to be such.",
+            "I desire and expect to be estimated by my public life.",
+            "Let us be willing to be estimated by people by what they see in us; to enjoy such a reputation as our conduct shall fairly entitle us to."
+        ],
+        "John Calvin": [
+            "I would have it quite in my power, on good grounds; nor would I be justly accused of vanity, for I have ground to go upon, but I refrain from it.",
+            "The folly, however, is more offensive and insufferable, if any one boasts groundlessly, or, in other words, pretends to be what he is not; for in that case there is impudence in addition to silliness.",
+            "Here we perceive what great modesty there was in this man, inasmuch as he was not at all concerned on account of his meanness, which he discovered in his appearance and speech, while he was replenished with such a superiority of gifts."
+        ],
+        "Philip Schaff": [
+            "I might, indeed, glory, and in doing so, I should not have to go beyond what is strictly true; but I will not, for I would have none to think of me otherwise than I was found and known to be when at Corinth, by personal observation both of my walk and of my speech.",
+            "The apostle has a positive dread of being thought of above what every one who came in contact with him might see and know him to be.",
+            "'O how little of this fear is there (exclaims Bengel) in most people, even divines!'"
+        ],
+        "Archibald T. Robertson": [
+            "I shall not be foolish.",
+            "But he is here speaking of the Paul 'caught up' in case he should tell the things heard.",
+            "To my credit, almost like dative."
+        ],
+        "John Gill": [
+            "For I will say the truth; he said nothing but what was strictly true.",
+            "To speak truth, though it be of a man's self, when he is called to it, cannot be deemed folly.",
+            "He chose rather that men should form their judgments of him by what they saw in him and heard from him, as a minister of the Gospel."
+        ],
+        "John Wesley": [
+            "For if I should resolve to glory... I might glory of such a glorious revelation.\" ",
+            "I speak sparingly of these things, for fear any one should think too highly of me.",
+            "O where is this fear now to be found? Who is afraid of this?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I wish to be judged based on what you have seen and heard from me personally, not by any boasting I may do. I have good reason to boast, but I refrain from it because those who think too highly of themselves deceive themselves. I have no desire to be seen as foolish, which is why I speak of the Paul you have seen and heard, not the one who experienced revelations. I want you to form your opinion of me based on my present actions and teachings, rather than my past boasts.",
+            "wordCount": 93,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.7838430545036132,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                34.41,
+                34.54,
+                31.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I wish to be judged based on what you have seen and heard from me personally. I have good reason to boast, but I refrain from it so that I am not thought of more highly than I should be. I want to be seen as wise, not foolish. I want you to form your opinion of me based on my present actions and teachings, rather than my past boasts and revelations.",
+            "wordCount": 72,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 1.6855513778596025,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                35.66,
+                35.4,
+                28.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I want to be known and judged for who I truly am, not for any boasting I may do about my past experiences or revelations. It is important to me that others see me for what they have witnessed and heard from me directly. I don't want to be perceived as someone who falsely elevates themselves beyond what is justified. It would be foolish and arrogant to do so. I would rather be modest and have people form their judgments of me based on their own observations of my character and teachings. The truth is, I could boast about many things, but it is not my desire to do so. Instead, I want to be seen as I truly am, without any pretense or exaggeration. It is a genuine fear of mine that people might think too highly of me, because I want to be grounded in reality and not present myself as more than what I truly am.",
+            "wordCount": 160,
+            "quoteTokenProportion": 53.26,
+            "qualityScore": 1.76630264870164,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                30.91,
+                38.08,
+                31.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I desire to be judged based on what others have seen and heard from me personally, without any exaggerated boasting about my past experiences or revelations. It is important to me that I am not perceived as someone who elevates themselves beyond what is justified. I want to be known for my true character and teachings, without any pretense or exaggeration. I have the ability to boast, but it is not my desire to do so. I want to be seen as I truly am, without any false perceptions.",
+            "wordCount": 89,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.726884064092002,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.76,
+            "commentatorTierSimilarities": [
+                30.19,
+                38.79,
+                31.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I wish to be evaluated based on what others have directly observed and heard from me, without any excessive boasting. It is essential for me to be seen as authentic and not to present myself as better than I truly am. I have legitimate reasons to boast, but I refrain from doing so. My aim is for people to form opinions of me based on their own interactions with me and my teachings, rather than on any self-promotion.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.6454155430362003,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                33.58,
+                36.8,
+                29.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

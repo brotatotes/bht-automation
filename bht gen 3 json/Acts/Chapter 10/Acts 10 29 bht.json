@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:29:27",
+    "verseRef": "Acts 10:29",
+    "bestBHT": {
+        "bht": "The speaker's speech is dignified as he addresses the new brotherhood, having been directed by God to bring forth new truth. Without gainsaying, Peter acknowledges his objections made to the Lord, not fully understanding. He recognizes he has crossed the line of Jewish custom and asks for the purpose of his journey. This holy silence of faith receives God's commands and abandons contrary reasons. Peter's immediate consent is not only for confirmation but also for the sake of order, leading him to speak with new dignity and leaving Cornelius impressed.",
+        "wordCount": 93,
+        "quoteTokenProportion": 30.88,
+        "qualityScore": 1.4820919316163281,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+        "commentatorTierSimilarities": [
+            33.66,
+            32.84,
+            33.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The whole speech is full of dignity...",
+            "The apostle seeing in the company before him a new brotherhood...",
+            "...he was divinely directed to pour the light of new truth."
+        ],
+        "Albert Barnes": [
+            "Without gainsaying - without 'saying anything against it'; without hesitation or reluctance.",
+            "I ask, therefore ... - The main design for which Cornelius had sent for him had been mentioned to Peter by the messenger, Acts 10:22.",
+            "For what intent - For what purpose or design."
+        ],
+        "Marvin Vincent": [
+            "With what intent [\u03c4\u03b9\u03bd\u03b9 \u03bb\u03bf\u03b3\u03c9] . More strictly, for what reason."
+        ],
+        "John Calvin": [
+            "This is the holy silence of faith, when as without murmuring against God we receive that meekly which he commandeth.",
+            "Abandoning all contrary reasons which intrude themselves.\" ",
+            "Driving far away."
+        ],
+        "Philip Schaff": [
+            "He says that he had at once obeyed instructions which he felt to be Divine.",
+            "This is a case in which every step is to be made firm.",
+            "The apostle asks for a full and authentic confirmation of what he had heard from the messengers."
+        ],
+        "Archibald T. Robertson": [
+            "Without gainsaying. Without answering back.",
+            "Peter's objections were made to the Lord in the vision which he did not understand.",
+            "He had stepped over the line of Jewish custom."
+        ],
+        "John Gill": [
+            "Therefore came I unto you, without gainsaying... as soon as I was sent for.\" ",
+            "He immediately consented to go... being previously directed so to do by the Spirit of God.",
+            "I ask therefore for what intent ye have sent for me?... not only for further confirmation's sake, but for order sake, to lead him on regularly to what he had to say."
+        ],
+        "John Wesley": [
+            "I ask for what intent ye have sent for me?\" - St. Peter knew this already.",
+            "The repetition of which, even as we read it, gives a new dignity and spirit to Peter's succeeding discourse.",
+            "Cornelius himself more impressed by the narration."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The speaker's speech in this verse is filled with dignity as he addresses the new brotherhood before him, having been divinely directed to bring forth new truth. Without gainsaying or answering back, Peter acknowledges that his objections were made to the Lord, not fully understanding. He recognizes that he has crossed the line of Jewish custom, and he asks for what purpose he has been sent for. This is a holy silence of faith, receiving meekly what God commands and abandoning all contrary reasons. Peter's immediate consent to go is not only for further confirmation's sake but also for the sake of order, leading him to what he has to say. The repetition of his question gives new dignity and spirit to his discourse, leaving Cornelius more impressed.",
+            "wordCount": 131,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5326910189775016,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.3,
+            "commentatorTierSimilarities": [
+                32.55,
+                32.91,
+                34.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The speaker's speech is dignified as he addresses the new brotherhood, having been directed by God to bring forth new truth. Without gainsaying, Peter acknowledges his objections made to the Lord, not fully understanding. He recognizes he has crossed the line of Jewish custom and asks for the purpose of his journey. This holy silence of faith receives God's commands and abandons contrary reasons. Peter's immediate consent is not only for confirmation but also for the sake of order, leading him to speak with new dignity and leaving Cornelius impressed.",
+            "wordCount": 93,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.4820919316163281,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.62,
+            "commentatorTierSimilarities": [
+                33.66,
+                32.84,
+                33.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his speech, the speaker displays great dignity as he addresses the newly formed brotherhood, having been divinely guided to share new revelations. Without gainsaying, the speaker acknowledges his objections, made in the vision without full comprehension. He recognizes that he has crossed the line of Jewish customs and inquires about the purpose of his visit. This humble silence of faith accepts God's commands and dismisses contradicting thoughts. The speaker's immediate compliance serves not only for confirmation but also for the sake of order, delivering his subsequent discourse with renewed dignity and leaving a lasting impression on Cornelius.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.3922962017758103,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                36.16,
+                35.53,
+                28.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Addressing the new brotherhood, the speaker's speech radiates dignity, having been divinely directed to shed light on new truths. Without gainsaying or answering back, Peter acknowledges his objections that were expressed to the Lord, even though he did not fully understand them at the time. Aware that he had stepped over the line of Jewish custom, he inquires about the purpose behind the invitation. This humble reception of God's commands demonstrates a holy silence of faith, abandoning contrary reasons and promptly obeying divine instructions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.72,
+            "qualityScore": 1.4655862672164428,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                38.01,
+                33.37,
+                28.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The speaker's dignified speech to the new brotherhood is marked by his divine guidance to share new truth. Without gainsaying, he acknowledges his objections made to the Lord when he did not fully understand. Recognizing that he crossed the line of Jewish custom, he earnestly asks the intent behind his summons. This humble silence of faith accepts God's commands, dismissing contrary reasons. The speaker's immediate compliance ensures confirmation and order, adding new dignity and leaving a strong impression on Cornelius.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.4373337981121292,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                37.04,
+                33.77,
+                29.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:21:22",
+    "verseRef": "Luke 18:23",
+    "bestBHT": {
+        "bht": "Sorry he was, very sorry, to part with Christ, but to part with his riches would have cost him a pang more. When Riches or Heaven, on Christ's terms, were the alternative, the result showed to which side the balance inclined. Thus was he shown to lack the one all-comprehensive requirement of the law\u2014the absolute subjection of the heart to God. His struggle emphasized the paramount importance of wholeheartedly surrendering everything to follow Christ, even the most treasured possessions.",
+        "wordCount": 82,
+        "quoteTokenProportion": 46.55,
+        "qualityScore": 1.7864269643313442,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+        "commentatorTierSimilarities": [
+            45.25,
+            0.0,
+            54.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Sorry he was, very sorry, to part with Christ; but to part with his riches would have cost him a pang more.",
+            "When Riches or Heaven, on Christ's terms, were the alternative, the result showed to which side the balance inclined.",
+            "Thus was he shown to lack the one all-comprehensive requirement of the law\u2014the absolute subjection of the heart to God, and this want vitiated all his other obediences."
+        ],
+        "Marvin Vincent": [
+            "He was very sorrowful. Rev., more correctly renders ejgenhqh, he became. See on Mark 10:22. ",
+            "Very rich. The Greek order forms a climax : \"rich exceedingly."
+        ],
+        "Archibald T. Robertson": [
+            "Became (\u03b5\u03b3\u03b5\u03bd\u03b7\u03b8\u03b7). First aorist passive indicative of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1. Like his countenance fell (\u03c3\u03c4\u03c5\u03b3\u03bd\u03b1\u03c3\u03b1\u03c2), in Mark 10:22.",
+            "Exceedingly sorrowful (\u03c0\u03b5\u03c1\u03b9\u03bb\u03c5\u03c0\u03bf\u03c2). Old adjective (\u03c0\u03b5\u03c1\u03b9, \u03bb\u03c5\u03c0\u03b7) with perfective use of \u03c0\u03b5\u03c1.",
+            "Very rich (\u03c0\u03bb\u03bf\u03c5\u03c3\u03b9\u03bf\u03c2 \u03c3\u03c6\u03bf\u03b4\u03c1\u03b1). Rich exceedingly. Today, a multimillionaire."
+        ],
+        "John Gill": [
+            "That one thing was wanting, and what that was, which was to part with all his worldly substance, and follow Christ",
+            "He was very sorrowful, for he was very rich"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse portrays a man who was incredibly sorrowful at the thought of parting with Christ, yet the idea of giving up his riches caused an even greater anguish in his heart. This rich man's struggle reveals that his lack of absolute submission to God's authority tainted all his other acts of obedience. Ultimately, the choice between his wealth and embracing the conditions of Heaven demonstrated where his true devotion lay. This story emphasizes the paramount importance of wholeheartedly surrendering everything to follow Christ, even when it requires sacrificing our most prized possessions.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.5668946212355697,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                42.88,
+                0.0,
+                57.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This man's deep sorrow came from his reluctance to separate from Christ, but it was his attachment to his wealth that posed an even greater challenge. His sorrowful reaction revealed his failure to fully submit his heart to God, which undermined his other acts of obedience. Ultimately, his choice revealed where his true priorities lay. This narrative highlights the necessity of wholehearted surrender to follow Christ, even when it means relinquishing our most treasured possessions.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.4071175093688988,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.13,
+            "commentatorTierSimilarities": [
+                43.32,
+                0.0,
+                56.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man's sorrow stemmed from his unwillingness to part with Christ, but it was the prospect of giving up his riches that caused him even deeper anguish. This inability to fully surrender his heart to God tainted all of his other acts of obedience. In the end, his choice revealed where his true allegiance lay. This passage serves as a powerful reminder of the paramount importance of wholeheartedly embracing Christ, even when it means sacrificing our most prized possessions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.3625584914194366,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.65,
+            "commentatorTierSimilarities": [
+                43.45,
+                0.0,
+                56.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sorry he was, very sorry, to part with Christ, but to part with his riches would have cost him a pang more. When Riches or Heaven, on Christ's terms, were the alternative, the result showed to which side the balance inclined. Thus was he shown to lack the one all-comprehensive requirement of the law\u2014the absolute subjection of the heart to God. His struggle emphasized the paramount importance of wholeheartedly surrendering everything to follow Christ, even the most treasured possessions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7864269643313442,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                45.25,
+                0.0,
+                54.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sorry he was, very sorry, to part with Christ, but to part with his riches would have cost him a pang more. When Riches or Heaven, on Christ's terms, were the alternative, the result showed to which side the balance inclined. Thus was he shown to lack the one all-comprehensive requirement of the law\u2014the absolute subjection of the heart to God. His struggle emphasized the paramount importance of wholeheartedly surrendering everything to follow Christ, even the most treasured possessions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.7864269643313442,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                45.25,
+                0.0,
+                54.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

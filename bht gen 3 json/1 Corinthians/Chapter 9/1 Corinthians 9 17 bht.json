@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:10:25",
+    "verseRef": "1 Corinthians 9:17",
+    "bestBHT": {
+        "bht": "If I am doing this of my own accord, I have a reward, but if involuntarily, with a stewardship have I been entrusted. From the nature of things, in this respect I have no reward for merely doing what is my bounden duty. But woe if I fail in it. The only reward that he had for his willing work was to make the gospel free of expense. I have been entrusted with a stewardship and so would go on with my task even if unwilling.",
+        "wordCount": 86,
+        "quoteTokenProportion": 63.64,
+        "qualityScore": 2.314059613243894,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+        "commentatorTierSimilarities": [
+            42.11,
+            35.47,
+            22.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If I am doing this of mine own accord, I have a reward, but if involuntarily, with a STEWARDSHIP have I been entrusted.",
+            "From the nature of things, in this respect I have no reward, or wages, for merely doing what is my bounden duty.",
+            "But woe if I fail in it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If I be doing this (that is, preaching) of my own accord... I have a reward.\" ",
+            "I only 'have done that which was my duty to do,' but incur the 'woe' if I fail in it.\" ",
+            "I have had a dispensation (of the Gospel) entrusted to me."
+        ],
+        "Albert Barnes": [
+            "If I do this thing willingly... If I pursue such a course as to show that I prefer it to all other employments.\" ",
+            "Even though he had been in a manner compelled to engage in that work, yet he so acted in the work as to show that it had his hearty preference. This was done by his submitting to voluntary self-denials and sacrifices in order to spread the Saviour\u2019s name.",
+            "I must engage in this work; and if I do it from mere compulsion or in such a way that my will shall not acquiesce in it, and concur with it, I shall have no distinguished reward."
+        ],
+        "Marvin Vincent": [
+            "He so glories in this that he would rather die than surrender this ground of boasting.",
+            "The preaching of the Gospel in itself furnishes no such ground, for one cannot boast of what he needs must do.",
+            "What, then, is my reward? What ground of boasting have I? Only this: to make the Gospel without charge. In this I may glory."
+        ],
+        "John Calvin": [
+            "But for it always happens that the man who undertakes any business with zeal, is also prepared of his own accord to submit to everything.",
+            " ",
+            "God does not by any means approve of the service done by the man who performs it grudgingly, and, as it were, with a reluctant mind.",
+            "The Lord requires that his servants be cheerful, so as to delight in obeying him, and manifest their cheerfulness by the promptitude with which they act."
+        ],
+        "Philip Schaff": [
+            "For if I do this of mine own will, I have a reward the reward of serving gratuitously.",
+            "And being able thus triumphantly to vindicate the purity of my motives.",
+            "But if not of mine own will, I have a stewardship entrusted to me the yoke of Heaven is upon me, even should I dislike it."
+        ],
+        "Archibald T. Robertson": [
+            "The only reward that he had for his willing work was to make the gospel free of expense.",
+            "This was his \u03bc\u03b9\u03c3\u03b8\u03bf\u03c2. It was glorying.",
+            "I have been intrusted with a stewardship and so would go on with my task like any \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c2 (steward) even if \u03b1\u03ba\u03c9\u03bd (unwilling)."
+        ],
+        "John Gill": [
+            "A reward is given to him, who does anything unbidden.",
+            "A dispensation of the Gospel is committed to me... it was enjoined him by one that had the command over him.",
+            "It was not at his own option whether he would preach the Gospel or not, but he was obliged to it by one that had a superior power and influence over him."
+        ],
+        "John Wesley": [
+            "Willingly \u2014 He seems to mean, without receiving anything.\" ",
+            "But if he had received anything from them, he would have termed it preaching unwillingly.",
+            "A dispensation is intrusted to me \u2014 Therefore I dare not refrain."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 4,
+    "bhtAttempts": [
+        {
+            "bht": "If I am doing this of my own accord, I have a reward, but if involuntarily, with a stewardship have I been entrusted. From the nature of things, I have no reward for merely doing my bounden duty. The preaching of the Gospel itself furnishes no such ground for boasting, for one cannot boast of what he needs must do. The only reward I have for my willing work is to make the Gospel free of expense. This was my glorying. I have been entrusted with a stewardship, and so I would go on with my task, even if unwilling.",
+            "wordCount": 100,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 2.1926015895389295,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.24,
+            "commentatorTierSimilarities": [
+                43.51,
+                34.93,
+                21.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If I am doing this of my own accord, I have a reward, but if involuntarily, with a stewardship have I been entrusted. I only have done what was my duty, but incur the woe if I fail in it. The only reward I have for my willing work is to make the Gospel without charge. This was my glorying. I have been entrusted with a stewardship, and so I would go on with my task, even if unwilling.",
+            "wordCount": 79,
+            "quoteTokenProportion": 65.96,
+            "qualityScore": 2.2373148227356907,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.73,
+            "commentatorTierSimilarities": [
+                43.82,
+                36.73,
+                19.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If I am doing this of my own accord, I have a reward, but if involuntarily, with a stewardship have I been entrusted. From the nature of things, in this respect I have no reward, or wages, for merely doing what is my bounden duty. But woe if I fail in it. I have had a dispensation of the Gospel entrusted to me. The only reward that he had for his willing work was to make the gospel free of expense. What, then, is my reward? What ground of boasting have I? Only this: to make the Gospel without charge. In this I may glory. I have been entrusted with a stewardship and so would go on with my task like any steward even if unwilling.",
+            "wordCount": 126,
+            "quoteTokenProportion": 59.42,
+            "qualityScore": 2.119471325776355,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                44.21,
+                33.29,
+                22.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If I am doing this of my own accord, I have a reward, but if involuntarily, with a stewardship have I been entrusted. From the nature of things, in this respect I have no reward for merely doing what is my bounden duty. But woe if I fail in it. The only reward that he had for his willing work was to make the gospel free of expense. I have been entrusted with a stewardship and so would go on with my task even if unwilling.",
+            "wordCount": 86,
+            "quoteTokenProportion": 63.64,
+            "qualityScore": 2.314059613243894,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.28,
+            "commentatorTierSimilarities": [
+                42.11,
+                35.47,
+                22.42
+            ],
+            "generationAttempt": 4
+        }
+    ]
+}

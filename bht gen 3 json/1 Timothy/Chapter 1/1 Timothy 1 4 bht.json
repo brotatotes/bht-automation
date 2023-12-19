@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:28:15",
+    "verseRef": "1 Timothy 1:4",
+    "bestBHT": {
+        "bht": "We must not be swayed by profane and old wives' fables, nor should we be entangled in endless genealogies that only serve to create useless and endless controversies. Instead, let us focus on the true dispensation of God, the stewardship of faith, which brings about godly edification and builds up our souls as a dwelling place for God. It is important to avoid giving heed to fables and rather strive to be established in faith and holiness, nurturing an increase in every grace within us.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.94,
+        "qualityScore": 1.9191619709013636,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+        "commentatorTierSimilarities": [
+            27.01,
+            33.35,
+            39.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In our ch. iv. 7, they are designated as 'profane and anile.'",
+            "It does not seem easy to define them any further, but it is plain that any transitional state from Judaism to gnosticism will satisfy the conditions here propounded without inferring that the full-blown gnosticism of the second century must be meant.",
+            "The dispensation of God (towards man) which is (consists) in (the) faith: in which case the verb 'minister' must bear something of a transferred meaning, as applied to 'dispensation,' implying, 'rather than they set forth.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Profane, and old wives' fables\" (1 Timothy 4:7; 2 Timothy 4:4).",
+            "Paul opposes to their 'aeons,' the 'King of the aeons... whom be glory throughout the aeons of aeons'\" (1 Timothy 1:17).",
+            "'The exercising of the stewardship of God'... which is (has its element) in faith\" (1 Timothy 1:7)."
+        ],
+        "Albert Barnes": [
+            "One of the most successful arts of the adversary of souls has been to mingle fable with truth; and when he cannot overthrow the truth by direct opposition, to neutralize it by mingling with it much that is false and frivolous.",
+            "The whole system [of endless genealogies] was, moreover, contrary to the genius of Christianity, for it served to keep up the pride of blood and of birth.",
+            "No point of controversy is worth much trouble, which, if it were settled one way or the other, would not tend to convert the soul from sin, or to establish some important principle in promoting true religion."
+        ],
+        "Marvin Vincent": [
+            "It means here not merely to give attention to, but to give assent to.",
+            "Muqov, in its widest sense, means word, speech, conversation or its subject. Hence the talk of men, rumour, report, a saying, a story, true or false.",
+            "'Fables and endless genealogies' form a single conception, the kai and being explanatory, that is to say, and the 'endless genealogies' indicating in what the peculiarity of the fables consists."
+        ],
+        "John Calvin": [
+            "Let them not give heed to fables of that character and description to which genealogies belong.",
+            "He calls them endless, because vain curiosity has no limit, but continually falls from labyrinth to labyrinth.",
+            "He judges of doctrine by the fruit; for every thing that does not edify ought to be rejected, although it has no other fault; and everything that is of no avail but for raising contentions, ought to be doubly condemned."
+        ],
+        "Philip Schaff": [
+            "These studies, whatever they were, were 'interminable.' Once enter on such a line of teaching, and there was no knowing when to stop.\" ",
+            "The better reading gives 'the dispensation (or steward-ship) of God.' St. Paul falls back on the thought so prominent in the Epistle to the Ephesians, that the truth of which he was the preacher was a system, an organized and compact whole.",
+            "The sentence in the Greek is with characteristic abruptness left unfinished, and St. Paul passes at once to that of which his mind is full."
+        ],
+        "Archibald T. Robertson": [
+            "To give heed (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c7\u03b5\u03b9\u03bd).",
+            "To fables (\u03bc\u03c5\u03b8\u03bf\u03b9\u03c2).",
+            "A dispensation (\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "Neither give heed to fables...nor endless genealogies...which minister questions; rather than godly edifying, which is in faith.\" ",
+            "that in which souls are built up an habitation for God, and are built up in faith and holiness, and by an increase of every grace.",
+            "the dispensation of the mysteries of grace, which are in the doctrine of faith, which becomes a faithful steward of them, and not fables and genealogies, which issue in questions, quarrels, and contentions."
+        ],
+        "John Wesley": [
+            "Neither give heed...to fables.\" ",
+            "And endless genealogies...which lead only to useless and endless controversies.",
+            "Which afford questions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let us not be swayed by profane and old wives' tales, for they are as senseless and fruitless as endless genealogies. Instead, let us focus on the true dispensation of God, the stewardship of faith, which brings about godly edification and builds up our souls as a dwelling place for God. We must not waste our time on fables and pointless discussions, but rather seek to be established in faith and holiness, avoiding unnecessary controversies and striving for the growth of every grace within us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.8552653833823802,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.03,
+            "commentatorTierSimilarities": [
+                26.05,
+                33.54,
+                40.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We must not be swayed by profane and old wives' tales, or be consumed by endless genealogies. Instead, let us focus on the true dispensation of God, the stewardship of faith, which brings about godly edification and builds up our souls for God. We should avoid wasting our time on fables and pointless discussions that only lead to controversies. Instead, let us strive for growth in faith and holiness, seeking to cultivate every grace within us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.7463551561779211,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                26.54,
+                32.65,
+                40.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We must not be swayed by profane and old wives' fables, nor should we be entangled in endless genealogies that only serve to create useless and endless controversies. Instead, let us focus on the true dispensation of God, the stewardship of faith, which brings about godly edification and builds up our souls as a dwelling place for God. It is important to avoid giving heed to fables and rather strive to be established in faith and holiness, nurturing an increase in every grace within us.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.9191619709013636,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.15,
+            "commentatorTierSimilarities": [
+                27.01,
+                33.35,
+                39.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We must not be swayed by profane and old wives' fables, nor should we be entangled in endless genealogies. Instead, let us focus on the true dispensation of God, the stewardship of faith, which brings about godly edification and builds up our souls as a dwelling place for God. It is important to avoid giving heed to fables and rather strive to be established in faith and holiness, nurturing an increase in every grace within us.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9029792657145865,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.62,
+            "commentatorTierSimilarities": [
+                28.78,
+                32.07,
+                39.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We must be cautious not to be led astray by profane and old wives' fables, or get caught up in endless genealogies that only lead to pointless controversies. Instead, let us concentrate on the true dispensation of God, the stewardship of faith, which not only edifies but also builds up our souls as a sacred dwelling for God. It is important to disregard fables and instead strive for a solid foundation in faith and holiness, fostering the growth of all virtues within us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8988196427523176,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.48,
+            "commentatorTierSimilarities": [
+                29.14,
+                34.08,
+                36.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

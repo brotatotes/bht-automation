@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:01:35",
+    "verseRef": "1 Thessalonians 5:20",
+    "bestBHT": {
+        "bht": "The gift of prophecy should not be despised, as it is considered greater than tongues, which may appear more miraculous. The prophet, being withdrawn from earthly matters, receives the truth and is focused on the spiritual world. Prophecy works in harmony with the spiritual, moral intelligence, and speech of the prophet. We should not dismiss or demean prophecy, but rather value and esteem it. Similarly, preaching should not be underestimated, as it is God's means of converting the world. Neglecting or despising any means of grace, including prophecy, can quench the Spirit.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.8694763669987606,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+        "commentatorTierSimilarities": [
+            32.06,
+            31.01,
+            36.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They were liable to be despised in comparison with the more evidently miraculous gift of tongues.",
+            "He takes pains to show that prophecy was in reality the greater gift.",
+            "Prophecy was in reality the greater gift."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Prophesyings\u2014whether exercised in inspired teaching, or in predicting the future.",
+            "Despised\" by some as beneath \"tongues,\" which seemed most miraculous.",
+            "Declared by Paul to be a greater gift than tongues, though the latter were more showy."
+        ],
+        "Albert Barnes": [
+            "They were not to undervalue [preaching] in comparison with other things.",
+            "The office of addressing mankind on the great duties of religion, and of publishing salvation, is to be God\u2019s great ordinance for converting the world. It should not be despised.",
+            "No man is made the poorer, or the less respectable, or more miserable in life or in death, by following the counsels of a minister of Christ when he makes known the gospel."
+        ],
+        "Marvin Vincent": [
+            "[Quote 1] \"The prophet received the truth into his own spirit which was withdrawn from earthly things and concentrated upon the spiritual world.",
+            "[Quote 2] \"His higher, spiritual part [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1], and his moral intelligence [\u03bd\u03bf\u03c5\u03c2], and his speech [\u03bb\u03bf\u03b3\u03bf\u03c2] worked in harmony.",
+            "[Quote 3] \"The prophetic influence was thus distinguished from the mystical ecstasy, the ecstasy of Paul when rapt into the third heaven, which affected the subject alone and was incommunicable (2 Corinthians 12:1-4)."
+        ],
+        "John Calvin": [
+            "Let every one, therefore, who is desirous to make progress under the direction of the Holy Spirit, allow himself to be taught by the ministry of prophets.",
+            "Paul prohibits us from despising it [prophecy], if we would not choose of our own accord to wander in darkness.",
+            "Let us, however, learn from the example of Paul, to conjoin the Spirit with the voice of men, which is nothing else than his organ."
+        ],
+        "Archibald T. Robertson": [
+            "Despise not prophesyings... stop counting as nothing.",
+            "Word means forth-telling rather than fore-telling and is the chief of the spiritual gifts.",
+            "Evidently depreciated in Thessalonica as in Corinth later."
+        ],
+        "John Gill": [
+            "The prophecies of the Old Testament...have still their usefulness...the truths of the Gospel illustrated and confirmed, and faith strengthened.",
+            "Many prophecies...relate to things yet to be done under the Gospel dispensation, and therefore should not be set at nought, but highly valued and esteemed.",
+            "The prophecies of private men...are not to be slighted...and things of this nature should not be precipitantly, and without care, given into."
+        ],
+        "John Wesley": [
+            "Despise not prophesyings \u2014 That is, preaching; for the apostle is not here speaking of extraordinary gifts.",
+            "It seems, one means of grace is put for all; and whoever despises any of these, under whatever pretence, will surely (though perhaps gradually and almost insensibly) quench the Spirit.",
+            "whoever despises any of these, under whatever pretence, will surely (though perhaps gradually and almost insensibly) quench the Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The gift of prophecy must not be despised or regarded as insignificant compared to the more showy gift of tongues. While tongues may seem more miraculous, prophecy is the greater gift. The prophet receives the truth into their own spirit, being withdrawn from earthly things and focused on the spiritual world. This gift works in harmony with their higher, spiritual part, moral intelligence, and speech. Prophecy should not be confused with mystical ecstasy or seen as a lesser form of communication. Instead, it is the chief of the spiritual gifts and should not be devalued. The prophecies of the Old Testament still hold usefulness and can strengthen faith in the Gospel. Therefore, we should not disregard or demean private prophecies, but rather value and esteem them. Let us not despise preaching, for it is God's great ordinance for converting the world and should not be underestimated or neglected. To despise any means of grace, including prophecy, is to quench the Spirit.",
+            "wordCount": 162,
+            "quoteTokenProportion": 36.63,
+            "qualityScore": 1.8985239082946683,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                34.62,
+                29.3,
+                36.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The gift of prophecy should not be despised, as it is considered greater than tongues, which may appear more miraculous. The prophet, being withdrawn from earthly matters, receives the truth and is focused on the spiritual world. Prophecy works in harmony with the spiritual, moral intelligence, and speech of the prophet. We should not dismiss or demean prophecy, but rather value and esteem it. Similarly, preaching should not be underestimated, as it is God's means of converting the world. Neglecting or despising any means of grace, including prophecy, can quench the Spirit.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8694763669987606,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.5,
+            "commentatorTierSimilarities": [
+                32.06,
+                31.01,
+                36.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gift of prophecy, often overshadowed by the showiness of tongues, should not be despised. Paul emphasizes that prophecy is, in fact, a greater gift. The prophet receives spiritual insights, detached from earthly matters and concentrated on the spiritual realm. Prophecy operates in harmony with the prophet's higher, spiritual self and intellectual faculties. It should not be confused with mystical ecstasy, but rather recognized as a significant spiritual gift. We ought to value and esteem prophecy, not underestimate or disregard it. Neglecting prophecy, or any means of grace, can extinguish the work of the Spirit.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8293384462800484,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.17,
+            "commentatorTierSimilarities": [
+                38.33,
+                24.31,
+                37.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Prophecy, often undervalued in comparison to tongues, should not be despised. Paul asserts that prophecy is, in reality, the greater gift. The prophet receives divine truth, detaching from earthly concerns and focusing on the spiritual realm. Prophecy functions harmoniously with the prophet's spiritual essence, intellect, and speech. It is distinct from mystical ecstasy and should not be undermined. We should appreciate and esteem prophecy, recognizing its value and not neglecting it. Disregarding prophecy, or any means of grace, can extinguish the workings of the Spirit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.7286425582255678,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                37.62,
+                22.95,
+                39.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prophecy, often overshadowed by the more ostentatious gift of tongues, should not be dismissed. It is the greater gift, as stated by Paul. The prophet channels spiritual truth, distancing themselves from worldly matters and focusing on the divine realm. Prophecy aligns with the prophet's spiritual and intellectual faculties, working in harmony with their speech. Its significance lies in its distinction from mystical ecstasy. We must not underestimate or devalue prophecy, but rather appreciate and honor it. Neglecting prophecy, or any means of grace, can quench the work of the Spirit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.742784966599747,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                38.45,
+                24.47,
+                37.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

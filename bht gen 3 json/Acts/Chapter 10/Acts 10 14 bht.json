@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:29:26",
+    "verseRef": "Acts 10:14",
+    "bestBHT": {
+        "bht": "Peter hesitates when faced with a command from God, objecting that he has never eaten anything common or unclean. This objection stems from his strict adherence to the distinction between clean and unclean foods in line with his upbringing. However, the vision signifies more than just dietary laws, representing the end of old distinctions. Despite his doubt, Peter's hesitation reflects his godly and religious approach, desiring to fully understand God's will before acting. Through this moment of uncertainty, the will of God becomes evident and Peter's faith in the new revelation solidifies.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.62,
+        "qualityScore": 1.8890816353466686,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+        "commentatorTierSimilarities": [
+            27.2,
+            32.43,
+            40.37
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peter rightly understands the command as giving him free choice of all the creatures shewn to him.",
+            "We cannot infer hence that the sheet contained unclean animals only. It was a mixture of clean and unclean, the aggregate, therefore, being unclean.",
+            "Lord] So Cornelius to the angel, ver. 4. It is here addressed to the unknown heavenly speaker."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not so, Lord.\" ",
+            "I have never eaten anything that is common.\" ",
+            "The distinction of meats was a sacrament of national distinction, separation, and consecration."
+        ],
+        "Albert Barnes": [
+            "Peter pled that he had never violated it, implying that he could not now violate it, as it was a law of God...\" (17 words)",
+            "One design of the vision was to show him that that Law was now to pass away.\" (17 words)",
+            "...the word 'common' came to be opposed to the word 'sacred,' and to denote what was in common use among the pagans, hence, that which was 'profane,' or 'polluted.'\" (30 words)"
+        ],
+        "Marvin Vincent": [
+            "With that simple and audacious self-confidence which in his (Peter's) character was so singularly mingled with fits of timidity and depression, he boldly corrects the voice which orders him.\" ",
+            "He must, so to speak, have made an oversight\" (Farrar, \"Life and Works of Paul\").",
+            "Unholy."
+        ],
+        "John Calvin": [
+            "Therefore he objecteth to God the law which he himself made, lest he should break the same unadvisedly.",
+            "I dare not here say that that befell Peter which is too common among men, to stand more about outward and small matters than about the chief points of the law.",
+            "Yet Peter dealeth very godly and very religiously, in that being in doubt amidst divers cogitations, he dare do nothing until it better appear what he ought to follow."
+        ],
+        "Philip Schaff": [
+            "This expostulation, so to speak, addressed by St. Peter to the Deity, is quite according to the analogy of Divine visions recorded in Scripture.",
+            "St. Peter had always lived as a conscientious and scrupulous Jew. The command was a contradiction to the whole previous tenor of his life.",
+            "The two prejudices (if this term may be applied to what rested, in a great degree, on Divine appointment) might be expected to collapse together."
+        ],
+        "Archibald T. Robertson": [
+            "Not so, Lord (\u039c\u03b7\u03b4\u03b1\u03bc\u03c9\u03c3, \u03ba\u03c5\u03c1\u03b9\u03b5)...It is a polite refusal with a reason given.",
+            "For I have never eaten anything (\u03bf\u03c4 \u03bf\u03c5\u03b4\u03b5\u03c0\u03bf\u03c4\u03b5 \u03b5\u03c6\u03b1\u03b3\u03bf\u03bd \u03c0\u03b1\u03bd). Second aorist active indicative, I never did anything like this and I shall not do it now.",
+            "Peter had been reared from childhood to make the distinction between clean and unclean food and this new proposal even from the Lord runs against all his previous training."
+        ],
+        "John Gill": [
+            "God forbid I should do this, so contrary to the law of God, and to my own practice, throughout the whole course of my life.",
+            "This shows that Peter as yet closely adhered to the ceremonial law, nor did he know that it was abolished by Christ.",
+            "The knowledge of every truth was not at once communicated to them, but gradually, as it pressed the Lord to enlighten their minds."
+        ],
+        "John Wesley": [
+            "When God commands a strange or seemingly improper thing, the first objection frequently finds pardon. But it ought not to be repeated.\" ",
+            "This doubt and delay of St. Peter had several good effects. Hereby the will of God in this important point was made more evident and incontestable.",
+            "And Peter also, having been so slow of belief himself, could the more easily bear the doubting of his brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter, in response to a command from God, hesitantly objects that he has never eaten anything common or unclean. This objection stems from Peter's upbringing, which ingrained in him the strict distinction between clean and unclean foods. However, the vision is more than just about dietary laws, for it is a revelation that the old distinctions and separations are coming to an end. The vision challenges Peter's deeply held beliefs and leads him to question the voice of the Lord. Yet, in his doubt and hesitation, Peter demonstrates a godly and religious attitude: he desires to understand God's will fully before acting. This moment of uncertainty ultimately enables the will of God to be made evident and solidifies Peter's belief in the new revelation.",
+            "wordCount": 128,
+            "quoteTokenProportion": 38.37,
+            "qualityScore": 1.9010410403137388,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                27.57,
+                32.11,
+                40.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter, in response to a command from God, objects, stating that he has never eaten anything common or unclean. This objection arises from Peter's upbringing, which taught him to strictly distinguish between clean and unclean foods. However, the vision signifies more than just dietary laws; it reveals that the old distinctions and separations are coming to an end. Peter's doubt and hesitation showcase a godly and religious approach, as he seeks a full understanding of God's will before acting. This moment of uncertainty ultimately reveals the will of God and strengthens Peter's faith in the new revelation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9034328911060054,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.63,
+            "commentatorTierSimilarities": [
+                28.11,
+                32.19,
+                39.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter hesitates when faced with a command from God, objecting that he has never eaten anything common or unclean. This objection stems from his strict adherence to the distinction between clean and unclean foods in line with his upbringing. However, the vision signifies more than just dietary laws, representing the end of old distinctions. Despite his doubt, Peter's hesitation reflects his godly and religious approach, desiring to fully understand God's will before acting. Through this moment of uncertainty, the will of God becomes evident and Peter's faith in the new revelation solidifies.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8890816353466686,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                27.2,
+                32.43,
+                40.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When faced with God's command, Peter objects, stating that he has never eaten anything common or unclean. This objection arises from his deeply ingrained upbringing, which taught him to strictly distinguish between clean and unclean foods. However, the vision represents more than just dietary laws, signaling the end of old separations. Peter's hesitation, rooted in his godly and religious mindset, reveals his desire to fully comprehend God's will before taking action. Through this moment of uncertainty, the will of God becomes clear and Peter's faith in the new revelation is strengthened.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.8185026383785,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                26.67,
+                32.92,
+                40.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When confronted with the command from God, Peter expresses doubt, objecting that he has never consumed anything common or unclean. This hesitation stems from his strict adherence to the distinction between clean and unclean foods that he was raised with. However, the vision signifies more than just dietary laws, symbolizing the end of previous divisions. Peter's cautious response reflects his devout and religious nature, as he seeks a thorough understanding of God's will before taking action. Through this moment of uncertainty, the divine intention becomes clear, solidifying Peter's faith in the new revelation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.8710539927885663,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                25.8,
+                35.38,
+                38.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

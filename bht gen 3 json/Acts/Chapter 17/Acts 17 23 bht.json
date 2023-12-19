@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:33:02",
+    "verseRef": "Acts 17:23",
+    "bestBHT": {
+        "bht": "Paul acknowledges the Athenians' reverential spirit while exposing the limitation of their religious understanding. He refers to their altars dedicated to unknown gods, recognizing their desire to avoid the anger of any unrecognized deity. By addressing one of these altars, Paul affirms their acknowledgment of a divine existence beyond their conventional worship and declares that this unknown God is the Living God he presents to them. His intention is not to promote new gods but to reveal the true God whom they were seeking but did not yet know.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 2.5224123939345002,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.21,
+        "commentatorTierSimilarities": [
+            32.89,
+            31.97,
+            35.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What ye ignorantly worship, that declare I unto you.",
+            "For Paul does not identify the true God with the dedication of, or worship at, the altar mentioned: but speaks of the Divinity of whom they, by this inscription, confessed themselves ignorant.",
+            "He wishes to commend their reverential spirit, while he shews its misdirection."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I found an altar... to an unknown god... dimness of religious conception... he was prepared to dissipate.",
+            "Whom, therefore, knowing Him not, ye worship... The Unknown God.",
+            "His subject is not... the Messiahship of Jesus, but THE LIVING GOD... an authoritative 'announcement' of Him after whom they were groping."
+        ],
+        "Albert Barnes": [
+            "The worship of an idolatrous people will be an object of intense and painful interest to a Christian.",
+            "This altar had, therefore, been really reared to him, though his name was unknown.",
+            "By rearing this altar they acknowledged their need of instruction."
+        ],
+        "Marvin Vincent": [
+            "The most rational explanation is unquestionably that of those who suppose these altars to have had their origin in the felling of uncertainty, inherent, after all, in the minds of the heathen, whether their acknowledgment of the superior posers was sufficiently full and comprehensive; in their distinct consciousness of the limitation and imperfection of their religious views, and their consequent desire to avoid the anger of any still unacknowledged God who might be unknown to them.\" ",
+            "Under these circumstances an allusion to one of these altars by the apostle would be equivalent to his saying to the Athenians thus: 'You are correct in acknowledging a divine existence beyond any which the ordinary rites of your worship recognize; there is such an existence. You are correct in confessing that this Being is unknown to you; you have no just conceptions of his nature and perfections.'",
+            "'You say I am a setter-forth of strange gods: I now set forth unto you (Rev.) the true God.'"
+        ],
+        "John Calvin": [
+            "Thus doth Paul return again to that principle, that God cannot be worshipped rightly unless he be first made known.",
+            "If God allow no worship but that which is agreeable to his Word, how doth Paul give this praise to men, who did dote without measure that they worshipped God?",
+            "I answer, that Paul doth not in the place commend that which the men of Athens had done; but taketh from their affection, though it were corrupt, free matter for teaching."
+        ],
+        "Philip Schaff": [
+            "This should be rendered, 'and beheld the things that you worship.' It does not refer to their devotions, or acts of worship, but to their temples, statues of divinities, shrines, and the like.",
+            "To an Unknown God.' Philostratus, who wrote A.D. 244, in his life of Apollonius (quoted by Gloag), says, alluding to the unusual reverential spirit of the Athenians: 'It is more discreet to speak well of all the gods, especially at Athens, where there are erected altars of unknown gods.'",
+            "The Athenians, Paul saw, evidently recognized something Divine which ought to be adored outside the known gods. This unknown Deity he proceeded to declare to them."
+        ],
+        "Archibald T. Robertson": [
+            "The use of this word for temples, altars, statues, shows the conciliatory tone in the use of \u03b4\u03b5\u03b9\u03c3\u03b9\u03b4\u03b1\u03b9\u03bc\u03bf\u03bd\u03b5\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 in verse Acts 17:22.",
+            "If an altar was dedicated to the wrong deity, the Athenians feared the anger of the other gods.",
+            "Paul was quick to use this confession on the part of the Athenians of a higher power than yet known to them."
+        ],
+        "John Gill": [
+            "The reason why they erected an altar with such an inscription might be, for fear when they took in the gods of other nations, there might be some one which they knew not; wherefore, to omit none, they erect an altar to him; and which proves what the apostle says, that they were more religious and superstitious than others."
+        ],
+        "John Wesley": [
+            "I found an altar \u2014 Some suppose this was set up by Socrates, to express in a covert way his devotion to the only true God...",
+            "and others, that whoever erected this altar, did it in honour to the God of Israel, of whom there was no image, and whose name Jehovah was never made known to the idolatrous Gentiles.",
+            "Him proclaim I unto you \u2014 Thus he fixes the wandering attention of these blind philosophers; proclaiming to them an unknown, and yet not a new God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul stands before the Athenians and addresses their worship, stating, What ye ignorantly worship, that declare I unto you. He commends their reverential spirit but reveals their misdirection in their dim religious conception. Paul acknowledges their altars to an unknown god and proclaims that this deity they unknowingly worship is the Living God, whom they have not yet come to know. By referencing their altars, Paul acknowledges their acknowledgment of a divine existence beyond their ordinary worship. He declares the true God, whom they seek but do not yet understand, seeking to enlighten their minds and guide them towards the worship of the known and revealed God. In doing so, Paul captures their attention and redirects their devotion from unknown gods to the God who has made Himself known.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 2.539337681374639,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.77,
+            "commentatorTierSimilarities": [
+                32.77,
+                32.41,
+                34.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul acknowledges the Athenians' reverential spirit while exposing the limitation of their religious understanding. He refers to their altars dedicated to unknown gods, recognizing their desire to avoid the anger of any unrecognized deity. By addressing one of these altars, Paul affirms their acknowledgment of a divine existence beyond their conventional worship and declares that this unknown God is the Living God he presents to them. His intention is not to promote new gods but to reveal the true God whom they were seeking but did not yet know.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.5224123939345002,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.21,
+            "commentatorTierSimilarities": [
+                32.89,
+                31.97,
+                35.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul commends the Athenians for their reverential spirit but highlights the misdirection in their worship. He points out their altars dedicated to an unknown God, revealing their awareness of the limitations in their religious views. By referencing these altars, Paul affirms their acknowledgment of a divine existence beyond their understanding and declares that this unknown God is the focus of his proclamation. Rather than introducing new gods, Paul aims to enlighten their minds about the true God whom they have yet to comprehend fully.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.449231059784225,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.78,
+            "commentatorTierSimilarities": [
+                32.8,
+                32.36,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Addressing the Athenians, Paul commends their reverential spirit while highlighting the limitation and imperfection of their religious views. By referencing their altars to unknown gods, Paul acknowledges their conscious need to avoid angering any undisclosed deity. He proclaims that the unknown God they worship in ignorance is, in fact, the Living God whom he now declares to them. Paul's intention is not to introduce unfamiliar gods but to redirect their attention to the one true God whom they seek but do not yet understand fully.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.4752410034227186,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.64,
+            "commentatorTierSimilarities": [
+                32.29,
+                31.74,
+                35.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul commends the Athenians for their reverential spirit, acknowledging their awareness of an unknown deity that surpassed their religious understanding. By referencing their altars, Paul affirms their recognition of a divine existence beyond their conventional worship. He seizes the opportunity to reveal the true God whom they seek but have not yet comprehended fully. His objective is not to introduce new gods but to enlighten their minds about the living God, after whom they have been searching.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.4201920572128675,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.81,
+            "commentatorTierSimilarities": [
+                32.92,
+                31.81,
+                35.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

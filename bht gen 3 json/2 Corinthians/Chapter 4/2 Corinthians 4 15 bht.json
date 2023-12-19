@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:15",
+    "verseRef": "2 Corinthians 4:15",
+    "bestBHT": {
+        "bht": "Through the working of abundant grace, the Christian ministry aims to multiply thanksgiving to the glory of God. Thanksgiving invites more abundant grace as a divine gift of spiritual energy shown in the labor, suffering, and triumph of the apostles. The sufferings and risks endured by the apostles promote spiritual life in the Church, while the grace of God shown through them is multiplied through the increasing number of recipients. This multiplication of grace and thanksgiving leads to a rich revenue of glory for God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.66432987543652,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.93,
+        "commentatorTierSimilarities": [
+            42.21,
+            37.57,
+            20.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For all things are on your behalf, that Grace, having abounded by means of the greater number, may multiply the thanksgiving to the glory of God.",
+            "Thanksgiving is the highest and noblest offering of the Church to God's glory.",
+            "That this may be rendered, in the best sense, as the result of the working of grace which has become abundant by means of the many recipients, is the great end of the Christian ministry."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That grace (the grace which preserves us in trials and works life in you), being made the greater (multiplied), by means of the greater number (of its recipients), may cause the thanksgiving to abound to the glory of God.\" ",
+            "That grace, being made the greater (multiplied) on account of the thanksgiving of the greater number (for grace already received), may abound (abundantly redound) to,\" ",
+            "Thanksgiving invites more abundant grace."
+        ],
+        "Albert Barnes": [
+            "They are not primarily for the welfare of those who engage in these toils and self-denials; but the whole arrangement and execution of the plan of salvation, and all the self-denial evinced by those who are engaged in making that plan known, are in order that you might be benefitted.",
+            "It is implied here, that grace would abound by means of these labors and self-denials of the apostles.",
+            "The sentiment of the passage is, that it would be for the glory of God that as many as possible should be brought to give praise and thanksgivings to him; and that, therefore, Paul endeavored to make as many converts as possible."
+        ],
+        "Marvin Vincent": [
+            "Grace is the divine gift of spiritual energy which is shown in the labor, suffering, and triumph of the apostles.",
+            "The grace of God, thus manifest in the apostles, shall be multiplied through the increasing number of those who share it, and shall thus make thanksgiving more abundant for the fruits of this grace.",
+            "The sufferings and risks of the apostles promote spiritual life in the Church."
+        ],
+        "John Calvin": [
+            "For what consolation there is in this \u2014 that while God, sparing our weakness, deals with us more gently, those that are endowed with more distinguished excellence, are afflicted for the common advantage of all!",
+            "He means, by the term grace, that blessing of deliverance, of which he had made mention previously \u2014 that, while he was weighed down, he was, nevertheless, not in anxiety: while oppressed with poverty, he was not left destitute, etc.",
+            "He admonishes us, that every blessing that God confers upon us perishes through our carelessness, if we are not prompt and active in rendering thanks."
+        ],
+        "Philip Schaff": [
+            "The whole economy of redemption and the entire ministry of reconciliation are for the ingathering and perfecting of the redeemed.\" ",
+            "The grace, being multiplied through the many, may cause the thanksgiving to abound unto the glory of God.\" ",
+            "That the rich fruits of the Christian ministry, raising songs of thanksgiving for the grace which produces them, may yield a like rich revenue of glory to God."
+        ],
+        "Archibald T. Robertson": [
+            "Being multiplied through the many.\" ",
+            "Making more through the more.\" ",
+            "One can think of Bunyan's Grace Abounding."
+        ],
+        "John Gill": [
+            "The incarnation, obedience, death, and resurrection of Christ, are all for the sake of God's elect...",
+            "Moreover, all their deliverances, when in any imminent danger; were for the sake of the churches.",
+            "...the abundant grace; held forth in their ministrations, manifestly to be seen in supporting them under their troubles, and delivering them out of them..."
+        ],
+        "John Wesley": [
+            "For all things \u2014 Whether adverse or prosperous.",
+            "Are for your sakes \u2014 For the profit of all that believe, as well as all that preach.",
+            "That the overflowing grace \u2014 Which continues you alive both in soul and body. Might abound yet more through the thanksgiving of many."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the working of abundant grace, the Christian ministry aims to multiply thanksgiving to the glory of God. Thanksgiving is the highest offering of the Church and invites more abundant grace. The sufferings and risks endured by the apostles promote spiritual life in the Church, and the grace of God shown through them shall be multiplied through the increasing number of those who share it. This multiplication of grace and thanksgiving leads to a rich revenue of glory for God. Ultimately, all things, whether adverse or prosperous, are for the sake of believers and the profit of all, as the overflowing grace is abounded through the thanksgiving of many.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.666058793117686,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.99,
+            "commentatorTierSimilarities": [
+                40.75,
+                37.15,
+                22.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the working of abundant grace, the Christian ministry aims to multiply thanksgiving to the glory of God. Thanksgiving invites more abundant grace which is the divine gift of spiritual energy. The sufferings and risks endured by the apostles promote spiritual life in the Church, and the grace of God shown through them shall be multiplied through the increasing number of those who share it, leading to a rich revenue of glory for God. Ultimately, all things, whether adverse or prosperous, are for the sake of believers and the profit of all, as the overflowing grace is abounded through the thanksgiving of many.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.6410959728522405,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.16,
+            "commentatorTierSimilarities": [
+                41.07,
+                35.93,
+                23.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the working of abundant grace, the Christian ministry aims to multiply thanksgiving to the glory of God. Thanksgiving invites more abundant grace as a divine gift of spiritual energy shown in the labor, suffering, and triumph of the apostles. The sufferings and risks endured by the apostles promote spiritual life in the Church, while the grace of God shown through them is multiplied through the increasing number of recipients. This multiplication of grace and thanksgiving leads to a rich revenue of glory for God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.66432987543652,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.93,
+            "commentatorTierSimilarities": [
+                42.21,
+                37.57,
+                20.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christian ministry seeks to multiply thanksgiving for the glory of God through the working of abundant grace. This grace is a divine gift of spiritual energy, evident in the labor, suffering, and triumph of the apostles. The sufferings and risks they endure promote spiritual life in the Church, while the grace they exhibit is multiplied by sharing it with more recipients. This multiplication of grace and thanksgiving produces a rich revenue of glory for God. Ultimately, all things, whether good or bad, serve the profit and benefit of believers, as overflowing grace increases through the thanksgiving of many.",
+            "wordCount": 99,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.580250125648009,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.13,
+            "commentatorTierSimilarities": [
+                39.63,
+                38.09,
+                22.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christian ministry's goal is to multiply thanksgiving to the glory of God through abundant grace. This grace, a divine gift of spiritual energy, is demonstrated in the labor, suffering, and triumph of the apostles. By sharing this grace with a greater number of recipients, it is multiplied and leads to more abundant thanksgiving. The sufferings and risks endured by the apostles serve to promote spiritual life in the Church. Ultimately, all things, whether adverse or prosperous, are for the sake of believers' profit and the overflowing grace that abounds through the thanksgiving of many.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.5370818323986546,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.7,
+            "commentatorTierSimilarities": [
+                40.77,
+                36.02,
+                23.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

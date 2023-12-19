@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:36:40",
+    "verseRef": "Acts 26:8",
+    "bestBHT": {
+        "bht": "Paul addresses the audience's skepticism towards the resurrection, questioning their judgment that it is incredible for God to raise the dead. He highlights the fact that their own writings recognize God's power to raise the dead, as evidenced by the resurrection of Jesus. The incredulity towards the resurrection is unfounded since it is not more absurd than the original creation of the body and can be easily understood through God's omnipotent nature. Paul urges them to consider God's ability beyond their limited understanding and embrace the truth of the resurrection.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.455022386899765,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.97,
+        "commentatorTierSimilarities": [
+            36.08,
+            31.59,
+            32.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You assume rightly, that I mean by this hope, in my own case, my believing it accomplished in the crucified and risen Jesus of Nazareth.",
+            "Then, this being acknowledged, he goes on to show how his own view became so changed with regard to Jesus; drawing a contrast in some respects between himself, who was supernaturally brought to the faith, and them, who yet could not refuse to believe that God could and might raise the dead.",
+            "If God, in His exercise of power, sees fit to raise the dead (the word implying that such a fact has veritably taken place), is it for you to refuse to believe it?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Why is it judged a thing incredible if God raises the dead?\" ",
+            "No one dared to call in question the overwhelming evidence of the resurrection of Jesus.\" ",
+            "Leaving this pregnant question to find its answer in the breasts of his audience, he now passes to his personal history."
+        ],
+        "Albert Barnes": [
+            "What! is it to be thought a thing incredible? ... It intimates surprise that it should be thought incredible, or implies that no reason could be given why such a doctrine should be unworthy of belief.",
+            "Why should it be regarded as absurd that God - who has all power, who is the creator of all, who is the author of the human frame should again restore man to life and continue his future existence?",
+            "The resurrection is no more incredible than the original creation of the body, and it is attended with no greater difficulties."
+        ],
+        "Marvin Vincent": [
+            "That God should raise the dead... if God raises the dead.\" ",
+            "He does not put it as a supposition, but as a fact: if God raises the dead\" ",
+            "You admit that he has the power to do, and as your own writings tell you that he has done."
+        ],
+        "John Calvin": [
+            "For nothing can more hardly sink into men\u2019s brains, than that men\u2019s bodies shall be restored when as they be once consumed.\" (611)",
+            "But men are for the most part injurious to God, who will not have his arm to reach any farther than their understanding and reason can reach.\" (612)",
+            "Paul commandeth us to consider what God is able to do, that being lifted up above the world, we may learn to conceive the faith of the resurrection, not according to the weak capacity of our mind, but according to his omnipotency.\" (613)"
+        ],
+        "Philip Schaff": [
+            "Why should it he thought a thing incredible with you, that God should raise the dead?",
+            "Is it then with than, with you, King Agrippa, a thing incredible that God should raise the dead?",
+            "Has this strange marvel been unknown in the past history of our race?"
+        ],
+        "Archibald T. Robertson": [
+            "Incredible with you... means either unfaithful, unbelieving, or unbelievable as here).\" ",
+            "Paul turns suddenly from Agrippa to the audience, most of whom were probably Gentiles and scouted the doctrine of the resurrection.",
+            "If God doth raise the dead... assuming that God does raise dead people. Only God can do it."
+        ],
+        "John Gill": [
+            "Why should it be thought a thing incredible with you... that God should raise the dead?\" ",
+            "But since God is omniscient and omnipotent, and just and true, knows where every particle of a dead body lies, and can gather all together, and inspire with life; which he can as easily do, as to form all things out of nothing, as he did.",
+            "His justice and veracity seem to require, that the same bodies which have been partners with their souls in sinning, or in sufferings should share with them in woe or in happiness; it can neither be absurd, unreasonable, nor incredible, to suppose that God will raise them from the dead."
+        ],
+        "John Wesley": [
+            "Is it judged by you an incredible thing \u2014 It was by Festus, Acts 25:19, to whom Paul answers as if he had heard him discourse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the apostle Paul addresses King Agrippa and his audience, he challenges their skepticism towards the resurrection by asking, Why is it judged a thing incredible if God raises the dead? Paul reminds them that their own Scriptures testify to God's power to raise the dead, as demonstrated in the resurrection of Jesus. The fact that God can bring the dead back to life should not be deemed unbelievable or unfaithful, for it is within His capacity. The resurrection, which Paul experienced personally, is not more incredulous than the original creation of the body and is attended with no greater difficulties. Thus, Paul urges his listeners to consider God's omnipotence and transcend beyond their limited understanding to embrace the truth of the resurrection.",
+            "wordCount": 125,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 2.4494161629254947,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.78,
+            "commentatorTierSimilarities": [
+                34.66,
+                32.43,
+                32.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul challenges the incredulity of King Agrippa and his audience regarding the resurrection, asserting that if God has the power to raise the dead, it should not be considered unbelievable. Their Scriptures bear witness to this, with the resurrection of Jesus providing overwhelming evidence. Paul emphasizes that the resurrection is as plausible as the original creation of the body and calls for a shift in understanding to grasp the truth of God's omnipotence in raising the dead.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.423708636564947,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.93,
+            "commentatorTierSimilarities": [
+                36.9,
+                32.87,
+                30.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul addresses the audience's skepticism towards the resurrection, questioning their judgment that it is incredible for God to raise the dead. He highlights the fact that their own writings recognize God's power to raise the dead, as evidenced by the resurrection of Jesus. The incredulity towards the resurrection is unfounded since it is not more absurd than the original creation of the body and can be easily understood through God's omnipotent nature. Paul urges them to consider God's ability beyond their limited understanding and embrace the truth of the resurrection.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.455022386899765,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.97,
+            "commentatorTierSimilarities": [
+                36.08,
+                31.59,
+                32.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul challenges the audience's disbelief in the resurrection, asking them why they consider it incredible for God to raise the dead. He points out that their own Scriptures acknowledge God's power to resurrect, as seen in the case of Jesus. Paul emphasizes that the resurrection is not more unbelievable than the original creation of the body, urging them to expand their understanding to embrace God's omnipotence. He encourages them to see beyond their limited reasoning and accept the truth of the resurrection.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.3568201447678803,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.7,
+            "commentatorTierSimilarities": [
+                36.23,
+                31.25,
+                32.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul challenges the audience's skepticism towards the resurrection, questioning their judgment that it is incredible for God to raise the dead. He highlights that their own writings acknowledge God's power to resurrect, as seen in the resurrection of Jesus. Paul emphasizes that the resurrection is not more absurd than the original creation of the body, calling for a shift in understanding to grasp the truth of God's omnipotence. He urges them to consider beyond their limited understanding and embrace the reality of the resurrection.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.29371339044798,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.61,
+            "commentatorTierSimilarities": [
+                36.43,
+                31.5,
+                32.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:30:15",
+    "verseRef": "Acts 12:19",
+    "bestBHT": {
+        "bht": "After examining the keepers and commanding their execution, Herod's futile attempt to suppress the gospel backfired. In contrast, the message continued to flourish despite persecution. As Herod's miserable end forced him to retreat from Judea to Caesarea, it became evident that the power of human authority is fleeting compared to the enduring impact of God's kingdom. The failed plot to silence Peter underscores the triumph of the gospel and the limitations of earthly rulers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.431791546735405,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+        "commentatorTierSimilarities": [
+            16.84,
+            51.02,
+            32.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "examined the keepers\u2014who,",
+            "\teither like the keepers of our Lord's sepulchre, had 'shaken and",
+            "\tbecome as dead men' (Matthew 28:4),",
+            "\tor had slept on their watch and been divinely kept from awaking.\" ",
+            "commanded that they should be",
+            "\tput to death\u2014Impotent vengeance!",
+            "HEROD'S MISERABLE END\u2014GROWING SUCCESS OF THE GOSPEL\u2014BARNABAS AND SAUL RETURN TO ANTIOCH."
+        ],
+        "Albert Barnes": [
+            "He subjected them to a rigid scrutiny to ascertain the manner of his escape; for it is evident that Herod did not mean to admit the possibility of a miraculous interposition.",
+            "The men on guard were undoubtedly put to death; and thus Herod used all his power to create the impression that Peter had escaped by their negligence.",
+            "Thus, by the providence of God, this persecution, that had been commenced, not by popular tumult, but by royal authority and power, and that was aimed at the very pillars of the church, ceased."
+        ],
+        "Marvin Vincent": [
+            "Abode (die triben). Originally, to rub away, or consume; hence, of time, to spend.",
+            "Put to death [\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1\u03b9] . Lit., led away; i.e., to execution. A technical phrase like the Latin ducere. Compare Matthew 27:31.",
+            "Examined [\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2]. See on Luke 23:14; and compare ch. 4 9."
+        ],
+        "Philip Schaff": [
+            "No doubt bitterly disappointed at not being able to comply with the Jewish desire in the matter of putting to death the famous Nazarene leader...",
+            "...he went down to C\u00e6sarea, then the second city in his broad kingdom.",
+            "Josephus mentions a desire to be present at games to be celebrated in honour of Claudius C\u00e6sar as a reason for this removal of the king to C\u00e6sarea."
+        ],
+        "Archibald T. Robertson": [
+            "He examined (\u03b1\u03bd\u03b1\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2).\" ",
+            "That they should be put to death (\u03b1\u03c0\u03b1\u03c7\u03b8\u03b7\u03bd\u03b1).\" ",
+            "Tarried (\u03b4\u03b9\u03b5\u03c4\u03c1\u03b9\u03b2\u03b5\u03bd)."
+        ],
+        "John Gill": [
+            "Neither in the prison, nor in any part of the city.",
+            "He examined the keepers; of the prison, and those that were upon the watch, whether they had not been accessary to his escape.",
+            "And he went down from Judea to Caesarea."
+        ],
+        "John Wesley": [
+            "And thus the wicked suffered in the room of the righteous.",
+            "With shame, for not having brought forth Peter, according to his promise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After interrogating the guards to determine the circumstances of Peter's escape, Herod, in his fury, ordered their execution as a display of his impotent vengeance. This act of persecution, initiated by royal authority, ultimately failed to accomplish its intended purpose. Meanwhile, the work of the gospel continued to spread and flourish. Herod himself, plagued by a miserable end, went from Judea to Caesarea, reflecting the decline of his power. Through these events, we see the contrast between the transient nature of human authority and the enduring triumph of God's kingdom.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.3249990646902667,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.4,
+            "commentatorTierSimilarities": [
+                15.6,
+                52.16,
+                32.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After subjecting the guards to scrutiny, Herod's plans for Peter's death were thwarted, leading to his impotent rage and the execution of the guards. This failed attempt at persecution only served to highlight the growing success of the gospel. Meanwhile, Herod's own demise revealed the transient nature of human power. As Herod retreated from Judea to Caesarea, his dwindling authority stood in stark contrast to the flourishing kingdom of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.4247903341639843,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.72,
+            "commentatorTierSimilarities": [
+                16.24,
+                53.39,
+                30.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After examining the keepers and commanding their execution, Herod's futile attempt to suppress the gospel backfired. In contrast, the message continued to flourish despite persecution. As Herod's miserable end forced him to retreat from Judea to Caesarea, it became evident that the power of human authority is fleeting compared to the enduring impact of God's kingdom. The failed plot to silence Peter underscores the triumph of the gospel and the limitations of earthly rulers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.431791546735405,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.95,
+            "commentatorTierSimilarities": [
+                16.84,
+                51.02,
+                32.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After interrogating the keepers, Herod's impotent vengeance led to the order for their execution. Yet, the growing success of the gospel remained unstoppable. Herod's miserable end and subsequent retreat from Judea to Caesarea exposed the transient nature of human power. In contrast, the gospel continued to flourish, revealing the enduring impact of God's kingdom. The futile attempts to silence Peter only served to highlight the triumph of the gospel and the limitations of earthly rulers.",
+            "wordCount": 78,
+            "quoteTokenProportion": 20.37,
+            "qualityScore": 1.3248520097061645,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.39,
+            "commentatorTierSimilarities": [
+                17.64,
+                46.71,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After examining the keepers, who had either been paralyzed like those at Jesus' tomb or had negligently slept on duty, Herod's impotent vengeance led to their execution. However, the gospel continued to thrive despite this persecution. Herod's unfortunate demise and subsequent relocation to Caesarea showcased the temporary nature of human power. In contrast, the gospel's influence endured, demonstrating the lasting impact of God's kingdom. The failed plot to silence Peter underscored the ultimate triumph of the gospel and the limitations of earthly authorities.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.3172863941139723,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.14,
+            "commentatorTierSimilarities": [
+                18.2,
+                48.59,
+                33.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

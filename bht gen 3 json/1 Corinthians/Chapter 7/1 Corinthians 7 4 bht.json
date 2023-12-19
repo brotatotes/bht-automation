@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 15:05:22",
+    "verseRef": "1 Corinthians 7:4",
+    "bestBHT": {
+        "bht": "Marriage establishes a oneness of body, where husband and wife are equal partners, complementing and completing each other. In this sacred union, neither spouse has exclusive ownership over their own body, as power is shared. The wife is mentioned first to emphasize the equality of the sexes within marriage. This equality ensures that both partners realize their full potential and maintains the purity of the marital relationship. Let us remember the importance of this mutual submission and fidelity in honoring the unity of marriage.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.238371008993476,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+        "commentatorTierSimilarities": [
+            36.54,
+            33.45,
+            30.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "4.] The ground of this being another\u2019s while they remain their own, is to be found in the oneness of body, in which the marriage state places them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The oneness of body in which marriage places husband and wife explains this.",
+            "The one complements the other.",
+            "Neither without the other realizes the perfect ideal of man."
+        ],
+        "Albert Barnes": [
+            "By the marriage covenant that power, in this respect, is transferred to the husband.",
+            "The equal rights of husband and wife, in the Scriptures, are everywhere maintained.",
+            "They are to regard themselves as united in most intimate union, and in most tender ties."
+        ],
+        "Archibald T. Robertson": [
+            "The equality of the sexes in marriage is clearly presented as the way to keep marriage undefiled.",
+            "In wedlock separate ownership of the person ceases.",
+            "The wife is mentioned first, but the equality of the sexes in marriage is clearly presented."
+        ],
+        "John Gill": [
+            "The wife hath not power of her own body...but the husband...\" ",
+            "...likewise also the husband has not power over his own body...but the wife...\" ",
+            "...this power over each other's bodies is not such, as that they may...lie with another."
+        ],
+        "John Wesley": [
+            "The wife-the husband \u2014 Let no one forget this, on pretence of greater purity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Marriage is a union in which husband and wife become one body, complementing and completing each other. The equality of the sexes in marriage is emphasized, with no one having exclusive power over the other's body. The transfer of this power within the marriage covenant establishes a oneness that requires faithfulness and commitment. The order in which the wife is mentioned first should not be misinterpreted, as it is simply reinforcing the equality between husband and wife. In this sacred union, both husband and wife are called to recognize their shared intimacy and tender ties, while always remembering the importance of purity and fidelity.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.288234105270874,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.42,
+            "commentatorTierSimilarities": [
+                33.67,
+                35.73,
+                30.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Marriage unites husband and wife as one body, as the Scriptures emphasize the equality and complementarity of the sexes in this sacred bond. In this oneness, neither spouse has exclusive ownership over their own body, but rather they share power and responsibility. This power transfer is not to be taken lightly, as it requires faithfulness and respect. The order of mentioning the wife first serves to reinforce the equality within marriage. Let no one forget the significance of this union, upholding purity and fidelity.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.0135799195620243,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.29,
+            "commentatorTierSimilarities": [
+                32.36,
+                33.63,
+                34.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Marriage establishes a oneness of body, where husband and wife are equal partners, complementing and completing each other. In this sacred union, neither spouse has exclusive ownership over their own body, as power is shared. The wife is mentioned first to emphasize the equality of the sexes within marriage. This equality ensures that both partners realize their full potential and maintains the purity of the marital relationship. Let us remember the importance of this mutual submission and fidelity in honoring the unity of marriage.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.238371008993476,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+            "commentatorTierSimilarities": [
+                36.54,
+                33.45,
+                30.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the marital union, husband and wife become one body, showcasing the equality between the sexes. This oneness requires the relinquishment of individual ownership and the transfer of power to each other's bodies. Both spouses complement and complete one another, realizing the ideal of humanity. The wife being mentioned first emphasizes the equality within marriage. It is crucial to maintain the sanctity of this union, upholding purity and fidelity. Let no one disregard the significance of the mutual submission and respect that marriage demands.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.014064506384969,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                36.25,
+                34.54,
+                29.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Marriage joins husband and wife in a oneness of body that highlights their equality. The wife being mentioned first underlines the equal partnership in this sacred union. They complement and complete one another, with neither having exclusive ownership of their body. The transfer of power within the marriage covenant requires faithfulness. Maintaining purity and fidelity is crucial in upholding the sanctity of this union. Let us remember the significance of mutual respect and submission in honoring the oneness of marriage.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.064341209622897,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.98,
+            "commentatorTierSimilarities": [
+                34.43,
+                37.23,
+                28.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

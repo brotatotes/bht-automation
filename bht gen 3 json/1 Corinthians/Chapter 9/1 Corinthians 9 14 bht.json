@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:09:06",
+    "verseRef": "1 Corinthians 9:14",
+    "bestBHT": {
+        "bht": "Just as the Lord appointed that the preaching of the gospel should be supported by the gospel, there is an analogy between the rights of the sacrificing priests of the law and the preachers of the gospel. The Christian ministry is not sacrificial like the Jewish priesthood, but ministers should be supported by voluntary offerings. The Lord's instructions in Matthew 10:10 and Luke 10:7 establish the argument for the minister's salary, ensuring that those who faithfully bring the good news of salvation are provided with a comfortable livelihood.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.3254423474296466,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.66,
+        "commentatorTierSimilarities": [
+            38.37,
+            28.46,
+            33.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus also (i. e. in analogy with that His other command) did the Lord (Christ; the Author, by His Spirit, of the Old Testament as well as the New) appoint (viz. Matt. x. 10; Luke x. 8) to those who are preaching the gospel, to live of (be maintained by) the gospel.\" ",
+            "Observe, that here the Apostle is establishing an analogy between the rights of the sacrificing priests of the law, and of the preachers of the gospel.",
+            "As Bengel remarks on yer. 13: 'If the mass were a sacrifice, Paul would have expressed this conclusion in the next verse accordingly.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The only inference to be drawn from this passage is, not that the Christian ministry is of a sacrificial character as the Jewish priesthood, but simply, that as the latter was supported by the contributions of the people, so should the former.",
+            "The stipends of the clergy were at first from voluntary offerings at the Lord's Supper.",
+            "The stipend was in proportion to the dignity and merits of the several bishops, presbyters, and deacons."
+        ],
+        "Albert Barnes": [
+            "The man may be said to 'live in the gospel' who is supported while he preaches it, or wire derives his maintenance in that work.",
+            "They should be made comfortable; not rich. They should receive so much as to keep their minds from being harassed with cares, and their families from want not so much as to lead them to forget their dependence on God, or on the people.",
+            "The salary of a minister should not be regarded as a 'gift' merely, any more than the pay of a congressman, a physician, or a lawyer. He has a claim to it; and God has commanded that it should be paid."
+        ],
+        "Philip Schaff": [
+            "Even so did the Lord ordain in His instructions to the Twelve... \u2018The workman is worthy of his meat\u2019\" (Matthew 10:10; Luke 10:7). ",
+            "[...] they which proclaim the gospel should live of the gospel\" (1 Corinthians 9:14).",
+            "This is quoted as a recognised maxim\" (1 Timothy 5:18)."
+        ],
+        "Archibald T. Robertson": [
+            "Just as God gave orders about the priests in the temple, so did the Lord Jesus give orders for those who preach the gospel to live out of the gospel.\" ",
+            "Paul was familiar with the words of Jesus in Matthew 10:10; Luke 10:7 either in oral or written form.",
+            "He has made his argument for the minister's salary complete for all time."
+        ],
+        "John Gill": [
+            "That is, the Lord Jesus Christ, in Matthew 10:10 it is an order and appointment of his that his ministering servants, who labour in preaching his Gospel, should be sufficiently taken care of, as to a comfortable livelihood...",
+            "...in consideration and because of their preaching the Gospel, they should be supplied with the proper necessaries of life...",
+            "...accordingly the sense here will be, that it is the ordination of Christ, that such who faithfully bring the news and glad tidings of salvation to sinners, should, as a reward for such good news, be provided for with a comfortable maintenance, on which they should live."
+        ],
+        "John Wesley": [
+            "Matthew 10:10"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as the sacrificing priests of the law had rights and were supported by the contributions of the people, so too did the Lord appoint that those who preach the gospel should live of the gospel. This analogy between the rights of the priests and the preachers of the gospel is emphasized by the Apostle Paul. It is important to note, however, that the Christian ministry is not of a sacrificial character like the Jewish priesthood. Rather, the ministers should be supported by the voluntary offerings of the people, with the stipend being in proportion to their roles and merits. This instruction from the Lord, found in Matthew 10:10 and Luke 10:7, has established the argument for the minister's salary for all time. Therefore, it is ordained that those who faithfully bring the good news of salvation should be provided for with a comfortable livelihood as a reward for their work.",
+            "wordCount": 150,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.1616828742386813,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                39.38,
+                28.78,
+                31.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as the Lord appointed that the preaching of the gospel should be supported by the gospel, there is an analogy between the rights of the sacrificing priests of the law and the preachers of the gospel. The Christian ministry is not sacrificial like the Jewish priesthood, but ministers should be supported by voluntary offerings. The Lord's instructions in Matthew 10:10 and Luke 10:7 establish the argument for the minister's salary, ensuring that those who faithfully bring the good news of salvation are provided with a comfortable livelihood.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.3254423474296466,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.66,
+            "commentatorTierSimilarities": [
+                38.37,
+                28.46,
+                33.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as the Lord appointed that the preaching of the gospel should be supported by the gospel, there is an analogy between the rights of the sacrificing priests of the law and the preachers of the gospel. The Christian ministry is not sacrificial like the Jewish priesthood, but ministers should be supported by voluntary offerings. The Lord's instructions in Matthew 10:10 and Luke 10:7 establish the argument for the minister's salary, ensuring that those who faithfully bring the good news of salvation are provided with a comfortable livelihood.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.3254423474296466,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.66,
+            "commentatorTierSimilarities": [
+                38.37,
+                28.46,
+                33.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord appointed that the preaching of the gospel should be supported by the gospel, establishing an analogy between the rights of the sacrificing priests and the preachers of the gospel. The Christian ministry differs from the Jewish priesthood, but ministers should still be supported by voluntary offerings. The instructions in Matthew 10:10 and Luke 10:7 guarantee the provision of a comfortable livelihood for those who faithfully bring the good news of salvation. This principle stands for all time, ensuring that ministers are adequately cared for in their vital work.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.998580839300709,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.79,
+            "commentatorTierSimilarities": [
+                36.15,
+                28.22,
+                35.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord appointed that the preaching of the gospel should be supported by the gospel. Just as the sacrificing priests of the law had rights and were supported by the contributions of the people, so too did the Lord appoint that those who preach the gospel should live of the gospel. This analogy between the rights of the priests and the preachers of the gospel is emphasized by the Apostle Paul. It is important to note, however, that the Christian ministry is not of a sacrificial character like the Jewish priesthood. Rather, the ministers should be supported by the voluntary offerings of the people, with the stipend being in proportion to their roles and merits. This instruction from the Lord, found in Matthew 10:10 and Luke 10:7, has established the argument for the minister's salary for all time. Therefore, it is ordained that those who faithfully bring the good news of salvation should be provided for with a comfortable livelihood as a reward for their work.",
+            "wordCount": 165,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.177557598233758,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.74,
+            "commentatorTierSimilarities": [
+                38.86,
+                29.21,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

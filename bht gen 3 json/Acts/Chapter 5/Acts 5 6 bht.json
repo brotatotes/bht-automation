@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:36",
+    "verseRef": "Acts 5:6",
+    "bestBHT": {
+        "bht": "The young men in the congregation, not distinguishing between younger men and elders, promptly responded to the Apostle's instruction, wrapping up the body of Ananias for burial. These active and dedicated members, without holding official positions, were invaluable in a thriving Christian community, willingly offering their service. The Greek word \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd suggests wrapping or tucking, possibly reflecting the practice of wrapping cloaks or garments. The expedited burial was likely influenced by health concerns and the desire to avoid ceremonial impurity in Jerusalem.",
+        "wordCount": 83,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 1.7853302214018791,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+        "commentatorTierSimilarities": [
+            36.23,
+            45.9,
+            17.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We can hardly assume, as yet, any such official distinctions in the congregation as would mark off younger men from the elders.",
+            "And the use of a different word in the original, 'the youths,' in ver. 10, as applying to these same persons, seems to decide that, they were merely the younger members of the church.",
+            "The immediate burial in this case adds to the probability that the young men obeyed an intimation from the Apostle."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the young men\u2014some of the younger and more active members of the church, not as office-bearers.",
+            "In every thriving Christian community such volunteers may be expected.",
+            "and will be found eminently useful."
+        ],
+        "Albert Barnes": [
+            "The fact that they took up Ananias voluntarily implies that they were accustomed to perform offices of servitude to the congregation.",
+            "It was the usual custom with the Jews to wind the body in many folds of linen before it was buried; commonly also with spices, to preserve it from putrefaction.",
+            "There might have been some danger of an excitement and tumult in regard to this scene if the corpse had not soon been removed; and as no valuable purpose could be answered by delaying the burial, the body was decently committed to the dust."
+        ],
+        "Marvin Vincent": [
+            "The verb [\u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd] means to draw together, or draw in; hence used for shortening sail, reducing expenses, lowering or humbling a person.\" ",
+            "In the sense of wrapping up it is found in Aristophanes, of wrapping cloaks or garments about one; also of tucking up the garments about the loins, as a preparation for service.",
+            "In medical language, of bandaging a limb; of the contraction of tumors, and of organs of the body, etc."
+        ],
+        "Philip Schaff": [
+            "The earliest Christian worship was modelled upon the synagogue, with such modifications as the position held by the apostles and perhaps the \u2018seventy\u2019 would require.",
+            "The officials...hastily, as is ever the custom in the East in the case of death, but reverentially, wrapped round each limb with the linen cloths used in the burying of the dead.",
+            "In the East the usual custom is only to allow a few hours\u2019 interval between death and burial."
+        ],
+        "Archibald T. Robertson": [
+            "The young men... no order in the young church.\" ",
+            "Perhaps these young men were acting as ushers or actual pallbearers.",
+            "The time for burial was short in Jerusalem for sanitary reasons and to avoid ceremonial defilement."
+        ],
+        "John Gill": [
+            "These rose up from their seats at once, not willing that such an awful spectacle should lie long before them.",
+            "The younger brethren of the church, who were robust, and strong, and fit for the following service.",
+            "Which was all done in a very short time, as appears by what follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The young men in the church sprang into action and wrapped up the body of Ananias for burial, responding to a prompt from the Apostle. These energetic and resourceful volunteers, though not necessarily holding official positions, played a vital role in the thriving Christian community. They were of great utility, acting as ushers or actual pallbearers. The use of the word \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd suggests the action of wrapping or tucking, which aligns with the practice of winding the body in linen cloths for burial. The quick burial was not only due to sanitary reasons and to avoid ceremonial defilement but also to prevent any potential excitement or tumult surrounding this solemn event.",
+            "wordCount": 111,
+            "quoteTokenProportion": 32.1,
+            "qualityScore": 1.722564994447234,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                36.48,
+                42.96,
+                20.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The young men in the church, not holding official positions, acted quickly upon the Apostle's instruction, wrapping up the body of Ananias for burial. These vibrant and capable volunteers were of immense value in a thriving Christian community, perhaps serving as ushers or pallbearers. The use of the word \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd implies the action of wrapping or tucking, aligning with the customary practice of winding the body in linen cloths. The expeditious burial was not only to ensure cleanliness and avoid defilement but also to prevent any possible disturbance during this solemn occasion.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.750818424543317,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.56,
+            "commentatorTierSimilarities": [
+                34.55,
+                46.83,
+                18.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The young men in the church, without official distinctions, promptly responded to the Apostle's command and wrapped the body of Ananias for burial. These enthusiastic and active members, though not in leadership roles, played a significant part in the flourishing Christian community. They may have served as ushers or pallbearers, offering their valuable assistance. The use of the Greek word \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd indicates the action of wrapping or tucking, associating with the customary practice of winding bodies in linen cloths. The swift burial aimed to address sanitary concerns and avoid ceremonial defilement in Jerusalem.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.03,
+            "qualityScore": 1.6404732899266092,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                37.73,
+                43.07,
+                19.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The young men in the congregation, not distinguishing between younger men and elders, promptly responded to the Apostle's instruction, wrapping up the body of Ananias for burial. These active and dedicated members, without holding official positions, were invaluable in a thriving Christian community, willingly offering their service. The Greek word \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd suggests wrapping or tucking, possibly reflecting the practice of wrapping cloaks or garments. The expedited burial was likely influenced by health concerns and the desire to avoid ceremonial impurity in Jerusalem.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.7853302214018791,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                36.23,
+                45.9,
+                17.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The young men of the church, not differentiated from the elders, promptly carried out the Apostle's direction by wrapping up the body of Ananias for burial. These eager and active members, though not in official leadership roles, were an essential part of a thriving Christian community, readily offering their service. The term \u03c3\u03c5\u03bd\u03b5\u03c3\u03c4\u03b5\u03b9\u03bb\u03b1\u03bd conveys the idea of wrapping or tucking, resembling the practice of wrapping garments or bandaging. The swift burial was likely due to sanitary considerations and the avoidance of ceremonial defilement in Jerusalem.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.769513548205461,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.18,
+            "commentatorTierSimilarities": [
+                35.86,
+                44.67,
+                19.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

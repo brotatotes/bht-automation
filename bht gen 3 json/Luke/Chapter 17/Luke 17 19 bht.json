@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:21:05",
+    "verseRef": "Luke 17:19",
+    "bestBHT": {
+        "bht": "He had beheld the brazen serpent with his outward eyes, but it was his inward faith that truly saved him, healing not only his body but also his soul. Faith made him whole in a higher sense, beyond mere physical cleansing. And as he prostrated himself at Jesus' feet, he was commanded to arise, symbolizing his transformation and restoration. This faith, exemplified through obedience, gratitude, and love, is what truly saved him, making him a recipient of God's fatherly love and a partaker in His salvation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.002610498758645,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+        "commentatorTierSimilarities": [
+            35.93,
+            28.45,
+            35.62
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His was merely the beholding of the brazen serpent with the outward eyes, but his, with the eye of inward faith.",
+            "And this faith saved him; not only healed his body, but his soul.",
+            "He hath made thee whole in a higher sense than the mere cleansing of his leprosy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Arise\u2014for he had 'fallen down on his face at His feet' and there lain prostrate.",
+            "Faith made thee whole\u2014not as the others, merely in body, but in that higher spiritual sense with which His constant language has so familiarized us.",
+            "COMING OF THE KINGDOM OF GOD AND OF THE SON OF MAN."
+        ],
+        "Albert Barnes": [
+            "Having now appropriately expressed your gratitude, go to the priest and obey the law of God.",
+            "Renewed sinners, while their hearts overflow with gratitude to Jesus, 'express' that gratitude by obeying God.",
+            "Engaging in the appropriate duties of their calling and of religion."
+        ],
+        "John Calvin": [
+            "We must therefore arrive at the conclusion, that Christ has here pronounced a different estimate of the gift of God from that which is usually pronounced by ungodly men; namely, that it was a token or pledge of God\u2019s fatherly love.",
+            "It is faith alone that sanctifies the gifts of God to us, so that they become pure, and, united to the lawful use of them, contribute to our salvation.",
+            "The Samaritan was saved by his faith...because he was admitted into the number of the children of God, and received from His hand a pledge of fatherly kindness."
+        ],
+        "Philip Schaff": [
+            "Thy faith hath made thee whole, or \u2018saved thee.\u2019 Salvation in the highest sense is meant.",
+            "The man\u2019s obedience, praise to God, gratitude, love, were only evidences of \u2018faith.\u2019",
+            "Real faith manifests itself in obedience and love."
+        ],
+        "John Gill": [
+            "Thy faith hath made thee whole: or 'saved thee', in soul, as well as body; that is, Christ, the object of faith, had saved him.",
+            "His salvation is ascribed to his faith, not as the efficient cause of it, but as that was wrought in him, and drawn forth from him, and exercised by him, in receiving this blessing from Christ.",
+            "The author of it, even both corporeal and spiritual salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He had beheld the brazen serpent with his outward eyes, but it was his inward faith that truly saved him, healing not only his body but also his soul. Faith made him whole in a higher sense, beyond mere physical cleansing. And as he prostrated himself at Jesus' feet, he was commanded to arise, symbolizing his transformation and restoration. This faith, exemplified through obedience, gratitude, and love, is what truly saved him, making him a recipient of God's fatherly love and a partaker in His salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.002610498758645,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.93,
+            "commentatorTierSimilarities": [
+                35.93,
+                28.45,
+                35.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His salvation was not merely a physical healing, but a deeper, spiritual wholeness brought about by his faith. He had observed the brazen serpent with his physical eyes, but it was his inward faith that truly saved him. Jesus commended him for his faith and commanded him to arise from his prostrate position. This act symbolized his transformation and restoration. His faith, shown through obedience, gratitude, and love, made him a recipient of God's fatherly love and a participant in His salvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8847410262966804,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                31.84,
+                30.98,
+                37.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "His faith saved him, healing not only his body but his soul. This faith made him whole in a higher sense, beyond mere physical cleansing. As he prostrated himself at Jesus' feet, he was commanded to arise, symbolizing his transformation and restoration. His faith, exemplified through obedience, gratitude, and love, is what truly saved him, making him a recipient of God's fatherly love and a participant in His salvation.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.9755197157714672,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                35.24,
+                28.21,
+                36.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "His faith saved him, not only healing his body but his soul as well. Jesus made him whole in a higher spiritual sense, beyond the mere physical cleansing. The man's prostration at Jesus' feet signified his humility and surrender. His faith, demonstrated through obedience, gratitude, and love, was the key to his salvation. Through this faith, he experienced God's fatherly love and received the blessing of spiritual and physical deliverance.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.969325828444205,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                32.06,
+                32.29,
+                35.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "His salvation came through his faith, which not only healed his body but also saved his soul. This faith went beyond a mere physical cure, encompassing a higher spiritual transformation. The man's prostration expressed his humility and surrender before Jesus. Jesus commanded him to rise, symbolizing his restoration and new life. The faith that saved him was revealed through obedience, gratitude, and love, making him a recipient of God's fatherly love and participating in the fullness of salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8870279252487108,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                29.93,
+                32.73,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:03:46",
+    "verseRef": "1 Corinthians 4:17",
+    "bestBHT": {
+        "bht": "In sending Timothy to the Corinthians, Paul intended to remind them of his ways and teachings, which they seemed to have forgotten. Timothy, as a close imitator of Paul's virtues and teaching, would bring to their minds Paul's well-known character and way of teaching. Paul was not concerned about the words of the proud, but rather with their power in the Spirit. Timothy, connected to Paul spiritually, was best suited to remind the Corinthians of Paul's walk and teaching, which they had overlooked.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.2616564788735847,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+        "commentatorTierSimilarities": [
+            45.17,
+            25.8,
+            29.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause,\u2014in order that you may the better imitate me by being put in mind of my ways and teaching.",
+            "Timothy, by being himself a close imitator of the Christian virtues and teaching of his and their spiritual father, would bring to their minds his well-known character, and way of teaching, which they seemed to have well-nigh forgotten.",
+            "I will 'know, i.e. I will inform myself of\u2014not the words of them which are puffed up (those I care not for), but the power: whether they are really mighty in the Spirit, or not."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul purposed . . . when he had passed through Macedonia and Achaia, to go to Jerusalem. So he sent into Macedonia Timotheus and Erastus.",
+            "The undesignedness of the coincidence establishes the genuineness of both the Epistle and the history.",
+            "Timothy, from his spiritual connection with Paul, as converted by him, was best suited to remind them of the apostle's walk and teaching, which they had forgotten."
+        ],
+        "Albert Barnes": [
+            "In order to remind you of my doctrines and my manner of life.",
+            "He sent Timothy and Erastus into Macedonia, probably with instruction to go to Corinth if convenient.",
+            "The same spirit that was required in Ephesus or Antioch, was required at Corinth; the same spirit that was required at Corinth, at Ephesus, or at Antioch, is required now."
+        ],
+        "John Calvin": [
+            "For in calling him his dearly beloved son, he intimates that he knew him intimately, and was acquainted with all his affairs.\" ",
+            "He gives also two things in charge to Timothy \u2014 first, to recall to the recollection of the Corinthians those things which they should of themselves have had in remembrance, and in this he tacitly reproves them.\" ",
+            "It is then the part of a prudent minister so to regulate his procedure, and to observe such a method of instruction, that no such objection may be brought against him, but he shall be prepared to answer on the same ground as Paul does."
+        ],
+        "Philip Schaff": [
+            "For this cause have I sent unto you Timothy, who is my beloved and faithful son in the Lord.\" ",
+            "who shall put you in remembrance of my ways which be in Christ, even as I teach everywhere in every church.\" ",
+            "No fitter substitute, then, could have been sent."
+        ],
+        "Archibald T. Robertson": [
+            "Paul expects his teachings and practices to be followed in every church.",
+            "Note his language here 'my ways those in Christ Jesus.'",
+            "Timothy as Paul's spokesman will remind the Corinthians of Paul's teachings."
+        ],
+        "John Gill": [
+            "who is my beloved son; so, in his epistles to him, he often styles him his son, his own son in the faith, his dearly beloved son",
+            "And faithful in the Lord; a faithful steward of the mysteries of grace; faithful in the Gospel of Christ, and to the souls of men; a faithful minister of the Lord's",
+            "which be in Christ; the doctrines he had preached among them, the sum and substance of them were Christ, and him crucified; the ordinances he had delivered to them were what he had received from Christ"
+        ],
+        "John Wesley": [
+            "My beloved son \u2014 Elsewhere he styles him \"brother,\" 2 Corinthians 1:1; but here paternal affection takes place.",
+            "As I teach \u2014 No less by example than precept."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In sending Timothy to the Corinthians, Paul hoped to remind them of his ways and teachings, which they seemed to have forgotten. Timothy, being a close imitator of Paul's virtues and teaching, would bring to their minds Paul's well-known character and way of teaching. Paul was not concerned with the words of those who were prideful, but rather with their power in the Spirit. Timothy, as Paul's spiritual connection, was best suited to remind the Corinthians of Paul's walk and teaching. Paul expected his teachings and practices to be followed in every church, and he trusted that Timothy would faithfully convey this message.",
+            "wordCount": 108,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.2651826030507767,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.66,
+            "commentatorTierSimilarities": [
+                45.24,
+                26.22,
+                28.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In sending Timothy to the Corinthians, Paul intended to remind them of his ways and teachings, which they seemed to have forgotten. Timothy, as a close imitator of Paul's virtues and teaching, would bring to their minds Paul's well-known character and way of teaching. Paul was not concerned about the words of the proud, but rather with their power in the Spirit. Timothy, connected to Paul spiritually, was best suited to remind the Corinthians of Paul's walk and teaching, which they had overlooked.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.2616564788735847,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.54,
+            "commentatorTierSimilarities": [
+                45.17,
+                25.8,
+                29.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In sending Timothy to the Corinthians, Paul hoped to remind them of his ways and teachings, which they seemed to have forgotten. Timothy, as a close imitator of Paul's virtues and teaching, would bring to their minds Paul's well-known character and way of teaching. Paul was not concerned with the words of the proud, but rather with their power in the Spirit. Timothy, as Paul's spiritual connection, was best suited to remind the Corinthians of Paul's walk and teaching. Paul expected his teachings and practices to be followed in every church, and he trusted that Timothy would faithfully convey this message.",
+            "wordCount": 106,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.2708665117452567,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.85,
+            "commentatorTierSimilarities": [
+                45.53,
+                25.96,
+                28.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In sending Timothy to the Corinthians, Paul sought to remind them of his ways and teachings that they had forgotten. Timothy, as a close imitator of Paul's character and teaching, would jog their memory and bring to mind his well-known conduct. While Paul wasn't concerned with the words of the proud, he wanted to assess their true power in the Spirit. Being spiritually connected to Paul, Timothy was the ideal person to remind the Corinthians of Paul's walk and teaching. Paul expected his teachings to be upheld in every church, and he entrusted Timothy to convey this.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.2046268414927956,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.64,
+            "commentatorTierSimilarities": [
+                45.21,
+                26.07,
+                28.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In sending Timothy to the Corinthians, Paul aimed to remind them of his ways and teachings, which seemed to have been forgotten. Timothy, as an imitator of Paul's virtues and teaching, would bring to mind Paul's character and instructional style. Rather than being concerned with the words of the prideful, Paul was interested in their power in the Spirit. Timothy, being spiritually connected to Paul, was ideal for reminding the Corinthians of Paul's conduct and teaching. Paul expected his teachings to be followed in every church, and he relied on Timothy to communicate this.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.250127751866498,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.16,
+            "commentatorTierSimilarities": [
+                44.52,
+                26.8,
+                28.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

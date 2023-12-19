@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:29:43",
+    "verseRef": "Ephesians 2:3",
+    "bestBHT": {
+        "bht": "All people, Jews and Gentiles alike, are by nature children of wrath, deserving of God's holy hatred of sin. This highlights the doctrine of original sin and the universal sinfulness of humanity. The phrase by nature implies that sinfulness is inherent, not acquired, and from birth, we are subject to God's wrath. It is clear that all individuals, regardless of their background, are born with a sinful nature and in need of redemption from sin.",
+        "wordCount": 77,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 2.4983767129092422,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+        "commentatorTierSimilarities": [
+            37.73,
+            35.34,
+            26.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The usage of we all by St. Paul must decide. It occurs Rom. iv. 16, 'who is the father of us all,' undeniably for Jews and Gentiles included: viii. 32, where the universal reference is as undeniable: 1 Cor. xii. 13, where it is still more marked: 2 Cor. iii. 18, equally undoubted.",
+            "The change of construction has been remarked by the best Commentators as intentional, not of negligence,\u2014 'to give emphasis to the weighty clause that follows, and to dis-connect it from any possible relation to present time, 'we were children of wrath by nature,\u2014it was once our state and condition, it is now so no longer.'",
+            "The expression amounts to an assertion on the part of the Apostle of the doctrine of original sin. There is from its secondary position no emphasis on 'by nature:' but its doctrinal force as referring to a fundamental truth otherwise known, is not thereby lessened."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul and his Jewish countrymen, though outwardly more seemly than the Gentiles, had been essentially like them in living to the unrenewed flesh, without the Spirit of God.",
+            "Nature,\" in Greek, implies that which has grown in us as the peculiarity of our being, growing with our growth, and strengthening with our strength, as distinguished from that which has been wrought on us by mere external influences: what is inherent, not acquired. An incidental proof of the doctrine of original sin.",
+            "The phrase 'children of wrath' is a Hebraism, that is, objects of God's wrath from childhood, in our natural state, as being born in the sin which God hates."
+        ],
+        "Albert Barnes": [
+            "It was a characteristic of all that they lived to fulfil the desires of the flesh and of the mind.",
+            "This doctrine that people without the gospel are the children of wrath, Paul had fully defended in Rom. 1\u20133.",
+            "Who should not make an effort to escape from the wrath to come, and become a child of glory and an heir of life?"
+        ],
+        "Marvin Vincent": [
+            "Wrath is God's holy hatred of sin; His essential, necessary antagonism to everything evil.",
+            "That man is born with a sinful nature, and that God and sin are essentially antagonistic, are conceded on all hands.",
+            "It is true that there is a birth-principle of evil, which, if suffered to develop, will bring upon itself the wrath of God."
+        ],
+        "John Calvin": [
+            "There is nothing pure or holy which does not proceed from the fountain of all purity.",
+            "All men without exception, whether Jews or Gentiles, are here pronounced to be guilty, until they are redeemed by Christ; so that out of Christ there is no righteousness, no salvation, and, in short, no excellence.",
+            "This is a remarkable passage, in opposition to the views of the Pelagians, and of all who deny original sin. What dwells naturally in all is certainly original."
+        ],
+        "Philip Schaff": [
+            "The fact of universal sinfulness is involved, whether we suppose the Apostle to be stating that all Christians were children of wrath by nature, or emphasizing this in the case of the Jews, who had thought themselves children of promise by nature.",
+            "'Children of wrath' means exposed to God\u2019s holy hatred of sin. 'We were from birth those who were forfeited to the divine wrath.'",
+            "All efforts to explain away the fact of this universal natural state of condemnation fail, both because of such passages as Romans 5:12-21, and on account of the facts of human nature itself; 'experience confirms the Divine testimony' (Eadie), whether we can explain the mode or not."
+        ],
+        "Archibald T. Robertson": [
+            "Jews as well as Gentiles ('even as the rest') are the objects of God's wrath because of their lives of sin.",
+            "The use of \u03c6\u03c5\u03c3\u03b5 (associative instrumental case of manner) is but the application of Paul's use of 'all' (\u03c0\u03b1\u03bd\u03c4\u03b5\u03c2) as shown also in Romans 3:20; Romans 5:12.",
+            "The implication of original sin is here, but not in the form that God's wrath rests upon little children before they have committed acts of sin."
+        ],
+        "John Gill": [
+            "What the apostle says of the Gentile Ephesians before conversion, he says of himself and other Jews.",
+            "Persons may be said to have their conversations in these, when these are the ground of their conversation, when they are solicitous about them, and make provision for the fulfilling of them, and constantly employ themselves in obedience to them.",
+            "They were such 'by nature'; really, and not in opinion, and by and from their first birth."
+        ],
+        "John Wesley": [
+            "And were by nature \u2014 That is, in our natural state. Children of wrath \u2014 Having the wrath of God abiding on us, even as the gentiles.",
+            "This expression, by nature, occurs also, Galatians 4:8; Romans 2:14; and thrice in the eleventh chapter.",
+            "But in none of these places does it signify, by custom, or practice, or customary practice, as a late writer affirms."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All people, whether Jews or Gentiles, are declared guilty and deserving of God's wrath, until they are redeemed by Christ. This passage emphasizes the doctrine of original sin, highlighting the universal sinfulness of humanity. The phrase by nature suggests that sinfulness is inherent and not merely acquired through external influences. The term children of wrath signifies being subject to God's holy hatred of sin from birth. It is clear that all individuals, regardless of their background, are born with a sinful nature and stand in need of redemption from sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.370375373847934,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+            "commentatorTierSimilarities": [
+                37.26,
+                34.99,
+                27.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All people, Jews and Gentiles alike, are by nature children of wrath, deserving of God's holy hatred of sin. This highlights the doctrine of original sin and the universal sinfulness of humanity. The phrase by nature implies that sinfulness is inherent, not acquired, and from birth, we are subject to God's wrath. It is clear that all individuals, regardless of their background, are born with a sinful nature and in need of redemption from sin.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.4983767129092422,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.41,
+            "commentatorTierSimilarities": [
+                37.73,
+                35.34,
+                26.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All individuals, whether Jews or Gentiles, are inherently children of wrath by nature. This highlights the doctrine of original sin and emphasizes the universal sinfulness of humanity. The phrase children of wrath signifies that all people are subject to God's holy hatred of sin from birth. It is evident that everyone, regardless of their background, is born with a sinful nature and requires redemption from sin. The concept of God's wrath against sin is essential, as His essential nature opposes everything evil.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.4851412631009984,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.97,
+            "commentatorTierSimilarities": [
+                38.37,
+                35.6,
+                26.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All individuals, whether Jews or Gentiles, are born as children of wrath by nature, subject to God's holy hatred of sin. This underscores the doctrine of original sin and the universal sinfulness of humanity. The term children of wrath reveals that from birth, individuals are objects of God's wrath due to their sinful state. Regardless of their background, every person is inherently sinful and in need of redemption from sin. Understanding God's wrath in light of sin is crucial, as God and sin are essentially opposing forces.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.446036366105152,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.67,
+            "commentatorTierSimilarities": [
+                39.76,
+                34.87,
+                25.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All individuals, whether Jews or Gentiles, are born as children of wrath by nature, deserving of God's holy hatred of sin. This emphasizes the presence of original sin and the universal sinfulness of human beings. The phrase children of wrath signifies that from birth, we are subject to God's wrath due to our inherent sinful nature. It is evident that everyone, irrespective of their background, possesses a sinful nature and requires redemption from sin. Recognizing the concept of God's wrath against sin is crucial, as God is intrinsically opposed to everything that is evil.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.497657805373252,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.39,
+            "commentatorTierSimilarities": [
+                39.23,
+                34.82,
+                25.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

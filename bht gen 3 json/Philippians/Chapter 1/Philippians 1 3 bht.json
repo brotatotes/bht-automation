@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 13:51:59",
+    "verseRef": "Philippians 1:3",
+    "bestBHT": {
+        "bht": "In all my remembrance of you, I thank my God upon every remembrance of you. The apostle's heart is overflowing with thankfulness to God, and happiness in the manifestation of their love to himself. He regards their piety as one of the tokens of the favor of God to his own soul. The sum of this epistle is to rejoice, and we should also practice the habit of turning our thoughts to thanksgiving whenever we remember joyful things.",
+        "wordCount": 79,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 1.9789687633971007,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+        "commentatorTierSimilarities": [
+            16.72,
+            51.27,
+            32.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "3.] See the similar expressions, Rom. i. 9; 1 Cor. i. 4; Eph. i. 16; Col. i. 3; 1 Thess. i. 2; Philem. 4,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. Translate, \"In all my",
+            "\tremembrance of you."
+        ],
+        "Albert Barnes": [
+            "I thank my God upon every remembrance of you.",
+            "He regards their piety as one of the tokens of the favor of God to his own soul.",
+            "In producing that piety he had been mainly instrumental."
+        ],
+        "Marvin Vincent": [
+            "Joy is the keynote of this epistle.",
+            "The sum of the epistle is, 'I rejoice, rejoice ye.'",
+            "See vers. 18, 25; ch. Philippians 2:2, Philippians 2:17, Philippians 2:18, Philippians 2:28, Philippians 2:29; Philippians 3:0:l; Philippians 4:1, Philippians 4:4, Philippians 4:10."
+        ],
+        "John Calvin": [
+            "He begins with thanksgiving on two accounts \u2014 first, that he may by this token shew his love to the Philippians; and secondly, that, by commending them as to the past, he may exhort them, also, to perseverance in time to come.",
+            "Whenever he makes mention of things that are joyful, he immediately breaks forth into thanksgiving \u2014 a practice with which we ought also to be familiar.",
+            "We must, also, take notice, what things they are for which he gives thanks to God \u2014 the fellowship of the Philippians in the gospel of Christ; for it follows from this, that it ought to be ascribed to the grace of God."
+        ],
+        "Philip Schaff": [
+            "This expression is very frequent with St. Paul, and indicates the light in which he looked on God\u2019s dealing with him. He could see that all was of God\u2019s grace, and so his life was a constant eucharist.",
+            "It was not that on every occasion on which the apostle\u2019s thoughts went back to the Philippians he felt thankful, but the whole course of the remembrance, as their Christian progress was reviewed by him since his earliest preaching among them, gives him reason for thankfulness.",
+            "The apostle\u2019s heart is overflowing with thankfulness to God, and happiness in the manifestation of their love to himself."
+        ],
+        "Archibald T. Robertson": [
+            "Upon (\u03b5\u03c0). Basis of the thanksgiving.",
+            "All (\u03c0\u03b1\u03c3\u03b7). Note frequent use of \"all\" here (\u03c0\u03b1\u03c3\u03b7\u03b9, \u03c0\u03b1\u03bd\u03c4\u03bf\u03c4\u03b5, always, \u03c0\u03b1\u03c3\u03b7, again, \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c5\u03bc\u03c9\u03bd, you all). The use of \"you all\" recurs several times (Philippians 1:4; Philippians 1:7 bis, Philippians 1:8). "
+        ],
+        "John Gill": [
+            "I thank my God;... the perfections of his nature, and for all his mercies.\" ",
+            "He had a special, particular, covenant interest in him, had knowledge of it, and faith in it.",
+            "The apostle expresses his propriety and interest in him, calling him 'my God'; thereby distinguishing him from all others, the nominal and fictitious gods of the Gentiles, and the idols and lusts of men's hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In all my remembrance of you, I thank my God upon every remembrance of you. The apostle's heart is overflowing with thankfulness to God, and happiness in the manifestation of their love to himself. He regards their piety as one of the tokens of the favor of God to his own soul, and in producing that piety he had been mainly instrumental. The fellowship of the Philippians in the gospel of Christ is something for which he gives thanks to God, for it follows from this, that it ought to be ascribed to the grace of God. See the similar expressions in other letters, where joy is the keynote. The sum of this epistle is to rejoice, and we should also practice the habit of turning our thoughts to thanksgiving whenever we remember joyful things.",
+            "wordCount": 136,
+            "quoteTokenProportion": 45.78,
+            "qualityScore": 1.8690455636038883,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                18.05,
+                47.33,
+                34.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In all my remembrance of you, I thank my God upon every remembrance of you. The apostle's heart is overflowing with thankfulness to God, and happiness in the manifestation of their love to himself. He regards their piety as one of the tokens of the favor of God to his own soul. The sum of this epistle is to rejoice, and we should also practice the habit of turning our thoughts to thanksgiving whenever we remember joyful things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.9789687633971007,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "commentatorTierSimilarities": [
+                16.72,
+                51.27,
+                32.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In all my remembrance of you, I rejoice and thank my God upon every remembrance of you. The apostle's heart is filled with thankfulness to God and joy in their love towards him. Their piety is seen as a sign of God's favor and grace. This letter emphasizes the theme of rejoicing, and we should also practice gratitude when joyful things come to mind. Let us follow the apostle's example in giving thanks to God for all his blessings.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.8920835361084594,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                17.3,
+                46.93,
+                35.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In all my remembrance of you, I rejoice and thank my God upon every remembrance of you. The apostle's heart is filled with thankfulness to God and joy in their love towards him. Their piety is seen as a sign of God's favor and grace. This letter emphasizes the theme of rejoicing, and we should also practice gratitude when joyful things come to mind.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 1.8623398400250561,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.26,
+            "commentatorTierSimilarities": [
+                16.86,
+                48.06,
+                35.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In all my remembrance of you, I thank my God upon every remembrance of you. The apostle's heart is overflowing with thankfulness to God and happiness in the manifestation of their love to himself. He regards their piety as one of the tokens of the favor of God to his own soul. The sum of this epistle is to rejoice, and we should also practice the habit of turning our thoughts to thanksgiving whenever we remember joyful things.",
+            "wordCount": 79,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.9789687633971007,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.14,
+            "commentatorTierSimilarities": [
+                16.72,
+                51.27,
+                32.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:15:21",
+    "verseRef": "2 Corinthians 3:8",
+    "bestBHT": {
+        "bht": "The ministry of the Spirit is destined to be fully revealed and is invested in glory. This ministry, marked by the Holy Spirit and imparting spiritual life, is of great importance and surpasses mere external forms or inscriptions. The Gospel, known as the ministration of the Spirit, not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Thus, the Gospel shines with a far greater glory than the law, which only brought death.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.7756924944830499,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+        "commentatorTierSimilarities": [
+            22.04,
+            29.5,
+            48.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "be rather glorious\u2014literally, 'be rather (that is, still more, invested) in glory.'",
+            "Shall be,\" that is, shall be found to be in part now, but fully when the glory of Christ and His saints shall be revealed."
+        ],
+        "Albert Barnes": [
+            "By the 'Spirit' here is manifestly meant the Holy Spirit; and the whole phrase denotes the gospel, or the preaching of the gospel, by which eminently the Holy Spirit is imparted.",
+            "The work of the ministry is, therefore, the most important and honorable in which man can engage.",
+            "The work of the Spirit of God on the heart of a rational being, is much more important than any dead characters which can be engraved on insensible stones."
+        ],
+        "Marvin Vincent": [
+            "Glorious [\u03b5\u03bd \u03b4\u03bf\u03be\u03b7] . As in ver. 7, with glory."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 3:8. How shall not rather the ministration of the Spirit of that which is \u201cspirit and life,\u201d be with glory?",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "How shall not rather?\" - Argumentum a minore ad majus (from the less to the greater).",
+            "Of the spirit\" - Marked by the spirit.",
+            "Picture of the Christian ministry now."
+        ],
+        "John Gill": [
+            "By 'the ministration of the Spirit', is meant the Gospel; so called not only because it ministers spiritual things, but because it ministers the Spirit of God himself.\" ",
+            "By it [the Gospel], [the Spirit] conveys himself into the hearts of men, and makes it powerful for illumination, consolation, edification, and an increase of every grace.",
+            "Therefore [the Gospel] must be rather glorious, or much more glorious than the law, the ministration of death."
+        ],
+        "John Wesley": [
+            "The ministration of the Spirit \u2014 That is, the Christian dispensation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the surpassing glory of the ministry of the Spirit, which is invested in glory and will be fully revealed in the future. This ministry, marked by the Holy Spirit, is of utmost importance, as it imparts spiritual life to believers. It is even more significant than any external form or inscription. The ministration of the Spirit refers to the Gospel, which not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Thus, the Gospel, as the ministration of the Spirit, is much more glorious than the law of Moses, which brought death.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.7198875407447254,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                20.0,
+                30.76,
+                49.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ministry of the Spirit, described as invested in glory, will ultimately be fully revealed. This ministry, marked by the Holy Spirit, is more significant than external forms or inscriptions. It imparts spiritual life and is distinguished from the law, which brought death. The Gospel, known as the ministration of the Spirit, not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Thus, the Gospel is far more glorious than the law of Moses.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.706458900741973,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                21.28,
+                28.76,
+                49.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The surpassing glory of the ministry of the Spirit is emphasized, as it is invested in glory and will be fully revealed. This ministry, marked by the Holy Spirit, imparts spiritual life and is superior to external forms or inscriptions. It is even more significant than the law of Moses, which brought death. The Gospel, known as the ministration of the Spirit, not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Therefore, the Gospel is much more glorious than the law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7266878731031872,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.75,
+            "commentatorTierSimilarities": [
+                23.16,
+                28.54,
+                48.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ministry of the Spirit is destined to be fully revealed and is invested in glory. This ministry, marked by the Holy Spirit and imparting spiritual life, is of great importance and surpasses mere external forms or inscriptions. The Gospel, known as the ministration of the Spirit, not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Thus, the Gospel shines with a far greater glory than the law, which only brought death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7756924944830499,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                22.04,
+                29.5,
+                48.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ministry of the Spirit, invested in glory, is destined to be fully revealed and surpasses external forms or inscriptions. It imparts spiritual life and is marked by the Holy Spirit. The Gospel, known as the ministration of the Spirit, not only imparts spiritual blessings but also conveys the Spirit Himself into the hearts of individuals. Therefore, the Gospel shines with a far greater glory compared to the law, which ultimately brought death.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.7235974916940822,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.65,
+            "commentatorTierSimilarities": [
+                20.94,
+                29.26,
+                49.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

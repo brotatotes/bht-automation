@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:26:09",
+    "verseRef": "Acts 4:17",
+    "bestBHT": {
+        "bht": "Unaware of the fire burning within the heroic disciples, the council attempted to quell the spreading of the gospel by strictly threatening them to no longer speak in the name of Jesus. Their futile efforts were in vain as the people, reminded of Jesus' words and works through the miraculous healing, stood firmly on the side of the accused apostles. Like charges against Jesus, their attempt to silence the disciples was destined to fail, unable to hinder the unstoppable spread of the message of Jesus.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 1.9140864128906125,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+        "commentatorTierSimilarities": [
+            25.6,
+            47.83,
+            26.57
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Let us straitly\u2014strictly threaten . . . that they speak henceforth to no man in this name\u2014Impotent device!",
+            "Little knew they the fire that was burning in the bones of those heroic disciples.",
+            "[They] knew the fire that was burning in the bones of those heroic disciples."
+        ],
+        "Marvin Vincent": [
+            "It spread [\u03b4\u03b9\u03b1\u03bd\u03b5\u03bc\u03b7\u03b8\u03b7] . Only here in New Testament. Lit., be distributed.\" ",
+            "In 2 Timothy 2:17, 'their word will eat as canker,' is, literally, will have distribution or spreading [\u03bd\u03bf\u03bc\u03b7\u03bd \u03b5\u03be\u03b5\u03b9].",
+            "Bengel, however, goes too far when he represents the members of the council as speaking in the figure of a canker. 'They regard the whole as a canker.'"
+        ],
+        "John Calvin": [
+            "For which cause we [should] always take good heed that the wicked be not preferred unto the government of the Church.",
+            "And those which are called to this function must behave themselves reverently and modestly, lest they seem to be armed to do hurt.",
+            "The authority of the pastors hath certain bounds appointed which they may not pass."
+        ],
+        "Philip Schaff": [
+            "The people, with the memory of the words and works of the Master of Peter and John vividly recalled to them by the work of mercy just done to the poor lame man, were clearly on the side of the accused apostles.",
+            "The expectation that the apostles would have been convicted under the statutes of the law...was frustrated by the strong feeling shown by the people in favor of the apostles.",
+            "The same charge in former days had been made against the Lord...but then, as now, it fell, owing to the good sense of the people generally, who never for a moment could really bear such a supposition either in the case of Christ or His disciples."
+        ],
+        "Archibald T. Robertson": [
+            "That it spread no further.\" ",
+            "Let us threaten them.",
+            "That they speak henceforth to no man in this name."
+        ],
+        "John Gill": [
+            "Let us straitly threaten them; or 'in threatening threaten them'; that is, severely threaten them with imprisonment, or with the scourging of forty stripes save one, or with death itself.",
+            "That they speak henceforth to no man in this name; which through indignation and contempt they do not mention, but mean the name of Jesus.",
+            "The apostles, from this time forward, should not teach, or preach the doctrine of the resurrection of the dead, or any other doctrine of the Gospel, in the name of Jesus, to any man, Jew or Gentile; or perform any miracle in his name, or call upon his name."
+        ],
+        "John Wesley": [
+            "Yet that it spread no farther \u2014 For they look upon it as a mere gangrene. So do all the world upon genuine Christianity.",
+            "Let us severely threaten them \u2014 Great men, ye do nothing.",
+            "They have a greater than you to flee to."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Failing to understand the fire within the apostles, the council tried to suppress the spreading of the gospel, strictly threatening them to speak no longer in the name of Jesus. But their weak and futile attempt was in vain, for the people, who had witnessed Peter and John's miracles and heard their teachings, were on the apostles' side. Just as the charges against Jesus failed to gain traction due to the good sense of the people, so too were the council's efforts to silence the disciples futile. The council's arrogance blinded them to the fact that the message of Jesus could not be contained or hindered - it would continue to spread, despite their threats.",
+            "wordCount": 117,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 1.8126027893885661,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                21.93,
+                48.69,
+                29.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Misunderstanding the fervor of the apostles, the council sought to suppress the spreading of the gospel by strictly threatening them to speak no longer in the name of Jesus. However, their feeble attempt was futile, for the people, who had witnessed the miracles and heard the teachings of Peter and John, stood in support of the accused apostles. Just as charges against Jesus failed due to the people's good sense, the council's efforts to silence the disciples would not hinder the unstoppable spread of the message of Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8454777352436231,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                20.66,
+                52.22,
+                27.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In an attempt to quash the fiery disciples, the council threatened them strictly, ordering them to no longer speak in the name of Jesus. Little did they know the intensity of conviction burning within these heroic apostles. Despite their efforts, the people, reminded of the words and works of Jesus through the miraculous healing of the lame man, stood in firm support of the accused disciples. Just as charges against Christ fell due to the people's rejection, the council's endeavor to silence the disciples would prove fruitless against the unstoppable spread of the gospel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8446787159500242,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.68,
+            "commentatorTierSimilarities": [
+                26.11,
+                49.42,
+                24.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Seeking to suppress the fervor of the apostles, the council resorted to strict threats, commanding them to cease speaking in the name of Jesus. However, their feeble strategy failed to comprehend the passion burning within these courageous disciples. The support of the people, who witnessed the miracles and teachings of Peter and John, further frustrated the council's misguided expectations. Just as charges against Jesus fell due to the wise judgment of the people, the council's attempt to silence the disciples proved ineffective against the unstoppable spread of the gospel message.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6539708151965242,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.34,
+            "commentatorTierSimilarities": [
+                22.63,
+                50.19,
+                27.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unaware of the fire burning within the heroic disciples, the council attempted to quell the spreading of the gospel by strictly threatening them to no longer speak in the name of Jesus. Their futile efforts were in vain as the people, reminded of Jesus' words and works through the miraculous healing, stood firmly on the side of the accused apostles. Like charges against Jesus, their attempt to silence the disciples was destined to fail, unable to hinder the unstoppable spread of the message of Jesus.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.9140864128906125,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                25.6,
+                47.83,
+                26.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

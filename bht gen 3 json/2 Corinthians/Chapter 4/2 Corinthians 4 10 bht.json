@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:09",
+    "verseRef": "2 Corinthians 4:10",
+    "bestBHT": {
+        "bht": "Through our daily exposure to death for the cause of Jesus, we bear in our bodies the image of the suffering Savior. This act of dying, although subordinate, serves a greater purpose - to reveal the resurrection life of Christ in us. Just as Ignatius was called God-bearer, we too bear God and Christ in our bodies. These sufferings, though contemptible to the world, hold honor in the sight of God and will ultimately lead to the manifestation of Jesus' life in us.",
+        "wordCount": 83,
+        "quoteTokenProportion": 37.74,
+        "qualityScore": 2.4076702229028273,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+        "commentatorTierSimilarities": [
+            29.31,
+            34.84,
+            35.85
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "always bearing about in our body the killing (so literally) of Jesus",
+            "that the life also of Jesus may be manifested in our body",
+            "the bodily deliverance is manifestly a subordinate consideration, and the life of far higher significance"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "having my body exposed to being put to death in the cause of Jesus ... an image of the suffering Savior in my own person.",
+            "Doubtless, Paul was exposed to more dangers than are recorded in Acts.",
+            "I thus bear about in my own person an image of the risen and living, as well as of the suffering, Savior."
+        ],
+        "Albert Barnes": [
+            "He had on his body the marks, the stripes and marks of punishment and persecution, which showed that he was exposed to the same violent death which the Lord Jesus himself endured.",
+            "The dying of the Lord Jesus...does not mean that he bore about literally the dying of the Lord Jesus, but that he was exposed to a similar death.",
+            "Paul placed the Lord Jesus before him as the model of his life, and deemed it an object to be attained even by great self-denial and sufferings to be conformed to him."
+        ],
+        "Marvin Vincent": [
+            "Ye are God-bearers, shrine-bearers, Christ-bearers.",
+            "Our body is constantly exposed to the same putting to death which Jesus suffered.",
+            "The purport, according to God's purpose, of this daily dying is to set forth the resurrection-life through Christ in us."
+        ],
+        "John Calvin": [
+            "He employs the expression \u2014 the mortification of Jesus Christ \u2014 to denote everything that rendered him contemptible in the eyes of the world, with the view of preparing him for participating in a blessed resurrection.",
+            "The sufferings of Christ, however ignominious they may be in the eyes of men, have, nevertheless, more of honor in the sight of God, than all the triumphs of emperors, and all the pomp of kings.",
+            "The life of Jesus is the best antidote to adversity \u2014 that as Christ\u2019s death is the gate of life, so we know that a blessed resurrection will be to us the termination of all miseries."
+        ],
+        "Philip Schaff": [
+            "always bearing about in the body the dying of Jesus, as virtually dying with Him in our daily exposures to death in His cause",
+            "that the life also of Jesus might be made manifest in our body",
+            "The received reading 'the Lord Jesus' has scarcely any support."
+        ],
+        "Archibald T. Robertson": [
+            "Ignatius was called \u0398\u03b5\u03bf\u03c6\u03bf\u03c1\u03bf\u03c2, God-bearer.\" ",
+            "See 1 Corinthians 15:31 where Paul says 'I die daily' and Philippians 3:10; Colossians 1:24.",
+            "The dying of Jesus (\u03c4\u03b7\u03bd \u03bd\u03b5\u03ba\u03c1\u03c9\u03c3\u03b9\u03bd \u03c4\u03bf\u03c5 \u0399\u03b7\u03c3\u03bf\u03c5). Late word from \u03bd\u03b5\u03ba\u03c1\u03bf\u03c9, to put to death."
+        ],
+        "John Gill": [
+            "The sufferings they themselves underwent: so called, because of the likeness there is between the sufferings of Christ, and theirs.",
+            "Christ and they were one body and one Spirit; so that what was endured by the members, the head had a fellow feeling of, and sympathy with.",
+            "The end of all these sufferings, which is expressed alike in both verses, is that the life also of Jesus might be made manifest in our body."
+        ],
+        "John Wesley": [
+            "Bearing about in the body the dying of the Lord Jesus.\" ",
+            "Continually expecting to lay down our lives like him.",
+            "That the life also of Jesus might be manifested in our body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through our trials and sufferings, we carry in our bodies the dying of Jesus. In our exposure to death for the cause of Christ, we become an image of the suffering Savior. This daily dying serves a greater purpose - to reveal the resurrection life of Christ in us. Just as Ignatius was called God-bearer, we too are bearers of God and Christ. Our sufferings may seem contemptible in the eyes of the world, but they hold honor in the sight of God. Ultimately, the manifestation of Jesus' life in our bodies will bring an end to all our miseries.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.303123473095888,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.92,
+            "commentatorTierSimilarities": [
+                29.14,
+                33.99,
+                36.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through our daily exposure to death for the cause of Jesus, we bear in our bodies the image of the suffering Savior. This act of dying, although subordinate, serves a greater purpose - to reveal the resurrection life of Christ in us. Just as Ignatius was called God-bearer, we too bear God and Christ in our bodies. These sufferings, though contemptible to the world, hold honor in the sight of God and will ultimately lead to the manifestation of Jesus' life in us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.4076702229028273,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+            "commentatorTierSimilarities": [
+                29.31,
+                34.84,
+                35.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through our daily exposure to death for the cause of Jesus, we bear in our bodies the image of the suffering Savior. This act of dying serves a greater purpose - to reveal the resurrection life of Christ in us. Just as Ignatius was called God-bearer, we too bear God and Christ in our bodies. These sufferings hold honor in the sight of God and will ultimately lead to the manifestation of Jesus' life in us, bringing an end to our miseries.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.383686888621286,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.6,
+            "commentatorTierSimilarities": [
+                29.37,
+                34.5,
+                36.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through our daily exposure to death in the cause of Jesus, we bear the image of the suffering Savior in our own bodies. This act of dying serves to reveal the resurrection life of Christ in us. Like Ignatius, we are bearers of God and Christ. Our sufferings may seem contemptible in the eyes of the world, but they hold honor in the sight of God. Ultimately, our sufferings will lead to the manifestation of Jesus' life in us and the termination of all miseries.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.253279378823458,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.26,
+            "commentatorTierSimilarities": [
+                28.83,
+                33.94,
+                37.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through our daily exposure to death for the cause of Jesus, we become an image of the suffering Savior. This act of dying serves a greater purpose - to reveal the resurrection life of Christ in us. Just as Ignatius was called God-bearer, we too bear God and Christ in our bodies. Our sufferings may seem contemptible in the eyes of the world, but they hold honor in the sight of God. Ultimately, the manifestation of Jesus' life in our bodies will bring an end to all our miseries.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.326490719185893,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+            "commentatorTierSimilarities": [
+                29.44,
+                34.09,
+                36.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

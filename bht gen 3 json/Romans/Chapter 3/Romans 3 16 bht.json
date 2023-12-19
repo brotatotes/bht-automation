@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:00:52",
+    "verseRef": "Romans 3:16",
+    "bestBHT": {
+        "bht": "The wicked scatter misery and destruction, oblivious to the path of peace. They leave behind a trail of ruin and calamity, shattering and breaking apart everything they touch. This ferocious and barbarous nature results in desolation and waste, resembling the description of Domitian. Through their sinful ways, they bring destruction and misery to themselves and others. Their ultimate end is eternal death, accompanied by indescribable and endless suffering in the depths of hell.",
+        "wordCount": 73,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.8617177116095025,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+        "commentatorTierSimilarities": [
+            25.87,
+            38.43,
+            35.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Destruction and misery are in their ways.\" ",
+            "The way of peace have they not known.\" ",
+            "Men scatter mischief and misery in their path, instead of peace."
+        ],
+        "Albert Barnes": [
+            "Destruction - That is, they 'cause' the destruction or the ruin of the reputation, happiness, and peace of others.",
+            "Misery - Calamity, ruin.",
+            "In their ways - Wherever they go. This is a striking description not only of the wicked then, but of all times."
+        ],
+        "Marvin Vincent": [
+            "Destruction [\u03c3\u03c5\u03bd\u03c4\u03c1\u03b9\u03bc\u03bc\u03b1] . A dashing to pieces. Only here. The kindred verb suntribw to break in pieces, shiver, is frequent. See Mark 5:4; Mark 14:3; Revelation 2:27, etc."
+        ],
+        "John Calvin": [
+            "Very striking is the sentence that is added from Isaiah, Ruin and misery are in all their ways...\" (Romans 3:16)",
+            "...a representation of ferociousness above measure barbarous, which produces solitude and waste by destroying every thing wherever it prevails...\" (Romans 3:16)",
+            "...the same as the description which Pliny gives of Domitian.\" (Romans 3:16)"
+        ],
+        "Archibald T. Robertson": [
+            "Destruction (\u03c3\u03c5\u03bd\u03c4\u03c1\u03b9\u03bc\u03bc\u03b1). Rare word from \u03c3\u03c5\u03bd\u03c4\u03c1\u03b9\u03b2\u03c9, to rub together, to crush.",
+            "Misery (\u03c4\u03b1\u03bb\u03b1\u03b9\u03c0\u03c9\u03c1\u03b9\u03b1). Common word from \u03c4\u03b1\u03bb\u03b1\u03b9\u03c0\u03c9\u03c1\u03bf\u03c2 (Romans 7:24).",
+            "Only here in N.T."
+        ],
+        "John Gill": [
+            "All the ways they take, and methods they pursue, are to make their fellow creatures miserable, to ruin and destroy them.",
+            "By their sinful ways and vicious course of life, they themselves are brought to destruction and misery.",
+            "The end of it, what it issues in, is eternal death, the destruction of the body and soul in hell, which will be attended with endless and inexpressible misery."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Destruction and misery are the path of the wicked, as they know nothing of peace and instead leave a trail of ruin and calamity. The word used for destruction implies a shattering, a breaking apart, while misery denotes a state of great distress. This description is not only relevant to the wicked of the past, but holds true for all times. Their wickedness is like a ferocious and barbarous force that destroys everything in its wake, resulting in solitude and desolation. They seek to make others miserable, to bring about ruin and destruction. However, their sinful ways lead them to their own destruction and bring upon themselves endless and indescribable misery, culminating in eternal death.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.9409386084145313,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                25.51,
+                41.31,
+                33.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The path of the wicked is marked by destruction and misery, lacking any knowledge of peace. Their actions scatter mischief and misery instead of fostering harmony. The word destruction conveys a sense of shattering and breaking apart, while misery signifies great distress and calamity. This description not only applies to the wicked throughout history but is always relevant. They inflict a ferocious and barbarous nature upon others, leading to desolation and solitude. Their goal is to bring ruin and misery to others, ultimately resulting in their own downfall and eternal suffering.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8390154118543132,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.49,
+            "commentatorTierSimilarities": [
+                26.29,
+                40.94,
+                32.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wicked leave a path of destruction and misery in their wake, as they have no concept of peace. Their actions bring about ruin and misery, rather than fostering tranquility. This is characterized by a shattering and breaking apart, as well as great distress and calamity. Such behavior is not limited to a specific time but is characteristic of wickedness in all eras. Their ferocity and barbarity result in desolation and waste, causing immense suffering for themselves and others, ultimately leading to eternal death and endless misery.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7708533111658085,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.22,
+            "commentatorTierSimilarities": [
+                24.75,
+                41.89,
+                33.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wicked, in their relentless pursuit of destruction, sow misery and chaos in their wake. They are oblivious to the way of peace, only knowing how to fracture and shatter. Their actions reflect a savage and brutal nature that leaves nothing but ruin and desolation. Their sole purpose is to bring others to their knees, inflicting suffering and destruction. Yet, in their wickedness, they ultimately meet their own demise, facing eternal death and unimaginable misery.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8398909842872944,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                26.28,
+                40.21,
+                33.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wicked scatter misery and destruction, oblivious to the path of peace. They leave behind a trail of ruin and calamity, shattering and breaking apart everything they touch. This ferocious and barbarous nature results in desolation and waste, resembling the description of Domitian. Through their sinful ways, they bring destruction and misery to themselves and others. Their ultimate end is eternal death, accompanied by indescribable and endless suffering in the depths of hell.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8617177116095025,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+            "commentatorTierSimilarities": [
+                25.87,
+                38.43,
+                35.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

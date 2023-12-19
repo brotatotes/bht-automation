@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:57:36",
+    "verseRef": "1 Thessalonians 1:1",
+    "bestBHT": {
+        "bht": "The letter to the Thessalonians is addressed to the church, emphasizing the close relationship between the believers and God. The apostle Paul, along with Silvanus and Timothy, holds the esteemed position of being among the brethren and prophets. The brevity of the inscription indicates the reverence and honor shown to Paul's teachings by the Thessalonians, as controversies were absent. The salutation of grace and peace reflects the believers' desire for favor and tranquility from God, in contrast to the secular peace withheld by the world.",
+        "wordCount": 86,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 2.1141689161539343,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+        "commentatorTierSimilarities": [
+            29.43,
+            33.44,
+            37.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Silvanus is placed before Timothy...as being one 'chief among the brethren' and a prophet.",
+            "unto the church...So in 2 Thess., Gal., 1 and 2 Cor.: in the other Epistles...more generally, e.g.,\u2014 'to all that are in Rome, beloved of God, called to be saints.'",
+            "Grace and peace from God be unto you, that you who are deprived of human favour and secular peace, may have both these with God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "An undesigned propriety in the Epistles, evincing genuineness.",
+            "So realizing was their Christian faith, that they were able hourly to look for the Lord Jesus.",
+            "Grace be unto you, and peace\u2014that ye may have in God that favor and peace which men withhold [ANSELM]."
+        ],
+        "Albert Barnes": [
+            "Silvanus, or Silas, and Timothy were properly united with him on this occasion, because they had been with him when the church was founded there.",
+            "Who are united to the true God and to the Redeemer; or who sustain an intimate relation to the Father and the Lord Jesus. This is strong language, denoting, that they were a true church.",
+            "Grace be unto you,\" etc."
+        ],
+        "Marvin Vincent": [
+            "The address of the first Epistle is shorter than that of any of the Pauline letters.",
+            "Paul's official title; 'Apostle' is omitted in the addresses of both Epistles, although in 1 Thessalonians 2:6 he uses 'apostles,' including Silvanus and Timothy under that title.",
+            "In every case where he is mentioned by name with Silvanus, the name of Silvanus precedes."
+        ],
+        "John Calvin": [
+            "The brevity of the inscription clearly shows that Paul\u2019s doctrine had been received with reverence among the Thessalonians, and that without controversy they all rendered to him the honor that he deserved.",
+            "The ministers of Satan, it is true, had endeavored to trouble this Church also, but it is evident that their machinations were fruitless.",
+            "We may... infer from it, that a Church is to be sought for only where God presides, and where Christ reigns, and that, in short, there is no Church but what is founded upon God, is gathered under the auspices of Christ, and is united in his name."
+        ],
+        "Philip Schaff": [
+            "The omission of the official title Apostle can scarcely be accounted for by supposing that Paul had not yet assumed it, but is due to the affection subsisting between him and his Thessalonian converts, which did not require that he should urge his apostolic authority.\" ",
+            "In God the Father, and the Lord Jesus Christ. At this early period the \u2018Church\u2019 needed some such distinguishing appellation. The former predicate \u2018in God the Father,\u2019 distinguishes it from the Gentile assemblies; the latter, \u2018in the Lord Jesus Christ,\u2019 from the Jewish congregation. In indicates living union and fellowship.",
+            "Grace unto you, and peace. A Christian adaptation and blending of the ordinary Greek and Hebrew salutation. Paul wishes them a participation in God\u2019s undeserved favour, the grace that has brought salvation to men; and in that peace which the Lord bequeathed to His followers, the restored harmony with God and conscience, the equanimity and confidence of God\u2019s children."
+        ],
+        "Archibald T. Robertson": [
+            "No article in the Greek, for both \u03b8\u03b5\u03c9 \u03c0\u03b1\u03c4\u03c1 and \u03ba\u03c5\u03c1\u03b9\u03c9 J\u03b7\u03c3\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9 are treated as proper names.",
+            "In fact, he more frequently applies it to Christ when not quoting the Old Testament as in Romans 4:8.",
+            "Perhaps no one word carries more meaning for Paul's messages than this word \u03c7\u03b1\u03c1\u03b9\u03c2 (from \u03c7\u03b1\u03b9\u03c1\u03c9, rejoice) from which \u03c7\u03b1\u03c1\u03b9\u03b6\u03bf\u03bc\u03b1 comes."
+        ],
+        "John Gill": [
+            "This church is said to be in God the Father; were interested in his love and free favour, as appears by their election of God, 1 Thessalonians 1:4, and they were in the faith of God the Father, as the Father of our Lord Jesus Christ, and in the profession of it...",
+            "They were in fellowship with God the Father, and they were drawn by the efficacy of his grace to himself and to his Son, and were gathered together and embodied in a church state under his direction and influence; he was the author of them as a church, and they were plants of Christ's heavenly Father's planting, not to be plucked up...",
+            "This is the apostle's usual salutation and wish in all his epistles to the churches; 1 Thessalonians 1:4- :..."
+        ],
+        "John Wesley": [
+            "There is a peculiar sweetness in this epistle, unmixed with any sharpness or reproof.",
+            "Paul... writing to pious and simple-hearted men, with the utmost familiarity.",
+            "Those evils which the apostles afterward reproved having not yet crept into the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The letter to the Thessalonians is addressed to the church, emphasizing the close relationship between the believers and God. The apostle Paul, along with Silvanus and Timothy, holds the esteemed position of being among the brethren and prophets. The brevity of the inscription indicates the reverence and honor shown to Paul's teachings by the Thessalonians, as controversies were absent. The salutation of grace and peace reflects the believers' desire for favor and tranquility from God, in contrast to the secular peace withheld by the world. The Thessalonians' faith was so strong that they constantly anticipated the return of the Lord Jesus. This intimate connection with God is embodied in the word grace, which carries profound significance in Paul's messages. By addressing the church as being in God the Father and the Lord Jesus Christ, Paul emphasizes the living union and fellowship that distinguishes them from both Gentile and Jewish assemblies. This letter exudes a unique sweetness, free from any reproof, as Paul writes with familiarity to these pious and simple-hearted believers.",
+            "wordCount": 174,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 2.113644498734902,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.62,
+            "commentatorTierSimilarities": [
+                27.72,
+                35.11,
+                37.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians were addressed as the church, highlighting their close relationship with God. Paul, Silvanus, and Timothy were esteemed among the brethren and prophets. The brevity of the inscription reveals the reverence and absence of controversies among the Thessalonians towards Paul's teachings. The salutation of grace and peace conveys their longing for favor and tranquility from God, in contrast to worldly peace. The Thessalonians' strong faith allowed them to eagerly anticipate the return of the Lord Jesus. This intimate connection is demonstrated by Paul's emphasis on the word grace. The letter bearing no sharpness or reproof shows Paul's familiar and affectionate writing style to these devoted believers.",
+            "wordCount": 110,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.0031959787935483,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.95,
+            "commentatorTierSimilarities": [
+                29.55,
+                32.72,
+                37.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians, referred to as the church, had a close connection with God. Paul, Silvanus, and Timothy were esteemed among the brethren and prophets. The absence of controversies and the brevity of the inscription demonstrate the respect and honor given to Paul's teachings. The salutation of grace and peace reflects their longing for favor from God and contrasts with worldly peace. The Thessalonians' strong faith led them to eagerly await the return of the Lord Jesus. Paul's emphasis on the word grace highlights its significance in his messages. The letter displays Paul's familiar and affectionate writing style to these devoted believers.",
+            "wordCount": 104,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 2.012616463055309,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                30.53,
+                32.29,
+                37.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The letter to the Thessalonians is addressed to the church, emphasizing the close relationship between the believers and God. The apostle Paul, along with Silvanus and Timothy, holds the esteemed position of being among the brethren and prophets. The brevity of the inscription indicates the reverence and honor shown to Paul's teachings by the Thessalonians, as controversies were absent. The salutation of grace and peace reflects the believers' desire for favor and tranquility from God, in contrast to the secular peace withheld by the world.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.1141689161539343,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.64,
+            "commentatorTierSimilarities": [
+                29.43,
+                33.44,
+                37.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians were addressed as the church, highlighting their close relationship with God. Paul, Silvanus, and Timothy were esteemed among the brethren and prophets. The brevity of the inscription reveals the reverence and absence of controversies among the Thessalonians towards Paul's teachings. The salutation of grace and peace conveys their longing for favor and tranquility from God, in contrast to worldly peace. The Thessalonians' strong faith allowed them to eagerly anticipate the return of the Lord Jesus. This intimate connection is demonstrated by Paul's emphasis on the word grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.0062514646827534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                29.49,
+                33.29,
+                37.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:18:57",
+    "verseRef": "Colossians 1:2",
+    "bestBHT": {
+        "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul gives thanks for their faith, hope, and love, as well as their union with God and with one another. The church of Colossae may have been small and seemingly insignificant, but Paul's message concerning the Person of Christ is of utmost importance and has great relevance today. The inscription of the epistle describes believers as holy and faithful, chosen and sanctified in Christ, united with God and their fellow Christians.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.7730232668862462,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+        "commentatorTierSimilarities": [
+            25.71,
+            27.54,
+            46.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On COLOSS\u00c6, or COLAS\u00c6, see Introd.\u00a7ii.\" ",
+            "Grace&c.\" ",
+            "Thanksgiving for the faith, hope, and love of the Colossians, announced to him by Epaphras."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As 'saints' implies union with God, so 'the faithful brethren' implies union with Christian men.\" ",
+            "Supported by some oldest manuscripts, omitted by others of equal antiquity."
+        ],
+        "Albert Barnes": [
+            "Grace be unto you - See the notes at Romans 1:7."
+        ],
+        "Marvin Vincent": [
+            "Fatal to vegetation, these incrustations spread like a stony shroud over the ground. Gleaming like glaciers on the hillside, they attract the eye of the traveler at a distance of twenty miles, and form a singularly striking feature in scenery of more than common beauty and impressiveness.",
+            "To the saints. A mode of address which characterizes Paul 's later epistles. The word is to be taken as a noun, and not construed as an adjective with faithful brethren: to the holy and faithful brethren.",
+            "Our Father. The only instance in which the name of the Father stands in the opening benediction of an epistle without the addition and Jesus Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The church at Colossae was the least important of any to which Paul's epistles were addressed\" (Vincent).",
+            "But he had no greater message for any church than he here gives concerning the Person of Christ.",
+            "There is no more important message today for modern men."
+        ],
+        "John Gill": [
+            "This is the inscription of the epistle, in which the persons wrote unto are described as 'saints', or holy men; not by birth, for all are unholy and unclean by nature; nor by baptism, for that neither takes away sin, nor gives grace; nor merely externally, by an outward reformation; but by separation, being by an act of eternal election set apart for God, for holiness, and happiness.",
+            "And as 'faithful' ones; true and sincere believers in Christ, constant and persevering in the faith of him; faithful to the Gospel, and their profession of it, and to Christ, whose name they bore, and to one another, to whom they stood in the relation of brethren.",
+            "They were saints in him; they were chosen in him, and sanctified in him their head, and received all their holiness from him; they were brethren in him the firstborn of them; his God being their God, and his Father their Father; and had their faith and faithfulness from him, as well as it was exercised towards, and on him."
+        ],
+        "John Wesley": [
+            "The saints-This word expresses their union with God. And brethren \u2014 This, their union with their fellow-Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul gives thanks for their faith, hope, and love, as well as their union with God and with one another. The church of Colossae may have been small and seemingly insignificant, but Paul's message about the Person of Christ is of utmost importance. The inscription of the epistle describes the believers as holy and faithful, chosen and sanctified in Christ. They are united with God and united with their fellow Christians. Today, this message about the identity of Christ remains significant and relevant for all.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.620715561867705,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                27.33,
+                25.36,
+                47.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul gives thanks for their faith, hope, and love, as well as their union with God and with one another. The church of Colossae may have been small and seemingly insignificant, but Paul's message concerning the Person of Christ is of utmost importance and has great relevance today. The inscription of the epistle describes believers as holy and faithful, chosen and sanctified in Christ, united with God and their fellow Christians.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.7730232668862462,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                25.71,
+                27.54,
+                46.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul expressed gratitude for their faith, hope, and love, as well as their union with God and fellow believers. Though the church in Colossae may not have been the most prominent, Paul's message about Christ remains crucial. The inscription of the letter describes believers as holy and faithful, chosen and sanctified in Christ, united with God and their Christian family. This message holds great significance for all people, even today.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.6309479476685884,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                28.46,
+                26.72,
+                44.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul gives thanks for their faith, hope, and love, as well as their union with God and with one another. The church of Colossae may have been small, but Paul's message about the Person of Christ remains of utmost importance. The inscription of the epistle describes believers as holy and faithful, chosen and sanctified in Christ, united with God and their fellow Christians. Today, this message about the identity of Christ remains significant and relevant.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6651762052027101,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                28.02,
+                26.7,
+                45.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Grace and peace to the saints and faithful brethren in Colossae. Paul gives thanks for their faith, hope, and love, as well as their union with God and with one another. The church of Colossae may have been small and seemingly insignificant, but Paul's message concerning the Person of Christ is of utmost importance. The inscription of the epistle describes believers as holy and faithful, chosen and sanctified in Christ. They are united with God and their fellow Christians. Today, this message about the identity of Christ remains significant and relevant for all.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.6199755977501327,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.21,
+            "commentatorTierSimilarities": [
+                27.72,
+                25.74,
+                46.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

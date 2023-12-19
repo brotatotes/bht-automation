@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:14:56",
+    "verseRef": "Luke 4:43",
+    "bestBHT": {
+        "bht": "Jesus felt the urge to go with the work of evangelism to the other cities also, understanding the importance of preaching the kingdom of God to a wider audience. He recognized that duty alone motivated Him to deny the entreaties that were so pleasing to His spirit, emphasizing His role as the great Apostle of God to humanity. His mission extended beyond Capernaum, as His work of spreading the Gospel encompassed all regions, not just a select few.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.6972848683970252,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+        "commentatorTierSimilarities": [
+            44.01,
+            0.0,
+            55.99
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "43. I must, &amp;c.\u2014but duty",
+            "\tonly could move Him to deny entreaties so grateful to His spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus felt the urge to go with the work of evangelism 'to the other cities also,' to all, not to a favoured few.",
+            "Christ is the great Apostle of God to men.",
+            "Jesus felt the urge to go with the work of evangelism 'to the other cities also,' to all, not to a favoured few."
+        ],
+        "John Gill": [
+            "I must preach the kingdom of God to other cities also; as well as to Capernaum.",
+            "A principal part of his work lay in preaching the things concerning the kingdom of God.",
+            "There was a necessity upon him to preach them in other cities of Galilee and Judea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, as the great Apostle of God, felt a strong duty to spread the Gospel message to all people, not just a select few. Despite the entreaties of the people in Capernaum, Jesus knew that it was necessary for Him to go to other cities and proclaim the kingdom of God. His mission was not limited to one place, but extended to all regions, showing His dedication to the work of evangelism.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.6295419680695817,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                40.35,
+                0.0,
+                59.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, as the great Apostle of God, felt a strong duty to spread the Good News to all, not just a favored few. He was urged to go to other cities as well, not being content with staying in Capernaum. His mission was to preach the kingdom of God to other cities, fulfilling the work that lay before Him. His commitment to evangelism compelled Him to move beyond one place, embracing the call to reach out to all regions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.5969285323751217,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                38.48,
+                0.0,
+                61.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus felt the urge to go with the work of evangelism to the other cities also, understanding the importance of preaching the kingdom of God to a wider audience. He recognized that duty alone motivated Him to deny the entreaties that were so pleasing to His spirit, emphasizing His role as the great Apostle of God to humanity. His mission extended beyond Capernaum, as His work of spreading the Gospel encompassed all regions, not just a select few.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.6972848683970252,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                44.01,
+                0.0,
+                55.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, recognizing His duty as the great Apostle of God, felt compelled to spread the work of evangelism to all people and cities, not just a favored few. Despite the appealing entreaties He received, His inner urge led Him to prioritize the preaching of the kingdom of God to a wider audience. The necessity of His mission went beyond one location, as He understood the importance of sharing the Gospel message in other cities of Galilee and Judea.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.675466024510509,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.05,
+            "commentatorTierSimilarities": [
+                39.91,
+                0.0,
+                60.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, as the great Apostle of God, felt a strong duty to spread the Gospel message to all people, not just a select few. Despite the entreaties of the people in Capernaum, Jesus knew that it was necessary for Him to go to other cities and proclaim the kingdom of God. His mission was not limited to one place, but extended to all regions, showing His dedication to the work of evangelism.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.6295419680695817,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                40.35,
+                0.0,
+                59.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

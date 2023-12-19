@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:10:36",
+    "verseRef": "1 Corinthians 10:7",
+    "bestBHT": {
+        "bht": "The Corinthians are warned against the peril of idolatry, as exemplified by the Israelites' feasting and play during the worship of the golden calf. They must not yield to the temptation of idol worship or become idolaters themselves. The association of lasciviousness with idolatry emphasizes the importance of remaining steadfast in avoiding such practices. This caution is given to prevent them from succumbing to the influence of those who lead them astray and to safeguard them from the pollution and punishment that comes with idolatry.",
+        "wordCount": 85,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 2.025894737234723,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+        "commentatorTierSimilarities": [
+            34.24,
+            29.35,
+            36.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notice, that all four of these were brought about by the lusting after evil things, not distinct from it.",
+            "The Israelites are recorded to have sat down and eaten and drunken at the idol feast of the golden calf in Horeb: the very temptation to which the Corinthians were too apt to yield.",
+            "And as the Israelites were actually idolaters, doing this as an act of worship to the image: so the Corinthians were in danger of becoming such, and the Apostle therefore puts the ease in the strongest way, neither be (literally, become) ye idolaters."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the Israelites sat down (a deliberate act), ate, and drank at the idol feast to the calves in Horeb, so the Corinthians were in danger of idolatry by a like act.\" ",
+            "He passes here from the first to the second person, as they alone (not he also) were in danger of idolatry.",
+            "The multitude follow the lead of some bad men."
+        ],
+        "Albert Barnes": [
+            "Neither be ye idolaters...The particular idolatry which is referred to here is, the worship of the golden calf that was made by Aaron.",
+            "The people sat down to eat and to drink... They partook of a feast in honor of that idol.",
+            "...engaged in dances accompanied with music, in honor of an idol...It was, however, the fact that such worship was usually accompanied with much licentiousness."
+        ],
+        "Marvin Vincent": [
+            "To play [\u03c0\u03b1\u03b9\u03b6\u03b5\u03b9\u03bd]. The merrymaking generally which followed the feast, not specially referring to the dancing at the worship of the golden calf.\" ",
+            "Lasciviousness was habitually associated with idol-worship. The two are combined...\" ",
+            "A plain discrepancy between this statement and Numbers 25:9, where the number is twenty-four thousand. It may have been a lapse of memory."
+        ],
+        "John Calvin": [
+            "Hence feasting and play were two appendages of idolatry.",
+            "He intimates, in short, that no part of idolatry can be touched without contracting pollution.",
+            "Those will not escape punishment from the hand of God, who defile themselves with the outward tokens of idolatry."
+        ],
+        "Philip Schaff": [
+            "Neither be ye idolaters, as were some of them; as it is written (Exodus 32:6), The people sat down to eat and drink, and rose up to play.\" ",
+            "The word means to \u2018play\u2019 anyhow; more especially to dance to the sound of music.",
+            "But this case only suggests another, no less appropriate."
+        ],
+        "Archibald T. Robertson": [
+            "Literally, stop becoming idolaters, implying that some of them had already begun to be.\" ",
+            "Eating \u03c4\u03b1 \u03b5\u03b9\u03b4\u03c9\u03bb\u03bf\u03b8\u03c5\u03c4\u03b1 might become a stepping-stone to idolatry in some instances.",
+            "This old verb to play like a child occurs nowhere else in the N.T., but is common in the LXX and it is quoted here from Exodus 32:6."
+        ],
+        "John Gill": [
+            "Neither be ye idolaters... as were some of them... the people sat down to eat and drink, and rose up to play.",
+            "Their sitting down to eat and drink is not to be understood of an ordinary meal, but of a feast kept in honour of the golden calf.",
+            "Some indeed interpret this last action of uncleanness, which they committed after their feast was over... but others understand it of the act of idolatry."
+        ],
+        "John Wesley": [
+            "Neither be ye idolaters \u2014 And so, 'neither murmur ye'.\" ",
+            "The other cautions are given in the first person; but these in the second.",
+            "To play \u2014 That is, to dance, in honour of their idol."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns against the Corinthians becoming idolaters like the Israelites who worshipped the golden calf. Both groups engaged in feasting and play as part of their idolatrous practices. The Corinthians were in danger of following the lead of bad men and succumbing to the temptation of idol worship. Lasciviousness was often associated with idolatry, and playing referred to dancing in honor of the idols. The verse urges them to stop becoming idolaters and avoid the pollution and punishment that comes with idolatry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.097046206612921,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                35.12,
+                31.2,
+                33.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians must heed the warning against becoming idolaters like the Israelites who worshipped the golden calf. Feasting and play were integral to idolatrous practices, with lasciviousness often accompanying them. The Corinthians were susceptible to idolatry, placing them at risk of defilement. The verse urges them to desist from this path to avoid incurring God's punishment.",
+            "wordCount": 57,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9700580504066472,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.85,
+            "commentatorTierSimilarities": [
+                36.98,
+                29.04,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians are cautioned against becoming idolaters similar to the Israelites who indulged in feasting and play during idol worship. The danger lies in following the lead of sinful individuals. Lasciviousness and idolatry often go hand in hand. The Corinthians must be mindful not to participate in these idolatrous practices to avoid defiling themselves and facing divine retribution.",
+            "wordCount": 58,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.9142258643624612,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.99,
+            "commentatorTierSimilarities": [
+                36.37,
+                27.82,
+                35.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians are warned against the peril of idolatry, as exemplified by the Israelites' feasting and play during the worship of the golden calf. They must not yield to the temptation of idol worship or become idolaters themselves. The association of lasciviousness with idolatry emphasizes the importance of remaining steadfast in avoiding such practices. This caution is given to prevent them from succumbing to the influence of those who lead them astray and to safeguard them from the pollution and punishment that comes with idolatry.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 2.025894737234723,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                34.24,
+                29.35,
+                36.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians are warned to avoid becoming idolaters, similar to the Israelites who engaged in feasting and play during the worship of the golden calf. The association between idol worship and lasciviousness is emphasized, indicating the need to remain vigilant in steering clear of such practices. The caution is given to prevent them from being led astray by those who tempt them and to protect them from the contamination and consequences associated with idolatry.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.996959539354334,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                35.09,
+                31.82,
+                33.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 17:29:29",
+    "verseRef": "1 Timothy 5:16",
+    "bestBHT": {
+        "bht": "If any believing woman has widows in her family who are dependent in any way, she should relieve them to prevent burdening the church and to prioritize assistance for widows who are truly in need. The emphasis is on diligence in good works, including the care of the afflicted. It is unreasonable to leave dependent widows to be supported by others when there is an ability to provide for them. Relatives and the church have a responsibility to support poor widows, allowing the church's resources to be used for those who are genuinely in need.",
+        "wordCount": 96,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 2.0444881892926454,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+        "commentatorTierSimilarities": [
+            26.95,
+            37.32,
+            35.73
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any believing [man or] woman has widows (in [his or] her family\u2014dependent in any degree, however distant\u2014e. g. as sister, or sister-in-law, aunt, niece, cousin, &c.), let such person relieve them...\" ",
+            "...and let the church not be burdened (with their support);",
+            "...that it may relieve those who are widows in reality (really widowed\u2014destitute of help)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He now says, If any",
+            "\tbelieving young widow have widows related to her needing support,",
+            "\tlet her relieve them, thereby casing the Church of the burden.",
+            "In order to avoid the evils",
+            "\tof idleness and wantonness, the result of idleness,",
+            "\tthe young widow, who . . . is to be diligent in",
+            "\tgood works, such as 'relieving the afflicted,'",
+            "Let such",
+            "\ta one be burdened with their support."
+        ],
+        "Albert Barnes": [
+            "Christians are often simply called 'believers,' because faith is the leading and most important act of their religion.",
+            "Nothing can be more unreasonable than to leave those who are properly dependent on us to be supported by others, when we are able to maintain them ourselves.",
+            "The passage inculcates the general principle that the poor widows of the church are to be assisted when they have no relatives on whom they can naturally depend."
+        ],
+        "Marvin Vincent": [
+            "Read, if any woman that believeth.",
+            "If any Christian woman have relatives or persons attached to her household who are widows.",
+            "She lived 80 years, 5 months, and 26 days."
+        ],
+        "John Calvin": [
+            "It being customary for every one willingly to throw his own burdens on the whole Church, on this account he expressly enjoins that it be guarded against.\" ",
+            "He speaks of believers who ought to support their widows; for, as to those widows who renounced a wicked relationship, it was proper that they should be received by the Church.\" ",
+            "And if they act a sinful part, who, by sparing themselves, allow the Church to be burdened with expense, let us learn from this in what aggravated sacrilege they are involved, who, by fraud or robbery, profane what was once dedicated to the Church."
+        ],
+        "Philip Schaff": [
+            "Not children or grandchildren only, but any relatives on whom the widow had claims, were to regard it their duty, as members of the Church, to support them.\" ",
+            "The funds of the Church might be applied only to maintain those that were 'widows indeed.'\" ",
+            "The former probably doing the work of deaconesses, the latter set apart for functions analogous to those of the elders."
+        ],
+        "Archibald T. Robertson": [
+            "Believing woman.",
+            "The 'widows' here are the widows dependent on her and who are considered as candidates to be enrolled in the list.",
+            "That are widows indeed (\u03c4\u03b1\u03b9\u03c2 \u03bf\u03bd\u03c4\u03c9\u03c2 \u03c7\u03b7\u03c1\u03b1\u03b9\u03c2)."
+        ],
+        "John Gill": [
+            "Let them relieve them; out of their own substance; which is what the apostle before calls showing piety at home, and requiting their own parents.",
+            "And let not the church be charged; or burdened with the maintenance of them.",
+            "That it may relieve them that are widows indeed; that the church may be in a better capacity, its stock not being expended on others, to supply the wants of those who are really widows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If any believing woman has widows in her family who are dependent in any way, she should relieve them so that the church is not burdened. This is to ensure that those who are widows in reality and truly in need of help can be taken care of by the church. The emphasis here is on the importance of diligence in good works, such as looking after the afflicted. The passage urges believers to support their widows and not leave them to be supported by others when they are able to provide for them. It is the responsibility of relatives and the church to assist poor widows who have no other means of support. By doing so, the church can allocate its resources to maintain those who are genuinely widows in need. The intention is to prevent individuals from shifting their burdens onto the church, and to ensure that the church's funds are devoted to those truly in need.",
+            "wordCount": 160,
+            "quoteTokenProportion": 46.07,
+            "qualityScore": 2.1393939839523015,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.48,
+            "commentatorTierSimilarities": [
+                24.14,
+                36.6,
+                39.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believing women are urged to provide for widows in their family, thereby alleviating the church's burden and allowing it to support those who are truly in need. The focus is on the importance of being diligent in good works and caring for the afflicted. It is unreasonable to leave dependent widows to be supported by others when family members are able to provide for them. This highlights the responsibility of relatives and the church to assist poor widows who have no other means of support, enabling the church to allocate its resources to those who are genuinely in need.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9808387615967589,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                25.97,
+                37.72,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believing women are instructed to relieve widows in their family to alleviate the church's burden and support those who are genuinely in need. Diligence in good works, such as caring for the afflicted, is emphasized. Leaving dependent widows to be supported by others when able to provide for them is deemed unreasonable. Relatives and the church must fulfill their duty to assist poor widows who lack support, ensuring that the church's resources are directed towards those who are truly in need.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.042909227781717,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                26.67,
+                37.18,
+                36.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believing women should take care of dependent widows in their family to prevent burdening the church and prioritize support for those truly in need. Diligence in good works, such as providing for the afflicted, is emphasized. It is unreasonable to leave widows with no support, relying on others when the capability to maintain them exists. Relatives and the church have a responsibility to assist poor widows, allowing the church's resources to be allocated efficiently towards those genuinely in need.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9867926266429405,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                26.24,
+                37.76,
+                36.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If any believing woman has widows in her family who are dependent in any way, she should relieve them to prevent burdening the church and to prioritize assistance for widows who are truly in need. The emphasis is on diligence in good works, including the care of the afflicted. It is unreasonable to leave dependent widows to be supported by others when there is an ability to provide for them. Relatives and the church have a responsibility to support poor widows, allowing the church's resources to be used for those who are genuinely in need.",
+            "wordCount": 96,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0444881892926454,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.32,
+            "commentatorTierSimilarities": [
+                26.95,
+                37.32,
+                35.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

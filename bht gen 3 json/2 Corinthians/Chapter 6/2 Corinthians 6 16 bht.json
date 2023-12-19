@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:16:51",
+    "verseRef": "2 Corinthians 6:16",
+    "bestBHT": {
+        "bht": "As believers, we are the temple of the living God, and He promised to dwell in us and walk among us. This reveals the necessity of separating ourselves from the sinful world and not engaging in its ways. By being the temple of God, we have the privilege of experiencing His presence and receiving His blessings. This verse highlights the unity and connection between the Christian Church and the true church of Israel. It demonstrates the deep relationship between God and His chosen people, portraying the essence of the gospel covenant.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.945576867934903,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+        "commentatorTierSimilarities": [
+            27.98,
+            36.42,
+            35.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "for ye are... the temple of God.\" ",
+            "The necessity of separation from the heathen enforced by another citation.",
+            "The citation continues, setting forth the blessings promised to those who do thus come out from heathendom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the temple of God\u2014that is, you believers",
+            "God's dwelling in the body and soul of saints may be illustrated by its opposite, demoniacal possession of body and soul.",
+            "they shall be to me a people."
+        ],
+        "Albert Barnes": [
+            "It is as absurd for Christians to mingle with the infidel world as it would be to erect the image of a pagan god in the temple of Yahweh.",
+            "For Christians to mingle with the sinful world; to partake of their pleasures, pursuits, and follies, is as detestable and hateful in the sight of God as if his temple were profaned by erecting a deformed, and shapeless, and senseless block in it as an object of worship.",
+            "As God dwells with his people, they ought to be separated from a sinful and polluted world."
+        ],
+        "Marvin Vincent": [
+            "Agreement [\u03c3\u03c5\u03b3\u03ba\u03b1\u03c4\u03b1\u03b8\u03b5\u03c3\u03b9\u03c2] . Only here in the New Testament.",
+            "Ye are. Read, as Rev., we are.",
+            "Paul treats it as if directly affirmed of the christian Church, thus regarding that Church as spiritually identical with the true church of Israel."
+        ],
+        "John Calvin": [
+            "It is a sacrilegious profanation when an idol or any idolatrous service is introduced into the temple of God. Now we are the true temples of God. Hence it is sacrilege to defile ourselves with any contamination of idols.",
+            "God cannot dwell among us, without dwelling in each one of us... it means rather that he has his abode in our hearts.",
+            "The Apostle takes it for granted, that God dwells nowhere but in a sacred place. If we say of a man, 'he dwells here,' that will not make the place a temple; but as to God there is this peculiarity, that whatever place he honors with his presence, he at the same time sanctifies."
+        ],
+        "Philip Schaff": [
+            "We are the temple of the living God- not only in contrast with the dead idols in the heathen temples, but to express the living character of the temple itself.\" ",
+            "No language, surely, could more emphatically express the radical contrast between 'believers' and 'unbelievers' than this.",
+            "The first person plural, not the second, is the true reading here."
+        ],
+        "Archibald T. Robertson": [
+            "For we are the temple of the living God.\" ",
+            "A paraphrase and catena of quotations.",
+            "As God said, 'I will dwell in them.'"
+        ],
+        "John Gill": [
+            "No more than the ark of the Lord had with Dagon, or Dagon with the ark; which when brought into his temple, and set by him, the idol fell down, and part of him was broke to pieces.",
+            "The church of Christ may be compared to the temple also, for the firmness of its foundations and pillars; Christ is the foundation of his church, and that itself is the pillar and ground of truth.",
+            "His special people, loved by him with a peculiar love, on whom he bestows peculiar blessings; and who are made a willing people, willing to be his people by powerful grace, and are formed for himself, his service, and glory."
+        ],
+        "John Wesley": [
+            "If God would not endure idols in any part of the land wherein he dwelt, how much less, under his own roof!",
+            "I will dwell in them, and walk in them \u2014 The former signifying his perpetual presence; the latter, his operation.",
+            "And I will be to them a God, and they shall be to me a people \u2014 The sum of the whole gospel covenant."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For we are the temple of the living God, and as God said, I will dwell in them and walk among them, and I will be their God, and they shall be my people. This passage emphasizes the need for believers to separate themselves from the sinful world and not partake in its ways. It likens the dwelling of God within the believers to the possession of the saints by God, contrasting it with demoniacal possession. By being the temple of God, believers have the privilege of experiencing God's presence and blessings. The mention of agreement underscores the unity and identification of the Christian Church with the true church of Israel. Ultimately, this verse encapsulates the essence of the gospel covenant, showing the intimate and reciprocal relationship between God and His people.",
+            "wordCount": 133,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.0008308233669396,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.87,
+            "commentatorTierSimilarities": [
+                29.12,
+                37.62,
+                33.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For we are the temple of the living God, and as God said, I will dwell in them and walk among them, and I will be their God, and they shall be my people. This emphasizes the need for believers to separate themselves from the sinful world. By being the temple of God, believers have the privilege of experiencing God's presence and blessings. The mention of agreement underscores the unity and identification of the Christian Church with the true church of Israel. This verse encapsulates the essence of the gospel covenant, showing the intimate relationship between God and His people.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0148502885476143,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                30.07,
+                37.46,
+                32.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As believers, we are the temple of the living God, and He promised to dwell in us and walk among us. This reveals the necessity of separating ourselves from the sinful world and not engaging in its ways. By being the temple of God, we have the privilege of experiencing His presence and receiving His blessings. This verse highlights the unity and connection between the Christian Church and the true church of Israel. It demonstrates the deep relationship between God and His chosen people, portraying the essence of the gospel covenant.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.945576867934903,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.03,
+            "commentatorTierSimilarities": [
+                27.98,
+                36.42,
+                35.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As believers, we are the temple of the living God. This highlights the need for separation from the heathen and the blessings promised to those who come out from heathendom. God's dwelling in us parallels the opposite, which is demoniacal possession. The passage shows the spiritual identity between the Christian Church and the true church of Israel. By dwelling in us and walking among us, God establishes His perpetual presence and operation, revealing the beautiful and reciprocal relationship between Him and His people in the gospel covenant.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9279198534128992,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                32.88,
+                35.79,
+                31.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For we are the temple of the living God, and as God said, I will dwell in them and walk among them, and I will be their God, and they shall be my people. This emphasizes the need for believers to separate themselves from the sinful world. By being the temple of God, believers have the privilege of experiencing God's presence and blessings. The mention of agreement underscores the unity and identification of the Christian Church with the true church of Israel. This verse encapsulates the essence of the gospel covenant, showing the intimate relationship between God and His people.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0148502885476143,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                30.07,
+                37.46,
+                32.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

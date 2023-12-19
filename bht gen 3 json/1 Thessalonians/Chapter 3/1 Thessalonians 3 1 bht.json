@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:59:06",
+    "verseRef": "1 Thessalonians 3:1",
+    "bestBHT": {
+        "bht": "Because of our earnest love for you, we could no longer contain our yearning desire to see or hear from you. Thus, we thought it good to be left behind alone in Athens, even though it was a great personal inconvenience. This decision reflected our rare affection and anxious desire, demonstrating our ardent and longing desire to be reunited with you. We were willing to be without our companions, Silas and Timothy, in the hope of receiving news about our dear friends in Thessalonica.",
+        "wordCount": 84,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 1.7396010648344333,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+        "commentatorTierSimilarities": [
+            32.39,
+            34.36,
+            33.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wherefore, because of our affection for you just expressed; the narration which follows is the proof of his affection for them.\" ",
+            "being no longer able to forbear (our continued absence from communication with you), we (I Paul, from above, ch. ii. 18) thought it good (i. e. \u2018it was our pleasure\u2019) to be left behind (see Acts xvii. 15, 16) alone in Athens,\" ",
+            "We thought it good to be left behind alone in Athens."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Wherefore\u2014because of our",
+            "\tearnest love to you.",
+            "When we could no longer contain ourselves in our yearning desire for you.",
+            "Thus the history, Acts 17:14; Acts 17:15, accords with the",
+            "\tEpistle."
+        ],
+        "Albert Barnes": [
+            "When I could not, for there is every evidence that Paul refers to himself only though he uses the plural form of the word.",
+            "It means that he could no longer bear up under, hide, or suppress his impatience in regard to them - his painful emotions - his wish to know of their state; and he therefore sent Timothy to them.",
+            "Why he did not himself return to Thessalonica, is not stated. It is evidently implied here that it was a great personal inconvenience for him thus to part with Timothy, and to remain alone at Athens, and that he evinced the strong love which he had for the church at Thessalonica by being willing to submit to it."
+        ],
+        "Marvin Vincent": [
+            "He means that his longing for some personal communication from the Thessalonians became intolerable.",
+            "To be left - alone [\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c6\u03b8\u03b7\u03bd\u03b1\u03b9 - \u03bc\u03bf\u03bd\u03bf\u03b9] . Implying, as we sent (ver. 2) and I sent (ver. 5), the previous presence of Timothy with him at Athens."
+        ],
+        "John Calvin": [
+            "He chose rather to be left alone than that they should be deserted.",
+            "It is therefore a token of rare affection and anxious desire that he does not refuse to deprive himself of all comfort, with the view of relieving the Thessalonians.",
+            "A prompt disposition, proceeding from a ready mind."
+        ],
+        "Philip Schaff": [
+            "Wherefore. Because of our vehement but thwarted desire to see you.",
+            "When the longing to see or at least to hear of you became uncontrollable.",
+            "The apostle\u2019s desire to hear of his friends there being stronger even than his desire for Timothy\u2019s company."
+        ],
+        "John Gill": [
+            "That ardent and longing desire of seeing them again, expressed in the latter part of the preceding chapter; which was as fire in their bones, and was retained with great pain and uneasiness; but now they could hold it no longer...",
+            "He chose rather to be left alone at Athens, disputing with the unbelieving Jews, and Heathen philosophers of the Epicurean and Stoic sects, sustaining all their scoffs and jeers alone...",
+            "He was content to be without his useful companions, Silas and Timothy, who might have been assisting to him at Athens, in hope of hearing of his dear friends at Thessalonica."
+        ],
+        "John Wesley": [
+            "We \u2014 Paul and Silvanus.",
+            "Could bear no longer \u2014 Our desire and fear for you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because of our earnest love for you, we could no longer contain ourselves in our yearning desire to see or hear from you. Thus, we thought it good to be left behind alone in Athens, even though it was a great personal inconvenience for us. We chose to be deprived of all comfort in order to relieve you. This decision was a token of our rare affection and anxious desire. It was a prompt disposition that stemmed from a ready mind, reflecting our ardent and longing desire to see you again. Though we could have had the assistance of our companions Silas and Timothy, we were content to bear it alone in the hope of hearing about our dear friends in Thessalonica.",
+            "wordCount": 122,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 1.6267493083030424,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.43,
+            "commentatorTierSimilarities": [
+                30.37,
+                33.72,
+                35.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because of our earnest love for you, we could no longer contain ourselves in our yearning desire to see or hear from you. Thus, we thought it good to be left behind alone in Athens, even though it was a great personal inconvenience for us. We chose to be deprived of all comfort to relieve you, a token of our rare affection and anxious desire. This decision reflected our ardent and longing desire to see you again, and though we could have had the assistance of our companions Silas and Timothy, we were content to bear it alone in the hope of hearing about our dear friends in Thessalonica.",
+            "wordCount": 109,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.7719733826764075,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                31.26,
+                34.79,
+                33.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Due to our earnest love for you, we could no longer contain our yearning desire to see or receive communication from you. Therefore, we found it good to be left behind alone in Athens, despite the inconvenience it caused us. This decision demonstrated our rare affection and anxious desire to relieve you. It reflected our strong longing to see you again, even at the expense of being without our companions Silas and Timothy, as we hoped to receive news from our dear friends in Thessalonica.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7055599739854945,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                35.42,
+                33.45,
+                31.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because of our earnest love for you, we could no longer contain our yearning desire to see or hear from you. Thus, we thought it good to be left behind alone in Athens. It was a great personal inconvenience, but we were willing to bear it to relieve you. This decision demonstrated our rare affection and anxious desire, reflecting our strong longing to be reunited with you. We were content to be without our companions, Silas and Timothy, in the hope of receiving news about our dear friends in Thessalonica.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.65802323779713,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "commentatorTierSimilarities": [
+                33.55,
+                33.46,
+                33.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because of our earnest love for you, we could no longer contain our yearning desire to see or hear from you. Thus, we thought it good to be left behind alone in Athens, even though it was a great personal inconvenience. This decision reflected our rare affection and anxious desire, demonstrating our ardent and longing desire to be reunited with you. We were willing to be without our companions, Silas and Timothy, in the hope of receiving news about our dear friends in Thessalonica.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7396010648344333,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.18,
+            "commentatorTierSimilarities": [
+                32.39,
+                34.36,
+                33.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

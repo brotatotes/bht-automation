@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:26:53",
+    "verseRef": "Acts 5:31",
+    "bestBHT": {
+        "bht": "God's role as the DOER is evident in exalting Jesus as both a Prince and a Savior. Jesus, the King and Captain of Israel, dispenses spiritual blessings and lays the foundation for repentance and the forgiveness of sins. His exaltation signifies His kingly dignity and the obedience owed to Him. Through the preaching of the gospel, Jesus brings about a change of heart and grants forgiveness to repenting sinners. It is God alone who forgives sins, making Jesus the able and willing Savior.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.112325993083541,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+        "commentatorTierSimilarities": [
+            20.86,
+            40.13,
+            39.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great aim here, as there, is to set forth God as the DOER of all this.",
+            "Jesus was to be King and Captain of Israel, and also their Saviour.",
+            "They were God\u2019s witnesses, in the things which they had seen and heard as men: the Holy Ghost in them was God\u2019s Witness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Prince and a Saviour\u2014the first word expressing that Royalty which all Israel looked for in Messiah, the second the Saving character of it which they had utterly lost sight of.",
+            "Each of these features in our Lord's work enters into the other, and both make one glorious whole.",
+            "How gloriously is Christ here exhibited; not, as in other places, as the Medium, but as the Dispenser of all spiritual blessings!"
+        ],
+        "Albert Barnes": [
+            "He hath God exalted...to be a Prince...denotes that he has 'dominion' and 'power,' especially the power which is needful to give repentance and the pardon of sins.",
+            "His exaltation is evidence that his work was accepted, and that thus a foundation is laid by which repentance is available, and may be connected with pardon.",
+            "The sinner is dependent on him for the exercise of repentance, and for forgiveness...the proud sinner must be humbled at his feet."
+        ],
+        "Marvin Vincent": [
+            "Prince. See on ch. Acts 3:15. ",
+            "Repentance - remission. See on Matthew 3:2; James 5:15; Luke 3:3."
+        ],
+        "John Calvin": [
+            "Christ, which was slain by the hand of men, was lifted up on high by the power of God, that he might bear rule over angels and men.",
+            "Christ is placed in the highest degree of honor, that he may govern the people of God, and not that only, but that he may show himself to be a saving captain, or the author of salvation.",
+            "Repentance is, I grant, a voluntary conversion, but whence have we this will, save only because God changeth our heart, that it may be made fleshy of a stony heart; flexible, of hard and stubborn; and, finally, righteous of wicked."
+        ],
+        "Philip Schaff": [
+            "That same Jesus whom you slew and hanged on the cross of shame and agony, hath the God of your fathers exalted to His right hand, to be a Prince, thus describing His kingly dignity a Prince to whom all Israel owes obedience.\" ",
+            "By the preaching of the gospel He brought men to a change of heart (repentance), and then through faith in Him, which came with their change of heart, He made them sharers in His forgiveness of sins.\" ",
+            "One of the objects of this book of the \u2018Acts\u2019 is to show how the apostles of an exclusive nation developed into the Christian missionaries whose message was to a world."
+        ],
+        "Archibald T. Robertson": [
+            "Exalt...Peter repeats his charges with increased boldness.",
+            "With his right hand...or even 'to his right hand' as in Acts 2:33.",
+            "Prince and Saviour...Clearly 'Prince' here."
+        ],
+        "John Gill": [
+            "He is exalted to the highest heavens, and placed in human nature at the right hand of God, on the same throne with him, crowned with glory and honour.",
+            "He is an able and willing, a suitable and an only Saviour.",
+            "The manifestations and applications of pardoning grace are only made to repenting sinners; and there are none that truly, and in an evangelical way, repent of sin, but who have some views, or, at least, hopes of pardoning grace."
+        ],
+        "John Wesley": [
+            "Him hath God exalted \u2014 From the grave to heaven; to give repentance - Whereby Jesus is received as a Prince; and forgiveness of sins - Whereby he is received as a Saviour.",
+            "Hence some infer, that repentance and faith are as mere gifts as remission of sins.",
+            "Not so: for man co-operates in the former, but not in the latter. God alone forgives sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through this verse, we see God's active role in exalting Jesus as both a Prince and a Savior. Jesus, the King and Captain of Israel, is the Dispenser of all spiritual blessings, and by His work, a foundation is laid for repentance and the pardon of sins. The exaltation of Jesus signifies His kingly dignity and the obedience owed to Him by all of Israel. Through the preaching of the gospel, Jesus brings about a change of heart and grants forgiveness of sins to those who repent and have faith in Him. Ultimately, the manifestations and applications of pardoning grace are only made to repenting sinners, and it is God who forgives sins.",
+            "wordCount": 114,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.1758486877672256,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                19.85,
+                41.74,
+                38.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God's role as the DOER is evident in exalting Jesus as both a Prince and a Savior. Jesus, the King and Captain of Israel, dispenses spiritual blessings and lays the foundation for repentance and the forgiveness of sins. His exaltation signifies His kingly dignity and the obedience owed to Him. Through the preaching of the gospel, Jesus brings about a change of heart and grants forgiveness to repenting sinners. It is God alone who forgives sins, making Jesus the able and willing Savior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.112325993083541,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                20.86,
+                40.13,
+                39.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's role as the DOER is evident in exalting Jesus as both a Prince and a Savior. Jesus, the King and Captain of Israel, dispenses spiritual blessings and lays the foundation for repentance and the forgiveness of sins. His exaltation signifies His kingly dignity and the obedience owed to Him. Through the preaching of the gospel, Jesus brings about a change of heart and grants forgiveness to repenting sinners. It is God alone who forgives sins, making Jesus the able and willing Savior.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.112325993083541,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                20.86,
+                40.13,
+                39.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God exalts Jesus as a Prince and a Savior, the Dispenser of spiritual blessings. Jesus, the King and Captain of Israel, brings about repentance and forgiveness of sins through the preaching of the gospel. This exaltation signifies His kingly dignity, and obedience is owed to Him by all. The act of forgiving sins belongs solely to God. Repenting sinners are recipients of pardoning grace, as they experience a change of heart and have faith in Jesus as their Savior.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.0707965596169107,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                21.09,
+                40.31,
+                38.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God exalts Jesus to be a Prince and a Savior, displaying His kingly dignity and the saving character of His work. Through the preaching of the gospel, Jesus brings about repentance and the forgiveness of sins. It is God alone who forgives sins, and repenting sinners receive manifestations of His pardoning grace. Jesus, as the Dispenser of all spiritual blessings, is gloriously exhibited in His role as the Medium and the Giver of blessings. His exaltation establishes His authority, and Israel owes Him obedience as their Prince.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.1018037550674133,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.23,
+            "commentatorTierSimilarities": [
+                22.29,
+                40.07,
+                37.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

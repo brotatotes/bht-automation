@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:12:58",
+    "verseRef": "Luke 1:27",
+    "bestBHT": {
+        "bht": "Mary, the mother of Jesus, was betrothed to Joseph, of the house of David. While not explicitly mentioned in the Gospels, it is implied in Scripture, and has been the general Christian belief. The oneness in their marriage should be considered, allowing Mary to be reckoned as that which her husband was. Betrothal was a serious commitment, lasting a year, with unfaithfulness being punishable by death. This highlights the significance of Mary being a pure and faithful virgin, as it was necessary for the promised Son of David to be born from his lineage.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.028165356684945,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+        "commentatorTierSimilarities": [
+            41.05,
+            35.08,
+            23.87
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That Mary was so, is nowhere expressed in the Gospels, but seems to be implied in ver. 32, and has been the general belief of Christians.",
+            "The Son of David was to be the fruit of his body (Ps. cxxxii. 11); which He would not be, unless His virgin mother was of the house of David.",
+            "Still, we must remember the absolute oneness in the marriage relation, which might occasion that Mary herself should be reckoned as being in very deed that which her husband was. Perhaps this has been hardly enough taken into account."
+        ],
+        "Albert Barnes": [
+            "To a virgin espoused ... - See the notes at Matthew 1:18-19. Compare the notes at Isaiah 7:14.",
+            "House of David - Family of David, or descendants of David."
+        ],
+        "Philip Schaff": [
+            "Of the house of David. These words refer to Joseph alone, in this instance; but that Mary was also \u2018of the house of David,\u2019 seems to be implied in Luke 1:32, and has been the general belief of Christians."
+        ],
+        "Archibald T. Robertson": [
+            "Betrothed (\u03b5\u03bc\u03bd\u03b7\u03c3\u03c4\u03b5\u03c5\u03bc\u03b5\u03bd\u03b7\u03bd). Perfect passive participle. Betrothal usually lasted a year and unfaithfulness on the part of the bride was punished with death (Deuteronomy 23:24). "
+        ],
+        "John Gill": [
+            "A pure virgin, that never knew man.",
+            "They both were of the house and lineage of David.",
+            "Both residing in so despicable a place as Nazareth in Galilee."
+        ],
+        "John Wesley": [
+            "It was customary among the Jews, for persons that married to contract before witnesses some time before.",
+            "And as Christ was to be born of a pure virgin, so the wisdom of God ordered it to be of one espoused.",
+            "That to prevent reproach he might have a reputed father, according to the flesh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, the mother of Jesus, was betrothed to Joseph and was of the house of David, as it was necessary for the promised Son of David to be born from his descendant. Although Mary's lineage is not explicitly stated in the Gospels, it is implied in Luke 1:32 and has been the belief of Christians. It is important to note the oneness in the marriage relation, where Mary herself could be considered as being that which her husband was. The betrothal period, which typically lasted a year, was a serious commitment, and unfaithfulness on the part of the bride was punishable by death.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.1784500137516996,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.77,
+            "commentatorTierSimilarities": [
+                44.58,
+                34.43,
+                21.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary, the mother of Jesus, was betrothed to Joseph, of the house of David. While not explicitly mentioned in the Gospels, it is implied in Scripture, and has been the general Christian belief. The oneness in their marriage should be considered, allowing Mary to be reckoned as that which her husband was. Betrothal was a serious commitment, lasting a year, with unfaithfulness being punishable by death. This highlights the significance of Mary being a pure and faithful virgin, as it was necessary for the promised Son of David to be born from his lineage.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.028165356684945,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                41.05,
+                35.08,
+                23.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary, who was betrothed to Joseph, was of the house of David. Although not explicitly stated in the Gospels, it is implied and widely believed by Christians. The oneness of the marriage relationship should be noted, suggesting that Mary could be considered as being the same as her husband. Betrothal was a serious commitment, lasting a year, and unfaithfulness was punishable by death. Therefore, Mary's purity and faithfulness were essential for the fulfillment of the promised Son of David to be born from her lineage.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9561862287188698,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                41.36,
+                35.8,
+                22.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary, who was betrothed to Joseph, is generally believed to be of the house of David, which is implied in Luke 1:32. The oneness of their marriage should be considered, as Mary could be seen as being that which her husband was. Betrothal was a serious commitment, lasting a year, and unfaithfulness was punishable by death. Mary's purity and faithfulness were crucial, as it was necessary for the promised Son of David to be born from her lineage.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0641025959195156,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                43.5,
+                33.97,
+                22.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, who was betrothed to Joseph, is believed to be of the house of David, as it is implied in Scripture. It is important to recognize the oneness in their marriage, which could have led to Mary being considered the same as her husband. Betrothal was a significant commitment, lasting a year, and unfaithfulness was punishable. Therefore, Mary's purity as a virgin and her faithfulness were crucial for the fulfillment of the promise that the Son of David would be born from her lineage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9606899478653241,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                41.6,
+                35.74,
+                22.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:29:53",
+    "verseRef": "Acts 11:21",
+    "bestBHT": {
+        "bht": "The hand of the Lord was with those preaching the Gospel, displaying God's favor and power in the conversion of the Gentiles. This marked an important recognition of the principles that were subsequently secured. The phrase Turned unto the Lord signifies the Gentiles turning to the true God. The early disciples acknowledged Jesus on the same level as Jehovah, emphasizing the role of faith in restoring people to God's righteousness. Overall, this highlights the significance of God's presence and approval in the spreading of the Gospel.",
+        "wordCount": 89,
+        "quoteTokenProportion": 26.79,
+        "qualityScore": 2.05414560918158,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+        "commentatorTierSimilarities": [
+            38.12,
+            31.56,
+            30.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the hand of the Lord was with them...the Lord shewed it to be His pleasure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The accession of Cornelius and his party was not the first admission of uncircumcised Gentiles into the Church.",
+            "We read of no influence which the accession of Cornelius and his house had on the further progress of the Gospel among the Gentiles.",
+            "The only great object served by the case of Cornelius was the formal recognition of the principles which that case afterwards secured."
+        ],
+        "Albert Barnes": [
+            "And the hand of the Lord - See the notes on Luke 1:66. Compare Psalms 80:17.",
+            "The meaning is, that God showed them favor, and evinced his power in the conversion of their hearers."
+        ],
+        "John Calvin": [
+            "Therefore, as often as we are to intreat of faith, let us always remember this speech, that God wrought by his ministers, and that he made their doctrine effectual by his hand, that is, by the secret inspiration of the Spirit.",
+            "Let the minister attempt nothing trusting to his own wit and industry, but let him commit his labor to the Lord, upon whose grace the whole success dependeth.",
+            "Faith...restoreth men (who were before turned away from God) unto his government, and bindeth them unto his righteousness."
+        ],
+        "Philip Schaff": [
+            "And the hand of the Lord was with them, i.e. those who were preaching the Gospel to new hearers. \u2018The hand of the Lord\u2019 is an oriental expression, and seems to indicate the manifestation of miraculous powers.",
+            "A great number believed. All such terms are relative. At all events, a considerable Christian community was formed rapidly at Antioch, as had been the case at C\u00e6sarea.",
+            "Though C\u00e6sarea was probably first in order of time, Antioch speedily became greater in importance."
+        ],
+        "Archibald T. Robertson": [
+            "The hand of the Lord was with them... It was proof of God's approval of their course in preaching the Lord Jesus to Greeks.",
+            "Turned unto the Lord... The usual expression for Gentiles turning to the true God.",
+            "Here 'Lord' refers to 'the Lord Jesus'... clearly showing that the early disciples put Jesus on a par with Jehovah."
+        ],
+        "John Gill": [
+            "Not only his hand of providence, which brought them thither, and protected them; and his hand of love, grace and mercy, which was upon them... but his hand of power, the same with the arm of the Lord, which when revealed, and made bare, the report of the Gospel is believed.",
+            "The power of God attended their ministry; so that the Gospel preached by them came not in word only, but in power, and it was the power of God unto salvation.",
+            "For not first conversion is here intended, which is not man's work, but God's, and in which God is the agent, and man is passive; but obedience to the ordinances of Christ, as the fruit of faith, is meant."
+        ],
+        "John Wesley": [
+            "And the hand of the Lord \u2014 That is, the power of his Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage from Acts 11:21 emphasizes the presence and approval of God in the preaching and conversion of the Gentiles. It highlights the recognition and acceptance of the principles that the case of Cornelius represented. The hand of the Lord being with them signifies God's favor and manifestation of miraculous powers through their ministry. The phrase Turned unto the Lord refers to the Gentiles turning to the true God, indicating that the early disciples believed Jesus to be on par with Jehovah. This passage reminds us of the vital role that God plays in the success of preaching and the importance of faith in bringing people back to God's righteousness.",
+            "wordCount": 111,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.052616010527104,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                35.31,
+                32.24,
+                32.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The hand of the Lord was with those preaching the Gospel, displaying God's favor and power in the conversion of the Gentiles. This marked an important recognition of the principles that were subsequently secured. The phrase Turned unto the Lord signifies the Gentiles turning to the true God. The early disciples acknowledged Jesus on the same level as Jehovah, emphasizing the role of faith in restoring people to God's righteousness. Overall, this highlights the significance of God's presence and approval in the spreading of the Gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 2.05414560918158,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                38.12,
+                31.56,
+                30.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The hand of the Lord, displaying His favor and miraculous powers, was with those preaching the Gospel to the Gentiles. This demonstrated God's approval of their course and the recognition of the principles the case of Cornelius represented. The Gentiles turned to the true God, indicating that the early disciples regarded Jesus on equal footing with Jehovah. The passage underscores the importance of faith in bringing individuals back to God's righteousness and the profound role God plays in preaching and conversion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.1539594866285166,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                37.42,
+                31.71,
+                30.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The hand of the Lord was with those preaching the Gospel to the Gentiles, showing God's approval and favor. This marks the recognition of the principles represented by the case of Cornelius. The phrase Turned unto the Lord reveals the Gentiles' shift towards the true God, equating Jesus with Jehovah. Faith plays a key role in restoring people to God's righteousness. This passage highlights the importance of God's presence and power in the successful spread of the Gospel.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.9891933501983146,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                37.78,
+                30.4,
+                31.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The hand of the Lord, displaying His favor and miraculous powers, was with those preaching the Gospel to the Gentiles. This demonstrated God's approval of their course and the recognition of the principles represented. The Gentiles turned to the true God, indicating that the early disciples regarded Jesus on equal footing with Jehovah. The passage underscores the importance of faith in bringing individuals back to God's righteousness and the profound role God plays in preaching and conversion.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.1251907632603713,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.0,
+            "commentatorTierSimilarities": [
+                36.91,
+                31.61,
+                31.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

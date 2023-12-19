@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:14:05",
+    "verseRef": "Luke 2:8",
+    "bestBHT": {
+        "bht": "In the fields surrounding Bethlehem, the shepherds kept watch over their flocks during mild weather. This was the time when grass was abundant, and the shepherds would spend the night outdoors, alongside their sheep, to ensure they didn't wander. It was during one such night that these humble shepherds received a divine message announcing the birth of the long-awaited King, the Consolation of Israel. Just as simplicity preceded science, the shepherds were the chosen few who witnessed the arrival of the newborn Messiah before anyone else.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.7910807800601096,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+        "commentatorTierSimilarities": [
+            38.2,
+            25.65,
+            36.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Before this time there would be abundance of grass in the pastures\u2014the spring rains being over.\" ",
+            "But much after it, and till after the autumnal equinox again, the pastures would be comparatively bare.",
+            "On which same day of April, and the 14th of Nisan, He suffered thirty-three years after."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "From about passover time in April until autumn, the flocks pastured constantly in the open fields, the shepherds lodging there all that time. (From this it seems plain that the period of the year usually assigned to our Lord's birth is too late).",
+            "No doubt, like Simeon (Luke 2:25), they were among the waiters for the Consolation of Israel.",
+            "If the shepherds in His immediate neighborhood had the first, the sages from afar had the next sight of the new-born King. Even so still, simplicity first, science next, finds its way to Christ."
+        ],
+        "Albert Barnes": [
+            "Remaining out of doors, under the open sky, with their flocks. This was commonly done. The climate was mild, and, to keep their flocks from straying, they spent the night with them.",
+            "It is probable from this that our Saviour was born before the 25th of December, or before what we call 'Christmas.'",
+            "Matters of moment are clearly revealed; those which 'he' regards as of no importance are concealed."
+        ],
+        "John Calvin": [
+            "First, Christ is revealed but to a few witnesses, and that too amidst the darkness of night.",
+            "Here the reason and wisdom of the flesh must prove to be foolishness; and we must acknowledge, that 'the foolishness of God' excels all the wisdom that exists, or appears to exist, in the world.",
+            "If then we desire to come to Christ, let us not be ashamed to follow those whom the Lord, in order to cast down the pride of the world, has taken, from among the dung of cattle, to be our instructors."
+        ],
+        "Philip Schaff": [
+            "His care is as minute as it is extensive.",
+            "The Saviour was born in the fulness of time, just when He was most needed, and when the Jewish and Gentile world was fully prepared for this central fact and turning-point in history.",
+            "At that season the longest night gives way to the returning sun on his triumphant march, just as Christ appeared in the darkest night of sin and error as the true Light of the world."
+        ],
+        "Archibald T. Robertson": [
+            "The shepherds were making the field their court.",
+            "They were bivouacking by night and it was plainly mild weather.",
+            "In these very pastures David had fought the lion and the bear to protect the sheep."
+        ],
+        "John Gill": [
+            "To the shepherds, the first notice of Christ's birth was given; not to the princes and chief priests, and learned men at Jerusalem, but to weak, mean, and illiterate men; whom God is pleased to choose and call, and reveal his secrets to; when he hides them from the wise and prudent, to their confusion, and the glory of his grace.",
+            "The night was divided into four watches, the even, midnight, cock crowing, and morning; and these kept them, as the Arabic version adds, alternately, some kept the flock one watch, and some another, while the rest slept in the tent, or tower, that was built in the fields for that purpose.",
+            "There were two sorts of cattle with the Jews; there was one sort which they called \u05de\u05d3\u05d1\u05e8\u05d9\u05d5\u05ea, 'the cattle of the wilderness', that lay in the fields; and another sort which they called \u05d1\u05d9\u05d9\u05ea\u05d5\u05ea, 'the cattle of the house', that were brought up at home."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the fields surrounding Bethlehem, the shepherds kept watch over their flocks during mild weather, the grass still abundant from the spring rains. This was a common practice, as the shepherds would spend the night alongside their sheep to prevent them from straying. It was during one of these nights that the shepherds received a heavenly message announcing the birth of the Messiah. Just as simplicity preceded science, the lowly shepherds were the first witnesses to the newborn King, later followed by the wise men. These shepherds were like David, who courageously fought off lions and bears in those very pastures to protect his sheep. They were chosen by God to bear witness to the long-awaited Consolation of Israel, a reminder that God's revelations often defy human expectations and wisdom.",
+            "wordCount": 132,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7470589484043861,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.43,
+            "commentatorTierSimilarities": [
+                37.67,
+                23.99,
+                38.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the fields surrounding Bethlehem, the shepherds kept watch over their flocks during mild weather. This was the time when grass was abundant, and the shepherds would spend the night outdoors, alongside their sheep, to ensure they didn't wander. It was during one such night that these humble shepherds received a divine message announcing the birth of the long-awaited King, the Consolation of Israel. Just as simplicity preceded science, the shepherds were the chosen few who witnessed the arrival of the newborn Messiah before anyone else.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7910807800601096,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                38.2,
+                25.65,
+                36.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the fields surrounding Bethlehem, during mild weather, the shepherds kept watch over their flocks, spending the night outdoors with them. The abundance of grass in the pastures indicated the time of year, a period when the flocks constantly grazed. It was in these very pastures that David had fought off predators to protect his sheep. The lowly shepherds, like David, were chosen by God to be the first witnesses to the birth of the long-awaited Consolation of Israel, preceding even the wise men from afar.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7093255392008153,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                41.97,
+                23.77,
+                34.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the fields surrounding Bethlehem, the shepherds would spend the night amidst mild weather, their flocks grazing in the abundant pastures. David himself had fought off predators in these very pastures to protect his sheep. Chosen by God, the lowly shepherds were the first to witness the birth of the long-awaited Consolation of Israel, preceding even the wise men. Their simplicity preceded science, demonstrating that finding Christ often begins with humble beginnings and an open heart.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6269403170799128,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.44,
+            "commentatorTierSimilarities": [
+                38.02,
+                23.94,
+                38.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During mild weather in the fields surrounding Bethlehem, the shepherds kept watch over their flocks as they grazed on the abundant grass of the pastures. As the shepherds bivouacked by night, it was clear that the weather was mild. In these very pastures, David had once fought off lions and bears to protect his sheep. These lowly shepherds, chosen by God, were the first to witness the birth of the long-awaited Consolation of Israel, preceding even the wise men. Their simple and unassuming presence reminded us of the faithfulness of God to reveal Himself to those who are often overlooked.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.711325305908002,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                39.54,
+                24.44,
+                36.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:31:02",
+    "verseRef": "2 Timothy 2:15",
+    "bestBHT": {
+        "bht": "Strive to present yourself as an approved workman unashamed, rightly laying out the word of the truth. Treat it honestly and fully, in a straightforward manner. Divide the word of truth, giving each hearer what they need, separating it from error, so that its inmost contents may be laid bare. Be a workman who does not disgrace themselves, faithfully performing their duty. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.62,
+        "qualityScore": 1.881621921140864,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+        "commentatorTierSimilarities": [
+            36.43,
+            32.06,
+            31.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Avert them from vain and unprofitable things, approve thine own work, so that it may stand in the day of the Lord.",
+            "Strive to present thyself to God approved, a workman unshamed, rightly laying out the word of the truth.",
+            "One into whom thine own conscience strikes no shame."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be earnest... to show thyself... approved.\" ",
+            "Cutting 'straight' or 'right': the metaphor being from a father... cutting and distributing bread among his children.",
+            "The opposite to 'rightly handling,' or 'dispensing,' is... 'corrupt the word of God.'"
+        ],
+        "Albert Barnes": [
+            "Give diligence...to meet the divine approbation.",
+            "A man faithfully performing his duty, so that when he looks over what he has done, he may not blush.",
+            "The minister of the gospel is to make a proper distribution of that word, adapting his instructions to the circumstances and wants of his hearers."
+        ],
+        "Marvin Vincent": [
+            "To shew thyself approved. A workman whose work does not disgrace him.\" ",
+            "The thought is that the minister of the gospel is to present the truth rightly, not abridging it, not handling it as a charlatan, not making it a matter of wordy strife, but treating it honestly and fully, in a straightforward manner.\" ",
+            "To divide the word of truth, giving to each hearer what he needs: or, to separate it into its proper parts: or, to separate it from error: or, to cut straight through it, so that its inmost contents may be laid bare."
+        ],
+        "John Calvin": [
+            "Do thou study to approve thyself and thy ministry to God.",
+            "Let us therefore be 'workmen' in building the Church, and let us be employed in the work of God in such a manner that some fruit shall be seen.",
+            "He advises Timothy to 'cut aright,' lest, when he is employed in cutting the surface, as unskillful people are wont to do, he leave the pith and marrow untouched."
+        ],
+        "Philip Schaff": [
+            "Study, Strictly, 'be eager, be zealous'.\" ",
+            "Approved, i.e. tried and standing the trial.",
+            "Rightly dividing. The literal meaning, 'cutting straight,' admits obviously of many figurative applications, and the word has been referred accordingly to the work of the sculptor, the road-maker, the carpenter, the ploughman, the carver at table, the sacrificing priest."
+        ],
+        "Archibald T. Robertson": [
+            "Give diligence (\u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03c3\u03bf\u03bd).",
+            "A workman (\u03b5\u03c1\u03b3\u03b1\u03c4\u03b7\u03bd).",
+            "Handling aright (\u03bf\u03c1\u03b8\u03bf\u03c4\u03bf\u03bc\u03bf\u03c5\u03bd\u03c4\u03b1)."
+        ],
+        "John Gill": [
+            "Such who study to please men, are not the servants of Christ; and sometimes those that are approved to and by men, are disapproved of by God and Christ.\" ",
+            "Such who are faithful and diligent ones, 'need not to be ashamed'; such do not cause shame, neither in themselves nor in others.",
+            "To divide the word of truth rightly, is to cut it open, and dissect its several parts, and search and look into the inside and bottom of it, for to find out every truth contained in it, and lay them open to others."
+        ],
+        "John Wesley": [
+            "A workman that needeth not to be ashamed \u2014 Either of unfaithfulness or unskilfulness.",
+            "Rightly dividing the word of truth \u2014 Duly explaining and applying the whole scripture...",
+            "But they that give one part of the gospel to all... have real need to be ashamed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Strive to present yourself as an approved workman without shame, rightly handling and distributing the word of truth. Do not corrupt, abridge, or engage in wordy strife with it, but treat it honestly and fully. Give diligence to dividing the word, giving each hearer what they need, separating it from error, and cutting straight through it. Be a workman who does not disgrace themselves, faithfully performing their duty so that they may not blush when looking over what they have done. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers.",
+            "wordCount": 102,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.9415618170359692,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                35.82,
+                31.6,
+                32.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Strive to present yourself as an approved workman unashamed, rightly laying out the word of the truth. Treat it honestly and fully, in a straightforward manner. Divide the word of truth, giving each hearer what they need, separating it from error, so that its inmost contents may be laid bare. Be a workman who does not disgrace themselves, faithfully performing their duty. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.881621921140864,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                36.43,
+                32.06,
+                31.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Strive to present yourself as an approved workman unashamed, rightly laying out the word of the truth. Divide the word of truth, giving each hearer what they need, separating it from error, so that its inmost contents may be laid bare. Be a workman who does not disgrace themselves, faithfully performing their duty. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers. Treat it honestly and fully, in a straightforward manner.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.881621921140864,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                36.43,
+                32.06,
+                31.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Strive to present yourself as an approved workman unashamed, rightly laying out the word of the truth. Divide the word of truth, giving each hearer what they need, separating it from error, so that its inmost contents may be laid bare. Be a workman who does not disgrace themselves, faithfully performing their duty. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers. Treat it honestly and fully, in a straightforward manner.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.881621921140864,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                36.43,
+                32.06,
+                31.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Strive to present yourself as an approved workman unashamed, rightly laying out the word of the truth. Divide the word of truth, giving each hearer what they need, separating it from error, so that its inmost contents may be laid bare. Be a workman who does not disgrace themselves, faithfully performing their duty. Study to meet the divine approbation, making a proper distribution of the word to the circumstances and wants of your hearers. Treat it honestly and fully, in a straightforward manner.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.881621921140864,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                36.43,
+                32.06,
+                31.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

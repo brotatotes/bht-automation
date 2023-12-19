@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:34:43",
+    "verseRef": "Acts 21:12",
+    "bestBHT": {
+        "bht": "The companions of Paul, including the C\u00e6sarean Christians, pleaded with him not to go to Jerusalem, even shedding tears. This resonates with Luther's journey to the Diet of Worms and the story of Regulus, who faced torture and death for keeping his promise. Agabus' warning, combined with prior warnings and Paul's own confession, led to a chorus of persuasion. Despite their entreaties, Paul's unwavering obedience to God's calling shines through, exemplifying the necessity of disregarding death to faithfully serve the Lord.",
+        "wordCount": 85,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.6338177057559562,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+        "commentatorTierSimilarities": [
+            27.73,
+            44.28,
+            27.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "12. we and they at that place\u2014the",
+            "\tC\u00e6sarean Christians. ",
+            "\t",
+            "besought him\u2014even with",
+            "\ttears, Acts 21:13. ",
+            "\t",
+            "not to go to Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "This suggests the case of Luther when on his journey to the Diet of Worms...\" (10 words)",
+            "...the story of Regulus the Roman, who...insisted on fulfilling his promise...\" (13 words)",
+            "...and went back to certain torture and death.\" (8 words)"
+        ],
+        "John Calvin": [
+            "Paul\u2019s constancy deserveth so much the more praise, when as he continueth so steadfast \u2212 in the calling of God.",
+            "And, assuredly, we must be so subject to the will and pleasure of God, that no profit, no kind of reason may remove us from obeying him.",
+            "Now Paul doth again declare by his answer, that the servants of Christ cannot be prepared to do their duty, unless they despise death; and that none can ever be well encouraged to live to the Lord, but those who will willingly lay down their lives for the testimony of the truth."
+        ],
+        "Philip Schaff": [
+            "The prediction of Agabus, set forth in so striking and impressive a manner, and possibly, too, because it detailed the danger in a way much more precise than appears from the text of the narrative, moved even the fearless companions of Paul...\" (Quote 1)",
+            "...they, and Philip and his daughters, and others, joined their entreaties to the great leader not to risk a life so precious to the Master's cause, but to give up the journey.\" (Quote 2)",
+            "Commentators strikingly call attention here to the parallel between Paul and Paul's Master, who had to listen to His disciple Peter endeavouring to persuade Him to turn aside from the way of suffering on which He had entered.\" (Quote 3)"
+        ],
+        "Archibald T. Robertson": [
+            "We tried to persuade him from going up.",
+            "This dramatic warning of Agabus came on top of that in Tyre and Paul's own confession in Miletus.",
+            "It is small wonder that Luke and the other messengers together with Philip and his daughters joined in a chorus of dissuasion to Paul."
+        ],
+        "John Gill": [
+            "And when we heard these things... both we... besought him not to go up to Jerusalem...\" (Acts 21:12)",
+            "...an instance of weakness in them, though an expression of their affection to the apostle...",
+            "...this request was made with tears..."
+        ],
+        "John Wesley": [
+            "St. Paul knew that this prediction had the force of a command.",
+            "They did not know this.",
+            "They did not know this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The companions of Paul, including the C\u00e6sarean Christians, fervently pleaded with him not to go to Jerusalem, even shedding tears in their attempt to dissuade him. This situation brings to mind the case of Luther on his journey to the Diet of Worms, as well as the story of Regulus, who insisted on fulfilling his promise and returned to certain torture and death. Agabus' dramatic warning, coupled with previous warnings and Paul's own confession, led to a chorus of persuasions urging Paul to reconsider. This powerful entreaty moved even the fearless companions of Paul, drawing a parallel to Peter attempting to dissuade Jesus from the path of suffering. Nonetheless, Paul's constancy and unwavering obedience to the calling of God are both commendable and admirable.",
+            "wordCount": 126,
+            "quoteTokenProportion": 26.51,
+            "qualityScore": 1.692419679773098,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.62,
+            "commentatorTierSimilarities": [
+                26.03,
+                48.76,
+                25.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The companions of Paul, including the C\u00e6sarean Christians, besought him not to go to Jerusalem, even with tears. This suggests the case of Luther and the story of Regulus, who fulfilled their promises despite facing danger. Agabus' warning, combined with previous ones and Paul's own confession, led to a chorus of dissuasion. Despite this, Paul's constancy in following God's calling deserves praise, as he exemplifies the necessity of disregarding death in order to serve the Lord faithfully.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.5818483158438368,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.94,
+            "commentatorTierSimilarities": [
+                26.79,
+                43.16,
+                30.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The companions of Paul, joined by the C\u00e6sarean Christians, beseeched him not to proceed to Jerusalem, even shedding tears in their fervent plea. This touching scene evokes the parallel of Luther, who encountered similar dissuasion on his way to the Diet of Worms, and the tale of Regulus, who insisted on fulfilling his promise despite the threat of torture and death. With Agabus' prophetic warning as the tipping point, Luke and others vigorously implored Paul to reconsider his course. Yet, Paul remained resolute, demonstrating the unwavering commitment of the servants of Christ, ready to lay down their lives for the truth.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.4,
+            "qualityScore": 1.6297816353289254,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                26.26,
+                47.45,
+                26.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The companions of Paul, including the C\u00e6sarean Christians, passionately urged him not to go to Jerusalem, even shedding tears. This situation recalls Luther's journey to the Diet of Worms and the story of Regulus, who faced torture and death but kept his promise. Agabus' alarming prophecy, along with previous warnings and Paul's own confession, prompted a collective chorus of persuasion. Paul's unwavering resolve, in the face of their beseeching, illustrates the steadfast commitment required to serve God faithfully, even if it means sacrificing one's life.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.558666929853434,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.17,
+            "commentatorTierSimilarities": [
+                26.96,
+                44.19,
+                28.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The companions of Paul, including the C\u00e6sarean Christians, pleaded with him not to go to Jerusalem, even shedding tears. This resonates with Luther's journey to the Diet of Worms and the story of Regulus, who faced torture and death for keeping his promise. Agabus' warning, combined with prior warnings and Paul's own confession, led to a chorus of persuasion. Despite their entreaties, Paul's unwavering obedience to God's calling shines through, exemplifying the necessity of disregarding death to faithfully serve the Lord.",
+            "wordCount": 85,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6338177057559562,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                27.73,
+                44.28,
+                27.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

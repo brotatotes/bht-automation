@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 14:17:12",
+    "verseRef": "Galatians 3:28",
+    "bestBHT": {
+        "bht": "In the sonship through faith in Christ, all earthly differences of race, social status, and even gender vanish. Christianity's radical statement promotes equality, eradicating class distinctions and rendering no difference in Christian privileges based on sex. This transformative truth marks the path on which Christianity operates, highlighting the power of unity found in Christ Jesus. The Jesus Road is the only way, where all individuals are equal, all distinctions dissolved, and all believers united as one in their shared identity as children of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 2.11587145195434,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+        "commentatorTierSimilarities": [
+            33.14,
+            38.73,
+            28.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The absolute equality of all in this sonship, to the obliteration of all differences of earthly extraction or position.",
+            "Observe, 'neither Jew nor Greek,'\u2014 'neither bond nor free,' but 'male and female': the two former being accidental distinctions which may be entirely put off in falling back on our humanity,\u2014but the latter a necessary distinction, absorbed however in the higher category: 'there is no distinction into male and female.'",
+            "The unavoidable inference from an assertion like this is, that Christianity did alter the condition of women and slaves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is in this sonship by faith in Christ, no class privileged above another.",
+            "Difference of sex makes no difference in Christian privileges.",
+            "All of either sex are now 'kings and priests unto God'."
+        ],
+        "Albert Barnes": [
+            "All confess that they are sinners; all are saved by the merits of the same Saviour; all are admitted to the same privileges as children of God.",
+            "Christianity regards all people as made of one blood to dwell on all the face of the earth and esteems them all to be equal in the matter of salvation.",
+            "Christianity thus elevates the female sex to an equality with the male, on the most important of all interests; and it has in this way made most important changes in the world wherever it has prevailed."
+        ],
+        "John Calvin": [
+            "There is neither Jew nor Greek...nor is circumcision any more regarded than sex or civil rank.\" ",
+            "Because Christ makes them all one...Ye are one: the distinction is now removed.\" ",
+            "The apostle\u2019s object is to shew that the grace of adoption, and the hope of salvation, do not depend on the law, but are contained in Christ alone, who therefore is all."
+        ],
+        "Philip Schaff": [
+            "The great idea of freedom, fraternity, and equality, then, is to be traced to Christianity, although it is often carnally misunderstood and caricatured by men.",
+            "The gospel makes all men equal before God, both as sinners, and as subjects of redeeming grace; it has broken down the national, social, and sexual partition walls of the ancient world, and raised women and slaves to the true dignity and the enjoyment of the rights of man.",
+            "For ye all are one (man) in Christ Jesus, one moral person in Jesus Christ the head."
+        ],
+        "Archibald T. Robertson": [
+            "The point is that 'in Christ Jesus' race or national distinctions ('neither Jew nor Greek') do not exist, class differences ('neither bond nor free,' no proletarianism and no capitalism) vanish, sex rivalry ('no male and female') disappears.\" ",
+            "This radical statement marks out the path along which Christianity was to come in the sphere (\u03b5\u03bd) and spirit and power of Christ.",
+            "We are on the road and there is no hope on any way than on 'the Jesus Road.'"
+        ],
+        "John Gill": [
+            "There is no difference between them, the middle wall of partition being broken down, and that, in the business of justification and salvation, it signified nothing whether a man was a Jew or a Greek.",
+            "God, in calling, justifying, and saving men, is no respecter of persons, as being high and low, rich and poor, bond or free.",
+            "Under the Gospel dispensation there is no distinction made between male and female as to divine things; as they are alike called by the grace of God, they have the same right to Gospel ordinances, baptism and the Lord's supper, and to every spiritual privilege."
+        ],
+        "John Wesley": [
+            "There is neither Jew nor Greek \u2014 That is, there is no difference between them; they are equally accepted through faith.",
+            "There is neither male nor female \u2014 Circumcision being laid aside, which was peculiar to males, and was designed to put a difference, during that dispensation, between Jews and gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Galatians 3:28, the verse emphasizes the complete equality that comes from being children of God through faith in Christ. It eradicates all earthly differences of race, social status, and even gender. Christianity is shown to have transformed society by elevating women and slaves to an equal standing with men and granting them the same privileges. This groundbreaking truth in Christ removed all barriers and partitions, making everyone one in Him, united in their shared identity as children of God. The message of this verse resounds with the liberating power of Christianity, which breaks down societal divisions and celebrates the unity found in Christ Jesus.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.014242280132225,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                29.21,
+                42.71,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the radical truth of Christianity is revealed \u2014 all distinctions of race, social status, and even gender are obliterated in the sonship found in Christ. Christianity, through the grace of adoption and hope of salvation in Christ alone, removes the walls of partition and breaks down barriers. This transformative message illustrates the complete equality found in God's kingdom, as all are one in Jesus Christ, united in their shared identity as children of God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.104608371304299,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.32,
+            "commentatorTierSimilarities": [
+                29.08,
+                40.6,
+                30.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The revolutionary message of Christianity in Galatians 3:28 resonates with the truth that all earthly distinctions of race, social status, and gender dissolve in the sonship offered through faith in Christ. By placing faith in Christ, individuals partake in a unity that knows no borders, boundaries, or divisions. This Gospel truth has the power to elevate women and slaves to equal standing with men, granting all believers the same privileges and rights. The transformative nature of Christianity is evident in how it breaks down societal barriers, making all one in Jesus Christ, united in their common identity as children of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.9933707493122492,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                29.35,
+                43.38,
+                27.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the absolute equality found in sonship through Christ, all earthly distinctions of race, status, and gender are obliterated. Christianity transformed society by granting women and slaves equal standing with men, eradicating divisions. The radical statement of Galatians 3:28 breaks down barriers, uniting believers as one in Christ Jesus, where no class is privileged above another and no difference of sex hinders Christian privileges. This revolutionary truth reveals the path on which Christianity operates, the Jesus Road, emphasizing the transformative power of faith in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 2.0793379777412317,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                34.15,
+                38.68,
+                27.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the sonship through faith in Christ, all earthly differences of race, social status, and even gender vanish. Christianity's radical statement promotes equality, eradicating class distinctions and rendering no difference in Christian privileges based on sex. This transformative truth marks the path on which Christianity operates, highlighting the power of unity found in Christ Jesus. The Jesus Road is the only way, where all individuals are equal, all distinctions dissolved, and all believers united as one in their shared identity as children of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 2.11587145195434,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.69,
+            "commentatorTierSimilarities": [
+                33.14,
+                38.73,
+                28.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

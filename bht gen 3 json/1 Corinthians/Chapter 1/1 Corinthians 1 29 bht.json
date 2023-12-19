@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 14:59:06",
+    "verseRef": "1 Corinthians 1:29",
+    "bestBHT": {
+        "bht": "Those who boast in human greatness and wisdom will be put to shame, for flesh is beautiful but frail like the flower of the field. Our glory is not before God, but in Him. No flesh should glory in His presence. This is why the majority of Christian converts are often found among those of humble life\u2014to produce humility and place all on an equal level. Let us remember that there is nothing we can justly glory in, as everything deserving of praise comes from God alone.",
+        "wordCount": 88,
+        "quoteTokenProportion": 55.07,
+        "qualityScore": 2.256711237860288,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+        "commentatorTierSimilarities": [
+            45.07,
+            23.24,
+            31.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They who try to glory (boast) because of human greatness and wisdom, are 'confounded' or put to shame.\" ",
+            "Flesh, like 'the flower of the field,' is beautiful, but frail.\" ",
+            "We are to glory not before Him, but in Him."
+        ],
+        "Albert Barnes": [
+            "That no flesh...should glory...in his presence.\" ",
+            "It is to be expected that the great mass of Christian converts will be found among those who are of humble life.",
+            "The gospel is designed to produce humility, and to place all people on a level in regard to salvation."
+        ],
+        "John Calvin": [
+            "It is a sentiment that is worthy to be kept in remembrance \u2014 that there is nothing left us in which we may justly glory.\" ",
+            "With this view he adds the expression in God\u2019s presence. For in the presence of the world many delight themselves for the moment in a false glorying, which, however, quickly vanishes like smoke.",
+            "Let every thing, therefore, that is at all deserving of praise, be recognized as proceeding from God."
+        ],
+        "Philip Schaff": [
+            "This has been all along the design of God in the erection and growth of His kingdom of grace.",
+            "No doubt, when once gained to Christ, the rich, the mighty, and the noble were quite as ready to cast their crowns at His feet as the poorest, weakest, rudest of this world.",
+            "Now it was to preclude all such surmises that, by a Divine ordination, the bulk of the converts in every church and for a long time consisted of the despised classes, that none might have even a pretext for glorying before God."
+        ],
+        "Archibald T. Robertson": [
+            "That no flesh should glory before God."
+        ],
+        "John Gill": [
+            "That no flesh should glory in his presence.",
+            "He has taken a method in choosing and calling the reverse of these, to stain the glory of all flesh.",
+            "No man may attribute his salvation to anything of the creature, but wholly to the sovereign grace and good pleasure of God."
+        ],
+        "John Wesley": [
+            "That no flesh \u2014 A fit appellation. Flesh is fair, but withering as grass.",
+            "May glory before God \u2014 In God we ought to glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who boast in human greatness and wisdom will be put to shame, for flesh is beautiful but frail like the flower of the field. Our glory is not before God, but in Him. In His presence, no flesh should glory. This is why the majority of Christian converts are often found among those of humble life, as the gospel is meant to produce humility and place all on an equal level. So let us remember that there is nothing we can justly glory in, as everything deserving of praise comes from God alone.",
+            "wordCount": 94,
+            "quoteTokenProportion": 54.17,
+            "qualityScore": 2.247821578715357,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                44.82,
+                23.55,
+                31.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who boast in human greatness and wisdom will be put to shame, for flesh is beautiful but frail like the flower of the field. Our glory is not before God, but in Him. No flesh should glory in His presence. This is why the majority of Christian converts are often found among those of humble life\u2014to produce humility and place all on an equal level. Let us remember that there is nothing we can justly glory in, as everything deserving of praise comes from God alone.",
+            "wordCount": 88,
+            "quoteTokenProportion": 55.07,
+            "qualityScore": 2.256711237860288,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+            "commentatorTierSimilarities": [
+                45.07,
+                23.24,
+                31.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who boast in human greatness and wisdom will be put to shame, for flesh is beautiful but frail like the flower of the field. Our glory is not before God, but in Him. In His presence, no flesh should glory. The majority of Christian converts are often found among those of humble life, producing humility and equality. Let us remember that there is nothing we can justly glory in, as everything deserving of praise comes from God alone.",
+            "wordCount": 79,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 2.248792070579416,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.11,
+            "commentatorTierSimilarities": [
+                45.26,
+                23.16,
+                31.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who boast in human strength and wisdom will be put to shame, for flesh, though beautiful, is frail. Instead, our glory is to be found not in ourselves but in God. It is expected that the majority of Christian converts will come from humble backgrounds, for the gospel brings humility and equalizes all in terms of salvation. This is the divine plan, to prevent any boasting before God. We must remember that there is nothing in which we can rightly glory, and any temporary worldly glory quickly fades away. Everything praiseworthy must be recognized as coming from God. Let us not attribute our salvation to anything of the creature, but rather acknowledge that it is solely by God's sovereign grace and pleasure that we are saved.",
+            "wordCount": 128,
+            "quoteTokenProportion": 43.02,
+            "qualityScore": 1.952661548908988,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                40.28,
+                27.27,
+                32.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who boast in human wisdom are put to shame, for flesh is beautiful, but frail. Our glory is found in God, not ourselves. The majority of converts come from humble backgrounds, as the gospel brings humility and equality in salvation. The plan is to prevent boasting before God. There is no rightful glory in anything but God, as worldly glory vanishes quickly. We must recognize that all praise comes from God. Salvation is solely by God's grace and pleasure.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.9342665215839898,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                41.75,
+                26.55,
+                31.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

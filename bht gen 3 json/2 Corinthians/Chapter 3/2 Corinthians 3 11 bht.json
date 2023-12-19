@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:15:33",
+    "verseRef": "2 Corinthians 3:11",
+    "bestBHT": {
+        "bht": "The ministry of the Law, symbolized by the Old Testament, is being done away with through the preaching of the Gospel. The Law had a certain glory, but the Gospel surpasses it with its abiding and everlasting glory. Christianity is alive and enduring, not something that is dying or fading away. Paul's confident claim of the Gospel's superiority leaves no room for doubt or reservation. The Gospel remains effective and unchanging, even in the midst of opposition.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.8831320987913922,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+        "commentatorTierSimilarities": [
+            36.45,
+            27.14,
+            36.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If that which is being done away was with glory, much more is that which abideth in glory.\" ",
+            "The whole purpose which that ministry served, which was parenthetical and to come to an end.\" ",
+            "The everlasting gospel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "was with glory\"; or \"marked by glory.\" ",
+            "is in glory.",
+            "The contrast of the Old and New Testaments proves"
+        ],
+        "Albert Barnes": [
+            "The Law he calls \u03c4\u03bf\u0300 \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03bf\u0301\u03c5\u03bc\u03b5\u03bd\u03bf\u03bd to katargoumenon the thing which was to be made to cease; to be put an end to; to be done away with; to be abolished. It had no permanency; and it was designed to have none.",
+            "The gospel is permanent... because it is designed to remain immutable through the remotest ages.",
+            "The Mosaic system - glorious as it was - shall be remembered as introducing the gospel; the gospel shall be remembered as directly fitting for heaven."
+        ],
+        "Marvin Vincent": [
+            "That which is done away [\u03c4\u03bf \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03bd] . Lit., which is being done away; in course of abolition through the preaching of the Gospel.",
+            "Both the A. V., and Rev. passeth fail to bring, out the idea of process.",
+            "Was glorious [\u03b4\u03b9\u03b1 \u03b4\u03bf\u03be\u03b7\u03c2] . Lit., through glory. Rev., with glory."
+        ],
+        "Philip Schaff": [
+            "For if that which passeth away which was in its own nature but transitory, was with glory was ushered in with manifestations of awful glory much more that which remaineth the enduring economy is in glory.\" ",
+            "Now comes the application of all this."
+        ],
+        "Archibald T. Robertson": [
+            "The new ministry is permanent. This claim may be recommended to those who clamour for a new religion.",
+            "Christianity is still alive and is not dying.",
+            "Surely Paul has kept nothing back here, no mental reservations, in this triumphant claim of superiority."
+        ],
+        "John Gill": [
+            "The law is 'that which is done away'; not merely the ceremonial law, or the judicial law, but the whole ministry of Moses, and particularly the law of the Decalogue.",
+            "Distinguish between the law as a covenant of works, and as a rule of walk and conversation; as a covenant of works it is done away, as a rule of walk and conversation it still continues.",
+            "The Gospel is 'that which remaineth'; which denotes the continued efficacy, the incorruptibleness, the inexpugnableness, and duration of it; notwithstanding all the opposition of men and devils to it, still its blessings, promises, doctrines, ordinances, and effects continue."
+        ],
+        "John Wesley": [
+            "That which remaineth \u2014 That dispensation which remains to the end of the world; that spirit and life which remain for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the contrast between the glory of the old ministry, which was temporary and fading, and the abiding glory of the new ministry. The old ministry, symbolized by the Law, was being abolished through the preaching of the Gospel. Whereas the Law had its glory, the Gospel surpasses it in glory and is marked by permanence. Christianity is a living and enduring faith, not something that is dying or passing away. Paul emphasizes the superiority and completeness of the Gospel, with no reservations, as it remains effective and unchanging despite opposition.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9728587855360566,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                35.95,
+                29.6,
+                34.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The old ministry, represented by the Law, is being done away with through the preaching of the Gospel. While the Law had its glory, the abiding glory of the Gospel is far greater. Christianity is alive and enduring, not fading or passing away. Paul boldly asserts the superiority and completeness of the Gospel, leaving no reservations. The Gospel remains effective and unchanging, even in the face of opposition and challenges.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.8432279551114645,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                35.86,
+                27.84,
+                36.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ministry of the Law, which was temporary and transient, is being abolished through the preaching of the Gospel. While the Law had its glory, the Gospel surpasses it with its abiding and permanent glory. Christianity continues to thrive and is not in decline. Paul's confident assertion of the Gospel's superiority leaves no room for doubt or reservation. The Gospel remains steadfast and unchanging, despite opposition.",
+            "wordCount": 68,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.8218633821255448,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                35.18,
+                27.08,
+                37.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ministry of the Law, symbolized by the Old Testament, is being done away with through the preaching of the Gospel. The Law had a certain glory, but the Gospel surpasses it with its abiding and everlasting glory. Christianity is alive and enduring, not something that is dying or fading away. Paul's confident claim of the Gospel's superiority leaves no room for doubt or reservation. The Gospel remains effective and unchanging, even in the midst of opposition.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8831320987913922,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.96,
+            "commentatorTierSimilarities": [
+                36.45,
+                27.14,
+                36.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ministry of the Law, portrayed by the Old Testament, is being abolished through the preaching of the Gospel. Although the Law had a certain glory, the Gospel exceeds it with its enduring and eternal glory. Christianity is thriving and unceasing, not diminishing or vanishing. Paul confidently proclaims the Gospel's superiority, with no hidden reservations. The Gospel remains efficacious and unchanging, despite opposition and challenges.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.7992676231689397,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                37.33,
+                27.05,
+                35.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

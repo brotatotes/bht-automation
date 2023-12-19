@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:19:11",
+    "verseRef": "Luke 12:56",
+    "bestBHT": {
+        "bht": "The people of that time were unable to discern the critical period for the Jewish Church, despite the plain signs of the Messiah's coming. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. They could discern the face of the sky and the earth, yet failed to discern the significance of that moment. This was the time of the Messiah's coming, a season that should have been discerned through the prophecies of the Old Testament.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.672183771555013,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+        "commentatorTierSimilarities": [
+            39.87,
+            0.0,
+            60.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The signs of this time were very plain;\u2014the sceptre had departed from Judah.",
+            "The general expectation of the coming of the Messiah is testified even by profane authors.",
+            "The prophets had all spoken of Him, and the greatest of them, the Baptist, had announced His arrival."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "56. how . . . not discern,",
+            "\t&amp;c.\u2014unable to perceive what a critical period that was for the",
+            "\tJewish Church."
+        ],
+        "Archibald T. Robertson": [
+            "To test \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03b6\u03b5\u03b9\u03bd as spiritual chemists.",
+            "No wonder that Jesus here calls them 'hypocrites' because of their blindness when looking at and hearing him.",
+            "This ignorance of the signs of the times is colossal."
+        ],
+        "John Gill": [
+            "Ye hypocrites...ye can discern the face of the sky, and of the earth; but how is it that ye do not discern this time?\" ",
+            "This is the time of the Messiah's coming, and that it is the accepted time, and day of salvation, if ye receive him, and believe in him; and a time of vengeance, if ye reject him.",
+            "This might have been discerned by the prophecies of the Old Testament, which fix the characters of the Messiah, and the time of his coming; and describe the manners of the men of that generation, in which he should come."
+        ],
+        "John Wesley": [
+            "How do ye not discern this season \u2014 Of the Messiah's coming, distinguishable by so many surer signs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of that time were unable to perceive the critical period they were in for the Jewish Church, despite the plain signs that the Messiah was coming. Even profane authors and the greatest prophets had testified to the expectation of the Messiah's arrival. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. It is astonishing that they could discern the face of the sky and the earth, yet fail to discern the significance of that moment. This was the time of the Messiah's coming, a time of salvation for those who believed and accepted him, and a time of vengeance for those who rejected him. The prophecies of the Old Testament had clearly described the character of the Messiah, the time of his coming, and the generation in which he would appear. It was a season that could have been discerned by those who paid attention to the signs.",
+            "wordCount": 158,
+            "quoteTokenProportion": 36.59,
+            "qualityScore": 1.6166546589526885,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.1,
+            "commentatorTierSimilarities": [
+                39.57,
+                0.0,
+                60.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of that time failed to discern the critical period for the Jewish Church, despite the plain signs of the Messiah's coming. Even the prophets and the Baptist had announced his arrival. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. They could discern the face of the sky and the earth, yet failed to discern the significance of that moment. This was the time of the Messiah's coming, a season that should have been discerned through the prophecies of the Old Testament.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6544881127090136,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.35,
+            "commentatorTierSimilarities": [
+                42.53,
+                0.0,
+                57.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of that time were unable to discern the critical period for the Jewish Church, despite the plain signs of the Messiah's coming. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. They could discern the face of the sky and the earth, yet failed to discern the significance of that moment. This was the time of the Messiah's coming, a season that should have been discerned through the prophecies of the Old Testament.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.672183771555013,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                39.87,
+                0.0,
+                60.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of that time were unable to perceive the critical period for the Jewish Church, despite the plain signs of the Messiah's coming. Even the prophets and the Baptist had announced His arrival. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. They could discern the face of the sky and the earth, yet failed to discern the significance of that moment. This was the time of the Messiah's coming, a season that should have been discerned through the prophecies of the Old Testament.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6475226234249525,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.12,
+            "commentatorTierSimilarities": [
+                42.72,
+                0.0,
+                57.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of that time failed to discern the critical period for the Jewish Church, despite the plain signs of the Messiah's coming. Even the prophets and the Baptist had announced His arrival. Jesus called them hypocrites for their blindness and ignorance of the signs of the times. They could discern the face of the sky and the earth, yet failed to perceive the significance of that moment. This was the time of the Messiah's coming, a season that should have been recognized through the prophecies of the Old Testament.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6420239716129585,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.94,
+            "commentatorTierSimilarities": [
+                42.99,
+                0.0,
+                57.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:17",
+    "verseRef": "Luke 21:10",
+    "bestBHT": {
+        "bht": "Jesus addressed his disciples, indicating a possible break in the discourse that the other reports do not mention. He spoke of nations rising, a concept further expounded by Matthew and Mark, who added that these events mark the beginning of sorrows or travail pangs. This suggests that Jesus was warning his followers about the impending hardships they would face.",
+        "wordCount": 59,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.3144585820030985,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+        "commentatorTierSimilarities": [
+            66.15,
+            0.0,
+            33.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] Then said he unto them perhaps implies a break in the discourse, which the other reports do not notice."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. Nation, c.\u2014Matthew and",
+            "\tMark (Matthew 24:8 Mark 13:8)",
+            "\tadd, \"All these are the beginning of sorrows,\" or travail",
+            "\tpangs, to which heavy calamities are compared (Mark 13:8- :, &amp;c.)."
+        ],
+        "John Gill": [
+            "Then said he unto them, nation shall rise,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus spoke to his disciples about the future, indicating that there would be a break in the discourse, something that the other reports don't acknowledge. He mentions that nations will rise, which Matthew and Mark illustrate by adding that these events are the beginning of sorrow or travail pangs. This suggests that Jesus was forewarning his followers of the impending difficult times to come.",
+            "wordCount": 65,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.2521378425117733,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.98,
+            "commentatorTierSimilarities": [
+                61.23,
+                0.0,
+                38.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus addressed his disciples regarding future events, possibly signifying a pause in his speech that isn't mentioned in other accounts. He emphasized the rise of nations, an aspect Matthew and Mark expand upon by stating that these occurrences mark the commencement of difficulties or labor pains. This implies that Jesus was cautioning his followers about the approaching challenging times.",
+            "wordCount": 60,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.0963391486625587,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.8,
+            "commentatorTierSimilarities": [
+                58.91,
+                0.0,
+                41.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus addressed his disciples, indicating a possible break in the discourse that the other reports do not mention. He spoke of nations rising, a concept further expounded by Matthew and Mark, who added that these events mark the beginning of sorrows or travail pangs. This suggests that Jesus was warning his followers about the impending hardships they would face.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.3144585820030985,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.05,
+            "commentatorTierSimilarities": [
+                66.15,
+                0.0,
+                33.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus spoke to his disciples, possibly indicating a pause in the discourse. He mentioned the rising of nations, which Matthew and Mark elaborated on by adding that these events are the beginning of sorrows or travail pangs. This implies that Jesus was forewarning his followers about the difficulties they would encounter in the future.",
+            "wordCount": 54,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.1456941029017735,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.44,
+            "commentatorTierSimilarities": [
+                58.9,
+                0.0,
+                41.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus addressed his disciples, suggesting a possible interruption in the conversation not mentioned in other reports. He mentioned the rise of nations, a concept expounded by Matthew and Mark who described these events as the beginning of sorrows or travail pangs. This implies that Jesus was forewarning his followers about the impending hardships they would face.",
+            "wordCount": 56,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.1121805569056684,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.32,
+            "commentatorTierSimilarities": [
+                60.15,
+                0.0,
+                39.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

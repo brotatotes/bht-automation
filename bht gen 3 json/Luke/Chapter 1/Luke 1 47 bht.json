@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:13:11",
+    "verseRef": "Luke 1:47",
+    "bestBHT": {
+        "bht": "In her composed rapture, Mary's declaration that My spirit hath rejoiced in God my Saviour demonstrates her understanding of the need for a Savior. Just as God is referred to as Savior in the Old Testament, Mary recognizes her reason to rejoice in Him. Her words oppose the idea of her own immaculate conception and instead emphasize the inner spiritual nature that allows believers to comprehend the incomprehensible and eternal things of God. Through faith in Christ, Mary finds joy in God her Savior.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.1060841813607922,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+        "commentatorTierSimilarities": [
+            25.19,
+            34.98,
+            39.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "47. my Saviour\u2014Mary, poor",
+            "\theart, never dreamt, we see, of her own \"immaculate",
+            "\tconception\"\u2014in the offensive language of the Romanists\u2014any",
+            "\tmore than of her own immaculate life."
+        ],
+        "Albert Barnes": [
+            "God is called 'Saviour,' as he saves people from sin and death.",
+            "He was 'Mary's' Saviour, as he had redeemed her soul and given her a title to eternal life.",
+            "She rejoiced for that, and especially for his mercy in honoring her by her being made the mother of the Messiah."
+        ],
+        "Marvin Vincent": [
+            "God my Savior [\u03c4\u03c9 \u03b8\u03b5\u03c9 \u03c4\u03c9 \u03c3\u03c9\u03c4\u03b7\u03c1\u03b9 \u03bc\u03bf\u03c5] . Note the two articles. 'The God who is the or my Savior.'",
+            "The title Savior is often applied to God in the Old Testament.",
+            "See Septuagint, Deuteronomy 32:15; Psalms 24:5; Psalms 25:5; Psalms 95:1."
+        ],
+        "Philip Schaff": [
+            "The spirit is, according to Luther, \u2018the highest, noblest part of man, by which he is enabled to apprehend incomprehensible, invisible, eternal things, and is in short the house, where faith and God\u2019s word indwells.\u2019",
+            "The exultation in spirit came first, and as a result her soul magnifies the Lord. \u2018Soul\u2019 and \u2018spirit,\u2019 taken together, include the whole inner being.",
+            "Her words must be taken in a full spiritual meaning. Implying her own need of a \u2018Saviour,\u2019 they oppose the papal dogma of the Immaculate Conception."
+        ],
+        "Archibald T. Robertson": [
+            "Mary is not excited like Elisabeth, but breathes a spirit of composed rapture.",
+            "It is certain that we have an inner spiritual nature for which various words are used in Mark 12:30.",
+            "God is called Saviour in the O.T. (Deuteronomy 32:15; Psalms 24:5; Psalms 95:1)."
+        ],
+        "John Gill": [
+            "And my spirit hath rejoiced in God my Saviour.",
+            "the great encouragement to sensible sinners, to look up to him, and be saved",
+            "the consideration of Christ, by Mary, as God her Saviour, as having an interest in him, as a Saviour, and this her Saviour, God, gave her greater joy"
+        ],
+        "John Wesley": [
+            "My spirit hath rejoiced in God my Saviour.\" ",
+            "And she rejoiced in hope of salvation through faith in him, which is a blessing common to all true believers.",
+            "And certainly she had the same reason to rejoice in God her Saviour that we have."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, in her composed rapture, declares, My spirit hath rejoiced in God my Saviour. Indeed, the God who is her Savior has redeemed her soul and given her a title to eternal life. This title of Savior is not reserved for Mary alone, but is often applied to God in the Old Testament. Just as God is called Savior in Deuteronomy and the Psalms, Mary recognizes that her own need for a Savior is met by God Himself. In rejoicing for this mercy and for the privilege of being the mother of the Messiah, Mary's words oppose the dogma of the Immaculate Conception. Thus, her exultation in spirit emphasizes the inner spiritual nature that enables us to apprehend the incomprehensible, invisible, eternal things of God. Through faith in Christ, which is a blessing common to all true believers, Mary finds reason to rejoice in God her Savior.",
+            "wordCount": 148,
+            "quoteTokenProportion": 34.88,
+            "qualityScore": 2.0558762277500207,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.7,
+            "commentatorTierSimilarities": [
+                25.75,
+                37.48,
+                36.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary's composed rapture leads her to declare that her spirit rejoices in God her Savior. Just as God is called Savior in the Old Testament, Mary recognizes that she, like all believers, needs a Savior. Her exultation in spirit highlights the inner spiritual nature that enables us to comprehend the incomprehensible and eternal things of God. Through faith in Christ, Mary finds reason to rejoice in God her Savior, opposing the idea of her own immaculate conception.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.0746515092083593,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                26.05,
+                36.69,
+                37.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary's composed rapture leads her to declare, My spirit hath rejoiced in God my Saviour. This declaration reflects her recognition that, like all believers, she needs a Savior. In the Old Testament, God is referred to as Savior, and Mary understands that she has reason to rejoice in Him. She opposes the notion of her own immaculate conception and instead embraces the inner spiritual nature that enables believers to comprehend the incomprehensible and eternal things of God. Through faith in Christ, Mary finds joy in God her Savior.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.028216903713995,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                24.94,
+                35.02,
+                40.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In her composed rapture, Mary's declaration that My spirit hath rejoiced in God my Saviour demonstrates her understanding of the need for a Savior. Just as God is referred to as Savior in the Old Testament, Mary recognizes her reason to rejoice in Him. Her words oppose the idea of her own immaculate conception and instead emphasize the inner spiritual nature that allows believers to comprehend the incomprehensible and eternal things of God. Through faith in Christ, Mary finds joy in God her Savior.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.1060841813607922,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.37,
+            "commentatorTierSimilarities": [
+                25.19,
+                34.98,
+                39.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary, in her composed rapture, declares, My spirit hath rejoiced in God my Saviour. The Old Testament frequently refers to God as Savior, and Mary recognizes her need for a Savior as well. Her words oppose the idea of her own immaculate conception, emphasizing the inner spiritual nature that enables believers to comprehend the eternal things of God. Through faith in Christ, Mary finds joy in God her Savior, just like any true believer.",
+            "wordCount": 74,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.0817714506290894,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                25.79,
+                33.94,
+                40.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

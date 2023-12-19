@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:21:01",
+    "verseRef": "Luke 17:7",
+    "bestBHT": {
+        "bht": "When your faith has been so increased to avoid and forgive offenses, and do things impossible to all but faith, do not be puffed up as though you had laid the Lord under obligations to you. Go directly to what is commanded without expecting rewards. Be wary of thinking you have merit in the great results accomplished by faith. Remember, the kindness and liberality God exercises should not give you foolish confidence but deeper obligations to Him.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 1.714530226154459,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+        "commentatorTierSimilarities": [
+            29.68,
+            32.75,
+            37.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By and by (literally, immediately) in the A.V. is wrongly joined with will say unto him.",
+            "It corresponds to 'afterward' in ver. 8.",
+            "Must be joined with go and sit down."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But when your faith has been so increased as both to avoid and forgive offenses, and do things impossible to all but faith, be not puffed up as though you had laid the Lord under any obligations to you.",
+            "Go directly.",
+            "The connection here is: 'But when your faith has been so increased as both to avoid and forgive offenses, and do things impossible to all but faith, be not puffed up as though you had laid the Lord under any obligations to you.'"
+        ],
+        "Albert Barnes": [
+            "The occasion on which it was spoken cannot be ascertained. It does not seem to have any particular connection with what goes before.",
+            "He would not, 'as the first thing,' or 'as soon' as he returned from the field, direct him to eat and drink. Hungry and weary he might be, yet it would be proper for him first to attend upon his master.",
+            "So the apostles were not to be 'impatient' because they did not 'at once' receive the reward for which they were looking."
+        ],
+        "John Calvin": [
+            "He adduces the comparison of a servant, who, after having spent the day in severe toil, returns home in the evening, and continues his labors till his master is pleased to relieve him.",
+            "A reward is promised, not as a debt, but from the mere good pleasure of God.",
+            "The kindness and liberality which God exercises towards us are so far from giving us a right to swell with foolish confidence, that we are only laid under deeper obligations to Him."
+        ],
+        "Philip Schaff": [
+            "Beware of thinking that you have any merit in the great results accomplished by faith.",
+            "A servant, a bond-servant, entirely dependent on his master\u2019s will.",
+            "Come straightway, this is contrasted with 'afterward'."
+        ],
+        "Archibald T. Robertson": [
+            "Sit down to meat (\u03b1\u03bd\u03b1\u03c0\u03b5\u03c3\u03b5). Recline (for the meal). Literally, fall up (or back). "
+        ],
+        "John Gill": [
+            "which of you having a servant ploughing, or feeding cattle...when he is come from the field...go...and sit down to meat?\".",
+            "that they might not imagine they could have anything at the hands of God by merit\".",
+            "to excite them to go on from one duty to another; and never think they have done, or done enough, or more than what is their duty\"."
+        ],
+        "John Wesley": [
+            "But which of you \u2014 But is it not meet that you should first obey, and then triumph? Though still with a deep sense of your utter unprofitableness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When your faith has grown to the point where you can avoid and forgive offenses and do things that seem impossible to others, do not boast as if you have put the Lord in your debt. Instead, go directly to do what is commanded of you without expecting immediate rewards, just as a servant who continues working until his master allows him to rest. Be wary of thinking that you have any merit in the great results achieved by your faith. Remember, the kindness and generosity God shows us only deepens our obligations to Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6211183006830496,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.24,
+            "commentatorTierSimilarities": [
+                24.16,
+                35.35,
+                40.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When your faith is strong enough to avoid and forgive offenses and do the seemingly impossible, do not become prideful as if you have done something extraordinary, for it is your duty. Just as a servant continues to work until his master allows him to rest, so should you fulfill your obligations without expecting immediate rewards. Remember, the acts of kindness and liberality from God should deepen your gratitude and devotion, rather than instilling a sense of entitlement or self-righteousness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.564064203992554,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.35,
+            "commentatorTierSimilarities": [
+                24.07,
+                30.05,
+                45.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When your faith has grown to the point where you can avoid and forgive offenses and do things that seem impossible to others, do not boast as if you have put the Lord in your debt. Instead, go directly to do what is commanded of you without expecting immediate rewards, just as a servant who continues working until his master allows him to rest. Be wary of thinking that you have any merit in the great results achieved by your faith. Remember, the kindness and generosity God shows.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 1.5726475206939905,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                24.0,
+                35.75,
+                40.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When your faith has been so increased to avoid and forgive offenses, and do things impossible to all but faith, do not be puffed up as though you had laid the Lord under obligations to you. Go directly to what is commanded without expecting rewards. Be wary of thinking you have merit in the great results accomplished by faith. Remember, the kindness and liberality God exercises should not give you foolish confidence but deeper obligations to Him.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 1.714530226154459,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+            "commentatorTierSimilarities": [
+                29.68,
+                32.75,
+                37.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When your faith has been increased to the point of avoiding and forgiving offenses and accomplishing the impossible, do not become arrogant as if you have obligated the Lord to you. Instead, go directly and recline at the table, recognizing that you are like a servant who continues to work until the master allows him to rest. The reward you receive is not because of your merit, but from God's good pleasure. Therefore, beware of thinking that you have any merit in the great results accomplished by faith and be diligent in obeying and serving, without considering that you have done enough.",
+            "wordCount": 103,
+            "quoteTokenProportion": 47.3,
+            "qualityScore": 1.7233206958308855,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                24.31,
+                34.83,
+                40.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

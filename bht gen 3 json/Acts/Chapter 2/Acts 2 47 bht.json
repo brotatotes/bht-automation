@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:25:46",
+    "verseRef": "Acts 2:47",
+    "bestBHT": {
+        "bht": "The early Christians not only praised God during meals but also in their conversations, displaying a joyful demeanor that drew admiration from others. Although the phrase those who were being saved doesn't clarify their ultimate destiny, it implies a continuous revival as more people sought refuge in the Church, escaping the evils of the world. This emphasizes that salvation is a present reality obtained through knowledge of God in Christ. The Lord faithfully added to the Church daily, ensuring the rescue of those who were saved from sin.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 2.2459415559418074,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+        "commentatorTierSimilarities": [
+            30.12,
+            37.39,
+            32.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Praising God does not seem only to refer to giving thanks at their partaking of food, but to their general manner of conversation, including the recurrence of special ejaculations and songs of praise by the influence of the Spirit.",
+            "Those who were being saved. Nothing is implied by this word, to answer one way or the other the question, whether all these were finally saved.",
+            "Doubtless, some of them might have been of the class alluded to Heb. x. 26\u201329: at least there is nothing in this word to preclude it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart, for God now accepteth thy works.",
+            "commending themselves by their lovely demeanor to the admiration of all who observed them.",
+            "The young Church had but few peculiarities in its outward form, or even in its doctrine: the single discriminating principle of its few members was that they all recognized the crucified Jesus of Nazareth as the Messiah."
+        ],
+        "Albert Barnes": [
+            "This whole phrase is a translation of a participle - \u03c4\u03bf\u03c5\u0300\u03c2 \u03c3\u03c9\u03b6\u03bf\u03bc\u03b5\u0301\u03bd\u03bf\u03c5\u03c2 tous so\u0304zomenous. It does not express any purpose that they should be saved, but simply the fact that they were those who would be, or who were about to be saved.",
+            "It is clear, however, from this expression, that those who became members of the church were those who continued to adorn their profession, or who gave proof that they were sincere Christians.",
+            "Two remarks may be made on the last verse of this chapter; one is, that the effect of a consistent Christian life will be to command the respect of the world; and the other is, that the effect will be continually to increase the number of those who shall be saved."
+        ],
+        "Marvin Vincent": [
+            "Salvation is a thing of the present, as well as of the past and future.",
+            "The idea of salvation as a rescue from sin, through the knowledge of God in Christ, and therefore a progressive condition, a present state, should not be obscured.",
+            "The Lord added to the church daily such as should be saved, where the Greek implies a different idea."
+        ],
+        "John Calvin": [
+            "Having favor... to find favor even amongst strangers.",
+            "He showeth in these words that their diligence was not without profit.",
+            "For he teacheth that this is the means to attain salvation if we be incorporate into the Church."
+        ],
+        "Philip Schaff": [
+            "The word \u1f30\u03f0\u03f0\u03bb\u03b7\u03c3\u03af\u03b1, church, is a favourite one with the author of the Acts. It occurs in this book (says Wordsworth) about twenty times.",
+            "The Greek word here, \u03c4\u03bf\u1f7a\u03c2 \u03c3\u03c9\u03b6\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2, should be rendered simply the saved that is, those who were escaping day by day from the evil around them, and taking refuge in the Ark of the Church (Wordsworth).",
+            "The English Version has been charged here with a strong Calvinistic bias, implying that those who were predestined to be saved were being brought gradually into the pale of salvation."
+        ],
+        "Archibald T. Robertson": [
+            "Having favor (\u03b5\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2 \u03c7\u03b1\u03c1\u03b9\u03bd). Cf. Luke 2:52 of the Boy Jesus.",
+            "Added (\u03c0\u03c1\u03bf\u03c3\u03b5\u03c4\u03b9\u03b8\u03b5). Imperfect active, kept on adding. If the Lord only always 'added' those who join our churches.",
+            "Those that were being saved (\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2). Present passive participle. Probably for repetition like the imperfect \u03c0\u03c1\u03bf\u03c3\u03b5\u03c4\u03b9\u03b8\u03b5. Better translate it 'those saved from time to time.' It was a continuous revival, day by day."
+        ],
+        "John Gill": [
+            "Not only for their temporal mercies and enjoyments of life... but for their spiritual mercies.",
+            "They gained the good will of the generality of the people.",
+            "Those who were added to the church by the Lord... should certainly be saved."
+        ],
+        "John Wesley": [
+            "The Lord added daily such as were saved \u2014 From their sins: from the guilt and power of them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The early Christians were not only giving thanks for food, but their entire manner of conversation was filled with praise and joyful expressions influenced by the Spirit. It is worth noting that the phrase those who were being saved does not imply the final outcome of their salvation. Some may have fallen away like those mentioned in Hebrews 10:26-29. However, it is clear that those who became members of the church were sincere Christians and continued to adorn their profession, earning the respect of the world. The Lord kept adding to the church daily, not just those who joined, but those who were being saved from time to time, indicating a continuous revival. The Greek word for saved in this context refers to those who were escaping the evil of the world and seeking refuge in the Church. This verse reminds us that salvation is not only a past or future event, but a present reality that is received through the knowledge of God in Christ.",
+            "wordCount": 165,
+            "quoteTokenProportion": 33.67,
+            "qualityScore": 2.1798743327792875,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.82,
+            "commentatorTierSimilarities": [
+                29.9,
+                39.91,
+                30.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The early Christians praised God not only for their meals but in their daily conversations, expressing joy and gratitude influenced by the Spirit. While the phrase those who were being saved doesn't clarify their final salvation, it highlights the continuous revival and the ongoing escape from the world's evil into the Church. This verse emphasizes that salvation is not only a past or future event, but a present reality attained through the knowledge of God in Christ. The Lord consistently added those who were being saved, ensuring their rescue from sin in a continuous manner.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.2300666543434993,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                30.94,
+                37.03,
+                32.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The early Christians not only praised God during meals but also in their daily conversations, displaying a joyful demeanor that drew admiration from others. Although the phrase those who were being saved doesn't reveal their ultimate destiny, it implies a continuous revival as more people sought refuge in the Church, escaping the evils of the world. This emphasizes that salvation is a present reality obtained through knowledge of God in Christ. The Lord faithfully added to the Church daily, ensuring the rescue of those who were saved from sin.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.2289089452032442,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.45,
+            "commentatorTierSimilarities": [
+                30.13,
+                37.36,
+                32.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The early Christians not only expressed thankfulness during meals but also in their conversations, with songs of praise influenced by the Spirit. The phrase those who were being saved doesn't clarify the final outcome of their salvation, but it implies a continuous revival as more people sought refuge in the Church from the evils of the world. This verse emphasizes that salvation is a present reality, received through knowledge of God in Christ. The Lord faithfully added to the Church daily, ensuring the rescue of those who were saved from sin.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.296296741666737,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.69,
+            "commentatorTierSimilarities": [
+                29.86,
+                37.89,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The early Christians not only praised God during meals but also in their conversations, displaying a joyful demeanor that drew admiration from others. Although the phrase those who were being saved doesn't clarify their ultimate destiny, it implies a continuous revival as more people sought refuge in the Church, escaping the evils of the world. This emphasizes that salvation is a present reality obtained through knowledge of God in Christ. The Lord faithfully added to the Church daily, ensuring the rescue of those who were saved from sin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.2459415559418074,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+            "commentatorTierSimilarities": [
+                30.12,
+                37.39,
+                32.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

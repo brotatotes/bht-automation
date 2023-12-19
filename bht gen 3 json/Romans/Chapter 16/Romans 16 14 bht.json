@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:10:45",
+    "verseRef": "Romans 16:14",
+    "bestBHT": {
+        "bht": "These lesser-known Christians, possibly associated with separate assemblies or associations, may have met for various Christian purposes such as further instruction, prayer, or missionary work. It is fascinating to catch a glimpse of the early forms of Christian fellowship in the great cities like Rome, even if the details remain uncertain. Paul was likely kept well-informed about the church in Rome by Priscilla and Aquila. The apostle's personalized salutations, even addressing believers by name, would have been encouraging, especially to those who were less privileged.",
+        "wordCount": 88,
+        "quoteTokenProportion": 41.33,
+        "qualityScore": 1.8150626102333032,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+        "commentatorTierSimilarities": [
+            30.87,
+            36.49,
+            32.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These Christians of whom we have only the names, seem to be persons of less repute than the former.",
+            "The brethren which are with them, of ver. 14, and all the saints which are with them, of ver. 15, have been taken to point to some separate associations of Christians.",
+            "Perhaps assemblies as in ver. 5: or unions for missionary purposes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But at least it would seem to indicate that they were each a center of some few Christians who met at his house\u2014it may be for further instruction, for prayer, for missionary purposes, or for some other Christian objects.",
+            "These little peeps into the rudimental forms which Christian fellowship first took in the great cities, though too indistinct for more than conjecture, are singularly interesting.",
+            "Our apostle would seem to have been kept minutely informed as to the state of the church at Rome, both as to its membership and its varied activities, probably by Priscilla and Aquila."
+        ],
+        "Marvin Vincent": [
+            "Hermes. Or Hermas. A common slave - name, a contraction of several different names, as Hermagoras, Hermogenes, etc. 74"
+        ],
+        "Philip Schaff": [
+            "The numerous group here referred to was probably intimately associated, and less known to the Apostle.",
+            "The last named person can scarcely be the author of the Shepherd of Hermas, since that work was probably not written before the middle of the second century.",
+            "The two phrases may refer to household churches, or to associations of Christians for business purposes. The former seems more probable. In that case five assemblies are indicated."
+        ],
+        "Archibald T. Robertson": [
+            "Phlegon (\u03a6\u03bb\u03b5\u03b3\u03bf\u03bd\u03c4\u03b1). No light on this name till the historian of the second century A.D.",
+            "Patrobas (\u03a0\u03b1\u03c4\u03c1\u03bf\u03b2\u03b1\u03bd). Name of a freedman of Nero, abbreviated form of Patrobius.",
+            "The brethren that are with them (\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03b1\u03b4\u03b5\u03bb\u03c6\u03bf\u03c5\u03c2). Perhaps a little church in the house of some one."
+        ],
+        "John Gill": [
+            "The two first of these names are Greek, and the persons called by them, with Herodion before mentioned, are taken notice of in the Roman martyrology, as disciples of the apostle.\" ",
+            "Hermas is said to be bishop of Philippi, or Aquileia, and brother of Pope Pius the First, and to be the author of the book called Pastor, or the Shepherd, cited by many of the ancients; but all is doubtful and uncertain.",
+            "The last of them, Hermes, is a Greek name, the same with Mercurius, which the Lystrians called Paul by, in Acts 14:12, who he was is not known; he is also mentioned among the seventy disciples, and said to be bishop of Dalmatia."
+        ],
+        "John Wesley": [
+            "It could not but encourage the poor especially, to be saluted by name, who perhaps did not know that the apostle bad ever heard of them.",
+            "Whilst the apostle forgets none who are worthy, yet he adjusts the nature of his salutation to the degrees of worth in those whom he salutes.",
+            "He seems to join those together, who were joined by kindred, nearness of habitation, or any other circumstance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These Christians, though less known and of lower repute than others mentioned, may have been part of separate associations or assemblies for further instruction, prayer, or missionary purposes. It is intriguing to catch a glimpse of the early forms of Christian fellowship in the great cities, and it is likely that Priscilla and Aquila kept Paul informed of the church's state in Rome. The names mentioned, such as Hermes or Hermas, do not have much information associated with them. However, it is important to note that the apostle's salutations, even by name, would have been encouraging to the believers, especially the poor. While Paul acknowledges all who are worthy, he takes into account their relationships, proximity, and other circumstances.",
+            "wordCount": 121,
+            "quoteTokenProportion": 44.57,
+            "qualityScore": 1.8393665758336977,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                29.84,
+                33.47,
+                36.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These Christians, seemingly of lesser repute, may have belonged to separate associations or assemblies for instruction, prayer, or missionary purposes. The primitive forms of Christian fellowship in the early cities hold a fascinating allure. The apostle Paul stayed informed about the church's state in Rome through Priscilla and Aquila, and his personalized greetings would have surely uplifted the believers, particularly the poor. While the specific identities of individuals like Hermes or Hermas remain unclear, Paul's salutations take into account their relationships, proximity, and circumstances.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.14,
+            "qualityScore": 1.722007343655973,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.6,
+            "commentatorTierSimilarities": [
+                32.06,
+                32.52,
+                35.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These Christians, though less known and of lower repute, may have been part of separate associations or assemblies for further instruction, prayer, or missionary purposes. It is intriguing to catch a glimpse of the early forms of Christian fellowship in the great cities, and it is likely that Priscilla and Aquila kept Paul informed of the church's state in Rome. The names mentioned, such as Hermes or Hermas, do not have much information associated with them. However, it is important to note that the apostle's salutations, even by name, would have been encouraging to the believers, especially the poor. While Paul acknowledges all who are worthy, he takes into account their relationships, proximity, and other circumstances.",
+            "wordCount": 118,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8224969862200306,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.94,
+            "commentatorTierSimilarities": [
+                30.18,
+                33.16,
+                36.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These lesser-known Christians may have belonged to separate Christian associations or assemblies for instruction, prayer, or missionary purposes. The early forms of Christian fellowship in cities like Rome are intriguing and bring up questions about their specific activities. Priscilla and Aquila likely kept Paul informed about the state of the church in Rome. While the identities of individuals like Hermes or Hermas are uncertain, the personalized salutations of the apostle would have surely encouraged the believers, particularly those who were less privileged. Paul's greetings consider their relationships and circumstances.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.6393608741119499,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.85,
+            "commentatorTierSimilarities": [
+                31.58,
+                32.24,
+                36.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These lesser-known Christians, possibly associated with separate assemblies or associations, may have met for various Christian purposes such as further instruction, prayer, or missionary work. It is fascinating to catch a glimpse of the early forms of Christian fellowship in the great cities like Rome, even if the details remain uncertain. Paul was likely kept well-informed about the church in Rome by Priscilla and Aquila. The apostle's personalized salutations, even addressing believers by name, would have been encouraging, especially to those who were less privileged.",
+            "wordCount": 88,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.8150626102333032,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                30.87,
+                36.49,
+                32.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

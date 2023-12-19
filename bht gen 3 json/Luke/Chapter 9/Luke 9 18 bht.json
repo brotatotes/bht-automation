@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:17:02",
+    "verseRef": "Luke 9:18",
+    "bestBHT": {
+        "bht": "As Jesus was praying alone, the disciples fell in with him. This moment of introspection occurred in a place somewhere in the coasts of Caesarea Philippi, away from the multitude. Jesus sought to understand the general sentiment among the people regarding his identity when he asked his disciples, Whom say the people that I am? This inquiry during a time of private devotion demonstrated Jesus' desire to gain insight into how he was perceived by others.",
+        "wordCount": 76,
+        "quoteTokenProportion": 49.12,
+        "qualityScore": 1.5299271001673393,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+        "commentatorTierSimilarities": [
+            52.05,
+            0.0,
+            47.95
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "As he was praying. Peculiar to Luke."
+        ],
+        "Archibald T. Robertson": [
+            "As he was praying (\u03b5\u03bd \u03c4\u03c9 \u03b5\u03b9\u03bd\u03b1 \u03b1\u03c5\u03c4\u03bf\u03bd \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Common Lukan idiom of \u03b5\u03bd with the articular infinitive for a temporal clause.",
+            "Alone (\u03ba\u03b1\u03c4\u03b1 \u03bc\u03bf\u03bd\u03b1\u03c2). In the N.T. only here and Mark 4:10. Perhaps \u03c7\u03c9\u03c1\u03b1\u03c2 (places) is to be supplied with \u03bc\u03bf\u03bd\u03b1\u03c2 (lonely places).",
+            "This seems like a contradiction unless 'alone' is to be taken with \u03c3\u03c5\u03bd\u03b7\u03c3\u03b1\u03bd. Westcott and Hort put \u03c3\u03c5\u03bd\u03b7\u03bd\u03c4\u03b7\u03c3\u03b1\u03bd in the margin. This would mean that as Jesus was praying alone, the disciples fell in with him."
+        ],
+        "John Gill": [
+            "The place where he now retired for private devotion, was somewhere in the coasts of Caesarea Philippi.",
+            "The meaning is, that he was retired from the multitude, but not from his disciples.",
+            "Whom say the people that I am? what are the sentiments of the common people, or of the people in general concerning me?"
+        ],
+        "John Wesley": [
+            "Apart \u2014 From the multitude.",
+            "And he asked them \u2014 When he had done praying, during which they probably stayed at a distance. Matthew 14:13; Mark 8:27."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus was praying alone, the disciples fell in with him. It was during this time of private devotion that Jesus asked his disciples a crucial question: Whom say the people that I am? He wanted to know the general sentiment among the people regarding his identity. This moment of introspection and inquiry was significant, as it took place away from the multitude, in a place somewhere in the coasts of Caesarea Philippi.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.4986521077384114,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.17,
+            "commentatorTierSimilarities": [
+                51.05,
+                0.0,
+                48.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus was praying alone, the disciples fell in with him. It was during this time of private devotion that Jesus asked his disciples a crucial question: Whom say the people that I am? This moment of introspection and inquiry took place away from the multitude, in a place somewhere in the coasts of Caesarea Philippi. Jesus sought to understand the general sentiment among the people regarding his identity.",
+            "wordCount": 69,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.5265306618845569,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.1,
+            "commentatorTierSimilarities": [
+                52.31,
+                0.0,
+                47.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus was praying alone, the disciples fell in with him. During this time of private devotion, Jesus posed a significant question to his disciples, asking what the people's perception of him was. This moment of introspection occurred in a place somewhere in the coasts of Caesarea Philippi, away from the multitude. Jesus desired to gain an understanding of the general sentiment among the people concerning his identity.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5210028585508413,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
+            "commentatorTierSimilarities": [
+                52.47,
+                0.0,
+                47.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During a moment of private devotion, Jesus was praying alone. The disciples then joined him as he posed a question about the people's perception of him. Seeking understanding, Jesus asked, Whom say the people that I am? This introspective moment took place in a secluded area, possibly in the coasts of Caesarea Philippi, away from the larger crowd. Jesus desired to ascertain the general sentiment regarding his identity and mission.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3136070308607148,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.02,
+            "commentatorTierSimilarities": [
+                53.47,
+                0.0,
+                46.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus was praying alone, the disciples fell in with him. This moment of introspection occurred in a place somewhere in the coasts of Caesarea Philippi, away from the multitude. Jesus sought to understand the general sentiment among the people regarding his identity when he asked his disciples, Whom say the people that I am? This inquiry during a time of private devotion demonstrated Jesus' desire to gain insight into how he was perceived by others.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.5299271001673393,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.21,
+            "commentatorTierSimilarities": [
+                52.05,
+                0.0,
+                47.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

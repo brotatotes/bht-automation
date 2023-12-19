@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:37:51",
+    "verseRef": "Acts 28:20",
+    "bestBHT": {
+        "bht": "For the cause of the hope of Israel, I, a prisoner, hold no hard feelings towards my own nation. The Apostle Paul keenly felt the weight of his chains and made noble use of this keenness in his encounters with Agrippa and the Jewish community in Rome. His deep love for his people led him to invite them to his prison, longing to reconcile and set things right. This cause of his was not just personal, but connected to the heart and hope of Israel.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 2.008819682268684,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+        "commentatorTierSimilarities": [
+            24.86,
+            37.04,
+            38.1
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause...I have no hostile feeling to my nation.",
+            "I may well wish to see and speak with you, being a prisoner for the hope of Israel.",
+            "A prisoner for the hope of Israel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This cause is not so much mine as yours; it is the nation's cause; all that is dear to the heart and hope of Israel is bound up with this case of mine.",
+            "From the touching allusions which the apostle makes to his chains, before Agrippa first, and here before the leading members of the Jewish community at Rome, at his first interview with them, one would gather that his great soul felt keenly his being in such a condition.",
+            "It is to this keenness of feeling, under the control of Christian principle, that we owe the noble use which he made of it in these two cases."
+        ],
+        "Albert Barnes": [
+            "Because that for the hope of Israel...the hope which the Jews cherish of the coming of the Messiah; of the resurrection; and of the future state.\" ",
+            "I am bound with this chain...he was attached constantly to a soldier by a chain."
+        ],
+        "Marvin Vincent": [
+            "I am bound [\u03c0\u03b5\u03c1\u03b9\u03ba\u03b5\u03b9\u03bc\u03b1\u03b9] . Lit., compassed."
+        ],
+        "John Calvin": [
+            "Neither the law nor the temple did profit the Jews anything without him; because the covenant of adoption is grounded in him, and the promise of salvation is in him confirmed.",
+            "No man doth hope aright, but he which looketh unto Christ and his spiritual kingdom; for when he placeth the hope of the godly in Christ, he excludeth all other hopes.",
+            "Paul saith, for good causes, that he is bound for the hope of Israel."
+        ],
+        "Philip Schaff": [
+            "His love to his own people was so great that the ever-recurring suspicions of his work and conduct on the part of the Jews were the occasion of the most bitter grief to him.",
+            "He longed to set himself right with the representatives of the nation dwelling in Rome, and with this hope he had sent for them to his prison room.",
+            "The 'Hope,' the glorious hope, for which he, the old man, was suffering all these indignities, was closely connected with the Messiah, for whom Israel had been so long anxiously waiting."
+        ],
+        "Archibald T. Robertson": [
+            "Did I intreat (\u03c0\u03b1\u03c1\u03b5\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1). Did I invite you.",
+            "Because of the hope of Israel (\u03b5\u03b9\u03bd\u03b5\u03ba\u03b5\u03bd \u03c4\u03b7\u03c2 \u03b5\u03bb\u03c0\u03b9\u03b4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0399\u03c3\u03c1\u03b1\u03b5\u03bb).",
+            "I am bound with this chain (\u03c4\u03b7\u03bd \u03b1\u03bb\u03c5\u03c3\u03b9\u03bd \u03c4\u03b1\u03c5\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03ba\u03b5\u03b9\u03bc\u03b1)."
+        ],
+        "John Gill": [
+            "For the hope of Israel I am bound with this chain.",
+            "He is the hope of every Israelite indeed, of every sensible sinner, of every regenerated person, whether Jew or Gentile.",
+            "They have hope of eternal life on his account, that being the gift of God through him."
+        ],
+        "John Wesley": [
+            "The hope of Israel \u2014 What Israel hopes for, namely, the Messiah and the resurrection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the cause of the hope of Israel, I, a prisoner, have no ill will towards my nation. This cause is not just my own, but the cause of the nation, as all that Israel holds dear is intertwined with my case. The apostle's heart was deeply moved by the chains that bound him, as evidenced by his poignant references to them before Agrippa and the Jewish leaders in Rome. However, he channeled this fervor through a Christian lens and used it to make a noble impact in these two instances. He longed to reconcile with his people in Rome and had invited them to his prison cell in the hopes of setting things right.",
+            "wordCount": 116,
+            "quoteTokenProportion": 48.1,
+            "qualityScore": 1.9411128802877848,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.88,
+            "commentatorTierSimilarities": [
+                27.11,
+                36.07,
+                36.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the cause of the hope of Israel, as a prisoner, I harbor no hostility towards my nation. This cause is not solely mine, but belongs to the entire nation, as everything beloved and hoped for by Israel is connected to my plight. The Apostle Paul keenly felt the weight of his chains, as evidenced by his poignant references to them before Agrippa and the Jewish leaders in Rome. Yet, he channeled this intensity through his Christian convictions, utilizing it to make a noble impact in these two instances. His longing to reconcile with his people in Rome led him to invite them to his prison, hoping to mend relationships.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 1.8695781030828673,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                26.3,
+                35.64,
+                38.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I, a prisoner, bear no ill will towards my nation because of the hope of Israel. This cause is not just mine, but belongs to all of Israel. The Apostle Paul deeply felt the weight of his chains, as seen in his powerful allusions to them before Agrippa and the Jewish leaders in Rome. With this fervor under the guidance of Christian principles, he seized the opportunity to make a significant impact. Longing to reconcile with his fellow Israelites, he invited them to his prison in hope of restoration.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.890891059627125,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.21,
+            "commentatorTierSimilarities": [
+                26.95,
+                33.54,
+                39.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For the cause of the hope of Israel, I, a prisoner, hold no hard feelings towards my own nation. The Apostle Paul keenly felt the weight of his chains and made noble use of this keenness in his encounters with Agrippa and the Jewish community in Rome. His deep love for his people led him to invite them to his prison, longing to reconcile and set things right. This cause of his was not just personal, but connected to the heart and hope of Israel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.008819682268684,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.13,
+            "commentatorTierSimilarities": [
+                24.86,
+                37.04,
+                38.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the cause of the hope of Israel, I, a prisoner, bear no hard feelings towards my nation. The Apostle Paul's heart was deeply moved by his chains, evident in his poignant references to them before Agrippa and the Jewish leaders in Rome. He channeled this intense emotion with Christian principles, utilizing it to make a significant impact. Longing to reconcile with his people, he invited them to his prison, eager to address the nation's cherished hope and his personal connection to it.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8702653408809549,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                23.81,
+                39.19,
+                37.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

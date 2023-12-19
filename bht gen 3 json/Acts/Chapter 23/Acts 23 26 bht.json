@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:35:28",
+    "verseRef": "Acts 23:26",
+    "bestBHT": {
+        "bht": "The governor, named Claudius, would take on this Roman name upon obtaining citizenship, while Lysias was his Greek family name. Most excellent was an honorary title of office and a formal way to address men of rank. The term greeting is an absolute infinitive with an independent nominative, used as a salutation in an epistle to wish health, joy, and prosperity. The chief captain sent this letter to Felix, the governor, who was addressed as the most excellent, a title of honor fitting for his role. The intention was to convey greetings and wishes for health and prosperity.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.7886232954699568,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+        "commentatorTierSimilarities": [
+            15.34,
+            44.66,
+            40.0
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "26-30. Claudius\u2014the Roman name",
+            "\the would take on purchasing his citizenship. ",
+            "\t",
+            "Lysias\u2014his Greek family",
+            "\tname. ",
+            "\t",
+            "the most excellent",
+            "\tgovernor\u2014an honorary title of office."
+        ],
+        "Albert Barnes": [
+            "Unto the most excellent governor Felix - The most honored, etc. This was a mere title of office.",
+            "Greeting - A term of salutation in an epistle wishing health, joy, and prosperity."
+        ],
+        "Marvin Vincent": [
+            "To the most excellent [\u03c4\u03c9 \u03ba\u03c1\u03b1\u03c4\u03b9\u03c3\u03c4\u03c9] . \"His excellency\" : an official title. Compare ch. Acts 24:3; Acts 26:25. ",
+            "Greeting [\u03c7\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd] . See on ch. Acts 14:23."
+        ],
+        "Archibald T. Robertson": [
+            "Most excellent (\u03ba\u03c1\u03b1\u03c4\u03b9\u03c3\u03c4\u03c9).",
+            "It is usual in addressing men of rank as here, like our 'Your Excellency'.",
+            "Greeting (\u03c7\u03b1\u03b9\u03c1\u03b5\u03b9\u03bd). Absolute infinitive with independent or absolute nominative."
+        ],
+        "John Gill": [
+            "The first of these names is a Roman one, and which he might take from the Emperor Claudius... and the latter seems to be a Greek name, and was his proper name, and, he himself very likely was a Greek.",
+            "The chief captain calls Felix the governor the most excellent, which was a title of honour that belonged to him as a governor.",
+            "Sendeth greeting; or wishes all health and prosperity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The governor, named Claudius, would take on this Roman name upon obtaining citizenship, while Lysias was his Greek family name. Most excellent was an honorary title of office and a formal way to address men of rank. The term greeting is an absolute infinitive with an independent nominative, used as a salutation in an epistle to wish health, joy, and prosperity. The chief captain sent this letter to Felix, the governor, who was addressed as the most excellent, a title of honor fitting for his role. The intention was to convey greetings and wishes for health and prosperity.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.7886232954699568,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.81,
+            "commentatorTierSimilarities": [
+                15.34,
+                44.66,
+                40.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The governor, known as Claudius, would assume this Roman name upon gaining citizenship, while Lysias marked his Greek heritage. Most excellent denoted an honorary title for officials of rank and was used as a form of address. The term greeting served as a salutation in a letter, conveying wishes for health, joy, and prosperity. The chief captain sent this message to Felix, the governor, recognizing his esteemed position. The purpose was to extend greetings and sincere wishes for well-being and success.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.599281830385325,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.52,
+            "commentatorTierSimilarities": [
+                15.41,
+                44.12,
+                40.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The governor, named Claudius, would take on this Roman name upon obtaining citizenship, while Lysias was his Greek family name. Most excellent was an honorary title of office and a formal way to address men of rank. The term greeting was used as a salutation in an epistle to extend wishes for health, joy, and prosperity. The chief captain sent this letter to Felix, the governor, recognizing his esteemed position. The intention was to convey greetings and wishes for health and prosperity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7049282545926467,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                13.6,
+                45.94,
+                40.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The governor, known as Claudius, would assume this Roman name upon gaining citizenship, while Lysias marked his Greek heritage. Most excellent denoted an honorary title for officials of rank. The term greeting served as a salutation, conveying wishes for health and prosperity. The chief captain sent this message to Felix, the governor, recognizing his esteemed position. The purpose was to extend greetings and sincere wishes for well-being.",
+            "wordCount": 68,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.6138871084809288,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                16.74,
+                43.07,
+                40.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The governor, named Claudius, would take on this Roman name upon obtaining citizenship, while Lysias was his Greek family name. Most excellent was an honorary title of office and a formal way to address men of rank. The term greeting was used as a salutation in an epistle to extend wishes for health, joy, and prosperity. The chief captain sent this letter to Felix, the governor, recognizing his esteemed position. The intention was to convey greetings and wishes for health and prosperity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7049282545926467,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                13.6,
+                45.94,
+                40.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

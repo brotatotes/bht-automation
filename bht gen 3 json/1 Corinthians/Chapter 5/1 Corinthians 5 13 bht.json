@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:04:49",
+    "verseRef": "1 Corinthians 5:13",
+    "bestBHT": {
+        "bht": "Quoting from Deuteronomy, the apostle Paul implores the church to remove the wicked person from their midst. This aligns with God's judgment. By putting away the wicked, the church safeguards its purity and prevents the spread of scandalous offenses. Paul's abrupt dismissal emphasizes the aversion to tolerating such individuals. While judgment of those outside the church is left to God, it is the church's responsibility to rid themselves of the wicked presence.",
+        "wordCount": 75,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 1.6676265740941472,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+        "commentatorTierSimilarities": [
+            27.06,
+            26.95,
+            45.99
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But them that are without GOD judgeth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. put away from among yourselves",
+            "\tthat wicked\u2014Sentence of excommunication in language taken from",
+            "\tDeuteronomy 24:7."
+        ],
+        "Albert Barnes": [
+            "Offences should not be allowed to grow until they become scandalous; but when they do, every consideration demands that the matter should be investigated.",
+            "People are often filled with pride when they have least occasion for it.",
+            "The exercise of discipline belongs to the church itself."
+        ],
+        "Marvin Vincent": [
+            "The usage of the Septuagint emphasizes the idea of active harmfulness.\" ",
+            "The word has, however, in some passages, the sense of niggardly or grudging.\" ",
+            "This sense may go to explain Matthew 20:15, and possibly Matthew 6:19, and Matthew 7:11."
+        ],
+        "John Calvin": [
+            "But what if you should view it as referring to the devil, who, undoubtedly in the person of a wicked and unprincipled man, is encouraged to establish his throne among us?\" ",
+            "For Paul shows how important it is not to tolerate wicked persons, as by this means Satan is expelled from his kingdom which he keeps up among us, when indulgence is given to the wicked.\" ",
+            "Chrysostom compares the rigor of the law with the mildness of the gospel, inasmuch as Paul was satisfied with excommunication in case of an offense for which the law required the punishment of death..."
+        ],
+        "Philip Schaff": [
+            "Where-as them that are without God judgeth that is His sole prerogative, and to Him ye may well leave it.",
+            "The marked abruptness with which the subject is thus dismissed well conveys the repulsiveness of the subject to the apostle\u2019s feelings.",
+            "Plague spots will then appear; and at times the whole renovation effected by the Gospel may seem ready, like a passing wave, to be swept away."
+        ],
+        "Archibald T. Robertson": [
+            "Put away the wicked man.\" ",
+            "By this quotation from Deuteronomy 17:7 Paul clinches the case for the expulsion of the offender.",
+            "Note \u03b5\u03be twice and effective aorist tense."
+        ],
+        "John Gill": [
+            "God will call them to an account for their fornication, covetousness, idolatry, extortion, c. and will judge, condemn, and punish them, according to their works...\" ",
+            "Therefore put away from among yourselves that wicked person; not that wicked thing, as some read it, but that wicked one...",
+            "...which was what became them as a church to do, and which lay in their power to do, and could only be done by them, and was to be their own pure act and deed..."
+        ],
+        "John Wesley": [
+            "Them that are without God will judge \u2014 The passing sentence on these he hath reserved to himself.",
+            "And ye will take away that wicked person \u2014 This properly belongs to you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul quotes from Deuteronomy to emphasize the need for the church to excommunicate the wicked person in their midst. By doing so, the church is following God's example of judgment. This act of putting away the wicked is necessary to preserve the purity of the church and to prevent scandalous offenses from spreading. It is a solemn responsibility that should not be taken lightly. The abruptness with which Paul dismisses the subject highlights the repulsiveness of tolerating such individuals. Ultimately, the judgment of those outside the church is left to God, but the church must take action to remove the wicked person from their midst. q",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.508819084696765,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.51,
+            "commentatorTierSimilarities": [
+                21.33,
+                33.95,
+                44.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul calls for the church to excommunicate the wicked person among them, drawing from Deuteronomy as a reference. By putting away the wicked, the church follows God's example of judgment. This act is essential to maintaining the church's purity and preventing the spread of scandalous offenses. Paul's abrupt dismissal of the subject reflects the repulsiveness of tolerating such individuals. While the judgment of those outside the church is left to God, it is the church's responsibility to remove the wicked from its midst.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.657168338752745,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.44,
+            "commentatorTierSimilarities": [
+                23.82,
+                30.18,
+                46.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul, quoting from Deuteronomy, calls for the church to excommunicate the wicked person in their midst. This act aligns with God's judgment. It is vital for the church to put away the wicked to maintain its purity and prevent scandalous offenses from spreading. The sharp dismissal of the subject underscores the repulsiveness of tolerating such individuals. While the judgment of those outside the church belongs to God, the responsibility lies with the church to remove the wicked from its midst.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.6233241469418325,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.32,
+            "commentatorTierSimilarities": [
+                23.84,
+                29.41,
+                46.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul urges the church to expel the wicked person among them, referencing Deuteronomy to support his point. By doing so, the church aligns with God's judgment. This action is crucial for upholding the church's purity and preventing the spread of scandalous offenses. Paul's swift dismissal of the subject highlights the repugnance of tolerating such individuals. While judgment of those outside the church is reserved for God, it is the responsibility of the church to rid itself of the wicked presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6378277901344094,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.8,
+            "commentatorTierSimilarities": [
+                25.86,
+                30.89,
+                43.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Quoting from Deuteronomy, the apostle Paul implores the church to remove the wicked person from their midst. This aligns with God's judgment. By putting away the wicked, the church safeguards its purity and prevents the spread of scandalous offenses. Paul's abrupt dismissal emphasizes the aversion to tolerating such individuals. While judgment of those outside the church is left to God, it is the church's responsibility to rid themselves of the wicked presence.",
+            "wordCount": 75,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.6676265740941472,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                27.06,
+                26.95,
+                45.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

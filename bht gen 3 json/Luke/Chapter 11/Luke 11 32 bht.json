@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:18:27",
+    "verseRef": "Luke 11:32",
+    "bestBHT": {
+        "bht": "The rejection of Christ's preaching of repentance will have more severe consequences than the Jews' failure to appreciate His wisdom. The repentance of the Ninevites at the preaching of Jonah stands as a witness against the Jews' persistent unbelief, despite having the Son of God Himself and His apostles among them. Their condemnation is intensified by their familiarity with religion and their refusal to repent, leading to their eventual destruction after a period of reprieve.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.137474287824724,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+        "commentatorTierSimilarities": [
+            18.64,
+            49.05,
+            32.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Jonah here is used as equivalent to the sign of Jonah, so that more applies to Him who is the sign to this generation: a sign, greater, both in its actuality, its significance, and its consequences.\" ",
+            "The order, here, seems to be for the sake of climax.\" ",
+            "The rejection of His preaching of repentance will lie heavier on them in the judgment than the undervaluing and not appreciating His wisdom."
+        ],
+        "Marvin Vincent": [
+            "Shall rise up...the meaning is, shall appear as witness.\" ",
+            "Hence Rev., stand up.",
+            "Preaching...The proclamation."
+        ],
+        "Philip Schaff": [
+            "If these Ninevites had not heard of the miracle, the contrast is even stronger. For in that case their repentance was simply at the preaching of Jonah, while the Jews remained unbelieving in the face of Christ\u2019s resurrection as well as His preaching.",
+            "There is a climax in the order of Luke; the greater sin was the rejection of Christ\u2019s preaching of repentance."
+        ],
+        "Archibald T. Robertson": [
+            "At the preaching of Jonah (\u03b5\u03b9\u03c2 \u03c4\u03bf \u03ba\u03b7\u03c1\u03c5\u03b3\u03bc\u03b1 \u0399\u03c9\u03bd\u03b1). Note this use of \u03b5\u03b9\u03c2 as in Matthew 10:41; Matthew 12:41.",
+            "Luke inserts the words about the Queen of the South (Luke 11:31) in between the discussion of Jonah (verses Luke 11:29; Luke 11:32).",
+            "Both \u03a3\u03bf\u03bb\u03bf\u03bc\u03c9\u03bd\u03bf\u03c2 (Luke 11:31) and \u0399\u03c9\u03bd\u03b1 (verse Luke 11:32) are in the ablative case after the comparative \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd (more, something more)."
+        ],
+        "John Gill": [
+            "For they repented at the preaching of Jonas, and behold a greater than Jonas is here.\" ",
+            "What in this case will aggravate the condemnation of the Jews in the day of judgment is that these men were Heathens, aliens from the commonwealth of Israel, and strangers to the covenants of promise, and were not used to have prophets sent to them.\" ",
+            "The Jews, who had a better notion of religion, and who, though they had the Son of God himself among them, and preached to them, and that many sermons, and whose ministry was confirmed by miracles, and afterwards his apostles for a course of years, had yet remained impenitent and unbelieving."
+        ],
+        "John Wesley": [
+            "They repented at the preaching of Jonah \u2014 But it was only for a season.",
+            "Afterward they relapsed into wickedness, till (after about forty years) they were destroyed.",
+            "God reprieved the Jews for about forty years; but they still advanced in wickedness, till having filled up their measure, they were destroyed with an utter destruction."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the significance and consequences of Jesus as the sign to this generation, which surpasses even the sign of Jonah. The rejection of Jesus' preaching of repentance will weigh heavier on them in judgment than their undervaluation of His wisdom. The preaching of Jonah led to the repentance of the Ninevites, highlighting the greater condemnation of the Jews who had the Son of God himself among them yet remained impenitent and unbelieving. Thus, the repentance of the Ninevites serves as a witness against the Jews' unbelief, leading to their destruction with an utter destruction after a period of reprieve.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0864419304974486,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
+            "commentatorTierSimilarities": [
+                21.78,
+                46.5,
+                31.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rejection of Jesus' preaching will have graver consequences than the undervaluation of His wisdom. The Ninevites repented at the preaching of Jonah, serving as a witness against the Jews' unbelief. Despite having the Son of God and His apostles among them, the Jews remained impenitent and unbelieving. Their condemnation is aggravated by their knowledge of religion and failure to repent, resulting in their eventual destruction after a period of reprieve.",
+            "wordCount": 71,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.9026144910476797,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                19.0,
+                45.55,
+                35.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of Christ's preaching of repentance will have more severe consequences than the Jews' failure to appreciate His wisdom. The repentance of the Ninevites at the preaching of Jonah stands as a witness against the Jews' persistent unbelief, despite having the Son of God Himself and His apostles among them. Their condemnation is intensified by their familiarity with religion and their refusal to repent, leading to their eventual destruction after a period of reprieve.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.137474287824724,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+            "commentatorTierSimilarities": [
+                18.64,
+                49.05,
+                32.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of His preaching of repentance will lie heavier on them in the judgment than the undervaluing and not appreciating His wisdom. The Ninevites repented at the preaching of Jonah, and behold a greater than Jonah is here. What in this case will aggravate the condemnation of the Jews in the day of judgment is that these men were Heathens, aliens from the commonwealth of Israel, and strangers to the covenants of promise, and were not used to have prophets sent to them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.109382301692909,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.48,
+            "commentatorTierSimilarities": [
+                22.16,
+                41.74,
+                36.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of Jesus' preaching of repentance will have graver consequences than the undervaluation of His wisdom. The Ninevites repented at the preaching of Jonah, witnessing an even greater sign through Jesus. This will intensify the condemnation of the Jews in the judgment, as they had a better understanding of religion but remained impenitent and unbelieving. The Jews' rejection of the Son of God, accompanied by His miracles and the ministry of His apostles, will contribute to their ultimate destruction.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.0348607729643713,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.0,
+            "commentatorTierSimilarities": [
+                20.09,
+                46.67,
+                33.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

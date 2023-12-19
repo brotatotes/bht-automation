@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:28:13",
+    "verseRef": "1 Timothy 3:13",
+    "bestBHT": {
+        "bht": "Those who faithfully serve in the office of deacon are acquiring for themselves a strong foundation and confidence in their faith. They serve as the pillar and foundation of truth, proclaiming the doctrines with their actions. By performing their duties well, they secure a good standing-place against the day of judgment and gain boldness rooted in their own faith. Through their service, they purchase a noble position and influence within the church, potentially leading to higher office. This honorable office brings great boldness in the faith, enabling them to confidently proclaim the truths of Christ.",
+        "wordCount": 96,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 2.1948633383288327,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.32,
+        "commentatorTierSimilarities": [
+            36.28,
+            31.19,
+            32.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Those who served well the office of deacon...are acquiring for themselves a good standing-place...[and] much confidence in the faith which is in Christ Jesus.",
+            "The standing-place is that which they are now securing for themselves...belonging therefore in part to both periods...but merely predicating the soundness of the ground on which these deacons will themselves stand.",
+            "The congregation of the faithful is the pillar and basement of the truth...they remain founded fixedly and immoveably on the rock, and proclaiming by their actions the truths of the doctrines."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "what those who have faithfully discharged the diaconate acquire for themselves is 'a good standing-place' against the day of judgment.",
+            "boldness (resting on that standing-place), as well for preaching and admonishing others now, as also especially in relation to God their coming Judge, before whom they may be boldly confident.",
+            "'in faith,' that is, boldness resting on their own faith."
+        ],
+        "Albert Barnes": [
+            "The 'word' implies nothing as to the exact nature of the office.",
+            "By exercising this office well, a deacon would secure additional respectability and influence in the church.",
+            "By the faithful performance of the duties of the office of a deacon, and by the kind of experience which a man would have in that office, he would establish a character of firmness in the faith, which would show that he was a decided Christian."
+        ],
+        "Marvin Vincent": [
+            "Purchase is unfortunate from the point of modern usage; but it is employed in its original sense of to win, acquire, without any idea of a bargain.",
+            "Here the word apparently means a position of trust and influence in the church; possibly a promotion from the diaconate to the episcopate.",
+            "An assured position and blameless reputation in the church, with a pure conscience, would assure boldness of speech and of attitude in the Christian community and elsewhere."
+        ],
+        "John Calvin": [
+            "They who have discharged this ministry in a proper manner are worthy of no small honor; because it is not a mean employment, but a highly honorable office.\" ",
+            "How absurd is it for Papists to maintain that, in making deacons, they do what Paul enjoins!\" ",
+            "There is nothing that tends so much to produce liberty as a good conscience and a life free from crime and reproach."
+        ],
+        "Philip Schaff": [
+            "They gain a noble position where they are.",
+            "The humbler work may be made as noble as the higher.",
+            "Is the boldness one of feeling or utterance? Is the \u2018faith\u2019 the trust of the man in God, or the creed which he believes? No certain answer can be given to these questions."
+        ],
+        "Archibald T. Robertson": [
+            "Gain to themselves (\u03b5\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c0\u03bf\u03b9\u03bf\u03c5\u03bd\u03c4\u03b1)... to make besides, to lay by.",
+            "A good standing (\u03b2\u03b1\u03b8\u03bc\u03bf\u03bd \u03ba\u03b1\u03bb\u03bf\u03bd)...means a good foothold or standing.",
+            "Much boldness (\u03c0\u03bf\u03bb\u03bb\u03b7\u03bd \u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1\u03bd)... the faith which is in Christ Jesus."
+        ],
+        "John Gill": [
+            "For they that have used the office of a deacon well...purchase to themselves a good degree.\" ",
+            "They possess and enjoy, which is the meaning of the word 'purchase,' a very honourable office in the church.",
+            "Great boldness in the faith, which is in Christ Jesus...may be boldly done by those who use this office well."
+        ],
+        "John Wesley": [
+            "They purchase a good degree \u2014 Or step, toward some higher office.",
+            "And much boldness \u2014 From the testimony of a good conscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who faithfully serve in the office of deacon are acquiring for themselves a strong foundation and confidence in their faith. They serve as the pillar and foundation of truth, proclaiming the doctrines with their actions. By performing their duties well, they secure a good standing-place against the day of judgment and gain boldness rooted in their own faith. Their blameless reputation and pure conscience assure boldness of speech in the church and beyond. Through their service, they purchase a noble position and influence within the church, potentially leading to higher office. This honorable office brings great boldness in the faith, enabling them to confidently proclaim the truths of Christ.",
+            "wordCount": 111,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1638963379667944,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                36.38,
+                30.62,
+                33.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who faithfully serve in the office of deacon are acquiring for themselves a strong foundation and confidence in their faith. They serve as the pillar and foundation of truth, proclaiming the doctrines with their actions. By performing their duties well, they secure a good standing-place against the day of judgment and gain boldness rooted in their own faith. Through their service, they purchase a noble position and influence within the church, potentially leading to higher office. This honorable office brings great boldness in the faith, enabling them to confidently proclaim the truths of Christ.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.1948633383288327,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.32,
+            "commentatorTierSimilarities": [
+                36.28,
+                31.19,
+                32.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By faithfully serving as deacons, individuals are not only acquiring a good reputation and standing for themselves, but also gaining confidence in their faith. They serve as a strong foundation and pillar of truth, firmly rooted in the rock of Christ. Through their actions, they boldly proclaim the doctrines and teachings of the faith. Their commitment to their role allows them to boldly speak and confidently approach God as their ultimate Judge. This dedicated service can lead to a higher office within the church, bringing honorable influence and further boldness in the faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9963366854975648,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.72,
+            "commentatorTierSimilarities": [
+                38.43,
+                31.06,
+                30.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who faithfully serve as deacons not only gain a good standing-place but also acquire confidence in their faith. Their service in the church acts as a pillar and foundation of truth, firmly rooted in the unfaltering rock of Jesus Christ. By their actions, they boldly proclaim the doctrines and truths of the faith. Through their dedication, they secure a noble position and influence in the church, potentially leading to higher office. This honorable office grants them great boldness in their faith, allowing them to confidently proclaim and uphold the teachings of Christ.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 2.155519927381544,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                37.4,
+                30.86,
+                31.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who faithfully serve as deacons not only acquire a good standing-place but also gain confidence in their faith. Their service in the church acts as a solid foundation, rooted in the unshakeable rock of Jesus Christ. Through their actions, they boldly proclaim the truths of the faith. By fulfilling their duties well, they secure a position of honor within the church, potentially leading to higher office. This esteemed position brings great boldness in their faith, enabling them to confidently assert the teachings of Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0935572730802665,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                38.0,
+                31.07,
+                30.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:18:35",
+    "verseRef": "Luke 12:2",
+    "bestBHT": {
+        "bht": "No secret sin can remain concealed indefinitely, for everything that is hidden will eventually come to light. Therefore, it is essential to speak the truth openly and fearlessly, without attempting to cover up or hide anything. Even the most carefully concealed sins are known by God, who will bring all things into judgment and reveal the secrets of every heart. Whether in this world or the next, no sin will remain covered up; everything will be exposed.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7904774623411428,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+        "commentatorTierSimilarities": [
+            34.15,
+            0.0,
+            65.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Tis no use concealing anything, for all will one day come out.\" ",
+            "Give free and fearless utterance then to all the truth.\" ",
+            "For all will one day come out."
+        ],
+        "Marvin Vincent": [
+            "Covered up [\u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03b1\u03bb\u03c5\u03bc\u03bc\u03b5\u03bd\u03bf\u03bd] . Only here in New Testament : implying close concealment."
+        ],
+        "Archibald T. Robertson": [
+            "Verses Luke 12:2-9 here are parallel with Matthew 10:26-33 spoken to the Twelve on their tour of Galilee, illustrating again how often Jesus repeated his sayings unless we prefer to say that he never did so and that the Gospels have hopelessly jumbled them as to time and place.",
+            "Covered up (\u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03b1\u03bb\u03c5\u03bc\u03bc\u03b5\u03bd\u03bf\u03bd \u03b5\u03c3\u03c4\u03b9\u03bd). Periphrastic perfect passive indicative of \u03c3\u03c5\u03b3\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03c9, an old verb, but here only in the N.T., to cover up on all sides and so completely.",
+            "See the passage in Matthew for discussion of details."
+        ],
+        "John Gill": [
+            "For there is nothing covered that shall not be revealed... if not in this world, which is often the case, yet the last judgment, and in the world to come.\" ",
+            "No sin, be it ever so secret or privately done, as nothing is more covered than hypocrisy, but what shall be detected sooner or later.",
+            "How careful soever men may be to hide their vices from others, they are known to God; who will bring every thing into judgment, and make manifest the secrets of all hearts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No sin, no matter how concealed or hidden it may seem, will remain undiscovered forever. The truth will be revealed, whether in this world or in the final judgment. Even the secrets of the heart, the most private and hidden sins, are known to God and will be brought into judgment. Therefore, it is important to speak the truth openly and fearlessly, without concealing anything, because ultimately, everything will come to light.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.6262881675977465,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                29.44,
+                0.0,
+                70.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No secret or covered sin will remain undisclosed forever, for all that is hidden will eventually come to light. It is vital, therefore, to speak truth freely and without fear, as the truth cannot be suppressed indefinitely. Even the most well-concealed sins are not hidden from God, who will bring all things to judgment and expose the secrets of the heart. Whether in this life or in the world to come, nothing will remain covered up and all will be revealed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7598474423580441,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                31.66,
+                0.0,
+                68.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No secret or covered sin will remain undisclosed forever, for all that is hidden will eventually come to light. It is vital, therefore, to speak truth freely and without fear, as the truth cannot be suppressed indefinitely. Even the most well-concealed sins are not hidden from God, who will bring all things to judgment and expose the secrets of the heart. Whether in this life or in the world to come, nothing will remain covered up and all will be revealed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7598474423580441,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                31.66,
+                0.0,
+                68.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No secret sin can remain hidden forever, as all things will be brought to light in due time. It is crucial, therefore, to speak the truth boldly and without hesitation, for the truth cannot be concealed indefinitely. Even the most carefully covered sins are not hidden from God, who will ultimately judge all and reveal the hidden secrets of the heart. Whether in this present world or in the final judgment, nothing will remain covered up, and everything will be exposed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7296845365098603,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                32.76,
+                0.0,
+                67.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No secret sin can remain concealed indefinitely, for everything that is hidden will eventually come to light. Therefore, it is essential to speak the truth openly and fearlessly, without attempting to cover up or hide anything. Even the most carefully concealed sins are known by God, who will bring all things into judgment and reveal the secrets of every heart. Whether in this world or the next, no sin will remain covered up; everything will be exposed.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7904774623411428,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                34.15,
+                0.0,
+                65.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

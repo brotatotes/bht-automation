@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:20:22",
+    "verseRef": "Luke 16:3",
+    "bestBHT": {
+        "bht": "In this parable, a servant's extravagant and soft lifestyle is his undoing. Unable to engage in honest labor, he feels ashamed at the thought of begging. His guilt arises from embezzling his master's funds for his own gain, reflecting his misguided sense of honor. This narrative serves as a cautionary tale against materialism, highlighting the importance of humility and integrity in one's actions. It reminds us to prioritize honest living over self-indulgence and dishonesty.",
+        "wordCount": 78,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 1.4646838422301398,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.04,
+        "commentatorTierSimilarities": [
+            36.07,
+            20.06,
+            43.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He has not by his waste of his lord\u2019s property been laying up any store for himself;\u2014that is not the point of the parable.",
+            "He has lived softly and effeminately, and cannot do an honest day\u2019s work.",
+            "This speech, of digging and begging, must not be sought for in the interpretation; it belongs to the truth of the parable itself, as introducing the scheme which follows, but has no ulterior meaning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. cannot dig . . . to beg,",
+            "\tashamed\u2014therefore, when dismissed, shall be in utter want."
+        ],
+        "Albert Barnes": [
+            "To dig,\" here, is the same as to till the earth, to work at daily labor.",
+            "The habit of labor may be of more value to them than the price you pay them.",
+            "Set them to work, and pay them a fair compensation, and you do them good in two ways."
+        ],
+        "Marvin Vincent": [
+            "He was not yet dispossessed, as is shown by what follows.",
+            "His luxurious life had unfitted him for hard labor.",
+            "Yes; why should I suffer, for I know not how to dig?"
+        ],
+        "Archibald T. Robertson": [
+            "Within himself... He knew that he was guilty of embezzlement of the Master's funds.\" ",
+            "He is taking away for himself.\" ",
+            "The infinitive with \u03b1\u03b9\u03c3\u03c7\u03c5\u03bd\u03bf\u03bc\u03b1 means ashamed to begin to beg."
+        ],
+        "John Gill": [
+            "what shall I do for a maintenance? how shall I live? what shall I do to please men, and gain their opinion and good will?",
+            "I cannot dig... for nothing was meaner among the Jews than husbandry.",
+            "to beg I am ashamed; for nothing could be more disagreeable... than begging."
+        ],
+        "John Wesley": [
+            "To beg I am ashamed \u2014 But not ashamed to cheat! This was likewise a sense of honour! \"By men called honour, but by angels pride."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question highlights a servant who realizes the consequences of squandering his master's possessions and living a luxurious life. Although he contemplates digging and begging, these actions are not meant to be taken literally, but rather serve as an introduction to the scheme that follows. The servant, being accustomed to a life of indulgence, is ashamed of hard labor and begging, yet his guilt and fear of destitution push him to devise a plan to secure his future. Ultimately, this verse illustrates the servant's misguided priorities and lack of integrity, highlighting the dangers of materialistic tendencies and the need for humility and honest living.",
+            "wordCount": 108,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3904532148047073,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.58,
+            "commentatorTierSimilarities": [
+                40.72,
+                17.71,
+                41.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This parable presents a servant who, through his wastefulness, failed to secure a future for himself. The speech about digging and begging should not be interpreted literally; it simply serves to introduce the subsequent scheme. The servant's luxurious lifestyle left him incapable of performing honest labor, as he confesses, I cannot dig. His shame at resorting to begging reveals his misplaced priorities and dishonorable actions. This passage warns against materialism and reminds us of the importance of humility and integrity in our choices.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.4635722422609971,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                43.67,
+                16.15,
+                40.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this parable, a servant's extravagant lifestyle leads to his downfall. Though he considers digging and begging, these actions are not the focus of the story but rather serve to introduce his subsequent scheme. The servant's indolence renders him inadequate for labor, causing him to be ashamed of begging. His guilt stems from embezzlement, stealing from his master for personal gain. This passage cautions against materialism, highlighting the importance of humility and honesty in one's actions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.4685707455817147,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.17,
+            "commentatorTierSimilarities": [
+                39.94,
+                20.02,
+                40.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This parable presents a servant who, by squandering his master's possessions and indulging in a luxurious life, fails to secure a future for himself. Unable to labor, he is ashamed to resort to begging. This passage serves as a warning against materialism, showcasing the servant's misguided priorities and lack of integrity. It emphasizes the need for humility and an honest work ethic while discouraging dishonest actions driven by self-interest.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5239603809487106,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.01,
+            "commentatorTierSimilarities": [
+                36.34,
+                20.64,
+                43.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this parable, a servant's extravagant and soft lifestyle is his undoing. Unable to engage in honest labor, he feels ashamed at the thought of begging. His guilt arises from embezzling his master's funds for his own gain, reflecting his misguided sense of honor. This narrative serves as a cautionary tale against materialism, highlighting the importance of humility and integrity in one's actions. It reminds us to prioritize honest living over self-indulgence and dishonesty.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4646838422301398,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.04,
+            "commentatorTierSimilarities": [
+                36.07,
+                20.06,
+                43.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

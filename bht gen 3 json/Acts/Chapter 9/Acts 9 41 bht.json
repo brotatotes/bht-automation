@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:28:47",
+    "verseRef": "Acts 9:41",
+    "bestBHT": {
+        "bht": "Peter reached out his hand and lifted her up, just as Jesus had done to his own mother-in-law. It was a joyful moment for Peter, the widows, and all the saints, as they witnessed the miraculous resurrection of Dorcas. Peter presented her alive, displaying her to them as a testament to the power of God. This act brought great joy and astonishment to everyone present, especially to the poor widows who had benefited from her charitable deeds.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 1.6875912146142795,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.45,
+        "commentatorTierSimilarities": [
+            29.99,
+            38.76,
+            31.25
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "41. he gave her his hand, and lifted",
+            "\ther up\u2014as his Lord had done to his own mother-in-law ( :-)."
+        ],
+        "Albert Barnes": [
+            "He presented her alive - He exhibited, or showed her to them alive. Compare 1 Kings 17:23."
+        ],
+        "John Calvin": [
+            "Luke repeateth, again, in the end that she was showed openly to the disciples; whence we gather that she was raised again, rather for other men\u2019s sake than for her own.",
+            "As if it were not lawful for God to have respect of his glory as well in death as in life; and as if this were not the true felicity of the godly to live and die to him.",
+            "Therefore, there shall no inconvenience follow, if the Lord had greater respect to his own glory than to Tabitha."
+        ],
+        "Archibald T. Robertson": [
+            "Raised her up (\u03b1\u03bd\u03b5\u03c3\u03c4\u03b7\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03b7\u03bd). First aorist active indicative, transitive, of \u03b1\u03bd\u03b9\u03c3\u03c4\u03b7\u03bc.\" ",
+            "Presented (\u03c0\u03b1\u03c1\u03b5\u03c3\u03c4\u03b7\u03c3\u03b5\u03bd). First aorist active indicative, transitive of \u03c0\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03bc (cf. intransitive second aorist in verse Acts 9:39 above).",
+            "It was a joyful time for Peter, the widows, all the saints, and for Dorcas."
+        ],
+        "John Gill": [
+            "And he gave her his hand, and lift her up,.... Off of the bed or bier where she was.",
+            "presented her alive; as Christ did the widow's son of Naam to her, Luke 7:15",
+            "which no doubt was matter of great joy as well as astonishment to all the saints, and especially to the poor widows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter reached out his hand and lifted her up, just as Jesus had done to his own mother-in-law. It was a joyful moment for Peter, the widows, and all the saints, as they witnessed the miraculous resurrection of Dorcas. Peter presented her alive, displaying her to them as a testament to the power of God. This act brought great joy and astonishment to everyone present, especially to the poor widows who had benefited from her charitable deeds.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.6875912146142795,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.45,
+            "commentatorTierSimilarities": [
+                29.99,
+                38.76,
+                31.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter extended his hand, giving her a helping lift, reminiscent of how Jesus had raised his own mother-in-law. This act was a cause for celebration and rejoicing among Peter, the widows, and all the saints. Dorcas was presented alive, mirroring the resurrection of the widow's son in Luke 7:15. This miraculous event brought immense joy and astonishment to all those witnessing it, particularly the grateful widows who had been recipients of her benevolent acts.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5458269653212833,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                30.27,
+                31.43,
+                38.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter reached out his hand and lifted her up, as Jesus had done to his own mother-in-law. This joyful occasion was a testament to the power of God, visibly demonstrated by the miraculous resurrection of Dorcas. Just as Jesus presented the widow's son alive in Luke 7:15, Peter presented Dorcas alive to all the saints, bringing great joy and astonishment, especially to the poor widows who had benefited from her kindness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.575088303380344,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                30.76,
+                33.24,
+                36.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter extended his hand and lifted her up, just as his Lord had done for his own mother-in-law. This act of raising her up was a joyful moment for Peter, the widows, and all the saints, serving as a visible proof of the power of God. Dorcas was presented alive, bringing great joy and astonishment to the observers, particularly the poor widows who had been recipients of her good deeds. The resurrection of Dorcas showcased God's glory and illustrated the true happiness of living and dying for Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.6032881121837623,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.65,
+            "commentatorTierSimilarities": [
+                29.62,
+                36.01,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter reached out his hand and lifted her up, just as his Lord had done for his own mother-in-law. This act of raising her up was a joyful moment for Peter, the widows, and all the saints, demonstrating the power of God. Dorcas was presented alive, bringing great joy and astonishment to the observers, especially the poor widows who had benefited from her generosity. The resurrection of Dorcas showcased God's glory and highlighted the importance of living and dying for Him.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6177787084637023,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.13,
+            "commentatorTierSimilarities": [
+                30.91,
+                33.74,
+                35.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

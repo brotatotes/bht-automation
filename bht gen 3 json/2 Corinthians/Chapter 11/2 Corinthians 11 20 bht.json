@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:18:21",
+    "verseRef": "2 Corinthians 11:20",
+    "bestBHT": {
+        "bht": "You willingly bear the oppression, violence, and insults of false teachers who exalt themselves and smite you on the face. Their deceitful and injurious treatment, which you quietly put up with, demonstrates the enslaving nature of their false religion. They seek your property, not your souls, and treat you disrespectfully. Nevertheless, you refuse to resist or complain, obediently enduring their actions as cunning and arrogant individuals.",
+        "wordCount": 66,
+        "quoteTokenProportion": 37.25,
+        "qualityScore": 1.8979268473571662,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+        "commentatorTierSimilarities": [
+            24.17,
+            39.92,
+            35.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For proof that they could have no objection to so innocent a man as a fool, when they tolerated such noxious ones are adduced.",
+            "That such violence might literally be expected from the rulers of the early Christian society.",
+            "Even so late as the seventh century the council of Braga, A.D. 675, orders that no bishop at his will and pleasure shall strike his clergy, lest he lose the respect which they owe him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For ye even 'bear with' oppressors.",
+            "Devours,\" \"takes,\" \"exalts,\" \"smites.",
+            "Under the pretext of divine zeal."
+        ],
+        "Albert Barnes": [
+            "A false religion always makes slaves. It is only true Christianity that leaves perfect freedom.",
+            "False teachers are always rapacious. They seek the property, not the souls of those to whom they minister.",
+            "The false teachers really treated them with as little respect as if they smote them on the face."
+        ],
+        "Marvin Vincent": [
+            "Take as a prey, as Luke 5:5.",
+            "Exalteth himself as ch. 10 5.",
+            "The climax of insult."
+        ],
+        "John Calvin": [
+            "You bear with every thing from others, if they oppress you, if they demand what belongs to you, if they treat you disdainfully. Why then will you not bear with me, as they are in no respect superior to me?",
+            "It has been the invariable custom, and will be so to the end, to resist contumaciously the servants of God, to get enraged on the least occasion, to grumble and murmur incessantly, to complain of even a moderate strictness, to hold all discipline in abhorrence.",
+            "Those very persons are all at once in an uproar, in opposition to the fatherly and truly salutary reproofs of their pastors, who, on the other hand, had formerly swallowed down quietly every kind of insult, even the most atrocious, from the monks."
+        ],
+        "Philip Schaff": [
+            "The five things here said to be borne with are clearly just the things which the Corinthians had suffered those deceitful workers to do against himself.\" ",
+            "All this rude and injurious treatment of one to whom they owed their conversion to Christ they were quietly putting up with.",
+            "They were quietly putting up with."
+        ],
+        "Archibald T. Robertson": [
+            "You tolerate tyranny, extortion, craftiness, arrogance, violence, and insult.",
+            "Sarcasm that cut to the bone.",
+            "The climax of insult, smiting on the face."
+        ],
+        "John Gill": [
+            "They not only suffered and tolerated the foolish boasting of these men with pleasure, but patiently and stupidly bore their oppressions, injuries, and insults, things that were intolerable, which no man of any sense and wisdom would ever suffer...",
+            "...they were voluntarily led captive, and brought into bondage by them, to the yoke of the ceremonial law, to the observance of circumcision, meats and drinks, days, months, times and years; and to the yoke of human doctrines, traditions, tenets, laws, and rules.",
+            "...though they gave them very opprobrious language, vilifying and reproaching them as uncircumcised persons, upbraiding and hitting them on the teeth with their former idolatries and manners of life; yet all was taken in good part, so much were they under the government and influence of these men."
+        ],
+        "John Wesley": [
+            "If a man enslave you \u2014 Lord it over you in the most arbitrary manner.",
+            "If he devour you \u2014 By his exorbitant demands; notwithstanding his boast of not being burdensome.",
+            "If he smite you on the face \u2014 (A very possible case,) under pretence of divine zeal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You tolerate such noxious individuals, even though you could have no objection to an innocent man, like a fool. It is outrageous that the rulers of the early Christian society would act with such violence. The insults they hurl at you, the tyranny, extortion, craftiness, arrogance, violence, and insult, are all things you willingly bear. Their false religion enslaves, seeking your property instead of caring for your souls. They treat you with disrespect, as if they smote you on the face. Yet, you quietly put up with it, refusing to resist or complain against their rude and injurious treatment.",
+            "wordCount": 99,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8171315472472278,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                28.96,
+                35.64,
+                35.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You tolerate such noxious individuals, even though you could have no objection to an innocent man, like a fool. The violence shown by the rulers in early Christian society is outrageous. The insults they hurl at you, the tyranny, extortion, craftiness, arrogance, violence, and insult, are all things you willingly bear. Their false religion enslaves, seeking your property instead of caring for your souls. Yet, you quietly put up with it, refusing to resist or complain against their rude and injurious treatment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7892054448071084,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.83,
+            "commentatorTierSimilarities": [
+                30.26,
+                34.92,
+                34.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "You bear with noxious oppressors who devour, exalt themselves, and smite you on the face. Their violence and insults are tolerated, even to the point of quietly putting up with them. False teachers seek property instead of souls, treating you disrespectfully as if they smote you on the face. Their rude and injurious treatment, which you willingly bear, reveals the enslaving nature of their false religion. Despite this, you refuse to resist or complain, remaining obedient to these deceitful workers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8931209445964883,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.29,
+            "commentatorTierSimilarities": [
+                25.38,
+                40.64,
+                33.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You bear with oppressors, allowing them to devour, exalt themselves, and smite you on the face. Their violence and insults, which you tolerate, are a climax of insult. Despite this, you quietly put up with their rude and injurious treatment, showing the extent of the enslaving nature of false teachings. False teachers seek property instead of souls and treat you with disrespect. But you refuse to resist or complain, obediently enduring the deceitful workers.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7806248260729327,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.55,
+            "commentatorTierSimilarities": [
+                26.78,
+                37.77,
+                35.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You willingly bear the oppression, violence, and insults of false teachers who exalt themselves and smite you on the face. Their deceitful and injurious treatment, which you quietly put up with, demonstrates the enslaving nature of their false religion. They seek your property, not your souls, and treat you disrespectfully. Nevertheless, you refuse to resist or complain, obediently enduring their actions as cunning and arrogant individuals.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.8979268473571662,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                24.17,
+                39.92,
+                35.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

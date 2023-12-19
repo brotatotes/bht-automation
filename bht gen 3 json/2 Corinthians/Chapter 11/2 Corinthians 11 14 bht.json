@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:11",
+    "verseRef": "2 Corinthians 11:14",
+    "bestBHT": {
+        "bht": "Satan, the prince of darkness, has the ability to transform himself into an angel of light to deceive the saints. His servants also follow this pattern of disguising themselves as bright beings. Paul passionately condemns the Judaizing leaders in Corinth, describing them as false brethren who resemble Satan taking on the appearance of an angel of light. We must be vigilant, recognizing that plausible displays of piety may mask the cunning and deceptive tactics of the enemy.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.357799378080988,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.74,
+        "commentatorTierSimilarities": [
+            27.92,
+            35.87,
+            36.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God is light, and inhabits light, and His angelic attendants are surrounded with brightness.",
+            "Satan is the Power of darkness.",
+            "Satan is the Power of darkness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "transforms himself\" (compare :-)",
+            "If their master himself, who is the 'prince of darkness,' the most alien to light, does so, it is less marvellous in the case of them who are his servants\" (Luke 22:54; Ephesians 6:12)",
+            "who are his servants"
+        ],
+        "Albert Barnes": [
+            "Since Satan himself is capable of appearing to be an angel of light, it is not to be deemed strange that those who are in his service also should resemble him.",
+            "He who is an apostate angel; who is malignant and wicked; who is the prince of evil, assumes the appearance of a holy angel.",
+            "Some of the most plausible appearances of piety are assumed by Satan and his ministers."
+        ],
+        "Marvin Vincent": [
+            "The rabbinical writings represent the devil rather as the enemy of man than of God or of good.\" ",
+            "Instead of the personified principle of evil to which there is response in us - we have only a clumsy and often a stupid hater.\" ",
+            "It is also to be observed that in the Septuagint the usage is limited to the enemy of man."
+        ],
+        "John Calvin": [
+            "If Satan, who is the basest of all beings, nay, the head and chief of all wicked persons, transforms himself, what will his ministers do?",
+            "...he does not profess to be what he really is...he rather makes it his endeavor to appear as an angel.",
+            "It is a well-known saying as to Babylon, that she gives poison to drink in a golden cup. Hence we must be on our guard against masks."
+        ],
+        "Philip Schaff": [
+            "Satan fashioneth himself into an angel of light.",
+            "His own element is darkness.",
+            "He veils his lies in the dress of truth."
+        ],
+        "Archibald T. Robertson": [
+            "An angel of light (\u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03bd \u03c6\u03c9\u03c4\u03bf\u03c2). The prince of darkness puts on the garb of light and sets the fashion for his followers in the masquerade to deceive the saints.",
+            "This terrible portrayal reveals the depth of Paul's feelings about the conduct of the Judaizing leaders in Corinth.",
+            "In Galatians 2:4 he terms those in Jerusalem 'false brethren'."
+        ],
+        "John Gill": [
+            "Satan himself is transformed into an angel of light; a good angel, one that has his abode in the regions of light; and is possessed of divine and spiritual light and understanding; who is clothed and arrayed with light, this is his form and essence.",
+            "Under a show of truth, [Satan] introduces the most notorious falsehoods and errors.",
+            "Under a pretence of religion, [Satan introduces] all sorts of idolatry, superstition, and impiety; it is in this way he has succeeded in his enterprises and temptations; these are his wiles, stratagems, and cunning devices."
+        ],
+        "John Wesley": [
+            "Satan himself is transformed \u2014 Uses to transform himself; to put on the fairest appearances."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Satan, the prince of darkness, has the ability to transform himself into an angel of light, deceiving even the saints. He and his servants disguise themselves as beings surrounded by brightness, imitating the divine and spiritual light that God inhabits. This portrayal of Satan reveals the depth of Paul's feelings about the conduct of the Judaizing leaders in Corinth, whom he describes as false brethren. Just as Satan veils his lies in the dress of truth, we must be on guard against masks and be cautious of plausible appearances of piety that may actually be the work of the enemy.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.467543512010658,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.39,
+            "commentatorTierSimilarities": [
+                28.59,
+                35.1,
+                36.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan, the prince of darkness, has the ability to transform himself into an angel of light, deceiving even the saints. He and his servants disguise themselves, imitating the divine and spiritual light that God inhabits. This portrayal of Satan reveals the depth of Paul's feelings about the conduct of the Judaizing leaders in Corinth, whom he describes as false brethren. We must be on guard against masks and be cautious of plausible appearances of piety that may actually be the work of the enemy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.3117023528996947,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+            "commentatorTierSimilarities": [
+                29.44,
+                34.41,
+                36.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan, the prince of darkness, can transform himself into an angel of light, cunningly deceiving the saints. This reveals the depth of Paul's feelings towards the deceitful leaders in Corinth, whom he considers false brethren. We must remain vigilant, as Satan and his servants can appear as beings surrounded by brightness, imitating the divine light of God. Their plausible appearances of piety may be veiled lies, and it is essential to be cautious of their cunning and deceptive tactics.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.244394409813661,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.97,
+            "commentatorTierSimilarities": [
+                28.89,
+                35.6,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan, the prince of darkness, has the ability to transform himself into an angel of light, deceiving even the saints. He and his servants disguise themselves as beings surrounded by brightness, imitating the divine and spiritual light that God inhabits. This portrayal of Satan reveals the depth of Paul's feelings about the conduct of the Judaizing leaders in Corinth, whom he describes as false brethren. Just as Satan veils his lies in the dress of truth, we must be on guard against masks and be cautious of plausible appearances of piety that may actually be the work of the enemy.",
+            "wordCount": 101,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.467543512010658,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.39,
+            "commentatorTierSimilarities": [
+                28.59,
+                35.1,
+                36.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan, the prince of darkness, has the ability to transform himself into an angel of light to deceive the saints. His servants also follow this pattern of disguising themselves as bright beings. Paul passionately condemns the Judaizing leaders in Corinth, describing them as false brethren who resemble Satan taking on the appearance of an angel of light. We must be vigilant, recognizing that plausible displays of piety may mask the cunning and deceptive tactics of the enemy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.357799378080988,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.74,
+            "commentatorTierSimilarities": [
+                27.92,
+                35.87,
+                36.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 16:22:07",
+    "verseRef": "Luke 20:32",
+    "bestBHT": {
+        "bht": "The woman in this account experienced the loss of all seven of her husbands without bearing any children. This serves as a poignant reminder of the brevity and uncertainty of life, as well as the disappointment and grief that can come with unfulfilled desires. It highlights the transitory nature of our human existence and the need to find meaning beyond our temporal circumstances.",
+        "wordCount": 63,
+        "quoteTokenProportion": 39.58,
+        "qualityScore": 1.0561897254042458,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.46,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Last of all the woman died also. Having had no children by either of her seven husbands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman in this verse experienced the loss of all seven of her husbands without bearing any children. This serves as a poignant reminder of the brevity and uncertainty of life, as well as the disappointment and grief that can come with unfulfilled desires.",
+            "wordCount": 44,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.582481648380819,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.96,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman in this passage faced the heartbreaking reality of losing each of her seven husbands without having any children. This tragic sequence of events serves as a poignant reminder of life's fleeting nature and the unpredictable nature of our desires.",
+            "wordCount": 42,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6230056778642168,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman in this account experienced the deep sorrow of losing all seven of her husbands, none of whom she bore children with. This story highlights the brevity of life and the emotional pain that can come from unfulfilled hopes and dreams. It serves as a powerful reminder of the frailty of human existence and the need to find meaning and purpose beyond our temporal circumstances.",
+            "wordCount": 66,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 0.9696996625316772,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.59,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman in this account faced the devastating reality of losing all seven of her husbands, without having any children. This narrative underscores the transitory nature of life and reveals the heartache that can accompany unmet expectations. It serves as a poignant reminder of the fragility and uncertainty of our human existence, prompting us to seek meaning and fulfillment beyond the temporal realm.",
+            "wordCount": 63,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 0.881217256624099,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.64,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman in this account experienced the loss of all seven of her husbands without bearing any children. This serves as a poignant reminder of the brevity and uncertainty of life, as well as the disappointment and grief that can come with unfulfilled desires. It highlights the transitory nature of our human existence and the need to find meaning beyond our temporal circumstances.",
+            "wordCount": 63,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.0561897254042458,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.46,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

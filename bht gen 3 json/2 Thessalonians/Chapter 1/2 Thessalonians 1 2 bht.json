@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:37:38",
+    "verseRef": "2 Thessalonians 1:2",
+    "bestBHT": {
+        "bht": "May grace and peace be multiplied to you, coming from God our Father. It is significant to observe that Jesus Christ is presented as being equal to God, though not identical. Jesus Christ, alongside God, is the ultimate giver of these blessings. As recipients of this abundance, we can find solace in knowing that grace and peace flow from both God the Father and Jesus Christ.",
+        "wordCount": 66,
+        "quoteTokenProportion": 48.89,
+        "qualityScore": 1.4915372046963045,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+        "commentatorTierSimilarities": [
+            59.05,
+            0.0,
+            40.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "2. from God our Father\u2014So some",
+            "\toldest manuscripts read. Others omit \"our."
+        ],
+        "Archibald T. Robertson": [
+            "In both cases Jesus Christ is put on a par with God, though not identical.",
+            "Difference between \u03b5\u03bd, in the sphere of, by the power of, and \u03b1\u03c0\u03bf, from, as the fountain head and source of grace and peace.",
+            "Jesus Christ is put on a par with God."
+        ],
+        "John Gill": [
+            "Grace be unto you, and peace,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May grace and peace be multiplied to you from God our Father. In this verse, the inclusion of from God our Father emphasizes the source of grace and peace. It is important to note that Jesus Christ is placed on the same level as God, indicating his divine nature. While there is a distinction between the power and authority of Jesus Christ and that of God, they are still connected as the fountainhead of grace and peace. As believers, we can find comfort in the knowledge that these blessings are bestowed upon us by both God the Father and Jesus Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.4506553863993703,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                56.23,
+                0.0,
+                43.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May grace and peace be multiplied to you, coming from God our Father. It is significant to observe that Jesus Christ is presented as being equal to God, though not identical. This distinction is seen in the use of from and in the sphere of when referring to the power and source of grace and peace. Jesus Christ, alongside God, is the ultimate giver of these blessings. As recipients of this abundance, we can find solace in knowing that grace and peace flow from both God the Father and Jesus Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.4432828286157198,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.33,
+            "commentatorTierSimilarities": [
+                57.34,
+                0.0,
+                42.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May grace and peace be multiplied to you, coming from God our Father. It is significant to observe that Jesus Christ is presented as being equal to God, though not identical. Jesus Christ, alongside God, is the ultimate giver of these blessings. As recipients of this abundance, we can find solace in knowing that grace and peace flow from both God the Father and Jesus Christ.",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.89,
+            "qualityScore": 1.4915372046963045,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                59.05,
+                0.0,
+                40.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May grace and peace be multiplied to you from God our Father. In this verse, the inclusion of from God our Father emphasizes the source of grace and peace. It is important to note that Jesus Christ is placed on the same level as God, indicating his divine nature. While there is a distinction between the power and authority of Jesus Christ and that of God, they are still connected as the fountainhead of grace and peace. As believers, we can find comfort in the knowledge that these blessings are bestowed upon us by both God the Father and Jesus Christ.",
+            "wordCount": 101,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.4506553863993703,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.58,
+            "commentatorTierSimilarities": [
+                56.23,
+                0.0,
+                43.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May grace and peace be multiplied to you, coming from God our Father. It is significant that Jesus Christ is regarded as equal to God, though not identical. The distinction between the power and source of grace and peace is expressed through the use of from and in the sphere of. Jesus Christ, along with God, is the ultimate provider of these blessings. As recipients, we can find comfort in knowing that grace and peace flow from both God the Father and Jesus Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.4616652112735775,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.94,
+            "commentatorTierSimilarities": [
+                57.38,
+                0.0,
+                42.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

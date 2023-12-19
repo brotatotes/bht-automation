@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:36:31",
+    "verseRef": "Acts 26:3",
+    "bestBHT": {
+        "bht": "Paul recognized King Agrippa's expertise in Jewish customs and took advantage of the opportunity to present his case and proclaim the claims of Christ. Agrippa's understanding of the law and traditions made him an ideal judge for Paul, accused of treason to the sacred law. Paul's discourse before Agrippa was a masterpiece of noble apologetic, showcasing his patient approach and taking his time to present his argument. His address was a beautiful contrast of a serious believer, bold apostle, and polite scholar.",
+        "wordCount": 85,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.7741797546901035,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+        "commentatorTierSimilarities": [
+            22.22,
+            41.27,
+            36.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His father was zealous for the law, and he himself had the office of president of the temple and its treasures, and the appointment of the high priest.\" [JOSEPHUS, Antiquities, 20.1.3]",
+            "The idea of 'indulgently' is also conveyed."
+        ],
+        "Albert Barnes": [
+            "To be expert - To be skilled or well acquainted.",
+            "In all customs - Rites, institutions, laws, etc. Everything pertaining to the Mosaic ritual, etc.",
+            "Paul did not know how to flatter people, but he was not unwilling to state the truth, and to commend people as far as truth would permit."
+        ],
+        "Marvin Vincent": [
+            "Expert [\u03b3\u03bd\u03c9\u03c3\u03c4\u03b7\u03bd] . Lit., a knower. ",
+            "Questions [\u03b6\u03b7\u03c4\u03b7\u03bc\u03b1\u03c4\u03c9\u03bd] . See on ch. Acts 14:2."
+        ],
+        "Philip Schaff": [
+            "Agrippa II., singularly enough, was especially fitted to act as judge in such a cause as that of Paul, accused of treason to the religion and sacred law of his forefathers.",
+            "His father, Herod Agrippa I., was famous for his rigid observance of all Jewish customs and rites, and prided himself upon his connection with the chosen people.",
+            "The young sovereign himself was well versed in the law and the prophets, and even in the more abstruse traditions of the Fathers."
+        ],
+        "Archibald T. Robertson": [
+            "\u0393\u03bd\u03c9\u03c3\u03c4\u03b7\u03bd is from \u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9 and means a knower, expert, connoisseur. Plutarch uses it and Deissmann (Light, etc., p. 367) restores it in a papyrus.\" ",
+            "Paul understands perfectly the grand-stand play of the whole performance, but he refused to be silent and chose to use this opportunity, slim as it seemed, to get a fresh hearing for his own case and to present the claims of Christ to this influential man. His address is a masterpiece of noble apologetic.",
+            "Patiently (\u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03c5\u03bc\u03c9\u03c2). Adverb from \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03c5\u03bc\u03bf\u03c2. Only here in the N.T., though \u03bc\u03b1\u03ba\u03c1\u03bf\u03b8\u03c5\u03bc\u03b9\u03b1 occurs several times. Vulgate has longanimiter. Long spirit, endurance, opposite of impatience. So Paul takes his time."
+        ],
+        "John Gill": [
+            "Especially, because I know thee to be expert in all customs....rites and ceremonies of the Jews",
+            "So concerning the reading of the law by a king, they give this following account...",
+            "From hence it appears, that King Agrippa was famous for his exact knowledge and observance of the customs and manners of the Jews"
+        ],
+        "John Wesley": [
+            "Agrippa had had peculiar advantages for an accurate knowledge of the Jewish customs and questions, from his education under his father Herod, and his long abode at Jerusalem.",
+            "Nothing can be imagined more suitable or more graceful, than this whole discourse of Paul before Agrippa.",
+            "The seriousness of the Christian, the boldness of the apostle, and the politeness of the gentleman and the scholar, appear in a most beautiful contrast, or rather a most happy union."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul, aware of King Agrippa's expertise in the Jewish law and customs, seized the opportunity to present his own case and proclaim the claims of Christ. Despite the grand spectacle of the proceedings, Paul remained resolute and patiently crafted a noble apologetic. King Agrippa, well-versed in the law and the prophets, possessed a deep understanding of Jewish traditions and rituals. It is evident that Agrippa's familiarity with the Jewish customs, gained from his education and extensive time in Jerusalem, made him an ideal judge for Paul's case. Paul's discourse before Agrippa perfectly combined the seriousness of a believer, the boldness of an apostle, and the politeness of a gentleman and scholar.",
+            "wordCount": 118,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.7714589977946567,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.24,
+            "commentatorTierSimilarities": [
+                20.76,
+                39.23,
+                40.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul recognized King Agrippa's expertise in Jewish customs and saw the opportunity to present his case and share the claims of Christ. King Agrippa's deep understanding of the law and traditions made him an ideal judge for Paul's situation. Despite the grand spectacle, Paul delivered a remarkable defense, demonstrating the seriousness of a believer, the boldness of an apostle, and the politeness of a scholar. This combination showcased the contrast and harmony between the Christian, the gentleman, and the scholar.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.07,
+            "qualityScore": 1.7072048697901436,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.11,
+            "commentatorTierSimilarities": [
+                22.27,
+                37.63,
+                40.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, aware of King Agrippa's expertise in Jewish customs, took advantage of the opportunity to present his case and proclaim the claims of Christ. Agrippa's deep understanding of the law and traditions made him a fitting judge for Paul's accusation of treason. Paul's discourse before Agrippa was a masterpiece of noble apologetic, showcasing the seriousness of a believer, the boldness of an apostle, and the politeness of a scholar. The combination of these qualities created a captivating contrast and a harmonious union in Paul's address.",
+            "wordCount": 90,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.726358107265011,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.74,
+            "commentatorTierSimilarities": [
+                21.65,
+                40.58,
+                37.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul recognized King Agrippa's expertise in Jewish customs and took advantage of the opportunity to present his case and proclaim the claims of Christ. Agrippa's understanding of the law and traditions made him an ideal judge for Paul, accused of treason to the sacred law. Paul's discourse before Agrippa was a masterpiece of noble apologetic, showcasing his patient approach and taking his time to present his argument. His address was a beautiful contrast of a serious believer, bold apostle, and polite scholar.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7741797546901035,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                22.22,
+                41.27,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing King Agrippa's expertise in Jewish customs, Paul saw an opportunity to present his case and proclaim the claims of Christ. Agrippa's deep understanding of the law and traditions made him an ideal judge for Paul, accused of treason against Jewish religion and sacred law. In his discourse before Agrippa, Paul displayed a patient and enduring spirit, taking his time to present his argument. This address showcased a remarkable blend of seriousness as a believer, boldness as an apostle, and politeness as a scholar.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.7453281112545171,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                22.11,
+                40.27,
+                37.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

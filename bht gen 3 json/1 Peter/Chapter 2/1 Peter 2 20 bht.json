@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:39:17",
+    "verseRef": "1 Peter 2:20",
+    "bestBHT": {
+        "bht": "If we endure suffering for doing wrong and accept the punishment, there is no true glory in it. On the other hand, if we endure suffering for doing good and still endure it, that is the kind of glory that truly matters. This reminds us of Christ's own sufferings and his silent submission to them. It cautions against pretending to be martyrs and acknowledges that at times, Christians may deserve persecution. Patience becomes a pleasing sacrifice when we bear punishment with a submissive spirit, reflecting God's will and receiving His acceptance.",
+        "wordCount": 93,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.981271259569494,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            32.47,
+            27.31,
+            40.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "What kind of glory is it, if doing wrong and being buffeted, ye shall endure it, but if well-doing and suffering for it ye shall endure it, it is glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "what peculiar merit.\" ",
+            "the punishment of slaves, and suddenly inflicted\" ",
+            "this is acceptable."
+        ],
+        "Albert Barnes": [
+            "If, when ye be buffeted for your faults...if being guilty of an offence, or having done wrong...if they were justly punished, and should take it patiently, there would be no credit or honor in it.\" ",
+            "The patience evinced might indeed be as great as in the other case, but there would be the feeling that you deserved all that you received, and the spirit evinced in that case could not be regarded as entitled to any particular praise.",
+            "If your masters are inflicting on you only what you deserve, it would be in the highest degree shameful for you to rise up against them, and resist them, for it would be only adding to the wrong which you had already done."
+        ],
+        "Marvin Vincent": [
+            "What glory [\u03c0\u03bf\u03b9\u03bf\u03bd \u03ba\u03bb\u03b5\u03bf\u03c2] . Lit., what kind of glory. This word for glory occurs nowhere else in the New Testament.",
+            "Buffeted [\u03ba\u03bf\u03bb\u03b1\u03c6\u03b9\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . See Matthew 26:67: struck with the fist.",
+            "This whole passage, vv. 19-24, bears the mark of Peter's memories of the scene of Christ's last sufferings - the blows of the servants, the scorn of the high priest, the silent submission of Jesus, the cross, the stripes."
+        ],
+        "John Calvin": [
+            "Patience is certainly a sacrifice of sweet odour to him, that is, when we bear with a submissive mind our punishment.",
+            "It is a small and slender praise to bear with submission a just punishment, in comparison with that of an innocent man, who willingly bears the wrongs of men, only because he fears God.",
+            "They who suffer punishment for their faults, are influenced by the fear of men."
+        ],
+        "Philip Schaff": [
+            "Even patient endurance, if it is the endurance of what is deserved, can bring no credit to one.\" ",
+            "The risk of a fatal breach between Christianized slaves and heathen masters was one of the gravest perils which had to be faced.",
+            "He sets before [the slave] principles on which he is to quit himself like a Christian, abiding in his calling, principles which also were to work like solvents on the system itself, and gradually to secure its extinction without revolution."
+        ],
+        "Archibald T. Robertson": [
+            "What kind of glory? 'What price glory?'",
+            "No posing as a martyr allowed here. Christians do sometimes deserve persecution.",
+            "This thing is thanks by the side of God (as God looks at it)."
+        ],
+        "John Gill": [
+            "To be silent, and not murmur when beaten, within measure, for real faults, is no great honour, nor does it deserve any praise; it is the least that can be done.\" ",
+            "What they do is according to the will of God, and from love to him, and in faith, and in the name and strength of Christ, and to the glory of God; without all which there is no well doing.",
+            "This is acceptable with God; is agreeably to his will, and grateful in his sight, what he is well pleased with, is reckoned grace with him; and though it is his own grace, and of his own bestowing, he will reward it with glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we endure suffering for doing wrong and accept the punishment, there is no real glory in it. However, if we endure suffering for doing good and still endure it, that is true glory. This passage reminds us of Christ's own sufferings and how he silently endured the blows and scorn. It cautions against playing the martyr and emphasizes that sometimes Christians do deserve persecution. Patience becomes a sacrifice of sweet odor when we bear punishment with a submissive mind. Ultimately, our actions should be done in God's will, from love and faith, for the glory and acceptance of God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.9368697411559856,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                32.46,
+                26.09,
+                41.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we endure suffering for doing wrong and accept the punishment, there is no real glory in it. However, if we endure suffering for doing good and still endure it, that is true glory. This reminds us of Christ's sufferings and how he silently endured the blows and scorn. It cautions against playing the martyr and emphasizes that sometimes Christians do deserve persecution. Patience becomes a sacrifice of sweet odor when we bear punishment with a submissive mind. Ultimately, our actions should be done in God's will, from love and faith, for the glory and acceptance of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.9380288349164072,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                32.49,
+                26.42,
+                41.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we endure suffering for doing wrong and accept the punishment, there is no true glory in it. On the other hand, if we endure suffering for doing good and still endure it, that is the kind of glory that truly matters. This reminds us of Christ's own sufferings and his silent submission to them. It cautions against pretending to be martyrs and acknowledges that at times, Christians may deserve persecution. Patience becomes a pleasing sacrifice when we bear punishment with a submissive spirit, reflecting God's will and receiving His acceptance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.981271259569494,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                32.47,
+                27.31,
+                40.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Enduring suffering for doing wrong and accepting the punishment lacks true glory. However, enduring suffering for doing good, even when it is undeserved, is worthy of honor. This echoes Christ's own silent submission to mistreatment. It warns against feigning martyrdom and acknowledges that sometimes Christians may warrant persecution. Patience in bearing punishment with a submissive attitude is a pleasing sacrifice to God. Ultimately, our actions should be guided by God's will, motivated by love and faith, for His glory and approval.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8124817904122783,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.61,
+            "commentatorTierSimilarities": [
+                30.9,
+                27.07,
+                42.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we endure suffering for wrongdoing and accept the punishment, it lacks true glory. However, if we endure suffering for doing good, even when we don't deserve it, that is the kind of glory that truly matters. This brings to mind Christ's own sufferings and his silent submission to them. It warns against pretending to be martyrs and acknowledges that sometimes Christians may warrant persecution. Patience in bearing punishment with a submissive spirit is a pleasing sacrifice to God. Our actions should reflect God's will, driven by love and faith, for His glory and acceptance.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.919961129788023,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.18,
+            "commentatorTierSimilarities": [
+                31.98,
+                26.36,
+                41.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

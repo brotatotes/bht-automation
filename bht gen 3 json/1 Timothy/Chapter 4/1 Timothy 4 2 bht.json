@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:32",
+    "verseRef": "1 Timothy 4:2",
+    "bestBHT": {
+        "bht": "Certain individuals, through their hypocritical nature and lies, will deceive others and lead them astray from the faith. Their consciences are marked by their own deception, yet they disguise themselves as pious and godly. Like liars on a grand scale, they wear a form of godliness while contradicting their true nature with their crooked behavior. Their actions reveal that they have been branded with the mark of Satan, their consciences seared and insensible to the truth.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.0484915458220008,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+        "commentatorTierSimilarities": [
+            37.1,
+            29.72,
+            33.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Through the hypocrisy of lying speakers.",
+            "Having their own conscience seared.",
+            "They are conscious of the brand within, and yet with a hypocritical show of sanctity, they strive to seduce others."
+        ],
+        "Albert Barnes": [
+            "In the last days certain persons will depart from the faith of the gospel. This apostasy will essentially consist in their giving heed to spirits that lead to error, and in embracing corrupt and erroneous views on demonology, or in reference to invisible beings between us and God.",
+            "The apostle meant to say that this grand apostasy would occur under the influence of a hypocritical, hardened, and arbitrary ministry, teaching their own doctrines instead of the divine commands, and forbidding that which God had declared to be lawful.",
+            "It has the same relation to a conscience that is sensitive and quick in its decisions, that a cauterized part of the body has to a thin, delicate, and sensitive skin. Such a conscience exists in a mind that will practice delusion without concern; that will carry on a vast system of fraud without wincing; that will incarcerate, scourge, or burn the innocent without compassion; and that will practice gross enormities, and indulge in sensual gratifications under the mask of piety."
+        ],
+        "Marvin Vincent": [
+            "Through the hypocrisy of men that speak lies.\" ",
+            "Branded in their own conscience.\" ",
+            "They wear the form of godliness, and contradict their profession by their crooked conduct."
+        ],
+        "John Calvin": [
+            "And, indeed, it ought to be known that these two are so closely joined together that the former springs from the latter; for consciences, that are bad and seared with the hot iron of their crimes, always flee to hypocrisy as a ready refuge...",
+            "...hypocrisy must therefore be explained agreeably to the passage in which it now occurs; for, first, it must relate to doctrine, and, next, it denotes that kind of doctrine which adulterates the spiritual worship of God by exchanging its genuine purity for bodily exercises...",
+            "...first, that all who assume a pretended sanctimoniousness are led by the instigation of the devil; because God is never worshipped aright by outward ceremonies..."
+        ],
+        "Philip Schaff": [
+            "In, or by, the hypocrisy of men who speak lies.",
+            "The callous insensibility produced by cauterizing.",
+            "The fact that the one implied the other in the actual branding process, a fact which he may well have learnt from St. Luke\u2019s medical experience, would suggest to him that which was analogous to it in the history of the soul."
+        ],
+        "Archibald T. Robertson": [
+            "A good classical word for liars on a large scale.",
+            "Branded with the mark of Satan as Paul was with the marks of Christ.",
+            "Agreeing in case with \u03c8\u03b5\u03c5\u03b4\u03bf\u03bb\u03bf\u03b3\u03c9\u03bd."
+        ],
+        "John Gill": [
+            "Speaking lies in hypocrisy... under a show of godliness.\" ",
+            "Deliver out the lying doctrines of merit, purgatory, invocation of saints, fastings, pilgrimages, c. and the fabulous legends of saints.",
+            "Their consciences are cauterized and hardened... commit the most shocking impieties."
+        ],
+        "John Wesley": [
+            "These will depart from the faith, by the hypocrisy of them that speak lies.\" ",
+            "Having their own consciences as senseless and unfeeling.\" ",
+            "Like flesh that is seared with a hot iron."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certain individuals will propagate false teachings, deceiving others through their hypocritical nature and distorted beliefs. Their consciences are marked by the deception they perpetrate, yet they masquerade as pious and godly individuals. Like liars on a grand scale, they wear a fa\u00e7ade of righteousness while their actions contradict their professed devotion. This apostasy, characterized by a cauterized conscience, will lead people astray from the true faith. These false teachers will not only twist doctrine but also exchange genuine spiritual worship for mere outward rituals. Their deceitful words and deceptive practices obscure the true path of worship, replacing it with empty rituals and fabricated legends.",
+            "wordCount": 104,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.8584912407808687,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                32.09,
+                32.88,
+                35.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the hypocrisy of lying speakers, who wear the form of godliness but contradict their profession with their crooked conduct, certain individuals will lead others astray from the faith. Their consciences are branded and seared, enabling them to practice deception without concern. This grand apostasy will occur under the influence of a hypocritical, hardened, and arbitrary ministry, exchanging genuine spiritual worship for outward rituals. They embrace corrupt and erroneous views, deluding and seducing others with their false teachings, like liars on a large scale.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.9666233673261828,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                34.78,
+                32.05,
+                33.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the hypocrisy of lying speakers, who wear the form of godliness but contradict their profession with their crooked conduct, certain individuals will lead others astray from the faith. Their consciences are branded and seared, enabling them to practice deception without concern. This grand apostasy will occur under the influence of a hypocritical, hardened, and arbitrary ministry, exchanging genuine spiritual worship for outward rituals. They embrace corrupt and erroneous views, deluding and seducing others with their false teachings, like liars on a large scale.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.9666233673261828,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                34.78,
+                32.05,
+                33.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Certain individuals, through their hypocritical nature and lies, will deceive others and lead them astray from the faith. Their consciences are marked by their own deception, yet they disguise themselves as pious and godly. Like liars on a grand scale, they wear a form of godliness while contradicting their true nature with their crooked behavior. Their actions reveal that they have been branded with the mark of Satan, their consciences seared and insensible to the truth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.0484915458220008,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.45,
+            "commentatorTierSimilarities": [
+                37.1,
+                29.72,
+                33.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Certain individuals will propagate false teachings, deceiving others through their hypocritical nature and distorted beliefs. Their consciences are marked by the deception they perpetrate, yet they masquerade as pious and godly individuals. Like liars on a grand scale, they wear a fa\u00e7ade of righteousness while their actions contradict their professed devotion. This apostasy, characterized by a cauterized conscience, will lead people astray from the true faith. These false teachers will not only twist doctrine but also exchange genuine spiritual worship for mere outward rituals. Their deceitful words and deceptive practices obscure the true path of worship, replacing it with empty rituals and fabricated legends.",
+            "wordCount": 104,
+            "quoteTokenProportion": 31.71,
+            "qualityScore": 1.8584912407808687,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                32.09,
+                32.88,
+                35.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

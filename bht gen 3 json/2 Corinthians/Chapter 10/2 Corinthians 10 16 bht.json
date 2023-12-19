@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:17:39",
+    "verseRef": "2 Corinthians 10:16",
+    "bestBHT": {
+        "bht": "Paul encourages the Corinthians not to boast about the work already done by others but to extend the preaching of the Gospel in the regions beyond. He wants to go beyond his own sphere of labor and not take credit for what others have accomplished. Paul's aim is to proclaim the Gospel where it has not yet been shared, focusing on the work that is already prepared and waiting to be done.",
+        "wordCount": 73,
+        "quoteTokenProportion": 58.82,
+        "qualityScore": 2.009460376539841,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+        "commentatorTierSimilarities": [
+            23.73,
+            43.49,
+            32.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to preach the gospel in the regions beyond you",
+            "not to boast ourselves within another man\u2019s line",
+            "to extend our boasting to things ready made to our hand"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not to boast as to things (already made by the preaching of others) ready to our hand in another man's line (that is, within the line, or sphere of labor, apportioned by God to another).",
+            "To preach . . . beyond you (and) not to boast",
+            "Do not connect 'line of things,' &c. but 'boast of things,' &c."
+        ],
+        "Albert Barnes": [
+            "He [Paul] doubtless wished the Corinthians to aid him in that purpose [visiting Spain], and was anxious to do this as soon as the condition of the eastern churches would allow it.",
+            "Paul did not mean to boast of what properly belonged to others. He did not claim what they had done as his own.",
+            "So far was he from designing to do this [boasting of others' work], that he meant soon to leave Corinth, which was properly within his limits, and the church which he had founded there, to go and preach the gospel to other regions."
+        ],
+        "Marvin Vincent": [
+            "In another man's line [\u03b5\u03bd \u03b1\u03bb\u03bb\u03bf\u03c4\u03c1\u03b9\u03c9 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9] . Line is the word previously rendered rule. He will not boast within the line drawn for another; in another's field of activity. 155 "
+        ],
+        "Archibald T. Robertson": [
+            "Even unto the parts beyond you.",
+            "Things ready to our hand."
+        ],
+        "John Gill": [
+            "To preach the Gospel in the regions beyond you...",
+            "...and not to boast in another man's line...",
+            "...of things made ready to our hand."
+        ],
+        "John Wesley": [
+            "In the regions beyond you \u2014 To the west and south, where the gospel had not yet been preached."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul urges the Corinthians to preach the gospel in areas that have not yet been reached, rather than boast about others' work. He emphasizes not boasting about things that others have already accomplished in their sphere of labor but instead to focus on extending their own work. Paul intends to go beyond Corinth and the regions they have covered, not to claim credit for others' work, but to bring the message of Christ to places where it has not yet been heard.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 2.0771494573323537,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                23.96,
+                44.94,
+                31.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul encourages the Corinthians to extend their preaching of the gospel to areas that have not yet heard it. He advises them against boasting in another person's territory and taking credit for work that has already been done. Rather than resting on others' accomplishments, Paul encourages the Corinthians to focus on their own efforts and to bring the message of Christ to regions beyond their current reach.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.905178302985645,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                20.79,
+                47.03,
+                32.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul urges the Corinthians to extend the preaching of the Gospel in the regions beyond. His intention is not to boast about the work others have done or to take credit for their labor. Instead, he desires to carry on the mission beyond his allotted sphere of labor and not boast in the accomplishments of others. His goal is to preach the Gospel where it has not yet been proclaimed and to engage in the work that is ready to be done.",
+            "wordCount": 82,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.9258018128353547,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.37,
+            "commentatorTierSimilarities": [
+                25.08,
+                40.89,
+                34.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul encourages the Corinthians not to boast about the work already done by others but to extend the preaching of the Gospel in the regions beyond. He wants to go beyond his own sphere of labor and not take credit for what others have accomplished. Paul's aim is to proclaim the Gospel where it has not yet been shared, focusing on the work that is already prepared and waiting to be done.",
+            "wordCount": 73,
+            "quoteTokenProportion": 58.82,
+            "qualityScore": 2.009460376539841,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.16,
+            "commentatorTierSimilarities": [
+                23.73,
+                43.49,
+                32.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul writes to the Corinthians, expressing his desire to preach the gospel in regions beyond them and not to boast within another man's line. He clarifies that he doesn't want to take credit for the work already done by others. Rather, he wants to extend his boasting to things that are ready-made to his hand. Paul aims to go beyond their current sphere of labor and reach new regions where the gospel has not yet been preached. His intention is not to boast in what belongs to others but to expand the kingdom of God.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.9533064295911566,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                26.42,
+                42.84,
+                30.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

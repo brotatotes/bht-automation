@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:14:57",
+    "verseRef": "Luke 4:37",
+    "bestBHT": {
+        "bht": "The word used in regard to Jesus' actions in Capernaum carries echoes of the powerful wind that blew at Pentecost. It also conveys the idea of a report or sound, resembling a medical term for sound in the head. The usage of this word, in its imperfect middle form, portrays the resounding and enduring influence of Jesus' work, vividly portrayed as his fame spreads throughout Galilee and its surrounding areas.",
+        "wordCount": 70,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 1.127908800281045,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.85,
+        "commentatorTierSimilarities": [
+            70.04,
+            0.0,
+            29.96
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "It is the word used in Acts 2:2 of the mighty rushing wind at Pentecost.",
+            "Mark uses ajkoh, in its earlier sense of a report.",
+            "Hcov was the medical term for sound in the ears or head."
+        ],
+        "Archibald T. Robertson": [
+            "Imperfect middle, kept on going forth.\" ",
+            "Late Greek form for \u03b7\u03c7\u03c9 in the old Greek.",
+            "Vivid picture of the resounding influence of this day's work in the synagogue, in Capernaum."
+        ],
+        "John Gill": [
+            "And the fame of him went out...into every place in the country round about.\" ",
+            "From hence on account of his dispossessing this unclean spirit, which seems to be the first instance of this kind.",
+            "Even into all places round about Galilee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word used in Luke 4:37 is the same as the one used to describe the mighty rushing wind at Pentecost in Acts 2:2. In Mark, it is used to refer to a report. This word was also a medical term for sound in the ears or head. The use of the imperfect middle form implies that the resounding influence of this day's work in the synagogue of Capernaum kept on going forth. The verse paints a vivid picture of the far-reaching impact of Jesus' actions, as his fame spread throughout the surrounding areas of Galilee.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.1593747169180766,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.89,
+            "commentatorTierSimilarities": [
+                69.8,
+                0.0,
+                30.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word used in connection with Jesus' actions in the synagogue of Capernaum is the same as the one used to describe the powerful wind at Pentecost. It also means a report and refers to sound in the ears or head. This word, in its imperfect middle form, signifies a continuous and resounding influence. It vividly depicts the far-reaching impact of Jesus' ministry, as his fame spreads throughout the surrounding areas of Galilee.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.1092454736418886,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.23,
+            "commentatorTierSimilarities": [
+                62.8,
+                0.0,
+                37.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word used to describe Jesus' actions in Capernaum resonates with significance. It is reminiscent of the mighty wind that accompanied the outpouring of the Holy Spirit at Pentecost and also suggests a report or sound. This word, in its imperfect middle form, illustrates the continuous and far-reaching impact of Jesus's ministry, depicted vividly through the spreading fame that reached every corner of Galilee.",
+            "wordCount": 66,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.1087648779942778,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.21,
+            "commentatorTierSimilarities": [
+                60.36,
+                0.0,
+                39.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word used in regard to Jesus' actions in Capernaum carries echoes of the powerful wind that blew at Pentecost. It also conveys the idea of a report or sound, resembling a medical term for sound in the head. The usage of this word, in its imperfect middle form, portrays the resounding and enduring influence of Jesus' work, vividly portrayed as his fame spreads throughout Galilee and its surrounding areas.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.127908800281045,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.85,
+            "commentatorTierSimilarities": [
+                70.04,
+                0.0,
+                29.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word used to describe Jesus' actions in Capernaum is connected to the mighty wind at Pentecost and signifies a report. It also has a medical connotation related to sound in the head. The word's imperfect middle form suggests a continuous and resounding influence, vividly portraying the spreading fame of Jesus' ministry throughout Galilee and the surrounding regions.",
+            "wordCount": 59,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.023617116511739,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.38,
+            "commentatorTierSimilarities": [
+                68.17,
+                0.0,
+                31.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

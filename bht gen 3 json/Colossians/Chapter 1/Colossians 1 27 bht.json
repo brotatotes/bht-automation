@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:20:06",
+    "verseRef": "Colossians 1:27",
+    "bestBHT": {
+        "bht": "God willed to make known the richness of the glory of this mystery among the Gentiles. Christ Himself among believers is the hope of that glory. The contrast is remarkable: the lower the Gentiles' degradation, the higher the richness of the glory to which they're raised by the revealed mystery. God includes the Gentiles in His redemptive grace, revealing the riches of the glory of this mystery. Christ, dwelling and reigning in believers, is their hope of glory, the source of future blessedness.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 2.5810623875749474,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.16,
+        "commentatorTierSimilarities": [
+            38.95,
+            30.88,
+            30.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God willed to make known what is the richness of the glory of this mystery among the Gentiles.\" ",
+            "The richness of this glory is unfolded and made known by God\u2019s Spirit as the Gospel is received among the Gentiles.\" ",
+            "Christ Himself among you is the HOPE of that glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He resolves all into God's good pleasure and will, that man should not glory save in God's grace.",
+            "How full and inexhaustible!",
+            "The lower was the degradation of you Gentiles, the higher is the richness of the glory to which the mystery revealed now raises you."
+        ],
+        "Albert Barnes": [
+            "It was concealed in his bosom until he chose to reveal it to his apostles.",
+            "The truth that the gospel was to be preached to all mankind, was a truth abounding in glory.",
+            "Christ is revealed among you as the source of the hope of glory in a better world."
+        ],
+        "John Calvin": [
+            "For the good pleasure of God ought to be perfectly sufficient for us as a reason.",
+            "We must always take notice, in what magnificent terms he speaks in extolling the dignity of the gospel.",
+            "He says, therefore, which is Christ, meaning by this, that all that secret is contained in Christ, and that all the riches of heavenly wisdom are obtained by them when they have Christ."
+        ],
+        "Philip Schaff": [
+            "God's design in thus making manifest the mystery to the saints was to make known what (both in degree and kind) is the riches, etc.",
+            "What could be more deserving of admiration than that the Gentiles, who for so many ages had been sunk in death, and whose condition might seem altogether desperate, should suddenly be received into the family of God, and receive the inheritance of salvation?",
+            "The hope of glory. In apposition with 'Christ,' who is Himself the hope of glory, i.e., future blessedness."
+        ],
+        "Archibald T. Robertson": [
+            "God willed\" this change from hidden mystery to manifestation. (\u03b7\u03b8\u03b5\u03bb\u03b7\u03c3\u03b5\u03bd \u03bf \u03b8\u03b5\u03bf\u03c2)",
+            "God had included the Gentiles in his redemptive grace, \"the riches of the glory of this mystery\". (\u03c4\u03bf \u03c0\u03bb\u03bf\u03c5\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03bf\u03be\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03bc\u03c5\u03c3\u03c4\u03b7\u03c1\u03b9\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c4\u03bf\u03c5)",
+            "Christ in you the hope of glory (\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c2 \u03b5\u03bd \u03c5\u03bc\u03b9\u03bd \u03b7 \u03b5\u03bb\u03c0\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03bf\u03be\u03b7\u03c2) constitutes the hope of glory for he is the \u03a3\u03b5\u03ba\u03b9\u03bd\u03b1 of God."
+        ],
+        "John Gill": [
+            "The spring and cause of the manifestation of the Gospel to the saints, and chosen of God, is not their works, for God does not call them with a holy calling according to them, but according to his own grace.",
+            "The apostle, besides calling the Gospel a 'mystery,' as before, ascribes 'glory' to it; it is a glorious mystery, there is a glory in all the mysteries of it.",
+            "Christ is the riches of the Gospel; the riches of the divine perfections, which the Gospel more clearly displays than the works of creation or providence, are all in Christ, the fullness of them dwells in him."
+        ],
+        "John Wesley": [
+            "Christ dwelling and reigning in you, The hope of glory - The ground of your hope."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God willed to reveal the richness of the glory of the mystery among the Gentiles, unfolding it through the Gospel. Christ Himself, in whom this mystery is manifested, is the hope of that glory. This is all in accordance with God's good pleasure and will, for man should not boast except in God's grace. The contrast is striking - as the Gentiles were degraded, the richness of the glory to which God now raises them is all the more magnificent. Christ, dwelling and reigning in believers, is their hope of glory, the source of their future blessedness. Indeed, Christ is the spring and cause of the manifestation of the Gospel, containing within Himself all the riches of heavenly wisdom.",
+            "wordCount": 120,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.4334117010604617,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.25,
+            "commentatorTierSimilarities": [
+                35.76,
+                31.17,
+                33.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God willed to make known the richness of the glory of this mystery among the Gentiles. The Gospel unfolds and reveals this glory, with Christ Himself being the hope of that glory. The contrast is noteworthy - as the Gentiles were degraded, the richness of the glory to which God raises them is even more profound. Christ, dwelling and reigning in believers, is their hope of glory, the source of future blessedness and the manifestation of the Gospel. All the riches of heavenly wisdom are obtained through Him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.44347031048797,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.59,
+            "commentatorTierSimilarities": [
+                36.28,
+                31.29,
+                32.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God willed to make known the richness of the glory of this mystery among the Gentiles. The Gospel unfolds this glory, and Christ Himself is the hope of that glory. The contrast is striking: as the Gentiles were degraded, the richness of the glory to which the mystery revealed now raises them is higher. Christ, dwelling and reigning in believers, is their hope of glory, the source of their future blessedness. All the riches of heavenly wisdom are obtained through Him.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.4286848557755523,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.09,
+            "commentatorTierSimilarities": [
+                37.05,
+                31.18,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, in His good pleasure and will, willed to make known the richness of the glory of this mystery among the Gentiles. As the Gospel is received among them, the Spirit unfolds and reveals this glorious mystery. Indeed, Christ Himself, dwelling and reigning in believers, becomes their hope of glory. This transformation from hidden mystery to manifestation is astonishing, particularly when considering the degradation and desperation of the Gentiles before. All the riches of heavenly wisdom are obtained through Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.236710022499274,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.71,
+            "commentatorTierSimilarities": [
+                36.3,
+                31.14,
+                32.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God willed to make known the richness of the glory of this mystery among the Gentiles. Christ Himself among believers is the hope of that glory. The contrast is remarkable: the lower the Gentiles' degradation, the higher the richness of the glory to which they're raised by the revealed mystery. God includes the Gentiles in His redemptive grace, revealing the riches of the glory of this mystery. Christ, dwelling and reigning in believers, is their hope of glory, the source of future blessedness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.5810623875749474,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.16,
+            "commentatorTierSimilarities": [
+                38.95,
+                30.88,
+                30.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

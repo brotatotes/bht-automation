@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:40:05",
+    "verseRef": "1 Peter 5:2",
+    "bestBHT": {
+        "bht": "The elders, appointed as shepherds and bishops, bear the weighty responsibility of tending, overseeing, and ministering to the flock of God. They are to guide, guard, fold, and feed the flock with a ready mind and a forward spirit, motivated by love and zeal rather than base desires. This charge emphasizes the unity and ownership of the Church by God. The elders should discharge their duties willingly, serving not for personal gain but out of devotion to Christ. Their task encompasses providing sound doctrine, administering sacraments, and governing the church.",
+        "wordCount": 90,
+        "quoteTokenProportion": 29.23,
+        "qualityScore": 1.8472747021475104,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+        "commentatorTierSimilarities": [
+            28.9,
+            39.46,
+            31.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The dignity is marked by the term 'elder'; the duties of the office, to tend or oversee, by 'bishop.'\" ",
+            "He is a true presbyter and minister of the counsel of God who doeth and teacheth the things of the Lord.\" ",
+            "The flock is Christ's."
+        ],
+        "Albert Barnes": [
+            "Feed the flock of God - Discharge the duties of a shepherd toward the flock.",
+            "Go cheerfully to your duty as a work which you love, and act like a freeman in it, and not as a slave.",
+            "We are to labor in this work, not under the influence of the desire of gain, but from the promptings of love."
+        ],
+        "Marvin Vincent": [
+            "Feed [\u03c0\u03bf\u03b9\u03bc\u03b1\u03bd\u03b1\u03c4\u03b5]. Better, Rev., tend, since the verb denotes all that is included in the office of a shepherd - guiding, guarding, folding, no less than feeding, which latter is expressed by boskw.",
+            "The word filthy is intended to convey the idea which lies in aijscrov, base or dishonorable; becoming such if it is made the motive of the minister 's service.",
+            "Willingly [\u03c0\u03c1\u03bf\u03b8\u03c5\u03bc\u03c9\u03c2]. Not strong enough. The word is compounded of pro, forward, and qumov, heart or spirit. Hence Rev., with a ready mind; a forward spirit; denoting not mere willingness, but zeal."
+        ],
+        "John Calvin": [
+            "The flock of Christ cannot be fed except with pure doctrine, which is alone our spiritual food.",
+            "Pastors are not mute hypocrites, nor those who spread their own figments, which, like deadly poison, destroy the souls of men.",
+            "He then shews how they were rightly to perform the pastoral office, though the word \u1f10\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u1fd6\u03bd generally means to preside or to oversee."
+        ],
+        "Philip Schaff": [
+            "The charge reminds us also of Paul\u2019s counsel to the Ephesian elders (Acts 20:28). In the oldest of the classical writers the relations of ruler to people are familiarly described as the relations of shepherd to flock.",
+            "The designation \u2018the flock of God\u2019 expresses both the unity of the Church and the fact that it is God\u2019s possession, not that of the elders.",
+            "This first definition describes the elder\u2019s duty as one which is not to be taken up like an unwelcome burden imposed on one, or a task from which one cannot retreat. In such circumstances there will be, as Calvin suggests, a dull and frigid discharge of the work."
+        ],
+        "Archibald T. Robertson": [
+            "- 1. \"Tend (\u03c0\u03bf\u03b9\u03bc\u03b1\u03bd\u03b1\u03c4\u03b5)... Jesus used this very word to Peter in the interview by the Sea of Galilee (John 21:16) and Peter doubtless has this fact in mind here.",
+            "- 2. \"Not by constraint (\u03bc\u03b7 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03c4\u03c9\u03c2)... But willingly (\u03b1\u03bb\u03bb\u03b1 \u03b5\u03ba\u03bf\u03c5\u03c3\u03b9\u03c9\u03c2). By contrast. Old adverb, in N.T. only here and Hebrews 10:26.",
+            "- 3. \"Nor yet for filthy lucre (\u03bc\u03b7\u03b4\u03b5 \u03b1\u03b9\u03c3\u03c7\u03c1\u03bf\u03ba\u03b5\u03c1\u03b4\u03c9\u03c2)... But of a ready mind (\u03b1\u03bb\u03bb\u03b1 \u03c0\u03c1\u03bf\u03b8\u03c5\u03bc\u03c9\u03c2). Old adverb from \u03c0\u03c1\u03bf\u03b8\u03c5\u03bc\u03bf\u03c2 (Matthew 26:41), here only in N.T."
+        ],
+        "John Gill": [
+            "Feed the flock of God...which was committed to their care...for which they should have a particular regard.",
+            "Feeding includes the whole of the pastor's work...the ministry of the word, the administration of ordinances, and the rule and government of the church.",
+            "They should be induced to it by no other necessity than what Christ has laid upon them...and should engage and continue in it by no other constraint than that of his love."
+        ],
+        "John Wesley": [
+            "Feed the flock \u2014 Both by doctrine and discipline.",
+            "Not by constraint \u2014 Unwillingly, as a burden.",
+            "Not for filthy gain \u2014 Which, if it be the motive of acting, is filthy beyond expression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The duties of an elder and bishop are to tend, oversee, and minister to the flock of Christ. The elders are called to guide, guard, fold, and feed the flock with a ready mind and a forward spirit, not for their own gain but out of love and zeal. This charge reminds us of the relationship between a shepherd and his flock, emphasizing the unity of the Church and the fact that it belongs to God. The elders must discharge their duties cheerfully, freely, and willingly, and not as a burden or out of compulsion. They should provide pure doctrine, administer the sacraments, and govern the church, all motivated by Christ's love and not for personal gain.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9475966983427027,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.1,
+            "commentatorTierSimilarities": [
+                29.38,
+                39.29,
+                31.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The elders, or shepherds, are called to tend, oversee, and minister to the flock of Christ, guiding, guarding, folding, and feeding them. This duty should be discharged willingly and with a ready mind, driven by love and zeal rather than base motives or a sense of obligation. They must provide pure doctrine, administer sacraments, and govern the church, all motivated by Christ's love and not for personal gain. The unity of the Church and its belonging to God is highlighted in this charge.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7834534459661215,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.64,
+            "commentatorTierSimilarities": [
+                30.1,
+                38.16,
+                31.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elders, also referred to as shepherds and bishops, have the solemn responsibility to tend, oversee, and minister to the flock of God. Their duties encompass guiding, guarding, folding, and feeding the flock with a ready mind and a forward spirit. It is crucial that they undertake this task willingly, driven by love and zeal, rather than for selfish gain. The Church, being the flock of Christ, should be nourished and cared for by the elders through the proclamation of pure doctrine, the administration of sacraments, and the governance of the church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.7781494710761945,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                30.11,
+                38.15,
+                31.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elders, appointed as shepherds and bishops, bear the weighty responsibility of tending, overseeing, and ministering to the flock of God. They are to guide, guard, fold, and feed the flock with a ready mind and a forward spirit, motivated by love and zeal rather than base desires. This charge emphasizes the unity and ownership of the Church by God. The elders should discharge their duties willingly, serving not for personal gain but out of devotion to Christ. Their task encompasses providing sound doctrine, administering sacraments, and governing the church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.8472747021475104,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                28.9,
+                39.46,
+                31.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elders, also known as shepherds and bishops, are entrusted with the important task of tending, overseeing, and ministering to the flock of God. This duty goes beyond mere feeding; it involves guiding, guarding, and folding the flock as well. The elders must approach this responsibility willingly, with a ready mind and a forward spirit, driven by love and zeal for Christ. They must not be motivated by self-interest or the pursuit of gain. Instead, they are called to serve with a pure heart and a genuine desire to fulfill their duties as faithful stewards of God's flock.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.7836963805268091,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.65,
+            "commentatorTierSimilarities": [
+                29.79,
+                38.78,
+                31.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

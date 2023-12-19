@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:56:32",
+    "verseRef": "Philippians 3:7",
+    "bestBHT": {
+        "bht": "All my perceived gains and esteemed privileges that were once of utmost importance to me, I now consider as loss for the sake of Christ. These various items of privilege, which I once counted separately, are now all viewed as one great loss. My own righteousness, which I once found pride in, actually hinders me from fully experiencing salvation through Christ. Therefore, I joyfully relinquish all reliance on my legal merits and renounce them for the sake of Christ. In comparison to the surpassing worth of knowing Christ, these formerly cherished things are nothing.",
+        "wordCount": 94,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.078609517865667,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+        "commentatorTierSimilarities": [
+            31.65,
+            32.78,
+            35.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But whatsoever things were to me gains, these I have esteemed for Christ's sake as loss."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have counted for Christ's sake loss.\" ",
+            "He no longer uses the plural as in 'gains'; for he counts them all but one great 'loss'.\" ",
+            "He counts them all but one great 'loss'."
+        ],
+        "Albert Barnes": [
+            "I thought these to be gain - that is, to be of vast advantage in the matter of salvation.",
+            "I now regard them all as so much loss. They were really a disadvantage - a hindrance - an injury.",
+            "In order to obtain salvation by him, it was necessary to renounce all dependence on these things."
+        ],
+        "Marvin Vincent": [
+            "The various items of privilege are regarded separately.",
+            "The perfect tense implies that he still counts them as loss.",
+            "The various gains are all counted as one loss."
+        ],
+        "John Calvin": [
+            "Ignorance of Christ is the sole reason why we are puffed up with a vain confidence.",
+            "So soon as Christ shines forth all those things that formerly dazzled our eyes with a false splendor instantly vanish, or at least are disesteemed.",
+            "Paul, accordingly, acknowledges that nothing was so injurious to him as his own righteousness, inasmuch as he was by means of it shut out from Christ."
+        ],
+        "Philip Schaff": [
+            "And in the original this is expressed somewhat more fully, for the word is really \u2018gains,\u2019 as though he had felt the total sum in his early days to be very great, and had been consequently proud of them.",
+            "Now he has learnt that in Christ alone is salvation, and that so long as Jewish observances are cherished side by side with a half-acceptance of Him, these legal merits, however complete, bar the way effectually to a full and saving faith.",
+            "The tense, which is scarcely expressed in the Authorised Version, tells of that sacrifice which followed close upon the vision at his conversion. The words from heaven, and the three days\u2019 spiritual enlightenment while his bodily eye was quenched, gave time for the full comprehension of the worthlessness of all that he had prized before."
+        ],
+        "Archibald T. Robertson": [
+            "Were gains (plural, see on Philippians 1:21) to me (ethical dative).",
+            "Have I counted (\u03b7\u03b3\u03b7\u03bc\u03b1). Perfect middle indicative, state of completion and still true.",
+            "Loss (\u03b6\u03b7\u03bc\u03b9\u03b1\u03bd). Old word for damage, loss. In N.T. only in Phil. and Acts 27:10; Acts 27:21. Debit side of the ledger, not credit."
+        ],
+        "John Gill": [
+            "But being converted, he saw all those things in a different light, and had a different opinion of them: those I counted loss for Christ.",
+            "He gladly suffered the loss of all his legal righteousness, and renounced and disclaimed it, and all pretensions to justification and salvation by it, for the sake of Christ.",
+            "What before he pleased himself much with, and promised himself much from, he could not now reflect upon with any pleasure and satisfaction of mind."
+        ],
+        "John Wesley": [
+            "But all these things, which I then accounted gain, which were once my confidence, my glory, and joy...",
+            "Those, ever since I have believed, I have accounted loss...",
+            "Nothing worth in comparison of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All the things that I once considered gains and esteemed highly, I now count as loss for the sake of Christ. No longer do I view them as items of privilege to be cherished, but as a great loss to be renounced. These various gains, which I once held in high regard, I now regard as one great loss. My own righteousness, which I was once proud of, hinders me from truly experiencing the salvation found in Christ. Therefore, I gladly suffer the loss of all my legal righteousness and renounce it for the sake of Christ. These things, which I once found pleasure, confidence, and joy in, I now see as nothing compared to the surpassing worth of knowing Christ as my Lord and Savior.",
+            "wordCount": 126,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.0950954579376004,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                33.35,
+                30.25,
+                36.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All the gains I once esteemed highly, I now count as loss for the sake of Christ. No longer do I view them as items of privilege, but as a great loss to be renounced. My own righteousness, which I was once proud of, hinders me from experiencing the salvation found in Christ. Therefore, I gladly suffer the loss of all my legal righteousness and renounce it for the sake of Christ. These things, which I once found pleasure, confidence, and joy in, I now see as nothing compared to knowing Christ as my Lord.",
+            "wordCount": 95,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.0184555676639686,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                32.03,
+                29.26,
+                38.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All my perceived gains and esteemed privileges that were once of utmost importance to me, I now consider as loss for the sake of Christ. These various items of privilege, which I once counted separately, are now all viewed as one great loss. My own righteousness, which I once found pride in, actually hinders me from fully experiencing salvation through Christ. Therefore, I joyfully relinquish all reliance on my legal merits and renounce them for the sake of Christ. In comparison to the surpassing worth of knowing Christ, these formerly cherished things are nothing.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.078609517865667,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                31.65,
+                32.78,
+                35.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the gains I once esteemed have become a loss for the sake of Christ. The various items of privilege that I once counted separately are now regarded as one great loss. My own righteousness, which I once took pride in, hinders me from fully experiencing salvation through Christ. Therefore, I gladly forsake all reliance on my legal merits and renounce them for the sake of Christ. These things, which I once found pleasure, confidence, and joy in, I now consider to be of no worth compared to knowing Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.0690538942648633,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                33.8,
+                30.18,
+                36.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I consider all that I once esteemed and counted as gains to be loss for the sake of Christ. The various privileges I once valued separately are now seen as one great loss. My own righteousness, which I once took pride in, is now recognized as hindering me from fully experiencing salvation in Christ. Thus, I willingly discard any reliance on my legal merits and renounce them for the sake of Christ. Compared to knowing Christ, these former sources of pleasure, confidence, and joy hold no value.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9965064816901852,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.73,
+            "commentatorTierSimilarities": [
+                32.75,
+                30.42,
+                36.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

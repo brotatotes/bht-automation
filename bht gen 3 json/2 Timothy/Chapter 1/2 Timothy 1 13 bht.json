@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:30:06",
+    "verseRef": "2 Timothy 1:13",
+    "bestBHT": {
+        "bht": "Hold fast to the form of sound words, which serve as a sample of the healthy teachings you heard from me in faith and love. Let these faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. The command is not just to adhere to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love, the very essence of the teachings of Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.203946136515021,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+        "commentatorTierSimilarities": [
+            32.32,
+            30.92,
+            36.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The verb does not mean 'hold fast,' but is simply 'have,' or 'take,' and it is not 'the form,' but 'a form,' or 'a sample.'\" ",
+            "Have (take) an example of (the) sound words, which thou heardest of me in faith and love which are in Christ Jesus.",
+            "Let me in thus speaking, 'I know whom I have believed, &c.,' call to thy mind, by one example, those faithful sayings, those words of spiritual health, which thou once heardest with such receptivity and ardour as a Christian believer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Have (that is, keep) a pattern of sound (Greek, 'healthy') words which thou hast heard from me, in faith and love.",
+            "Have such a pattern drawn from my sound words, in opposition to the unsound doctrines so current at Ephesus, vividly impressed on thy mind.",
+            "In faith and love\u2014the element IN which my sound words had place, and in which thou art to have the vivid impression of them as thy inwardly delineated pattern, moulding conformably thy outward profession."
+        ],
+        "Albert Barnes": [
+            "The command is that he should adhere to the doctrine which he had learned, not only in its substance, but in its form.\" ",
+            "There seems to be an allusion to some summary or outline of truth which Paul had given to Timothy, though there is no evidence that it was written.",
+            "Hold these truths with sincere faith in the Lord Jesus, and with that love which is the best evidence of attachment to him."
+        ],
+        "Marvin Vincent": [
+            "The teaching is to be held, preached, and practiced, not as a mere schedule of conduct, however excellent, but with the strong conviction of faith and the favor of love.",
+            "Of sound words.",
+            "In faith and love."
+        ],
+        "John Calvin": [
+            "Let thy doctrine be, as it were, a pattern which others may imitate.",
+            "Paul commands Timothy to hold fast the doctrine which he had learned, not only as to substance, but as to the very form of expression.",
+            "Paul employs these terms for describing more fully what is the nature of 'sound words' and what is the subject of them. Now he says that the summary consists in 'faith and love' of which the knowledge of Christ is the source and beginning."
+        ],
+        "Philip Schaff": [
+            "Hold fast the form of sound words.\" ",
+            "Wholesome words characterized by a spiritual healthiness.",
+            "Listen eagerly to the words which he was now in danger of forgetting."
+        ],
+        "Archibald T. Robertson": [
+            "The pattern of sound words.",
+            "See 1 Timothy 1:16 for \u03c5\u03c0\u03bf\u03c4\u03c5\u03c0\u03c9\u03c3\u03b9\u03bd and 1 Timothy 1:10 for \u03c5\u03b3\u03b9\u03b1\u03b9\u03bd\u03c9.",
+            "Genitive plural with \u03b7\u03ba\u03bf\u03c5\u03c3\u03b1\u03c2 (didst hear) or attracted to case of \u03bb\u03bf\u03b3\u03c9\u03bd (\u03b1\u03ba\u03bf\u03c5\u03c9 is used either with the accusative or the genitive)."
+        ],
+        "John Gill": [
+            "By 'words' are meant, not mere words, but doctrines; for the servants of the Lord should not strive about words, to no profit, or be too tenacious of them.",
+            "The 'form' of them either intends the manner of teaching them, which should be it, apt and acceptable words, plain and easy to be understood, and not with the enticing words of men's wisdom; or a brief summary, a compendium of Gospel truth.",
+            "There seems to be an allusion to painters, who first make their outlines, and take a rough draught before they lay on their colours and beautiful strokes; and which rough draught and first lines are the rule and pattern of their after work."
+        ],
+        "John Wesley": [
+            "The pattern of sound words \u2014 The model of pure, wholesome doctrine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hold fast to the form of sound words, which serve as a sample of the healthy teachings you heard from me in faith and love. Let these faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. The command is not just to adhere to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love, the very essence of the teachings of Christ. This pattern of pure and wholesome doctrine serves as a model for others to imitate.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0969807082409497,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                29.64,
+                28.82,
+                41.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hold fast to the form of sound words, a sample of the healthy teachings you heard from me. These faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. Adhere not just to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love, the very essence of the teachings of Christ. This pattern of pure and wholesome doctrine serves as a model for others to imitate.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.045868672350595,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                28.53,
+                29.1,
+                42.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hold fast to the form of sound words, which are a sample of the healthy teachings heard in faith and love. These faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. Adhere not just to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love. This pattern of pure and wholesome doctrine serves as a model for others to imitate.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.119455308995966,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.81,
+            "commentatorTierSimilarities": [
+                30.26,
+                28.82,
+                40.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hold fast to the form of sound words, a sample of the healthy teachings heard in faith and love. These faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. Adhere not just to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love. This pattern of pure and wholesome doctrine serves as a model for others.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.1084002480675563,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.45,
+            "commentatorTierSimilarities": [
+                30.43,
+                28.93,
+                40.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hold fast to the form of sound words, which serve as a sample of the healthy teachings you heard from me in faith and love. Let these faithful sayings, deeply impressed upon your mind, mold your outward profession as a Christian believer. The command is not just to adhere to the substance of the doctrine, but also to the very form of expression. These sound words are not mere words, but doctrines rooted in faith and love, the very essence of the teachings of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.203946136515021,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.62,
+            "commentatorTierSimilarities": [
+                32.32,
+                30.92,
+                36.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

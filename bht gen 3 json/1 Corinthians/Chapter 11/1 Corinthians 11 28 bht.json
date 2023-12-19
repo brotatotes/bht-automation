@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:12:03",
+    "verseRef": "1 Corinthians 11:28",
+    "bestBHT": {
+        "bht": "To approach the communion table in a worthy manner, believers must thoroughly examine themselves, scrutinizing their words, thoughts, feelings, and conduct. This self-reflection serves as a necessary test to determine the authenticity of their faith and repentance. It is not intended for one to abstain from partaking, but rather to ensure a proper approach. The responsibility lies with each individual to evaluate their true state of feeling towards Christ's death and their spiritual condition. By genuinely repenting and having a genuine faith, believers can partake in communion, acknowledging Christ's presence within them and the hope of glory.",
+        "wordCount": 100,
+        "quoteTokenProportion": 35.14,
+        "qualityScore": 1.868768503803369,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+        "commentatorTierSimilarities": [
+            26.44,
+            36.82,
+            36.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Examine himself...ascertain by sufficient tests, what his state of feeling is with regard to the death of Christ, and how far this feeling is evinced in his daily life.\" ",
+            "Which are the best guarantees for a worthy participation.",
+            "The case in which the self-examination ends in an unfavorable verdict, does not come under consideration, because it is assumed that such a verdict will lead to repentance and amendment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not auricular confession to a priest, but self-examination is necessary.",
+            "His self-examination is not in order that he may stay away, but that he may eat, that is, communicate.",
+            "In 1 Corinthians 11:31- :, where the receiving was unworthily, the expression was, 'eat this bread, drink . . . cup' without 'of.' Here the 'of' implies due circumspection in communicating."
+        ],
+        "Albert Barnes": [
+            "Let him examine himself, and see whether he have the right feelings of a communicant, and can approach the table in a proper manner.",
+            "This examination should be minute and particular. It should extend to the words, the thoughts, the feelings, the conduct.",
+            "The communion should always be preceded by an honest and prayerful self-examination."
+        ],
+        "Marvin Vincent": [
+            "So. After self - examination and consequent knowledge of his spiritual state."
+        ],
+        "John Calvin": [
+            "Let every one, therefore, take heed to himself, that he may not fall into this sacrilege through idleness or carelessness.\" ",
+            "If you would wish to use aright the benefit afforded by Christ, bring faith and repentance.\" ",
+            "For faith, when it is but begun, makes those worthy who were unworthy."
+        ],
+        "Philip Schaff": [
+            "Let a man examine himself since on himself will rest the ultimate responsibility, whoever else may examine him."
+        ],
+        "Archibald T. Robertson": [
+            "Test himself as he would a piece of metal to see if genuine.",
+            "Such examination of one's motives would have made impossible the disgraceful scenes.",
+            "Let a man prove himself."
+        ],
+        "John Gill": [
+            "Whether he has a true sense of sin, sorrow and repentance for it; otherwise he will see no need of a Saviour, nor will he look to Christ for salvation.\" ",
+            "Also, whether he is in the faith, whether he is a partaker of the true grace of faith, which is attended with good works, and shows itself by love to Christ, and to the saints; whereby a man goes out of himself to Christ for spiritual food and strength, peace and comfort, righteousness, life, and salvation; and by which he receives all from Christ, and gives him all the glory.\" ",
+            "Let him examine himself, whether Christ is in him, whether he is revealed to him, and in him, as God's way of salvation, and the hope of glory; whether he is formed in his soul, his Spirit put, and his grace implanted there; since if Christ is not within, it will be of no avail to partake of the outward symbols of his body and blood."
+        ],
+        "John Wesley": [
+            "Let a man examine himself \u2014 Whether he know the nature and the design of the institution...",
+            "Whether it be his own desire and purpose throughly to comply therewith.",
+            "...to comply therewith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Before participating in the communion, it is crucial for a believer to engage in self-examination. This examination should be thorough and extend to the individual's words, thoughts, feelings, and conduct. By testing themselves like one would examine a piece of metal, a person can ascertain their true state of feeling towards the death of Christ and determine if they are worthy to partake in the sacrament. This self-examination is not meant to discourage one from partaking, but rather to ensure that they approach the table in a proper manner. Ultimately, the responsibility falls on the individual to examine themselves and prove their genuine faith and repentance, as only those who possess a true sense of sin, sorrow, and repentance can fully appreciate the benefit offered by Christ. Therefore, every person should engage in self-reflection, assessing whether they hold the true grace of faith and love for Christ and the saints. Additionally, they should consider whether Christ is truly within them and has been revealed to them, for without Christ's presence in their hearts, participating in communion serves no purpose.",
+            "wordCount": 184,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.84118531569549,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                23.78,
+                39.29,
+                36.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To approach the communion table in a worthy manner, believers must thoroughly examine themselves, scrutinizing their words, thoughts, feelings, and conduct. This self-reflection serves as a necessary test to determine the authenticity of their faith and repentance. It is not intended for one to abstain from partaking, but rather to ensure a proper approach. The responsibility lies with each individual to evaluate their true state of feeling towards Christ's death and their spiritual condition. By genuinely repenting and having a genuine faith, believers can partake in communion, acknowledging Christ's presence within them and the hope of glory.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.868768503803369,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                26.44,
+                36.82,
+                36.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before partaking in communion, believers are urged to engage in introspection and assess their feelings towards the death of Christ and its impact on their daily lives. Through self-examination, one can discern their worthiness to participate. The purpose is not to discourage but to ensure a proper approach, as the examination process should lead to repentance and amendment. It is important to note that this self-examination is not tied to confession to a priest, but rather a personal reflection to ascertain one's spiritual state.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.705398272820585,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                30.51,
+                36.3,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In preparation for communion, believers are encouraged to examine themselves thoroughly, testing their state of feeling towards Christ's death and evaluating their daily lives. This self-reflection serves as a guarantee for a worthy participation, seeking to ensure one's genuine faith and repentance. While an unfavorable verdict may arise, the focus remains on the potential for repentance and amendment. This self-examination is essential, surpassing the need for auricular confession to a priest and aiming for genuine self-assessment, leading to a worthy partaking in communion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.8518111629626697,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.91,
+            "commentatorTierSimilarities": [
+                29.84,
+                36.85,
+                33.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Before partaking in communion, believers must examine themselves to determine their state of feeling towards the death of Christ and its manifestation in their daily lives. This self-evaluation serves as a crucial test, ensuring a worthy participation in the sacrament. The purpose is not to discourage one from partaking, but rather to instigate repentance and amendment in response to an unfavorable verdict. Self-examination is necessary and supersedes the need for confession to a priest. It is a means to assess one's spiritual state, granting the opportunity to eat and communicate in a worthy manner.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7690793203129447,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                33.69,
+                36.55,
+                29.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

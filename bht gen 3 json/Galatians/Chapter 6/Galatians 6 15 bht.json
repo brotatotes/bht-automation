@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 14:21:21",
+    "verseRef": "Galatians 6:15",
+    "bestBHT": {
+        "bht": "Boasting in external factors holds no value when compared to the transformative power of the new birth through the Spirit. This results in becoming a new creature in Christ, a phrase carrying profound spiritual meaning. Acceptance in the kingdom of Christ depends on being created anew by the Spirit, which nullifies external distinctions and the shadows of the law. The emphasis lies not on conformity to customs, but on the genuine transformation experienced by being united with Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.926767203433616,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+        "commentatorTierSimilarities": [
+            28.45,
+            41.65,
+            29.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Confirmation of last verse: so far are such things from me as a ground of boasting, that they are nothing: the new birth by the Spirit is all in all.",
+            "A new creature: literally (see note on 2 Cor. v. 17), creation: and therefore the result, as regards an individual, is that he is a new creature.",
+            "So that the word comes to be used in both significations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not only are they of no avail, but they are nothing. So far are they from being matter for 'glorying,' that they are 'nothing.'\" ",
+            "Christ's cross is 'all in all,' as a subject for glorying, in 'the new creature'.\" ",
+            "A transformation by the renewal of the mind."
+        ],
+        "Albert Barnes": [
+            "The fact that a man is created anew, or born again, constitutes the real difference between him and other people.",
+            "It is not by conformity to certain rites and customs that a man is to be accepted.",
+            "The grand inquiry is, whether a man is born again, and is in fact a new creature in Christ Jesus."
+        ],
+        "Marvin Vincent": [
+            "A new creature.\" ",
+            "The phrase was common in Jewish writers for one brought to the knowledge of the true God.\" ",
+            "For ktisiv on Romans 8:19; 2 Corinthians 5:17."
+        ],
+        "John Calvin": [
+            "In Christ, to whom he is spiritually united, nothing but a new creature is of any avail.",
+            "If any man wishes to be considered as belonging to the kingdom of Christ, let him be created anew by the Spirit of God.",
+            "The truth of the gospel swallows up, and brings to nought, all the shadows of the law."
+        ],
+        "Philip Schaff": [
+            "All external distinctions are lost in Christ, and the new creature is everything.",
+            "The phrase \u2018new creature\u2019 was common among Jewish writers to designate a moral change or conversion to Judaism (= proselyte); but in Paul it has a far deeper spiritual meaning.",
+            "In Christ Jesus, says he, neither circumcision, nor uncircumcision, neither single life nor marriage, neither meat nor fasting, do any whit avail."
+        ],
+        "Archibald T. Robertson": [
+            "A new creature (\u03ba\u03b1\u03b9\u03bd\u03b7 \u03ba\u03c4\u03b9\u03c3\u03b9\u03c2). For this phrase see on 2 Corinthians 5:17. "
+        ],
+        "John Gill": [
+            "and it is necessary to church communion",
+            "it cannot be said that non-baptism avails not; it is a bar to church fellowship",
+            "this is of avail; it is a branch of the new covenant of grace, which God has therein promised to bestow on his people"
+        ],
+        "John Wesley": [
+            "For neither circumcision is anything, nor uncircumcision \u2014 Neither of these is of any account.",
+            "But a new creation \u2014 Whereby all things in us become new."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights that boasting in external factors is worthless compared to the new birth through the Spirit, which is the true source of transformation. It emphasizes that becoming a new creature in Christ is the ultimate result. This phrase, used by Jewish writers to denote a moral change or conversion, carries a deeper spiritual significance in Paul's context. Acceptance and belonging in the kingdom of Christ hinge upon being created anew by the Spirit. This truth nullifies external distinctions and the shadows of the law. The emphasis is not on conformity to rites or customs, but on the genuine transformation experienced by being united with Christ.",
+            "wordCount": 108,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 1.8949786038352041,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                27.88,
+                43.35,
+                28.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Boasting in external factors holds no value when compared to the transformative power of the new birth through the Spirit. This results in becoming a new creature in Christ, a phrase carrying profound spiritual meaning. Acceptance in the kingdom of Christ depends on being created anew by the Spirit, which nullifies external distinctions and the shadows of the law. The emphasis lies not on conformity to customs, but on the genuine transformation experienced by being united with Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.926767203433616,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                28.45,
+                41.65,
+                29.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse emphasizes that boasting in external factors is worthless compared to the new birth through the Spirit, which is the true source of transformation. It underscores the significance of becoming a new creature in Christ, as emphasized by Jewish writers. Acceptance and belonging in the kingdom of Christ are contingent upon being created anew by the Spirit. This truth nullifies external distinctions and the shadows of the law. The focus is not on conformity to rites or customs, but on the genuine transformation experienced through union with Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8467294802481669,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.75,
+            "commentatorTierSimilarities": [
+                26.14,
+                43.25,
+                30.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Boasting in external factors pales in comparison to the transformative power of the new birth through the Spirit. The phrase new creature carries a profound spiritual meaning, as recognized by Jewish writers. Belonging to the kingdom of Christ hinges on being created anew by the Spirit, negating the significance of external distinctions and legalistic practices. The focus is not on conformity to customs, but on the genuine transformation brought about by being united with Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8714686946813726,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.57,
+            "commentatorTierSimilarities": [
+                29.82,
+                41.14,
+                29.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The verse highlights that boasting in external factors is worthless compared to the transformative power of the new birth through the Spirit. Becoming a new creature in Christ carries deep significance, as noticed by Jewish writers. Being accepted in the kingdom of Christ depends on being created anew by the Spirit, while external distinctions and legalistic practices lose their importance. The emphasis lies on genuine transformation through union with Christ, rather than conformity to customs.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8691335207236142,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                28.11,
+                43.07,
+                28.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

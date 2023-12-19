@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:06:30",
+    "verseRef": "1 Corinthians 7:5",
+    "bestBHT": {
+        "bht": "In addressing marital issues, Paul urges spouses to engage in focused prayer by temporarily separating for urgent supplication and then reuniting. By withholding conjugal duties, they risk falling prey to Satan's temptations to fulfill their natural desires unlawfully. The apostle emphasizes the need for self-control and discretion to maintain a godly relationship. Through mutual agreement for temporary abstinence, couples can guard against impure thoughts and actions, remaining faithful to one another and to God.",
+        "wordCount": 76,
+        "quoteTokenProportion": 23.81,
+        "qualityScore": 1.6755789148207234,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+        "commentatorTierSimilarities": [
+            31.59,
+            29.6,
+            38.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The prayer meant is not ordinary, but extraordinary,\u2014seasons of urgent supplication.",
+            "The aim of the temporary separation is not that you may keep apart, but for a certain end, and then that you may be united again.",
+            "Purpose of the re-union stated, by that which might happen did it not take place: viz. that a temptation might arise, to fulfil the natural desires in an unlawful manner."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Defraud . . . not\u2014namely, of the conjugal duty 'due'.\" ",
+            "because of your inability to 'contain' your natural propensities, which Satan would take advantage of.\" ",
+            "Satan\u2014who often thrusts in his temptations to unholy thoughts amidst the holiest exercises."
+        ],
+        "Albert Barnes": [
+            "Withdraw not from the society of each other.",
+            "Even by mutual consent, the apostle would not have this separation to be perpetual.",
+            "That Satan take not advantage of you, and throw you into temptation."
+        ],
+        "John Calvin": [
+            "If, however, we consider the reasons that influenced him, we shall find that he was under the necessity of speaking of these things.",
+            "Let each then be helpful to each other\u2019s necessity, and neither of them act as if at his or her own disposal.",
+            "Those, therefore, act a rash part, who give up the use of the marriage bed. It is as if they had made an agreement with God as to perpetual strength."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 7:5. That ye may give yourselves unto prayer. [1]",
+            "\t",
+            " [1] The words \u201cand fasting \u201care wanting in all the greater authorities.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "If \u03b1\u03bd is genuine, it can either be regarded as like \u03b5\u03b1\u03bd though without a verb or as loosely added after \u03b5 \u03bc\u03b7\u03c4 and construed with it.",
+            "First aorist active subjunctive of \u03c3\u03c7\u03bf\u03bb\u03b1\u03b6\u03c9, late verb from \u03c3\u03c7\u03bf\u03bb\u03b7, leisure (our 'school'), and so to have leisure (punctiliar act and not permanent) for prayer. Note private devotions here.",
+            "A late word from Aristotle on for \u03b1\u03ba\u03c1\u03b1\u03c4\u03b5\u03b9\u03b1 from \u03b1\u03ba\u03c1\u03b1\u03c4\u03b7\u03c2 (without self-control, \u03b1 privative and \u03ba\u03c1\u03b1\u03c4\u03b5\u03c9, to control, common old word). In N.T. only here and Matthew 23:25 which see."
+        ],
+        "John Gill": [
+            "By withholding due benevolence, denying the use of the marriage bed, refusing to pay the conjugal debt... it is a piece of injustice, it is properly a defrauding.",
+            "Such a voluntary abstinence is commended... by consent of his wife... another condition of this abstinence is that it be only for a time; which shall be agreed unto, and fixed by both parties.",
+            "Satan, who knows the temperament and disposition of men and women, may tempt them not only to hatred of, and quarrels with one another, but to impure lusts and desires, to fornication, adultery, and all uncleanness."
+        ],
+        "John Wesley": [
+            "Unless it be by consent for a time \u2014 That on those special and solemn occasions ye may entirely give yourselves up to the exercises of devotion.",
+            "Lest \u2014 If ye should long remain separate.",
+            "Satan tempt you \u2014 To unclean thoughts, if not actions too."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of addressing marital matters, the apostle Paul emphasizes the importance of prayer for believers. He encourages spouses to engage in times of urgent supplication, temporarily separating for the purpose of focused prayer and then reuniting with one another. Paul warns against withholding conjugal duties, as doing so would allow Satan to take advantage of their natural desires and tempt them to fulfill them unlawfully. The apostle highlights the need for self-control and discretion in maintaining a healthy and godly marital relationship, ensuring that neither partner acts as if they are at their own disposal. By mutually agreeing to temporary abstinence for the purpose of prayer, spouses can guard against Satan's attempts to introduce impure thoughts and actions into their relationship, remaining faithful to one another and to God.",
+            "wordCount": 133,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6287740711437082,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                31.6,
+                27.49,
+                40.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In addressing marital issues, Paul urges spouses to engage in focused prayer by temporarily separating for urgent supplication and then reuniting. By withholding conjugal duties, they risk falling prey to Satan's temptations to fulfill their natural desires unlawfully. The apostle emphasizes the need for self-control and discretion to maintain a godly relationship. Through mutual agreement for temporary abstinence, couples can guard against impure thoughts and actions, remaining faithful to one another and to God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.6755789148207234,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+            "commentatorTierSimilarities": [
+                31.59,
+                29.6,
+                38.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In discussing marital matters, Paul stresses the significance of prayer as a means of urgent supplication. He advises temporary separation for the purpose of devoted prayer, followed by reunion. Withholding conjugal duties can lead to susceptibility to the temptations of Satan, who often interjects impure thoughts during holy exercises. By mutually agreeing to temporary abstinence, couples can protect themselves from unholy desires and actions, reinforcing the importance of self-control and discretion in maintaining a wholesome marital bond.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.6063968552310537,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.76,
+            "commentatorTierSimilarities": [
+                36.25,
+                26.86,
+                36.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In addressing marital matters, the apostle Paul emphasizes the importance of prayer, specifically extraordinary seasons of urgent supplication. He advises temporary separation for the purpose of focused prayer, followed by reunion, to prevent temptation from arising due to unfulfilled natural desires. By not defrauding one another of their conjugal duty, spouses guard against the schemes of Satan, who often introduces unholy thoughts during the holiest exercises. This temporary abstinence should be marked by private devotions and maintenance of self-control to remain faithful to one another and to God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.6406272675964062,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.89,
+            "commentatorTierSimilarities": [
+                37.36,
+                24.89,
+                37.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In addressing marital matters, Paul emphasizes the importance of extraordinary seasons of urgent supplication. He advises temporary separation for the purpose of focused prayer, followed by reunion to prevent temptation. By not defrauding one another of their conjugal duty, spouses guard against the schemes of Satan, who often introduces unholy thoughts. This temporary abstinence should be marked by private devotions and self-control to remain faithful to one another and to God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5811661693329264,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                35.63,
+                25.84,
+                38.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

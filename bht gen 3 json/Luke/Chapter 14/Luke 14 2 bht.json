@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:45",
+    "verseRef": "Luke 14:2",
+    "bestBHT": {
+        "bht": "Before Jesus, a man with dropsy stood, not daring to ask for healing due to the Sabbath and the presence of the Pharisees. While it is unclear if he was purposely placed there by the Pharisees or came of his own accord, he arrived with hope for a cure. Dropsy, a disease causing water accumulation in the body, is distressing and typically incurable. Despite not explicitly requesting healing, the man sought Jesus' pity and the potential for relief from his condition.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.1571798930095483,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+        "commentatorTierSimilarities": [
+            31.77,
+            43.33,
+            24.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He was standing there, not daring to ask to be healed, on account of the Sabbath, and the Pharisees; but only shewing himself, that our Lord might see him and be moved with pity, and so proceed to heal him.",
+            "It does not appear, though it is certainly possible, that he was set there by the Pharisees on purpose.",
+            "This was before the meal."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "man before him\u2014not one of the company, since this was apparently before the guests sat down.",
+            "probably the man came in hope of a cure, though not expressly soliciting it.",
+            "the man came in hope of a cure, though not expressly soliciting it [DE WETTE]."
+        ],
+        "Albert Barnes": [
+            "A certain man before him - In what way he came there we know not. He might have been one of the Pharisee\u2019s family, or might have been placed there by the Pharisees to see whether he would heal him.\" ",
+            "This last supposition is not improbable, since it is said in Luke 14:1 that they watched him.",
+            "The dropsy - A disease produced by the accumulation of water in various parts of the body; very distressing, and commonly incurable."
+        ],
+        "Marvin Vincent": [
+            "Which had the dropsy [\u03c5\u03b4\u03c1\u03c9\u03c0\u03b9\u03ba\u03bf\u03c2] . Lit., a dropsical man. The usual way of marking a dropsical patient in medical language."
+        ],
+        "Philip Schaff": [
+            "A certain man who had the dropsy... The man was not a guest and was possibly placed there by the Pharisees, with a view to entangle our Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Late and medical word from \u03c5\u03b4\u03c9\u03c1 (water), one who has internal water (\u03c5\u03b4\u03c1\u03c9\u03c0\u03c2).",
+            "Here only in the N.T and only example of the disease healed by Jesus and recorded."
+        ],
+        "John Gill": [
+            "The causes of dropsies in general, are whatever may obstruct the serous part of the blood, so as to make it stagnate in the vessels or burst the vessels themselves, so as to let the blood out among the membranes; or weaken and relax the tone of the vessels; or this the blood, and make it watery; or lessen perspiration.",
+            "The 'ascites', or 'water dropsy' of the 'abdomen', is the most usual case, and what we particularly call the 'dropsy': its symptoms are tumours, first of the feet and legs, and afterwards of the 'abdomen.'",
+            "If the belly be struck or shook, there is heard a quashing of water: add to this, three other attendants, viz. a dyspnoea, intense thirst, and sparing urine; with which may be numbered heaviness, listlessness, costiveness, a light fever, and an emaciation of the body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 14:2, there was a man with dropsy standing before Jesus, not daring to ask to be healed on the Sabbath. It is not clear if he was intentionally placed there by the Pharisees or if he came of his own accord, but he came with hope of a cure. Dropsy is a disease caused by the accumulation of water in the body and is incurable. This man, experiencing the distressing symptoms of dropsy, was seeking Jesus' mercy and healing.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.1554228877174757,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                32.55,
+                43.85,
+                23.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Standing before Jesus in Luke, there was a man who had dropsy, a disease caused by the accumulation of water in the body. This man, not daring to ask for healing on the Sabbath due to the Pharisees' presence, came in hope of a cure. Whether he was intentionally placed there by the Pharisees or came of his own accord remains uncertain. Dropsy is a distressing condition, incurable and marked by various symptoms, including tumours, intense thirst, and emaciation. Despite not explicitly requesting healing, the man sought Jesus' pity and the possibility of finding relief from his condition.",
+            "wordCount": 98,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.04301503570414,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                31.77,
+                43.42,
+                24.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Before Jesus, a man with dropsy stood, not daring to ask for healing due to the Sabbath and the presence of the Pharisees. While it is unclear if he was purposely placed there by the Pharisees or came of his own accord, he arrived with hope for a cure. Dropsy, a disease causing water accumulation in the body, is distressing and typically incurable. Despite not explicitly requesting healing, the man sought Jesus' pity and the potential for relief from his condition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.1571798930095483,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.07,
+            "commentatorTierSimilarities": [
+                31.77,
+                43.33,
+                24.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A man with dropsy stood before Jesus, refraining from requesting healing due to the Sabbath and the presence of the Pharisees. It is uncertain if he was deliberately positioned there by the Pharisees or came willingly, but his hope for a cure remained. Dropsy, a disease characterized by the accumulation of water in the body, is distressing and often incurable. Although he did not explicitly ask for healing, the man sought Jesus' compassion and the possibility of finding solace from his ailment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.1505925058590454,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                30.66,
+                44.45,
+                24.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A man with dropsy hesitated to request healing in the presence of Jesus and the Pharisees on the Sabbath. It is unclear whether he was intentionally placed there or came of his own accord, but he held onto the hope of receiving a cure. Dropsy, a disease caused by the accumulation of water in the body, is distressing and usually incurable. Despite not explicitly asking for healing, the man sought Jesus' compassion and the possibility of finding relief from his condition.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.02286889667639,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                32.38,
+                41.62,
+                26.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

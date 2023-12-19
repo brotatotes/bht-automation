@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:15:51",
+    "verseRef": "Luke 6:12",
+    "bestBHT": {
+        "bht": "The Evangelist intentionally introduces the incident without specifying its exact placement. Jesus spends the entire night in prayer, preparing for the appointment of the disciples who would birth His Church. This prolonged communion with His Father showcases Jesus' habitual commitment to prayer. His fervent and passionate plea, filled with strong cries and intense devotion, exhibits an extraordinary and sublime connection with God. The location on a mountain carries significance, possibly indicating a connection to the Sermon on the Mount.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.8358802382753487,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+        "commentatorTierSimilarities": [
+            30.59,
+            32.5,
+            36.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I believe it to be a form of acknowledgment on the part of the Evangelist, that he did not determine exactly into what part of this period to bring the incident so introduced.",
+            "The whole of this paragraph is of a supplementary and indefinite character, serving more as a preface to the discourse which follows.",
+            "This is the right rendering. The fancy that by the words rendered 'in his prayer to God' is meant in a house of prayer, is quite baseless."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The work with which the next day began shows what had been the burden of this night's devotions.",
+            "As He directed His disciples to pray for 'laborers' just before sending themselves forth, so here we find the Lord Himself in prolonged communion with His Father in preparation for the solemn appointment of those men who were to give birth to His Church.",
+            "From them, the world in all time was to take a new mold. How instructive is this!"
+        ],
+        "Albert Barnes": [
+            "Jesus was accustomed to resort to such places to hold communion with God.",
+            "He spent the whole night in supplication.",
+            "In great emergencies, when we have important duties, or are about to encounter special difficulties, we should seek the divine blessing and direction by 'prayer'."
+        ],
+        "Marvin Vincent": [
+            "A mountain. The article denotes a familiar place.",
+            "Continued all night. The all night prayer is peculiar to Luke's narrative."
+        ],
+        "Philip Schaff": [
+            "The mountain. Comp. Matthew 5:1. A strong hint of identity with that occasion.",
+            "Continued all night in prayer to God. Peculiar to Luke.",
+            "Prayer before the great choice. Conflict too, since Judas was chosen."
+        ],
+        "Archibald T. Robertson": [
+            "Luke alone has 'to pray' as he so often notes the habit of prayer in Jesus.",
+            "Here alone in the N.T., but common in the LXX and in late Greek writers. Medical writers used it of whole night vigils.",
+            "This phrase occurs nowhere else. \u03a0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b7 does not mean 'place of prayer' or synagogue as in Acts 16:13, but the actual prayer of Jesus to the Father all night long."
+        ],
+        "John Gill": [
+            "for the sake of solitude",
+            "a divine prayer, it regarded divine things, and was put up in a very fervent manner, and with great vehemence",
+            "strong cries sent up to God with great eagerness and importunity, fervency, and devotion"
+        ],
+        "John Wesley": [
+            "In the prayer of God \u2014 The phrase is singular and emphatical, to imply an extraordinary and sublime devotion. Mark 3:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the passage, the Evangelist acknowledges that he did not determine exactly when to place the incident he introduced, serving more as a preface to the discourse that follows. Jesus, in preparation for the appointment of His disciples who would give birth to His Church, spent the entire night in communion with His Father in prayer. This all-night prayer was peculiar to Luke's narrative and is a testament to Jesus' habit of prayer. Jesus' prayer was a divine, fervent, and intense plea, filled with strong cries and great devotion. The location of Jesus' prayer, described as a mountain, holds significance, possibly hinting at an identity with the Sermon on the Mount. The phrase in his prayer to God denotes an extraordinary and sublime devotion.",
+            "wordCount": 126,
+            "quoteTokenProportion": 32.5,
+            "qualityScore": 2.1246316277852144,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                30.41,
+                31.14,
+                38.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Evangelist acknowledges that he did not determine exactly when to place the incident that serves as a preface to the ensuing discourse. Jesus, in preparation for appointing the disciples who would birth His Church, spent the entire night in communion with His Father in fervent prayer. The all-night prayer, unique to Luke, reflects Jesus' habitual devotion to prayer. His prayer was filled with strong cries and great devotion, emphasizing an extraordinary and sublime connection with God. The location, described as a mountain, may suggest a connection to the Sermon on the Mount.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.9780806065942227,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.11,
+            "commentatorTierSimilarities": [
+                32.51,
+                31.9,
+                35.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Evangelist acknowledges the uncertainty of when to position the incident, which serves as a preface to the following discourse. In preparation for appointing the disciples who would give birth to His Church, Jesus dedicates the entire night to intimate prayer, a distinctive component of Luke's account. His fervent devotion, evident in strong and passionate cries, reflects an extraordinary and sublime connection with God. The mention of a mountain holds significance, suggesting a potential link to the Sermon on the Mount.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.751375728886337,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.58,
+            "commentatorTierSimilarities": [
+                31.15,
+                29.72,
+                39.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Evangelist intentionally introduces the incident without specifying its exact placement. Jesus spends the entire night in prayer, preparing for the appointment of the disciples who would birth His Church. This prolonged communion with His Father showcases Jesus' habitual commitment to prayer. His fervent and passionate plea, filled with strong cries and intense devotion, exhibits an extraordinary and sublime connection with God. The location on a mountain carries significance, possibly indicating a connection to the Sermon on the Mount.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8358802382753487,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                30.59,
+                32.5,
+                36.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Evangelist acknowledges the uncertainty of when to position the incident, serving as a preface to the following discourse. Jesus spends the entire night in prayer, preparing for the appointment of the disciples who would give birth to His Church. This marks Jesus' habitual commitment as He directs His disciples to pray for 'laborers' before sending them forth. The all-night prayer is unique to Luke's narrative and reveals Jesus' devotion to commune with His Father. The mention of a mountain is a familiar and significant location, evoking the image of the Sermon on the Mount.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.91270573164751,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                38.49,
+                32.08,
+                29.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

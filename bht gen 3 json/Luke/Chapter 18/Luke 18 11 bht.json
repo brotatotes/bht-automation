@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:21:39",
+    "verseRef": "Luke 18:11",
+    "bestBHT": {
+        "bht": "The Pharisee in this scene arrogantly separated himself from the rest of mankind, disregarding his own sins or spiritual needs. He proudly boasted about fulfilling his duty to an extreme degree, going above and beyond in fasting and tithing. However, his prayer lacked genuine gratitude to God and instead focused on his own righteousness. His self-centered attitude and disdainful view towards others overshadowed any true humility or recognition of God's grace in his life.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.1370220583253223,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+        "commentatorTierSimilarities": [
+            31.92,
+            31.65,
+            36.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Pharisee stood (in the ordinary place) and prayed thus with himself:\u2014such a prayer he would not dare to put up aloud.",
+            "The Church has admirably fitted to this parable the declaration of thankfulness in 1 Cor. xv. 9, 10, also made by a Pharisee, and also on the ground \u2018that he was not as other men:'\u2014but how different in its whole spirit and effect!",
+            "There, in the deepest humility, he ascribes it to the grace of God that he laboured more abundantly than they all;\u2014yet not I, but the grace of God that was with me."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To have been kept from gross iniquities was undoubtedly a just cause of thankfulness to God but instead of the devoutly humble, admiring frame which this should inspire, the Pharisee arrogantly severs himself from the rest of mankind, as quite above them.",
+            "Not confining himself to the one divinely prescribed annual fast, he was not behind the most rigid, who fasted on the second and fifth days of every week, and gave the tenth not only of what the law laid under tithing, but of 'all his gains.'",
+            "Thus, besides doing all his duty, he did works of supererogation; while sins to confess and spiritual wants to be supplied he seems to have felt none."
+        ],
+        "Albert Barnes": [
+            "Hypocrites are often the most orthodox in opinion of any class of people. They know the truth, and admit it. They use it frequently in their prayers and conversation.",
+            "We are not to judge of the 'piety' of people by the fact that they admit the truth, or even that they use it often in their prayers.",
+            "It is, however, not wrong to thank God that he has kept us from the gross sins which other people commit; but it should not be done in an ostentatious manner, nor should it be done forgetting still that we are great sinners and need pardon."
+        ],
+        "Marvin Vincent": [
+            "Stood [\u03c3\u03b1\u03c4\u03b8\u03b5\u03b9\u03c2] . Lit., having been placed. Took his stand. It implies taking up his position ostentatiously; striking an attitude. But no necessarily in a bad sense.\" ",
+            "Prayed [\u03c0\u03c1\u03bf\u03c3\u03b7\u03c5\u03c7\u03b5\u03c4\u03bf] . Imperfect : began to pray, or proceeded to pray.",
+            "A Jewish saying is quoted that a true Rabbin ought to thank God every day of his life; 1, that he was not created a Gentile; 2, that he was not a plebeian; 3, that he was not born a woman."
+        ],
+        "John Calvin": [
+            "Men are not truly and properly humbled, though they are convinced that they can do nothing, unless they likewise distrust the merits of works, and learn to place their salvation in the undeserved goodness of God, so as to rest upon it all their confidence.",
+            "Christ goes farther, not only ascribing to the grace of the Spirit the power of acting aright, but stripping us of all confidence in works.",
+            "Though he did not proclaim aloud the honor of his own righteousness, his internal pride was abominable in the sight of God."
+        ],
+        "Philip Schaff": [
+            "The Pharisee stood...the word here used implies that the Pharisee took a position of confidence, a conspicuous one at all events.",
+            "He did not thank God, but boasted. It is possible to thank God for what we do and become more than others, but such a thanksgiving springs out of the most profound humility.",
+            "The thanksgiving was not for freedom from these sins, but for his superiority to sinners; and he introduces the concrete and actual sinner (the publican)."
+        ],
+        "John Gill": [
+            "he thanked God for the good things which he had received from him, or which by his assistance he had done; but nothing of this kind is said by him: he thanks God, in order to exalt himself, and places his righteousness in his own works, and treats all other men in a censorious and disdainful manner.",
+            "his own self, and the commendation of himself, were the subject of his prayer: his whole dependence in it was on himself; and he was only seeking by it his own glory",
+            "he prayed only with respect to himself; he was wholly intent upon himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Pharisee in this verse stood and prayed with an air of superiority, arrogantly separating himself from the rest of mankind. He boasted about his strict observance of the law, not only fulfilling his duty but also going above and beyond by fasting more regularly and tithing more generously. However, he failed to acknowledge his own sins or spiritual needs. His prayer was not one of genuine gratitude to God, but rather a self-centered display of his own righteousness. Instead of recognizing his dependence on God's grace, he exalted himself and looked down on others.",
+            "wordCount": 97,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.1266461131511982,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                31.96,
+                30.72,
+                37.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisee in this passage confidently stood and prayed, boasting about his strict adherence to the law and his acts of supererogation. However, his prayer lacked humility and true gratitude towards God. He separated himself from others, failing to acknowledge his own sins or spiritual needs, and instead sought to exalt himself. His self-centered prayer focused solely on himself, disregarding the grace of God and treating others with disdain.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.2204145989457014,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.17,
+            "commentatorTierSimilarities": [
+                31.8,
+                32.02,
+                36.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Pharisee in this scene arrogantly separated himself from the rest of mankind, disregarding his own sins or spiritual needs. He proudly boasted about fulfilling his duty to an extreme degree, going above and beyond in fasting and tithing. However, his prayer lacked genuine gratitude to God and instead focused on his own righteousness. His self-centered attitude and disdainful view towards others overshadowed any true humility or recognition of God's grace in his life.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1370220583253223,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.4,
+            "commentatorTierSimilarities": [
+                31.92,
+                31.65,
+                36.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisee in this verse arrogantly separated himself from the rest of mankind, boasting about his observance of the law and going above and beyond in fasting and tithing. His prayer lacked humility and gratitude towards God, focusing instead on his own righteousness. He failed to acknowledge his own sins or spiritual needs, treating others with disdain. By exalting himself and disregarding the grace of God, he displayed a self-centered and prideful attitude.",
+            "wordCount": 74,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.170014087188908,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.49,
+            "commentatorTierSimilarities": [
+                31.45,
+                32.61,
+                35.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Pharisee in this story took a stand and prayed, proudly separating himself from the rest of humanity. He boasted about his strict observance of the law and his deeds that went beyond what was required. However, his prayer lacked humility and gratitude towards God. He failed to acknowledge his own sins or spiritual needs, instead focusing on his own righteousness. By exalting himself and disregarding the grace of God, he displayed a self-centered and arrogant attitude.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0115674143906546,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                31.88,
+                31.47,
+                36.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

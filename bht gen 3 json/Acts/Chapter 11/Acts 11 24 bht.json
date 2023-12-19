@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:30:01",
+    "verseRef": "Acts 11:24",
+    "bestBHT": {
+        "bht": "Barnabas, a good man full of the Holy Ghost and of faith, played a fundamental role in the growth of the Christian community in Antioch. His open-mindedness, generosity, and willingness to follow the leading of the Spirit made him a powerful force in spreading the grace of God. Antioch became the honored birthplace of the term Christian because of Barnabas' influence. Through his ministry, he drew a large multitude to the Lord, demonstrating the impact of humble piety and the work of the Holy Spirit.",
+        "wordCount": 86,
+        "quoteTokenProportion": 26.42,
+        "qualityScore": 1.9118936447184463,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+        "commentatorTierSimilarities": [
+            31.83,
+            33.84,
+            34.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For he was a good man\u2014The sense of 'good' here is plainly 'large-hearted,' 'liberal-minded,' rising above narrow Jewish sectarianism, and that because, as the historian adds, he was 'full of the Holy Ghost and of faith.'\" ",
+            "This proceeding of Barnabas, so full of wisdom, love, and zeal, was blessed to the great increase of the Christian community in that important city.\" ",
+            "ANTIOCH BECOMES THE HONORED BIRTHPLACE OF THE TERM CHRISTIAN."
+        ],
+        "Albert Barnes": [
+            "We should not undervalue talent, eloquence, or learning in the ministry, but we may remark that humble piety will often do more in the conversion of souls than the most splendid talents.",
+            "The real power of a minister is concentrated in this, and without this his ministry will be barrenness and a curse. There is nothing on the earth so mighty as goodness.",
+            "These qualifications should be sought by the ministry of the gospel...a kind, tender, benevolent heart; devoted piety; the fulness of the Spirit\u2019s influence; and strong, unwavering confidence in the promises and power of God."
+        ],
+        "Marvin Vincent": [
+            "Good [\u03b1\u03b3\u03b1\u03b8\u03bf\u03c2]. More than strictly upright.",
+            "His benevolence effectually prevented him censuring anything that might be new or strange in these preachers to the Gentiles.",
+            "Caused him to rejoice in their success."
+        ],
+        "John Calvin": [
+            "For all those are condemned of ungodliness and malice who envy other men\u2019s labors, and are grieved when they see the same have good success.",
+            "That, abandoning the affections of the flesh, he did, with all his heart, embrace godliness, having the Spirit to be his guide.",
+            "Thus doth the building of the Church go forward when one doth help another with mutual consent, and one doth gently allow that which another hath begun."
+        ],
+        "Philip Schaff": [
+            "The word \u2018good\u2019 does not mean merely that Barnabas was a man of earnest religious character. Rather it denotes that he was a man of a genial, generous, charitable, and candid disposition.",
+            "He may have been much astonished as those who went with Peter from Joppa to C\u00e6sarea (Acts 10:45); but he frankly acknowledged the work of the Divine Spirit, and was glad because Pagans had received the full grace of God.",
+            "See what precedes (Acts 11:21) and what follows (Acts 11:26) as to the progressive but rapid growth of the Church in Antioch."
+        ],
+        "Archibald T. Robertson": [
+            "He was a really good man (\u03b1\u03b3\u03b1\u03b8\u03bf\u03c2). See Romans 5:7 for distinction between \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2 and \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2, righteous, where \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2 ranks higher than \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c2.",
+            "Besides, Barnabas was full of the Holy Spirit (like Peter) and of faith and so willing to follow the leading of God's Spirit and take some risks.",
+            "These people were added to the Lord Jesus before they were added to the church. If that were always true, what a difference it would make in our churches."
+        ],
+        "John Gill": [
+            "He had the grace of God wrought in his soul, and did good works; he was very kind, and generous, and charitable.\" ",
+            "He was full of the several graces of the Spirit, and particularly of faith; and he was full of the extraordinary gifts of the Spirit, and of the faith of miracles.",
+            "By the means of Barnabas, through his ministry, and the exercise of those gifts he was full of; and he drew a large multitude to the Lord."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Barnabas, a truly good man, was full of the Holy Ghost and of faith. His largeness of heart, wisdom, and love led him to embrace the Gentile believers in Antioch, contributing to the growth and success of the Christian community. This marked a significant moment as Antioch became the honored birthplace of the term Christian. Barnabas' generous and liberal-minded nature, full of the Spirit, allowed him to rejoice in the success of those preaching to the Gentiles. His kind and benevolent disposition and unwavering confidence in God's promises were powerful qualities that exceeded mere talent or eloquence in the ministry. Through mutual consent and support, the building of the Church flourished, drawing a large multitude to the Lord.",
+            "wordCount": 120,
+            "quoteTokenProportion": 22.78,
+            "qualityScore": 1.8712556588840583,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.56,
+            "commentatorTierSimilarities": [
+                30.96,
+                32.84,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Barnabas, a truly good man, was full of the Holy Ghost and of faith. His largeness of heart, wisdom, and love led him to embrace the Gentile believers in Antioch, contributing to the growth and success of the Christian community. This marked a significant moment as Antioch became the honored birthplace of the term Christian. Barnabas' generous and liberal-minded nature, full of the Spirit, allowed him to rejoice in the success of those preaching to the Gentiles. Through mutual consent and support, the building of the Church flourished, drawing a large multitude to the Lord.",
+            "wordCount": 96,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.8465669019650401,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                33.51,
+                30.22,
+                36.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Barnabas, a good man full of the Holy Ghost and of faith, played a fundamental role in the growth of the Christian community in Antioch. His open-mindedness, generosity, and willingness to follow the leading of the Spirit made him a powerful force in spreading the grace of God. Antioch became the honored birthplace of the term Christian because of Barnabas' influence. Through his ministry, he drew a large multitude to the Lord, demonstrating the impact of humble piety and the work of the Holy Spirit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 1.9118936447184463,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                31.83,
+                33.84,
+                34.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Barnabas, described as a good man full of the Holy Ghost and faith, was instrumental in the growth of the Christian community in Antioch. His generous and liberal-minded nature, rising above sectarianism, allowed him to embrace and support the Gentiles who received the full grace of God. Antioch became the honored birthplace of the term Christian due to Barnabas' influence. Through his ministry and the exercise of his gifts, he drew a large multitude to the Lord, highlighting the power of goodness and the impact of mutual support within the Church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8941427772431432,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                31.91,
+                33.74,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Barnabas, described as a good man full of the Holy Ghost and faith, played a pivotal role in the growth and success of the Christian community in Antioch. His large-heartedness and liberal-mindedness allowed him to embrace the Gentile believers, contributing to the spread of the gospel. It is significant to note that Antioch became the honored birthplace of the term Christian due to Barnabas' influence. His benevolence, willingness to take risks, and strong faith in God's leading were vital in drawing a multitude to the Lord.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.874861044933779,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "commentatorTierSimilarities": [
+                35.41,
+                31.31,
+                33.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

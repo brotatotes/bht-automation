@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:13:18",
+    "verseRef": "1 Corinthians 14:30",
+    "bestBHT": {
+        "bht": "When it comes to prophesying, the first person should be silent and make room for the second, without causing any disorder. If an important truth is revealed to someone else while another is speaking, the first one should hold their peace and allow the second person to speak. This was the practice in early churches, where the congregation would sit and the prophet or preacher would stand. Sometimes, revelations were given in a sudden and extraordinary manner for the benefit of the whole community.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.79,
+        "qualityScore": 1.942440886872416,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+        "commentatorTierSimilarities": [
+            23.69,
+            39.25,
+            37.06
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let the first (who was prophesying) hold his peace.\" ",
+            "Give place to the other: but clearly, not as ejected by the second in any disorderly manner.",
+            "Probably, by being made aware of it and ceasing his discourse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But if any thing.",
+            "Let him who heretofore spoke, and who came to the assembly furnished with a previous ordinary (in those times) revelation from God, give place.",
+            "To him who at the assembly is moved to prophesy by a sudden revelation from the Spirit."
+        ],
+        "Albert Barnes": [
+            "If, while one is speaking, an important truth is revealed to another, or is suggested to his mind by the Holy Spirit, which he feels it to be important to communicate.",
+            "Let the first hold his peace... let him that was speaking conclude his discourse, and let there not be the confusion arising from two persons speaking at the same time.",
+            "The man that was speaking was to close his discourse and be silent. It does not follow, however, that he was to be rudely interrupted."
+        ],
+        "Marvin Vincent": [
+            "That sitteth. Rev., sitting by. The speaker standing."
+        ],
+        "John Calvin": [
+            "Hence they have no longer any occasion to complain, that the Spirit is bound, or that his mouth is shut.",
+            "For this only is the true liberty of the Spirit \u2014 not that every one be allowed to blab out rashly whatever he pleases, but that all, from the highest to the lowest, voluntarily allow themselves to be under control, and that the one Spirit be listened to, by whatever mouth he speaks.",
+            "If something be revealed to some minister, who hath a seat among those that teach, etc., not revealed in that very instant: but if he saith that he hath received some revelation from God, then \u1f41 \u03c0\u03c1\u1ff6\u03c4\u03bf\u03c2 \u03c3\u03b9\u03b3\u03ac\u03c4\u03c9 \u2014 let the first be silent: , let him be silent who \u03c8\u03b1\u03bb\u03bc\u1f78\u03bd \u1f14\u03c7\u03b5\u03b9 \u2014 hath a psalm \u2014 and give way to him."
+        ],
+        "Philip Schaff": [
+            "Let the first keep silence probably on some hint to that effect being given to the speaker.",
+            "If a revelation is made to another sitting by in the attitude of a hearer, while another prophet is speaking.",
+            "While another prophet is speaking."
+        ],
+        "Archibald T. Robertson": [
+            "Let the first keep silence (\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03c2 \u03c3\u03b9\u03b3\u03b1\u03c4\u03c9). To give the next one a chance. "
+        ],
+        "John Gill": [
+            "If anything be revealed to another that sitteth by...let the first hold his peace; be that was speaking, upon such an intimation being made to him, let him stop, and give way to him that has the revelation, that the church may receive the benefit of it.\" ",
+            "Hence it may be observed, that the custom of the primitive churches was to hear the word sitting, and the prophet or preacher stood, or sat, as he thought fit.",
+            "Sometimes a revelation was made, and light conveyed to these prophets in a very sudden and extraordinary manner, when it was proper that it should be at once communicated for the good of the whole society."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let the first (who was prophesying) be silent and give place to the other, but not in a disorderly manner. If an important truth is revealed to another while one is speaking, the first should hold his peace and allow the second to share the revelation. It is important to note that the first is not to be rudely interrupted, but instead should conclude his discourse and be silent. This rule applies when a sudden revelation from the Spirit moves someone to prophesy. The custom of the early churches was for the congregation to listen while sitting, while the prophet or preacher stood. Sometimes, revelations were conveyed to these prophets in a sudden and extraordinary manner for the benefit of the whole community.",
+            "wordCount": 123,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 2.1004942323559206,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                25.06,
+                38.8,
+                36.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let the first (who was prophesying) be silent and give place to the other, but not in a disorderly manner. If an important truth is revealed, the first should hold his peace and allow the second to share the revelation. This rule applies when a sudden revelation from the Spirit moves someone to prophesy. The custom of the early churches was for the congregation to listen while sitting, while the prophet or preacher stood. Sometimes, revelations were conveyed to these prophets in a sudden and extraordinary manner for the benefit of the whole community.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.0430505544213733,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.27,
+            "commentatorTierSimilarities": [
+                25.64,
+                36.38,
+                37.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the context of prophesying, the first person should maintain silence and give the opportunity for the second person to speak, but not in a disorderly manner. If an important truth is revealed to someone else while another is speaking, the first should hold their peace and allow the second to share the revelation. This practice was observed in the early churches, where sitting was the norm for listening while the prophet stood. Sometimes, revelations were conveyed in a sudden and extraordinary manner for the benefit of the community.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9356635287881976,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                22.63,
+                40.68,
+                36.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When it comes to prophesying, the first person should be silent and make room for the second, without causing any disorder. If an important truth is revealed to someone else while another is speaking, the first one should hold their peace and allow the second person to speak. This was the practice in early churches, where the congregation would sit and the prophet or preacher would stand. Sometimes, revelations were given in a sudden and extraordinary manner for the benefit of the whole community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.942440886872416,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                23.69,
+                39.25,
+                37.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the context of prophesying, the first person should hold their peace and give room for the second, without causing disorder. If an important revelation is revealed to someone else while another is speaking, the first should be silent and allow the second to share. This practice was observed in early churches, where the congregation would sit while the prophet stood. Occasionally, revelations were conveyed in a sudden and extraordinary manner for the benefit of the entire community.",
+            "wordCount": 78,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.8464089500925542,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                23.4,
+                40.02,
+                36.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

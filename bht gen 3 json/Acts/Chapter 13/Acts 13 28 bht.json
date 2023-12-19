@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:30:33",
+    "verseRef": "Acts 13:28",
+    "bestBHT": {
+        "bht": "Though they found no cause of death in him, the Sanhedrin charged Jesus with blasphemy and sedition, but could not prove it. Paul affirms Jesus's innocence and the significance of his unjust death. Without his innocent death, we would not have been justified. Pilate's condemnation of Christ was not based on justice, but on his yielding to the ungodly requests of the people, who were insistent on his execution despite his innocence.",
+        "wordCount": 74,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 2.3039478988132673,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.95,
+        "commentatorTierSimilarities": [
+            24.59,
+            40.65,
+            34.76
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "28. when they found] Not, \u2018though,\u2019 but rather because they found no cause: when they found no cause of death in him, they besought,&c.: see Luke xxiii. 22, 23."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "28. found no cause of death\u2014though",
+            "\tthey sought it (Matthew 26:59;",
+            "\tMatthew 26:60)."
+        ],
+        "Albert Barnes": [
+            "They found no crime which deserved death.",
+            "The Sanhedrin condemned him for blasphemy; and yet they knew that they could not substantiate the charge before Pilate.",
+            "They therefore endeavored to procure his condemnation on the ground of sedition."
+        ],
+        "John Calvin": [
+            "It was very pertinent to the matter that they should know that Christ was put to death guiltless.",
+            "We could not have been justified by his death, if he had suffered death for his own evil deeds.",
+            "...Paul did plainly declare that Pilate condemned Christ, not according to the office of a judge, but that he consented that he should be put to death after that he was overcome with the ungodly requests of the people."
+        ],
+        "Philip Schaff": [
+            "Acts 13:28. And though they found no cause of death in him. They accused Jesus of blasphemy and sedition, but were utterly unable to prove either charge."
+        ],
+        "Archibald T. Robertson": [
+            "Though they found no cause of death...the Sanhedrin did charge Jesus with blasphemy, but could not prove it.\" ",
+            "At this time no Gospel had probably been written, but Paul knew that Jesus was innocent.",
+            "He uses this same idiom about his own innocence."
+        ],
+        "John Gill": [
+            "And though they found no cause of death in him,.... That is, no crime that deserved death; they sought for such, but could find none.",
+            "they were urgent and importunate with him, that he would order him to be put to death.",
+            "they were pressing upon him, that he would order his execution, notwithstanding his innocence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Though they found no cause of death in him, the Sanhedrin knew that Jesus was innocent. The accusations of blasphemy and sedition could not be substantiated before Pilate. It was important for them to acknowledge that Christ was put to death guiltless. Had he suffered for his own deeds, we would not have been justified. Paul makes it clear that Pilate's condemnation of Christ was not an act of justice, but a result of succumbing to the ungodly demands of the people who were pressing for his execution despite his innocence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 2.164438669784835,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.31,
+            "commentatorTierSimilarities": [
+                23.66,
+                38.57,
+                37.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Though they found no cause of death in him, the Sanhedrin charged Jesus with blasphemy and sedition but could not prove it. Paul, aware of Jesus's innocence, emphasizes the significance of his unjust death. This innocent death serves as a means of justification for humanity, as we couldn't be justified if Jesus had suffered for his own sins. Pilate's condemnation of Christ was not based on justice, but rather on his acquiescence to the people's unrighteous demands for execution - an act that Paul highlights.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 2.247582357522165,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.07,
+            "commentatorTierSimilarities": [
+                25.26,
+                40.48,
+                34.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Though they found no cause of death in him, the Sanhedrin knew that Jesus was innocent. The accusations of blasphemy and sedition could not be substantiated before Pilate. It was important for them to acknowledge that Christ was put to death guiltless. Had he suffered for his own deeds, we would not have been justified. Paul makes it clear that Pilate's condemnation of Christ was not an act of justice, but a result of succumbing to the ungodly demands of the people pressing for his execution despite his innocence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.156851151986888,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                23.68,
+                38.53,
+                37.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though they found no cause of death in him, the Sanhedrin charged Jesus with blasphemy and sedition, but could not prove it. Paul affirms Jesus's innocence and the significance of his unjust death. Without his innocent death, we would not have been justified. Pilate's condemnation of Christ was not based on justice, but on his yielding to the ungodly requests of the people, who were insistent on his execution despite his innocence.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.3039478988132673,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.95,
+            "commentatorTierSimilarities": [
+                24.59,
+                40.65,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Though they found no cause of death in him, the Sanhedrin knew that Jesus was innocent. The accusations of blasphemy and sedition could not be substantiated before Pilate. It was important for them to acknowledge that Christ was put to death guiltless. Had he suffered for his own deeds, we would not have been justified. Paul makes it clear that Pilate's condemnation of Christ was a result of succumbing to the ungodly demands of the people who were pressing for his execution despite his innocence.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.62,
+            "qualityScore": 2.1372905271503666,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.41,
+            "commentatorTierSimilarities": [
+                23.66,
+                38.48,
+                37.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

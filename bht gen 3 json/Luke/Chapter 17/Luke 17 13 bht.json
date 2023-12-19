@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:20:59",
+    "verseRef": "Luke 17:13",
+    "bestBHT": {
+        "bht": "Their common misery drew these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. How quick their teacher was felt misery, even though as here, the teaching may be soon forgotten. Their obedience and sincere declaration show that their use of the expression Master was not in hypocrisy. They trusted in Christ's word alone, despite bearing a visible leprosy in their flesh, and sought Him sincerely. Yet it is too common to seek God in times of strong necessity, only to forget Him in times of abundance.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.36630856018052,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+        "commentatorTierSimilarities": [
+            29.33,
+            33.41,
+            37.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "[Their] common misery drawing these poor outcasts together, making them forget the fierce national antipathy of Jew and Samaritan.",
+            "How quick a teacher is felt misery, even though as here the teaching may be soon forgotten!",
+            "[Their] teaching may be soon forgotten!"
+        ],
+        "John Calvin": [
+            "That they made use of that expression sincerely, and not in hypocrisy, may be inferred from their ready obedience.",
+            "They bear a visible leprosy in their flesh; and yet, trusting to Christ\u2019s word alone, they have no scruple about declaring that they are clean.",
+            "Above all, it is too common a disease that, when we are urged by strong necessity, and when the Lord himself prompts us by a secret movement of the Spirit, we seek God, but, when we have obtained our wishes, ungrateful forgetfulness swallows up that feeling of piety."
+        ],
+        "Philip Schaff": [
+            "And they, 'they' is emphatic; the first step was taken on their part.\" ",
+            "Jesus, Master, etc. These people in an obscure village, isolated too by their disease, knew our Lord and called upon Him by name."
+        ],
+        "Archibald T. Robertson": [
+            "Lifted up (\u03b7\u03c1\u03b1\u03bd). First aorist active of the liquid verb \u03b1\u03b9\u03c1\u03c9. "
+        ],
+        "John Gill": [
+            "Thou great Master in Israel; who art a teacher come from God, and who dost surprising miracles, and art able to cure us.",
+            "Show compassion to us, miserable objects, as they were.",
+            "Their faith was the same with that of the other leper."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Their common misery drew these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. How quick their teacher was felt misery, even though as here, the teaching may be soon forgotten. It is clear from their obedience and sincere declaration of being clean that their use of the expression Master was not in hypocrisy. They trusted in Christ's word alone, despite bearing a visible leprosy in their flesh, and sought Him sincerely. Yet, it is too common for us to seek God in times of strong necessity, only to forget Him in times of abundance. They called out to Jesus, trusting in His abilities and seeking compassion for their miserable state, placing their faith in Him just like the other lepers.",
+            "wordCount": 127,
+            "quoteTokenProportion": 39.78,
+            "qualityScore": 1.363333183049091,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
+            "commentatorTierSimilarities": [
+                25.52,
+                34.84,
+                39.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Their common misery drew these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. How quick their teacher was felt misery, even though as here, the teaching may be soon forgotten. Their obedience and sincere declaration of being clean show that their use of the expression Master was not in hypocrisy. They trusted in Christ's word alone, despite bearing a visible leprosy in their flesh, and sought Him sincerely. Yet it is too common to seek God in times of strong necessity, only to forget Him in times of abundance. They called out to Jesus, seeking compassion for their miserable state, placing their faith in Him just like the other lepers.",
+            "wordCount": 117,
+            "quoteTokenProportion": 39.77,
+            "qualityScore": 1.3809006009689364,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "commentatorTierSimilarities": [
+                26.35,
+                34.48,
+                39.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Their common misery drew these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. How quick their teacher was felt misery, even though as here, the teaching may be soon forgotten. Their obedience and sincere declaration show that their use of the expression Master was not in hypocrisy. They trusted in Christ's word alone, despite bearing a visible leprosy in their flesh, and sought Him sincerely. Yet it is too common to seek God in times of strong necessity, only to forget Him in times of abundance.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.36630856018052,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.77,
+            "commentatorTierSimilarities": [
+                29.33,
+                33.41,
+                37.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their common misery drew these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. Their obedience and sincere declaration show that their use of the expression Master was not in hypocrisy. They trusted in Christ's word alone, seeking Him with sincerity despite their visible leprosy. However, it is all too common for us to seek God in times of strong necessity, only to forget Him in times of abundance. Their plea for compassion reflects their faith in Jesus, just like the other lepers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.273256857874057,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                20.75,
+                35.64,
+                43.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their common misery draws these poor outcasts together, making them forget the fierce national antipathy between Jew and Samaritan. How quick their teacher is felt misery, even if the lesson may be soon forgotten. Their sincere plea and obedient declaration show that their use of the expression Master was not in hypocrisy. Trusting in Christ's word alone, they seek Him, despite the visible leprosy on their flesh. Yet, we often seek God in desperation but forget Him when blessed with abundance. They call out to Jesus, seeking compassion for their wretched state, placing their faith in Him just like the other lepers.",
+            "wordCount": 103,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 1.334634954039287,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.72,
+            "commentatorTierSimilarities": [
+                27.35,
+                33.37,
+                39.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

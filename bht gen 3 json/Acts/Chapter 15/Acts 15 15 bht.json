@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:31:36",
+    "verseRef": "Acts 15:15",
+    "bestBHT": {
+        "bht": "The predicted purpose of God in the new economy is for the Gentiles to be called by His name. The restoration of David's fallen tabernacle refers to the glorious recovery it experiences under David's 'son and Lord.' The quotation from Amos 9:11-12 is relevant and agrees with God's work. The apostles reverently followed the word of God, and the use of prophetic doctrine remains significant in the Church.",
+        "wordCount": 70,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.8417949746046403,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+        "commentatorTierSimilarities": [
+            41.41,
+            28.51,
+            30.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The point of the passage lies in the predicted purpose of God, under the new economy, that 'the heathen' or 'Gentiles' should be 'called by His name,' or have 'His name called upon them.'\" (19 words)",
+            "By the 'building again of the fallen tabernacle of David,' or restoring its decayed splendor, is meant that only and glorious recovery which it was to experience under David's 'son and Lord.'\" (31 words)"
+        ],
+        "Albert Barnes": [
+            "The most powerful revivals of religion, and the most striking demonstrations of the divine presence, will be in accordance with the Bible, and should be tested by them.",
+            "Unless a supposed work of grace accords with the Bible, and can be defended by it, it must be false, and should be opposed.",
+            "This habit was always manifested by the apostles and early Christians, and should be followed by Christians at all times."
+        ],
+        "John Calvin": [
+            "We see now how the apostles took nothing to themselves imperiously, but did reverently follow that which was prescribed in the word of God.",
+            "Also we must here note, that the use of the doctrine of the prophets is yet in force, which some brain-sick men would banish out of the Church.",
+            "Moreover, the oracles of all the prophets were gathered together, that they might make one body."
+        ],
+        "Philip Schaff": [
+            "And to this agree the words of the prophets.",
+            "The signs and wonders which accompanied the conversion of Cornelius... were only the Divine seal of a great work long ago foreshadowed in the Hebrew prophecies.",
+            "The word of God in the writings of the prophets agreed with this work."
+        ],
+        "Archibald T. Robertson": [
+            "James cites only Amos 9:11; Amos 9:12 from the LXX as an example of 'the words of the prophets' (\u03bf \u03bb\u03bf\u03b3\u03bf \u03c4\u03c9\u03bd \u03c0\u03c1\u03bf\u03c6\u03b7\u03c4\u03c9\u03bd) to which he refers on this point.",
+            "The somewhat free quotation runs here through verses Acts 15:16-18 of Acts 15:15 and is exceedingly pertinent.",
+            "The Jewish rabbis often failed to understand the prophets as Jesus showed."
+        ],
+        "John Gill": [
+            "And to this agree the words of the prophets,.... In several of the prophecies of the Old Testament, which plainly speak of the calling of the Gentiles; though James thought it sufficient to produce only one instead of many.\" (Act 15:15)",
+            "as it is written; in Amos 9:11 and this is agreeably to the Jewish way of citing Scriptures.\" (Act 15:15)",
+            "so it is said q, in twenty four places the priests are called Levites, and this is one of them, Ezekiel 44:15 where only one place is mentioned, instead of the twenty four.\" (Act 15:15)"
+        ],
+        "John Wesley": [
+            "To this agree \u2014 St. Peter had urged the plain fact, which St. James confirms by Scripture prophecy.",
+            "The words of the prophets \u2014 One of whom is immediately cited."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The point of the passage lies in the predicted purpose of God, under the new economy, that 'the heathen' or 'Gentiles' should be 'called by His name,' or have 'His name called upon them.' By the 'building again of the fallen tabernacle of David,' or restoring its decayed splendor, is meant that only and glorious recovery which it was to experience under David's 'son and Lord.' The somewhat free quotation from Amos 9:11-12 is exceedingly pertinent and agrees with the work of God described. This shows how the apostles reverently followed the word of God and the use of the prophetic doctrine is still relevant and should not be banished from the Church.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.9809067714433315,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.21,
+            "commentatorTierSimilarities": [
+                44.67,
+                27.81,
+                27.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The predicted purpose of God in the new economy is for the Gentiles to be called by His name. The restoration of David's fallen tabernacle refers to the glorious recovery under David's 'son and Lord.' The quotation from Amos 9:11-12 is relevant and agrees with this work. The apostles reverently followed the word of God, and the use of prophetic doctrine is still relevant in the Church.",
+            "wordCount": 68,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.7547600302794293,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                41.21,
+                28.36,
+                30.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The passage emphasizes God's purpose of calling the Gentiles by His name under the new economy, and the restoration of David's tabernacle signifies the glorious recovery it experiences under David's 'son and Lord.' This relevant quotation from Amos 9:11-12 supports the work of God. The apostles reverently followed the word of God, and the use of prophetic doctrine remains crucial in the Church.",
+            "wordCount": 65,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8527556407320307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                40.17,
+                29.81,
+                30.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The predicted purpose of God in the new economy is for the Gentiles to be called by His name. The restoration of David's fallen tabernacle refers to the glorious recovery it experiences under David's 'son and Lord.' The quotation from Amos 9:11-12 is relevant and agrees with God's work. The apostles reverently followed the word of God, and the use of prophetic doctrine remains significant in the Church.",
+            "wordCount": 70,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8417949746046403,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                41.41,
+                28.51,
+                30.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of God in the new economy is that the Gentiles should be called by His name. The restoration of David's fallen tabernacle refers to the glorious recovery it experiences under David's 'son and Lord.' The quotation from Amos 9:11-12 supports the work of God and is relevant. The apostles reverently followed the word of God, and the use of prophetic doctrine continues to hold importance in the Church.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7728575270258755,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.29,
+            "commentatorTierSimilarities": [
+                42.29,
+                28.97,
+                28.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

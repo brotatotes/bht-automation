@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:32:49",
+    "verseRef": "Ephesians 4:30",
+    "bestBHT": {
+        "bht": "When believers speak corrupt and unbefitting words, they grieve not man, but the Spirit of God. This grieved Spirit is the seal in which believers are kept safely against the day of redemption. It is crucial for believers to cease the habit of grieving the Holy Spirit and instead yield to His gracious influences. By doing so, we allow the Spirit to dwell cheerfully with us, as His presence within us sets us apart as children of God.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 2.3768700207629196,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+        "commentatorTierSimilarities": [
+            32.04,
+            35.93,
+            32.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If thou speak a word corrupt and unbefitting a Christian mouth, thou hast grieved, not man, but the Spirit of God.",
+            "the expression is according to man\u2019s ideas,\u2014but truly and touchingly sets forth the love of God, which is shed abroad in our hearts by His Spirit",
+            "the sealing, both of the Lord and of us His members, is the act of the Father... the day when redemption shall be complete in glory"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This verse refers to believers, who grieve the Spirit by inconsistencies such as in the context are spoken of, corrupt or worthless conversation.\" ",
+            "The Spirit is represented as itself the seal, for the image employed, see on Acts 7:51- :). Here the Spirit is the element IN which the believer is sealed, His gracious influences being the seal itself.\" ",
+            "kept safely against the day of redemption, namely, of the completion of redemption in the deliverance of the body as well as the soul from all sin and sorrow."
+        ],
+        "Albert Barnes": [
+            "Do not act toward the Holy Spirit in a manner which would produce pain in the bosom of a friend who loves you.",
+            "Open and gross sins... would grieve the Holy Spirit and cause him to depart.",
+            "Christians often resist the Holy Spirit... All that is needful for a Christian to do in order to be eminent in piety, is to yield to the gentle influences which would draw him to prayer and to heaven."
+        ],
+        "John Calvin": [
+            "Endeavour that the Holy Spirit may dwell cheerfully with you, as in a pleasant and joyful dwelling, and give him no occasion for grief.",
+            "No language can adequately express this solemn truth, that the Holy Spirit rejoices and is glad on our account, when we are obedient to him in all things, and neither think nor speak anything, but what is pure and holy.",
+            "In this passage, the word sealed may have a different meaning from that which it usually bears, \u2014 that God has impressed his Spirit as his mark upon us, that he may recognize as his children those whom he perceives to bear that mark."
+        ],
+        "Philip Schaff": [
+            "Believers can \u2018grieve\u2019 the Spirit, unbelievers \u2018resist\u2019 Him; comp. Acts 5:51. Though the expression is in one sense figurative, it points to a great reality, namely, the sympathetic (not apathetic) presence of the Holy Spirit in Christian hearts.",
+            "In whom, not \u2018by whom,\u2019 since God seals us with the Spirit as the Seal (comp. Ephesians 1:13); \u2018in\u2019 suggests fellowship.",
+            "Unto the day of redemption; the day of final and complete redemption; comp. chap. Ephesians 1:14. The motive is one of love, not of fear, the day of judgment is for Christians the day of redemption. The possibility of losing the seal is not suggested, except as all exhortations imply danger."
+        ],
+        "Archibald T. Robertson": [
+            "Cease grieving\" or \"do not have the habit of grieving.\" Who of us has not sometimes grieved the Holy Spirit?",
+            "In whom (\u03b5\u03bd \u03c9). Not \"in which.",
+            "Ye were sealed (\u03b5\u03c3\u03c6\u03c1\u03b1\u03b3\u03b9\u03c3\u03b8\u03b7\u03c4\u03b5). See Ephesians 1:13 for this verb, and Ephesians 1:14 for \u03b1\u03c0\u03bf\u03bb\u03c5\u03c4\u03c1\u03c9\u03c3\u03b5\u03c9\u03c2, the day when final redemption is realized."
+        ],
+        "John Gill": [
+            "Not a believer's own spirit, sanctified by the Holy Ghost, which is grieved by sin; nor the spirit of a good man, that hears our words and sees our actions, and is displeased and troubled at them; but the third person in the Trinity: and this is said of him by an anthropopathy, and supposes something done that is offensive to him...",
+            "and now there are many reasons why he should not be grieved; as because he is God, and the author of the new birth, the implanter and applier of all grace...",
+            "and now the saints being sealed up by the Spirit unto this time, shows the perpetual indwelling of the Spirit in them; and that it will continue even after death..."
+        ],
+        "John Wesley": [
+            "Grieve not the Holy Spirit \u2014 By any disobedience.\" ",
+            "Do not force him to withdraw from you, as a friend does whom you grieve by unkind behaviour.",
+            "The day of redemption \u2014 That is, the day of judgment, in which our redemption will be completed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When believers engage in corrupt or worthless conversation, they grieve the Spirit of God. This grief does not originate from man, but rather reveals the love of God that dwells within us through His Spirit. The Spirit acts as the seals upon believers, preserving and safeguarding them until the day of redemption, when the work of redemption will be fully accomplished in the deliverance of both body and soul. Therefore, it is crucial for believers to cease from grieving the Holy Spirit, recognizing the tender influence of His gracious presence within us. We must yield to His gentle leadings, allowing Him to dwell cheerfully with us and refraining from giving Him any occasion for grief.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 2.1949833703087,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.32,
+            "commentatorTierSimilarities": [
+                32.26,
+                35.4,
+                32.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When believers engage in corrupt or worthless conversation, they grieve the Spirit of God. This grief reveals the love of God shed abroad in our hearts by His Spirit and emphasizes the sealing of believers by the Spirit. The Spirit acts as the seal, in which believers are kept safely against the day of redemption. Therefore, it is crucial for believers to cease grieving the Holy Spirit, recognizing His gracious influences and yielding to His presence within us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3600578222361888,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                32.67,
+                36.82,
+                30.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When believers speak corrupt and unbefitting words, they grieve not man, but the Spirit of God. This grieved Spirit is the seal in which believers are kept safely against the day of redemption. It is crucial for believers to cease the habit of grieving the Holy Spirit and instead yield to His gracious influences. By doing so, we allow the Spirit to dwell cheerfully with us, as His presence within us sets us apart as children of God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.3768700207629196,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+            "commentatorTierSimilarities": [
+                32.04,
+                35.93,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When believers engage in corrupt or worthless conversation, they grieve the Spirit of God. This grief reveals the love of God shed abroad in our hearts by His Spirit and emphasizes the sealing of believers by the Spirit. The Spirit acts as the seal, in which believers are kept safely against the day of redemption. Therefore, it is crucial for believers to cease grieving the Holy Spirit, recognizing His gracious influences and yielding to His presence within us.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.3600578222361888,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.81,
+            "commentatorTierSimilarities": [
+                32.67,
+                36.82,
+                30.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers grieve the Spirit of God by speaking corrupt and unbefitting words, showcasing inconsistency. The love of God is revealed through the Spirit, who acts as the seal upon believers. This sealing ensures their safekeeping until the day of redemption when they will be delivered from sin and sorrow. It is important for believers to cease the habit of grieving the Holy Spirit, recognizing His gracious influences and yielding to His presence within.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.2327142622804645,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                32.4,
+                36.38,
+                31.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

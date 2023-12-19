@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:55",
+    "verseRef": "Luke 6:43",
+    "bestBHT": {
+        "bht": "If our lives are marred by corruption, it is in vain to pretend to teach others. Just as a good tree cannot bring forth rotten fruit, those who are busy finding fault in others without recognizing their own wrongdoing cannot be considered good or faithful. Good and faithful ministers of the Gospel cannot bring forth false doctrines, just as true believers do not bring forth the evil fruit of sin as a common practice. It is by the fruits of their lives that we can form an opinion of every person's character and true teaching ability.",
+        "wordCount": 97,
+        "quoteTokenProportion": 44.78,
+        "qualityScore": 1.7148718023131921,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+        "commentatorTierSimilarities": [
+            50.5,
+            0.0,
+            49.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "43.] The corrupt fruit answers to the \u201cbeam in the eye.\u201d if thy life is evil, it is in the vain to pretend to teach others."
+        ],
+        "Marvin Vincent": [
+            "There is no good tree that bringeth corrupt fruit.",
+            "The word means rotten, stale.",
+            "Nor again."
+        ],
+        "John Calvin": [
+            "By the fruits our opinion of every man ought to be formed, in the same manner as a tree is known by its fruit.",
+            "The illative particle \u03b3\u1f70\u03c1, for, appears to connect these two sentences.",
+            "I attach no great importance to the word for, which in other passages is often superfluous, and appears obviously to be so from the concluding statement."
+        ],
+        "John Gill": [
+            "For as that cannot be called a good tree, which brings forth bad fruit; so such men cannot be accounted good men, let them make ever so large pretensions to such a character, who are very busy in espying, discovering, and censuring the faults of their brethren; when they take no notice of, nor refrain from, nor relinquish their own.",
+            "Good and faithful ministers of the Gospel cannot, and do not bring forth, and publish corrupt notions, and false doctrines, usually and knowingly; even usual, nor can it be, that a good tree should bring forth corrupt fruit.",
+            "True believers...do not bring forth the evil fruit of sin, as the common and constant course of their lives and conversations; for that they never commit sin, or are entirely without it, cannot be said; but sin is not their usual and common practice, or they do not live in sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If our own lives are marred by corruption, it is futile to try to instruct others in righteousness. Just as a good tree cannot produce rotten fruit, so those who are busy finding fault in others without recognizing their own wrongdoing cannot be considered good or faithful. Good and faithful ministers of the Gospel do not promote false doctrines, just as true believers do not habitually live in sin. It is by the fruits of a person's life that we can judge their true character and their fitness to teach others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.5602793552097562,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                48.4,
+                0.0,
+                51.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If our lives are corrupt, it's futile to teach others righteousness. Just as a good tree can't bear rotten fruit, those who find fault in others without recognizing their own wrongdoing can't be considered faithful. True ministers don't promote false doctrines, just as true believers don't habitually live in sin. We judge a person's character and their ability to teach others based on the fruits of their life.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4925811821427766,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.97,
+            "commentatorTierSimilarities": [
+                50.8,
+                0.0,
+                49.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If our lives are marred by corruption, it is in vain to pretend to teach others. Just as a good tree cannot bring forth rotten fruit, those who are busy finding fault in others without recognizing their own wrongdoing cannot be considered good or faithful. Good and faithful ministers of the Gospel cannot bring forth false doctrines, just as true believers do not bring forth the evil fruit of sin as a common practice. It is by the fruits of their lives that we can form an opinion of every person's character and true teaching ability.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7148718023131921,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                50.5,
+                0.0,
+                49.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If our lives are corrupted, it's vain to teach others. A good tree can't bear rotten fruit, just as fault-finding individuals who don't acknowledge their own wrongdoing can't be faithful. Faithful ministers don't promote false doctrines, and true believers don't habitually sin. It's by our fruits that we judge character and teaching efficacy.",
+            "wordCount": 61,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.4618491337254118,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.95,
+            "commentatorTierSimilarities": [
+                53.3,
+                0.0,
+                46.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If our lives are marred by corruption, it is in vain to pretend to teach others. Just as a good tree cannot bring forth rotten fruit, those who are busy finding fault in others without recognizing their own wrongdoing cannot be considered good or faithful. Good and faithful ministers of the Gospel cannot bring forth false doctrines, just as true believers do not bring forth the evil fruit of sin as a common practice. It is by the fruits of their lives that we can form an opinion of every person's character and true teaching ability.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7148718023131921,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.36,
+            "commentatorTierSimilarities": [
+                50.5,
+                0.0,
+                49.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

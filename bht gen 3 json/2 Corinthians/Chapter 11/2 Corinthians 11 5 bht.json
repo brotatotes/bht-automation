@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:18:11",
+    "verseRef": "2 Corinthians 11:5",
+    "bestBHT": {
+        "bht": "Paul addresses the false apostles, ironically labeling them overmuch apostles or the super apostles. He does not engage in a comparison between himself and the genuine apostles but rather exposes the deceitfulness of these impostors. He wants the Corinthians to discern their true nature and not be swayed by their deceptive teachings. Paul emphasizes the superiority of his own claim and authority, urging them to remain faithful to his teachings instead of being misled by these false apostles.",
+        "wordCount": 78,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 2.370176446895922,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.15,
+        "commentatorTierSimilarities": [
+            37.26,
+            34.55,
+            28.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This expression has very commonly been taken to mean bona fide \u2018the greatest Apostles...but (1) this hardly seems to suit the expression overmuch, in which I cannot help seeing some bitterness...",
+            "It would be alien from the spirit of the passage, in which he institutes no comparison whatever between himself and the other Apostles, but only between himself and the false teachers...",
+            "The expression 'false Apostles,' ver. 18, seems to me to refer to, and give the plain sense ot, this ironical designation of 'overmuch Apostles'..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My claim is superior to that of the false teachers.\" ",
+            "Those overmuch apostles, those surpassers of the apostles in their own esteem.\" ",
+            "The context contains no comparison between him and the apostles, but only between him and the false teachers."
+        ],
+        "Albert Barnes": [
+            "I think that I gave as good evidence that I was commissioned by God as the most eminent of the apostles.\" ",
+            "If so, I ought to be regarded and treated as an apostle.",
+            "The false teachers should not be allowed to supplant me in your affections, or to seduce you from the doctrines which I have taught."
+        ],
+        "Marvin Vincent": [
+            "The very chiefest apostles...Not referring to the genuine apostles, but ironically to the false teachers.\" ",
+            "The false apostles of ver. 13.\" ",
+            "Farrar renders the extra - super apostles."
+        ],
+        "John Calvin": [
+            "The Corinthians, therefore, were ungrateful in not esteeming him more highly, after having found him, by experience, to be such.",
+            "Now the man that despises the gifts of God, which he himself recognizes, cannot clear himself from the charge of being spiteful and ungrateful.",
+            "Every one is worthy of honor, in so far as he is distinguished by graces received from God, and especially if any advantage has redounded to thee from them."
+        ],
+        "Philip Schaff": [
+            "For I reckon that I am not a whit behind the very chiefest apostles.",
+            "That disparaging comparisons between them [real apostles] and our apostle had been made at Corinth, is beyond doubt.",
+            "It is a known fact, that the extreme zealots of this Jewish party considered our apostle as the great corrupter of the pure, primitive Jewish type of Christianity."
+        ],
+        "Archibald T. Robertson": [
+            "That I am not a whit behind the very chiefest apostles.",
+            "The rare compound adverb \u03c5\u03c0\u03b5\u03c1\u03bb\u03b9\u03b1\u03bd (possibly in use in the vernacular) is probably ironical also, 'the super apostles' as these Judaizers set themselves up to be.",
+            "He is not referring to the pillar-apostles of Galatians 2:9."
+        ],
+        "John Gill": [
+            "For I suppose I was not a whit behind...in gifts, grace, and usefulness.\" ",
+            "This he says, not to exalt himself, but to show, how weakly and injudiciously the Corinthians acted in setting up the false apostle above him.\" ",
+            "And yet thinks fit to put himself at least, upon an equality with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse could be talking about false apostles or false teachers who were trying to usurp the authority of Paul and place themselves as superior. It seems that Paul is addressing these individuals and sarcastically referring to them as overmuch apostles or the super apostles. He is not comparing himself to the genuine apostles but rather highlighting the foolishness of these false teachers. Paul wants the Corinthians to recognize the true nature of these impostors and not be swayed by their deceitful teachings.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.451343359137098,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.85,
+            "commentatorTierSimilarities": [
+                38.86,
+                35.28,
+                25.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The passage seems to be discussing the presence of false apostles or teachers who were attempting to undermine Paul's authority. Paul sarcastically refers to them as overmuch apostles or the super apostles, highlighting their arrogance. He asserts that his claim and authority are superior to these impostors and emphasizes the importance of not being influenced by their deceitful teachings. Paul's intention is for the Corinthians to discern the true nature of these individuals and remain steadfast in their commitment to his teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.165160726804881,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                37.63,
+                34.11,
+                28.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians were faced with false apostles who sought to challenge Paul's authority. In response, Paul sarcastically refers to them as overmuch apostles or the super apostles, highlighting their arrogance. He clarifies that his claim and authority surpass those of these impostors. Paul warns the Corinthians not to be swayed by these deceitful individuals but to recognize their true nature. He wants them to remain steadfast in their loyalty to his teachings and not be enticed by the false teachings of these self-proclaimed apostles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.076863295148862,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                37.5,
+                32.93,
+                29.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul addresses the presence of false apostles, sarcastically referring to them as overmuch apostles or the super apostles, emphasizing their arrogance. He does not compare himself to the genuine apostles but highlights the folly of these impostors who seek to challenge his authority. Paul urges the Corinthians not to be deceived by their false teachings but to remain loyal to his own teachings. He warns them of the true nature of these individuals and exhorts them to discern the genuine from the deceptive.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1499316529859036,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                37.51,
+                32.1,
+                30.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul addresses the false apostles, ironically labeling them overmuch apostles or the super apostles. He does not engage in a comparison between himself and the genuine apostles but rather exposes the deceitfulness of these impostors. He wants the Corinthians to discern their true nature and not be swayed by their deceptive teachings. Paul emphasizes the superiority of his own claim and authority, urging them to remain faithful to his teachings instead of being misled by these false apostles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 2.370176446895922,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.15,
+            "commentatorTierSimilarities": [
+                37.26,
+                34.55,
+                28.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

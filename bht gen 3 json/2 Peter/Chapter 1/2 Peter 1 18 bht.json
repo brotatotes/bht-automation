@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:40:27",
+    "verseRef": "2 Peter 1:18",
+    "bestBHT": {
+        "bht": "On the holy mount, Peter, James, and John heard a voice from heaven that bore witness to the divinity of Jesus. This voice, seen as a manifestation of Christ's divine glory, was heard and witnessed by the apostles. The sanctity of the mount, like the ground where God appeared to Moses, added to its significance. This event was an earnest display of the power in which Christ would return, teaching the importance of reverently receiving God and preparing for holiness in His presence.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.279397139318336,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+        "commentatorTierSimilarities": [
+            30.48,
+            37.14,
+            32.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And this voice we (Apostles: Peter, James, and John) heard borne from heaven.",
+            "We heard it borne, witnessed its coming, from heaven.",
+            "The place whereon Moses stood is said, in Exodus iii. 5, to be holy ground."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We heard borne from heaven.",
+            "Transfiguration mount came to be regarded, on account of the manifestation of Christ's divine glory there.",
+            "We, James and John, as well as myself."
+        ],
+        "Albert Barnes": [
+            "And this voice which came from heaven we heard - To wit, Peter, and James, and John.",
+            "When we were with him in the holy mount - Called 'holy' on account of the extraordinary manifestation of the Redeemer's glory there.",
+            "It is not certainly known what mountain this was, but it has commonly been supposed to be Mount Tabor."
+        ],
+        "Marvin Vincent": [
+            "Voice [\u03c6\u03c9\u03bd\u03b7\u03bd] . Note the same word in the account of Pentecost (Acts 2:6), where the A. V. obscures the meaning by rendering, when this was noised abroad; whereas it should be when this voice was heard.\" ",
+            "Which came [\u03b5\u03bd\u03b5\u03c7\u03b8\u03b5\u03b9\u03c3\u03b1\u03bd] . Lit., having been born. See on ver. 17. Rev., This voice we ourselves [\u03b7\u03bc\u03b5\u03b9\u03c2, \u03c9\u03b5, \u03b5\u03bc\u03c0\u03b7\u03b1\u03c4\u03b9\u03c7] heard come (better, born) out of heaven.\" ",
+            "Of all places to which special sanctity would be ascribed by Christ 's followers, surely that would be the first to be so marked where the most solemn testimony was given to the divinity of Jesus."
+        ],
+        "John Calvin": [
+            "He calls it the holy mount, for the same reason that the ground was called holy where God appeared to Moses.",
+            "Wherever the Lord comes, as he is the fountain of all holiness, he makes holy all things by the odor of his presence.",
+            "We are taught, not only to receive God reverently wherever he shows himself, but also to prepare ourselves for holiness, as soon as he comes nigh us."
+        ],
+        "Philip Schaff": [
+            "It came immediately from heaven. It was reported, too, by those who were present with Christ Himself on the occasion, and were both eyewitnesses and ear-witnesses of what took place.",
+            "The sacred associations now connected with it, and the fact that it had been the scene of a manifestation of Divinity, had made it 'holy' ground.",
+            "In that he recognised an earnest of the power in which Christ was to return."
+        ],
+        "Archibald T. Robertson": [
+            "This voice (\u03c4\u03b1\u03c5\u03c4\u03b7\u03bd \u03c4\u03b7\u03bd \u03c6\u03c9\u03bd\u03b7\u03bd). The one referred to.",
+            "Brought (\u03b5\u03bd\u03b5\u03c7\u03b8\u03b5\u03b9\u03c3\u03b1\u03bd). 'Borne' as in verse 2 Peter 1:17.",
+            "In the holy mount (\u03b5\u03bd \u03c4\u03c9 \u03b1\u03b3\u03b9\u03c9 \u03bf\u03c1\u03b5). Made holy by the majestic glory."
+        ],
+        "John Gill": [
+            "And this voice, which came from heaven, we heard...",
+            "when we were with him; and saw his glory, and the glory of Moses and Elias...",
+            "in the holy mount..."
+        ],
+        "John Wesley": [
+            "And we \u2014 Peter, James, and John. St. John was still alive.",
+            "Being with him in the holy mount \u2014 Made so by that glorious manifestation, as mount Horeb was of old, Exodus 3:4,5."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the holy mount, Peter, James, and John heard a voice that came from heaven, a voice that bore witness to the divinity of Jesus. This voice was not only heard, but it was also seen as a manifestation of Christ's divine glory. The sacred associations with this mount, just like the ground where God appeared to Moses, made it holy. This extraordinary event served as an earnest of the power in which Christ was to return, emphasizing the importance of receiving God reverently and preparing ourselves for holiness when He comes near us.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.259258052769435,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.46,
+            "commentatorTierSimilarities": [
+                29.52,
+                37.86,
+                32.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the holy mount, Peter, James, and John heard a voice from heaven that bore witness to the divinity of Jesus. This voice, seen as a manifestation of Christ's divine glory, was heard and witnessed by the apostles. The sanctity of the mount, like the ground where God appeared to Moses, added to its significance. This event was an earnest display of the power in which Christ would return, teaching the importance of reverently receiving God and preparing for holiness in His presence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.279397139318336,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.13,
+            "commentatorTierSimilarities": [
+                30.48,
+                37.14,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the holy mount, Peter, James, and John heard a voice that came from heaven, a voice that bore witness to the divinity of Jesus. This voice, seen as a manifestation of Christ's divine glory, was witnessed by the apostles. The sanctity of the mount, like the ground where God appeared to Moses, made it holy. This event served as an earnest of the power in which Christ would return, emphasizing the importance of reverently receiving God and preparing for holiness in His presence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.277005335005609,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.05,
+            "commentatorTierSimilarities": [
+                30.91,
+                36.24,
+                32.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the holy mount, Peter, James, and John witnessed a voice from heaven that bore witness to the divinity of Jesus. This voice, seen as a manifestation of Christ's divine glory, served as an earnest of His power. The sanctity of the mount, like the ground where God appeared to Moses, made it holy. This event highlighted the importance of reverently receiving God and preparing ourselves for holiness when He comes near us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1549546227941354,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                29.81,
+                35.62,
+                34.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the holy mount, Peter, James, and John heard a voice from heaven that bore witness to the divinity of Jesus. This voice, seen as a manifestation of Christ's divine glory, was witnessed by the apostles. The sanctity of the mount, like the ground where God appeared to Moses, made it holy. This event served as an earnest of the power in which Christ would return, emphasizing the importance of reverently receiving God and preparing for holiness in His presence.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.274664717243489,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.97,
+            "commentatorTierSimilarities": [
+                30.74,
+                36.3,
+                32.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:21:42",
+    "verseRef": "Luke 19:26",
+    "bestBHT": {
+        "bht": "Those who acquire and use their gifts will continue to receive greater ones, while those who do not will have their gifts taken away. This principle applies to both the laws of nature and grace. Gifts that are unused are ineffective, so it is important to make good use of the talents and abilities given to us.",
+        "wordCount": 57,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.2962351719813756,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.44,
+        "commentatorTierSimilarities": [
+            55.41,
+            0.0,
+            44.59
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The present tense of \u03b5\u03c7\u03c9 here, that keeps on not having, probably approaches the idea of acquiring or getting, the one who keeps on not acquiring.",
+            "This is the law of nature and of grace."
+        ],
+        "John Gill": [
+            "that unto every one that hath, shall be given; greater and larger gifts, fitting him for greater usefulness.",
+            "he that has gifts, and makes use of them, increases in them; they enlarge with their use, and become brighter, and he more useful.",
+            "he that does not use the talent, or exercise the gift bestowed on him, but lays it up in a napkin, which is all one as if he had it not, even the gift itself shall be taken away from him."
+        ],
+        "John Wesley": [
+            "Matthew 25:29; Luke 8:18."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who acquire and use their gifts will continue to receive greater ones, while those who do not will have their gifts taken away. This principle applies to both the laws of nature and grace. Gifts that are unused are ineffective, so it is important to make good use of the talents and abilities given to us.",
+            "wordCount": 57,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.2962351719813756,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.44,
+            "commentatorTierSimilarities": [
+                55.41,
+                0.0,
+                44.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Luke 19:26, the present tense of not having implies a continual lack of acquiring or getting. This reflects the law of nature and of grace, which suggests that those who do not acquire or utilize their gifts will have them taken away, while those who do acquire and use their gifts will receive even greater ones. Therefore, it is important for individuals to actively use and develop the talents and gifts given to them in order to increase their usefulness and receive greater blessings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.4310257487167832,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+            "commentatorTierSimilarities": [
+                49.33,
+                0.0,
+                50.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The present tense of not having reflects the idea of continuously not acquiring or getting. This aligns with the law of nature and of grace, where those who do not use their talents will lose them, while those who do will receive even greater gifts. It is crucial for individuals to actively utilize and develop their gifts in order to increase their usefulness and receive greater blessings.",
+            "wordCount": 67,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5285359185293712,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                59.33,
+                0.0,
+                40.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The present tense of not having in Luke 19:26 suggests a continual lack of acquiring or getting, in accordance with the law of nature and grace. Those who do not utilize their gifts will have them taken away, while those who do will receive even greater ones. It is important to actively develop and use our talents to increase our usefulness and receive greater blessings (Matthew 25:29; Luke 8:18).",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.4379122583373347,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.15,
+            "commentatorTierSimilarities": [
+                43.8,
+                0.0,
+                56.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The present tense of continuously not having reflects the concept of repeatedly not acquiring or getting, which relates to the law of nature and of grace. Those who fail to obtain or utilize their gifts will have them taken away, while those who do acquire and use their gifts will receive even greater ones. It is essential for individuals to actively employ and develop their talents and gifts to increase their usefulness and receive greater blessings (Matthew 25:29; Luke 8:18).",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.4321022095556342,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.96,
+            "commentatorTierSimilarities": [
+                48.0,
+                0.0,
+                52.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

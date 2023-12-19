@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:20:52",
+    "verseRef": "Colossians 3:7",
+    "bestBHT": {
+        "bht": "Living and walking differ: living precedes walking. We once lived and walked in the sins and vices of the world, but now, having died to those sins through Christ, it is unseemly for us to continue indulging in them. Our conduct and condition agreed in our previous pagan state, but now we must mortify sin by denying it and living righteously. This contrast in living and walking signifies a withdrawal from those sinful practices and the progression towards a life that is sober, righteous, and godly.",
+        "wordCount": 86,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8186804852031857,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+        "commentatorTierSimilarities": [
+            35.78,
+            19.4,
+            44.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When ye were alive to these things, ye regulated your course by them, walked in them.\" ",
+            "Living and walking differ, as do the power, and the act: living precedes, walking follows.",
+            "The assertion is not tautological: see Gal. v. 25, 'If we live by the Spirit, by the Spirit let us also walk.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These sins were the very element in which ye 'lived' (before ye became once for all dead with Christ to them); no wonder, then, that ye 'walked' in them.",
+            "The 'living' comes first in both cases, the walking follows.",
+            "The 'living in the Spirit' has as its legitimate consequence, 'walking in the Spirit'."
+        ],
+        "Albert Barnes": [
+            "You formerly lived.",
+            "These were the common vices of the pagan.",
+            "Compare Romans 1:24-32, notes."
+        ],
+        "Marvin Vincent": [
+            "Walked, referring to their practice, lived, to their condition.",
+            "Their conduct and their condition agreed.",
+            "Compare Galatians 5:25."
+        ],
+        "John Calvin": [
+            "Living and walking differ from each other, as power does from action.",
+            "He intimates that it were an unseemly thing that they should addict themselves any more to the vices, to which they had died through Christ.",
+            "It is an argument from a withdrawment of the cause to a withdrawment of the effect."
+        ],
+        "Philip Schaff": [
+            "Among these sons of disobedience.",
+            "Ye also, like the other Gentiles, once walked.",
+            "When ye lived in these things."
+        ],
+        "Archibald T. Robertson": [
+            "Walked aforetime...their previous pagan state.\" ",
+            "When ye lived...ye used to live (customary action).\" ",
+            "Sharp distinction in the tenses."
+        ],
+        "John Gill": [
+            "walking herein denotes a continued series of sinning, a persisting in it, a progress therein, a proceeding from evil to evil, taking pleasure, and going on securely in it",
+            "living in sin is the death of sin.",
+            "This had been the case of these believers, but now they were dead to sin, and it became them to live no longer therein, but to mortify it by denying it, and abstaining from it, and living soberly, righteously, and godly."
+        ],
+        "John Wesley": [
+            "Living denotes the inward principle; walking, the outward acts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we were alive to the sins and vices of the world, we regulated our course and walked in them. However, it is important to note that living and walking are distinct from each other - living precedes walking. This is not a tautological claim, as seen in Galatians 5:25, where it is said, If we live by the Spirit, by the Spirit let us also walk. Our previous way of life, characterized by these sins, was the element in which we lived, and so it is no wonder that we also walked in them. The living comes first, and the walking follows. The living in the Spirit necessarily leads to walking in the Spirit. Our conduct and our condition aligned in our previous pagan state, but now that we have died to these sins through Christ, it is unseemly for us to continue in them. We are called to mortify sin, denying it and living a life that is sober, righteous, and godly. Living denotes the inward principle, while walking refers to the outward acts.",
+            "wordCount": 174,
+            "quoteTokenProportion": 41.49,
+            "qualityScore": 1.7608280793366324,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.89,
+            "commentatorTierSimilarities": [
+                38.47,
+                15.13,
+                46.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we were alive to the sins and vices of the world, we regulated our course and walked in them. However, living and walking are distinct - living comes before walking. Our previous way of life, characterized by these sins, was the element in which we lived, and so we also walked in them. The living in the Spirit results in walking in the Spirit. Now that we have died to these sins through Christ, it is unseemly to continue in them. Our conduct and condition matched in our previous pagan state, but now we must mortify sin and live righteously.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.764766799434732,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                39.27,
+                19.57,
+                41.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Living and walking differ, as living precedes walking. We once lived and walked in the sins and vices of the world, as these were the common practices among the Gentiles. Living in these things denotes a continued series of sinning, progressing from evil to evil. However, we have died to these sins through Christ, and it is unseemly for us to continue indulging in them. Our conduct and condition were aligned in our previous pagan state, but now we must mortify sin and live righteously.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.769279978137647,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                33.36,
+                22.18,
+                44.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Living and walking differ: living precedes walking. We once lived and walked in the sins and vices of the world, but now, having died to those sins through Christ, it is unseemly for us to continue indulging in them. Our conduct and condition agreed in our previous pagan state, but now we must mortify sin by denying it and living righteously. This contrast in living and walking signifies a withdrawal from those sinful practices and the progression towards a life that is sober, righteous, and godly.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8186804852031857,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                35.78,
+                19.4,
+                44.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Living and walking differ: living precedes walking. We once lived and walked in the sins and vices of the world, but now, having died to those sins through Christ, it is unseemly for us to continue indulging in them. Our conduct and condition agreed in our previous pagan state, but now we must mortify sin by denying it and living righteously. This contrast in living and walking signifies a withdrawal from those sinful practices and the progression towards a life that is sober, righteous, and godly.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8186804852031857,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.81,
+            "commentatorTierSimilarities": [
+                35.78,
+                19.4,
+                44.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:31:13",
+    "verseRef": "Acts 14:16",
+    "bestBHT": {
+        "bht": "In times past, God allowed all nations to walk in their own ways, without extending to them the revelation and grace given to the descendants of Abraham. This deprivation of grace was not without guilt on their part. God's hand guided the history of all nations, but with the Gentiles, He withdrew the restraints of His grace in large measure. The insufficiency of human reason in religious matters became evident, emphasizing the need for divine revelation to guide humanity back to God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.7779609973155432,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+        "commentatorTierSimilarities": [
+            33.95,
+            40.12,
+            25.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "16.] Compare Rom. iii. 25, 26, and ch. xvii. 30."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Who in times past suffered all nations to walk in their own ways.\" ",
+            "Without extending to them the revelation vouchsafed to the seed of Abraham, and the grace attending it.",
+            "Yet not without guilt on their part was this privation."
+        ],
+        "Albert Barnes": [
+            "The insufficiency of reason to guide people in the matters of religion.",
+            "The need of revelation to guide man.",
+            "The depravity of man...that some power more than human was necessary to bring people back to God."
+        ],
+        "Marvin Vincent": [
+            "Times [\u03b3\u03b5\u03bd\u03b5\u03b1\u03b9\u03c2] . More correctly, generations, as Rev."
+        ],
+        "John Calvin": [
+            "If, say they, men have erred many years, [ages,] and if the world have wandered without reason and judgment, let not, therefore, the truth of God, when it appeareth, be less precious to you.",
+            "There is no cause (say they) why the conspiracy of all the whole world should keep you from coming to the right way.",
+            "But Paul and Barnabas show no cause here why the Lord suffered the world to err so long; and assuredly we must count the will of God alone the chiefest law of equity."
+        ],
+        "Archibald T. Robertson": [
+            "God's hand is on the history of all the nations, only with the Gentiles he withdrew the restraints of his grace in large measure.",
+            "This philosophy of history does not mean that God was ignorant or unconcerned. He was biding his time in patience.",
+            "God's hand is on the history of all the nations, only with the Gentiles he withdrew the restraints of his grace in large measure."
+        ],
+        "John Gill": [
+            "He left them to themselves, to the dim light and law of nature, and gave them no written law, nor any external revelation of his mind and will.",
+            "But the apostle suggests, that the case was now altered, and God had sent them and other ministers of his, among all nations of the world, to protest against their superstition and idolatry.",
+            "To reclaim them from their evil ways, and to direct them to the true and living God, and his worship, and to preach salvation by his Son Jesus Christ."
+        ],
+        "John Wesley": [
+            "The multitude of them that err does not turn error into truth.",
+            "He prevents their objection, 'But if these things are so, we should have heard the in from our fathers.'",
+            "The idolatries which they had chosen."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In times past, God allowed all nations to walk in their own ways, without extending to them the revelation given to the seed of Abraham. However, this deprivation of grace was not without guilt on their part. God's hand guided the history of all nations, but with the Gentiles, He withdrew the restraints of His grace in large measure. It was during this time that the insufficiency of reason in religious matters became evident, and the need for revelation to guide man became apparent. The Gentiles were immersed in idolatry and had chosen to err in their ways. Yet, in His patience, God was biding His time and preparing for the proclamation of the truth through ministers like Paul and Barnabas, who were sent to proclaim salvation by Jesus Christ and to direct people to the worship of the true God. God's timing in revealing the truth should not be questioned, for His will alone is the chiefest law of equity.",
+            "wordCount": 163,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.716097101079081,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.4,
+            "commentatorTierSimilarities": [
+                29.83,
+                36.37,
+                33.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In times past, God allowed all nations to walk in their own ways, without extending to them the revelation given to the seed of Abraham. However, this deprivation of grace was not without guilt on their part. God's hand guided the history of all nations, but with the Gentiles, He withdrew the restraints of His grace in large measure. It was during this time that the insufficiency of reason in religious matters became evident, and the need for revelation to guide man became apparent.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.7616649371703947,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.92,
+            "commentatorTierSimilarities": [
+                35.41,
+                38.76,
+                25.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In times past, God allowed all nations to wander without reason and judgment, but this does not diminish the preciousness of the truth when it appears. The world's collective error should not keep you from the right path, for God's will is the ultimate law of equity. He left the Gentiles to themselves, relying on the dim light of nature and a lack of external revelation. However, the time had come for ministers like Paul and Barnabas to proclaim the true way and steer people away from idolatry.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.6349936629280184,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.71,
+            "commentatorTierSimilarities": [
+                23.45,
+                34.04,
+                42.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In times past, God permitted all nations to walk in their own ways, choosing not to extend the revelation and grace given to the descendants of Abraham. However, this was not without guilt on their part. God's hand guided the history of all nations, though with the Gentiles, He withdrew His grace to a great extent. During this time, the insufficiency of reason in religious matters became evident, highlighting the necessity of divine revelation to guide humanity back to God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.709430630192709,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.18,
+            "commentatorTierSimilarities": [
+                34.77,
+                36.62,
+                28.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In times past, God allowed all nations to walk in their own ways, without extending to them the revelation and grace given to the descendants of Abraham. This deprivation of grace was not without guilt on their part. God's hand guided the history of all nations, but with the Gentiles, He withdrew the restraints of His grace in large measure. The insufficiency of human reason in religious matters became evident, emphasizing the need for divine revelation to guide humanity back to God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.7779609973155432,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                33.95,
+                40.12,
+                25.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

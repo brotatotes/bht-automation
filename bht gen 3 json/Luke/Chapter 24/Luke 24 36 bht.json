@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:24:16",
+    "verseRef": "Luke 24:36",
+    "bestBHT": {
+        "bht": "While the disciples were speaking, possibly not fully believing the account, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Jesus greeted them with the customary Jewish salutation, Peace be unto you, which carried a deeper significance in this moment. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.18,
+        "qualityScore": 1.7437679814985678,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+        "commentatorTierSimilarities": [
+            27.71,
+            32.13,
+            40.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peace be unto you, the ordinary Jewish salutation, see ch. x. 5, but of more than ordinary meaning in the mouth of the Lord.\" (Luke 24:36 Commentary)",
+            "The Lord appeared, the doors being shut, in the midst.\" (Luke 24:36 Commentary)",
+            "While they were speaking of these things,\u2014possibly not entirely crediting the account, as seems hinted at in Mark xvi.13,\u2014the Lord appeared.\" (Luke 24:36 Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "36. Jesus . . . stood\u2014(See on",
+            "\t :-)."
+        ],
+        "Marvin Vincent": [
+            "Jesus himself. The best texts omit Jesus. Render as Rev., \"he himself stood.\" ",
+            "And saith unto them, Peace be unto you. The best texts omit."
+        ],
+        "John Calvin": [
+            "In short, John does not describe the very commencement of the night, but simply means that, when the day was past, and after sunset, and even at the dead hour of night, Christ came to the disciples contrary to their expectation.",
+            "There is no contradiction about the substance of the fact; unless some person were to raise a debate about the time.",
+            "He does not, indeed, say that Christ, by his divine power, opened for himself the doors which were shut, but something of this sort is indirectly suggested by the phrase which he employs, Jesus stood."
+        ],
+        "Philip Schaff": [
+            "Mark\u2019s account hints at unbelief, and their subsequent fear suggests the same.",
+            "A sudden miraculous appearing is meant, corresponding to the disappearance in Luke 24:31. John\u2019s account (Luke 20:16), telling of closed doors, confirms this view.",
+            "Peace be unto you. Comp. John 20:19. The ordinary Jewish salutation, but meaning more in this case. See on Luke 24:40."
+        ],
+        "Archibald T. Robertson": [
+            "He himself stood (\u03b1\u03c5\u03c4\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b7). He himself stepped and stood. Some documents do not have \"Peace be unto you.\" "
+        ],
+        "John Gill": [
+            "Jesus himself stood in the midst of them...he, in a moment, at once, stood in the middle of them, as if he had immediately rose up out of the earth before them.",
+            "By his power he opened the and secretly let himself in, and shut them again at once; and by the agility of his body moved so swiftly, that he was not discerned until he was among them.",
+            "And saith unto them, peace be unto you; which was an usual form of salutation among the Jews."
+        ],
+        "John Wesley": [
+            "Jesus stood in the midst of them \u2014 It was just as easy to his Divine power to open a door undiscernibly, as it was to come in at a door opened by some other hand.",
+            "It was just as easy to his Divine power to open a door undiscernibly...",
+            "It was just as easy to his Divine power to come in at a door opened by some other hand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "While the disciples were speaking, possibly not fully believing the account, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Jesus greeted them with the customary Jewish salutation, Peace be unto you, which carried a deeper significance in this moment. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7437679814985678,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                27.71,
+                32.13,
+                40.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While the disciples were speaking, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Jesus greeted them with the customary Jewish salutation, Peace be unto you. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.707934425761392,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                29.1,
+                30.51,
+                40.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While the disciples were speaking, possibly not fully believing the account, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Jesus greeted them with the customary Jewish salutation, Peace be unto you, which carried a deeper significance in this moment. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.7437679814985678,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.32,
+            "commentatorTierSimilarities": [
+                27.71,
+                32.13,
+                40.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "While the disciples were speaking, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Jesus greeted them with the customary Jewish salutation, Peace be unto you, which carried a deeper significance. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.705648299977485,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.05,
+            "commentatorTierSimilarities": [
+                28.55,
+                30.52,
+                40.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While the disciples were speaking, Jesus himself miraculously appeared in their midst, even though the doors were shut. His sudden and unexpected appearance caused them to fear. Greeting them with Peace be unto you, Jesus conveyed a deeper meaning with the familiar Jewish salutation. It is suggested that Jesus, by his divine power, opened the doors for himself and swiftly moved among them without being noticed. This extraordinary event confirms the reality of the resurrection and the divine authority of Jesus.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7163801793335487,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                27.87,
+                32.25,
+                39.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

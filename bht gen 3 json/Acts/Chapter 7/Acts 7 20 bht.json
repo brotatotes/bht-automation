@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-19-2023 16:27:24",
+    "verseRef": "Acts 7:20",
+    "bestBHT": {
+        "bht": "Moses, the destined deliverer, was born during a time of deep oppression. Described as fair to God and exceeding fair, his beauty captivated those who saw him. Jewish traditions extol his divine beauty, with people even stopping in their tracks to admire him. Moses was raised in his father's house for three months, defying Pharaoh's orders. This detail of time highlights how God's power is perfected in man's weakness, as the minister of deliverance is born amidst darkness.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 1.8388597102102677,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+        "commentatorTierSimilarities": [
+            26.33,
+            40.32,
+            33.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Josephus calls the infant Moses 'a child of divine beauty.'",
+            "Philo says, 'The child at its very birth presented an appearance of beauty greater than that of ordinary men.'",
+            "The expression here seems borrowed from tradition."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20-22. In which time\u2014of",
+            "\tdeepest depression. ",
+            "\t",
+            "Moses was born\u2014the",
+            "\tdestined deliverer. ",
+            "\t",
+            "exceeding fair\u2014literally,",
+            "\t\"fair to God\" (Margin), or, perhaps, divinely \"fair",
+            "\t(see on :-)."
+        ],
+        "Albert Barnes": [
+            "Was very handsome...the word 'God' in the Greek here...designated...anything that is 'very handsome, lofty, or grand'.",
+            "The expression here simply means that Moses was 'very fair,' or handsome.",
+            "It would seem from this that Moses was preserved by his mother on account of his 'beauty.'"
+        ],
+        "Marvin Vincent": [
+            "Sad, seasonable.",
+            "Asteiov, fair (only here and Hebrews 11:23), is from astu, a town, and means originally town-bred; hence refined, elegant, comely.",
+            "The Jewish traditions extol Moses' beauty. Josephus says that those who met him, as he was carried along the streets, forgot their business and stood still to gaze at him."
+        ],
+        "John Calvin": [
+            "It is not without cause that Stephen noteth the circumstance of time.",
+            "Therefore, it seemeth that the minister of deliverance is dead before he is born.",
+            "And it appeareth also most plainly how God doth make perfect his power in man\u2019s weakness."
+        ],
+        "Philip Schaff": [
+            "Moses was born, and was exceeding fair. Tradition writes of him as \u2018being beautiful as an angel.\u2019 Josephus speaks of his Divine beauty. Philo also called especial attention to it.",
+            "The expression in the Greek original, \u03b1 \u0313 \u03c3\u03c4\u03b5\u03b9 \u0342 \u03bf\u03c2 \u03c4\u03c9 \u0345\u0342 \u0398\u03b5\u03c9 \u0345\u0342, rendered exceeding fair, is a very strong superlative, and is known in classical Greek.",
+            "In his father\u2019s house. His father\u2019s name was Amram."
+        ],
+        "Archibald T. Robertson": [
+            "Exceeding fair (\u03b1\u03c3\u03c4\u03b5\u03b9\u03bf\u03c2 \u03c4\u03c9 \u03b8\u03b5\u03c9). Ethical dative, fair to God (as God looked at him).\" ",
+            "\u0391\u03c3\u03c4\u03b5\u03b9\u03bf\u03c2 is from \u03b1\u03c3\u03c4\u03c5, city, and so means 'of the city,' with city manners and polish.",
+            "He was nourished (\u03b1\u03bd\u03b5\u03c4\u03c1\u03b1\u03c6\u03b7). Second aorist passive indicative of \u03b1\u03bd\u03b1\u03c4\u03c1\u03b5\u03c6\u03c9. He was brought up at home for three months in defiance of the new Pharaoh."
+        ],
+        "John Gill": [
+            "he was born, according to the Jews, on the seventh day of Adar, or February",
+            "he had a peculiar beauty put upon him by God",
+            "as the Jews say, the three months after Jochebed was delivered of a son, the thing was known in the house of Pharaoh, wherefore she could hide him no longer"
+        ],
+        "John Wesley": [
+            "In which time \u2014 A sad but a seasonable time. Exodus 2:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses was born during a sad and oppressive time, but he was destined to be the deliverer. Described as fair to God and exceeding fair, Moses' exceptional beauty captured the attention of those who saw him. According to Jewish traditions, people would stop in their tracks just to admire him. This beauty was not merely physical, but had a divine quality to it. Moses was raised in his father's house for three months, in defiance of Pharaoh's orders. This detail of time is not without significance, as it highlights the perfect timing of God's power in man's weakness.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.7932618043867032,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                25.34,
+                40.74,
+                33.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses, the destined deliverer, was born during a time of deep oppression. Described as fair to God and exceeding fair, his beauty captivated those who saw him. Jewish traditions extol his divine beauty, with people even stopping in their tracks to admire him. Moses was raised in his father's house for three months, defying Pharaoh's orders. This detail of time highlights how God's power is perfected in man's weakness, as the minister of deliverance is born amidst darkness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8388597102102677,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                26.33,
+                40.32,
+                33.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses, the destined deliverer, was born during a time of deep oppression. Described as fair to God and exceeding fair, his beauty captivated those who saw him. Jewish traditions extol his divine beauty, with people even stopping in their tracks to admire him. Moses was raised in his father's house for three months, defying Pharaoh's orders. This detail of time highlights how God's power is perfected in man's weakness, as the minister of deliverance is born amidst darkness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.8388597102102677,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.48,
+            "commentatorTierSimilarities": [
+                26.33,
+                40.32,
+                33.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses, the destined deliverer, was born during a time of deep oppression. Described as fair to God and exceeding fair, his beauty captured attention and admiration. Jewish traditions extolled his divine beauty, with people stopping just to gaze at him. Raised in secrecy for three months, Moses defied Pharaoh's orders. This timing highlights how God's power is perfected in weakness, as the minister of deliverance is born amidst darkness.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7612051113549803,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                27.59,
+                38.68,
+                33.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a time of deep oppression, Moses, the destined deliverer, was born. His divine beauty, described as fair to God and exceeding fair, captivated the attention of those who saw him. People stopped in their tracks just to admire him. Moses was secretly raised in his father's house for three months, defying Pharaoh's orders. This detail of time emphasizes how God's power is perfected in man's weakness, as the minister of deliverance is brought forth during the darkest times.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6918437805792426,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                23.75,
+                40.13,
+                36.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:33:55",
+    "verseRef": "Acts 19:34",
+    "bestBHT": {
+        "bht": "When the rioters in Ephesus discovered that Alexander was a Jew, known to be an enemy of image-worship, they erupted in a prolonged and frenzied shout: Great is Artemis of the Ephesians. Their zealous enthusiasm, fueled by a deep-seated prejudice against Jews, lasted for about two hours, drowning out any attempt to reason or speak. This incident underscores the importance of a genuine and transformative faith that goes beyond empty repetitions and that boldly confesses the true God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.88,
+        "qualityScore": 1.9488136863225272,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+        "commentatorTierSimilarities": [
+            32.16,
+            34.87,
+            32.97
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "34. when they knew that he was a Jew] They would hear nothing from a Jew, as being an enemy of image-worship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The very appearance of a Jew had the opposite effect to that intended.",
+            "To prevent him obtaining a hearing, they drowned his voice in one tumultuous shout.",
+            "Frantic enthusiasm as took two hours to exhaust itself."
+        ],
+        "Albert Barnes": [
+            "When they knew... That he was a Jew - There was a general prejudice against the Jews... they were indiscriminate in their wrath, and unwilling to listen to any defense.",
+            "About the space of two hours - It is not at all improbable that the tumult would continue for so long a time, before it would be possible to allay the excitement.",
+            "Cried out... in order to evince their attachment to Diana, as would be natural in an excited and tumultuous mob of pagan worshippers."
+        ],
+        "Marvin Vincent": [
+            "With one voice cried out.",
+            "The reverberations of their voices from the steep rock.",
+            "Rendered their frenzied cries still more terrific."
+        ],
+        "John Calvin": [
+            "For whence came that great divinity of Diana whereof they spake, save only because like mad men they furiously defend that error which they had once received?",
+            "It fareth otherwise with true godliness, that we believe with the heart unto righteousness, and then doth the confession of the mouth follow to salvation.",
+            "Our sluggishness is shameful if we be not as ready and stout in the confession of a sure faith as are they in their filthy error."
+        ],
+        "Philip Schaff": [
+            "The old Gentile hate of the Jews at once flames out.",
+            "This strange repetition was no mere tumultuous cry...but it was no doubt an act of worship.",
+            "The custom of the Mohammedans and the worshippers of Brahma in India to this day is well known, and they often for entire days practise these vain senseless repetitions."
+        ],
+        "Archibald T. Robertson": [
+            "The rioters saw at once that Alexander was a Jew by his features.",
+            "An with one voice cried out (\u03c6\u03c9\u03bd\u03b7 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf \u03bc\u03b9\u03b1 \u03b5\u03ba \u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03ba\u03c1\u03b1\u03b6\u03bf\u03bd\u03c4\u03c9\u03bd).",
+            "Their creed centred in this prolonged yell: 'Great is Artemis of the Ephesians' with which the disturbance started."
+        ],
+        "John Gill": [
+            "But when they knew that he was a Jew,.... And so equally an enemy to their idolatry, as Paul and his companions were, whether he was a Christian or not.\" ",
+            "All with one voice about the space of two hours cried out; all that were in the theatre lift up their voices at once to prevent Alexander's apology, or at least its being heard; and which they continued about two hours, which was a long time to keep hallooing out,\" ",
+            "great is Diana of the Ephesians"
+        ],
+        "John Wesley": [
+            "But when they knew that he was a Jew - And consequently an enemy to their worship of images.\" ",
+            "They prevented him, by crying, Great is Diana of the Ephesians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the rioters in Ephesus realized that Alexander was a Jew, their frenzy and opposition to a Jew, known to be an enemy of image-worship, erupted in a deafening and prolonged shout: Great is Artemis of the Ephesians. This tumultuous outcry, fueled by fanaticism and religious zeal, lasted for about two hours, drowning out any attempts to reason or speak. The rioters, in their blind devotion to their pagan deity, were unwilling to listen to any defense, their minds consumed by a deep-seated prejudice against the Jews. This incident serves as a stark reminder that true faith requires more than empty repetitions and mindless worship, but a genuine belief that transforms the heart, leading to the salvation of souls. As believers, we should be equally resolute in our confession of faith, ready to boldly proclaim our trust in the one true God.",
+            "wordCount": 144,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8638160266809956,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                28.63,
+                37.63,
+                33.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When they discovered that Alexander was a Jew, known to be an enemy of image-worship, the rioters in Ephesus erupted in a frenzied and prolonged shout: Great is Artemis of the Ephesians. Their fierce enthusiasm, as reflected in this continuous yell, lasted for about two hours, drowning out any attempt to reason or speak. This incident highlights the deep prejudice against Jews in the city and serves as a reminder that true faith involves heartfelt belief and confession, rather than empty repetitions or mindless worship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9202156648410518,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.19,
+            "commentatorTierSimilarities": [
+                32.22,
+                34.59,
+                33.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the rioters in Ephesus realized that Alexander was a Jew, their frenzy and opposition to a Jew erupted in a deafening and prolonged shout: Great is Artemis of the Ephesians. This tumultuous outcry, fueled by fanaticism and religious zeal, lasted for about two hours, drowning out any attempts to reason or speak. The rioters, in their blind devotion to their pagan deity, were unwilling to listen to any defense, their minds consumed by a deep-seated prejudice against the Jews. This incident serves as a stark reminder that true faith requires a genuine belief that transforms the heart, leading to the salvation of souls.",
+            "wordCount": 105,
+            "quoteTokenProportion": 29.33,
+            "qualityScore": 1.9375406777445603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.76,
+            "commentatorTierSimilarities": [
+                31.24,
+                37.09,
+                31.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When they discovered that Alexander was a Jew, the rioters in Ephesus erupted in a frenzied and prolonged shout: Great is Artemis of the Ephesians. Their fierce enthusiasm, as reflected in this continuous yell, lasted for about two hours, drowning out any attempt to reason or speak. This incident highlights the deep prejudice against Jews and the fanatical devotion to pagan worship. It serves as a reminder that true faith involves heartfelt belief and confession rather than mindless repetition.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.807621801499117,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                28.86,
+                37.75,
+                33.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the rioters in Ephesus discovered that Alexander was a Jew, known to be an enemy of image-worship, they erupted in a prolonged and frenzied shout: Great is Artemis of the Ephesians. Their zealous enthusiasm, fueled by a deep-seated prejudice against Jews, lasted for about two hours, drowning out any attempt to reason or speak. This incident underscores the importance of a genuine and transformative faith that goes beyond empty repetitions and that boldly confesses the true God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.9488136863225272,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+            "commentatorTierSimilarities": [
+                32.16,
+                34.87,
+                32.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

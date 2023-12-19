@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:13",
+    "verseRef": "Ephesians 1:13",
+    "bestBHT": {
+        "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth, unmixed with human traditions or wisdom. The Spirit, like a seal, impresses the image of our Father on the soul at regeneration, guaranteeing the validity of our contract with Him. This seal is the Holy Spirit, the Spirit of promise, who was announced as the Spirit by many prophets. It is through Him that we, both Jews and Gentiles, receive the full assurance of all the promises of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.1855665811498066,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+        "commentatorTierSimilarities": [
+            31.62,
+            30.84,
+            37.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word of [the] truth (the word whose character and contents are the truth of God. This word is the instrument of the new birth",
+            "the Gospel of your salvation (the Gospel whose contents, whose good tidings are your salvation)",
+            "The Spirit with whom He sealed you is even His own Holy Spirit\u2014what grace, and mercy, and love, is here!"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The priority of us Jews does not exclude you Gentiles from sharing in Christ.",
+            "A seal impressed on a document gives undoubted validity to the contract in it.",
+            "The Spirit, like a seal, impresses on the soul at regeneration the image of our Father."
+        ],
+        "Albert Barnes": [
+            "In whom ye also trusted - This stands in contrast with those who had 'first' embraced the gospel.",
+            "The phrase 'the word of truth' means 'the true word or message.' It was a message unmixed with Jewish traditions or Gentile philosophy.",
+            "They were thus sealed by the Holy Spirit of promise, 'after they had believed'; they had the full evidence of the favor of God in the descent of the promised Holy Spirit, and in his miraculous influences."
+        ],
+        "Marvin Vincent": [
+            "Ye were sealed with the assurance of the Holy Spirit.\" ",
+            "Spirit of promise... the Spirit which was announced by promise.",
+            "See Acts 2:16 sqq.; Joel 2:28; Zechariah 12:10; Isaiah 32:15; Isaiah 44:3; John 7:39; Acts 1:4-8; Galatians 3:14."
+        ],
+        "John Calvin": [
+            "Nothing is more earnestly attempted by Satan than to lead us either to doubt or to despise the gospel. Paul therefore furnishes us with two shields, by which we may repel both temptations.",
+            "Having denominated the gospel the word of truth, I will not prove it by the authority of men; for you have the testimony of the Spirit of God himself, who seals the truth of it in your hearts.",
+            "The foundation of faith would be frail and unsteady, if it rested on human wisdom; and therefore, as preaching is the instrument of faith, so the Holy Spirit makes preaching efficacious."
+        ],
+        "Archibald T. Robertson": [
+            "Ye also (\u03ba\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2). Ye Gentiles (now Christians), in contrast to \u03b7\u03bc\u03b1\u03c2 (we) in Ephesians 1:12.",
+            "Ye were sealed (\u03b5\u03c3\u03c6\u03c1\u03b1\u03b3\u03b9\u03c3\u03b8\u03b7\u03c4\u03b5). First aorist passive indicative of \u03c3\u03c6\u03c1\u03b1\u03b3\u03b9\u03b6\u03c9, old verb, to set a seal on one as a mark or stamp, sometimes the marks of ownership or of worship of deities like \u03c3\u03c4\u03b9\u03b3\u03bc\u03b1\u03c4\u03b1 (Galatians 6:17).",
+            "See 2 Corinthians 1:22 for the very use of the metaphor here applied to the Holy Spirit even with the word \u03b1\u03c1\u03c1\u03b1\u03b2\u03c9\u03bd (earnest)."
+        ],
+        "John Gill": [
+            "The word of truth, the Gospel, is a declaration and publication of salvation by Christ.",
+            "The sealing work of the Spirit is a distinct thing from faith or any other work of the Spirit.",
+            "The seal of these things is not circumcision, nor baptism, nor the Lord's supper, nor even the graces of the Spirit, but the Spirit himself."
+        ],
+        "John Wesley": [
+            "Ye were sealed by that Holy Spirit of promise \u2014 Holy both in his nature and in his operations, and promised to all the children of God.\" ",
+            "The sealing seems to imply, 1. A full impression of the image of God on their souls. 2. A full assurance of receiving all the promises, whether relating to time or eternity.",
+            "The sealing seems to imply, 1. A full impression of the image of God on their souls. 2. A full assurance of receiving all the promises, whether relating to time or eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth, unmixed with human traditions or wisdom. The Spirit, like a seal, impresses the image of our Father on the soul at regeneration, guaranteeing the validity of our contract with Him. This seal is the Holy Spirit, the Spirit of promise, who was announced as the Spirit to come by many prophets. It is through Him that we, both Jews and Gentiles, receive the full assurance of all the promises of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.183219102644721,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                31.6,
+                30.83,
+                37.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth, unmixed with human traditions or wisdom. The Spirit, like a seal, impresses the image of our Father on the soul at regeneration, guaranteeing the validity of our contract with Him. This seal is the Holy Spirit, the Spirit of promise, who was announced as the Spirit by many prophets. It is through Him that we, both Jews and Gentiles, receive the full assurance of all the promises of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1855665811498066,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.01,
+            "commentatorTierSimilarities": [
+                31.62,
+                30.84,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth, unmixed with traditions or wisdom. The Spirit, like a seal, impresses the image of our Father on the soul at regeneration, validating our contract with Him. This seal is the Holy Spirit, the Spirit of promise, announced by many prophets. Through Him, both Jews and Gentiles receive the full assurance of God's promises.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.1381817533753917,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.44,
+            "commentatorTierSimilarities": [
+                32.3,
+                30.9,
+                36.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth and salvation. The Spirit seals believers with His own Holy Spirit, assuring them of God's grace, mercy, and love. This seal gives validity to the contract we have with God and imparts His image upon us. The Holy Spirit, promised by God, is the one who seals us and guarantees our inheritance in Christ. Through Him, both Jews and Gentiles receive the full assurance of salvation and all the promises of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.1429207918864095,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.59,
+            "commentatorTierSimilarities": [
+                32.3,
+                29.98,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The word of truth, the Gospel of your salvation, is the instrument of the new birth, unmixed with traditions or wisdom. The Spirit seals believers with His own Holy Spirit, assuring them of God's grace, mercy, and love. This seal, like a mark of ownership, imparts the image of our Father upon us. Through the promised Holy Spirit, both Jews and Gentiles receive the full assurance of all God's promises.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.084305974243559,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.64,
+            "commentatorTierSimilarities": [
+                32.05,
+                32.01,
+                35.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

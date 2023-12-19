@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:35:41",
+    "verseRef": "Acts 23:23",
+    "bestBHT": {
+        "bht": "The soldiers mentioned here were the heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. The Roman officials felt it was important to protect the prisoner and preserve public peace, considering the danger of a rescue. This large and powerful escort set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8299642451102072,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+        "commentatorTierSimilarities": [
+            24.74,
+            47.95,
+            27.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The soldiers here spoken of were the ordinary heavy-armed legionary soldiers.\" (Commentary)",
+            "The word thus rendered has n\u00e9ver been satisfactorily explained: but spearmen seems to represent it more nearly than any other term.\" (Commentary)",
+            "See in my Greek Test.\" (Commentary)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Roman officials felt their honor concerned in the preservation of the public peace.\" ",
+            "The danger of an attempted rescue would seem to require it.\" ",
+            "The force at Jerusalem was large enough to spare this convoy."
+        ],
+        "Albert Barnes": [
+            "The chief captain resolved to place Paul beyond the power of the Jews, and to protect him as became a Roman citizen.",
+            "These foot soldiers were designed only to guard Paul until he was safely out of Jerusalem.",
+            "In order, therefore, to deter them effectually from attacking the guard, it was made very numerous and strong. Nearly 500 men were appointed to guard Paul as he left Jerusalem."
+        ],
+        "Marvin Vincent": [
+            "Soldiers [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b1\u03c2] . Heavy - armed footmen : legionaries.\" ",
+            "Spearmen [\u03b4\u03b5\u03be\u03b9\u03bf\u03bb\u03b1\u03b2\u03bf\u03c5\u03c2] . Only here in New Testament, and not in classical Greek.",
+            "They were probably light - armed troops, javelin - throwers or slingers."
+        ],
+        "Philip Schaff": [
+            "Four hundred and seventy soldiers seems to have been a large force to have guarded a single prisoner from the murderous design of forty Sicarii, but the disturbed uneasy state of the entire country must be borne in mind...",
+            "The fact, too, of the Roman citizenship of the prisoner, whose death was evidently earnestly desired by the Jewish Sanhedrim, made him more cautious.",
+            "This large and powerful escort was to set out in all secrecy, when it was dark, at the third hour of the night, that is, nine o\u2019clock in the evening..."
+        ],
+        "Archibald T. Robertson": [
+            "Some two\" as in Luke 7:19, indicating that they were not specially chosen.",
+            "The three varieties of troops in a Roman army like the cohort of Lysias. The \u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b1 were the heavy-armed legionaries, the \u03b9\u03c0\u03c0\u03b5\u03b9\u03c2 belonged to every legion, the \u03b4\u03b5\u03be\u03b9\u03bf\u03bb\u03b1\u03b2\u03bf were light-armed supplementary troops who carried a lance in the right hand.",
+            "About nine in the evening."
+        ],
+        "John Gill": [
+            "Make ready two hundred soldiers to go to Caesarea...these two hundred soldiers were foot soldiers...the making of them ready, was their seeing to it, that they were properly clothed, and accoutred with arms and ammunition, and with sufficient provision for their journey.\" ",
+            "Horsemen threescore and ten...spearmen two hundred; who carried spears in their right hand...such as carried darts in their hands.\" ",
+            "At the third hour of the night; at nine o'clock at night, that they might go out unobserved."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The soldiers mentioned in this verse were the ordinary heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The Roman officials felt it was important to preserve public peace and protect the prisoner, considering the danger of an attempted rescue. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. This large and powerful escort was to set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8530579610150553,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.96,
+            "commentatorTierSimilarities": [
+                24.62,
+                49.1,
+                26.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The soldiers mentioned here were the heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. The Roman officials felt it was important to protect the prisoner and preserve public peace, considering the danger of a rescue. This large and powerful escort set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8299642451102072,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                24.74,
+                47.95,
+                27.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers mentioned in Acts 23:23 were the ordinary heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. The Roman officials felt it was important to preserve public peace and protect the prisoner, considering the danger of an attempted rescue. This large and powerful escort set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8264881680257945,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.07,
+            "commentatorTierSimilarities": [
+                24.58,
+                47.94,
+                27.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldiers mentioned in this passage were the heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. The Roman officials felt it was important to protect the prisoner and preserve public peace, considering the danger of a rescue. This large and powerful escort set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8350050996442384,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                24.74,
+                48.39,
+                26.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldiers mentioned were the heavy-armed legionary soldiers, accompanied by light-armed troops who carried a lance in their right hand. The force at Jerusalem was large enough to spare nearly 500 men to guard Paul as he left Jerusalem. The Roman officials felt it was important to protect the prisoner and preserve public peace, considering the danger of a rescue. This large and powerful escort set out in secrecy, at nine o'clock in the evening, to ensure they were unobserved.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.829005423697307,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.16,
+            "commentatorTierSimilarities": [
+                24.72,
+                47.89,
+                27.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

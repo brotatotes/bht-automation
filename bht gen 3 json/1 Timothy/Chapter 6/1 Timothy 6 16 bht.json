@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:35",
+    "verseRef": "1 Timothy 6:16",
+    "bestBHT": {
+        "bht": "God alone possesses immortality and bestows it upon those who believe, for outside of him there is only death. It is incorrect to attribute inherent indestructibility to the soul, as this trait can only be attributed to God's gift. Just as mortal man cannot gaze upon the sun due to its intense heat and power, we are unable to fully comprehend the indescribable glory of God. He dwells in unapproachable light, and though no one has seen him or can see him, we can look forward to beholding him as we are transformed and purified to enjoy his presence.",
+        "wordCount": 100,
+        "quoteTokenProportion": 45.83,
+        "qualityScore": 2.129059180326976,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+        "commentatorTierSimilarities": [
+            34.25,
+            32.0,
+            33.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Who only hath immortality...As He hath immortality, so will He give it to us who believe; to be out of Him is death.\" (Commentary)",
+            "It is mere heathen philosophy that attributes to the soul indestructibility in itself, which is to be attributed solely to God's gift.\" (Commentary)",
+            "If one cannot gaze steadfastly at the sun, which is but a small part of creation, by reason of its exceeding heat and power, how much less can mortal man gaze at the inexpressible glory of God.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "God, in his own nature, enjoys a perfect and certain exemption from death.",
+            "The light where he dwells is so brilliant and dazzling that mortal eyes could not endure it.",
+            "God is represented as dwelling in that light, surrounded by amazing and inapproachable glory."
+        ],
+        "Marvin Vincent": [
+            "Who only hath immortality."
+        ],
+        "John Calvin": [
+            "God alone is immortal, in order to inform us, that we and all the creatures do not, strictly speaking, live, but only borrow life from Him.",
+            "Strictly speaking, therefore, immortality does not subsist in the nature of souls or of angels, but comes from another source, namely, from the secret inspiration of God.",
+            "We must always consider what is the Apostle\u2019s design. It is difficult for us to overlook and disregard all those things of which we have immediate vision, that we may endeavor to come to God, who is nowhere to be seen."
+        ],
+        "Philip Schaff": [
+            "The words have been much quoted of late years, as supporting the doctrine of the annihilation of the lost... proving, what no one ever denied, that the soul of man is not necessarily immortal.",
+            "The symbolism is perhaps the highest that man\u2019s thoughts can fashion... it is but symbolism, and that from another point of view God Himself is the Light in which He is here said to dwell.",
+            "whom no man ever saw... the harmony between the two great apostles on this common point of their theology."
+        ],
+        "Archibald T. Robertson": [
+            "The one who alone has immortality.\" ",
+            "Unapproachable.\" ",
+            "Nor can see."
+        ],
+        "John Gill": [
+            "Who only hath immortality...from God; who only has it, of himself, originally, essentially, and inderivatively.",
+            "Dwelling in that light which no man can approach unto...God is light itself, as well as clothes himself with light, as with a garment; and is the Father and fountain of lights to all his creatures.",
+            "Whom no man hath seen, nor can see...the sin, frailty, and mortality of human nature must be taken away, in order to inherit the kingdom of God, and enjoy the beatific vision of him."
+        ],
+        "John Wesley": [
+            "Who only hath underived, independent immortality.",
+            "Dwelling in light unapproachable \u2014 To the highest angel.",
+            "Whom no man hath seen, or can see \u2014 With bodily eyes. Yet 'we shall see him as he is.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God alone possesses immortality, and he grants it to those who believe in him. Mortal man cannot comprehend the inexpressible glory of God, as even the sun is beyond our gaze due to its intense heat and power. It is important to recognize that the immortality of the soul is not inherent but a gift from God. This truth opposes the pagan belief in the indestructibility of the soul. The imagery of God dwelling in an unapproachable light signifies the inaccessibility and overwhelming splendor of his presence. Though no one has seen God, we are assured of beholding him one day, purified from sin and mortality, and enabled to enjoy his beatific vision.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.0544168643707756,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                32.73,
+                34.8,
+                32.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God alone possesses immortality and bestows it upon those who believe, for outside of him there is only death. It is incorrect to attribute inherent indestructibility to the soul, as this trait can only be attributed to God's gift. Just as mortal man cannot gaze upon the sun due to its intense heat and power, we are unable to fully comprehend the indescribable glory of God. He dwells in unapproachable light, and though no one has seen him or can see him, we can look forward to beholding him as we are transformed and purified to enjoy his presence.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.129059180326976,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                34.25,
+                32.0,
+                33.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God alone possesses immortality and graciously imparts it to believers, revealing that apart from Him, there is death. It is erroneous to assign innate indestructibility to the soul, as this quality is solely a gift from God. Just as mortals cannot gaze directly at the scorching sun, we are unable to fathom the indescribable glory of God. He dwells in an unapproachable light, and though no one has seen or can see Him, we anticipate the day when we will behold Him, cleansed from sin and mortality, to enjoy His divine presence.",
+            "wordCount": 92,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.0869275054056704,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                32.42,
+                33.69,
+                33.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, who alone possesses immortality, offers this eternal life to those who believe in Him. The soul's indestructibility is a fallacy, as it is a gift solely from God. The radiant glory of God is so intense that mortal eyes cannot endure it, comparable to gazing at the scorching sun. This unapproachable light in which God dwells represents His incomprehensible and awe-inspiring presence. Though no one has seen or can see God, believers anticipate the day when they will be purified from sin and mortality to behold His divine splendor.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.0817761803679193,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                31.95,
+                35.03,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God uniquely possesses immortality, extending this gift to those who have faith in Him. It is a misconception to assume that the soul is inherently indestructible, as this quality is exclusively bestowed by God. Mortal humanity is incapable of fully comprehending the astonishing glory of God, just as one cannot directly gaze upon the scorching sun. God dwells in a light that is unapproachable and beyond human perception. Although no one has seen or can see God, believers eagerly anticipate the day when they will be transformed to behold His magnificence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 2.010166105866225,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                30.57,
+                35.27,
+                34.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

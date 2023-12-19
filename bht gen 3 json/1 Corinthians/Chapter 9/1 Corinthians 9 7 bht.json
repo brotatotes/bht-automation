@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:09:56",
+    "verseRef": "1 Corinthians 9:7",
+    "bestBHT": {
+        "bht": "The minister of the gospel, likened to a soldier, vine-dresser, and shepherd, faces the challenges of contending with the world, planting churches, and caring for the flock. Just as a soldier serves in the army, it is only fair that the minister should be supported and not burdened with self-sustenance. The minister devotes their life to instructing, warning, guiding, comforting, and tending to the needs of others. It is right and just that those who benefit from their labor should provide for their temporal needs and compensate their efforts.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.8513375708893447,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+        "commentatorTierSimilarities": [
+            29.83,
+            33.85,
+            36.32
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "7.] From the analogies of human conduct: (1 The soldier. at his own charges] with pay furnished ont of his own resources. (2) The husbandman. (3) The shepherd."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. The minister is spiritually a",
+            "\tsoldier (2 Timothy 2:3), a",
+            "\tvine-dresser (1 Corinthians 3:6-8;",
+            "\tSong of Solomon 1:6), and a shepherd (1 Peter 5:2;",
+            "\t1 Peter 5:4). ",
+            "\t",
+            "of the fruit\u2014The oldest",
+            "\tmanuscripts omit \"of."
+        ],
+        "Albert Barnes": [
+            "The Christian ministry is compared to a warfare, and the Christian minister to a soldier; ...Paul says it is but equitable also that the soldier of the Lord Jesus should be sustained, and should not be required to support himself.",
+            "The work of the ministry is as arduous, and as self-denying, and perhaps as dangerous, as the work of a soldier; and common justice, therefore, demands that he who devotes his youth, and health and life to it, for the benefit of others should have a competent support.",
+            "The minister of the gospel watches for the good of souls...He lives to instruct the ignorant; to warn and secure those who are in danger; to guide the perplexed; to reclaim the wandering; to comfort; the afflicted; to bind up the broken in heart; to attend on the sick; to be an example and an instructor to the young; and to be a counsellor and a pattern to all. As he labors for their good, it is no more than equal and right that they should minister to his temporal needs, and compensate him for his efforts to promote their happiness and salvation."
+        ],
+        "Marvin Vincent": [
+            "The minister of the gospel is beautifully compared with the soldier, vine-dresser, shepherd.",
+            "He goes forth to contend with the world, to plant churches, and to exercise pastoral care over them.",
+            "The Greek word is used not only of war, but of military service in general."
+        ],
+        "John Calvin": [
+            "The first is taken from military law, for soldiers are wont to have their provisions furnished to them at the public expense.",
+            "The second is taken from vine-dressers, for the husbandman plants a vine \u2014 not to throw away his pains, but to gather the fruit.",
+            "The third is taken from keepers of cattle, for the shepherd does not lay out his labor for nothing, but eats of the milk of the flock \u2014 that is, he is supported from the produce."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 9:7. What soldier ever serveth at his own charges? who planteth a vineyard, and eateth not the fruit thereof? or who feedeth a flock, etc.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Who ever serves as a soldier?\" serves in an army (\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03c2). Present middle of old verb \u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03c5\u03c9.\" (Commentary)",
+            "To give proof of his right to receive pay for preaching Paul uses the illustrations of the soldier, the husbandman, the shepherd, the ox treading out the grain, the ploughman, the priests in the temple, proof enough in all conscience...\" (Commentary)",
+            "Paul likens the pastor to a soldier, vinedresser, shepherd. He contends with the world, he plants churches, he exercises a shepherd's care over them.\" (Commentary)"
+        ],
+        "John Gill": [
+            "Since ministers of the Gospel are the good soldiers of Jesus Christ, and are engaged in a warfare state, in fighting the good fight of faith, against his enemies, and those of his church, it is but reasonable that their charges should be bore, and they maintained at the public expense.",
+            "The church of Christ is a vineyard, it is often so called in Scripture; ministers are planters, vinedressers, and labourers in it; and as the mystical Solomon, the owner of the vineyard, ought to have his thousand, the cultivators of it, the keepers of the fruit, should have their two hundred.",
+            "The churches of Christ are compared to flocks of sheep; the ministers of the word are pastors, or shepherds, who have the care and oversight of them, and feed them with knowledge and understanding; and it is but right and just that they enjoy the fruit of their labours, and have a proper and suitable maintenance, as it is that he who feeds a flock should eat of the milk which that produces."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The minister of the gospel is beautifully compared with the soldier, vine-dresser, and shepherd. He goes forth to contend with the world, to plant churches, and to exercise pastoral care over them. The work of the ministry is as arduous and self-denying as the work of a soldier, and it is only fair that he should be sustained and not required to support himself. The minister, who serves as a soldier, watches for the good of souls, instructs the ignorant, warns and secures those in danger, guides the perplexed, and comforts the afflicted. It is only right that those who benefit from his efforts should minister to his temporal needs and compensate him for his labor in promoting their happiness and salvation.",
+            "wordCount": 124,
+            "quoteTokenProportion": 34.67,
+            "qualityScore": 2.0089331988815604,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.14,
+            "commentatorTierSimilarities": [
+                31.2,
+                34.8,
+                34.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The minister of the gospel is beautifully compared with the soldier, vine-dresser, and shepherd. The soldier serves in the army, contending with the world, planting churches, and exercising pastoral care. The work of the ministry is as arduous, self-denying, and dangerous as a soldier. It is only fair that he should be sustained and not support himself. The minister watches for souls, instructs the ignorant, warns the in danger, guides the perplexed, and comforts the afflicted. Those who benefit from his efforts should minister to his temporal needs and compensate him for his labor.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.8371502806046105,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.43,
+            "commentatorTierSimilarities": [
+                32.12,
+                34.0,
+                33.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The minister of the gospel, likened to a soldier, vine-dresser, and shepherd, faces the challenges of contending with the world, planting churches, and caring for the flock. Just as a soldier serves in the army, it is only fair that the minister should be supported and not burdened with self-sustenance. The minister devotes their life to instructing, warning, guiding, comforting, and tending to the needs of others. It is right and just that those who benefit from their labor should provide for their temporal needs and compensate their efforts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.8513375708893447,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                29.83,
+                33.85,
+                36.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The minister of the gospel is beautifully compared to a soldier, vine-dresser, and shepherd. Like a soldier, the minister contends with the world, plants churches, and cares for the flock. The work of the ministry is as challenging and self-denying as that of a soldier. Therefore, it is only fair that the minister is sustained and not required to support themselves. The minister's role includes instructing, warning, guiding, comforting, and tending to the needs of others. Those who benefit from their labor should minister to their temporal needs and compensate them for their efforts.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7722768272227691,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                32.02,
+                31.86,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The minister of the gospel is compared to a soldier, a vine-dresser, and a shepherd. Like a soldier, the minister contends with the world, plants churches, and exercises pastoral care. The work of the ministry is as arduous, self-denying, and dangerous as that of a soldier. It is only fair that the minister should be sustained and not be burdened with supporting themselves. The minister watches for the good of souls, instructs the ignorant, warns and secures those in danger, guides the perplexed, and comforts the afflicted. It is right and just that those who benefit from the minister's efforts should minister to their temporal needs and compensate them for their labor.",
+            "wordCount": 115,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.9096029646507284,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.84,
+            "commentatorTierSimilarities": [
+                30.22,
+                33.63,
+                36.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

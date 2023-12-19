@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:36:17",
+    "verseRef": "Acts 25:5",
+    "bestBHT": {
+        "bht": "Let the leading men who are able go down and accuse this man, for they are the powerful ones among you, best calculated to represent the public interests. This fair proposal reflects his commitment to be an upright judge, acting according to the truth of the matter rather than being swayed by false reports. By granting them the opportunity to choose those who can manage the cause and bear the expenses, he ensures a just trial for Paul, unburdening them of any absurd demands.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.610818241222335,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+        "commentatorTierSimilarities": [
+            42.13,
+            19.47,
+            38.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Powerful among you: those who from their position and influence are best calculated to represent the public interests."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. Let them . . . which among you",
+            "\tare able, go down\u2014\"your leading men."
+        ],
+        "Albert Barnes": [
+            "Enjoy all the advantages of just trial, and exhibit your accusations with all the learning and talent in your power.",
+            "This was all that they could reasonably ask at his hands.",
+            "Which among you are able."
+        ],
+        "John Calvin": [
+            "Therefore, lest they complain that he is burdenous unto them, he unloadeth them of this necessity, and giveth them leave to choose out from among themselves such as they will.",
+            "he doth sufficiently declare that he doth not believe their false reports; and he professeth that he will be an upright judge, and will do nothing but according to the truth of the matter.",
+            "though he stayed long enough at Jerusalem to hear the matter, yet did he not hearken to their requests, who would have Paul brought thither; whence we may gather a probable conjecture, that he already knew of their laying await."
+        ],
+        "Philip Schaff": [
+            "Let them therefore, said he, which among you are able, go down with me.",
+            "This best reproduces the force of the Greek words \u03bf\u03b9 \u0314 \u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03af.",
+            "if there be any real grounds upon which he, as a Roman, ought to be again formally tried."
+        ],
+        "Archibald T. Robertson": [
+            "The mighty ones among you, the men of power and authority.",
+            "It was a fair proposal.",
+            "Assuming that there is, but not committing himself on the merits of the case."
+        ],
+        "John Gill": [
+            "Let them therefore... accuse this man.\" ",
+            "Who are able to bear the expenses.",
+            "Anything that is absurd and unreasonable."
+        ],
+        "John Wesley": [
+            "Let those of you who are able \u2014 Who are best able to undertake the journey, and to manage the cause.",
+            "If there be any wickedness in him \u2014 So he does not pass sentence before he hears the cause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let the men of power and authority among you, who are best able to represent the public interests, go down and accuse this man. This proposal was fair and demonstrated that he, as a judge, would not immediately believe their false reports but would be an upright judge, acting according to the truth of the matter. By unloading them of the burden of bringing Paul to Jerusalem, he showed that he was not swayed by their unreasonable requests and absurd accusations. Instead, he granted them the opportunity to choose those who would bear the expenses and manage the cause, ensuring a just trial for Paul.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.503265518120998,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.33,
+            "commentatorTierSimilarities": [
+                32.17,
+                23.58,
+                44.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let the men of power and authority among you, who are best able to represent the public interests, go down and accuse this man. This proposal was fair and demonstrated that he, as a judge, would not immediately believe their false reports but would be an upright judge, acting according to the truth of the matter. By unloading them of the burden of bringing Paul to Jerusalem, he showed that he was not swayed by their unreasonable requests.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5066546444252449,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.44,
+            "commentatorTierSimilarities": [
+                36.26,
+                24.11,
+                39.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let the men of power and authority among you, who are best able to represent the public interests, go down and accuse this man. This fair proposal shows that he, as a judge, will be an upright judge, acting according to the truth of the matter. By unloading them of the burden of bringing Paul to Jerusalem, he demonstrates that he is not swayed by their unreasonable requests.",
+            "wordCount": 68,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.4996240175300302,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.21,
+            "commentatorTierSimilarities": [
+                36.78,
+                23.26,
+                39.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let the leading men who are able go down and accuse this man, for they are the powerful ones among you, best calculated to represent the public interests. This fair proposal reflects his commitment to be an upright judge, acting according to the truth of the matter rather than being swayed by false reports. By granting them the opportunity to choose those who can manage the cause and bear the expenses, he ensures a just trial for Paul, unburdening them of any absurd or unreasonable demands.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.596480479182889,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.43,
+            "commentatorTierSimilarities": [
+                41.46,
+                19.67,
+                38.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let the leading men who are able go down and accuse this man, for they are the powerful ones among you, best calculated to represent the public interests. This fair proposal reflects his commitment to be an upright judge, acting according to the truth of the matter rather than being swayed by false reports. By granting them the opportunity to choose those who can manage the cause and bear the expenses, he ensures a just trial for Paul, unburdening them of any absurd demands.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.610818241222335,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                42.13,
+                19.47,
+                38.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

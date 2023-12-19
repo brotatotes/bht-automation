@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:25:51",
+    "verseRef": "Acts 3:11",
+    "bestBHT": {
+        "bht": "The scene is vividly brought before us as the lame man, holding firmly onto Peter and John, clung to them out of gratitude and fear that he might be separated from them in the crowd. He was filled with wonder as he stood, walked, and leaped, and the people, excited by curiosity, gathered together in the porch that is called Solomon's to witness the miraculous healing. The details of the scene not only prepare the people to listen with reverence to Peter's words but also testify to the power and compassion of his benefactors.",
+        "wordCount": 96,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8599928162986403,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+        "commentatorTierSimilarities": [
+            25.8,
+            33.97,
+            40.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The lame man was holding Peter and John, physically: not spoken of mental adhesion, but of actual holding by the hand or arm, that he might not be separated from them in the crowd.",
+            "That he might testify to all, who his benefactors were.",
+            "The porch that is called Solomon\u2019s."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is human nature.",
+            "How vividly do these graphic details bring the whole scene before us!",
+            "Prepared them to listen with reverence to his words."
+        ],
+        "Albert Barnes": [
+            "He clung to his benefactors, and would not be separated from them.",
+            "Excited by curiosity, they came together.",
+            "This 'porch' was a covered way or passage on the east side of the temple. It was distinguished for its magnificence."
+        ],
+        "Marvin Vincent": [
+            "The lame man which was healed. The best texts omit. Render as he held.",
+            "Held [\u03ba\u03c1\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03bf\u03c2]. Held them firmly, took fast hold. The verb from kratov, strength.",
+            "Greatly wondering [\u03b5\u03ba\u03b8\u03b1\u03bc\u03b2\u03bf\u03b9]. Wondering out of measure [\u03b5\u03ba]. Compare wonder. (ver. 10)."
+        ],
+        "John Calvin": [
+            "It is like that there was a porch built in that place where Solomon\u2019s porch was sometimes, and that it took the name therefrom.",
+            "That vain cost which he had bestowed had not yet blotted out the remembrance of Solomon in the hearts of the people.",
+            "Luke nameth the same as a most famous place, whereunto the people ran together (by heaps, to celebrate their feasts unto God at the times appointed)."
+        ],
+        "Philip Schaff": [
+            "That is, while he was holding them fast or keeping near them (see De Wette), perhaps, as Alford suggests, in the ardour of his gratitude, that he might testify to all who his benefactors were.",
+            "The embankment was the work of King Solomon, hence, perhaps, the name, and the cloister was restored on the original plan.",
+            "It was here, in winter-time, at the feast of Dedication, that Jesus walked when the Jews took up stones to stone Him."
+        ],
+        "Archibald T. Robertson": [
+            "Perhaps out of gratitude and partly from fear.",
+            "The adjective Stoic (\u03c3\u03c4\u03bf\u03b9\u03ba\u03bf\u03c2) is from this word \u03c3\u03c4\u03bf\u03b1 (porch).",
+            "Wondering out of (\u03b5\u03ba) measure, already filled with wonder."
+        ],
+        "John Gill": [
+            "And as the lame man which was healed,.... This is left out in the Vulgate Latin, Syriac, and Ethiopic versions, and in the Alexandrian copy, which only read, and as he held Peter and John...\" (Acts 3:11) ",
+            "by their clothes or arms, either through fear, lest his lameness should return on their leaving him; or rather out of affection to them for the favour he had received, and therefore hung about them, and was loath to part with them...\" (Acts 3:11)",
+            "all the people ran together unto them; to the man that was healed, and to Peter and John, when they saw him standing, walking, and leaping, and clinging about the apostles...\" (Acts 3:11)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene is vividly brought before us as the lame man, holding firmly onto Peter and John, clung to them out of gratitude and fear that he might be separated from them in the crowd. He was filled with wonder as he stood, walked, and leaped, and the people, excited by curiosity, gathered together in the porch that is called Solomon's to witness the miraculous healing. This magnificent porch, restored on the original plan, was a place of great significance, where Jesus Himself had walked during the feast of Dedication. The details of the scene not only prepare the people to listen with reverence to Peter's words but also testify to the power and compassion of his benefactors.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.8313379169871762,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.23,
+            "commentatorTierSimilarities": [
+                22.25,
+                36.99,
+                40.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scene is vividly brought before us as the lame man, holding firmly onto Peter and John, clung to them out of gratitude and fear that he might be separated from them in the crowd. He was filled with wonder as he stood, walked, and leaped, and the people, excited by curiosity, gathered together in the porch that is called Solomon's to witness the miraculous healing. The details of the scene not only prepare the people to listen with reverence to Peter's words but also testify to the power and compassion of his benefactors.",
+            "wordCount": 96,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8599928162986403,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                25.8,
+                33.97,
+                40.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lame man, out of gratitude and fear, clung to Peter and John, not wanting to be separated from them in the crowd. Filled with wonder, the people gathered in the porch called Solomon's, which was restored to its original plan and held great significance. This scene with its graphic details not only prepared the people to listen with reverence to Peter's words but also testified to the power and compassion of his benefactors.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.7637606017215908,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.99,
+            "commentatorTierSimilarities": [
+                22.88,
+                33.33,
+                43.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The miraculous healing evoked strong emotions from the lame man, who held onto Peter and John out of gratitude and fear of being separated. The crowd in the porch called Solomon's was drawn together by curiosity, fascinated by the scene unfolding before them. This covered passage, once part of the temple and restored on the original plan, held great significance. The vivid details of this event showcased the power of the benevolent apostles and prepared the crowd to listen with reverence to their words.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6816768810001796,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                25.26,
+                36.55,
+                38.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The healed lame man clung firmly to Peter and John, not wanting to be separated from them in the crowd. The scene was filled with wonder as the people gathered in the porch called Solomon's, a place of great significance. This vivid portrayal of the event showcased the benevolence of the apostles and prepared the crowd to listen with reverence to their words. The details of this memorable moment served as a testimony to the power and compassion of Peter and John as his benefactors.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7046210286028232,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.02,
+            "commentatorTierSimilarities": [
+                24.9,
+                31.28,
+                43.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

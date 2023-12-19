@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:30:45",
+    "verseRef": "Acts 13:23",
+    "bestBHT": {
+        "bht": "According to God's promise, Jesus, the Savior, was raised up from the seed of David, fulfilling the prophecies from 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah. By emphasizing Jesus' descent from David and his role as the Savior, the name Jesus expresses his purpose and character. This fulfillment of God's promise confirms that Jesus is the true Messiah, foretold from the beginning and sent in the fullness of time to bring salvation to humanity.",
+        "wordCount": 75,
+        "quoteTokenProportion": 30.61,
+        "qualityScore": 2.246694625216494,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.04,
+        "commentatorTierSimilarities": [
+            31.63,
+            30.5,
+            37.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Hath God according to promise brought...",
+            "the promise in Zech. iii. 8...",
+            "not however excluding the many other promises to the same effect."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Of this man's seed hath God, according to . . . promise, raised unto Israel a Saviour, Jesus\u2014The emphasis on this statement lies: (1) in the seed from which Christ sprang\u2014David's\u2014and the promise to that effect, which was thus fulfilled.",
+            "on the character in which this promised Christ was given of God\u2014\"a SAVIOUR.\" His personal name \"JESUS\" is emphatically added, as designed to express that very character.",
+            "His personal name 'JESUS' is emphatically added, as designed to express that very character."
+        ],
+        "Albert Barnes": [
+            "Of this man\u2019s seed - Of his posterity.",
+            "According to his promise - See the notes on Acts 2:30.",
+            "Raised unto Israel - See the notes on Acts 2:30.",
+            "A Saviour, Jesus - See the notes on Matthew 1:21."
+        ],
+        "John Calvin": [
+            "In sending Christ, the Lord had respect only unto his own faithfulness and goodness; for he sent him because he had promised so to do.",
+            "It appeareth by this that Christ came not at a sudden, of whom there was never anything spoken; but that he who was promised from the beginning was now given in his time.",
+            "Christ is indeed and doth perform that which the name given him by God, by the voice of the angel, doth import."
+        ],
+        "Philip Schaff": [
+            "Unless He were descended from David, Jesus could not be the Messiah foretold by the prophets.",
+            "God, according to his promise, raised unto Israel a Saviour, Jesus.",
+            "Instead of the word translated 'raised' (unto Israel), the word contained in the older Mss. here signifies 'brought' (unto Israel)."
+        ],
+        "Archibald T. Robertson": [
+            "Of this man's seed... Of this one from the (his) seed.",
+            "According to promise... See the promise in 2 Samuel 7:2; Psalms 132:11; Isaiah 11:1; Isaiah 11:10; Jeremiah 23:5; Zechariah 3:8.",
+            "A Saviour Jesus... Paul goes no further than David because he suggests to him Jesus, descendant in the flesh from David."
+        ],
+        "John Gill": [
+            "As God had promised that the Messiah should spring out of David's loins, so in the fulness of time he had sent him, or caused him to come by the assumption of human nature.\" ",
+            "This Saviour, Jehovah, in his infinite wisdom, found, and in his purposes appointed him to be his salvation, and in his covenant provided and settled him as such.",
+            "The first promise of a Saviour was made to our first parents, under the character of the seed of the woman; he was next promised to Abraham, that he should be of his seed; and then to Judah, that he should be of his tribe; and after that to David, that he should be of his family; and all this has been fulfilled in Jesus of Nazareth, the true Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "According to the promise God made, Jesus, the Savior, was raised up from the seed of David. This promise had been foretold in various scriptures, including 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah. By emphasizing Jesus' descent from David and his role as the Savior, the name Jesus expresses his purpose and character. It is through this fulfillment of God's promise that Jesus, the Messiah, was sent to bring salvation. He is the true Savior who was foretold from the beginning and sent in the fullness of time as the seed of the woman, of Abraham, of Judah, and of David.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.2596482550833645,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.47,
+            "commentatorTierSimilarities": [
+                31.65,
+                30.37,
+                37.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God fulfilled His promise by raising up Jesus, the Savior, from the seed of David. This promise had been foretold in various scriptures, including 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah. The name Jesus was emphasized to express His character as the Savior. It is through this fulfillment of God's promise that Jesus, the Messiah, was sent to bring salvation. He is the true Savior sent in the fullness of time, fulfilling the promises made to Adam and Eve, Abraham, Judah, and David.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2228021105473714,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                32.32,
+                30.05,
+                37.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "According to God's promise, Jesus, the Savior, was raised up from the seed of David, fulfilling the prophecies from 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah. By emphasizing Jesus' descent from David and his role as the Savior, the name Jesus expresses his purpose and character. This fulfillment of God's promise confirms that Jesus is the true Messiah, foretold from the beginning and sent in the fullness of time to bring salvation to humanity.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.246694625216494,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.04,
+            "commentatorTierSimilarities": [
+                31.63,
+                30.5,
+                37.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God fulfilled his promise by raising up Jesus, the Savior, from David's seed. This promise, found in 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah, emphasized Jesus' descent from David and his character as a Savior. The name Jesus was specifically chosen to express this purpose. Through the fulfillment of these promises, Jesus, the Messiah, was sent as the true Savior, foretold from the beginning and born in the fullness of time.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.23223468794741,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.56,
+            "commentatorTierSimilarities": [
+                33.17,
+                29.99,
+                36.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, according to His promise, raised up Jesus as a Savior from the seed of David. This promise relates to the prophecy in 2 Samuel, Psalms, Isaiah, Jeremiah, and Zechariah. Jesus, the Savior, fulfilled the promise by being the descendant of David. The name Jesus emphasizes His role as a Savior. This fulfillment confirms that Jesus is the true Messiah, foretold from the beginning, and sent in the fullness of time to bring salvation.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.239966479634548,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.82,
+            "commentatorTierSimilarities": [
+                32.56,
+                32.57,
+                34.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

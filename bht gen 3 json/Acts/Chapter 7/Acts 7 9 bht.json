@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:27:17",
+    "verseRef": "Acts 7:9",
+    "bestBHT": {
+        "bht": "Here we see the first instance of Israel's rebellious spirit, as the patriarchs were driven by envy to sell Joseph into Egypt. Stephen uses this example to showcase Israel's opposition to God's purposes, which were ultimately accomplished through Joseph's suffering. Joseph's brothers were dissatisfied with their father's favoritism and envious of Joseph's dreams. However, God was with Joseph, protecting and prospering him even in the midst of his trials. This serves as a reminder that God's presence is not limited to a specific location or circumstance.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 2.0390252375611295,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+        "commentatorTierSimilarities": [
+            29.81,
+            34.07,
+            36.12
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] Here we have the first hint of the rebellious spirit in Israel, which the progress of the history brings out."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the patriarchs, moved with envy, sold Joseph into Egypt, but God was with him",
+            "Stephen gives his first example of Israel's opposition to God's purposes, in spite of which and by means of which those purposes were accomplished."
+        ],
+        "Albert Barnes": [
+            "Moved with envy - That is, dissatisfied with the favor which their father Jacob showed Joseph, and envious at the dreams which indicated that he was to be raised to remarkable honor above his parents and brethren.\" ",
+            "Sold Joseph into Egypt - Sold him, that he might be taken to Egypt. This was done at the suggestion of 'Judah,' who advised it that Joseph might not be put to death by his brethren.",
+            "But God was with him - God protected him, and overruled all these wicked doings, so that he was raised to extraordinary honors."
+        ],
+        "Marvin Vincent": [
+            "Moved with envy [\u03b6\u03b7\u03bb\u03c9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . Compare James 4:1; and see on envying, James 3:14."
+        ],
+        "John Calvin": [
+            "Now followeth the greatest wickedness of the nation of Israel, that they conspired together to oppress their innocent brother, which cruelty is contrary to nature.",
+            "God was not so with him that he did always show forth his power in helping him. Surely, it must needs be that he was in great heaviness when, being destitute of all help, he suffered reproach also together with bonds and the punishment of an ungodly and wicked man.",
+            "Furthermore, we ought to remember this every now and then, that Joseph was not delivered because he had called upon God in the temple but afar off in Egypt."
+        ],
+        "Philip Schaff": [
+            "The sons of Jacob received the title of 'patriarchs' as being the ancestors of the twelve tribes."
+        ],
+        "Archibald T. Robertson": [
+            "Moved with jealousy...to burn or boil with zeal.\" ",
+            "\u03b6\u03b7\u03bb\u03c9\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2: to burn or boil with zeal, and then with envy.\" ",
+            "Driven by envy, as here (Acts 17:5, etc.) and Genesis 37:11."
+        ],
+        "John Gill": [
+            "And the patriarchs, moved with envy... sold Joseph into Egypt...\" ",
+            "There seems to be some likeness between the treatment of Joseph and Jesus Christ...",
+            "But God was with him; he was with him, and prospered him... caused all the evil that befell him to work for good..."
+        ],
+        "John Wesley": [
+            "But God was with him \u2014 Though he was not in this land. Genesis 37:28."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Here we are given a glimpse into Israel's rebellious spirit, as the patriarchs were moved by envy and sold Joseph into Egypt. Stephen presents this as the first example of Israel opposing God's purposes, even though it ultimately served to fulfill those very purposes. Joseph's brothers were dissatisfied with the favor shown to him by their father and envious of the dreams that indicated his future honor. Yet, God was with Joseph, protecting him and using these wicked deeds to raise him to extraordinary honor. We must remember that God's presence was not limited to the temple or a specific place, as Joseph experienced his trials and triumphs far away in Egypt.",
+            "wordCount": 116,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 2.1610449574428676,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+            "commentatorTierSimilarities": [
+                29.97,
+                35.18,
+                34.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Here we see the first instance of Israel's rebellious spirit, as the patriarchs were driven by envy to sell Joseph into Egypt. Stephen uses this example to showcase Israel's opposition to God's purposes, which were ultimately accomplished through Joseph's suffering. Joseph's brothers were dissatisfied with their father's favoritism and envious of Joseph's dreams. However, God was with Joseph, protecting and prospering him even in the midst of his trials. This serves as a reminder that God's presence is not limited to a specific location or circumstance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0390252375611295,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                29.81,
+                34.07,
+                36.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Here we see the first instance of Israel's rebellious spirit, as the patriarchs were moved with envy to sell Joseph into Egypt. Stephen presents this as an example of Israel opposing God's purposes, although it ultimately served to fulfill them. Joseph's brothers were dissatisfied with their father's favoritism and envious of Joseph's dreams. Yet, despite their wicked actions, God was with Joseph, protecting and prospering him. This serves as a reminder that God's presence is not limited to a specific place or circumstance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.035885151182916,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                30.73,
+                32.61,
+                36.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Acts 7:9, we witness the first signs of Israel's rebellious spirit as the patriarchs, moved with envy, sold Joseph into Egypt. Despite their opposition, God was with Joseph, guiding and protecting him throughout his journey. Joseph's brothers were dissatisfied with their father's favoritism and envious of his dreams. However, these wicked actions served a greater purpose in fulfilling God's plan. This highlights the reminder that God's presence is not confined to specific locations but extends to all circumstances.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9054255988743587,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                31.05,
+                32.57,
+                36.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen's example of the patriarchs being moved by envy to sell Joseph into Egypt reveals Israel's rebellious spirit. Despite their opposition, God's presence was evident as He was with Joseph, protecting and prospering him. Joseph's brothers were dissatisfied with their father's favoritism and envious of his dreams. However, these wicked actions ultimately served God's purposes. This serves as a powerful reminder that God's presence transcends specific locations and circumstances.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.9058057474054726,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.71,
+            "commentatorTierSimilarities": [
+                31.47,
+                32.42,
+                36.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

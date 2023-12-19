@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:28:18",
+    "verseRef": "1 Timothy 3:14",
+    "bestBHT": {
+        "bht": "Paul's hope to visit Timothy shortly in his letter reflects the urgency and importance of its contents. The phrase shortly emphasizes the need for timely instructions for church leadership. Despite uncertainty, Paul recognizes the value of written communication, providing practical guidance for bishops and deacons. This epistle informs Timothy of these roles and qualifications, highlighting the relevance of written teaching. Its purpose is to equip Timothy for his role as an evangelist, demonstrating the significance of Paul's guidance for both Timothy and the church.",
+        "wordCount": 86,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.7193162371243749,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+        "commentatorTierSimilarities": [
+            30.17,
+            17.19,
+            52.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Though I hope to come unto thee shortly.",
+            "He now proceeds to give more general instructions to him as an evangelist, having a 'gift' committed to him.",
+            "This verse best suits the theory that this First Epistle was not written after Paul's visit and departure from Ephesus... but after his first imprisonment at Rome."
+        ],
+        "Albert Barnes": [
+            "This verse proves that the apostle Paul did not regard Timothy as the permanent diocesan bishop of Ephesus.",
+            "Would any Episcopal bishop write this to another bishop?",
+            "If Timothy were the permanent prelate of Ephesus, would Paul have intimated that he expected soon to come and take the work of completing the arrangements there into his own hands?"
+        ],
+        "Marvin Vincent": [
+            "Shortly [\u03b5\u03bd \u03c4\u03b1\u03c7\u03b5\u03b9] . The adverbial phrase once in Paul, Romans 16:20 : only here in Pastorals. Several times in Luke and Acts, and twice in Revelation. 105"
+        ],
+        "John Calvin": [
+            "He fully expected that he would come, as it is probable that he came, if he wrote this epistle at the time when he passed through Phrygia, as is related by Luke.\" ",
+            "Let us look on this as a proof how great was his anxiety for the churches, when he could not endure to delay for a short time a remedy for a present evil.",
+            "Yet immediately afterwards he adds, that he wrote this epistle for the purpose of informing Timothy, if it should happen that he were delayed longer than he thought."
+        ],
+        "Philip Schaff": [
+            "Shortly. Literally, \u2018sooner\u2019 than was expected.",
+            "He could not tell whether it will be possible.",
+            "We cannot tell whether it was carried into effect."
+        ],
+        "Archibald T. Robertson": [
+            "A pseudonymous writer would hardly have put in this phrase.",
+            "Paul's hopes were not to be realized, but he did not know that.",
+            "Paul's hopes were not to be realized, but he did not know that."
+        ],
+        "John Gill": [
+            "These things write I unto thee\" - This quote emphasizes the purpose of the letter, emphasizing that Paul is instructing Timothy on the qualifications and roles of bishops and deacons. It shows the practical nature of this epistle, providing guidance for church leadership.",
+            "Hoping to come unto thee shortly\" - This quote reveals Paul's desire to visit Timothy in Ephesus. It reflects the strong bond and personal relationship between the two. Paul's intention to meet in person adds a sense of urgency and importance to the letter's contents.",
+            "He thought fit to write the above things for his instruction and use\" - This quote underscores the practicality and relevance of the letter's instructions. Paul acknowledges the value of written communication in order to provide guidance, even if he is uncertain of being able to visit Timothy. This demonstrates the importance of written teaching for the benefit of both Timothy and the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his letter to Timothy, expresses his hope to visit him shortly. This reflects the strong bond and personal relationship between the two, as well as Paul's desire to provide further instructions and guidance to Timothy as an evangelist. The adverbial phrase shortly emphasizes the urgency and importance of the letter's contents. Despite the uncertainty of whether he will be able to fulfill this hope, Paul acknowledges the value of written communication in order to provide practical guidance for the church leadership. This epistle serves the purpose of informing Timothy about the qualifications and roles of bishops and deacons, highlighting the relevance and necessity of written teaching for the benefit of both Timothy and the church.",
+            "wordCount": 119,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.739300106186322,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                30.94,
+                16.62,
+                52.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, in his letter to Timothy, expresses his hope to visit him shortly. This reflects Paul's desire to provide further instructions and guidance to Timothy as an evangelist. The adverbial phrase shortly emphasizes the urgency and importance of the letter's contents. Despite the uncertainty of whether he will be able to fulfill this hope, Paul acknowledges the value of written communication in order to provide practical guidance for the church leadership. This epistle serves the purpose of informing Timothy about the qualifications and roles of bishops and deacons, highlighting the relevance and necessity of written teaching for the benefit of both Timothy and the church.",
+            "wordCount": 107,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7738889277277423,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.32,
+            "commentatorTierSimilarities": [
+                31.45,
+                17.31,
+                51.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his letter to Timothy, expresses his hope to visit him shortly. This reflects the urgency and importance of the letter's contents. Despite uncertainty, Paul acknowledges the value of written communication, providing practical guidance for church leadership. This epistle informs Timothy of the qualifications and roles of bishops and deacons, emphasizing the relevance and necessity of written teaching for both Timothy and the church.",
+            "wordCount": 66,
+            "quoteTokenProportion": 23.26,
+            "qualityScore": 1.6520874515280908,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                29.34,
+                18.28,
+                52.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's hope to visit Timothy shortly in his letter reflects the urgency and importance of its contents. The phrase shortly emphasizes the need for timely instructions for church leadership. Despite uncertainty, Paul recognizes the value of written communication, providing practical guidance for bishops and deacons. This epistle informs Timothy of these roles and qualifications, highlighting the relevance of written teaching. Its purpose is to equip Timothy for his role as an evangelist, demonstrating the significance of Paul's guidance for both Timothy and the church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7193162371243749,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                30.17,
+                17.19,
+                52.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's hope to visit Timothy shortly in his letter emphasizes the urgency and importance of its contents. The phrase shortly highlights the need for timely instructions, demonstrating the relevance of the written teaching provided. Paul acknowledges the value of written communication by providing practical guidance for church leadership. This letter serves to inform Timothy about the qualifications and roles of bishops and deacons, equipping him for his role as an evangelist. The instructions given reflect the significance of Paul's guidance for both Timothy and the church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.716427703431658,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                29.91,
+                16.87,
+                53.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

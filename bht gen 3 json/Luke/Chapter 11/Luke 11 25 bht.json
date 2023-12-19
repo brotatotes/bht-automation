@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:18:00",
+    "verseRef": "Luke 11:25",
+    "bestBHT": {
+        "bht": "The Jewish nation during the time of Christ's death and the destruction of Jerusalem exemplifies a situation where a place may be externally reformed and adorned, yet devoid of goodness within. Despite outward appearances, they were filled with wrath and fury against Christ and his Gospel, making them a fitting dwelling place for Satan. This serves as a reminder that true righteousness extends beyond mere external acts and requires a genuine transformation of the heart.",
+        "wordCount": 76,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.5583323965739637,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "He found it empty of all goodness, notwithstanding all the sweeping and garnish of an outward reformation.",
+            "Heated with wrath and fury against Christ, and his Gospel, and so was prepared and fitted to be a proper habitation for Satan.",
+            "In such a case as this was the Jewish nation from the time of Christ's death to the destruction of Jerusalem."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes a situation where a particular place has been made outwardly clean and beautiful, but is still lacking goodness internally. This is likened to the Jewish nation during the time of Christ's death and the destruction of Jerusalem, who showed an external religious zeal but harbored anger and opposition towards Christ and his Gospel. Despite their efforts to appear righteous, they were actually prepared to be a dwelling place for Satan. So, this verse serves as a cautionary reminder that true goodness comes from within, not just from outward appearances.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.3176981649521615,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jewish nation during the time of Christ's death and the destruction of Jerusalem serves as an example of a place that appeared externally clean and beautiful but lacked internal goodness. Despite their outward reformation, they were filled with anger and opposition towards Christ and his Gospel, making them a suitable dwelling place for Satan. This highlights the importance of not just focusing on outward appearances, but also cultivating genuine goodness from within.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.5289673639092463,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jewish nation during the time of Christ's death and the destruction of Jerusalem serves as an example of a place that appeared externally clean and beautiful, but lacked goodness internally. Despite their outward reformation, they harbored fury against Christ and his Gospel, making them a suitable habitation for Satan. This reminds us of the importance of not just focusing on external appearances, but also cultivating genuine goodness within ourselves.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.4530566648756296,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite the sweeping and garnish of external reformation, the Jewish nation during the time of Christ's death and the destruction of Jerusalem was empty of all goodness. Filled with wrath and fury against Christ and his Gospel, they became a fitting habitation for Satan. This serves as a cautionary example, reminding us that true righteousness cannot be achieved through mere outward appearances. Instead, we should prioritize cultivating inner goodness that stems from a genuine transformation of the heart.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.4733823364063534,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.33,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jewish nation during the time of Christ's death and the destruction of Jerusalem exemplifies a situation where a place may be externally reformed and adorned, yet devoid of goodness within. Despite outward appearances, they were filled with wrath and fury against Christ and his Gospel, making them a fitting dwelling place for Satan. This serves as a reminder that true righteousness extends beyond mere external acts and requires a genuine transformation of the heart.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5583323965739637,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.16,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

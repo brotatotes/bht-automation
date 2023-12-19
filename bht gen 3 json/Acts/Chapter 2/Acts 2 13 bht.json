@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:24:59",
+    "verseRef": "Acts 2:13",
+    "bestBHT": {
+        "bht": "These men are mocking, accusing the disciples of being intoxicated with new wine. The term used for new wine refers to a sweet, intoxicating wine made from small grapes. Those who were mocking sought to belittle the spiritual manifestations of the Holy Spirit's power by attributing them to mere drunkenness. Such mockery has often hindered people from embracing faith, using derision as a means to deter rather than engage in honest discourse. However, these mockers fail to recognize that what fills the disciples is not physical wine, but rather the spiritual wine of the Holy Spirit's gifts.",
+        "wordCount": 99,
+        "quoteTokenProportion": 43.06,
+        "qualityScore": 1.8413691297604187,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+        "commentatorTierSimilarities": [
+            29.0,
+            35.98,
+            35.03
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Sweet wine, not necessarily new wine: perhaps made of a remarkably sweet small grape\" (Commentary)",
+            "Jewish expositors to be meant in Gen. xlix. 11; Isa. v. 2; Jer. ii. 21\" (Commentary)",
+            "Suidas interprets it 'that which oozes out of the grapes before they are pressed'\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "There has seldom been a revival of religion, a remarkable manifestation of the power of the Holy Spirit, that has not given occasion for profane mockery and merriment.",
+            "Derision, and mockery, and a jeer, have been far more effectual in deterring people from becoming Christians than any attempts at sober argument.",
+            "When people fail in argument, it is common to attempt to confute a doctrine or bring reproach upon a transaction by 'giving it an ill name.'"
+        ],
+        "Marvin Vincent": [
+            "Others [\u03b5\u03c4\u03b5\u03c1\u03bf\u03b9] . Of a different class.",
+            "Mocking (diacleuazontev; so the best texts). From cleuh, a joke.",
+            "New wine [\u03b3\u03bb\u03b5\u03c5\u03ba\u03bf\u03c5\u03c2] . Lit., 'sweet wine.' Of course intoxicating."
+        ],
+        "Archibald T. Robertson": [
+            "Mocking (\u03b4\u03b9\u03b1\u03c7\u03bb\u03b5\u03c5\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2). Old verb, but only here in the N.T., though the simple verb (without \u03b4\u03b9\u03b1) in Acts 17:32. \u03a7\u03bb\u03b5\u03c5\u03b7 means a joke.",
+            "With new wine (\u03b3\u03bb\u03b5\u03c5\u03ba\u03bf\u03c5\u03c2). Sweet wine, but intoxicating. Sweet wine kept a year was very intoxicating.",
+            "Tanked up with new wine, state of fulness."
+        ],
+        "John Gill": [
+            "These men are full of new wine; a very foolish and impertinent cavil this... men generally lose their tongues by intemperance.",
+            "They were indeed filled with wine, but not with wine, the juice of the grape, either new or old; but with spiritual wine, with the gifts of the Spirit of God.",
+            "They might hope this insinuation, that they were drunk with wine, would take and be received, since it was a feasting time, the feast of Pentecost."
+        ],
+        "John Wesley": [
+            "The world begins with mocking.",
+            "These mockers appear to have been some of the natives of Judea, and inhabitants of Jerusalem.",
+            "Thus natural men are wont to ascribe supernatural things to mere natural causes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These men are mocking, accusing the disciples of being intoxicated with new wine. The term used for new wine refers to a sweet, intoxicating wine made from small grapes. Those who were mocking sought to belittle the spiritual manifestations of the Holy Spirit's power by attributing them to mere drunkenness. Such mockery has often hindered people from embracing faith, using derision as a means to deter rather than engage in honest discourse. However, these mockers fail to recognize that what fills the disciples is not physical wine, but rather the spiritual wine of the Holy Spirit's gifts.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 1.8413691297604187,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                29.0,
+                35.98,
+                35.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These men, accused of being filled with new wine, were actually being mocked for their spiritual manifestations. The term new wine refers to a sweet and intoxicating drink made from small grapes. The mockers aimed to discredit the disciples by attributing their behavior to mere drunkenness. This form of ridicule has historically hindered the acceptance of faith, often eclipsing sincere discussions. However, they failed to recognize that the disciples were filled not with physical wine, but with the spiritual wine of the Holy Spirit's gifts.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.7200451437570852,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.53,
+            "commentatorTierSimilarities": [
+                28.4,
+                35.31,
+                36.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These men were mocking the disciples, accusing them of being filled with new wine. The term new wine refers to a sweet and intoxicating drink made from small grapes. The mockers sought to belittle the spiritual manifestations of the Holy Spirit's power by attributing them to mere drunkenness. Such derision has often deterred people from embracing faith instead of engaging in meaningful discussions. However, they failed to realize that what truly filled the disciples was not physical wine, but the spiritual wine of the Holy Spirit's gifts.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.740763871639853,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                28.37,
+                35.38,
+                36.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Accusing the disciples of being intoxicated with new wine, these mockers aimed to diminish the spiritual manifestations of the Holy Spirit's power. The term new wine refers to a sweet and intoxicating drink made from small grapes. By mocking and jeering, they attempted to discredit the disciples and hinder the acceptance of faith. However, they failed to recognize that the disciples were filled with the spiritual wine of the Holy Spirit's gifts, rather than mere physical intoxication.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.7120349498766556,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.27,
+            "commentatorTierSimilarities": [
+                29.33,
+                35.24,
+                35.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These mockers accused the disciples of being filled with new wine, seeking to belittle the spiritual manifestations of the Holy Spirit's power. Referring to a sweet and intoxicating drink made from small grapes, the term new wine was used to mock the disciples' behavior. Such derision has often deterred individuals from embracing faith, using ridicule as a means to discredit rather than engage. However, these mockers failed to recognize that the disciples were filled not with physical wine, but with the spiritual wine of the Holy Spirit's gifts.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.817580791148298,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                25.89,
+                38.37,
+                35.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

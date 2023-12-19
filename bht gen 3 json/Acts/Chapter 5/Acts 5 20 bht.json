@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:26:48",
+    "verseRef": "Acts 5:20",
+    "bestBHT": {
+        "bht": "The apostles were commanded to boldly proclaim all the words of this life, referring to the teachings of Jesus and the eternal life he revealed. This phrase counters the Sadducees, who deny the resurrection and this future life. The apostles' deliverance wasn't for them to remain silent or deny Christ, but to continue preaching in the temple, offering the gospel of salvation and eternal life. Their obedience displayed unwavering commitment to God, even in the face of danger and persecution.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.089557195811133,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+        "commentatorTierSimilarities": [
+            26.88,
+            32.5,
+            40.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "all the words of this life, an unusual expression, seems to refer to the peculiar nature of the enmity shown towards them by the Sadducees, for preaching the resurrection unto life: as if it were said, 'all the words of this LIFE,' which they call in question.",
+            "Or perhaps the expression may import, that the religion of Jesus had its issue in life.",
+            "The deliverance, here granted to all the Apostles, was again vouchsafed to Peter in ch. xii., and is there related more in detail."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. all the words of this",
+            "\tlife\u2014beautiful expression for that Life in the Risen One which",
+            "\twas the burden of their preaching!"
+        ],
+        "Albert Barnes": [
+            "In this way there would be a most striking exhibition of their boldness; a proof that 'God' had delivered them, and a manifestation of their purpose to obey God rather than man.",
+            "All the words - All the doctrines. Compare John 6:68, 'Thou hast the words of eternal life.'",
+            "God delivers us from dangers sometimes that we may plunge 'into' new dangers; he preserves us from one form of calamity that we may be tried in some new furnace of affliction; he calls us to encounter trials simply 'because' he demands it, and as an expression of gratitude to him for his gracious interposition."
+        ],
+        "Marvin Vincent": [
+            "Of this life. The eternal life which Christ revealed.",
+            "It is a peculiar use of the phrase, which is commonly employed in contrast with the life to come.",
+            "Not equivalent to these words of life."
+        ],
+        "John Calvin": [
+            "That is worth the marking, because we see many men, who, after they have escaped out of persecution, do afterwards keep silence, as if they had done their duty towards God, (and were no more to be troubled;) other some, also, do escape away by denying Christ; but the Lord doth deliver his children, not to the end they may cease off from the course which they have begun, but rather that they may be the more zealous afterward.",
+            "The apostles might have objected, It is better to keep silence for a time, forasmuch as we cannot speak one word without danger; we are now apprehended for one only sermon, how much more shall the fury of our enemies be inflamed hereafter if they shall see us make no end of speaking? But because they knew that they were to live and to die to the Lord, they do not refuse to do that which the Lord commanded.",
+            "The words of this life. A singular commendation of the gospel, that it is a lively doctrine, bringing salvation unto men; for the righteousness of God is revealed unto us in it, (Romans 1:17;) and in it Christ offereth himself unto us with the sacrifice of his death, with the Spirit of regeneration, with the earnest of our adoption."
+        ],
+        "Philip Schaff": [
+            "Go, stand and speak in the temple to the people.\" ",
+            "The imprisoned ones were to go at once... into the public courts of the temple to proclaim to the people all the words of this life.",
+            "The life, the existence of which the Sadducees, the men who had imprisoned the apostles, denied."
+        ],
+        "Archibald T. Robertson": [
+            "And stand (\u03ba\u03b1 \u03c3\u03c4\u03b1\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2). First aorist passive participle (intransitive, ingressive aorist), take a stand. Bold and pictorial command.",
+            "All the words of this life (\u03c0\u03b1\u03bd\u03c4\u03b1 \u03c4\u03b1 \u03c1\u03b7\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b6\u03c9\u03b7\u03c2 \u03c4\u03b1\u03c5\u03c4\u03b7\u03c2). Not just a Hebraism for 'all these words of life.' Probably 'this life' which the Sadducees deny and of which the angel is now speaking, this eternal life.",
+            "(John 6:63; John 6:68; 1 Corinthians 15:19)."
+        ],
+        "John Gill": [
+            "They were not delivered out of prison, in order to go and secure themselves from danger; but to go about the work they were called to, to preach the Gospel 'in the temple', the place of worship...",
+            "The Gospel is to be preached to all; the Spirit of God makes it effectual to some, and others are rendered inexcusable...",
+            "And these may be called, 'the words of life', even of eternal life, because they show the nature of it, and point out the way unto it; not by the law, and obedience to that, but by Christ and his righteousness..."
+        ],
+        "John Wesley": [
+            "The words of this \u2014 That is, these words of life: words which show the way to life everlasting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles were commanded to go and proclaim all the words of this life, referring to the teachings of Jesus and the eternal life he revealed. This phrase was particularly significant because it countered the denial of the Sadducees who questioned the resurrection and the existence of this life. The deliverance of the apostles from imprisonment was not a chance for them to remain silent or deny Christ, but rather to boldly continue their mission. They were to speak in the temple, the place of worship, and share the gospel with all, knowing that it had the power to bring salvation and eternal life to those who believed. Through their obedience, they displayed their unwavering commitment to God, even in the face of danger and persecution.",
+            "wordCount": 126,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.0634919589711105,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.95,
+            "commentatorTierSimilarities": [
+                25.18,
+                35.03,
+                39.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostles were commanded to boldly proclaim all the words of this life, referring to the teachings of Jesus and the eternal life he revealed. This phrase counters the Sadducees, who deny the resurrection and this future life. The apostles' deliverance wasn't for them to remain silent or deny Christ, but to continue preaching in the temple, offering the gospel of salvation and eternal life. Their obedience displayed unwavering commitment to God, even in the face of danger and persecution.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.089557195811133,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                26.88,
+                32.5,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostles were commanded to go and proclaim all the words of this life, which refers to the teachings of Jesus and the eternal life he revealed. This phrase is significant as it challenges the denial of the Sadducees, who question the resurrection and the existence of this life. The apostles' deliverance from imprisonment was not an opportunity to remain silent or deny Christ, but rather to boldly continue their mission to share the gospel in the temple. Their obedience demonstrated unwavering commitment to God, even in the face of danger and persecution.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0796190520037774,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                25.87,
+                34.4,
+                39.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostles were commanded to boldly proclaim the teachings of Jesus and the eternal life He revealed, referred to as all the words of this life. This expression directly countered the Sadducees who doubted the resurrection and the reality of this life. The deliverance of the apostles was not an opportunity to remain silent or renounce Christ, but rather to continue faithfully preaching in the temple. Their obedience displayed unwavering commitment to God, even amidst danger and persecution.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.037548779537225,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.09,
+            "commentatorTierSimilarities": [
+                27.61,
+                33.43,
+                38.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostles were commanded to go and proclaim all the words of this life, referring to the teachings of Jesus and the eternal life he revealed. This phrase countered the denial of the Sadducees who questioned the existence of this life. The apostles' deliverance served as a reminder that they were to continue their mission and not fall silent. They were to boldly preach in the temple, offering the gospel of salvation and eternal life. Through their unwavering commitment to God, they displayed their dedication, even in the face of danger and persecution.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.028268440385795,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                27.17,
+                34.65,
+                38.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:34:15",
+    "verseRef": "Acts 20:27",
+    "bestBHT": {
+        "bht": "For I have not shunned to declare all the counsel of God, including the way of salvation and His kingdom. Paul had not kept back any truth or withdrawn it from view, even if it was unpalatable or unpopular. He urged the people to listen with respect and a desire to know the truth and be saved. The counsel of God refers to His counsel of redemption and grace, encompassing the universality of His redeeming work. Paul spoke to them as those capable of understanding the mystery of Christ and the brotherhood of mankind in the common Fatherhood of God.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.8796718445969658,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+        "commentatorTierSimilarities": [
+            26.39,
+            45.84,
+            27.77
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "For I have not shunned to declare . . . all the counsel of God.\" ",
+            "God's way of salvation, and His kingdom of souls saved by His Son Jesus Christ.\" ",
+            "See: -."
+        ],
+        "Albert Barnes": [
+            "I have not kept back; I have not been deterred by fear, by the desire of popularity, by the fact that the doctrines of the gospel are unpalatable to people, from declaring them fully.\" ",
+            "Paul means that he had not disguised any truth; he had not withdrawn or kept it from open view, by any apprehension of the effect which it might have on their minds.\" ",
+            "And if it is the duty of ministers to declare that counsel, it is the duty of a people to listen to it with respect and candor, and with a desire to know the truth, and to be saved by it."
+        ],
+        "Marvin Vincent": [
+            "Shunned. The same word as in verse 20 kept back."
+        ],
+        "Philip Schaff": [
+            "For I have not shunned to declare unto you all the counsel of God.\" ",
+            "The counsel of God is His counsel of redemption and grace, and the universality of His redeeming work.",
+            "He speaks to them as able to understand his knowledge in the mystery of Christ, and the brotherhood of mankind in the common Fatherhood of God."
+        ],
+        "Archibald T. Robertson": [
+            "Paul here repeats the very words and idioms used in verse Acts 20:20.",
+            "All the counsel of God that concerned Paul's work.",
+            "Nothing inconsistent with the purpose of God of redemption through Christ Jesus."
+        ],
+        "John Gill": [
+            "For I have not shunned to declare unto you all the counsel of God.",
+            "By which is meant, not the purposes and decrees of God, latent in his own breast, these the apostle could not declare.",
+            "but his revealed will in the Gospel, concerning the salvation of men by Jesus Christ, even the whole of the Gospel, every truth and doctrine of it, necessary to salvation, and to the peace, joy, and comfort of the saints; together with all the ordinances of it, and everything that had any tendency to promote the glory of God, and the good of souls."
+        ],
+        "John Wesley": [
+            "For I have not shunned \u2014 Otherwise if any had perished, their blood would have been on his head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I have not shunned to declare all the counsel of God, including the way of salvation and His kingdom. Paul had not kept back any truth or withdrawn it from view, even if it was unpalatable or unpopular. His purpose was to proclaim the counsel of God regarding redemption through Christ Jesus, without disguising any truth or fearing the effect it would have on people. He urged the people to listen with respect and a desire to know the truth and be saved by it. The counsel of God refers to His counsel of redemption and grace, encompassing the universality of His redeeming work. Paul spoke to them as those capable of understanding the mystery of Christ and the brotherhood of mankind in the common Fatherhood of God.",
+            "wordCount": 129,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9153816072262182,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                26.52,
+                44.83,
+                28.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I have not shunned to declare all the counsel of God, including the way of salvation and His kingdom. Paul had not kept back any truth or withdrawn it from view, even if it was unpalatable or unpopular. He urged the people to listen with respect and a desire to know the truth and be saved. The counsel of God refers to His counsel of redemption and grace, encompassing the universality of His redeeming work. Paul spoke to them as those capable of understanding the mystery of Christ and the brotherhood of mankind in the common Fatherhood of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8796718445969658,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                26.39,
+                45.84,
+                27.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For I have not shunned to declare all the counsel of God, including the way of salvation and His kingdom. Paul had not kept back any truth or withdrawn it from view, even if it was unpalatable or unpopular. He urged the people to listen with respect and a desire to know the truth and be saved. The counsel of God refers to His counsel of redemption and grace, encompassing the universality of His redeeming work. Paul spoke to them as those capable of understanding the mystery of Christ and the brotherhood of mankind in the common Fatherhood of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8796718445969658,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                26.39,
+                45.84,
+                27.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For I have not shunned to declare all the counsel of God, including the way of salvation and His kingdom. Paul had not kept back any truth or withdrawn it from view, even if it was unpalatable or unpopular. He urged the people to listen with respect and a desire to know the truth and be saved. The counsel of God refers to His counsel of redemption and grace, encompassing the universality of His redeeming work. Paul spoke to them as those capable of understanding the mystery of Christ and the brotherhood of mankind in the common Fatherhood of God.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8796718445969658,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                26.39,
+                45.84,
+                27.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For I have not shunned to declare unto you all the counsel of God. This means Paul did not keep back any truth, revealing God's plan of salvation through Jesus Christ. His purpose was to proclaim the counsel of God without fear or concealment, emphasizing the importance of listening with respect and seeking the truth for salvation. The counsel of God encompasses His redemptive work and the brotherhood of mankind in the common Fatherhood of God, encouraging understanding and unity among believers. Through his teachings, Paul aimed to lead people to the knowledge of God's grace and the eternal gift of salvation.",
+            "wordCount": 104,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.988534993850954,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                27.07,
+                41.71,
+                31.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

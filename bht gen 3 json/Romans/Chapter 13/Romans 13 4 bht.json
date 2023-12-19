@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:09:19",
+    "verseRef": "Romans 13:4",
+    "bestBHT": {
+        "bht": "Magistrates, as ministers of God, bear the sword - a symbol of their authority in executing the penalty of death for crime. The mention of wrath highlights the character of the vengeance that the sword represents. They are appointed for the good of the people, defending divine laws and vindicating those who have been wronged. Their role serves as a testament against the attempt to abolish capital punishment in Christian states, affirming the right of the sword in executing God's justice.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.186634799737841,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+        "commentatorTierSimilarities": [
+            24.82,
+            35.43,
+            39.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sword...betokens the power of capital punishment: and the reference to it here is among the many testimonies borne by Scripture against the attempt to abolish the infliction of the penalty of death for crime in Christian states.\" ",
+            "For wrath seems to be inserted for the sake of parallelism with 'for good' above: it betokens the character of the vengeance,\u2014that it issues in wrath.",
+            "The wrath is referred to in 'the wrath,' ver. 5."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. he beareth not the sword in",
+            "\tvain\u2014that is, the symbol of the magistrate's authority to",
+            "\tpunish."
+        ],
+        "Albert Barnes": [
+            "The magistrate is not appointed directly to 'reward' people, but they 'practically' furnish a reward by protecting and defending them.",
+            "The meaning of the apostle is, that he does not wear this badge of authority as an unmeaningful show, but that it will be used to execute the laws.",
+            "It may be remarked that this verse is an 'incidental' proof of the propriety of 'capital punishment.'"
+        ],
+        "Marvin Vincent": [
+            "Beareth and weareth. A frequentative form of ferw to bear.",
+            "Borne as the symbol of the magistrate's right to inflict capital punishment.",
+            "The Emperor Trajan presented to a provincial governor, on starting for his province, a dagger, with the words, 'For me. If I deserve it, in me.'"
+        ],
+        "John Calvin": [
+            "Magistrates may hence learn what their vocation is, for they are not to rule for their own interest, but for the public good.",
+            "For as they are deputed by God and do his business, they must give an account to him: and then the ministration which God has committed to them has a regard to the subjects, they are therefore debtors also to them.",
+            "This is a remarkable passage for the purpose of proving the right of the sword; for if the Lord, by arming the magistrate, has also committed to him the use of the sword, whenever he visits the guilty with death, by executing God\u2019s vengeance, he obeys his commands."
+        ],
+        "Philip Schaff": [
+            "Be afraid; for he weareth not the sword in vain.",
+            "He is 'an avenger for wrath,' it is his office to punish evil, to vindicate those who have been wronged.",
+            "The Apostle undoubtedly here asserts the right of capital punishment."
+        ],
+        "Archibald T. Robertson": [
+            "A minister of God... for good.\" ",
+            "Beareth... to bear, to wear.\" ",
+            "Sword... Symbol of authority."
+        ],
+        "John Gill": [
+            "He is a minister of God's appointing and commissioning, that acts under him, and for him, is a kind of a vicegerent of his, and in some sense represents him...",
+            "He is appointed for their 'good', natural, moral, civil, and spiritual...",
+            "He is a revenge to execute wrath upon him that doeth evil; he is a defender of the laws, a vindicator of divine justice, an avenger of the wrongs of men..."
+        ],
+        "John Wesley": [
+            "The sword \u2014 The instrument of capital punishment, which God authorizes him to inflict."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the authority given to magistrates to bear the sword, which signifies the power of capital punishment. This is a testimony against the attempt to abolish the penalty of death for crimes in Christian states. The sword is not worn in vain; it symbolizes the magistrate's right to inflict punishment and execute God's vengeance, issuing in wrath. The magistrate is a minister of God, appointed for the good of the people, executing justice and defending divine laws. He is a vicegerent of God, entrusted with the use of the sword to punish evil and protect the public good.",
+            "wordCount": 103,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 2.241808939696692,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.88,
+            "commentatorTierSimilarities": [
+                24.17,
+                36.3,
+                39.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Magistrates are appointed as ministers of God, bearing the sword, a symbol of authority and the power of capital punishment. The mention of wrath emphasizes the character of the vengeance that the sword represents. As ministers of God, magistrates are obligated to act for the good of the people, executing justice, defending divine laws, and avenging wrongs. They are the instruments through which God's punishment is carried out, and their role serves as an incidental proof of the validity of capital punishment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.1401302636008053,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.5,
+            "commentatorTierSimilarities": [
+                24.15,
+                35.05,
+                40.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Magistrates, as ministers of God, are appointed to bear the sword - a symbol of their authority and the power of capital punishment. The mention of wrath highlights the character of the vengeance that the sword represents. Magistrates act for the good of the people, executing justice, defending divine laws, and avenging wrongs. Their role serves as an incidental proof of the validity of capital punishment, and it is a reminder of their obligation to carry out God's commands in administering justice.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.1503317235093817,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.84,
+            "commentatorTierSimilarities": [
+                24.83,
+                35.55,
+                39.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Magistrates, as ministers of God, bear the sword - a symbol of their authority in executing the penalty of death for crime. The mention of wrath highlights the character of the vengeance that the sword represents. They are appointed for the good of the people, defending divine laws and vindicating those who have been wronged. Their role serves as a testament against the attempt to abolish capital punishment in Christian states, affirming the right of the sword in executing God's justice.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.186634799737841,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.05,
+            "commentatorTierSimilarities": [
+                24.82,
+                35.43,
+                39.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Magistrates, as ministers of God, are authorized to bear the sword, symbolizing their power to inflict capital punishment. The mention of wrath emphasizes the character of the vengeance that the sword represents. They are appointed for the public good, defending divine laws and punishing evil. The verse serves as testimony against abolishing the death penalty in Christian states, reaffirming the right of the sword to execute God's justice. Magistrates act as agents of God, entrusted with the responsibility to maintain order and administer punishment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 2.141411448012409,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.54,
+            "commentatorTierSimilarities": [
+                24.33,
+                35.21,
+                40.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

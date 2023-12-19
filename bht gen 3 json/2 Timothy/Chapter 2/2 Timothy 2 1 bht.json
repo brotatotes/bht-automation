@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:30:17",
+    "verseRef": "2 Timothy 2:1",
+    "bestBHT": {
+        "bht": "In order to live the Christian life, believers are to rely on the empowering influence of the grace of Christ. This grace must be passed on to faithful individuals who can teach others. Believers are called to be invested with power and demonstrate that they have it, as grace is the inward source of strength. They are to keep in touch with Christ, who is the dynamo for power, and remain rooted and grounded in His grace.",
+        "wordCount": 77,
+        "quoteTokenProportion": 46.94,
+        "qualityScore": 2.2509893826861886,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.19,
+        "commentatorTierSimilarities": [
+            24.76,
+            41.64,
+            33.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The grace which is laid up in Christ, the empowering influence in the Christian life, being necessary for its whole course and progress, is regarded as the element in which it is lived.",
+            "These deliver in trust to faithful men, such as shall be able to teach them to others also.",
+            "The true keeping of the deposit entrusted to thee will involve thy handing it on unimpaired to others, who may in their turn hand it on again."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Children ought to imitate their father.",
+            "Be invested with power. Have power, and show thyself to have it; implying an abiding state of power.",
+            "In the grace\u2014the element IN which the believer's strength has place."
+        ],
+        "Albert Barnes": [
+            "Be strong in the grace which is in Christ Jesus.\" ",
+            "Be strong, relying on the grace which the Lord Jesus only can impart."
+        ],
+        "Marvin Vincent": [
+            "In view of what has been said in the previous chapter.",
+            "Be strengthened inwardly.",
+            "Grace is the inward source of strength."
+        ],
+        "John Calvin": [
+            "By this expression he intends to shake off sloth and indifference; for the flesh is so sluggish, that even those who are endued with eminent gifts are found to slacken in the midst of their course, if they be not frequently aroused.",
+            "What God demands from us by his word he likewise bestows by his Spirit, so that we are strengthened in the grace which he has given to us.",
+            "This kind appellation, which he employs, tends much to gain the affections, that the doctrine may more effectually obtain admission into the heart."
+        ],
+        "Philip Schaff": [
+            "Be strong. The Greek verb, passive and not middle, implies at once the being strengthened, and the continuance in the state thus reached...",
+            "this process and state find the element of their life in the grace which is found in Christ.",
+            "the grace which is found in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Keep on being empowered,\" \"keep in touch with the power.",
+            "Christ is the dynamo for power only when and while we keep in touch with him.",
+            "Where the power is located."
+        ],
+        "John Gill": [
+            "Be strong in the grace that is in Christ Jesus.",
+            "To be strong in [grace], is to be rooted and grounded in it, and to have a strong sense and firm persuasion of interest in it, and that nothing can separate from it.",
+            "Grace in Christ is what believers should always have recourse unto, and exercise faith on; and not only believe that there is such a fulness of grace in Christ, which they have both heard of and seen, and which they know is laid up for them, and given to them, and is sufficient for them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In order to live the Christian life, believers must rely on the grace of Christ, which is the empowering influence necessary for their progress. They are entrusted with this grace and must pass it on to faithful individuals who can teach others. The true keeping of this deposit involves handing it on unimpaired, just like children imitate their father. Believers are called to be invested with power and demonstrate that they have it, as grace is the inward source of strength. They are to keep in touch with Christ, who is the dynamo for power, and remain rooted and grounded in His grace.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1105555117567785,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.52,
+            "commentatorTierSimilarities": [
+                26.98,
+                38.72,
+                34.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In order to live the Christian life, believers are to rely on the empowering influence of the grace of Christ. This grace must be passed on to faithful individuals who can teach others. Believers are called to be invested with power and demonstrate that they have it, as grace is the inward source of strength. They are to keep in touch with Christ, who is the dynamo for power, and remain rooted and grounded in His grace.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.2509893826861886,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.19,
+            "commentatorTierSimilarities": [
+                24.76,
+                41.64,
+                33.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers must rely on the grace of Christ, the empowering influence necessary for their progress in the Christian life. This grace is to be passed on to faithful individuals who can teach others. Keeping the entrusted deposit unimpaired involves handing it on to others. Believers are called to be invested with power, demonstrating an abiding state of power. Grace is the inward source of strength, locating the power needed for the journey. It is crucial to keep in touch with Christ, who is the dynamo for power.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.010195855362364,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                32.96,
+                37.59,
+                29.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers in the Christian life must rely on the empowering influence of the grace of Christ. This grace is to be entrusted to faithful individuals who can pass it on to others. It involves handing on the deposit unimpaired, just as children imitate their father. Believers are called to be invested with power, demonstrating an abiding state of power. Grace is the inward source of strength, where the power is located. It is crucial to keep in touch with Christ, the dynamo for power.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.0181191504888285,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                32.5,
+                38.84,
+                28.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the Christian life, believers rely on the empowering grace of Christ as an essential element for their journey. They are entrusted with this grace and must pass it on to faithful individuals who can teach others. This requires handing on the deposit unimpaired, similar to how children imitate their father. Believers are called to be invested with power and demonstrate an abiding state of power, knowing that the strength they need is located in the grace of Christ. It is vital to keep in touch with Him, as He is the source of power and dynamo for their lives.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9121349087759874,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.92,
+            "commentatorTierSimilarities": [
+                29.5,
+                37.71,
+                32.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:23:17",
+    "verseRef": "Luke 23:1",
+    "bestBHT": {
+        "bht": "The entire company, except for Nicodemus and Joseph of Arimathea, gathered together and led Jesus, probably in a formal procession, to Pilate, the Roman governor, in the praetorium where he tried cases. The chief priests, Scribes, and elders, who had condemned Jesus in their court, brought him as a bound prisoner to Pilate, seeking confirmation of their sentence and his crucifixion as a Roman punishment.",
+        "wordCount": 65,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.8607050703359371,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+        "commentatorTierSimilarities": [
+            29.75,
+            14.88,
+            55.37
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "See the notes at Matthew 27:1-2."
+        ],
+        "Philip Schaff": [
+            "Led him, probably in formal procession.",
+            "It is a question whether Pilate resided in a palace formerly belonging to Herod, or in the Castle Antonia."
+        ],
+        "Archibald T. Robertson": [
+            "The whole company (\u03b1\u03c0\u03b1\u03bd \u03c4\u03bf \u03c0\u03bb\u03b7\u03b8\u03bf\u03c2). All but Nicodemus and Joseph of Arimathea who were probably not invited to this meeting. "
+        ],
+        "John Gill": [
+            "The whole multitude of them, of the chief priests, Scribes, and elders; the whole of the sanhedrim, excepting Nicodemus, and Joseph of Arimathea, having in their court condemned Christ to death.",
+            "And led him unto Pilate, the Roman governor, and into the praetorium, or judgment hall, where causes were tried by him.",
+            "Hither they brought Jesus, having bound him as a prisoner and a malefactor, that their sentence might be confirmed by civil authority, and that he might be put to the death of the cross, which was a Roman punishment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The entire company, except for Nicodemus and Joseph of Arimathea, gathered together and led Jesus, probably in a formal procession, to Pilate, the Roman governor, in the praetorium where he tried cases. The chief priests, Scribes, and elders, who had condemned Jesus in their court, brought him as a bound prisoner to Pilate, seeking confirmation of their sentence and his crucifixion as a Roman punishment.",
+            "wordCount": 65,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.8607050703359371,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                29.75,
+                14.88,
+                55.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The entire company, apart from Nicodemus and Joseph of Arimathea, brought Jesus, bound as a prisoner, to Pilate, the Roman governor in the praetorium. Pilate resided either in a former palace of Herod or in the Castle Antonia. The chief priests, Scribes, and elders, having condemned Jesus in their court, sought confirmation of their sentence and his crucifixion as a Roman punishment.",
+            "wordCount": 62,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 1.588889166930057,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.17,
+            "commentatorTierSimilarities": [
+                26.75,
+                19.56,
+                53.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The entire company, with the exception of Nicodemus and Joseph of Arimathea, led Jesus, bound as a prisoner, to Pilate, the Roman governor residing in either a former palace of Herod or the Castle Antonia. This group, consisting of the chief priests, Scribes, and elders, had already condemned Jesus in their court and now sought confirmation from Pilate for their sentence. They wanted Jesus to be put to death by crucifixion, which was a punishment carried out by the Romans.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5573102522342341,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.12,
+            "commentatorTierSimilarities": [
+                28.03,
+                14.88,
+                57.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The whole company, apart from Nicodemus and Joseph of Arimathea, brought Jesus as a bound prisoner to Pilate, the Roman governor. Pilate either resided in a former palace of Herod or the Castle Antonia. The chief priests, Scribes, and elders, who had already condemned Jesus in their court, sought Pilate's confirmation for their sentence. They intended for Jesus to be crucified, a Roman punishment, and led him to the praetorium, where cases were tried.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.546230009427877,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.75,
+            "commentatorTierSimilarities": [
+                27.52,
+                18.58,
+                53.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The entire company, except for Nicodemus and Joseph of Arimathea, gathered together and led Jesus, probably in a formal procession, to Pilate, the Roman governor. Pilate resided in either a former palace of Herod or the Castle Antonia. The chief priests, Scribes, and elders, who had condemned Jesus in their court, brought him as a bound prisoner to Pilate to seek confirmation of their sentence for his crucifixion, a Roman punishment.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.6735702862334398,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.99,
+            "commentatorTierSimilarities": [
+                27.46,
+                21.68,
+                50.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

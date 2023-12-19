@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:23:53",
+    "verseRef": "Luke 24:9",
+    "bestBHT": {
+        "bht": "The women received a wonderful proclamation at the tomb, and Luke's account, while not separate like John's, complements the other Gospel narratives. It is clear that Luke drew from the disciples who had left Jerusalem before obtaining all the details, providing a comprehensive portrayal of the events. The women swiftly fled, having seen angels and realizing that Jesus' body was not in the tomb. This proclamation extended not only to the eleven apostles but also to the seventy disciples and others gathered together.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.5140768365280124,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+        "commentatorTierSimilarities": [
+            19.52,
+            39.9,
+            40.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "9.] See note on Mark ver. 8."
+        ],
+        "Philip Schaff": [
+            "The accounts, despite the variations, complement each other.",
+            "Taking the chapter as a whole, it would seem that Luke\u2019s account was derived from one of the two disciples mentioned in Luke 24:13-35, who had left Jerusalem before obtaining all the particulars, and that we have here a portrayal of the successive events as they came before his mind.",
+            "All the rest, i.e., of Jesus\u2019 followers. Peculiar to Luke, and in close connection with the subsequent incidents."
+        ],
+        "Archibald T. Robertson": [
+            "From the tomb (\u03b1\u03c0\u03bf \u03c4\u03bf\u03c5 \u03bc\u03bd\u03b7\u03bc\u03b5\u03b9\u03bf\u03c5). Some documents omit these words. This word for tomb is like our 'memorial' from \u03bc\u03b9\u03bc\u03bd\u03b7\u03c3\u03ba\u03c9, to remind.",
+            "Told (\u03b1\u03c0\u03b7\u03b3\u03b3\u03b5\u03b9\u03bb\u03b1\u03bd). It was a wonderful proclamation.",
+            "Luke does not separate the story of Mary Magdalene from that of the other women as John does (John 20:2-18)."
+        ],
+        "John Gill": [
+            "Quickly, immediately, as soon as ever the angel had done speaking to them; they fled from the sepulchre in great haste...\" ",
+            "They found not the body of Jesus in it; that they had seen a vision of angels, who had told them, that Christ was risen...",
+            "Not only to the eleven apostles, but the seventy disciples, and as many others as were assembled together..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The women who had come to the tomb on that glorious morning received a momentous proclamation. Luke does not separate the story of Mary Magdalene from that of the other women as John does. These accounts, despite their variations, complement each other and provide a comprehensive portrayal of the successive events. It is evident that Luke's account was derived from one of the disciples who had left Jerusalem before obtaining all the particulars. The women quickly fled from the sepulchre in great haste, knowing that Jesus' body was not there, having seen a vision of angels who declared his resurrection. This proclamation was not only given to the eleven apostles but to the seventy disciples and others who were present.",
+            "wordCount": 121,
+            "quoteTokenProportion": 39.02,
+            "qualityScore": 1.388605917346029,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.51,
+            "commentatorTierSimilarities": [
+                20.58,
+                40.74,
+                38.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The glorious morning at the tomb brought a wonderful proclamation to the women. Luke's account, though different from John's, complements it well, revealing a comprehensive portrayal of events. It is evident that Luke's narrative was derived from one of the disciples who left Jerusalem before obtaining all the particulars. The women quickly fled, having seen a vision of angels and knowing that Jesus' body was not there. This proclamation was not solely for the eleven apostles, but also for the seventy disciples and others present.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3548502348336104,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.39,
+            "commentatorTierSimilarities": [
+                22.14,
+                38.26,
+                39.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The women received a wonderful proclamation at the tomb, and Luke's account, while not separate like John's, complements the other Gospel narratives. It is clear that Luke drew from the disciples who had left Jerusalem before obtaining all the details, providing a comprehensive portrayal of the events. The women swiftly fled, having seen angels and realizing that Jesus' body was not in the tomb. This proclamation extended not only to the eleven apostles but also to the seventy disciples and others gathered together.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.5140768365280124,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                19.52,
+                39.9,
+                40.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women were given a wonderful proclamation at the tomb, as Luke's account intertwines with the narratives of the other Gospels. Drawing from disciples who left Jerusalem prematurely, Luke presents a comprehensive portrayal of the events. The women swiftly fled, having seen angels and realizing Jesus' body was not in the tomb. This proclamation was not only for the eleven apostles but also for the seventy disciples and others who were gathered together, expanding the joyous news to a wider community of believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.4549735353139004,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.72,
+            "commentatorTierSimilarities": [
+                18.83,
+                39.42,
+                41.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The women at the tomb were met with a wonderful proclamation, as Luke's account seamlessly complements the other Gospel narratives. Derived from the disciples who departed Jerusalem prematurely, Luke's comprehensive portrayal of events is evident. Fleeing in haste, the women encountered angels and discovered that Jesus' body was absent from the tomb. This joyful proclamation was not confined to the eleven apostles, but extended to the seventy disciples and others gathered together, spreading the news of Christ's resurrection within a broader community.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.5136872725051393,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.67,
+            "commentatorTierSimilarities": [
+                19.96,
+                40.35,
+                39.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

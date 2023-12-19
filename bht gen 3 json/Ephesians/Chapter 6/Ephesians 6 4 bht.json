@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:35:06",
+    "verseRef": "Ephesians 6:4",
+    "bestBHT": {
+        "bht": "Parents, whether fathers or mothers, should avoid provoking or irritating their children through vexatious commands, unreasonable blame, or uncertain temper. Instead, they are called to raise their children in the discipline and admonition of the Lord, using discipline by means of punishment and training through words of encouragement, remonstrance, or reproof. Fathers, who are more prone to passion, should be extra cautious in their interactions with their children. It is the parents' responsibility to guide their children in the fear of the Lord and correct them when needed, fostering a respectful and obedient relationship.",
+        "wordCount": 94,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.2411210237207904,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+        "commentatorTierSimilarities": [
+            29.84,
+            38.42,
+            31.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And, ye fathers (the mothers being included...), irritate not your children; but bring them up in the discipline and admonition of the Lord.\" ",
+            "The Apostle seems rather to allude to provoking by vexatious commands, and unreasonable blame, and uncertain temper, in ordinary intercourse.",
+            "The first word is wrongly rendered 'nurture' by the A.V.: it imports discipline by means of punishment, and the second implies 'training by word\u2014by the word of encouragement, when no more is wanted; of remonstrance, reproof, or blame where these are required.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fathers are more prone to passion in relation to their children than mothers, whose fault is rather over-indulgence.",
+            "Provoke not\u2014irritate not, by vexatious commands, unreasonable blame, and uncertain temper, lest they be discouraged.",
+            "Admonition\u2014training by words, whether of encouragement, or remonstrance, or reproof, according as is required."
+        ],
+        "Albert Barnes": [
+            "If children are required to 'obey,' it is but reasonable that the commands of the parent should be such that they can be obeyed, or such that the child shall not be discouraged in his attempt to obey.",
+            "So govern them, and so punish them - if punishment is necessary - that they shall not lose their confidence in you, but shall love you.",
+            "No one can doubt that the Bible enjoins on parents the duty of endeavoring to train up their children in the ways of religion, and of making it the grand purpose of this life to prepare them for heaven."
+        ],
+        "Marvin Vincent": [
+            "Nouqesia admonition occurs only here, 1 Corinthians 10:11, and Titus 3:10.\" ",
+            "Its distinctive feature is training by word of mouth, as is shown by its classical usage in connection with words meaning to exhort or teach.",
+            "Admonition is a mode of discipline, so that the two words nurture and admonition stand related as general and special."
+        ],
+        "John Calvin": [
+            "Kind and liberal treatment has rather a tendency to cherish reverence for their parents, and to increase the cheerfulness and activity of their obedience.",
+            "A harsh and unkind manner rouses them to obstinacy, and destroys the natural affections.",
+            "Let their conduct towards their children be at once mild and considerate, so as to guide them in the fear of the Lord, and correct them also when they go astray."
+        ],
+        "Philip Schaff": [
+            "Provoke, or, \u2018fret,\u2019 not your children to wrath, \u2018It is the hasty, rough, moody treatment of children, so that, without childish confidence, without joyful obedience, they are repelled and enticed to opposition, defiance, and bitterness.",
+            "In the discipline and admonition of the Lord. This is the element or sphere in which the children should be brought up.",
+            "The responsibility of such training rests primarily on the parents, though they often seek to shift it to pastors and teachers."
+        ],
+        "Archibald T. Robertson": [
+            "Provoke not to anger...The active, as here, has a causative sense.",
+            "In the chastening and admonition of the Lord...\u03c0\u03b1\u03b9\u03b4\u03b5\u03b9\u03b1, old Greek for training...so for the general education and culture of the child.",
+            "\u03bd\u03bf\u03c5\u03b8\u03b5\u03c3\u03b9\u03b1...does have the idea of correction."
+        ],
+        "John Gill": [
+            "Neither by words; by unjust and, unreasonable commands; by contumelious and reproachful language; by frequent and public chidings, and by indiscreet and passionate expressions...",
+            "Wrath lets in Satan, and leads to sin against God; and indeed it is difficult in the best of men to be angry and not sin...",
+            "But bring them up in the nurture and admonition of the Lord; instructing them in the knowledge of divine things, setting them good examples, taking care to prevent their falling into bad company..."
+        ],
+        "John Wesley": [
+            "Provoke not your children to wrath \u2014 Do not needlessly fret or exasperate them.",
+            "But bring them up \u2014 With all tenderness and mildness.",
+            "In the instruction and discipline of the Lord \u2014 Both in Christian knowledge and practice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Parents, whether they be fathers or mothers, should be careful not to provoke or irritate their children through vexatious commands, unreasonable blame, or uncertain temper. Instead, they should bring them up in the discipline and admonition of the Lord, which includes nurturing them through discipline and training by words. Fathers, who are more prone to passion, should be particularly cautious of not provoking their children to anger. The responsibility of training children in the ways of the Lord primarily rests on parents, and they should ensure that their conduct is kind, considerate, and guided by the fear of the Lord. All of this is done in order to prevent children from being discouraged and to foster reverence, obedience, and a love for their parents.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.249575251374549,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.14,
+            "commentatorTierSimilarities": [
+                28.08,
+                40.04,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Parents, both fathers and mothers, must be careful not to irritate or frustrate their children through unreasonable blame or unpredictable temper, as this can discourage and provoke them to anger. Instead, they should train their children through discipline and words of encouragement, remonstrance, or reproof. Fathers, who are more prone to passion, should be particularly mindful of this. It is the responsibility of parents to bring up their children in the discipline and admonition of the Lord, nurturing them in both Christian knowledge and practice, and setting good examples for them to follow.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.17108038550273,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.53,
+            "commentatorTierSimilarities": [
+                30.12,
+                37.96,
+                31.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Parents, whether fathers or mothers, must be cautious not to provoke or irritate their children through vexatious commands or unreasonable blame. Instead, they should nurture them through discipline and train them with words of encouragement, remonstrance, or reproof as needed. Fathers, being more prone to anger, should be particularly mindful of this. The responsibility of bringing children up in the ways of the Lord rests primarily on the parents, who should guide them in the fear of the Lord and correct them when necessary. Parents should strive to cultivate reverence, obedience, and a love for themselves through kind and considerate conduct.",
+            "wordCount": 101,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.152123510195822,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.9,
+            "commentatorTierSimilarities": [
+                28.83,
+                38.92,
+                32.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Parents, whether fathers or mothers, should avoid provoking or irritating their children through vexatious commands, unreasonable blame, or uncertain temper. Instead, they are called to raise their children in the discipline and admonition of the Lord, using discipline by means of punishment and training through words of encouragement, remonstrance, or reproof. Fathers, who are more prone to passion, should be extra cautious in their interactions with their children. It is the parents' responsibility to guide their children in the fear of the Lord and correct them when needed, fostering a respectful and obedient relationship.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.2411210237207904,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.86,
+            "commentatorTierSimilarities": [
+                29.84,
+                38.42,
+                31.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Parents, both fathers and mothers, should be careful not to irritate or provoke their children by using vexatious commands, unreasonable blame, or uncertain temper. Instead, they should bring them up in the discipline and admonition of the Lord, nurturing them through discipline and training them through words of encouragement, remonstrance, or reproof. Fathers, who are more prone to anger, need to pay particular attention to this. The responsibility of training children in the ways of the Lord rests primarily on parents, who must guide them in the fear of the Lord and correct them when necessary.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.165060194261708,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                30.44,
+                38.03,
+                31.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

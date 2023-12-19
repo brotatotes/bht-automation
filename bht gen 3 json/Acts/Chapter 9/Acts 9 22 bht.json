@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:53",
+    "verseRef": "Acts 9:22",
+    "bestBHT": {
+        "bht": "Saul grew stronger as he preached the Gospel, proving that Jesus was the Messiah. Through his powerful arguments and examination of Scripture, he confounded the Jews and demonstrated the connection between the Old Testament prophecies and Jesus of Nazareth. By silencing his opponents with their own law, Saul turned the tables and caused confusion among them. His conviction of the truth of Christianity increased daily, leading to a greater moral strength and boldness in his preaching.",
+        "wordCount": 76,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9424098634517042,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+        "commentatorTierSimilarities": [
+            27.83,
+            37.39,
+            34.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Saul increased the more in strength... to it was to be assigned the reception by him, in full measure, of the Gospel which he preached.\" ",
+            "The omission of any mention of it here can arise only from one of two causes... intentional passing over of it... or on the supposition of Paul not having been the source of the narrative.\" ",
+            "Being learned in their law, he stopped their mouths and suffered them not to speak: they thought that they had got rid of such arguments in getting rid of Stephen, and behold they found another arguer more powerful than Stephen."
+        ],
+        "Albert Barnes": [
+            "His conviction of the truth of the Christian religion became stronger every day, and hence his moral strength or boldness increased.",
+            "Paul confuted the Jews, and by so doing he was the occasion of their tumultuous proceedings, or he so enraged them as to lead to great agitation and excitement - a very common effect of close and conclusive argumentation.",
+            "The word 'very' means here simply in the Greek: \u03bf\u0314 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u0301\u03c2 ho Christos. It means that Paul showed by strong and satisfactory arguments that Jesus of Nazareth was the true Messiah."
+        ],
+        "Marvin Vincent": [
+            "Proving [\u03c3\u03c5\u03bc\u03b2\u03b9\u03b2\u03b1\u03b6\u03c9\u03bd] . The verb means to bring or put together : hence to compare and examine, as evidence, and so to prove.\" ",
+            "Used in the literal and physical sense in Ephesians 4:16. In Colossians 2:2, of being knit together in love. In 1 Corinthians 2:16, of instructing, building up, by putting together.\" ",
+            "The Christ. Note the article. Not a proper name, but an appellative."
+        ],
+        "John Calvin": [
+            "He waxed strong, saith he, that is, he got the victory in disputation; his confession did carry with it great force and efficacy, because being furnished with testimonies of Scripture, and such other helps of the Holy Ghost, he did, as it were, tread all his adversaries under his feet.",
+            "So that Paul tried [found] by experience, that that was most true which he himself affirmeth, that the Scripture is profitable to convince.",
+            "Because the Papists find no weapons in Scripture, yea, because they see that it maketh quite against them, they fly into this miserable fortress that they must not dispute with heretics, and that there can no certain thing be set down out of Scripture."
+        ],
+        "Philip Schaff": [
+            "Paul mentions this journey with no obscure hint that to it was to be assigned the reception by him of the Gospel which he preached, and such a reception would certainly give rise to the great accession of power here recorded.",
+            "The omission of any mention of this journey here can only arise from one or two causes: (1) Whether Paul himself were the source of the narration or some other narrator, the intentional passing over it as belonging more to his personal history than to that of his ministry. (2) On the supposition of Paul not having been the source of the narrative, the narrator having not been aware of it.",
+            "Proving that this is the very Christ Literally, bringing together, showing the connection between the words of the Old Testament prophets and the life and work of Jesus of Nazareth."
+        ],
+        "Archibald T. Robertson": [
+            "The more Saul preached, the more the Jews were confused.",
+            "Here Saul took the various items in the life of Jesus of Nazareth and found in them the proof that he was in reality 'the Messiah'.",
+            "It was the most powerful piece of artillery in the Jewish camp that was suddenly turned round upon them."
+        ],
+        "John Gill": [
+            "his gifts and graces, and spiritual light and knowledge increased; his abilities were greater; his fortitude of mind, boldness, and freedom of speech, every day increased",
+            "Some copies read, 'he was more strengthened in the word'; either in the word of God, having a clearer understanding, and being more confirmed in the truth of it; or in speech, being more ready and powerful in speaking it.",
+            "by joining and knitting passages of Scripture in the Old Testament together, by producing and citing express testimonies from thence, and by comparing the prophecies and the characters of the Messiah in them, with Jesus of Nazareth, he proved to a demonstration that he must be the Messiah."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Saul increased in his strength as he preached the Gospel, confounding the Jews and proving that Jesus of Nazareth was the Messiah. His ability to bring together and compare scriptural evidence enabled him to convincingly argue for the truth of the Christian religion. The more he preached, the more the Jews were bewildered, as Saul skillfully used their own law to silence them. His powerful arguments were like a sudden turning of the tables, bringing confusion among his opponents. By demonstrating the connection between the words of the prophets and the life and work of Jesus, Saul became a force to be reckoned with, as his moral strength and boldness grew in strength with each passing day.",
+            "wordCount": 117,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.9819216238617567,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.24,
+            "commentatorTierSimilarities": [
+                28.69,
+                37.18,
+                34.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul grew stronger as he preached the Gospel, proving that Jesus was the Messiah. Through his powerful arguments and examination of Scripture, he confounded the Jews and demonstrated the connection between the Old Testament prophecies and Jesus of Nazareth. By silencing his opponents with their own law, Saul turned the tables and caused confusion among them. His conviction of the truth of Christianity increased daily, leading to a greater moral strength and boldness in his preaching.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9424098634517042,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                27.83,
+                37.39,
+                34.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Saul's strength increased as he preached, confidently proving that Jesus was the Messiah. By comparing passages of Scripture and presenting compelling evidence, he left the Jews bewildered and silenced. His powerful arguments were like a turning of the tables, as he skillfully used their own law to confound them. Saul's conviction and understanding of the Christian religion grew stronger each day, enabling him to boldly proclaim the truth and establish his authority.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.9341117702415562,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.65,
+            "commentatorTierSimilarities": [
+                26.76,
+                36.07,
+                37.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul's strength grew as he preached, confounding the Jews and proving Jesus was the Messiah. By bringing together scriptural evidence and comparing passages, Saul presented a compelling case. His ability to silence his opponents and use their own law against them was like a turning of the tables. Saul's conviction and understanding of the Christian faith increased daily, empowering him to boldly proclaim the truth and establish his authority.",
+            "wordCount": 71,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.8400894631685198,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.52,
+            "commentatorTierSimilarities": [
+                28.17,
+                35.75,
+                36.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul increased in strength as he preached the Gospel, confounding the Jews and proving that Jesus of Nazareth was the Messiah. By comparing and examining the evidence of the Old Testament, Saul skillfully demonstrated the connection between the prophecies and the life and work of Jesus. His powerful arguments silenced his opponents, leaving them bewildered. Saul's conviction and knowledge of the Christian faith grew stronger each day, enabling him to boldly proclaim the truth and establish his authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9125863544533943,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                27.32,
+                37.61,
+                35.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

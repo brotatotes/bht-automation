@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:15:51",
+    "verseRef": "Luke 6:46",
+    "bestBHT": {
+        "bht": "The crux of the matter lies in not just talking the talk but walking the walk. The subsequent parables serve to illustrate the significance of this point. By declaring Jesus as our Lord and acknowledging his dominion, we are called to not only pay lip service but to also carry out his instructions. Mere words without corresponding actions hold no weight. It is only when we faithfully adhere to his teachings and put them into practice that our professed allegiance to our Lord is truly meaningful.",
+        "wordCount": 86,
+        "quoteTokenProportion": 41.54,
+        "qualityScore": 1.390022263363482,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.56,
+        "commentatorTierSimilarities": [
+            61.04,
+            0.0,
+            38.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "And do not (\u03ba\u03b1 \u03bf\u03c5 \u03c0\u03bf\u03b9\u03b5\u03b9\u03c4\u03b5). This is the point about every sermon that counts. The two parables that follow illustrate this point. "
+        ],
+        "John Gill": [
+            "And why call ye me Lord, Lord,.... Or, 'my Lord, my Lord', as the Syriac version renders it; acknowledging, in words, his government over them; claiming an interest in him, and making use of his name and authority...",
+            "...and do not the things which I say; or 'command'; and therefore such words in their mouths would be of no use to them...",
+            "...since they neither did his Father's will, which he taught them, nor observed his commands and ordinances which he enjoined them..."
+        ],
+        "John Wesley": [
+            "And why call ye me Lord, Lord \u2014 What will fair professions avail, without a life answerable thereto? Matthew 7:21."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The key message of this verse is about the importance of not just speaking the words, but actually putting them into action. By calling Jesus Lord, Lord and acknowledging his authority, we need to also obey his teachings and do what he commands. Merely professing faith without corresponding actions is of no use. It is only when our words and actions align that we truly demonstrate our commitment to our Lord.",
+            "wordCount": 71,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.2524986514457452,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.99,
+            "commentatorTierSimilarities": [
+                48.5,
+                0.0,
+                51.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crux of the matter lies in not just talking the talk but walking the walk. The subsequent parables serve to illustrate the significance of this point. By declaring Jesus as our Lord and acknowledging his dominion, we are called to not only pay lip service but to also carry out his instructions. Mere words without corresponding actions hold no weight. It is only when we faithfully adhere to his teachings and put them into practice that our professed allegiance to our Lord is truly meaningful.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.390022263363482,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.56,
+            "commentatorTierSimilarities": [
+                61.04,
+                0.0,
+                38.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The focal point here is the vital importance of not merely uttering words, but acting upon them. The subsequent parables effectively illustrate this pivotal message. By proclaiming Jesus as our Lord and recognizing his sovereignty, we must not only verbally affirm our faith, but also demonstrate it through our obedience to his commands. Mere declarations devoid of corresponding actions are empty and meaningless. It is only when we truly live out his teachings and put them into practice that our profession of loyalty to our Lord holds true significance.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.3016704621841777,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.62,
+            "commentatorTierSimilarities": [
+                60.05,
+                0.0,
+                39.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The core lesson of this passage revolves around not just speaking, but implementing the teachings of Jesus. The ensuing parables vividly portray this crucial point. By addressing Jesus as Lord, Lord and recognizing His authority, we are obliged to not merely verbalize our devotion, but to also carry out His instructions. Mere verbal profession without corresponding action bears no fruit. Only through obedience to His teachings and alignment of our words and deeds can we genuinely demonstrate our allegiance to our Lord.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.398643063163689,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                58.17,
+                0.0,
+                41.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crux of this message is putting words into action. The following parables further illustrate this point. By acknowledging Jesus as Lord, Lord and submitting to His authority, we are called to not only speak, but also obey His teachings. Simply professing faith without corresponding deeds is futile. Only when we align our words with our actions can we truly authenticate our commitment to obedience and devotion to our Lord.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.1875787748843059,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.83,
+            "commentatorTierSimilarities": [
+                61.4,
+                0.0,
+                38.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

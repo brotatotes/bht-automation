@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:38:30",
+    "verseRef": "2 Thessalonians 2:13",
+    "bestBHT": {
+        "bht": "God's choice of the Thessalonians for salvation is not merely an eternal selection, but a personal adoption in His eternal purpose. The divine side of this choice is the sanctification brought about by the Spirit, while the human side is the belief in the truth through faith. In contrast to the fate of the unbelievers, the Thessalonians are beloved of the Lord Jesus, experiencing the divine mercy and grace. This serves as a reminder that God's judgments upon the reprobate reflect His mercy towards those chosen for salvation.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.3488874393734207,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.44,
+        "commentatorTierSimilarities": [
+            29.84,
+            35.65,
+            34.52
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From the beginning must be taken in the general sense, as in reff.: not in the special, \u2018from the beginning of the gospel,\u2019 as Phil. iv. 15.",
+            "It answers to 'before the worlds,' 1 Cor. ii. 7; 'before the foundation of the world,' Eph. i. 4; 'before eternal ages,' 2 Tim. i. 9, all of which are spoken of the decrees of God.",
+            "In sanctification of the Spirit and belief of the truth - the elements in which the choosing to salvation takes place:\u2014sanctification of (wrought by) the Spirit: not, the \u2018sanctification of (your) spirit.\u2019 This is the divine side of the element: the human side follows,\u2014 \u2018your own reception, by faith, of the truth\u2019."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But\u2014In delightful contrast to the damnation of the lost stands the 'salvation' of Paul's converts.",
+            "chosen you\u2014The Greek is not the ordinary word for 'elected,' implying His eternal selection; but taken for Himself, implying His having adopted them in His eternal purpose.",
+            "belief of the truth\u2014contrasted with 'believed not the truth'."
+        ],
+        "Albert Barnes": [
+            "That God had chosen or elected them (\u03b5\u03b9\u0314\u0301\u03bb\u03b5\u03c4\u03bf heileto) to salvation. The doctrine of election, therefore, is true.",
+            "That this was from 'the beginning' \u03b1\u0313\u03c0 \u0313 \u03b1\u0313\u03c1\u03c7\u03b7\u0342\u03c2 ap' arche\u0304s; that is, from eternity. The doctrine of eternal election is, therefore, true.",
+            "That this is a reason for thanksgiving. Can there be any higher ground of praise or gratitude than that God has chosen us to be eternally holy and happy?"
+        ],
+        "Marvin Vincent": [
+            "Hath chosen . The only case in N. T. in which this word is used of God's election.\" ",
+            "From the beginning . Not elsewhere in Paul. His usual expressions are pro twn aijwnwn before the ages (1 Corinthians 2:7) : pro katabolhv kosmou before the foundation of the world (Ephesians 1:4) : ajpo twn aijwnwn from the ages (Ephesians 3:9).",
+            "Before eternal times is found 2 Timothy 1:9; Titus 1:2."
+        ],
+        "John Calvin": [
+            "Thus we must contemplate the Judgments of God upon the reprobate in such a way that they may be, as it were, mirrors to us for considering his mercy towards us.",
+            "He states the reason why all are not involved and swallowed up in the same ruin \u2014 because Satan has no power over any that God has chosen, so as to prevent them from being saved, though heaven and earth were to be confounded.",
+            "In order that we may know that we are elected by God, there is no occasion to inquire as to what he decreed before the creation of the world, but we find in ourselves a satisfactory proof if he has sanctified us by his Spirit, \u2014 if he has enlightened us in the faith of his gospel."
+        ],
+        "Philip Schaff": [
+            "The awful destiny of those who have not believed to the saving of their souls suggests to the apostle the value of faith and salvation...",
+            "In this compact passage we get the whole series of ideas essential to the Gospel...and the consequent obtaining of salvation or fellowship in Christ\u2019s glory.",
+            "It is to be observed that in pursuance of the idea, with which Paul has been occupied, that wicked hatred of the truth is at the root of unbelief, he now speaks of sanctification of the Spirit as if it preceded belief in the truth."
+        ],
+        "Archibald T. Robertson": [
+            "Beloved of the Lord...the Lord Jesus rather than God the Father.\" ",
+            "From the beginning...the eternal choice or purpose of God.\" ",
+            "In sanctification of the Spirit...And belief of the truth."
+        ],
+        "John Gill": [
+            "The characters which show them to be different from the followers of antichrist are brethren, beloved of the Lord or \"of God\".",
+            "This act is the leading one to all other blessings of grace, as justification, adoption, calling, and glorification.",
+            "The means through which this choice is made, are through sanctification of the spirit, and belief of the truth."
+        ],
+        "John Wesley": [
+            "God hath from the beginning \u2014 Of your hearing the gospel.",
+            "Chosen you to salvation \u2014 Taken you out of the world, and placed you in the way to glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the apostle Paul reminds the Thessalonians that God has chosen them for salvation from the beginning. This choice was not simply an eternal selection, but a personal adoption by God in His eternal purpose. This concept is in direct opposition to the damnation faced by the unbelievers. The divine side of this choosing is the sanctification wrought by the Spirit, while the human side is the reception of the truth through faith. Through this act of God's choosing, the Thessalonians have become beloved of the Lord Jesus, experiencing the eternal mercy and grace of God. Thus, in contemplating the judgments of God upon the reprobate, we can see a mirror of His mercy towards those whom He has selected for salvation.",
+            "wordCount": 125,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.2109016737990936,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.85,
+            "commentatorTierSimilarities": [
+                29.86,
+                35.52,
+                34.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From the beginning, God has chosen the Thessalonians for salvation. This divine choice is not just an eternal selection, but a personal adoption by God in His eternal purpose. It stands in stark contrast to the damnation faced by the unbelievers. The sanctification worked by the Spirit is the divine side of this choosing, while the belief in the truth through faith is the human side. Through this act of God's choosing, the Thessalonians have become beloved of the Lord Jesus, experiencing the eternal mercy and grace of God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.20357891725054,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                31.56,
+                34.84,
+                33.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God's choice of the Thessalonians for salvation is not merely an eternal selection, but a personal adoption in His eternal purpose. The divine side of this choice is the sanctification brought about by the Spirit, while the human side is the belief in the truth through faith. In contrast to the fate of the unbelievers, the Thessalonians are beloved of the Lord Jesus, experiencing the divine mercy and grace. This serves as a reminder that God's judgments upon the reprobate reflect His mercy towards those chosen for salvation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.3488874393734207,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.44,
+            "commentatorTierSimilarities": [
+                29.84,
+                35.65,
+                34.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In God's eternal purpose, He has chosen the Thessalonians for salvation from the beginning. This divine choice, marked by the sanctification of the Spirit, sets them apart from the unbelievers who reject the truth. Beloved of the Lord Jesus, they experience His mercy and grace. The judgments upon the reprobate serve as a mirror, reminding us of God's mercy towards the elect. Through faith and belief in the truth, the Thessalonians have been taken out of the world and placed on the path to glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.17605223624433,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.69,
+            "commentatorTierSimilarities": [
+                30.65,
+                33.6,
+                35.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's choice of the Thessalonians for salvation from the beginning is not just an eternal selection, but also a personal adoption in His eternal purpose. The sanctification of the Spirit and the belief in the truth are the elements through which this choosing takes place. In contrast to the damning fate of the unbelievers, the Thessalonians are recipients of God's salvation. They are beloved of the Lord Jesus, experiencing His everlasting mercy and grace. This divine choice serves as a reflection of God's mercy towards His elect.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.204653619915135,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.65,
+            "commentatorTierSimilarities": [
+                30.26,
+                35.57,
+                34.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

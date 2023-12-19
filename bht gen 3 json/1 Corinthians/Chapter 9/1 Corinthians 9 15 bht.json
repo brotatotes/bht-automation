@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:09:13",
+    "verseRef": "1 Corinthians 9:15",
+    "bestBHT": {
+        "bht": "Paul emphatically states that he would rather die than have his reason for boasting rendered void. While recognizing the validity of receiving support, Paul's unique ability to sustain himself without impeding his ministry allows him to prioritize the advancement of the Gospel over personal gain. By relinquishing his rights, Paul demonstrates unwavering integrity and a commitment to avoid any perception of self-interest. This fervent expression underscores his unwavering dedication to his calling and the conviction to uphold the principles of the Gospel.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5611639077906299,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+        "commentatorTierSimilarities": [
+            44.19,
+            17.94,
+            37.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "none of these things is best explained of the different forms of power which have been mentioned.\" ",
+            "it were good for me rather to die (or better for me to die), than that any one should make void my (matter of) boasting.",
+            "he does not mean, as Chrysostom and others have supposed, of famine, by not being supported, but only that he prefers this his boasting even to life itself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul's special gift of continency, which enabled him to abstain from marriage, and his ability to maintain himself without interrupting seriously his ministry, made that expedient to him which is ordinarily inexpedient.\" ",
+            "What to him was a duty, would be the opposite to one, for instance, to whom God had committed a family, without other means of support.",
+            "Rather than hinder the progress of the Gospel by giving any pretext for a charge of interested motives, Paul would 'die' of hunger."
+        ],
+        "Albert Barnes": [
+            "Though my right to a support is established, in common with others, both by reason, the nature of the case, the examples in the law, and the command of the Lord Jesus, yet there are reasons why I have not chosen to avail myself of this right...\" ",
+            "I neither ask you to send me now a support, nor, if I visit you again, do I expect you will contribute to my maintenance.\u201d ",
+            "Rather than forego these advantages, it would be better for me - it would be a thing which I would prefer - to pine in poverty and want; to be exposed to peril, and cold, and storms, until life should close."
+        ],
+        "John Calvin": [
+            "He would rather die than give occasion for his being deprived of this ground of glorying \u2014 that he bestowed labor upon the Corinthians without any reward.",
+            "He set so high a value upon this glorying, inasmuch as he saw that the authority of the gospel in some degree depended upon it.",
+            "So much did he prefer, even before his own life, the power of advancing the gospel."
+        ],
+        "Philip Schaff": [
+            "But I have used none of these things availed myself of none of these rights (the 'I' here is emphatic).\" ",
+            "I write not these things that it may be so done in my case; for it were good for me rather to die than, etc.\" ",
+            "So thankful was he that he has been led to act at Corinth on this independent principle, that he feels a satisfaction in holding it up as an unanswerable refutation of those base insinuations against his motives."
+        ],
+        "Archibald T. Robertson": [
+            "For it were good for me to die, than that any man should make my glorying void.\" ",
+            "The tangled syntax of this sentence reflects the intensity of Paul's feeling on the subject.",
+            "He repeats his refusal to use his privileges and rights to a salary by use of the present perfect middle indicative, \u03ba\u03b5\u03c7\u03c1\u03b7\u03bc\u03b1."
+        ],
+        "John Gill": [
+            "Neither have I written these things, that it should be so done unto me... for it were better for me to die.\" ",
+            "It was not on his own account that he gave these strong reasons, urged these instances, and so undeniably proved this point, that ministers should be maintained by the people.",
+            "His boasting or glorying, not before God, but against the false apostles; that he had never taken anything of the church at Corinth for preaching, nor never would."
+        ],
+        "John Wesley": [
+            "It were better for me to die than \u2014 To give occasion to them that seek occasion against me, 2 Corinthians 11:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul expresses his strong conviction that it would be preferable for him to die rather than allow anyone to invalidate his reason for boasting. While he acknowledges the legitimacy of receiving support, Paul's unique ability to sustain himself without hindering his ministry makes it unnecessary in his case. He is not speaking of physical deprivation but rather the avoidance of any hint of self-interest or compromising the progress of the Gospel. This deep sentiment of Paul's is reflected in his impassioned expression, where the syntax mirrors his intensity. By choosing to forego his rights, Paul bears witness to his unassailable integrity and commitment to his calling.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.6528022567642453,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.3,
+            "commentatorTierSimilarities": [
+                42.18,
+                21.09,
+                36.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul firmly believes that it would be better for him to die than to have his reason for boasting undermined. Although Paul recognizes the validity of receiving support, his unique ability to sustain himself without hindrance allows him to prioritize the advancement of the Gospel over personal gain. By forgoing his rights, Paul demonstrates his unwavering integrity and dedication to his calling, choosing to avoid any perception of self-interest. His passionate expression of this conviction reflects his intense commitment to the cause.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5425873172416207,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                40.78,
+                21.53,
+                37.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul asserts that he would rather die than allow anyone to invalidate his reason for boasting. While acknowledging the legitimacy of receiving support, Paul's ability to sustain himself without hindrance allows him to prioritize the advancement of the Gospel over personal gain. By renouncing his rights, Paul exhibits unwavering integrity and a commitment to avoid self-interest, ensuring the progress of the Gospel remains untainted. His impassioned expression of this conviction reflects his intense dedication to serving God and spreading His message.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.544869719714025,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.71,
+            "commentatorTierSimilarities": [
+                43.64,
+                17.57,
+                38.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul emphatically states that he would rather die than have his reason for boasting rendered void. While recognizing the validity of receiving support, Paul's unique ability to sustain himself without impeding his ministry allows him to prioritize the advancement of the Gospel over personal gain. By relinquishing his rights, Paul demonstrates unwavering integrity and a commitment to avoid any perception of self-interest. This fervent expression underscores his unwavering dedication to his calling and the conviction to uphold the principles of the Gospel.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5611639077906299,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+            "commentatorTierSimilarities": [
+                44.19,
+                17.94,
+                37.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul firmly declares that he would rather die than allow his boasting to be nullified. While understanding the validity of receiving support, Paul's capability to sustain himself without disrupting his ministry leads him to prioritize the advancement of the Gospel over personal gain. Renouncing his rights, Paul showcases his unshakeable integrity and determination to avoid any suspicion of self-interest. His passionate words illustrate his unwavering commitment to his mission and the unwavering defense of the Gospel's principles.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.5600817228545192,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.22,
+            "commentatorTierSimilarities": [
+                42.88,
+                17.52,
+                39.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

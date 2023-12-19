@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:30:46",
+    "verseRef": "2 Timothy 3:4",
+    "bestBHT": {
+        "bht": "The reckless and headstrong individuals described here are filled with pride and are more devoted to pursuing their own pleasure than to loving and worshiping God. They are capable of betraying others for their own benefit and are driven by impulsive actions and passions. This love for sinful pleasure overpowers any love or sense of God within them, leading them astray and blinding them to His truth. Their behavior is characterized by a complete disregard for the importance of their relationship with God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.5995595026401035,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+        "commentatorTierSimilarities": [
+            28.63,
+            22.08,
+            49.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "heady\u2014precipitate in action and in passion.",
+            "high-minded\u2014literally, 'puffed up' with pride, as with smoke blinding them.",
+            "lovers of pleasure . . . God\u2014Love of pleasure destroys the love and sense of God."
+        ],
+        "Albert Barnes": [
+            "Treason has been in all ages regarded as one of the worst crimes that man can commit.",
+            "Men would be ready to do anything without deliberation, or concern for the consequences.",
+            "Of a large portion of mankind it may be said that this is their characteristic, that they live for pleasure."
+        ],
+        "Marvin Vincent": [
+            "Traitors [\u03c0\u03c1\u03bf\u03b4\u03bf\u03c4\u03b1\u03b9] . Or betrayers.",
+            "Heady [\u03c0\u03c1\u03bf\u03c0\u03b5\u03c4\u03b5\u03b9\u03c2] . Precipitate, reckless, headstrong in the pursuit of a bad end under the influence of passion.",
+            "Lovers of pleasure more than lovers of God [\u03c6\u03b9\u03bb\u03b7\u03b4\u03bf\u03bd\u03bf\u03b9 \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd \u03b7\u03c6\u03b9\u03bb\u03bf\u03b8\u03b5\u03bf\u03b9] . Pleasure - lovers rather than God - lovers."
+        ],
+        "Philip Schaff": [
+            "Heady. Better, \u2018headlong.\u2019",
+            "High-minded. The same word as 1 Timothy 3:6, 1 Timothy 6:4, \u2018fevered\u2019 or \u2018delirious with pride.\u2019\u201d",
+            "Lovers of pleasures. Better, as contrasting more pointedly the two objects of love, Movers of pleasure\u2019 in the singular."
+        ],
+        "Archibald T. Robertson": [
+            "Traitors (\u03c0\u03c1\u03bf\u03b4\u03bf\u03c4\u03b1). Old word...in N.T. only here, Luke 6:16; Acts 7:52.",
+            "Headstrong (\u03c0\u03c1\u03bf\u03c0\u03b5\u03c4\u03b5\u03b9\u03c2). Old word...in N.T. only here and Acts 19:36.",
+            "Puffed up (\u03c4\u03b5\u03c4\u03c5\u03c6\u03c9\u03bc\u03b5\u03bd\u03bf). Perfect passive participle...See 1 Timothy 3:6."
+        ],
+        "John Gill": [
+            "Traitors,.... To their princes and sovereigns, whose deaths they have contrived and compassed, and whom they have assassinated and murdered; and have been betrayers of the secrets of persons, which they have come at by auricular confession to them; and of their best and nearest friends, to preserve and secure themselves.",
+            "Heady; rash, daring, bold, and impudent, fit to say and do anything, though ever so vile and wicked.",
+            "Lovers of pleasure more than lovers of God; lovers of sinful pleasures, or the pleasures of sin, which are but for a season, and not God; serving divers lusts and pleasures, and not God; making a god of their belly; sensual idolaters, delighting themselves in their carnal lusts, and not in the service of God."
+        ],
+        "John Wesley": [
+            "Lovers of sensual pleasure \u2014 Which naturally extinguishes all love and sense of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people described in this verse are characterized by their reckless and impulsive behavior, as well as their prideful and self-centered attitudes. They prioritize their own pleasure above their love for God, which leads them astray and blinds them to His truth. They are even willing to betray others and act as traitors for their own gain. These individuals are headlong in their pursuit of sinful pleasure, completely disregarding the importance of their relationship with God. Their love for pleasure extinguishes their love and sense of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.571447649383758,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.59,
+            "commentatorTierSimilarities": [
+                28.63,
+                20.5,
+                50.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The reckless and headstrong individuals described here are filled with pride and are more devoted to pursuing their own pleasure than to loving and worshiping God. They are capable of betraying others for their own benefit and are driven by impulsive actions and passions. This love for sinful pleasure overpowers any love or sense of God within them, leading them astray and blinding them to His truth. Their behavior is characterized by a complete disregard for the importance of their relationship with God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5995595026401035,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.53,
+            "commentatorTierSimilarities": [
+                28.63,
+                22.08,
+                49.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals mentioned in the passage exhibit reckless and impulsive behavior, driven by their own desires and pride. Their love for sinful pleasure outweighs their love for God, causing them to become traitors and betrayers. They act without consideration for the consequences and are consumed by their pursuit of personal pleasure. In their pursuit, they become blinded to the truth of God and neglect the importance of their relationship with Him. Their actions demonstrate a complete disregard for moral values and devotion to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5329033026486723,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.31,
+            "commentatorTierSimilarities": [
+                30.14,
+                22.09,
+                47.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The individuals described in this text are characterized by their impulsive and reckless nature, driven by their own desires and pride. Their love for pleasure surpasses their love for God, leading them to become traitors and betrayers. They act without thought or concern for the consequences, fully consumed by the pursuit of personal pleasure. In doing so, they are blinded to the truth of God and neglect the significance of their relationship with Him. Their actions reflect a complete disregard for moral values and devotion to God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5255610468861418,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                28.88,
+                23.49,
+                47.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The description given in this verse portrays individuals who are impulsive and headstrong, driven by their passions and desires. They value their own pleasure over their love for God, causing them to act in ways that betray others. Their pursuit of personal pleasure blinds them to the truth and importance of God. Their actions are reckless, lacking consideration for the consequences. These individuals epitomize a disregard for moral values and devotion to God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.5186106148159673,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                30.88,
+                21.95,
+                47.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

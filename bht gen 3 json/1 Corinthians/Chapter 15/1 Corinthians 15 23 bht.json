@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:14:00",
+    "verseRef": "1 Corinthians 15:23",
+    "bestBHT": {
+        "bht": "In the universal Resurrection, all shall not hold the same rank. Christ is the firstfruits, holding His own rank. Each person shall have their proper place, with Christ first. The second coming of Christ marks the period from the resurrection of the just to the general judgment. Each individual will rise again in their own division, troop, or rank. Paul specifically focuses on those that are Christ's and does not mention judgment.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.0817767007364685,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+        "commentatorTierSimilarities": [
+            40.69,
+            28.65,
+            30.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But in this universal Resurrection ALL SHALL NOT HOLD THE SAME RANK.",
+            "The three ranks are mentioned in order of priority, but this does not constitute their distinctive character: Christ is the firstfruits\u2014this is His own rank.",
+            "The key to the understanding of this passage is to be found in the prophecy of our Lord, Matt. xxiv. xxv., but especially in the latter chapter."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though all shall rise again, let not any think all shall be saved; nay, each shall have his proper place, Christ first.",
+            "Christian churches, ministers, and individuals seem about to be judged first 'at His coming'; then 'all the nations.'",
+            "The second coming of Christ is not a mere point of time, but a period beginning with the resurrection of the just at His appearing, and ending with the general judgment."
+        ],
+        "Albert Barnes": [
+            "The word \u03c4\u03b1\u0301\u03b3\u03bc\u03b1 tagma usually relates to military order or array; to the arrangement of a cohort, or band of troops; to their being properly marshalled with the officers at the head, and every man in His proper place in the ranks.",
+            "And as it was proper that a leader or commander should have the first place in a march, or in an enterprise involving peril or glory, so it was proper that Christ should be first in the resurrection, and that the others should follow on in due order and time.",
+            "This proves that the dead will not be raised until Christ shall re-appear. He shall come for that purpose; and he shall assemble all the dead, and shall take his people to himself."
+        ],
+        "Marvin Vincent": [
+            "Order [\u03c4\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9] . Only here in the New Testament. In Sept., a band, troop, or cohort.",
+            "Here in the sense of band, or company, in pursuance of the principle of a descending series of ranks, and of consequent subordinations which is assumed by Paul. The series runs, God, Christ, man.",
+            "The reference is not to time or merit, but simply to the fact that each occupies his own place in the economy of resurrection, which is one great process in several acts. Band after band rises."
+        ],
+        "John Calvin": [
+            "God has appointed another order of things.",
+            "Let us therefore reckon it enough, that we now have in Christ the first-fruits.",
+            "For our life must still be hid with him, because he has not yet appeared."
+        ],
+        "Philip Schaff": [
+            "The one head involves 'them that are his' in 'death;' the other, for 'them that are His' secures 'life.'",
+            "Life is a word which, when meant of the future state of believers, is never used of that of the wicked.",
+            "Our Lord, while teaching the resurrection of all, expressly refuses to the wicked a resurrection to life: 'The hour cometh in which all that are in the grave shall come forth; they that have done good unto the resurrection of life, and they that have done evil unto the resurrection of judgment'."
+        ],
+        "Archibald T. Robertson": [
+            "Order (\u03c4\u03b1\u03b3\u03bc\u03b1\u03c4). Old military term from \u03c4\u03b1\u03c3\u03c3\u03c9, to arrange...Each in his own division, troop, rank.",
+            "The word \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1 was the technical word 'for the arrival or visit of the king or emperor.'",
+            "Paul is only discussing 'those that are Christ's' and so says nothing about judgment."
+        ],
+        "John Gill": [
+            "Christ the firstfruits; he rose first in order of time, dignity, causality and influence.",
+            "The persons who shall rise first and next after Christ, are they that are his; who were chosen in him before the foundation of the world, and were given to him by his Father.",
+            "The time when they will be raised by Christ is, at his coming; at his second and personal coming at the last day; then the dead in Christ will rise first, and immediately."
+        ],
+        "John Wesley": [
+            "Afterward \u2014 The whole harvest. At the same time the wicked shall rise also. But they are not here taken into the account."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the universal Resurrection, all shall not hold the same rank. Christ is the firstfruits, holding His own rank. Each person shall have their proper place, with Christ first. The second coming of Christ marks the period from the resurrection of the just to the general judgment. Paul uses the term order as a descending series of ranks, with God, Christ, and man. Each individual will rise again in their own division, troop, or rank. The word parousia refers to the arrival or visit of the king, emphasizing the importance of Christ's reappearance. Paul specifically focuses on those that are Christ's and does not mention judgment. This passage reveals that Christ shall reappear and assemble all the dead, taking His people to Himself. The wicked, however, will not be resurrected to life.",
+            "wordCount": 134,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 2.0932925016149095,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                38.29,
+                31.69,
+                30.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the universal Resurrection, all shall not hold the same rank. Christ is the firstfruits, holding His own rank. Each person shall have their proper place, with Christ first. The second coming of Christ marks the period from the resurrection of the just to the general judgment. Paul uses the term order as a descending series of ranks. Each individual will rise again in their own division, troop, or rank. The word parousia refers to the arrival or visit of the king. Paul specifically focuses on those that are Christ's and does not mention judgment.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.0125274528815558,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                41.76,
+                29.37,
+                28.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the universal Resurrection, all shall not hold the same rank. Christ is the firstfruits, holding His own rank. Each person shall have their proper place, with Christ first. The second coming of Christ marks the period from the resurrection of the just to the general judgment. Each individual will rise again in their own division, troop, or rank. The word parousia refers to the arrival or visit of the king. Paul specifically focuses on those that are Christ's and does not mention judgment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.034029332798462,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                40.98,
+                29.56,
+                29.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the universal Resurrection, all shall not hold the same rank. Christ is the firstfruits, holding His own rank. Each person shall have their proper place, with Christ first. The second coming of Christ marks the period from the resurrection of the just to the general judgment. Each individual will rise again in their own division, troop, or rank. Paul specifically focuses on those that are Christ's and does not mention judgment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.0817767007364685,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                40.69,
+                28.65,
+                30.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, Paul discusses the different ranks in the universal Resurrection. Christ holds the first rank as the firstfruits, while others will follow in due order and time. Each person will occupy their own place in the resurrection, and it is important to note that not all will be saved. The second coming of Christ marks the beginning of this period, starting with the resurrection of the just and ending with the general judgment. The word order refers to the arrangement of bands or divisions, emphasizing the descending series of ranks. This resurrection is not about time or merit, but about each person occupying their proper place in the economy of resurrection.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0805306263379073,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.52,
+            "commentatorTierSimilarities": [
+                38.62,
+                34.34,
+                27.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:19:21",
+    "verseRef": "Luke 13:2",
+    "bestBHT": {
+        "bht": "Jesus does not deny that the Galileans who were killed were sinners, but he emphasizes that their fate does not make them particularly wicked. The term sinners above all means that they were placed beside all other sinners but not necessarily above them in wickedness. It is important to avoid labeling every calamity as a judgment from God, as this often stems from a lack of charity and a tendency to harshly judge others. We should humbly acknowledge the mystery of God's ways, as his judgments are beyond our understanding.",
+        "wordCount": 91,
+        "quoteTokenProportion": 51.47,
+        "qualityScore": 1.8638561178118884,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+        "commentatorTierSimilarities": [
+            30.01,
+            36.88,
+            33.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He does not deny that all the Galil\u00e6ans were sinners, and deserved God\u2019s judgments, but that these were pre-eminently so.",
+            "Our Lord perceives this to be their reasoning\u2014they did not express it, as is plain by the suppose ye...",
+            "He does not deny that all the Galil\u00e6ans were sinners, and deserved God\u2019s judgments."
+        ],
+        "John Calvin": [
+            "This passage is highly useful, were it for no other reason than that this disease is almost natural to us, to be too rigorous and severe in judging of others, and too much disposed to flatter our own faults.",
+            "He shows, first, that those who are treated with severity are not the most wicked of all men; because God administers his judgments in such a manner, that some are instantly seized and punished, and others are permitted to remain long in the enjoyment of ease and luxury.",
+            "He declares that those men were not more wicked than others, but that their death was held out to all as a ground of alarm; for if in them God gave a display of his judgment, no more would others, though they might be spared for a time, escape his hand."
+        ],
+        "Philip Schaff": [
+            "Our Lord does not deny that they were sinners; but only that their fate proved them to be especially great sinners.",
+            "The verse directly opposes the very common habit of calling every calamity that befalls another a \u2018judgment.\u2019",
+            "Such a verdict has the air of piety, but it is generally the result of uncharitableness."
+        ],
+        "Archibald T. Robertson": [
+            "Sinners above all (\u03b1\u03bc\u03b1\u03c1\u03c4\u03c9\u03bb\u03bf \u03c0\u03b1\u03c1\u03b1 \u03c0\u03b1\u03bd\u03c4\u03b1\u03c2).\" ",
+            "\u03a0\u03b1\u03c1\u03b1 means 'beside,' placed beside all the Galileans, and so beyond or above (with the accusative).",
+            "The tense notes that it is 'an irrevocable fact' (Bruce)."
+        ],
+        "John Gill": [
+            "God's judgments are a great deep, and not to be fathomed by us.",
+            "There is nothing that comes by chance, but every thing by the wise disposal of divine providence.",
+            "Love and hatred, the characters and states of men, are not to be known by these effects in providence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is important to understand that in Luke 13:2, Jesus does not deny that the Galileans who were killed were sinners, but rather emphasizes that their fate does not make them particularly wicked. The term sinners above all means that they were placed beside all other sinners, but not necessarily above them in their level of wickedness. Jesus challenges the common habit of labeling every calamity as a judgment from God, as this often stems from a lack of charity and a tendency to harshly judge others. It is crucial to remember that God's judgments are beyond our understanding, and his providence encompasses both punishment and mercy. Whether someone experiences immediate consequences or is spared for a time does not determine their righteousness or wickedness. Thus, we should avoid being overly severe in our judgments and instead humbly acknowledge the mystery of God's ways.",
+            "wordCount": 145,
+            "quoteTokenProportion": 43.3,
+            "qualityScore": 1.7193232273515937,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.51,
+            "commentatorTierSimilarities": [
+                28.46,
+                35.34,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus does not deny that the Galileans who were killed were sinners, but he emphasizes that their fate does not make them particularly wicked. The term sinners above all means that they were placed beside all other sinners but not necessarily above them in wickedness. It is important to avoid labeling every calamity as a judgment from God, as this often stems from a lack of charity and a tendency to harshly judge others. We should humbly acknowledge the mystery of God's ways, as his judgments are beyond our understanding.",
+            "wordCount": 91,
+            "quoteTokenProportion": 51.47,
+            "qualityScore": 1.8638561178118884,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                30.01,
+                36.88,
+                33.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus acknowledges that the Galileans who were killed were sinners, but he emphasizes that their fate does not make them especially wicked. The phrase sinners above all means that they were placed alongside all other sinners, but not necessarily considered worse than them. It is common for people to label every calamity as a divine judgment, but this is often due to a lack of charity and a propensity to harshly judge others. We must recognize the mysterious ways in which God's judgments and providence operate, as they surpass our comprehension.",
+            "wordCount": 92,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.8381209786215367,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                28.72,
+                37.73,
+                33.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus does not deny that the Galileans who died were sinners deserving of God's judgment. However, he challenges the notion that their deaths prove they were particularly wicked. The phrase sinners above all means that they were placed beside all other sinners, not necessarily above them. It is common to attribute every calamity to God's judgment, but Jesus highlights the danger of uncharitable judgment. We must recognize the mysteries of God's ways \u2013 his judgments and providence \u2013 which are beyond our understanding.",
+            "wordCount": 84,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.7658373316499594,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.06,
+            "commentatorTierSimilarities": [
+                30.76,
+                35.95,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus acknowledges that the Galileans who were killed were sinners deserving of God\u2019s judgments. However, he clarifies that their fate does not necessarily imply they were more wicked than others. The phrase sinners above all emphasizes that they were placed beside all other sinners, not necessarily above them in wickedness. Jesus challenges the tendency to label every calamity as a divine judgment, cautioning against uncharitable judgment of others. We must humbly recognize the mysterious ways in which God's judgments and providence unfold, beyond our understanding.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.795089586483936,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                29.76,
+                36.8,
+                33.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

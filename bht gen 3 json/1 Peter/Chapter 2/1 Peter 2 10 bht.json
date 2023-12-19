@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:12",
+    "verseRef": "1 Peter 2:10",
+    "bestBHT": {
+        "bht": "Through God's pure mercy and compassion, the Gentiles, who were once despised and unpitied, experienced an incredible transformation. They went from a state of being no people to becoming the people of God. This change was not brought about by their own merits, but by God's graciousness. The Apostle Peter confirms that this prophecy applies not only to Israel but also to the call of the Gentiles to become God's people. In Christ, the Gentiles were united as a true people, chosen and reconciled by God.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.85,
+        "qualityScore": 2.2905109035390687,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+        "commentatorTierSimilarities": [
+            26.15,
+            37.77,
+            36.07
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "who (contrast between their former and present states) were once no people (the Apostle is again citing, or rather clothing that which he has to write in, Old Test. words: see Hos. ii. 23), but [are] now the people of God",
+            "who were unpitied (of God: the clauses here and above are not merely negatives, but contraries: not 'who had not obtained mercy, but now have obtained mercy,' as A.V., indicating a mere change of time in order of progress, but who were unpitied, objects of aversion and wrath)",
+            "but now have obtained compassion (the past tense has a fine and delicate force which cannot be given in a version: who were men who [have received no pity], but now men who [received pity], viz. when God called you by Christ)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter plainly confirms Paul, who quotes the passage as implying the call of the Gentiles to become spiritually that which Israel had been literally, 'the people of God.'\" (23 words)",
+            "Primarily, the prophecy refers to literal Israel, hereafter to be fully that which in their best days they were only partially, God's people.\" (21 words)",
+            "Implies that it was God's pure mercy, not their merits, which made the blessed change in their state; a thought which ought to kindle their lively gratitude.\" (25 words)"
+        ],
+        "Albert Barnes": [
+            "Which in time past were not a people - That is, who formerly were not regarded as the people of God.",
+            "Those who had been Gentiles, and who had never been recognized as the people of God.",
+            "They were then in the condition of the whole pagan world, and they had not then been acquainted with the glorious method by which God forgives iniquity."
+        ],
+        "Marvin Vincent": [
+            "People [\u03bb\u03b1\u03bf\u03c2] . See on ver. 9, and note the choice of the term here. A people of God. Compare Romans 9:25, Romans 9:26."
+        ],
+        "John Calvin": [
+            "But when they are gathered in Christ, from no people they really become the people of God.\" (Commentary)",
+            "This was added by the Prophet, in order that the gratuitous covenant of God, by which he takes them to be his people, might be more clearly set forth; as though he had said, 'There is no other reason why the Lord counts us his people, except that he, having mercy on us, graciously adopts us.'\" (Commentary)",
+            "It is then God\u2019s gratuitous goodness, which makes of no people a people to God, and reconciles the alienated.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Once they were not only not Gods people, but \u2018no people.\u2019 Their lack of relation to God involved lack of that relation to each other which merges differences of race, speech, worship, custom, opinion.\" ",
+            "Now they are not only a people, with the bonds of a true people\u2019s union, but God\u2019s people, owned of Him and administered by Him.",
+            "Once they had been in the condition of persons not compassionated; now they are persons once for all compassionated of God."
+        ],
+        "Archibald T. Robertson": [
+            "Who once upon a time.",
+            "Note use of \u03bf\u03c5 (not \u03bf\u03c5\u03b4\u03b5\u03b9\u03c2) with \u03bb\u03b1\u03bf\u03c2 like Hebrew negative.",
+            "Change to first aorist passive participle from 'the long antecedent state' to 'the single event of conversion which ended it' (Hort)."
+        ],
+        "John Gill": [
+            "God's elect, whether among Jews or Gentiles, were, from eternity, his chosen people, and his covenant people.",
+            "They can then claim their relation to God, and are known, acknowledged, and called the people of God, by others.",
+            "Before conversion there is mercy in God's heart towards his elect, and so there is in the covenant of grace, and which was shown in the provision of his Son, as a Saviour, in the mission of him, and redemption by him."
+        ],
+        "John Wesley": [
+            "Who in time past were not a people \u2014 Much less the people of God; but scattered individuals of many nations.",
+            "The former part of the verse particularly respects the gentiles; the latter, the Jews.",
+            "The former part of the verse particularly respects the gentiles; the latter, the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Once despised and unpitied, the Gentiles were transformed from a state of being no people into the people of God. This transformation was not based on their own merits, but solely on God's pure mercy and compassion. The Apostle Peter confirms that this prophecy refers not only to literal Israel, but also to the call of the Gentiles to become the spiritual people of God. Before their conversion, the Gentiles were alienated and lacked any relation to God or each other. However, through Christ, they were united as a true people and became the chosen and reconciled people of God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 2.349761155393198,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.47,
+            "commentatorTierSimilarities": [
+                26.33,
+                37.41,
+                36.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Once despised and unpitied, the Gentiles were transformed from a state of being no people into the people of God solely through God's pure mercy and compassion. This transformation was not based on their merits, but a gracious change in their state. The Apostle Peter confirms that this prophecy refers not only to literal Israel but also to the call of the Gentiles to become the spiritual people of God. Through Christ, the Gentiles were united as a true people, chosen and reconciled by God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 2.2326991079015035,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                28.42,
+                35.47,
+                36.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Once despised and unpitied, the Gentiles were transformed from a state of being no people into the people of God through God's pure mercy and compassion. This transformation was not based on their merits but a gracious change in their state. The Apostle Peter confirms that this prophecy refers not only to literal Israel but also to the call of the Gentiles to become the spiritual people of God. Through Christ, the Gentiles were united as a true people, chosen and reconciled by God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.2341080205737693,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.62,
+            "commentatorTierSimilarities": [
+                28.54,
+                34.95,
+                36.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From a state of being no people, despised and unpitied, the Gentiles were transformed into the people of God. This transformation was solely a result of God's pure mercy and compassion, not their own merits. The Apostle Peter confirms that the prophecy refers not only to literal Israel, but also to the call of the Gentiles to become God's people. Through Christ, the Gentiles were united as a true people, chosen and reconciled by God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 2.3518527771261706,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.54,
+            "commentatorTierSimilarities": [
+                27.14,
+                35.44,
+                37.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through God's pure mercy and compassion, the Gentiles, who were once despised and unpitied, experienced an incredible transformation. They went from a state of being no people to becoming the people of God. This change was not brought about by their own merits, but by God's graciousness. The Apostle Peter confirms that this prophecy applies not only to Israel but also to the call of the Gentiles to become God's people. In Christ, the Gentiles were united as a true people, chosen and reconciled by God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.2905109035390687,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.5,
+            "commentatorTierSimilarities": [
+                26.15,
+                37.77,
+                36.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 15:14:47",
+    "verseRef": "2 Corinthians 1:7",
+    "bestBHT": {
+        "bht": "We are comforted with the assurance that there is a community of consolation between the writer, Paul, and the Corinthians. Despite the false Apostles' attempts to tarnish Paul's reputation, he associates the Corinthians with himself in both fellowship of afflictions and hope of consolation. Just as Paul and the Corinthians are united in their sufferings, they will also be united in their consolation. This steadfast hope brings a firm and unshaken expectation of salvation for the Corinthians. The shared sorrows and consolations serve to bind them together as partners in their faith.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.0,
+        "qualityScore": 1.655425473481284,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+        "commentatorTierSimilarities": [
+            22.67,
+            36.95,
+            40.39
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are comforted with the assurance that, &c.",
+            "He is speaking generally, of the community of consolation subsisting mutually between himself and the Corinthians.",
+            "It was this thought which helped to console him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. so shall ye be",
+            "\u2014rather, \"So are ye.\" He means, there is",
+            "\ta community of consolation, as of suffering, between me and you."
+        ],
+        "Albert Barnes": [
+            "We have a firm and unshaken hope in regard to you; we have a confident expectation that you will be saved.",
+            "United sorrows and united consolations tend more than anything else to bind people together.",
+            "We always have a 'brotherly' feeling for one who suffers as we do; or who has the same kind of joy which we have."
+        ],
+        "John Calvin": [
+            "Knowing, that as However there might be some of the Corinthians that were drawn away for the time by the calumnies of the false Apostles, so as to entertain less honorable views of Paul, on seeing him shamefully handled before the world, he, nevertheless, associates them with himself both in fellowship of afflictions, and in hope of consolation.",
+            "The Corinthians were \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03bf\u1f77 partakers of, or in communion with him in his afflictions. What is more humble and lowly (\u03c4\u1f77 \u03c4\u03b1\u03c0\u03b5\u03b9\u03bd\u03bf\u03c6\u03c1\u03c9\u03bd\u1f73\u03c3\u03c4\u03b5\u03c1\u03bf\u03bd) than Paul in this expression? saith Chrysostom \u2014 they who had not in the least measure shared with him in sufferings, yet he maketh them copartners with him.",
+            "They are, as Salmeron expresseth it, Copartners in the gain and in the loss with Paul. They venture (as it were) in the ship together.\u201d \u2014 Burgesse."
+        ],
+        "Archibald T. Robertson": [
+            "The old word \u03b5\u03bb\u03c0\u03b9\u03c2, from \u03b5\u03bb\u03c0\u03b9\u03b6\u03c9, to hope, has the idea of waiting with expectation and patience.\" ",
+            "So here it is 'steadfast' (\u03b2\u03b5\u03b2\u03b1\u03b9\u03b1, stable, fast, from \u03b2\u03b1\u03b9\u03bd\u03c9, to plant the feet down).",
+            "Partners as in Luke 5:10."
+        ],
+        "John Gill": [
+            "Our hope of you is steadfast.\" ",
+            "Knowing that as you are partakers of the sufferings...so you are also of the consolation.\" ",
+            "Present consolation, which the saints enjoy here as a pledge and earnest of that fulness of joy which they shall have with Christ for evermore."
+        ],
+        "John Wesley": [
+            "And our hope concerning you \u2014 Grounded on your patience in suffering for Christ's sake, is steadfast."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We are comforted with the assurance that there is a community of consolation between the writer, Paul, and the Corinthians. Despite the false Apostles' attempts to tarnish Paul's reputation, he associates the Corinthians with himself in both fellowship of afflictions and hope of consolation. Just as Paul and the Corinthians are united in their sufferings, they will also be united in their consolation. This steadfast hope brings a firm and unshaken expectation of salvation for the Corinthians. The shared sorrows and consolations serve to bind them together as partners in their faith.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.655425473481284,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                22.67,
+                36.95,
+                40.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We find comfort in knowing that there is a mutual community of consolation between Paul and the Corinthians. Despite attempts to tarnish his reputation, Paul considers the Corinthians partners in both suffering and hope. Their shared sorrows and consolations serve to bind them together, leading to a steadfast hope of salvation. The Corinthians' patience in enduring suffering for Christ's sake grounds Paul's confident expectation of their ultimate deliverance. This shared experience unites them as partners in faith, strengthening their bond.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.5305697396401012,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                21.9,
+                36.08,
+                42.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are comforted by knowing that there exists a mutual community of consolation between Paul and the Corinthians. Paul considers the Corinthians partners in both suffering and hope, regardless of attempts to tarnish his reputation. Their shared sorrows and consolations bind them together, leading to a steadfast hope in their salvation. Paul's firm expectation of their deliverance is rooted in the Corinthians' patient endurance of suffering for the sake of Christ. This shared experience unites them as partners in faith, strengthening their bond.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.5047275033477638,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                22.33,
+                35.86,
+                41.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We find comfort in the mutual community of consolation between Paul and the Corinthians. Their shared sorrows and consolations bind them together, fostering a steadfast hope of salvation. Paul considers the Corinthians partners in both suffering and hope, despite attempts to tarnish his reputation. This shared experience unites them in faith, strengthening their bond. The Corinthians' patient endurance of suffering for Christ's sake grounds Paul's confident expectation of their ultimate deliverance. Their partnership in both loss and gain ensures their shared hope remains steadfast.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.488374171688939,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.83,
+            "commentatorTierSimilarities": [
+                22.21,
+                36.96,
+                40.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are comforted by the mutual community of consolation between Paul and the Corinthians. Their shared sorrows and consolations bind them together, fostering a steadfast hope of salvation. Paul considers the Corinthians partners in both suffering and hope, despite attempts to tarnish his reputation. Their patient endurance of suffering for Christ's sake grounds Paul's confident expectation of their ultimate deliverance. Their partnership in both loss and gain ensures their shared hope remains steadfast.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.514045861765084,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.68,
+            "commentatorTierSimilarities": [
+                21.18,
+                36.1,
+                42.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

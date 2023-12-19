@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:27:21",
+    "verseRef": "Acts 7:25",
+    "bestBHT": {
+        "bht": "The resistance to the Holy Spirit is evident as Stephen recounts Moses' story. Moses expected his brethren to understand and rally under him as their leader, but they failed to grasp the divine purpose behind his actions. This highlights Israel's ongoing struggle to comprehend and align with God's plans, reflecting their spiritual dullness. The Israelites consistently misunderstood and misinterpreted the works and ways of their Protector, revealing their inability to perceive the significance of Moses' role as their deliverer.",
+        "wordCount": 81,
+        "quoteTokenProportion": 25.86,
+        "qualityScore": 1.9107916404856664,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+        "commentatorTierSimilarities": [
+            28.44,
+            44.24,
+            27.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] Here we have again the resistance to the Holy Spirit hinted: see ver. 51, and note on ver. 2."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For he supposed his brethren would have understood... and perhaps imagined this a suitable occasion for rousing and rallying them under him as their leader thus anticipating his work, and so running unsent.",
+            "but they understood not\u2014Reckoning on a spirit in them congenial with his own, he had the mortification to find it far otherwise.",
+            "This furnishes to Stephen another example of Israel's slowness to apprehend and fall in with the divine purposes of love."
+        ],
+        "Albert Barnes": [
+            "When they saw him 'alone' contending with the Egyptian; when it was understood that he had come and taken vengeance on one of their oppressors, it might have been presumed that he regarded himself as directed by God to interpose, and save the people.\" "
+        ],
+        "Marvin Vincent": [
+            "Understood [\u03c3\u03c5\u03bd\u03b9\u03b5\u03bd\u03b1\u03b9] See on understanding, Mark 12:33."
+        ],
+        "Philip Schaff": [
+            "Moses vainly thought that this people, remembering their early history and the glorious promises of God, would at once have recognized in the doer of so bold an action on their behalf, a deliverer sent by that God.",
+            "Then as ever in the history of the chosen people, wilful misunderstanding on their part, of the ways and works of the Eternal, their Protector.",
+            "No, they misunderstood their God then as now."
+        ],
+        "Archibald T. Robertson": [
+            "He supposed, when he smote the Egyptian.",
+            "That his brethren understood, to comprehend.",
+            "But they understood not, the rhetorical power of these words."
+        ],
+        "John Gill": [
+            "From his wonderful birth, and miraculous preservation in his infancy, and education in Pharaoh's court.",
+            "Believing that his brethren would make no advantage of it against him; but look upon it as a beginning and pledge of their deliverance by him.",
+            "They did not understand that he was to be their deliverer, or that this action of his was a token of it."
+        ],
+        "John Wesley": [
+            "They understood it not \u2014 Such was their stupidity and sloth; which made him afterward unwilling to go to them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:25, the resistance to the Holy Spirit is apparent as Stephen shares the story of Moses. Moses anticipated that his brethren would understand that he was destined to be their leader and deliverer, but to his disappointment, they completely misunderstood the significance of his actions. This highlights Israel's recurring slowness to comprehend and align with God's divine plans and purposes. Moses, hoping that his people would recognize him as a God-sent deliverer, instead faced the wilful misunderstanding and misinterpretation of the Israelites. Their failure to grasp the significance of Moses' actions was a testament to their spiritual dullness and a foreshadowing of their ongoing inability to comprehend the ways of God. Such misunderstanding and lack of understanding persisted throughout Israel's history, as they continually failed to perceive and appreciate the works of their Protector.",
+            "wordCount": 139,
+            "quoteTokenProportion": 26.83,
+            "qualityScore": 1.9641253485607542,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.65,
+            "commentatorTierSimilarities": [
+                25.71,
+                44.04,
+                30.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The resistance to the Holy Spirit is evident in this passage, as Stephen reveals how Moses anticipated his brethren to understand and support him as their leader and deliverer. However, their lack of comprehension and their failure to recognize the divine purpose behind his actions showcase Israel's recurring slowness to align with God's plan. Their misunderstanding and inability to grasp the significance of Moses' role as their deliverer points to their spiritual dullness and their ongoing struggle to comprehend the ways of God throughout their history.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.038309825286005,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                26.3,
+                43.17,
+                30.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The resistance to the Holy Spirit is evident as Stephen recounts Moses' story. Moses expected his brethren to understand and rally under him as their leader, but they failed to grasp the divine purpose behind his actions. This highlights Israel's ongoing struggle to comprehend and align with God's plans, reflecting their spiritual dullness. The Israelites consistently misunderstood and misinterpreted the works and ways of their Protector, revealing their inability to perceive the significance of Moses' role as their deliverer.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.9107916404856664,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                28.44,
+                44.24,
+                27.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stephen's account of Moses in Acts 7:25 demonstrates Israel's resistance to the Holy Spirit, as Moses expected his brethren to comprehend and unite with him as their leader. However, their failure to understand the divine purpose behind his actions exemplified their slowness to grasp God's plan. This recurring theme sheds light on Israel's historical pattern of misunderstanding and misinterpreting the ways of their Protector. Their spiritual dulness and inability to perceive Moses' role as their deliverer were indicative of their ongoing struggles in comprehending God's works and intentions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.898289674748638,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                27.68,
+                44.8,
+                27.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, the story highlights Israel's recurring slowness to understand and embrace the divine purposes of love. Moses anticipated that his brethren would grasp the significance of his actions, but they failed to comprehend the rhetorical power behind them. Their misunderstanding reflects their spiritual dullness and ongoing struggles to perceive and align with God's plans. This pattern of misinterpretation and lack of understanding persisted throughout Israel's history, illustrating their failure to recognize God as their deliverer.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9355633544167319,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                28.63,
+                41.33,
+                30.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

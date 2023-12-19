@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:13:33",
+    "verseRef": "Luke 1:59",
+    "bestBHT": {
+        "bht": "On the eighth day, in accordance with the law, the child was circumcised, just as Abram and Sarai had their names changed when this rite was established. It was common for children to be named during circumcision, reflecting the Jewish custom. People in the East would also name their children on the seventh or eighth day, even if circumcision was not practiced. While it was customary for a child to be named after their father or a relative, in earlier times, Jewish sons rarely bore their fathers' names.",
+        "wordCount": 88,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.584328890420188,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.27,
+        "commentatorTierSimilarities": [
+            24.17,
+            50.56,
+            25.27
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The names of children were given at circumcision, because, at the institution of that rite, the names of Abram and Sarai were changed to Abraham and Sarah.\" ",
+            "The imperfect tense is here in its strict meaning, as in Matt. viii. 24.",
+            "They were calling\u2014wished to call: the imperfect tense is here in its strict meaning, as in Matt. viii. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The law was observed, even though the eighth day after birth should be a sabbath.",
+            "The naming of children at baptism has its origin in the Jewish custom at circumcision.",
+            "The names of Abram and Sarai were changed at its first performance."
+        ],
+        "Albert Barnes": [
+            "On the eighth day - This was the day on which it was required to circumcise children.\" ",
+            "And they called him Zacharias - The name of the child was commonly given at the time of the circumcision.",
+            "The name 'commonly' given to the eldest son was that of the father."
+        ],
+        "Marvin Vincent": [
+            "They called [\u03b5\u03ba\u03b1\u03bb\u03bf\u03c5\u03bd] . The imperfect ense signifies, as Rev., they would have called : they were about to call : or, as Bishop Lightfoot has happily suggested, they were for calling."
+        ],
+        "John Calvin": [
+            "We know that names were originally given to men, either from some occurrence, or even by prophetic inspiration, to point out some secret work of God.",
+            "...people satisfied themselves with the old and received names, and called their children by the names of their ancestors.",
+            "Though we must not imagine that there is any sacredness in names, yet no judicious person will deny that, in this matter, believers ought to make a godly and profitable selection."
+        ],
+        "Philip Schaff": [
+            "The custom of naming a child at circumcision seems to have had its origin in the change of names (Abram, Abraham; Sarai, Sarah) at the institution of the rite.\" ",
+            "It is said to be the usage in the East, even where circumcision is unknown, to name a child on the seventh or eighth day.\" ",
+            "Naming a child after the father or a relative was very common among the Greeks, and also among the Jews; but in earlier times a Jewish son rarely bore the name of his father."
+        ],
+        "Archibald T. Robertson": [
+            "Would have called (\u03b5\u03ba\u03b1\u03bb\u03bf\u03c5\u03bd). Conative imperfect, tried to call. "
+        ],
+        "John Gill": [
+            "Keeping the exact time was judged most commendable and praiseworthy.",
+            "The circumcision of John seems to be performed in Zacharias's house, and by one of those that came.",
+            "To call children by Gentile names was not lawful."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the eighth day, in accordance with the law, the child was circumcised, just as Abram and Sarai had their names changed when this rite was established. It was common for children to be named during circumcision, reflecting the Jewish custom. People in the East would also name their children on the seventh or eighth day, even if circumcision was not practiced. While it was customary for a child to be named after their father or a relative, in earlier times, Jewish sons rarely bore their fathers' names. It was seen as commendable to keep the exact time for circumcision. Believers should make a careful and wise selection when choosing names for their children, even though names themselves hold no inherent sacredness. Gentile names were not permitted for Jewish children.",
+            "wordCount": 130,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 2.3927400706772897,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.9,
+            "commentatorTierSimilarities": [
+                24.41,
+                47.76,
+                27.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On the eighth day, in accordance with the law, the child was circumcised, just as Abram and Sarai had their names changed when this rite was established. It was common for children to be named during circumcision, reflecting the Jewish custom. People in the East would also name their children on the seventh or eighth day, even if circumcision was not practiced. While it was customary for a child to be named after their father or a relative, in earlier times, Jewish sons rarely bore their fathers' names.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.584328890420188,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.27,
+            "commentatorTierSimilarities": [
+                24.17,
+                50.56,
+                25.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the eighth day, in accordance with the law, the child was circumcised, just as Abram and Sarai had their names changed when this rite was established. It was common for children to be named during circumcision, reflecting the Jewish custom. People in the East would also name their children on the seventh or eighth day, even if circumcision was not practiced. While it was customary for a child to be named after their father or a relative, in earlier times, Jewish sons rarely bore their fathers' names.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.584328890420188,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.27,
+            "commentatorTierSimilarities": [
+                24.17,
+                50.56,
+                25.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On the eighth day, the child was circumcised, following the law and mirroring the renaming of Abram and Sarai during the inception of this ritual. In accordance with Jewish custom, the child was given a name during circumcision. Even among cultures where circumcision was not practiced, it was customary to name the child on the seventh or eighth day. While it was common for children to be named after their fathers or relatives, this was not the case among Jews in earlier times.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.4750239801097846,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.63,
+            "commentatorTierSimilarities": [
+                23.42,
+                51.18,
+                25.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In compliance with the law, the child was circumcised on the eighth day, a practice established when Abram and Sarai had their names changed. Reflecting Jewish tradition, the child received a name during circumcision. It was customary, even in non-circumcising cultures, to name a child on the seventh or eighth day. Although it was common to name a child after their father or a relative, Jewish sons in earlier times rarely carried their fathers' names.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.396647987092082,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.03,
+            "commentatorTierSimilarities": [
+                23.04,
+                51.55,
+                25.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

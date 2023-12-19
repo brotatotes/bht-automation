@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:38:47",
+    "verseRef": "1 Peter 1:11",
+    "bestBHT": {
+        "bht": "The Old Testament prophets sought to discover the precise period and signs of the times at which the revelation of Gentile inclusion into Israel's grace would be fulfilled. Through the Spirit of Christ, they predicted the sufferings and glories that would follow. These prophecies serve as mirrors, reflecting the image of celestial glory amid afflictions. Afflictions precede glory, as ordained by God's providence. The prophecies remind us that we are not afflicted by chance, but by the infallible providence of God.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 1.8414968020110338,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+        "commentatorTierSimilarities": [
+            38.88,
+            27.12,
+            34.0
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "What expresses the time absolutely: what was to be the era of Messiah's coming; what manner of time; what events and features should characterize the time of His coming.",
+            "Jesus was He who appeared and communed with Moses, Abraham, and the other patriarchs.",
+            "Christ, the anointed Mediator, whose sufferings are the price of our 'salvation,' and who is the channel of 'the grace that should come unto you.'"
+        ],
+        "Albert Barnes": [
+            "The expression used here in the original, rendered 'what,' (\u03b5\u03b9\u0313\u03c2 \u03c4\u03b9\u0301\u03bd\u03b1 eis tina,) literally, 'unto what,' may mean, so far as the Greek is concerned, either 'what time,' or 'what people,' or 'what person;'\".",
+            "And how intent would such a mind be to know what was the full import of those words!",
+            "They saw clearly that the Messiah was to suffer; and doubtless this was the common doctrine of the prophets, and the common expectation of the pious part of the Jewish nation."
+        ],
+        "Marvin Vincent": [
+            "Was declaring, all along through the prophetic age, in successive prophets.",
+            "The sufferings destined for Christ.",
+            "The glories. The plural is used to indicate the successive steps of his glorification."
+        ],
+        "John Calvin": [
+            "There is, therefore, no reason why afflictions should above measure depress us, as though we were miserable under them, since the Spirit of God pronounces us blessed.\" ",
+            "For he intimates that this order cannot be changed or subverted; afflictions must precede glory.\" ",
+            "Hence we learn, that it is not in vain that a happy end is promised to us; secondly, we hence know that we are not afflicted by chance, but through the infallible providence of God; and lastly, that prophecies are like mirrors to set forth to us in tribulations the image of celestial glory."
+        ],
+        "Philip Schaff": [
+            "By diligent reflection these prophets sought to discover the precise period (whether soon or late), or, if that were denied them, at least the signs of the times the kind of era (whether, e.g., one of peace or one of war) at which the revelation given them of the destined admission of the Gentile world into Israel\u2019s grace was to be made good.",
+            "The men were conscious that those future things of grace which they saw inwardly came to them not as the forecastings of their own sagacity, but as the communications of a revealing Agent.",
+            "The revealing Power in them is designated \u2018the Spirit of Christ,\u2019 not in the sense of the Spirit that speaks of Christ, but in the sense of the Spirit that belongs to Christ, or possibly the Spirit that is identical with Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Peter definitely asserts here that the Spirit of Jesus Christ (the Messiah) was in the Old Testament prophets, the Holy Spirit called the Spirit of Christ and the Spirit of God (Romans 8:9), who spoke to the prophets as he would speak to the apostles.\" ",
+            "Here we have predictive prophecy concerning the Messiah, though some modern critics fail to find predictions of the Messiah in the Old Testament.\" ",
+            "The glories of Christ followed the sufferings."
+        ],
+        "John Gill": [
+            "The prophets made a very diligent inquiry into the exact time when Christ should come to work out the salvation of his people.",
+            "They not only searched into the exact time, but into the manner and quality of the time when the Saviour should come.",
+            "From whence it appears, that Christ then existed, as he did before there were any prophets, and even from everlasting, being the eternal God."
+        ],
+        "John Wesley": [
+            "Searching what time \u2014 What particular period.\" ",
+            "And what manner of time \u2014 By what marks to be distinguished.\" ",
+            "The glories that were to follow \u2014 His sufferings; namely, the glory of his resurrection, ascension, exaltation, and the effusion of his Spirit; the glory of the last judgment, and of his eternal kingdom; and also the glories of his grace in the hearts and lives of Christians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Old Testament prophets were inspired by the Spirit of Christ to speak of the sufferings and glories of the Messiah. They diligently searched for the exact time and manner of His coming, understanding that afflictions must precede glory. These prophecies serve as mirrors, reflecting the image of celestial glory in the midst of tribulations. Inquiring into the era of Messiah's coming and the defining events and features, the prophets conveyed predictions of Christ even though some critics may overlook them. The sufferings of Christ were followed by His glories, including His resurrection, ascension, and eternal kingdom. The Spirit of Jesus Christ, the revealing Power in the prophets, spoke to them just as He would speak to the apostles. Through their prophecies, we are assured that afflictions are not in vain, but rather part of God's providence leading to ultimate blessing.",
+            "wordCount": 143,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 1.9555518884786431,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                40.06,
+                27.71,
+                32.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Old Testament prophets, inspired by the Spirit of Christ, diligently searched for the exact time and manner of the Messiah's coming. They spoke of His sufferings and glories, including His resurrection, ascension, and eternal kingdom. These prophecies serve as mirrors, reflecting the image of celestial glory in the midst of tribulations. Through their prophecies, we are assured that afflictions are not in vain, but rather part of God's providence leading to ultimate blessing.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8245529890715169,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.01,
+            "commentatorTierSimilarities": [
+                39.59,
+                25.62,
+                34.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Old Testament prophets sought to discover the precise period and signs of the times at which the revelation of Gentile inclusion into Israel's grace would be fulfilled. Through the Spirit of Christ, they predicted the sufferings and glories that would follow. These prophecies serve as mirrors, reflecting the image of celestial glory amid afflictions. Afflictions precede glory, as ordained by God's providence. The prophecies remind us that we are not afflicted by chance, but by the infallible providence of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8414968020110338,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                38.88,
+                27.12,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Old Testament prophets diligently sought to discover the precise period and signs of the times in which the revelation of Gentile inclusion into Israel's grace would be fulfilled. Through the Spirit of Christ, they predicted the sufferings and glories that would follow. These prophecies serve as mirrors, reflecting the image of celestial glory amidst afflictions. They remind us that afflictions precede glory according to God's providence. We can find comfort in knowing that our afflictions are not in vain, but are part of God's plan leading to ultimate blessing.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8227838305601325,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                36.72,
+                28.16,
+                35.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Old Testament prophets diligently sought to discover the precise period and signs of the times in which the revelation of Gentile inclusion into Israel's grace would be fulfilled. Through the Spirit of Christ, they predicted the sufferings and glories that would follow. These prophecies serve as mirrors, reflecting the image of celestial glory amidst afflictions. They remind us that afflictions precede glory according to God's providence. We find comfort in knowing that our afflictions are not in vain, but part of God's plan leading to ultimate blessing.\n",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8174466651398782,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                36.74,
+                27.83,
+                35.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

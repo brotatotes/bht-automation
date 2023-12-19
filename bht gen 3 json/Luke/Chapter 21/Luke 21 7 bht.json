@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:22:27",
+    "verseRef": "Luke 21:7",
+    "bestBHT": {
+        "bht": "St. Luke's account is distinctive in its lack of variations compared to others, which indicates its independence. The absence of such interesting details in his writing suggests that the writer was not aware of them. The inquiry of the people, introduced with the word but, is prompted by Jesus' previous statements. They desire to know the timing and signs of the temple's destruction, emphasizing their curiosity and apprehension about the impending events.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 0.9878999610549795,
+        "qualityScoreNormalizedComparedToV2BHTs": 24.19,
+        "commentatorTierSimilarities": [
+            62.62,
+            21.56,
+            15.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That St. Luke\u2019s account alone gives us no trace of a different scene or a different auditory, is a proof of its independence of the others.",
+            "How could any rational writer have omitted so interesting a matter of accurate detail, if he had been aware of it?",
+            "Their question begins with 'but,' on account of what our Lord had said, ver. 6."
+        ],
+        "Philip Schaff": [
+            "Luke 21:7. THE QUESTION. See on Matthew 24:3; Mark 13:4.",
+            "\t",
+            " And they asked him, i.e., those spoken of in Luke 21:5.",
+            "\t"
+        ],
+        "John Gill": [
+            "And they asked him...saying, master, but when shall these things be?",
+            "When the temple shall be destroyed; and one stone shall not be left upon another.",
+            "What sign will there be when these things shall come to pass?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Luke 21:7 is a passage that stands out in its independence from other accounts, as St. Luke does not provide any different scene or auditory details. This omission, if the writer was aware of it, would have been too significant to overlook. The question posed by the people in this verse is a response to what Jesus had previously said. They eagerly inquire about the timing and signs of the temple's destruction, expressing their curiosity and concern about when these predicted events will occur.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.89,
+            "qualityScore": 1.0655254029048713,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.77,
+            "commentatorTierSimilarities": [
+                47.7,
+                28.02,
+                24.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "St. Luke's account is distinctive in its lack of variations compared to others, which indicates its independence. The absence of such interesting details in his writing suggests that the writer was not aware of them. The inquiry of the people, introduced with the word but, is prompted by Jesus' previous statements. They desire to know the timing and signs of the temple's destruction, emphasizing their curiosity and apprehension about the impending events.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 0.9878999610549795,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.19,
+            "commentatorTierSimilarities": [
+                62.62,
+                21.56,
+                15.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Luke's account, unlike others, does not deviate or provide any different details, underscoring its independence. The absence of such important information indicates that the writer was unaware of it. The inquiry from the people, beginning with but, is a response to Jesus' previous words. They seek to know the timing and signs of the temple's destruction, conveying their eagerness to understand the forthcoming events.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 0.9154619404940201,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.78,
+            "commentatorTierSimilarities": [
+                58.83,
+                21.5,
+                19.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Luke's account remains distinct without any trace of a different scene or auditory, signifying its independence from other narratives. The omission of such intriguing details suggests that the writer was not aware of them or deliberately chose not to include them. The people's inquiry, introduced by the word but, directly relates to what Jesus had previously said, as they seek insight into the timing and signs of the anticipated temple destruction. Their question reflects their longing for understanding and a desire to recognize the indicators of these impending events.",
+            "wordCount": 92,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 0.9513308472234853,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.98,
+            "commentatorTierSimilarities": [
+                60.77,
+                17.53,
+                21.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Luke's independent account does not include any different scenes or details, an indication of its uniqueness among others. The writer's omission of these intriguing specifics points to either their lack of knowledge or intentional exclusion. The people's inquiry, introduced with the word but, directly responds to Jesus' previous statements. They express their desire to know the timing and signs of the temple's destruction, showing their curiosity and concern for when these events will unfold.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 0.9295696547832198,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.25,
+            "commentatorTierSimilarities": [
+                60.48,
+                19.83,
+                19.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:23:49",
+    "verseRef": "Luke 23:56",
+    "bestBHT": {
+        "bht": "The women who followed Jesus diligently purchased and prepared spices before sunset on the day of His burial, knowing the importance of their careful preparation. The Gospel accounts dedicate a significant portion to the events of this particular day, underscoring its profound significance in the life of Jesus. Their devotion is evident as they adhered to the Sabbath law, resting on that day. After patiently waiting, they were ready to anoint Jesus' body with the spices they had prepared.",
+        "wordCount": 79,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.7475305264488175,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+        "commentatorTierSimilarities": [
+            36.43,
+            35.01,
+            28.55
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "56.] They bought their spices&c. in the short time before sunset."
+        ],
+        "Marvin Vincent": [
+            "It is a significant fact that, reckoning the aggregate space occupied by the four Gospels, nearly one-sixth of the whole amount is occupied with the account of the twenty-four hours beginning with the last supper and ending with the burial of Jesus.\" ",
+            "There is no day in all Bible history narrated with the fulness of that day.",
+            "If we possessed the whole life of Christ, written with the same detail, the record would occupy one hundred and eighty volumes as large as the whole Bible."
+        ],
+        "Philip Schaff": [
+            "After they had viewed the grave, they ought (not stated when?) spices, and rested indeed the Sabbath day, according to the law, but when this was over they went with the spices as quickly as possible to the grave.",
+            "The other women, who did not remain at the sepulchre, may have made immediate preparations.",
+            "On the relation of their purpose to the embalming by Nicodemus, see on Mark 16:1; John 19:39-40."
+        ],
+        "Archibald T. Robertson": [
+            "On the sabbath they rested (\u03c4\u03bf \u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd \u03b7\u03c3\u03c5\u03c7\u03b1\u03c3\u03b1\u03bd). They returned and prepared spices before the sabbath began. Then they rested all during the sabbath (accusative of extent of time, \u03c4\u03bf \u03c3\u03b1\u03b2\u03b2\u03b1\u03c4\u03bf\u03bd). "
+        ],
+        "John Gill": [
+            "Though they had bought and prepared the spices and ointments, they did not carry them to the sepulchre to anoint the body with them, till the sabbath was over.\" ",
+            "What is that thing that is lawful to be done to a living man, and is forbidden a dead man? It is said, 'This is anointing.'\" ",
+            "But how he could be anointed, and washed, without a limb being moved, is not very easy to say."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On the day of Jesus' burial, the women who followed Him bought and prepared spices before the Sabbath began. The Gospel accounts of this day highlight its significance, with Luke devoting a considerable portion of his narrative to these twenty-four hours. In fact, if we had a comprehensive account of Jesus' life, it would fill an astounding 180 volumes the size of the entire Bible. After resting on the Sabbath, the women went to the grave to anoint Jesus' body, as it was now lawful to do so. The careful preparation of the spices exemplifies their devotion and reverence for Jesus, even in His death.",
+            "wordCount": 105,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.7307832412648982,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                36.28,
+                33.93,
+                29.8
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On that day, the women who followed Jesus diligently bought and prepared spices before the Sabbath. These twenty-four hours are uniquely significant, taking up almost one-sixth of the Gospel accounts. If we had a detailed record of Jesus' whole life, it would require an astounding 180 volumes the size of the entire Bible. After observing the Sabbath, the women went to the grave, expressing their deep devotion and veneration for Jesus as they sought to anoint His body.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.7276156400467428,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.79,
+            "commentatorTierSimilarities": [
+                39.9,
+                31.7,
+                28.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On the day of Jesus' burial, the women who followed Him bought their spices&c. in the short time before sunset, as the meticulous preparation of the body was of utmost importance. The Gospel accounts reveal the depth and intensity of this day, with nearly one-sixth of the total Gospels dedicated to its narrative. Despite the brevity of the story, the significance is profound, as this day encapsulates the culmination of Jesus' earthly ministry. The women, having prepared the spices, rested on the Sabbath day, adhering to the law, and rested all during the Sabbath.",
+            "wordCount": 96,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.6704304623464745,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.88,
+            "commentatorTierSimilarities": [
+                38.82,
+                35.29,
+                25.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The women who followed Jesus diligently purchased and prepared spices before sunset on the day of His burial, knowing the importance of their careful preparation. The Gospel accounts dedicate a significant portion to the events of this particular day, underscoring its profound significance in the life of Jesus. Their devotion is evident as they adhered to the Sabbath law, resting on that day. After patiently waiting, they were ready to anoint Jesus' body with the spices they had prepared.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7475305264488175,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                36.43,
+                35.01,
+                28.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On the day of Jesus' burial, the women who followed Him promptly procured and arranged spices in preparation. It is noteworthy that a substantial portion of the Gospel accounts is allotted to the detailed narration of the twenty-four hours encompassing the last supper and Jesus' burial. Had the entire life of Christ been documented similarly, it would require approximately 180 volumes, each as large as the Bible. Having procured the spices before the start of the Sabbath, the women then rested on the Sabbath itself, refraining from further actions until the day had passed.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.667591717793427,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                38.83,
+                33.63,
+                27.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

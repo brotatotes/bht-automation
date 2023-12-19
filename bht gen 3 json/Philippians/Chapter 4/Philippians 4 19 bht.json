@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 13:56:58",
+    "verseRef": "Philippians 4:19",
+    "bestBHT": {
+        "bht": "My God, who will pay back what is given to His servant, shall supply all your need with glory. The Philippians invested their bounty well since it got them such a glorious return. The measure of His supply will be the immeasurable 'riches of His grace.' This filling consists and finds its element in Christ Jesus, where you shall be partakers of glory. The spiritual reward is what spurs men into the ministry and holds them to it. Even the supply of our temporal needs comes through the Savior.",
+        "wordCount": 89,
+        "quoteTokenProportion": 46.97,
+        "qualityScore": 2.2413754089843057,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.87,
+        "commentatorTierSimilarities": [
+            42.87,
+            30.79,
+            26.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My God, who will pay back what is given to His servant.\" Bengel.",
+            "all your need will be supplied: in glory.",
+            "this filling (or, 'this glory') is, consists, and finds its sphere and element, in Christ Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "My Master will fully repay you; I cannot. The Philippians invested their bounty well since it got them such a glorious return.\" (Commentary)",
+            "The measure of His supply to you will be the immeasurable 'riches of His grace' (Ephesians 1:7).\" (Commentary)",
+            "Glory\" is the element in which His rich grace operates; and it will be the element IN which He will \"supply fully all your need.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "Nothing is lost, even in the present life, by doing good. In thousands of instances it is abundantly repaid.",
+            "God often raises up for them benefactions, and sends supplies in a manner as unexpected, and bearing proofs of divine interposition as decided, as when supplies were sent by the ravens to the prophet.",
+            "All the favors that Paul expected for himself, or his fellow-men, he believed would be conferred through the Redeemer. Even the supply of our temporal needs comes to us through the Saviour."
+        ],
+        "Marvin Vincent": [
+            "Shall supply your need with glory.\" ",
+            "The need shall be supplied in glory and by glory.\" ",
+            "By placing you in glory where you shall be partakers of glory."
+        ],
+        "John Calvin": [
+            "He expressly makes mention of God as his, because he owns and acknowledges as done to himself whatever kindness is shown to his servants.",
+            "They had therefore been truly sowing in the Lord\u2019s field, from which a sure and abundant harvest might be expected.",
+            "Do not think that you have impoverished yourselves; God, whom I serve, will abundantly furnish you with everything necessary for you."
+        ],
+        "Philip Schaff": [
+            "And my God shall fulfil every need of yours...God, my God, is well pleased, and He will not forget your love shown to me His servant, but repay you in your need.\" ",
+            "And if the Lord of all things be the bestower, how large must be the gift, a gift which looks on beyond what can be enjoyed in this world! The full return will only be gained when God Himself is seen and known.",
+            "The union with Christ will constitute the chiefest reward. It is not 'by' Christ that the fulfilment will be wrought, but He Himself shall be the fulness of their joy."
+        ],
+        "Archibald T. Robertson": [
+            "God has an abundant treasure in glory and will repay the Philippians for what they have done for Paul.",
+            "The spiritual reward is what spurs men into the ministry and holds them to it.",
+            "The spiritual reward is what spurs men into the ministry and holds them to it."
+        ],
+        "John Gill": [
+            "But my God shall supply all your need...he who was his God, not only as the God of nature and providence, or as the God of the Israelites, but as the God of all grace; who had loved him as such, had chosen, adopted, regenerated, and sanctified him.",
+            "God, who is also their God, is able and willing to supply their wants; and he does so, he withholds no good thing from them, nor do they want any good thing needful for them.",
+            "He gives all things richly to enjoy, plenteously and abundantly...in a glorious manner, so as to show himself glorious, and make his people so, to the glory of his rich grace."
+        ],
+        "John Wesley": [
+            "All your need \u2014 As ye have mine.",
+            "According to his riches in glory \u2014 In his abundant, eternal glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "My God, who will pay back what is given to His servant, shall supply all your need with glory. The Philippians invested their bounty well since it got them such a glorious return. The measure of His supply to you will be the immeasurable 'riches of His grace.' This filling consists and finds its sphere and element in Christ Jesus, where you shall be partakers of glory. The spiritual reward is what spurs men into the ministry and holds them to it. Nothing is lost by doing good; God often raises up benefactions and sends supplies in unexpected ways. Even the supply of our temporal needs comes to us through the Savior.",
+            "wordCount": 112,
+            "quoteTokenProportion": 45.68,
+            "qualityScore": 2.1762342089413425,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.7,
+            "commentatorTierSimilarities": [
+                40.65,
+                33.44,
+                25.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "My God, who will pay back what is given to His servant, shall supply all your need with glory. The Philippians invested their bounty well since it got them such a glorious return. The measure of His supply will be the immeasurable 'riches of His grace.' This filling consists and finds its element in Christ Jesus, where you shall be partakers of glory. The spiritual reward is what spurs men into the ministry and holds them to it. Even the supply of our temporal needs comes through the Savior.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.2413754089843057,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.87,
+            "commentatorTierSimilarities": [
+                42.87,
+                30.79,
+                26.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God, who will repay the Philippians for what they have done, shall supply all their needs with glorious abundance. This supply comes from the immeasurable riches of His grace in Christ Jesus, where they will partake in glory. The spiritual reward is a driving force in ministry, and nothing is lost by doing good. God often raises up unexpected benefactions and sends supplies as a clear sign of divine intervention. Even the fulfillment of temporal needs comes through the Savior.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2006116274116403,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.51,
+            "commentatorTierSimilarities": [
+                33.6,
+                37.6,
+                28.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, who will repay the Philippians for their kindness, shall fully supply all their needs with glorious richness. This supply is rooted in the immeasurable riches of His grace and finds its home in Christ Jesus, where they will partake in glory. The spiritual reward serves as motivation for ministry and sustains those who are committed to it. Doing good brings no loss, and God often provides unexpected help and demonstrates divine intervention. Even the fulfillment of temporal needs is a result of the Savior's provision.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.1079340914277847,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                33.64,
+                36.46,
+                29.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God, who will repay the Philippians for their kindness, shall fully supply all their needs with glorious richness. This supply is rooted in the immeasurable riches of His grace and finds its home in Christ Jesus, where they will partake in glory. The spiritual reward serves as motivation and sustains ministry. Doing good brings no loss; God often provides unexpected help. Even the fulfillment of temporal needs is a result of the Savior's provision.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.0993491085018277,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.14,
+            "commentatorTierSimilarities": [
+                34.25,
+                36.42,
+                29.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

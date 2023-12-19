@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:59:12",
+    "verseRef": "1 Thessalonians 3:3",
+    "bestBHT": {
+        "bht": "No one should be disquieted or shaken by afflictions, for we Christians know that a true religion from God would present such trying prospects. In the midst of calamities, we are often tempted and allured by flattering hopes of a more pleasant life to abandon our duty, but we must have strong faith to overcome these temptations. Tribulations are appointed for us and we must resist being moved by them. These afflictions are not new or unusual, but rather the condition that God has assigned to us as Christians.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9915527428664066,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+        "commentatorTierSimilarities": [
+            33.28,
+            37.36,
+            29.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That no one might be dis-quieted in these afflictions... for yourselves know.\" ",
+            "Reason why no one should be shaken... we meaning 'we Christians.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That no man should, amidst his calamities, be allured by the flattering hope of a more pleasant life to abandon his duty.",
+            "In afflictions, relatives and opponents combine with the ease-loving heart itself in flatteries, which it needs strong faith to overcome.",
+            "None but a religion from God would have held out such a trying prospect to those who should embrace it, and yet succeed in winning converts."
+        ],
+        "Albert Barnes": [
+            "That no man should be moved - The word rendered 'moved' (\u03c3\u03b1\u03b9\u0301\u03bd\u03c9 saino\u0304) occurs nowhere else in the New Testament.\" ",
+            "The object of sending Timothy was, that they might not be thus moved, but that amidst all opposition they might adhere steadfastly to their religion. These afflictions - See the notes at 1 Thessalonians 2:14.",
+            "No one who professed Christianity could hope to be exempted from trial, for it was the common lot of all believers; compare 1 Corinthians 4:9 note; 2 Timothy 3:12 note."
+        ],
+        "Marvin Vincent": [
+            "Moved [\u03c3\u03b1\u03b9\u03bd\u03b5\u03c3\u03b8\u03b1\u03b9] ... Hence of persons, to fawn or cringe. The word is apparently used here in the original sense, to be shaken.\" ",
+            "We are appointed [\u03ba\u03b5\u03b9\u03bc\u03b5\u03b8\u03b1] . As Luke 2:34 (see note); Philippians 1:17. Comp. Acts 14:22, in which occur four of the words used here.",
+            "For the thought, see Matthew 5:10; Matthew 10:17; Matthew 16:24; 1 Peter 2:21 ff.; 1 Peter 4:12; 2 Timothy 3:12."
+        ],
+        "John Calvin": [
+            "There is no reason why believers should feel dismayed on occasion of persecutions, as though it were a thing that was new and unusual, inasmuch as this is our condition, which the Lord has assigned to us.",
+            "For this manner of expression \u2014 we are appointed to it \u2014 is as though he had said, that we are Christians on this condition.",
+            "He says, however, that they know it, because it became them to fight the more bravely, inasmuch as they had been forewarned in time."
+        ],
+        "Philip Schaff": [
+            "Expected tribulations can be no trial to faith, however they may try our sincerity and integrity.",
+            "From the first God declares to His people that they may count upon trial; and therefore when trial comes they cannot be inclined to suppose that God is forgetful of them.",
+            "Seeing everything in affliction is under an appointment, how meek and humble, how patient and submissive, ought the Christian\u2019s spirit to be under them, and with what steadiness of expectation may and ought he to look up to heaven for a sanctified use and improvement of them!"
+        ],
+        "Archibald T. Robertson": [
+            "That no man be moved (\u03c4\u03bf \u03bc\u03b7\u03b4\u03b5\u03bd\u03b1 \u03c3\u03b1\u03b9\u03bd\u03b5\u03c3\u03b8\u03b1). Epexegetical articular infinitive in accusative case of general reference. \u03a3\u03b1\u03b9\u03bd\u03c9 is old word to wag the tail, to flatter, beguile and this sense suits here (only N.T. example).\" ",
+            "We are appointed (\u03ba\u03b5\u03b9\u03bc\u03b5\u03b8\u03b1). Present middle, used here as passive of \u03c4\u03b9\u03b8\u03b7\u03bc. We Christians are set hereunto (\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5\u03c4\u03bf) to be beguiled by tribulations.",
+            "We must resist."
+        ],
+        "John Gill": [
+            "That no man should be moved by these afflictions...and therefore might be staggered at them, and be offended...",
+            "Afflictions, as to their nature, measure, and duration, are appointed for the people of God...",
+            "...this was the appointment of heaven, and the will of God, they should be patiently endured, and quietly submitted to."
+        ],
+        "John Wesley": [
+            "We are appointed hereto \u2014 Are in every respect laid in a fit posture for it, by the very design and contrivance of God himself for the trial and increase of our faith and all other graces.",
+            "He gives riches to the world; but stores up his treasure of wholesome afflictions for his children."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No one should be disquieted or shaken by afflictions, for we Christians know that a true religion from God would present such trying prospects. In the midst of calamities, we are often tempted and allured by flattering hopes of a more pleasant life to abandon our duty, but we must have strong faith to overcome these temptations. Tribulations are appointed for us and we must resist being moved by them. These afflictions are not new or unusual, but rather the condition that God has assigned to us as Christians. Therefore, we must endure them patiently and quietly submit to His will, knowing that they are meant to test and strengthen our faith.",
+            "wordCount": 112,
+            "quoteTokenProportion": 47.44,
+            "qualityScore": 1.9610946763200108,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                31.59,
+                37.18,
+                31.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one should be disquieted or shaken by afflictions, for we Christians know that a true religion from God would present such trying prospects. In the midst of calamities, we are often tempted and allured by flattering hopes of a more pleasant life to abandon our duty, but we must have strong faith to overcome these temptations. Tribulations are appointed for us and we must resist being moved by them. These afflictions are not new or unusual, but rather the condition that God has assigned to us as Christians.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9915527428664066,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                33.28,
+                37.36,
+                29.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No one should be disquieted or shaken by afflictions, for we Christians know that a true religion from God would present such trying prospects. We must have strong faith to overcome the tempting allure of a more pleasant life amidst calamities. Tribulations are appointed for us, and we must resist being moved by them. These afflictions are the condition that God has assigned to us as Christians, meant to test and strengthen our faith.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 1.9486663685541852,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                33.58,
+                35.82,
+                30.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No one should be disquieted or shaken by afflictions, for we Christians know that a true religion from God would have held out such a trying prospect to win converts. In the midst of calamities, we are often tempted by flattering hopes of a more pleasant life, but we must have strong faith to overcome these temptations. Tribulations are appointed for us, and we must resist being moved by them. These afflictions are the condition that God has assigned to us as Christians, meant to test and strengthen our faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9816850790409544,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                32.71,
+                37.04,
+                30.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the face of afflictions, it is important for believers not to be disquieted or shaken, for we know that a genuine faith would have presented such trying prospects. It is easy to be allured by the flattering hope of an easier life amidst calamities, but it is crucial to have strong faith to overcome such temptations. Tribulations have been appointed for us as Christians, and we must resist being moved by them. These afflictions are a divine assignment meant to test and strengthen our faith.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9335179707142873,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                33.5,
+                37.95,
+                28.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

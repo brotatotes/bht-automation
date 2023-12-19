@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:25:25",
+    "verseRef": "Acts 2:44",
+    "bestBHT": {
+        "bht": "In the early Jerusalem church, believers who had gathered for the feast held all their possessions in common, not out of actual communism, but as a voluntary response to their shared needs and circumstances. They sold their goods to assist the poor, and this unique situation of communal living was exclusively found in Jerusalem and temporary. Despite this, the believers achieved unity of doctrine and heartfelt camaraderie, freely sharing their belongings with one another.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 1.7207906442093601,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+        "commentatorTierSimilarities": [
+            27.51,
+            41.3,
+            31.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If it surprise us that so large a number should be continually assembled together...we must remember that a large portion of the three thousand were persons who had come up to Jerusalem for the feast.",
+            "That this was literally the case with the infant church at Jerusalem, is too plainly asserted in these passages to admit of a doubt.",
+            "It is much more probable that it arose from a continuation, and application to the now increased number of disciples, of the community in which our Lord and His Apostles had lived."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "44. all that believed were together,",
+            "\tand had all things common\u2014(See on :-)."
+        ],
+        "Albert Barnes": [
+            "One of the best means for strengthening the faith of young converts is for them often to meet together for prayer, conversation, and praise.",
+            "They regarded themselves as one family, having common needs, and there was no use or propriety in their possessing extensive property by themselves.",
+            "It was, therefore, perfectly voluntary, and was as evidently adapted to the special circumstances of the early converts."
+        ],
+        "Marvin Vincent": [
+            "Common [\u03ba\u03bf\u03b9\u03bd\u03b1] . Compare fellowship, ver. 42."
+        ],
+        "John Calvin": [
+            "Therefore, he gives us to understand that they were rightly joined together with brotherly love amongst themselves, and that they did indeed declare the same, because the rich men did sell their goods that they might help the poor.",
+            "But what doth Luke? Surely he noteth another order, when he saith that there was choice made in the distribution.",
+            "This having of things common, whereof Luke speaketh, and which he commendeth, doth not take away household government."
+        ],
+        "Archibald T. Robertson": [
+            "It was not actual communism, but they held all their property ready for use for the common good as it was needed.",
+            "This situation appears nowhere else except in Jerusalem and was evidently due to special conditions there which did not survive permanently.",
+            "Later Paul will take a special collection for the poor saints in Jerusalem."
+        ],
+        "John Gill": [
+            "All these believers were of one mind and judgment, as to doctrines.",
+            "They were of one heart and soul, were cordially affected to each other.",
+            "No man called anything peculiarly his own; and whatever he had, his brother was welcome to, and might as freely take, and use it, as if it was his own."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The early believers in the infant church in Jerusalem, who had come together for the feast, held all their property ready for use for the common good, showing a sense of unity and communal living. However, this situation was specific to Jerusalem and did not last permanently. It was not actual communism, but rather a voluntary choice influenced by their common needs and circumstances. They sold their goods to help the poor and made a deliberate choice in the distribution. Despite this uncommon arrangement, they were of one mind in doctrine and of one heart and soul, showing genuine brotherly love and a willingness to share their possessions with one another.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.5762705036843738,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.75,
+            "commentatorTierSimilarities": [
+                24.13,
+                44.75,
+                31.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The early believers in Jerusalem, who had come for the feast, held their property for the common good, displaying unity and communal living. While not actual communism, they voluntarily sold their goods to help the poor. This arrangement was unique to Jerusalem and did not last. They were of one mind in doctrine and held one heart and soul, showing true brotherly love and a willingness to share possessions with one another.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.52869361595243,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.17,
+            "commentatorTierSimilarities": [
+                29.28,
+                35.35,
+                35.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The infant church in Jerusalem saw believers coming together due to the feast, sharing their possessions for the common good. This was not true communism, but a voluntary act influenced by their common needs and circumstances. They sold property to help the poor, distributing the resources through a careful process. This exceptional arrangement of communal living was specific to Jerusalem and did not endure permanently. Despite their unique situation, the believers were unified in doctrine, demonstrating camaraderie and a willingness to generously share their belongings.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.591638353522801,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                27.49,
+                46.11,
+                26.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the early Jerusalem church, believers who had gathered for the feast held all their possessions in common, not out of actual communism, but as a voluntary response to their shared needs and circumstances. They sold their goods to assist the poor, and this unique situation of communal living was exclusively found in Jerusalem and temporary. Despite this, the believers achieved unity of doctrine and heartfelt camaraderie, freely sharing their belongings with one another.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.7207906442093601,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                27.51,
+                41.3,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The infant church in Jerusalem, formed by those who had come for the feast, held all things common, not as true communism but as a voluntary response to their increased number and shared needs. They sold their possessions to help the poor, distributing them carefully. While this arrangement was unique to Jerusalem and not enduring, the believers were one in doctrine, united in heart and soul, and expressed genuine brotherly love by freely sharing their possessions with each other.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6491810967289235,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+            "commentatorTierSimilarities": [
+                27.66,
+                38.97,
+                33.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

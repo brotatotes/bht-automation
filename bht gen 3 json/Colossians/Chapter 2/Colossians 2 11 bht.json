@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:20:25",
+    "verseRef": "Colossians 2:11",
+    "bestBHT": {
+        "bht": "Through union with Christ, believers have already received in Him the spiritual substance, the circumcision made without hands, which surpasses the physical rite. This spiritual circumcision represents the putting off of the old sinful nature, like a garment that is taken off and laid aside. It is not achieved by human effort but is brought about by the union with Christ, whose circumcision is imputed to believers for justification and is the source of our sanctification. This inward, spiritual operation is accomplished by the Spirit of God, who works in the hearts of believers.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.602685562116325,
+        "qualityScoreNormalizedComparedToV2BHTs": 77.88,
+        "commentatorTierSimilarities": [
+            32.78,
+            31.37,
+            35.85
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Nor do you need the rite of circumcision to make you complete, for you have already received in Him the spiritual substance, of which that rite is but the shadow.",
+            "This Christian transformation is set forth in its ideal conception, irrespective of its imperfect realization in our experience.",
+            "The circumcision of Christ, belonging to, brought about by union with, Christ: nearly the same as, but expresses more than 'Christian circumcision,' inasmuch as it shows that the root and cause of this circumcision without hands is in Christ, the union with whom is immediately set forth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye were (once for all) circumcised (spiritually, at your conversion and baptism), with a circumcision made without hands.",
+            "The body of the flesh\" is put off in baptism as the seal of regeneration where received in repentance and faith.",
+            "This spiritual circumcision is realized in, or by, union with Christ, whose 'circumcision' is imputed to believers for justification, and union with whom, in all His vicarious obedience, is the source of our sanctification."
+        ],
+        "Albert Barnes": [
+            "Ye are circumcised - You have received that which was designed to be represented by circumcision - the putting away of sin.",
+            "Circumcision was an ordinance by which it was denoted that all sin was to be cut off or renounced, and that he who was circumcised was to be devoted to God and to a holy life.",
+            "What Christians had obtained, moreover, related to the heart; it was not a mere ordinance pertaining to the flesh."
+        ],
+        "Marvin Vincent": [
+            "In the putting off, is in the act or process of. Not by.",
+            "The body of the flesh is the body which consists of the flesh, flesh having its moral sense of that material part which is the seat and organ of sin.",
+            "In spiritual circumcision, through Christ, the whole corrupt, carnal nature is put away like a garment which is taken off and laid aside."
+        ],
+        "John Calvin": [
+            "Those, therefore, who retain that figure after Christ\u2019s advent, deny the accomplishment of what it prefigures.",
+            "The circumcision which is made in the heart is the circumcision of Christ, and that, on this account, that which is outward is not now required.",
+            "He that circumcises the foreskin of our heart, or, in other words, mortifies all the lusts of the flesh, not with the hand, but by his Spirit."
+        ],
+        "Philip Schaff": [
+            "This higher circumcision 'is distinguished, as regards first its character, secondly its extent, and thirdly its author' (Lightfoot).",
+            "The word 'putting off' is rare... implying both an unclothing and a putting away.",
+            "Of this circumcision Christ is the originating cause: 'Christ by union with Himself brings about the circumcision and imparts it to believers' (Ellicott)."
+        ],
+        "Archibald T. Robertson": [
+            "Ye were also circumcised... in a spiritual sense as in Romans 2:29 'the circumcision of the heart.'\" ",
+            "Not made with hands... the reference is to the resurrection body.\" ",
+            "In the putting off... made in a perfectly normal way by the perfective use of the two Greek prepositions."
+        ],
+        "John Gill": [
+            "These believers were circumcised in Christ, or by him; not with external circumcision, which was peculiar to the Jews, the natural seed of Abraham, prefigured Christ, and had its accomplishment in him, the body and substance of all the shadows of the ceremonial law.",
+            "This is effected not 'by the hand of man', as the Ethiopic version reads it, as outward circumcision was; this is not done by any creature whatever; not by angels, who rejoice at the repentance of sinners, but cannot produce it; nor by ministers of the Gospel, who at most are but instruments of regeneration and conversion; nor by men themselves; this is not by might or power of man, by the strength of his free will, but by the Spirit of God.",
+            "This is done several ways; partly by Christ's wrapping himself in the sins of his people, bearing them in his body, and becoming a sacrifice for them, whereby the old man was crucified, and the body of sin destroyed; and by an application of his blood, righteousness, and sacrifice, to the consciences of his people, whereby their iniquities are caused to pass from them, and they are clothed with change of raiment; and by the power of his Spirit, laying sin under the restraints of grace, not suffering it to have dominion, but causing grace to reign through righteousness; and by the saints themselves, under the influence of grace, who put off the old man with his deeds, according to the former conversation."
+        ],
+        "John Wesley": [
+            "Ye have received the spiritual blessings typified of old by circumcision.",
+            "By an inward, spiritual operation.",
+            "By that spiritual circumcision which Christ works in your heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through union with Christ, believers have been spiritually circumcised, an act that surpasses the physical rite of circumcision. This spiritual circumcision represents the putting away of sin, the shedding of the old sinful nature. It is a transformative process, initiated by Christ Himself. Through this spiritual circumcision, believers are set apart for God, devoted to a holy life. It is not accomplished by human effort, but by the power of the Spirit. By partaking in this spiritual circumcision, Christians receive the blessings and fulfillment that were symbolized by the physical act of circumcision.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.423344985597544,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.92,
+            "commentatorTierSimilarities": [
+                31.78,
+                32.83,
+                35.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through union with Christ, believers have already received the spiritual substance of circumcision, which goes beyond the outward rite and represents the putting away of sin. This spiritual circumcision is a transformative process, bringing about a complete change and marking believers as belonging to Christ. It is not achieved by human effort, but by the work of Christ Himself, imputing His righteousness and sanctifying believers. In this spiritual circumcision, the old sinful nature is cast off, and believers are set apart for a holy life through the power of the Holy Spirit.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.561599831254213,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.51,
+            "commentatorTierSimilarities": [
+                32.4,
+                31.75,
+                35.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through union with Christ, believers have received the spiritual circumcision, a circumcision made without hands. This transformation goes beyond the physical act and signifies the putting away of the old, sinful nature. It is not achieved by human effort, but by the work of Christ Himself. In this spiritual circumcision, believers are set apart for God, called to live a holy life. By partaking in this circumcision, Christians receive the blessings and fulfillment that were symbolized by the physical act.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.449322388418312,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.78,
+            "commentatorTierSimilarities": [
+                31.78,
+                32.54,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through union with Christ, believers have already received in Him the spiritual substance, the circumcision made without hands, which surpasses the physical rite. This spiritual circumcision represents the putting off of the old sinful nature, like a garment that is taken off and laid aside. It is not achieved by human effort but is brought about by the union with Christ, whose circumcision is imputed to believers for justification and is the source of our sanctification. This inward, spiritual operation is accomplished by the Spirit of God, who works in the hearts of believers.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.602685562116325,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.88,
+            "commentatorTierSimilarities": [
+                32.78,
+                31.37,
+                35.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through union with Christ, believers have received the spiritual substance of circumcision, which surpasses the physical rite. This spiritual circumcision signifies the removal of the old sinful nature and is accomplished by the work of Christ Himself. It is not achieved by human effort, but by the Spirit of God. This inward, spiritual operation brings about a complete transformation, setting believers apart for a holy life. By partaking in this spiritual circumcision, Christians receive the blessings and fulfillment that were symbolized by the physical act.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.3774312566799294,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.39,
+            "commentatorTierSimilarities": [
+                32.32,
+                29.94,
+                37.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

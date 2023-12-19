@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:31:20",
+    "verseRef": "Acts 14:21",
+    "bestBHT": {
+        "bht": "St. Paul's missionary strategy involved revisiting the churches he founded, prioritizing their spiritual growth over a convenient journey back home. The early converts required support, encouragement, and the establishment of lasting institutions. Paul and his companions fearlessly returned, speaking words of encouragement that only the founders of a true religion would have dared to address to their earliest disciples. They understood that entering the kingdom of God required enduring tribulations. Despite facing opposition in other cities, they wisely focused on discipleship in Derbe, promoting the interest of Christ and the eternal well-being of souls.",
+        "wordCount": 96,
+        "quoteTokenProportion": 27.03,
+        "qualityScore": 1.7783586991053648,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+        "commentatorTierSimilarities": [
+            28.13,
+            31.19,
+            40.68
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "St. Paul prefers returning by the churches which he had founded, to a short and easy journey to the coast by his own home.",
+            "",
+            "."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They needed building up and strengthening in the faith, comforting in the midst of their inevitable suffering, and fencing round by permanent institutions.\" ",
+            "Our missionaries return to them, using words of encouragement which none but the founders of a true religion would have ventured to address to their earliest converts.\" ",
+            "We can only enter into the kingdom of God by passing through much tribulation."
+        ],
+        "Albert Barnes": [
+            "The welfare of the infant churches they deemed of more consequence than their own safety.",
+            "They threw themselves again into the midst of danger, to comfort and strengthen those just converted to God.",
+            "There are times when ministers should not count their own lives as dear to them, but when they should fearlessly throw themselves into the midst of danger, confiding only in the protecting care of their God and Saviour."
+        ],
+        "Marvin Vincent": [
+            "Taught [\u03bc\u03b1\u03b8\u03b7\u03c4\u03b5\u03c5\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2] . More correctly, made disciples of, as Rev. See on Matthew 13:52. ",
+            "Many. See on Luke 7:6."
+        ],
+        "Philip Schaff": [
+            "The work at Derbe appears to have been very successful: the converts to the religion of Jesus were numerous, and the apostles evidently met with no opposition in any quarter here.",
+            "Among their disciples at Derbe was that Gaius, mentioned Acts 4:0.",
+            "And the distinction will appear on this occasion to be accurate, for Paul in that passage is enumerating his persecutions; and although he underwent grievous persecutions in each of the three cities through which he passed to Derbe, at Derbe itself he met with none."
+        ],
+        "Archibald T. Robertson": [
+            "Having evangelized that city, a smaller city and apparently with no trouble from the Jews.",
+            "Paul and Barnabas were literally here obeying the command of Jesus in discipling people in this heathen city.",
+            "Paul had been stoned in Lystra, threatened in Iconium, expelled in Antioch. He shows his wisdom in conserving his work."
+        ],
+        "John Gill": [
+            "To the inhabitants of it, as they did in every place where they came, even the pure Gospel of Christ, the good news, and glad tidings of life and salvation by him.",
+            "Made them disciples, their ministry being blessed to bring many to the faith of Christ.",
+            "So fearless were they of danger, and so zealous to promote the interest of Christ, and the good of souls."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "St. Paul, in his missionary journeys, made it a priority to revisit the churches he had founded instead of taking the easy route back home. He recognized the importance of building up and encouraging these early converts, knowing that they would face inevitable suffering. Paul and his companions returned to these churches as the founders of a true religion, offering words of encouragement that only they could speak. Their ministry wasn't without tribulation, but they believed that only by passing through much tribulation could one enter into the kingdom of God. Despite facing opposition in other cities, Paul showed wisdom in conserving his work by discipling the people in this heathen city. The welfare of the infant churches was of greater consequence to them than their own safety, so they fearlessly threw themselves into danger to comfort and strengthen the new believers. Their ministry brought numerous converts and met with no opposition in Derbe. They fearlessly proclaimed the pure Gospel of Christ, making disciples, and promoting the interest of Christ and the good of souls.",
+            "wordCount": 176,
+            "quoteTokenProportion": 32.48,
+            "qualityScore": 1.8152409303820645,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                26.58,
+                33.58,
+                39.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "St. Paul prioritized revisiting the churches he established, choosing a more challenging journey over the ease of going home. The early converts needed encouragement, strengthening, and the establishment of permanent institutions. By returning to them, Paul and his companions offered words of encouragement that only the founders of a true religion would dare to speak to their earliest converts. They believed that entering the kingdom of God required enduring much tribulation. Despite opposition in other cities, Paul wisely focused on discipling people in Derbe, promoting the interest of Christ and the good of souls.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7212153885757169,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+            "commentatorTierSimilarities": [
+                30.54,
+                29.81,
+                39.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "St. Paul's missionary strategy involved revisiting the churches he founded, prioritizing their spiritual growth over a convenient journey back home. The early converts required support, encouragement, and the establishment of lasting institutions. Paul and his companions fearlessly returned, speaking words of encouragement that only the founders of a true religion would have dared to address to their earliest disciples. They understood that entering the kingdom of God required enduring tribulations. Despite facing opposition in other cities, they wisely focused on discipleship in Derbe, promoting the interest of Christ and the eternal well-being of souls.",
+            "wordCount": 96,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 1.7783586991053648,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                28.13,
+                31.19,
+                40.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "St. Paul's missionary journey included revisiting the churches he founded, prioritizing their building up and strengthening in the faith. They provided comfort amidst inevitable suffering and established permanent institutions. Paul and his companions fearlessly returned, using words of encouragement that only the founders of a true religion would have ventured to address to their earliest converts. They recognized that entering the kingdom of God required passing through much tribulation. Despite opposition in other cities, they wisely focused on discipling people in Derbe, conserving and promoting their work.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 1.698048960599377,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                30.07,
+                31.95,
+                37.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "St. Paul intentionally chose to return to the churches he had established, prioritizing their growth over an easier journey back home. These early converts needed support, strengthening, and the establishment of lasting institutions. Paul and his companions fearlessly went back, speaking words of encouragement that only the founders of a true religion would have dared to address to their earliest followers. They understood that entering the kingdom of God required enduring tribulation. Despite opposition in other cities, they wisely focused on discipleship in Derbe, furthering the cause of Christ and the well-being of souls.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.7366778240805003,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.09,
+            "commentatorTierSimilarities": [
+                28.59,
+                32.69,
+                38.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

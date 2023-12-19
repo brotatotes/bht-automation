@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:08:57",
+    "verseRef": "1 Corinthians 9:8",
+    "bestBHT": {
+        "bht": "Do I speak these things merely according to human judgment of what is right, or does the law too not say these things? As a man, I speak not merely according to human judgment, but with the sanction of the divine law also. The question introduces evidence from Scripture. For it is not the ox that has the principal part in plowing or treading out the corn, but man, by whose industry the ox himself is set to work.",
+        "wordCount": 79,
+        "quoteTokenProportion": 55.77,
+        "qualityScore": 2.0720457046779384,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+        "commentatorTierSimilarities": [
+            38.23,
+            31.11,
+            30.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] Am I speaking these things merely according to human judgment of what is right? Or (see note, ver. 6) does the law too not say these things?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. as a man\u2014I speak thus not",
+            "\tmerely according to human judgment, but with the sanction of",
+            "\tthe divine law also."
+        ],
+        "Albert Barnes": [
+            "Do I speak this on my own authority, or without the sanction of God? Is not this, which appears to be so reasonable and equitable, also supported by the authority of God?\".",
+            "He does not mean to say, by this example of the ox treading out the grain, that the law as given by Moses referred to the Christian ministry; but that the principle there was settled that the laborer should have a support\".",
+            "If God so regarded the welfare of a brute when laboring, it was much more reasonable to suppose that he would require a suitable provision to be made for the ministers of religion\"."
+        ],
+        "Marvin Vincent": [
+            "As a man [\u03ba\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd] . Rev., after the manner of men.\" ",
+            "The question introduces another kind of evidence - that from Scripture.\" ",
+            "I will not confine myself to illustrations from human affairs. I will appeal to Scripture."
+        ],
+        "John Calvin": [
+            "When the Lord enjoins humanity to oxen, he does not do it for the sake of oxen, but rather from a regard to men, on whose account, too, the very oxen were created.",
+            "That compassion, therefore, towards oxen should be a stimulus to us to stir up to the exercise of humanity among us.",
+            "For it is not the ox that has the principal part in plowing or treading out the corn, but man, by whose industry the ox himself is set to work."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 9:8. Do I speak these things after the manner of men? drawing my conclusions from human usage only? or saith not the law also the same!",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Paul uses \u03ba\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03bd six times... The illustrations from human life are pertinent, but he has some of a higher order, from Scripture.\" ",
+            "The law also (\u03ba\u03b1 \u03bf \u03bd\u03bf\u03bc\u03bf\u03c2). Perhaps objection was made that the Scripture does not support the practice of paying preachers.",
+            "That objection is still made by the stingy."
+        ],
+        "John Gill": [
+            "Say I these things as a man?.... After the manner of men, reasoning from things common among men, and obvious to everyone's observation"
+        ],
+        "John Wesley": [
+            "Do I speak as a man \u2014 Barely on the authority of human reason?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do I speak these things merely according to human judgment of what is right? Or does the law too not say these things? As a man, I speak not merely according to human judgment, but with the sanction of the divine law also. I will not confine myself to illustrations from human affairs; I will appeal to Scripture. The question introduces another kind of evidence - that from Scripture. The illustrations from human life are pertinent, but I have some of a higher order, from Scripture. For it is not the ox that has the principal part in plowing or treading out the corn, but man, by whose industry the ox himself is set to work.",
+            "wordCount": 115,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 2.0070813573939557,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                39.71,
+                30.82,
+                29.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do I speak these things merely according to human judgment of what is right? Or does the law too not say these things? As a man, I speak not merely according to human judgment, but with the sanction of the divine law also. The question introduces another kind of evidence - that from Scripture. For it is not the ox that has the principal part in plowing or treading out the corn, but man, by whose industry the ox himself is set to work.",
+            "wordCount": 83,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 2.020025828861753,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                38.01,
+                31.19,
+                30.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do I speak these things merely according to human judgment of what is right, or does the law too not say these things? As a man, I speak not merely according to human judgment, but with the sanction of the divine law also. The question introduces evidence from Scripture. For it is not the ox that has the principal part in plowing or treading out the corn, but man, by whose industry the ox himself is set to work.",
+            "wordCount": 79,
+            "quoteTokenProportion": 55.77,
+            "qualityScore": 2.0720457046779384,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                38.23,
+                31.11,
+                30.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Is my reasoning based solely on human judgment or does the law itself support what I am saying? I am not just speaking as a man, but also appealing to the authority of Scripture. This is not just a matter of human practice, but something that is supported by the Word of God. When we consider the example of the ox treading out the grain, we see that even in the treatment of animals, the law reflects a concern for fairness. If God cares about the welfare of a brute, how much more should we provide for those who labor in the ministry?",
+            "wordCount": 103,
+            "quoteTokenProportion": 52.11,
+            "qualityScore": 2.00786350807396,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                31.14,
+                36.23,
+                32.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Is my reasoning based solely on human judgment or does the law itself support what I am saying? I am not just speaking as a man, but also appealing to the authority of Scripture. This is not just a matter of human practice, but something that is supported by the Word of God. When we consider the example of the ox treading out the grain, we see that even in the treatment of animals, the law reflects a concern for fairness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 2.0527265857596744,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.59,
+            "commentatorTierSimilarities": [
+                32.38,
+                34.11,
+                33.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

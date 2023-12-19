@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 14:59:34",
+    "verseRef": "1 Corinthians 2:5",
+    "bestBHT": {
+        "bht": "True faith is begotten by the Spirit and not subject to human caprice, finding its resting place in the power of God rather than in the limited wisdom of humans. The ever-changing theories of men in various fields prove the unreliability of human wisdom. By preaching without dependence on human wisdom but relying solely on the Spirit's influence, Paul ensured that the Corinthians' faith was founded on God rather than men. Thus, our faith must stand on the power of God alone and not on human wisdom.",
+        "wordCount": 89,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 2.119692365531384,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+        "commentatorTierSimilarities": [
+            23.67,
+            34.26,
+            42.08
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Spirit is the original Creator of Faith, which cannot be begotten of human caprice, though man has the capability of hindering its production.",
+            "Faith depends for its continuance on the same mighty Spirit, who is almost without intermission begetting it anew."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. stand in . . . wisdom of men\u2014rest",
+            "\ton it, owe its origin and continuance to it."
+        ],
+        "Albert Barnes": [
+            "God intended to furnish you a firm and solid demonstration that the religion which you embraced was from Him; and this could not be if its preaching had been attended with the graces of eloquence, or the abstractions of refined metaphysical reasoning. It would then appear to rest upon human wisdom.",
+            "The power of God would attend the exhibition of truth everywhere; and would be a demonstration that would be irresistible that the religion was not originated by man, but was from heaven.",
+            "Every Christian has thus, in his own experience, furnished demonstration that the religion which he loves is from God, and not from man. Man could not subdue these sins; and man could not so entirely transform the soul."
+        ],
+        "John Calvin": [
+            "To be is used here as meaning to consist His meaning, then, is, that the Corinthians derived this advantage from his having preached Christ among them without dependence on human wisdom, and relying solely on the Spirit\u2019s influence, that their faith was founded not on men but on God.",
+            "It may indeed be helped by it, but it ought not to rest upon it On the other hand, that must have been most powerful which could stand of itself without any foreign aid.",
+            "Let it then be known by us that it is the property of faith to rest upon God alone, without depending on men; for it requires to have so much certainty to go upon, that it will not fail, even when assailed by all the machinations of hell, but will perseveringly endure and sustain every assault."
+        ],
+        "Archibald T. Robertson": [
+            "The only secure place for faith to find a rest is in God's power, not in the wisdom of men.",
+            "A sure word from God can be depended on.",
+            "One has only to instance the changing theories of men about science, philosophy, religion, politics to see this."
+        ],
+        "John Gill": [
+            "That your faith should not stand,.. be in the wisdom of men, but in the power of God.",
+            "Faith in Christ... might not be attributed to the force of human eloquence and oratory.",
+            "But that it might be... to almighty power, stand in it, be supported by it, and at last be finished and fulfilled with it."
+        ],
+        "John Wesley": [
+            "That your faith might not be built on the wisdom or power of man, but on the wisdom and power of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Faith cannot be produced by human caprice, but it depends on the continuous work of the Spirit. It is only secure when it finds its rest in the power of God, rather than in the wisdom of men. The changing theories of men in various fields demonstrate the instability of relying on human wisdom. God intended to demonstrate the authenticity of the faith embraced by the Corinthians by not relying on human eloquence or metaphysical reasoning, but by the power of God. In the experience of every Christian, the transformation of the soul and the overcoming of sins provide undeniable proof that their faith is from God and not from man. Therefore, our faith must rest solely on God, not on human wisdom, for it requires certainty that can withstand all assaults. Let our faith not be built on the wisdom or power of man, but on the wisdom and power of God.",
+            "wordCount": 153,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.07218949388952,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.24,
+            "commentatorTierSimilarities": [
+                24.16,
+                34.61,
+                41.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Faith is not a product of human caprice, but is continuously begotten by the Spirit. True faith finds its secure resting place in the power of God, not in the wisdom of men. The ever-changing theories of humanity in various fields reveal the instability of relying on human wisdom. God intended to provide the Corinthians with a solid demonstration that their faith originated from Him, not from the eloquence or metaphysical reasoning of men. Every Christian, through personal experience, presents a demonstration that their faith is from God, not from man. Therefore, our faith must rest solely on God's power, not on human wisdom or capability.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.035903058970384,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.03,
+            "commentatorTierSimilarities": [
+                24.4,
+                36.47,
+                39.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "True faith is not subject to human whims but is continuously begotten by the Spirit. Its resting place lies in the power of God, not in the wisdom of men. The everchanging theories of humanity across various fields expose the unreliability of human wisdom. God intended to provide the Corinthians with a solid demonstration that their faith originated from Him, not from human eloquence or metaphysical reasoning. Every Christian's experience serves as proof that their faith is from God, not from man. Thus, our faith should solely rest on God's power, not human wisdom.",
+            "wordCount": 96,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0048268627954253,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                24.97,
+                36.21,
+                38.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "True faith does not depend on human caprice, but on the continuous work of the Spirit. Its resting place is in the power of God, not in human wisdom. The fluctuating theories of humans in various fields demonstrate the fragility of relying on human wisdom. God intended to demonstrate that the Corinthians' faith came from Him, not from human eloquence or philosophical reasoning. Every Christian's experience provides evidence that their faith is from God, not from humans. Therefore, our faith should rest solely on God's power, not on human wisdom or ability.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.94497395005404,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                24.91,
+                35.92,
+                39.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True faith is begotten by the Spirit and not subject to human caprice, finding its resting place in the power of God rather than in the limited wisdom of humans. The ever-changing theories of men in various fields prove the unreliability of human wisdom. By preaching without dependence on human wisdom but relying solely on the Spirit's influence, Paul ensured that the Corinthians' faith was founded on God rather than men. Thus, our faith must stand on the power of God alone and not on human wisdom.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.119692365531384,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.82,
+            "commentatorTierSimilarities": [
+                23.67,
+                34.26,
+                42.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

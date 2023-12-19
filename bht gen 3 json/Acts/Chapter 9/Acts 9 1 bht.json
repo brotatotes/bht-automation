@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:28:42",
+    "verseRef": "Acts 9:1",
+    "bestBHT": {
+        "bht": "Saul, in his blind persecuting rage against the disciples of the Lord, breathed out threats and slaughter. His violent anger and desire for vengeance were like the very air he inhaled and exhaled. The taste of blood and the death of Stephen brought him pleasure, as he reveled in the slaughter of the saints. Yet, through God's wonderful intervention, Saul would go from being a wolf to a sheep, from a persecutor to a shepherd, and would avidly proclaim the Gospel of the grace of God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.0473651929748793,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+        "commentatorTierSimilarities": [
+            34.21,
+            32.31,
+            33.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His \u2018spirit,\u2019 inhaled or exhaled, being threatenings and slaughter.\" ",
+            "The high priest...it would be Theophilus,\u2014brother and successor to Jonathan, who succeeded Caiaphas."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The emphatic 'yet' is intended to note the remarkable fact, that up to this moment his blind persecuting rage against the disciples of the Lord burned as fiercely as ever.\" ",
+            "The word 'slaughter' here points to cruelties not yet recorded.",
+            "And I punished them oft in every synagogue, and compelled them to blaspheme; and being exceedingly mad against them, I persecuted them even unto strange [foreign] cities."
+        ],
+        "Albert Barnes": [
+            "He had been engaged before in persecuting the Christians, but he now sought opportunity to gratify his insatiable desire on a larger scale.",
+            "The word breathing out is expressive often of any deep, agitating emotion, as we then breathe rapidly and violently. It is thus expressive of violent anger. The emotion is absorbing, agitating, exhausting, and demands a more rapid circulation of blood to supply the exhausted vitality...",
+            "Threatening them with every breath the action of a man violently enraged, and who was bent on vengeance. It denotes also 'intense activity and energy in persecution.'"
+        ],
+        "Marvin Vincent": [
+            "Breathing out [\u03b5\u03bc\u03c0\u03bd\u03b5\u03c9\u03bd] . Lit., breathing upon or at, and so corresponding to against the disciples.\" ",
+            "Threatenings and slaughter [\u03b1\u03c0\u03b5\u03b9\u03bb\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c6\u03bf\u03bd\u03bf\u03c5] . Lit., threatening; so Rev.\" ",
+            "In the Greek construction, the case in which these words are marks them as the cause or source of the 'breathing;' breathing hard out of threatening, and murderous desire."
+        ],
+        "John Calvin": [
+            "After what sort the Lord did not only bring him under, and make him subject to his commandment, when he raged like an untamed beast but also how he made him another and a new man.\" ",
+            "But because Luke setteth down all things in order as in a famous work of God, it shall be more convenient to follow his text, [context,] that all may come in order whatsoever is worth the noting.\" ",
+            "And whereas such a cruel wolf was not only turned into a sheep, but did also put on the nature of a shepherd, the wonderful hand of God did show itself therein manifestly."
+        ],
+        "Philip Schaff": [
+            "Saul, breathing out; or more accurately 'breathing,' not merely 'threatening,' but in his blind rage even 'death' against them.",
+            "Menace and slaughter constituted at this period of his life the vital air which he exhaled and inhaled.",
+            "The real power now, as at the time of the crucifixion of Jesus, was in the hands of Annas, the father-in-law of Caiaphas, who was regarded by the nation as the legitimate high priest."
+        ],
+        "Archibald T. Robertson": [
+            "Breathing threatening and slaughter... threatening and slaughter had come to be the very breath that Saul breathed... He exhaled what he inhaled.\" ",
+            "The taste of blood in the death of Stephen was pleasing to young Saul... he revelled in the slaughter of the saints both men and women.",
+            "He breathed on the remaining disciples the murder that he had already breathed in from the death of the others."
+        ],
+        "John Gill": [
+            "The phrase here used is an Hebraism; so in Psalms 27:12 \u05d9\u05e4\u05d7 \u05d7\u05de\u05e1, 'one that breathes out violence', or cruelty; and this shows the inward disposition of his mind, the rage, wrath, malice, envy, and blood thirstiness he was full of; and is observed to illustrate the riches of divine grace in his conversion.",
+            "And wonderful it is, that that same mouth which breathed out destruction and death to the followers of Christ, should afterwards publish and proclaim the Gospel of the grace of God; that he whose mouth was full of cursing and bitterness, should hereafter, and so very quickly, come forth in the fulness of the blessing of the Gospel of Christ.",
+            "And this rage of his, who now ravened as a wolf, as was foretold of Benjamin, of which tribe he was, was against the lambs of Christ, and the sheep of his fold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 9:1, the author describes how Saul, full of threats and murder, breathed out his violent rage against the disciples of the Lord. His relentless persecution and desire for vengeance were like the very air he inhaled and exhaled. Breathing out threatening and slaughter, Saul reveled in the death of Stephen and took pleasure in the slaughter of the saints. His inward disposition of rage, wrath, malice, envy, and blood thirstiness was evident in his actions. However, despite his untamed and cruel nature, God's wonderful hand showed itself by transforming Saul into a new man, turning a wolf into a sheep and a persecutor into a shepherd. It is truly astounding that the same mouth which once breathed out destruction and death would later proclaim the Gospel of God's grace. Saul's rage was directed against the lambs of Christ, but ultimately, he himself became one of Christ's beloved sheep.",
+            "wordCount": 153,
+            "quoteTokenProportion": 30.93,
+            "qualityScore": 2.029466611216819,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                30.52,
+                33.18,
+                36.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul, filled with threats and murder, breathed out his violent rage against the disciples of the Lord. His inward disposition of rage, wrath, malice, envy, and blood thirstiness was evident in his actions. However, God's transforming power manifested itself by turning Saul, once like a wolf, into a new man. The same mouth that once breathed out destruction now proclaimed the Gospel of God's grace. Saul's persecution targeted the lambs of Christ, but he himself became one of Christ's beloved sheep.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.8463907856479442,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                28.8,
+                32.54,
+                38.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Saul, breathing out threats and slaughter, reveled in the death of Stephen and persecuted the followers of Christ even to foreign cities. His violent rage against the disciples burned as fiercely as ever, and his pursuit of vengeance consumed him. However, God's marvelous hand worked a transformation in Saul, turning him from a cruel wolf into a sheep and a shepherd. The same mouth that once breathed out violence and curses would later proclaim the Gospel of God's grace, embodying the riches of divine mercy and conversion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9651323065774213,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                32.17,
+                30.14,
+                37.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul, in his blind persecuting rage against the disciples of the Lord, breathed out threats and slaughter. His violent anger and desire for vengeance were like the very air he inhaled and exhaled. The taste of blood and the death of Stephen brought him pleasure, as he reveled in the slaughter of the saints. Yet, through God's wonderful intervention, Saul would go from being a wolf to a sheep, from a persecutor to a shepherd, and would avidly proclaim the Gospel of the grace of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0473651929748793,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                34.21,
+                32.31,
+                33.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul, consumed by his blind rage and filled with threats and murder, directed his violent persecution against the disciples of the Lord. His cruel and relentless pursuit of vengeance was like his very breath, inhaling and exhaling threats and slaughter. Saul took pleasure in the death of Stephen and reveled in the slaughter of the saints. However, through the remarkable intervention of God, Saul's transformation would be awe-inspiring. He would go from being a wolf to a sheep, a persecutor to a shepherd, and proclaim the Gospel of God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.830143445610329,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.19,
+            "commentatorTierSimilarities": [
+                33.95,
+                31.47,
+                34.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:52:32",
+    "verseRef": "Philippians 2:20",
+    "bestBHT": {
+        "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. There was no one equally well-affected for attending to their interests.",
+        "wordCount": 74,
+        "quoteTokenProportion": 49.15,
+        "qualityScore": 1.6556458909235077,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+        "commentatorTierSimilarities": [
+            27.9,
+            35.78,
+            36.32
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For I have none else like-minded...who will really care for your affairs.\" ",
+            "None else like-minded...to order them for the best.\" ",
+            "Will really care for your affairs, to order them for the best."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have none so 'like-minded,' literally, 'like-souled,' with myself as is Timothy.",
+            "A case wherein the Spirit of God so changed man's nature, that to be natural was with him to be spiritual.",
+            "The great point to be aimed at."
+        ],
+        "Albert Barnes": [
+            "There was no one with him who would feel so deep an interest in their welfare.",
+            "He would regard their interests with a sincere tenderness and concern.",
+            "Paul regarded Timothy as a son, and Paul\u2019s sending him on such an occasion would evince the feelings of a father who should send a beloved son on an important message."
+        ],
+        "Marvin Vincent": [
+            "Like minded [\u03b9\u03c3\u03bf\u03c8\u03c5\u03c7\u03bf\u03bd] Only here in the New Testament.\" ",
+            "Who [\u03bf\u03c3\u03c4\u03b9\u03c2] . Double relative, classifying : such that he.\" ",
+            "Naturally [\u03c8\u03bd\u03b7\u03c3\u03b9\u03c9\u03c2] . Rev., truly. The adverb only here in the New Testament."
+        ],
+        "John Calvin": [
+            "I have no one equally well-affected for attending to your interests.",
+            "Paul ... compares Timothy with others, rather than with himself.",
+            "He pronounces this eulogium upon him, with the express design that he may be the more highly esteemed by them for his rare excellence."
+        ],
+        "Philip Schaff": [
+            "For I have no man like-minded.",
+            "Who will care truly for your state.",
+            "It is the thought which admits no rest till the object of it is quite secured, and hardly then, but finds new anxiety for itself."
+        ],
+        "Archibald T. Robertson": [
+            "Likeminded with Timothy, not with Paul.",
+            "Truly (\u03b3\u03bd\u03b7\u03c3\u03b9\u03c9\u03c2). 'Genuinely.'",
+            "Legitimate birth, not spurious."
+        ],
+        "John Gill": [
+            "Timothy had a soul like the apostle's, which none that were with him, besides him, had; he was of the same judgment with him in the doctrines of grace.",
+            "he had an anxious care and solicitude, as the word signifies, for the good of souls.",
+            "he had a sincere love, an hearty and real concern for their good; and which he would show by delivering to them the sincere milk of the word."
+        ],
+        "John Wesley": [
+            "I have none \u2014 Of those who are now with me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. He had a sincere love and a genuine concern for the Philippians' welfare, showing his care through delivering the sincere milk of the word. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. Indeed, amongst all those with him, there was no one equally well-affected for attending to their interests.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.664483604601819,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                25.89,
+                38.67,
+                35.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. He had a sincere love and a genuine concern for the Philippians' welfare, showing his care through delivering the sincere milk of the word. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. There was no one equally well-affected for attending to their interests.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.6356612518577318,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                25.59,
+                38.42,
+                35.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. He had a sincere love and a genuine concern for the Philippians' welfare, showing his care through delivering the sincere milk of the word. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. There was no one equally well-affected for attending to their interests.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.6356612518577318,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                25.59,
+                38.42,
+                35.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. There was no one equally well-affected for attending to their interests.",
+            "wordCount": 74,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.6556458909235077,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.39,
+            "commentatorTierSimilarities": [
+                27.9,
+                35.78,
+                36.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For I have none else like-minded, who will really care for your affairs and order them for the best. Timothy, in his rare excellence, had a soul like the apostle's, sharing the same judgment and doctrines of grace. He had a sincere love and a genuine concern for the Philippians' welfare, showing his care through delivering the sincere milk of the word. Paul regarded Timothy as a son, sending him on this important message to demonstrate the depth of his concern for their state. Indeed, amongst all those with him, there was no one equally well-affected for attending to their interests.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.664483604601819,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                25.89,
+                38.67,
+                35.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:17:04",
+    "verseRef": "Luke 9:19",
+    "bestBHT": {
+        "bht": "The purpose of Jesus asking the question about the crowds' perceptions of Him was not to gain knowledge, but rather to elicit confessions from others. The diverse opinions about Jesus, including some believing He was John the Baptist resurrected, others thinking He was Elijah, and some suggesting He was one of the old prophets risen again, mirrored the rumors heard by Herod. The varied perspectives on Jesus' identity and the divided sentiments people had about Him were not surprising, as they can be seen in different accounts.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.6430313917462478,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+        "commentatorTierSimilarities": [
+            39.66,
+            0.0,
+            60.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is no improbability, nor contradiction to St. John's account that the multitudes sought to make him a king, in our Lord's asking this question.",
+            "We must remember that such enquiries were not made by Him for information, but as means of drawing out the confession of others, as here."
+        ],
+        "Archibald T. Robertson": [
+            "The various opinions of men about Jesus here run parallel to the rumours heard by Herod.\" ",
+            "That I am (\u03bc\u03b5 \u03b5\u03b9\u03bd\u03b1). Accusative and infinitive in indirect assertion, a common Greek idiom.",
+            "Matthew 16:13 for 'I' has 'the Son of man' as identical in the consciousness of Christ."
+        ],
+        "John Gill": [
+            "John the Baptist, this was the opinion of some who thought that he was risen from the dead.",
+            "Some say Elias, the prophet, and the Tishbite, who according to the Jewish notion, was to be the forerunner of the Messiah.",
+            "Others say that one of the old prophets is risen again; thus were they divided in their sentiments about him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The question posed by Jesus, Who do the crowds say that I am? was not asked for His own sake, but rather to draw out the confessions of others. The opinions about Jesus were diverse, with some thinking He was a resurrected John the Baptist, others believing He was the prophet Elijah, and still others suggesting He was one of the old prophets risen again. This multitude of views parallel the rumors that circulated about Jesus, reflecting the divided sentiments people held about Him. Such diverse opinions were not unexpected, considering the various perspectives people had on Jesus' identity, as revealed in different accounts.",
+            "wordCount": 104,
+            "quoteTokenProportion": 49.33,
+            "qualityScore": 1.3967135307760514,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.78,
+            "commentatorTierSimilarities": [
+                41.32,
+                0.0,
+                58.68
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The purpose of Jesus asking the question about the crowds' perceptions of Him was not to gain knowledge, but rather to elicit confessions from others. The diverse opinions about Jesus, including some believing He was John the Baptist resurrected, others thinking He was Elijah, and some suggesting He was one of the old prophets risen again, mirrored the rumors heard by Herod. The varied perspectives on Jesus' identity and the divided sentiments people had about Him were not surprising, as they can be seen in different accounts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.6430313917462478,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.97,
+            "commentatorTierSimilarities": [
+                39.66,
+                0.0,
+                60.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jesus asked the question about the crowds' perception of Him, it was not to seek information but rather to prompt the confessions of others. The opinions varied, with some considering Him to be the resurrected John the Baptist, others identifying Him as Elijah, and still others suggesting He was one of the old prophets risen again. These differing viewpoints mirrored the diverse rumors that circulated about Jesus, reflecting the divided sentiments held by the people regarding His identity. This multiplicity of opinions aligns with the various perspectives found in different accounts of Jesus' life.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.5183286076240727,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.83,
+            "commentatorTierSimilarities": [
+                38.53,
+                0.0,
+                61.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jesus posed the question about the crowds' perception of Him, it was not for His own understanding, but rather as a means of extracting confessions from others. The responses varied, with some suggesting that He was a resurrected John the Baptist, others believed Him to be Elijah, and some speculated that He was one of the old prophets back from the dead. These diverse opinions aligned with the rumors surrounding Jesus and revealed the divided sentiments and different perspectives people had regarding His identity.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.5513086300145411,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.92,
+            "commentatorTierSimilarities": [
+                36.33,
+                0.0,
+                63.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus\u2019 question to the crowds about His identity was not meant for His own knowledge, but rather to prompt confessions from others. Their opinions were diverse, ranging from the belief that Jesus was John the Baptist resurrected, to some thinking He was Elijah or one of the old prophets risen again. These varied perspectives mirror the rumors circulating about Jesus and highlight the divided sentiments held by people regarding His true identity, reflecting the different accounts and perspectives found in the Bible.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.56325408986241,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.32,
+            "commentatorTierSimilarities": [
+                38.26,
+                0.0,
+                61.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

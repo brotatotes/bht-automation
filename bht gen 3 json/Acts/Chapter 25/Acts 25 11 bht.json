@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:36:23",
+    "verseRef": "Acts 25:11",
+    "bestBHT": {
+        "bht": "In the face of potential victimization by the Jews, Paul fearlessly appeals to Caesar, recognizing that his case should be heard by the supreme power rather than being subjected to the unjust actions of his accusers. By asserting his rights as a Roman citizen and taking his case out of the hands of provincial justice, Paul demonstrates his trust in the fairness and justice of a Roman tribunal. His appeal aligns with God's plan for him to bear witness to Jesus in Rome, solidifying his commitment to fulfill this mission regardless of the circumstances.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.936680147992385,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+        "commentatorTierSimilarities": [
+            27.86,
+            43.28,
+            28.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If I am guilty, it is not by them, but by C\u00e6sar, that I must be (and am willing to be) tried, sentenced, and punished.",
+            "At all events, guilty or innocent, I am not to be made their victim.",
+            "The prospect at length, after his long and tedious imprisonment, of seeing Rome, must at this time have cheered him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I appeal to C\u00e6sar\u2014The right of appeal to the supreme power, in case of life and death, was secured by an ancient law to every Roman citizen...\" ",
+            "Paul, strong in the consciousness of his innocence and the justice of a Roman tribunal, would not have made this appeal.",
+            "But when the only other alternative offered him was to give his own consent to be transferred to the great hotbed of plots against his life... no other course was open to him."
+        ],
+        "Albert Barnes": [
+            "No true Christian wishes to escape from the laws. He will honor them, and not seek to evade them.",
+            "Boldness is not incompatible with Christianity; and innocence, when its rights are invaded, is always bold.",
+            "God answers prayer, but it is often in a way which we little anticipate. He so orders the train of events; he so places us amidst a pressure of circumstances, that the desire is granted in a way Which we could never have anticipated, but which shows in the best manner that he is a hearer of prayer."
+        ],
+        "Marvin Vincent": [
+            "Deliver him up as a favor to the Jews.",
+            "The technical phrase for lodging an appeal.",
+            "The Greek rendering of the Latin formula appello."
+        ],
+        "John Calvin": [
+            "We must not be superstitious, but we may crave help of the laws and politic order.\" ",
+            "God, who hath appointed judgment-seats, doth also grant liberty to his to use the same lawfully.",
+            "He reproveth in that place a manifest fault, to wit, because they could suffer no wrong, and because they were too much set upon suing one another, whereby they caused the gospel to be evil spoken of."
+        ],
+        "Philip Schaff": [
+            "This power of appealing to Rome was a valuable privilege of all Roman citizens, and a great safeguard against tyranny and oppression on the part of provincial magistrates.",
+            "We may well suppose, too, that Paul\u2019s determination to appeal to C\u00e6sar was strengthened, if not suggested, by this special promise he had received (sec chap, Acts 23:11), that he should bear witness to the Lord Jesus in Rome before he died.",
+            "He would carry out, he thought, his Master\u2019s will, and at all risks, even though in chains, would bear his witness to the Crucified in the imperial city; so he cried, \u2018I appeal unto C\u00e6sar.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "If I am a wrong-doer...assuming it to be true for the sake of argument.\" ",
+            "I do not beg off dying from myself.",
+            "Paul had crossed the Rubicon on this point and so took his case out of the hands of dilatory provincial justice (really injustice)."
+        ],
+        "John Gill": [
+            "I refuse not to die... he did not desire to escape death; he was ready to die for it.\" ",
+            "this was no subterfuge, or shift, to evade or defer justice.",
+            "I appeal unto Caesar; to this the apostle was induced, partly by the conduct of the governor, who seemed inclined to favour the Jews; and partly by the knowledge he might have of their intention to lie in wait for him, should he go up to Jerusalem; and chiefly by the vision he had had, which assured him that he must bear witness of Christ at Rome."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 25:11, Paul confidently asserts his innocence and appeals to Caesar, refusing to be made a victim by the Jews. His appeal not only protects his rights as a Roman citizen but also aligns with God's plan for him to bear witness to Jesus in Rome. Despite the risks involved, Paul willingly crosses the Rubicon, not out of a desire to escape death, but out of a deep conviction to fulfill his mission. By taking his case out of the hands of provincial injustice and placing it under Roman judgment, Paul shows that he honors and trusts the laws while relying on God's providence to answer his prayers in unexpected ways.",
+            "wordCount": 113,
+            "quoteTokenProportion": 32.05,
+            "qualityScore": 1.9927103047713088,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.6,
+            "commentatorTierSimilarities": [
+                25.55,
+                44.0,
+                30.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, in the face of potential victimization by the Jews, boldly appeals to Caesar, firmly believing in his innocence. By invoking his right as a Roman citizen, he places his case under Roman judgment, taking it out of the hands of provincial injustice. This decision aligns with God's plan for him to bear witness to Jesus in Rome. It is a demonstration of Paul's trust in the laws and his conviction to fulfill his mission, showing that God answers prayers in unexpected ways.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.847216504526775,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.76,
+            "commentatorTierSimilarities": [
+                26.25,
+                43.67,
+                30.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 25:11, Paul refuses to be a victim and confidently appeals to Caesar, fully aware of the value of this privilege for Roman citizens. His appeal is not a means to escape justice but a demonstration of his willingness to bear witness to Jesus despite the risks involved. By taking his case out of the jurisdiction of provincial justice, Paul shows his trust in God's providence and aligns his actions with God's plan for him to testify in Rome.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.0020125044294415,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                25.75,
+                44.27,
+                29.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of potential victimization by the Jews, Paul fearlessly appeals to Caesar, recognizing that his case should be heard by the supreme power rather than being subjected to the unjust actions of his accusers. By asserting his rights as a Roman citizen and taking his case out of the hands of provincial justice, Paul demonstrates his trust in the fairness and justice of a Roman tribunal. His appeal aligns with God's plan for him to bear witness to Jesus in Rome, solidifying his commitment to fulfill this mission regardless of the circumstances.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.936680147992385,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                27.86,
+                43.28,
+                28.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 25:11, Paul confidently asserts his innocence and appeals to Caesar, refusing to be made a victim by the Jews. His appeal not only protects his rights as a Roman citizen but also aligns with God's plan for him to bear witness to Jesus in Rome. Despite the risks involved, Paul willingly crosses the Rubicon, not out of a desire to escape death, but out of a deep conviction to fulfill his mission. By taking his case out of the hands of provincial injustice, Paul shows that he honors and trusts the laws while relying on God's providence.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.957366144111361,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.42,
+            "commentatorTierSimilarities": [
+                25.35,
+                43.68,
+                30.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

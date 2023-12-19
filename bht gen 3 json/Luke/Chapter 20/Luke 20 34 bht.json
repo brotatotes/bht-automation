@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:22:26",
+    "verseRef": "Luke 20:34",
+    "bestBHT": {
+        "bht": "You do err, not knowing the Scriptures, nor the power of God. A thousand difficulties vanish when confronted with the power of God. In this mortal world, marriage serves the purpose of succession and the passing on of inheritance. However, before the power of God, these earthly concerns fade away. The power of God supersedes our limited perspective, transforming our existence beyond our current understanding.",
+        "wordCount": 65,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 1.700586423449407,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+        "commentatorTierSimilarities": [
+            79.0,
+            0.0,
+            21.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye do err, not knowing the Scriptures, nor the power of God.\" ",
+            "Regarding the future state, a thousand such difficulties vanish.\" ",
+            "Before the power of God, a thousand such difficulties vanish."
+        ],
+        "John Gill": [
+            "The children of this world marry, and are given in marriage that is, such who live in this world, in the present mortal and imperfect state...",
+            "These marry, and have wives given them in marriage; and it is very right, and fit, that so it should be...",
+            "...in order to keep up a succession of men, and that they may have heirs to enjoy their substance when they are gone."
+        ],
+        "John Wesley": [
+            "The children of this world...marry and are given in marriage.\" ",
+            "As being all subject to the law of mortality; so that the species is in need of being continually repaired."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Regarding the future state, a thousand difficulties vanish, for the power of God supersedes our limited understanding of Scripture. In this mortal and imperfect world, marriage serves the purpose of maintaining succession and ensuring the enjoyment of inherited substance. However, in the future state, such earthly concerns will fade away, as the power of God will transform our existence beyond our current comprehension.",
+            "wordCount": 63,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 1.4703261556597158,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.23,
+            "commentatorTierSimilarities": [
+                62.11,
+                0.0,
+                37.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "You do err, not knowing the Scriptures, nor the power of God. Our limited understanding of Scripture can lead to misunderstandings about the future state. In this mortal world, marriage serves a practical purpose of succession and inheritance, but before the power of God, these concerns fade away. The power of God supersedes our limited perspective, causing a thousand difficulties to vanish and transforming our existence in ways beyond our comprehension.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4806987863479395,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                74.99,
+                0.0,
+                25.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Ye do err, not knowing the Scriptures, nor the power of God. In the present mortal and imperfect state, marriage serves the purpose of continuation and inheritance in this world. However, before the power of God, a thousand difficulties disappear. The power of God surpasses our understanding of Scripture and transforms our existence in ways we cannot comprehend.",
+            "wordCount": 58,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6655943266240765,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.72,
+            "commentatorTierSimilarities": [
+                76.8,
+                0.0,
+                23.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You do err, not knowing the Scriptures, nor the power of God. A thousand difficulties vanish when confronted with the power of God. In this mortal world, marriage serves the purpose of succession and the passing on of inheritance. However, before the power of God, these earthly concerns fade away. The power of God supersedes our limited perspective, transforming our existence beyond our current understanding.",
+            "wordCount": 65,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.700586423449407,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.89,
+            "commentatorTierSimilarities": [
+                79.0,
+                0.0,
+                21.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "You do err, not knowing the Scriptures, nor the power of God. Before the power of God, a thousand difficulties vanish. In the present mortal and imperfect state, marriage fulfills the need for succession and the enjoyment of inherited substance. However, in the future state, such earthly concerns fade away. The power of God surpasses our limited comprehension, bringing about a transformative existence that goes beyond our current understanding.",
+            "wordCount": 69,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.6250337678404108,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+            "commentatorTierSimilarities": [
+                78.27,
+                0.0,
+                21.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

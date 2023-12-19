@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:19:16",
+    "verseRef": "Luke 13:19",
+    "bestBHT": {
+        "bht": "The parable depicts a garden, personally tended to by the owner, highlighting his close observation and care. While the word great may be omitted, the focus remains on the branches. The mustard seed's small size signifies the kingdom of God, with its significant impact. This parable emphasizes the ministry of the Gospel and the flourishing state of the church, where believers find shelter and experience growth.",
+        "wordCount": 67,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 1.1073336659630115,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.16,
+        "commentatorTierSimilarities": [
+            33.36,
+            0.0,
+            66.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "His garden. Properly, as Rev., his own [\u03b5\u03b1\u03c5\u03c4\u03bf\u03c5] where he could personally observe and tend it.",
+            "The best texts omit great.",
+            "Branches [\u03ba\u03bb\u03b1\u03b4\u03bf\u03b9\u03c2] . See on Mark 11:8."
+        ],
+        "Archibald T. Robertson": [
+            "Small as a mustard seed.",
+            "Different from 'earth' (Mark) or 'field' (Matthew.)",
+            "Common Hebraism, very frequent in LXX, only in Luke in the N.T., but does appear in Koine though rare in papyri; this use of \u03b5\u03b9\u03c2 after words like ginomai."
+        ],
+        "John Gill": [
+            "It is like a grain of mustard seed....which is true of the ministry of the Gospel, of the Gospel church state, and of the grace of God in the hearts of his people.",
+            "And the fowls of the air lodged in the branches of it....gracious men on earth, who sit under the shadow of a Gospel ministry with great delight.",
+            "And it grew and waxed a great tree....the spread of the Gospel in the world, the flourishing state of the church of Christ, and the growth of grace in the hearts of believers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable in this verse describes a man's personal garden, where he actively tends to the growth of a mustard plant, emphasizing the personal care and attention given. While some translations exclude the word great, the focus is on the branches of the plant. This imagery of a mustard seed, small yet impactful, is a common Hebraism used to describe the kingdom of God. The parable highlights the ministry of the Gospel and the flourishing state of the church, where believers find shelter and growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.2603149603170838,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.25,
+            "commentatorTierSimilarities": [
+                33.94,
+                0.0,
+                66.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable depicts a garden, personally tended to by the owner, highlighting his close observation and care. While the word great may be omitted, the focus remains on the branches. The mustard seed's small size signifies the kingdom of God, with its significant impact. This parable emphasizes the ministry of the Gospel and the flourishing state of the church, where believers find shelter and experience growth.",
+            "wordCount": 67,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.1073336659630115,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.16,
+            "commentatorTierSimilarities": [
+                33.36,
+                0.0,
+                66.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable in this passage illustrates a personal garden, where the owner can personally observe and tend to it. Although the word great may be omitted, the emphasis remains on the branches. The mustard seed's small size is symbolic of the kingdom of God and its profound impact. This parable highlights the ministry of the Gospel and the flourishing state of the church, providing a shelter for believers and fostering their growth.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1704383736163109,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.26,
+            "commentatorTierSimilarities": [
+                36.78,
+                0.0,
+                63.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable described here features a personal garden that is attentively cared for by its owner. Though the term great may be excluded, the focus is on the branches. The mustard seed's small size represents the kingdom of God, illustrating its immense influence. This parable emphasizes the ministry of the Gospel and the flourishing condition of the church, serving as a sanctuary for believers and fostering their growth.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.0434624243049535,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.04,
+            "commentatorTierSimilarities": [
+                33.21,
+                0.0,
+                66.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable in this verse portrays a garden personally tended by its owner, who carefully observes and nurtures it. While some translations omit the word great, the emphasis remains on the branches. The mustard seed's small size symbolizes the kingdom of God and its significant impact. The parable highlights the ministry of the Gospel and the thriving state of the church, providing a haven for believers and promoting their spiritual growth.",
+            "wordCount": 72,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.211338793235845,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.62,
+            "commentatorTierSimilarities": [
+                35.55,
+                0.0,
+                64.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

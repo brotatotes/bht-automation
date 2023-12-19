@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:12:55",
+    "verseRef": "1 Corinthians 14:1",
+    "bestBHT": {
+        "bht": "Strive for spiritual gifts, but let love be your great aim, seeing that it is the greatest. Pursue love earnestly, desiring it with all your heart and making it the object of your constant pursuit. And while it is not improper to desire other gifts, remember that the ability to prophesy, to speak in a plain and instructive manner that edifies and convicts, is of utmost value. So, follow after love with a zealous and eager spirit, coveting spiritual gifts, but especially the gift of prophesy, for in doing so, you will fulfill God's purpose for the church.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 2.0970400829733933,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+        "commentatorTierSimilarities": [
+            26.97,
+            37.13,
+            35.89
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let it be your great aim\u2014important and enduring as that grace has been shown to be.\" ",
+            "Strive for spiritual gifts, but more... that ye may prophesy.",
+            "More for this than for others; chiefly, that ye may prophesy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Follow after charity\u2014as your first and chief aim, seeing that it is 'the greatest'.\"  ",
+            "Desire zealously spiritual gifts.\" ",
+            "But chiefly that ye may prophesy."
+        ],
+        "Albert Barnes": [
+            "Pursue love... earnestly desire it; strive to possess it; make it the object of your anxious and constant solicitude to obtain it, and to be influenced by it always.",
+            "...it was not improper also to desire to be so endowed as to promote their highest usefulness in the church.",
+            "The ability to speak in a plain, clear, instructive manner, so as to edify the church and convince sinners, was a more valuable endowment than the power of working miracles, or the power of speaking foreign languages."
+        ],
+        "John Calvin": [
+            "They will, therefore, regulate themselves with propriety in the use of gifts, if love prevails among them.",
+            "He shows them how foolish their ambition is, which frustrates their hopes and desires.",
+            "Covet, therefore, spiritual gifts \u2014that is, 'Neglect no gift, for I exhort you to seek after them all, provided only prophecy holds the first place.'"
+        ],
+        "Philip Schaff": [
+            "Follow after love, yet desire earnestly spiritual gifts: \u2018If I exalt love above all mere gifts, this is not meant to disparage the gifts, nor to quench the desire to possess and exercise them...\" (1 Corinthians 14:1)",
+            "...only in doing so, forget not that the best and most useful of them all is prophecy.\" (1 Corinthians 14:1)",
+            "Follow after love...\" (1 Corinthians 14:1)"
+        ],
+        "Archibald T. Robertson": [
+            "Follow after love (\u03b4\u03b9\u03c9\u03ba\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b1\u03b3\u03b1\u03c0\u03b7\u03bd). As if a veritable chase.",
+            "Distinct aim in view as in verse 1 Corinthians 14:5.",
+            "Present subjunctive, 'that ye may keep on prophesying.'"
+        ],
+        "John Gill": [
+            "Follow after charity... with an eagerness used in hunting, and with such violence as persecutors express in pursuing and laying hold on those they seek after.\" ",
+            "That they should be very zealous for them, ambitious of them, and earnestly covet them; since being rightly used and kept in their proper place, they were greatly beneficial and profitable to the churches of Christ, and the glory of God.\" ",
+            "By which he means, not so much the gift of foretelling future events... but a gift of preaching the word, or explaining the prophecies of the Old Testament, and of praying and singing of psalms..."
+        ],
+        "John Wesley": [
+            "Follow after love \u2014 With zeal, vigour, courage, patience; else you can neither attain nor keep it.",
+            "Desire spiritual gifts; but especially that ye may prophesy \u2014 The word here does not mean foretelling things to come; but rather opening and applying the scripture."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Strive for spiritual gifts, but let love be your great aim, seeing that it is the greatest. Pursue love earnestly, desiring it with all your heart and making it the object of your constant pursuit. And while it is not improper to desire other gifts, remember that the ability to prophesy, to speak in a plain and instructive manner that edifies and convicts, is of utmost value. So, follow after love with a zealous and eager spirit, coveting spiritual gifts, but especially the gift of prophesy, for in doing so, you will fulfill God's purpose for the church.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.0970400829733933,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                26.97,
+                37.13,
+                35.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pursue love earnestly, desiring it with all your heart, while also striving for spiritual gifts. Remember that the ability to prophesy, to speak plainly and edify the church, is of great value. Follow after love with zeal and eagerness, coveting spiritual gifts, especially the gift of prophesy. Seek after these gifts with the same fervor as a hunter chasing its prey. By doing so, you will fulfill God's purpose for the church and bring glory to Him.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9471795760174233,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                29.24,
+                33.6,
+                37.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Strive for spiritual gifts, but let love be your great aim. Follow after love with zeal and eagerness, desiring it with all your heart. Remember that the ability to prophesy, to speak plainly and instructively, is more valuable than other gifts. Pursue love earnestly, but also covet spiritual gifts, especially the gift of prophesy. By doing so, you will fulfill God's purpose for the church and bring glory to Him.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.029304435319742,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                30.8,
+                33.73,
+                35.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Strive for spiritual gifts, making it your great aim to follow after love with zeal and eagerness. Desiring love and coveting spiritual gifts, especially the gift of prophesy, will enable you to fulfill God's purpose for the church. Remember that the ability to speak plainly and edify others through prophesy is highly valuable. Pursue these gifts with the same fervor as a hunter chasing its prey, and in doing so, you will bring glory to God and benefit the church greatly.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.021454623688232,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                26.92,
+                34.56,
+                38.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Strive for spiritual gifts, making it your great aim to follow after love with zeal and eagerness. Desiring love and coveting spiritual gifts, especially the gift of prophesy, will enable you to fulfill God's purpose for the church. Remember that the ability to speak plainly and edify others through prophesy is highly valuable. Pursue these gifts with the same fervor as a hunter chasing its prey, and in doing so, you will bring glory to God and benefit the church greatly.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.021454623688232,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                26.92,
+                34.56,
+                38.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:35:34",
+    "verseRef": "Acts 23:18",
+    "bestBHT": {
+        "bht": "It is possible that Paul's nephew, who was potentially studying in Jerusalem like Paul himself, discovered the conspiracy and wasted no time in reporting it. Paul, as a Roman citizen, was under military custody, with a soldier responsible for his safekeeping. This form of custody was more confining but provided better protection. The centurion, displaying his honorable nature, respected the information given by the young man and allowed him to speak with Paul. This act demonstrated the centurion's benevolence and willingness to assist, even towards a prisoner.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.3927262489490966,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+        "commentatorTierSimilarities": [
+            37.4,
+            13.74,
+            48.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Paul's sister's son\u2014 If he was at this time residing at Jerusalem for his education, like Paul himself, he may have got at the schools those hints of the conspiracy on which he so promptly acted.",
+            "(See on Acts 9:30).",
+            "conspiracy on which he so promptly acted."
+        ],
+        "Albert Barnes": [
+            "And prayed me - And asked me."
+        ],
+        "Marvin Vincent": [
+            "Paul, as a Roman citizen, was held in custodia militaris, 'military custody.'",
+            "Custodia libera (free custody), confined to men of high rank.",
+            "Custodia militaris (military custody). The accused was placed in charge of a soldier, who was responsible with his life for the prisoner's safe-keeping."
+        ],
+        "Philip Schaff": [
+            "The \u2018prisoner;\u2019 the Greek word signifies \u2018one bound.\u2019",
+            "We may well believe that at this time he little thought how long that name (of the prisoner) would be used of him, first by others and then by himself, until it became as a title of honour in which he seemed to glory almost more than in that of apostle.",
+            "Comp. Ephesians 3:1; Ephesians 4:1; Philem. Acts 23:1; Acts 23:91."
+        ],
+        "Archibald T. Robertson": [
+            "Bound to a soldier, but not with two chains... in military custody. This was better than custodia publica, but more confining.\" ",
+            "Who hath something to say to thee."
+        ],
+        "John Gill": [
+            "Without curiously inquiring into the thing, or examining the young man about it; which showed him to be a man of a good disposition, and ready to do a kind office, even to a prisoner.",
+            "The honour and modesty of the centurion, he did not seek by any methods to get the secret out, either of Paul or the young man; but readily undertakes the affair, honourably performs it.",
+            "Tells him the young man had something to say to him, he could not tell what, and then departs."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's nephew, who perhaps attended the same schools as Paul, had learned of a conspiracy against his uncle and wasted no time in warning the authorities. Paul, being a Roman citizen, was under military custody, meaning he was bound to a soldier who was responsible for his safekeeping. This form of custody was more confining than public custody, but it ensured his protection. The centurion, without prying into the matter, took the young man's report seriously and allowed him to speak with Paul. The centurion's honorable handling of the situation demonstrates his good disposition and readiness to assist, even to a prisoner.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.444061978911738,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.36,
+            "commentatorTierSimilarities": [
+                37.5,
+                10.63,
+                51.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's nephew, possibly studying in Jerusalem alongside Paul, discovered a conspiracy against his uncle and promptly reported it. As a Roman citizen, Paul was in military custody, bound to a soldier responsible for his safety. This form of custody, though confining, offered better protection. The centurion, respecting the young man's information, did not pry, but allowed him to speak with Paul. The centurion's honorable response displayed his kindness and willingness to assist, even towards a prisoner.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.3775782672609895,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                37.51,
+                13.25,
+                49.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's nephew, potentially in Jerusalem for his education like Paul himself, may have gained knowledge of the conspiracy and immediately informed the authorities. Being a Roman citizen, Paul was held in military custody, bound to a soldier responsible for his well-being. This type of custody, while restrictive, provided greater security. The centurion, refraining from prying, treated the young man's report seriously and permitted him to speak with Paul. The centurion's honorable conduct displayed his benevolent disposition, willing to offer assistance to a prisoner.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.3809488561298515,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.26,
+            "commentatorTierSimilarities": [
+                39.66,
+                12.76,
+                47.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's nephew, possibly residing in Jerusalem for education like Paul, may have learned of the conspiracy and acted promptly. As a Roman citizen, Paul was in military custody, being bound to a soldier who ensured his safety. This form of custody, although restrictive, offered better protection. The centurion, without prying, respected the young man's report and allowed him to speak with Paul. The centurion's honorable response revealed his kind disposition and willingness to assist even a prisoner.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.3923040340686628,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                37.49,
+                13.61,
+                48.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "It is possible that Paul's nephew, who was potentially studying in Jerusalem like Paul himself, discovered the conspiracy and wasted no time in reporting it. Paul, as a Roman citizen, was under military custody, with a soldier responsible for his safekeeping. This form of custody was more confining but provided better protection. The centurion, displaying his honorable nature, respected the information given by the young man and allowed him to speak with Paul. This act demonstrated the centurion's benevolence and willingness to assist, even towards a prisoner.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.3927262489490966,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "commentatorTierSimilarities": [
+                37.4,
+                13.74,
+                48.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

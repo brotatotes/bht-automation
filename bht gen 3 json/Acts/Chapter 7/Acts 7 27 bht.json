@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:27:25",
+    "verseRef": "Acts 7:27",
+    "bestBHT": {
+        "bht": "In this account, we witness the continued resistance of Israel to the Spirit. Moses, whose life was divided into three forty-year periods, felt a strong inclination to visit his brethren and deliver them from bondage. However, the Israelites rejected his efforts and challenged his authority as their ruler and judge. This rejection revealed the prevailing sentiment towards Moses at that time. It is often the wrongdoer who resists reconciliation, not God. Despite comprehending their words, Moses faced opposition in fulfilling his divine calling as God's chosen instrument.",
+        "wordCount": 89,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.6635166392001608,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+        "commentatorTierSimilarities": [
+            33.68,
+            35.01,
+            31.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "27.] The further progress of resistance to the Spirit on the part of Israel."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The life of Moses is represented as embracing three periods, of forty years each... his age at death, one hundred twenty years, agrees with it.",
+            "It came into his heart to visit his brethren... his heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
+        ],
+        "Albert Barnes": [
+            "It is usually the man that does the injury that is unwilling to be reconciled; and when we find a man that regards the entreaties of his friends as improper interference, when he becomes increasingly angry when we exhort him to peace, it is usually a strong evidence that he is conscious that he has been at fault.",
+            "In the controversy between God and man, it is the 'sinner' who has done the wrong that is unwilling to be reconciled, and not God.",
+            "What right have you to interfere in this matter? The usual salutation with which a man is greeted who attempts to prevent quarrels."
+        ],
+        "Philip Schaff": [
+            "The words of these Israelites evidently express the general feelings of all the people toward Moses at this juncture.",
+            "Moses understood them."
+        ],
+        "Archibald T. Robertson": [
+            "Thrust him away (\u03b1\u03c0\u03c9\u03c3\u03b1\u03c4\u03bf \u03b1\u03c5\u03c4\u03bf\u03bd). First aorist middle indicative (Koine for Attic \u03b1\u03c0\u03b5\u03c9\u03c3\u03b1\u03c4\u03bf) of \u03b1\u03c0\u03c9\u03b8\u03b5\u03c9, to push away from oneself in middle voice as here, common in old Greek."
+        ],
+        "John Gill": [
+            "Who made thee a ruler and a judge over us?...it is known concerning thee what thou didst to the Egyptian.\" (27 words)",
+            "Thou art not yet fit to be a prince and a judge over us, seeing one of forty years of age is a man of understanding.\" (25 words)",
+            "Art thou not the son of Jochebed, though they call thee the son of Bithiah? And dost thou seek to be a prince and a judge over us?\" (28 words)"
+        ],
+        "John Wesley": [
+            "Who appointed thee \u2014 \"Under the presence of the want of a call by man, the instruments of God are often rejected."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:27, we see the resistance of Israel to the Spirit continuing. Moses, who encompassed three periods of forty years in his life, felt the desire in his heart to visit his brethren and set them free. Unfortunately, his gesture was met with rejection and accusations from the Israelites, who questioned his authority as their ruler and judge. This response from the people reflected their overall sentiment towards Moses at that time. It is often the wrongdoer who is unwilling to be reconciled, not God. Thus, despite Moses' understanding of the people's words, his divine vocation was met with resistance as the chosen instrument of God.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.725245417155414,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                35.66,
+                36.27,
+                28.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The resistance of Israel to the Spirit is evident in this passage. Moses, whose life can be divided into three forty-year periods, felt compelled in his heart to visit his brethren and set them free. However, the Israelites pushed him away, challenging his authority as their ruler and judge. This rejection reflected the general sentiment towards Moses at that time. It is common for the wrongdoer to resist reconciliation, and not God. Despite understanding the people's words, Moses faced opposition as the chosen instrument of God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.6580088783572022,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.47,
+            "commentatorTierSimilarities": [
+                35.46,
+                36.69,
+                27.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The resistance to the Spirit by Israel continues in Acts 7:27. Divided into three forty-year periods, the life of Moses reflects his divine vocation to set his brethren free. However, when Moses felt compelled in his heart to visit his brethren, the Israelites pushed him away and questioned his authority as their ruler and judge. This rejection from the people showcased their overall sentiment towards Moses. It is often the wrongdoer who resists reconciliation, and not God. Despite understanding their words, Moses encountered opposition as God's chosen instrument.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.6979100483928256,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.8,
+            "commentatorTierSimilarities": [
+                35.3,
+                36.27,
+                28.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, we witness the continued resistance of Israel to the Spirit. Moses, whose life was divided into three forty-year periods, felt a strong inclination to visit his brethren and deliver them from bondage. However, the Israelites rejected his efforts and challenged his authority as their ruler and judge. This rejection revealed the prevailing sentiment towards Moses at that time. It is often the wrongdoer who resists reconciliation, not God. Despite comprehending their words, Moses faced opposition in fulfilling his divine calling as God's chosen instrument.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.6635166392001608,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.65,
+            "commentatorTierSimilarities": [
+                33.68,
+                35.01,
+                31.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Israelites in Acts 7:27 continue to resist the prompting of the Spirit. Divided into three forty-year periods, the life of Moses is marked by his desire to visit and deliver his brethren. However, the Israelites reject him and question his authority as their ruler and judge. This rejection reflects the widespread sentiment towards Moses at that time. Generally, it is the wrongdoer who resists reconciliation, not God. Despite understanding their words, Moses faces opposition in carrying out his divine calling as God's chosen instrument.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6657678065267398,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                31.71,
+                37.06,
+                31.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

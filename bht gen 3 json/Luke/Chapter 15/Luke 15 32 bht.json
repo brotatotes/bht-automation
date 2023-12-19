@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:20:36",
+    "verseRef": "Luke 15:32",
+    "bestBHT": {
+        "bht": "The parable of the prodigal son highlights the Father's love and mercy towards both the wayward and the faithful. It demonstrates that we all have the potential to stray but that God's grace is sufficient to seek and save us. The joy displayed upon the prodigal's return emphasizes the profound joy in the redemption of the lost. This parable serves as a reminder that those who faithfully serve God will receive even greater blessings, while also emphasizing the importance of showing love and grace to others as we seek to save the lost.",
+        "wordCount": 96,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.815466624356164,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+        "commentatorTierSimilarities": [
+            34.72,
+            33.32,
+            31.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Father still asserts the restored sonship of his returned prodigal\u2014this thy brother.",
+            "The difficulties which have been found in the latter part of the parable [...] are considerably lightened by the consideration.",
+            "We are all in turn examples of the cases of both these brothers, containing the seeds of both evil courses in our hearts: but, thanks be to God, under that grace, which is sufficient and willing to seek and save us from both."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The deeper sunk and the longer estranged any sinner is, the more exuberant is the joy which his recovery occasions.",
+            "Such joy is not the portion of those whose whole lives have been spent in the service of their Father in heaven.",
+            "Instead of grudging the want of this, they should deem it the highest testimony to their lifelong fidelity, that something better is reserved for them\u2014the deep, abiding complacency of their Father in heaven."
+        ],
+        "Philip Schaff": [
+            "The claim rested upon a correct principle: \u2018the doers of the law shall be justified\u2019 (Romans 2:13), but the character of the elder son is so portrayed as to indicate that he failed to stand on that principle.\" ",
+            "The New Testament loses no opportunity for prophesying the ultimate salvation of Israel, and such a prediction would least of all fail in a parable where love and forbearance alone are depicted.",
+            "All of us, in whom sin remains, are represented by one or the other of those two sons. Both were offenders, yet the Father calls both sons, and would save both lasses of sinners here depicted."
+        ],
+        "Archibald T. Robertson": [
+            "A real father could do no less.",
+            "Luke was called a painter by the ancients. Certainly he has produced a graphic pen picture here of God's love for the lost that justifies forever the coming of Christ to the world to seek and to save the lost.",
+            "It glorifies also soul-saving on the part of his followers who are willing to go with Jesus after the lost in city and country, in every land and of every race."
+        ],
+        "John Gill": [
+            "It was meet that we should make merry... and this elder brother also, because of the relation he stood in to him.\" ",
+            "If he had had the same spiritual affection the apostle had for his brethren and kinsmen... he would have rejoiced at the conversion and return of sinners by repentance.\" ",
+            "For this thy brother... was dead, and is alive again, and was lost, and is found."
+        ],
+        "John Wesley": [
+            "Amazing intimation, that the best of men ought to account the worst sinners their brethren still; and should especially remember this relation, when they show any inclination to return.",
+            "Our Lord in this whole parable shows, not only that the Jews had no cause to murmur at the reception of the Gentiles, but that if the Pharisees were indeed as good as they fancied themselves to be, still they had no reason to murmur at the kind treatment of any sincere penitent.",
+            "Let no elder brother murmur at this indulgence, but rather welcome the prodigal back into the family. And let those who have been thus received, wander no more, but emulate the strictest piety of those who for many years have served their heavenly Father, and not transgressed his commandments."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the prodigal son reveals the great love and mercy of the Father towards both the wayward and the faithful. It reminds us that all of us, at times, have the potential to be like the prodigal son, straying from God's path and needing His forgiveness and restoration. The Father's joy upon the return of the prodigal demonstrates the exuberant joy that accompanies the redemption of the lost. This parable also serves as a reminder to those who have faithfully served God that something even better awaits them \u2013 the deep, abiding complacency of their Father in heaven. Ultimately, this parable illustrates God's unwavering love for the lost and the joy that comes from their repentance and return, providing a powerful picture of the love and grace that we, as followers of Jesus, should show to others as we seek and save the lost.",
+            "wordCount": 148,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 2.0133427663261663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+            "commentatorTierSimilarities": [
+                35.05,
+                31.91,
+                33.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the prodigal son highlights the Father's love and mercy towards both the wayward and the faithful. It demonstrates that we all have the potential to stray but that God's grace is sufficient to seek and save us. The joy displayed upon the prodigal's return emphasizes the profound joy in the redemption of the lost. This parable serves as a reminder that those who faithfully serve God will receive even greater blessings, while also emphasizing the importance of showing love and grace to others as we seek to save the lost.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.815466624356164,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                34.72,
+                33.32,
+                31.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable of the prodigal son reveals the great love and mercy of the Father towards both the wayward and the faithful. It reminds us that all of us, at times, have the potential to be like the prodigal son, straying from God's path and needing His forgiveness and restoration. The Father's joy upon the return of the prodigal demonstrates the exuberant joy that accompanies the redemption of the lost. This parable also serves as a reminder to those who have faithfully served God that something even better awaits them - the deep, abiding complacency of their Father in heaven.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.010138913844218,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                35.5,
+                31.84,
+                32.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The parable of the prodigal son depicts the immense love of the Father for both the wayward and the faithful. It highlights that we all have the capacity to go astray and need God's forgiveness and restoration. The joy displayed upon the prodigal's return signifies the overwhelming happiness that accompanies the redemption of the lost. This parable also reminds those who have faithfully served God that an even greater reward awaits them \u2013 the deep and unwavering approval of their Father in heaven. It captures God's love for the lost and encourages us to extend the same grace in seeking and saving others.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.785889335570939,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                36.34,
+                30.42,
+                33.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable of the prodigal son reveals the Father's love and mercy towards both the wayward and the faithful. It demonstrates that all of us have the potential to stray and need God's forgiveness and restoration. The joy displayed upon the prodigal's return exemplifies the exuberant joy that comes with the redemption of the lost. This parable serves as a reminder that those who faithfully serve God will receive even greater blessings. It portrays God's love for the lost and highlights the importance of seeking and saving others.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.7294650624058532,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.85,
+            "commentatorTierSimilarities": [
+                35.33,
+                31.5,
+                33.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

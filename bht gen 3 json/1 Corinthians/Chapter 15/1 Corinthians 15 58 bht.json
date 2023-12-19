@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:14:30",
+    "verseRef": "1 Corinthians 15:58",
+    "bestBHT": {
+        "bht": "Beloved, as you abound in the work of the Lord, remain steadfast and unmovable. Let the assurance of the resurrection ignite your labor, knowing that your work in the Lord is not in vain. The best response to doubt is to continue working diligently, for through your steadfastness and unwavering faith, you demonstrate the truth and reality of the Gospel. In the face of temptations and skepticism, let your actions speak and show the world the fruit of your unwavering commitment to the Lord's work.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.0,
+        "qualityScore": 2.192307822682845,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+        "commentatorTierSimilarities": [
+            26.82,
+            34.71,
+            38.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wherefore\u2014seeing that the victory is sure. stedfast, unmoveable.",
+            "The work of the Lord is the Christian life, with its active and passive duties and graces, the bringing forth the fruits of the Spirit.",
+            "knowing (as you do\u2014being convinced by what has been said) that your labour (bestowed on the work of the Lord) is not vain (which it would be were there no resurrection) in the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "beloved\u2014Sound doctrine kindles Christian love.",
+            "steadfast\u2014not turning aside from the faith of the resurrection of yourselves.",
+            "the work of the Lord\u2014the promotion of Christ's kingdom...Ye, as being in the Lord by faith, know that your labor in the Lord is not to be without its reward."
+        ],
+        "Albert Barnes": [
+            "Be ye steadfast...firm, strong, confident in the faith, in view of the truth that you will be raised up.",
+            "Be fixed in the faith, and let not the power of sin, or the sophistry of pretended philosophy, or the arts of the enemy of the soul seduce you from the faith of the gospel.",
+            "The hope of the resurrection and of future glory should stimulate us to great and self-denying efforts in honor of Him who has revealed that doctrine, and who purposes graciously to reward us there."
+        ],
+        "Marvin Vincent": [
+            "Steadfast, unmovable... Fixedness is a condition of abounding in work.\" ",
+            "The former refers to their firm establishment in the faith; the latter to that establishment as related to assault from temptation or persecution.\" ",
+            "All activity has its center in rest."
+        ],
+        "John Calvin": [
+            "Since your labor, says he, is not in vain in the Lord, be steadfast, and abound in good works.",
+            "For amidst so many occasions of offense as constantly present themselves to us, who is there that would not despond, or turn aside from the way, were it not that, by thinking of a better life he is by this means kept in the fear of God?\" ",
+            "Unquestionably, if the hope of reward is taken away and extinguished, alacrity in running will not merely grow cold, but will be altogether destroyed."
+        ],
+        "Philip Schaff": [
+            "The way not to go back is to go forward, the way to be 'unmoveable' is to be 'always abounding.' The secret of stability is progress.\" ",
+            "Not to advance is to recede, forasmuch as ye know that your labour is not in vain in the Lord.\" ",
+            "Thus, with beautiful calmness and ease, does the apostle come down, in this closing verse, from the height to which he had risen in the verses immediately preceding, to the everyday work and warfare of life."
+        ],
+        "Archibald T. Robertson": [
+            "Let the sceptics howl and rage. Paul has given rational grounds for faith and hope in Christ the Risen Lord and Saviour.\" ",
+            "Note practical turn to this great doctrinal argument.\" ",
+            "The best answer to doubt is work."
+        ],
+        "John Gill": [
+            "Be ye steadfast, unmovable; in all the doctrines of the Gospel.\" ",
+            "Always abounding in the work of the Lord.",
+            "Your labor is not in vain in the Lord."
+        ],
+        "John Wesley": [
+            "Be ye steadfast \u2014 In yourselves.\" ",
+            "Unmovable \u2014 By others; continually increasing in the work of faith and labour of love.\" ",
+            "Knowing your labour is not in vain in the Lord \u2014 Whatever ye do for his sake shall have its full reward in that day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beloved, be steadfast and unmovable in your faith, for the work of the Lord is not in vain. Let the assurance of the resurrection fuel your labor and ignite your love. Though doubts and temptations may arise, let your unchanging faith be a foundation for abounding in the work of the Lord. As you remain firm and unwavering, knowing that your labor is not without reward, let your actions speak louder than any skepticism. May your perseverance in the face of doubt serve as a powerful testimony, showing that the best answer to doubt is indeed work.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.1159369447825,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.7,
+            "commentatorTierSimilarities": [
+                28.45,
+                34.49,
+                37.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beloved, be steadfast and unmovable, for the work of the Lord is not in vain. Let your unchanging faith be a foundation for abounding in the work of the Lord. As you remain firm and unwavering, knowing that your labor is not without reward, let your actions speak louder than any skepticism. May your perseverance in the face of doubt serve as a powerful testimony, showing that the best answer to doubt is indeed work.",
+            "wordCount": 75,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.1529010812504774,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.92,
+            "commentatorTierSimilarities": [
+                28.36,
+                33.19,
+                38.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beloved, as you abound in the work of the Lord, remain steadfast and unmovable. Let the assurance of the resurrection ignite your labor, knowing that your work in the Lord is not in vain. The best response to doubt is to continue working diligently, for through your steadfastness and unwavering faith, you demonstrate the truth and reality of the Gospel. In the face of temptations and skepticism, let your actions speak and show the world the fruit of your unwavering commitment to the Lord's work.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.192307822682845,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.23,
+            "commentatorTierSimilarities": [
+                26.82,
+                34.71,
+                38.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beloved, remain steadfast and unmovable, abounding in the work of the Lord. Doubts may arise, but let your unwavering faith be a testimony, for your labor in the Lord is not in vain. Your perseverance in the face of skepticism is a powerful response. Embrace the assurance of the resurrection and let it fuel your diligence in the work of the Lord. Hold fast to the truth, knowing that your work will be rewarded.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0846419467283086,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                29.42,
+                32.95,
+                37.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beloved, be steadfast and unmovable, for the work of the Lord is not in vain. Let the assurance of the resurrection fuel your labor and ignite your love. Though doubts and temptations may arise, let your unchanging faith be a foundation for abounding in the work of the Lord. As you remain firm and unwavering, knowing that your labor is not without reward, let your actions speak louder than any skepticism. May your perseverance in the face of doubt serve as a powerful testimony, showing that the best answer to doubt is indeed work.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0731641492898385,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                28.32,
+                33.88,
+                37.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

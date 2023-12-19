@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:30:17",
+    "verseRef": "2 Timothy 2:3",
+    "bestBHT": {
+        "bht": "Endure hardship and take your share in suffering, as a good soldier of Jesus Christ. Just as soldiers are willing to endure hardship for their country's sake, believers should be willing to do it for their Savior's sake and for the good of humanity. The condition of being a soldier for Christ involves patience and the willingness to face afflictions and persecutions. To fight the good fight of faith, believers must lead a soldier's life, welcoming hardship and trials as their portion.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.78,
+        "qualityScore": 2.1386723230326443,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+        "commentatorTierSimilarities": [
+            24.47,
+            41.03,
+            34.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Take thy share in suffering.",
+            "The mention of the share binds it to what pre-cedes and follows, referring primarily to the Apostle himself, though doubtless having a wider reference to all who similarly suffer.",
+            "Suffer hardship...as a good soldier of Jesus Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. Thou therefore endure",
+            "\thardness\u2014The oldest manuscripts have no \"Thou",
+            "\ttherefore,\" and read, \"Endure hardship with",
+            "\t(me).\" \"Take thy share in suffering\" [CONYBEARE",
+            "\tand HOWSON]."
+        ],
+        "Albert Barnes": [
+            "Thou therefore endure hardness, as a good soldier of Jesus Christ.\" ",
+            "If, for reward or their country\u2019s sake, they are willing to do this, the soldier of the cross should be willing to do it for his Saviour\u2019s sake, and for the good of the human race.\" ",
+            "Let no one enter it who is not prepared to lead a soldier\u2019s life and to welcome hardship and trial as his portion."
+        ],
+        "Marvin Vincent": [
+            "Endure hardship with me.",
+            "Soldier. Only here in Pastorals.",
+            "Frequent in Acts."
+        ],
+        "John Calvin": [
+            "By this term he means that all who serve Christ are warriors, and that their condition as warriors consists, not in inflicting evils, but rather in patience.\" ",
+            "We see how many there are every day, that throw away their spears, who formerly made a great show of valor. Whence does this arise? Because they cannot become inured to the cross.",
+            "They do not know any other way of fighting than to contend haughtily and fiercely with their adversaries; and they cannot bear to learn what it is to 'possess their souls in patience.'"
+        ],
+        "Philip Schaff": [
+            "Endure hardness. The word is the same as that rendered in 2 Timothy 1:8, \u2018be thou partaker of the afflictions.\u2019",
+            "Take thy share in hardships' would express its meaning.",
+            "We lose the emphasis of repetition by the change of the English words."
+        ],
+        "Archibald T. Robertson": [
+            "Suffer hardship with me for Christ.",
+            "He had already used the metaphor in 1 Corinthians 9:7; 2 Corinthians 10:3; 1 Timothy 1:18.",
+            "In Philippians 2:25 he called Epaphroditus 'my fellow-soldier' as he did Archippus in Philemon 1:2."
+        ],
+        "John Gill": [
+            "The same word is used there as here, and properly signifies, 'suffer evil'; and means the evil of afflictions, as persecutions of every kind, loss of name and goods, scourging, imprisonment, and death itself, for the sake of Christ and the Gospel.\" ",
+            "Christ is the Captain of salvation, the Leader and Commander of the people, who are made a willing people in the day of his power.\" ",
+            "Such who manfully behave against sin, Satan, and the world, are his good soldiers; such are all true believers in Christ, and particularly the ministers of the word, whose ministry is a warfare, and who fight the good fight of faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Take your share in suffering, endure hardship with me, as a good soldier of Jesus Christ. This means that all who serve Christ are warriors, and their condition as warriors consists, not in inflicting evils, but rather in patience. Just as soldiers are willing to endure hardship for the sake of their country, the soldier of the cross should be willing to do it for the sake of their Savior and the good of humanity. It is important for believers to lead a soldier's life, welcoming hardship and trial as their portion, and to be prepared to fight the good fight of faith.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.0794555631182012,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                23.15,
+                39.02,
+                37.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Endure hardship and take your share in suffering, as a good soldier of Jesus Christ. Just as soldiers are willing to endure hardship for their country's sake, believers should be willing to do it for their Savior's sake and for the good of humanity. The condition of being a soldier for Christ involves patience and the willingness to face afflictions and persecutions. To fight the good fight of faith, believers must lead a soldier's life, welcoming hardship and trials as their portion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.1386723230326443,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                24.47,
+                41.03,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Endure hardship as a good soldier of Jesus Christ, taking your share in suffering. Just as soldiers willingly face hardship for their country's sake, believers should be willing to do it for their Savior's sake and the good of mankind. The condition of being a soldier for Christ involves patience and the readiness to endure afflictions and persecutions. It is important for believers to lead a soldier's life, embracing hardship and trials as their portion, and fighting the good fight of faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1116122267312654,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                24.95,
+                40.67,
+                34.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Endure hardship as a good soldier of Jesus Christ, taking your share in suffering. Just as soldiers willingly face difficulties for the sake of their country, believers should be willing to endure hardships for their Savior's sake and the betterment of humanity. Serving Christ requires patience and the ability to withstand afflictions and persecutions. To fight the good fight of faith, believers must live a soldier's life, embracing hardships and trials as their lot, and remaining steadfast in their commitment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.048055175542404,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                26.2,
+                39.69,
+                34.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Endure hardships and join me in suffering, as a good soldier of Jesus Christ. As a soldier for Christ, our condition is not about inflicting harm but about exhibiting patience. Like soldiers who willingly face hardships for the sake of their country, believers should be prepared to embrace hardships for their Savior's sake and the betterment of humanity. This entails leading a soldier's life, being prepared to confront trials and challenges, and fighting the good fight of faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9726900827555682,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                25.66,
+                39.54,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

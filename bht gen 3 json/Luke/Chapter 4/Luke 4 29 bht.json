@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:15:12",
+    "verseRef": "Luke 4:29",
+    "bestBHT": {
+        "bht": "The violent rejection Jesus faced in Nazareth foreshadowed the later rejection from his own people. The attempt to cast him off the precipice reflected their murderous intentions, exemplifying the rejection mentioned in John 1:11. While modern Nazareth is not literally built on the brow of a mount, its position aligns with the narrative. The disregard for the place, worship, and the Sabbath underscored the unjust and brutal nature of their actions.",
+        "wordCount": 70,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 1.5435116473963513,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+        "commentatorTierSimilarities": [
+            30.13,
+            31.35,
+            38.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This whole occurrence, whenever it happened in our Lord\u2019s ministry, was but a foreshadowing of His treatment afterwards from the nation of the Jews\u2014a foretaste of 'He came unto his own, and his own received him snot' (John i. 11).",
+            "The modern Nazareth is at a distance of about two English miles from what is called the Mount of Precipitation; nor is it built literally on the brow of that mount or hill.",
+            "But (1) neither does the narrative preclude a considerable distance having been traversed, during which they had our Lord in their custody, and were hurrying with him to the edge of the ravine; nor (2) is it at all necessary to suppose the city built on the brow, but only on the mountain, or range of hills, of which the brow forms a part\u2014which it is."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "rose up\u2014broke up the service irreverently and rushed forth.",
+            "thrust him\u2014with violence, as a prisoner in their hands.",
+            "brow, c.\u2014Nazareth, though not built on the ridge of a hill, is in part surrounded by one to the west, having several such precipices."
+        ],
+        "Albert Barnes": [
+            "The place to which they led the Saviour is still shown, and is called the 'Mount of Precipitation.'\" ",
+            "It is at a short distance to the south of Nazareth.",
+            "The whole transaction shows..."
+        ],
+        "Marvin Vincent": [
+            "The word is used in medical language both of the eyebrows and of other projections of the body.\" ",
+            "Most readers probably from these words imagine a town built on the summit of a mountain, from which summit the intended precipitation was to take place. This is not the situation of Nazareth; yet its position is still in accordance with the narrative.",
+            "Cast him down headlong."
+        ],
+        "Philip Schaff": [
+            "And they rose up, tumultuously from their seats in the synagogue.",
+            "Cast him forth. Forced Him out, expelled Him.",
+            "Throw him down head-long. Compare the Tarpeian rock at Rome, from which the Roman mob cast unpopular persons."
+        ],
+        "Archibald T. Robertson": [
+            "A movement towards lynching Jesus.\" ",
+            "The infinitive alone can convey the same meaning.\" ",
+            "Murder was in the hearts of the people."
+        ],
+        "John Gill": [
+            "And rose up,.... In great wrath, and, in a noisy and tumultuous manner, before the service was well over, and without being regularly dismissed...",
+            "...as if he had done something deserving of death; and therefore to be punished as a malefactor without the city...",
+            "...these men, without any regard to the place where they were, and the worship they were concerned in, and the day of the sabbath which then was, rise up in great wrath and fury, and without any show of justice, and in the most brutish and barbarous manner attempt to take away the life of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events in this passage foreshadow the rejection that Jesus would experience from his own people. The people of Nazareth, in a violent and unruly manner, rose up against Jesus and attempted to thrust him off the brow of a precipice. Although the modern Nazareth is not literally built on a mountainside, it is situated in a way that aligns with the narrative. This act of trying to cast Jesus down headlong is reminiscent of a lynching, reflecting the murderous intentions in the hearts of the people. The actions of the crowd demonstrate their complete disregard for the place, the worship, and the sabbath day.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5313100259984016,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.26,
+            "commentatorTierSimilarities": [
+                29.73,
+                28.34,
+                41.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The violent reaction of the people of Nazareth towards Jesus on the brow of the precipice mirrored the rejection he would later face from his own people. The city's position reflects the narrative, as it is encompassed by a mountain range with several precipices. The mob's attempt to cast Jesus down headlong resembled a lynching, revealing their murderous intentions. This brutal act displayed their complete disregard for the place, worship, and the sanctity of the Sabbath.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.5018299424653976,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                31.07,
+                31.04,
+                37.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The violence and aggression displayed by the people of Nazareth towards Jesus, attempting to cast him off the precipice, serves as a foreshadowing of the rejection he would encounter from his own people. The city's location aligns with the account, situated near a range of hills that includes the brow where the incident took place. This brutal act reflects the murderous intentions harbored by the crowd, who disregarded the sacredness of the place, worship, and the Sabbath.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.491243899874799,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                29.3,
+                27.02,
+                43.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The response to Jesus in Nazareth gives a glimpse into the future rejection he would face from his own people. The violent reaction, described as rising up and attempting to thrust him off the brow of the precipice, mirrors the rejection mentioned in John 1:11. Although the modern Nazareth is not built on a literal mountainside, its position corresponds with the narrative. The act of trying to cast Jesus down headlong suggests a lynching atmosphere and reveals the murderous thoughts in the hearts of the people. The disregard for the place, worship, and the Sabbath further emphasizes their unjust intentions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.46797458167869,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+            "commentatorTierSimilarities": [
+                33.5,
+                30.2,
+                36.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The violent rejection Jesus faced in Nazareth foreshadowed the later rejection from his own people. The attempt to cast him off the precipice reflected their murderous intentions, exemplifying the rejection mentioned in John 1:11. While modern Nazareth is not literally built on the brow of a mount, its position aligns with the narrative. The disregard for the place, worship, and the Sabbath underscored the unjust and brutal nature of their actions.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.5435116473963513,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.66,
+            "commentatorTierSimilarities": [
+                30.13,
+                31.35,
+                38.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 15:18:36",
+    "verseRef": "2 Corinthians 12:17",
+    "bestBHT": {
+        "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
+        "wordCount": 117,
+        "quoteTokenProportion": 55.56,
+        "qualityScore": 1.1450694237565138,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+        "commentatorTierSimilarities": [
+            29.12,
+            40.12,
+            30.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "You know well I did not.",
+            "My associates were as disinterested as myself.",
+            "An important rule to all who would influence others for good."
+        ],
+        "Albert Barnes": [
+            "Did I make a gain ... - In refuting this slander, Paul appeals boldly to the facts, and to what they knew.",
+            "The phrase 'make a gain' (from \u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03ba\u03c4\u03b5\u0301\u03c9 pleonekteo\u0304), means properly to have an advantage; then to take advantage, to seek unlawful gain.",
+            "Here Paul asks whether he had defrauded them by means of anyone whom he had sent to them."
+        ],
+        "Archibald T. Robertson": [
+            "Did I take advantage...Paul goes right to the point without hedging.\" ",
+            "An anacoluthon for \u03c4\u03b9\u03bd\u03b1 is left in the accusative without a verb and \u03b4\u03b9' \u03b1\u03c5\u03c4\u03bf\u03c5 takes up the idea, 'as to any one by him.'",
+            "The genitive relative is attracted from the accusative \u03bf\u03c5\u03c2 into the case of the unexpressed antecedent \u03c4\u03bf\u03c5\u03c4\u03bf\u03bd)."
+        ],
+        "John Gill": [
+            "He appeals to the Corinthians against such calumnies and false insinuations, whether ever he had circumvented them in such a manner, or had ever used such artful methods to pillage them.",
+            "He desires them to name one single person of the many who came to them from him, that had received any money from them for him; or that they had any reason to believe he had employed for such purposes.",
+            "If they could not pitch on a single instance, they ought therefore to look upon this as a downright slander and calumny."
+        ],
+        "John Wesley": [
+            "I answer this lying accusation by appealing to plain fact.",
+            "It should be carefully observed, that St. Paul does not allow, but absolutely denies, that he had caught them with guile.",
+            "The common plea for guile, which has been often drawn from this text, is utterly without foundation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
+            "wordCount": 117,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.1450694237565138,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+            "commentatorTierSimilarities": [
+                29.12,
+                40.12,
+                30.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I and my associates have not taken advantage of anyone. It is crucial for those who seek to influence others for good to follow this principle. Without hesitation, I address the issue directly, denying any fraudulent actions. If you question whether I have profited from sending individuals to you, I challenge you to provide a single instance of receiving money on my behalf. If you cannot, then this accusation is nothing more than false slander. I firmly refute any allegations of deceit.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.1124802890749361,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
+            "commentatorTierSimilarities": [
+                26.88,
+                40.98,
+                32.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I did not take advantage of anyone, nor did my associates. It is important for those who seek to influence others for good to adhere to this rule. I go straight to the point without any hesitation. If you wonder whether I have ever defrauded you through anyone I have sent to you, I appeal to the facts and to what you know. Name a single person who has received money from you on my behalf, or any reason to believe that I have used them for such purposes. If you can't provide an example, then this accusation should be seen as slander and calumny. I emphatically deny that I have deceived you in any way.",
+            "wordCount": 117,
+            "quoteTokenProportion": 55.56,
+            "qualityScore": 1.1450694237565138,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.42,
+            "commentatorTierSimilarities": [
+                29.12,
+                40.12,
+                30.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I and my associates have not taken advantage of anyone. It is crucial for those who seek to influence others for good to follow this principle. Without hesitation, I address the issue directly, denying any fraudulent actions. If you question whether I have profited from sending individuals to you, I challenge you to provide a single instance of receiving money on my behalf. If you cannot, then this accusation is nothing more than false slander. I firmly refute any allegations of deceit.",
+            "wordCount": 82,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.1124802890749361,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.33,
+            "commentatorTierSimilarities": [
+                26.88,
+                40.98,
+                32.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I want you to know that I did not take advantage of anyone, and nor did my associates. It is of utmost importance for anyone who desires to influence others for good to remember this essential rule. I am forthright in my response, not beating around the bush. If you have any doubts about whether I have ever defrauded you by using someone I sent to you, I urge you to consider the facts and what you already know. Can you name even one person who received money from you on my behalf? If you cannot, then this accusation is simply slander and completely baseless. Let me state clearly that I vehemently deny using any deceptive methods.",
+            "wordCount": 117,
+            "quoteTokenProportion": 52.5,
+            "qualityScore": 1.0900717178700279,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.59,
+            "commentatorTierSimilarities": [
+                29.78,
+                38.65,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

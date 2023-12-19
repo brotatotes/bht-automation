@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:32:09",
+    "verseRef": "Acts 16:9",
+    "bestBHT": {
+        "bht": "In response to a vision similar to Peter's, Paul encounters a Macedonian man pleading for help. This cry represents a deep need and readiness to receive the Gospel, signifying the end of heathendom's resources. It is a call for the Church and missionaries to embrace the work of spreading the Gospel in obedience to this cry. Paul and Silas, undeterred by previous hindrances, enthusiastically respond and dedicate themselves to the task. This vision symbolizes a divine call for salvation, urging all to embrace Gospel ministers as deliverers against spiritual darkness.",
+        "wordCount": 92,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.4563327239507662,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+        "commentatorTierSimilarities": [
+            32.33,
+            37.79,
+            29.88
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The vision seems to have appeared in the same way as that sent to Peter... It was an unreal apparition, designed to convey a practical meaning.",
+            "There would hardly be any peculiarity of dress by which a Macedonian could be recognized.",
+            "A man of Macedonia known probably by the affecting words spoken by him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This visional Macedonian discovered himself by what he said. But it was a cry not of conscious desire for the Gospel, but of deep need of it and unconscious preparedness to receive it.\" ",
+            "It was a virtual confession 'that the highest splendor of heathendom...had arrived at the end of all its resources.\" ",
+            "This voice cries from heathendom still to the Christian Church, and never does the Church undertake the work of missions, nor any missionary go forth from it, in the right spirit, save in obedience to this cry."
+        ],
+        "Albert Barnes": [
+            "The will of God was at different times made known in both these ways.",
+            "To this call, notwithstanding all this prospect of danger, Paul and Silas cheerfully responded, and gave themselves to the work.",
+            "Openings of a similar character for the introduction of the gospel are presented in all lands."
+        ],
+        "John Calvin": [
+            "For, seeing that the gospel is the power of God to salvation...those which are the ministers of God are said to help those who perish; that having delivered them from death, they may bring them unto the inheritance of eternal life.\" ",
+            "This ought to be no small encouragement for godly teachers to stir up the heat of their study and desire, when they hear that they call back miserable souls from destruction, and that they help those who should otherwise perish, that they may be saved.",
+            "All people unto whom the gospel is brought are taught reverently to embrace the ministers thereof as deliverers, unless they will maliciously reject the grace of God."
+        ],
+        "Archibald T. Robertson": [
+            "Twice Paul had been hindered by the Holy Spirit from going where he wanted to go. Most men would have gone back home with such rebuffs, but not so Paul.\" ",
+            "A man of Macedonia... Ramsay follows Renan in the view that this was Luke with whom Paul had conversed about conditions in Macedonia.",
+            "The man uses the plural for all including himself. It was the cry of Europe for Christ."
+        ],
+        "John Gill": [
+            "Macedonia was a very large country in Europe; which formerly consisted, as Pliny says, of a hundred and fifty people, or nations, and was called Emathia.",
+            "This shows what a miserable condition this country was in; and that God had some chosen people among them to gather in, whose time was now come.",
+            "This angel presided over the whole country, and was their tutelar angel, as some think."
+        ],
+        "John Wesley": [
+            "A vision appeared to Paul by night... No other dream is mentioned in the New Testament than that of Joseph and of Pilate's wife.",
+            "A man of Macedonia... representing the inhabitants of it.",
+            "Help us against Satan, ignorance, and sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 16:9, Paul receives a vision similar to Peter's, with a Macedonian man calling for help. This cry was not merely a conscious desire for the Gospel, but a deep need and unconscious preparedness to receive it. It represented the end of heathendom's resources, a confession of its own limitations. This cry from Macedonia still resounds today, urging the Church and missionaries to embrace the call for spreading the Gospel. Despite previous obstacles, Paul and Silas energetically responded to this call, dedicating themselves to the work. This vision signaled a divine call to Europe for salvation, urging the Macedonians and all people to embrace the ministers of the Gospel as deliverers against spiritual darkness and destruction.",
+            "wordCount": 118,
+            "quoteTokenProportion": 28.95,
+            "qualityScore": 1.4791096983662475,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                35.1,
+                36.28,
+                28.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In response to a vision similar to Peter's, Paul encounters a Macedonian man pleading for help. This cry represents not just a desire for the Gospel, but a deep need and readiness to receive it. It symbolizes the depletion of heathendom's resources, indicating that the time has come for chosen people in Macedonia to be gathered in. This cry echoes throughout history, urging the Church and missionaries to answer the call. Paul and Silas, despite prior hindrances, wholeheartedly embraced this divine invitation. This vision signifies a call for salvation, urging all to embrace Gospel ministers as deliverers against darkness and destruction.",
+            "wordCount": 103,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 1.4914687731017393,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                33.7,
+                35.42,
+                30.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 16:9, Paul receives a vision similar to Peter's, conveying a practical message. The cry of the Macedonian man represents a deep need and unconscious readiness for the Gospel. It signifies the end of heathendom's resources and calls upon the Church and missionaries to respond. Despite previous obstacles, Paul and Silas faithfully embrace this call, dedicating themselves to the work. This vision symbolizes a divine invitation for salvation, urging all to recognize Gospel ministers as deliverers against ignorance and sin.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.4704154664276738,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.23,
+            "commentatorTierSimilarities": [
+                31.69,
+                40.84,
+                27.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to a vision similar to Peter's, Paul encounters a Macedonian man pleading for help. This cry represents a deep need and readiness to receive the Gospel, signifying the end of heathendom's resources. It is a call for the Church and missionaries to embrace the work of spreading the Gospel in obedience to this cry. Paul and Silas, undeterred by previous hindrances, enthusiastically respond and dedicate themselves to the task. This vision symbolizes a divine call for salvation, urging all to embrace Gospel ministers as deliverers against spiritual darkness.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.4563327239507662,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.77,
+            "commentatorTierSimilarities": [
+                32.33,
+                37.79,
+                29.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 16:9, Paul receives a vision like Peter's, where a Macedonian man's cry signals a deep need and unconscious readiness to receive the Gospel. This cry represents the limitations of heathendom's resources and serves as a call to the Church and missionaries to respond faithfully. Despite previous obstacles, Paul and Silas wholeheartedly embrace this divine call, devoting themselves to the work. This vision stands as an invitation for salvation, urging all to recognize Gospel ministers as deliverers from spiritual darkness and destruction.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5150202128825356,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                30.52,
+                39.46,
+                30.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

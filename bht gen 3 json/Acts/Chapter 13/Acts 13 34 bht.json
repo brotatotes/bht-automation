@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:50",
+    "verseRef": "Acts 13:34",
+    "bestBHT": {
+        "bht": "Christ being raised from the dead, he will never die again and death will no longer have dominion over him. His resurrection signifies that he will never return to corruption. His eternal existence solidifies the sure blessings promised to David, which encompass the sanctity of the new covenant. As the Ruler of an eternal kingdom, Christ's victory over death and the grave ensures the fulfillment of God's promise. Through his resurrection, he imparts everlasting felicity and the keys of hell and death, granting eternal life to those who accept the salvation offered in his name.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 2.437537378169659,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.39,
+        "commentatorTierSimilarities": [
+            30.01,
+            34.75,
+            35.25
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ being raised from the dead, dieth no more: death hath no more dominion over him.",
+            "The returning to corruption does not merely imply death, so that Jesus should have once undergone it, and no more hereafter.",
+            "The word \u2018holy\u2019 should have been preserved in the A.V., as answering to 'thine Holy One' below; the mercies of David, holy and sure: or my holy promises which I made sure unto David."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ being raised from the dead dieth no more, death hath no more dominion over him.",
+            "The word rendered 'mercies' is peculiar, denoting the sanctity of them, as comprehending the whole riches of the new covenant.",
+            "They presuppose it; for since an eternal kingdom was promised to David, the Ruler of this kingdom could not remain under the power of death."
+        ],
+        "Albert Barnes": [
+            "The word 'corruption' is usually employed to denote 'putrefaction, or the mouldering away of a body in the grave; its returning to its native dust.' But it is certain... that the body of Christ never in this sense saw corruption.",
+            "His object in this verse is not to prove that he would rise from the dead, but that, being risen, he would not again die.",
+            "As God had promised that David should have a successor who should sit forever on his throne, and as this prediction now terminated in the Messiah, the Lord Jesus, it followed that... he would never die again."
+        ],
+        "Marvin Vincent": [
+            "The sure mercies [\u03c4\u03b1 \u03bf\u03c3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b1] . Lit., the holy things, the sure. Rev., the holy and sure blessings."
+        ],
+        "John Calvin": [
+            "For the hope conceived of Christ\u2019s resurrection should be slender and cold, if he were yet subject to destruction, or to any change.",
+            "Therefore he is said to be entered into the kingdom of God, that he may also give to his [people] eternal felicity, living for ever.",
+            "If the grace be eternal which God saith he will give in his Son, the life of his Son must be eternal, and not subject to corruption."
+        ],
+        "Philip Schaff": [
+            "Christ will never again endure death death which is invariably followed by corruption.",
+            "The doctrine of the eternity of Christ\u2019s existence is often urged by Paul.",
+            "This 'promise' Paul tells them belongs 'to them,' that is, to them and all who accept the salvation he was offering them in his Master\u2019s name; and the promise was, that a king Messiah should appear, whose reign should be perpetual."
+        ],
+        "Archibald T. Robertson": [
+            "Now no more to return to corruption... Jesus did not die again and so is the first fruits of the resurrection.",
+            "He hath spoken... the permanent utterances of God which are on record in the Scriptures.",
+            "The holy and sure blessings of David... 'the holy things of David the trustworthy things.'"
+        ],
+        "John Gill": [
+            "Christ was raised up from the dead, never to die more, but to live forever, having in his hands the keys of hell and death, and being the triumphant conqueror over death and the grave.",
+            "God promises that the Messiah shall not only die to procure mercies and blessings for them, but that he shall rise again from the dead, to make them sure unto them.",
+            "The blessings of the covenant are fitly called 'mercies', because they spring from the grace and mercy of God, and wonderfully display it, and are in mercy to his people."
+        ],
+        "John Wesley": [
+            "No more to return to corruption \u2014 That is, to die no more.",
+            "I will give you the sure mercies of David \u2014 The blessings promised to David in Christ. These are sure, certain, firm, solid, to every true believer in him.",
+            "And hence the resurrection of Christ necessarily follows; for without this, those blessings could not be given."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ being raised from the dead, he will never die again and death will no longer have dominion over him. His resurrection signifies that he will never return to corruption. His eternal existence solidifies the sure blessings promised to David, which encompass the sanctity of the new covenant. As the Ruler of an eternal kingdom, Christ's victory over death and the grave ensures the fulfillment of God's promise. Through his resurrection, he imparts everlasting felicity and the keys of hell and death, granting eternal life to those who accept the salvation offered in his name.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.437537378169659,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.39,
+            "commentatorTierSimilarities": [
+                30.01,
+                34.75,
+                35.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, having been raised from the dead, is no longer subject to death or corruption. His resurrection signifies his triumph over death and establishes the certainty of the blessings promised to David. Through his eternal existence, he holds the keys to hell and death, offering everlasting felicity to those who accept his salvation. This ensures the fulfillment of God's promise of an eternal kingdom. The resurrection of Christ is essential for the bestowal of the sure and holy blessings of the new covenant.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.254676988334743,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                31.07,
+                33.12,
+                35.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, being raised from death, will never die again, demonstrating his victory over death. His resurrection guarantees the fulfillment of the promises made to David, assuring the permanence of his blessings. By entering the kingdom of God, he bestows eternal felicity upon his people. The resurrection of Christ is essential for the certainty of the new covenant's holy and sure blessings. Through his triumphant conquest over death and possession of the keys to hell, he offers everlasting life to all who accept his salvation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.211486447789005,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.87,
+            "commentatorTierSimilarities": [
+                30.61,
+                32.37,
+                37.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, having risen from the dead, is no longer subject to death or corruption. His resurrection serves as a testament to his triumph over death, securing the fulfillment of the promises made to David. His eternal existence upholds the certainty of the holy and sure blessings of the new covenant. Through his victory over death and possession of the keys to hell and death, he grants everlasting life and eternal felicity to those who embrace his salvation.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.326534553105601,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.7,
+            "commentatorTierSimilarities": [
+                30.89,
+                33.79,
+                35.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, having been raised from the dead, dieth no more. Death hath no more dominion over him. The resurrection of Christ signifies his victory over death and the certainty of the promised blessings to David. Through his eternal existence, he holds the keys to hell and death, offering everlasting life and eternal felicity to those who accept his salvation. His triumph over corruptibility ensures the fulfillment of God's promise of an eternal kingdom. The holy and sure blessings of the new covenant are made possible through his resurrection.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2255386655102956,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.34,
+            "commentatorTierSimilarities": [
+                33.61,
+                31.81,
+                34.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

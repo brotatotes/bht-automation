@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:16:26",
+    "verseRef": "2 Corinthians 5:10",
+    "bestBHT": {
+        "bht": "At the judgment seat of Christ, we will all be manifest before Him, with even our most hidden actions and motives made known. While salvation is solely by grace, there may be varying rewards based on our works and dedication to Christ. This coming judgment will separate the good from the bad, taking into account the nature and merit of our deeds, and faith and love to God will be recognized as sound and good. Our appearance before Christ, as our Savior, Lord, and Judge, will reveal who we truly are.",
+        "wordCount": 91,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 2.217782167405491,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.08,
+        "commentatorTierSimilarities": [
+            41.34,
+            31.44,
+            27.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "we all (and myself among the number) must be made manifest before the judgment seat of Christ;",
+            "the bema, or 'lofty seat, raised on an elevated platform, usually at the end of the basilica, or hall of justice, so that the figure of the judge must have been seen towering above the crowd which thronged the long nave of the building.' Stanley",
+            "I may observe that no more definite inference must be drawn from this verse as to the place which the saints of God shall hold in the general judgment, than it warrants; viz. that they as well as others, shall be manifested and judged by Him"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are at all times, even now, manifest to God; then we shall be so to the assembled intelligent universe and to ourselves.",
+            "Though salvation be of grace purely, independent of works, the saved may have a greater or less reward, according as he lives to, and labors for, Christ more or less.",
+            "There shall be a searching judgment which shall sever the bad from the good, according to their respective deeds, the motive of the deeds being taken into account, not the mere external act; faith and love to God are the sole motives recognized by God as sound and good."
+        ],
+        "Albert Barnes": [
+            "There is a necessity, or a fitness, that we should appear there to give up our account, for we are here on trial: we are responsible moral agents; we are placed here to form characters for eternity.",
+            "All shall be arranged in one vast assemblage, and with reference to their eternal doom.",
+            "The secret things of the heart and the life will all be made manifest and known."
+        ],
+        "Marvin Vincent": [
+            "Appear is not strong enough, since it implies only presence at the judgment - seat. The important fact is our being revealed as we are.",
+            "May receive. See on 1 Peter 1:8. Compare Ephesians 6:8; Colossians 3:25.",
+            "In the body. Lit., through the body as a medium."
+        ],
+        "John Calvin": [
+            "While Paul, from a holy desire of acting aright, constantly sisted himself before the bar of Christ, he had it in view to reprove indirectly those ambitious teachers, who reckoned it enough to have the plaudits of their fellow-men.",
+            "For then the books, which are now shut, will be opened.",
+            "As the passage relates to the recompensing of deeds, we must notice briefly, that, as evil deeds are punished by God, so also good deeds are rewarded, but for a different reason."
+        ],
+        "Philip Schaff": [
+            "For we must all be made manifest before the judgment-seat of Christ...that each one may receive the things done in the body, according to what he hath done, whether it be good or bad.\" ",
+            "It is untrue that there will be no formal judgment of the righteous when Christ comes...whatever formality of judgment there may be in the process, it will be the same for both the 'bad' and the 'good'.",
+            "If it is on the deeds done in the body that the judgment is to be held, it follows that no change effected after they have left the body will be taken into account in fixing their final state."
+        ],
+        "Archibald T. Robertson": [
+            "Christ is Saviour, Lord, and Judge of us all."
+        ],
+        "John Gill": [
+            "There will be no avoiding this judgment, all 'must appear', or 'be made manifest'; they will be set in open view, before angels and men; their persons, characters, and actions, even the most secret will be.\" ",
+            "When it is said, that 'everyone shall receive' these; the meaning is, that he shall receive the reward of them, according to that he hath done, whether it be good or bad.",
+            "The reward of bad works will be in strict and just proportion, according to the nature and demerit of them."
+        ],
+        "John Wesley": [
+            "Must appear - Openly, without covering, where all hidden things will be revealed; probably the sins, even of the faithful, which were forgiven long before.",
+            "For many of their good works, as their repentance, their revenge against sin, cannot otherwise appear.",
+            "But this will be done at their own desire, without grief, and without shame."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the judgment seat of Christ, we will all be revealed and assessed for the things done in the body, whether good or bad. This judgment will take place in the presence of God and the assembled universe, and our motives will be taken into account rather than mere external actions. While salvation is purely of grace, there may be a differentiation in rewards based on our actions and dedication to Christ. It is important to note that faith and love to God are the motives recognized by God as sound and good. Our appearance at this judgment seat will involve the opening of the books, where even the most secret things will be made manifest. Although this judgment is formal, it applies to both the bad and the good alike and takes into account the deeds done in the body. Therefore, it is crucial that we live and labor for Christ, knowing that He is our Savior, Lord, and Judge.",
+            "wordCount": 161,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.0600699832089537,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                37.68,
+                35.79,
+                26.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the judgment seat of Christ, we will all be manifested and judged, with our motives taken into account. While salvation is by grace, there may be different rewards based on our actions and dedication to Christ. Our appearance at this judgment seat will involve the opening of the books, where even the most secret things will be revealed. All deeds, whether good or bad, will be assessed, and faith and love to God are the motives recognized by God as sound and good. Christ, as our Savior, Lord, and Judge, will oversee this process.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 2.0585640466855715,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.79,
+            "commentatorTierSimilarities": [
+                40.98,
+                32.81,
+                26.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the judgment seat of Christ, we will all be made manifest and assessed for our deeds done in the body. This judgment will be a searching one, separating the good from the bad based on their respective deeds and motives. While salvation is of grace, there may be varying degrees of reward depending on one's devotion to Christ. Our appearance at this judgment seat will reveal all aspects of our lives, even the most hidden ones. Christ, as our Savior, Lord, and Judge, will oversee this process.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.0814766065299324,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.55,
+            "commentatorTierSimilarities": [
+                39.37,
+                35.39,
+                25.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the judgment seat of Christ, we will all be manifest and judged based on our deeds done in the body, with our motives taken into account. While salvation is of grace, varying degrees of reward may be granted based on our devotion to Christ. This searching judgment will divide the bad from the good according to their respective deeds, considering faith and love to God as the only sound and good motives. Our appearance will reveal our true selves to the assembled universe, and Christ, our Savior, Lord, and Judge, will preside over this process.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1474573647219097,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                40.89,
+                33.98,
+                25.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the judgment seat of Christ, we will all be manifest before Him, with even our most hidden actions and motives made known. While salvation is solely by grace, there may be varying rewards based on our works and dedication to Christ. This coming judgment will separate the good from the bad, taking into account the nature and merit of our deeds, and faith and love to God will be recognized as sound and good. Our appearance before Christ, as our Savior, Lord, and Judge, will reveal who we truly are.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.217782167405491,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.08,
+            "commentatorTierSimilarities": [
+                41.34,
+                31.44,
+                27.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:22:36",
+    "verseRef": "Luke 21:5",
+    "bestBHT": {
+        "bht": "The temple was adorned with numerous offerings, including precious items like the golden vines with grapes as large as a man. This opulent temple was considered immensely wealthy, with gifts bestowed by friendly princes on both the temple and provincial synagogues. The disciples, as mentioned in Mark 13:1 and Matthew 24:1, were in awe of the temple's beauty, marveling at its goodly stones and the costly decorations. The temple was a truly splendid sight, with its white marble resembling a mountain of snow and the gilded parts shining brilliantly in the sun.",
+        "wordCount": 91,
+        "quoteTokenProportion": 23.81,
+        "qualityScore": 2.019891632317031,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+        "commentatorTierSimilarities": [
+            27.24,
+            31.36,
+            41.4
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The offerings were many and precious.",
+            "Tacitus calls it 'a temple of immense opulence.'",
+            "Josephus gives an account of the gilding, and golden vines with bunches of grapes as large as a man, &c. in the temple."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5-7. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "Goodly stones - Beautiful stones.",
+            "Either referring to the large, square, and well-finished stones of which the eastern wall was built, or to the precious stones which might have been used in decorating the temple itself.",
+            "Anciently warriors dedicated to their gods the spoils of war - the shields, and helmets, and armor, and garments of those slain in battle."
+        ],
+        "Marvin Vincent": [
+            "Such were the golden vines presented by Herod the Great, with bunches of grapes as large as a man, and mounted above the entrance to the holy place.\" ",
+            "Gifts were bestowed by princes friendly to Israel, both on the temple and on provincial synagogues.",
+            "The word ajnaqema, (Galatians 1:8, Rev.), is the same word, something devoted, and so devoted to evil and accursed."
+        ],
+        "Archibald T. Robertson": [
+            "The disciples we know from Mark 13:1; Matthew 24:1.",
+            "The word \u03b1\u03bd\u03b1\u03b8\u03b7\u03bc\u03b1 (here only in the N.T.) is not to be confused with \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 from the same verb \u03b1\u03bd\u03b1\u03c4\u03b9\u03b8\u03b7\u03bc, but which came to mean a curse (Galatians 1:8; Acts 23:14). So \u03b1\u03bd\u03b1\u03b8\u03b5\u03bc\u03b1 came to mean devoted in a bad sense, \u03b1\u03bd\u03b1\u03b8\u03b7\u03bc\u03b1 in a good sense.",
+            "These offerings in the temple were very numerous and costly (2Macc. 3:2-7) like the golden vine of Herod with branches as tall as a man (Josephus, Ant. XV. ii.3)."
+        ],
+        "John Gill": [
+            "And as some spake of the temple, how it was adorned with goodly stones and gifts..."
+        ],
+        "John Wesley": [
+            "Such as no engines now in use could have brought, or even set upon each other.",
+            "The marble of the temple was so white, that it appeared like a mountain of snow at a distance.",
+            "And the gilding of many parts made it, especially when the sun shone, a most splendid and beautiful spectacle."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple was adorned with numerous offerings, including precious items like the golden vines with grapes as large as a man. This opulent temple was considered immensely wealthy, with gifts bestowed by friendly princes on both the temple and provincial synagogues. The disciples, as mentioned in Mark 13:1 and Matthew 24:1, were in awe of the temple's beauty, marveling at its goodly stones and the costly decorations. The temple was a truly splendid sight, with its white marble resembling a mountain of snow and the gilded parts shining brilliantly in the sun.",
+            "wordCount": 91,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 2.019891632317031,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.5,
+            "commentatorTierSimilarities": [
+                27.24,
+                31.36,
+                41.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple was adorned with precious offerings, including the magnificent golden vines and large grapes that Herod the Great had presented. Described as a temple of immense opulence by Tacitus, it attracted gifts from friendly princes. The disciples, in awe, pointed out the temple's beauty, the finest stones, and the costly decorations. The marble's whiteness resembled a snow-covered mountain, while the gilding added to its splendid and beautiful appearance, making it a truly remarkable sight when the sun shone upon it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.9312839430003237,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.56,
+            "commentatorTierSimilarities": [
+                26.49,
+                32.39,
+                41.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple, referred to as a temple of immense opulence, was adorned with many precious offerings, including the impressive golden vines with grapes as large as a man. These gifts were bestowed by friendly princes, both on the temple itself and on provincial synagogues. Mark 13:1 and Matthew 24:1 mention how the disciples marveled at the temple's goodly stones and costly decorations. The temple's splendor was truly remarkable, with its white marble resembling a snow-covered mountain and the gilded parts shining brilliantly in the sunlight.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.9666245519463057,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                27.44,
+                31.7,
+                40.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple was adorned with numerous precious offerings, including the golden vines with large grapes, described as being as tall as a man. These opulent displays of wealth, such as the gilding and golden vines, made the temple a sight to behold. The disciples were in awe, marveling at the temple's goodly stones and costly decorations. The white marble, resembling a snow-covered mountain, and the gilded parts created a magnificent and splendid spectacle, especially when illuminated by the sun.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.9802356736084377,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                25.92,
+                32.61,
+                41.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple was adorned with many precious offerings, including the golden vines and grapes as large as a man. Its opulence was renowned, with Tacitus describing it as a temple of immense opulence. The disciples were in awe of the temple's beauty, marveling at its goodly stones and costly decorations. The white marble of the temple resembled a snow-covered mountain, and the gilded parts shone brilliantly in the sunlight, creating a truly splendid and beautiful spectacle.",
+            "wordCount": 78,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.9854742072092886,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.36,
+            "commentatorTierSimilarities": [
+                25.79,
+                31.76,
+                42.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

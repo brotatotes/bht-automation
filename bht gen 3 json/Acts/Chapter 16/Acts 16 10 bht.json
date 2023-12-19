@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:32:09",
+    "verseRef": "Acts 16:10",
+    "bestBHT": {
+        "bht": "The use of we in this section indicates that the writer, believed to be Luke, had joined Paul and his companions on their journey, possibly to assist with Paul's health. This change to the first person suggests a close relationship between the author and the missionary group. The vision of the man from Macedonia convinced them with great certainty to go to Macedonia, showing the proper use of reason in connection with revelation. It is evident that they felt a strong conviction that God was calling them to this new endeavor.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.873434319043279,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+        "commentatorTierSimilarities": [
+            30.44,
+            36.56,
+            33.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "While we safely conclude from it that the writer was in company with Paul when he thus speaks, we cannot with like safety infer that he was not, where the third person is used.",
+            "It is conceivable that a narrative, even where it concerns all present, might be, in its earlier parts, written as of others in the third person, but might, when more intimacy had been established, or even by preference only, be at any point changed to the first.",
+            "On the whole, and after careful consideration of the subject, I see no reason to doubt the common view, that Luke here joined the Apostle (whether as a physician, on account of his broken health, must of course be matter of conjecture, but is not improbable), and from this time (except from ch. xvii. l\u2013xx. 5), accompanies him to the end of the history."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The 'we,' here first introduced, is a modest intimation that the historian himself had now joined the missionary party.\" ",
+            "Whether Paul's broken health had anything to do with this arrangement for having 'the beloved physician' with him, can never be known with certainty.",
+            "But that he would deem himself honored in taking care of so precious a life, there can be no doubt."
+        ],
+        "Albert Barnes": [
+            "This is the first instance in which Luke refers to himself as being in company with Paul.",
+            "It is hence probable that he joined Paul and Silas about this time.",
+            "Assuredly gathering - Being certainly convinced."
+        ],
+        "Marvin Vincent": [
+            "We sought. Note the introduction, for the first time here, of the first person, intimating the presence of the author with Paul. ",
+            "Assuredly gathering [\u03c3\u03c5\u03bc\u03b2\u03b9\u03b2\u03b1\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2] . See on proving, ch. 9 22."
+        ],
+        "John Calvin": [
+            "Satan doth oftentimes abuse ghosts and visures [masks] to deceive withal, that he may mock and cozen the unbelievers.",
+            "Whereby it cometh to pass, that the bare vision leaveth man\u2019s mind in doubt; but such as are divine indeed, those doth the Spirit seal by a certain mark.",
+            "In Paul and his companions the desire to obey ensued immediately upon the certainty."
+        ],
+        "Philip Schaff": [
+            "From this it appears that Luke, the presumed author of these records, joined the missionary band first at Troas.",
+            "The supposition that the \u2018beloved physician\u2019 associated himself with his great master at this juncture and watched over his health is not without foundation.",
+            "After the direct intimation given by the appearance of the \u2018man of Macedonia\u2019, Paul seems to have had no hesitation in coming to the conclusion that his life-work lay for a time, at least, in Europe."
+        ],
+        "Archibald T. Robertson": [
+            "This sudden use of the plural [...] argues conclusively that Luke, the author, is in the party.\" ",
+            "A very striking word [...] to make this and that agree and so to conclude.",
+            "This word here gives a good illustration of the proper use of the reason in connection with revelation."
+        ],
+        "John Gill": [
+            "And after he had seen the vision.... immediately we endeavoured to go into Macedonia",
+            "they concluded from the vision with great certainty, that they had a manifest call from God to go into Macedonia",
+            "not doubting but that they should meet with success"
+        ],
+        "John Wesley": [
+            "We sought to go into Macedonia.\" ",
+            "This is the first place in which St. Luke intimates his attendance on the apostle.",
+            "The same remark may be made on the rest of the sacred historians, who every one of them show the like amiable modesty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The mention of we in this verse indicates that the author, who is believed to be Luke, had joined Paul and his companions on their missionary journey. It is possible that Luke, being a physician, joined them to take care of Paul's health. The use of the plural form suggests an intimate connection between the writer and the missionary party. It is clear that they were convinced by the vision of the man from Macedonia and felt a strong conviction to go to Macedonia. This shows the proper use of reason in connection with revelation and highlights their certainty in God's call.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.83942384302469,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.5,
+            "commentatorTierSimilarities": [
+                30.08,
+                38.05,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The inclusion of we in the passage indicates the writer's direct involvement with Paul's missionary journey. It is likely that Luke, the author, joined the group around this time, possibly as a physician to assist with Paul's health. The use of the plural form signifies a close connection between the writer and the mission team. The vision of the man from Macedonia greatly convinced them, leading to a strong commitment and certainty in responding to God's call.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8114355140669867,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                31.94,
+                38.03,
+                30.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The use of we in this section indicates that the writer, believed to be Luke, had joined Paul and his companions on their journey, possibly to assist with Paul's health. This change to the first person suggests a close relationship between the author and the missionary group. The vision of the man from Macedonia convinced them with great certainty to go to Macedonia, showing the proper use of reason in connection with revelation. It is evident that they felt a strong conviction that God was calling them to this new endeavor.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.873434319043279,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                30.44,
+                36.56,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The introduction of we in this narrative indicates that the writer, likely Luke, had joined Paul and his companions on their missionary journey. It is plausible that Luke, being a physician, accompanied them to care for Paul's health. The use of the plural suggests a close association between the author and the missionary group. Their response to the vision of the man from Macedonia demonstrated a strong conviction and certainty, reflecting the proper use of reason in response to divine revelation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7888996693065193,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                30.36,
+                39.11,
+                30.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mention of we suggests that the writer, most likely Luke, had joined Paul and his companions on their missionary journey. It is probable that Luke, being a physician, accompanied them to provide medical assistance for Paul's health. The use of the plural form indicates a close connection between the author and the missionary group. Their response to the vision of the man from Macedonia reveals a resolute conviction and certainty, demonstrating the proper alignment of reason and divine revelation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.7743480882187948,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.34,
+            "commentatorTierSimilarities": [
+                29.12,
+                38.78,
+                32.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

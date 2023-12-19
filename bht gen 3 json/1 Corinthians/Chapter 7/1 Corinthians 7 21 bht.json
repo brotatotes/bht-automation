@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:07:14",
+    "verseRef": "1 Corinthians 7:21",
+    "bestBHT": {
+        "bht": "Let it not be a trouble to you if you are a servant or slave. Find contentment in your existing condition, even if undesirable, because in our union with Christ, all outward disparities of condition are compensated. If called to Christianity as a slave, be content. Yet, if you can also become free, take the opportunity for freedom. The injunction to remain in slavery should be understood in the light of the unity we have in Christ, where freeman and slave are one.",
+        "wordCount": 83,
+        "quoteTokenProportion": 53.45,
+        "qualityScore": 2.0796614589285816,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+        "commentatorTierSimilarities": [
+            42.04,
+            29.8,
+            28.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Let it not be a trouble to thee that thou art a servant or slave.\" ",
+            "What is advised here is, contentment under one's existing condition, though an undesirable one, since in our union with Christ all outward disparities of condition are compensated.\" ",
+            "If called, being a slave, to Christianity, be content\u2014but yet, if also thou canst be free (as a still additional good, which if thou canst not attain, be satisfied without it but which, if offered to thee, is not to be despised), make use of the opportunity of becoming free, rather than by neglecting it to remain a slave."
+        ],
+        "Albert Barnes": [
+            "Let it not be a subject of deep anxiety and distress; do not deem it to be disgraceful; let it not affect your spirits; but be content in the lot of life where God has placed you.",
+            "If you can in a proper way obtain your freedom, do it; if not let it not be a subject of painful reflection.",
+            "Avail yourselves of the privilege if you can, and be a freeman. There are disadvantages attending the condition of a slave, and if you can escape from them in a proper manner, it is your privilege and your duty to do it."
+        ],
+        "Marvin Vincent": [
+            "The force of kai even, and the positive injunction of the apostle in vers. 20 and 24, seem to favor the meaning, remain in slavery.\" ",
+            "The injunction is to be read in the light of ver. 22, and of Galatians 3:28; Colossians 3:11; 1 Corinthians 12:13, that freeman and slave are one in Christ.\" ",
+            "We must be careful to avoid basing our conclusion on the modern sentiment respecting freedom and slavery."
+        ],
+        "John Calvin": [
+            "We infer, not merely that it is owing to the providence of God that there are different ranks and stations in the world, but also, that a regard to them is enjoined by his word.",
+            "If, in place of servitude, you could attain even to liberty, it would be more advantageous for you.",
+            "He means to intimate, that liberty is not merely good, but also more advantageous than servitude."
+        ],
+        "Archibald T. Robertson": [
+            "Wast thou, a slave, called? Care not for it. Let it not be a care to thee.\" ",
+            "It was usually a fixed condition and a slave could be a good servant of Christ, even with heathen masters.\" ",
+            "But if thou canst also become free, the rather use your opportunity for freedom."
+        ],
+        "John Gill": [
+            "Bear the yoke patiently, go through thy servitude cheerfully, and serve thy master faithfully.",
+            "Should a Christian servant have an opportunity of making his escape from his master, or could he by any art, trick, and fraudulent method, obtain his liberty, it would be much more advisable to continue a servant, than to become free by any such means.",
+            "When a Christian servant has his freedom offered him by his master, or he can come at it in a lawful and honourable way, this being preferable to servitude, he ought rather to make use of it; since he would be in a better situation, and more at leisure to serve Christ, and the interest of religion."
+        ],
+        "John Wesley": [
+            "Care not for it \u2014 Do not anxiously seek liberty.",
+            "But if thou canst be free, use it rather \u2014 Embrace the opportunity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let it not be a trouble to you that you are a servant or slave. The advice given here is to find contentment in your current condition, even if it is undesirable, because in our union with Christ, all outward differences in status are compensated. If you are called to Christianity while being a slave, be content. However, if the opportunity arises for you to become free, do not despise it but rather make use of it. The injunction to remain in slavery is to be understood in the context of the unity we have in Christ, where freeman and slave are one. And if you can obtain your freedom in a proper manner, it is both your privilege and duty to do so.",
+            "wordCount": 124,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1275731182414916,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                37.69,
+                34.88,
+                27.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let it not be a trouble to you that you are a servant or slave. Find contentment in your current condition, for in our union with Christ, outward differences are compensated. If called to Christianity as a slave, be content. Yet if the opportunity arises to become free, do not despise it but make use of it. The injunction to remain in slavery is to be understood in the context of unity in Christ. If you can obtain freedom in a proper manner, it is both a privilege and a duty.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.9749000505038081,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                38.41,
+                32.38,
+                29.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let it not trouble you if you are a servant or slave. Find contentment in your current condition, for in Christ, outward differences are compensated. If called to Christianity as a slave, be content. Yet if the opportunity arises to become free, do not despise it but make use of it. The injunction to remain in slavery is to be understood in the context of unity in Christ. If you can obtain freedom, it is both a privilege and a duty.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9482569075481964,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                38.51,
+                31.68,
+                29.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not let it trouble you if you are a servant or slave. Find contentment in your present condition, for in Christ, disparities of status are compensated. If you are called to Christianity as a slave, be content. However, if the opportunity arises for you to become free, do not despise it but make use of it. The instruction to remain in slavery is to be understood in the light of the unity we have in Christ, where freeman and slave are one. If you can obtain freedom, it is both a privilege and a duty.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.012514402857781,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                38.79,
+                32.82,
+                28.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let it not be a trouble to you if you are a servant or slave. Find contentment in your existing condition, even if undesirable, because in our union with Christ, all outward disparities of condition are compensated. If called to Christianity as a slave, be content. Yet, if you can also become free, take the opportunity for freedom. The injunction to remain in slavery should be understood in the light of the unity we have in Christ, where freeman and slave are one.",
+            "wordCount": 83,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.0796614589285816,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                42.04,
+                29.8,
+                28.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:23:57",
+    "verseRef": "Luke 24:20",
+    "bestBHT": {
+        "bht": "The two disciples, likely Jews themselves, earnestly discussed how their rulers handed Jesus over to Pontius Pilate, who subsequently crucified Him. Though Pilate and the Roman soldiers were involved in the execution, it was at the request and due to the influence of the Jewish leaders. The disciples' conversation revealed their lack of understanding about the significance of these events and the fulfillment of prophecy that would later be clarified to them.",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.5305709836244503,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+        "commentatorTierSimilarities": [
+            23.3,
+            23.88,
+            52.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The how follows on the hast not known.\" ",
+            "Our rulers... Therefore the two disciples were Jews, not Grecian converts, as some have supposed.",
+            "Delivered him, to Pilate."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "17-24. communications, &amp;c.\u2014The",
+            "\twords imply the earnest discussion that had appeared in their manner."
+        ],
+        "Albert Barnes": [
+            "Sec the notes at Matthew 26:59-66."
+        ],
+        "Philip Schaff": [
+            "Our rulers. These disciples were therefore Jews; and they probably thought their new companion was also of their race.",
+            "Delivered him. This was the act of the rulers.",
+            "And crucified him. Here, as so often, this is spoken of as the act of the chief-priests and rulers."
+        ],
+        "John Gill": [
+            "And how the chief priests and our rulers, delivered him; to Pontius Pilate, the Roman governor.\" ",
+            "to be condemned to death; the death of the cross, by the said governor, having first seized him and examined him before their sanhedrim, and pronounced him guilty of death.\" ",
+            "and have crucified him; for though Pilate passed the sentence, and the Roman soldiers executed it, yet these men are said to do it, because it was at their request, and through their instigation, that it was done."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The two disciples in Luke 24:20 were Jews who discussed earnestly about the events surrounding Jesus, including how their rulers delivered Him to Pilate and crucified Him. The rulers, which likely included the chief priests, played a significant role in the condemnation and crucifixion of Jesus. Though Pilate and the Roman soldiers were involved in the execution, it was at the request and through the instigation of the Jewish leaders that Jesus was crucified. The disciples' conversation revealed their lack of understanding about the true significance of these events and the fulfillment of prophecy that would be unveiled to them later.",
+            "wordCount": 100,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4390108528212262,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+            "commentatorTierSimilarities": [
+                19.79,
+                24.0,
+                56.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The two disciples, likely Jews themselves, engaged in a discussion about their rulers delivering Jesus to Pilate and crucifying Him. It was these rulers, especially the chief priests, who played a pivotal role in condemning and executing Him, even though Pilate and the Roman soldiers carried out the act. Their conversation revealed a lack of comprehension regarding the significance of these events and the fulfillment of prophecy that would later be clarified to them.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.4682817382367102,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.16,
+            "commentatorTierSimilarities": [
+                20.53,
+                26.63,
+                52.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The two disciples in the passage were Jews who conversed about the delivery of Jesus by their rulers to Pontius Pilate for condemnation and crucifixion. These rulers, including the chief priests, were the ones responsible for orchestrating the entire process, although Pilate played a part in executing the sentence with the aid of Roman soldiers. The disciples' discussion reflected their limited understanding of the events and the fulfillment of prophecy, which would eventually be unveiled to them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.4467843317213838,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.45,
+            "commentatorTierSimilarities": [
+                20.81,
+                24.52,
+                54.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The two disciples, who were likely Jews themselves, were engaged in an earnest discussion about the delivery of Jesus by their rulers to Pontius Pilate. These rulers\u2014potentially the chief priests\u2014were responsible for this act, leading to Jesus' crucifixion. Although Pilate and the Roman soldiers carried out the execution, it was at the request and instigation of the Jewish leaders. The disciples' dialogue showcased their limited understanding of the significance of these events and the fulfillment of prophecy, which they would later come to comprehend.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.421843524697144,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.62,
+            "commentatorTierSimilarities": [
+                20.77,
+                24.77,
+                54.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The two disciples, likely Jews themselves, earnestly discussed how their rulers handed Jesus over to Pontius Pilate, who subsequently crucified Him. Though Pilate and the Roman soldiers were involved in the execution, it was at the request and due to the influence of the Jewish leaders. The disciples' conversation revealed their lack of understanding about the significance of these events and the fulfillment of prophecy that would later be clarified to them.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5305709836244503,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                23.3,
+                23.88,
+                52.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

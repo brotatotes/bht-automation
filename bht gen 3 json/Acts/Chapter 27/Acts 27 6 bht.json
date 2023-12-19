@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:03",
+    "verseRef": "Acts 27:6",
+    "bestBHT": {
+        "bht": "The ship mentioned in this passage was likely a large vessel used in the trade between Egypt and Italy. These ships, known as corn ships, were capable of carrying a significant amount of grain from Alexandria to Rome. The coast of Asia Minor provided favorable conditions for navigation, with its visible mountains and abundant harbors. This location gave Lysias the opportunity to transfer prisoners and soldiers onto the ship. The passage provides valuable insights into the specific type of ship involved in this journey and the circumstances that led to its presence on the coast of Asia Minor.",
+        "wordCount": 98,
+        "quoteTokenProportion": 32.35,
+        "qualityScore": 2.1506613098340917,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+        "commentatorTierSimilarities": [
+            31.04,
+            33.2,
+            35.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "ships, particularly those of the ancients, unprovided with a compass, and ill calculated to work to windward, would naturally stand to the N. till they made the land of Asia Minor, which is peculiarly favourable for such a mode of navigation\" (Mr. Smith, p. 32).",
+            "the coast is bold and safe, and the elevation of the mountains makes it visible at a great distance; it abounds in harbours, while the sinuosities of its shores and the westerly current would enable them, if the wind was at all off the land, to work to windward\" (Mr. Smith, p. 32).",
+            "Myra lies due N. from Alexandria, and its bay is well calculated to shelter a wind-bound ship\" (Mr. Smith, p. 32)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As Egypt was the granary of Italy, and this vessel was laden with wheat, we need not wonder it was large enough to carry two hundred seventy-six souls, passengers and crew together.",
+            "Besides, the Egyptian merchantmen, among the largest in the Mediterranean, were equal to the largest merchantmen in our day.",
+            "It may seem strange that on their passage from Alexandria to Italy they should be found at a Lycian port. But even still it is not unusual to stand to the north towards Asia Minor, for the sake of the current."
+        ],
+        "Albert Barnes": [
+            "Alexandria was in Egypt, and was founded by Alexander the Great.",
+            "It is well known that great quantities of wheat were imported from Egypt to Rome.",
+            "Why the ship was on the coast of Asia Minor is not known. But it is probable that it had been driven out of its way by adverse winds or tempests."
+        ],
+        "Marvin Vincent": [
+            "A ship of Alexandria. Employed in the immense corn trade between Italy and Egypt. See verse 38. The size of the vessel may be inferred from verse 37."
+        ],
+        "Philip Schaff": [
+            "It is a popular fallacy to suppose that the trading ships of the Mediterranean, under the Roman Empire, were necessarily small craft.",
+            "This would especially be the case with the great corn ships of Alexandria, which took grain from Egypt to Rome and the other large towns of Italy.",
+            "A vessel bound from Egypt to Italy should stand to the north, where the Asiatic coast is high and easily seen, where good harbours are abundant, and where the above described advantages as to wind and water would be found."
+        ],
+        "Archibald T. Robertson": [
+            "This was the opportunity for which Lysias had been looking.\" ",
+            "So he put prisoners and soldiers on board.\" ",
+            "Such grain ships usually carried passengers."
+        ],
+        "John Gill": [
+            "The top sail was a distinguishing sign of a ship of Alexandria, for none might spread their top sails but ships of Alexandria.",
+            "A ship of Alexandria with them was a ship that went from the land of Israel to Alexandria; whereas here it seems to design one that belonged to Alexandria, and went from thence to other parts.",
+            "The centurion removed Paul and his companions, and the rest of the prisoners, with whatsoever soldiers were under his care, out of the ship of Adramyttium, into the ship of Alexandria."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ship mentioned in the verse was likely a large vessel used in the trade between Italy and Egypt, transporting grain from Alexandria to Rome. These ships were known for their size and capacity to carry both cargo and passengers. It is not uncommon for ships traveling from Alexandria to Italy to be found on the coast of Asia Minor due to the favorable conditions for navigation and the presence of safe harbors. The ship's location provided an opportunity for Lysias to transfer prisoners and soldiers on board. Overall, the verse gives us insight into the type of ship involved in this journey and the circumstances that led to its presence on the coast of Asia Minor.",
+            "wordCount": 118,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 2.232649836897805,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                31.71,
+                30.66,
+                37.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ship mentioned in this passage was likely a large vessel used in the trade between Egypt and Italy. These ships, known as corn ships, were capable of carrying a significant amount of grain from Alexandria to Rome. The coast of Asia Minor provided favorable conditions for navigation, with its visible mountains and abundant harbors. This location gave Lysias the opportunity to transfer prisoners and soldiers onto the ship. The passage provides valuable insights into the specific type of ship involved in this journey and the circumstances that led to its presence on the coast of Asia Minor.",
+            "wordCount": 98,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.1506613098340917,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                31.04,
+                33.2,
+                35.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ship mentioned in the text was likely a large vessel used in the trade between Egypt and Italy, specifically designed to transport grain from Alexandria to Rome. These vessels were known for their capacity to carry both cargo and passengers. The coast of Asia Minor provided favorable conditions for navigation, with its visible mountains and numerous harbors. This location presented an opportunity for Lysias to transfer prisoners and soldiers onto the ship. The verse sheds light on the characteristics of the ship and the circumstances that led to its presence on the coast of Asia Minor.",
+            "wordCount": 97,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.007067703267971,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.08,
+            "commentatorTierSimilarities": [
+                32.16,
+                30.64,
+                37.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ship referred to in the text was likely a large vessel involved in trading between Egypt and Italy, primarily transporting grain from Alexandria to Rome. These ships, often used to carry cargo and passengers, were notable for their size. The coast of Asia Minor provided advantageous conditions for navigation, with its visible mountains and plentiful harbors. This geographical location allowed Lysias to utilize the ship to transfer prisoners and soldiers. Overall, the passage provides valuable insights into the ship's characteristics and the circumstances leading to its presence on the coast of Asia Minor.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.0084800159627054,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.12,
+            "commentatorTierSimilarities": [
+                32.06,
+                31.79,
+                36.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ship mentioned in the given context was likely a large vessel used to transport grain from Alexandria, Egypt to Rome, which was known as the granary of Italy. These ships, being engaged in the extensive corn trade between Egypt and Italy, were sizable enough to accommodate cargo as well as passengers. Situated on the coast of Asia Minor, this location provided suitable conditions for navigation with its visible mountains, abundant harbors, and advantageous winds and currents. This allowed Lysias to transfer prisoners and soldiers onto the ship. The verse sheds light on the distinctive characteristics and circumstances surrounding this particular ship and its journey.",
+            "wordCount": 105,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 2.0578996989199716,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.77,
+            "commentatorTierSimilarities": [
+                32.01,
+                33.19,
+                34.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

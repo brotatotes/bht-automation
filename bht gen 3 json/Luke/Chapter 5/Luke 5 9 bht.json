@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:15:15",
+    "verseRef": "Luke 5:9",
+    "bestBHT": {
+        "bht": "As they hauled in the abundant catch of fish, astonishment encompassed them all. The word draught refers to both the act of catching and the catch itself, emphasizing the plentiful haul. This miracle points to the influence of Christ on the fish, showcasing His dominion over creation, echoing the eighth Psalm's depiction of man's control over birds, fish, and all creatures. The extraordinary sight left them all in awe. From that moment, Jesus promises Peter a new calling to become a fisher of men.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.3615232422987795,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+        "commentatorTierSimilarities": [
+            33.33,
+            39.23,
+            27.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He was astonished [\u03b8\u03b1\u03bc\u03b2\u03bf\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c3\u03c7\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd] . Lit., amazement encompassed him.",
+            "The draught [\u03c4\u03b7 \u03b1\u03b3\u03c1\u03b1] . The word is used both of the act of catching and of that which is caught.",
+            "In verse 4 it has the former sense : 'let down your net for catching :' here, the latter, the catch or haul."
+        ],
+        "Philip Schaff": [
+            "This miracle seems more than one of knowledge. It is true the shoals of fish in the lake are very thick, but the promise of Luke 5:10 (\u2018Henceforth thou shalt catch men\u2019) points to an influence of Christ\u2019s upon the fish.",
+            "Christ here appears as the ideal man, the second Adam of the eighth Psalm: \u2018Thou madest him to have dominion over the works of thy hands: Thou hast put all things under His feet the fowl of the air, and the fish of the sea, and whatsoever walketh through the paths of the seas.\u2019",
+            "From henceforth thou shalt catch men."
+        ],
+        "Archibald T. Robertson": [
+            "For he was amazed (\u03b8\u03b1\u03bc\u03b2\u03bf\u03c2 \u03b3\u03b1\u03c1 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c3\u03c7\u03b5\u03bd). Literally,",
+            "For a wonder held him round . Aorist active indicative. It held Peter fast and all the rest. "
+        ],
+        "John Gill": [
+            "Far he was astonished, and all that were with him.\" ",
+            "At the draught of the fishes they had taken.",
+            "Being so large and numerous, as the like was never seen, nor known by them before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Amazement enveloped him as Peter and his companions hauled in the catch of fish. The word draught refers to both the act of catching and what is caught, and here it signifies the abundant haul they brought in. This miracle goes beyond mere knowledge, hinting at Christ's influence over the fish. In this moment, Christ displays his authority and dominion over creation, echoing the eighth Psalm's description of the ideal man who has control over the birds, fish, and all creatures. The sight of such a large and unprecedented catch left them all astonished. From this point on, Jesus promises Peter that he will become a fisher of men.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.35747930765598,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.48,
+            "commentatorTierSimilarities": [
+                30.43,
+                43.27,
+                26.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Peter and his companions hauled in their abundant catch of fish, astonishment encompassed them all. The word draught refers to both the act of catching and the catch itself, emphasizing the plentiful haul. This miracle, beyond mere knowledge, points to the influence of Christ on the fish. Here, Christ manifests His dominion over creation, echoing the ideal man depicted in the eighth Psalm. The sight of such an extraordinary catch left them all in awe. From that moment, Jesus promises Peter a new calling, to become a fisher of men.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3265309428423173,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.45,
+            "commentatorTierSimilarities": [
+                33.46,
+                43.71,
+                22.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amazement enveloped him as Peter and his companions hauled in the catch of fish. The word draught refers to both the act of catching and what is caught, and here it signifies the abundant haul they brought in. This miracle goes beyond mere knowledge, hinting at Christ's influence over the fish. In this moment, Christ displays his authority and dominion over creation, echoing the eighth Psalm's description of the ideal man who has control over the birds, fish, and all creatures. The sight of such a large and unprecedented catch left them all astonished. From this point on, Jesus promises Peter that he will become a fisher of men.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.97,
+            "qualityScore": 1.35747930765598,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.48,
+            "commentatorTierSimilarities": [
+                30.43,
+                43.27,
+                26.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As they hauled in the abundant catch of fish, astonishment encompassed them all. The word draught refers to both the act of catching and the catch itself, emphasizing the plentiful haul. This miracle points to the influence of Christ on the fish, showcasing His dominion over creation, echoing the eighth Psalm's depiction of man's control over birds, fish, and all creatures. The extraordinary sight left them all in awe. From that moment, Jesus promises Peter a new calling to become a fisher of men.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.3615232422987795,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.61,
+            "commentatorTierSimilarities": [
+                33.33,
+                39.23,
+                27.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Astonishment encompassed him as Peter and his companions hauled in the abundant catch of fish. The word draught refers to both the act of catching and the catch itself, emphasizing the plentiful haul. This miracle demonstrates Christ's influence over the fish, showcasing His authority and dominion over creation. It echoes the eighth Psalm's description of the ideal man who has control over the birds, fish, and all creatures. The sight of such an extraordinary catch left them all in awe. Jesus then promises Peter a new calling to become a fisher of men.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3221027470379558,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.3,
+            "commentatorTierSimilarities": [
+                33.2,
+                42.38,
+                24.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

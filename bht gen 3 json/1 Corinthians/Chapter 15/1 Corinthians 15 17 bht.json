@@ -1,0 +1,99 @@
+{
+    "timestamp": "12-19-2023 15:13:34",
+    "verseRef": "1 Corinthians 15:17",
+    "bestBHT": {
+        "bht": "If Christ did not rise from the dead, then all the things that faith relies on, such as the removal of sin's guilt and power, and the hope of future bliss, would be frustrated. Without Christ's resurrection, there would be no justification, no forgiveness of sins, and no hope of salvation. This is why Paul declares, if Christ is not risen, your faith is vain...you are still in your sins. The resurrection of Christ is not only a proof of his deity, but also the assurance of our redemption and the defeat of sin's dominion.",
+        "wordCount": 99,
+        "quoteTokenProportion": 51.61,
+        "qualityScore": 2.392792144054918,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.9,
+        "commentatorTierSimilarities": [
+            27.42,
+            34.97,
+            37.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The frustration of all on which faith relies as accomplished,\u2014 e.g. the removal of the guilt and power of sin.\" ",
+            "The frustration of all to which hope looks forward, e.g. bliss after death for those who die in Christ.\" ",
+            "Christ\u2019s Resurrection accomplished our justification (Rom. iv. 25), and, through justification, our future bliss, even in the disembodied state."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Ye are, by the very fact (supposing the case to be as the skeptics maintained), frustrated of all which 'your faith' appropriates.",
+            "Ye are still under the everlasting condemnation of your sins (even in the disembodied state which is here referred to), from which Christ's resurrection is our justification.",
+            "Saved by his life."
+        ],
+        "Albert Barnes": [
+            "Your faith is vain...because, if Christ was not raised up, they were yet unpardoned sinners.",
+            "But if he was not raised, he was an impostor; and, of course, all your hopes of pardon by him, and through him, must be vain.",
+            "You must believe, therefore, that the Lord Jesus rose; and that, if he rose, others will also. This argument is good also now, just so far as there is evidence that, through the belief of a risen Savior, the dominion of sin has been broken."
+        ],
+        "Marvin Vincent": [
+            "Vain [\u03bc\u03b1\u03c4\u03b1\u03b9\u03b1] . A different word, signifying fruitless. The difference is between reality and result."
+        ],
+        "John Calvin": [
+            "Although Christ by his death atoned for our sins...and has crucified our old man, that its lusts might no longer reign in us...and, in fine, has by death destroyed the power of death, and the devil himself, yet there would have been none of all these things, if he had not, by rising again, come off victorious.\" ",
+            "Hence, if the resurrection is overthrown, the dominion of sin is set up anew."
+        ],
+        "Archibald T. Robertson": [
+            "Because the death of Christ has no atoning value if he did not rise from the dead.",
+            "In that case he was only a man like other men and did not die for our sins.",
+            "Stronger word than \u03ba\u03b5\u03bd\u03bf\u03bd in verse 1 Corinthians 15:14."
+        ],
+        "John Gill": [
+            "And if Christ be not raised, your faith is vain....ye are yet in your sins.\" ",
+            "if Christ is not risen, there never was, is, or will be any such thing as regeneration and sanctification",
+            "if Christ is not risen, his people are under the guilt of their sins; there is no expiation nor remission of them, nor justification from them"
+        ],
+        "John Wesley": [
+            "Ye are still in your sins \u2014 That is, under the guilt of them.",
+            "So that there needed something more than reformation, (which was plainly wrought,) in order to their being delivered from the guilt of sin...",
+            "...even that atonement, the sufficiency of which God attested by raising our great Surety from the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "If Christ did not rise from the dead, then all the things that faith relies on, such as the removal of sin's guilt and power, and the hope of future bliss, would be frustrated. Without Christ's resurrection, there would be no justification, no forgiveness of sins, and no hope of salvation. This is why Paul declares, if Christ is not risen, your faith is vain...you are still in your sins. Christ's death on the cross would have no atoning value if he did not rise from the dead. In that case, he would be just a man like others and not the Savior who died for our sins. The resurrection of Christ is not only a proof of his deity, but also the assurance of our redemption and the defeat of sin's dominion. It is through his life that we are saved, and without it, our faith and hope would be futile.",
+            "wordCount": 157,
+            "quoteTokenProportion": 49.4,
+            "qualityScore": 2.349337437858869,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.46,
+            "commentatorTierSimilarities": [
+                28.17,
+                35.54,
+                36.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If Christ did not rise from the dead, then all the things that faith relies on, such as the removal of sin's guilt and power, and the hope of future bliss, would be frustrated. Without Christ's resurrection, there would be no justification, no forgiveness of sins, and no hope of salvation. This is why Paul declares, if Christ is not risen, your faith is vain...you are still in your sins. The resurrection of Christ is not only a proof of his deity, but also the assurance of our redemption and the defeat of sin's dominion.",
+            "wordCount": 99,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 2.392792144054918,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.9,
+            "commentatorTierSimilarities": [
+                27.42,
+                34.97,
+                37.61
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

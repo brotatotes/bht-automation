@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:35:36",
+    "verseRef": "Acts 23:30",
+    "bestBHT": {
+        "bht": "When it was shown that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the whole matter to you, as they went about to kill Paul treacherously. It appears they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame and disgrace.",
+        "wordCount": 89,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 1.8697253571424648,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+        "commentatorTierSimilarities": [
+            18.83,
+            53.01,
+            28.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "30. gave commandment to his accusers",
+            "\t. . . to say before thee\u2014This was not done when he wrote, but",
+            "\twould be before the letter reached its destination."
+        ],
+        "Marvin Vincent": [
+            "When it was told [\u03bc\u03b7\u03bd\u03c5\u03b8\u03b5\u03b9\u03c3\u03b7\u03c2] . Lit., pointed out, or shown, as Rev. See on Luke 20:37. ",
+            "Farewell. The best texts omit. See on ch. Acts 14:29."
+        ],
+        "John Calvin": [
+            "Because they went about to kill Paul treacherously.",
+            "They sought so sore against his life without any cause.",
+            "When as they seek to kill him, it appeareth that they have no reason."
+        ],
+        "Philip Schaff": [
+            "Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the whole matter to you.\" ",
+            "The soldier evidently suspected the affair of Paul was mixed up with some movement against the Roman power."
+        ],
+        "Archibald T. Robertson": [
+            "When it was shown to me that there would be a plot.",
+            "Charging his accusers also.",
+            "Before thee. Common idiom for 'in the presence of' when before a judge."
+        ],
+        "John Gill": [
+            "the Jews laid wait for the man",
+            "sent him to Felix, as being governor",
+            "lest he should incur blame and disgrace"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When it was shown to me that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. This was not done when he wrote, but would be before the letter reached its destination. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the whole matter to you, as they went about to kill Paul treacherously. It appears that they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame and disgrace.",
+            "wordCount": 108,
+            "quoteTokenProportion": 52.0,
+            "qualityScore": 1.8052501189297878,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.37,
+            "commentatorTierSimilarities": [
+                25.51,
+                46.89,
+                27.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When it was shown that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the whole matter to you, as they went about to kill Paul treacherously. It appears they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame and disgrace.",
+            "wordCount": 89,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.8697253571424648,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.51,
+            "commentatorTierSimilarities": [
+                18.83,
+                53.01,
+                28.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When it was shown that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the whole matter to you, as they sought to kill Paul treacherously. It appears they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame and disgrace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.859453598943348,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.17,
+            "commentatorTierSimilarities": [
+                18.65,
+                52.88,
+                28.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When it was shown that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I judged it wise to refer the matter to you, as they sought to kill Paul treacherously. It appears they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.8641095620739527,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.32,
+            "commentatorTierSimilarities": [
+                18.86,
+                52.57,
+                28.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When it was shown that there would be a plot, I gave commandment to his accusers to say before thee, charging his accusers also. Though I thought him innocent, yet, hearing of this further plot against the life of a Roman citizen, I referred the matter to you, as they sought to kill Paul treacherously. It appears they have no reason, seeking to kill him without any cause, and I sent him to Felix, the governor, lest he should incur blame.",
+            "wordCount": 81,
+            "quoteTokenProportion": 52.46,
+            "qualityScore": 1.8200204865887457,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.86,
+            "commentatorTierSimilarities": [
+                19.2,
+                50.96,
+                29.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

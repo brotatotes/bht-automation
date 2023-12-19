@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:28:57",
+    "verseRef": "Acts 9:43",
+    "bestBHT": {
+        "bht": "The strict practices of the Jews were already disregarded by Peter when he chose to lodge with a tanner, a trade that was viewed as half unclean and disreputable by the Jews in Caesarea. This act showed Peter's openness and departure from Jewish prejudice, as he did not carry his prejudices to the same extent as others. By engaging with someone of a lower social status, Peter demonstrated inclusivity and foreshadowed his willingness to bridge the gap with Gentiles in the future.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 2.046551395223088,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+        "commentatorTierSimilarities": [
+            61.42,
+            0.0,
+            38.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The occupation of a tanner as a half-unclean one.",
+            "The stricter Jewish practices were already disregarded by the Apostle.",
+            "In how little honor he and his office were held by the Jews at Caesarea."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "a trade regarded by the Jews as half unclean, and consequently disreputable",
+            "Simon's house was 'by the seaside'. Peter's lodging there shows him already to some extent above Jewish prejudice.",
+            "Peter's lodging there shows him already to some extent above Jewish prejudice."
+        ],
+        "John Calvin": [
+            "For if the chieftains of the city had been converted to Christ, some one of them would have lodged Peter; for it had been too cruel a thing to suffer an apostle of Christ to be so despised.",
+            "Therefore, the Lord did gather together there, as every where, a church of the common sort of men, that he might throw down the pride of the flesh.",
+            "And also thereby appeareth Peter\u2019s courtesy, in that he vouchsafeth to lodge with a man of that calling; although it seemeth that he was rather a merchant of some good estimation, than one of the basest sort of workmen."
+        ],
+        "Archibald T. Robertson": [
+            "The more scrupulous Jews regarded such an occupation as unclean, and avoided those who pursued it. The conduct of Peter here shows that he did not carry his prejudices to that extent\" (Hackett).",
+            "It is impossible for the world to do without tanners; but woe to him who is a tanner.\" ",
+            "The lodging with the tanner was a step on the road to eating with a Gentile\" (Furneaux)."
+        ],
+        "John Gill": [
+            "It seems as if persons of this trade used to dwell in towns near the sea, as fit for their business.",
+            "This business was very contemptible with the Jews; they say, 'woe to him whose trade is a tanner.'",
+            "Their doctors many of them were of as mean trades, as shoemakers, skinners, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter's lodging with the tanner in Caesarea is significant because it shows his willingness to disregard Jewish prejudices and engage with those considered unclean. This occupation was viewed as disreputable by the stricter Jews, yet Peter's actions demonstrated his departure from these traditional practices. By staying with the tanner, Peter demonstrated that he did not carry his prejudices to the same extent as others. This step towards inclusivity foreshadowed his later acceptance of eating with Gentiles.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9506489487251,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.2,
+            "commentatorTierSimilarities": [
+                64.26,
+                0.0,
+                35.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's lodging with the tanner in Caesarea shows his willingness to disregard Jewish prejudices and engage with those considered unclean. This occupation was viewed as disreputable, yet Peter's actions demonstrated his departure from these traditional practices. By staying with the tanner, Peter demonstrated that he did not carry his prejudices to the same extent as others. This step towards inclusivity foreshadowed his later acceptance of eating with Gentiles.",
+            "wordCount": 70,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.8796281483688675,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                62.55,
+                0.0,
+                37.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The strict practices of the Jews were already disregarded by Peter when he chose to lodge with a tanner, a trade that was viewed as half unclean and disreputable by the Jews in Caesarea. This act showed Peter's openness and departure from Jewish prejudice, as he did not carry his prejudices to the same extent as others. By engaging with someone of a lower social status, Peter demonstrated inclusivity and foreshadowed his willingness to bridge the gap with Gentiles in the future.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.046551395223088,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                61.42,
+                0.0,
+                38.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Choosing to lodge with a tanner in Caesarea, Peter displayed his departure from Jewish prejudices. This trade was deemed half unclean and disreputable, but Peter's actions indicated a different mindset. By staying with the tanner, Peter showed that he did not carry his prejudices to the same extent as others, a significant step toward inclusivity. His decision foreshadowed his openness to eating with Gentiles, highlighting his willingness to bridge cultural divides for the sake of spreading the Gospel.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7800197793945012,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                60.07,
+                0.0,
+                39.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's lodging with the tanner in Caesarea revealed his willingness to break away from Jewish prejudices and engage with those considered unclean. This trade was regarded as disreputable, but Peter's actions demonstrated that he did not carry his prejudices to the same extent as others. By staying with the tanner, Peter showed inclusivity and foreshadowed his acceptance of eating with Gentiles in the future. This step highlighted Peter's departure from traditional practices and his commitment to reaching out to diverse individuals for the sake of spreading the Gospel.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.8288353541475297,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                59.76,
+                0.0,
+                40.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

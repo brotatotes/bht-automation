@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:39:51",
+    "verseRef": "1 Peter 4:9",
+    "bestBHT": {
+        "bht": "Hospitality goes beyond mere courtesy; it involves sincerely welcoming and providing for those in need, especially those facing persecution due to their faith. By extending hospitality, we treat them as representatives of Christ with open-hearted sincerity, free from speaking against or resenting them. This authentic expression of Christian love should be offered to all, without murmurs or complaints. It is through this kind of hospitality that we demonstrate our love for strangers, ensuring that they are uplifted rather than burdened by our acts of kindness.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.93,
+        "qualityScore": 1.9346747386095353,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+        "commentatorTierSimilarities": [
+            34.89,
+            38.5,
+            26.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not the spurious hospitality which passes current in the world, but the entertaining of those needing it, especially those exiled for the faith, as the representatives of Christ, and all hospitality to whomsoever exercised from genuine Christian love.",
+            "He that giveth, let him do it with simplicity, that is open-hearted sincerity; with cordiality.",
+            "Not secretly speaking against the person whom we entertain, or upbraiding him with the favor we have conferred in him."
+        ],
+        "Albert Barnes": [
+            "Use hospitality one to another.",
+            "Without murmurs; that is, without complaining of the hardship of doing it; of the time, and expense, and trouble required in doing it.",
+            "It greatly enhances the value of hospitality, that it be done on our part with entire cheerfulness."
+        ],
+        "Marvin Vincent": [
+            "Using hospitality. Compare Romans 13:13."
+        ],
+        "John Calvin": [
+            "Use hospitality, or, Be hospitable... He then bids them mutually to exercise it, so that no one might require more from others than what he himself was prepared to render.",
+            "He adds, without murmurings, for it is a rare example that one spends himself and his own on his neighbor without any disparaging reflection.",
+            "Then the Apostle would have us to show kindness willingly and with a cheerful mind."
+        ],
+        "Philip Schaff": [
+            "The duty of hospitality occupies a very notable place in the New Testament teaching.",
+            "Taking it for granted, however, that the laws of hospitality are honored, and that believers who have the power will be ready to open the door to every needy brother, Peter deals here with the spirit in which all should be done.",
+            "Only when hospitality is offered in this spirit does it answer to the high strain of love which should prevail among Christian brethren."
+        ],
+        "Archibald T. Robertson": [
+            "Using hospitality (\u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03bf). 'Friendly to strangers,' old word (from \u03c6\u03b9\u03bb\u03bf\u03c3, \u03be\u03b5\u03bd\u03bf\u03c2), in N.T. only here and 1 Timothy 3:2; Titus 1:8.\" ",
+            "Without murmuring (\u03b1\u03bd\u03b5\u03c5 \u03b3\u03bf\u03b3\u03b3\u03c5\u03c3\u03bc\u03bf\u03c5). Like \u03c7\u03c9\u03c1\u03b9\u03c2 \u03b3\u03bf\u03b3\u03b3\u03c5\u03c3\u03bc\u03c9\u03bd in Philippians 2:14. Complaint spoils hospitality.\" ",
+            "Hospitality made mission work possible (3 John 1:5)."
+        ],
+        "John Gill": [
+            "Be lovers of strangers... and these are to be loved: and love is to be shown them, both negatively, by not vexing them, and making them uneasy in body or mind; by not oppressing them by violence and injustice, and making any exorbitant demands upon them; or by not perverting judgment with respect to them; and positively, by directing, counselling, and advising them, and if need be, by giving them food, and raiment, and lodging.\" ",
+            "And it is what men have been led to by the very light of nature... and is what God enjoined the Israelites by divers laws... and various are the exhortations to it in the New Testament... and is what is highly regarded and commended by Christ.\" ",
+            "Food, raiment, and lodging, or what they want, whether direction or advice, thinking it no trouble to give them either; or without murmurings, as it may be rendered, as if they were burdensome, and they were too chargeable to them, and their stay too long; and without complaints of them, finding fault, and picking quarrels with them, and laying charges against them, in order to get rid of them."
+        ],
+        "John Wesley": [
+            "One to another \u2014 Ye that are of different towns or countries.",
+            "Without murmuring \u2014 With all cheerfulness. Proverbs 10:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hospitality is not just about shallow acts of kindness, but about sincerely welcoming and providing for those in need, especially those persecuted for their faith. It means embracing them as representatives of Christ, with open-hearted sincerity, without speaking against or begrudging them. This type of hospitality is to be exercised towards all, without complaints or murmurs, as it is an expression of genuine Christian love. It is an important duty in the New Testament, enhancing the value of brotherly love, and should be offered willingly and cheerfully. By showing hospitality, we demonstrate our love for strangers and ensure that they are not burdened but uplifted by our kindness.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8702714735934116,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                33.41,
+                38.43,
+                28.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hospitality is not just about shallow acts of kindness, but about sincerely welcoming and providing for those in need, especially those persecuted for their faith. It means embracing them as representatives of Christ, with open-hearted sincerity, without speaking against or begrudging them. This type of hospitality is to be exercised towards all, without complaints or murmurs, as it is an expression of genuine Christian love. By showing hospitality, we demonstrate our love for strangers and ensure that they are not burdened but uplifted by our kindness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.9000792304551637,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.52,
+            "commentatorTierSimilarities": [
+                35.59,
+                35.82,
+                28.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hospitality is more than just superficial gestures; it requires a genuine spirit of welcoming and caring for those in need, especially those who have been persecuted for their faith. By treating these individuals as representatives of Christ, we show our open-hearted sincerity. True hospitality is not tainted by speaking against or complaining about our guests. It is an expression of authentic Christian love, extended to all. Through hospitality, we demonstrate our love for strangers, ensuring that they feel valued and not burdened by our acts of kindness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 1.759892262921058,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.86,
+            "commentatorTierSimilarities": [
+                37.15,
+                38.88,
+                23.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hospitality goes beyond mere courtesy; it involves sincerely welcoming and providing for those in need, especially those facing persecution due to their faith. By extending hospitality, we treat them as representatives of Christ with open-hearted sincerity, free from speaking against or resenting them. This authentic expression of Christian love should be offered to all, without murmurs or complaints. It is through this kind of hospitality that we demonstrate our love for strangers, ensuring that they are uplifted rather than burdened by our acts of kindness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9346747386095353,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.67,
+            "commentatorTierSimilarities": [
+                34.89,
+                38.5,
+                26.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hospitality transcends superficial gestures; it requires a heartfelt embrace and provision for those in need, particularly those enduring persecution for their faith. Treating them as representatives of Christ exemplifies open-hearted sincerity, void of speaking against or begrudging them. This authentic display of Christian love should be extended to all, free from murmurs or complaints. Through such hospitality, we manifest love for strangers, ensuring their upliftment rather than burdening them.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7887861167642094,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                34.82,
+                37.17,
+                28.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

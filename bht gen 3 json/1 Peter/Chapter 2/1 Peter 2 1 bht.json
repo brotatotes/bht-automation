@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:38:59",
+    "verseRef": "1 Peter 2:1",
+    "bestBHT": {
+        "bht": "Renouncing malice, guile, hypocrisies, envies, and evil-speaking is a necessary step for those who desire the pure love of the brethren, as these behaviors are incompatible with the purification of their souls. Guile is a disposition that gives rise to deceitful acts, which in turn breed envy and malicious defamations against others. The call to lay aside all manner of evil-speaking is a reminder for believers to cultivate transparency, honesty, and kindness, forsaking behaviors that are antithetical to their new life in Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 1.8458008614986239,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+        "commentatorTierSimilarities": [
+            29.52,
+            33.31,
+            37.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Malice, c., are utterly inconsistent with the 'love of the brethren,' unto which ye have 'purified your souls.'",
+            "Out of malice springs guile; out of guile, hypocrisies; out of hypocrisies, envies; out of envies, evil-speaking, malicious, envious detraction of others.",
+            "Guile is the permanent disposition; hypocrisies the acts flowing from it. The guileless knows no envy."
+        ],
+        "Albert Barnes": [
+            "The word \u201cwherefore\u201d (\u03bf\u03c5\u0313\u0342\u03bd oun) refers to the reasonings in the first chapter. In view of the considerations stated there, we should renounce all evil.",
+            "The Greek word, however, includes evil of all kinds.",
+            "It is one of the purposes of religion to bring us back to this state, and to strip off all the subterfuges which we may have acquired in life; and he in whom this effect is not accomplished has never been converted."
+        ],
+        "Marvin Vincent": [
+            "All [\u03c0\u03b1\u03c3\u03b1\u03bd - \u03c0\u03b1\u03bd\u03c4\u03b1] . Lit., every, or all manner of. ",
+            "Evil - speaking [\u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bb\u03b9\u03b1\u03c2] . Lit., speakings against. A rare word. Only here and 2 Corinthians 12:20."
+        ],
+        "John Calvin": [
+            "It is not, then, sufficient for us to have been once called by the Lord, except we live as new creatures.",
+            "Infancy is here set by Peter in opposition to the ancientness of the flesh, which leads to corruption; and under the word milk, he includes all the feelings of spiritual life.",
+            "What, then, he says amounts to this, \u2014 'Having laid aside the works of your former life, such as malice, deceit, dissimulations, envyings, and other things of this kind, devote yourselves to things of an opposite character, cultivate kindness, honesty,' etc."
+        ],
+        "Philip Schaff": [
+            "The vices to be renounced, therefore, are compared implicitly to a foul garment enwrapping the old man. They are the \u2018Nessus shirt\u2019 of corrupt habits which the new man tears off.\" ",
+            "having by help of the Word an undying life capable of an undecaying love, forswear everything hostile to the life, and by a right use of the Word foster it till it grows to the perfection of final salvation.",
+            "the renunciation of everything alien to child-like candour, to the transparency and healthfulness of the child-like character."
+        ],
+        "Archibald T. Robertson": [
+            "Therefore (\u03bf\u03c5\u03bd) because of the new birth (1 Peter 1:23) and the new life demanded.",
+            "This old word, from \u03ba\u03b1\u03ba\u03bf\u03c2 (evil), in the ancients meant vice of any kind and note \u03c0\u03b1\u03c3\u03b1\u03bd (all) here.",
+            "Late word (from \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03bb\u03bf\u03c2, defamer, Romans 1:30), in N.T. only here and 2 Corinthians 12:20. 'Backbitings.'"
+        ],
+        "John Gill": [
+            "To live in malice is a mark of an unregenerate man, and very unbecoming such who are born again.",
+            "Hypocrisy to God is, when persons profess that which they have not.",
+            "Envy is contrary to the exercise of Christian charity, or love, which envieth not the welfare of others."
+        ],
+        "John Wesley": [
+            "Wherefore laying aside \u2014 As inconsistent with that pure love.",
+            "All dissimulation \u2014 Which is the outward expression of guile in the heart."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Renouncing all forms of evil, such as malice, guile, hypocrisies, envies, and evil-speaking, is essential for those who have been purified by the love of the brethren. Guile, characterized by deceit and hypocrisy, leads to envy and malicious detraction of others. With a pure heart, free from guile, there is no room for envy. This requires a complete renunciation of vices and a commitment to cultivating kindness, honesty, and transparency. As new creatures, we must lay aside behaviors that are inconsistent with our new life, devoting ourselves to the exercise of love and rejecting malice, deception, and envy.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8115133039688738,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.57,
+            "commentatorTierSimilarities": [
+                33.09,
+                29.16,
+                37.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Renouncing malice, guile, hypocrisies, envies, and evil-speaking is a necessary step for those who desire the pure love of the brethren, as these behaviors are incompatible with the purification of their souls. Guile is a disposition that gives rise to deceitful acts, which in turn breed envy and malicious defamations against others. The call to lay aside all manner of evil-speaking is a reminder for believers to cultivate transparency, honesty, and kindness, forsaking behaviors that are antithetical to their new life in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8458008614986239,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                29.52,
+                33.31,
+                37.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly experience the love of the brethren and purify our souls, we must renounce malice, guile, hypocrisies, envies, and evil-speaking. These behaviors are inconsistent with the new life in Christ, as guile leads to envy and malicious detraction of others. By forsaking all forms of evil and embracing transparency and kindness, we can cultivate the child-like candor and sincerity that is pleasing to God. Living in malice, deceit, and envy is unfitting for those who have experienced the new birth and should be left behind as we grow in salvation.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8431007423148316,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.62,
+            "commentatorTierSimilarities": [
+                31.49,
+                32.27,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To purify our souls and experience the love of fellow believers, we must reject malice, guile, hypocrisies, envies, and evil-speaking. These vices are incompatible with the new life we have been called to. Guile, a disposition of deceit, leads to acts of hypocrisy and envy. The call to relinquish evil-speaking encompasses all forms of defamatory speech. Instead, we are urged to embrace transparency, honesty, and kindness, fostering the child-like candor that characterizes our new identity in Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.6174562215999448,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.12,
+            "commentatorTierSimilarities": [
+                31.24,
+                33.15,
+                35.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To fully experience the love of fellow believers and purify our souls, we must renounce malice, guile, hypocrisies, envies, and evil-speaking. These behaviors are incompatible with the new life in Christ and hinder our growth and transformation. Guile, a disposition marked by deceit and hypocrisy, leads to envy and malicious detraction of others. By laying aside these vices and cultivating transparency, honesty, and kindness, we can foster a child-like candor and embrace the new identity Christ has given us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.6397761821655443,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.86,
+            "commentatorTierSimilarities": [
+                30.78,
+                33.34,
+                35.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

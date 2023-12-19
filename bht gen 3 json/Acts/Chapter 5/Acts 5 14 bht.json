@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:26:33",
+    "verseRef": "Acts 5:14",
+    "bestBHT": {
+        "bht": "As a result of the dignity and power of the Apostles, believers were continuously added to the Lord. The multitudes of men and women who joined the ranks of the believers were not hindered by the incident with Ananias and Sapphira, but rather, the church experienced even greater additions. This shows that people are drawn to a pure and disciplined church, one that upholds a sense of religious awe. Despite opposition, the Gospel made great progress and success among the believers, further emphasizing the effectiveness of the Apostles' preaching.",
+        "wordCount": 89,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.7430575976734901,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+        "commentatorTierSimilarities": [
+            14.49,
+            40.02,
+            45.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the result of this was, that believers were the more added to the Lord.\" ",
+            "Multitudes of men and women.",
+            "Continue the description of the dignity of the Apostles."
+        ],
+        "Albert Barnes": [
+            "It is also an incidental proof that none should join themselves to the church who are not 'believers'; that is, who do not profess to be Christians in heart and in life.",
+            "An effort to keep the church pure by wholesome discipline, and by cutting off unworthy members, however rich or honored, so far from weakening its true strength, has a tendency greatly to increase its numbers as well as its purity.",
+            "People will not seek to enter a corrupt church, or regard it as worth any effort to be connected with a society that does not endeavor to be pure."
+        ],
+        "Marvin Vincent": [
+            "Were added [\u03c0\u03c1\u03bf\u03c3\u03b5\u03c4\u03b9\u03b8\u03b5\u03bd\u03c4\u03bf] . Imperfect : kept being added."
+        ],
+        "Philip Schaff": [
+            "A sense of religious awe kept the crowds [...] from intruding upon them and disturbing them.\" ",
+            "Multitudes of both sexes, impressed with the truth of what the apostles were preaching, kept joining the ranks of the believers, and were added to the Lord.",
+            "This is one of several special mentions in the history of the early Church of women."
+        ],
+        "Archibald T. Robertson": [
+            "Rather instead of decrease as one might expect.\" ",
+            "The distinction between \u03b1\u03bd\u03b4\u03c1\u03b5\u03c2 and \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b5\u03c2.",
+            "To be considered in connection with \u03b1\u03bd\u03b4\u03c1\u03b5\u03c2 in Acts 4:4."
+        ],
+        "John Gill": [
+            "This case of Ananias and Sapphira was so far from hindering persons from coming into the church, that there were greater additions made to it than before, even of such as were true believers in Christ.",
+            "The weaker sex were not intimidated any more than the men, such power went along with the word, and such grace was bestowed upon them.",
+            "This church must now be prodigiously numerous, for before these additions, eight thousand had been added to the hundred and twenty; such success the Gospel had, and such progress it made in the hands of such mean and contemptible persons, notwithstanding the opposition of the chief men of the nation to it."
+        ],
+        "John Wesley": [
+            "But so much the more were true believers added, because unbelievers kept at a distance."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a result of the dignity and power of the Apostles, believers were continuously added to the Lord. The multitudes of men and women who joined the ranks of the believers were not hindered by the incident with Ananias and Sapphira, but rather, the church experienced even greater additions. This shows that people are drawn to a pure and disciplined church, one that upholds a sense of religious awe. Despite opposition, the Gospel made great progress and success among the believers, further emphasizing the effectiveness of the Apostles' preaching.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.7430575976734901,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                14.49,
+                40.02,
+                45.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a result of the dignity and power of the Apostles, believers were continuously added to the Lord. Multitudes of men and women joined the ranks of the believers, impressing upon them the truth of the apostles' preaching. Despite the incident with Ananias and Sapphira, the church experienced even greater additions, showing that efforts to keep the church pure and disciplined only served to increase its numbers and purity. This success in spreading the Gospel highlights the effectiveness of the Apostles' message.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.6276779260393235,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.46,
+            "commentatorTierSimilarities": [
+                16.74,
+                40.35,
+                42.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dignity and power of the Apostles led to a continuous increase in the number of believers added to the Lord. The multitudes of men and women who joined the ranks of believers were not hindered by the incident with Ananias and Sapphira, but were instead moved by the truth of the apostles' preaching. These additions demonstrate the effectiveness of the Gospel message and the power it held over both men and women, leading to the growth and purity of the church.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.6932549496660672,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.64,
+            "commentatorTierSimilarities": [
+                14.84,
+                40.95,
+                44.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The continuous addition of believers to the Lord resulted from the dignity and power of the Apostles. Men and women flocked to join the ranks of the believers, undeterred by the incident with Ananias and Sapphira. The success of the Gospel in spreading and the growth of the church can be attributed to the pure and disciplined nature of the church, which attracted people seeking true faith. This remarkable progress showcases the effectiveness of the Apostles' preaching, despite opposition and challenges they faced.",
+            "wordCount": 83,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.5558869898933883,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.08,
+            "commentatorTierSimilarities": [
+                14.29,
+                41.48,
+                44.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The continuous addition of believers to the Lord is a testament to the dignity and power of the Apostles, as men and women from all walks of life were drawn into the folds of the believers. The incident with Ananias and Sapphira did not hinder this growth, but rather propelled it further. The success of the Gospel message lies in the pure and disciplined nature of the church, which attracted those seeking true faith. The effectiveness of the Apostles' preaching shone through despite opposition, leading to remarkable progress.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.465451008817297,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.07,
+            "commentatorTierSimilarities": [
+                12.38,
+                41.16,
+                46.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

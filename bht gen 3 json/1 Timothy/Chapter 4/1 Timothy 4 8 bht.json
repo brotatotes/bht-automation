@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:28:58",
+    "verseRef": "1 Timothy 4:8",
+    "bestBHT": {
+        "bht": "The exercise of the body is only profitable to a small extent, but godliness or piety is profitable for all things. While bodily exercise may have its uses, it is secondary to the essential thing, which is piety. Godliness not only promises a fulfilling life in the present, but also in the life to come. It is through godliness that one can experience true and everlasting life in Christ Jesus. Mere external worship and bodily exercise alone are insufficient for everlasting life; it is godliness that leads to complete perfection and the welfare of the soul.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.2260728017693987,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.36,
+        "commentatorTierSimilarities": [
+            34.46,
+            28.02,
+            37.53
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For the exercise of the body is to small extent profitable, but godliness is profitable for all things.\" (Quote 8)",
+            "Godliness is profitable for all things, having promise of life, both that which is now, and that which is to come.\" (Quote 8)",
+            "It is far better to understand the words... of mere gymnastic bodily exercise, of which the Apostle says, that it has indeed its uses, but these uses partial only.\" (Quote 8)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul, therefore, while not disapproving of this in its due proportion and place, shows the vast superiority of godliness or piety, as being profitable not merely 'to a small extent,' but unto all things.",
+            "'Piety,' which is the end for which thou art to 'exercise thyself' (1 Corinthians 9:27), is the essential thing: the means are secondary.",
+            "Life in its truest and best sense now and hereafter. Length of life now so far as it is really good for the believer, life in its truest enjoyments and employments now, and life blessed and eternal hereafter."
+        ],
+        "Albert Barnes": [
+            "Religion injures no one. It does not destroy health; it does not enfeeble the intellect; it does not disturb the conscience; it does not pander to raging and consuming passions; it does not diminish the honor of a good name; it furnishes no subject of bitter reflection on a bed of death.",
+            "There is nothing which man really 'needs' in this life, which is not promised by religion.",
+            "There is nothing that furnishes any certain 'promises' of happiness hereafter, in this world or the next, but religion."
+        ],
+        "Marvin Vincent": [
+            "The meaning is rather, the use of the athlete's training extends to only a few things.\" ",
+            "Godliness involves a promise for this life and for the next; but for this life as it reflects the heavenly life, is shaped and controlled by it, and bears its impress.\" ",
+            "Only the life which is in Christ Jesus is life indeed."
+        ],
+        "John Calvin": [
+            "Though the heart be altogether upright, and the object proper, yet, in outward actions, Paul finds nothing that he can value highly.",
+            "The world will always lean to the side of wishing to worship God by outward services; which is an exceedingly dangerous imagination.",
+            "Godliness alone is able to conduct a man to complete perfection. It is the beginning, the middle, and the end, of Christian life."
+        ],
+        "Philip Schaff": [
+            "When it was made an end and not a means, it sank to the level of the training of the athlete...and was profitable only 'for little,' as a condition of health, and nothing more.\" ",
+            "All things outward, inward, bodily, spiritual, and as the words that follow show, temporal and eternal.",
+            "The promise that belongs to the present life, and also to the future."
+        ],
+        "Archibald T. Robertson": [
+            "Bodily exercise...also a common old word, here only in N.T.\" ",
+            "Profitable...another old word...in N.T. only here, Titus 3:8; 2 Timothy 3:16.\" ",
+            "For a little...Probably extent in contrast to for all things, though in James 4:14 it is time 'for a little while.'"
+        ],
+        "John Gill": [
+            "For bodily exercise profiteth little,... much less exercise of the body for health or recreation... nor any methods made use of for the mortification of the body... but rather mere formal external worship, as opposed to godliness...\" ",
+            "...if this [mere external worship] is trusted to, and depended on, it will be of no avail to everlasting life...\" ",
+            "godliness is profitable unto all things; to the health of the body, and the welfare of the soul... to themselves and others... having promise of the life that now is... and of that which is to come..."
+        ],
+        "John Wesley": [
+            "Bodily exercise profiteth a little \u2014 Increases the health and strength of the body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The exercise of the body is only profitable to a small extent, but godliness or piety is profitable for all things. While bodily exercise may have its uses, it is secondary to the essential thing, which is piety. Godliness not only promises a fulfilling life in the present, but also in the life to come. It is through godliness that one can experience true and everlasting life in Christ Jesus. Mere external worship and bodily exercise alone are insufficient for everlasting life; it is godliness that leads to complete perfection and the welfare of the soul.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.2260728017693987,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.36,
+            "commentatorTierSimilarities": [
+                34.46,
+                28.02,
+                37.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exercise of the body is only profitable to a small extent, but godliness or piety is profitable for all things. While bodily exercise may have its uses, it is secondary to the essential thing, which is piety. Godliness not only promises a fulfilling life in the present, but also in the life to come. It is through godliness that one can experience true and everlasting life in Christ Jesus. Mere external worship and bodily exercise alone are insufficient for everlasting life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.201449304207255,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.54,
+            "commentatorTierSimilarities": [
+                34.47,
+                28.01,
+                37.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While bodily exercise may have its uses, godliness is far more profitable in all things. It promises a fulfilling life both now and in the future. Piety is essential and surpasses the benefits of mere physical training. Only a life rooted in Christ can truly be considered life. External rituals and bodily exercise alone cannot lead to everlasting life. Godliness is the key to complete perfection and the welfare of the soul. True happiness can only be found in devotion to God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.9600908440856482,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                30.92,
+                30.8,
+                38.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Godliness is incredibly profitable, surpassing the limited benefits of bodily exercise. While physical training has its uses, it is secondary to the essential essence of piety. Godliness offers promises for both this life and the one to come, reflecting the heavenly life and bearing its impress. Only a life rooted in Christ can truly be considered as life itself. Mere external rituals and bodily exercise are insufficient for eternal life. Godliness is the path to complete perfection and the welfare of the soul.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0273711877515215,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.75,
+            "commentatorTierSimilarities": [
+                33.01,
+                28.45,
+                38.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While the exercise of the body may have some benefits, godliness is far more profitable for all things. It promises a fulfilling life in the present and the future, reflecting the heavenly life and bearing its imprint. Only a life that is rooted in Christ can be considered as truly living. Mere external rituals and bodily exercise alone are inadequate for eternal life. Godliness is the key to complete perfection and the well-being of the soul, bringing fulfillment to both oneself and others.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.04707948726516,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                31.55,
+                30.49,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

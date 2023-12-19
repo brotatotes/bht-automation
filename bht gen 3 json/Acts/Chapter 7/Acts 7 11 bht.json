@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:27:08",
+    "verseRef": "Acts 7:11",
+    "bestBHT": {
+        "bht": "During a severe famine, Jacob and his family in Canaan found themselves without sustenance, lacking the necessary food for survival. The term sustenance refers to fodder for their cattle, highlighting the dire circumstances they faced. Their continued inability to find the sustenance they needed forced them to leave their homeland in search of provisions elsewhere. Stephen reminded the Jews of their ancestors' similar struggles, including Joseph, who experienced affliction and was compelled to leave their homeland due to a lack of food.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.03,
+        "qualityScore": 1.6087465079270653,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+        "commentatorTierSimilarities": [
+            30.25,
+            33.12,
+            36.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Now there came a dearth - A famine, Genesis 41:54.",
+            "And Chanaan - Jacob was living at that time in Canaan.",
+            "Found no sustenance - No food; no means of living."
+        ],
+        "Marvin Vincent": [
+            "Sustenance [\u03c7\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03b1\u03c4\u03b1] . For their cattle : fodder. See on shall be filled, Matthew 5:6."
+        ],
+        "John Calvin": [
+            "Nevertheless, the free goodness of God appeareth plainly in the person of Joseph, whilst that he is appointed to nourish and feed his brethren, who had sold him, and by that means sent him far away, and thought that he was gone away quite out of the world.",
+            "He putteth meat in their mouths who had thrown him into a pit, and had deprived him of the air and the common breath.",
+            "In the mean season, Stephen putteth the Jews in mind of this, that the patriarchs were enforced to depart out of that land which was given them for an heritage, and that they died in another place."
+        ],
+        "Archibald T. Robertson": [
+            "Found no sustenance (\u03bf\u03c5\u03c7 \u03b7\u03c5\u03c1\u03b9\u03c3\u03ba\u03bf\u03bd \u03c7\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03b1\u03c4\u03b1). Imperfect active, kept on not finding.\" (Quote 1)",
+            "Chortasmata is from chortazo, originally to feed with grass (\u03c7\u03bf\u03c1\u03c4\u03bf\u03c2) or herbs.\" (Quote 2)",
+            "In Genesis 24:25; Genesis 24:32 it is fodder for the cattle, a first necessity for owners of herds of cattle.\" (Quote 3)"
+        ],
+        "John Gill": [
+            "The famine, which was very severe, and lasted a long time, even seven years: want of eating is called 'affliction', by the Jews; by which they mean fasting, which is a voluntary want of eating, or abstinence from it.",
+            "This dearth, or famine, is said to be in all lands, though only Egypt and Canaan are mentioned here, because the history is concerned with no other.",
+            "Jacob and his family could not get sufficient provision for them in the land of Canaan, where they then were, but were obliged to go to Egypt for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During a severe famine, Jacob and his family in Canaan found themselves without sustenance, unable to provide for their basic needs. The term sustenance refers to fodder for their cattle, emphasizing the dire circumstances they faced. The scarcity of food was so persistent that they continually kept on not finding what they needed. This forced them to leave their homeland and seek provisions elsewhere. Although the Jews had forgotten this history, Stephen reminds them that their ancestors, including Joseph, were also compelled to depart from their land and faced affliction due to lack of food. Jacob and his family ultimately had to journey to Egypt to find the sustenance they so desperately needed.",
+            "wordCount": 113,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.5151688639296919,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                28.99,
+                32.68,
+                38.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During a severe famine, Jacob and his family in Canaan found themselves without sustenance, unable to provide for their basic needs. The term sustenance refers to fodder for their cattle, emphasizing the dire circumstances they faced. The scarcity of food was so persistent that they continually kept on not finding what they needed. This forced them to leave their homeland and seek provisions elsewhere. Although the Jews had forgotten this history, Stephen reminds them that their ancestors, including Joseph, were also compelled to depart from their land and faced affliction due to lack of food.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5146808873004287,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.71,
+            "commentatorTierSimilarities": [
+                30.08,
+                32.58,
+                37.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Canaan, during a severe famine, Jacob and his family were unable to find sustenance for themselves and their cattle. The term sustenance refers to the essential fodder needed to survive. There was a persistent lack of food, and they continually kept on not finding what they needed. This scarcity forced them to leave their homeland and seek provisions elsewhere, highlighting the dire circumstances they faced. Despite the Jews forgetting this history, Stephen reminds them that their ancestors, including Joseph, were also afflicted by famine and compelled to leave their land in search of food.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5628345034365756,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                29.33,
+                33.8,
+                36.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During a severe famine, Jacob and his family in Canaan struggled to find sustenance for themselves and their livestock. The term sustenance refers to the necessary food they needed to survive. There was a persistent shortage, as they kept on not finding what they required. This scarcity compelled them to leave their homeland and seek provisions elsewhere. Stephen reminded the Jews of this fact, emphasizing that their ancestors, including Joseph, had experienced similar hardships due to famine and were forced to leave their land in search of sustenance.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.530623184767295,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.24,
+            "commentatorTierSimilarities": [
+                28.52,
+                35.93,
+                35.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During a severe famine, Jacob and his family in Canaan found themselves without sustenance, lacking the necessary food for survival. The term sustenance refers to fodder for their cattle, highlighting the dire circumstances they faced. Their continued inability to find the sustenance they needed forced them to leave their homeland in search of provisions elsewhere. Stephen reminded the Jews of their ancestors' similar struggles, including Joseph, who experienced affliction and was compelled to leave their homeland due to a lack of food.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.6087465079270653,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                30.25,
+                33.12,
+                36.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

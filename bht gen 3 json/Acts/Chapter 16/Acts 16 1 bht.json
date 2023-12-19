@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:32:01",
+    "verseRef": "Acts 16:1",
+    "bestBHT": {
+        "bht": "Timothy, a young preacher and spiritual son of Paul, accompanied him on his travels. Born to a mixed marriage, with an uncircumcised Greek father, Timothy inherited a genuine faith from his grandmother Lois and mother Eunice. Despite his youth, Timothy was entrusted with leading the church in Ephesus, demonstrating the deep love and devotion Paul had for him. It was a remarkable discovery to find a real young preacher for the work of Christ, someone who possessed zeal, courage, and intrepidity.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.942799643863055,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+        "commentatorTierSimilarities": [
+            37.06,
+            35.22,
+            27.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul probably travelled by the ordinary road through the \u2018Cilician gates,\u2019 a rent or fissure in the mouutain-chain of Taurus",
+            "He had probably been converted by Paul during his former visit, as he calls him his son in the Lord",
+            "Whether his father was a proselyte of the gate or not, is uncertain: he certainly was uncircumcised."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His would be one of 'the souls of the disciples confirmed' at the apostle's second visit, 'exhorted to continue in the faith, and' warned 'that we must through much tribulation enter into the kingdom of God'.\" ",
+            "The unfeigned faith which dwelt first in his grandmother Lois descended to 'his mother Eunice,' and thence it passed to this youth, who 'from a child knew the Holy Scriptures'.",
+            "Such mixed marriages, though little practiced, and disliked by the stricter Jews in Palestine, must have been very frequent among the Jews of the dispersion, especially in remote districts, where but few of the scattered people were settled."
+        ],
+        "Albert Barnes": [
+            "It is evident that Timothy, at this time, was very young; for when Paul besought him to abide at Ephesus, to take charge of the church there 1 Timothy 1:3, he addressed him then as a young man, 1 Timothy 4:12, 'Let no man despise thy youth.'",
+            "Her name was Eunice, 2 Timothy 1:5.",
+            "But his father was a Greek - Evidently, a man who had not been circumcised, for had he been Timothy would have been also."
+        ],
+        "John Calvin": [
+            "Paul did nothing rashly, or without good consideration.",
+            "We must principally look unto the judgment of the godly.",
+            "Godliness and holiness of life must be judged according to the will and consent of godly men."
+        ],
+        "Philip Schaff": [
+            "The interjection \u2018behold\u2019 marks the importance which the writer of the \u2018Acts\u2019 attaches to the solemn adoption of Timothy by Paul.",
+            "Her unfeigned faith, as also that of the grandmother Lois, is specially commented upon in 2 Timothy 1:5.",
+            "These mixed marriages, although very rare in Palestine, were common enough in remote districts like Lycaonia."
+        ],
+        "Archibald T. Robertson": [
+            "Timothy may have been a proselyte, but not necessarily so as Timothy was taught the Scriptures by his mother and grandmother.",
+            "Paul loved him devotedly.",
+            "It is a glorious discovery to find a real young preacher for Christ's work."
+        ],
+        "John Gill": [
+            "None of these things moved him from the preaching of the Gospel, and from the care of the churches, such zeal, courage, and intrepidity was he possessed of.",
+            "It is a name much used among the Greeks, and his father was a Greek; one of this name, who was an historian among the Greeks, is frequently mentioned.",
+            "The name signifies one that honoured God, or was honoured by God; both were true in this disciple of Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Timothy, a young preacher, accompanied Paul on his journeys. It is likely that Timothy was converted by Paul during a previous visit, as Paul refers to him as his spiritual son. Timothy, whose father was a Greek and likely not circumcised, grew up in a mixed marriage. Nonetheless, he had a strong faith that was passed on to him by his grandmother Lois and his mother Eunice, both of whom had unfeigned faith. Despite his youth, Timothy was entrusted with the responsibility of leading the church in Ephesus. Paul had great love and devotion for Timothy, recognizing the potential in this young preacher for Christ's work.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 2.000263385150354,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                35.4,
+                38.7,
+                25.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Timothy, a young preacher, accompanied Paul on his journeys. It is likely that Timothy was converted by Paul during a previous visit, as Paul refers to him as his spiritual son. Timothy, whose father was a Greek and likely not circumcised, grew up in a mixed marriage. Nonetheless, he had a strong faith that was passed on to him by his grandmother Lois and his mother Eunice, both of whom had unfeigned faith. Despite his youth, Timothy was entrusted with leading the church in Ephesus. Paul had great love and devotion for Timothy, recognizing the potential in this young preacher for Christ's work.",
+            "wordCount": 104,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.01149257603543,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.22,
+            "commentatorTierSimilarities": [
+                35.67,
+                38.81,
+                25.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Timothy, a young preacher and Paul's spiritual son, accompanied him on his journeys. Raised in a mixed marriage, Timothy's faith was passed down from his grandmother Lois and his mother Eunice, both women of unfeigned faith. Despite his youth, Timothy was entrusted with leading the church in Ephesus. His father was Greek and likely uncircumcised. Paul held a deep affection for Timothy and recognized his potential as a young preacher for Christ's work.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.8856303987650582,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                36.23,
+                37.96,
+                25.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Timothy, a young preacher, traveled with Paul on his journeys. It's believed that Timothy became a follower of Christ during Paul's previous visit, considering Paul referred to him as his spiritual son. Timothy was born to a mixed marriage and had an uncircumcised Greek father. However, he inherited a genuine faith from his grandmother and mother, who were both devoted to the Lord. Despite his youth, Timothy was entrusted with the responsibility of leading the church in Ephesus, a testament to Paul's deep love and admiration for him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9249564316953376,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                36.56,
+                37.16,
+                26.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Timothy, a young preacher and spiritual son of Paul, accompanied him on his travels. Born to a mixed marriage, with an uncircumcised Greek father, Timothy inherited a genuine faith from his grandmother Lois and mother Eunice. Despite his youth, Timothy was entrusted with leading the church in Ephesus, demonstrating the deep love and devotion Paul had for him. It was a remarkable discovery to find a real young preacher for the work of Christ, someone who possessed zeal, courage, and intrepidity.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.942799643863055,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                37.06,
+                35.22,
+                27.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

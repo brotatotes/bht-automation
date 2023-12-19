@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:14:32",
+    "verseRef": "1 Corinthians 16:11",
+    "bestBHT": {
+        "bht": "Let no one despise Timothy's youth, but set him on his way with respect and everything he needs. He is a faithful minister of Christ who deserves to be held in esteem. Make sure to conduct him in peace, ensuring his safety and wellbeing on his journey. Paul expects Timothy to join him, along with the brethren, so treat him with kindness and provide for him accordingly. Let there be no strife or contention, but rather peace and blessings as you support this important minister of the gospel.",
+        "wordCount": 89,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.930219149234327,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+        "commentatorTierSimilarities": [
+            28.92,
+            35.81,
+            35.28
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11, in peace] without strife and contention.",
+            "for I look for him] 'He says this,' observes Chrysostom, 'as a caution to them, in order that, knowing that whatever treatment Timothy should receive at their hands would be reported to the Apostle, they might be more courteous to him.'",
+            "and at the same time,' adds Theophylact, 'making Timothy more the object of their respect when they heard how important he was to the Apostle, so that he expected him.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Let no man despise thy youth.",
+            "conduct\u2014set him on his way with every mark of respect, and with whatever he needs.",
+            "Peace\" is the salutation of kindness and respect in the East; and so it stands for every blessing."
+        ],
+        "Albert Barnes": [
+            "Let no one despise him on account of his youth and inexperience.",
+            "A minister of the gospel, though young, should receive the respect that is due to his office.",
+            "His youth should be no barrier to the confidence and affection of even aged and experienced Christians."
+        ],
+        "John Calvin": [
+            "He wishes them, therefore, to take care, that there be no hinderance in the way of this faithful minister of Christ being held in due esteem.\" ",
+            "This injunction, however, appears to include something farther, that they should not undervalue Timothy, from ignorance of his worth.\" ",
+            "In the third place, he charges them to conduct him forward in peace, or, in other words, safe from all harm, for peace here means safety."
+        ],
+        "Philip Schaff": [
+            "Let no man therefore despise him: but set him forward (at parting) on his journey in peace.\" ",
+            "That he may come unto me: for I expect him with the brethren.",
+            "And he came accordingly; for we find him with the apostle when he wrote his Second Epistle."
+        ],
+        "Archibald T. Robertson": [
+            "Apparently later Timothy had to return to Ephesus without much success before Paul left and was sent on to Macedonia with Erastus.",
+            "Titus sent to Corinth whom Paul then arranged to meet in Troas.",
+            "I expect him."
+        ],
+        "John Gill": [
+            "As the lives of Gospel ministers ought to be defended and secured by those to whom they minister, their persons ought to be treated with esteem and respect.\" (36 words)",
+            "Conduct him forth in peace; when he takes his leave, wish him all happiness and prosperity, accompany him some part of the way in his journey, and provide things necessary for him.\" (36 words)",
+            "I look for him with the brethren; either the brethren that were with the apostle were in earnest expectation of him, together with himself; or else that he looked for him along with the brethren, that either went with him, or should come with him from Corinth, being sent by the church.\" (47 words)"
+        ],
+        "John Wesley": [
+            "I look for him with the brethren \u2014 That accompany him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let no one despise Timothy's youth, but instead set him on his way with respect and everything he needs. He is a faithful minister of Christ who deserves to be held in esteem. Make sure to conduct him in peace, ensuring his safety and wellbeing on his journey. Paul expects Timothy to join him, along with the brethren, so treat him with kindness and provide for him accordingly. Let there be no strife or contention, but rather peace and blessings as you support this important minister of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9240695466357127,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                28.9,
+                35.76,
+                35.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let no one despise Timothy's youth, but set him on his way with respect. Conduct him in peace for his safety. Paul expects Timothy to join him, along with the brethren. Make sure to treat him with kindness and provide for him accordingly. Support this important minister of the gospel with blessings and avoid strife or contention.",
+            "wordCount": 58,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.875224496444054,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.69,
+            "commentatorTierSimilarities": [
+                30.49,
+                36.34,
+                33.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let no one despise Timothy's youth, but instead set him on his way with respect and everything he needs. He is a faithful minister of Christ who deserves to be held in esteem. Make sure to conduct him in peace, ensuring his safety and wellbeing on his journey. Paul expects Timothy to join him, along with the brethren, so treat him with kindness and provide for him accordingly. Let there be no strife or contention, but rather peace and blessings as you support this important minister of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 1.9240695466357127,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                28.9,
+                35.76,
+                35.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let no one despise Timothy's youth, but set him on his way with respect. Conduct him in peace, ensuring his safety. Paul expects Timothy to join him, along with the brethren. Treat him with kindness and provide for him accordingly. Support this important minister of the gospel with blessings and avoid strife or contention.",
+            "wordCount": 55,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.8643280993364635,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                30.55,
+                36.47,
+                32.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let no one despise Timothy's youth, but set him on his way with respect and everything he needs. He is a faithful minister of Christ who deserves to be held in esteem. Make sure to conduct him in peace, ensuring his safety and wellbeing on his journey. Paul expects Timothy to join him, along with the brethren, so treat him with kindness and provide for him accordingly. Let there be no strife or contention, but rather peace and blessings as you support this important minister of the gospel.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.930219149234327,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                28.92,
+                35.81,
+                35.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

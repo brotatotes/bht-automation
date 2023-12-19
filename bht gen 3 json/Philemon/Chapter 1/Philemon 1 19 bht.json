@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:13:03",
+    "verseRef": "Philemon 19",
+    "bestBHT": {
+        "bht": "I, Paul, write this with my own hand to express my commitment. I have laid you under obligation, not only for an amount equal to that due from Onesimus, but for yourself as made a Christian through my ministry. I want to avoid saying that you owe me, so I give my note of hand. You owe me even yourself besides. I wish to remind you of the higher ground of brotherhood in Christ about Onesimus, for it is through my instrumentality that you owe your salvation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 59.32,
+        "qualityScore": 1.8882170528358309,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.12,
+        "commentatorTierSimilarities": [
+            42.04,
+            26.55,
+            31.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The inference from this is, that the whole Epistle was autographic: for it would be unnatural to suppose the Apostle to break off his amanuensis here, and write this engagement with his own hand.\" ",
+            "That I say not: 'This is a kind of reticence, when we say that we wish to omit that very thing which we wish most to say,' Grotius.\" ",
+            "Thine own self: Not thy goods merely. This shews that Philemon had been converted by St. Paul in person."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "with mine own hand \u2014 not employing an amanuensis, as in other Epistles: a special compliment to Philemon which he ought to show his appreciation of by granting Paul\u2019s request.",
+            "albeit, etc. \u2014 literally, 'that I may not say ... not to say,' etc.",
+            "thou owest ... even thine own self \u2014 not merely thy possessions. For to my instrumentality thou owest thy salvation. So the debt which 'he oweth thee' being transferred upon me (I making myself responsible for it) is cancelled."
+        ],
+        "Albert Barnes": [
+            "I Paul have written it with mine own hand...as a mark of special favor toward Philemon.\" ",
+            "I will be security for it...if he did, he would feel himself bound to pay it.",
+            "Paul had doubtless been the means of the conversion of Philemon...His very life - his eternal welfare - was to be traced to his labors."
+        ],
+        "Marvin Vincent": [
+            "The mention of his autograph here, rather than at the end of the letter, may indicate that he wrote the whole epistle with his own hand, contrary to his usual custom of employing an amanuensis.",
+            "I thus give my note of hand that I may avoid saying that thou owest, etc.",
+            "I have laid you under obligation, not only for an amount equal to that due from Onesimus, but for yourself as made a Christian through my ministry."
+        ],
+        "John Calvin": [
+            "There is nothing that thou couldest refuse to give me, even though I should demand thyself.",
+            "I wish that thou shouldest not contend with thy slave, unless thou choosest to have me for thy debtor in his stead.",
+            "He who claims the whole man as his property, need not give himself uneasiness about paying money."
+        ],
+        "Philip Schaff": [
+            "It is no mere offer of himself as security for the slave\u2019s future good conduct, and that in time he shall, by his working, clear off the loss he has caused: St. Paul would at once by his own payment set Onesimus free from such debt.",
+            "He might have urged the larger debt which Philemon owed to him for his conversion to the faith of Christ, should be held to far outbalance the loss inflicted by Onesimus. But this he will not press, though by a delicate reference to it, he gives force to the appeal which he is making.",
+            "And he speaks to Philemon of his \u2018own self,\u2019 that he may remind him how paltry the consideration of money gain or loss must be in comparison of the salvation of that which alone of man is to know immortality."
+        ],
+        "Archibald T. Robertson": [
+            "I will repay it. The more usual word was \u03b1\u03c0\u03bf\u03b4\u03c9\u03c3\u03c9. This is Paul's promissory note.",
+            "That I say not. Neat idiom as in 2 Corinthians 9:4, delicately reminding Philemon that Paul had led him also to Christ.",
+            "Thou owest to me even thine own self besides. He used every available argument to bring Philemon to see the higher ground of brotherhood in Christ about Onesimus."
+        ],
+        "John Gill": [
+            "I will repay it: this was not an ironical expression, nor a piece of vanity in the apostle; he spoke seriously, and heartily, and meant what he said.\" ",
+            "and this shows his great humility to be a bondsman for a servant, and to make good damages and debts brought on in a scandalous manner.\" ",
+            "From hence may be observed, how greatly obliged regenerated persons are to those, who have been the means and instruments of their conversion."
+        ],
+        "John Wesley": [
+            "I will repay it \u2014 If thou requirest it.",
+            "Not to say, that then owest me thyself \u2014 It cannot be expressed, how great our obligation is to those who have gained our souls to Chris",
+            "Beside \u2014 Receiving Onesimus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I, Paul, write this with my own hand to express my commitment. I have laid you under obligation, not only for an amount equal to that due from Onesimus, but for yourself as made a Christian through my ministry. I want to avoid saying that you owe me, so I give my note of hand. You owe me even yourself besides. I wish to remind you of the higher ground of brotherhood in Christ about Onesimus, for it is through my instrumentality that you owe your salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 59.32,
+            "qualityScore": 1.8882170528358309,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.12,
+            "commentatorTierSimilarities": [
+                42.04,
+                26.55,
+                31.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I, Paul, write this with my own hand as a mark of special favor. You owe me not just for Onesimus, but for yourself as well, for it is through my ministry that you became a Christian. In order to avoid saying that you owe me, I give my note of hand. You owe me even yourself. Let us not forget the higher ground of brotherhood in Christ when considering Onesimus.",
+            "wordCount": 71,
+            "quoteTokenProportion": 57.14,
+            "qualityScore": 1.7889237177695017,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                42.15,
+                27.26,
+                30.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse indicates that the entire Epistle was written by the Apostle himself, which is a compliment to Philemon for his conversion by Paul in person. Paul's mention of writing with his own hand serves as a promissory note, expressing his willingness to repay any debt owed by Philemon. By stating that Philemon owes Paul his own self, Paul highlights the debt of gratitude for his instrumental role in Philemon's salvation. The appeal is not just about the financial loss caused by Onesimus but also the higher ground of brotherhood in Christ. Paul humbly offers himself as security for Onesimus' future conduct, emphasizing the importance of salvation over material gain.",
+            "wordCount": 112,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 2.15575072115558,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.02,
+            "commentatorTierSimilarities": [
+                34.28,
+                45.12,
+                20.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Autograph of the Epistle was written with Paul's own hand, a special compliment to Philemon. By mentioning his own self, Paul reminds Philemon that he owes more than just possessions but also his own conversion. This mentioning of his autograph earlier rather than at the end may suggest that the whole Epistle was written without an amanuensis. Paul's promise to repay the debt, not just financially but also for Philemon's own salvation, emphasizes the higher ground of brotherhood in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.2603910273757677,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+            "commentatorTierSimilarities": [
+                39.35,
+                42.23,
+                18.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Autograph of the Epistle was written with Paul's own hand, a special compliment to Philemon. By mentioning his own self, Paul reminds Philemon that he owes more than just possessions but also his own conversion. This mentioning of his autograph earlier rather than at the end may suggest that the whole Epistle was written without an amanuensis. Paul's promise to repay the debt, not just financially but also for Philemon's own salvation, emphasizes the higher ground of brotherhood in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.2603910273757677,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.5,
+            "commentatorTierSimilarities": [
+                39.35,
+                42.23,
+                18.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

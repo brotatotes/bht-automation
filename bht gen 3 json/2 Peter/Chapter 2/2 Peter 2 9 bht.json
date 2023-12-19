@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:44",
+    "verseRef": "2 Peter 2:9",
+    "bestBHT": {
+        "bht": "The Lord, who possesses both the wisdom and power to deliver the godly, knows exactly how to rescue them from temptation. In contrast, the unrighteous will be reserved for punishment until the day of judgment, even though they may seem to go free in the present. Sin already carries its own penalty, but the full manifestation of punishment awaits the ungodly. Though we may question why God allows us to be surrounded by wickedness, we find courage knowing that He claims the responsibility of helping and protecting His own.",
+        "wordCount": 89,
+        "quoteTokenProportion": 47.06,
+        "qualityScore": 1.9732876041943603,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+        "commentatorTierSimilarities": [
+            29.67,
+            35.84,
+            34.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the Lord knoweth how (the expression indicates both the apprehension of the manner of the set, and the power to perform it)",
+            "to rescue godly [men] out of temptation",
+            "to reserve unrighteous [men] under punishment...to the day of judgment"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He is at no loss for means, even when men see no escape.",
+            "Sin is already its own penalty; hell will be its full development.",
+            "being punished\": as the fallen angels."
+        ],
+        "Albert Barnes": [
+            "He sees a way to [deliver his people] when we cannot, though it is often a way which we should not have thought of.",
+            "He can deliver his people completely and forever from temptation, by their removal to heaven.",
+            "Though [the unjust] seem to go at large, yet they are under his control, and are kept by him with reference to their ultimate arraignment."
+        ],
+        "Marvin Vincent": [
+            "Godly. Used by Peter only.",
+            "The reading at Acts 22:12, is eujlabhv, devout.",
+            "The participle here is, lit., being punished, and therefore the A. V. is wrong. Rev., rightly, under punishment."
+        ],
+        "John Calvin": [
+            "This consolation is very necessary for us, for this thought is apt to creep in, 'If the Lord would have his own to be safe, why does he not gather them all into some corner of the earth, that they may mutually stimulate one another to holiness? why does he mingle them with the wicked by whom they may be defiled?'",
+            "But when God claims to himself the office of helping, and protecting his own, that they may not fail in the contest, we gather courage to fight more strenuously.",
+            "The meaning of the first clause is, that this law is prescribed by the Lord to all the godly, that they are to be proved by various temptations, but that they are to entertain good hope of success, because they are never to be deprived of his aid and help."
+        ],
+        "Philip Schaff": [
+            "The Lord knoweth how to deliver the godly out of temptation, and to reserve the unrighteous under punishment unto the day of judgment.",
+            "The parties aimed at appear to be the false teachers.",
+            "All that is meant, however, may be a general mention of authority as such, and of the contempt of that, in all its forms, human, angelic, and Divine, as a characteristic mark of the class dealt with."
+        ],
+        "Archibald T. Robertson": [
+            "The Lord knoweth how... God can deliver his servants as shown by Noah and Lot and he will deliver you.\" ",
+            "The idiomatic use of \u03bf\u03b9\u03b4\u03b1 and the infinitive for knowing how as in Matthew 7:11; James 4:17.\" ",
+            "Present tense emphasises continuity of the punishment."
+        ],
+        "John Gill": [
+            "The Lord knows how to deliver the godly, that fear him.",
+            "To deliver from these [afflictions] is the Lord's work: he grants his presence in them; he supports under them; he sanctifies them to them, and in his own time delivers out of them.",
+            "The Lord, that has reserved the fallen angels in chains of darkness unto judgment, knows how to reserve 'in prison', as the Arabic version renders it, the souls of those in hell, and their bodies in the grave 'unto the day of judgment'; of the last and general judgment, when Christ shall judge both quick and dead, and bring every secret thing to light."
+        ],
+        "John Wesley": [
+            "The Lord knoweth, hath both wisdom and power and will, to deliver the godly out of all temptations.\" ",
+            "The Lord...will...punish the ungodly.\" ",
+            "It plainly appears...that the Lord...hath...power and will."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord, who knows exactly how to deliver his godly people from temptation, also knows how to reserve the unrighteous for punishment, to be revealed on the day of judgment. He is not at a loss for means; even when escape seems impossible to us, he sees a way. Sin carries its own penalty, but in the final judgment, the unrighteous will fully experience the consequences of their actions. This reassurance is necessary, for we often wonder why God allows us to be surrounded by wickedness. But when we understand that he claims the responsibility of helping and protecting his own, we find the courage to fight more strenuously. The Lord knows how to deliver his godly people and how to ensure that justice is served to the ungodly on the appointed day.",
+            "wordCount": 133,
+            "quoteTokenProportion": 41.46,
+            "qualityScore": 1.8229201689077832,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                26.58,
+                38.36,
+                35.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord, who knows exactly how to deliver his godly people from temptation, also knows how to reserve the unrighteous for punishment, to be revealed on the day of judgment. Sin carries its own penalty, but in the final judgment, the unrighteous will fully experience the consequences of their actions. He is not at a loss for means, even when escape seems impossible. This reassurance is necessary, for we often wonder why God allows us to be surrounded by wickedness. But when we understand that he claims the responsibility of helping and protecting his own, we find the courage to fight more strenuously.",
+            "wordCount": 103,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.7750104089142615,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+            "commentatorTierSimilarities": [
+                28.25,
+                37.7,
+                34.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord, who knows exactly how to deliver his godly people from temptation, also knows how to reserve the unrighteous for punishment, to be revealed on the day of judgment. Sin carries its own penalty, but in the final judgment, the unrighteous will fully experience the consequences of their actions. He is not at a loss for means, even when escape seems impossible. This reassurance is necessary, for we often wonder why God allows us to be surrounded by wickedness. But when we understand that he claims the responsibility of helping and protecting his own, we find the courage to fight more strenuously.",
+            "wordCount": 103,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.7750104089142615,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+            "commentatorTierSimilarities": [
+                28.25,
+                37.7,
+                34.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord, who possesses both the wisdom and power to deliver the godly, knows exactly how to rescue them from temptation. In contrast, the unrighteous will be reserved for punishment until the day of judgment, even though they may seem to go free in the present. Sin already carries its own penalty, but the full manifestation of punishment awaits the ungodly. Though we may question why God allows us to be surrounded by wickedness, we find courage knowing that He claims the responsibility of helping and protecting His own.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.9732876041943603,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                29.67,
+                35.84,
+                34.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord, who possesses both the wisdom and power to deliver the godly, knows exactly how to rescue them from temptation. In contrast, the unrighteous will be reserved for punishment until the day of judgment, even though they may seem to go free in the present. Sin already carries its own penalty, but the full manifestation of punishment awaits the ungodly. Though we may question why God allows us to be surrounded by wickedness, we find courage knowing that He claims the responsibility of helping and protecting His own.",
+            "wordCount": 89,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.9732876041943603,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                29.67,
+                35.84,
+                34.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

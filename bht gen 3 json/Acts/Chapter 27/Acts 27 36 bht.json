@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:37:18",
+    "verseRef": "Acts 27:36",
+    "bestBHT": {
+        "bht": "In this account, Paul's courageous and infectious spirit demonstrates his remarkable influence over everyone on board the ship. Despite the perilous circumstances, he brings cheer and encouragement to all who sail with him, lifting their spirits and even prompting them to partake in a much-needed meal. Paul's unwavering faith and inspiring example serve as a powerful reminder that even in the midst of desperation, our words and actions have the ability to bring hope and strength to those around us.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 1.551618875661101,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+        "commentatorTierSimilarities": [
+            42.12,
+            30.97,
+            26.92
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When we reflect who were included in these all\u2014the soldiers and their centurion, the sailors and passengers of various nations and dispositions.",
+            "It shows remarkably the influence acquired by Paul over all who sailed with him.",
+            "Paul over all who sailed with him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such courage in desperate circumstances as Paul here showed is wonderfully infectious.",
+            "Then were they all of good cheer.",
+            "They also took some meat; the first full meal since the commencement of the gale."
+        ],
+        "Philip Schaff": [
+            "Then were they all of good cheer, and they also took some meat.",
+            "This is one of those passages... to give a cheerful character to the book.",
+            "It is evident that the people on board were utterly exhausted, and had lost all heart, so that even the desire for food was gone."
+        ],
+        "Archibald T. Robertson": [
+            "Then all becoming cheerful, because of Paul's words and conduct.",
+            "Took food. Partitive genitive here (some food), not accusative as verse Acts 27:33.",
+            "Paul's courage was contagious."
+        ],
+        "John Gill": [
+            "Encouraged by the apostle's words and example.",
+            "Made a comfortable meal, which they had not done for fourteen days past."
+        ],
+        "John Wesley": [
+            "Then they were all encouraged \u2014 By his example, as well as words."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 27:36, we see the incredible influence that Paul had over everyone on board the ship. Despite the desperate circumstances they found themselves in, Paul's courage was contagious, and he was able to bring cheer and comfort to all who sailed with him. This is evident in the fact that they all became of good cheer and even took some food, which they had not done for fourteen days. Paul's words and conduct had a profound impact on the people, giving them much-needed hope and strength to persevere.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.6946610058043108,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                41.44,
+                32.67,
+                25.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul's remarkable influence over the soldiers, sailors, and passengers of the ship is evident. His courage and cheerful demeanor in the face of desperate circumstances were incredibly infectious, providing comfort and optimism to all who sailed with him. As a result, their spirits were lifted, and they were even able to enjoy a much-needed meal. Paul's words and conduct in this dire situation serve as a powerful example of how one person's resilience and faith can have a profound impact on others, bringing hope and encouragement in the midst of turmoil.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.4784766470268447,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.5,
+            "commentatorTierSimilarities": [
+                38.51,
+                32.12,
+                29.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this account, Paul's courage and influence over those on the ship are remarkable. Despite the perilous circumstances, his infectious optimism and cheerfulness lifted the spirits of everyone aboard. They were all encouraged by his example and words, leading to a much-needed meal and a newfound sense of hope. Paul's ability to inspire others in such desperate times showcases his unwavering faith and resilience, reminding us that even in the midst of adversity, our words and actions can bring comfort and encouragement to those around us.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.5292483474282954,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.19,
+            "commentatorTierSimilarities": [
+                37.0,
+                27.24,
+                35.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this account, Paul's courageous and infectious spirit demonstrates his remarkable influence over everyone on board the ship. Despite the perilous circumstances, he brings cheer and encouragement to all who sail with him, lifting their spirits and even prompting them to partake in a much-needed meal. Paul's unwavering faith and inspiring example serve as a powerful reminder that even in the midst of desperation, our words and actions have the ability to bring hope and strength to those around us.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.551618875661101,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                42.12,
+                30.97,
+                26.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's influence over all who sailed with him is evident in Acts 27:36. His courage and cheerfulness in the face of dire circumstances were truly infectious, providing comfort and hope to exhausted and disheartened individuals. The fact that they all became of good cheer and even partook in a meal after days of deprivation demonstrates the profound impact Paul's words and conduct had on their spirits. This account serves as a powerful reminder of the transformative power of resilience and faith in inspiring others during challenging times.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.4038293766146837,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.02,
+            "commentatorTierSimilarities": [
+                44.72,
+                28.76,
+                26.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

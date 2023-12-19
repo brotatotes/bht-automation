@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:28:50",
+    "verseRef": "Acts 9:11",
+    "bestBHT": {
+        "bht": "In Damascus, there is a street named 'Straight,' where Ananias encounters Saul, the former persecutor turned man of prayer. This act of prayer is a crucial indication of Saul's conversion to God and signifies a genuine desire for communion with Christ and the disciples. It reassured Ananias to know that the persecutor was seeking the God of the persecuted, demonstrating the transformative power of grace. Saul's prayer is a profound testament to the ability of God to change hearts and ignite a fervent longing for His presence.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.8804732388484164,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+        "commentatorTierSimilarities": [
+            18.59,
+            39.79,
+            41.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are allowed to bear in mind that the \u2018straight street,\u2019 which still extends through Damascus... is the street where Ananias spoke to Saul.",
+            "In the long degradation of Christianity in the East, most of such identities must have been lost; and imposture is so easy, that it is hardly possible to cherish the thought that the spots now pointed out can be the true ones.",
+            "Never to lose sight of, nor to treat contemptuously at first sight, a local belief."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There is something touching in the minuteness of these directions.",
+            "Beautiful note of encouragement as to the frame in which Ananias would find the persecutor.",
+            "He prayeth\u2014'breathing out' no longer 'threatenings and slaughter,' but struggling desires after light and life in the Persecuted One."
+        ],
+        "Albert Barnes": [
+            "One indication of conversion to God is real prayer. A Christian may as well be characterized by that as by any single appellation - 'a man of prayer.'",
+            "It is always the attendant of true conviction for sin that we pray. The convicted Sinner feels his danger, and his need of forgiveness.",
+            "It is a sufficient indication of the character of any man to say, 'Behold, he prays.' It at once tells us, better than volumes would without this, what is his real character."
+        ],
+        "Marvin Vincent": [
+            "Street [\u03c1\u03c5\u03bc\u03b7\u03bd] . See on Luke 14:21. A narrow street or lane.",
+            "Straight. So called from its running in a direct line from the eastern to the western gate of the city."
+        ],
+        "John Calvin": [
+            "Luke showeth that Paul gave himself to prayer those three days.",
+            "Christ doth assuredly speak of no short prayer in this place, but he doth rather show that Paul continued in this kind of exercise until he should be more quiet in mind.",
+            "But this was the reason why the Lord caused him to wait three days, that he might the more kindle in him an earnest desire to pray."
+        ],
+        "Philip Schaff": [
+            "the street called 'Straight,' so called from its running in a direct line from the eastern to the western gate.",
+            "Tarsus was originally of great extent, and was built on both sides of the river Cydnus, and from its consisting of two distinct wings, divided by the Cydnus, took the plural name 'Tarsoi,' the wings.",
+            "This fact of Saul\u2019s praying seems mentioned by the Lord to reassure Ananias. The 'persecutor' was praying to the God of the 'persecuted.'"
+        ],
+        "Archibald T. Robertson": [
+            "So were the narrow lanes or alleys called streets and finally in later Greek the word is applied to streets even when broad.",
+            "Most of the city lanes were crooked like the streets of Boston (old cow-paths, people say), but this one still runs 'in a direct line from the eastern to the western gate of the city' (Vincent).",
+            "Since the ancients usually rebuilt on the same sites, it is probable that the line of the street of that name today is the same, though the actual level has been much raised."
+        ],
+        "John Gill": [
+            "Whether or no this was one of the streets which Benhadad allowed Ahab to make in Damascus, 1 Kings 20:34 cannot be said.",
+            "God has no stillborn children; as soon as any are quickened by his grace, they cry unto him; prayer is the breath of a regenerate man, and shows him to be alive.",
+            "He who before was breathing out threatenings and slaughter against the disciples of Christ, now breathes after communion with Christ and them."
+        ],
+        "John Wesley": [
+            "Behold he is praying \u2014 He was shown thus to Ananias."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the city of Damascus, there is a street called 'Straight' where Ananias spoke to Saul, who was once a persecutor but now a man of prayer. It is significant that Saul was found praying, as it is an indication of his conversion to God. The Lord reassured Ananias by revealing that the persecutor was praying to the God of the persecuted. This act of prayer signifies not only a change in character but also a deep desire for communion with Christ and the disciples. It is a beautiful reminder that God's grace can transform a heart and ignite a fervent longing for His presence.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8897184455581968,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.17,
+            "commentatorTierSimilarities": [
+                17.7,
+                38.35,
+                43.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Damascus, there is a street named 'Straight,' where Ananias encounters Saul, the former persecutor turned man of prayer. This act of prayer is a crucial indication of Saul's conversion to God and signifies a genuine desire for communion with Christ and the disciples. It reassured Ananias to know that the persecutor was seeking the God of the persecuted, demonstrating the transformative power of grace. Saul's prayer is a profound testament to the ability of God to change hearts and ignite a fervent longing for His presence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8804732388484164,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.87,
+            "commentatorTierSimilarities": [
+                18.59,
+                39.79,
+                41.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the city of Damascus, there is a street called 'Straight,' where Ananias spoke to Saul. It is significant that Saul was found praying, as it is an indication of his conversion to God. The Lord reassured Ananias by revealing that the persecutor was praying to the God of the persecuted. This act of prayer signifies a change in character and a deep longing for communion with Christ and the disciples. It is a beautiful reminder of God's transformative power and the desire for His presence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.8260930940012963,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.06,
+            "commentatorTierSimilarities": [
+                18.13,
+                37.28,
+                44.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Damascus, on the street called 'Straight,' Saul was found praying, signifying his conversion to God. This act of prayer reassured Ananias, showing that the persecutor was seeking the God of the persecuted. Saul's prayer demonstrated a longing for communion with Christ and the disciples, revealing the transformative power of God's grace. It serves as a poignant reminder of the change that can occur in one's heart and the deep desire for the presence of God.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.8211787834822069,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                17.2,
+                39.2,
+                43.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the city of Damascus, there is a street named 'Straight,' which holds significance as the place where Ananias spoke to Saul. It is noteworthy that Saul was found praying, as it serves as an indication of his conversion to God and a desire for communion with Christ. This act of prayer reassured Ananias, allowing him to see that the persecutor was seeking the God whom he once persecuted. It exemplifies the transformative power of God's grace and highlights the profound longing for His presence that can arise within a person.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.855828228236224,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                19.24,
+                36.7,
+                44.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

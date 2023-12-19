@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:21:19",
+    "verseRef": "Luke 18:5",
+    "bestBHT": {
+        "bht": "The judge in this parable is afraid that the widow, through her continual coming and importunity, may come and assault him. His willingness to give justice is not out of duty or compassion for the widow, but from a selfish desire for his own ease. The parable highlights the effectiveness of importunity in prayer and God's willingness to hear and avenge those who cry out to Him.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.5763747478705614,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+        "commentatorTierSimilarities": [
+            17.44,
+            28.01,
+            54.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered weary is a remarkable one. It properly signifies to smite in the face;\u2014and proverbially, to mortify or incessantly annoy.",
+            "It is the same verb as that in 1 Cor. ix. 27 rendered 'keep under.'",
+            "Meyer interprets it literally\u2014'lest at last she should become desperate, and come and strike me in the face.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. continual coming\u2014coming for",
+            "\tever."
+        ],
+        "Marvin Vincent": [
+            "Lest at last she come and assault me.",
+            "Lest at the last she, coming, strangle me.",
+            "Lest at the last she come and rail on me."
+        ],
+        "Philip Schaff": [
+            "He is willing to give justice, though for a very unjust reason.",
+            "Even from such a man importunity can gain its end.",
+            "This is to be taken, not literally, but figuratively, as setting forth the troublesome effects of a woman's incessant demands."
+        ],
+        "Archibald T. Robertson": [
+            "Yet (\u03b3\u03b5). Delicate intensive particle of deep feeling as here.",
+            "Because this widow troubleth me (\u03b4\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b1\u03c1\u03b5\u03c7\u03b5\u03b9\u03bd \u03bc\u03bf \u03ba\u03bf\u03c0\u03bf\u03bd \u03c4\u03b7\u03bd \u03c7\u03b7\u03c1\u03b1\u03bd \u03c4\u03b1\u03c5\u03c4\u03b7\u03bd). Literally, because of the furnishing me trouble as to this widow (accusative of general reference with the articular infinitive).",
+            "Lest she wear me out (\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03c5\u03c0\u03c9\u03c0\u03b9\u03b1\u03b6\u03b7 \u03bc\u03b5). Some take it that the judge is actually afraid that the widow may come and assault him, literally beat him under the eye. That idea would be best expressed here by the aorist tense."
+        ],
+        "John Gill": [
+            "I will avenge her; I will hear her cause, do her justice, and deliver her from her troublesome adversary.",
+            "so that it was not from a conscience of duty in him, as a judge, or from a commiseration of the poor widow's case; but from a selfish end, for his own ease, in perfect agreement to his character",
+            "the intention of the parable being only to show the force, efficacy, and usefulness of importunity in prayer"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word rendered weary in this verse is remarkable and signifies to mortify or incessantly annoy, even to the point of smiting in the face. It is a word that conveys deep feeling. The judge in the parable fears that the widow, through her continual coming and importunity, may come and assault him. However, his willingness to give justice is not out of a conscience of duty or compassion for the widow, but rather from a selfish desire for his own ease. The parable highlights the force and effectiveness of importunity in prayer and not just the troublesome effects of continual demands. Ultimately, it emphasizes God's willingness to hear and avenge those who cry out to Him.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 1.4606922552220267,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                20.53,
+                29.8,
+                49.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The judge in this parable is afraid that the widow, through her continual coming and importunity, may come and assault him. His willingness to give justice is not out of duty or compassion for the widow, but from a selfish desire for his own ease. The parable highlights the effectiveness of importunity in prayer and God's willingness to hear and avenge those who cry out to Him.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5763747478705614,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                17.44,
+                28.01,
+                54.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The judge in this parable is described as being weary, facing a relentless annoyance from the persistent widow. Some suggest that the use of the word weary actually implies the fear of being physically struck by the widow, showing the desperation and frustration caused by her continual coming and clamoring for justice. Despite the questionable character of the judge, he eventually grants the widow's request not out of a sense of duty or compassion, but simply to protect his own well-being. The parable emphasizes the importance of importunity in prayer, illustrating how even from an unjust person, persistent and fervent prayers can yield results.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.5063886996277696,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                20.6,
+                32.05,
+                47.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The judge in this parable is weary, facing incessant annoyance from the persistent widow. Some suggest that the word choice indicates her potential to physically strike him. Despite the judge's questionable character, he grants the widow's request not out of duty or compassion, but to protect himself. This parable emphasizes the importance of importunity in prayer, showing how even from an unjust person, persistent and fervent prayers can yield results.",
+            "wordCount": 72,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.451120024824736,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                19.81,
+                33.83,
+                46.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The judge in this parable is described as being weary, facing the incessant annoyance caused by the widow's continual coming. Some commentators suggest that the word weary implies the fear of being physically struck by her. Despite the judge's questionable character, he eventually grants the widow's request not out of duty or compassion, but simply to protect his own well-being. This parable highlights the importance of importunity in prayer, demonstrating how persistent and fervent prayers can yield results, even from an unjust person.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.4260198452284625,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.76,
+            "commentatorTierSimilarities": [
+                22.49,
+                32.5,
+                45.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

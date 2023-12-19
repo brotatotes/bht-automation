@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:21:45",
+    "verseRef": "Luke 19:21",
+    "bestBHT": {
+        "bht": "The man is described as austere, which means dry and hard, like unripe fruit. This portrayal reflects the sinner's view of God as demanding more than humans can give, considering Him unjust. However, this excuse is consistent with an earlier mention. The fear expressed is misguided, but Christ is compassionate, providing grace and reward beyond what His servants deserve.",
+        "wordCount": 60,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.1722272715098168,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+        "commentatorTierSimilarities": [
+            19.99,
+            39.12,
+            40.89
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The word is commonly applied to unripe fruit, and means 'sour,' unpleasant; harsh.",
+            "In this case it means that the man was taking every advantage, and, while 'he' lived in idleness, was making his living out of the toils of others.",
+            "All this is designed to show the sinner\u2019s view of God. He regards him as unjust, demanding more than man has 'power' to render, and more, therefore, than God has a 'right' to demand."
+        ],
+        "Marvin Vincent": [
+            "Austere [\u03b1\u03c5\u03c3\u03c4\u03b7\u03c1\u03bf\u03c2] . From auw, to dry. Dry, and thence hard. See on hard, Matthew 25:24. ",
+            "Sow [\u03b5\u03c3\u03c0\u03b5\u03b9\u03c1\u03b1\u03c2] . See on strawed, Matthew 25:24."
+        ],
+        "Philip Schaff": [
+            "Luke 19:21. The excuse is substantially the same as in Matthew 25:24-25.",
+            "\t",
+            " Austere, \u2018hard\u2019 (Matthew.).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "I continued to fear.",
+            "It means rough to the taste, stringent.",
+            "Probably a proverb for a grasping profiteer."
+        ],
+        "John Gill": [
+            "His fear was not of the right kind, and was ill grounded...",
+            "...Christ is compassionate both to the bodies and souls of men...",
+            "...always giving grace and strength proportionable to the service he calls to, and rewarding his servants in a most bountiful manner, infinitely beyond their deserts."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse is described as austere, which means dry and hard. He is portrayed as a grasping profiteer who takes advantage of others and lives in idleness. This description highlights the sinner's view of God as unjust and demanding more than man can give. However, the excuse given is the same as in another verse, emphasizing the consistency of this mindset. The fear spoken of is not of the right kind and ill grounded. Despite this, Christ is compassionate and rewards his servants in a generous manner beyond what they deserve.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.2430403750111045,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.67,
+            "commentatorTierSimilarities": [
+                22.13,
+                32.75,
+                45.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man in Luke 19:21 is described as austere, meaning dry and hard, like unripe fruit, suggesting he is a grasping profiteer. This portrayal reflects the sinner's view of God as demanding more than humans can give, considering Him unjust. However, this excuse is consistent with an earlier verse. The fear expressed is misguided, but Christ is compassionate, providing grace and reward beyond what His servants deserve.",
+            "wordCount": 67,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2346431632988688,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.4,
+            "commentatorTierSimilarities": [
+                21.32,
+                41.08,
+                37.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man is described as austere, which means dry and hard, like unripe fruit. This portrayal reflects the sinner's view of God as demanding more than humans can give, considering Him unjust. However, this excuse is consistent with an earlier mention. The fear expressed is misguided, but Christ is compassionate, providing grace and reward beyond what His servants deserve.",
+            "wordCount": 60,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.1722272715098168,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.32,
+            "commentatorTierSimilarities": [
+                19.99,
+                39.12,
+                40.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man in question is depicted as austere, a term that conveys dryness and hardness, like unripe fruit. This description suggests that he is a grasping profiteer, taking advantage of others while living in idleness. Such a portrayal showcases the sinner's perception of God as demanding more than humans can provide and therefore unjust. Despite this flawed understanding, Christ displays compassion towards both the physical and spiritual needs of humanity, extending grace and reward in abundance, surpassing their merits.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.1507384060272212,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.61,
+            "commentatorTierSimilarities": [
+                19.94,
+                40.74,
+                39.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man is depicted as austere, which means dry and hard, reflecting his behavior as a grasping profiteer who takes advantage of others. This portrayal sheds light on the sinner's perception of God as unjust and demanding more than humans are capable of giving. However, this excuse aligns with a similar one in another passage, emphasizing the consistency of such thinking. The fear expressed is misguided, yet Christ's compassion extends to both the physical and spiritual well-being of people, generously rewarding them beyond their deserving.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.148708542182665,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.54,
+            "commentatorTierSimilarities": [
+                20.33,
+                39.53,
+                40.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

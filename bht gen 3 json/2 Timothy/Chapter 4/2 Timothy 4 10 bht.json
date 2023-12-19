@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:31:24",
+    "verseRef": "2 Timothy 4:10",
+    "bestBHT": {
+        "bht": "Titus forsaking Paul seems to be motivated by a love of worldly ease and safety, choosing personal comfort over facing danger with Paul. It is important to note that Paul had friends among the Roman Christians who still visited him, even though they were afraid to stand by him during his trial. The mention of Demas in Colossians 4:14 may be related to his behavior of forsaking Paul. Titus had likely gone to Dalmatia to carry out Paul's intentions before being interrupted by his arrest.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.1353896725538215,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+        "commentatorTierSimilarities": [
+            37.63,
+            33.01,
+            29.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His motive for forsaking Paul seems to have been love of worldly ease, safety, and comforts at home, and disinclination to brave danger with Paul.",
+            "Titus seems to have gone [to Dalmatia] to carry out the apostle's intention, the execution of which was interrupted by his arrest.",
+            "Paul here speaks only of his personal attendants having forsaken him he had still friends among the Roman Christians who visited him, though they had been afraid to stand by him at his trial."
+        ],
+        "Albert Barnes": [
+            "Having loved this present world - This does not mean, necessarily, that he was an avaricious man, or that, in itself, he loved the honors or wealth of this world; but it means that he desired to live.\" ",
+            "That he desired to live longer; that he was unwilling to remain and risk the loss of life, is indeed clear. That Paul was pained by his departure, and that he felt lonely and sad, is quite apparent.",
+            "Paul does not mention the reason why Titus had gone there; but it is not improbable that he had gone to preach the gospel, or to visit the churches which Paul had planted in that region."
+        ],
+        "Marvin Vincent": [
+            "That no epithet is attached to his name in Colossians 4:14 may be a shadow of Demas's behavior mentioned here.",
+            "The compounded preposition ejn indicates a condition or circumstances in which one has been left, as the common phrase left in the lurch.",
+            "Contrast love his appearing, verse 8."
+        ],
+        "John Calvin": [
+            "It was truly base in such a man to prefer the love of this world to Christ.",
+            "He merely preferred his private convenience, or his safety, to the life of Paul.",
+            "He censures him so sharply on this occasion, for having cared more about himself than about Christ."
+        ],
+        "Philip Schaff": [
+            "The religion of Christ would have interfered with his worldly prospects.",
+            "Nothing is, or can be, known of him.",
+            "It would seem from St. Paul\u2019s mention of Illyricum in Romans 15:19 as if he had already founded churches on the east coast of the Adriatic."
+        ],
+        "Archibald T. Robertson": [
+            "Forsook me (\u03bc\u03b5 \u03b5\u03b3\u03ba\u03b1\u03c4\u03b5\u03bb\u03b5\u03b9\u03c0\u03b5\u03bd). Imperfect (MSS. also have aorist, \u03b5\u03b3\u03ba\u03b1\u03c4\u03b5\u03bb\u03b9\u03c0\u03b5\u03bd) active of the old double compound verb \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03b9\u03c0\u03c9, for which see Romans 9:29. Clearly in contrast to verse 2 Timothy 4:9 and in the sense of 1 Timothy 6:17, wilful desertion.\" ",
+            "Only mentioned elsewhere in Colossians 4:14.",
+            "Titus had been asked to rejoin Paul in Nicopolis where he was to winter, probably the winter previous to this one (Titus 3:12). He came and has been with Paul."
+        ],
+        "John Gill": [
+            "His faith might be right, though low, and his love sincere, though not fervent; and through a fear of persecution, and loss of life, he might be tempted to leave the apostle, and withdraw from Rome, for his own safety; which though it was far from being commendable in him, yet may be accounted for in this state of frailty and imperfection, consistent with the grace of God."
+        ],
+        "John Wesley": [
+            "Demas \u2014 Once my fellowlabourer... Hath forsaken me.",
+            "Crescens... is gone, with my consent, to Galatia, Titus to Dalmatia, having now left Crete.",
+            "These either went with him to Rome, or visited him there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It seems that Titus had forsaken Paul out of a love for worldly ease, safety, and comforts, choosing to prioritize his own well-being over accompanying Paul in his trials. However, it is worth noting that while Paul mentions the desertion of his personal attendants, he still had friends among the Roman Christians who visited him during his trial. The mention of Demas in this context may signify his behavior being similar to that of Titus. Titus had likely gone to Dalmatia to carry out Paul's intentions before being interrupted by his arrest. The use of the phrase left in the lurch indicates the circumstances in which Titus had been left behind.",
+            "wordCount": 113,
+            "quoteTokenProportion": 43.42,
+            "qualityScore": 2.0000152791750496,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                37.2,
+                33.66,
+                29.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Titus forsaking Paul seems to be motivated by a love of worldly ease and safety, choosing personal comfort over facing danger with Paul. It is important to note that Paul had friends among the Roman Christians who still visited him, even though they were afraid to stand by him during his trial. The mention of Demas in Colossians 4:14 may be related to his behavior of forsaking Paul. Titus had likely gone to Dalmatia to carry out Paul's intentions before being interrupted by his arrest.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.1353896725538215,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                37.63,
+                33.01,
+                29.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Titus appears to have abandoned Paul out of a desire for worldly comfort and safety, rather than facing the challenges alongside him. Although Paul's personal attendants deserted him, he still had supporters among the Roman Christians who visited him during his trial. Demas is mentioned here in relation to his behavior mirroring Titus. Titus had likely gone to Dalmatia to fulfill Paul's plans before being hindered by his arrest. The use of the phrase left in the lurch implies the circumstances in which Titus was left behind.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.9825375010199913,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                37.93,
+                33.09,
+                28.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Titus seems to have deserted Paul due to a preference for worldly ease and safety over enduring hardships with him. Despite this abandonment, Paul still had support from Roman Christians who visited him during his trial. The mention of Demas in Colossians 4:14 may indicate a similarity in behavior. Titus had likely intended to fulfill Paul's plans in Dalmatia before his arrest disrupted their execution. The phrase left in the lurch signifies the circumstances in which Titus was left behind.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8744496820918857,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                38.84,
+                31.65,
+                29.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Titus's decision to forsake Paul appears to stem from a love of comfort and safety in the worldly realm, rather than a willingness to face danger alongside him. While Paul's personal attendants deserted him, there were still Roman Christians who visited him during his trial, though they were hesitant to stand by him. Demas, mentioned elsewhere, shares similarities with Titus's behavior. Likely, Titus went to Dalmatia with the intention to fulfill Paul's plans before his arrest interrupted their execution, leaving Titus behind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.846605850957299,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                36.3,
+                32.42,
+                31.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:27:20",
+    "verseRef": "Acts 7:29",
+    "bestBHT": {
+        "bht": "Then Moses fled to Midian, becoming a temporary dweller there for forty years. He fled because Pharaoh sought to slay him after hearing about his actions. Moses married Zipporah, the daughter of Reuel, a priest of Midian. This act of fleeing to Midian is significant, as it marks a turning point in Moses' life. He had just realized that what he had done was known and that his life was in danger. Thus, he sought refuge in Midian, where he sojourned for many years with Jethro, the priest of the land.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 1.833763655850358,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+        "commentatorTierSimilarities": [
+            23.84,
+            41.29,
+            34.87
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Winer supposes this Madian to have been a nomad detachment of the more settled Midianites.",
+            "For Jethro, Moses' father-in-law, is not found there in Exod. xviii. 1 ff., but comes to visit Moses from a distance.",
+            "See also Num. x. 29 ff. two sons."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "29. Then fled Moses, &amp;c.\u2014for",
+            "\t\"when Pharaoh heard this thing, he sought to slay Moses",
+            "\t(Exodus 2:15)."
+        ],
+        "Albert Barnes": [
+            "Moses fled because he now ascertained that what he had done was known.",
+            "He now thought that the knowledge of it might reach Pharaoh, and that his life might thus be endangered.",
+            "He married Zipporah, the daughter of 'Reuel', a 'priest' of Midian."
+        ],
+        "Archibald T. Robertson": [
+            "Sojourner (\u03c0\u03b1\u03c1\u03bf\u03b9\u03ba\u03bf\u03c2). Temporary dweller (cf. Abraham in verse Acts 7:6) in Midian though for forty years. "
+        ],
+        "John Gill": [
+            "For hereby the thing was known to Pharaoh, being presently carried to court, who sought to kill him for it...",
+            "The truth of the matter is, as Stephen relates, he fled directly, as soon as he heard the above words, for he knew his life was in the utmost danger...",
+            "Here he sojourned many years with Jethro the priest of that place..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Then Moses fled to Midian, becoming a temporary dweller there for forty years. He fled because Pharaoh sought to slay him after hearing about his actions. Moses married Zipporah, the daughter of Reuel, a priest of Midian. This act of fleeing to Midian is significant, as it marks a turning point in Moses' life. He had just realized that what he had done was known and that his life was in danger. Thus, he sought refuge in Midian, where he sojourned for many years with Jethro, the priest of the land.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 1.833763655850358,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                23.84,
+                41.29,
+                34.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Then Moses fled to Midian, becoming a temporary dweller there for forty years. He fled because Pharaoh sought to slay him after hearing about his actions. Moses married Zipporah, the daughter of Reuel, a priest of Midian. This act of fleeing to Midian is significant, as it marks a turning point in Moses' life. He had just realized that what he had done was known and that his life was in danger. Thus, he sought refuge in Midian, where he sojourned with Jethro, the priest of the land.",
+            "wordCount": 88,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8230835849445843,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                24.01,
+                41.43,
+                34.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses fled to Midian as a temporary dweller for forty years, escaping Pharaoh's pursuit. This flight was prompted by the realization that his actions were known, putting his life at risk. In Midian, Moses married Zipporah, the daughter of Reuel, a priest of the region. This decision to seek refuge in Midian with Jethro, the priest, marked a significant turning point in Moses' life, allowing him to find safety and shelter during this tumultuous time.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7578630834364943,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                25.59,
+                40.75,
+                33.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses became a temporary dweller in Midian for forty years, fleeing from Pharaoh's wrath upon learning that his actions were known. In Midian, Moses married Zipporah, the daughter of Reuel, a priest. Seeking refuge in Midian was a critical decision for Moses, as it marked a turning point in his life, providing him with safety and protection from the peril he faced. Sojourned with Jethro, the priest of the land, Moses found solace during this challenging period.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.8898638689530434,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.18,
+            "commentatorTierSimilarities": [
+                29.55,
+                39.12,
+                31.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses fled to Midian as a \u03c0\u03b1\u03c1\u03bf\u03b9\u03ba\u03bf\u03c2, a temporary dweller, for forty years. This flight was prompted by Pharaoh seeking to slay him upon learning about his actions. In Midian, Moses married Zipporah, the daughter of Reuel, a priest. Seeking refuge in Midian with Jethro, the priest, was a significant turning point in Moses' life. It provided him safety from the jeopardy he faced, allowing him to find solace during this challenging period.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8099150320113673,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                27.71,
+                38.87,
+                33.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

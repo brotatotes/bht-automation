@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:26:12",
+    "verseRef": "Acts 4:11",
+    "bestBHT": {
+        "bht": "The rejection of Jesus by the experts and architects, as Jesus himself pointed out, is highlighted in Acts 4:11. The Jews, who were entrusted with the charge of the house of God, rejected Him and cast Him aside. However, God exalts the stone that was set at naught by the builders, making it the cornerstone of the spiritual temple. This rejection by the rulers of the Jews only serves to underscore Jesus' divine exaltation and emphasize His role as the foundation on which the entire spiritual edifice rests.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.961966167637357,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+        "commentatorTierSimilarities": [
+            29.87,
+            38.69,
+            31.44
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] See Matt. xxi. 42, note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This is the stone which was set at naught of you builders, &amp;c.\" ",
+            "This application of [Isaiah 28:16], already made by our Lord Himself before some of the same 'builders' (Matthew 21:42), is here repeated with peculiar propriety after the deed of rejection had been consummated.",
+            "The rejected One had, by His exaltation to the right hand of the Majesty on high, become 'the head of the corner.'\" "
+        ],
+        "Albert Barnes": [
+            "What people despise and set at naught, he esteems of inestimable value in his kingdom.",
+            "What the great and the mighty contemn, he regards as the very foundation and cornerstone of the edifice which he designs to rear.",
+            "Nothing has been more remarkable than this in the history of man; and in nothing is more contempt thrown on the proud projects of people, than that what they have rejected God has made the very basis of his schemes."
+        ],
+        "John Calvin": [
+            "Therefore, this is David\u2019s comfort, that howsoever the captains have rejected him, so that they would not grant him even the basest place, yet did not their wicked and ungodly endeavors hinder him from being extolled by God unto the highest degree of honor.\" (Commentary on Acts 4:11)",
+            "Forasmuch as they are called master-builders who have government of the Church, the name itself putteth them in mind of their duty. Therefore, let them give themselves wholly to the building of the temple of God.\" (Commentary on Acts 4:11)",
+            "We must let [seek] from hence a rule of speech when we have to deal with the open enemies of the truth. For we must beware of two faults on this behalf, that we seem not to flatter by keeping silence or winking; for that were treacherous silence, whereby the truth should be betrayed. Again, that we be not puffed up with wantonness, or immoderate heat as men\u2019s minds do oftentimes break out more than they ought in contention.\" (Commentary on Acts 4:11)"
+        ],
+        "Philip Schaff": [
+            "The rulers of the Jews were the builders to whom the charge of the house of God was given. They should have been the first to acknowledge the long-looked-for Messiah.",
+            "They had rejected Him and cast Him aside.",
+            "God, by raising Him from the dead, had shown that He was the corner-stone on which the whole fabric of the spiritual temple of God on earth must rest."
+        ],
+        "Archibald T. Robertson": [
+            "The experts, the architects, had rejected Jesus for their building (Psalms 118:22) as Jesus himself had pointed out (Matthew 21:42; Luke 21:17).",
+            "This very Rejected Stone God had made the head of the corner (either the highest corner stone right under the roof or the corner stone under the building, Isaiah 28:16).",
+            "as Jesus showed, as Peter here declares and repeats later (1 Peter 2:6)."
+        ],
+        "John Gill": [
+            "This Jesus of Nazareth...is that stone spoken of in Psalms 118:22 by whom is meant the true Messiah, comparable to a stone, for his strength and duration, and usefulness, as a foundation and corner stone, in the spiritual building of the church.",
+            "But though Christ was rejected by them... he was raised from the dead, and exalted at the right hand of God; and is the stone, which is become the head of the corner.",
+            "He is the chief corner stone, that adorns, strengthens, knits, and keeps together, the whole building; in which Jews and Gentiles, saints in all ages and places, even all the elect of God, are united together."
+        ],
+        "John Wesley": [
+            "Psalm 118:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rejection of Jesus by the experts and architects, as pointed out by Jesus himself, is a recurring theme throughout the scriptures. In Acts 4:11, Peter highlights the significance of this rejection by quoting Psalm 118:22, referring to Jesus as the stone which was set at naught by the builders. However, what the builders deemed unworthy and rejected, God has elevated as the cornerstone. This rejection by the rulers of the Jews only serves to emphasize the divine exaltation of Jesus, who is now the foundation and cornerstone of the spiritual temple. Despite being despised and cast aside, Jesus becomes the very basis upon which God's kingdom is built.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.9859734124360993,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                29.82,
+                36.79,
+                33.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rejection of Jesus by the experts and architects, as pointed out by Jesus himself, is a recurring theme in the scriptures. In Acts 4:11, Peter quotes Psalm 118:22 to highlight the significance of this rejection. However, what the builders deemed unworthy and rejected, God has elevated as the cornerstone. This rejection only emphasizes the divine exaltation of Jesus, who becomes the very basis upon which God's kingdom is built.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8543820173479744,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                30.21,
+                35.3,
+                34.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rejection of Jesus by the architects and experts is echoed in Acts 4:11, where Peter quotes Psalm 118:22, emphasizing the significance of this rejection. However, God exalts the stone that the builders rejected, making it the cornerstone. This rejection by the rulers of the Jews underscores Jesus' divine elevation. Despite being despised and cast aside, Jesus becomes the foundation upon which God's spiritual temple is built, uniting all believers together.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8875524927819598,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                29.56,
+                35.89,
+                34.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rejection of Jesus by the experts and architects, as Jesus himself pointed out, is highlighted in Acts 4:11 with a quote from Psalm 118:22. This rejection, however, leads to Jesus becoming the cornerstone that God exalts. The rulers of the Jews should have recognized the long-awaited Messiah, but they rejected Him and cast Him aside. Nevertheless, by raising Jesus from the dead, God affirms that He is the foundation on which the spiritual temple of God must rest.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.862499890747494,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.27,
+            "commentatorTierSimilarities": [
+                28.99,
+                37.0,
+                34.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rejection of Jesus by the experts and architects, as Jesus himself pointed out, is highlighted in Acts 4:11. The Jews, who were entrusted with the charge of the house of God, rejected Him and cast Him aside. However, God exalts the stone that was set at naught by the builders, making it the cornerstone of the spiritual temple. This rejection by the rulers of the Jews only serves to underscore Jesus' divine exaltation and emphasize His role as the foundation on which the entire spiritual edifice rests.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.961966167637357,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                29.87,
+                38.69,
+                31.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

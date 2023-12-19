@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:34:22",
+    "verseRef": "Acts 20:29",
+    "bestBHT": {
+        "bht": "False teachers, like grievous wolves, were predicted to infiltrate and corrupt the Church. They would not spare the flock and were driven by their own selfish gains. These wolves would come from within and without, some seeking to pervert the truth and draw followers after them, while others would be violent and rapacious. The duty of pastors, then and now, is to be watchful against anything that could harm and corrupt the Church. It is a constant battle to protect the flock from these crafty and cunning false teachers.",
+        "wordCount": 89,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 2.0414189000394183,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+        "commentatorTierSimilarities": [
+            27.03,
+            30.09,
+            42.88
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not persecutors, but false teachers, from the words 'enter in among you,' by which it appears that they were to come in among the flock, i.e. to be baptized Christians.",
+            "In fact ver. 30 is explanatory of the metaphoric meaning of ver. 29."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Two classes of coming enemies are here announced, the one more external to themselves, the other bred in the bosom of their own community.",
+            "Both were to be teachers, but the one, 'grievous wolves,' not sparing, that is, making a prey of the flock; the other simply sectarian 'perverters' of the truth, with the view of drawing a party after them.",
+            "But watchfulness against all that tends to injure and corrupt the Church is the duty of its pastors in every age."
+        ],
+        "Albert Barnes": [
+            "They would be exposed to dissensions and dangers.",
+            "The term 'wolves' is used to denote 'the enemies of the flock - false, and hypocritical, and dangerous teachers.'",
+            "Probably they would approach them with great professed friendship for them, and expressing a desire only to defend the laws of Moses."
+        ],
+        "Marvin Vincent": [
+            "Grievous [\u03b2\u03b1\u03c1\u03b5\u03b9\u03c2] . Lit., heavy : violent, rapacious."
+        ],
+        "John Calvin": [
+            "There is no time to sleep.",
+            "The more and the more hurtful those be who break in, the more watchful must the pastors be.",
+            "So often as faithful pastors go away, let us learn that we must beware of wolves, whom they can hardly drive from the sheep-cots, though they watch most narrowly."
+        ],
+        "Philip Schaff": [
+            "Primum venit Paulus; deinde venient lupi\" (Bengel).",
+            "Two distinct classes of teachers who should arise after his departure are alluded to by Paul - the 'grievous wolves'... and the 'speakers of perverse things' who would arise from within.",
+            "He seems to press home to them what he foresaw would surely come to pass, that after he had gone, other teachers of an entirely different character would come among them."
+        ],
+        "Archibald T. Robertson": [
+            "Grievous wolves (\u03bb\u03c5\u03ba\u03bf \u03b2\u03b1\u03c1\u03b5\u03b9\u03c2). \u0392\u03b1\u03c1\u03b5\u03b9\u03c2 is heavy, rapacious, harsh.",
+            "But it will not be many years before Epaphras will come to Rome from Colossae with news of the new peril there (Epistle to the Colossians).",
+            "Sparing the flock was not the fashion of wolves. Jesus sent the seventy as lambs in the midst of wolves (Luke 10:3)."
+        ],
+        "John Gill": [
+            "False teachers, comparable to wolves, for their craft and cunning, and for their greedy, covetous, and voracious dispositions.\" ",
+            "These, he knew, would enter privily, at an unawares, into their churches, and set up themselves for preachers, without being called or sent.\" ",
+            "Making merchandise of it, and like the Pharisees, under religious pretences, devour widows' houses, and drain the purses of men; and having as little compassion upon their souls."
+        ],
+        "John Wesley": [
+            "Grievous wolves \u2014 From without, namely, false apostles. They had, not yet broke in on the Church at Ephesus."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "False teachers, like grievous wolves, were predicted to infiltrate and corrupt the Church. They would not spare the flock and were driven by their own selfish gains. These wolves would come from within and without, some seeking to pervert the truth and draw followers after them, while others would be violent and rapacious. The duty of pastors, then and now, is to be watchful against anything that could harm and corrupt the Church. It is a constant battle to protect the flock from these crafty and cunning false teachers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.0414189000394183,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                27.03,
+                30.09,
+                42.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "False teachers, described as grievous wolves, were to enter among the baptized Christians and prey on the flock. Some would be violent and rapacious, while others would pervert the truth and draw a party after them. This alert serves as a reminder to pastors of the duty to remain watchful against all that can harm and corrupt the Church. The arrival of these dangerous teachers, both from within and without, necessitates constant vigilance in protecting the flock from their crafty and cunning ways.",
+            "wordCount": 83,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9224620149941716,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.26,
+            "commentatorTierSimilarities": [
+                29.0,
+                29.68,
+                41.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "False teachers, likened to grievous wolves, were foretold to infiltrate the Christian community, seeking to draw followers and pervert the truth. This warning emphasizes the vital duty of pastors to remain watchful against any threats that could harm or corrupt the Church. These wolves, characterized as violent and rapacious, would manifest both from outside and within the flock. Therefore, it is imperative for pastors of every age to be vigilant and protect the flock from the crafty and cunning ways of these harmful teachers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9796233027042995,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                29.07,
+                29.11,
+                41.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "False teachers, depicted as grievous wolves, would come among the baptized Christians to exploit and pervert the truth, while others would be cunning and rapacious. The duty of pastors is to be watchful against any corruption or harm to the Church. Constant vigilance is required to protect the flock from these crafty and dangerous teachers, both external and internal, who seek to draw followers after them. This warning serves as a reminder to stay alert and steadfast in defending the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.86553137180791,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                27.99,
+                28.74,
+                43.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "False teachers, compared to grievous wolves, were predicted to enter among the baptized Christians, seeking to draw followers and pervert the truth. Pastors have a duty to be vigilant against anything that can harm or corrupt the Church. These wolves, described as violent and rapacious, would arise both from within and outside the community. It is crucial for pastors to remain watchful and protect the flock from the cunning and crafty ways of these harmful teachers.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.988338391829462,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                28.65,
+                28.5,
+                42.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:13:49",
+    "verseRef": "Luke 2:6",
+    "bestBHT": {
+        "bht": "Mary's arrival in Bethlehem was not mere chance, but a fulfillment of prophecy. Though she had been living in the wrong place, her journey to the right place at the perfect time ensured the fulfillment of God's divine plan. God's providence guided her steps, even when she was unaware. The time for her baby's birth had come, and God's careful arrangement allowed everything to fall into place. Her search for shelter in Bethlehem, and the cave where she sought refuge, played a part in God's providential plan.",
+        "wordCount": 93,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.4385770748691633,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.18,
+        "commentatorTierSimilarities": [
+            24.63,
+            34.85,
+            40.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Mary had up to this time been living at the wrong place for Messiah's birth. A little longer stay at Nazareth, and the prophecy would have failed.",
+            "But lo! with no intention certainly on her part, much less of C\u00e6sar Augustus, to fulfil the prophecy, she is brought from Nazareth to Bethlehem, and at that nick of time her period arrives, and her Babe is born.",
+            "Every creature walks blindfold; only He that dwells in light knows whether they go."
+        ],
+        "Philip Schaff": [
+            "Apocryphal legends tell how she was overtaken on the way, and sought refuge in a cave.\" ",
+            "They seem to have arrived in Bethlehem, and sought shelter in vain, before the time spoken of here.\" ",
+            "Delivered, or, 'bring forth,' as the same word is translated in Luke 2:7."
+        ],
+        "Archibald T. Robertson": [
+            "For the bearing the child as to her.\" ",
+            "A neat use of the articular infinitive, second aorist active, with the accusative of general reference.",
+            "From \u03c4\u03b9\u03ba\u03c4\u03c9, common verb."
+        ],
+        "John Gill": [
+            "Her reckoning was up, the nine months of her going with child were ended."
+        ],
+        "John Wesley": [
+            "Mary seems not to have known that the child must have been born in Bethlehem, agreeably to the prophecy.",
+            "But the providence of God took care for it.",
+            "The providence of God took care for it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary, unknowingly fulfilling prophecy, was brought from Nazareth to Bethlehem just in time for the birth of her baby. This move from the wrong place to the right place ensured that the prophecy would not fail. Every creature walks blindly, but God, dwelling in light, knows exactly where they need to go. With her time of delivery approaching, it is no coincidence that Mary found herself in Bethlehem. God's providence ensured that everything was arranged precisely as it should be. Her arrival in Bethlehem, seeking shelter in vain, and even the cave where some legends say she sought refuge, all played a part in the fulfillment of God's plan. Mary's nine months of pregnancy were now complete, and God's providence took care of every detail.",
+            "wordCount": 129,
+            "quoteTokenProportion": 44.32,
+            "qualityScore": 1.385420419791102,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.41,
+            "commentatorTierSimilarities": [
+                26.02,
+                34.5,
+                39.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary's arrival in Bethlehem was not mere chance, but a fulfillment of prophecy. Though she had been living in the wrong place, her journey to the right place at the perfect time ensured the fulfillment of God's divine plan. God's providence guided her steps, even when she was unaware. The time for her baby's birth had come, and God's careful arrangement allowed everything to fall into place. Her search for shelter in Bethlehem, and the cave where she sought refuge, played a part in God's providential plan.",
+            "wordCount": 93,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.4385770748691633,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.18,
+            "commentatorTierSimilarities": [
+                24.63,
+                34.85,
+                40.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary's journey from Nazareth to Bethlehem was not a coincidence, but a fulfillment of prophecy. Despite her unawareness, God's providence guided her to the right place at the right time, ensuring that the prophecy would not fail. Even though every creature walks blindly, God, dwelling in light, knows where they need to go. Mary's arrival in Bethlehem, seeking shelter in vain, and the legends of her seeking refuge in a cave, all played a part in God's meticulous plan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.4331604248743544,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.0,
+            "commentatorTierSimilarities": [
+                29.83,
+                40.56,
+                29.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary's unexpected journey from Nazareth to Bethlehem in the nick of time fulfilled prophecy. God's providence orchestrated the precise timing, ensuring the prophecy wouldn't fail. While every creature walks blindly, God alone knows their path. Mary, unaware of the significance, arrived in Bethlehem seeking shelter but finding none, perhaps even seeking refuge in a cave. God's careful planning and Mary's completed nine months of pregnancy merged together through His providential care.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.3454547936205365,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.08,
+            "commentatorTierSimilarities": [
+                28.87,
+                34.64,
+                36.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary's journey from Nazareth to Bethlehem at precisely the right time was not by chance, but rather a fulfillment of prophecy. Despite her unawareness, God's providence orchestrated the sequence of events, guiding her steps. Even though every creature is blind to their path, God, dwelling in light, knows exactly where they must go. On arriving in Bethlehem and struggling to find shelter, Mary's journey took an unexpected turn, leading to the birth of her child as her nine months of pregnancy came to a close, all under the providence of God.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.3627490357057082,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.65,
+            "commentatorTierSimilarities": [
+                29.88,
+                32.49,
+                37.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

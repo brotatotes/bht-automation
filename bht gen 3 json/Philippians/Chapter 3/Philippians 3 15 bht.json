@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:56:21",
+    "verseRef": "Philippians 3:15",
+    "bestBHT": {
+        "bht": "As mature Christians, let us be of one mind in our pursuit of the prize and our desire to become entirely perfect. Although we may have differences in our thinking, let us not be distracted but rather remain focused on our goal. We must humbly acknowledge that we have not yet attained absolute perfection and continue to press forward towards the mark. Let us keep our eyes fixed on Christ, like a runner focused on the prize, and not be deterred by the opinions or circumstances around us.",
+        "wordCount": 88,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.7997130359307016,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+        "commentatorTierSimilarities": [
+            29.98,
+            41.5,
+            28.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As many of us then (refers to ver. 3: see above) as are perfect (mature in Christian life\u2014those described above, ver. 3), let us be of this mind.",
+            "And if in any thing ye be differently minded (it gives the meaning of diversity in a bad sense.",
+            "Even this must not be taken as representing the fact, that ye are otherwise minded, but is the thing, respecting which ye are otherwise minded."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Though 'perfect' in this sense, he was not yet 'made perfect' (Greek) in the sense intended in Philippians 3:3- :, namely, 'crowned with complete victory,' and having attained absolute perfection.",
+            "'He who thinks that he has attained everything, hath nothing' [CHRYSOSTOM].",
+            "Paul taught externally God 'reveals' the truth internally by His Spirit (Matthew 11:25; Matthew 16:17; 1 Corinthians 3:6)."
+        ],
+        "Albert Barnes": [
+            "Be united in the effort to obtain the prize, and to become entirely perfect.",
+            "Let them put forth the same effort which I do, forgetting what is behind, and pressing forward to the mark.",
+            "God will correct your erroneous opinions, and disclose to you the importance of making this effort for the prize."
+        ],
+        "Marvin Vincent": [
+            "He that runs looks not at the spectators, but at the prize. Whether they be rich or poor, if one mock them, applaud them, insult them, throw stones at them - if one plunder their house, if they see children or wife or anything whatsoever - the runner is not turned aside, but is concerned only with his running and winning the prize.",
+            "He that runneth stoppeth nowhere; since, if he be a little remiss, all is lost. He that runneth relaxeth in no respect before the end, but then, most of all, stretcheth over the course.",
+            "The prize is bound up with the calling; promised when the call is issued, and given when the call is fulfilled."
+        ],
+        "John Calvin": [
+            "Undoubtedly, everything taught in the Papacy...is nauseous dung.",
+            "He encourages them not to draw back...and teaches that others...will have a revelation.",
+            "Let us...bear for a time with ignorance in our weak brethren and forgive them."
+        ],
+        "Philip Schaff": [
+            "The Christian is to set before himself the highest ideal, and to be ever striving after it.",
+            "To those who are so striving, wherever they may be in the scale of spiritual advancement, St. Paul gives the name of \u2018perfect.\u2019",
+            "If any man will do His will, he shall know of the doctrine."
+        ],
+        "Archibald T. Robertson": [
+            "Paul here includes himself in the group of spiritual adults.",
+            "Let us keep on thinking this, viz. that we have not yet attained absolute perfection.",
+            "He turns such cases over to God. What else can he do with them?"
+        ],
+        "John Gill": [
+            "Be willing to suffer the loss of all things, to win him.",
+            "To desire to be found in him, and in his righteousness, and not a man's own.",
+            "And press towards the mark, Christ, for the prize of eternal glory."
+        ],
+        "John Wesley": [
+            "Let us, as many as are perfect \u2014 Fit for the race, strong in faith; so it means here.",
+            "Be thus minded \u2014 Apply wholly to this one thing.",
+            "And if in anything ye \u2014 Who are not perfect, who are weak in faith. Be otherwise minded \u2014 Pursuing other things. God, if ye desire it, shall reveal even this unto you - Will convince you of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As mature Christians, let us strive to be of one mind, united in our efforts to obtain the prize and become entirely perfect. If we have any differences in our thinking, let us remember that it refers to diversity in a negative sense and must not distract us from our goal. Although we may consider ourselves perfect in some sense, we should humbly acknowledge that we have not yet attained absolute perfection, but rather continue to press forward towards the mark. Just as a runner remains focused on the prize, let us not be deterred by the opinions or circumstances around us, but instead keep our eyes fixed on Christ and the eternal glory awaiting us.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.9147843390740062,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                30.75,
+                41.73,
+                27.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As mature Christians, let us be of one mind in our pursuit of the prize and our desire to become entirely perfect. Although we may have differences in our thinking, let us not be distracted but rather remain focused on our goal. We must humbly acknowledge that we have not yet attained absolute perfection and continue to press forward towards the mark. Let us keep our eyes fixed on Christ, like a runner focused on the prize, and not be deterred by the opinions or circumstances around us.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.7997130359307016,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                29.98,
+                41.5,
+                28.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As mature Christians, we should be of one mind, united in our pursuit of the prize and the desire to become entirely perfect. We must not be distracted by differences in thinking, but instead remain focused on our goal. It is important to acknowledge that we have not yet attained absolute perfection and continue pressing forward towards the mark. Let us fix our eyes on Christ, like a runner focused on the prize, without allowing opinions or circumstances to deter us.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.755138271952819,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.7,
+            "commentatorTierSimilarities": [
+                27.06,
+                44.15,
+                28.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As mature Christians, let us be of one mind in the pursuit of the prize and the goal of becoming entirely perfect. While there may be differences in our thinking, we must not be distracted but remain focused on our objective. We should humbly acknowledge that we have not yet attained absolute perfection and continue to press forward towards the mark. We must keep our eyes fixed on Christ, refusing to be swayed by the opinions or circumstances around us.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.7254278774113168,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.71,
+            "commentatorTierSimilarities": [
+                30.49,
+                41.11,
+                28.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As mature Christians, let us strive to be of one mind, united in our efforts to obtain the prize and become entirely perfect. If we have any differences in our thinking, let us remember that it refers to diversity in a negative sense and must not distract us from our goal. Although we may consider ourselves perfect in some sense, we should humbly acknowledge that we have not yet attained absolute perfection, but rather continue to press forward towards the mark. Just as a runner remains focused on the prize, let us not be deterred by the opinions or circumstances around us, but instead keep our eyes fixed on Christ and the eternal glory awaiting us.",
+            "wordCount": 116,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.9147843390740062,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.01,
+            "commentatorTierSimilarities": [
+                30.75,
+                41.73,
+                27.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:22:46",
+    "verseRef": "Luke 21:28",
+    "bestBHT": {
+        "bht": "When Christ speaks of redemption, He is not only referring to the destruction of Jerusalem but to a wider and more precious import. Similar to the alarming signs before Jerusalem's destruction, it is likely that there will be analogous signs before His personal appearing, although the nature of these signs is uncertain. Thus, we are encouraged to look up, both in soul and body, with hopeful anticipation. This hopeful expectation will bring us comfort during the period leading up to His coming. May we lift up our heads with joy and anticipation, as our redemption draws near.",
+        "wordCount": 98,
+        "quoteTokenProportion": 48.57,
+        "qualityScore": 1.5096017468087424,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.54,
+        "commentatorTierSimilarities": [
+            26.53,
+            34.85,
+            38.62
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "28.] your redemption, i.e. the completion of it by My appearing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "redemption\u2014from the oppression of ecclesiastical despotism and legal bondage by the total subversion of the Jewish state and the firm establishment of the evangelical kingdom.\" ",
+            "[The words] are of far wider and more precious import.",
+            "But as before Christ came to destroy Jerusalem, some appalling portents were seen in the air, so before His personal appearing it is likely that something analogous will be witnessed, though of what nature it is vain to conjecture."
+        ],
+        "Marvin Vincent": [
+            "Look up. See on ch. Luke 13:11. Graphic, as implying being previously bowed down with sorrow. ",
+            "Redemption [\u03b1\u03c0\u03bf\u03bb\u03c5\u03c4\u03c1\u03c9\u03c3\u03b9\u03c2] . See on lettest depart, ch. 2 29."
+        ],
+        "John Calvin": [
+            "For it was necessary to contrast the joy of the godly with the general sorrow and distress of the world, and to point out the difference between them and the reprobate, that they might not view with horror the coming of Christ.",
+            "Christ therefore shows that, at his coming, the light of joy will arise on his disciples, that they may rejoice in the approaching salvation, while the wicked are overwhelmed with terror.",
+            "Let our ears therefore be awake to the sound of the angel\u2019s trumpet, which will then sound, not only to strike the reprobate with the dread of death, but to arouse the elect to a second life; that is, to call to the enjoyment of life those whom the Lord now quickens by the voice of his Gospel; for it is a sign of infidelity, to be afraid when the Son of God comes in person for our salvation."
+        ],
+        "Philip Schaff": [
+            "When these things... would be instantaneous.",
+            "The idea of joyful hope is of course implied.",
+            "This is to be our comfort also during the intervening period."
+        ],
+        "Archibald T. Robertson": [
+            "Look up (\u03b1\u03bd\u03b1\u03ba\u03c5\u03c8\u03b1\u03c4\u03b5).",
+            "Here of the soul as in John 8:7; John 8:10, but in Luke 13:11 of the body.",
+            "Redemption (\u03b1\u03c0\u03bf\u03bb\u03c5\u03c4\u03c1\u03c9\u03c3\u03b9\u03c2). The final act at the second coming of Christ, a glorious hope."
+        ],
+        "John Gill": [
+            "then look up and lift up your heads; be cheerful and pleasant; do not hang down your heads as bulrushes, but erect them, and put on a cheerful countenance, and look upwards, from whence your help comes.\" ",
+            "look out wistfully and intently, for your salvation and deliverance.",
+            "for your redemption draweth nigh...for he draws nigh who shall save you."
+        ],
+        "John Wesley": [
+            "Look up with firm faith, and lift up your heads with joy: for your redemption out of many troubles draweth nigh...",
+            "...by God's destroying your implacable enemies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Christ speaks of redemption in Luke 21:28, He is not only referring to the destruction of Jerusalem and the establishment of the evangelical kingdom, but also to a wider and more precious import. Just as there were alarming signs before the destruction of Jerusalem, there may be similar signs before Christ's personal appearing. Therefore, we are urged to look up, with our souls and bodies, in anticipation of our final redemption at His second coming. This hope brings us comfort during the intervening period, as the joy of the godly contrasts with the sorrow and distress of the world. So let us lift up our heads with joy and anticipation, for our redemption draws near, and it will be brought about by God's destruction of our implacable enemies.",
+            "wordCount": 130,
+            "quoteTokenProportion": 44.71,
+            "qualityScore": 1.51225736777441,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                29.15,
+                19.83,
+                51.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Christ speaks of redemption in this passage, He is not only referring to the destruction of Jerusalem, but to something far greater and more precious. Just as there were ominous signs before the city's destruction, it is likely that there will be similar signs before His personal appearing. Therefore, we are urged to look up with hope, both in our souls and in our physical bodies. This joyful expectation will bring us comfort during the period leading up to His coming. So let us lift up our heads with joy and anticipation, for our redemption draws near, and it will be brought about by God's destruction of our unyielding adversaries.",
+            "wordCount": 113,
+            "quoteTokenProportion": 46.84,
+            "qualityScore": 1.427998094740013,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.82,
+            "commentatorTierSimilarities": [
+                22.65,
+                30.67,
+                46.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Christ speaks of redemption, He is not only referring to the destruction of Jerusalem but to something far greater and more precious. Just as there were alarming signs before the city's destruction, it is likely that similar signs will precede His personal appearing. Therefore, we are urged to look up with hope, both in our souls and in our physical bodies. This joyful expectation will bring us comfort during the period leading up to His coming. Let us lift up our heads with joy and anticipation, for our redemption draws near, brought about by God's defeat of our unyielding adversaries.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.4049278723578973,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.06,
+            "commentatorTierSimilarities": [
+                23.91,
+                28.8,
+                47.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Christ speaks of redemption, He is not only referring to the destruction of Jerusalem but to a wider and more precious import. Similar to the alarming signs before Jerusalem's destruction, it is likely that there will be analogous signs before His personal appearing, although the nature of these signs is uncertain. Thus, we are encouraged to look up, both in soul and body, with hopeful anticipation. This hopeful expectation will bring us comfort during the period leading up to His coming. May we lift up our heads with joy and anticipation, as our redemption draws near.",
+            "wordCount": 98,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.5096017468087424,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.54,
+            "commentatorTierSimilarities": [
+                26.53,
+                34.85,
+                38.62
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The concept of redemption in this verse encompasses more than just the destruction of Jerusalem; it holds a wider and more precious meaning. Just as there were alarming signs before the city's downfall, it is likely that comparable signs will precede Christ's personal appearing. Therefore, we are urged to look up, both in soul and body, with hopeful anticipation. This joyful expectation brings comfort during the waiting period. Let us lift our heads with joy, for our redemption draws near, accomplished by God's defeat of our relentless adversaries.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.44596792452264,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.42,
+            "commentatorTierSimilarities": [
+                26.28,
+                30.3,
+                43.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

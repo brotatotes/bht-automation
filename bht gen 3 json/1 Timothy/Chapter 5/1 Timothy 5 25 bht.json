@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:29:19",
+    "verseRef": "1 Timothy 5:25",
+    "bestBHT": {
+        "bht": "Just as some sins are openly manifest, so too are the good works that cannot be hidden. While a person's good character may sometimes be evident from the start, we should not rush to judgment or condemnation when it is not immediately apparent. Through careful examination and inquiry, the hidden good deeds will be brought to light and known. This reminds us to be patient and not overlook or underestimate the unseen good works of others, as they will eventually be revealed.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 2.065480029786224,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+        "commentatorTierSimilarities": [
+            33.82,
+            38.68,
+            27.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "So also (in like manner on the other side of men\u2019s conduct) the good works (of some) are openly manifest; and those [works] which are otherwise situated (which are not openly manifest) cannot be hidden (will come out, just as the sins in ver. 24, on examination.",
+            "Sometimes thou wilt find a man\u2019s good character go before him, and at once approve him to thee: but where this is not so, do not therefore be rash to condemn\u2014thou mayest on examination soon discover, if there really be any good deeds accompanying him.",
+            "For they are things which cannot be hidden\u2014the good tree, like the bad, will be known by his fruits, and that speedily, on enquiry."
+        ],
+        "Albert Barnes": [
+            "There can be no doubt, from their works, that they are good people. We need not wait for the day of judgment to determine that.",
+            "The character of many wicked people is now clearly known. No one has any doubt of it. Their deeds have gone before them, and are recorded in the books that will be open at the judgment.",
+            "There will be amazing developments in the last great day; and as it will then be seen in the revelations of the secret deeds of evil that human nature is corrupt, so it will be seen that there was much more good in the world than was commonly supposed."
+        ],
+        "Marvin Vincent": [
+            "Otherwise [\u03b1\u03bb\u03bb\u03c9\u03c2] . N. T. o. Not. otherwise than good, but otherwise than manifest. ",
+            "Be hid [\u03ba\u03c1\u03c5\u03b2\u03b7\u03bd\u03b1\u03b9] . In Paul only Colossians 3:3. The good works, although not conspicuous [\u03c0\u03c1\u03bf\u03b4\u03b7\u03bb "
+        ],
+        "John Calvin": [
+            "Sometimes piety and other virtues obtain early and speedily their applause among men.\" ",
+            "The Lord will not suffer innocence and uprightness to be always oppressed.\" ",
+            "God will cause [virtues] to shine forth like the dawn of the day."
+        ],
+        "Philip Schaff": [
+            "In some cases a man\u2019s good deeds are clear and patent, in others meliora latent. \u2018Better than the seen lies hid,\u2019 but that, too, cannot be hid for long.",
+            "Enquiry will bring it to the light of day in spite even of the wish or humility of the doer.",
+            "If we inquire carefully, and have the gift of insight, we shall find out before long what men are and what they have been doing."
+        ],
+        "Archibald T. Robertson": [
+            "Those (deeds, \u03b5\u03c1\u03b3\u03b1) which have it otherwise.\" That is good deeds not clearly manifest.",
+            "There is comfort here for modest preachers and other believers whose good deeds are not known and not blazoned forth.",
+            "They will come out in the end."
+        ],
+        "John Gill": [
+            "The characters of some men, on the other hand, are so fair and bright; and it is so clear a point, that they have received the grace of God in truth...\" ",
+            "if they are men of bad principles or practices, they will be discovered in time; for there is nothing hid that shall not be revealed; time will make all things manifest...",
+            "therefore, it is right to wait a while, and not to be quick in the reception of them into the Gospel ministry; for otherwise, much mischief may be done to the souls of men, and much dishonour brought on the ways and doctrines of Christ."
+        ],
+        "John Wesley": [
+            "They that are otherwise \u2014 Not so manifest.",
+            "Cannot be long hid \u2014 From thy knowledge. On this account, also, be not hasty in laying on of hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that just as the sins of some people are openly manifest, so too are the good works of others. While we may quickly discern a person's good character based on their deeds, it is important not to rush to judgment in cases where it may not be immediately evident. We should take the time to examine and inquire, for the hidden good deeds of individuals cannot remain concealed for long. In the end, the genuine fruits of righteousness will be revealed, bringing comfort to those whose good works may not be widely known or acknowledged.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.83,
+            "qualityScore": 2.041220196962488,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.21,
+            "commentatorTierSimilarities": [
+                32.02,
+                41.75,
+                26.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as some sins are openly manifest, so too are certain good works that cannot be hidden. It is important not to hastily judge others based on their visible character alone, as further examination may reveal the presence of hidden virtues. In due time, the truth will be brought to light and the genuine fruits of righteousness will be made evident. Therefore, we should not be too quick to dismiss or underestimate the unseen good deeds of others, as they will eventually come to be known.",
+            "wordCount": 86,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.014817689917434,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.33,
+            "commentatorTierSimilarities": [
+                32.8,
+                37.78,
+                29.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Just as some sins are openly manifest, so too are certain good works that cannot be hidden. We should not be too quick to judge others solely based on their visible character, as hidden virtues may come to light upon closer examination. In due time, the genuine fruits of righteousness will be revealed, bringing comfort to those whose good deeds may not be widely acknowledged. It is important to wait and not hastily dismiss or underestimate the unseen good works of others, as they will eventually be made known.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 2.130143485285962,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.17,
+            "commentatorTierSimilarities": [
+                33.68,
+                37.74,
+                28.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as some sins cannot be hidden, so it is with certain good works that are openly manifest. However, we should not hastily condemn or judge those whose good character is not immediately evident, for closer examination may reveal hidden virtues. In due time, the true fruits of righteousness will come to light, ultimately proving the worth of those who may have been overlooked. We must exercise patience and discernment, for the unseen good deeds of others will eventually be revealed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.0853247387897085,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                33.46,
+                37.62,
+                28.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as some sins are openly manifest, so too are the good works that cannot be hidden. While a person's good character may sometimes be evident from the start, we should not rush to judgment or condemnation when it is not immediately apparent. Through careful examination and inquiry, the hidden good deeds will be brought to light and known. This reminds us to be patient and not overlook or underestimate the unseen good works of others, as they will eventually be revealed.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 2.065480029786224,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                33.82,
+                38.68,
+                27.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

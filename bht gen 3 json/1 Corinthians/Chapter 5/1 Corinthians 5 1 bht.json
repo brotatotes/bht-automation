@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:04:25",
+    "verseRef": "1 Corinthians 5:1",
+    "bestBHT": {
+        "bht": "In this troubling scenario within the Corinthian church, the term used universally highlights the disgraceful nature of the marriage relationship in question. It is astounding that the church authorities allowed such an egregious case to go unaddressed. This form of fornication is so severe that it is not even practiced among unbelievers, indicating that the woman involved may not be a Christian. These Corinthians are engaging in behavior even more immoral than that of the very heathens they seek to convert. Expulsion, as suggested by Paul previously, seems appropriate for such offenders.",
+        "wordCount": 92,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0409126211154804,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.2,
+        "commentatorTierSimilarities": [
+            34.13,
+            36.54,
+            29.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the word in Such cases universally in the New Test. signifying to possess in marriage",
+            "the Apostle uses the designation, his father's wife, to point out the disgrace more plainly",
+            "It may seem astonishing that the authorities in the Corinthian church should have allowed such a case to escape them"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fornication of such a gross kind as (exists) not even among the heathen, so that one (of you) hath (in concubinage) his father's wife.",
+            "She was perhaps a heathen, for which reason he does not direct his rebuke against her.",
+            "The connection is called 'fornication,' and neither Christian nor Gentile law would have sanctioned such a marriage, however Corinth's notorious profligacy might wink at the concubinage."
+        ],
+        "Albert Barnes": [
+            "That rumor had been brought to Paul, probably by the members of the family of Chloe...",
+            "This greatly aggravated the offence, that in a Christian church a crime should be tolerated among its members which even gross pagans would regard with abhorrence.",
+            "Whitby supposes that this offence that was tolerated in the church at Corinth gave rise to the scandals that were circulated among the pagan respecting the early Christians, that they allowed of licentious contact among the members of their churches."
+        ],
+        "Marvin Vincent": [
+            "Absolutely or actually, as Rev.",
+            "It is urged, on the other hand, that ecein to have is used of concubinage, John 4:18; but it takes its meaning there from the sense of marriage in the preceding clause, and is really a kind of play on the word.",
+            "Notwithstanding the facilities for divorce afforded by the Roman law, and the loose morals of the Corinthians, for a man to marry his stepmother was regarded as a scandal."
+        ],
+        "John Calvin": [
+            "It is generally reported that there is among you...he shows them what enormous wickedness it is to allow one of their society to have an illicit connection with his mother-in-law.\" ",
+            "You permit, as though it were a lawful thing, an enormity, which would not be tolerated even among the Gentiles \u2014 nay more, has always been regarded by them with horror, and looked upon as a prodigy of crime.\" ",
+            "The Corinthians are accused, not because one of their number has sinned, but because, as is stated afterwards, they encouraged by connivance a crime that was deserving of the severest punishment."
+        ],
+        "Philip Schaff": [
+            "The word is used here in its widest sense for all violations of the seventh commandment.",
+            "Such connection, expressly forbidden in Leviticus 18:8, is abhorrent to nature.",
+            "How such a church member should have been tolerated, even for a day, is the difficulty."
+        ],
+        "Archibald T. Robertson": [
+            "Fornication is heard of among you.\" ",
+            "The Corinthian Christians were actually trying to win pagans to Christ and living more loosely than the Corinthian heathen.",
+            "Expulsion Paul had urged in 2 Thessalonians 3:6 for such offenders."
+        ],
+        "John Gill": [
+            "It is reported commonly that there is fornication among you...and particularly a very notorious one.\" ",
+            "It was done among them; not only by one of their citizens, nor merely by one of their hearers, but by one of their members, and so was cognizable by them as a church.",
+            "Such fornication as is not so much as named among the Gentiles, that one should have his father's wife; not but that such unnatural copulations were practised...but then such marriages and mixtures were not allowed of among the more civil and cultivated nations, as the Grecians and Romans."
+        ],
+        "John Wesley": [
+            "Fornication \u2014 The original word implies criminal conversation of any kind whatever.",
+            "His father's wife \u2014 While his father was alive."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 5:1, we see a grave situation unfolding within the Corinthian church. The word used here universally signifies a marriage relationship, highlighting the disgrace even more explicitly. It is astonishing that the authorities in the church would allow such a case to escape their attention. This form of fornication is so gross that it is not even practiced among the heathen, which suggests that the woman involved may have been a non-believer. This connection is referred to as fornication, and both Christian and Gentile laws would have condemned such a marriage. The Corinthians were engaged in loose living that even surpassed the behavior of the heathens in their midst. Expulsion, as Paul had previously urged in 2 Thessalonians 3:6, seems appropriate for such offenders.",
+            "wordCount": 123,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 2.0678265249604593,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                37.34,
+                33.13,
+                29.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the Corinthian church is confronted with a shocking situation. The term used universally signifies a marriage relationship, highlighting the disgrace involved. It is astonishing that the church authorities would let such a case go unnoticed. This form of fornication is so extreme that it is not even practiced among the unbelievers, which suggests that the woman in question may not be a Christian. This behavior goes beyond the loose living of the Corinthians, warranting expulsion as Paul had previously urged.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.959351754696884,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                36.9,
+                35.0,
+                28.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthian church is faced with a distressing situation. The term used universally signifies a marriage relationship, emphasizing the disgrace involved. It is astonishing that the church authorities would overlook such a case. This form of fornication is so extreme that it is not even seen among unbelievers, suggesting the woman involved may not be a Christian. This behavior exceeds the loose living of the Corinthians and warrants expulsion, as previously advised by Paul.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.887433811106082,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.1,
+            "commentatorTierSimilarities": [
+                38.47,
+                33.59,
+                27.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this troubling scenario within the Corinthian church, the term used universally highlights the disgraceful nature of the marriage relationship in question. It is astounding that the church authorities allowed such an egregious case to go unaddressed. This form of fornication is so severe that it is not even practiced among unbelievers, indicating that the woman involved may not be a Christian. These Corinthians are engaging in behavior even more immoral than that of the very heathens they seek to convert. Expulsion, as suggested by Paul previously, seems appropriate for such offenders.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0409126211154804,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.2,
+            "commentatorTierSimilarities": [
+                34.13,
+                36.54,
+                29.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthian church confronts a disgraceful situation involving a marriage relationship that goes against Christian and Gentile laws. It is astonishing that the authorities allowed such a gross form of fornication to persist. The Corinthians are living even more loosely than the heathens, compromising their mission to win them over to Christ. Expulsion, as previously recommended by Paul, is necessary for such offenders.",
+            "wordCount": 63,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.980427031093377,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.19,
+            "commentatorTierSimilarities": [
+                38.06,
+                31.88,
+                30.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:03:44",
+    "verseRef": "1 Corinthians 4:21",
+    "bestBHT": {
+        "bht": "He offers them a choice, whether his coming will be in a judicial or a friendly spirit, as a father speaking to his children. The Spirit of meekness refers to the Holy Spirit and implies the specific working of the Spirit in this situation. They can have him as their spiritual father or as their paedagogue with a rod. He presents this choice because it is their wrongdoing that necessitates discipline, but he encourages them to choose the path of love and meekness. Ministers should be faithful, living in such a manner as to receive the approval of their Master.",
+        "wordCount": 100,
+        "quoteTokenProportion": 45.16,
+        "qualityScore": 1.7423532762684584,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+        "commentatorTierSimilarities": [
+            40.82,
+            31.62,
+            27.56
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He offers them, with a view to their amendment, the alternative: 'shall his coming be in a judicial or in a friendly spirit?' as depending on themselves.\" ",
+            "He speaks as a father.\" ",
+            "The Spirit of meekness [...] imports the Holy Spirit, and the abstract genitive refers to the specific working of the Spirit in the case in hand."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Must I come IN displeasure to exercise the rod, or IN love, and the Spirit of meekness.\" ",
+            "The Greek preposition is used in both clauses.",
+            "The Spirit of meekness."
+        ],
+        "Albert Barnes": [
+            "We should regard ministers as the servants of Jesus Christ, and honor them for their Master\u2019s sake; and esteem them also in proportion to their fidelity.",
+            "Ministers should be faithful ... they should live in such a manner as to receive the approbation of their master.",
+            "It is of little consequence what the world thinks of us ... the opinion of the world is not to be too highly valued; because ... To desire that simply, is a selfish and base passion."
+        ],
+        "John Calvin": [
+            "You are puffed up, as though everything were on the best possible footing among you, but it were better if you did with shame and sighing acknowledge the unhappiness of your condition, for if you persist, I shall be under the necessity of laying aside mildness, and exercising towards you a paternal severity.",
+            "By the term rod, he means that severity with which a pastor ought to correct his people\u2019s faults. He places in contrast with this, love, and the spirit of meekness \u2014 not, as though the father hated the sons whom he chastises, for on the contrary the chastisement proceeds from love...",
+            "Observe here what system a good pastor ought to observe; for he ought of his own accord to be inclined to mildness, with the view of drawing to Christ, rather than driving."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 4:21. What will ye? shall I come unto you with a rod, or in love and a spirit of meekness? in severity of discipline, or the reverse?",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The shepherd leaned on his rod, staff, walking stick.",
+            "They can have him as their spiritual father or as their paedagogue with a rod.",
+            "Paul gives them the choice."
+        ],
+        "John Gill": [
+            "Shall I come unto you with a rod; either as a schoolmaster, as were their false teachers, with a 'ferula'; or as a father with a rod of correction and chastisement, assuming his paternal authority, putting on severe looks, and using roughness; or rather as an apostle with the apostolical rod...",
+            "By which is meant not excommunication, which is what belongs to a whole community, and not any single person; but a power of inflicting punishment on the bodies of delinquents, by smiting with diseases, and even with death itself...",
+            "...with the affection of a father, with a pleasant countenance, and a meek spirit; in opposition to that roughness and sharpness, he had an authority, as an apostle of Christ, to use in proper cases."
+        ],
+        "John Wesley": [
+            "With a rod \u2014 That is, with severity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He offers them a choice, whether his coming will be in a judicial or a friendly spirit, as a father speaking to his children. The Spirit of meekness refers to the Holy Spirit and implies the specific working of the Spirit in this situation. They can have him as their spiritual father or as their paedagogue with a rod. He presents this choice because it is their wrongdoing that necessitates discipline, but he encourages them to choose the path of love and meekness. Ministers should be faithful, living in such a manner as to receive the approval of their Master.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.7423532762684584,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.28,
+            "commentatorTierSimilarities": [
+                40.82,
+                31.62,
+                27.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He offers them a choice: Will his coming be in a judicial or a friendly spirit? As a father, he presents the alternative for their amendment. The Spirit of meekness refers to the Holy Spirit, and it signifies the specific working of the Spirit in this case. They can have him as their spiritual father or as their paedagogue with a rod. Ministers should be faithful and receive approval from their Master.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.664610223713726,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.69,
+            "commentatorTierSimilarities": [
+                48.0,
+                26.66,
+                25.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He presents them with the option of his coming in a judgmental or loving and meek manner, as a father to his children. The Spirit of meekness pertains to the Holy Spirit and the specific way it works in this situation. They can choose to have him as their spiritual father or as their teacher with a disciplinary rod. Faithful ministers should live in a manner that receives approval from their Master.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.7173399367844921,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.44,
+            "commentatorTierSimilarities": [
+                37.0,
+                32.18,
+                30.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He gives them the choice: Shall I come unto you with a rod or in love and a spirit of meekness? He speaks to them as a concerned father, offering them the opportunity to amend their ways. The Spirit of meekness, representing the Holy Spirit, encompasses the specific working of the Spirit in this particular case. They can decide whether they want him as a nurturing spiritual father or as a disciplinarian. It is important for ministers to be faithful and strive for approval from their Master.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.7057592428699957,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                41.01,
+                32.51,
+                26.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He presents them with a choice: Shall I come unto you with a rod or in love and a spirit of meekness? Speaking as a father, he offers the opportunity for correction and improvement. The Spirit of meekness, referring to the Holy Spirit, highlights its specific working in this context. They can choose to accept him as their spiritual father or a teacher wielding discipline. Faithful ministers should strive for approval from their Master.",
+            "wordCount": 74,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.643425435290883,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.99,
+            "commentatorTierSimilarities": [
+                39.89,
+                30.2,
+                29.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

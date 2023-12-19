@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 13:57:02",
+    "verseRef": "1 Thessalonians 1:5",
+    "bestBHT": {
+        "bht": "The power and confidence in the preachers' message served as proof that God had chosen and loved the Thessalonians. This divine power produced faith, love, and hope, affirming their status as elect of God. The preachers' firm conviction in the truth of the gospel, combined with the Holy Spirit's testimony, left no doubt about their divine calling. The gospel preached to them was not a mere display of eloquence, but a message that penetrated their hearts and brought about full assurance through the Spirit's work.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.9,
+        "qualityScore": 2.2448482897133606,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.98,
+        "commentatorTierSimilarities": [
+            35.63,
+            35.08,
+            29.29
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The quality [of the preachers] was evinced, in the power and confidence with which they delivered their message.",
+            "The proof given by the manner of their preaching.",
+            "You know what God enabled us to be, how mighty in preaching the word, for your sakes\u2014 thereby proving that He loved you, and had chosen you for His own."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's having made our preaching among you to be attended with such 'power' is the proof that you are 'elect of God.'",
+            "As 'power' produces faith; so 'the Holy Ghost,' love; and 'much assurance,' hope.",
+            "The purpose herein indicated is not so much that of the apostles, as that of God. 'You know what God enabled us to be...how mighty in preaching the word...for your sakes...thereby proving that He had chosen you for His own.'"
+        ],
+        "Albert Barnes": [
+            "It was not a mere empty sound that produced no other effect than to entertain or amuse; compare Ezekiel 33:32.",
+            "There was the firmest conviction of its truth, and they embraced it 'heart and soul;' compare Colossians 2:2; Hebrews 6:11.",
+            "The holy life of a preacher goes far to confirm the truth of the religion which he preaches, and is among the most efficacious means of inducing them to embrace the gospel."
+        ],
+        "Marvin Vincent": [
+            "For similar usage see 1 Corinthians 1:26.",
+            "The gospel did not appeal to them as mere eloquent and learned discourse.",
+            "Assured persuasion of the preacher that the message was divine."
+        ],
+        "John Calvin": [
+            "Paul, as I have said before, has it as his aim, that the Thessalonians, influenced by the same considerations, may entertain no doubt that they were elected by God.",
+            "For it had been the design of God, in honoring Paul\u2019s ministry, that he might manifest to them their adoption.",
+            "He means that all this had been given them, in order that they might be fully persuaded that they were loved by God, and that their election was beyond all controversy."
+        ],
+        "Archibald T. Robertson": [
+            "In its origin Paul's gospel is of God, in its substance it is Christ's, and Paul is only the bearer of it.",
+            "Paul and his associates have been entrusted with this gospel and preach it.",
+            "The full confidence which comes from the Holy Spirit."
+        ],
+        "John Gill": [
+            "For our Gospel came not unto you... but in power.\" ",
+            "It came to them not in word only...but in power.",
+            "But the preaching of the Gospel was accompanied with the powerful efficacy of the grace of God...from whence it clearly appeared that they were the chosen of God, and precious."
+        ],
+        "John Wesley": [
+            "With power \u2014 Piercing the very heart with a sense of sin and deeply convincing you of your want of a Saviour from guilt, misery, and eternal ruin.",
+            "With the Holy Ghost \u2014 Bearing an outward testimony, by miracles, to the truth of what we preached, and you felt: also by his descent through laying on of hands.",
+            "With much assurance \u2014 Literally, with full assurance, and much of it: the Spirit bearing witness by shedding the love of God abroad in your hearts, which is the highest testimony that can be given."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power and confidence in the preachers' message serves as proof of their divine calling. By delivering the word with authority, they demonstrated that God loved and chose the Thessalonians. This divine power produced faith, love, and hope in the hearts of the listeners. It is important to note that the purpose behind this preaching was not solely that of the apostles, but of God Himself. The gospel went beyond mere eloquent and learned discourse; it was a message that pierced the hearts of the Thessalonians, firmly convincing them of its truth. This gospel, entrusted to Paul and his associates, came not with empty words, but with the full confidence and assurance that can only be experienced through the Holy Spirit.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.196328715351483,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.37,
+            "commentatorTierSimilarities": [
+                37.16,
+                33.41,
+                29.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The power and confidence in the preachers' message serves as proof of their divine calling, showing that God loved and chose the Thessalonians. This divine power produced faith, love, and hope in the hearts of the listeners. The purpose behind the preaching was not solely that of the apostles, but of God Himself. The gospel pierced their hearts, firmly convincing them of its truth. It came not with empty words, but with full confidence and assurance through the Holy Spirit.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.131907096093886,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                36.85,
+                34.46,
+                28.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The power and confidence displayed by the preachers in delivering the message serves as undeniable proof of their divine calling. God's divine grace was palpable in their words, demonstrating His love for the Thessalonians. The preachers' faith in the gospel was evident, leading to a strong conviction that resonated with the listeners. This assurance was not based on mere eloquence or human wisdom, but on the power of the Holy Spirit, which penetrated their hearts and testified to the truth of the message. The gospel came not with empty words, but carried the full assurance that can only come from the Spirit of God.",
+            "wordCount": 105,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.2415339160776564,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.87,
+            "commentatorTierSimilarities": [
+                36.67,
+                34.39,
+                28.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power and confidence in the preachers' message served as proof that God had chosen and loved the Thessalonians. This divine power produced faith, love, and hope, affirming their status as elect of God. The preachers' firm conviction in the truth of the gospel, combined with the Holy Spirit's testimony, left no doubt about their divine calling. The gospel preached to them was not a mere display of eloquence, but a message that penetrated their hearts and brought about full assurance through the Spirit's work.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.2448482897133606,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.98,
+            "commentatorTierSimilarities": [
+                35.63,
+                35.08,
+                29.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power and confidence in the preachers' message served as proof of their divine calling, demonstrating God's love for and election of the Thessalonians. This powerful preaching produced faith, love, and hope in their hearts. The purpose of the preaching was not solely that of the apostles, but of God Himself. It is important to note that the gospel did not merely appeal as eloquent and learned discourse; rather, it was a message that deeply convicted and assured the Thessalonians through the work of the Holy Spirit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.236406807020474,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.7,
+            "commentatorTierSimilarities": [
+                36.81,
+                34.46,
+                28.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

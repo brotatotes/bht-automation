@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:18:18",
+    "verseRef": "2 Corinthians 11:21",
+    "bestBHT": {
+        "bht": "Paul employs irony to address the Corinthians' tolerance of false apostles' power display, contrasting it with his own perceived weakness. However, he asserts that even speaking in this foolish way, he possesses every qualification the false apostles pride themselves on. Paul confronts their claims, shifting from irony to direct assertion, displaying real courage in challenging their superiority. He reminds the Corinthians not to see him as weak as he is ready to compare himself with the false apostles based on apostolic qualifications.",
+        "wordCount": 82,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.9897608572154435,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+        "commentatorTierSimilarities": [
+            27.38,
+            35.49,
+            37.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "By way of disparagement I assume that WE (emphatic) were weak (when we were among you).",
+            "An ironical reminiscence of his own abstinence when among them from all these acts of self-exaltation at their expense.",
+            "I feel that I am much letting myself down by the confession that I was too weak ever to do any of these things among you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "An ironical reminiscence of his own abstinence when among them from all these acts of self-exaltation at their expense\" (as if such abstinence was weakness) [ALFORD].",
+            "The \"we\" is emphatically contrasted with the false teachers who so oppressively displayed their power.",
+            "I speak so as though WE had been weak when with you, because we did not show our power this way."
+        ],
+        "Albert Barnes": [
+            "I speak of your disgrace, or, as others prefer it, of the disgrace of the false apostles.",
+            "I have been speaking of reproach or disgrace as if I was weak, that is, as if I was disposed to admit as true all that has been said of me as reproachful or disgraceful... But it is not so.",
+            "If they are disposed to go into a comparison on the points which qualify a man for the office of an apostle, I am ready to compare myself with them."
+        ],
+        "Marvin Vincent": [
+            "Yes, you have borne with these enslavers and devourers and smiters. I could never ask you to extend such toleration to me.",
+            "My pretensions are equal to theirs, but, of course, it is folly to advance them, and they amount to nothing.",
+            "Yet, even speaking in this foolish way, I possess every qualification on which they plume themselves."
+        ],
+        "John Calvin": [
+            "Paul had asked, why the Corinthians showed more respect to others than to him, while he had not been by any means weak, that is, contemptible.",
+            "He now confirms this, because, if a comparison had been entered upon, he would not have been inferior to anyone in any department of honor.",
+            "He would not have been inferior to any one in any department of honor."
+        ],
+        "Philip Schaff": [
+            "I refer now to the reproach cast upon me, as a 'weak' preacher, because, forsooth, I showed none of that proud and insolent bearing which they do.\" ",
+            "But I can be as bold as they, and with better reason too.\" ",
+            "Now follows that incomparable burst of indignant eloquence, embodying particulars of his history or rather bare allusions to facts in his apostolic history extending over some twelve or fourteen years, without any of those details which we should so gladly have had."
+        ],
+        "Archibald T. Robertson": [
+            "They more than tolerate those who trample on them while they criticize as 'weak' one who shows them great consideration.",
+            "After these prolonged explanations Paul 'changes his tone from irony to direct and masterful assertion.'",
+            "Real courage."
+        ],
+        "John Gill": [
+            "This was not confined to the Corinthians only, but they, the true apostles, had their share of it.",
+            "The false apostles reproached them, as poor, weak, fearful, and pusillanimous men.",
+            "Which moved the apostle to exert himself, and boldly rise up in his own defence, saying, 'howbeit, wherein soever any is bold, I speak foolishly, I am bold also.'"
+        ],
+        "John Wesley": [
+            "I say, 'Bear with me,' even on supposition that the weakness be real which they reproach me with.",
+            "Bear with me,\" even on supposition that the weakness be real.",
+            "Bear with me,\" even if they reproach me with weakness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, Paul employs irony to address the Corinthians' tolerance of false apostles who boastfully displayed their power while considering him weak. He admits that he refrained from engaging in such acts of self-exaltation, which he sarcastically refers to as weakness. However, he asserts that even though he speaks in this foolish way, he possesses every qualification the false apostles pride themselves on. Paul then shifts from irony to direct assertion, displaying real courage in challenging their claims. He reminds the Corinthians that he should not be seen as weak, as he is ready to compare himself with the false apostles on the qualifications of an apostle. Overall, Paul confronts the Corinthians' misplaced tolerance and stands firm in his own apostolic authority.",
+            "wordCount": 124,
+            "quoteTokenProportion": 38.55,
+            "qualityScore": 1.8703618346383006,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                27.73,
+                34.46,
+                37.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul uses irony to address the Corinthians' tolerance of false apostles who displayed their power, contrasting it with his own perceived weakness. He refrained from engaging in self-exaltation, considering it a sign of weakness. Despite speaking sarcastically, Paul asserts his qualifications, challenging the false apostles' claims. With a shift from irony to direct assertion, Paul displays courage and confronts the Corinthians' misplaced tolerance. He assures them that he is prepared to compare himself with the false apostles in terms of apostolic qualifications.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.8121104195362538,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                26.96,
+                33.59,
+                39.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul employs irony to address the Corinthians' tolerance of false apostles who boastfully displayed their power. He refrained from engaging in such acts of self-exaltation, which he sarcastically refers to as weakness. However, he asserts that even though he speaks in this foolish way, he possesses every qualification the false apostles pride themselves on. Paul confronts their claims, shifting from irony to direct assertion, displaying real courage in challenging their superiority. He reminds the Corinthians that he should not be seen as weak, as he is ready to compare himself with the false apostles on apostolic qualifications.",
+            "wordCount": 98,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.9094554302633275,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.83,
+            "commentatorTierSimilarities": [
+                28.45,
+                34.28,
+                37.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul ironicly addresses the Corinthians' acceptance of false apostles boasting their power. He refrained from these self-exaltations, considering them as weaknesses. Yet, he insists that speaking foolishly in this way does not diminish his qualifications, which are equal to those of the false apostles. Shifting from irony to assertiveness, Paul bravely challenges their superiority. He reminds the Corinthians not to perceive him as weak, as he is willing to compare himself to the false apostles based on apostolic qualifications.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.8485948748986747,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.81,
+            "commentatorTierSimilarities": [
+                25.9,
+                32.94,
+                41.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul employs irony to address the Corinthians' tolerance of false apostles' power display, contrasting it with his own perceived weakness. However, he asserts that even speaking in this foolish way, he possesses every qualification the false apostles pride themselves on. Paul confronts their claims, shifting from irony to direct assertion, displaying real courage in challenging their superiority. He reminds the Corinthians not to see him as weak as he is ready to compare himself with the false apostles based on apostolic qualifications.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9897608572154435,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.5,
+            "commentatorTierSimilarities": [
+                27.38,
+                35.49,
+                37.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

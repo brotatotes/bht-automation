@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:14:22",
+    "verseRef": "Galatians 3:5",
+    "bestBHT": {
+        "bht": "The wonders wrought by divine power in you, at your conversion and since, are not the result of the works of the law, but rather they come from the hearing and message of faith. These miracles are a purely divine operation, not merited by legal works, but received and experienced only through the message of faith. God is the one who supplies the Spirit and works miraculously among you. These miracles do not prove grace to be in the heart, and cannot be attributed to the preaching of the law or the false doctrine of justification by works.",
+        "wordCount": 98,
+        "quoteTokenProportion": 47.46,
+        "qualityScore": 2.4478798495406053,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+        "commentatorTierSimilarities": [
+            36.12,
+            32.36,
+            31.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "mighty works] not merely 'miracles,' as A.V.; but, the wonders wrought by divine Power in you (not, as A.V. 'among you;')\" ",
+            "doeth He it from (out of, or in consequence of: 'as the originating or moving cause') the works of the law, or from (as above) the hearing (see above, ver. 2) of faith?",
+            "the wonders wrought by divine Power in you...at your conversion and since"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who supplied and supplies to you the Spirit still, to the present time.",
+            "These miracles do not prove grace to be in the heart.",
+            "This cannot be because the law was then unknown to you when you received those gifts of the Spirit."
+        ],
+        "Albert Barnes": [
+            "The gift of the Holy Spirit to them was not imparted in consequence of the observance of the Law of Moses, but in connection with the preaching of the gospel.",
+            "The obvious reference, it seems to me, is to God, who had furnished or imparted to them the remarkable influences of the Holy Spirit, and this had been done in connection with the preaching of the gospel, and not by the observance of the Law.",
+            "If...it refers to Paul, it means that he had been made the agent or instrument in imparting to them those remarkable endowments, and that this had been done by one who had not enforced the necessity of obeying the Law of Moses, but who had preached to them the simple gospel."
+        ],
+        "Marvin Vincent": [
+            "The gift of the Spirit, and the bestowment of miraculous powers, is a purely divine operation in believers, which is not merited by legal works, but can be received and experienced only through the message of faith.",
+            "He that ministereth is God.",
+            "Miracles [\u03b4\u03c5\u03bd\u03b1\u03bc\u03b5\u03b9\u03c2] . See on Matthew 11:20. Either miracles, as Mark 6:2; 1 Corinthians 12:10, or miraculous powers, as 1 Corinthians 12:6; Philippians 2:13; Ephesians 2:2. The analogy of these latter passages favors the second meaning."
+        ],
+        "John Calvin": [
+            "All the gifts of the Holy Spirit... are the fruits of the gospel.\" ",
+            "Their new teachers deprived them of those gifts when they left the gospel.",
+            "In proportion to the value which they attached to those gifts... they ought the more carefully and resolutely to adhere to the gospel."
+        ],
+        "Philip Schaff": [
+            "The present tense ministereth and worketh is used to indicate the continued communication and abundant supply of the spiritual gifts.",
+            "Paul probably means the moral miracles of regeneration and conversion.",
+            "Others understand here physical miracles wrought \u2018among you,\u2019 i.e., in the midst of you."
+        ],
+        "Archibald T. Robertson": [
+            "It is God.\" ",
+            "On the word \u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03c9 see 1 Thessalonians 2:13; 1 Corinthians 12:6. It is a great word for God's activities.",
+            "Paul repeats the contrast in verse Galatians 3:2 about 'works of the law' and 'the hearing of faith.'"
+        ],
+        "John Gill": [
+            "He therefore that ministereth to you the Spirit... the grace of the Spirit through the preaching of the Gospel...",
+            "they were departing from this Gospel, through which all this was done",
+            "these extraordinary gifts of the Spirit... did not attend the preaching of the law, or the doctrine of justification by works, taught by the false apostles, but the doctrine of faith, of justification by faith in the righteousness of Christ"
+        ],
+        "John Wesley": [
+            "Doth he that ministereth the gift of the Spirit to you, and worketh miracles among you, do it by the works of the law?\" ",
+            "That is, in confirmation of his preaching justification by works, or of his preaching justification by faith?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The wonders wrought by divine power in you, at your conversion and since, are not the result of the works of the law, but rather they come from the hearing and message of faith. These miracles are a purely divine operation, not merited by legal works, but received and experienced only through the message of faith. God is the one who supplies the Spirit and works miraculously among you. It is important to note that these miracles do not prove grace to be in the heart and cannot be attributed to the preaching of the law or the false doctrine of justification by works. Rather, they are fruits of the gospel and are intimately connected to the preaching of the doctrine of justification by faith in the righteousness of Christ.",
+            "wordCount": 130,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.3821200244621457,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.55,
+            "commentatorTierSimilarities": [
+                32.88,
+                32.45,
+                34.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wonders wrought by divine power in you, at your conversion and since, are not the result of the works of the law, but rather they come from the hearing and message of faith. These miracles are a purely divine operation, not merited by legal works, but received and experienced only through the message of faith. God is the one who supplies the Spirit and works miraculously among you. It is important that these miracles do not prove grace to be in the heart and cannot be attributed to the preaching of the law or the false doctrine of justification by works. Rather, they are fruits of the gospel and are intimately connected to the preaching of the doctrine of justification.",
+            "wordCount": 121,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.339400773708671,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.13,
+            "commentatorTierSimilarities": [
+                32.48,
+                32.66,
+                34.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The miracles and wonders wrought by divine power in your life are a testament to the spirit of faith and not the works of the law. These remarkable manifestations are a divine operation, bestowed upon believers through the message of faith, rather than through legalistic efforts. The supply of the Spirit and the miraculous works are the work of God, and not evidence of grace in the heart. They are the fruits of the gospel, closely associated with the doctrine of justification by faith in Christ's righteousness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.3610524911795556,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.85,
+            "commentatorTierSimilarities": [
+                32.59,
+                31.69,
+                35.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The wonders wrought by divine power in you, at your conversion and since, are not the result of the works of the law, but rather they come from the hearing and message of faith. These miracles are a purely divine operation, not merited by legal works, but received and experienced only through the message of faith. God is the one who supplies the Spirit and works miraculously among you. These miracles do not prove grace to be in the heart, and cannot be attributed to the preaching of the law or the false doctrine of justification by works.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.4478798495406053,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.73,
+            "commentatorTierSimilarities": [
+                36.12,
+                32.36,
+                31.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wonders wrought by divine power in you are not based on works of the law, but on the hearing of faith. These miracles are a purely divine operation, received through the message of faith and not merited by legal works. God supplies the Spirit and works miraculously among you. However, it is important to note that these miracles do not prove grace in the heart and cannot be attributed to preaching the law or the false doctrine of justification by works. They are the fruits of the gospel and intimately connected to the doctrine of justification by faith in Christ's righteousness.",
+            "wordCount": 103,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.3000018927618937,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.82,
+            "commentatorTierSimilarities": [
+                33.94,
+                30.82,
+                35.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 13:56:27",
+    "verseRef": "Philippians 3:16",
+    "bestBHT": {
+        "bht": "The exhortation urges Christians to maintain unity despite differences in understanding and practice. While each believer progresses at their own pace, they are called to walk together on the same path of Christian growth. God reveals further truths to those who remain faithful to what they have already received. It serves as a reminder for weary Christians not to lose sight of the importance of continuing in the same path of faith and spiritual development.",
+        "wordCount": 75,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.9357473359587165,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+        "commentatorTierSimilarities": [
+            38.53,
+            26.1,
+            35.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let not however this diversity, respecting which some of you yet await deeper revelations from God\u2019s Spirit, produce any dissension in your Christian unity.",
+            "Nevertheless, as far as we have attained (towards Christian perfection: including both knowledge and practice, of both which he spoke above in his own case), walk by the same (path).",
+            "The exhortation refers to the onward advance of the Christian life\u2014go on together, each one in his place and degree of advance, but all in the same path."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God makes further revelations to those who walk up to the revelations they already have.",
+            "Whereunto we have attained, let us walk on in the same.",
+            "Let us walk on (a military term, march in order) in the same (the measure of knowledge already attained)."
+        ],
+        "Albert Barnes": [
+            "Though there might be different degrees of attainment among Christians, and different views on many subjects, yet there were points in which all could agree; there were attainments which they all had made, and in reference to them they should walk in harmony and love.",
+            "There were many things in which they could see alike, and where there were no jarring sentiments. In those things they could walk harmoniously; and they who were in advance of others should not complain of their less informed brethren as lacking all evidence of piety; nor should those who had not made such advances complain of those before them as fanatical, or as disposed to push things to extremes.",
+            "No better rule than this could be applied to the subjects of inquiry which spring up among Christians... If a man does not see things just as I do, let me try with mildness to Teach him, and let me believe that, if he is a Christian, God will make this known to him yet; but let me not quarrel with him, for neither of us would be benefited by that, nor would the object be likely to be attained."
+        ],
+        "Marvin Vincent": [
+            "Whatever real Christian and moral attainment you may have made, let that serve as a rule for your further advance.",
+            "He regards rather the collective development, and assumes the essentials of Christian attainment on the part of his readers.",
+            "By that same rule let us walk."
+        ],
+        "John Calvin": [
+            "He wishes them to be imitators of him; that is, to seek God with a pure conscience, to arrogate nothing to themselves, and calmly to subject their understandings to Christ.\" ",
+            "In the imitating of Paul all these excellences are included \u2014 pure zeal, fear of the Lord, modesty, self-renunciation, docility, love, and desire of concord.\" ",
+            "The goal of perfection...that they think the same thing, and walk by the same rule...the first place to the doctrine in which they ought to harmonize, and the rule to which they should conform themselves."
+        ],
+        "Philip Schaff": [
+            "Only, whereunto we have already attained, by that same rule let us walk.",
+            "The verse itself is an enforcement of what he has been saying before.",
+            "Those who would have more light and knowledge must make a right use of that which they have obtained."
+        ],
+        "Archibald T. Robertson": [
+            "By that same rule let us walk... Paul means simply this that, having come thus far, the thing to do is to go 'in the same path' in which we have been travelling so far.\" ",
+            "A needed lesson for Christians weary with the monotony of routine in religious life and work."
+        ],
+        "John Gill": [
+            "Whatever degree of knowledge of Christ, and the truths of his Gospel, is attained to, let it be retained, and not departed from.",
+            "Let us walk by the same rule; either the doctrine of justification by Christ's righteousness in particular, which is a rule of judgment concerning other things; for so far as they agree or disagree with this, they are to be received or rejected; or the Scriptures of truth, which are the rule of faith and practice, and the standard and test, to which all are to be brought and tried.",
+            "Let us mind the same thing; be of one heart and affection to each other, and of the same judgment in the doctrines of the Gospel, and pursue the same measures; particularly press towards the same mark, and for the same prize the apostle did, and be followers of him."
+        ],
+        "John Wesley": [
+            "But let us take care not to lose the ground we have already gained. Let us walk by the same rule we have done hitherto."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse encourages unity among Christians, urging them not to let the differences in their levels of understanding and practice cause division. Instead, they should walk together on the path of Christian growth, each according to their own progress, while still adhering to the same truth they have already attained. It reminds believers that God grants further revelations to those who are faithful with what they have already received. This exhortation is a timely reminder for Christians who may find themselves weary or disheartened with the routines of religious life, emphasizing the importance of continuing in the same path of faith and spiritual development.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 1.991146363990937,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                35.95,
+                30.34,
+                33.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The exhortation urges Christians to maintain unity despite differences in understanding and practice. While each believer progresses at their own pace, they are called to walk together on the same path of Christian growth. God reveals further truths to those who remain faithful to what they have already received. It serves as a reminder for weary Christians not to lose sight of the importance of continuing in the same path of faith and spiritual development.",
+            "wordCount": 75,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9357473359587165,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.7,
+            "commentatorTierSimilarities": [
+                38.53,
+                26.1,
+                35.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The exhortation reminds believers not to let differences in understanding and practice lead to division, but to walk together on the same path. As they advance at their own pace, they should adhere to the same truth they have already attained. By remaining faithful, God will grant further revelations. This reminder encourages weary Christians not to let routine hinder their growth, reinforcing the importance of continuing on the same path of faith and spiritual development they have been traveling.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.901723278553514,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.57,
+            "commentatorTierSimilarities": [
+                38.02,
+                28.64,
+                33.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let not this diversity produce any dissension in your Christian unity. Walk by the same path of Christian perfection, each in your own place and degree of advance. Seek God with a pure conscience, subject your understandings to Christ, and imitate Paul in pure zeal, fear of the Lord, docility, love, and desire for concord. Retain the degree of knowledge attained and let the Scriptures be the rule of faith and practice. Press towards the same mark and be followers of Paul. Walk by the same rule hitherto, taking care not to lose the ground already gained.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.850572110374645,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.87,
+            "commentatorTierSimilarities": [
+                34.43,
+                24.57,
+                41.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not let diversity cause division in your Christian unity. Walk together on the path of Christian growth, each in your own degree of advance. Seek God with a pure conscience, subject your understandings to Christ, and imitate Paul with pure zeal, fear of the Lord, docility, love, and desire for concord. Retain the knowledge attained and let the Scriptures be the rule of faith and practice. Press towards the same mark and be followers of Paul, taking care not to lose ground gained.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.76848713821742,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                36.11,
+                23.32,
+                40.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

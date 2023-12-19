@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:16:39",
+    "verseRef": "Luke 8:18",
+    "bestBHT": {
+        "bht": "Take heed, for the weighty precept of how we hear is crucial. Our manner of listening is supremely important. Some things should not be heard, while others should be treasured and put into practice. Self-deception is a common complaint, so we must be cautious. We must acquire knowledge and understanding carefully, for if what we have seems to be knowledge but is not rooted in the truth of the Gospel, even that which we seem to have will be taken away from us.",
+        "wordCount": 84,
+        "quoteTokenProportion": 55.74,
+        "qualityScore": 1.4040668729183214,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.03,
+        "commentatorTierSimilarities": [
+            55.42,
+            0.0,
+            44.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Observe that ver. 18, how ye hear is \u201cwhat ye hear\u201d in Mark, and seemeth to have is \u201chath\u201d in Mark."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The precept is very weighty.",
+            "Hanging loosely on him, and not appropriated, it is and is not his.",
+            "(See on Matthew 13:12- :)."
+        ],
+        "Marvin Vincent": [
+            "How ye hear. The manner of hearing.\" ",
+            "Seemeth. Rev. renders 'thinketh he hath,' as James 1:26, on which see note.",
+            "Come at him. Only here in New Testament. The word properly carries the idea of an accidental meeting, and slightly so here."
+        ],
+        "Archibald T. Robertson": [
+            "Both are supremely important. Some things should not be heard at all. Some that are heard should be forgotten. Others should be treasured and practiced.\" ",
+            "Present active subjunctive of the common verb \u03b5\u03c7\u03c9 which may mean 'keep on having' or 'acquiring.'",
+            "Self-deception is a common complaint."
+        ],
+        "John Gill": [
+            "Take heed therefore how ye hear...for whosoever hath; that is, hath knowledge of the doctrines of the Gospel, and hath gifts and abilities to preach them to others...but he that hath not; true, solid, spiritual knowledge of divine things, though he has had considerable advantages and opportunities of learning it...from him shall be taken, even that which he seemeth to have...\"(Luke 8:18) ",
+            "The knowledge he had of truth, and which was rather a show of knowledge than real, shall be taken from him; his seeming gifts and parts shall die, and vanish away, and he shall be left to fall into ignorance, error, and heresy.\" (Luke 8:18)",
+            "Observe that this is to be understood not of internal grace, and experimental knowledge, but of speculative notions of the Gospel, and of external gifts; and so furnishes out no argument against the final perseverance of real saints.\" (Luke 8:18)"
+        ],
+        "John Wesley": [
+            "The word commonly translated seemeth, wherever it occurs, does not weaken, but greatly strengthens the sense. Matthew 13:12; Mark 4:25; Luke 19:26."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Take heed, for the precept of how we hear is weighty. It is not enough to loosely hang onto the words we hear. The manner in which we listen is of utmost importance. We must be discerning, knowing that some things should not be heard at all, while others should be treasured and practiced. Self-deception is a common complaint, and we must guard against it. We must be careful in how we acquire knowledge and understanding, for from the one who seems to have knowledge, even that which he seems to have will be taken away if it is not truly rooted in the truth of the Gospel.",
+            "wordCount": 109,
+            "quoteTokenProportion": 52.24,
+            "qualityScore": 1.4768777540936149,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.45,
+            "commentatorTierSimilarities": [
+                54.43,
+                0.0,
+                45.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Take heed, for the weighty precept of how we hear is crucial. Our manner of listening is supremely important. Some things should not be heard, while others should be treasured and put into practice. Self-deception is a common complaint, so we must be cautious. We must acquire knowledge and understanding carefully, for if what we have seems to be knowledge but is not rooted in the truth of the Gospel, even that which we seem to have will be taken away from us.",
+            "wordCount": 84,
+            "quoteTokenProportion": 55.74,
+            "qualityScore": 1.4040668729183214,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.03,
+            "commentatorTierSimilarities": [
+                55.42,
+                0.0,
+                44.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Take heed of how you hear, for the manner of listening is crucial. Some things should not be heard at all, while others should be treasured and put into practice. Self-deception is a common problem, so we must be cautious. Acquiring knowledge and understanding requires discernment. If what we seem to have is not truly rooted in the truth of the Gospel, even that which we seem to have will be taken away.",
+            "wordCount": 74,
+            "quoteTokenProportion": 56.14,
+            "qualityScore": 1.34126483935919,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.94,
+            "commentatorTierSimilarities": [
+                50.35,
+                0.0,
+                49.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Take heed to how you hear, for it is crucial and weighty. The manner in which you hear is important, for if you merely have a superficial understanding of the doctrines of the Gospel and possess external gifts, they will be taken from you. It is not enough to have a show of knowledge, for self-deception is common and can lead to ignorance, error, and heresy. Therefore, be careful in your hearing and ensure that the things you hear are treasured, practiced, and truly understood, for both the content of what you hear and the way in which you hear it matter greatly.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.541004099985639,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.58,
+            "commentatorTierSimilarities": [
+                41.93,
+                0.0,
+                58.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heed to how you hear, for it is crucial and weighty. The manner in which you hear is important, for if you merely have a superficial understanding of the doctrines of the Gospel and possess external gifts, they will be taken from you. Be careful in your hearing and ensure that what you hear is treasured and understood, for both the content and the way in which you hear it matter greatly.",
+            "wordCount": 73,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 1.5915751756243743,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.26,
+            "commentatorTierSimilarities": [
+                46.78,
+                0.0,
+                53.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

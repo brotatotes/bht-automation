@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:37:01",
+    "verseRef": "Acts 26:26",
+    "bestBHT": {
+        "bht": "Agrippa is a witness to the truth of Jesus in two ways: he is aware of the facts and believes in the prophecies. Paul appeals to Agrippa's faith as a Jew, acknowledging his understanding. The events surrounding Jesus' crucifixion were not hidden but happened publicly in Jerusalem. Paul speaks freely, not hiding anything, confidently knowing that Agrippa is acquainted with these things. The ministry and resurrection of Jesus were well-known and not done secretly. Paul addresses Agrippa with openness, recognizing his knowledge and understanding.",
+        "wordCount": 86,
+        "quoteTokenProportion": 34.48,
+        "qualityScore": 1.443003059172216,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+        "commentatorTierSimilarities": [
+            27.97,
+            36.77,
+            35.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Agrippa is doubly his witness, (1) as cognizant of the facts respecting Jesus, (2) as believing the prophets.\" ",
+            "This latter he does not only assert, but appeals to the faith of the king as a Jew for its establishment.",
+            "This, the act done to Jesus by the Jews, and its sequel, was not done in an obscure corner of Jud\u00e6a, but in the metropolis, at a time of more than common publicity."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "26. the king knoweth, &amp;c.\u2014(See",
+            "\ton Acts 26:2)."
+        ],
+        "Albert Barnes": [
+            "I use no disguise; and I speak the more confidently before him, because, from his situation, he must be acquainted with the truth of what I say.",
+            "Truth is always bold and free, and it is an evidence of honesty when a man is willing to declare everything without reserve before those who are qualified to detect him if he is an impostor.",
+            "The conversion of a leading persecutor, such as Paul had been, and in the manner in which that conversion had taken place, could not but attract attention and remark."
+        ],
+        "John Calvin": [
+            "For it was to small end for him to know the thing which was done, unless he did know that those things which had been spoken before of Christ were fulfilled in the person of Jesus which was crucified.",
+            "Therefore, his meaning is, that the Scripture is of sufficient credit of itself, so that it is not lawful for a man that is a Jew to diminish any jot of the authority thereof.",
+            "As the common sort of men, though they do not greatly care for the word of God, yet they acknowledge and confess generally and confusedly that it is the word of God, so that they are letted with some reverence either to reject or to despise the same."
+        ],
+        "Philip Schaff": [
+            "He can tell you if my words relate merely a wild dream of my own, for he knows what has been the people\u2019s hope for many a long century...",
+            "Well must our King Agrippa know the circumstances of the death of Jesus which took place at Jerusalem in the busy paschal week some thirty years ago, for this thing was not done in a corner.",
+            "No; I am not mad, most noble Festus."
+        ],
+        "Archibald T. Robertson": [
+            "Freely (\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2). Present middle participle, speaking fully, making a clean breast of it.\" ",
+            "\u0395\u03c0\u03b9\u03c3\u03c4\u03b1\u03c4\u03b1 (present middle probably Ionic form of \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc) is a literary word and suits well here.\" ",
+            "Is hidden from him (\u03bb\u03b1\u03bd\u03b8\u03b1\u03bd\u03b5\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf\u03bd). Escapes his notice."
+        ],
+        "John Gill": [
+            "For the king knoweth of these things.... Something of them, of the sufferings and resurrection of the Messiah, and of his showing light to Jews and Gentiles.",
+            "Before whom also I speak freely; because of the knowledge he had of these things.",
+            "For this thing was not done in a corner: the ministry of Jesus was, public, his miracles were done openly, his suffering the death of the cross under Pontius Pilate was generally known, and his resurrection from the dead was a well attested fact."
+        ],
+        "John Wesley": [
+            "For the king knoweth of these things...",
+            "To whom I speak with freedom...",
+            "This freedom was probably one circumstance which Festus accounted madness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Agrippa, as the king, both knows the facts about Jesus and believes in the prophets, making him a double witness. Paul appeals to Agrippa's faith as a Jew to affirm the authenticity of his words. The events surrounding Jesus' crucifixion were not hidden; they took place in the metropolis of Jerusalem during a time of great publicity. Paul speaks boldly, not hiding anything, confident that Agrippa's knowledge of these things is not lacking. The ministry and resurrection of Jesus were well-known, not done in secrecy but observed openly. Paul speaks freely and confidently, addressing Agrippa as the one who has knowledge of the circumstances.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.21,
+            "qualityScore": 1.5269798680416735,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.11,
+            "commentatorTierSimilarities": [
+                29.1,
+                36.62,
+                34.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Agrippa is a witness to the truth of Jesus in two ways: he is aware of the facts and believes in the prophecies. Paul appeals to Agrippa's faith as a Jew, acknowledging his understanding. The events surrounding Jesus' crucifixion were not hidden but happened publicly in Jerusalem. Paul speaks freely, not hiding anything, confidently knowing that Agrippa is acquainted with these things. The ministry and resurrection of Jesus were well-known and not done secretly. Paul addresses Agrippa with openness, recognizing his knowledge and understanding.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.443003059172216,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.32,
+            "commentatorTierSimilarities": [
+                27.97,
+                36.77,
+                35.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Agrippa, as a witness, is knowledgeable about Jesus and holds faith in the prophets. By appealing to Agrippa's Jewish identity, Paul establishes his credibility. The crucifixion of Jesus, along with its aftermath, occurred in a prominent manner, not hidden away in obscurity. Paul speaks openly and honestly, making a complete confession of his beliefs. It is clear that Agrippa is not ignorant of the events surrounding Jesus. The ministry of Jesus, his miracles, and resurrection were widely known and not concealed. Recognizing Agrippa's familiarity with these matters, Paul addresses him freely.",
+            "wordCount": 93,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.4165378013469367,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.44,
+            "commentatorTierSimilarities": [
+                28.14,
+                34.88,
+                36.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Agrippa serves as a witness aware of the facts about Jesus and holds a belief in the prophets. Paul confidently appeals to Agrippa's faith as a Jew, acknowledging that he is acquainted with the truth. The crucifixion of Jesus and its aftermath were not hidden in obscurity, but occurred openly in Jerusalem. Paul speaks boldly, making a complete confession without concealing anything. Agrippa's knowledge of the ministry, miracles, and resurrection of Jesus is evident. Paul addresses Agrippa openly, recognizing his understanding and awareness of these events.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4137287589306338,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.35,
+            "commentatorTierSimilarities": [
+                28.81,
+                36.06,
+                35.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Agrippa is a key witness, aware of the facts about Jesus and believing in the prophets. Paul emphasizes Agrippa's Jewish faith, confident that he understands the significance. The events concerning Jesus were not obscure, but well-known occurrences in the bustling heart of Jerusalem. Paul speaks openly and honestly, fully divulging his beliefs. Agrippa is not oblivious to the ministry and resurrection of Jesus. Paul addresses Agrippa with candor, acknowledging his familiarity and knowledge of these matters.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.4214364644173023,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.61,
+            "commentatorTierSimilarities": [
+                29.9,
+                35.3,
+                34.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

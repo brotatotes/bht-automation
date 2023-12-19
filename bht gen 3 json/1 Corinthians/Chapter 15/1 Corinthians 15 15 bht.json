@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 15:13:35",
+    "verseRef": "1 Corinthians 15:15",
+    "bestBHT": {
+        "bht": "If the resurrection is denied, the witnesses of God are exposed as false, bringing dishonor to God Himself. By testifying that God raised Christ from the dead, they would be guilty of bearing false witness if Christ did not truly rise. This would not only be a scandalous and odious character flaw but also make God Himself a participant in falsehood. Therefore, it is crucial to acknowledge the reality of the resurrection, else we undermine the credibility of those who testified on behalf of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.82,
+        "qualityScore": 2.2499408797118297,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.15,
+        "commentatorTierSimilarities": [
+            33.35,
+            25.64,
+            41.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "15.] false witnesses of (i. e. with regard to) God, not \u2018of God, as belonging to God,\u2019 as some: and false witnesses, as bearing false testimony (see below), not, as pretending to be witnesses, and not being."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The rendering of others is, 'against God':... the Greek preposition with the genitive implies, not direct antagonism (as the accusative would mean), but indirect to the dishonor of God.\" ",
+            "If so be\u2014as they assert.",
+            "It is not right to tell untrue stories, though they are told and seem for the glory of God."
+        ],
+        "Albert Barnes": [
+            "It will follow, if the Lord Jesus was not raised up, that we have been false witnesses.",
+            "Nothing could be regarded as a greater crime than this, whatever might be the immediate subject under consideration.",
+            "This would be so: If the dead rise not - If there is, and can be no resurrection."
+        ],
+        "John Calvin": [
+            "Yet this also was no trivial absurdity \u2014 that the Apostles, who were ordained by God to be the heralds of his eternal truth, were detected as persons who had deceived the world with falsehoods; for this tends to God\u2019s highest dishonor.",
+            "If the resurrection of Christ is denied, God is made guilty of falsehood in the witnesses that have been brought forward and hired by him.",
+            "He declares that God will be exposed to the charge of falsehood, inasmuch as what they publish has come forth from him."
+        ],
+        "Archibald T. Robertson": [
+            "False witnesses of God (\u03c8\u03b5\u03c5\u03b4\u03bf\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Late word, but \u03c8\u03b5\u03c5\u03b4\u03bf\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b5\u03c9, to bear false witness, old and common.",
+            "Because we witnessed of God (\u03bf\u03c4 \u03b5\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b7\u03c3\u03b1\u03bc\u03b5\u03bd \u03ba\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Vulgate has adversus Deum.",
+            "This is the more natural way to take \u03ba\u03b1\u03c4\u03b1 and genitive, against God not as equal to \u03c0\u03b5\u03c1 (concerning). He would indeed make God play false in that case."
+        ],
+        "John Gill": [
+            "Now if Christ is not risen, they have bore a false testimony; and what greater scandal, or a more odious character can be fixed upon a man, than to be a false witness?\" ",
+            "And yet this must follow, upon a denial of the resurrection of Christ: because we have testified of God that he raised up Christ, whom he raised not up, if so be the dead rise not.",
+            "To say that he raised Christ from the dead, when he is not risen; which must be the case, if there is no resurrection of the dead."
+        ],
+        "John Wesley": [
+            "If the dead rise not \u2014 If the very notion of a resurrection be, as they say, absurd and impossible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If the resurrection is denied, the witnesses of God are exposed as false, bringing dishonor to God Himself. It is unthinkable for those ordained by God to be accused of deceiving the world with falsehoods. By testifying that God raised Christ from the dead, they would be guilty of bearing false witness if Christ did not truly rise. This would not only be a scandalous and odious character flaw but also make God Himself a participant in falsehood. Therefore, it is crucial to acknowledge the reality of the resurrection, else we undermine the credibility of those who testified on behalf of God.",
+            "wordCount": 102,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.1469391768324537,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                34.07,
+                24.83,
+                41.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If the resurrection is denied, the witnesses of God are exposed as false, bringing dishonor to God Himself. By testifying that God raised Christ from the dead, they would be guilty of bearing false witness if Christ did not truly rise. This would not only be a scandalous and odious character flaw but also make God Himself a participant in falsehood. Therefore, it is crucial to acknowledge the reality of the resurrection, else we undermine the credibility of those who testified on behalf of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.82,
+            "qualityScore": 2.2499408797118297,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.15,
+            "commentatorTierSimilarities": [
+                33.35,
+                25.64,
+                41.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To deny the resurrection would render the witnesses of God as false, dishonoring God Himself. If Christ did not rise, those who testified of God raising Him would be guilty of bearing false witness. Such actions would bring scandal and discredit to these individuals and make God complicit in falsehood. Consequently, the reality of the resurrection is crucial to preserve the credibility and integrity of God's witnesses.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.1779953796026406,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.76,
+            "commentatorTierSimilarities": [
+                35.23,
+                25.14,
+                39.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Denying the resurrection would dishonor God by exposing His witnesses as false. If Christ did not rise, those who testified falsely of God raising Him would be guilty of bearing false witness. Such actions would bring scandal and discredit to these individuals and make God complicit in falsehood. Thus, affirming the reality of the resurrection is essential to preserve the credibility and integrity of God's witnesses.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 2.1930762952990035,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+            "commentatorTierSimilarities": [
+                34.73,
+                25.08,
+                40.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To deny the resurrection would be to falsely accuse the witnesses of God, bringing dishonor to Him. If Christ did not rise, those who testified of God raising Him would be guilty of bearing false witness. This scandalous accusation would undermine the integrity of these individuals and implicate God in falsehood. Acknowledging the reality of the resurrection is crucial to maintain the credibility of God's witnesses and uphold the truth of His Word.",
+            "wordCount": 74,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.1976528264435005,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.41,
+            "commentatorTierSimilarities": [
+                34.92,
+                24.64,
+                40.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

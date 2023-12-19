@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:09:02",
+    "verseRef": "Titus 1:6",
+    "bestBHT": {
+        "bht": "A bishop should have a good reputation, being the husband of one wife, with children that believe and are not involved in profligacy. He ought to be a lover of hospitality, good, self-restrained, just, holy, and continent. It is important for a bishop to hold fast to the faithful word, enabling them to exhort believers in sound doctrine and rebuke those who oppose it. Their family should reflect their character, and they themselves should be blameless, without any disgrace that would diminish their authority.",
+        "wordCount": 85,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 1.8272110515262292,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+        "commentatorTierSimilarities": [
+            26.96,
+            38.59,
+            34.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "...husband of one wife (see note on 1 Tim. iii. 2), having believing children (for he who cannot bring his own children to the faith, how shall he bring others?) who are not under (involved in) accusation of profligacy...",
+            "But a lover of hospitality, a lover of good, self-restrained, just, holy, continent...",
+            "Holding fast the faithful word (which is) according to the instruction [which he has received], that he may be able both to exhort (believers) in the sound doctrine, and to rebuke the gainsayers..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The thing dwelt on here as the requisite in a bishop, is a good reputation among those over whom he is to be set.",
+            "He who could not bring his children to faith, how shall he bring others?",
+            "Not merely not riotous, but 'not (even) accused of riot'... 'dissolute life'."
+        ],
+        "Albert Barnes": [
+            "If a man\u2019s family were not of his character - if his children were insubordinate, and opposed to religion - if they were decided infidels or scoffers, it would show that there was such a deficiency in the head of the family that he could not be safely entrusted with the government of the church.\" ",
+            "It is probably true, also, that the preachers at that time would be selected, as far as practicable, from those whose families were all Christians.\" ",
+            "The meaning here is, that they should not be justly accused of this; this should not be their character. It would, doubtless, be a good reason now why a man should not be ordained to the ministry that he had a dissipated and disorderly family."
+        ],
+        "Marvin Vincent": [
+            "Faithful children.\" Better, believing children; or, as Rev., children that believe. Comp. 1 Timothy 3:4.",
+            "Not accused of riot.\" Lit. not in accusation of profigacy.",
+            "Aswtia, lit. unsavingness; hence, dissoluteness, profigacy."
+        ],
+        "John Calvin": [
+            "When he says, that a bishop must be blameless, he does not mean one who is exempt from every vice, but one who is marked by no disgrace that would lessen his authority.",
+            "The meaning is the same as if Paul had enjoined them to elect those who had lived chastely in marriage \u2014 had been satisfied with having a single wife, and had forbidden those who had manifested the power of lust by marrying many wives.",
+            "First, he demands that the children shall be 'believers;' whence it is obvious that they have been educated in the sound doctrine of godliness, and in the fear of the Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Blameless (\u03b1\u03bd\u03b5\u03b3\u03ba\u03bb\u03b7\u03c4\u03bf\u03c2). In a condition of first class.\" ",
+            "Not accused of riot (\u03bc\u03b7 \u03b5\u03bd \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1 \u03b1\u03c3\u03c9\u03c4\u03b9\u03b1\u03c2). 'Not in accusation of profligacy.'",
+            "Unruly (\u03b1\u03bd\u03c5\u03c0\u03bf\u03c4\u03b1\u03ba\u03c4\u03b1). Public disorder, out of doors."
+        ],
+        "John Gill": [
+            "If any be blameless,.... In his outward life and conversation, not chargeable with any notorious crime.\" ",
+            "having faithful children; legitimate ones, born in lawful wedlock, in the same sense as such are called godly and holy.\" ",
+            "Not accused of riot; or chargeable with sins of uncleanness and intemperance, with rioting and drunkenness, chambering and wantonness."
+        ],
+        "John Wesley": [
+            "The husband of one wife \u2014 Surely the Holy Ghost, by repeating this so often, designed to leave the Romanists without excuse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A bishop should be a husband of one wife, with believing children who are not involved in any wrongdoing. He should be a lover of hospitality, good, self-restrained, just, holy, and continent. In order to exhort believers in sound doctrine and rebuke those who oppose it, a bishop must hold fast to the faithful word he has received. A good reputation among those he leads is a crucial requirement for a bishop. It is important for a bishop's family to reflect his character, as their behavior reflects on his ability to lead. The emphasis on having believing children shows that they have been raised in the faith and fear of the Lord. Overall, a bishop should be blameless, without any disgrace that would diminish his authority, and his children should be faithful and well-behaved.",
+            "wordCount": 137,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 1.749016575307579,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.5,
+            "commentatorTierSimilarities": [
+                28.04,
+                37.89,
+                34.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A bishop should be the husband of one wife, with believing children who are not under accusation of profligacy. He should be a lover of hospitality, good, self-restrained, just, holy, and continent, holding fast to the faithful word. The requirement for a bishop is a good reputation among those he leads. It is crucial for a bishop's family to reflect his character. The emphasis on having believing children shows they have been raised in the faith and fear of the Lord. A bishop should be blameless, without any disgrace that would diminish his authority.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 1.7610849238003243,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                29.85,
+                35.48,
+                34.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A bishop should have a good reputation and be the husband of one wife, with believing children who are not accused of profligacy. They should be a lover of hospitality, good, self-restrained, just, holy, and continent. Holding fast to the faithful word, they are able to exhort believers in sound doctrine and rebuke the gainsayers. A bishop's family should reflect their character and be raised in the faith. They should be blameless, free from disgrace that would diminish their authority.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.7905074649199735,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.88,
+            "commentatorTierSimilarities": [
+                29.64,
+                37.17,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A bishop must have a good reputation and be the husband of one wife, with believing children who are not accused of profligacy. They should be a lover of hospitality, good, self-restrained, just, holy, and continent. By holding fast to the faithful word, a bishop can both exhort believers in sound doctrine and rebuke the gainsayers. It is vital for a bishop's family to reflect their character, as their behavior impacts their ability to lead. A blameless bishop is one without any disgrace that would diminish their authority.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.7409335588754091,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
+            "commentatorTierSimilarities": [
+                30.66,
+                33.54,
+                35.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A bishop should have a good reputation, being the husband of one wife, with children that believe and are not involved in profligacy. He ought to be a lover of hospitality, good, self-restrained, just, holy, and continent. It is important for a bishop to hold fast to the faithful word, enabling them to exhort believers in sound doctrine and rebuke those who oppose it. Their family should reflect their character, and they themselves should be blameless, without any disgrace that would diminish their authority.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.8272110515262292,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                26.96,
+                38.59,
+                34.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

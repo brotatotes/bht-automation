@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:17:07",
+    "verseRef": "Luke 9:7",
+    "bestBHT": {
+        "bht": "Herod was perplexed upon hearing the miracles performed by the Twelve, for the works done in their Master's Name were widely known and often mistaken for Jesus' own. Among the opinions circulating, Herod himself believed that John the Baptist had been raised from the dead. This troubled him greatly, leading him to seek an explanation. The fame of these miracles spread, reaching Herod and his court, forcing him to confront the truth that lay behind these remarkable works.",
+        "wordCount": 79,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.571662929504857,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+        "commentatorTierSimilarities": [
+            41.16,
+            0.0,
+            58.84
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Herod heard the account of the miracles wrought by the Twelve; but even then it was HIS name which was spread abroad.",
+            "These works were done in their Master\u2019s Name, and in popular rumour passed for His.",
+            "These works were done in their Master\u2019s Name, and in popular rumour passed for His."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "perplexed\u2014at a loss, embarrassed.\" ",
+            "said of some, that John was risen.\" ",
+            "Among many opinions, this was the one which Herod himself adopted."
+        ],
+        "Marvin Vincent": [
+            "That was done [\u03c4\u03b1 \u03b3\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03b1]. The present participle. Lit., all that is being done.\" ",
+            "Was perplexed [\u03b4\u03b9\u03b7\u03c0\u03bf\u03c1\u03b5\u03b9]. Used by Luke only.",
+            "The radical idea of the compound verb seems to be of one who goes through the whole list of possible ways, and finds no way out. Hence, to be in perplexity."
+        ],
+        "Archibald T. Robertson": [
+            "All that was done (\u03c4\u03b1 \u03b3\u03b9\u03bd\u03bf\u03bc\u03b5\u03bd\u03b1 \u03c0\u03b1\u03bd\u03c4\u03b1). Present middle participle, 'all that was coming to pass.'",
+            "He was much perplexed (\u03b4\u03b9\u03b7\u03c0\u03bf\u03c1\u03b5). Imperfect active of \u03b4\u03b9\u03b1\u03c0\u03bf\u03c1\u03b5\u03c9, to be thoroughly at a loss, unable to find a way out (\u03b4\u03b9\u03b1, \u03b1 privative, \u03c0\u03bf\u03c1\u03bf\u03c2, way), common ancient verb, but only in Luke's writings in the N.T.",
+            "The verbs in the indirect discourse here (verses Luke 9:7; Luke 9:8) are all three aorists (\u03b7\u03b3\u03b5\u03c1\u03b8\u03b7 first passive; \u03b5\u03c6\u03b1\u03bd\u03b7 second passive; \u03b1\u03bd\u03b5\u03c3\u03c4\u03b7 second active), not past perfects as the English has them."
+        ],
+        "John Gill": [
+            "The fame of which were the more spread through the mission of the apostles, and the journey they took through all the towns and cities of Galilee, which were in Herod's jurisdiction; by which means he, and his court, came to the knowledge of them, the whole country, ringing with the account of the same.\" ",
+            "He hesitated about it at first, though he afterwards was fully persuaded, in his own mind, that it was he, as some affirmed; and this gave him great uneasiness, and filled him with distress and horror.\" ",
+            "Though in private, to his own family and servants, he was free to tell his mind."
+        ],
+        "John Wesley": [
+            "It was said by some \u2014 And soon after by Herod himself. Matthew 14:1; Mark 6:14."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Herod, upon hearing about the miracles performed by the Twelve, became perplexed and at a loss as to their true source. The works done in the Name of their Master were widely known, and many believed that they were the works of Jesus Himself. Among the various opinions circulating, Herod was inclined to believe that John the Baptist had been raised from the dead. This caused him great distress and horror, and he sought to find an explanation for all that was happening. Ultimately, the fame of these miracles spread throughout the land, reaching Herod and his court, leaving him no choice but to confront the truth.",
+            "wordCount": 107,
+            "quoteTokenProportion": 48.72,
+            "qualityScore": 1.5855985453093746,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                40.21,
+                0.0,
+                59.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Herod, upon hearing the account of the miracles performed by the Twelve, became perplexed and at a loss. The works done in their Master's Name were widely known and mistaken for the works of Jesus Himself. Among the various opinions, Herod himself believed that John the Baptist had been raised from the dead. This caused him great distress and horror, and he sought to find an explanation for all that was happening. Ultimately, the fame of these miracles reached Herod and his court, leaving him no choice but to confront the truth.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.5608799470261459,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                39.59,
+                0.0,
+                60.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Herod, upon hearing the account of the miracles performed by the Twelve, became perplexed and at a loss. The works done in their Master's Name were widely known and mistaken for the works of Jesus Himself. Among the various opinions circulated, Herod himself believed that John the Baptist had been raised from the dead. This caused him great distress and horror, leading him to seek an explanation. The fame of these miracles spread, reaching Herod and his court, forcing him to confront the truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.539203422352577,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                38.9,
+                0.0,
+                61.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon hearing the miracles performed by the Twelve, Herod became perplexed and at a loss. The works, done in their Master's Name, were widely known and mistaken for Jesus' own. Among various opinions, even Herod believed that John the Baptist had risen. This caused him great distress and horror as he sought an explanation. The fame of these miracles spread, reaching Herod and his court, forcing him to confront the truth.",
+            "wordCount": 72,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.5333827269672438,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.33,
+            "commentatorTierSimilarities": [
+                39.78,
+                0.0,
+                60.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Herod was perplexed upon hearing the miracles performed by the Twelve, for the works done in their Master's Name were widely known and often mistaken for Jesus' own. Among the opinions circulating, Herod himself believed that John the Baptist had been raised from the dead. This troubled him greatly, leading him to seek an explanation. The fame of these miracles spread, reaching Herod and his court, forcing him to confront the truth that lay behind these remarkable works.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.571662929504857,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+            "commentatorTierSimilarities": [
+                41.16,
+                0.0,
+                58.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

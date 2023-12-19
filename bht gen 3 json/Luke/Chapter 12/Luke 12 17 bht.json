@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:54",
+    "verseRef": "Luke 12:17",
+    "bestBHT": {
+        "bht": "The rich man, in a state of ease without rest, ponders where to gather his abundant harvest. His thoughts are consumed by self-preservation and accumulation, oblivious to the needs of others and the fleeting nature of earthly possessions. While he may appear prudent in his deliberations, his actions lack wisdom and fail to acknowledge God as the source of his prosperity. Engrossed in his own concerns, he overlooks the greater treasure of heavenly riches, emphasizing the importance of seeking lasting wealth rather than temporary abundance.",
+        "wordCount": 86,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.580366600155894,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.89,
+        "commentatorTierSimilarities": [
+            25.74,
+            34.24,
+            40.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The character of a mind at ease without being at rest is admirably expressed.\" - Bengel",
+            "Thou hast barns\u2014the bosoms of the poor, the houses of widows, the mouths of infants.... these are the barns which will last for ever.\" - Ambrose."
+        ],
+        "Albert Barnes": [
+            "Riches increase thought and perplexity. Indeed, this is almost their only effect - to engross the thoughts and steal the heart away from better things, in order to take care of the useless wealth.",
+            "No room - Everything was full.",
+            "My fruits - Our word 'fruits' is not applied to 'grain;' but the Greek word is applied to all the produce of the earth - not only 'fruit,' but also grain."
+        ],
+        "Marvin Vincent": [
+            "Bestow [\u03c3\u03c5\u03bd\u03b1\u03be\u03c9] . Lit., gather together."
+        ],
+        "John Calvin": [
+            "Wicked men are driven to perplexity in their deliberations, because they do not know how any thing is to be lawfully used.",
+            "This pride is accompanied by distrust; for those men, when they have had their fill, are still agitated by insatiable desire.",
+            "Christ does not expressly condemn this man for acting the part of a careful householder in storing up his produce, but because his ravenous desire, like a deep whirlpool, swallows up and devours many barns."
+        ],
+        "Philip Schaff": [
+            "What shall I do? He does not appear as a grasping speculator, but as one whom wealth, by a very natural process, made discontented, anxious, and perplexed.\" ",
+            "The proper answer to his question is found in Luke 12:33.",
+            "He proposed to do just what every man of ordinary business sagacity would do. He was not a \u2018fool,\u2019 from a commercial point of view."
+        ],
+        "Archibald T. Robertson": [
+            "Reasoned within himself (\u03b4\u03b9\u03b5\u03bb\u03bf\u03b3\u03b9\u03b6\u03b5\u03c4\u03bf \u03b5\u03bd \u03b1\u03c5\u03c4\u03c9). Imperfect middle, picturing his continued cogitations over his perplexity.",
+            "Where to bestow (\u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03b1\u03be\u03c9). Future indicative deliberative, where I shall gather together.",
+            "My fruits (\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c1\u03c0\u03bf\u03c5\u03c2 \u03bc\u03bf\u03c5). So it is with the rich fool: my fruits, my barns, my corn, my goods, just like Nabal whose very name means fool (1 Samuel 25:11), whether a direct reference to him or not."
+        ],
+        "John Gill": [
+            "He did not think of God, or that there was one, and much less that he was the author, of all his outward prosperity and plenty.",
+            "He consults himself only, and thought only within, and for himself; and not at all of his poor neighbours, or for the good of others.",
+            "He had gathered in his harvest, and filled his barns as full as they could hold, so that they had no room for more; and yet had still an abundance to lay up."
+        ],
+        "John Wesley": [
+            "What shall I do? \u2014 The very language of want! Do? Why, lay up treasure in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rich man in the verse finds himself in a state of ease without true rest. His mind is filled with thoughts of self-preservation and accumulation, as he ponders where to store his abundant harvest. His prideful and anxious disposition is evident, as he fails to consider the needs of others and the transient nature of his earthly possessions. It is not only his wealth that engrosses him, but also the perplexity it brings. While he may appear prudent in his business dealings, his actions lack wisdom and perspective, for he does not acknowledge God as the source of his prosperity. In his misguided deliberations, he overlooks the greater treasure of heavenly riches.",
+            "wordCount": 114,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5317745822994668,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.27,
+            "commentatorTierSimilarities": [
+                25.63,
+                34.94,
+                39.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rich man, characterized by a mind at ease without rest, contemplates where to store his abundant harvest. His self-centered thinking disregards the needs of others and fails to recognize the transient nature of earthly possessions. While he may appear prudent, his actions lack wisdom, as he overlooks God as the source of his prosperity. Engrossed in thoughts and perplexity, he misses the greater treasure of heavenly riches available to him. His mindset highlights the importance of seeking lasting riches rather than temporary wealth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5152796555495724,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.73,
+            "commentatorTierSimilarities": [
+                25.24,
+                33.93,
+                40.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rich man, in a state of ease without rest, ponders where to gather his abundant harvest. His thoughts are consumed by self-preservation and accumulation, oblivious to the needs of others and the fleeting nature of earthly possessions. While he may appear prudent in his deliberations, his actions lack wisdom and fail to acknowledge God as the source of his prosperity. Engrossed in his own concerns, he overlooks the greater treasure of heavenly riches, emphasizing the importance of seeking lasting wealth rather than temporary abundance.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.580366600155894,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.89,
+            "commentatorTierSimilarities": [
+                25.74,
+                34.24,
+                40.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rich man, at ease but without true rest, contemplates where to gather his abundant harvest. His self-centered thoughts overshadow the needs of others and the temporal nature of earthly possessions. Though appearing wise in his calculations, he fails to recognize God as the provider of his wealth. Engrossed in his own concerns, he overlooks the greater treasure of heavenly riches. This highlights the necessity of seeking eternal wealth rather than fleeting abundance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.5194776253072915,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                25.98,
+                35.99,
+                38.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rich man, with a mind at ease but without rest, reasons within himself where to gather his abundant harvest. Selfishly focused on his own possessions, he fails to consider the needs of others or the ephemeral nature of earthly wealth. Despite his shrewdness in business matters, he overlooks the divine origin of his prosperity. Consumed by his own thoughts and anxieties, he ignores the greater treasure of heavenly riches. This highlights the importance of seeking lasting spiritual wealth rather than transitory material abundance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.5212687613574905,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.92,
+            "commentatorTierSimilarities": [
+                23.81,
+                36.03,
+                40.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

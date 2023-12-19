@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:36:25",
+    "verseRef": "Acts 25:22",
+    "bestBHT": {
+        "bht": "Agrippa, a Jew, wishes to hear Paul's defense due to the national interest involved. Festus readily agrees, acknowledging that Agrippa is aware of the significance of these events. Agrippa's curiosity is motivated by Paul's impact on Jewish life and his desire to see and hear firsthand the man responsible. This polite and keen wish is both a compliment to Festus' narrative and a reflection of Agrippa's hope for personal gain. It sets the stage for a remarkable defense that will strengthen the faithful and bring shame to the impious.",
+        "wordCount": 93,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.5795224402337924,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+        "commentatorTierSimilarities": [
+            32.65,
+            31.4,
+            35.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I would hear the man myself... It is a modest way of expressing a wish, formed in this case while the procurator was speaking, but spoken of by Agrippa as if now passed by, and therefore not pressed.\" ",
+            "Agrippa, as a Jew, is anxious to hear Paul\u2019s defence, as a matter of national interest.\" ",
+            "The procurator\u2019s curator\u2019s ready consent is explained, ver. 26."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The king knoweth of these things . . . for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.\" ",
+            "Hence his curiosity to see and hear the man who had raised such commotion and was remodelling to such an extent the whole Jewish life."
+        ],
+        "Albert Barnes": [
+            "Agrippa doubtless had heard much of the fame of Jesus, and of the new sect of Christians, and probably he was induced by mere curiosity to hear what Paul could say in explanation and defense of Christianity.",
+            "This wish of Agrippa gave occasion to the noblest defense which was ever made before any tribunal.",
+            "As splendid eloquence as can be found in any language."
+        ],
+        "John Calvin": [
+            "And it may be that not only curiosity did move him to be desirous to hear Paul, but because he did hope to profit by hearing him.",
+            "The holy minister of Christ is brought forth as on a stage, that a profane man may cheer up his guest.",
+            "Impiety was made ashamed, and the faithful did gather new strength, so that they were confirmed more and more in the gospel."
+        ],
+        "Philip Schaff": [
+            "I would also hear the man myself.\" ",
+            "Agrippa must have heard often of Paul.",
+            "He had long been wishing to see him and hear him for himself."
+        ],
+        "Archibald T. Robertson": [
+            "I also could wish (\u03b5\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b7\u03bd \u03ba\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c2). The imperfect for courtesy, rather than the blunt \u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b1, I wish, I want.",
+            "Literally, 'I myself also was wishing' (while you were talking), a compliment to the interesting story told by Festus.",
+            "The imperfect is keen enough and yet polite enough to leave the decision with Festus if inconvenient for any reason."
+        ],
+        "John Gill": [
+            "I would also hear the man myself; Agrippa being a Jew by profession, and knowing more of these things than Festus did, and very likely had heard much concerning Jesus Christ.",
+            "he was very desirous, not only out of curiosity to see the man, but to hear him; and get some further information and knowledge about the things in dispute, between the Jews and Christians.",
+            "tomorrow, said he, thou shall hear him: and sooner things could not well be prepared for an affair of this kind, and for so grand a meeting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Agrippa, as a Jew, is eager to hear the defense of Paul, recognizing the national interest in the matter. Festus readily consents, and Agrippa acknowledges that he is aware of the significance of these events, believing that nothing is hidden from him. His curiosity is fueled by the impact Paul has had on Jewish life and his desire to witness firsthand the effects of this commotion. Agrippa's wish to personally hear Paul serves as a polite compliment to Festus' narrative, leaving the decision with him if it proves inconvenient. This desire, driven by both curiosity and the hope of personal gain, sets the stage for an extraordinary defense that will strengthen the faithful and shame the impious.",
+            "wordCount": 118,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.6706134476931191,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                33.96,
+                29.08,
+                36.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Agrippa, a Jew, wishes to hear Paul's defense due to the national interest involved. Festus readily agrees, acknowledging that Agrippa is aware of the significance of these events. Agrippa's curiosity is motivated by Paul's impact on Jewish life and his desire to see and hear firsthand the man responsible. This polite and keen wish is both a compliment to Festus' narrative and a reflection of Agrippa's hope for personal gain. It sets the stage for a remarkable defense that will strengthen the faithful and bring shame to the impious.",
+            "wordCount": 93,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.5795224402337924,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.86,
+            "commentatorTierSimilarities": [
+                32.65,
+                31.4,
+                35.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Agrippa's eagerness to hear Paul's defense stems from the national interest involved. Festus readily agrees, acknowledging Agrippa's awareness of the significance of the events. Agrippa's curiosity is fueled by Paul's impact on Jewish life and his desire to witness the commotion firsthand. This polite and keen wish functions as both a compliment to Festus' story and a reflection of Agrippa's hope for personal gain. It sets the stage for a remarkable defense that strengthens the faithful and shames the impious.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5152174509299599,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                33.29,
+                32.6,
+                34.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Agrippa's desire to hear Paul's defense stems from the national interest involved in the case. Festus readily agrees, recognizing Agrippa's awareness of the significance of the events. Agrippa's curiosity is fueled by the impact Paul has had on Jewish life and his wish to witness this commotion firsthand. His polite and keen wish serves as both a compliment to Festus' narrative and a reflection of his hope for personal gain. This sets the stage for an extraordinary defense that strengthens the faithful and shames the impious.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.4757454356684896,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.41,
+            "commentatorTierSimilarities": [
+                33.93,
+                31.99,
+                34.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Agrippa's eagerness to hear Paul's defense arises from the national interest at stake. Festus readily consents, acknowledging Agrippa's awareness of the significance of the events. Agrippa's curiosity is fueled by Paul's impact on Jewish life, prompting his desire to witness the commotion firsthand. His polite wish, reflecting both keenness and courtesy, serves as a compliment to Festus' captivating narrative. This sets the stage for a remarkable defense that bolsters the faithful and exposes the impious, all within the grand meeting that awaits.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.521470175350217,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.93,
+            "commentatorTierSimilarities": [
+                36.2,
+                31.08,
+                32.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

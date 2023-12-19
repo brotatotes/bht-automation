@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:20:33",
+    "verseRef": "Luke 16:18",
+    "bestBHT": {
+        "bht": "In sending home the high requirements of the law, our Lord reproves the Pharisees for their departure from it, despite their external righteousness. By emphasizing that divorce does not nullify adultery, Jesus upholds the validity of the law, even in the face of the Pharisees' distorted understanding. Thus, His unexpected reference to divorce serves as a means to expose their abuse and perversion of the law, reminding them of its purity and spirituality.",
+        "wordCount": 73,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.8243901493208994,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+        "commentatorTierSimilarities": [
+            28.74,
+            45.43,
+            25.83
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Far",
+            "\tfrom intending to weaken the force of the law, in these allusions to",
+            "\ta new economy...",
+            "...our Lord, in this unexpected way, sends home its high",
+            "\trequirements with a pungency...",
+            "...which the Pharisees would not fail to",
+            "\tfeel."
+        ],
+        "Albert Barnes": [
+            "The design, here, seems to be to reprove the Pharisees for not observing the law of Moses, notwithstanding their great pretensions to external righteousness...",
+            "...and to show them that they had 'really' departed from the law."
+        ],
+        "Philip Schaff": [
+            "The law remains valid on a point about which many of the Pharisees were altogether wrong.",
+            "If, as we believe, the verse occurs in its proper connection, there was in the opinions of the Pharisees present some occasion for referring to this matter.",
+            "Any reference to spiritual adultery (the service of mammon) seems far-fetched."
+        ],
+        "Archibald T. Robertson": [
+            "Committeth adultery (\u03bc\u03bf\u03b9\u03c7\u03b5\u03c5\u03b5). Another repeated saying of Christ (Matthew 5:32; Mark 10:11; Matthew 19:9). Adultery remains adultery, divorce or no divorce, remarriage or no marriage. "
+        ],
+        "John Gill": [
+            "By which instance our Lord shows, how the Jews abused and depraved the law, and as much as in them lay, caused it to fail.",
+            "He maintained the purity and spirituality of it; putting them in mind of what he had formerly said.",
+            "She still remains his lawful and proper wife."
+        ],
+        "John Wesley": [
+            "But ye do; particularly in this notorious instance. Matthew 5:31; 19:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, our Lord is delivering pungent words to the Pharisees, highlighting their departure from the law and their failure to observe the high requirements of the law of Moses. While some may argue that the mention of divorce and remarriage seems far-fetched, it actually serves as a means to demonstrate the Pharisees' abuse and perversion of the law. By reiterating the seriousness of adultery, Jesus emphasizes that divorce does not nullify the act of adultery itself. Thus, the law remains valid, even though the Pharisees had distorted its true meaning.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.8519951727773056,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.92,
+            "commentatorTierSimilarities": [
+                29.23,
+                46.96,
+                23.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In sending home the high requirements of the law, our Lord reproves the Pharisees for their departure from it, despite their external righteousness. By emphasizing that divorce does not nullify adultery, Jesus upholds the validity of the law, even in the face of the Pharisees' distorted understanding. Thus, His unexpected reference to divorce serves as a means to expose their abuse and perversion of the law, reminding them of its purity and spirituality.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.8243901493208994,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.0,
+            "commentatorTierSimilarities": [
+                28.74,
+                45.43,
+                25.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord, in these allusions to a new economy, sends home the high requirements of the law with a pungency that the Pharisees would not fail to feel. By affirming that adultery remains adultery, divorce or no divorce, remarriage or no marriage, Jesus emphasizes the lasting validity of the law, reprimanding the Pharisees for their failure to observe it. This serves as a reminder of their departure from the law and exposes their abuse and perversion of its true meaning.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6945419909457087,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.69,
+            "commentatorTierSimilarities": [
+                36.21,
+                41.86,
+                21.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In these allusions to a new economy, our Lord pungently sends home the high requirements of the law, which the Pharisees would not fail to feel. By affirming that adultery remains adultery, regardless of divorce or remarriage, Jesus emphasizes the lasting validity of the law and reproves the Pharisees for their failure to observe it. This serves as a reminder of their departure from the law and exposes their abuse and perversion of its true meaning, maintaining its purity and spirituality.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7363415328651528,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                33.3,
+                41.32,
+                25.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In these allusions to a new economy, our Lord sends home the high requirements of the law with pungency, which the Pharisees would not fail to feel. By affirming that adultery remains adultery, regardless of divorce or remarriage, Jesus emphasizes the lasting validity of the law and reproves the Pharisees for their failure to observe it. This serves as a reminder of their departure from the law and exposes their abuse and perversion of its true meaning, maintaining its purity and spirituality.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.740822957746677,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                33.65,
+                41.33,
+                25.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

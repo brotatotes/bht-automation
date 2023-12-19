@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 17:31:23",
+    "verseRef": "2 Timothy 4:13",
+    "bestBHT": {
+        "bht": "In the last days of his life, the apostle Paul's mention of his cloak sheds light on the significance of his final moments. Like Jesus, Paul saw his cloak as more than a practical item; it represented his role as a teacher to the faithful. Even in prison, he yearned for his books and parchments, revealing his commitment to learning and his desire to share knowledge. Despite his imminent departure, Paul's unwavering dedication to the written word serves as an inspiration for believers to pursue lifelong growth and pass on wisdom to others.",
+        "wordCount": 95,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 1.7279629991934562,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+        "commentatorTierSimilarities": [
+            38.5,
+            33.7,
+            27.8
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The mention of his 'cloak,' so far from being unworthy of inspiration, is one of those graphic touches which sheds a flood of light on the last scene of Paul's life, on the confines of two worlds.",
+            "So the inner vesture and outer garment of Jesus, Paul's master, are suggestive of most instructive thought.",
+            "He was anxious respecting these that he might transmit them to the faithful, so that they might have the teaching of his writings when he should be gone."
+        ],
+        "Albert Barnes": [
+            "It should be remembered, also, that winter was approaching 2 Timothy 4:21, and such a cloak would be particularly needed.",
+            "He had probably passed through Troas in summer, and, not needing the cloak, and not choosing to encumber himself with it, had left it at the house of a friend.",
+            "It is impossible to determine what books are meant here. They may have been portions of the Old Testament, or classic writings, or books written by other Christians, or by himself."
+        ],
+        "John Calvin": [
+            "Still more does this expression refute the madness of those men who \u2014 despising books, and condemning all reading \u2014 boast of nothing but their own divine inspirations.",
+            "But let us know that this passage gives to all believers a recommendation of constant reading, that they may profit by it.",
+            "And when they have faithfully taught during their whole life, and when they are at the point of death, let them still desire to profit, in order to impart to their neighbors what they know."
+        ],
+        "Philip Schaff": [
+            "Age and infirmities make him wish in his prison at Rome for the cloak that had so often warmed him, or he wanted the material for his defence, or the books that were the companion of his solitude.",
+            "The books, but especially the parchments...included some of his own writings, or other records of the Apostolic Age.",
+            "St. Paul habitually travelled as with a portable library among his baggage."
+        ],
+        "Archibald T. Robertson": [
+            "The old preacher can be happy with his books.",
+            "One can only guess what rolls the old preacher longs to have with him, probably copies of Old Testament books, possibly copies of his own letters, and other books used and loved.",
+            "He would not waste his time in prison."
+        ],
+        "John Gill": [
+            "He would have him call for it at Troas as he came by, and bring it with him.\" ",
+            "The apostle was a great reader of books, of various sorts, both Gentile and Jewish, as appears by his citations out of the Heathen poets, and his acquaintance with Jewish records.\" ",
+            "Though he was now grown old, and near his exit, yet was mindful and careful of his books, and desirous of having them to read; and herein set an example to Timothy and others."
+        ],
+        "John Wesley": [
+            "The cloak \u2014 Either the toga, which belonged to him as a Roman citizen, or an upper garment, which might be needful as winter came on.",
+            "Which I left at Troas with Carpus \u2014 Who was probably his host there.",
+            "Especially the parchments \u2014 The books written on parchment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the last days of his life, the apostle Paul's mention of his cloak reveals a profound insight into his circumstances. Just as Jesus had both an inner vesture and outer garment that held deep significance, Paul cherished his cloak, not as a mere possession, but as a symbol of his role as a teacher to the faithful. Even in prison, Paul's longing for his books and parchments demonstrates his commitment to learning and his desire to continue sharing his knowledge and insights with others. He understood the value of reading and studying, recognizing the importance of constant growth and being able to pass on wisdom to those around him. Despite his imminent departure, Paul remained devoted to the written word, leaving behind a powerful example for Timothy and all believers to embrace the lifelong pursuit of knowledge and understanding.",
+            "wordCount": 142,
+            "quoteTokenProportion": 30.85,
+            "qualityScore": 1.6519807717381965,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                37.45,
+                32.78,
+                29.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the last days of his life, the apostle Paul's mention of his cloak sheds light on the significance of his final moments. Like Jesus, Paul saw his cloak as more than a practical item; it represented his role as a teacher to the faithful. Even in prison, he yearned for his books and parchments, revealing his commitment to learning and his desire to share knowledge. Despite his imminent departure, Paul's unwavering dedication to the written word serves as an inspiration for believers to pursue lifelong growth and pass on wisdom to others.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.7279629991934562,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                38.5,
+                33.7,
+                27.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In his final days, Paul's mention of his cloak holds deep significance. It illuminates the last chapter of his life, a glimpse into his world on the confines of two worlds. Much like Jesus, Paul's master, who possessed both an inner vesture and outer garment, his cloak symbolized his role as a teacher to the faithful. Even in prison, Paul longed for his books and parchments, emphasizing the value he placed on knowledge and the importance of continuous learning and imparting wisdom to others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.6471867256926238,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.11,
+            "commentatorTierSimilarities": [
+                40.64,
+                33.38,
+                25.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's mention of his cloak in his final days sheds light on the profound significance of this detail. It reveals how the garment symbolized his role as a teacher to the faithful, much like Jesus and his own inner vesture and outer garment. Despite being in prison, Paul's longing for his books and parchments exemplifies his commitment to knowledge and the desire to share his insights. His example serves as an inspiration to all believers, urging them to embrace continual learning and the opportunity to impart wisdom to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.641220665925275,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                39.24,
+                30.84,
+                29.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In his final days, Paul's mention of his cloak offers a vivid glimpse into his life on the cusp of eternity. Symbolically, the cloak represents his role as a teacher, mirroring Jesus' inner vesture and outer garment. Even in prison, Paul longed for his books and parchments, a testament to his unwavering commitment to learning and sharing knowledge. His example encourages believers to prioritize constant growth and to impart wisdom to others, inspiring a devotion to the written word and an unyielding love for learning.",
+            "wordCount": 86,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.5755565934951798,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.73,
+            "commentatorTierSimilarities": [
+                39.75,
+                32.69,
+                27.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

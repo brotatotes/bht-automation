@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:21:03",
+    "verseRef": "Luke 16:25",
+    "bestBHT": {
+        "bht": "The rich man is met with a solemn and fatherly answer, free from mockery or grief. The good things he received in his lifetime have come to an end, leaving him with nothing. This stinging acknowledgment of their claimed relationship underscores the power of present desires in shaping future bliss. Nevertheless, in death, all evil is released, and one is ushered into uninterrupted goodness. This serves as a poignant reminder that the friendship of God surpasses the temporary treasures of this world.",
+        "wordCount": 82,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.7844726088573961,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+        "commentatorTierSimilarities": [
+            29.52,
+            35.07,
+            35.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The answer is solemn, calm, and fatherly;\u2014there is no mocking... no grief.",
+            "That which he was to remember is not sufficiently expressed by 'receivedst,' A.V.:\u2014it is analogous to the word in Matt. vi. 2, 5, 16,\u2014and expresses the receipt in full, the exhaustion of all claim on.",
+            "Those that were good things to thee, thy good things came to an end in thy lifetime: there are no more of them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Son\u2014stinging acknowledgment of the claimed relationship.",
+            "As it is a great law of God's kingdom, that the nature of our present desires shall rule that of our future bliss.",
+            "He whose 'evil things,' all crowded into the present life, drove him to seek, and find, consolation in a life beyond the grave, is by death released from all evil and ushered into unmixed and uninterrupted good."
+        ],
+        "Albert Barnes": [
+            "One of the chief torments of hell will be the 'remembrance' of what was enjoyed and of what was done in this world.",
+            "Nor will it be any mitigation of the suffering to spend an 'eternity' where there will be nothing else to do, day or night, but to 'remember' what 'was' done, and what 'might have been,' if the life had been right.",
+            "How much better, therefore, is poverty, with the friendship of God, than riches, with all that the world can bestow!"
+        ],
+        "Marvin Vincent": [
+            "Son [\u03c4\u03b5\u03ba\u03bd\u03bf\u03bd] . Lit., child.\" ",
+            "Receivedst [\u03b1\u03c0\u03b5\u03bb\u03b1\u03b2\u03b5\u03c2] . Received back [\u03b1\u03c0\u03bf] as a reward or quittance.\" ",
+            "Gulf [\u03c7\u03b1\u03c3\u03bc\u03b1] . From caskw, to yawn. Transcribed into the English chasm. In medical language, of the cavities in a wound or ulcer."
+        ],
+        "John Calvin": [
+            "Riches do not shut against any man the gate of the kingdom of heaven, but that it is open alike to all who have either made a sober use of riches, or patiently endured the want of them.",
+            "All that is meant is, that the rich man, who yielded to the allurements of the present life, abandoned himself entirely to earthly enjoyments, and despised God and His kingdom, now suffers the punishment of his own neglect.",
+            "They who have patiently endured the burden of the cross laid upon them, and have not been rebellious against the yoke and chastisements of God, but, amidst uninterrupted sufferings, have cherished the hope of a better life, have a rest laid up for them in heaven."
+        ],
+        "Philip Schaff": [
+            "Remember. Memory remains and is intensified in that state ; it is here appealed to so as to prove to the man in torment the picture of his lot.",
+            "Thy good things. Thy is emphatic ; what he had on earth, his wealth, was regarded as his chief good. Hence he received all his portion there.",
+            "But now, etc. The reason was not that Lazarus had been poor and the other man rich. It was the rich man\u2019s estimate of his wealth, of which Abraham spoke."
+        ],
+        "Archibald T. Robertson": [
+            "Receivedst (\u03b1\u03c0\u03b5\u03bb\u03b1\u03b2\u03b5\u03c2). Second aorist indicative of \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, old verb to get back what is promised and in full.\" ",
+            "Evil things (\u03c4\u03b1 \u03ba\u03b1\u03ba\u03b1). Not 'his,' but 'the evil things' that came upon him.\" ",
+            "Thou art in anguish (\u03bf\u03b4\u03c5\u03bd\u03b1\u03c3\u03b1). Like \u03ba\u03b1\u03c5\u03c7\u03b1\u03c3\u03b1 in Romans 2:17. They contracted -\u03b1\u03b5\u03c3\u03b1 without the loss of \u03c2. Common in the Koine."
+        ],
+        "John Gill": [
+            "Good men have not always good children, nor is any trust to be put in birth and parentage.",
+            "Christ being raised from the dead, and set in human nature at the right hand of God, is comforted with the presence of God, which for a while he was deprived of when on the cross.",
+            "Christ...is delighted with the glory that it put upon him as man; and with pleasure sees the travail of his soul continually, his elect and redeemed ones, called and gathered by the grace of God, who are his jewels, his portion, and goodly heritage."
+        ],
+        "John Wesley": [
+            "Is it not worthy of observation, that Abraham will not revile even a damned soul? and shall living men revile one another?\" ",
+            "Thou in thy lifetime receivedst thy good things - Thou didst choose and accept of worldly things as thy good, thy happiness.\" ",
+            "This damnable idolatry, had there been nothing more, was enough to sink him to the nethermost hell."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the rich man in Luke 16:25 looks across the chasm, he is met with a solemn and fatherly answer, void of mockery or grief. The good things he once enjoyed in his lifetime have come to an end, leaving him with nothing. This acknowledgment of their claimed relationship stings the rich man, as it is a reminder that the nature of our present desires will determine our future bliss. However, in death, the one who sought consolation in a life beyond the grave is released from all evil and ushered into unmixed and uninterrupted goodness. Son, remember that the treasures of this world pale in comparison to the friendship of God, and it is better to be poor with Him than rich without Him.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.941900234087052,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                24.21,
+                38.07,
+                37.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The answer to the rich man in the passage is solemn and fatherly, without mockery or grief. The rich man received his good things in his lifetime, and now they have come to an end. The relationship between the rich man and his past blessings is acknowledged, causing him great anguish. This verse serves as a reminder that our present desires shape our future bliss, as death releases us from evil and ushers us into eternal goodness. It is better to have the friendship of God than all the riches of this world.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.886048663520461,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.05,
+            "commentatorTierSimilarities": [
+                22.6,
+                39.44,
+                37.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In response to the rich man, the solemn and fatherly answer he receives is void of mockery or grief. His good things came to an end in his lifetime, leaving him with nothing. This acknowledgement of their relationship stings, emphasizing the significance of our present desires shaping our future bliss. However, with death comes release from all evil and entrance into unmixed, uninterrupted good. This calls to mind the importance of the friendship of God over the fleeting treasures of this world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.71745022237282,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+            "commentatorTierSimilarities": [
+                28.23,
+                36.93,
+                34.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rich man is met with a solemn and fatherly response, free from mockery or grief. His good things came to an end in his lifetime, leaving him with nothing. The acknowledgement of their relationship stings, emphasizing the role of present desires in determining future bliss. Yet, through death, the one whose evil things crowded into this life finds release from all evil and is ushered into unmixed and uninterrupted good. This serves as a reminder of the surpassing value of the friendship of God over earthly treasures.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7662617580502409,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                27.48,
+                36.17,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rich man is met with a solemn and fatherly answer, free from mockery or grief. The good things he received in his lifetime have come to an end, leaving him with nothing. This stinging acknowledgment of their claimed relationship underscores the power of present desires in shaping future bliss. Nevertheless, in death, all evil is released, and one is ushered into uninterrupted goodness. This serves as a poignant reminder that the friendship of God surpasses the temporary treasures of this world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7844726088573961,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.68,
+            "commentatorTierSimilarities": [
+                29.52,
+                35.07,
+                35.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

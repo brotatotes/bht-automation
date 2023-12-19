@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:30:35",
+    "verseRef": "Acts 13:24",
+    "bestBHT": {
+        "bht": "John the Baptist, as a herald before the King, preached the baptism of repentance before the coming of Christ. His authority as a prophet was acknowledged, and his mission stirred the Holy Land, alarming the Jewish nation. John's role was to go before the face of Christ, to announce His coming and testify to Him. It is emphasized that the sacrament of baptism should be administered with doctrine, as the sign is meaningless without it.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.03192578338818,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+        "commentatorTierSimilarities": [
+            27.53,
+            35.87,
+            36.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "24. before the presence of his coming] referring to \u201cbrought\u201d above, when his coming forward publicly was about to take place."
+        ],
+        "Albert Barnes": [
+            "When John had first preached ... - After John had preached and prepared the way, Matthew 3:0:"
+        ],
+        "Marvin Vincent": [
+            "Before his coming [\u03c0\u03c1\u03bf \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03b5\u03b9\u03c3\u03bf\u03b4\u03bf\u03c5 \u03b1\u03c5\u03c4\u03bf\u03c5] . Lit., before the face of his entrance. A Hebrew form of expression."
+        ],
+        "John Calvin": [
+            "There was another respect to be had to John whom all men almost did think to be a prophet of God. Therefore hence cometh the authority of the testimony, that a crier sent from heaven, and no private man, speaketh of Christ.",
+            "The Jews had indeed in the law their baptisms or washings, which were also exercises of repentance, but John was the author of new and strange baptism, or rather the minister, who put them in hope of the restoring long looked-for and desired.",
+            "We must note the phrase, that he preached baptism. Whereby we are taught that the sacraments are then rightly administered, when doctrine is joined with the visible figure; for the mouth of the baptizer must not be dumb, because the sign is vain without doctrine."
+        ],
+        "Philip Schaff": [
+            "John having preached before His coming.",
+            "A vast number of the Jews seem to have acknowledged John\u2019s authority as a prophet.",
+            "His mission created a great stir in the Holy Land."
+        ],
+        "Archibald T. Robertson": [
+            "John heralding beforehand, as a herald before the king.",
+            "Before the face of his entering in.",
+            "Baptism marked by, characterized by (genitive case, case of kind or species) repentance (change of mind and life)."
+        ],
+        "John Gill": [
+            "John did not preach before the coming of Christ in the flesh, being born but half a year before him; but before he came forth and was manifest to Israel; before he entered upon his work and office, as a prophet and teacher of the people.",
+            "And this points out the business of John the Baptist, who was the forerunner of Christ, and went before his face to prepare his way, who gave notice of his coming, and bore testimony to him.",
+            "He not only administered the ordinance of baptism, but he preached the doctrine of it, opened the nature and design of it, and required repentance and fruits meet for it, in those who came to have it administered to them: for which reason it is called the baptism of repentance."
+        ],
+        "John Wesley": [
+            "John having first preached \u2014 He mentions this, as a thing already known to them.",
+            "For it gave so loud an alarm to the whole Jewish nation.",
+            "...as could not but be heard of in foreign countries, at least as remote as Pisidia."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John the Baptist, heralding beforehand like a crier sent from heaven, preached the baptism of repentance before the coming of Christ. His authority as a prophet was acknowledged by many, and his mission created a great stir in the Holy Land. John's preaching and preparation served to give a loud alarm, reaching as far as Pisidia and capturing the attention of the Jewish nation. His role was to go before the face of Christ, to announce His coming and bear testimony to Him. Therefore, when it is said that John preached baptism, it is emphasized that the sacrament is rightly administered when joined with doctrine, as the sign is vain without it.",
+            "wordCount": 113,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0698415097963387,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.16,
+            "commentatorTierSimilarities": [
+                27.83,
+                35.95,
+                36.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John the Baptist, as a prophet sent from heaven, heralded beforehand and preached the baptism of repentance. His mission created a great stir in the Holy Land, with a vast number of Jews acknowledging his authority. John's role was to go before the face of Christ, announcing His coming and bearing testimony to Him. It is emphasized that the sacrament of baptism is rightly administered when joined with doctrine, as the sign is vain without it.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.012016780377772,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.24,
+            "commentatorTierSimilarities": [
+                26.65,
+                37.04,
+                36.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John the Baptist, as a herald before the King, preached the baptism of repentance before the coming of Christ. His authority as a prophet was acknowledged, and his mission stirred the Holy Land, alarming the Jewish nation. John's role was to go before the face of Christ, to announce His coming and testify to Him. It is emphasized that the sacrament of baptism should be administered with doctrine, as the sign is meaningless without it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.03192578338818,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.87,
+                36.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John the Baptist, as a herald before the King, preached the baptism of repentance before the coming of Christ. His authority as a prophet was acknowledged, and his mission stirred the Holy Land, alarming the Jewish nation. John's role was to go before the face of Christ, to announce His coming and testify to Him. It is emphasized that the sacrament of baptism should be administered with doctrine, as the sign is meaningless without it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.03192578338818,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.87,
+                36.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John the Baptist, as a herald before the King, preached the baptism of repentance before the coming of Christ. His authority as a prophet was acknowledged, and his mission stirred the Holy Land, alarming the Jewish nation. John's role was to go before the face of Christ, to announce His coming and testify to Him. It is emphasized that the sacrament of baptism should be administered with doctrine, as the sign is meaningless without it.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.03192578338818,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                27.53,
+                35.87,
+                36.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

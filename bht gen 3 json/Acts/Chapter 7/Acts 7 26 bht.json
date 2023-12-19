@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:27:26",
+    "verseRef": "Acts 7:26",
+    "bestBHT": {
+        "bht": "Moses tried to reconcile two parties in Israel who were in conflict with each other, but his unauthorized interference was resented by the party in the wrong. Stephen, in his speech, identifies with the nation and highlights how both his and Moses' interpositions were rejected. Moses appeared suddenly to the disputing parties and tried to bring them to peace, but his efforts were futile. This scene serves as a reminder that even among the Israelites, conflicts and arguments can arise, causing harm and division. It is a call for unity and brotherly love among God's people.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 1.5868182300405766,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+        "commentatorTierSimilarities": [
+            42.85,
+            28.81,
+            28.34
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not, 'he would have set them at peace,' as our A.V.: this explanation is not needed.\" ",
+            "The act, on Moses' part, was complete.",
+            "He set them at peace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here, not an Israelite and an Egyptian, but two parties in Israel itself, are in collision with each other.\" ",
+            "Moses, grieved at the spectacle, interposes as a mediator; but his interference, as unauthorized, is resented by the party in the wrong.\" ",
+            "Stephen identifies with the mass of the nation, just as Messiah's own interposition had been spurned."
+        ],
+        "Albert Barnes": [
+            "He appeared in a sudden and unexpected manner to them.",
+            "One of the most melancholy scenes in the world is that, where those who are poor, and afflicted, and oppressed, add to all their other calamities altercations and strifes among themselves.",
+            "Ye are 'brethren,' members of the same great family, and why do you contend with each other?"
+        ],
+        "Marvin Vincent": [
+            "Appeared [\u03c9\u03c6\u03b8\u03b7] . With the suggestion of a sudden appearance as in a vision; possibly with the underlying notion of a messenger of God.\" ",
+            "Would have set them at one [\u03c3\u03c5\u03bd\u03b7\u03bb\u03b1\u03c3\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c2 \u03b5\u03b9\u03c1\u03b7\u03bd\u03b7\u03bd] . Lit., drove them together to peace; urged them."
+        ],
+        "John Calvin": [
+            "The wickedness of men doth oftentimes hinder God from doing that [which] he would do.",
+            "They were to thank God for giving such a faithful patron in the king\u2019s court.",
+            "We must be the more careful to bridle our lust, lest we run headlong with such blind fury against those which are desirous to cure our vices."
+        ],
+        "Archibald T. Robertson": [
+            "On the following day... It was sudden or unexpected.\" ",
+            "He tried to reconcile them (or change them into peace).",
+            "The same word used... but here both are 'brethren.'"
+        ],
+        "John Gill": [
+            "And the next day he showed himself to them, as they strove...these are said by the Jews to be Dathan and Abiram...who were disputing and litigating the point, and were very warm, and at high words.\" ",
+            "sirs, ye are brethren; as Abraham said to Lot, when there was a strife between their herdsmen...and if these two were Dathan and Abiram, they were brethren in the strictest sense.",
+            "why do ye wrong one to another? by abusing each other, calling ill names, or striking one another; or by lifting up the hand to strike..."
+        ],
+        "John Wesley": [
+            "He showed himself \u2014 Of his own accord, unexpectedly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Moses tried to reconcile two parties in Israel who were in conflict with each other, but his unauthorized interference was resented by the party in the wrong. Stephen, in his speech, identifies with the nation and highlights how both his and Moses' interpositions were rejected. Moses appeared suddenly to the disputing parties and tried to bring them to peace, but his efforts were futile. This scene serves as a reminder that even among the Israelites, conflicts and arguments can arise, causing harm and division. It is a call for unity and brotherly love among God's people.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.5868182300405766,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.1,
+            "commentatorTierSimilarities": [
+                42.85,
+                28.81,
+                28.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Moses, in an attempt to reconcile two parties within Israel, had his unauthorized interference rejected by the guilty party. Stephen, echoing this rejection, aligns with the nation and highlights the spurned interventions of both himself and Moses. In a sudden and unexpected appearance, Moses tried to drive the disputing parties towards peace, but his efforts proved futile. This passage serves as a poignant reminder that conflicts and divisions can arise even among God's chosen people, calling for unity and brotherly love.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.5961152674183876,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+            "commentatorTierSimilarities": [
+                43.68,
+                25.35,
+                30.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Moses attempted to reconcile two opposing parties within Israel, but his unauthorized intervention was met with resistance from the guilty party. Stephen draws parallels between his own rejected intervention and that of Moses. Moses suddenly appeared, seeking to drive the disputing parties towards peace, but his efforts proved unsuccessful. This account serves as a poignant reminder that conflicts and divisions can arise even among God's chosen people, emphasizing the need for unity and brotherly love.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.4979476714242246,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                49.51,
+                17.0,
+                33.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses, grieved by the collision between two parties within Israel, interposed as a mediator to bring them to peace. However, his unauthorized intervention was resented by the party in the wrong. Stephen connects with the nation, highlighting how both his and Moses' interpositions were spurned. Moses appeared suddenly, driving the disputing parties toward unity, but his efforts were futile. This scene reminds us that even within the Israelites, conflicts and divisions can arise, calling for unity and brotherly love among God's people.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.520884788668877,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.91,
+            "commentatorTierSimilarities": [
+                49.35,
+                19.26,
+                31.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Moses, grieved by the collision between two parties within Israel, interposed as a mediator. Stephen compares his own rejected intervention with that of Moses. Moses suddenly appeared, driving the disputing parties toward unity, but his efforts were futile. This scene reminds us that even within the Israelites, conflicts and divisions can arise, calling for unity and brotherly love among God's people.",
+            "wordCount": 62,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.4917740629771135,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                49.79,
+                18.61,
+                31.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

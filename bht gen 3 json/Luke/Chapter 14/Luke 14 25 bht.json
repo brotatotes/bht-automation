@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:19:47",
+    "verseRef": "Luke 14:25",
+    "bestBHT": {
+        "bht": "As Jesus journeyed to Jerusalem, many multitudes, who had united themselves into one mass about Him, accompanied Him. These individuals were likely on their way to the Passover and were filled with enthusiasm. However, Jesus sought to redirect their focus and warned them that to truly be His disciples, they must be willing to relinquish everything close and significant to them. Moreover, they should anticipate great hardships and challenges for the sake of His name. Jesus delivered this message solemnly and with a grave countenance, ensuring that His audience comprehended the serious commitment it entailed to follow Him.",
+        "wordCount": 98,
+        "quoteTokenProportion": 46.58,
+        "qualityScore": 1.2733332974372498,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+        "commentatorTierSimilarities": [
+            36.51,
+            20.53,
+            42.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Great multitudes with him\u2014on His final journey to Jerusalem.",
+            "The 'great multitudes' were doubtless people going to the passover.",
+            "Who on this occasion falling in with our Lord had formed themselves into one mass about Him."
+        ],
+        "Philip Schaff": [
+            "A continued journeying with Him is meant.",
+            "The multitudes were probably from different places.",
+            "Various companies on the way to the approaching Passover feast."
+        ],
+        "Archibald T. Robertson": [
+            "a deliberate effort to check the wild and unthinking enthusiasm of the crowds\" ",
+            "to be following\" ",
+            "Note 'many multitudes' (\u03bf\u03c7\u03bb\u03bf \u03c0\u03bf\u03bb\u03bb\u03bf) and the imperfect tense \u03c3\u03c5\u03bd\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03bf\u03bd\u03c4\u03bf, were going along with him."
+        ],
+        "John Gill": [
+            "Jesus therefore, to draw off their minds from such views, and that they might not be disappointed, acquaints them, that if they would be his disciples, they must part with all that was near and dear to them.",
+            "and prepare to suffer great hardships and difficulties for his name's sake.",
+            "with a grave and stern countenance, looking wistly at them, and in the most solemn manner delivered what is hereafter related."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus traveled to Jerusalem, great multitudes joined Him, possibly on their way to the Passover feast. However, Jesus made a deliberate effort to temper the enthusiasm of the crowds and emphasized the cost of being His disciples. He challenged them to forsake everything dear to them and be willing to endure hardships and difficulties for His sake. Jesus's words were delivered with seriousness and solemnity, revealing the gravity of the commitment He was asking of them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.2577912270953417,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.16,
+            "commentatorTierSimilarities": [
+                36.93,
+                20.02,
+                43.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus journeyed to Jerusalem, many multitudes, who had united themselves into one mass about Him, accompanied Him. These individuals were likely on their way to the Passover and were filled with enthusiasm. However, Jesus sought to redirect their focus and warned them that to truly be His disciples, they must be willing to relinquish everything close and significant to them. Moreover, they should anticipate great hardships and challenges for the sake of His name. Jesus delivered this message solemnly and with a grave countenance, ensuring that His audience comprehended the serious commitment it entailed to follow Him.",
+            "wordCount": 98,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 1.2733332974372498,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.68,
+            "commentatorTierSimilarities": [
+                36.51,
+                20.53,
+                42.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On His final journey to Jerusalem, Jesus was surrounded by great multitudes, possibly people on their way to the Passover. However, He wanted to temper their enthusiasm and cautioned them about the cost of discipleship. He called for a complete abandonment of all that was dear to them and readiness to endure tremendous hardships for His sake. With a solemn countenance, Jesus delivered this message, illustrating the gravity of the commitment He expected from those who wished to follow Him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.227483519592523,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.16,
+            "commentatorTierSimilarities": [
+                39.13,
+                19.33,
+                41.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus made His way to Jerusalem, many multitudes accompanied Him, likely individuals en route to the Passover feast. Yet, He intentionally sought to restrain their unthinking enthusiasm, emphasizing the necessity of a genuine commitment to discipleship. Jesus declared that they must relinquish all things cherished and be prepared to endure great difficulties for His sake. With a serious countenance, He delivered these words, underlining the weightiness of the decision required to truly follow Him.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.2110441356310666,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.61,
+            "commentatorTierSimilarities": [
+                37.23,
+                22.7,
+                40.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus journeyed to Jerusalem with great multitudes, people who had united themselves into one mass around Him, He intended to check their wild and unthinking enthusiasm. He reminded them that to be His disciples, they needed to be willing to forsake everything near and dear to them. Furthermore, they must expect and be ready to endure considerable hardships and difficulties for the sake of His name. Jesus delivered this admonition with a grave and stern countenance, highlighting the seriousness of the commitment He asked of them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.2413709038542284,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.62,
+            "commentatorTierSimilarities": [
+                34.29,
+                14.41,
+                51.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

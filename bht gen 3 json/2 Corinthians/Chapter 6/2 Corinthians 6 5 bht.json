@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:16:28",
+    "verseRef": "2 Corinthians 6:5",
+    "bestBHT": {
+        "bht": "Paul, in his letter to the Corinthians, extensively details the trials he encountered as an apostle. These included imprisonments in various cities, weariness from his arduous apostolic labor, and the anxiety he bore for the churches. He acknowledged both voluntary and involuntary periods of fasting, in addition to experiencing beatings, enduring tumults, and enduring sleepless nights. Despite these numerous challenges, Paul remained unwavering in his commitment to his divine calling as a minister of God.",
+        "wordCount": 75,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 1.6467580719618167,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+        "commentatorTierSimilarities": [
+            25.86,
+            47.21,
+            26.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He may have been imprisoned at Antioch in Pisidia, Acts xiii. 50, and at Lystra, xiv. 19, and at Corinth, xviii, 12, 11: and we cannot tell what may have befallen him during his journeys.\" ",
+            "The word usually, and here, signifies \u2018labour in the Lord,\u2019 for His sake...it is most probable that the weariness of his excessive apostolic labour was in his mind.",
+            "I would rather believe the watchings to have been watchings through anxiety for the churches."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "foodlessness\" would seem to be the sense (compare 1 Corinthians 4:11; Philippians 4:12). But the usual sense of the Greek is fasts, in the strict sense; and in Philippians 4:12- : it is spoken of independently of \"hunger and thirst.",
+            "The apostles combine the highest offices with the humblest exterior: as everything in the Church was to be cast in the mould of death and resurrection, the cardinal principle throughout Christianity.",
+            "The context here refers to his trials, rather than devotional exercises."
+        ],
+        "Albert Barnes": [
+            "In stripes - In this verse, Paul proceeds to specifications of what he had been called to endure.",
+            "In tumults - Here it means that in the various tumults and commotions which were produced by the preaching of the gospel, Paul endeavored to act as became a minister of God.",
+            "In fastings - Referring probably not only to the somewhat frequent fasts to which he voluntarily submitted as acts of devotion, but also to the fact that in his travels, when abroad and among strangers, he was often destitute of food."
+        ],
+        "Marvin Vincent": [
+            "Imprisonments...Tumults...Watchings...Fastings.\" ",
+            "This is one of the words which show the influence of political changes.",
+            "Voluntary fasting would be out of place in an enumeration of hardships."
+        ],
+        "John Calvin": [
+            "In proportion to the calmness and gentleness of Paul\u2019s disposition was there the greater excellence displayed in his standing undaunted in the face of tumults.\" ",
+            "Unquestionably, two things are required on the part of ministers of the Gospel \u2014 that they should endeavor to the utmost of their power to maintain peace, and yet on the other hand go forward, undaunted, through the midst of commotions, so as not to turn aside from the right course, though heaven and earth should be mingled.",
+            "He does not mean \u2014 hunger arising from destitution, but a voluntary exercise of abstinence."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 6:5. in stripes . . . tumults from without, arising from opposition to his ministry; in labours . . . fastings undergone as a self-denying Christian and minister of Christ;",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "In stripes (\u03b5\u03bd \u03c0\u03bb\u03b7\u03b3\u03b1\u03b9\u03c2). In blows, wounds.\" ",
+            "In tumults (\u03b5\u03bd \u03b1\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1\u03b9\u03c2). Instabilities, often from politics.",
+            "In watchings (\u03b5\u03bd \u03b1\u03b3\u03c1\u03c5\u03c0\u03bd\u03b9\u03b1\u03b9\u03c2). Instances of insomnia."
+        ],
+        "John Gill": [
+            "In stripes...scourged by the Jews with the scourge of forty stripes save one.",
+            "In tumults;...being drove from place to place through the fury of their enemies.",
+            "In fastings;...involuntary ones, through want of food to eat."
+        ],
+        "John Wesley": [
+            "In tumults \u2014 The Greek word implies such attacks as a man cannot stand against, but which bear him hither and thither by violence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his letter to the Corinthians, enumerates the hardships he has endured as an apostle. He mentions imprisonments in various cities, the weariness from excessive apostolic labor, and the anxiety he felt for the churches. His list also includes fasts, perhaps referring to both voluntary acts of devotion and times when he was destitute of food during his travels. Paul's experiences of being beaten, facing tumults, and suffering sleepless nights further demonstrate the challenges he faced. Despite these hardships, Paul remained resolute and undaunted in the face of opposition, remaining steadfast in his mission as a minister of God.",
+            "wordCount": 101,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 1.6987211239292725,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                27.21,
+                44.35,
+                28.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, lists the trials he endured as an apostle. He mentions imprisonments, weariness from apostolic labor, and anxiety for the churches. His list also includes fasts, both voluntary and from lack of food during his travels. Paul endured beatings, tumults, and sleepless nights. Despite these challenges, he remained undaunted and resolute in his mission as a minister of God.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.5696984071230422,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.53,
+            "commentatorTierSimilarities": [
+                28.47,
+                41.95,
+                29.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, provides a comprehensive account of the hardships he has faced as an apostle. This includes imprisonments in various cities, weariness from his labor in the Lord, and the anxiety he felt for the wellbeing of the churches. He mentions both voluntary and involuntary periods of fasting, as well as experiencing beatings, facing tumults, and enduring sleepless nights. Yet, despite these challenges, Paul remained unwavering in his commitment to his role as a minister of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6202962438132171,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.22,
+            "commentatorTierSimilarities": [
+                25.81,
+                46.43,
+                27.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, extensively details the trials he encountered as an apostle. These included imprisonments in various cities, weariness from his arduous apostolic labor, and the anxiety he bore for the churches. He acknowledged both voluntary and involuntary periods of fasting, in addition to experiencing beatings, enduring tumults, and enduring sleepless nights. Despite these numerous challenges, Paul remained unwavering in his commitment to his divine calling as a minister of God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.6467580719618167,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.1,
+            "commentatorTierSimilarities": [
+                25.86,
+                47.21,
+                26.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his letter to the Corinthians, provides a glimpse into the various hardships he faced as an apostle. He mentions imprisonments in several cities, weariness from his excessive apostolic labor, and the anxiety he felt for the churches. Paul also speaks of fasting, both voluntary acts of devotion and times when he lacked food during his travels. Additionally, he endured beatings, tumults, and sleepless nights. Despite these challenges, Paul remained steadfast and undeterred in his mission as a minister of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.6221046992657642,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                26.5,
+                45.46,
+                28.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

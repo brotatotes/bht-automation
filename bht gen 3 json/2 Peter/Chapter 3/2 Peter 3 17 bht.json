@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:41:01",
+    "verseRef": "2 Peter 3:17",
+    "bestBHT": {
+        "bht": "Beware and be on guard, for there are unlearned and unstable individuals who may lead you astray with their lawlessness. The Epistles of James, Peter, John, and Jude were written as a general guide for the faithful, leaving no excuse for those who misinterpret them. Let this warning motivate you to diligently study the Word of God, fully aware that you can be carried away by the powerful current of error. Be vigilant and watchful against the craft and treacheries of Satan and the wicked, and preserve your steadfastness in God's promises.",
+        "wordCount": 93,
+        "quoteTokenProportion": 38.03,
+        "qualityScore": 1.634189150413938,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+        "commentatorTierSimilarities": [
+            20.57,
+            37.76,
+            41.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Ye\u2014warned by the case of those 'unlearned and unstable' persons.",
+            "Knowing . . . before\u2014the event.",
+            "Wicked\u2014'lawless,' as in 2 Peter 2:7."
+        ],
+        "Albert Barnes": [
+            "People should read the Bible with the feeling that it is possible that they may fall into error, and be deceived at last.",
+            "This apprehension will do much to make them diligent, and candid, and prayerful, in studying the Word of God.",
+            "The particular danger here referred to is not that of falling from grace, or from true religion, but from the firm and settled principles of religious truth into error."
+        ],
+        "Marvin Vincent": [
+            "Being led away [\u03c3\u03c5\u03bd\u03b1\u03c0\u03b1\u03c7\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2] . Better, Rev., carried away.",
+            "The term [\u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03b7] , catholic or general, applied to the Epistles of James, Peter, John, and Jude, was used from the second century onward in the sense of something addressed to the faithful generally.",
+            "In the later Western Church the group of letters known as catholic was called canonical through a mistaken interpretation of the words of Junilius."
+        ],
+        "John Calvin": [
+            "And, doubtless, the craft of our enemy, the many and various treacheries which he employs against us, the cavils of ungodly men, leave no place for security.",
+            "Hence, vigilance must be exercised, lest the devices of Satan and of the wicked should succeed in circumventing us.",
+            "The meaning is this, that as long as we are in the flesh, our tardiness must be roused, and that this is fitly done by having our weakness, and the variety of dangers which surround us, placed before our eyes; but that the confidence which rests on God\u2019s promises ought not to be thereby shaken."
+        ],
+        "Philip Schaff": [
+            "Beware lest, carried away with the error of the lawless, ye fall from your own stedfastness.",
+            "The phrase 'carried away with' is an extremely forcible one.",
+            "It may suggest the picture of the \u2018error\u2019 as a powerful current sweeping what it can into its bosom, and snatching the unwary off with it from the rock of their stedfastness."
+        ],
+        "Archibald T. Robertson": [
+            "Hence they are without excuse for misunderstanding Peter or Paul on this subject.",
+            "Beware (\u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03b5\u03c3\u03b8\u03b5). Present middle imperative of \u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03c9, common verb, to guard.",
+            "Lest (\u03b9\u03bd\u03b1 \u03bc\u03b7). Negative purpose, 'that not.'"
+        ],
+        "John Gill": [
+            "Beware lest ye also, being led away with the error of the wicked...",
+            "...be upon the watch and guard against them, having previous notice of them, for they lie in wait to deceive...",
+            "...though the saints can never finally and totally fall into sin, or from the truth, yet they may fall from their steadfastness..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Beware and be on guard, for there are unlearned and unstable individuals who may lead you astray with their lawlessness. Be cautious of their deceptive ways, for the Epistles of James, Peter, John, and Jude were written as a general guide for the faithful, and thus those who misinterpret these teachings have no excuse. Let this warning prompt you to diligently study the Word of God, fully aware that you can be carried away by the powerful current of error and be snatched from the rock of your stedfastness. Remember, the craft and treacheries of our enemy, Satan, leave no room for complacency. Therefore, exercise vigilance, staying on guard against the devices of the wicked. Though you may not fall from grace, your steadfastness can be shaken. So, remain watchful, having previous knowledge of the dangers that lie in wait to deceive, and hold fast to God's promises without wavering.",
+            "wordCount": 151,
+            "quoteTokenProportion": 33.64,
+            "qualityScore": 1.5826837139671637,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.97,
+            "commentatorTierSimilarities": [
+                18.62,
+                34.94,
+                46.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Beware and be on guard, for there are unlearned and unstable individuals who may lead you astray with their lawlessness. Let this warning prompt you to diligently study the Word of God, fully aware that you can be carried away by the powerful current of error and be snatched from the rock of your stedfastness. Exercise vigilance and remain watchful, for the craft and treacheries of our enemy, Satan, leave no room for complacency. Hold fast to God's promises without wavering.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.552927776958898,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+            "commentatorTierSimilarities": [
+                17.04,
+                36.87,
+                46.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Beware and be on guard, for there are \u201cunlearned and unstable\u201d individuals who may lead you astray with their lawlessness. Let this warning prompt you to diligently study the Word of God, fully aware that you can be \u201ccarried away\u201d by the powerful current of error and be snatched from your stedfastness. Exercise vigilance and remain watchful, for the craft of our enemy and the treacheries of the wicked leave no room for complacency. Hold fast to God\u2019s promises without wavering.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5429003270696735,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                16.25,
+                36.57,
+                47.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Beware and be on guard, for there are unlearned and unstable individuals who may lead you astray with their lawlessness. The Epistles of James, Peter, John, and Jude were written as a general guide for the faithful, leaving no excuse for those who misinterpret them. Let this warning motivate you to diligently study the Word of God, fully aware that you can be carried away by the powerful current of error. Be vigilant and watchful against the craft and treacheries of Satan and the wicked, and preserve your steadfastness in God's promises.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.634189150413938,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.68,
+            "commentatorTierSimilarities": [
+                20.57,
+                37.76,
+                41.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Beware and be on guard, for there are unlearned and unstable individuals who may lead you astray with their lawlessness. Let this warning prompt you to diligently study the Word of God, fully aware that you can be carried away by the powerful current of error and be snatched from the rock of your stedfastness. Exercise vigilance, remain watchful against the craft of our enemy, Satan, and the treacheries of the wicked. Hold fast to God's promises without wavering in your faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.5693529833757731,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                17.15,
+                36.78,
+                46.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

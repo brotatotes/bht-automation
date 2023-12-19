@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:16:24",
+    "verseRef": "Luke 8:7",
+    "bestBHT": {
+        "bht": "The thorns that grow alongside the word in this passage highlight the dangers posed by worldly cares and sensual pleasures. These distractions hinder the growth of the word, choking it and preventing it from bearing fruit. By using the term closed wounds, similar to how doctors unite nerves or bones, the image of thorns underscores the suffocating nature of these worldly concerns and pleasures. This serves as a cautionary reminder about the importance of guarding our hearts against such distractions to allow the word to flourish and produce lasting spiritual fruit.",
+        "wordCount": 91,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 1.1837952322633019,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+        "commentatorTierSimilarities": [
+            39.19,
+            0.0,
+            60.81
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Among [\u03b5\u03bd \u03bc\u03b5\u03c3\u03c9]. In the midst. Stronger than the simple ejn, in, as giving more prominence to the danger.",
+            "Sprung up with it [\u03c3\u03c5\u03bc\u03c6\u03c5\u03b5\u03b9\u03c3\u03b1\u03b9]. Only here in New Testament. See on ver. 6, and Matthew 13:7. The technical word among physicians for closing of wounds or ulcers, and uniting of nerves or bones.",
+            "Choked [\u03b1\u03c0\u03b5\u03c0\u03bd\u03b9\u03be\u03b1\u03bd]. Lit., choked off. Matthew has the simple epnixan, choked; and Mark sunepnixan; the sun, together, emphasizing the idea of compression. Luke is very fond of compounds and sonorous words."
+        ],
+        "Archibald T. Robertson": [
+            "Amidst the thorns.",
+            "Grew with it.",
+            "Choked."
+        ],
+        "John Gill": [
+            "Design such hearers who have their hearts filled with worldly cares, and sensual lusts and pleasures.",
+            "The thorns sprang up with it; and grew faster than that.",
+            "It yielded no fruit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 8:7, the dangers of worldly cares and sensual pleasures are emphasized by the image of thorns that grow with and choke the word. The word among in this verse signifies a more prominent danger. Just as physicians use the term closed wounds to describe the uniting of nerves or bones, the thorns symbolize those hearers whose hearts are filled with the cares and pleasures of this world, hindering the growth and fruitfulness of the word. These distractions grow faster and stronger, choking off any potential for spiritual fruitfulness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.2269129751577648,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.14,
+            "commentatorTierSimilarities": [
+                47.47,
+                0.0,
+                52.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dangers of worldly cares and sensual pleasures are prominent in this passage, depicted through the metaphor of thorns that grow with and choke the word. The thorns symbolize distractions that hinder the growth and fruitfulness of the word, closing off any potential for spiritual progress. These distractions overpower and ultimately choke out any signs of spiritual fruit. This image serves as a warning against allowing our hearts to be filled with the cares and pleasures of this world, as they can hinder our spiritual growth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.139239628966701,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.22,
+            "commentatorTierSimilarities": [
+                35.24,
+                0.0,
+                64.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The image of thorns growing alongside the word in Luke 8:7 serves as a warning about the dangers of worldly cares and sensual pleasures. The thorns symbolize distractions that hinder the growth of the word, obstructing its progress and preventing it from bearing fruit. This warns against allowing our hearts to be filled with the concerns and pleasures of this world, as they can suffocate our spiritual growth and render the word ineffectual in our lives.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.134525824763708,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.07,
+            "commentatorTierSimilarities": [
+                36.96,
+                0.0,
+                63.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The thorns that grow alongside the word in this passage highlight the dangers posed by worldly cares and sensual pleasures. These distractions hinder the growth of the word, choking it and preventing it from bearing fruit. By using the term closed wounds, similar to how doctors unite nerves or bones, the image of thorns underscores the suffocating nature of these worldly concerns and pleasures. This serves as a cautionary reminder about the importance of guarding our hearts against such distractions to allow the word to flourish and produce lasting spiritual fruit.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.1837952322633019,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.7,
+            "commentatorTierSimilarities": [
+                39.19,
+                0.0,
+                60.81
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The presence of thorns alongside the word signifies the prominence of worldly cares and sensual lusts that hinder spiritual growth. These distractions are described as growing faster than the word itself, choking it off and preventing it from yielding fruit. The imagery of thorns reflects the danger of hearts filled with worldly concerns and pleasures, which can overshadow and suffocate the growth of the word within us. This verse serves as a reminder to guard our hearts and prioritize spiritual matters over temporal distractions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.1349675001750452,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.08,
+            "commentatorTierSimilarities": [
+                36.97,
+                0.0,
+                63.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 15:13:37",
+    "verseRef": "1 Corinthians 15:22",
+    "bestBHT": {
+        "bht": "Adam brought in death, while Christ brings life. As the representative head, Adam subjected all to temporal death, just as all will be made alive in Christ. The focus is on restoration through resurrection, rather than eternal life or salvation. Humanity is dealt with under these two heads: Adam and Christ. The all-encompassing words of death and life capture the extent of the ruin in Adam and the recovery in Christ. Through Adam, all die, but through Christ, all will be made alive by a power not their own.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.3366508174406664,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.03,
+        "commentatorTierSimilarities": [
+            27.26,
+            41.37,
+            31.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In that He is (and here the fact of His being the Lord of Life and Righteousness, and the second and spiritual Head of our nature, are assumed) to us the bringer-in of LIFE, as Adam was the bringer-in of DEATH.",
+            "The antithesis is merely between the bringing in of death by Adam, and of life (its opposite) by Christ.",
+            "It was needful, he says, for the same nature which was defeated, itself to triumph, and for him who was stricken, himself to be victorious."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. in Adam all\u2014in union of",
+            "\tnature with Adam, as representative head of mankind in their fall. ",
+            "\t",
+            "in Christ . . . all\u2014in",
+            "\tunion of nature with Christ, the representative head of mankind in",
+            "\ttheir recovery. The life brought in by Christ is co-extensive with",
+            "\tthe death brought in by Adam."
+        ],
+        "Albert Barnes": [
+            "His deed was the procuring cause, or the reason, why all are subjected to temporal death.",
+            "The argument of the apostle here is ample to prove that all people are subjected to temporal death by the sin of Adam.",
+            "As the death of all was occasioned by the sin of one, even so, in like manner, the resurrection of all shall be produced by one."
+        ],
+        "Marvin Vincent": [
+            "All - all. What the all means in the one case it means in the other."
+        ],
+        "Philip Schaff": [
+            "It has been the Divine plan from the first, and will be to the last, that mankind shall be dealt with under two heads Adam and Christ hence called 'the first man' and 'the second man;' as if there never had been, nor ever will be more than those two men.",
+            "That the death by Adam and the life by Christ, here intended, mean death and life in their whole extent, as actually experienced.",
+            "It is Humanity as actually lost in Adam and as actually recovered in Christ, that the apostle is here treating of the whole ruin expressed by the all-comprehensive word 'death,' and the whole recovery expressed by the equally comprehensive word 'life.'"
+        ],
+        "Archibald T. Robertson": [
+            "Shall be made alive (\u03b6\u03c9\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03b7\u03c3\u03bf\u03bd\u03c4\u03b1). First future passive indicative of \u03b6\u03c9\u03bf\u03c0\u03bf\u03b9\u03b5\u03c9, late verb (Aristotle) to give life, to restore to life as here.",
+            "He means resurrection (restoration) by the verb here, but not necessarily eternal life or salvation.",
+            "All who die die in Adam, all who will be made alive will be made alive (restored to life) in Christ."
+        ],
+        "John Gill": [
+            "All men were in Adam seminally, as the common parent of human nature, in such sense as Levi was in the loins of Abraham.",
+            "They were all in him representatively, he being the federal head of all his posterity, and so a type and figure of Christ that was to come.",
+            "As all that were in Adam, all that belonged to him, all his natural seed and posterity, all to whom he was a federal head, died in him, became mortal, and subject to death through him; so all that are in Christ...shall be raised to an immortal life by him."
+        ],
+        "John Wesley": [
+            "As through Adam all, even the righteous, die, so through Christ all these shall be made alive...",
+            "He does not say, 'shall revive,' (as naturally as they die,) but shall be made alive...",
+            "...by a power not their own."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the contrast between Adam and Christ is highlighted. Adam brought death to mankind as the representative head, but Christ is the bringer of life. Just as all were subjected to temporal death through Adam, so all will be made alive in Christ. The focus is on restoration through resurrection, rather than eternal life or salvation. Humanity is dealt with under these two heads: Adam and Christ. The all-encompassing words of death and life capture the extent of the ruin in Adam and the recovery in Christ. Through Adam, all die, including the righteous, but through Christ, all will be made alive by a power not their own.",
+            "wordCount": 111,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.2950231483376604,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+            "commentatorTierSimilarities": [
+                26.74,
+                41.82,
+                31.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Adam brought in death, while Christ brings life. As the representative head, Adam subjected all to temporal death, just as all will be made alive in Christ. The focus is on restoration through resurrection, rather than eternal life or salvation. Humanity is dealt with under these two heads: Adam and Christ. The all-encompassing words of death and life capture the extent of the ruin in Adam and the recovery in Christ. Through Adam, all die, but through Christ, all will be made alive by a power not their own.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.3366508174406664,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.03,
+            "commentatorTierSimilarities": [
+                27.26,
+                41.37,
+                31.37
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 15:12:58",
+    "verseRef": "1 Corinthians 14:18",
+    "bestBHT": {
+        "bht": "Paul humbly expresses gratitude for his ability to speak in foreign tongues, surpassing others in this gift. This remarkable claim surely made a remarkable impact. Nevertheless, Paul emphasizes that his priority is to speak in a manner that others can comprehend and be spiritually built up, rather than simply displaying his linguistic skills. He values the instruction and edification of others more than personal achievements. While he does not diminish the importance of speaking in tongues, he underscores the greater significance of edifying the church.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.3398060295324645,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+        "commentatorTierSimilarities": [
+            19.02,
+            45.5,
+            35.48
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "18. tongues\u2014The oldest",
+            "\tmanuscripts have the singular, \"in a tongue [foreign]."
+        ],
+        "Albert Barnes": [
+            "I thank my God - Paul here shows that he did not undervalue or despise the power of speaking foreign languages.",
+            "It was with him a subject of thanksgiving that he could speak so many.",
+            "He had been commissioned to preach to the 'Gentiles,' and it is probable that he was able to speak the languages of all the nations among whom he ever traveled."
+        ],
+        "John Calvin": [
+            "See, how little occasion you have to suspect the design of my discourse, as if I depreciated what I myself lacked; for if we were to contend as to tongues, there is not one of you that could bear comparison with me.",
+            "While, however, I might display myself to advantage in this department., I am more concerned for edification.",
+            "Paul's doctrine derives no small weight from the circumstance, that he has not an eye to himself."
+        ],
+        "Philip Schaff": [
+            "I thank God, I speak with tongues more than ye all: yet in the church I had rather speak five words with my understanding so as to be understood by others.\" ",
+            "That I might instruct others also, than ten thousand words in a tongue."
+        ],
+        "Archibald T. Robertson": [
+            "More than you all (\u03c0\u03b1\u03bd\u03c4\u03c9\u03bd \u03c5\u03bc\u03c9\u03bd \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd). Ablative case after \u03bc\u03b1\u03bb\u03bb\u03bf\u03bd. Astonishing claim by Paul that doubtless had a fine effect. "
+        ],
+        "John Gill": [
+            "I thank my God, I speak with tongues more than you all.",
+            "[...] he did not despise speaking with tongues: nor did he endeavour to beat them off, and dissuade them from desiring them, or envied their having them [...]",
+            "[...] he had this gift in a very eminent manner, and oftentimes made use of it, and was frequently under a necessity of so doing [...]"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 14:18, Paul acknowledges his ability to speak in foreign languages, thanking God for this gift. It's an astonishing claim that undoubtedly had a powerful impact. Paul was commissioned to preach to the Gentiles, so it's likely he could speak the languages of the nations he encountered. However, Paul clarifies that his priority is to speak in a way that others can understand and be edified, rather than simply displaying his own linguistic abilities. It's important to note that Paul does not despise speaking in tongues and recognizes its value, but he emphasizes the importance of edifying others rather than showcasing personal linguistic prowess.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.5057722740531783,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.41,
+            "commentatorTierSimilarities": [
+                21.5,
+                46.36,
+                32.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul expresses gratitude to God for his ability to speak in foreign languages, surpassing all others in this gift. It's an astonishing claim that surely had a significant impact. However, Paul emphasizes that his priority is to speak with understanding and clarity, so as to edify others. He values instruction and the building up of the church more than showcasing his linguistic abilities. While he does not despise speaking in tongues, he emphasizes the importance of edification over personal achievement.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.2691341098466546,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.54,
+            "commentatorTierSimilarities": [
+                15.99,
+                48.07,
+                35.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul gratefully acknowledges his ability to speak in foreign tongues, surpassing others in this gift. His claim is extraordinary and surely had a profound impact. However, Paul emphasizes that his focus is on speaking in a way that others can understand and be edified, rather than showcasing his linguistic abilities. He treasures the instruction and edification of others over personal achievement. Although he values speaking in tongues, he underscores the importance of edification above all else.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.3316169447665571,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.62,
+            "commentatorTierSimilarities": [
+                17.68,
+                47.07,
+                35.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul humbly expresses gratitude for his ability to speak in foreign tongues, surpassing others in this gift. This remarkable claim surely made a remarkable impact. Nevertheless, Paul emphasizes that his priority is to speak in a manner that others can comprehend and be spiritually built up, rather than simply displaying his linguistic skills. He values the instruction and edification of others more than personal achievements. While he does not diminish the importance of speaking in tongues, he underscores the greater significance of edifying the church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.3398060295324645,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+            "commentatorTierSimilarities": [
+                19.02,
+                45.5,
+                35.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in 1 Corinthians 14:18, gratefully acknowledges his ability to speak in foreign tongues, surpassing others in this gift. His claim is remarkable, surely leaving a lasting impact. However, Paul emphasizes that his focus is not on showcasing his linguistic abilities, but rather to speak in a way that others can understand and be spiritually enriched. He values the instruction and edification of others over personal achievements, highlighting the importance of building up the church.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.2872102326301946,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.14,
+            "commentatorTierSimilarities": [
+                20.58,
+                45.82,
+                33.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

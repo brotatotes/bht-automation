@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:00:54",
+    "verseRef": "Romans 3:10",
+    "bestBHT": {
+        "bht": "The apostle uses a chain of quotations to prove that both Jews and Gentiles are equally dependent on God's mercy. These passages, which assert the depravity of mankind, serve as a summary for what follows in Paul's argument. None are righteous by their obedience to the law, and all individuals are under sin. This truth emphasizes the impossibility of justification by works and underscores the need for ecclesiastical teachers to rely on the sure testimony of Scripture. Ultimately, it is only through God's grace that anyone can be made righteous.",
+        "wordCount": 93,
+        "quoteTokenProportion": 41.43,
+        "qualityScore": 1.6986542460188878,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+        "commentatorTierSimilarities": [
+            21.38,
+            44.1,
+            34.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "These statements of the Psalmist were indeed suggested by particular manifestations of human depravity occurring under his own eye.\" ",
+            "But as this only showed what man, when unrestrained, is in his present condition.\" ",
+            "They were quite pertinent to the apostle's purpose."
+        ],
+        "Albert Barnes": [
+            "The point to be proved was, that the Jews, in the matter of justification, had no advantage or preference over the Gentiles; that the Jew had failed to keep the Law which had been given him, as the Gentile had failed to keep the Law which had been given him; and that both, therefore, were equally dependent on the mercy of God, incapable of being justified and saved by their works.",
+            "That the apostle applies the passages to the case of the Jews is admitted, yet it is evident more is contained in them than the single proof of Jewish depravity. They go all the length of proving the depravity of mankind, and are cited expressly with this view.",
+            "The design of the apostle, however, is not to prove that there were few or none pious. He is treating of the impossibility of justification by works, and alleges in proof that, according to the judgment of God in the Psalms 14:1 Psalm, there were none righteous, etc., in regard to their natural estate, or the condition in which man is, previous to his being justified."
+        ],
+        "John Calvin": [
+            "And hence let ecclesiastical teachers learn what their office is; for since Paul asserts here no truth but what he confirms by the sure testimony of Scripture, much less ought such a thing to be attempted by those, who have no other commission but to preach the gospel, which they have received through Paul and others.",
+            "The Apostle, who gives the meaning rather than the entire words, seems, in the first place, before he comes to particulars, to state generally the substance of what the Prophet declares to be in man, and that is \u2014 that none is righteous; he afterwards particularly enumerates the effects or fruits of this unrighteousness.",
+            "The eleventh verse (Romans 3:11) is from the same Psalm; the Hebrew, with which the Septuagint agree, except that there is the disjunctive\u1f22 between the participles, is the following, \u2014 'Whether there is any one who understands, who seeks after God.'"
+        ],
+        "Archibald T. Robertson": [
+            "As it is written, Paul here uses a catena or chain of quotations to prove his point in verse Romans 3:9 that Jews are in no better fix than the Greeks for all are under sin.",
+            "Paul may have used one of them or he may have put these passages together himself.",
+            "This sentence is like a motto for all the rest, a summary for what follows."
+        ],
+        "John Gill": [
+            "There is none righteous, no, not one.",
+            "If there is none on earth that does good and does not sin, there is none righteous upon earth, 'no, not one' single person.",
+            "None are righteous by their obedience to the law of works; nor are there any righteous in the sight of God, upon the foot of their own righteousness, however they may appear in their own eyes, and in the sight of others."
+        ],
+        "John Wesley": [
+            "That all men are under sin appears from the vices which have raged in all ages.",
+            "The particulars follow: their dispositions and designs, their discourse, their actions.",
+            "Not what he makes them by his grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These statements from the Psalmist are pertinent to the apostle's purpose in asserting the depravity of mankind, specifically the Jews. The point being proved is that both Jews and Gentiles are equally dependent on the mercy of God, incapable of being justified and saved by their works. The chain of quotations used by Paul in his argument demonstrates that there is none righteous, no, not one. This foundational truth serves as a summary for what follows, revealing the impossibility of justification by works. These passages also highlight the need for ecclesiastical teachers to rely on the sure testimony of Scripture in their preaching. Ultimately, all individuals are under sin, and it is only by the grace of God that anyone can be made righteous.",
+            "wordCount": 125,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.7155845643035201,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                24.48,
+                45.38,
+                30.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle uses a chain of quotations to prove that both Jews and Gentiles are equally dependent on God's mercy. These passages, which assert the depravity of mankind, serve as a summary for what follows in Paul's argument. None are righteous by their obedience to the law, and all individuals are under sin. This truth emphasizes the impossibility of justification by works and underscores the need for ecclesiastical teachers to rely on the sure testimony of Scripture. Ultimately, it is only through God's grace that anyone can be made righteous.",
+            "wordCount": 93,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.6986542460188878,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.82,
+            "commentatorTierSimilarities": [
+                21.38,
+                44.1,
+                34.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle quotes the Psalmist to prove that Jews and Gentiles are equally dependent on God's mercy for justification. These passages demonstrate the depravity of mankind and summarize the impossibility of being justified by works. Ecclesiastical teachers are reminded to rely on Scripture, and the verses emphasize that no one is righteous in their own efforts. Ultimately, all are under sin, highlighting the need for God's grace to make anyone righteous.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6934012076221943,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.65,
+            "commentatorTierSimilarities": [
+                19.14,
+                47.78,
+                33.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle uses a chain of quotations to argue that both Jews and Gentiles are equally dependent on God's mercy for justification, revealing the depravity of mankind. This highlights the impossibility of being justified by works and reminds ecclesiastical teachers to rely on Scripture. These verses emphasize that no one is righteous in their own efforts, and all are under sin. Ultimately, it is only through God's grace that anyone can be made righteous.",
+            "wordCount": 76,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 1.6720481499388902,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                19.99,
+                45.02,
+                34.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle includes a chain of quotations to prove that both Jews and Gentiles are equally unable to be justified by works, highlighting the depravity of mankind. These passages stress the need for God's mercy and imply that ecclesiastical teachers should rely on the sure testimony of Scripture. The truth that no one is righteous in their own efforts resonates throughout, emphasizing that all are under sin. Ultimately, it is by God's grace alone that anyone can be made righteous.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.681394394205303,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.25,
+            "commentatorTierSimilarities": [
+                20.46,
+                44.65,
+                34.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

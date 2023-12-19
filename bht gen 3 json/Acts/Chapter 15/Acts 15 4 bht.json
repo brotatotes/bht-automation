@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:31:31",
+    "verseRef": "Acts 15:4",
+    "bestBHT": {
+        "bht": "When Paul and Barnabas arrived in Jerusalem, the church, including the apostles and elders, warmly received them. This official reception was an expression of the church's hospitality and friendly acknowledgment of them as Christian brethren. During the gathering, Paul and Barnabas had the opportunity to share the remarkable conversion of the Gentiles and God's work among them. The church eagerly listened to their testimonies, recognizing the evidence of God's grace in their ministry and warmly welcoming them in affirmation and agreement.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.85,
+        "qualityScore": 2.505099031057644,
+        "qualityScoreNormalizedComparedToV2BHTs": 74.63,
+        "commentatorTierSimilarities": [
+            28.83,
+            44.65,
+            26.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On their arrival at Jerusalem, there seems to have taken place an official reception of them and their message, in public.",
+            "But I cannot see any inconsistency, if the words used in both cases be accurately weighed.",
+            "Paul did not lay before the whole assembly the Gospel which he preached among the Gentiles, viz. the indifference of the Mosaic law to their salvation, for fear of its being hastily disparaged or repudiated, and so his work being hindered."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This was Paul's THIRD VISIT TO JERUSALEM",
+            "evidently at a meeting formally convened for this purpose",
+            "they declared all things that God had done with them"
+        ],
+        "Albert Barnes": [
+            "They were received of the church - By the church, in a hospitable and friendly manner.",
+            "They were acknowledged as Christian brethren, and received with Christian kindness.",
+            "And they declared - Paul and Barnabas, and those with them. That is, they stated the case; the remarkable conversion of the Gentiles, the evidence of their piety, and the origin of the present dispute."
+        ],
+        "Marvin Vincent": [
+            "Were received [\u03c0\u03c1\u03bf\u03c0\u03b5\u03bc\u03c6\u03b8\u03b5\u03bd\u03c4\u03b5\u03c2] . The word implies a cordial welcome, which they were not altogether sure of receiving."
+        ],
+        "John Calvin": [
+            "That church had elders to whom the ordinary government of the Church was committed; and what the one function differeth from the other we have before declared.\" ",
+            "And hereby it appeareth what brotherly courtesy there was in the apostles and elders, because they do not only courteously receive Paul and Barnabas, but so soon as they hear what success they had with their pains they took, they magnify the grace of God.\" ",
+            "God is not made a fellow-laborer, but all the whole praise of the work is ascribed to him. Therefore it is said, that he did that with Paul and Barnabas which he did by them, as he is said to deal mercifully with us when he helpeth our miseries."
+        ],
+        "Philip Schaff": [
+            "The word translated here 'were received,' implies a cordial reception on the part of the apostles and elders of the Jerusalem community.\" (Act 15:4) ",
+            "Welcomed with affection Barnabas and Paul as the great missionaries of the faith.\" (Act 15:4)"
+        ],
+        "Archibald T. Robertson": [
+            "Here it was a public reception for Paul and Barnabas provided by the whole church including the apostles and elders.\" ",
+            "At which an opportunity was given to hear the story of Paul and Barnabas about God's dealings with them among the Gentiles.",
+            "This first public meeting is referred to by Paul in Galatians 2:2 'I set before them (\u03b1\u03c5\u03c4\u03bf\u03b9\u03c2) the gospel, etc.'"
+        ],
+        "John Gill": [
+            "They were received into their houses, and accommodated with everything convenient for them.",
+            "They were received...in token of their approbation of them, affection for them, and agreement with them.",
+            "They declared all things that God had done with them...that God had opened to the Gentiles the door of faith."
+        ],
+        "John Wesley": [
+            "They were received \u2014 That is solemnly welcomed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Upon their arrival in Jerusalem, Paul and Barnabas were given an official reception by the whole church, including the apostles and elders. This public meeting provided an opportunity for them to declare all the things that God had done with them among the Gentiles. Paul, mindful not to disrupt the work he had started, chose not to present the full Gospel, fearing it might be hastily rejected. It is clear from this account that the church warmly welcomed Paul and Barnabas, acknowledging them as Christian brethren and receiving them with kindness. They were not only received, but their testimony about God's work among the Gentiles was eagerly heard and magnified as a manifestation of God's grace.",
+            "wordCount": 118,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 2.4187156108027903,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.76,
+            "commentatorTierSimilarities": [
+                32.09,
+                39.87,
+                28.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Upon their arrival in Jerusalem, there was an official reception for Paul and Barnabas, organized by the whole church, including the apostles and elders. They were received with a cordial welcome, and this gathering provided an opportunity for them to declare all that God had done with them among the Gentiles. Paul, cautious not to hinder their work, held back from sharing the complete Gospel at this time. The church not only received them warmly, but also esteemed and celebrated the evidence of God's grace in their ministry among the Gentiles.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 2.4345576193892278,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.29,
+            "commentatorTierSimilarities": [
+                31.55,
+                40.27,
+                28.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Upon their arrival in Jerusalem, Paul and Barnabas were cordially received by the church, including the apostles and elders. This public reception served as an opportunity for them to share all that God had done with them among the Gentiles. While Paul refrained from presenting the complete Gospel, fearing a hasty dismissal, the church welcomed them as Christian brethren. Their testimonies were heard with great enthusiasm and were seen as a demonstration of God's grace. The church's warm reception affirmed their agreement and affection for Paul and Barnabas.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.4299880158322935,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.14,
+            "commentatorTierSimilarities": [
+                30.01,
+                41.35,
+                28.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Upon their arrival in Jerusalem, Paul and Barnabas were given an official reception by the whole church, including the apostles and elders. Their arrival was met with a cordial welcome, symbolizing the church's acknowledgment of them as Christian brethren. During this gathering, they had the opportunity to declare all that God had done with them among the Gentiles. The church not only received them warmly but also celebrated and magnified the grace of God evident in their mission.",
+            "wordCount": 79,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.438408328708978,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.42,
+            "commentatorTierSimilarities": [
+                29.57,
+                41.45,
+                28.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Paul and Barnabas arrived in Jerusalem, the church, including the apostles and elders, warmly received them. This official reception was an expression of the church's hospitality and friendly acknowledgment of them as Christian brethren. During the gathering, Paul and Barnabas had the opportunity to share the remarkable conversion of the Gentiles and God's work among them. The church eagerly listened to their testimonies, recognizing the evidence of God's grace in their ministry and warmly welcoming them in affirmation and agreement.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.505099031057644,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.63,
+            "commentatorTierSimilarities": [
+                28.83,
+                44.65,
+                26.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

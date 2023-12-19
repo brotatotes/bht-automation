@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:23:24",
+    "verseRef": "Luke 23:13",
+    "bestBHT": {
+        "bht": "Pilate, hoping that Jesus might have some supporters among the people, called them together to hear his proposal. This multitude, now even larger, was summoned to consider a matter that concerned their wishes. Pilate's words here are softer than the harsh accusation of the Sanhedrin. While Pilate called the people together, it is clear that he also gathered the chief priests, civil rulers, and prominent individuals to discuss what should be done with Jesus. The whole Sanhedrin, comprised of the chief priests, Scribes, and elders, was convened for this purpose.",
+        "wordCount": 91,
+        "quoteTokenProportion": 48.53,
+        "qualityScore": 1.7657101747302653,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+        "commentatorTierSimilarities": [
+            39.25,
+            22.42,
+            38.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The multitude, doubtless now more numerous, was called to hear a proposal in which their wish was concerned.",
+            "Luke, who gives the charge most fully (Luke 23:2), also states the reply of Pirate more formally.",
+            "Here the word (Pilate\u2019s) is milder than that of Luke 23:2 (the Sanhedrin\u2019s)."
+        ],
+        "Archibald T. Robertson": [
+            "Called together (\u03c3\u03c5\u03bd\u03ba\u03b1\u03bb\u03b5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). First aorist middle participle (to himself). Pilate included \"the people\" in the hope that Jesus might have some friends among them. "
+        ],
+        "John Gill": [
+            "He then summoned the chief priests together, to consider what should be done to him.",
+            "Both the civil and ecclesiastical rulers, and the chief among the people, who had been forward in accusing Jesus, and seeking his death.",
+            "He convened the whole Sanhedrin, which consisted of the chief priests, Scribes, and elders of the people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, hoping that Jesus might have some supporters among the people, called them together to hear his proposal. This multitude, now even larger, was summoned to consider a matter that concerned their wishes. Pilate's words here are softer than the harsh accusation of the Sanhedrin, as Luke states more formally in his account. While Pilate called the people together, it is clear that he also gathered the chief priests, civil rulers, and prominent individuals to discuss what should be done with Jesus. The whole Sanhedrin, comprised of the chief priests, Scribes, and elders, was convened for this purpose.",
+            "wordCount": 99,
+            "quoteTokenProportion": 48.0,
+            "qualityScore": 1.8458290466088165,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                38.72,
+                23.64,
+                37.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate, in the hope of finding support for Jesus, called the people together, as Luke recounts in detail. The multitude was summoned to hear a proposal that concerned their desires. Pilate's words were milder compared to the accusation of the Sanhedrin. The chief priests, civil rulers, and the influential were convened to decide what should be done with Jesus. The whole Sanhedrin, consisting of chief priests, Scribes, and elders, gathered to deliberate on the matter.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6262098937629803,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.41,
+            "commentatorTierSimilarities": [
+                33.59,
+                25.31,
+                41.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate, hoping that Jesus might have some supporters among the people, called them together to hear his proposal. This multitude, now even larger, was summoned to consider a matter that concerned their wishes. Pilate's words here are softer than the harsh accusation of the Sanhedrin. While Pilate called the people together, it is clear that he also gathered the chief priests, civil rulers, and prominent individuals to discuss what should be done with Jesus. The whole Sanhedrin, comprised of the chief priests, Scribes, and elders, was convened for this purpose.",
+            "wordCount": 91,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 1.7657101747302653,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.05,
+            "commentatorTierSimilarities": [
+                39.25,
+                22.42,
+                38.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate hoped to find support for Jesus, so he called the people together. He summoned the multitude to hear his proposal, considering their wishes. His words were milder compared to the harsh accusation of the Sanhedrin. Pilate also gathered the chief priests, civil rulers, and influential individuals to discuss Jesus' fate. The entire Sanhedrin, consisting of chief priests, Scribes, and elders, was convened for this purpose.",
+            "wordCount": 66,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.6427428202926553,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.96,
+            "commentatorTierSimilarities": [
+                36.55,
+                20.82,
+                42.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, in the hope of finding supporters for Jesus, called the people together to hear his proposal. This multitude was summoned to consider their wishes. Pilate's words were milder, contrasting the harsh accusation of the Sanhedrin. Alongside the people, Pilate also gathered the chief priests, civil rulers, and influential individuals to discuss the fate of Jesus. The whole Sanhedrin, consisting of the chief priests, Scribes, and elders, was convened to deliberate on this matter.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.6653268227373164,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.71,
+            "commentatorTierSimilarities": [
+                37.74,
+                20.91,
+                41.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

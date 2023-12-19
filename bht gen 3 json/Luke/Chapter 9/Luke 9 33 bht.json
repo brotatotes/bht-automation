@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:17:11",
+    "verseRef": "Luke 9:33",
+    "bestBHT": {
+        "bht": "Not knowing what he said, Peter's desire to hinder their departure was evident. Overwhelmed by fear and astonishment, his lack of understanding was apparent in his words. Though his impulsive nature led him to speak without comprehension, his suggestion to dwell in temporary shelters reflected the brightness of the heavenly manifestations they had witnessed.",
+        "wordCount": 55,
+        "quoteTokenProportion": 36.96,
+        "qualityScore": 1.758173018483555,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+        "commentatorTierSimilarities": [
+            36.42,
+            39.18,
+            24.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As they departed, i.e. while they were departing:\u2014the words were said with a desire to hinder their departure.",
+            "Not knowing what he said\u2014from fear and astonishment\u2014'for they were sore afraid,' Mark."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33. they departed\u2014Ah! bright",
+            "\tmanifestations in this vale of tears are always \"departing",
+            "\tmanifestations."
+        ],
+        "Marvin Vincent": [
+            "Jesus might have smiled at the naive proposal of the eager apostle that they six should dwell forever in the little succoth of wattled boughs on the slopes of Hermon.",
+            "Not implying any reproach to Peter, but merely as a mark of his bewilderment in his state of ecstasy.",
+            "The verb only here in New Testament."
+        ],
+        "Philip Schaff": [
+            "He wished to detain the two representatives of the Old Covenant.",
+            "The statement: not knowing what he was saying.",
+            "Even with the explanation, Peter\u2019s suggestion was not well considered."
+        ],
+        "Archibald T. Robertson": [
+            "Not knowing what he said (\u03bc\u03b7 \u03b5\u03b9\u03b4\u03c9\u03c2 \u03bf \u03bb\u03b5\u03b3\u03b5). Literally,",
+            "not understanding what he was saying.",
+            "Peter acted according to his impulsive nature and spoke up even though he did not know what to say or even what he was saying when he spoke.",
+            "He had bewilderment enough beyond a doubt, but it was Peter who spoke, not James and John."
+        ],
+        "John Gill": [
+            "As they departed from him... they were about to go; for, as yet, they were not gone.",
+            "Master, it is good for us to be here, let us make three tabernacles, one for thee, and one for Moses, and one for Elias.",
+            "Not knowing what he said... being in a surprise, and not in a situation to consider and weigh things well."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Jesus and his disciples were departing from the mountaintop, the words spoken by Peter revealed his desire to hinder their departure. Overwhelmed with fear and astonishment, Peter confessed that he did not understand what he was saying. While his suggestion to dwell in temporary shelters on the slopes of Hermon may have been naive, it was a testament to the brightness of the heavenly manifestations they had just witnessed. Although Peter's impulsive nature led him to speak without full comprehension, it was James and John who remained silent in their bewilderment.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.622423423372358,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                38.4,
+                35.6,
+                26.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus and his disciples were departing, Peter's words revealed a desire to hinder their departure. Overwhelmed by fear and astonishment, Peter confessed his lack of understanding. His impulsive nature led him to speak without comprehension, while James and John remained silent. Though Peter's suggestion to dwell in temporary shelters may have been naive, it reflected the brightness of the heavenly manifestations they had witnessed.",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4995426182516565,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
+            "commentatorTierSimilarities": [
+                37.84,
+                36.62,
+                25.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus and his disciples were departing, Peter's desire to hinder their departure was evident. Overwhelmed by fear, his lack of understanding was apparent in his words. Though his impulsive nature led him to speak without comprehension, his suggestion to dwell in temporary shelters reflected the brightness of the heavenly manifestations they had witnessed.",
+            "wordCount": 55,
+            "quoteTokenProportion": 35.56,
+            "qualityScore": 1.5875609458655253,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                38.37,
+                38.21,
+                23.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As they departed, Peter's desire to hinder their departure was evident. Not knowing what he said, his lack of understanding and fear were apparent. Although his impulsive nature led him to speak without comprehension, his suggestion to dwell in temporary shelters reflected the brightness of the heavenly manifestations they had witnessed.",
+            "wordCount": 52,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7111139794396093,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                34.14,
+                38.23,
+                27.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Not knowing what he said, Peter's desire to hinder their departure was evident. Overwhelmed by fear and astonishment, his lack of understanding was apparent in his words. Though his impulsive nature led him to speak without comprehension, his suggestion to dwell in temporary shelters reflected the brightness of the heavenly manifestations they had witnessed.",
+            "wordCount": 55,
+            "quoteTokenProportion": 36.96,
+            "qualityScore": 1.758173018483555,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                36.42,
+                39.18,
+                24.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

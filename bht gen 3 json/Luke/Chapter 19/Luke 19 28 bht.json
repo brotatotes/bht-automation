@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:21:39",
+    "verseRef": "Luke 19:28",
+    "bestBHT": {
+        "bht": "Jesus, not immediately after saying these things, went on before up the hill to Jerusalem. His slow journey up to Jerusalem demonstrates how willing and greatly desirous he was to finish the work of redemption he came to accomplish, where he was to eat his last Passover and suffer and die in the room and stead of his people.",
+        "wordCount": 59,
+        "quoteTokenProportion": 40.48,
+        "qualityScore": 1.9876662708005228,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+        "commentatorTierSimilarities": [
+            52.65,
+            0.0,
+            47.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not immediately after saying these things...\".",
+            "JERUSALEM.",
+            "...where see notes."
+        ],
+        "Archibald T. Robertson": [
+            "Went on before (\u03b5\u03c0\u03bf\u03c1\u03b5\u03c5\u03b5\u03c4\u03bf \u03b5\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd). Imperfect middle. Jesus left the parable to do its work and slowly went on his way up the hill to Jerusalem. "
+        ],
+        "John Gill": [
+            "He proceeded at the head of them, with great cheerfulness and eagerness.",
+            "Where he was to eat his last passover, and suffer, and die, in the room, and stead, of his people.",
+            "This shows how willing, and greatly desirous he was to finish the work of redemption he came about."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, not immediately after saying these things, went on before up the hill to Jerusalem, where he was to eat his last Passover, suffering and dying in the place of his people. His slow and deliberate journey shows the great cheerfulness and eagerness with which he approached the completion of the work of redemption he came to accomplish.",
+            "wordCount": 58,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.7500919889549686,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.53,
+            "commentatorTierSimilarities": [
+                40.48,
+                0.0,
+                59.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Not immediately after saying these things, Jesus went on before up the hill to Jerusalem, where he was to eat his last Passover and suffer and die in the room and stead of his people. His slow and deliberate journey shows how willing and greatly desirous he was to finish the work of redemption he came about.",
+            "wordCount": 57,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.7994501824333928,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                34.98,
+                0.0,
+                65.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus, not immediately after saying these things, went on before up the hill to Jerusalem. His slow journey demonstrates how willing and greatly desirous he was to finish the work of redemption he came to accomplish, where he was to eat his last Passover and suffer and die on behalf of his people.",
+            "wordCount": 53,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8410614623660928,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                48.73,
+                0.0,
+                51.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, not immediately after saying these things, went on before up the hill to Jerusalem. His slow journey up to Jerusalem demonstrates how willing and greatly desirous he was to finish the work of redemption he came to accomplish, where he was to eat his last Passover and suffer and die in the room and stead of his people.",
+            "wordCount": 59,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.9876662708005228,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                52.65,
+                0.0,
+                47.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus, not immediately after saying these things, went on before up the hill to Jerusalem. His slow journey up to Jerusalem demonstrates how willing and greatly desirous he was to finish the work of redemption he came to accomplish, where he was to eat his last Passover and suffer and die on behalf of his people.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9428808895513892,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                52.63,
+                0.0,
+                47.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:26:34",
+    "verseRef": "Acts 5:12",
+    "bestBHT": {
+        "bht": "The Apostles' unanimity and dignity are emphasized in this account, as they stand apart from believers and unbelievers. The Jewish people magnify them, highlighting their distinction. Their unity in purpose is evident through the phrase with one accord, and their gathering at Solomon's Porch signifies a special place of worship. Through miraculous signs and wonders, the apostles demonstrate the spiritual grace of Christ and attract a large following. They are united in their teachings, practices, and affections, preaching the Gospel together.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.6658323540272764,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+        "commentatorTierSimilarities": [
+            23.78,
+            32.62,
+            43.61
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It docs not follow from the word all referring to all the believers in ch. ii. 1 (see note there), that it necessarily refers to the same here also.",
+            "The Apostles are the subject of the paragraph: and it is to set forth their unanimity and dignity that the description is given.",
+            "They are represented as distinct from all others, believers and unbelievers (both which I take to be included under the term 'the rest'): and the Jewish people itself magnified them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. Solomon's Porch\u2014(See on",
+            "\t :-)."
+        ],
+        "Albert Barnes": [
+            "Signs and wonders - Miracles.",
+            "With one accord - With one 'mind,' or intention.",
+            "In Solomon\u2019s porch - They were doubtless there for the purpose of worship."
+        ],
+        "Marvin Vincent": [
+            "Were wrought [\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf] . The best texts read ejgineto, the imperfect, were being wrought from time to time. ",
+            "All. The whole body of believers."
+        ],
+        "John Calvin": [
+            "These benefits done to the body do represent the spiritual grace of Christ; and therefore they agree with his natural office.",
+            "That fearful sign which was showed in Ananias and Sapphira came to pass extraordinarily.",
+            "He signifieth unto us that they were wont to meet together at certain hours, not only for doctrine and prayers\u2019 sake, but that they might win others unto the Lord, as occasion was given."
+        ],
+        "Philip Schaff": [
+            "The apostles seem to have pressed on their work with greater enthusiasm than before, and with marked success.",
+            "The miracles of healing performed among the people were the credentials these plain unlettered men had received from their Lord.",
+            "The terror men might see was something strange and unusual, while the mercy and love were the everyday characteristics of the Master of these new teachers."
+        ],
+        "Archibald T. Robertson": [
+            "With one accord (\u03bf\u03bc\u03bf\u03b8\u03c5\u03bc\u03b1\u03b4\u03bf\u03bd). As already in Acts 1:14; Acts 2:46; Acts 4:24 and later Acts 7:57; Acts 8:6; Acts 12:20; Acts 15:25; Acts 18:21; Acts 19:29, old adverb and only in Acts in the N.T.",
+            "Here 'all' is added.",
+            "In Solomon's Porch again as in Acts 3:11 which see."
+        ],
+        "John Gill": [
+            "And by the hands of the apostles were many signs and wonders wrought...many miraculous and wonderful cures, as well as other extraordinary actions, were performed.\" ",
+            "Among the people; the common people, who attended in great numbers on their ministry, when the chief men and rulers of the nation despised them.",
+            "And they were all with one accord in Solomon's porch; which is to be understood not of the whole church, nor of the hundred and twenty disciples, but of the twelve apostles, who met in this place to preach the Gospel to the people; and they were agreed in their doctrine and practice, and were united in their affections to one another."
+        ],
+        "John Wesley": [
+            "And they were all \u2014 All the believers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostles in Acts 5:12 are portrayed as distinct and separate from all others, believers and unbelievers alike. The Jewish people themselves were even magnifying them. The verse emphasizes their unanimity and dignity, with the phrase with one accord highlighting their unity in purpose and intention. The mention of Solomon's Porch suggests that they were gathered there for worship. The miracles and signs performed by the apostles served as credentials, demonstrating the spiritual grace of Christ and attracting the common people to their ministry. The apostles, all in agreement with each other, met in this place to preach the Gospel.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.7061660733337392,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                25.71,
+                33.65,
+                40.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Acts passage portrays the apostles as distinct from believers and unbelievers, with the Jewish people magnifying them. The phrase with one accord emphasizes their unity in purpose, and their gathering at Solomon's Porch likely suggests worship. The miracles they performed acted as credentials, displaying the spiritual grace of Christ and attracting the common people. Metaphorically, through their actions and teachings, they were unified and committed to preaching the Gospel.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.7859188204981882,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                24.72,
+                33.91,
+                41.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostles in this account are distinguished from both believers and unbelievers, as the Jewish people themselves magnified them. Their unanimity and dignity are highlighted throughout the verse. Their unity in purpose is emphasized by the phrase with one accord, and their gathering at Solomon's Porch signifies a place of worship. Through their miraculous signs and wonders, the apostles exhibited the spiritual grace of Christ and drew many to their ministry. Together, they preached the Gospel with agreement in doctrine, practice, and affection.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6817868384431107,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                25.8,
+                30.63,
+                43.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostles' unanimity and dignity are emphasized in this account, as they stand apart from believers and unbelievers. The Jewish people magnify them, highlighting their distinction. Their unity in purpose is evident through the phrase with one accord, and their gathering at Solomon's Porch signifies a special place of worship. Through miraculous signs and wonders, the apostles demonstrate the spiritual grace of Christ and attract a large following. They are united in their teachings, practices, and affections, preaching the Gospel together.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.6658323540272764,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.73,
+            "commentatorTierSimilarities": [
+                23.78,
+                32.62,
+                43.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostles' distinction is evident in this account, as the Jewish people magnify them. Through their unanimous purpose and gathering at Solomon's Porch, they display their unity and dignity. Their miraculous signs and wonders serve as credentials, showcasing the spiritual grace of Christ and attracting a multitude of followers. They teach with agreement in doctrine, practice, and affection, upholding their role as messengers of the Gospel.",
+            "wordCount": 67,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.6108337900177414,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.9,
+            "commentatorTierSimilarities": [
+                22.01,
+                34.64,
+                43.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

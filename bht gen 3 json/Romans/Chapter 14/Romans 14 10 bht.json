@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:09:45",
+    "verseRef": "Romans 14:10",
+    "bestBHT": {
+        "bht": "Why do you judge and despise your brother? We will all stand before the judgment seat of God, so who are we to sit in judgment on others? Remember, we are all part of the same family, all servants of God. Let us not assume the role of judge, for that belongs to Christ alone. Instead, let us focus on our own conduct and answer to Christ, not to our fellow believers. Let us not encroach upon Christ's office as ruler by judging our brothers and sisters in the faith.",
+        "wordCount": 91,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9808501509952827,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+        "commentatorTierSimilarities": [
+            24.58,
+            42.47,
+            32.94
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] He returns to the duty of abstaining,\u2014the weak, from judging his stronger brother; the strong, from despising the weaker."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But thou (the weaker believer), why judgest",
+            "   thou thy brother? And thou again (the stronger), why despisest thou",
+            "   thy brother?",
+            "for we shall all\u2014the",
+            "   strong and the weak together.",
+            "stand before the",
+            "   judgment-seat of Christ\"\u2014The most ancient and best",
+            "   manuscripts read here, 'the judgment-seat of God.'"
+        ],
+        "Albert Barnes": [
+            "Since we are all subjects and servants alike, and must all stand at the same tribunal, what right have we to sit in judgment on others?",
+            "God has recognised him as his friend and he should be regarded by thee as 'a brother' in the same family.",
+            "We must all stand...we must answer for our conduct, not to our fellow man, but to Christ; and it does not become us to sit in judgment on each other."
+        ],
+        "Marvin Vincent": [
+            "Why dost thou judge? Thou, why dost thou Judge?\" ",
+            "The servant of another is here called brother.",
+            "For judgment-seat, see on to set his foot on, Acts 7:5."
+        ],
+        "John Calvin": [
+            "It is an unreasonable boldness in any one to assume the power to judge his brother, since by taking such a liberty he robs Christ the Lord of the power which he alone has received from the Father.",
+            "Every one then who assumes the character of a judge acts unreasonably.",
+            "As then it would be absurd among men for a criminal, who ought to occupy a humble place in the court, to ascend the tribunal of the judge; so it is absurd for a Christian to take to himself the liberty of judging the conscience of his brother."
+        ],
+        "Philip Schaff": [
+            "Thou' is emphatic, 'thou' belonging to Christ the Lord.\" ",
+            "Both belong to Christ.\" ",
+            "The judging of one's brother...encroaches upon Christ's office as ruler."
+        ],
+        "Archibald T. Robertson": [
+            "But thou, why dost thou judge?\" (\u03c3\u03c5 \u03b4\u03b5 \u03c4 \u03c3\u03c5 \u03ba\u03c1\u03b9\u03bd\u03b5\u03b9\u03c3?) - Referring to the conduct of the \"weak\" brother in verse Romans 14:3.",
+            "Or thou again\" (\u03b7 \u03ba\u03b1 \u03c3\u03c5) - Referring to the \"strong\" brother.",
+            "Shall stand before\" (\u03c0\u03b1\u03c1\u03b1\u03c3\u03c4\u03b7\u03c3\u03bf\u03bc\u03b5\u03b8\u03b1) - Future middle of \u03c0\u03b1\u03c1\u03b9\u03c3\u03c4\u03b7\u03bc and intransitive, to stand beside (\u03c0\u03b1\u03c1\u03b1) with the locative case (\u03c4\u03c9 \u03b2\u03b5\u03bc\u03b1\u03c4, the judgment seat) as in Acts 27:24."
+        ],
+        "John Gill": [
+            "The emphasis lies upon the word 'brother', in both branches of the expostulation; and the force of the apostle's reasoning is that they should not judge or despise one another, because they were brethren, stood in the same relation to God and Christ.",
+            "They had but one master, and all they were brethren.",
+            "There is a particular, and a general judgment; a particular judgment at death, when the soul is immediately consigned to bliss or woe; and a general one in the end of time."
+        ],
+        "John Wesley": [
+            "Or why dost thou despise thy brother \u2014 Hitherto the apostle as addressed the weak brother: now he speaks to the stronger."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why do you judge your brother? And why do you despise him? We will all stand before the judgment seat of God, so who are we to sit in judgment on others? Remember, we are all servants of God, all part of the same family. It is not for us to assume the role of judge, for that belongs to Christ alone. Instead, let us focus on our own conduct and answer to Christ, not to our fellow believers. Let us not encroach upon Christ's office as ruler by taking on the responsibility of judging our brothers and sisters in the faith.",
+            "wordCount": 103,
+            "quoteTokenProportion": 50.77,
+            "qualityScore": 1.9118427111775937,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.91,
+            "commentatorTierSimilarities": [
+                26.08,
+                39.99,
+                33.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why do you judge and despise your brother? We will all stand before the judgment seat of God, so who are we to sit in judgment on others? Remember, we are all part of the same family, all servants of God. Let us not assume the role of judge, for that belongs to Christ alone. Instead, let us focus on our own conduct and answer to Christ, not to our fellow believers. Let us not encroach upon Christ's office as ruler by judging our brothers and sisters in the faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9808501509952827,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.2,
+            "commentatorTierSimilarities": [
+                24.58,
+                42.47,
+                32.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why judge and despise your brother? We will all answer to God's judgment seat, so who are we to judge others? Remember, we are all servants in the same family. Let us not assume the role of judge, for that belongs to Christ alone. Focus on our own conduct and answer to Christ, not to fellow believers. Let us not encroach upon Christ's authority by judging our brothers and sisters in the faith.",
+            "wordCount": 75,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.9716762624335895,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                25.52,
+                41.29,
+                33.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why do you judge your brother? We will all stand before the judgment seat of God\u2014His throne where we must answer for our conduct. Who are we to sit in judgment on others, when we are all servants and belong to the same family? Let us not encroach upon Christ's role as ruler by assuming the position of judge. Instead, let us focus on our own behavior and answer to Christ alone, not passing judgment on our fellow believers in the faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.9696092413756001,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                26.13,
+                41.65,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why do you judge your brother? We will all stand before the judgment seat of God\u2014His throne where we must answer for our conduct. Who are we to sit in judgment on others when we are all servants and belong to the same family? Let us not encroach upon Christ's role as ruler by assuming the position of judge. Instead, let us focus on our own behavior and answer to Christ alone, not passing judgment on our fellow believers in the faith.",
+            "wordCount": 84,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 1.9696092413756001,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                26.13,
+                41.65,
+                32.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

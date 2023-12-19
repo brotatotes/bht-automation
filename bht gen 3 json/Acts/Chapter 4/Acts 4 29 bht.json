@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:26:24",
+    "verseRef": "Acts 4:29",
+    "bestBHT": {
+        "bht": "Recognizing the threatenings as a declaration of war, the early Christians calmly asked God to look upon their threatenings and grant them deliverance. Seeking divine attestation to their testimony, they prayed for fearless courage to testify for their Master. Their request for bravery and constancy revealed their deep understanding that preaching the word of God required not only the gift of speech but also the ability to do so fearlessly and faithfully. They desired the freedom to boldly proclaim the gospel in all places, undeterred by the persecution they faced.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.6456427744620918,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+        "commentatorTierSimilarities": [
+            22.84,
+            34.28,
+            42.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Recognizing in the threatenings of the Sanhedrim a declaration of war by the combined powers of the world against their infant cause...",
+            "...they seek not enthusiastically to hide from themselves its critical position, but calmly ask the Lord of heaven and earth to 'look upon their threatenings.'",
+            "Rising above self, they ask only fearless courage to testify for their Master, and divine attestation to their testimony by miracles of healing, &c., in His name."
+        ],
+        "Albert Barnes": [
+            "Behold their threatenings - So look upon them as to grant us deliverance.",
+            "They did not purpose to abandon their undertaking; they resolved to persevere; and they expected that this purpose would involve them in danger.",
+            "When we are assailed by those in power; when we are persecuted and in danger, we should commit our way unto God, and seek his aid, that we may not be deterred from the path of duty."
+        ],
+        "John Calvin": [
+            "And they crave at God\u2019s hands that he will beat down the cruelty of the adversaries; yet not so much for their own sake that they may live quietly and without vexation, as that they may have liberty to preach the gospel in all places.",
+            "Neither was it for them to desire a life which they might spend idly, having forsaken their calling. For they add, 'Grant unto thy servants, O Lord, that they may speak boldly.'",
+            "So Ezechias, to the end he may obtain help in extremity, declareth before the Lord the arrogancy of Sennacherib and his cruel threatenings... Wherefore let the cruelty and reproaches of our enemies rather stir up in us a desire to pray, than any whit discourage us from going forward in the course of our office."
+        ],
+        "Philip Schaff": [
+            "It is well worthy of notice in this first great public prayer of the Church, how the Spirit of their Master had sunk into the disciples hearts.",
+            "No fire from heaven is called down on the guilty heads of the enemies of Christ, who would stamp out His struggling Church.",
+            "Only for themselves they pray for bravery and constancy."
+        ],
+        "Archibald T. Robertson": [
+            "And as to the now things, the present situation.",
+            "Do it now.",
+            "With all boldness to go on speaking thy word."
+        ],
+        "John Gill": [
+            "And now, Lord, behold their threatenings...that he would so take notice of them, as in his providence to rebuke them for them, or restrain them, or make them fearless of them.",
+            "The request of the whole church is, that the ministers of the word might not be intimidated by the menaces of the sanhedrim; but go on to declare it with all freedom of expression, with all boldness, courage, and intrepidity of mind, and all openness and faithfulness, and in the most public manner.",
+            "And such a petition shows, that as it is a gift of God to speak his word, or preach his Gospel, so it also is, to speak it freely, boldly, and faithfully, as it should be spoken."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Recognizing the threats against them as a declaration of war, the early Christians faced the critical position of their cause with calmness and determination. They humbly asked God to acknowledge these threats and grant them deliverance, seeking not only protection for themselves, but also for the courage to boldly testify for their Master. This prayer reflects the disciples' deep understanding of their mission and their reliance on the power of God. They did not shrink back in fear but instead requested divine intervention in the face of persecution, desiring liberty to preach the gospel in all places. Their plea for boldness and constancy illustrates their recognition that preaching the word of God required not only the gift of speech but also the ability to do so fearlessly and faithfully.",
+            "wordCount": 129,
+            "quoteTokenProportion": 31.76,
+            "qualityScore": 1.5142342933882296,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.69,
+            "commentatorTierSimilarities": [
+                20.97,
+                34.45,
+                44.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing the threatenings as a declaration of war against their cause, the early Christians calmly asked God to look upon these threats and grant them deliverance. Seeking fearless courage to testify for their Master and divine attestation to their testimony, they acknowledged the critical position of their mission. With a keen sense of their calling, they prayed for bravery and constancy to go on speaking the word of God with boldness. Their plea revealed their deep understanding that preaching the gospel required both the gift of speech and the ability to do so fearlessly and faithfully.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.6248230679918754,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+            "commentatorTierSimilarities": [
+                23.59,
+                34.38,
+                42.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Recognizing the threatenings as a declaration of war, the early Christians calmly asked God to look upon their threatenings and grant them deliverance. Seeking divine attestation to their testimony, they prayed for fearless courage to testify for their Master. Their request for bravery and constancy revealed their deep understanding that preaching the word of God required not only the gift of speech but also the ability to do so fearlessly and faithfully. They desired the freedom to boldly proclaim the gospel in all places, undeterred by the persecution they faced.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6456427744620918,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "commentatorTierSimilarities": [
+                22.84,
+                34.28,
+                42.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Recognizing the threatenings as a declaration of war, the early Christians calmly asked God to look upon their threatenings and grant them deliverance. Seeking divine attestation to their testimony, they prayed for fearless courage to testify for their Master. Their request for bravery and constancy revealed their deep understanding that preaching the word of God required not only the gift of speech but also the ability to do so fearlessly and faithfully. They desired the freedom to boldly proclaim the gospel in all places, undeterred by the persecution they faced.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6456427744620918,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.06,
+            "commentatorTierSimilarities": [
+                22.84,
+                34.28,
+                42.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Recognizing the threatenings against their cause, the early Christians calmly asked God to look upon their threatenings and grant them deliverance. Seeking divine attestation to their testimony, they prayed for fearless courage to testify for their Master. Their request for bravery and constancy revealed their deep understanding that preaching the word of God required not only the gift of speech but also the ability to do so fearlessly and faithfully. They desired the freedom to proclaim the gospel boldly in the face of persecution.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.633217625465125,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                22.19,
+                35.04,
+                42.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

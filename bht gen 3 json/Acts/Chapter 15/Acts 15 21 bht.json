@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:31:43",
+    "verseRef": "Acts 15:21",
+    "bestBHT": {
+        "bht": "In order to preserve unity among the Gentile and Jewish believers in Christ, the Gentile converts were advised to be mindful of their conduct and habits, respecting the Mosaic prohibitions that the Jewish Christians were well-acquainted with from synagogue readings. Though not necessary for modern Christian sentiment, honoring these practices would prevent unnecessary offense. The wisdom of these suggestions was widely accepted, as they aimed to maintain peace and harmony within the early Christian community by avoiding constant offense and upholding the oneness of believers in Christ.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 2.0754749050951222,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+        "commentatorTierSimilarities": [
+            40.06,
+            38.22,
+            21.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Living as the Gentile converts would be in the presence of Jewish Christians, who heard these Mosaic prohibitions read, as had been from generations past, in their synagogues...",
+            "It would be well for them to avoid all such conduct and habits as would give unnecessary offense.",
+            "On the reading of the law, &c., in the synagogues, see ch. xiii. 15, note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For Moses of old time hath in every city them that preach him . . . every sabbath day\u2014thus keeping alive in every Jew those feelings which such practices would shock, and which, therefore, the Gentile converts must carefully respect if the oneness of both classes in Christ was to be practically preserved.",
+            "The wisdom of these suggestions commended itself to all present."
+        ],
+        "Albert Barnes": [
+            "The Law of Moses, prohibiting these things, was read in the synagogues constantly.",
+            "For the sake of peace, it was better that they should abstain from meat offered to idols than to give offence to the Jewish converts.",
+            "In addition to reading the Law, it was customary also to offer an explanation of its meaning."
+        ],
+        "John Calvin": [
+            "It cannot be that ceremonies can be abolished so quickly, as it were, at the first dash.",
+            "It stood them upon to redeem concord for a short thee, until such time as the liberty gotten by Christ might, by little and little, appear more plainly.",
+            "It was meet that the old ceremonies should be buried with some honor."
+        ],
+        "Philip Schaff": [
+            "For Moses of old time hath in every city them that preach him.",
+            "The fathers of the Council hoped that if the Gentile Christians carefully abstained from acts which the Jews regarded as causing pollution, gradually the Christian church and the Christian synagogue... would form one fold under one Shepherd, Jesus Christ.",
+            "The Jewish Christian, constantly hearing the things specified in the decree... would be bitterly offended if their fellow-believers indulged in things they were so sternly warned against."
+        ],
+        "Archibald T. Robertson": [
+            "Hence the Gentile Christians would be giving constant offence to neglect them.",
+            "The only point where modern Christian sentiment would object would be about 'things strangled' and 'blood' in the sense of any blood left in the animals.",
+            "Moses will suffer no loss for these Gentile Christians are not adherents of Judaism."
+        ],
+        "John Gill": [
+            "For Moses of old time hath in every city them that preach him.\" ",
+            "because that they hearing the law read and expounded every week, would be ready to conclude that they were obliged to submit unto it\" ",
+            "being read in the synagogues every sabbath day"
+        ],
+        "John Wesley": [
+            "Perhaps the connection is, To the Jews we need write nothing on these heads; for they hear the law continually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 15:21, the Gentile converts were advised to be cautious about their behavior and habits to avoid giving unnecessary offense to the Jewish Christians they would be living among. The Mosaic prohibitions, which were regularly read in the synagogues, were deeply ingrained in the Jewish culture, and the Gentile converts needed to respect these practices in order to maintain unity in Christ. While some aspects of these prohibitions may not align with modern Christian sentiment, they were important to the Jewish believers and should be honored. By doing so, the Gentile Christians could uphold the oneness of both groups in Christ and prevent constant offense. Ultimately, these suggestions were received as wise and necessary for the sake of peace and harmony within the early Christian community.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1124918073891132,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.58,
+            "commentatorTierSimilarities": [
+                38.32,
+                37.92,
+                23.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Living among Jewish Christians who regularly heard Mosaic prohibitions in the synagogues, the Gentile converts were encouraged to be mindful of their conduct and avoid actions that would cause unnecessary offense. By respecting these practices, the unity of both groups in Christ could be preserved. While some of the prohibitions may not align with modern Christian sentiment, they held significance for the Jewish believers and should be honored. This would prevent constant offense and contribute to peace and harmony within the early Christian community.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9087213568732984,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                38.73,
+                37.18,
+                24.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Amongst the early Christian community, the Gentile converts were urged to be mindful of their behavior and habits to prevent giving offense to Jewish Christians who heard Mosaic prohibitions regularly in the synagogues. Honoring these practices would help maintain the oneness of both groups in Christ. While some aspects of these prohibitions may not align with modern Christian sentiment, the wisdom of respecting them was recognized by all. By doing so, constant offense could be avoided, promoting unity and harmony within the community.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8380892440783758,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                39.86,
+                37.11,
+                23.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In order to preserve unity among the Gentile and Jewish believers in Christ, the Gentile converts were advised to be mindful of their conduct and habits, respecting the Mosaic prohibitions that the Jewish Christians were well-acquainted with from synagogue readings. Though not necessary for modern Christian sentiment, honoring these practices would prevent unnecessary offense. The wisdom of these suggestions was widely accepted, as they aimed to maintain peace and harmony within the early Christian community by avoiding constant offense and upholding the oneness of believers in Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 2.0754749050951222,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                40.06,
+                38.22,
+                21.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To maintain unity between Gentile and Jewish believers in Christ, the Gentile converts were advised to be mindful of their behavior and habits, respecting the Mosaic prohibitions that Jewish Christians heard regularly in their synagogues. Although some aspects of these prohibitions may not align with modern Christian sentiment, honoring them would prevent constant offense and contribute to peace and harmony within the early Christian community. The importance of these suggestions was widely recognized, with the aim of preserving the oneness of believers in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.9638321821214417,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                38.0,
+                39.31,
+                22.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

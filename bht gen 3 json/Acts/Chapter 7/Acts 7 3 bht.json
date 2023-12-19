@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:27:00",
+    "verseRef": "Acts 7:3",
+    "bestBHT": {
+        "bht": "Abraham faithfully followed God's guidance, leaving his country and home as God led him. This act required strong confidence in God's promise as he went into a land of strangers, not knowing where he was going. It is a simple example of what man is always required to do at the command of God - to trust the promise of God and do what He requires. Abraham's obedience serves as an emblem of the saints' calling to follow Christ, even when we do not know where He will lead us.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.55,
+        "qualityScore": 2.0833538764420627,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+        "commentatorTierSimilarities": [
+            36.77,
+            40.31,
+            22.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "And to leave his country and home; to go into a land of strangers, not knowing whither he went, required strong confidence in God.",
+            "It is a simple illustration of what man is always required to do at the command of God.",
+            "We are to trust simply to the promise of God, and do what he requires. This is faith."
+        ],
+        "John Calvin": [
+            "The sweetness of his native soil keepeth him not back from going willingly, as it were, into exile.",
+            "Lest Abraham should faint when he was in the midst of his course, through the remembrance of those things which he had left behind him, God sifteth and trieth his mind thoroughly.",
+            "We are not all simply commanded to forsake our country, but we are commanded to deny ourselves; we are not commanded to come out of our father\u2019s house, but to bid adieu to our own will, and to the desires of our own flesh."
+        ],
+        "Archibald T. Robertson": [
+            "Abraham followed on as God led him.",
+            "Abraham followed on as God led him.",
+            "Abraham followed on as God led him."
+        ],
+        "John Gill": [
+            "This was an emblem of the calling of the saints out of the world, from their former course of life, and from among their old companions and friends, to follow Christ whithersoever he is pleased to lead them.\" ",
+            "Get thee out of thy country; from Ur of the Chaldees, where he was born.\" ",
+            "and come into the land which I shall show thee; not telling him the place whither he was to go."
+        ],
+        "John Wesley": [
+            "Which I will show thee \u2014 Abraham knew not where he went."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Abraham faithfully followed God's guidance, leaving behind his country and home to venture into an unknown land. This act required a deep trust and confidence in God's promise. It serves as a simple illustration of what all of humanity is called to do when commanded by God. We are to trust completely in His promises, denying ourselves and our own desires, and following Him wherever He leads. Just as Abraham was called to forsake his former way of life and old companions, the saints are also called to leave their old ways behind and follow Christ. Abraham's obedience is a symbol of the saints' calling to follow Christ, even when we do not know where He will lead us.",
+            "wordCount": 122,
+            "quoteTokenProportion": 45.12,
+            "qualityScore": 1.619465818421036,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                35.51,
+                39.03,
+                25.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Abraham faithfully followed God's guidance, leaving his country and home as God led him. This act required strong confidence in God's promise as he went into a land of strangers, not knowing where he was going. It is a simple example of what man is always required to do at the command of God - to trust the promise of God and do what He requires. Abraham's obedience serves as an emblem of the saints' calling to follow Christ, even when we do not know where He will lead us.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 2.0833538764420627,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+            "commentatorTierSimilarities": [
+                36.77,
+                40.31,
+                22.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Abraham faithfully followed God's guidance, leaving behind his country and home with a strong confidence in God's promise. This act required trust in God and a willingness to go into an unknown land filled with strangers. It serves as a simple illustration of what man is always required to do at the command of God - to trust simply in His promise and do what He requires. This obedience is a symbol of the calling of the saints to leave their old ways behind and follow Christ wherever He leads.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7320000142374128,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.93,
+            "commentatorTierSimilarities": [
+                29.61,
+                49.5,
+                20.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Abraham faithfully followed God's guidance, leaving behind his country and home with strong confidence in God's promise. This act required trust in God and a willingness to go into an unknown land filled with strangers. It serves as an illustration of what man is always required to do at the command of God - to trust in His promise and do what He requires. This obedience is a symbol of the calling of the saints to leave their old ways behind and follow Christ wherever He leads them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7473838449410444,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                30.78,
+                48.35,
+                20.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Abraham faithfully followed God's guidance, leaving behind his country and home with strong confidence in God's promise. This act required trust in God and a willingness to go into an unknown land filled with strangers. It serves as an illustration of what man is always required to do at the command of God - to trust in His promise and do what He requires. This obedience is a symbol of the calling of the saints to leave their old ways behind and follow Christ wherever He leads them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7473838449410444,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                30.78,
+                48.35,
+                20.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

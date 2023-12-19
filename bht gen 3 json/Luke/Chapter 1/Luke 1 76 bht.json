@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:13:47",
+    "verseRef": "Luke 1:76",
+    "bestBHT": {
+        "bht": "The prophetic child's future is described, and many believers naturally interpret the Lord as a reference to the Messiah. The child is directly addressed, indicating a glimpse of their upcoming destiny, and the use of Prophet directly for the child holds importance. The application of the Most High to Christ further emphasizes His divinity. This statement highlights John the Baptist as a prophet, paving the way for the Messiah's arrival, revealing God's glory, and fulfilling prophecies.",
+        "wordCount": 79,
+        "quoteTokenProportion": 26.92,
+        "qualityScore": 1.9568047169300327,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+        "commentatorTierSimilarities": [
+            25.92,
+            40.28,
+            33.79
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is not necessary to interpret the Lord of the Messiah.",
+            "But the believing Christian will find it far more natural thus to apply it.",
+            "Especially in connection with Matt. i. 21."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here are the dying echoes of this song; and very beautiful are these closing notes.\" ",
+            "The song passes not here from Christ to John, but only from Christ direct to Christ as heralded by His forerunner.",
+            "As 'the Most High' is an epithet in Scripture only of the supreme God, it is inconceivable that inspiration should apply this term, as here undeniably, to Christ, unless He were 'God over all blessed for ever.'"
+        ],
+        "Albert Barnes": [
+            "Prophet of the Highest - Prophet of God; a prophet 'appointed by God' to declare his will, and to prepare the way for the coming of the Messiah.",
+            "The face of the Lord - The Lord Jesus, the Messiah, that was about to appear. To go before 'the face of one' is the same as to go immediately before one, or to be immediately followed by another.",
+            "To prepare his ways - This is taken from Isaiah 40:3."
+        ],
+        "John Calvin": [
+            "To be called means here to be considered and openly acknowledged as the prophet of God.\" (Quote 1)",
+            "He says, thou shalt go before the face of the Lord: that is, thou shalt discharge the office of turning men by thy preaching to hear the Lord.\" (Quote 2)",
+            "The reason why John, when he had nearly finished his course, affirmed that he was not a prophet of God, is explained by me at the proper place\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "Zacharias, as a father, speaks of his son, as a prophet he foretells the career of the last and greatest of the prophets.",
+            "He introduces the position of his son only as relates to the coming of the Messiah.",
+            "The glory of Jehovah was to appear in the advent of the Messiah, who was Himself 'the Lord.'"
+        ],
+        "Archibald T. Robertson": [
+            "Yea and thou. Direct address to the child with forecast of his life.",
+            "Prophet. The word here directly applied to the child.",
+            "The Lord. Jehovah as in Luke 1:16."
+        ],
+        "John Gill": [
+            "He was not only a preacher of Christ and his Gospel, but he also foretold the coming of the Messiah; and the vengeance that should fall on the Jewish nation, for their unfruitfulness, impenitence, and unbelief.\" ",
+            "The Prophet 'of the Highest'; that is, of God; as the Persic version renders it, of the most high God; and by whom is meant, the Lord Jesus Christ, whose prophet, harbinger, and forerunner John was.",
+            "Thou shalt go before the face of the Lord, to prepare his ways; as the angel had suggested."
+        ],
+        "John Wesley": [
+            "And thou, child \u2014 He now speaks to John; yet not as a parent, but as a prophet."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a prophetic child who will go before the face of the Lord and prepares His ways. The commentators emphasize that while it is not necessary to interpret the Lord here as referring to the Messiah, the believing Christian can find it natural to do so. They highlight the direct address to the child as a forecast of his life and note the significance of the term Prophet being directly applied to him. Additionally, the commentators stress that the designation of the Most High to Christ implies His divinity. Ultimately, this verse highlights the role of John the Baptist as the prophet of God, preparing the way for the coming of the Messiah.",
+            "wordCount": 116,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.0922724607251233,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.91,
+            "commentatorTierSimilarities": [
+                26.83,
+                39.96,
+                33.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophetic child mentioned in the passage is believed by many Christians to be directly referring to the Messiah. The commentators underscore the direct address to the child as a foreshadowing of his life and stress the significance of Christ being referred to as the Most High. This verse highlights John the Baptist's role as a prophet, preparing the way for the coming of the Messiah, showcasing God's glory and announcing the fulfillment of prophecy.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.13865396501794,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.45,
+            "commentatorTierSimilarities": [
+                24.97,
+                41.05,
+                33.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophetic child's future is described, and many believers naturally interpret the Lord as a reference to the Messiah. The child is directly addressed, indicating a glimpse of their upcoming destiny, and the use of Prophet directly for the child holds importance. The application of the Most High to Christ further emphasizes His divinity. This statement highlights John the Baptist as a prophet, paving the way for the Messiah's arrival, revealing God's glory, and fulfilling prophecies.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.9568047169300327,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.41,
+            "commentatorTierSimilarities": [
+                25.92,
+                40.28,
+                33.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophetic child is seen as foreshadowing the Messiah. The direct address to the child reveals a glimpse of their future, and the term Prophet is directly applied to them. Referring to Christ as the Most High emphasizes His divinity. This verse highlights the role of John the Baptist as a prophet, preparing the way for the arrival of the Messiah and proclaiming the fulfillment of prophecy.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.23,
+            "qualityScore": 2.04661401719852,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.39,
+            "commentatorTierSimilarities": [
+                24.54,
+                42.1,
+                33.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The child in question is believed to have a prophetic role, preparing the way for the Lord. Some Christians interpret this as referring to the Messiah. The direct address to the child suggests a glimpse of their life's path, and the use of Prophet underscores their significance. The designation of the Most High to Christ emphasizes His divine nature. This passage sheds light on John the Baptist's role as a prophet, heralding the coming of the Messiah and announcing the fulfillment of ancient prophecies.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.952358830772339,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                25.42,
+                42.74,
+                31.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

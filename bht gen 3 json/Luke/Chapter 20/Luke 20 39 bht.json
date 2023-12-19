@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:22:28",
+    "verseRef": "Luke 20:39",
+    "bestBHT": {
+        "bht": "After being utterly foiled, the Pharisees and the scribes could not help but praise Jesus for his well-spoken response. By skillfully using a portion of the Pentateuch against the Sadducee's position, he left them amazed. Even his fiercest enemies were restrained from insolence, fearing disgrace. This stunning demonstration of the hope of resurrection, proven from the Law, showcased Jesus' fine reasoning, setting the matter in a fair and clear light.",
+        "wordCount": 72,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.5726431937175387,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+        "commentatorTierSimilarities": [
+            44.14,
+            12.85,
+            43.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Peculiar to Luke;\u2014implied however in Matthew ver. 34, and Mark ver. 28, 41\u201344.",
+            "St. Luke omits the question of the lawyer, which occurred immediately on the gathering together of the Pharisees after the last incident.",
+            "This question of our Lord seems to have followed close on that, which (and not that in vv. 27 ff. here) was their last to Him, Mark xii. 34."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "scribes . . . well said\u2014enjoying His victory over the Sadducees.",
+            "they durst not\u2014neither party, both for the time utterly foiled.",
+            "CHRIST BAFFLES THE PHARISEES BY A QUESTION ABOUT DAVID AND MESSIAH, AND DENOUNCES THE SCRIBES."
+        ],
+        "Albert Barnes": [
+            "See the notes at Mark 12:32."
+        ],
+        "John Calvin": [
+            "Meanwhile, it was brought about by the wonderful providence of God, that even his most deadly enemies assented to his doctrine.",
+            "Their insolence, to was restrained, not only because they saw that Christ was prepared to sustain every kind of attack, but because they feared that they would be driven back with disgrace.",
+            "It was justly regarded as a miracle that the hope of the resurrection was so ably and appropriately proved from the Law."
+        ],
+        "Archibald T. Robertson": [
+            "Pharisees who greatly enjoyed this use by Jesus of a portion of the Pentateuch against the position of the Sadducees.",
+            "So they praise the reply of Jesus, hostile though they are to him."
+        ],
+        "John Gill": [
+            "Who believed the doctrine of the resurrection, which the Sadducees denied, and so were pleased with our Lord's reasoning on this subject.",
+            "Master, thou hast well said; thou hast spoken in a beautiful manner, reasoned finely upon this head, and set this matter in a fair and clear light.",
+            "Reasoned finely upon this head, and set this matter in a fair and clear light."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peculiar to Luke, this passage follows the Pharisees' defeat by the Sadducees and is a response to their attempt to trap Jesus. Although the question asked by the lawyer is omitted, Christ boggles the minds of the Pharisees by raising a question about David and the Messiah, denouncing the scribes in the process. Astonishingly, even his fiercest enemies acknowledged the strength of his doctrine and were restrained in their insolence, fearing disgrace. It is truly a marvel that the hope of resurrection was so brilliantly proven from the Law, as our Lord reasoned finely and set the matter in a fair and clear light.",
+            "wordCount": 104,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.5226325327741133,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.97,
+            "commentatorTierSimilarities": [
+                45.89,
+                5.22,
+                48.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Following their defeat by the Sadducees, the Pharisees sought to trap Jesus. While omitting the lawyer's question, Christ boggles their minds with a counter-question about David and the Messiah, denouncing the scribes. Astonishingly, even his fiercest enemies assented to his doctrine and restrained their insolence, fearing disgrace. It is truly a marvel that the hope of resurrection was so brilliantly proven from the Law, as our Lord reasoned finely and set the matter in a fair and clear light.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.534513989126263,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                46.69,
+                4.96,
+                48.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After being foiled by the Sadducees, the Pharisees dared not challenge Jesus further. Instead, they praised his reply, even though they were hostile towards him. By raising a question about David and the Messiah, Christ skillfully used a portion of the Pentateuch to confound them. This demonstration of his mastery over the scriptures led to their admiration. Even his most deadly enemies acknowledged the strength of his doctrine, causing them to withhold their insolence for fear of being disgraced.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.480412642483825,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.57,
+            "commentatorTierSimilarities": [
+                48.5,
+                15.06,
+                36.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Immensely praised by both the Pharisees and the scribes, Jesus skillfully confounded them with his question about David and the Messiah, following their defeat by the Sadducees. While hostile to him, they couldn't help but admire his triumph over their opponents. Even his most deadly enemies assented to his doctrine, restraining their insolence to avoid disgrace. Thus, the hope of resurrection, which the Sadducees denied, was brilliantly and appropriately demonstrated through the Law, earning Jesus acclaim for his fine reasoning.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.498338276125509,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.16,
+            "commentatorTierSimilarities": [
+                45.48,
+                6.72,
+                47.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After being utterly foiled, the Pharisees and the scribes could not help but praise Jesus for his well-spoken response. By skillfully using a portion of the Pentateuch against the Sadducee's position, he left them amazed. Even his fiercest enemies were restrained from insolence, fearing disgrace. This stunning demonstration of the hope of resurrection, proven from the Law, showcased Jesus' fine reasoning, setting the matter in a fair and clear light.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.5726431937175387,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.63,
+            "commentatorTierSimilarities": [
+                44.14,
+                12.85,
+                43.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

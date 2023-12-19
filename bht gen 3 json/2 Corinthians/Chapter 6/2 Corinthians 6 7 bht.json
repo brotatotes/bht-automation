@@ -1,0 +1,150 @@
+{
+    "timestamp": "12-19-2023 15:16:37",
+    "verseRef": "2 Corinthians 6:7",
+    "bestBHT": {
+        "bht": "In describing the weapons of righteousness, Paul emphasizes that their power comes from God, not just through miracles. The breastplate of righteousness extends to encompass and protect the entire person. Offensive weapons are on the right, while defensive weapons are on the left\u2014guarding from all sides. These weapons consist of sincere truth and the power of God, enabling the apostles to withstand attacks and persecution. Relying on their righteousness and holy lives, they were equipped with the complete armor of God to stand firm.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.8732523729280417,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+        "commentatorTierSimilarities": [
+            33.28,
+            29.97,
+            36.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the power of God] viz. the Power spoken of ch. iv. 7,\u2014the power manifested in every part of our apostolic working,\u2014not merely in miracles.",
+            "the weapons of righteousness (belonging to,\u2014or furnished by,\u2014the righteousness which is of faith.",
+            "which are on the right and left: i.e. encompassing and guarding the whole person."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By the word of truth\" (compare",
+            "\t2 Corinthians 4:2 Colossians 1:5),",
+            "\tand \"the (miraculous) power of God\" (Colossians 1:5- :); 1 Corinthians 2:4, \"in",
+            "\tdemonstration of the Spirit and of power.",
+            "\t",
+            "Righteousness,\" which is the breastplate alone in",
+            "\tEphesians 6:13-17, here is",
+            "\tmade the whole Christian panoply (compare Ephesians 6:13-49.6.17- :).",
+            "on . . . right . . . and . .",
+            "\t. left\" - that is, guarding on every side."
+        ],
+        "Albert Barnes": [
+            "By the word of truth - That is, by making known the truths of the gospel... It was his object to make known the simple truth.",
+            "The object of the appointment of the Christian ministry is to make known the truth, and when that is done it cannot but be that they will commend their office and work to the favorable regards of people.",
+            "But the armor with which they met their foes, and which constituted their entire panoply, was a holy life. With that they met all the assaults of their enemies; with that all slander and persecution."
+        ],
+        "Marvin Vincent": [
+            "Right - left. Right - hand and left - hand weapons. Offensive, as the sword, in the right hand, defensive, as the shield, in the left."
+        ],
+        "John Calvin": [
+            "By the armor of righteousness you must understand \u2014 rectitude of conscience, and holiness of life.",
+            "He employs the metaphor of armor, because all that serve God require to fight, inasmuch as the devil is always on the alert, to molest them.",
+            "Now they must be completely armed, because, if he does not succeed in one onset, he thereupon makes a new attempt, and attacks them at one time from before, at another from behind \u2014 now on this side, and then on that."
+        ],
+        "Philip Schaff": [
+            " ... our conscious rectitude, which, amid all attacks both from open and concealed enemies, is our defence wherever we turn.",
+            "So we take these words (with Calvin).",
+            "To understand it of the 'righteousness which is of faith' (as Meyer does, and Alford after him), seems here out of place."
+        ],
+        "Archibald T. Robertson": [
+            "Offensive weapons on the right, defensive on the left.",
+            "Weapons of righteousness, the only kind that will stand the strain.",
+            "A description of the panoply of God."
+        ],
+        "John Gill": [
+            "By the word of truth, truly, sincerely, without any adulteration of it, which comes from the God of truth.",
+            "By the power of God; accompanying the word to the conversion and salvation of multitudes of souls.",
+            "By the armour of righteousness, on the right hand, and on the left: ... he is moved by neither, but passes on unconcerned."
+        ],
+        "John Wesley": [
+            "By the convincing and converting power of God - Accompanying his word; and also attesting it by divers miracles.",
+            "By the armour of righteousness on the right hand and the left \u2014 That is, on all sides; the panoply or whole armour of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 6:7, Paul describes the armor of righteousness as the weapons of the apostles, emphasizing that this power comes from God, not just in miracles. The breastplate of righteousness in Ephesians 6:13-17 is expanded here to encompass and protect the whole person. The offensive weapons are on the right, while the defensive weapons are on the left, guarding on every side. These weapons of righteousness, founded on the truth of the gospel, stand as the only kind that will endure. With the armor of righteousness, the apostles were able to defend themselves against attacks and persecution, relying on their conscientiousness and holy lives. This description reveals the panoply of God, enabling them to stand strong in the face of opposition.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.8512374973389023,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                34.42,
+                31.09,
+                34.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In describing the weapons of righteousness, Paul emphasizes that their power comes from God, not just through miracles. The breastplate of righteousness extends to encompass and protect the entire person. Offensive weapons are on the right, while defensive weapons are on the left\u2014guarding from all sides. These weapons consist of sincere truth and the power of God, enabling the apostles to withstand attacks and persecution. Relying on their righteousness and holy lives, they were equipped with the complete armor of God to stand firm.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.8732523729280417,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.63,
+            "commentatorTierSimilarities": [
+                33.28,
+                29.97,
+                36.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul speaks of the weapons of righteousness, derived from the power of God, not limited to miracles. This includes the breastplate of righteousness that guards and protects every aspect of our being. Offensive weapons on the right and defensive weapons on the left encompass and shield us from all sides. These weapons, grounded in the truth of the gospel and accompanied by the power of God, are the only ones that can withstand the challenges we face. With this full armor of righteousness, we can stand strong amidst adversity.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.815310141631247,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.7,
+            "commentatorTierSimilarities": [
+                37.13,
+                26.25,
+                36.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In 2 Corinthians 6:7, Paul refers to the weapons of righteousness found in the power of God, not limited to miracles. These weapons include the breastplate of righteousness, guarding and encompassing every aspect of our lives. Offensive weapons are positioned on the right, while defensive weapons protect on the left, providing full coverage from all directions. These weapons, rooted in the truth of the gospel and supported by the power of God, are the only ones that can effectively withstand challenges. This description reveals the comprehensive panoply of God, equipping us to stand firm in the face of opposition.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7723769493854022,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                39.3,
+                26.61,
+                34.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul speaks of the weapons of righteousness, derived from the power of God and not limited to miracles. These weapons encompass the breastplate of righteousness, protecting the whole person. Offensive weapons are on the right, while defensive weapons guard on the left. These weapons include the word of truth and the power of God, enabling the apostles to stand against persecution. With the armor of righteousness, they were able to withstand attacks and rely on their holy lives as a defense. This description depicts the comprehensive panoply of God to stand strong in the face of opposition.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.869193587419017,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.49,
+            "commentatorTierSimilarities": [
+                37.49,
+                27.52,
+                34.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

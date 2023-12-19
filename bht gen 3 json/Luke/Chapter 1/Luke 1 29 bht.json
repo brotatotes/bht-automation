@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:12:55",
+    "verseRef": "Luke 1:29",
+    "bestBHT": {
+        "bht": "Mary was both upset and puzzled as she thought about the angel's message. It was unexpected, sudden, and extraordinary, causing her to be filled with anxious thoughts and unsure of what to make of it. The greeting was not from a mortal man, but from an angel of God, and Mary was agitated and surprised by both the sight of him and the words he spoke. This encounter reminded her to consider the works of God with fear and reverence, recognizing the heavenly glory in the angel's presence.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.37,
+        "qualityScore": 1.8086501143007165,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+        "commentatorTierSimilarities": [
+            31.43,
+            32.16,
+            36.41
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Troubled at his saying - Disturbed or perplexed at what he said.",
+            "It was so unexpected, so sudden, so extraordinary, and was so high an honor, that she was filled with anxious thoughts, and did not know what to make of it.",
+            "Cast in her mind - Thought, or revolved in her mind."
+        ],
+        "John Calvin": [
+            "Perceiving in the angel something of heavenly glory, she was seized with sudden dread arising out of reverence for God.\" ",
+            "This example reminds us, first, that we ought not to be careless observers of the works of God; and, secondly, that our consideration of them ought to be regulated by fear and reverence.",
+            "She was agitated, because she felt that she had received a salutation, not from a mortal man, but from an angel of God."
+        ],
+        "Philip Schaff": [
+            "Greatly troubled; not at the sight of the angel, but at the saying.",
+            "Had she been born without sin, she would have been sufficiently conscious of her fellowship with a holy God, to understand such a salutation at once.",
+            "She would have been sufficiently conscious of her fellowship with a holy God."
+        ],
+        "Archibald T. Robertson": [
+            "Cast in her mind (\u03b4\u03b9\u03b5\u03bb\u03bf\u03b3\u03b9\u03b6\u03b5\u03c4\u03bf). Imperfect indicative. Note aorist \u03b4\u03b9\u03b5\u03c4\u03b1\u03c1\u03b1\u03c7\u03b8\u03b7. Common verb for reckoning up different reasons. She was both upset and puzzled. "
+        ],
+        "John Gill": [
+            "She was surprised at the sight of him, and more at what he said to her.",
+            "Mary might well be thrown into a concern what should be the meaning of this.",
+            "Especially, that she should be addressed in such language, and saluted as a peculiar favourite of God, and blessed among women."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Mary was both upset and puzzled as she thought about the angel's message. It was unexpected, sudden, and extraordinary, causing her to be filled with anxious thoughts and unsure of what to make of it. The greeting was not from a mortal man, but from an angel of God, and Mary was agitated and surprised by both the sight of him and the words he spoke. This encounter reminded her to consider the works of God with fear and reverence, recognizing the heavenly glory in the angel's presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8086501143007165,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                31.43,
+                32.16,
+                36.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Mary was both upset and puzzled as she thought about the angel's message. It was unexpected and extraordinary, causing her to be filled with anxious thoughts and unsure of what to make of it. The greeting was not from a mortal man, but from an angel of God, and Mary was agitated and surprised. This encounter reminded her to consider the works of God with fear and reverence, recognizing the heavenly glory in the angel's presence.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7467156622204985,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                30.01,
+                32.27,
+                37.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Mary was both upset and puzzled as she thought about the angel's message. It was unexpected, sudden, and extraordinary, causing her to be filled with anxious thoughts and unsure of what to make of it. The greeting was not from a mortal man, but from an angel of God, and Mary was agitated and surprised by both the sight of him and the words he spoke. This encounter reminded her to consider the works of God with fear and reverence, recognizing the heavenly glory in the angel's presence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8086501143007165,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.48,
+            "commentatorTierSimilarities": [
+                31.43,
+                32.16,
+                36.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mary was both upset and puzzled as she thought about the angel's message. It was unexpected and extraordinary, causing her to be filled with anxious thoughts and unsure of what to make of it. The greeting was not from a mortal man, but from an angel of God, and Mary was agitated and surprised. This encounter reminded her to consider the works of God with fear and reverence, recognizing the heavenly glory in the angel's presence.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7467156622204985,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.42,
+            "commentatorTierSimilarities": [
+                30.01,
+                32.27,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mary was both upset and puzzled as she pondered the angel's message. It was unexpected and extraordinary, leaving her filled with anxious thoughts and uncertain about its meaning. The greeting came not from a mortal man, but from an angel of God, causing Mary to be agitated and surprised. This encounter served as a reminder for Mary to approach the works of God with fear and reverence, acknowledging the heavenly glory in the angel's presence.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.7040374622417385,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                31.37,
+                30.77,
+                37.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

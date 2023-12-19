@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:26",
+    "verseRef": "Luke 12:54",
+    "bestBHT": {
+        "bht": "When a cloud emerges from the west, people immediately anticipate rain. This connection between the sight of a cloud and the expectation of rainfall is firmly established. Jesus warned the thoughtless crowd about their ability to interpret signs of the weather but not recognize the signs of the times. He used the example of a cloud rising from the west, a common occurrence in Judea, to underscore the need for discernment beyond mere observations.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 1.4809228156591794,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+        "commentatorTierSimilarities": [
+            30.5,
+            0.0,
+            69.5
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is a somewhat similar saying of our Lord at Matt. xvi. 2 ff., but differing both in its occasion and its substance.",
+            "The cloud,\u2014that usually rises there; see 1 Kings xviii. 44.",
+            "The west, in Jud\u00e6a, would the direction of the sea."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "54. to the people\u2014\"the",
+            "\tmultitude,\" a word of special warning to the thoughtless crowd,",
+            "\tbefore dismissing them. (See on :-)."
+        ],
+        "Marvin Vincent": [
+            "A cloud. With the definite article, the cloud, which you so often see.",
+            "There cometh a shower. Or, a shower is coming.",
+            "It is [\u03b3\u03b9\u03bd\u03b5\u03c4\u03b1\u03b9] . Better, as Rev., it cometh to pass."
+        ],
+        "Archibald T. Robertson": [
+            "After the strong and stirring words just before with flash and force...",
+            "These signs of the weather...are appealed to today. They have a more or less general application due to atmospheric and climatic conditions.",
+            "Not all the old MSS. give Matthew 16:2; Matthew 16:3."
+        ],
+        "John Gill": [
+            "when ye see a cloud rise out of the west...\": This quote draws attention to the visual observation of a cloud emerging from the west.",
+            "straightway ye say there comes a shower...\": This quote highlights the immediate association between the sight of a cloud and the expectation of rainfall.",
+            "and so it is...\": This quote affirms the general consistency of the connection between the appearance of a cloud and the subsequent manifestation of a heavy shower."
+        ],
+        "John Wesley": [
+            "And he said to the people also \u2014 In the preceding verses he speaks only to his disciples.",
+            "From the west \u2014 In Judea, the west wind, blowing from the sea, usually brought rain: the south wind, blowing from the deserts of Arabia, occasioned sultry heat.",
+            "Matthew 16:2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When observing a cloud rising from the west, it is common for people to immediately think there is a shower coming. This association between the sight of a cloud and the expectation of rainfall is deeply ingrained in our minds due to the consistent connection between the two. Jesus emphasized this point to the thoughtless crowd, warning them about their ability to interpret signs of the weather but not recognizing the signs of the times. He used the example of a cloud rising from the west, a common occurrence in Judea, to illustrate the need for discernment and understanding beyond mere observations.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4466598842538265,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.44,
+            "commentatorTierSimilarities": [
+                28.43,
+                0.0,
+                71.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When a cloud emerges from the west, people immediately anticipate rain. This connection between the sight of a cloud and the expectation of rainfall is firmly established. Jesus warned the thoughtless crowd about their ability to interpret signs of the weather but not recognize the signs of the times. He used the example of a cloud rising from the west, a common occurrence in Judea, to underscore the need for discernment beyond mere observations.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.4809228156591794,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                30.5,
+                0.0,
+                69.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When observing a cloud rising from the west, it is common for people to immediate think there is a shower coming. This association between the sight of a cloud and the expectation of rainfall is deeply ingrained in our minds due to the consistent connection between the two. Jesus emphasized this point to the thoughtless crowd, warning them about their ability to interpret signs of the weather but not recognizing the signs of the times. He used the example of a cloud rising from the west, a common occurrence in Judea, to illustrate the need for discernment and understanding beyond mere observations.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4532814724305636,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.66,
+            "commentatorTierSimilarities": [
+                28.71,
+                0.0,
+                71.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus wants us to be more discerning and understanding about the signs of the times. He warns the thoughtless crowd that they are adept at interpreting signs of the weather, such as a cloud rising in the west, but fail to recognize the greater significance of the signs around them. Just as people immediately associate a cloud with the expectation of rain, we should be attentive to the signs of the times and discern the spiritual implications they hold.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.3709225168786423,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.93,
+            "commentatorTierSimilarities": [
+                33.86,
+                0.0,
+                66.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus admonishes the thoughtless crowd for their ability to interpret signs of the weather, like a cloud rising from the west, while being oblivious to the signs of the times. He emphasizes the need for discernment beyond surface-level observations, urging them to recognize the greater significance of these signs. Just as people immediately connect a cloud with impending rainfall, we should also be attuned to the signs around us and discern their spiritual implications.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.3583110335416428,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "commentatorTierSimilarities": [
+                30.34,
+                0.0,
+                69.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

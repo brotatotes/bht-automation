@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:01:17",
+    "verseRef": "1 Thessalonians 4:14",
+    "bestBHT": {
+        "bht": "The Apostle uses the term 'died' for Jesus and 'sleep' for the faithful to clarify the distinction. The connection between Jesus and His people ensures that if they die united with Him, they will be raised at His coming. Our hope rests on our faith in the death and resurrection of Jesus. Believers are laid to sleep by Jesus and will be brought back with Him. Christ's resurrection guarantees the resurrection of His saints, who will be brought back with Him as their living Head.",
+        "wordCount": 86,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.3655455745469,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.99,
+        "commentatorTierSimilarities": [
+            37.2,
+            33.21,
+            29.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Apostle here, as always, uses the direct term 'died' in reference to our Lord, to obviate all possible misconception: in reference to the faithful he appropriately uses the consolatory term 'sleep.'\" ",
+            "The two clauses do not accurately correspond. We should expect 'we believe also that even thus they who fell asleep through Jesus will rise again,' or the like. Still the even so betokens identity of lot for the two parties concerned, viz. death, and resurrection.",
+            "God will bring (back to us) with Him (Jesus): i.e. when Jesus shall appear, they also shall appear with Him, being (as below) raised at His coming."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our hope rests on our faith ('if we believe').",
+            "Believers are laid in sleep by Jesus, and so will be brought back from sleep with Jesus in His train when He comes.",
+            "The same Hand that shall raise them is that which laid them to sleep."
+        ],
+        "Albert Barnes": [
+            "The doctrine of the resurrection of the saints so certainly follows from that of the resurrection of Christ, that, if the one is believed, the other ought to be also.",
+            "They do not 'sleep' in paganism, or in infidelity, or in the gloom of atheism - but in the blessed hope which Jesus has imparted.",
+            "The apostle does not, therefore, refer so much to the time when this would occur - meaning that it would happen when the Lord Jesus should return - as to the fact that there was an established connection between him and his people, which made it certain that if they died united with him by faith, they would be as certainly brought from the grave as he was."
+        ],
+        "Marvin Vincent": [
+            "(1) \"Which sleep should be, which have been laid asleep or have fallen asleep, giving the force of the passive.",
+            "(2) \"Dia tou Ihsou can by no possibility be rendered in Jesus, which would be ejn Ihsou : see 1 Corinthians 14:18; 1 Thessalonians 4:16. It must mean through or by means of Jesus.",
+            "(3) \"The attempt to construe dia tou Ihsou with touv koimhqentav those who have fallen asleep by means of Jesus, gives an awkward and forced interpretation.",
+            "(4) \"Dia tou Ihsou should be construed with axei will bring. Rend. the whole: them also that are fallen asleep will God through Jesus bring with him."
+        ],
+        "John Calvin": [
+            "For if we believe...that Christ was raised up from the dead...we shall live with him eternally.",
+            "Those who have doubts as to the resurrection...do great injury to Christ.",
+            "To sleep in Christ, is to retain in death the connection that we have with Christ, for those that are by faith ingrafted into Christ, have death in common with him, that they may be partakers with him of life."
+        ],
+        "Philip Schaff": [
+            "Jesus Christ is the Head and Representative of His people, in such a sense that in His human history we see the history and experience of each Christian acted out in all its essential parts.\" ",
+            "The members cannot be separated from the Head in any important part of His destiny. In His triumphant return they must share.",
+            "Christ 'tasted death for every man' and by the infallible chemistry of His love drew out of each man\u2019s cup the poison, so that it became a sleeping draught."
+        ],
+        "Archibald T. Robertson": [
+            "For if we believe...assuming the death and resurrection of Jesus to be true.\" ",
+            "In Jesus...that are fallen asleep in or through Jesus.\" ",
+            "With him...the connecting link for those that sleep and their resurrection."
+        ],
+        "John Gill": [
+            "For if we believe that Jesus died, and rose again...nothing is more certain or more firmly to be believed than that Christ died for the sins of his people, and rose again for their justification.",
+            "To represent death as a sleep makes it very easy and familiar; but it is more so, when it is considered as sleeping in Jesus, in the arms of Jesus; and such as are asleep in him must needs be at rest, and in safety.",
+            "The bodies of the saints will be raised at the last day: so that there may be the strongest assurance, that such will God bring with him; either God the Father will bring them with his Son, or Jehovah the Son will bring them with himself."
+        ],
+        "John Wesley": [
+            "So \u2014 As God raised him.",
+            "With him \u2014 With their living head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Apostle uses the term 'died' in reference to Jesus to dispel any confusion, while using the consolatory term 'sleep' in reference to the faithful. There is an identity of lot for both parties, as death and resurrection are interconnected. God will bring the faithful back with Jesus when He appears, as they will be raised at His coming. Our hope rests on our faith, assuming the death and resurrection of Jesus to be true. Believers are laid to sleep by Jesus and will be brought back from sleep with Jesus. The same Hand that laid them to sleep will raise them. The doctrine of the resurrection of the saints follows unequivocally from the resurrection of Christ. The saints sleep in the blessed hope that Jesus has given, separated from Him in none of His destiny. Christ, as the Head and Representative of His people, shares His triumph with them.",
+            "wordCount": 150,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 2.140298015328374,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.51,
+            "commentatorTierSimilarities": [
+                37.65,
+                33.96,
+                28.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Apostle refers to the death of Jesus to avoid misconception, while using the term sleep for the faithful. The connection between Jesus and His people ensures that if they die united with Him, they will be raised from the grave. God will bring the faithful back when Jesus appears, as they will be raised at His coming. Our hope lies in our faith, assuming the truth of Jesus' death and resurrection. Believers sleep in Jesus and will be raised by the same Hand that laid them to rest. Christ's resurrection guarantees the resurrection of His saints.",
+            "wordCount": 98,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 2.300401292132282,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.83,
+            "commentatorTierSimilarities": [
+                37.49,
+                32.19,
+                30.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Apostle uses the term 'died' for Jesus and 'sleep' for the faithful to clarify the distinction. The connection between Jesus and His people ensures that if they die united with Him, they will be raised at His coming. Our hope rests on our faith in the death and resurrection of Jesus. Believers are laid to sleep by Jesus and will be brought back with Him. Christ's resurrection guarantees the resurrection of His saints, who will be brought back with Him as their living Head.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.3655455745469,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.99,
+            "commentatorTierSimilarities": [
+                37.2,
+                33.21,
+                29.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Apostle intentionally uses the term 'died' for Jesus and 'sleep' for the faithful to prevent misunderstanding. The connection between Jesus and His people ensures that if they die united with Him, they will be raised from the grave. God will bring the faithful back with Jesus when He appears, as they will be raised at His coming. Our hope rests on our faith in the death and resurrection of Jesus. Believers are laid to sleep by Jesus and will be brought back with Him. The resurrection of Christ guarantees the resurrection of His saints, who will be brought back with their living Head.",
+            "wordCount": 104,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.341376099068521,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.19,
+            "commentatorTierSimilarities": [
+                37.22,
+                32.47,
+                30.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Apostle uses the term 'died' for Jesus and 'sleep' for the faithful to clarify the distinction. The hope of believers rests on their faith in the death and resurrection of Jesus. They are laid to sleep by Him and will be brought back with Him when He appears. The resurrection of Christ guarantees the resurrection of His saints, who will be brought back with their living Head. The connection between Jesus and His people ensures that if they die united with Him, they will be raised at His coming.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.2658761402006906,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.68,
+            "commentatorTierSimilarities": [
+                36.07,
+                34.36,
+                29.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

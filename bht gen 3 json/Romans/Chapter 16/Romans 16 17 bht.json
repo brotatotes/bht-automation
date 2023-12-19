@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:10:44",
+    "verseRef": "Romans 16:17",
+    "bestBHT": {
+        "bht": "Be cautious of those who cause divisions and offend with teachings contrary to the doctrine you have learned. Keep a watchful eye on them and turn away, so as not to be responsible for their actions or give them any support. Divisions and offenses like these should not be taken lightly, for they can lead people astray from the unity of truth. Let peace be your priority and love all who are in Christ, using it as a guide to discern those who seek to promote division and contention.",
+        "wordCount": 89,
+        "quoteTokenProportion": 48.53,
+        "qualityScore": 2.045110845835242,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+        "commentatorTierSimilarities": [
+            34.07,
+            32.1,
+            33.83
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "17.] The doctrine here spoken of is probably rather ethical than doctrinal; compare Eph. iv. 20\u201324."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mark them which cause divisions and offences contrary to the doctrine which ye have learned.",
+            "The fomentors of 'divisions' here referred to are probably those who were unfriendly to the truths taught in this epistle.",
+            "Avoid them, so as neither to bear any responsibility for their procedure, nor seem to give them the least countenance."
+        ],
+        "Albert Barnes": [
+            "Mark them - Observe attentively, cautiously, and faithfully Philippians 3:17; be on your guard against them.",
+            ". . . these divisions should cease; that the Jewish ceremonies are not binding; that all should lay aside their causes of former difference, and be united in one family.",
+            "Let people make 'peace' their prime object; resolve to love all who 'are' Christians, and it will be an infallible guage by which to measure the arguments of those who seek to promote alienations and contentions."
+        ],
+        "Marvin Vincent": [
+            "Divisions - offenses. The article with each noun points to some well-known disturbances.\" ",
+            "Avoid. Better, as Rev, turn aside. Not only keep out of their way, but remove from it if you fall in with them."
+        ],
+        "John Calvin": [
+            "The ministers of Satan are ever ready to take occasion to disturb the kingdom of Christ: and they attempt to make disturbances in two ways; for they either sow discord, by which the minds of men are drawn away from the unity of truth, or they occasion offenses, by which men are alienated from the love of the gospel.",
+            "It is indeed an impious and sacrilegious attempt to divide those who agree in the truth of Christ: but yet it is a shameful sophistry to defend, under the pretext of peace and unity, a union in lies and impious doctrines.",
+            "Paul clearly shows, that he did not condemn all kinds of discords, but those which destroyed consent in the orthodox faith; for the force of the passage is in the words, which ye have learnt; for it was the duty of the Romans, before they were rightly taught, to depart from the habits of their fathers and the institutions of their ancestors."
+        ],
+        "Philip Schaff": [
+            "Mark them; note carefully.",
+            "Divisions and offences.",
+            "Avoid thorn; lit. 'turn off from them.'"
+        ],
+        "Archibald T. Robertson": [
+            "Keep an eye on so as to avoid. \u03a3\u03ba\u03bf\u03c0\u03bf\u03c2 is the goal, \u03c3\u03ba\u03bf\u03c0\u03b5\u03c9 means keeping your eye on the goal.",
+            "Divisions (\u03b4\u03b9\u03c7\u03bf\u03c3\u03c4\u03b1\u03c3\u03b9\u03b1\u03c2). Old word for 'standings apart,' cleavages.",
+            "This articular participle clause has within it not only the objects of the participle but the relative clause \u03b7\u03bd \u03c5\u03bc\u03b5\u03b9\u03c2 \u03b5\u03bc\u03b1\u03b8\u03b5\u03c4\u03b5 (which you learned), a thoroughly Greek idiom."
+        ],
+        "John Gill": [
+            "The doctrine of faith is but one, the Gospel is one uniform thing, all of a piece.",
+            "Thus by these men they were divided in sentiments, affection, and worship; and which must needs cause offence to the church and the godly members of it.",
+            "Both ministers of the Gospel and members of churches should not be asleep, but should watch, and be upon their guard, and look diligently."
+        ],
+        "John Wesley": [
+            "Mark them who cause divisions \u2014 Such there were, therefore, at Rome also.",
+            "Avoid them \u2014 Avoid all unnecessary intercourse with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Be cautious of those who cause divisions and offend with teachings contrary to the doctrine you have learned. Keep a watchful eye on them and turn away, so as not to be responsible for their actions or give them any support. Divisions and offenses like these should not be taken lightly, for they can lead people astray from the unity of truth. Let peace be your priority and love all who are in Christ, using it as a guide to discern those who seek to promote division and contention.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.045110845835242,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                34.07,
+                32.1,
+                33.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Be cautious of those who cause divisions and offend with teachings contrary to the doctrine you have learned. Keep a watchful eye on them and turn away, so as not to be responsible for their actions or give them any support. Divisions and offenses like these should not be taken lightly, for they can lead people astray from the unity of truth. Let peace be your priority and love all who are in Christ, using it as a guide to discern those who seek to promote division and contention.",
+            "wordCount": 89,
+            "quoteTokenProportion": 48.53,
+            "qualityScore": 2.045110845835242,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                34.07,
+                32.1,
+                33.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Be cautious of those who cause divisions and offend with teachings contrary to the doctrine you have learned. Keep a watchful eye on them and turn away, avoiding any responsibility for their actions. These disturbances can lead people astray from the unity of truth. Let peace be your priority and love all who are in Christ, using it to gauge the arguments of those who promote division. Mark them carefully and avoid unnecessary interaction with them. Stay vigilant and be on guard against those who seek to disrupt the kingdom of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.9599453275408605,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                30.25,
+                35.7,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be cautious of those who cause divisions and offend with teachings contrary to the doctrine you have learned. Keep a watchful eye on them and turn away, avoiding any responsibility for their actions. These disturbances can lead people astray from the unity of truth. Let peace be your priority and love all who are in Christ, using it to gauge the arguments of those who promote division. Mark them carefully and avoid unnecessary interaction with them. Stay vigilant and be on guard against those who seek to disrupt the kingdom of Christ.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.9599453275408605,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                30.25,
+                35.7,
+                34.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Romans 16:17, Paul warns against those who cause divisions and offenses with teachings that contradict the received doctrine. Christians are urged to be watchful and avoid association with such individuals, so as not to be implicated in their actions. This admonition emphasizes the importance of maintaining unity in the faith. By remaining vigilant and discerning, believers can protect themselves and the church from those who seek to sow discord and promote false teachings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.902709026294168,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.61,
+            "commentatorTierSimilarities": [
+                30.21,
+                29.25,
+                40.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

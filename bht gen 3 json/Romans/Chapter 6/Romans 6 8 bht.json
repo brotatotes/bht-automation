@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:04:24",
+    "verseRef": "Romans 6:8",
+    "bestBHT": {
+        "bht": "If we died with Christ, our belief in Him leads us to the conviction that we shall also live with Him. This belief is not just intellectual, but a deep-seated dogmatic faith. The death and resurrection of Christ is not a mere event, but an ongoing and transformative reality that we partake in. Through our union with Christ, we are called to crucify the flesh and live a spiritual life. This pursuit of newness of life is an integral part of our identity as believers, allowing us to bear His image and bring glory unto Him.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.895923302545182,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+        "commentatorTierSimilarities": [
+            27.99,
+            27.26,
+            44.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Now (continuing the train of argument) if we died with Christ, we believe that we shall also live with him.\" ",
+            "The life with Him, though here begun, is not here completed.\" ",
+            "The term 'we believe' used more of dogmatic belief, than of ?rus?, though the latter meaning is not altogether absent."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. Now if we be dead\u2014\"if",
+            "\twe died.\" ",
+            "\t",
+            "with Christ, &amp;c.\u2014See",
+            "\ton :-."
+        ],
+        "Marvin Vincent": [
+            "The death is viewed as an event, not as a state.",
+            "Dogmatic belief rather than trust, though the latter is not excluded.",
+            "Participation of the believer's sanctified life with the life of Christ rather than participation in future glory."
+        ],
+        "John Calvin": [
+            "And hereby he teaches us that newness of life is to be pursued by Christians as long as they live.\" ",
+            "For since they ought to represent in themselves an image of Christ, both by crucifying the flesh and by a spiritual life...\" ",
+            "We cannot be the participators [of Christ] except through newness of life, inasmuch as he lives an incorruptible life."
+        ],
+        "Philip Schaff": [
+            "If we died with Christ...we believe, etc.",
+            "The argument is plain, but the exact force of 'live with him' is doubtful.",
+            "It seems best to accept a primary reference to sanctification, to ethical fellowship with Christ."
+        ],
+        "Archibald T. Robertson": [
+            "With Christ (\u03c3\u03c5\u03bd \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9). As pictured by baptism, the crucifixion with Christ of verse Romans 6:6. "
+        ],
+        "John Gill": [
+            "seeing we are dead with Christ by union with him, as our head and representative, and by communion with him in the benefits of his death\" ",
+            "we believe that we shall also live with him\" ",
+            "whilst here on earth, to live, not in sin, but to righteousness, and to his praise and glory"
+        ],
+        "John Wesley": [
+            "Dead with Christ \u2014 Conformed to his death, by dying to sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If we died with Christ, then we believe that we shall also live with him. This belief is not just a matter of intellectual assent, but a deep conviction that shapes our entire way of life. The death and resurrection of Christ is not just an event that happened in the past, but an ongoing reality that we participate in. Through our union with Christ, we are called to crucify the flesh and live a spiritual life. This newness of life is not optional for Christians, but an essential aspect of our identity as followers of Christ. As we pursue this new life, we bear the image of Christ and glorify Him in all we do.",
+            "wordCount": 116,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.928656776008883,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                27.74,
+                26.84,
+                45.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If we died with Christ, then we believe that we shall also live with him. This belief is not just a matter of intellectual assent, but a deep conviction that shapes our entire way of life. The death and resurrection of Christ is not just an event that happened in the past, but an ongoing reality that we participate in. Through our union with Christ, we are called to crucify the flesh and live a spiritual life. This newness of life is not optional for Christians, but an essential aspect of our identity as followers of Christ. As we pursue this new life, we bear the image of Christ and glorify Him in all we do.",
+            "wordCount": 116,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.928656776008883,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                27.74,
+                26.84,
+                45.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If we died with Christ, our belief in Him leads us to the conviction that we shall also live with Him. This belief is not just intellectual, but a deep-seated dogmatic faith. The death and resurrection of Christ is not a mere event, but an ongoing and transformative reality that we partake in. Through our union with Christ, we are called to crucify the flesh and live a spiritual life. This pursuit of newness of life is an integral part of our identity as believers, allowing us to bear His image and bring glory unto Him.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.895923302545182,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "commentatorTierSimilarities": [
+                27.99,
+                27.26,
+                44.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If we died with Christ, we believe that we shall also live with him. Our belief is not just a matter of intellectual assent, but a deep conviction that shapes our whole life. The death and resurrection of Christ is not just an event, but an ongoing reality in which we participate. Through our union with Christ, we are called to crucify our sinful nature and live a life marked by spiritual transformation. This pursuit of newness in life is not optional, but an essential aspect of our identity as followers of Christ.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.873998132532957,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.65,
+            "commentatorTierSimilarities": [
+                29.83,
+                26.98,
+                43.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If we died with Christ, our belief in him prompts us to have confidence that we will also live with him. This belief is not merely intellectual, but a deep conviction that molds our entire way of life. The death and resurrection of Christ is not just a historical event, but an ongoing reality that we actively participate in. Through our union with Christ, we are called to crucify our sinful nature and embrace a spiritual lifestyle. This pursuit of newness in life is not optional, but an essential part of our identity as Christians.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.8110551292390662,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.56,
+            "commentatorTierSimilarities": [
+                29.12,
+                26.82,
+                44.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

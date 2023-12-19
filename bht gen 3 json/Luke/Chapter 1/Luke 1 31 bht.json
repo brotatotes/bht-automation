@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:12:58",
+    "verseRef": "Luke 1:31",
+    "bestBHT": {
+        "bht": "The angel deliberately echoes Isaiah's prophecy regarding the birth of Jesus and specifically addresses the miraculous conception in Mary's womb. The name Jesus carries a promise of salvation and signifies the purpose for which Christ was sent into the world. This agreement between ancient prophecies and the current message highlights the divine intention behind the manifestation of Christ. Jesus is the appointed and complete Savior who is able and willing to save all who believe in him, providing a spiritual and eternal salvation for his people.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.7179933994714678,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+        "commentatorTierSimilarities": [
+            25.43,
+            21.22,
+            53.35
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "31. The angel purposely conforms",
+            "\this language to Isaiah's famous prophecy ( :-) [CALVIN]."
+        ],
+        "Albert Barnes": [
+            "And, behold, thou shalt conceive in thy womb.",
+            "And shalt call his name Jesus - A Saviour.",
+            "All this was announced, also, by an angel to Joseph, after this visitation to Mary."
+        ],
+        "Marvin Vincent": [
+            "Thou shalt conceive. See on verse 24. ",
+            "Jesus. See on Matthew 1:21."
+        ],
+        "John Calvin": [
+            "It was not without the purpose of God, that the agreement, between ancient prophecies and the present message respecting the manifestation of Christ, was so clearly pointed out.",
+            "The name contains a promise of salvation, and points out the object for which Christ was sent by the Father into the world.",
+            "Let us then bid adieu to such imaginations, and know, that the name Jesus was given to Christ, in order that believers may be instructed to seek in him what had formerly been shadowed out under the Law."
+        ],
+        "Philip Schaff": [
+            "Luke 1:31. See on Matthew 1:21.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Conceive in thy womb (\u03c3\u03c5\u03bb\u03bb\u03b7\u03bc\u03c8\u03b7 \u03b5\u03bd \u03b3\u03b1\u03c3\u03c4\u03c1).\" ",
+            "Adding \u03b5\u03bd \u03b3\u03b1\u03c3\u03c4\u03c1 to the verb of Luke 1:24.",
+            "Same idiom in Isaiah 7:14 of Immanuel."
+        ],
+        "John Gill": [
+            "Though a pure virgin, which never knew a man; and therefore, 'a behold', is prefixed to it, as being what was extraordinary and wonderful.",
+            "A Saviour Christ is of God's appointing, providing and sending; and a very suitable one, being a spiritual Saviour, and a complete one, both able and willing to save to the uttermost all that believe in him.",
+            "He is the Saviour of his people, whom the Father has given him, even of all the elect, whether of Jews or Gentiles; and of them from all their sins, and from all their enemies; and whom he saves with a spiritual and eternal salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel deliberately echoes Isaiah's prophecy regarding the birth of Jesus and specifically addresses the miraculous conception in Mary's womb. The name Jesus carries a promise of salvation and signifies the purpose for which Christ was sent into the world. This agreement between ancient prophecies and the current message highlights the divine intention behind the manifestation of Christ. Jesus is the appointed and complete Savior who is able and willing to save all who believe in him, providing a spiritual and eternal salvation for his people.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.7179933994714678,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.47,
+            "commentatorTierSimilarities": [
+                25.43,
+                21.22,
+                53.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel intentionally parallels Isaiah's prophecy, emphasizing the miraculous conception in Mary's womb. The name Jesus signifies salvation and reveals the divine purpose of Christ's incarnation. This alignment between ancient prophecies and the present message highlights God's clear intention. Jesus is the appointed and complete Savior who is able and willing to save all who believe in him, granting a spiritual and eternal salvation to his chosen people.",
+            "wordCount": 72,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.6508417652471536,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                27.67,
+                22.21,
+                50.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel's language deliberately echoes Isaiah's prophecy, underscoring the miraculous conception within Mary's womb. The name Jesus signifies salvation and serves as a promise for Christ's mission in the world. This alignment between ancient prophecies and the present announcement is significant, as it highlights the divine purpose behind the manifestation of Christ. Jesus is the chosen and complete Savior, able to save all believers through a spiritual and eternal salvation, granted by God for his people.",
+            "wordCount": 80,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.6361337114586416,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.74,
+            "commentatorTierSimilarities": [
+                27.62,
+                22.09,
+                50.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's language deliberately aligns with Isaiah's prophecy, emphasizing the miraculous conception in Mary's womb. The name Jesus signifies salvation and points to the purpose of Christ's coming into the world. This clear connection between ancient prophecies and the present message reveals God's divine intention. Jesus, the chosen and complete Savior, is able and willing to save believers, providing spiritual and eternal salvation for God's people.",
+            "wordCount": 72,
+            "quoteTokenProportion": 22.64,
+            "qualityScore": 1.6534271342763094,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                28.18,
+                21.58,
+                50.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel intentionally conforms his language to Isaiah's prophecy, stressing the miraculous conception in Mary's womb. The name Jesus signifies salvation and highlights the purpose behind Christ's manifestation. The agreement between ancient prophecies and the present message reveals God's clear intention. Jesus, the chosen and complete Savior, is able and willing to save believers, granting them a spiritual and eternal salvation.",
+            "wordCount": 65,
+            "quoteTokenProportion": 22.45,
+            "qualityScore": 1.638219292180215,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                28.03,
+                21.74,
+                50.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

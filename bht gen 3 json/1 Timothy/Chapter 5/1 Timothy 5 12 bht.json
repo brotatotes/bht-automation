@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:29:33",
+    "verseRef": "1 Timothy 5:12",
+    "bestBHT": {
+        "bht": "The widows who have made a commitment to remain single but then choose to marry face judgment and condemnation. Breaking their initial pledge to serve Christ, they carry a continuous reproach in their new married life. This condemnation is not damnation but a burden, a reproof for rejecting their first faith and transferring their devotion to a husband. It is essential not to abandon our devotion and trust in God for anything less, as sinking into anything below our first faith is unwise.",
+        "wordCount": 83,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 2.11154929435291,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+        "commentatorTierSimilarities": [
+            37.37,
+            33.33,
+            29.3
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Bringing on themselves, and so having to bear as a burden ( :-) judgment from God (compare :-), weighing like a load on them.\" ",
+            "The widow-presbyteresses, moreover, engaged to remain single, not as though single life were holier than married life (according to Rome's teaching), but because the interests of Christ's cause made it desirable.",
+            "They had pledged 'their first faith' to Christ as presbyteress widows; they now wish to transfer their faith to a husband."
+        ],
+        "Albert Barnes": [
+            "They would contract guilt, if they had been admitted among this class of persons, and then married again.",
+            "It might give occasion for scandal it might break in upon the arrangements... and it was better that they should be married, without having been thus admitted.",
+            "Time would do much to modify their grief. There would be a reviving love of the world, and under the influence of this they would be disposed to enter again into the marriage relation."
+        ],
+        "Marvin Vincent": [
+            "Damnation is an unfortunate rendering in the light of the present common understanding of the word, as it is also in 1 Corinthians 11:29. Better, judgment or condemnation.\" ",
+            "The meaning is that they carry about with them in their new, married life a condemnation, a continuous reproach.",
+            "The meaning here is, having broken their first pledge; and this may refer to a pledge to devote themselves, after they became widows, to the service of Christ and the church."
+        ],
+        "John Calvin": [
+            "That amplification is exceedingly appropriate; for is there anything more absurd than that they should, through a wish to promote the advantage of persons, open the door to the denial of Christ?",
+            "Neither of these was to be found in the ancient institution. They did not make a direct vow of continence, as if the married life were less acceptable to God, but only, so far as it was rendered necessary by the office to which they were elected, they promised to keep from the tie of marriage for their whole life.",
+            "In short, those widows differed as much from the nuns, as Anna the prophetess from Clauda the Vestal."
+        ],
+        "Philip Schaff": [
+            "Having damnation. As in 1 Corinthians 11:29, in the general sense of the word, 'coming under condemnation.'\" ",
+            "Marriage was in itself honourable, but it was not compatible with self-consecration to a life of special labour, such as that of the 'registered' widows.",
+            "If she again fell back on merely human affections, she was abandoning her 'first faith,' the love of her espousals."
+        ],
+        "Archibald T. Robertson": [
+            "Condemnation (\u03ba\u03c1\u03b9\u03bc\u03b1). See 1 Timothy 3:6.",
+            "They have rejected (\u03b7\u03b8\u03b5\u03c4\u03b7\u03c3\u03b1\u03bd). First aorist passive of \u03b1\u03b8\u03b5\u03c4\u03b5\u03c9, late verb (first in LXX and Polybius), to reject, set aside (from \u03b1\u03b8\u03b5\u03c4\u03bf\u03c2). See 1 Thessalonians 4:8; Galatians 2:21.",
+            "Their first faith (\u03c4\u03b7\u03bd \u03c0\u03c1\u03c9\u03c4\u03b7\u03bd \u03c0\u03b9\u03c3\u03c4\u03b9\u03bd). 'Their first pledge' (promise, contract) to Christ. It is like breaking the marriage contract. Evidently one of the pledges on joining the order of widows was not to marry. Parry suggests a kind of ordination as with deacons and bishops (technical use of \u03ba\u03c1\u03b9\u03bc\u03b1 and \u03c0\u03b9\u03c3\u03c4\u03b9\u03c2)."
+        ],
+        "John Gill": [
+            "Having damnation, c.] Not for their second marriage, but for their wantonness against Christ...",
+            "...either of the reproach and scandal cast upon them, and religion, for their wantonness; or the judgment and censure of the church for the same; or having sin, and the guilt of sin upon them...",
+            "...they may be said to cast off, because they walked not according to it, their conversation was not becoming their profession of it; and though they continued to profess the same faith they did in words, yet in works they denied it, or cast it off..."
+        ],
+        "John Wesley": [
+            "They have rejected their first faith.\" ",
+            "Have deserted their trust in God, and have acted contrary to the first conviction.",
+            "And how unwise are we ever to sink into anything below it!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns about the consequences of widows who have made a commitment to remain single but then decide to marry. By breaking their initial pledge to serve Christ, they carry a continuous condemnation and reproach with them. This condemnation is not a damnation in the theological sense, but rather a judgment or burden they bear in their new married life. It was more desirable for these widows to stay single in order to focus on the interests of Christ's cause. By rejecting their first faith and transferring their faith to a husband, they not only break their pledge but also lower their level of commitment to God. We must therefore be cautious not to abandon our devotion and trust in God for anything less.",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 2.0131698434190177,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.28,
+            "commentatorTierSimilarities": [
+                37.53,
+                32.62,
+                29.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The widows who have pledged to remain single, but then choose to marry, face the judgment and condemnation of breaking their first commitment to serve Christ. This carries a continuous sense of reproach, as they reject their initial faith and transfer it to a husband. Although marriage is honorable, it is not conducive to the level of self-consecration required for their specific labor as widows devoted to Christ's cause. We must be cautious not to abandon our first faith and settle for anything less.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9983033306634077,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                37.38,
+                35.07,
+                27.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The widows who have made a promise to remain single but then choose to marry bring judgment and condemnation upon themselves. This burden of condemnation is a continuous reproach they carry in their new married life, having broken their initial pledge to serve Christ. Their shift in faith and devotion to a husband demonstrates a rejection of their first commitment and a lowering of their level of commitment to God. It is important for us to remain steadfast in our faith and not forsake our initial trust in God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.078827786563874,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.46,
+            "commentatorTierSimilarities": [
+                39.62,
+                31.59,
+                28.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The widows who have pledged themselves to stay single but then decide to marry incur judgment and condemnation for breaking their initial commitment to Christ. This carries a continuous reproach upon them as they transfer their faith from Christ to a husband. While marriage is honorable, it is not compatible with the level of dedication required for their service to Christ's cause. We must be cautious not to abandon our first faith and settle for anything less, as it would be unwise and contrary to our profession in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 2.0735865976921386,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.29,
+            "commentatorTierSimilarities": [
+                38.19,
+                33.48,
+                28.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The widows who have made a commitment to remain single but then choose to marry face judgment and condemnation. Breaking their initial pledge to serve Christ, they carry a continuous reproach in their new married life. This condemnation is not damnation but a burden, a reproof for rejecting their first faith and transferring their devotion to a husband. It is essential not to abandon our devotion and trust in God for anything less, as sinking into anything below our first faith is unwise.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.11154929435291,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                37.37,
+                33.33,
+                29.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

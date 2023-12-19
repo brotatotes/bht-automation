@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:29:34",
+    "verseRef": "Ephesians 2:6",
+    "bestBHT": {
+        "bht": "Our union with Christ establishes the groundwork for both our present spiritual and future bodily resurrection and ascension. As believers, we are already positioned with Him in heavenly places, sharing in His honors and glories. This intimate connection assures us of our future place in heaven and grants us a foretaste of the blessings to come. Through the power of Christ, we have obtained a sure pledge of everything we currently lack, and eagerly anticipate the day when our spirits and bodies will be raised to join Him and all saints in our eternal dwelling.",
+        "wordCount": 95,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 1.8799566817937559,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+        "commentatorTierSimilarities": [
+            25.04,
+            39.71,
+            35.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The 'raising up' presupposes previous quickening of Jesus in the tomb, and of us in the grave of our sins.",
+            "Believers are bodily in heaven in point of right, and virtually so in spirit, and have each their own place assigned there.",
+            "Our union with Him is the ground of our present spiritual, and future bodily, resurrection and ascension."
+        ],
+        "Albert Barnes": [
+            "So close is the connection between him and his people, that his resurrection made theirs certain.",
+            "We share his honors. So close is our connection with him, that we shall partake of his glory.",
+            "We are united to Christ. We die with him, and live with him. We share his sufferings, and we share his joys."
+        ],
+        "Marvin Vincent": [
+            "Even now we sit there in Him, and shall sit with Him in the end.",
+            "Hath given us joint seat.",
+            "Resurrection, enthronement, heaven, all are in Christ."
+        ],
+        "John Calvin": [
+            "Yet, as if those blessings were presently in our possession, he states that we have received them; and illustrates the change which has taken place in our condition, when we were led from Adam to Christ.\" ",
+            "It is as if we had been brought from the deepest hell to heaven itself.\" ",
+            "We are thus furnished with the richest consolation. Of everything which we now want, we have a sure pledge and foretaste in the person of Christ."
+        ],
+        "Philip Schaff": [
+            "The reference, as in Ephesians 2:5, is physical and future, but at the same time spiritual and present.",
+            "Bengel notices that \u2018at His right hand\u2019 (chap. Ephesians 1:20) can be applied to Christ alone, but this phrase to all Christians.",
+            "It brings out more fully than \u2018together,\u2019 the fact that all these saving acts are in virtue of our mystical union with Christ."
+        ],
+        "Archibald T. Robertson": [
+            "All the preceding turns on this phrase."
+        ],
+        "John Gill": [
+            "Which refers either to a spiritual resurrection, to a resurrection from a death in sin, to a spiritual life; and which is the effect of almighty power, and of rich grace and mercy...",
+            "Christ is entered into heaven as the forerunner, to take possession of it for his people, in their name; and to prepare mansions of glory for them, and in these they sit...",
+            "What adds to the happiness of this is, that it is together with all the saints, and with Christ himself; and in these they are made to sit already..."
+        ],
+        "John Wesley": [
+            "Both Jews and gentiles already in spirit; and ere long our bodies too will be raised.",
+            "Believers are not yet possessed of their seats in heaven; but each of them has a place prepared for him.",
+            "This is spoken by way of anticipation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our union with Christ is the ground for our present spiritual and future bodily resurrection and ascension. Through Him, we have been quickened from our sins and are raised up with Him. As believers, we are even now seated with Him in heavenly places, sharing in His honors and partaking of His glory. This close connection between Christ and His people assures us of our future place in heaven. It is a complete transformation of our condition, as if we have been brought from the deepest hell to heaven itself. In Christ, we have the sure pledge and foretaste of everything we currently lack. This is all made possible by His almighty power, rich grace, and mercy. Though we do not yet possess our seats in heaven, they have already been prepared for each believer. We eagerly await the day when both our spirits and bodies will be raised to join Christ and all the saints in our everlasting home.",
+            "wordCount": 160,
+            "quoteTokenProportion": 43.43,
+            "qualityScore": 1.8062706935306814,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.4,
+            "commentatorTierSimilarities": [
+                25.7,
+                37.66,
+                36.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through our union with Christ, we experience a transformation that includes our present spiritual resurrection and future bodily resurrection and ascension. This profound connection assures us of our place in heaven and grants us a foretaste of the blessings to come. In Him, we have been raised up and even now share in His honor and glory. The power, grace, and mercy of Christ enable us to overcome sin and experience new life. As believers, we eagerly anticipate the day when we will be raised with Him, joining all the saints in our eternal home.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.7355203571421782,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.05,
+            "commentatorTierSimilarities": [
+                24.07,
+                40.62,
+                35.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In our union with Christ, we find the foundation for our spiritual and future bodily resurrection and ascension. We have been quickened from our sins and raised up with Him, seated together in heavenly places. This close connection assures us of our future place in heaven, where we will share in His glory. Through Christ, we eagerly anticipate the fulfillment of our heavenly inheritance, prepared for each believer. Our present experience is a foretaste of the blessings that await us, and we await the day when our bodies will also be raised to join Him.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.8615301236672213,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+            "commentatorTierSimilarities": [
+                26.86,
+                40.09,
+                33.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through our union with Christ, we are spiritually and future bodily resurrected and ascend with Him. Our present experience of sitting with Him in heavenly places is a foretaste of our future glory. Our transformation includes being raised up from sin and being given a place in heaven. The power, grace, and mercy of Christ enable us to overcome and experience new life. We eagerly await the day when our bodies will be raised, joining all believers and Christ Himself in our eternal home.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7782858706154765,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                25.55,
+                38.99,
+                35.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our union with Christ establishes the groundwork for both our present spiritual and future bodily resurrection and ascension. As believers, we are already positioned with Him in heavenly places, sharing in His honors and glories. This intimate connection assures us of our future place in heaven and grants us a foretaste of the blessings to come. Through the power of Christ, we have obtained a sure pledge of everything we currently lack, and eagerly anticipate the day when our spirits and bodies will be raised to join Him and all saints in our eternal dwelling.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8799566817937559,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.85,
+            "commentatorTierSimilarities": [
+                25.04,
+                39.71,
+                35.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

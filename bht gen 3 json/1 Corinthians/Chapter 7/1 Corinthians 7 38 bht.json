@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 15:07:13",
+    "verseRef": "1 Corinthians 7:38",
+    "bestBHT": {
+        "bht": "Paul commends the father who gives his daughter in marriage, but also leaves the problem of getting married an open question. Celibacy is better than marriage because it provides more freedom to serve God. However, no necessity should make it unlawful for individuals to marry if they think it is proper. One who gives his daughter in marriage secures her chastity and prevents evils, while one who withholds her from marriage promotes her happiness and ability to serve the Lord.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.4509808470786756,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+        "commentatorTierSimilarities": [
+            24.46,
+            27.02,
+            48.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "38. her \u2014The",
+            "\toldest manuscripts have \"his own virgin daughter.\" ",
+            "\t",
+            "but\u2014The oldest",
+            "\tmanuscripts have \"and."
+        ],
+        "Albert Barnes": [
+            "Does right; violates no law in it, and is not to be blamed for it.\" ",
+            "Does that which is on the whole to be preferred, if it can be done.\" ",
+            "He more certainly, in the present circumstances, consults her happiness by withholding her from the marriage connection than he could by allowing her to enter it."
+        ],
+        "John Calvin": [
+            "Celibacy is better than marriage, because it has more liberty, so that persons can serve God with greater freedom.",
+            "Marriage itself is a remedy appointed by God for our infirmity, which all ought to use that are not endowed with the gift of continency.",
+            "No necessity ought to be imposed, so as to make it unlawful for individuals to marry, if they think proper."
+        ],
+        "Archibald T. Robertson": [
+            "Paul commends the father who gives his daughter in marriage.",
+            "In view of the present distress and the shortened time.",
+            "Paul leaves the whole problem of getting married an open question to be settled by each individual case."
+        ],
+        "John Gill": [
+            "So then he that giveth [her] in marriage doth well,... That marries his daughter... does a very good thing; secures her chastity, and his own credit; prevents fornication, and other evils that might follow; consults the good of mankind, and the honour of religion.",
+            "But he that giveth [her] not in marriage doth better;... more profitable and advantageous under such and such circumstances, with such and such conditions and consequences.",
+            "since hereby a single person is more fit to encounter with and endure persecutions, is freer from the cares of life, and more at liberty to wait upon the Lord, and give up himself to his service."
+        ],
+        "John Wesley": [
+            "Doeth better \u2014 If there be no necessity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 7:38, Paul commends the father who gives his daughter in marriage, but also leaves the whole problem of getting married an open question to be settled by each individual case. Celibacy is better than marriage because it provides more freedom to serve God, yet marriage itself is a remedy appointed by God for our infirmity. However, no necessity ought to be imposed to make it unlawful for individuals to marry if they think it is proper. Ultimately, one who gives his daughter in marriage does well in securing her chastity and preventing other evils, but one who withholds her from marriage does even better in promoting her happiness and ability to serve the Lord.",
+            "wordCount": 115,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.4444466131878615,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                22.43,
+                27.69,
+                49.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul commends the father who gives his daughter in marriage, but also leaves the problem of getting married an open question. Celibacy is better than marriage because it provides more freedom to serve God. However, no necessity should make it unlawful for individuals to marry if they think it is proper. One who gives his daughter in marriage secures her chastity and prevents evils, while one who withholds her from marriage promotes her happiness and ability to serve the Lord.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.4509808470786756,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.59,
+            "commentatorTierSimilarities": [
+                24.46,
+                27.02,
+                48.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul commends the father who gives his daughter in marriage, but also leaves the problem of getting married an open question to be settled by each individual case. Celibacy is better than marriage because it has more liberty, allowing individuals to serve God with greater freedom. However, no necessity ought to be imposed to make it unlawful for individuals to marry if they think it is proper. One who gives his daughter in marriage secures her chastity, prevents fornication, and consults the good of mankind and the honor of religion. On the other hand, one who withholds her from marriage may be more profitable and advantageous under certain circumstances and conditions.",
+            "wordCount": 111,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.3990882048370503,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.86,
+            "commentatorTierSimilarities": [
+                23.09,
+                27.15,
+                49.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul commends the father who gives his daughter in marriage but leaves the problem of getting married an open question. Celibacy is better than marriage, allowing individuals to serve God with greater freedom. However, no necessity should make it unlawful for individuals to marry. One who gives his daughter in marriage secures her chastity and consults the good of mankind and the honor of religion. On the other hand, one who withholds her from marriage may be more profitable and advantageous under certain circumstances and conditions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.3605512971342386,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.58,
+            "commentatorTierSimilarities": [
+                24.49,
+                25.84,
+                49.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul commends the father who gives his daughter in marriage, leaving the problem of getting married an open question. Celibacy is better than marriage, as it provides more liberty to serve God. However, no necessity should make it unlawful to marry. Giving a daughter in marriage secures her chastity and prevents other evils, while withholding her from marriage may be more profitable and advantageous under certain circumstances. Ultimately, the decision to marry or remain celibate should be made on an individual basis, considering the present distress and shortened time.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.373662664077011,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.02,
+            "commentatorTierSimilarities": [
+                25.77,
+                25.56,
+                48.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

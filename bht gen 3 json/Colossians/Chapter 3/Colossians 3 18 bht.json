@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:22:15",
+    "verseRef": "Colossians 3:18",
+    "bestBHT": {
+        "bht": "Wives are instructed to submit to their husbands, because it is fitting and proper in the Lord. This submission is not about superiority or inferiority, but about recognizing the leadership role of the husband. It is a call for wives to respect and honor their husbands, while husbands are called to love their wives and not be harsh with them. This command for submission is not unique to the Colossian church, but is also found in other biblical passages and is a part of the Christian life. Therefore, wives are to submit to their own husbands, just as it is fitting and pleasing to the Lord.",
+        "wordCount": 106,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1101858654555707,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+        "commentatorTierSimilarities": [
+            20.22,
+            38.77,
+            41.01
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Seeing that such exhortations occur in Ephesians also in terms so very similar, we are not justified in assuming that there was any thing in the peculiar circumstances of the Colossian church, which required more than common exhortation of this kind.",
+            "The words in the Lord belong to 'it is fit,' not to 'submit yourselves,' as is shewn by the parallel expression in ver. 20: was fitting, in that, element of life designated by 'in the Lord.'",
+            "The exhortations of the Epistle to Titus cannot be so completely severed from these as to be set down in another category."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Unto your own husbands\u2014The oldest manuscripts omit 'own,' which crept in from :-.\" ",
+            "As it is fit in the Lord\u2014Greek, 'was fit,' implying that there was at Colosse some degree of failure in fulfilling this duty, 'as it was your duty to have done as disciples of the Lord.'"
+        ],
+        "Albert Barnes": [
+            "Wives, submit yourselves ... - Notes on the parallel passage in Ephesians 5:21-24."
+        ],
+        "Marvin Vincent": [
+            "The imperfect tense, was fitting, or became fitting, points to the time of their entrance upon the Christian life.\" ",
+            "Not necessarily presupposing that the duty remained unperformed.\" ",
+            "The past tense perhaps implies an essential a priori obligation."
+        ],
+        "John Calvin": [
+            "He commands wives to be subject. This is clear, but what follows is of doubtful signification \u2014 as it is fit in the Lord.",
+            "As it is fit in the Lord, that is, according to the appointment of the Lord, so that he confirms the subjection of wives by the authority of God.",
+            "He requires love on the part of husbands, and that they be not bitter, because there is a danger lest they should abuse their authority in the way of tyranny."
+        ],
+        "Philip Schaff": [
+            "Wives, submit yourselves, etc... The Bible everywhere recognizes the relation as of this character.\" ",
+            "Hence the submission is to be a loving one, with a Christian motive: As if fitting (as it should be) in the Lord.",
+            "This means: as should be the case, in consequence of the fellowship with Jesus Christ."
+        ],
+        "Archibald T. Robertson": [
+            "The verb \u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b1 has a military air, common in the Koine for such obedience.\" (\u03ba\u03b1 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03b5\u03c2)",
+            "Obedience in government is essential as the same word shows in Romans 13:1; Romans 13:5.\" (\u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03b5\u03c3\u03b8\u03b5 \u03c4\u03bf\u03b9\u03c2 \u03b1\u03bd\u03b4\u03c1\u03b1\u03c3\u03b9\u03bd)",
+            "Wives have rights and privileges, but recognition of the husband's leadership is essential to a well-ordered home, only the assumption is that the husband has a head and a wise one.\" (\u03c9\u03c2 \u03b1\u03bd\u03b7\u03ba\u03b5\u03bd \u03b5\u03bd \u039a\u03c5\u03c1\u03b9\u03c9)"
+        ],
+        "John Gill": [
+            "Subjection of wives to their own husbands is 'fit' and proper in its own nature, by reason of the original creation of man, and of the woman from him.",
+            "Moreover, the woman was made for the man, and not the man for the woman; add to this, that the woman was in the transgression, and the means of the fall of man, which gave a fresh reason for, and made the obligation to subjection to him the stronger.",
+            "It is what is fitting 'in the Lord': it is what he requires, not only what the law of God requires, but is what is commanded by Christ under the Gospel dispensation, and is to be observed by all those that are 'in' him."
+        ],
+        "John Wesley": [
+            "Wives, submit \u2014 Or be subject to. It is properly a military term, alluding to that entire submission that soldiers pay to their general. Ephesians 5:22, etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Wives are instructed to submit to their husbands, because it is fitting and proper in the Lord. This submission is not about superiority or inferiority, but about recognizing the leadership role of the husband. It is a call for wives to respect and honor their husbands, while husbands are called to love their wives and not be harsh with them. This command for submission is not unique to the Colossian church, but is also found in other biblical passages and is a part of the Christian life. Therefore, wives are to submit to their own husbands, just as it is fitting and pleasing to the Lord.",
+            "wordCount": 106,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1101858654555707,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.5,
+            "commentatorTierSimilarities": [
+                20.22,
+                38.77,
+                41.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Wives are instructed to submit to their husbands, as it is fitting and proper in the Lord. This does not imply inferiority, but rather involves recognizing the husband's leadership role. The command for submission is not unique to the Colossian church, but is also found in other biblical passages. Husbands, on the other hand, are called to love their wives and not be harsh with them. In this way, a well-ordered home is established through mutual respect and honoring of each other's roles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9906006032352863,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                22.37,
+                39.02,
+                38.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Wives are instructed to submit to their husbands, as it is fitting and proper in the Lord. This does not imply inferiority, but rather involves recognizing the husband's leadership role. The command for submission is not unique to the Colossian church, but is also found in other biblical passages. Husbands, on the other hand, are called to love their wives and not be harsh with them. In this way, a well-ordered home is established through mutual respect and honoring of each other's roles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9906006032352863,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                22.37,
+                39.02,
+                38.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Wives are required to submit to their husbands, as it is fitting in the Lord. This submission is not about inequality, but rather recognizing the husband's leadership role. The command for wives to submit is not unique to the Colossian church, as it appears in other passages as well. Husbands, in turn, are called to love their wives and not treat them harshly. This mutual respect and understanding between husbands and wives establishes a well-ordered home and reflects the teachings of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.068827978221449,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.13,
+            "commentatorTierSimilarities": [
+                19.31,
+                40.75,
+                39.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Wives are to submit to their husbands, as it is fitting in the Lord. This submission is not based on inequality, but rather on recognizing the husband's leadership role. The command for wives to submit is not unique to the Colossian church, as it is also found in other passages. Conversely, husbands are instructed to love their wives and not treat them harshly. This mutual respect and love within the marriage relationship creates a harmonious and well-ordered home, reflecting the teachings of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0315492872959338,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                19.37,
+                41.68,
+                38.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:17:21",
+    "verseRef": "Luke 9:45",
+    "bestBHT": {
+        "bht": "The disciples, filled with expectations of an earthly and triumphant Messiah, were perplexed and unable to comprehend the true meaning behind Jesus' words. He intentionally concealed the significance from them, not to rebuke their ignorance, but to spare them from the confusion and strife that would arise. This gentle approach allowed Jesus to gradually reveal the truth to them, guiding and training them for the future, ensuring they would remember and understand his teachings in due time.",
+        "wordCount": 77,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.7982318347617872,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+        "commentatorTierSimilarities": [
+            23.53,
+            29.72,
+            46.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sense here is not to be evaded by forcing it, as A.V., to mean \u2018so that they did not...., but to be literally rendered, that they might not.\" ",
+            "It was the divine purpose.",
+            "They should not at present be aware of the full significancy of these words."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their most cherished ideas were so completely dashed by such announcements, that they were afraid of laying themselves open to rebuke by asking Him any questions.",
+            "STRIFE AMONG THE TWELVE WHO SHOULD BE GREATEST\u2014JOHN REBUKED FOR EXCLUSIVENESS."
+        ],
+        "Albert Barnes": [
+            "And from this we may learn that the plainest truths of the Bible are unintelligible to many because they have embraced some belief or opinion before which is erroneous, and which they are unwilling to abandon.",
+            "The proper way of reading the Bible is to lay aside all previous opinions and submit entirely to God.",
+            "So 'we' should believe that 'all' that God says is consistent with truth, and should forsake all other opinions."
+        ],
+        "Philip Schaff": [
+            "It was hid from them, that they should not perceive it. Peculiar to Luke.",
+            "Only those who fail to notice the necessity for careful training in the case of the disciples, will doubt the gracious character of this method of concealing in order to reveal."
+        ],
+        "Archibald T. Robertson": [
+            "It was concealed from them... to hide from.",
+            "This explanation at least relieves the disciples... full responsibility for their ignorance.",
+            "They were not allowed to understand the saying then... in order that they might remember it afterwards."
+        ],
+        "John Gill": [
+            "They knew not, how these things could possibly be, for they could not by any means reconcile them with the notions they had of a temporal Redeemer, and victorious Messiah.",
+            "The true meaning of this saying was hid from their understanding, which was veiled with the above notion of the worldly grandeur of the Messiah, that they did not take it in.",
+            "Imagining that he had a secret mystical meaning in it, which they could not reach; lest he should reproach them with their dulness and stupidity; or should rebuke them with the like sharpness and severity he had reproved Peter not long ago, upon the same head."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples were perplexed and could not comprehend the full significance of what Jesus was saying. This was intentional, as it was not yet time for them to understand. Jesus concealed the true meaning from them, not out of punishment, but to spare them from the strife and confusion that would arise from their inability to reconcile their preconceived notions of a powerful and victorious Messiah with his teachings. It was a gentle way for Jesus to train and prepare them for the truth that would be revealed in due time.",
+            "wordCount": 91,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.7464536057195859,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.41,
+            "commentatorTierSimilarities": [
+                25.13,
+                27.86,
+                47.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, in their limited understanding, were unable to grasp the true meaning behind Jesus' words. He intentionally concealed it from them to prevent strife and confusion, and to spare them from the weight of their ignorance. Despite their confusion, this approach allowed Jesus to gently guide and train them, preparing them to eventually comprehend and remember his words. It was a necessary process, as their preconceived notions of a temporal and victorious Messiah needed to be challenged for them to fully grasp the truth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7390832597517156,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                23.91,
+                28.47,
+                47.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were deliberately kept in the dark, as their cherished beliefs clashed with the revolutionary truth Jesus was conveying. It was a divine purpose to shield them from understanding at that time, preventing them from being overwhelmed by the radical nature of Jesus' teachings. This concealed revelation served as a gentle method of guiding and nurturing them, easing them into a deeper understanding that would be vital for their future ministry.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.6910773575957139,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.57,
+            "commentatorTierSimilarities": [
+                24.9,
+                30.39,
+                44.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples, filled with expectations of an earthly and triumphant Messiah, were perplexed and unable to comprehend the true meaning behind Jesus' words. He intentionally concealed the significance from them, not to rebuke their ignorance, but to spare them from the confusion and strife that would arise. This gentle approach allowed Jesus to gradually reveal the truth to them, guiding and training them for the future, ensuring they would remember and understand his teachings in due time.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.7982318347617872,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.13,
+            "commentatorTierSimilarities": [
+                23.53,
+                29.72,
+                46.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The purpose of Jesus deliberately concealing the meaning of his words from the disciples was to spare them from the shock and disbelief that would arise from their deeply ingrained beliefs about a powerful and victorious Messiah. The disciples were not ready to fully comprehend the radical truth, and Jesus gently guided them through a process of training and preparation. It was a compassionate approach that relieved the disciples of complete responsibility for their ignorance, ensuring they would remember and understand his teachings in the future.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7407056347653627,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                22.96,
+                32.79,
+                44.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:35:02",
+    "verseRef": "Acts 22:13",
+    "bestBHT": {
+        "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some suggest Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 1.8545439911553134,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+        "commentatorTierSimilarities": [
+            15.31,
+            60.55,
+            24.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "13-15. The God of our fathers hath",
+            "\tchosen thee\u2014studiously linking the new economy upon the old, as",
+            "\tbut the sequel of it; both having one glorious Author."
+        ],
+        "Marvin Vincent": [
+            "Stood [\u03b5\u03c0\u03b9\u03c3\u03c4\u03b1\u03c2]. More correctly, as Rev., 'standing by [\u03b5\u03c0\u03b9].'",
+            "Receive thy sight [\u03b1\u03bd\u03b1\u03b2\u03bb\u03b5\u03c8\u03bf\u03bd]. Better, look up.",
+            "I looked up upon him. Some unite both meanings here: I looked up with recovered sight. So Rev., in margin."
+        ],
+        "Philip Schaff": [
+            "Ananias stood before the stricken Saul, and spoke as he was commanded the healing words of power; then Saul turned his heavy blinded eyes in the direction of the voice which spoke to him, and the sight came back, and \u2018he looked upon Ananias.\u2019\" ",
+            "One commentator thus paraphrases: \u2018I looked up with recovered sight upon him.\u2019",
+            "Saul turned his heavy blinded eyes in the direction of the voice which spoke to him, and the sight came back, and \u2018he looked upon Ananias.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "I received my sight and looked upon him.",
+            "For 'look up' see John 9:11."
+        ],
+        "John Gill": [
+            "Came unto me... and stood;... and said unto me, brother Saul;... receive thy sight... and the same hour I looked up upon him.",
+            "the words in Numbers 16:21 'that I may consume them in a moment', are rendered by Onkelos, 'that I may consume them in an hour'; for an hour is used for a moment with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some commentators suggest that Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8688827912778552,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                14.52,
+                61.29,
+                24.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some suggest Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8545439911553134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                15.31,
+                60.55,
+                24.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some suggest Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8545439911553134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                15.31,
+                60.55,
+                24.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some commentators suggest Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.8663264197407834,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.4,
+            "commentatorTierSimilarities": [
+                14.69,
+                61.44,
+                23.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The God of our fathers hath chosen thee, as demonstrated by the moment when Ananias stood before the stricken Saul, spoke the healing words of power, and Saul, turning his heavy blinded eyes in the direction of the voice, regained his sight and looked upon Ananias. Some suggest Saul looked up with his recovered sight, emphasizing the immediate transformation. This transformative moment of sight restoration and acknowledgment parallels other instances in Scripture, such as when Jesus healed the blind man in John 9:11.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.8545439911553134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                15.31,
+                60.55,
+                24.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

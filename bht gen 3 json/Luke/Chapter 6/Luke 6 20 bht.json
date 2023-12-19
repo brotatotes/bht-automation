@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 16:15:57",
+    "verseRef": "Luke 6:20",
+    "bestBHT": {
+        "bht": "Jesus pronounces blessings upon the poor and those who hunger, both in a literal and spiritual sense. He had in mind the poor of this world, rich in faith and heirs of the kingdom of God. The kingdom of God represents the absolute dominion of God in the physical and spiritual realm. Although distinct from the Church, they are connected through the power of the spirit of Christ. Jesus' sermon may not be fully recorded, but the kingdom of God is both present and future, with a glorious consummation.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 1.860195718933502,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+        "commentatorTierSimilarities": [
+            42.71,
+            27.23,
+            30.06
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In the Sermon on the Mount the benediction is pronounced upon the 'poor in spirit' and those who 'hunger and thirst after righteousness'.\" ",
+            "Here it is simply on the 'poor' and the 'hungry now.'",
+            "Our Lord seems to have had in view 'the poor of this world, rich in faith, and heirs of the kingdom which God hath promised to them that love Him'."
+        ],
+        "Marvin Vincent": [
+            "The kingdom of God is, essentially, the absolute dominion of God in the universe, both in a physical and a spiritual sense.",
+            "The ultimate idea of the kingdom is that of 'a redeemed humanity, with its divinely revealed destiny manifesting itself in a religious communion, or the Church; a social communion, or the state; and an aesthetic communion, expressing itself in forms of knowledge and art.'",
+            "The kingdom of God in its present development is not identical with the Church. The Church is identified with the kingdom to the degree in which it is under the power of the spirit of Christ."
+        ],
+        "Philip Schaff": [
+            "The discourse was spoken to the disciples generally, to the Twelve particularly, to the people prospectively.",
+            "To refer this only to literal poverty, etc., and to limit the blessings to the temporal recompense in the Messiah\u2019s kingdom, is forbidden by the context no less than by the account in Matthew.",
+            "An appeal on the part of our Lord to the prejudices of the poor and miserable, like a modern demagogue, is as contrary to His character as to the effect of His teaching."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus looked the vast audience full in the face. Some preachers do not open their mouths and do not look up at the people, but down at the manuscript and drawl along while the people lose interest and even go to sleep or slip out.",
+            "One can only say that neither professes to give a complete report of the sermon. There is no evidence to show that either saw the report of the other. They may have used a common source like Q (the Logia of Jesus) or they may have had separate sources.",
+            "The kingdom of God... is the favourite word of Jesus for the rule of God in the heart here and now. It is both present and future and will reach a glorious consummation."
+        ],
+        "John Gill": [
+            "Blessed be ye poor; not only in the things of this world, having left all for Christ, but poor in Spirit...\" ",
+            "for yours is the kingdom of God; or heaven..."
+        ],
+        "John Wesley": [
+            "Prosperity is a sweet poison, and affliction a healing, though bitter medicine.",
+            "Let the thought reconcile us to adversity, and awaken our caution when the world smiles upon us.",
+            "Happy are ye poor \u2014 The word seems here to be taken literally: ye who have left all for me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 6:20, Jesus pronounces blessings upon the poor in spirit and those who hunger and thirst after righteousness. However, in this instance, He blesses the literal poor and hungry. It seems that Jesus had the poor of this world, rich in faith and heirs of the kingdom of God, in mind. The kingdom of God, which represents God's absolute dominion in both the physical and spiritual sense, is the ultimate idea Jesus refers to. It manifests itself in religious communion, social communion, and aesthetic communion. While the kingdom of God is not exactly the same as the Church, they are connected through the power of the spirit of Christ. The sermon Jesus delivered here may not be a complete report, as both Luke and Matthew may have had separate or common sources. The kingdom of God is both present and future and will eventually reach a glorious consummation.",
+            "wordCount": 149,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.7683811249642964,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.14,
+            "commentatorTierSimilarities": [
+                43.35,
+                27.59,
+                29.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus blesses the poor and those who hunger, referring to the poor in spirit and those who hunger for righteousness. He seems to have had in mind the poor who are rich in faith and heirs of the kingdom of God. The kingdom of God represents God's absolute dominion in both the physical and spiritual realms. While it is distinct from the Church, they are connected through the power of the spirit of Christ. The sermon Jesus delivered may not be fully recorded, but the kingdom of God is both present and future, with a glorious consummation to come.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.8830007059051215,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                41.79,
+                28.48,
+                29.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus pronounces blessings upon the poor and those who hunger, both in a literal and spiritual sense. He had in mind the poor of this world, rich in faith and heirs of the kingdom of God. The kingdom of God represents the absolute dominion of God in the physical and spiritual realm. Although distinct from the Church, they are connected through the power of the spirit of Christ. Jesus' sermon may not be fully recorded, but the kingdom of God is both present and future, with a glorious consummation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.860195718933502,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.19,
+            "commentatorTierSimilarities": [
+                42.71,
+                27.23,
+                30.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus pronounces blessings upon the poor and those who hunger, both in a literal and spiritual sense. He had in mind the poor of this world, rich in faith and heirs of the kingdom of God. The kingdom of God represents the absolute dominion of God in the physical and spiritual realm. Although distinct from the Church, they are connected through the power of the spirit of Christ. The kingdom of God is both present and future and will reach a glorious consummation. Let the thought of prosperity as a sweet poison and affliction as a healing medicine reconcile us to adversity and awaken our caution when the world smiles upon us.",
+            "wordCount": 112,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.733727618049695,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.99,
+            "commentatorTierSimilarities": [
+                40.39,
+                24.1,
+                35.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus blesses the literal poor and hungry, as well as those who hunger for righteousness. The kingdom of God represents God's absolute dominion in the physical and spiritual sense, and it manifests in religious, social, and aesthetic communion. While distinct from the Church, they are connected through the power of the spirit of Christ. The sermon recorded may not provide a complete report, but the kingdom of God is present and future, reaching a glorious consummation. Adversity can serve as a healing medicine, cautioning against the sweet poison of prosperity.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.6667198615592977,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.76,
+            "commentatorTierSimilarities": [
+                40.53,
+                26.05,
+                33.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

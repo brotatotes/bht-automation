@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:18:57",
+    "verseRef": "2 Corinthians 13:11",
+    "bestBHT": {
+        "bht": "In bidding farewell, Paul urges the Corinthians to rejoice and be helpers of each other's joy. He exhorts them to strive for perfection, both individually and as a church, by filling up what is lacking in their Christian character. He encourages them to be of good comfort, finding consolation in the promises of the gospel. Emphasizing unity and peace, Paul urges them to be of one mind and live harmoniously, leading to the presence of the God of love and peace. Let us seek perfection, find comfort, and strive for unity and peace.",
+        "wordCount": 94,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.7240461130142313,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+        "commentatorTierSimilarities": [
+            30.89,
+            34.76,
+            34.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "farewell\u2014meaning in Greek also 'rejoice'; thus in bidding farewell he returns to the point with which he set out, 'we are helpers of your joy'\" (2 Corinthians 1:24; Philippians 4:4).",
+            "Be perfect\u2014Become perfect by filling up what is lacking in your Christian character\" (Ephesians 4:13).",
+            "be of good comfort\" (2 Corinthians 1:6; 2 Corinthians 7:8-13; 1 Thessalonians 4:18)."
+        ],
+        "Albert Barnes": [
+            "Be perfect - A command to be perfect, however, does not prove that it has ever in fact been obeyed: and an earnest wish on the part of an apostle that others might be perfect, does not demonstrate that they were; and this passage should not be adduced to prove that any have been free from sin.",
+            "Be of good comfort - Be consoled by the promises and supports of the gospel. Take comfort from the hopes which the gospel imparts.",
+            "And the God of love and peace - The God who is all love, and who is the Author of all peace. What a glorious appellation is this! There can be no more beautiful expression, and it is as true as it is beautiful, that God is a God of love and of peace."
+        ],
+        "Marvin Vincent": [
+            "Finally. As for the rest. Sometimes rendered now, for the time that remains.",
+            "Farewell. It is somewhat doubtful whether it ever has the meaning farewell in the New Testament.",
+            "Be perfect. Paul speaks both of individual perfection and of the perfection of the Church through the right adjustment of all its members in Christ."
+        ],
+        "John Calvin": [
+            "For then only are reproofs beneficial, when they are in a manner seasoned with honey, that the hearer may, if possible, receive them in an agreeable spirit.",
+            "To be of one mind, and to live in peace, are expressions which mean two different things; for the one takes its rise from the other.",
+            "God will be with us, if we cultivate peace among ourselves; but those that are at variance with each other are at a distance from him. For where there are strifes and contentions, there, it is certain, the devil reigns."
+        ],
+        "Philip Schaff": [
+            "Be perfect (\u2018perfected\u2019). The word 'adjusted' (as a net put in order for casting), 'thoroughly furnished,' be of good comfort (\u2018comforted\u2019).\" ",
+            "Be of one mind, the want of which was the first thing he complained of in his First Epistle (2 Corinthians 1:10).\" ",
+            "Live in peace; and the God of love and peace shall be with you."
+        ],
+        "John Gill": [
+            "Be perfect; seek after perfection in knowledge, grace, and holiness, and in the performance of good works.",
+            "Be of one mind; in religious sentiments, in the doctrines and principles of grace, and ordinances of the Gospel.",
+            "Live in peace both with them that are without, and them that are within, with all men, and with the members of the church."
+        ],
+        "John Wesley": [
+            "Be perfect \u2014 Aspire to the highest degree of holiness.",
+            "Be of good comfort \u2014 Filled with divine consolation.",
+            "Be of one mind \u2014 Desire, labour, pray for it, to the utmost degree that is possible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In bidding farewell, the apostle Paul encourages the Corinthians to rejoice and be helpers of each other's joy. He urges them to strive for perfection, both individually and as a church, by cultivating their Christian character. Furthermore, Paul exhorts them to be of good comfort, finding consolation in the promises and supports of the gospel. He emphasizes the importance of unity and peace, highlighting the need for them to be of one mind and to live in harmony with one another. By doing so, they can experience the presence of the God of love and peace. So let us seek after perfection, be filled with divine consolation, and strive for unity and peace with all.",
+            "wordCount": 116,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.6103246623691716,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.89,
+            "commentatorTierSimilarities": [
+                28.92,
+                35.79,
+                35.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In bidding farewell, Paul urges the Corinthians to rejoice and be helpers of each other's joy. He exhorts them to strive for perfection, both individually and as a church, by filling up what is lacking in their Christian character. He encourages them to be of good comfort, finding consolation in the promises of the gospel. Emphasizing unity and peace, Paul urges them to be of one mind and live harmoniously, leading to the presence of the God of love and peace. Let us seek perfection, find comfort, and strive for unity and peace.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.7240461130142313,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                30.89,
+                34.76,
+                34.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In bidding farewell, Paul urges the Corinthians to rejoice and be helpers of each other's joy. He encourages them to strive for perfection in their Christian character, and to be of good comfort, finding consolation in the promises of the gospel. Paul emphasizes the importance of unity and peace, urging them to be of one mind and live harmoniously. By doing so, they can experience the presence of the God of love and peace. Let us seek perfection, find comfort, and strive for unity and peace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.6732988420837378,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                28.31,
+                36.63,
+                35.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In bidding farewell, Paul urges the Corinthians to rejoice, being helpers of each other's joy. He calls them to strive for perfection, filling up what is lacking in their Christian character. They are encouraged to find comfort in the promises of the gospel and be of one mind, living in peace. By doing so, they will experience the presence of the God of love and peace. Let us seek perfection, find comfort, and strive for unity and peace.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.6750582287530058,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.04,
+            "commentatorTierSimilarities": [
+                28.04,
+                36.96,
+                35.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In bidding farewell, Paul encourages the Corinthians to rejoice and be helpers of each other's joy, reminding them that they are helpers of your joy. He urges them to Be perfect by filling up what is lacking in their Christian character, aspiring to the highest degree of holiness and the performance of good works. Paul emphasizes the need to be of good comfort, finding consolation in the promises of the gospel, and to be of one mind, united in religious sentiments and principles of grace. By living in peace and unity, the Corinthians can experience the presence of the God of love and peace.",
+            "wordCount": 105,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.8177325446521673,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.78,
+            "commentatorTierSimilarities": [
+                31.13,
+                35.75,
+                33.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

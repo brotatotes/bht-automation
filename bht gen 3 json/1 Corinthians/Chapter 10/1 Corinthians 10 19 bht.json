@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:11:23",
+    "verseRef": "1 Corinthians 10:19",
+    "bestBHT": {
+        "bht": "The Corinthians sacrificed to devils, not to God, because heathendom was under the dominion of Satan, and therefore the powers honored and worshipped by the heathen were actually Satan and his angels. Paul clarifies that he is not saying that a thing sacrificed to an idol is a real thing in the sense that the heathen regard it. He urges the Corinthians to not participate in such idol worship because fear rather than love is the motive of heathen worship, just as fear is the spirit of Satan and his demons.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.28,
+        "qualityScore": 2.3994573557247225,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.12,
+        "commentatorTierSimilarities": [
+            42.54,
+            30.55,
+            26.92
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I say that the things which they sacrifice, they sacrifice to devils, and not to God.",
+            "Heathendom being under the dominion of Satan, he and his angels are in fact the powers honored and worshipped by the heathen.",
+            "I would not have you be (become) partakers with devils."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What would I say then? that a thing sacrificed to an idol is any real thing (in the sense that the heathen regard it), or that an idol is any real thing?",
+            "But [I say] that the things which the Gentiles sacrifice, they sacrifice to devils (demons).",
+            "Fear, rather than love, is the motive of heathen worship, just as fear is the spirit of Satan and his demons."
+        ],
+        "Albert Barnes": [
+            "Am I in this reasoning to be understood as affirming that an idol is anything, or that the meat there offered differs from other meat? No; you know, says Paul, that this is not my meaning.",
+            "I admit that an idol in itself is nothing; but I do not admit, therefore, that it is right for you to attend in their temples.",
+            "I would not have you engage in such a service; for though the 'idol' itself - the block of wood or stone - is nothing, yet the offerings are really made to devils."
+        ],
+        "John Calvin": [
+            "He confesses, therefore, that an idol is nothing.",
+            "But as the design of them is superstitious and condemnable, and as the work is base, he infers, that all who connect themselves with them as associates, are involved in pollution.",
+            "The ceremonies of solemn dedications and consecrations, which the Gentiles make use of, are mere wind, and signify nothing."
+        ],
+        "Philip Schaff": [
+            "What say I then? that a thing sacrificed to idols is any thing, or that an idol is any thing? That such an inference might be drawn from the strain of the apostle\u2019s reasoning, is only conceivable on supposition of a pretext being wanted to justify attendance on idolatrous feasts.\" ",
+            "No, says the apostle."
+        ],
+        "Archibald T. Robertson": [
+            "A thing sacrificed to idols (\u03b5\u03b9\u03b4\u03c9\u03bb\u03bf\u03b8\u03c5\u03c4\u03bf\u03bd). See on Acts 15:29; 1 Corinthians 8:1; 1 Corinthians 8:4.",
+            "Idol (\u03b5\u03b9\u03b4\u03c9\u03bb\u03bf\u03bd). Image of a god. See on Acts 7:41; Acts 15:20; 1 Corinthians 8:4; 1 Corinthians 8:7. "
+        ],
+        "John Gill": [
+            "It follows not that an idol has anything of deity in it, and is to be set upon a level with God, when, as he had said before, an idol was nothing...\" ",
+            "Things offered to idols are not to be had in the same account, or to be equalled to, or be thought to have anything in them, as the elements of the bread and wine in the Lord's supper...\" ",
+            "He meant no such thing, but only argued from the greater to the lesser..."
+        ],
+        "John Wesley": [
+            "I aver, on the contrary, that what the heathens sacrifice, they sacrifice to devils.",
+            "Such in reality are the gods of the heathens.",
+            "And with such only can you hold communion in those sacrifices."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians sacrificed to devils, not to God, because heathendom was under the dominion of Satan, and therefore the powers honored and worshipped by the heathen were actually Satan and his angels. Paul clarifies that he is not saying that a thing sacrificed to an idol is a real thing in the sense that the heathen regard it, or that an idol itself is any real thing. He wants to make it clear that he does not affirm the existence or worth of idols, but rather that the Gentiles sacrifice to demons. He urges the Corinthians to not participate in such idol worship, as fear rather than love is the motive of heathen worship, just as fear is the spirit of Satan and his demons.",
+            "wordCount": 125,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.3953428609888068,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.99,
+            "commentatorTierSimilarities": [
+                40.17,
+                31.33,
+                28.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians sacrificed to devils, not to God, because heathendom was under the dominion of Satan, and therefore the powers honored and worshipped by the heathen were actually Satan and his angels. Paul clarifies that he is not saying that a thing sacrificed to an idol is a real thing in the sense that the heathen regard it. He urges the Corinthians to not participate in such idol worship because fear rather than love is the motive of heathen worship, just as fear is the spirit of Satan and his demons.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 2.3994573557247225,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.12,
+            "commentatorTierSimilarities": [
+                42.54,
+                30.55,
+                26.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians sacrificed to devils, not to God, because the heathen were under the dominion of Satan. Paul clarifies that he does not affirm the existence or worth of idols, but rather that the Gentiles sacrifice to demons. He urges the Corinthians to not participate in such idol worship, as fear rather than love is the motive of heathen worship. He wants them to understand that idols themselves are nothing, but the offerings made to them are actually made to devils.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 2.348927689779382,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.44,
+            "commentatorTierSimilarities": [
+                39.58,
+                31.03,
+                29.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians sacrificed to devils, not to God, because heathendom was under the dominion of Satan. Paul clarifies that he does not affirm the existence or worth of idols, but rather that the Gentiles sacrifice to demons. Fear, rather than love, is the motive of heathen worship, just as fear is the spirit of Satan and his demons. Paul emphasizes that idols themselves are nothing, but the offerings made to them are actually made to devils, and he warns the Corinthians against participating in such idolatry.",
+            "wordCount": 86,
+            "quoteTokenProportion": 49.09,
+            "qualityScore": 2.307020013813303,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.05,
+            "commentatorTierSimilarities": [
+                42.72,
+                30.03,
+                27.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians sacrificed to devils, not to God, because heathendom was under the dominion of Satan. Paul clarifies that he does not affirm the existence or worth of idols, but rather that the Gentiles sacrifice to demons. Fear, rather than love, is the motive of heathen worship, just as fear is the spirit of Satan and his demons. Paul emphasizes that idols themselves are nothing, and he warns the Corinthians against participating in such idolatry. Sacrificing to idols is not the same as partaking in the bread and wine of the Lord's Supper.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.2635580612009543,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.6,
+            "commentatorTierSimilarities": [
+                40.25,
+                30.87,
+                28.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

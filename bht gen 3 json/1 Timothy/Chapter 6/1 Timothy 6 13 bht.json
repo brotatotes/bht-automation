@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:29:34",
+    "verseRef": "1 Timothy 6:13",
+    "bestBHT": {
+        "bht": "In the presence of the God who endueth all things with life and Jesus Christ, who testified the good confession before Pontius Pilate, I command thee to fight the good fight. The assurance that eternal life will be the result of fighting the good fight rests on the fulness and power of Him who is the God of all life, present and to come. The confession was His testimony that He was King, and His kingdom that of the truth.",
+        "wordCount": 80,
+        "quoteTokenProportion": 40.43,
+        "qualityScore": 2.450150666727299,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.81,
+        "commentatorTierSimilarities": [
+            43.78,
+            26.75,
+            29.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I command thee in the presence of God, who endueth all things with life...and of Christ Jesus, who testified before Pontius Pilate the good confession."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The assurance that 'eternal life' will be the result of 'fighting the good fight,' rests on the fulness and power of Him who is the God of all life, present and to come.",
+            "The confession was His testimony that He was King, and His kingdom that of the truth.",
+            "Timothy's profession, or confession, included therefore the whole of the Christian truth."
+        ],
+        "Albert Barnes": [
+            "God is the source of life, and ... he had a right to require that it should be employed in his service.\" ",
+            "If, in obedience to this charge and in the performance of his duties, he should be required to lay down his life, he should bear in remembrance that God had power to raise him up again.",
+            "Let us place him [Jesus] before us as he stood at the bar of Pilate - threatened with death in its most appalling form, and ridiculed for the principles which he maintained; let us look on him, friendless and alone, and see with what seriousness, and sincerity, and boldness he stated the simple truth about himself, and we shall have one of the best securities that we can have, that we shall not dishonor our profession."
+        ],
+        "Marvin Vincent": [
+            "Quickeneth is according to the reading zwopoiountov maketh alive.\" ",
+            "This association of God as the preserver with confession is noteworthy.\" ",
+            "The good confession is the historical confession of Jesus before Pilate, which is the warrant for the truthfulness of Timothy's confession."
+        ],
+        "John Calvin": [
+            "He ratified it by his blood, and by the sacrifice of his death, better than he could have ratified it by his voice.",
+            "This confession the Apostle calls good. For Socrates also died; and yet his death was not a satisfactory proof of the doctrine which he held.",
+            "What cowardice would there be in deserting such a leader going before us to show us the way!"
+        ],
+        "Philip Schaff": [
+            "Men may slay the body, but God can both give life to the soul and restore it to the corpse.",
+            "The word for 'witness' seems purposely chosen for the higher form of witness that was consummated by death.",
+            "The passage becomes important as evidence that the narrative of the Passion was sufficiently familiar to be thus appealed to."
+        ],
+        "Archibald T. Robertson": [
+            "Who quickeneth all things.\" ",
+            "Before Pontius Pilate, not 'in the time of,' but 'in the presence of.'\" ",
+            "Christ gave his evidence as a witness to the Kingdom of God."
+        ],
+        "John Gill": [
+            "Who quickeneth all things; all creatures, for all animate creatures have their life, motion, and bring in him; and who quickeneth all his people, at first conversion, when dead in sin, and afterwards when dull and lifeless; and who will quicken the dead at the last day.\" ",
+            "This seems to be mentioned to strengthen Timothy against the fears of death, that should he die in fighting the Lord's battles, he was able to raise him from the dead, and would do it.",
+            "It may also refer to the faithful, plain, and open witness Christ bore to truth throughout the whole of his ministry, under Pontius Pilate, by his doctrine and miracles, and at last by his sufferings and death, which he endured under him; and this is mentioned for Timothy's imitation, and to encourage him, and all other saints, to hold fast the profession of their faith to the end."
+        ],
+        "John Wesley": [
+            "I charge thee before God, who quickeneth all things \u2014 Who hath quickened thee, and will quicken thee at the great day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I command you, in the presence of the God who gives life to all things, and of Jesus Christ who testified the good confession before Pontius Pilate, to fight the good fight. The assurance of eternal life as a result of this fight comes from the fulness and power of God who is the source of life. Just as Jesus boldly proclaimed the truth and his kingship before Pilate, Timothy's confession included the entirety of Christian truth. This confession, backed by the historical confession of Jesus, serves as a warrant for the truthfulness of Timothy's own confession. God, the preserver of life, is intimately connected to confession. Let us take courage from Jesus' example before Pilate, even in the face of death, and be confident that God, who quickens all things, is able to raise us up again.",
+            "wordCount": 140,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.2930220358484985,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.58,
+            "commentatorTierSimilarities": [
+                45.83,
+                26.79,
+                27.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the presence of the God who gives life to all things and Jesus Christ, who testified the good confession before Pontius Pilate, I command you to fight the good fight. The assurance of eternal life rests on the power of God, the source of life. Timothy's confession should encompass the entirety of Christian truth. Just as Jesus fearlessly proclaimed the truth before Pilate, we should take inspiration and have confidence that God, who quickens all things, is able to raise us up again.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.215934934892652,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.02,
+            "commentatorTierSimilarities": [
+                45.3,
+                28.03,
+                26.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the presence of the God who endueth all things with life and Jesus Christ, who testified the good confession before Pontius Pilate, I command you to fight the good fight. The assurance of eternal life rests on the fulness and power of Him who is the God of all life. Timothy's confession should include the whole of the Christian truth. Let us take courage from Jesus' example before Pilate, and have confidence that God, who quickeneth all things, is able to raise us up again.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.3092585462493256,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.12,
+            "commentatorTierSimilarities": [
+                44.96,
+                26.21,
+                28.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the presence of the God who endueth all things with life and Jesus Christ, who testified the good confession before Pontius Pilate, I command you to fight the good fight. The assurance of eternal life rests on the fulness and power of Him who is the God of all life. Timothy's confession should include the whole of the Christian truth. Let us take courage from Jesus' example before Pilate, and have confidence that God, who quickeneth all things, is able to raise us up again.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.3092585462493256,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.12,
+            "commentatorTierSimilarities": [
+                44.96,
+                26.21,
+                28.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the presence of the God who endueth all things with life and Jesus Christ, who testified the good confession before Pontius Pilate, I command thee to fight the good fight. The assurance that eternal life will be the result of fighting the good fight rests on the fulness and power of Him who is the God of all life, present and to come. The confession was His testimony that He was King, and His kingdom that of the truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.450150666727299,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.81,
+            "commentatorTierSimilarities": [
+                43.78,
+                26.75,
+                29.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

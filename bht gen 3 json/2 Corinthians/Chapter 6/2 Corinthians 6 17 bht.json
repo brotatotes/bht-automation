@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:16:46",
+    "verseRef": "2 Corinthians 6:17",
+    "bestBHT": {
+        "bht": "Believers are called to separate themselves from the pollutions of the world, as touching is more polluting than seeing. They are to resemble angels in their prompt and joyful obedience to God. By separating from the world, they become part of a pure community distinguished by moral purity. This echoes Isaiah's call to Israel to cast off defilement acquired from Babylon. Believers find a deep connection with God, surpassing earthly relationships, by keeping themselves undefiled as vessels dedicated to His worship. Christians must separate themselves, avoiding idolatry and evil customs, to experience reception into God's house and family.",
+        "wordCount": 100,
+        "quoteTokenProportion": 34.25,
+        "qualityScore": 1.5310756403714425,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+        "commentatorTierSimilarities": [
+            29.63,
+            32.35,
+            38.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Touching is more polluting, as implying participation, than seeing.\" ",
+            "The intercourse of believers with the world should resemble that of angels, who, when they have been sent a message from heaven, discharge their office with the utmost promptness, and joyfully fly back home to the presence of God.",
+            "The freedom of one inspired, who gives variations sanctioned by the Holy Spirit."
+        ],
+        "Albert Barnes": [
+            "Since you are a special people. Since God, the holy and blessed God, dwells with you and among you.",
+            "Separate from the world, and all its corrupting influences.",
+            "Have no close connection with an idolater, or an unholy person. Be pure; and feel that you belong to a community that is under its own laws, and that is to be distinguished in moral purity from all the rest of the world."
+        ],
+        "Marvin Vincent": [
+            "Come out, etc. Isaiah 52:11, Isaiah 52:12, after the Septuagint, with several changes."
+        ],
+        "John Calvin": [
+            "If with a true affection of the heart, we aim at the benefit of redemption, we must beware of defiling ourselves by any contamination from its pollutions.",
+            "Now all our members are vessels, set apart for the spiritual worship of God; we are also a royal priesthood.",
+            "Hence, as we are redeemed by the grace of God, it is befitting that we keep ourselves undefiled in respect of all uncleanness, that we may not pollute the sanctuary of God."
+        ],
+        "Philip Schaff": [
+            "We have here another quotation, from Isaiah 52:11, in which Israel is prophetically summoned to shake off the defilement they contracted by their long residence among the idolaters of Babylon, by finally quitting it.\" ",
+            "Even then ye will find One who will be to you what all the parents in the world cannot be, and ye will be to Him sons and daughters in a sense unutterable and eternally enduring.\" ",
+            "The result on a principle obvious enough is, not that the 'righteousness' of the one party dissolves the 'unrighteousness' of the other, but that the lower drags down the higher."
+        ],
+        "Archibald T. Robertson": [
+            "Saith the Lord (\u03bb\u03b5\u03b3\u03b5 \u039a\u03c5\u03c1\u03b9\u03bf\u03c2). Isaiah 52:5; Ezekiel 20:33. Cf. Revelation 18:4.",
+            "Unclean thing (\u03b1\u03ba\u03b1\u03b8\u03b1\u03c1\u03c4\u03bf\u03c5). Or unclean person. Genitive case is the same for both. "
+        ],
+        "John Gill": [
+            "The people of God are a separate people in election, redemption, and the effectual calling, and ought to be so in their conduct and conversation; they ought to separate themselves from all superstition and will worship in religious matters, and from the evil customs and manners of the world.",
+            "It has no regard to touching, tasting, and eating any sort of food, which was forbid as unclean by the ceremonial law; but if anything is particularly designed by the unclean thing, it seems to be idolatry, and to be a prohibition of joining with worshippers of idols in their idolatrous practices, whereby a moral pollution is contracted.",
+            "This clause seems to be taken from the latter part of Isaiah 52:12 which may be rendered, 'the God of Israel will gather you'; i.e. to himself, and protect them."
+        ],
+        "John Wesley": [
+            "Touch not the unclean person \u2014 Keep at the utmost distance from him.",
+            "And I will receive you \u2014 Into my house and family. Isaiah 52:11; Zephaniah 3:19,20."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers must be cautious to avoid contamination from the pollutions of the world, as touching is more polluting than merely seeing. They are called to separate themselves from the world and its corrupting influences, resembling the prompt and joyful obedience of angels when fulfilling their heavenly missions. By doing so, they become part of a community that is pure and distinguished in moral purity from the rest of the world. This echoes the prophetic call from Isaiah, urging Israel to shake off the defilement acquired from their time in Babylon. In this separation, believers find a deep connection with God, surpassing the bonds of earthly relationships. They must keep themselves undefiled, as vessels set apart for the spiritual worship of God. By doing so, they demonstrate their dedication to God and His sanctuary. Christians are called to be a separate people, distinct in their conduct and conversation, separating themselves from idolatry and the evil customs of the world. The unclean thing mentioned in this verse may refer to idolatry, and believers are warned not to join with idolaters in their practices, as it leads to moral pollution. By avoiding such contamination and remaining separate, believers can experience the reception and gathering of God into His own house and family.",
+            "wordCount": 209,
+            "quoteTokenProportion": 31.97,
+            "qualityScore": 1.5122962169239598,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                25.85,
+                33.54,
+                40.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are called to separate themselves from the pollutions of the world, as touching is more polluting than seeing. They are to resemble angels in their prompt and joyful obedience to God. By separating from the world, they become part of a pure community distinguished by moral purity. This echoes Isaiah's call to Israel to cast off defilement acquired from Babylon. Believers find a deep connection with God, surpassing earthly relationships, by keeping themselves undefiled as vessels dedicated to His worship. Christians must separate themselves, avoiding idolatry and evil customs, to experience reception into God's house and family.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.5310756403714425,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                29.63,
+                32.35,
+                38.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers must be cautious to avoid contamination from the pollutions of the world, as touching is more polluting than merely seeing. They are called to separate themselves from the world and its corrupting influences, resembling the prompt and joyful obedience of angels when fulfilling their heavenly missions. By doing so, they become part of a community that is pure and distinguished in moral purity from the rest of the world. This echoes the prophetic call from Isaiah, urging Israel to shake off the defilement acquired from their time in Babylon.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.5125716844774284,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                26.59,
+                39.04,
+                34.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers must separate themselves from the pollutions of the world, recognizing that touching is more polluting than seeing. Similar to the obedience of angels, they should promptly and joyfully fulfill their heavenly mission without being entangled by the world. By separating from the world, they become part of a pure and morally distinguished community. This resonates with Isaiah's call to Israel, urging them to cast off the defilement acquired during their stay in Babylon. Such separation allows believers to find a deep connection with God and experience reception into His house and family.",
+            "wordCount": 94,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.4745129568390638,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                28.92,
+                36.37,
+                34.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers must separate themselves from the pollutions of the world, as touching is more polluting than merely seeing. They are called to resemble angels in their prompt and joyful obedience, swiftly returning to the presence of God. This echoes Isaiah's call to Israel to cast off the defilement acquired from Babylon. By remaining pure and distinct, believers find a profound connection with God, surpassing earthly relationships. They must keep themselves undefiled as vessels dedicated to His worship, demonstrating their devotion and experiencing the reception into God's house and family.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.4755425699721463,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.4,
+            "commentatorTierSimilarities": [
+                30.59,
+                30.68,
+                38.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

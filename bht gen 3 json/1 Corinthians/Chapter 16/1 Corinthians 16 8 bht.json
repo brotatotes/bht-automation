@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:14:23",
+    "verseRef": "1 Corinthians 16:8",
+    "bestBHT": {
+        "bht": "Paul, writing from Ephesus, sets forth his plan to stay there until Pentecost. This reveals that the letter was written in the spring, just before Pentecost. Despite the tumultuous events in Acts 19, Paul intends to remain in Ephesus. The allusion to Pentecost serves to provide a time frame for the letter and may reflect the expectation of a larger gathering on that day, presenting an opportunity for Paul to spread the gospel. His words encourage the Corinthians to patiently await his arrival in Ephesus.",
+        "wordCount": 84,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1598666604718986,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+        "commentatorTierSimilarities": [
+            39.52,
+            28.21,
+            32.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His present plan regarding his stay in Ephesus (where he was writing).",
+            "This probably happened so, or nearly so, notwithstanding the tumult of Acts xix.",
+            "He already was meditating his departure, and had sent on two of his company when the tumult occurred."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "at Ephesus\u2014whence Paul writes this Epistle.",
+            "until Pentecost\u2014He seems to have stayed as he here purposes.",
+            "Combined with 1 Corinthians 5:7; 1 Corinthians 5:8, this verse fixes the date of this Epistle to a few weeks before Pentecost, and very soon after the Passover."
+        ],
+        "Albert Barnes": [
+            "This passage proves that this letter was written from Ephesus.",
+            "Doubtless the great festivals of the Jews were well known among most of the cities of Greece.",
+            "It is no improbable supposition, also, that Christians everywhere regarded this day with deep interest, as being the day on which the Holy Spirit descended on the apostles and on the people of Jerusalem."
+        ],
+        "John Calvin": [
+            "He accordingly tells them beforehand that he will remain at Ephesus until Pentecost, adding the reason \u2014 in order that they may wait for him the more patiently.",
+            "I do not concede to him, however, that Paul celebrated that day at Ephesus from being influenced by a superstitious regard to the day, but because there would be a larger assembly at that time, and he hoped that, in that way, an opportunity would be presented to him of propagating the gospel.",
+            "Thus, when he was hastening forward to Jerusalem, he assigned as the reason of his haste, that he might arrive there at Pentecost, but while others presented themselves there for the purpose of sacrificing according to the ritual of the law, he himself had another object in view \u2014 that his ministry might be the more useful in proportion to the largeness of the attendance."
+        ],
+        "Philip Schaff": [
+            "The allusion here to Pentecost fixes the date of this Epistle...\" (Quote 1)",
+            "...while that to Ephesus shews from whence it was written.\" (Quote 2)"
+        ],
+        "Archibald T. Robertson": [
+            "Until Pentecost (\u03b5\u03c9\u03c2 \u03c4\u03b7\u03c2 \u03a0\u03b5\u03bd\u03c4\u03b7\u03ba\u03bf\u03c3\u03c4\u03b7\u03c2). He writes them in the spring before pentecost. Apparently the uproar by Demetrius hurried Paul away from Ephesus (Acts 20:1). "
+        ],
+        "John Gill": [
+            "The feast of weeks, or of harvest, which was fifty days from the passover.",
+            "Which though abrogated at the death of Christ, was observed by the Jews.",
+            "Not as a festival that the Christians were obliged to regard, or did regard, but as pointing out the time he intended to stay at Ephesus."
+        ],
+        "John Wesley": [
+            "I will stay at Ephesus \u2014 Where he was at this time."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, writing from Ephesus, reveals his plan to stay there until Pentecost. This decision was likely made despite the turmoil that occurred in Acts 19. By mentioning Pentecost, which occurred a few weeks after Passover, he provides context for the timing of this letter. Some believe he references Pentecost, not out of superstition, but because it was a significant date for both Jews and Christians, making it an opportune time to share the gospel. Ultimately, Paul's intention is to encourage the Corinthians to wait patiently for him to arrive in Ephesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.055446296577137,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                36.83,
+                28.07,
+                35.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, writing from Ephesus, reveals his plan to stay there until Pentecost. This decision was likely made despite the turmoil that occurred in Acts 19. By mentioning Pentecost, which occurred a few weeks after Passover, he provides context for the timing of this letter. Some believe he references Pentecost, not out of superstition, but because it was a significant date for both Jews and Christians, making it an opportune time to share the gospel. Ultimately, Paul's intention is to encourage the Corinthians to wait patiently for him to arrive in Ephesus.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.055446296577137,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                36.83,
+                28.07,
+                35.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, writing from Ephesus, plans to remain there until Pentecost, expressing his purpose for staying. This timeframe aligns this letter with a few weeks before Pentecost and soon after Passover. While some suggest Paul's reference to Pentecost is based on superstition, it is more likely that he recognized the significance of the day for both Jews and Christians, providing an opportune time for sharing the gospel. His aim is to reassure the Corinthians, urging them to patiently await his arrival in Ephesus.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0564387171059577,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                37.47,
+                26.59,
+                35.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, writing from Ephesus, sets forth his plan to stay there until Pentecost. This reveals that the letter was written in the spring, just before Pentecost. Despite the tumultuous events in Acts 19, Paul intends to remain in Ephesus. The allusion to Pentecost serves to provide a time frame for the letter and may reflect the expectation of a larger gathering on that day, presenting an opportunity for Paul to spread the gospel. His words encourage the Corinthians to patiently await his arrival in Ephesus.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1598666604718986,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+            "commentatorTierSimilarities": [
+                39.52,
+                28.21,
+                32.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, writing from Ephesus, reveals his plan to stay there until Pentecost. This decision was likely made despite the turmoil that occurred in Acts 19. By mentioning Pentecost, which occurred a few weeks after Passover, he provides context for the timing of this letter. Some believe he references Pentecost, not out of superstition, but because it was a significant date for both Jews and Christians, making it an opportune time to share the gospel. Paul aims to encourage the Corinthians to wait patiently for his arrival in Ephesus.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.043150448481833,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.28,
+            "commentatorTierSimilarities": [
+                37.17,
+                27.7,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:18:54",
+    "verseRef": "Luke 12:5",
+    "bestBHT": {
+        "bht": "Playing false with our convictions to save our lives may fail, for God can inflict death in other formidable ways. Fear of God should be our primary concern, expelling lesser fears. Even Christ's friends are motivated by the fear of hell. Succumbing to the fear of men means disregarding God, but fearing Him ensures an easy victory and unwavering duty. Ministers of Christ and believers must heed this exhortation as people rise against God throughout history. God allows wicked individuals to intimidate weak minds but warns and directs us to fear and reverence Him alone.",
+        "wordCount": 96,
+        "quoteTokenProportion": 35.14,
+        "qualityScore": 1.563420779249367,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.33,
+        "commentatorTierSimilarities": [
+            38.4,
+            0.0,
+            61.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Fear Him . . . Fear Him\u2014how",
+            "striking the repetition here! Only the one fear would effectually",
+            "expel the other.",
+            "To play false with one's convictions to save",
+            "one's life, may fail of its end after all, for God can inflict a",
+            "violent death in some other and equally formidable way.",
+            "Fear of hell is a divinely authorized and needed motive of",
+            "action even to Christ's 'friends.'"
+        ],
+        "Marvin Vincent": [
+            "I will forewarn [\u03c5\u03c0\u03bf\u03b4\u03b5\u03b9\u03be\u03c9] . Rev., warn. See on warned, ch. 3 7. Hell. See on Matthew 5:22."
+        ],
+        "John Calvin": [
+            "Christ must be viewed as saying, that when we give way to the dread of men, we pay no respect to God; and that if on the contrary we fear God, we have an easy victory in our hands, so that no efforts of men will draw us aside from our duty.",
+            "The experience of every age shows the great necessity of this exhortation to the ministers of Christ, and likewise to all believers in general: for there never was a period when men did not rise furiously against God, and endeavor to overwhelm the Gospel.",
+            "God allows wicked men to enjoy such a degree of liberty, that they are swelled with confidence in their own power, imagine that they may attempt any thing, and even succeed in terrifying weak minds, as if they could do whatever they pleased."
+        ],
+        "Archibald T. Robertson": [
+            "Fear him who (\u03c6\u03bf\u03b2\u03b7\u03b8\u03b7\u03c4\u03b5 \u03c4\u03bf\u03bd).",
+            "After the killing\" (first aorist active infinitive of the common verb \u03b1\u03c0\u03bf\u03ba\u03c4\u03b5\u03b9\u03bd\u03c9, to kill).",
+            "Gehenna is a transliteration of Ge-Hinnom, Valley of Hinnon where the children were thrown on to the red-hot arms of Molech."
+        ],
+        "John Gill": [
+            "But I will forewarn you whom ye shall fear, I will be your monitor, and direct you to the proper object of fear and reverence.\" ",
+            "Fear him, which after he hath killed; your body, as the Persic version adds; hath taken away the life of it, by separating soul and body asunder...",
+            "Yea, I say unto you, fear him; and none else, not with a servile, but with a filial fear."
+        ],
+        "John Wesley": [
+            "Fear him who hath power to cast into hell.\" ",
+            "Even to his peculiar friends, Christ gives this direction.",
+            "Therefore the fearing of God as having power to cast into hell, is to be pressed even on true believers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fear of God should be our primary concern, for it has the ability to expel lesser fears and drive our actions. Playing false with our convictions in order to save our lives can ultimately be futile, as God has the power to bring about death in other formidable ways. Even Christ's friends are motivated by the fear of hell. When we succumb to the fear of men, we disregard God, but if we fear God, we will have an easy victory in our hands and will not be swayed from our duty. This exhortation is necessary for ministers of Christ and believers in general, as there has never been a time when people have not risen against God and attempted to overwhelm the Gospel. God allows wicked individuals to enjoy freedom, swelling them with confidence and enabling them to terrify weak minds. But Christ warns us and directs us to the true object of fear and reverence. We should fear Him who has the power to kill and cast into hell, even as Christ's friends.",
+            "wordCount": 177,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.522797850714774,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                35.24,
+                0.0,
+                64.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Playing false with our convictions to save our lives may fail, for God can inflict death in other formidable ways. Fear of God should be our primary concern, expelling lesser fears. Even Christ's friends are motivated by the fear of hell. Succumbing to the fear of men means disregarding God, but fearing Him ensures an easy victory and unwavering duty. Ministers of Christ and believers must heed this exhortation as people rise against God throughout history. God allows wicked individuals to intimidate weak minds but warns and directs us to fear and reverence Him alone.",
+            "wordCount": 96,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.563420779249367,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.33,
+            "commentatorTierSimilarities": [
+                38.4,
+                0.0,
+                61.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fear of God should be our ultimate motivation, expelling lesser fears and driving our actions. Choosing to compromise our convictions in order to save our lives can be futile, as God has the power to bring about death in other formidable ways. Even Christ's friends are guided by the fear of hell. When we give in to the fear of men, we disregard God, but by fearing Him, we will have an easy victory and remain steadfast in our duty. This exhortation is vital for ministers of Christ and all believers, as throughout history, there have always been those who rise up against God and seek to undermine the Gospel. God allows the wicked to enjoy a false sense of power and intimidate weak-minded individuals, but we must remember to fear and revere Him alone.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5257816086392029,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                35.31,
+                0.0,
+                64.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear of God should expel all other fears, as playing false with our convictions to save our lives can ultimately prove ineffective in the face of God's power to bring about death in other formidable ways. Even Christ's friends are motivated by the fear of hell. When we succumb to the fear of men, we disregard God, but if we fear God, we will have an easy victory and remain steadfast in our duty. This exhortation is crucial for ministers of Christ and believers as people have always risen against God throughout history, seeking to undermine the Gospel. We must remember to fear and reverence God alone.",
+            "wordCount": 109,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.576481761991937,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.76,
+            "commentatorTierSimilarities": [
+                36.33,
+                0.0,
+                63.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fear of God should be our primary concern, for it has the ability to expel lesser fears and drive our actions. Playing false with our convictions in order to save our lives can ultimately be futile, as God has the power to bring about death in other formidable ways. Even Christ's friends are motivated by the fear of hell. When we succumb to the fear of men, we disregard God, but if we fear God, we will have an easy victory in our hands and will not be swayed from our duty. This exhortation is necessary for ministers of Christ and believers in general, as there has never been a time when people have not risen against God and attempted to overwhelm the Gospel. God allows wicked individuals to enjoy freedom, swelling them with confidence and enabling them to terrify weak minds. But Christ warns us and directs us to the true object of fear and reverence. We should fear Him who has the power to kill and cast into hell, even as Christ's friends.",
+            "wordCount": 177,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.522797850714774,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.98,
+            "commentatorTierSimilarities": [
+                35.24,
+                0.0,
+                64.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

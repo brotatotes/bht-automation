@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:29:39",
+    "verseRef": "Acts 10:36",
+    "bestBHT": {
+        "bht": "Jesus Christ, the word sent by God, preaches peace through the Gospel to all people. His Lordship extends over all men, Jews and Gentiles alike, reconciling and uniting them under the canopy of His peace. The Gospel is the glorious sum of all truth, proclaiming peace between individuals and God, as well as peace between races and nations. Through Jesus Christ, the divine Savior, true peace can be attained, as He is the sole author of reconciliation and acceptance into the family of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.4794611558438993,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.78,
+        "commentatorTierSimilarities": [
+            33.98,
+            34.61,
+            31.41
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Of a truth I perceive... the word which God sent to the children of Israel, preaching peace through Jesus Christ.",
+            "(and recognize this as) the word which God sent to the children of Israel, preaching peace through Jesus Christ.",
+            "He is Lord of ALL MEN; with a strong emphasis on all."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the Gospel was first preached, even as the facts of it took place on the special theater of the ancient economy.",
+            "preaching peace by Jesus Christ\u2014the glorious sum of all Gospel truth.",
+            "he is Lord of all\u2014exalted to embrace under the canopy of His peace, Jew and Gentile alike, whom the blood of His Cross had cemented into one reconciled and accepted family of God."
+        ],
+        "Albert Barnes": [
+            "The Messiah was promised to them, and spent his life among them.",
+            "He announced the way by which man might be reconciled to God, and might find peace.",
+            "He is sovereign, or ruler of both Jews and Gentiles, and hence, Peter saw the propriety of preaching the gospel to one as to the other."
+        ],
+        "Marvin Vincent": [
+            "The word [\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd] . The message."
+        ],
+        "John Calvin": [
+            "That God sent his word unto the children of Israel.",
+            "Peter teacheth here what manner [of] rumor and thing that was which was spread abroad; to wit, such as that it did make peace.",
+            "He coupleth peace and preaching expressly together, because this is one way whereby the fruit of the reconciliation, purchased by Christ, cometh unto us."
+        ],
+        "Philip Schaff": [
+            "The simplest view, perhaps, is this, that we have here three things in apposition (1) the proclamation of the Gospel ( \u03c4\u1f78\u03bd \u03bb\u03cc\u03b3\u03bf\u03bd ) which was spread through Judaea; (2) the subject-matter ( \u03c4\u1f78 \u03c1\u1fc6\u03bc\u03b1 ) of the proclamation, the new religion which was thus diffused; (3) the fact that Jesus was divinely anointed for this mission.",
+            "More fully and accurately, \u2018proclaiming the good news of peace by Jesus Christ.\u2019 It has been asked whether this denotes peace between God and man, or peace between Jew and Gentile. The right answer probably is that both are included, but that the former is primarily intended.",
+            "In the first place, it assigns to Christ Divine supremacy in language which, though very brief, is as forcible as possible; and, secondly, it brings all mankind on a level, because all men stand in the same relation to Him."
+        ],
+        "Archibald T. Robertson": [
+            "There is no other way to have real peace between individuals and God, between races and nations, than by Jesus Christ.",
+            "Almost this very language occurs in Ephesians 2:17 where Paul states that Jesus on the cross 'preached (gospelized) peace to you who are afar off and peace to you who are near.'",
+            "Jesus Christ is Lord of all, both Jews and Gentiles."
+        ],
+        "John Gill": [
+            "The doctrine which he was now about to preach to them, was the doctrine of the Gospel; which it pleased God, of his infinite wisdom and rich grace, to send first to the people of the Jews.",
+            "This word God is said to send; which shows that it comes from him, and is of a divine original, and therefore ought to be received, not as the word of man, but as the word of God.",
+            "The Gospel publishes... peace with God, which was broken by the sin of man, which filled his mind with enmity to God; and now he is incapable of restoring it, and reconciling himself to God; he has neither disposition, nor ability to perform it; but Christ is the sole author of it."
+        ],
+        "John Wesley": [
+            "This is the word which God sent \u2014 When he sent his Son into the world, preaching - Proclaiming by him-peace between God and man.\" ",
+            "Whether Jew or Gentile, by the God-man.\" ",
+            "He is Lord of both; yea, Lord of and over all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that Jesus Christ is the word sent by God to the children of Israel, preaching peace to all people. This proclamation of peace is not only between individuals and God, but also between races and nations. Jesus Christ, being Lord of all, reconciles and unites both Jews and Gentiles under the canopy of His peace. His Gospel brings about true peace and harmony that cannot be found elsewhere, and it is through Him that individuals and communities can be reconciled to God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.4706306863750234,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.49,
+            "commentatorTierSimilarities": [
+                33.86,
+                34.76,
+                31.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ, sent by God, proclaimed peace to the children of Israel and all people. The Gospel he preached brought reconciliation with God and harmony between individuals, races, and nations. His Lordship extends over all, uniting both Jews and Gentiles under the peace He offers. Through Jesus Christ, true peace can be found, as He is the sole author of the restoration of peace between mankind and God. His Gospel is the divine word, deserving recognition as the word of God Himself.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.376841882138458,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.37,
+            "commentatorTierSimilarities": [
+                32.26,
+                34.92,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus Christ, as the word sent by God, preaches peace through the Gospel. This peace extends not only to individuals but also between races and nations. Through His sacrifice on the cross, Jesus proclaims peace for all people, uniting Jews and Gentiles under His Lordship. The Gospel is the divine message that brings reconciliation and restoration of peace between God and mankind. It is through Jesus Christ that true peace can be attained, as He is the ultimate source of peace.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.346565711062671,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.36,
+            "commentatorTierSimilarities": [
+                34.28,
+                35.27,
+                30.45
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus Christ, sent by God, proclaims peace through the Gospel to all people. His Lordship extends over both Jews and Gentiles, uniting them under His peace. The Gospel brings about reconciliation between individuals and God, as well as harmony between races and nations. It is through Jesus Christ, the divine word, that true peace can be found. He alone has the power to restore and reconcile mankind to God, offering the perfect peace that surpasses all understanding.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.346688227851044,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.37,
+            "commentatorTierSimilarities": [
+                32.83,
+                35.34,
+                31.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus Christ, the word sent by God, preaches peace through the Gospel to all people. His Lordship extends over all men, Jews and Gentiles alike, reconciling and uniting them under the canopy of His peace. The Gospel is the glorious sum of all truth, proclaiming peace between individuals and God, as well as peace between races and nations. Through Jesus Christ, the divine Savior, true peace can be attained, as He is the sole author of reconciliation and acceptance into the family of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.4794611558438993,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.78,
+            "commentatorTierSimilarities": [
+                33.98,
+                34.61,
+                31.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

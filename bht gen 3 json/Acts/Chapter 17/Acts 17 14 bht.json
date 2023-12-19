@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:32:35",
+    "verseRef": "Acts 17:14",
+    "bestBHT": {
+        "bht": "Paul, having witnessed the fruitful spread of the Gospel in Philippi, Thessalonica, and Beroea, was compelled to leave Macedonia earlier than he had hoped. The brethren, concerned for his safety, sent him away, possibly to the sea, to avoid the Jews who sought after him. Silas and Timothy remained in Berea, continuing to strengthen the newly converted. Guided by God's providence, Paul intentionally delayed deciding his next destination until reaching the coast, where he could find a vessel to sail to Athens, thus strategically cultivating the growth of the Gospel in European regions.",
+        "wordCount": 94,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 1.7002486610257834,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+        "commentatorTierSimilarities": [
+            27.9,
+            33.8,
+            38.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "How long he stayed at Berea we know not; but as we know that he longed and expected soon to return to the Thessalonians (Acts 17:10- :), it is probable he remained some weeks at least...",
+            "Probably he delayed fixing his next destination till he should reach the coast, and the providence of God should guide him to a vessel bound for the destined spot.",
+            "Connecting this with the apostle's leaving Timothy and Luke at Philippi on his own departure...we may conclude that this was his fixed plan for cherishing the first beginning of the Gospel in European localities, and organizing the converts."
+        ],
+        "Albert Barnes": [
+            "Sent away Paul - In order to secure his safety.",
+            "The tumult was great; and there was no doubt, such was the hostility of the Jews, that the life of Paul would be endangered.",
+            "They took him to the seacoast, not far from Berea, and from that place he probably went by sea to Athens."
+        ],
+        "Philip Schaff": [
+            "The accurate translation of the Greek \u03c9 \u0314 \u03c2 \u03b5 \u0313 \u03c0\u03b9 \u0300 \u03ba . \u03c4 . \u03bb is simply \u2018as far as to the sea;\u2019 the English Version would seem to suggest a feint on the part of Paul and his friends.\" ",
+            "Silas appears up to this time never to have left his great fellow-missionary, but Timothy was left behind at Philippi; although not mentioned as with Paul at Thessalonica, it is almost certain that he was with his master during a portion at least of the first memorable visit.",
+            "It has been suggested that Timothy joined Paul again at Thessalonica, bringing with him the contributions and help from the Philippian Christians."
+        ],
+        "Archibald T. Robertson": [
+            "They acted swiftly as in Thessalonica.",
+            "At any rate we know that Paul was grieved to cut short his work in Macedonia, probably not over six months in all, which had been so fruitful in Philippi, Thessalonica, and Beroea.",
+            "The work in Macedonia spread widely."
+        ],
+        "John Gill": [
+            "And then immediately the brethren... sent away Paul, whom they knew the Jews mostly sought after, and were offended with: to go as it were to the sea.\" ",
+            "This seems to have been done, in order to make the people conclude that he intended to take shipping, and go into some other parts of the world, when the design was to go to Athens by foot, and so be safe from any lying in wait of his persecutors.",
+            "But Silas and Timotheus abode there still; at Berea, to confirm and strengthen the young converts there made."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, after his fruitful work in Philippi, Thessalonica, and Beroea, had to cut short his stay in Macedonia, where the Gospel was spreading widely. Concerned for his safety, the brethren sent him away, possibly to the sea, to protect him from the Jews who sought after him. Silas and Timothy remained behind to continue strengthening the young converts in Berea. It is likely that Paul, guided by the providence of God, deliberately delayed deciding his next destination until he reached the coast, where he could sail to Athens. This strategic planning and organization were part of Paul's effort to nurture the early beginnings of the Gospel in European localities.",
+            "wordCount": 110,
+            "quoteTokenProportion": 32.91,
+            "qualityScore": 1.6776506313248465,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                28.34,
+                35.08,
+                36.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, having witnessed the fruitful spread of the Gospel in Philippi, Thessalonica, and Beroea, was compelled to leave Macedonia earlier than he had hoped. The brethren, concerned for his safety, sent him away, possibly to the sea, to avoid the Jews who sought after him. Silas and Timothy remained in Berea, continuing to strengthen the newly converted. Guided by God's providence, Paul intentionally delayed deciding his next destination until reaching the coast, where he could find a vessel to sail to Athens, thus strategically cultivating the growth of the Gospel in European regions.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.7002486610257834,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.88,
+            "commentatorTierSimilarities": [
+                27.9,
+                33.8,
+                38.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After witnessing the remarkable spread of the Gospel in Macedonia, including Philippi, Thessalonica, and Beroea, Paul\u2019s work was cut short due to the hostility of the Jews. The brethren sent him away, possibly to the sea, to protect his life. While Silas and Timothy remained in Berea to nurture the young converts, Paul, guided by divine providence, postponed deciding his next destination until reaching the coast. There, he would find a ship to take him to Athens, allowing him to further advance the Gospel in Europe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.6491196023890942,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.18,
+            "commentatorTierSimilarities": [
+                27.25,
+                37.39,
+                35.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul had to leave Macedonia sooner than he had planned, after his successful work in Philippi, Thessalonica, and Beroea. Concerned for Paul's safety, the brethren sent him away, possibly towards the sea. Silas and Timothy remained in Berea to strengthen the newly converted. Paul, following God's guidance, delayed choosing his next destination until he reached the coast, where he could find a ship to sail to Athens. This intentional strategy helped nurture the growing influence of the Gospel in European regions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.5195386407705653,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                27.04,
+                37.69,
+                35.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After witnessing the remarkable spread of the Gospel in Macedonia, including Philippi, Thessalonica, and Beroea, Paul had to depart earlier than intended due to the hostility of the Jews. Concerned for his safety, the brethren sent him towards the sea, possibly to protect him from his persecutors. Silas and Timothy remained behind in Berea to continue strengthening the new believers. Guided by divine providence, Paul postponed deciding his next destination until reaching the coast, where he could find a ship to Athens, further promoting the Gospel in Europe.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.5373516950963224,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.46,
+            "commentatorTierSimilarities": [
+                27.3,
+                36.3,
+                36.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

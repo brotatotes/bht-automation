@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:31:32",
+    "verseRef": "2 Timothy 4:20",
+    "bestBHT": {
+        "bht": "Erastus, one of Paul's usual companions, stayed behind in Corinth, while Trophimus was left sick in Miletus. These details shed light on Paul's circumstances and his relationship with his companions. Erastus, potentially the chamberlain of Corinth, was a familiar figure to Paul. Trophimus, a native of Ephesus, unfortunately fell ill. This highlights that Paul did not possess the power to heal at will, but rather, was dependent on God's timing and will. These mentions offer valuable insights into Paul's situation as he writes to Timothy.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.9236511382979216,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+        "commentatorTierSimilarities": [
+            43.05,
+            33.14,
+            23.82
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Erastus abode in Corinth.",
+            "Trophimus I left in Miletus sick.",
+            "on the inferences to be drawn from this, see Introd. to Pastoral Epistles, \u00a7ii. 30 f."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In order to depict his desertion, he informs Timothy that Erastus, one of his usual companions... stayed behind at Corinth, his native place, or usual residence\" ",
+            "Trophimus he left behind at Miletus sick... there is a presumption that Timothy was not at Ephesus when Paul wrote\" ",
+            "Paul had not the power of healing at will, but as the Lord allowed him"
+        ],
+        "Albert Barnes": [
+            "Erastus - see the notes on Romans 16:23.",
+            "Abode at Corinth - This was his home, where he filled an important office; see the notes at Romans 16:23.",
+            "But Trophimus - see Acts 20:4. He was a native of Asia Minor."
+        ],
+        "Marvin Vincent": [
+            "Erastus. In Acts 19:22, sent by Paul with Timothy to Macedonia from Ephesus. Romans 16:23, the city - treasurer who sends salutations. He cannot be certainly identified with the one mentioned here. The writer merely selects names of well - known companions of Paul.",
+            "Trophimus. See Acts 22:4; Acts 21:9.",
+            "Sick [\u03b1\u03c3\u03b8\u03b5\u03bd\u03bf\u03c5\u03bd\u03c4\u03b1] . By Paul mostly in a moral sense, as weak in the faith, Romans 4:19; the law was weak, Romans 8:3; the weak brother, 1 Corinthians 8:11. Of bodily sickness, Philippians 2:26, Philippians 2:27."
+        ],
+        "Philip Schaff": [
+            "Erastus. Probably the same as the steward or chamberlain of Corinth.\" ",
+            "Trophimus, One of St. Paul\u2019s companions on the last journey to Jerusalem.",
+            "Miletum ought, of course, to be Miletus."
+        ],
+        "Archibald T. Robertson": [
+            "Erastus (\u0395\u03c1\u03b1\u03c3\u03c4\u03bf\u03c2). See Acts 19:22; Romans 16:23.",
+            "Trophimus (\u03a4\u03c1\u03bf\u03c6\u03b9\u03bc\u03bf\u03bd). A native of Ephesus and with Paul in Jerusalem (Acts 20:4; Acts 21:29).",
+            "At Miletus sick (\u03b5\u03bd \u039c\u03b9\u03bb\u03b7\u03c4\u03c9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03bf\u03c5\u03bd\u03c4\u03b1). Present active participle of \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03c9, to be weak. Probably on Paul's return from Crete."
+        ],
+        "John Gill": [
+            "Erastus abode at Corinth,.... He was chamberlain of that city...",
+            "Trophimus was an Asian, of the city of Ephesus...",
+            "Some, instead of Miletum, would read Melita, that being the island Paul, and the ship's company, escaped to, when they were shipwrecked..."
+        ],
+        "John Wesley": [
+            "Being chamberlain of the city, Romans 16:23.",
+            "Not having power... to work miracles when he pleased, but only when God pleased.",
+            "Not having power...to work miracles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Timothy 4:20, Paul mentions that Erastus stayed behind in Corinth, while Trophimus was left sick in Miletus. This reveals Paul's companions and their situations at the time of writing. Erastus was known to be a companion, potentially even the chamberlain of Corinth, while Trophimus was a native of Ephesus. It is clear that Paul did not possess the power to heal people at will but was reliant on God's timing and will. The mention of these companions shows Paul's circumstances and relationships as he writes to Timothy.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9460542729148145,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                42.65,
+                32.34,
+                25.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul mentions that Erastus stayed in Corinth, his native place, while Trophimus was left sick in Miletus. These details provide insight into Paul's companions and their circumstances at the time of writing. Erastus, possibly the chamberlain of Corinth, was a familiar companion of Paul. Trophimus, a native of Ephesus, was unfortunately unwell. This illustrates that Paul relied on God's timing and will for healing, as he did not have the power to perform miracles at his own discretion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9837905713058768,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.3,
+            "commentatorTierSimilarities": [
+                40.73,
+                31.21,
+                28.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Erastus, Paul's companion, remained in Corinth, while Trophimus was left sick in Miletus. Paul's mention of these companions sheds light on his circumstances and relationships at the time. Erastus, a well-known figure, potentially held an important office in Corinth. Trophimus, a native of Ephesus, was unfortunately unwell. This shows that Paul did not possess the power to heal at will but was dependent on God's timing and will. These details provide valuable insight into Paul's situation as he writes to Timothy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.86378823461411,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.31,
+            "commentatorTierSimilarities": [
+                43.29,
+                32.96,
+                23.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's mention of Erastus staying in Corinth, his native place, and Trophimus being left sick in Miletus provides insight into his companions and their circumstances. Erastus, a well-known companion of Paul, potentially held an important office in Corinth. Trophimus, a native of Ephesus, unfortunately, fell ill. This highlights that Paul relied on God's timing and will for healing, as he did not possess the ability to perform miracles at his own discretion. These details reveal Paul's situation and relationships as he communicates with Timothy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8933796265665792,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                44.47,
+                31.59,
+                23.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Erastus, one of Paul's usual companions, stayed behind in Corinth, while Trophimus was left sick in Miletus. These details shed light on Paul's circumstances and his relationship with his companions. Erastus, potentially the chamberlain of Corinth, was a familiar figure to Paul. Trophimus, a native of Ephesus, unfortunately fell ill. This highlights that Paul did not possess the power to heal at will, but rather, was dependent on God's timing and will. These mentions offer valuable insights into Paul's situation as he writes to Timothy.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9236511382979216,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.3,
+            "commentatorTierSimilarities": [
+                43.05,
+                33.14,
+                23.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

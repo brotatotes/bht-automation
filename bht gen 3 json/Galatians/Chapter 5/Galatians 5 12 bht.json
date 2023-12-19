@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:21:02",
+    "verseRef": "Galatians 5:12",
+    "bestBHT": {
+        "bht": "In the community of believers, there are unsettling individuals causing havoc. The term cut off implies a harsher sense, akin to amputation. Though it may not be agreeable today, we should consider the interpretations of the past. Circumcision alone, devoid of faith, love, and obedience, signifies mere physical mutilation. The expressed wish is for the removal of these disruptors from the church, driven by a concern for God's glory and the welfare of His people.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.698262609012457,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+        "commentatorTierSimilarities": [
+            32.14,
+            33.33,
+            34.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The only admissible sense of the word is one carrying harshness, and more, to our ears; viz. amputation.",
+            "It seems to me that this sense must be adopted, in spite of the protests raised against it.",
+            "The common interpretation of the Fathers, confirmed by the use of language in the Septuagint version, is not to be rejected only because it is displeasing to the delicacy of modern times."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They who are unsettling you.",
+            "Would that they were even cut off from your communion, being worthless as a castaway foreskin.",
+            "If circumcision be not enough for them, then let them have excision also."
+        ],
+        "Albert Barnes": [
+            "I sincerely wish they were excluded from the church as unworthy a place among the children of God.",
+            "The simple meaning is, I think, that Paul wished that the authors of these errors and disturbances were excluded from the church.",
+            "Who pervert the true doctrines of salvation, and who thus introduce error into the church."
+        ],
+        "Marvin Vincent": [
+            "Perhaps that would be even a more powerful help to salvation.",
+            "Unaccompanied by faith, love, and obedience, circumcision was no more than physical mutilation.",
+            "Rather to upset or overthrow. The usual phrase in Class. is ajnastaton poiein to make an upset."
+        ],
+        "John Calvin": [
+            "They tear the church for the sake of circumcision: I wish they were entirely cut off.",
+            "Believers earnestly desirous that the glory of God should be promoted, forget men, and forget the world, and would rather choose that the whole world should perish, than that the smallest portion of the glory of God should be withdrawn.",
+            "With such zeal as this, every true pastor of the church will burn."
+        ],
+        "Philip Schaff": [
+            "I wish that they who are unsettling you would even go on to abscission; that the circumcisers would not stop with the half measure of circumcision, but go beyond it even to abscission or mutilation (make themselves eunuchs), like the priests of Cybele.\" ",
+            "Self-mutilation was a recognized form of heathen worship, especially in Pessinus in Galatia, and therefore quite familiar to the readers.",
+            "Paul had evidently the dangerous power of sarcasm, but he used it very sparingly, and only in a worthy cause."
+        ],
+        "Archibald T. Robertson": [
+            "Would that, used as conjunction in wishes.",
+            "Late verb from \u03b1\u03bd\u03b1\u03c3\u03c4\u03b1\u03c4\u03bf\u03c2, driven from one's abode, and in papyri in this sense as well as in sense of upsetting or disturbing one's mind.",
+            "Future middle of \u03b1\u03c0\u03bf\u03ba\u03bf\u03c0\u03c4\u03c9, old word to cut off as in Acts 27:32, here to mutilate."
+        ],
+        "John Gill": [
+            "These words are a solemn wish of the apostle's with respect to the false teachers, or an imprecation of the judgment of God upon them; that they might be cut off out of the land of the living by the immediate hand of God, that they might do no more mischief to the churches of Christ.",
+            "This he said not out of hatred to their persons, but from a concern for the glory of God, and the good of his people.",
+            "The apostle here might wish that the mouths of these false teachers were stopped, their notions refuted, that they might give them no more trouble."
+        ],
+        "John Wesley": [
+            "I would they were even cut off \u2014 From your communion; cast out of your church, that thus trouble you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks about those who are causing confusion and disturbance within the church. The commentators assert that the word cut off in this context implies harshness and even amputation. They argue that the interpretation of the Fathers, although it may not align with modern sensitivities, should not be dismissed. The commentaries also suggest that this wish for exclusion may be driven by a desire for salvation and the purity of the church. The authors point out that circumcision without faith, love, and obedience is merely physical mutilation. In their words, they express a passionate desire for the false teachers to be completely removed from the church for the sake of God's glory and the well-being of His people.",
+            "wordCount": 121,
+            "quoteTokenProportion": 40.48,
+            "qualityScore": 1.8193673934584695,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.84,
+            "commentatorTierSimilarities": [
+                24.06,
+                37.1,
+                38.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, there are individuals stirring up trouble and causing confusion in the community of believers. The term cut off conveys a strong and unpleasant meaning, akin to amputation. Although this might be disagreeable to modern sensibilities, it is important to consider the interpretation of those who preceded us. The commentators emphasize that circumcision, without faith, love, and obedience, is merely physical mutilation. The fervent wish expressed is for the removal of these troublemakers from the church, driven by a desire for God's glory and the well-being of His people.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7821133455836096,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.6,
+            "commentatorTierSimilarities": [
+                28.8,
+                36.17,
+                35.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Within the community of believers, there are individuals causing disturbance and confusion. The term cut off carries a harsh connotation, associated with amputation. It may not align with present-day sensitivities, but earlier interpretations should not be dismissed. The commentators emphasize that circumcision alone is mere physical mutilation without faith, love, and obedience. The expressed desire is for the removal of these individuals from the church, prompted by a deep concern for God's glory and the welfare of His people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.6572929207595712,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.45,
+            "commentatorTierSimilarities": [
+                29.01,
+                35.72,
+                35.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the community of believers, there are troublemakers causing confusion and disturbance. The term cut off carries a strong meaning, like amputation. Although it may not be popular today, we should consider the interpretations of those before us. The commentators stress that circumcision without faith, love, and obedience is just physical mutilation. Their expressed desire is for these individuals to be removed from the church, driven by a concern for God's glory and the welfare of His people.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.6691823497851672,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                29.52,
+                34.02,
+                36.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the community of believers, there are unsettling individuals causing havoc. The term cut off implies a harsher sense, akin to amputation. Though it may not be agreeable today, we should consider the interpretations of the past. Circumcision alone, devoid of faith, love, and obedience, signifies mere physical mutilation. The expressed wish is for the removal of these disruptors from the church, driven by a concern for God's glory and the welfare of His people.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.698262609012457,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                32.14,
+                33.33,
+                34.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

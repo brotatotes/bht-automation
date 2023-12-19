@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:00:40",
+    "verseRef": "1 Corinthians 1:26",
+    "bestBHT": {
+        "bht": "The Christian church, empowered by the Spirit of God, often consisted of individuals despised by the world. The expansion of the church throughout history has shown a victory of the ignorant over the learned and the lowly over the lofty. God's calling is not based on human wisdom, power, or lineage, but on His sovereign love. This challenges the standards of the flesh, which value wisdom, power, and noble birth. Paul's argument reminds us that God's ways often confound the wisdom and expectations of the world.",
+        "wordCount": 89,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0319107990216088,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+        "commentatorTierSimilarities": [
+            40.69,
+            31.06,
+            28.25
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Christian church, so full of divine wisdom and strength by the indwelling Spirit of God, consisted for the most part, not of the wise or mighty among men, but of those whom the world despised.",
+            "The whole history of the expansion of the church is in reality a progressive victory of the ignorant over the learned, the lowly over the lofty.",
+            "Until the emperor himself laid down his crown before the cross of Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The whole history of the expansion of the Church is a progressive victory of the ignorant over the learned, the lowly over the lofty, until the emperor himself laid down his crown before the cross of Christ.\" ",
+            "The weakness of the instrumentality which the Lord employed to convert the world.\" ",
+            "The wisdom of this world acquired by human study without the Spirit."
+        ],
+        "Albert Barnes": [
+            "The design of the apostle here is, to show that the gospel did not depend for its success on human wisdom.",
+            "God had shown his power by choosing those who were ignorant, and vicious, and abandoned, and by reforming and purifying their lives.",
+            "The reason why God had chosen his people from that rank is stated in 1 Corinthians 1:29."
+        ],
+        "Marvin Vincent": [
+            "Calling (klhsin). Not condition of life, but your calling by God; not depending on wisdom, power, or lineage.",
+            "Noble [\u03b5\u03c5\u03b3\u03b5\u03bd\u03b5\u03b9\u03c2]. Of high birth. So originally, though as Greece became democratic, it came to signify merely the better sort of freemen.",
+            "Aeschylus makes Clytaemnestra say to the captive Cassandra that if slavery must befall one there is an advantage in having masters of ancient family property instead of those who have become unexpectedly rich."
+        ],
+        "John Calvin": [
+            "To put to shame, says he, the wise and noble, and to bring to naught things that are Both expressions are appropriate, for fortitude and wisdom vanish when they are put to shame, but what has an existence requires to be brought to naught.",
+            "By preferring the contemptible before the great. God himself, however, by the mouth of David, exhorts kings to embrace Christ.",
+            "Shepherds, in the first place, are called to Christ: then afterwards come philosophers: illiterate and despised fishermen hold the highest rank of honor; yet into their school there are received in process of time kings and their counselors, senators and orators."
+        ],
+        "Philip Schaff": [
+            "For behold your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called.\" ",
+            "It is the peculiar usage of the New Testament.",
+            "It is thrice so used in this very Epistle."
+        ],
+        "Archibald T. Robertson": [
+            "Calling (\u03ba\u03bb\u03b7\u03c3\u03b9\u03bd). The act of calling by God, based not on the external condition of those called (\u03ba\u03bb\u03b7\u03c4\u03bf, verse 1 Corinthians 1:2), but on God's sovereign love.\" ",
+            "It is a clinching illustration of Paul's argument, an argumentum ad hominen.\" ",
+            "According to the standards of the flesh and to be used not only with \u03c3\u03bf\u03c6\u03bf (wise, philosophers), but also \u03b4\u03c5\u03bd\u03b1\u03c4\u03bf (men of dignity and power), \u03b5\u03c5\u03b3\u03b5\u03bd\u03b5\u03b9\u03c2 (noble, high birth), the three claims to aristocracy (culture, power, birth)."
+        ],
+        "John Gill": [
+            "The manner of whose calling, and what sort of persons they were, the apostle signifies, they did or might, or ought, to see, observe, and consider.",
+            "But there were not many of them; instances of this kind are but few recorded in the Scripture.",
+            "God has thought fit, for wise reasons, to choose and call persons of different characters."
+        ],
+        "John Wesley": [
+            "What manner of men they are whom God calls.",
+            "Not many wise men after the flesh.",
+            "Not many mighty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 1:26, the apostle Paul highlights how the Christian church, empowered by the Spirit of God, often consisted of individuals despised by the world, rather than the wise or mighty.  The expansion of the church throughout history has shown a victory of the ignorant over the learned and the lowly over the lofty. God's calling is not based on human wisdom, power, or lineage, but on His sovereign love. This challenges the standards of the flesh, which value wisdom, power, and noble birth. Paul's argument reminds us that God's ways often confound the wisdom and expectations of the world.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.090175158102618,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.84,
+            "commentatorTierSimilarities": [
+                38.67,
+                32.49,
+                28.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Christian church, filled with divine wisdom and strength, mostly consisted of those despised by the world. The expansion of the church was a victory of the ignorant over the learned and the lowly over the lofty. God's calling is not based on human wisdom or power but on His sovereign love. It challenges the standards of the flesh, valuing noble birth, wisdom, and power. Paul's argument reveals how God's ways often confound worldly wisdom and expectations.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.022876537292893,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                41.0,
+                30.93,
+                28.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Christian church, so full of divine wisdom and strength by the Spirit of God, consisted for the most part, not of the wise or mighty among men, but of those whom the world despised. The whole history of the expansion of the Church is a progressive victory of the ignorant over the learned, the lowly over the lofty, until the emperor himself laid down his crown before the cross of Christ. God's calling is not based on wisdom, power, or lineage, but on His sovereign love. This challenges the standards of the flesh, valuing noble birth, wisdom, and power, highlighting how God's ways often confound the wisdom and expectations of the world.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 2.223499100577806,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.27,
+            "commentatorTierSimilarities": [
+                42.94,
+                28.3,
+                28.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Christian church, mostly comprised of those despised by the world, displayed divine wisdom and strength through the Spirit of God. As history shows, this expansion was a triumph of the ignorant over the learned and the lowly over the lofty. God's calling transcends human wisdom, power, and lineage, rooted instead in His sovereign love. This dismantles the worldly standards of noble birth, wisdom, and power, revealing how God's ways often defy human expectations and confound worldly wisdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.0105359130731415,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                43.93,
+                28.76,
+                27.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Christian church, empowered by the Spirit of God, often consisted of individuals despised by the world. The expansion of the church throughout history has shown a victory of the ignorant over the learned and the lowly over the lofty. God's calling is not based on human wisdom, power, or lineage, but on His sovereign love. This challenges the standards of the flesh, which value wisdom, power, and noble birth. Paul's argument reminds us that God's ways often confound the wisdom and expectations of the world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0319107990216088,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                40.69,
+                31.06,
+                28.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

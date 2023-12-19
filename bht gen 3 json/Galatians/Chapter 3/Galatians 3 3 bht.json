@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 14:13:00",
+    "verseRef": "Galatians 3:3",
+    "bestBHT": {
+        "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 2.1514474040652116,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+        "commentatorTierSimilarities": [
+            32.44,
+            37.46,
+            30.1
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Are ye so (to such an extent, emphatic) foolish (as viz. the following fact would prove)?\" ",
+            "having begun (understand \u2018the Christian life\u2019) in the Spirit (the Spirit, i.e. the Holy Spirit, guiding and ruling the spiritual life, as the \u2018essence and active principle\u201d of Christianity)",
+            "are ye now being completed in (as above) the flesh?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Having begun in the Spirit, that is, the Holy Spirit ruling your spiritual life as its 'essence and active principle.'\" ",
+            "Having begun your Christianity in the Spirit, that is, in the divine life that proceeds from faith, are ye seeking after something higher still (the perfecting of your Christianity) in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit, namely, outward ceremonies?\" ",
+            "The flesh may be easily mistaken for the Spirit, even by those who have made progress, unless they continue to maintain a pure faith."
+        ],
+        "Albert Barnes": [
+            "They had commenced their professedly Christian life under the influence of the Holy Spirit, and with the pure and spiritual worship of God.",
+            "You began your Christian career under the elevated and spiritual influences of Christianity, a system so pure and so exalted above the carnal ordinances of the Jews.",
+            "Many Christians begin their course in a spiritual manner, and end it 'in the flesh' in another sense. They soon conform to the world. They are brought under the influence of worldly appetites and propensities."
+        ],
+        "Marvin Vincent": [
+            "Having begun your Christian life in the Spirit",
+            "Are you coming to completion in the flesh?",
+            "The absurdity of expecting perfection on the Jewish basis of legal righteousness"
+        ],
+        "John Calvin": [
+            "As the doctrine of the gospel brought to you the Holy Spirit, the commencement of your course was spiritual; but now ye have fallen into a worse condition.\" ",
+            "You may be said to have fallen from the Spirit into the flesh.\" ",
+            "There was a strange inconsistency between their splendid commencement and their future progress."
+        ],
+        "Philip Schaff": [
+            "Having begun in the Spirit, are ye now ending (or finishing) in the flesh?\" ",
+            "A fine irony.\" ",
+            "'Spirit' and 'flesh' represent here the spiritual religion which makes man free, and the carnal religion which makes him a slave to outward forms and observances."
+        ],
+        "Archibald T. Robertson": [
+            "Are ye now perfected in the flesh?"
+        ],
+        "John Gill": [
+            "Is it possible you should be so stupid? and do you, or can you continue so?",
+            "They set out in a profession of religion...in a dependence on the grace and help of the divine Spirit.",
+            "Whereas they set out with the clear Gospel of Christ, and sought for justification only by his righteousness, they were now verging to the law, and seeking to make their justifying righteousness perfect."
+        ],
+        "John Wesley": [
+            "Are ye so thoughtless \u2014 As not to consider what you have yourselves experienced?\" ",
+            "Having begun in the Spirit - Having set out under the light and power of the Spirit by faith, do ye now, when ye ought to be more spiritual, and more acquainted with the power of faith, expect to be made perfect by the flesh?\" ",
+            "Do you think to complete either your justification or sanctification, by giving up that faith, and depending on the law, which is a gross and carnal thing when opposed to the gospel?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? It is absurd to expect perfection on the Jewish basis of legal righteousness. The flesh may be easily mistaken for the Spirit, even by those who have made progress, unless they continue to maintain a pure faith. Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+            "wordCount": 120,
+            "quoteTokenProportion": 41.77,
+            "qualityScore": 2.1227348019212773,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                34.8,
+                35.27,
+                29.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1514474040652116,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                32.44,
+                37.46,
+                30.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1514474040652116,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                32.44,
+                37.46,
+                30.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1514474040652116,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                32.44,
+                37.46,
+                30.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having begun your Christian life in the Spirit, that is, in the divine life that proceeds from faith, are you now seeking after something higher still in the sensuous and the earthly, which cannot possibly elevate the inner life of the Spirit? Don't fall into the trap of conforming to the world and being influenced by worldly appetites and propensities. Instead, continue to walk in the Spirit and rely on the grace and help of the Holy Spirit in your Christian journey.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 2.1514474040652116,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                32.44,
+                37.46,
+                30.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

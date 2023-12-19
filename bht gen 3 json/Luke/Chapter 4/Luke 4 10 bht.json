@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:14:45",
+    "verseRef": "Luke 4:10",
+    "bestBHT": {
+        "bht": "The importance of being guarded and protected by the Lord is emphasized, with the missing phrase in Matthew's version highlighting the significance of close and careful guarding. It is intriguing to observe how Satan intentionally omits this clause, distorting the meaning for his malicious purposes. Despite this omission, the message of God's providence and preservation remains clear, applicable to both Christ and any righteous person.",
+        "wordCount": 67,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.2684663081334273,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.52,
+        "commentatorTierSimilarities": [
+            40.98,
+            0.0,
+            59.02
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "10.] to keep thee is wanting in Matthew. The LXX, following the Hebrew, adds \u201cin all thy ways.\u201d"
+        ],
+        "Marvin Vincent": [
+            "The preposition implies close, careful guarding.",
+            "To guard thee.",
+            "The phrase, to guard thee, is wanting in Matthew."
+        ],
+        "John Gill": [
+            "It is an observation made long ago by Jerom, on Psalms 91:11 that Satan, in citing this text, has left out the middle clause, to keep thee in all thy ways, which he knew was against him, and has only taken that which made for him.",
+            "Supposing the clause omitted was added, he asks of what advantage it would be? since the two verses being connected together as they are, the sense with respect to God's providence and preservation, is clear enough and complete.",
+            "I am still of opinion, that the passage is applicable to Christ, as to any holy good man, yet it appears that Satan failed not, neither in the manner of citing it, nor in the application of it to Christ; but by wresting it to a wicked purpose."
+        ],
+        "John Wesley": [
+            "Psalm 91:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes the importance of being guarded and protected by the Lord, with the preposition indicating a close and careful guarding. The phrase to guard thee is missing in Matthew's version of the passage, but it is significant in highlighting the divine protection. It is notable that Satan deliberately leaves out this clause, as it goes against his intentions. Despite the omission, the sense of God's providence and preservation is still clear. While this passage can apply to any righteous individual, it is interesting to consider how Satan misuses it for his wicked purposes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.4295519423189378,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.88,
+            "commentatorTierSimilarities": [
+                44.91,
+                0.0,
+                55.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse highlights the need for close and careful guarding, emphasizing the divine protection provided by the Lord. The missing phrase in Matthew's account, which mentions guarding in all ways, is significant in understanding this protection. Interestingly, Satan deliberately omits this clause while citing the verse, distorting its meaning for his wicked purposes. Despite the omission, the overall message of God's providence and preservation remains clear, applicable not only to Christ but to any righteous individual.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.424479626572968,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.71,
+            "commentatorTierSimilarities": [
+                45.01,
+                0.0,
+                54.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The significance of being guarded by the Lord is emphasized in this passage, with the missing phrase in Matthew's version highlighting the importance of close and careful protection. It is interesting to note that Satan intentionally leaves out this clause while citing the text, distorting its meaning for wicked purposes. However, the overall message of God's providence and preservation remains evident, applicable not only to Christ but to any righteous person.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.3523378346548351,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.31,
+            "commentatorTierSimilarities": [
+                40.28,
+                0.0,
+                59.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse underscores the need for close and careful guarding, with the missing phrase in Matthew's account highlighting the significance of divine protection. It is intriguing to note Satan's deliberate omission of this clause while citing the text, distorting its meaning for wicked purposes. Nevertheless, the overall message of God's providence and preservation remains clear, applicable not only to Christ but also to any righteous individual.",
+            "wordCount": 69,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.2388617351559146,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.54,
+            "commentatorTierSimilarities": [
+                39.7,
+                0.0,
+                60.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The importance of being guarded and protected by the Lord is emphasized, with the missing phrase in Matthew's version highlighting the significance of close and careful guarding. It is intriguing to observe how Satan intentionally omits this clause, distorting the meaning for his malicious purposes. Despite this omission, the message of God's providence and preservation remains clear, applicable to both Christ and any righteous person.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.2684663081334273,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.52,
+            "commentatorTierSimilarities": [
+                40.98,
+                0.0,
+                59.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

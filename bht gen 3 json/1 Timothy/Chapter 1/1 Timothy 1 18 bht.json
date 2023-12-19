@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:28:16",
+    "verseRef": "1 Timothy 1:18",
+    "bestBHT": {
+        "bht": "I commit this charge to you, my child Timothy, according to the former prophecies concerning you. It is not just a fight, but the whole campaign, the good warfare that you must engage in. Hold fast to faith and a good conscience, so that you do not make shipwreck concerning the faith. By them, you will wage a good warfare, fulfilling your high calling both as a Christian and as a minister officially entrusted with this sacred deposit.",
+        "wordCount": 78,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 1.9515479663892945,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+        "commentatorTierSimilarities": [
+            38.1,
+            24.17,
+            37.74
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This command I commit (as a deposit, to be faithfully guarded and kept) unto thee, my child Timothy, according to the former prophecies concerning thee.",
+            "That thou mayest war in them the good warfare.",
+            "Holding [fast] faith, and good conscience... which some having thrust from them made shipwreck concerning the faith."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This charge\u2014namely, 'that thou in them mightest war,' that is, fulfill thy high calling, not only as a Christian, but as a minister officially.",
+            "I commit\u2014as a sacred deposit to be laid before thy hearers.",
+            "Not the mere 'fight,' but the whole campaign; the military service. Translate as Greek, not 'a,' but 'the good warfare.'"
+        ],
+        "Albert Barnes": [
+            "From early life the hope had been entertained that he would be a man to whom important trusts might be committed; and it had been predicted that he would be distinguished as a friend of religion.",
+            "When a young man enters on the active duties of life, and when great interests are entrusted to him, it is not improper to remind him of the hopes which had been cherished of him; of the anticipations which had been formed of his future usefulness; and of the expressions which have been used by the pious and the discerning respecting his future character.",
+            "The Christian life is often compared to a warfare or struggle for victory, and the services of the Christian ministry especially are likened to those of a soldier... He 'wars a good warfare' who is engaged in a righteous cause; who is faithful to his commander and to his post; who is unslumbering in observing the motions of the enemy, and fearless in courage in meeting them."
+        ],
+        "Marvin Vincent": [
+            "I commit this charge unto thee in accordance with prophetic intimations which I formerly received concerning thee.",
+            "Prophecy is ranked among the foremost of the special spiritual endowments enumerated by Paul.",
+            "Not flight, but covering all the particulars of a soldier's service."
+        ],
+        "John Calvin": [
+            "By calling him his son, he not only expresses his own warm regard towards him, but also recommends him to others under that name.",
+            "It was not without reason that Paul made use of the plural number. Accordingly, we conclude from these words that several prophecies were uttered concerning Timothy, in order to recommend him to the Church.",
+            "That warfare which we maintain, having God for our leader, is a good warfare; that is, it is glorious and successful."
+        ],
+        "Philip Schaff": [
+            "After the ecstasy of praise is over, the writer returns to the 'charge' or 'commandment' from which he had diverged.",
+            "The words point to some unrecorded event in the life of Timothy.",
+            "By them mightest war a good warfare, the campaign of truth against falsehood, of good against evil."
+        ],
+        "Archibald T. Robertson": [
+            "I commit (\u03c0\u03b1\u03c1\u03b1\u03c4\u03b9\u03b8\u03b5\u03bc\u03b1). Present middle indicative of old and common verb, to place beside (\u03c0\u03b1\u03c1\u03b1) as food on table, in the middle to entrust (Luke 12:48) and used by Jesus as he was dying (Luke 23:46).\" ",
+            "He began his ministry rich in hopes, prayers, predictions.",
+            "That by them thou mayest war the good warfare (\u03b9\u03bd\u03b1 \u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03c5\u03b7 \u03b5\u03bd \u03b1\u03c5\u03c4\u03b1\u03b9\u03c2 \u03c4\u03b7\u03bd \u03ba\u03b1\u03bb\u03b7\u03bd \u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03b9\u03b1\u03bd)."
+        ],
+        "John Gill": [
+            "After a digression the apostle had made concerning himself, his conversion, and call to the ministry, he returns to his former subject, and original design.\" ",
+            "By which are meant, not the prophecies of the Old Testament, though of these Timothy had a considerable share of knowledge from a child, and was hereby greatly qualified to have such a charge committed to him.",
+            "That in consideration of the charge committed to him, and the prophecies that went before of him, [Timothy] might be the more industrious to fulfil his ministry, is signified by a warfare."
+        ],
+        "John Wesley": [
+            "This charge I commit to thee \u2014 That thou mayest deliver it to the church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I commit this command to you, my child Timothy, in accordance with the prophecies that were made about you, so that you may engage in the good warfare. It is not just a fight, but a whole campaign, a military service, entrusted to you. The Christian life is often compared to a warfare, and the services of the Christian ministry are likened to those of a soldier. By them, you will wage a good warfare, fighting for truth against falsehood and good against evil. So, I urge you to hold fast to faith and a good conscience, not making shipwreck concerning the faith, but fulfilling your high calling both as a Christian and as a minister.",
+            "wordCount": 116,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.9489622130640467,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.14,
+            "commentatorTierSimilarities": [
+                36.61,
+                31.68,
+                31.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I commit this charge to you, my child Timothy, in accordance with the former prophecies concerning you. It is not just a fight, but a whole campaign, a military service, entrusted to you. By them, you will wage a good warfare, fighting for truth against falsehood and good against evil. Hold fast to faith and a good conscience, not making shipwreck concerning the faith, but fulfilling your high calling as a minister.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.922999151320174,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                37.57,
+                27.19,
+                35.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I commit this charge to you, my child Timothy, as a sacred deposit that should be faithfully guarded and kept. It is a command given to you in accordance with the prophetic intimations about your future. This is not just a fight, but a whole campaign, a good warfare that you must engage in, fulfilling your high calling as a minister. Hold fast to faith and a good conscience, so that you do not make shipwreck concerning the faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.8825144370981883,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                37.8,
+                25.28,
+                36.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I commit this charge to you, my child Timothy, according to the former prophecies concerning you. It is not just a fight, but the whole campaign, the good warfare that you must engage in. Hold fast to faith and a good conscience, so that you do not make shipwreck concerning the faith. By them, you will wage a good warfare, fulfilling your high calling both as a Christian and as a minister officially entrusted with this sacred deposit.",
+            "wordCount": 78,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.9515479663892945,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                38.1,
+                24.17,
+                37.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This command I commit unto thee, my child Timothy, according to the former prophecies concerning thee, that thou mayest war in them the good warfare. I commit this charge unto thee in accordance with prophetic intimations which I formerly received concerning thee. The Christian life is often compared to a warfare or struggle for victory, and the services of the Christian ministry especially are likened to those of a soldier... He 'wars a good warfare' who is engaged in a righteous cause; who is faithful to his commander and to his post; who is unslumbering in observing the motions of the enemy, and fearless in courage in meeting them.",
+            "wordCount": 109,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.1200056403465073,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.83,
+            "commentatorTierSimilarities": [
+                34.67,
+                32.48,
+                32.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

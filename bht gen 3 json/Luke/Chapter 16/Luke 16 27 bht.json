@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:20:47",
+    "verseRef": "Luke 16:27",
+    "bestBHT": {
+        "bht": "The rich man, now awakened to the truth, sympathizes with his brethren, emphasizing the misery the lost spirits endure due to their elevated faculties and feelings. In his plea to send someone to his father's house, he bitterly reproaches God and the old economy for not warning him sufficiently. Though the rich man's request may be used to justify prayer to saints, there is no communication between Abraham and his brothers. Nonetheless, the rich man's concern for others in his state of torment is evident.",
+        "wordCount": 88,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.5235087606311155,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.0,
+        "commentatorTierSimilarities": [
+            47.51,
+            0.0,
+            52.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His eyes are now opened to the truth; and no wonder that his natural sympathies are awakened for his brethren.\" ",
+            "That a lost spirit should feel and express such sympathy, is not to be wondered at.\" ",
+            "The misery of such will be very much heightened by the awakened and active state of those higher faculties and feelings which selfishness and the body kept down here."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Abandoning all hope for himself.",
+            "No waking up of good in the heart of the lost, but bitter reproach against God and the old economy, as not warning him sufficiently.",
+            "They are sufficiently warned."
+        ],
+        "Marvin Vincent": [
+            "Send him to my father's house.",
+            "But when thou art again in the sweet world, I pray thee to the mind of others bring me.",
+            "Inferno, 6, 88."
+        ],
+        "John Calvin": [
+            "Here the Papists exercise their ingenuity very foolishly, by attempting to prove that the dead feel solicitude about the living.",
+            "If no man holds such extravagant views, the Papists are not entitled to congratulate themselves on the other supposition.",
+            "It is not my intention, however, to debate the point, or to defend either one side or another; but I thought it right to advert, in passing, to the futility of the arguments on which they rest their belief that the dead intercede with God on our behalf."
+        ],
+        "Archibald T. Robertson": [
+            "The Roman Catholics probably justify prayer to saints from this petition from the Rich Man to Abraham, but both are in Hades (the other world).",
+            "It is to be observed besides, that Abraham makes no effort to communicate with the five brothers.",
+            "But heavenly recognition is clearly assumed."
+        ],
+        "John Gill": [
+            "I pray thee therefore father, that thou wouldst send him to my father's house.\" ",
+            "Finding he could have no redress of his misery, nor any relief for himself, he applies for others.",
+            "The dead seek for mercy for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The rich man's eyes are opened to the truth and his sympathy for his brethren is awakened. His misery is intensified by his awakened higher faculties and feelings, as selfishness and the body no longer keep them down. He abandons all hope for himself and bitterly reproaches God and the old economy. Although the rich man asks Abraham to send someone to warn his brothers, there is no communication between Abraham and them. The rich man's request does not justify prayer to saints or the belief that the dead intercede with God on our behalf. Nevertheless, the rich man's plea shows a concern for the well-being of others even in his state of torment.",
+            "wordCount": 118,
+            "quoteTokenProportion": 44.87,
+            "qualityScore": 1.4813433073055404,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.6,
+            "commentatorTierSimilarities": [
+                47.84,
+                0.0,
+                52.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rich man, now aware of the truth, shows sympathy for his brethren and expresses anguish at his own hopeless situation. His elevated faculties intensify his suffering, and he reproaches God and the old system for not sufficiently warning him. While he pleads for someone to be sent to his father's house, there is no attempt by Abraham to communicate with the living. The rich man's request does not justify the practice of praying to saints. Nonetheless, his plea highlights his concern for others, even in the midst of his torment.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.4116103067293833,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.28,
+            "commentatorTierSimilarities": [
+                44.7,
+                0.0,
+                55.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rich man, now awakened to the truth, exhibits sympathy for his brothers while abandoning hope for himself. His heightened faculties and feelings amplify his suffering in the afterlife. Although he reproaches God and the old economy for insufficient warning, his plea to send someone to his father's house does not indicate communication with the living. This request does not justify prayer to saints or the belief in intercession of the dead. Nonetheless, the rich man's concern for others amidst his torment is evident.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.4576107912979057,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                44.84,
+                0.0,
+                55.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rich man, now awakened to the truth, sympathizes with his brethren, emphasizing the misery the lost spirits endure due to their elevated faculties and feelings. In his plea to send someone to his father's house, he bitterly reproaches God and the old economy for not warning him sufficiently. Though the rich man's request may be used to justify prayer to saints, there is no communication between Abraham and his brothers. Nonetheless, the rich man's concern for others in his state of torment is evident.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.5235087606311155,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.0,
+            "commentatorTierSimilarities": [
+                47.51,
+                0.0,
+                52.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The rich man, now awakened to the truth, feels sympathy for his brethren, highlighting the heightened misery of those in the afterlife due to their active higher faculties and feelings. While he bitterly reproaches God and the old economy for insufficient warning, his plea to send someone to his father's house does not result in any communication with the living. Although the rich man's request may be misconstrued to justify prayer to saints, the passage does not support the belief in the intercession of the dead. Nevertheless, the rich man's concern for others is evident in his plea amidst his own torment.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.5428019302105338,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.64,
+            "commentatorTierSimilarities": [
+                42.9,
+                0.0,
+                57.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:19:21",
+    "verseRef": "Luke 13:4",
+    "bestBHT": {
+        "bht": "Jesus mentions these incidents to emphasize the accountability of his audience and uses these public events to teach spiritual lessons. While it is incorrect to assume that the victims were greater sinners or that their state was worse, it is important to recognize that all sufferings, whether caused by human actions or accidents, are ultimately under God's control. In Jerusalem, there may have been individuals who appeared religious and pious, but were as sinful, if not more so, than those who suffered in these events.",
+        "wordCount": 86,
+        "quoteTokenProportion": 47.14,
+        "qualityScore": 1.6732864120151092,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+        "commentatorTierSimilarities": [
+            26.65,
+            23.97,
+            49.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Whether the hand of man or (so-called) accidents, lead to inflictions of this kind, it is in fact but one Hand which doeth it all.\" ",
+            "There is also a transference from the Galil\u00e6ans\u2014a despised people\u2014to the inhabitants of Jerusalem, on whom the fulness of God\u2019s wrath was to be poured out in case of impenitence.",
+            "No such idea as that the tower was a prison for debtors is for a moment to be thought of."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4, 5. tower in Siloam\u2014probably",
+            "\tone of the towers of the city wall, near the pool of Siloam. Of its",
+            "\tfall nothing is known."
+        ],
+        "Albert Barnes": [
+            "Jesus himself adds another similar case, to warn them - a case which had probably occurred not long before, and which it is likely they judged in the same manner.",
+            "The water at present flows out of a small artificial basin under the cliff, and is received into a large reservoir 53 feet in length by 18 feet in breadth.",
+            "It is probable that it was not far from the time when the Saviour made use of the illustration, for the manner in which he refers to it implies that it was fresh in the recollection of those to whom he spoke."
+        ],
+        "Marvin Vincent": [
+            "Sinners [\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03c4\u03b1\u03b9] . Lit., debtors. Possibly with reference to the figure at the close of the last chapter. Compare Matthew 5:25; Matthew 6:12; Matthew 18:24; Luke 11:4."
+        ],
+        "Philip Schaff": [
+            "Those eighteen. An allusion to an occurrence then well known, but about which we have no further information.",
+            "The tower in Siloam. Probably a tower of the city wall near the pool of Siloam, or in that district, which may have been called by the name of the pool.",
+            "This accident (as it is supposed to have been) is classed by our Lord with the slaughter by Pilate. All such events are under God\u2019s control."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus mentions this accident (only in Luke) of his own accord to illustrate still further the responsibility of his hearers.",
+            "Jesus makes use of public events in both these incidents to teach spiritual lessons.",
+            "Offenders (\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03c4\u03b1). Literally, debtors, not sinners as in verse Luke 13:2."
+        ],
+        "John Gill": [
+            "not in the former case, so neither in this was it to be concluded from hence, that they were sinners of a greater size, or their state worse than that of other men",
+            "for as sins are called debts, Matthew 6:12 so sinners are called debtors",
+            "there might be, and doubtless there were, as great, or greater sinners, in that holy city, and among such that made great pretensions to religion and holiness, as they were"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Both incidents mentioned in this verse serve as reminders of the responsibility everyone bears. It is essential to recognize that all sufferings, whether caused by human action or accidents, are ultimately under the sovereign control of God's hand. This is exemplified by Jesus connecting the tower's collapse in Siloam, which may have been a tower near the pool, and the massacre of the Galileans in Jerusalem. By utilizing these public events, Jesus seeks to teach spiritual lessons and highlight the accountability of his audience. It is imperative not to misconstrue these calamities as indications of greater sinfulness, for Jerusalem itself housed individuals who were just as sinful, if not more so, despite their outward appearances of religious devotion.",
+            "wordCount": 120,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5704036715555891,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
+            "commentatorTierSimilarities": [
+                34.32,
+                28.57,
+                37.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These incidents exemplify the responsibility we all carry, as any afflictions, whether caused by human actions or accidents, are ultimately in God's hands. Jesus uses these public events to teach important spiritual lessons and underline the accountability of his listeners. It is crucial not to misinterpret these occurrences as indicators of greater sinfulness, as Jerusalem housed individuals who were just as sinful, if not more so, despite their outward display of religious devotion.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5424664812524869,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                29.29,
+                25.81,
+                44.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus mentions these incidents to illustrate the responsibility of his audience, emphasizing that sufferings are under God's control. By using these public events as examples, he teaches spiritual lessons and highlights accountability. It is important not to conclude from these incidents that the victims were greater sinners or that their state was worse. In reality, there were likely individuals in Jerusalem, who claimed to be religious and pious, yet were as sinful, if not more so, than those who suffered in these events.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.97,
+            "qualityScore": 1.6153363093803301,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.05,
+            "commentatorTierSimilarities": [
+                28.06,
+                23.88,
+                48.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus mentions these incidents to emphasize the accountability of his audience and uses these public events to teach spiritual lessons. While it is incorrect to assume that the victims were greater sinners or that their state was worse, it is important to recognize that all sufferings, whether caused by human actions or accidents, are ultimately under God's control. In Jerusalem, there may have been individuals who appeared religious and pious, but were as sinful, if not more so, than those who suffered in these events.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.6732864120151092,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.98,
+            "commentatorTierSimilarities": [
+                26.65,
+                23.97,
+                49.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These incidents exemplify the responsibility we all carry, as any afflictions, whether caused by human actions or accidents, are ultimately in God's hands. Jesus uses these public events to teach important spiritual lessons and underline the accountability of his listeners. It is crucial not to misinterpret these occurrences as indicators of greater sinfulness, for Jerusalem itself housed individuals who were just as sinful, if not more so, despite their outward displays of religious devotion.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.5255120489073881,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.07,
+            "commentatorTierSimilarities": [
+                29.4,
+                25.2,
+                45.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

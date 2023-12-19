@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:33:55",
+    "verseRef": "Acts 20:6",
+    "bestBHT": {
+        "bht": "Paul and his companions faced adverse winds on their voyage from Troas to Philippi, which took about two days. They arrived on a Monday, indicating that they spent the winter months in Corinth. It is worth noting that Paul, as a Jew and a Christian, observed Jewish feasts, while Luke may have noted them because of Paul's observance. The length of the voyage suggests that they were hindered by contrary winds or calm seas. However, after they arrived in Troas, they waited for Paul and his companions for five days before setting sail again.",
+        "wordCount": 95,
+        "quoteTokenProportion": 46.38,
+        "qualityScore": 1.8855395626297948,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+        "commentatorTierSimilarities": [
+            30.72,
+            32.57,
+            36.71
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The wind must have been adverse.",
+            "The voyage from Troas to Philippi seems to have been made in two days.",
+            "They arrived on a Monday."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This, compared with 1 Corinthians 16:8, shows that the three months spent at Corinth were the winter months.",
+            "(See on 1 Corinthians 16:8- : and Acts 20:2).",
+            "The vivid style of one now present will be here again observed."
+        ],
+        "Albert Barnes": [
+            "After the seven days of the Passover, during which they ate only unleavened bread.",
+            "Paul, when he crossed it on a former occasion, did it in two days Acts 16:11-12; but the navigation of the sea is uncertain.",
+            "They were now probably hindered by contrary winds."
+        ],
+        "Marvin Vincent": [
+            "In five days [\u03b1\u03c7\u03c1\u03b9\u03c2 \u03b7\u03bc\u03b5\u03c1\u03c9\u03bd \u03c0\u03b5\u03bd\u03c4\u03b5] . Lit., \"up to five days,\" indicating the duration of the voyage from Philippi."
+        ],
+        "Philip Schaff": [
+            "This lengthy voyage was, no doubt, owing to contrary winds, or perhaps to a calm.",
+            "On a former occasion, we read of this voyage being made in two days.",
+            "see Acts 16:11"
+        ],
+        "Archibald T. Robertson": [
+            "Paul was a Jew, though a Christian, and observed the Jewish feasts, though he protested against Gentiles being forced to do it.",
+            "Was Luke a proselyte because he notes the Jewish feasts...? He may have noted them merely because Paul observed them.",
+            "Now he preaches a week to them."
+        ],
+        "John Gill": [
+            "The passover was only kept at Jerusalem, and besides was now abolished, and not to be observed by Christians.",
+            "They came to Troas within five days after the above six persons had got thither; so that they waited at Troas but five days for the apostle, and those that accompanied him.",
+            "They came into Troas on the Lord's day evening, or early on Monday morning, and stayed there till the next Lord's day, or first day of the week."
+        ],
+        "John Wesley": [
+            "We set sail \u2014 St. Luke was now with St. Paul again, as we learn from his manner of expressing himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul and his companions faced adverse winds on their voyage from Troas to Philippi, which took about two days. They arrived on a Monday, indicating that they spent the winter months in Corinth. It is worth noting that Paul, as a Jew and a Christian, observed Jewish feasts, while Luke may have noted them because of Paul's observance. The length of the voyage suggests that they were hindered by contrary winds or calm seas. However, after they arrived in Troas, they waited for Paul and his companions for five days before setting sail again.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.8855395626297948,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                30.72,
+                32.57,
+                36.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and his companions encountered adverse winds during their two-day voyage from Troas to Philippi. They arrived on a Monday, signifying their winter stay in Corinth. Luke, who was with Paul, may have noted the Jewish feasts due to Paul's observance. The lengthy voyage suggests hindrances such as contrary winds or calm seas. After reaching Troas, they waited for five days before setting sail again.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.7680944502395048,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                29.36,
+                34.5,
+                36.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and his companions faced adverse winds on their voyage from Troas to Philippi, which took about two days. They arrived on a Monday, indicating that they spent the winter months in Corinth. It is worth noting that Paul, as a Jew and a Christian, observed Jewish feasts, while Luke may have noted them because of Paul's observance. The length of the voyage suggests that they were hindered by contrary winds or calm seas. However, after they arrived in Troas, they waited for Paul and his companions for five days before setting sail again.",
+            "wordCount": 95,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.8855395626297948,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                30.72,
+                32.57,
+                36.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and his companions encountered adverse winds during their two-day voyage from Troas to Philippi. They arrived on a Monday, signifying their winter stay in Corinth. Luke, who was with Paul, may have noted the Jewish feasts due to Paul's observance. The lengthy voyage suggests hindrances such as contrary winds or calm seas. After reaching Troas, they waited for five days before setting sail again.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.7680944502395048,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                29.36,
+                34.5,
+                36.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and his companions faced adverse winds on their voyage from Troas to Philippi, which took about two days. They arrived on a Monday, indicating their winter stay in Corinth. Paul, being both a Jew and a Christian, observed Jewish feasts, and Luke may have noted them in relation to Paul's observance. The duration of the voyage suggests hindrances like contrary winds or calm seas. After arriving in Troas, they waited for Paul and his companions for five days before setting sail again.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.841213893585539,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                31.29,
+                32.2,
+                36.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

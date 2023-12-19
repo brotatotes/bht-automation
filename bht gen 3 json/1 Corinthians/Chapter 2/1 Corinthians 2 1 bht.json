@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:00:26",
+    "verseRef": "1 Corinthians 2:1",
+    "bestBHT": {
+        "bht": "When Paul arrived in Corinth, he purposely avoided impressive rhetoric or philosophical wisdom to proclaim the testimony of God. Instead, he chose to declare the mystery of Christ crucified in plain language, without any excellence of speech or wisdom. By forgoing rhetorical display and intellectual prowess, Paul emphasized that God's power was manifested through his ministry. Through his humble approach, Paul magnified the divine revelation and underscored the significant impact of Christ's sacrifice, which was once hidden but now made known in Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 31.75,
+        "qualityScore": 2.2786034309537264,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+        "commentatorTierSimilarities": [
+            34.84,
+            33.1,
+            32.05
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I (as one of the we of i. 23, and also with reference to the preceding verse, He that glorieth, let Him glory in the Lord), when I came to you, brethren, came declaring unto you the testimony of God, not with excellency of speech or of wisdom."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As one of the 'foolish, weak, and despised' instruments employed by God.",
+            "Paul might, had he pleased, have used an ornate style, having studied secular learning at Tarsus of Cilicia.",
+            "The same three, by God's marvellous providence, met together in the apostle to the Gentiles."
+        ],
+        "Albert Barnes": [
+            "Came not with excellency of speech - Came not with graceful and attractive eloquence.",
+            "It is certain he never made them an object of intense study and solicitude.",
+            "The testimony or the witnessing which God has borne to the gospel of Christ by miracles, and by attending it everywhere with his presence and blessing."
+        ],
+        "Marvin Vincent": [
+            "With excellency [\u03ba\u03b1\u03b8 \u03c5\u03c0\u03b5\u03c1\u03bf\u03c7\u03b7\u03bd] . Lit., according to elevation or superiority. The noun occurs only here and 1 Timothy 2:2, where it is rendered authority.\" ",
+            "Declaring [\u03ba\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03bb\u03c9\u03bd] . Rev., proclaiming. See on 1 John 1:5; Acts 17:23. Authoritative proclamation is implied. The word is found only in the Acts and in Paul.\" ",
+            "Testimony [\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03bf\u03bd] . Some of the best texts read musthrion mystery. So Rev. See on Romans 11:25."
+        ],
+        "John Calvin": [
+            "He allows therefore that he had not had any of the aids of human eloquence or wisdom to qualify him for producing any effect, but while he acknowledges himself to be destitute of such resources, he hints at the inference to be drawn from this \u2014 that the power of God shone the more illustriously in his ministry, from its standing in no need of such helps.",
+            "The power of God shone the more illustriously in his ministry.",
+            "He published the testimony of God."
+        ],
+        "Philip Schaff": [
+            "And I, brethren, when I came unto you, came not with excellency of speech (as a rhetorician), or of wisdom (as a philosopher), proclaiming to you the testimony of God that concerns His Son.",
+            "The evidence for the received reading, given above, appears to us stronger, and with Meyer we think the word 'mystery' crept in here from 1 Corinthians 2:7.",
+            "But the evidence for the received reading, given above, appears to us stronger, and with Meyer we think the word 'mystery' crept in here from 1 Corinthians 2:7."
+        ],
+        "Archibald T. Robertson": [
+            "Not in excellence of rhetorical display or of philosophical subtlety.",
+            "Christ crucified is the mystery of God.",
+            "This mystery was once hidden from the ages, but is now made plain in Christ."
+        ],
+        "John Gill": [
+            "He chose not such a high and florid style, and which savoured so much of human wisdom and art.",
+            "For what he delivered were plain matters of fact, attested by God himself.",
+            "It was enough in plain words, and easy language, to declare it, with the evidence by which it was supported."
+        ],
+        "John Wesley": [
+            "I accordingly came to you, not with loftiness of speech or of wisdom - I did not affect either deep wisdom or eloquence.",
+            "I did not affect either deep wisdom or eloquence.",
+            "Declaring the testimony of God \u2014 What God gave me to testify concerning his Son."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Paul arrived in Corinth to share the testimony of God, he deliberately avoided using impressive rhetoric or philosophical subtlety. Instead, he humbly proclaimed the mystery of Christ crucified. Paul's purpose was not to dazzle with intellectual prowess or persuasiveness, but to emphasize the power of God at work in his ministry. By choosing to present the truth plainly and without ornamentation, Paul allowed the evidence of God's testimony to shine through. His reliance on the simple message of Christ's sacrifice showcased the profoundness of the mystery and highlighted God's handiwork in making it known to all.",
+            "wordCount": 101,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.146853025675905,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+            "commentatorTierSimilarities": [
+                34.55,
+                33.24,
+                32.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Arriving in Corinth, Paul did not rely on eloquence or worldly wisdom to proclaim the testimony of God. Instead, he humbly shared the mystery of Christ crucified, allowing the power of God to shine through his unadorned message. By eschewing rhetorical display and philosophical subtlety, Paul emphasized that the truth he proclaimed was not based on human wisdom, but on the revelation of God. His simplicity in declaring the mystery of Christ's sacrifice highlighted the divine hand behind its revelation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2481878737191554,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+            "commentatorTierSimilarities": [
+                34.67,
+                32.78,
+                32.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Paul came to Corinth, he intentionally chose not to rely on eloquence or philosophical wisdom to convey the testimony of God about His Son. Instead, Paul declared the mystery of Christ crucified in plain language, devoid of any ornate style. By forsaking rhetorical display and intellectual prowess, Paul highlighted that the power of God was at work in his ministry, making known the once-hidden mystery of Christ to all. Through his humble approach, Paul magnified the divine revelation and the significance of Christ's sacrifice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.207766990718011,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.75,
+            "commentatorTierSimilarities": [
+                36.6,
+                33.25,
+                30.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Paul arrived in Corinth, he purposely avoided impressive rhetoric or philosophical wisdom to proclaim the testimony of God. Instead, he chose to declare the mystery of Christ crucified in plain language, without any excellence of speech or wisdom. By forgoing rhetorical display and intellectual prowess, Paul emphasized that God's power was manifested through his ministry. Through his humble approach, Paul magnified the divine revelation and underscored the significant impact of Christ's sacrifice, which was once hidden but now made known in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.2786034309537264,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+            "commentatorTierSimilarities": [
+                34.84,
+                33.1,
+                32.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, in his visit to Corinth, deliberately refrained from using eloquence or worldly wisdom to proclaim the testimony of God. Instead, he opted to share the mystery of Christ crucified in simple terms, devoid of any extravagant style. By eschewing rhetorical display and intellectual sophistication, Paul aimed to emphasize the power of God at work in his ministry. Through his humble approach, Paul highlighted the divine revelation of the once-hidden mystery of Christ's sacrifice, now made plain and accessible to all in Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.127489580698215,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.08,
+            "commentatorTierSimilarities": [
+                35.35,
+                33.08,
+                31.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

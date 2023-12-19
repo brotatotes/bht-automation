@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:33:27",
+    "verseRef": "Acts 19:8",
+    "bestBHT": {
+        "bht": "For three months, Paul spake boldly, persuading and endeavoring to persuade the synagogue attendees of the truth of the kingdom of God. His arguments were strong, reasoned, and demonstrated with great freedom of speech and courage. Through his teachings, Paul aimed to open a door for the gospel, emphasizing the significance of the church which Jesus, God's Son, had established with His own blood. He knew that profound disputations alone could not make people obedient to God, but godly admonitions would be the true catalyst for obedience.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.85,
+        "qualityScore": 1.6060083300061274,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+        "commentatorTierSimilarities": [
+            24.28,
+            41.49,
+            34.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "8-10. he went into the synagogue and",
+            "\tspake boldly for . . . three months, &amp;c.\u2014See on :-."
+        ],
+        "Albert Barnes": [
+            "Persuading the things - Endeavoring to persuade them of the truth of what was affirmed respecting the kingdom of God."
+        ],
+        "John Calvin": [
+            "And he saith that Paul behaved himself boldly, that we may know that he was not therefore heard by the space of three months, because he did craftily cover the doctrine of the gospel, or did insinuate himself by certain dark crooks.",
+            "For no profound disputations shall make us obedient to God, unless we be moved with godly admonitions.",
+            "\u2018Ut januam regno Dei aperirent,\u2019 that they might open a door for the gospel."
+        ],
+        "Philip Schaff": [
+            "Very short is the account which the writer of the 'Acts' gives us of the long residence of Paul at Ephesus, nearly three years altogether.\" ",
+            "In these three quiet eventful years, not only were the foundations of the great Ephesian Church laid by Paul and his chosen companion, but also the early stories of those famous Christian congregations known as the churches of Asia.\" ",
+            "Disputing and persuading the things concerning the kingdom of God. We can form some idea of these disputes and arguments from the well-known dialogue of Justin Martyr with the Jew Trypho, the scene of which was laid at Ephesus only a few years after Paul\u2019s work in that city."
+        ],
+        "Archibald T. Robertson": [
+            "Spake boldly (\u03b5\u03c0\u03b1\u03c1\u03c1\u03b7\u03c3\u03b9\u03b1\u03b6\u03b5\u03c4\u03bf). Imperfect middle, kept on at it for three months.\" ",
+            "Persuading (\u03c0\u03b5\u03b9\u03b8\u03c9\u03bd). Present active conative participle of \u03c0\u03b5\u03b9\u03b8\u03c9, trying to persuade (Acts 28:23).\" ",
+            "Paul's idea of the Kingdom of God was the church of God which he (Jesus, God's Son) had purchased with his own blood (Acts 20:28, calling Christ God)."
+        ],
+        "John Gill": [
+            "And he went into the synagogue.... and had laid his hands on them.",
+            "he used great freedom of speech, and showed much courage and intrepidity of mind",
+            "these things he reasoned upon in such a strong and nervous manner, and made use of such powerful arguments, in proof and demonstration of them"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For three months, Paul spoke boldly and persuasively in the synagogue, endeavoring to persuade the people of the truth about the kingdom of God. He passionately argued and reasoned, using powerful and strong arguments to demonstrate the reality of the church, which Jesus, God's Son, had established with His own blood. During this time, Paul showed great courage and intrepidity, laying the foundations of the Ephesian Church and the early stories of the churches in Asia. His aim was to open a door for the gospel, knowing that profound disputations alone would not make people obedient to God, but only through the power of godly admonitions.",
+            "wordCount": 107,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.620754166821848,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.23,
+            "commentatorTierSimilarities": [
+                23.44,
+                44.77,
+                31.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For three months, Paul spake boldly, persuading and endeavoring to persuade the synagogue attendees of the truth of the kingdom of God. His arguments were strong, reasoned, and demonstrated with great freedom of speech and courage. Through his teachings, Paul aimed to open a door for the gospel, emphasizing the significance of the church which Jesus, God's Son, had established with His own blood. He knew that profound disputations alone could not make people obedient to God, but godly admonitions would be the true catalyst for obedience.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.6060083300061274,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                24.28,
+                41.49,
+                34.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For three months, Paul spoke boldly in the synagogue, persuading the people with strong and powerful arguments about the kingdom of God. His aim was to open a door for the gospel, emphasizing the church established by Jesus with His own blood. Paul's teachings were not merely shallow, but rooted in deep conviction and courageousness, showing his dedication to spreading the truth. He understood that merely engaging in profound disputes wouldn't lead to obedience, but rather it required godly admonitions to truly move people's hearts.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.595785417920024,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.4,
+            "commentatorTierSimilarities": [
+                25.53,
+                41.77,
+                32.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For three months, Paul fearlessly and persistently spoke in the synagogue, passionately persuading the listeners about the kingdom of God. His relentless efforts to convince others about the truth were backed by strong arguments and demonstrations of great courage and intrepidity. Paul's goal was to open a door for the gospel, highlighting the church as the result of Jesus, God's Son, purchasing it with His own blood. He recognized that it wasn't through profound disputations alone, but through godly admonitions that hearts could be truly moved to obedience.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5405530294023766,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                25.38,
+                40.61,
+                34.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For three months, Paul boldly and persistently spoke in the synagogue, trying to persuade the listeners about the truth of the kingdom of God. His passionate and courageous arguments, delivered with freedom of speech, aimed to open the door for the gospel. Paul emphasized the significance of the church, which Jesus, God's Son, had established with His own blood. He understood that profound disputations alone were not enough for obedience, but needed to be accompanied by godly admonitions to truly move hearts.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.5711444109558164,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.58,
+            "commentatorTierSimilarities": [
+                26.0,
+                40.17,
+                33.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

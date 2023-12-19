@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:15:19",
+    "verseRef": "2 Corinthians 1:24",
+    "bestBHT": {
+        "bht": "Our desire is to bring you joy, not to exert dominance over your faith. Like buttresses supporting a sacred building, we lean on each other as helpers of your joy. It is through faith that you stand, and because of this, we are diligent in assisting your faith, which is the source of true joy. We correct any misapprehensions with gentleness, for our goal is to promote your highest happiness. Faith must be free and exempt from the control of men, and faith ultimately stands in submission only to God.",
+        "wordCount": 90,
+        "quoteTokenProportion": 48.44,
+        "qualityScore": 1.834095858303645,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+        "commentatorTierSimilarities": [
+            34.41,
+            33.41,
+            32.18
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not that we lord it over your faith. His desire is to cause them not sorrow, but 'joy.'\" ",
+            "The Greek for 'helpers' implies a mutual leaning, one on the other, like the mutually supporting buttresses of a sacred building.",
+            "By faith, you stand; therefore it is that I bestow such pains in 'helping' your faith, which is the source of all true 'joy'."
+        ],
+        "Albert Barnes": [
+            "Our object was to promote your highest happiness. We, therefore, chose the mildest and gentlest manner possible; we did not exercise authority in discipline, we sent an affectionate and tender letter.",
+            "Faith must be free, and religion must be free, or they cannot exist at all.",
+            "If we suffer much in the cause of the Redeemer, we may also expect much consolation."
+        ],
+        "John Calvin": [
+            "For faith ought to be altogether exempt, and to the utmost extent free, from the yoke of men.",
+            "Yet he acknowledges, that it does not belong to him. Hence we infer, that faith owns no subjection except to the word of God, and that it is not at all in subjection to human control.",
+            "Thus he removes that unjust dominion, with which, he had a little before declared, he was not chargeable."
+        ],
+        "Philip Schaff": [
+            "Not that we have lordship over your faith 'not domineering over you in things spiritual.'",
+            "Well may we disclaim any such undue interference ; for ye stand, not on us, but each to his own Master on the footing of his own faith.",
+            "Nor can any one, not even an apostle of Jesus Christ, come in between him and God, the Judge of all."
+        ],
+        "Archibald T. Robertson": [
+            "We have lordship over.\" ",
+            "Helpers of your joy in your joy.\" ",
+            "A delicate correction to present misapprehension."
+        ],
+        "John Gill": [
+            "They cannot give or produce in the heart the grace of faith; that is the gift of God; of which Christ is not only the object, but the author; it is of the operation of the Spirit, and the effect of almighty power; it flows entirely from the free grace of God.",
+            "Ministers have no power to make and impose new articles of faith, though they may require and insist upon an assent to those truths which they deliver, according to the word of God.",
+            "A man may be said to stand by faith when he strongly believes his interest in God, in his love, and the covenant of his grace, his interest in Christ, and salvation by him; is satisfied about the truth of grace on his soul, makes no demur upon the promises, nor hesitates about the doctrines of grace, or his future happiness, but rejoices in hope of the glory of God."
+        ],
+        "John Wesley": [
+            "Not that we have dominion over your faith \u2014 This is the prerogative of God alone.",
+            "But are helpers of your joy \u2014 And faith from which it springs.",
+            "For by faith ye have stood \u2014 To this day."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our desire is to bring you joy, not to exert dominance over your faith. Like buttresses supporting a sacred building, we lean on each other as helpers of your joy. It is through faith that you stand, and because of this, we are diligent in assisting your faith, which is the source of true joy. We correct any misapprehensions with gentleness, for our goal is to promote your highest happiness. Faith must be free and exempt from the control of men, and faith ultimately stands in submission only to God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.834095858303645,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                34.41,
+                33.41,
+                32.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our desire is to bring you joy, not to exert dominance over your faith. We lean on each other as helpers of your joy, like buttresses supporting a sacred building. By faith, you stand, and through faith, we diligently assist you in preserving that joy. Faith must be free and exempt from the control of men, ultimately submitting only to God. We correct misunderstandings with gentleness, striving to promote your highest happiness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.7971311715681386,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                34.54,
+                33.36,
+                32.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our desire is to bring you joy, not to exert dominance over your faith. Like buttresses supporting a sacred building, we lean on each other as 'helpers' of your joy. By faith, you stand, and it is through faith that we diligently assist in 'helping' your faith, which is the source of all true joy. Faith must be free and exempt from the control of men. We correct any misapprehensions with gentleness, striving to promote your highest happiness.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.7932214026480788,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                35.31,
+                32.79,
+                31.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our desire is to bring you joy and not to lord over your faith. We are helpers of your joy, like mutually supporting buttresses of a sacred building. We invest effort in assisting your faith, which is the foundation of true joy. The correction we provide is gentle, aimed at dispelling any misconceptions. Faith should be free and exempt from the yoke of men, submitting solely to God. Our goal is to promote your highest happiness and ensure that your faith stands strong.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.6776535295864372,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.12,
+            "commentatorTierSimilarities": [
+                36.17,
+                32.54,
+                31.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our desire is to bring you joy and not to lord over your faith. We are helpers of your joy, like mutually supporting buttresses of a sacred building. We invest effort in assisting your faith, which is the foundation of true joy. The correction we provide is gentle, aiming to dispel any misconceptions. Faith should be free and exempt from the yoke of men, submitting solely to God. Our goal is to promote your highest happiness and ensure that your faith stands strong.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.6802917269754432,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.21,
+            "commentatorTierSimilarities": [
+                36.4,
+                32.43,
+                31.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

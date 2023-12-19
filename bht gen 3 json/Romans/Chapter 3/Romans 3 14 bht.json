@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:01:04",
+    "verseRef": "Romans 3:14",
+    "bestBHT": {
+        "bht": "Their mouth, which should be most sweet, is instead set on fire of hell, filled with burning wrath and cursing towards others. The bitterness that prompts their speech is the cause of their cursing. Their mouths are full of oaths, deceit, and fraud. In every way, they are immersed in wickedness, using flattery to deceive and poison with their words. The frequency of their cursing reveals the sad corruption of their hearts. This bitterness can refer to sin in general or specific sinful words like curses and deceit.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.9590782515264045,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+        "commentatorTierSimilarities": [
+            36.06,
+            30.12,
+            33.82
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "That mouth which should be 'most sweet' ( :-), being 'set on fire of hell' ( :-), is filled with burning wrath against those whom it should only bless."
+        ],
+        "Albert Barnes": [
+            "Whose mouth - Psalms 10:7. The apostle has not quoted this literally, but has given the sense. David in the psalm is describing his bitter enemies.",
+            "Cursing - Reproachful and opprobrious language, such as Shimei used in relation to David; 2 Samuel 16:5, 2 Samuel 16:7-8.",
+            "Bitterness - In the psalm, deceits. The word 'bitterness' is used to denote severity, harshness, cruelty; reproachful and malicious words."
+        ],
+        "John Calvin": [
+            "They are in every way full of wickedness; for if they speak fair, they deceive and blend poison with their flatteries; but if they draw forth what they have in their hearts, bitterness and cursing stream out.\" ",
+            "Paul corrects the order of the words as found in the Septuagint, and gives the Hebrew more exactly, but retains the word 'bitterness,' by which the Septuagint have rendered \u05de\u05e8\u05de\u05d5\u05ea, which means deceit, or rather, mischievous deceit.\" ",
+            "Some think that it ought to be \u05de\u05e8\u05e8\u05d5\u05ea, 'bitterness;' but there is no copy in its favor."
+        ],
+        "Philip Schaff": [
+            "The bitterness which prompts the speech is the cause of the cursing.",
+            "His mouth is full of oaths, and deceit, and fraud.",
+            "'Deceit,' which occurs in the original, was omitted, because already mentioned."
+        ],
+        "John Gill": [
+            "The mouth [being] full [of it]\", denotes the frequency of the sin; scarce anything else comes out of it but cursing; which discovers the sad corruption of the heart.\" ",
+            "By 'bitterness' is meant, either sin in general, which is 'an evil and bitter [thing]', in its nature and effects.",
+            "Or sinful words, such as oaths, curses, imprecations, all wrathful and deceitful words."
+        ],
+        "John Wesley": [
+            "Cursing \u2014 Against God.",
+            "Bitterness \u2014 Against their neighbour. Psalm 10:7."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "That mouth, which should be sweet and a source of blessing, is instead filled with burning wrath and cursing towards others. The bitterness that prompts this speech is the cause of the cursing. Their mouths are full of oaths, deceit, and fraud. They are in every way full of wickedness, using flattery to deceive and blend poison with their words. The frequency of their cursing reveals the corruption of their hearts. This bitterness can refer to sin in general, which is evil and bitter in nature, or it can refer to specific sins such as oaths, curses, and deceitful words. Their cursing is not only against their neighbors, but also against God.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.66,
+            "qualityScore": 1.8199481353592142,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.85,
+            "commentatorTierSimilarities": [
+                31.18,
+                31.25,
+                37.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "That mouth, which should be sweet and a source of blessing, is instead filled with burning wrath and cursing towards others. The bitterness that prompts this speech is the cause of the cursing. Their mouths are full of oaths, deceit, and fraud. They are in every way full of wickedness, using flattery to deceive and blend poison with their words. The frequency of their cursing reveals the corruption of their hearts. This bitterness can refer to sin in general or specific sins such as oaths, curses, and deceitful words.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8615264590254368,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.24,
+            "commentatorTierSimilarities": [
+                32.22,
+                32.02,
+                35.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mouth, which should speak sweetness and blessings, instead spews forth burning wrath and cursing. This bitterness that prompts their speech is the root cause of their cursing. Their mouths are filled with oaths, deceit, and fraud. They are consumed by wickedness, using flattery to disguise the poison they blend into their words. Their frequent cursing exposes the corruption of their hearts. This bitterness can encompass all sin or specifically refer to sins such as oaths, curses, and deceitful words.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8605220588027134,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                34.11,
+                30.82,
+                35.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Their mouth, which should be filled with sweetness, is instead a raging fire of hell, spewing burning wrath and cursing upon others. The bitterness that fuels their speech is the cause of such cursing. Their mouths are full of deceit, fraud, and oaths. In every way, they are immersed in wickedness, using flattery to deceive and poison with their words. The frequency of their cursing exposes the deep corruption of their hearts. This bitterness may encompass all sin or specifically refer to sinful words like curses and deceit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9070853276019841,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                35.62,
+                29.92,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Their mouth, which should be most sweet, is instead set on fire of hell, filled with burning wrath and cursing towards others. The bitterness that prompts their speech is the cause of their cursing. Their mouths are full of oaths, deceit, and fraud. In every way, they are immersed in wickedness, using flattery to deceive and poison with their words. The frequency of their cursing reveals the sad corruption of their hearts. This bitterness can refer to sin in general or specific sinful words like curses and deceit.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.9590782515264045,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.48,
+            "commentatorTierSimilarities": [
+                36.06,
+                30.12,
+                33.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

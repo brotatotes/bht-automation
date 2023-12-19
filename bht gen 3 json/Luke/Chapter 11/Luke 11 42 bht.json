@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:43",
+    "verseRef": "Luke 11:42",
+    "bestBHT": {
+        "bht": "But woe unto you, for ye tithe mint and rue and pass over judgment and the love of God. Our Lord purposely names the most trifling products of the earth, as examples of what they punctiliously exacted the tenth of, while neglecting justice and God's love. The reference is to Micah 6:6-8, where walking humbly with God encompasses both love and faith. The tendency to prioritize lesser duties over greater ones is the characteristic of hypocrites, and our Lord reminds them that they should have done both.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 1.7273204304989023,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+        "commentatorTierSimilarities": [
+            30.62,
+            24.56,
+            44.81
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But woe unto you, for ye do not this,\u2014but make the most trifling payments, &c.",
+            "The connexion, which is thus so close, is quite destroyed by the ironical interpretation of ver. 41.",
+            "See note on Matt. xxiii. 23."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Our Lord purposely names the most trifling products of the earth, as examples of what they punctiliously exacted the tenth of.\" ",
+            "The reference is to Micah 6:6-8, whose third element of all acceptable religion, 'walking humbly with God,' comprehends both 'love' and 'faith.' The same tendency to merge greater duties in less besets us still, but it is the characteristic of hypocrites.",
+            "There is no need for one set of duties to jostle out another but of the greater, our Lord says, 'Ye ought to have done' them; of the lesser, only 'ye ought not to leave them undone.'"
+        ],
+        "Albert Barnes": [
+            "See Matthew 23:23.",
+            "Rue - This is a small garden plant, and is used as a medicine. It has a rosy flower, a bitter, penetrating taste, and a strong smell."
+        ],
+        "Marvin Vincent": [
+            "Tithe is tenth.\" ",
+            "Because of its thick, fleshy leaves.\" ",
+            "Hence colewort, liverwort, and similar words."
+        ],
+        "Philip Schaff": [
+            "For ye tithe, etc. Instead of really giving as our Lord enjoined, they had been in the habit of making trifling payments in over-exactness.\" ",
+            "They had been in the habit of making trifling payments in over-exactness.",
+            "Instead of really giving as our Lord enjoined."
+        ],
+        "Archibald T. Robertson": [
+            "Late verb for the more common \u03b4\u03b5\u03ba\u03b1\u03c4\u03b5\u03c5\u03c9. So in Matthew 23:23.",
+            "Rue (\u03c0\u03b7\u03b3\u03b1\u03bd\u03bf\u03bd). Botanical term in late writers from \u03c0\u03b7\u03b3\u03bd\u03c5\u03bc, to make fast because of its thick leaves.",
+            "Luke here has 'love' (\u03b1\u03b3\u03b1\u03c0\u03b7\u03bd), not in Matthew."
+        ],
+        "John Gill": [
+            "Ye tithe mint and rue...and pass over judgment, and the love of God."
+        ],
+        "John Wesley": [
+            "Wo to you \u2014 That is, miserable are you. In the same manner is the phrase to be understood throughout the chapter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But woe unto you, for ye tithe mint and rue and pass over judgment and the love of God. Our Lord purposely names the most trifling products of the earth, as examples of what they punctiliously exacted the tenth of, while neglecting justice and God's love. The reference is to Micah 6:6-8, where walking humbly with God encompasses both love and faith. The tendency to prioritize lesser duties over greater ones is the characteristic of hypocrites, and our Lord reminds them that they should have done both. Tithing, which means tenth, has been reduced to making trifling payments in over-exactness.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.7701953266149975,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.2,
+            "commentatorTierSimilarities": [
+                29.52,
+                28.88,
+                41.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But woe unto you, for ye tithe mint and rue and pass over judgment and the love of God. Our Lord purposely names the most trifling products of the earth, as examples of what they punctiliously exacted the tenth of, while neglecting justice and God's love. The reference is to Micah 6:6-8, where walking humbly with God encompasses both love and faith. The tendency to prioritize lesser duties over greater ones is the characteristic of hypocrites, and our Lord reminds them that they should have done both.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7273204304989023,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.78,
+            "commentatorTierSimilarities": [
+                30.62,
+                24.56,
+                44.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Woe unto you, for ye tithe mint and rue but neglect justice and the love of God. Our Lord purposely names these insignificant herbs, highlighting how meticulously they exact tithes while ignoring weightier matters. The reference to Micah 6:6-8 underscores the importance of walking humbly with God, which encompasses both love and faith. Hypocrites tend to prioritize lesser duties, failing to fulfill the greater ones. Tithing, originally meaning tenth, has been reduced to trivial payments in over-exactness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.676141270332482,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.07,
+            "commentatorTierSimilarities": [
+                29.64,
+                30.12,
+                40.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Woe unto you, for ye tithe mint and rue, but disregard justice and the love of God. Our Lord intentionally brings up these insignificant herbs that they meticulously tithed, yet they neglected weightier matters. Micah 6:6-8 highlights the significance of walking humbly with God, encompassing both love and faith. The tendency to prioritize lesser duties over greater ones exposes the hypocrisy. Tithing, initially meaning tenth, has been reduced to trivial payments and exactness.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.631916052046235,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.6,
+            "commentatorTierSimilarities": [
+                29.29,
+                30.0,
+                40.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Woe unto you, for ye tithe mint and rue, yet neglect justice and God's love. Our Lord purposely mentions these trivial products to exemplify how they meticulously give tithes of insignificant items, while disregarding weightier matters. Micah 6:6-8 emphasizes the significance of walking humbly with God, encompassing both love and faith. Hypocrites tend to prioritize lesser duties over greater ones. Tithing, meaning tenth, has been reduced to making trifling payments.",
+            "wordCount": 70,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.6852914763260634,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.38,
+            "commentatorTierSimilarities": [
+                28.47,
+                30.2,
+                41.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

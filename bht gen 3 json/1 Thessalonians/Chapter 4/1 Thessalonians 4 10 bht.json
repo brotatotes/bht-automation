@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 13:59:17",
+    "verseRef": "1 Thessalonians 4:10",
+    "bestBHT": {
+        "bht": "The Thessalonians were commended for their love towards one another and encouraged to abound in this love. Their lack of quietness may stem from their mistaken anticipation of the Lord's immediate coming. The apostle urges the whole church to increase in love, praising their current actions while motivating them to strive for more. They displayed love not only within their community but also among the brethren in all of Macedonia. The journey towards perfect love is ongoing, as saints continue to grow in their duty to show love to others.",
+        "wordCount": 91,
+        "quoteTokenProportion": 46.88,
+        "qualityScore": 1.5271955800086499,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+        "commentatorTierSimilarities": [
+            27.69,
+            24.61,
+            47.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "to abound, viz. in this love.",
+            "There does not seem any reason, with Jowett, to ascribe the want of quietness, here implied, to be quiet, to their uneasiness about the state of the dead: much rather [as he also states: see below] to their mistaken anticipations of the immediate coming of the Lord.",
+            "But we may well answer, that instances are frequent enough of exhortations being addressed to whole churches which in their application would require severing and allotting to distinct classes of persons."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. And indeed\u2014Greek,",
+            "\t\"For even."
+        ],
+        "Albert Barnes": [
+            "And indeed ye do it.\" ",
+            "But we beseech you, brethren, that ye increase more and more.\" ",
+            "Here, as elsewhere, the apostle makes the fact that they deserved commendation for what they had done, a stimulus to arouse them to still higher attainments."
+        ],
+        "John Calvin": [
+            "And, unquestionably, whatever appears in us in a high state of excellence, we must still desire that it may become better.",
+            "For after having admonished them to increase in love, he recommends to them a sacred emulation, that they may strive among themselves in mutual affection...",
+            "This is the best emulation, when each one strives to overcome himself in doing good."
+        ],
+        "Philip Schaff": [
+            "For indeed ye do it. Proof of the preceding clause.",
+            "All the brethren who are in all Macedonia.",
+            "Which implies a lively intercourse with the Christians in Philippi, Ber\u0153a, and perhaps at small scattered stations, offshoots from the central churches."
+        ],
+        "Archibald T. Robertson": [
+            "Ye do it (\u03c0\u03bf\u03b9\u03b5\u03b9\u03c4\u03b5 \u03b1\u03c5\u03c4\u03bf). The \u03b1\u03c5\u03c4\u03bf refers to \u03c4\u03bf \u03b1\u03b3\u03b1\u03c0\u03b1\u03b9\u03bd \u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03c2 (to love one another). Delicate praise. "
+        ],
+        "John Gill": [
+            "They exercised this grace of love without respect of persons, to all, and not only to all the brethren in the particular community at Thessalonica, but which are in all Macedonia.",
+            "That ye increase more and more...in showing love to the brethren; which may be done both by administering to them in things temporal...and in things spiritual.",
+            "This shows, that though brotherly love was much practised by these saints, yet it was not perfect; nor is any grace perfect as to degrees; nor is any saint perfect in the discharge of duty in this life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Thessalonians were commended for their love towards one another, and they were encouraged to continue abounding in this love. One possible reason for their lack of quietness could be their mistaken belief in the immediate coming of the Lord. It is important to note that exhortations can be directed towards whole churches, even if different classes of people are involved. The apostle praises the Thessalonians for their love towards each other but also urges them to increase more and more in their love for one another. This commendation serves as a motivation to strive for even higher levels of love and affection. They demonstrated this love not only to their own community but also to the brethren throughout all of Macedonia. The goal is to constantly improve in showing love to fellow believers, both in temporal and spiritual matters, knowing that perfection in love is a lifelong journey.",
+            "wordCount": 149,
+            "quoteTokenProportion": 41.57,
+            "qualityScore": 1.4812656496432102,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.59,
+            "commentatorTierSimilarities": [
+                29.51,
+                21.91,
+                48.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Thessalonians were commended for their love towards one another and encouraged to abound in this love. Their lack of quietness may stem from their mistaken anticipation of the Lord's immediate coming. The apostle urges the whole church to increase in love, praising their current actions while motivating them to strive for more. They displayed love not only within their community but also among the brethren in all of Macedonia. The journey towards perfect love is ongoing, as saints continue to grow in their duty to show love to others.",
+            "wordCount": 91,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.5271955800086499,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                27.69,
+                24.61,
+                47.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Thessalonians were commended for their love towards one another and encouraged to increase even more. Their lack of quietness could be due to their mistaken belief in the immediate coming of the Lord. The apostle praised their love but also urged them to continue growing in it. Their love extended not only to their own community but to the brethren throughout Macedonia. The goal is to consistently improve in showing love to fellow believers, in both temporal and spiritual matters, recognizing that perfection in love is a lifelong pursuit.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.46215636638729,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.96,
+            "commentatorTierSimilarities": [
+                29.82,
+                22.22,
+                47.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Thessalonians were commended for their love towards one another and encouraged to abound in this love. Their lack of quietness could be attributed to their mistaken anticipation of the Lord's immediate return. Despite this, the apostle recognized their efforts and urged them to continue growing in their love. They demonstrated love not only within their own community but also among the brethren throughout Macedonia. The goal is to constantly strive for greater acts of love and affection, both in practical and spiritual ways, while acknowledging that perfection in love is an ongoing process.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 1.4770481906729565,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.45,
+            "commentatorTierSimilarities": [
+                29.94,
+                21.8,
+                48.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Thessalonians were commended for their love towards one another and encouraged to increase more and more in this love. Their lack of quietness could be attributed to their mistaken anticipation of the Lord's immediate coming. The apostle praised their love but also urged them to continue growing in it. Their love extended not only within their own community but also to the brethren throughout Macedonia. The goal is to consistently improve in showing love to fellow believers, both in temporal and spiritual matters, knowing that perfection is a lifelong pursuit.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.463057253387078,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.99,
+            "commentatorTierSimilarities": [
+                29.26,
+                23.02,
+                47.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

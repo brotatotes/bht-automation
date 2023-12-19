@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:26",
+    "verseRef": "Philippians 2:1",
+    "bestBHT": {
+        "bht": "Fulfill the apostle's joy by being like-minded, unified in spirit and humility. The consolation in Christ, the comfort of love, and the fellowship of the Spirit are powerful and touching motives. This exhortation is grounded in the objective principles of Christian life in Christ and the Spirit, leading to the subjective principle of love. Let us embrace our duty and privilege to display humility and unity, drawing inspiration from Christ's example and the communion with the Holy Spirit.",
+        "wordCount": 81,
+        "quoteTokenProportion": 27.45,
+        "qualityScore": 2.3290102112082236,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+        "commentatorTierSimilarities": [
+            36.05,
+            37.55,
+            26.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The four fall into two pairs, in each of which we have first the objective principle of Christian life (in Christ,\u2014of the Spirit), and next the subjective principle 'of love,'\u2014tenderness and compassions.\"  ",
+            "And thus the awakening of motives by these four points is at the same time powerful and touching.\"  ",
+            "The first particular mentioned is here, exhortation, not 'consolation,' which follows in the word comfort."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If there be any consolation in Christ, that is, any consolation of which Christ is the source, leading you to wish to console me in my afflictions borne for Christ's sake, ye owe it to me to grant my request 'that ye be like-minded'\".",
+            "If there be any comfort of (that is, flowing from) love, the adjunct of 'consolation in Christ'\".",
+            "If any fellowship of (communion together as Christians, flowing from joint participation in) the Spirit."
+        ],
+        "Albert Barnes": [
+            "We are not to suppose that Paul doubted whether there was any consolation in Christ but the form of expression here is one that is designed to urge upon them the duty of seeking the highest possible. The consolation in Christ is that which Christ furnishes or imparts.",
+            "If any comfort of love - If there be any comfort in the exercise of tender affection. That there is, no one can doubt. Our happiness is almost all centered in love.",
+            "If any fellowship of the Spirit - The word 'fellowship' means that which is common to two or more; that of which they partake together; [...] and that this was a privilege of the highest order."
+        ],
+        "Marvin Vincent": [
+            "Therefore, since such is your duty and privilege, fulfill my joy, and show yourselves to be true citizens of God's kingdom by your humility and unity of spirit.",
+            "If Christ, by His example, sufferings, and conflicts, exhorts you.",
+            "Communion with the Holy Spirit, whose first fruit is love. "
+        ],
+        "John Calvin": [
+            "If there is among you any consolation of Christ, by means of which you may alleviate my griefs, and if you would afford me any consolation and relief, which you assuredly owe me in the exercise of love; if you take into view that fellowship of the Spirit, which ought to make us all one; if any feeling of humanity and mercy resides in you, which might stir you up to alleviate my miseries, fulfill ye my joy.",
+            "From this we may infer, how great a blessing unity in the Church is, and with what eagerness pastors should endeavor to secure it.",
+            "He knew how to exercise authority when it was necessary, but at present, he prefers to use entreaties because he knew that these would be better fitted to gain an entrance into their affections."
+        ],
+        "Philip Schaff": [
+            "The consolation in Christ is the result of the indwelling of the Holy Spirit.",
+            "The blessing of communion with the brotherhood of Christ on earth...the building up of one another by spiritual converse.",
+            "To interpret the words 'fellowship in spirit' of Christian brethren among themselves destroys the symmetrical arrangement of the verse."
+        ],
+        "Archibald T. Robertson": [
+            "Comfort (\u03c0\u03b1\u03c1\u03b1\u03ba\u03bb\u03b7\u03c3\u03b9\u03c2). Rather, 'ground of appeal to you in Christ.'",
+            "Consolation (\u03c0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03bf\u03bd). Old word from \u03c0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b5\u03bf\u03bc\u03b1, persuasive address, incentive.",
+            "Fellowship (\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03b1). Partnership in the Holy Spirit 'whose first fruit is love' (Galatians 5:22)."
+        ],
+        "John Gill": [
+            "if there is any comfort to be given to them that are in Christ Jesus...then he desired they would attend to his following request.",
+            "if there was any consolation for them, and they had had any comfort in and from Christ...the argument from hence must be strong upon them, to attend to what he desired of them.",
+            "if any fellowship of the spirit...then care should be taken to keep this unity of the Spirit, in the bond of peace."
+        ],
+        "John Wesley": [
+            "If there be therefore any consolation \u2014 In the grace of Christ.",
+            "If any comfort \u2014 In the love of God.",
+            "If any fellowship of the Holy Ghost; if any bowels of mercies - Resulting therefrom; any tender affection towards each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If there is any consolation in Christ, any comfort of love, any fellowship of the Spirit, fulfill the apostle's joy and be like-minded. The objective principles of Christian life, in Christ and of the Spirit, are followed by the subjective principle of love. The motives awakened by these four points are both powerful and touching. The exhortation to be like-minded is based on the consolation and comfort in Christ, the love that brings forth comfort, and the fellowship of the Spirit. It is a reminder of our duty and privilege to show humility and unity of spirit, inspired by Christ's example and the communion with the Holy Spirit.",
+            "wordCount": 112,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.311017756917643,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                35.67,
+                37.12,
+                27.21
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If there is any consolation in Christ, any comfort of love, any fellowship of the Spirit, fulfill the apostle's joy and be like-minded. The objective principles of Christian life, in Christ and of the Spirit, are followed by the subjective principle of love. The motives awakened by these four points are both powerful and touching. The exhortation to be like-minded is based on the consolation and comfort in Christ, the love that brings forth comfort, and the fellowship of the Spirit.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.2968981206488412,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.71,
+            "commentatorTierSimilarities": [
+                36.37,
+                36.47,
+                27.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Fulfill the apostle's joy by being like-minded, united in humility and spirit. The consolation in Christ, the comfort of love, and the fellowship of the Spirit serve as powerful and touching motives. Drawing from the objective principles of Christianity, the exhortation to be like-minded is a reminder of our duty and privilege. This includes the communion with the Holy Spirit, whose first fruit is love, and the comfort and incentive found in Christ. Let these principles guide us in our relationships and actions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.1245375351461755,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.98,
+            "commentatorTierSimilarities": [
+                37.3,
+                36.32,
+                26.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Be like-minded and fulfill the apostle's joy through unity of spirit and humility. The consolation in Christ, comfort of love, and fellowship of the Spirit serve as powerful and touching motives. This exhortation is based on the objective principles of Christian life in Christ and the Spirit, resulting in the subjective principle of love. Let us recognize the duty and privilege we have to show humility and unity, drawing inspiration from Christ's example and the communion with the Holy Spirit.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.298545209486575,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                36.07,
+                36.77,
+                27.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Fulfill the apostle's joy by being like-minded, unified in spirit and humility. The consolation in Christ, the comfort of love, and the fellowship of the Spirit are powerful and touching motives. This exhortation is grounded in the objective principles of Christian life in Christ and the Spirit, leading to the subjective principle of love. Let us embrace our duty and privilege to display humility and unity, drawing inspiration from Christ's example and the communion with the Holy Spirit.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 2.3290102112082236,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+            "commentatorTierSimilarities": [
+                36.05,
+                37.55,
+                26.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

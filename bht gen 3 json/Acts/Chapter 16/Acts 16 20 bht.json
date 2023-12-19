@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:32:23",
+    "verseRef": "Acts 16:20",
+    "bestBHT": {
+        "bht": "The crafty accusation against the Christians brought them into disrepute, exploiting the Romans' dislike and suspicion towards the Jews. This revolutionary principle of the Gospel challenged a godless world, resulting in external commotion and change depending on the resistance it encountered. The Philippians failed to differentiate between Jews and Christians, treating both with contempt. The magistrates of Philippi, known as strathgoi, showcased this lack of recognition. The accusations against the Christians aimed to trouble them, revealing the extent of resistance against the Gospel's transformative message.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 1.930844543150112,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+        "commentatorTierSimilarities": [
+            39.16,
+            27.16,
+            33.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The accusation was craftily adopted to injure the Christians.",
+            "They put forward the name of Romans, which was in high favour.",
+            "As far as religion was concerned, the Romans had affinity with any nation rather than the Jews."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These men, being Jews\u2014objects of dislike, contempt, and suspicion by the Romans, and at this time of more than usual prejudice.\" ",
+            "There is some color of truth in all such accusations, in so far as the Gospel, and generally the fear of God, as a reigning principle of human action, is in a godless world a thoroughly revolutionary principle.",
+            "How far external commotion and change will in any case attend the triumph of this principle depends on the breadth and obstinacy of the resistance it meets with."
+        ],
+        "Albert Barnes": [
+            "There is nothing that will make people more hypocritically conscientious than to denounce, and detect, and destroy their unlawful and dishonest practices.",
+            "People slumber quietly in sin, and pursue their wicked gains; they hate or despise all law and all forms of religion; but the moment their course of life is attacked and exposed, they become full of zeal for laws that they Would not themselves hesitate to violate, and for the customs of religion which in their hearts they thoroughly despise.",
+            "Worldly-minded people often thus complain that their neighborhoods are disturbed by revivals of religion; and the preaching of the truth, and the attacking of their vices, often arouses this hypocritical conscientiousness, and makes them alarmed for the laws, and for religion, and for order, which they at other times are the first to disturb and disregard."
+        ],
+        "Marvin Vincent": [
+            "Magistrates [\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9\u03c2]. Their usual name was duumviri answering to the consuls of Rome; but they took pride in calling themselves strathgoi, or praetors, as being a more honorable title.\" ",
+            "This is the only place in the Acts where Luke applies the term to the rulers of a city.",
+            "The Philippians do not appear to have recognized the distinction between Christians and Jews."
+        ],
+        "John Calvin": [
+            "They purchase hatred, and bring them in contempt, by naming the Jews, which name was at that time infamous.",
+            "That which was religion only, than which there was no other in the world, was counted among the Romans detestable.",
+            "We must valiantly contemn this filthy and false infamy as did Christ and Paul, until the Lord bring to light the malice of our enemies, and refute their impudence."
+        ],
+        "Philip Schaff": [
+            "Acts 16:20. To the magistrates. The official title of these provincial officers was \u2018Duumviri;\u2019 but the title they preferred and usually assumed was the well-known Roman appellation of \u2018Praetor.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "These men (\u03bf\u03c5\u03c4\u03bf \u03bf \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf). Contemptuous use.",
+            "Being Jews (\u0399\u03bf\u03c5\u03b4\u03b1\u03b9\u03bf \u03c5\u03c0\u03b1\u03c1\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2). The people of Philippi, unlike those in Antioch (Acts 11:26), did not recognize any distinction between Jews and Christians.",
+            "Do exceedingly trouble (\u03b5\u03ba\u03c4\u03b1\u03c1\u03b1\u03c3\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd). Late compound (effective use of \u03b5\u03ba in composition) and only here in the N.T."
+        ],
+        "John Gill": [
+            "That they were the same with the Decuriones, or ten men before mentioned, appears from what Harpocratian says, that every year were chosen 'ten \u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03bf\u03b9, magistrates', the word here used.",
+            "They were generally included in the same name; and this name of the Jews was become very odious with the Romans.",
+            "Their accusers make no mention of the dispossessing of the maid, who was their private property, and which was a private affair; but pretend a concern for the public welfare, and bring a charge of public disturbance and detriment."
+        ],
+        "John Wesley": [
+            "Being Jews \u2014 A nation peculiarly despised by the Romans."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The accusation against the Christians in Acts 16:20 was strategically crafted to harm their reputation. Knowing that the Romans held favor towards their name, the accusers cleverly presented the Christians as a threat to Roman interests. The Romans had little affinity for the Jews, viewing them with disdain and suspicion. However, there was some truth in the accusations as the Gospel, with its principle of Godly fear as the driving force behind human action, challenged the godless and revolutionary nature of the world. The response of the magistrates in Philippi, who called themselves strathgoi to appear more honorable, reveals their lack of distinction between Christians and Jews. This lack of recognition contributed to the contemptuous treatment of the Christians, who were seen as troublemakers by the Philippians. Overall, the accusation against the Christians not only aimed to injure their reputation but also showcased the extent of resistance that the Gospel faced in its revolutionary mission.",
+            "wordCount": 154,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.020758919306118,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                37.08,
+                27.42,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crafty accusation against the Christians brought them into disrepute, exploiting the Romans' dislike and suspicion towards the Jews. This revolutionary principle of the Gospel challenged a godless world, resulting in external commotion and change depending on the resistance it encountered. The Philippians failed to differentiate between Jews and Christians, treating both with contempt. The magistrates of Philippi, known as strathgoi, showcased this lack of recognition. The accusations against the Christians aimed to trouble them, revealing the extent of resistance against the Gospel's transformative message.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.930844543150112,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                39.16,
+                27.16,
+                33.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The cunning accusation against the Christians sought to harm their reputation by associating them with the despised Jews, exploiting the Romans' disdain for the Jewish people. The revolutionary nature of the Gospel, with its principles of godly fear and transformative power, posed a threat to the godless world. The Philippians, failing to distinguish between Jews and Christians, treated both with contempt. The magistrates, known as strathgoi, showcased this lack of recognition. The accusations against the Christians aimed to trouble them and highlighted the resistance faced by the Gospel's message.",
+            "wordCount": 90,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.915329838706119,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                36.72,
+                27.61,
+                35.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The accusation against the Christians in Acts 16:20 was crafted to injure them by linking them to the despised Jews. The Romans, favoring their own name, were inclined to view the Jews with dislike, contempt, and suspicion. The revolutionary nature of the Gospel challenged the godless world, which resulted in external resistance and commotion. The Philippians, failing to recognize the distinction between Jews and Christians, treated both with contempt. This accusation troubled the Christians and revealed the extent of opposition faced by the transformative power of the Gospel.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.0208417680569237,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                36.88,
+                26.95,
+                36.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The accusation against the Christians sowed seeds of harm by associating them with the despised Jews, leveraging the Romans' aversion. The revolutionary Gospel, driven by the fear of God, posed a threat to the godless world. The Philippians failed to distinguish between Jews and Christians, treating both with contempt. The magistrates, known as strathgoi, exhibited this lack of recognition. The accusation aimed to trouble the Christians and exposed the resistance faced by the Gospel's transformative power.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.8762759320760645,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.73,
+            "commentatorTierSimilarities": [
+                38.25,
+                25.7,
+                36.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

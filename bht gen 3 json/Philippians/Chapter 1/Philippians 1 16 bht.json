@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 13:52:35",
+    "verseRef": "Philippians 1:16",
+    "bestBHT": {
+        "bht": "These verses highlight the contrasting motivations behind preaching Christ. Some do so sincerely with pure motives and pure intentions, out of love for Paul and love for Christ. On the other hand, there are those who preach in pretense, driven by ambition and a desire to exalt themselves. Their intentions are not genuine, as they seek to cause trouble and stir up strife. Despite their misguided motives, God uses their preaching as an opportunity to bring glory to Himself and advance the gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.03,
+        "qualityScore": 1.9244207341325785,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+        "commentatorTierSimilarities": [
+            27.56,
+            37.54,
+            34.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They thought that I, like themselves, sought my own glory, and so would be mortified at their success over mine.",
+            "But the others out of contention proclaim Christ, not sincerely.",
+            "Their thought was, that taking the opportunity of my being laid aside, they would exalt themselves by their Judaizing preaching, and depreciate me and my preaching, and so cause me trouble of spirit in my bonds."
+        ],
+        "Albert Barnes": [
+            "Not sincerely - Not 'purely' - not with pure motives or intentions.\" ",
+            "Their real aim is not to preach Christ, but to produce difficulty, and to stir up strife.",
+            "They are ambitious people, and they have no real regard for the welfare of the church and the honor of religion."
+        ],
+        "Marvin Vincent": [
+            "Sincerely [\u03b1\u03b3\u03bd\u03c9\u03c2] . Purely, with unmixed motives.",
+            "Not sincerely is explained by in pretense, ver. 18.",
+            "The phrase is striking in the light of the original meaning of qliyiv, namely, pressure."
+        ],
+        "John Calvin": [
+            "The former, he says, do not preach Christ purely, because it was not a right zeal.",
+            "Paul, assuredly, says nothing here (71) of which I have not myself had experience.",
+            "We ought to acknowledge the wonderful goodness of God, who, notwithstanding, gave such a prosperous issue to their depraved affections."
+        ],
+        "Philip Schaff": [
+            "The one refers to those last mentioned, who were truly stirred by the Christian grace of love, and preached from that cause only.",
+            "Their love was exhibited towards those who heard them, and it was also shown towards St. Paul.",
+            "These men recognized the apostle's mission, that he was the appointed champion of the faith of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Of love (\u03b5\u03be \u03b1\u03b3\u03b1\u03c0\u03b7\u03c2). Out of love to Paul as well as to Christ. Put Philippians 1:1 here as a flash-light. "
+        ],
+        "John Gill": [
+            "They did not preach Christ from a principle of love to his person, and from an inward experience of the power of his Gospel, and a zealous affection for it, and firm attachment to it, and with a view to the glory of God, the honour of Christ, and the good of immortal souls; but were influenced by avarice, ambition, and envy.",
+            "They had very evil designs upon the apostle, supposing to add affliction to my bonds; imagining that by their free and bold way of preaching Christ openly in the city without control, and with impunity, it might be thought that the apostle did not lie in bonds for preaching Christ, but for some other crime.",
+            "Their view was in preaching Christ to carry away the glory of it from the apostle, and take it to themselves; and fancying that he was a man of the same cast with them, desirous of vain glory, they thought it would afflict and distress him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These verses shed light on the different motivations behind preaching Christ. Some proclaim Christ with pure motives and sincere love for Paul and for the gospel, while others do so out of contention and with intentions to exalt themselves and cause trouble for Paul. These ambitious individuals have no regard for the well-being of the church or the honor of religion. They preach Christ in pretense, seeking their own glory and hoping to diminish Paul's impact. However, despite their depraved intentions, God used their preaching as an opportunity to bring glory to Himself and advance the gospel. The contrast between those who genuinely love Christ and those who preach for selfish reasons emphasizes the importance of preaching from a place of sincerity and love, focused on the glory of God and the good of souls.",
+            "wordCount": 137,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9841171918077554,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                26.39,
+                35.9,
+                37.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These verses reveal the mixed motivations behind preaching Christ. While some genuinely proclaim Him with pure motives and sincere love, others do so out of contention, seeking to exalt themselves and cause trouble for Paul. These ambitious individuals lack regard for the church and the honor of religion. Despite their depraved intentions, God uses their preaching to bring glory to Himself and advance the gospel. This contrast emphasizes the importance of preaching with sincerity and love, focused on the glory of God and the good of souls.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.844166359513589,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                25.92,
+                36.81,
+                37.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These verses shed light on the motivations behind preaching Christ. While some genuinely proclaim Him with pure motives and sincere love, others do so out of contention, seeking to exalt themselves and cause trouble for Paul. These ambitious individuals lack regard for the church and the honor of religion. Despite their depraved intentions, God uses their preaching to bring glory to Himself and advance the gospel. This contrast emphasizes the importance of preaching with sincerity and love, focused on the glory of God and the good of souls.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.8579365598765976,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                26.6,
+                36.37,
+                37.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These verses highlight the contrasting motivations behind preaching Christ. Some do so sincerely with pure motives and pure intentions, out of love for Paul and love for Christ. On the other hand, there are those who preach in pretense, driven by ambition and a desire to exalt themselves. Their intentions are not genuine, as they seek to cause trouble and stir up strife. Despite their misguided motives, God uses their preaching as an opportunity to bring glory to Himself and advance the gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9244207341325785,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                27.56,
+                37.54,
+                34.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These verses reveal the complex motivations behind preaching Christ. While some genuinely proclaim Him with pure motives and sincere love, others do so out of contention, seeking to exalt themselves and cause trouble for Paul. These individuals lack regard for the welfare of the church and the honor of religion. Despite their depraved intentions, God uses their preaching to bring glory to Himself and advance the gospel. This contrast underscores the importance of preaching with sincerity, love for Christ, and a genuine desire to promote the good of souls.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8758581852746774,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.71,
+            "commentatorTierSimilarities": [
+                26.72,
+                36.93,
+                36.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

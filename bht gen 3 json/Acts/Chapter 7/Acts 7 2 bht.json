@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:27:23",
+    "verseRef": "Acts 7:2",
+    "bestBHT": {
+        "bht": "The God of glory, who appeared to our father Abraham, called him out of Ur to go to a land that he would show him. It is important to recognize that this divine call is not explicitly mentioned in Genesis, but it is implied in other biblical passages and is acknowledged by Jewish writers. This call demonstrates the magnificent and fundamental nature of God's manifestations, characterized by the glory of absolutely free grace. Stephen, in addressing both his brethren and the fathers of the Sanhedrim, shows respect for the established order and government appointed by God. By using the term the God of glory, Stephen honors God and defends against accusations of blasphemy, emphasizing that this is the God whose visible symbol was known by every child of Israel. The call of Abraham was a pivotal moment in the history of God's people, reflecting the faithfulness and sovereignty of the God of glory.",
+        "wordCount": 155,
+        "quoteTokenProportion": 34.44,
+        "qualityScore": 2.1067604092079684,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+        "commentatorTierSimilarities": [
+            22.4,
+            42.09,
+            35.5
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The fact of his having left Ur by some divine intimation is plainly stated in Gen. xv. 7, and referred to in Neh. ix. 7.",
+            "It is observable that the Samaritan Pentateuch, in Gen. xi. 32, for 205, reads 145, which has most probably been an alteration to remove the apparent inconsistency.",
+            "Only remarking for our instruction, how sure those are to plunge into hopeless confusion, who, from motives however good, once begin to handle the word of God deceitfully."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The God of glory\u2014A magnificent appellation, fitted at the very outset to rivet the devout attention of his audience; denoting not that visible glory which attended many of the divine manifestations, but the glory of those manifestations themselves, of which this was regarded by every Jew as the fundamental one.\" ",
+            "It is the glory of absolutely free grace.",
+            "Though this first call is not expressly recorded in Genesis, it is clearly implied in Genesis 15:7 Nehemiah 9:7; and the Jewish writers speak the same language."
+        ],
+        "Albert Barnes": [
+            "Men, brethren, and fathers - These were the usual titles by which the Sanhedrin was addressed. In all this Stephen was perfectly respectful, and showed that he was disposed to render due honor to the institutions of the nation.",
+            "The word 'glory' is often applied to the splendid appearances in which God has manifested Himself to people, Deuteronomy 5:24; Exodus 33:18; Exodus 16:7, Exodus 16:10; Leviticus 9:23; Numbers 14:10.",
+            "Stephen, moreover, evidently uses the word 'glory' to repel the charge of 'blasphemy' against God, and to show that he regarded him as worthy of honor and praise."
+        ],
+        "Marvin Vincent": [
+            "Brethren. Addressing the audience generally. ",
+            "Fathers. Addressing the members of the Sanhedrim. ",
+            "Of glory. Outward, visible glory, as in the shekinah and the pillar of fire. ",
+            "Appeared [\u03c9\u03c6\u03b8\u03b7] . See on Luke 22:43."
+        ],
+        "John Calvin": [
+            "He is not afraid, for modesty\u2019s sake, to call them fathers. Neither doth he flatteringly purchase favor hereby; but he giveth this honor to the order and government appointed by God.",
+            "By this beginning, he declareth that he doth not disagree or dissent from the fathers in true religion which they followed; for all religion, the worship of God, the doctrine of the law, all prophecies, did depend upon that covenant which God made with Abraham.",
+            "This is easily answered, for Moses reciteth not in this latter place what happened after the departure of Abraham; but lest any man should think that Abraham wandered into other countries, having unadvisedly forsaken his own house, he showeth the cause of his departure, to wit, because he was commanded by God to flit into another place."
+        ],
+        "Philip Schaff": [
+            "The God of glory appeared unto our father Abraham.",
+            "This God whose peculiar characteristic in the eyes of the Hebrew people was that visible shining brightness.",
+            "It was the God whose visible symbol was that glory so well known by every child of Israel, who appeared to Abraham, the father of the race."
+        ],
+        "Archibald T. Robertson": [
+            "Hearken. First aorist (ingressive) active imperative, Give me your attention now.",
+            "The God of glory. The God characterized by glory (genitive case, genus or kind) as seen in the Shekinah, the visible radiance of God.",
+            "Appeared. First aorist passive indicative of \u03bf\u03c1\u03b1\u03c9. See on Luke 23:43. Before there was temple or tabernacle and away over in Mesopotamia (Ur of the Chaldees, Genesis 11:31), even before (\u03c0\u03c1\u03b9\u03bd \u03b7 with the infinitive) he dwelt in Haran (\u03a7\u03b1\u03c1\u03c1\u03b1\u03bd, or Carrae not far from Edessa, where Crassus met death after his defeat by the Parthians B.C. 53)."
+        ],
+        "John Gill": [
+            "He calls them 'fathers', because of their age and dignity, being the great council of the nation, and chosen out of the senior and wiser part of the people.",
+            "He calls God 'the God of glory', because he is glorious in himself, in all his persons, perfections, and works, and is to be glorified by his people.",
+            "And he calls Abraham 'our father', he being a Jew, and according to the common usage of the nation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The God of glory, who appeared to our father Abraham, called him out of Ur to go to a land that he would show him. It is important to recognize that this divine call is not explicitly mentioned in Genesis, but it is implied in other biblical passages and is acknowledged by Jewish writers. This call demonstrates the magnificent and fundamental nature of God's manifestations, characterized by the glory of absolutely free grace. Stephen, in addressing both his brethren and the fathers of the Sanhedrim, shows respect for the established order and government appointed by God. By using the term the God of glory, Stephen honors God and defends against accusations of blasphemy, emphasizing that this is the God whose visible symbol was known by every child of Israel. The call of Abraham was a pivotal moment in the history of God's people, reflecting the faithfulness and sovereignty of the God of glory.",
+            "wordCount": 155,
+            "quoteTokenProportion": 34.44,
+            "qualityScore": 2.1067604092079684,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.39,
+            "commentatorTierSimilarities": [
+                22.4,
+                42.09,
+                35.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The God of glory, who appeared to our father Abraham, called him out of Ur to go to a land that he would show him. This divine call is not explicitly recorded in Genesis, but it is implied in other biblical passages and acknowledged by Jewish writers. Stephen's use of the term the God of glory affirms the visible radiance of God and reflects the honor and praise Stephen attributes to Him. By addressing both his brethren and the fathers of the Sanhedrim, Stephen shows respect for the established order and government, recognizing their age and dignity. This call of Abraham marks a significant moment in the history of God's people, highlighting the faithfulness and sovereignty of the God characterized by glory.",
+            "wordCount": 124,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 2.041068249235399,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.21,
+            "commentatorTierSimilarities": [
+                21.9,
+                42.23,
+                35.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The God of glory appeared to our father Abraham and called him out of Ur to go to a land that would be revealed to him. Though this initial call is not explicitly recorded in Genesis, it is implied in other biblical passages and mentioned by Jewish writers. Stephen's use of the term the God of glory signifies the visible radiance of God, capturing the honor and praise Stephen ascribes to Him. By addressing his brethren and the fathers of the Sanhedrim, Stephen displays respect for the established order and venerable members of the community. The call of Abraham holds immense significance as it demonstrates the faithfulness and sovereignty of the God characterized by glory.",
+            "wordCount": 116,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.03470175895728,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.99,
+            "commentatorTierSimilarities": [
+                23.39,
+                42.01,
+                34.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The God of glory appeared to our father Abraham, calling him out of Ur to a land that would be revealed. While this specific call is not explicitly mentioned in Genesis, it is implied in other biblical passages and acknowledged by Jewish writers. Stephen's use of the God of glory emphasizes the visible radiance of God and reflects his honor and respect towards Him. By addressing his brethren and the fathers, Stephen pays homage to the established order and the venerable members of the Sanhedrin. This call to Abraham showcases the faithfulness and sovereignty of the God characterized by glory.",
+            "wordCount": 101,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.059997136718422,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                22.38,
+                41.66,
+                35.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The God of glory appeared to our father Abraham, calling him out of Ur to go to a land that would be revealed. Although this initial call is not explicitly recorded in Genesis, it is implied in other biblical passages and affirmed by Jewish writers. By using the term the God of glory, Stephen highlights the visible radiance and magnificence of God's manifestations. Stephen's respectful address to his brethren and the fathers of the Sanhedrin acknowledges their age and dignity within the established order. This call of Abraham demonstrates the faithfulness and sovereignty of the God characterized by glory.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.0553238156775118,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.68,
+            "commentatorTierSimilarities": [
+                23.45,
+                41.55,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

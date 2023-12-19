@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:25:54",
+    "verseRef": "Acts 3:25",
+    "bestBHT": {
+        "bht": "As descendants of Abraham, you are the heirs of the covenant's promises. This divine agreement, repeated through the prophets, finds its culmination in the Messiah. You, as the children of the prophets and the covenant, hold the prophecies and promises that pertain to the Messiah. Blessed with spiritual blessings in Christ, you are entrusted with the fulfillment of God's covenant.",
+        "wordCount": 62,
+        "quoteTokenProportion": 35.14,
+        "qualityScore": 2.3273280888266576,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.72,
+        "commentatorTierSimilarities": [
+            24.65,
+            40.11,
+            35.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He applies this to them as being inheritors of the promises.",
+            "They were descendants, according to the flesh, and fellow-partakers, according to the spirit.",
+            "For a full comment on this promise made to Abraham, see Gal. iii. 16."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "25. Ye are the children . . . of the",
+            "\tcovenant\u2014and so the natural heirs of its promises. ",
+            "\t",
+            "in thy seed, &amp;c.\u2014(See",
+            "\ton :-, &amp;c.)."
+        ],
+        "Albert Barnes": [
+            "Ye are the sons of the prophets... They professed to follow the prophets as their teachers and guides.",
+            "The word 'sons' was often thus used to denote those to whom any favor pertained... The word 'covenant' denotes properly 'a compact or agreement between equals.'",
+            "The promise to which Peter refers... had express reference to the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Covenant [\u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03c2] . See on Matthew 26:28."
+        ],
+        "John Calvin": [
+            "We must also note diligently this course of teaching, where Peter showeth that the gospel is assigned and appointed unto the Jews.",
+            "For it is not sufficient to have the mercy of God preached unto us generally, unless we also know that the same is offered unto us by the certain ordinance of God.",
+            "And so, although the common election be not effectual in all, yet may it set open a gate for the special elect."
+        ],
+        "Philip Schaff": [
+            "Ye are the children of the prophets and of the covenant.",
+            "They were children of the prophets... for the promise of their prophets was in the first instance to them.",
+            "They were children of the covenant as the heirs of Abraham, with whom God made a covenant when He chose him and his descendants for a peculiar people."
+        ],
+        "Archibald T. Robertson": [
+            "The covenant which God made (\u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b8\u03b7\u03ba\u03b7\u03c2 \u03b7\u03c2 \u03bf \u03b8\u03b5\u03bf\u03c2 \u03b4\u03b9\u03b5\u03b8\u03b5\u03c4\u03bf). Literally, 'the covenant which God covenanted.'\" ",
+            "The covenant (agreement between two, \u03b4\u03b9\u03b1, \u03c4\u03b9\u03b8\u03b7\u03bc) was with Abraham (Genesis 12:1-3) and repeated at various times (Genesis 18:18; Genesis 22:18; Genesis 26:4, etc.).\" ",
+            "In Hebrews 9:15-18 the word is used both for covenant and will."
+        ],
+        "John Gill": [
+            "Ye are the children of the prophets...To them belonged the prophecies of the Old Testament concerning the Messiah, and the promises of him.\" ",
+            "They were heirs of them; and of the covenant which God made with our fathers.",
+            "In whom...even all the chosen of God among the Gentiles, in every nation, and of every kindred and family among them, are blessed in Christ, with all spiritual blessings."
+        ],
+        "John Wesley": [
+            "Ye are the sons of the prophets and of the covenant \u2014 That in, heirs of the prophecies. To you properly, as the first heirs, belong the prophecies and the covenant. Genesis 12:3."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "You, as descendants of Abraham, are the natural heirs of the covenant's promises. This covenant, which God made with Abraham, involved a divine agreement and promise. The covenant was repeated and reinforced through the prophets, and its ultimate fulfillment was in the Messiah. As the children of the prophets and the covenant, you are entrusted with the prophecies of the Old Testament concerning the Messiah and the promises of God. Therefore, you are blessed with all spiritual blessings in Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 2.252678012296216,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.24,
+            "commentatorTierSimilarities": [
+                25.12,
+                38.89,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As descendants of Abraham, you are the heirs of the covenant's promises. This divine agreement, repeated through the prophets, finds its culmination in the Messiah. You, as the children of the prophets and the covenant, hold the prophecies and promises that pertain to the Messiah. Blessed with spiritual blessings in Christ, you are entrusted with the fulfillment of God's covenant.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 2.3273280888266576,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.72,
+            "commentatorTierSimilarities": [
+                24.65,
+                40.11,
+                35.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As the children of the prophets and the covenant, you are the natural heirs of the covenant's promises. The covenant, made with Abraham and reinforced through the prophets, finds its fulfillment in the Messiah. You are entrusted with the prophecies of the Old Testament concerning the Messiah and the promises of God. Through Christ, you are blessed with all spiritual blessings.",
+            "wordCount": 62,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.2912974549193375,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.53,
+            "commentatorTierSimilarities": [
+                23.52,
+                39.55,
+                36.92
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "You are the children of the covenant, inheritors of its promises. The covenant, made with Abraham and reiterated through the prophets, ultimately finds its fulfillment in the Messiah. As the children of the prophets and the covenant, you possess and are entrusted with the prophecies and promises pertaining to the Messiah. Through Christ, you are blessed with all spiritual blessings.",
+            "wordCount": 60,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.3006208701773705,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.84,
+            "commentatorTierSimilarities": [
+                24.88,
+                40.57,
+                34.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As descendants, according to the flesh, and fellow-partakers, according to the spirit, you are the children of the covenant, the natural heirs of its promises. This covenant, originally made with Abraham and repeated at various times, found its fulfillment in the Messiah. As the children of the prophets and the covenant, you possess and are entrusted with the prophecies and promises concerning the Messiah. Thus, through Christ, you are blessed with all spiritual blessings, as the chosen of God in every nation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.3023245224268876,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.89,
+            "commentatorTierSimilarities": [
+                23.69,
+                38.01,
+                38.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

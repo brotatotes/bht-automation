@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:22:30",
+    "verseRef": "Luke 20:37",
+    "bestBHT": {
+        "bht": "Even Moses, whom you have quoted to establish the opposite view, actually supports the doctrine of the resurrection through his words in Exodus 3:6. When Moses saw the burning bush and heard God declare, I am the God of Abraham, the God of Isaac, and the God of Jacob, he implied that these patriarchs are not totally perished, but still exist in some way. Jesus skillfully uses this to confirm the reality of the resurrection, refuting the Sadducees' denial and connecting the existence of souls with the resurrection of the dead.",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.8351480901682389,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+        "commentatorTierSimilarities": [
+            34.65,
+            18.14,
+            47.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "37.] even Moses, i.e. that very Moses, whom you allege as showing by inference the contrary."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "37, 38. even Moses\u2014whom they",
+            "\thad just quoted to entangle Him."
+        ],
+        "Marvin Vincent": [
+            "Shewed [\u03b5\u03bc\u03b7\u03bd\u03c5\u03c3\u03b5\u03bd] . Originally to disclose something secret. Hence, generally, to make known.",
+            "At the bush [\u03b5\u03c0\u03b9 \u03c4\u03b7\u03c2 \u03b2\u03b1\u03c4\u03bf\u03c5] . Wrong. Render as Rev., in the place concerning the bush.",
+            "Compare Matthew 22:41-46; Mark 12:35-37."
+        ],
+        "John Calvin": [
+            "After having refuted the objection brought against him, Christ confirms, by the testimony of Scripture, the doctrine of the final resurrection.",
+            "Christ\u2019s argument, however, is drawn not so much from the ordinary form of expression as from the promise which is contained in these words.",
+            "If it be objected, that souls may continue to exist, though there be no resurrection of the dead, I replied, a little before, that those two are connected, because souls aspire to the inheritance laid up for them, though they do not yet reach that condition."
+        ],
+        "Philip Schaff": [
+            "Luke 20:37. Even Moses, whom you have quoted (Luke 20:28) to establish the opposite view.",
+            "\t",
+            " Shewed. The announcing something before concealed.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Moses was used by the Sadducees to support their denial of the resurrection.",
+            "This passage (Exodus 3:6) Jesus skillfully uses as a proof of the resurrection.",
+            "See discussion on Matthew 22:32; Mark 12:26."
+        ],
+        "John Gill": [
+            "Now that the dead are raised... this is a proof of it.\" ",
+            "Even Moses showed at the bush... he saw it burning with fire, and not consumed.\" ",
+            "When he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob."
+        ],
+        "John Wesley": [
+            "That the dead are raised, even Moses, as well as the other prophets showed...",
+            "...when he recites the words which God spoke of himself, I am the God of Abraham, etc.",
+            "It cannot properly be said, that God is the God of any who are totally perished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even Moses, whom you have quoted to establish the opposite view, actually supports the doctrine of the resurrection through his words recorded in Exodus 3:6. When Moses saw the burning bush and heard God refer to Himself as the God of Abraham, Isaac, and Jacob, he was declaring that these patriarchs are not totally perished, but still exist in some way. Jesus skillfully uses this passage to confirm the reality of the resurrection, refuting the Sadducees' denial. The fact that God identifies Himself as the God of those who have died is a clear indication that the dead are raised. This confirms the promise of Scripture and the connection between the existence of souls and the resurrection of the dead.",
+            "wordCount": 119,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 1.7793588532357034,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.51,
+            "commentatorTierSimilarities": [
+                34.4,
+                16.48,
+                49.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even Moses, whom you have quoted to establish the opposite view, actually supports the doctrine of the resurrection through his words in Exodus 3:6. When Moses saw the burning bush and heard God declare, I am the God of Abraham, the God of Isaac, and the God of Jacob, he implied that these patriarchs are not totally perished, but still exist in some way. Jesus skillfully uses this to confirm the reality of the resurrection, refuting the Sadducees' denial and connecting the existence of souls with the resurrection of the dead.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8351480901682389,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                34.65,
+                18.14,
+                47.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Even Moses, whom you have quoted to support your denial of the resurrection, actually affirms the doctrine through his words in Exodus 3:6. When Moses encountered the burning bush, he heard God identify Himself as the God of Abraham, Isaac, and Jacob, implying that these patriarchs still exist in some form. Jesus skillfully uses this to establish the reality of the resurrection and refute the Sadducees' erroneous beliefs. The connection between the existence of souls and the resurrection of the dead is clearly evident in this passage.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.773295056913419,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.3,
+            "commentatorTierSimilarities": [
+                37.17,
+                16.56,
+                46.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Even Moses, whom you have quoted to establish the opposite view, actually supports the doctrine of the resurrection through his words in Exodus 3:6. When Moses saw the burning bush and heard God declare, I am the God of Abraham, the God of Isaac, and the God of Jacob, he implied that these patriarchs are not totally perished, but still exist in some way. Jesus skillfully uses this to confirm the reality of the resurrection, refuting the Sadducees' denial and connecting the existence of souls with the resurrection of the dead.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8351480901682389,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.36,
+            "commentatorTierSimilarities": [
+                34.65,
+                18.14,
+                47.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Even Moses, whom you have quoted, supports the doctrine of the resurrection through his words in Exodus 3:6. When Moses encountered the burning bush, he heard God identify Himself as the God of Abraham, Isaac, and Jacob, indicating that these patriarchs still exist. Jesus skillfully utilizes this to affirm the reality of the resurrection, countering the Sadducees' denial. The connection between the existence of souls and the resurrection of the dead is made clear by this passage.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7967155567019775,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                37.37,
+                16.66,
+                45.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

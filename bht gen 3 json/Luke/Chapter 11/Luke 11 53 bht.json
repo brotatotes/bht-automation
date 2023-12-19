@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:18:44",
+    "verseRef": "Luke 11:53",
+    "bestBHT": {
+        "bht": "Enraged by Jesus's teachings, the Pharisees and lawyers were driven to harass him with provocative questions, aiming to entrap and accuse him. They incessantly pressed upon him, vehemently urging him to speak more and catechizing him on various subjects in an attempt to catch him off guard. Their deep animosity and bitter rage knew no boundaries as they sought to put words into Jesus's mouth, relentlessly pursuing a chance to discredit him. Their cunning, malicious intent, and relentless questioning expose their vindictive motives against him.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9813268005966114,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+        "commentatorTierSimilarities": [
+            23.71,
+            42.96,
+            33.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They were stung to the quick\u2014and can we wonder?\" ",
+            "Yet had not materials for the charge they were preparing against Him.",
+            "To harass Him with questions."
+        ],
+        "Albert Barnes": [
+            "They were enraged against him. They therefore pressed upon him; asked him many questions; sought to entrap him, that they might accuse him.",
+            "They proposed questions as fast as possible, and about as many things as possible, that they might get him, in the hurry, to say something that would be wrong, that they might thus accuse him.",
+            "This was a remarkable instance of their cunning, malignity, and unfairness."
+        ],
+        "Marvin Vincent": [
+            "To urge him vehemently.",
+            "Provoke to speak.",
+            "To catechize, with the idea of putting words into Christ's mouth."
+        ],
+        "John Calvin": [
+            "If any one prefer to follow the opinion of those who conjecture that Christ repeated the same discourses on various occasions, I have no great objection.",
+            "After pronouncing the curses which have been now explained, he concludes by saying that all the scribes became more inveterate against Christ, so that they did not cease to entrap him by ensnaring questions; which ought to be referred to the conversation held at the table, rather than to his latest discourse.",
+            "But I have not thought it a matter of great importance to be very exact about the time \u2014 a matter which the Evangelist has disregarded."
+        ],
+        "Philip Schaff": [
+            "The scribes and Pharisees followed Him with malicious intent aroused by His discourse.",
+            "To press upon him vehemently, or, \u2018to be very spiteful,\u2019 intensely embittered against Him.",
+            "To provoke him to speak of many (or \u2018more\u2019) things. To catechize Him on a variety of subjects, so as to take Him off His guard."
+        ],
+        "Archibald T. Robertson": [
+            "The rage of both Pharisees and lawyers knew no bounds.",
+            "An old Greek verb to hold in, to be enraged at, to have it in for one.",
+            "The verb means to ply with questions, to entice to answers, to catechize."
+        ],
+        "John Gill": [
+            "Denounced the above woes upon them, charging them with the above crimes, and threatening them with divine vengeance.",
+            "To fall upon him with their tongues, and express great rage, wrath, and virulence against him.",
+            "They put questions to him, and urged him to answer them, and did all they could to irritate him to say things that they could improve against him, to draw words out of his mouth, and then wrest and pervert them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The hostility of the Pharisees and lawyers towards Jesus reached a boiling point, as they were determined to find grounds to accuse him. They continuously questioned him, trying to provoke him into saying something that they could twist against him. Their rage and malice knew no bounds, as they sought to catechize him on various subjects in order to catch him off guard. Their cunning and unfairness were evident in their relentless pursuit to entrap him with ensnaring questions. It is no wonder that they held such intense enmity towards him, for they were seeking any opportunity to condemn him.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.9259070748803655,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.38,
+            "commentatorTierSimilarities": [
+                24.56,
+                44.15,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Pharisees and lawyers were deeply offended by Jesus's words, and they were determined to find a way to accuse him. Their anger knew no bounds as they relentlessly questioned him, trying to provoke a response that they could use against him. They sought to entice him into saying something wrong, catechizing him on various subjects to catch him off guard. The Pharisees and lawyers' malicious intent and cunning were evident as they pursued Jesus with a relentless desire to entrap him through their deceitful questioning.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.9349580804200828,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.68,
+            "commentatorTierSimilarities": [
+                26.32,
+                42.84,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Enraged and spurred on by Jesus's teachings, the Pharisees and lawyers were relentless in their attempts to provoke and trap him with their incessant questioning. Their malicious intent and unfairness were on full display as they sought to entice Jesus into saying something that could be used against him. Their cunning and bitter rage knew no bounds, as they relentlessly catechized him on a variety of subjects in an attempt to catch him off guard and find grounds to accuse him.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9541865013519408,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                22.5,
+                44.16,
+                33.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Pharisees and lawyers were stung by Jesus's teachings, and their rage knew no bounds. They sought to harass and provoke him with entangling questions, aiming to catechize him and put words into his mouth. With cunning and malice, they pressed upon him vehemently, attempting to catch him off guard and bring accusations against him. Their intense enmity and relentless pursuit to entrap him through deceitful questioning reveal their malevolent intent to undermine Jesus's teachings and authority.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9389736810179639,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.81,
+            "commentatorTierSimilarities": [
+                27.51,
+                41.1,
+                31.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Enraged by Jesus's teachings, the Pharisees and lawyers were driven to harass him with provocative questions, aiming to entrap and accuse him. They incessantly pressed upon him, vehemently urging him to speak more and catechizing him on various subjects in an attempt to catch him off guard. Their deep animosity and bitter rage knew no boundaries as they sought to put words into Jesus's mouth, relentlessly pursuing a chance to discredit him. Their cunning, malicious intent, and relentless questioning expose their vindictive motives against him.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9813268005966114,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.22,
+            "commentatorTierSimilarities": [
+                23.71,
+                42.96,
+                33.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

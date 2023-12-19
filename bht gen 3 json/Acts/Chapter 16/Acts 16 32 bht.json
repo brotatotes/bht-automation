@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:32:15",
+    "verseRef": "Acts 16:32",
+    "bestBHT": {
+        "bht": "When the jailer and his household were spoken to the word of the Lord, it wasn't a casual conversation. It was a meaningful opportunity for Paul and Silas to provide a fuller exposition of what faith in Jesus Christ entailed and the resulting salvation it would bring. The teaching was extended to all in the house, emphasizing that it was not limited to adults but likely encompassed children too. With the jailer, his warden, slaves, and family gathered together, this was a significant and attentive gathering.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.552862227734595,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+        "commentatorTierSimilarities": [
+            46.41,
+            18.18,
+            35.41
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And they spake unto him the word of the Lord\u2014unfolding now, doubtless, more fully what 'the Lord Jesus Christ' was to whom they had pointed his faith, and what the 'salvation' was which this would bring him.\" ",
+            "From their addressing the Gospel message 'to all that were in the house' it is not necessary to infer that it contained no children, but merely that as it contained adults besides the jailer himself, so to all of these, as alone of course fit to be addressed, they preached the word."
+        ],
+        "Albert Barnes": [
+            "To all that were in his house - Old and young.\" ",
+            "They instructed them in the doctrines of religion.",
+            "They baptized the entire family."
+        ],
+        "Philip Schaff": [
+            "This refers to the detailed instruction in the religion of Jesus which the apostles forthwith proceeded to give, explaining the practical meaning of \u2018faith in Jesus Christ.\u2019\" ",
+            "It was something more than a bare assent to a great truth."
+        ],
+        "Archibald T. Robertson": [
+            "They spake the word of God (\u03b5\u03bb\u03b1\u03bb\u03b7\u03c3\u03b1\u03bd \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5).\" ",
+            "So Paul and Silas gave fuller exposition of the way of life to the jailor 'with all that were in his house.'",
+            "It was a remarkable service with keenest attention and interest, the jailor with his warden, slaves, and family."
+        ],
+        "John Gill": [
+            "The Gospel...is concerning [Jesus], as the subject matter of it, and is what was preached by himself when on earth.\" ",
+            "This is the word...which publishes salvation by Christ, peace and reconciliation by his blood, life by his death, his righteousness for justification, and proposes him as the object of faith.\" ",
+            "Faith comes by it, and it contains things to be believed: and this word...opened and explained it to [the jailer] for his comfort, and for the encouragement of his faith in Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the jailer and his household heard the word of the Lord spoken to them, it was more than just a simple message. It was a rich exposition of the way of life, explaining in detail what it meant to have faith in Jesus Christ and the salvation that it would bring. In this remarkable service, Paul and Silas addressed not only the jailer himself but also all those in his house, giving them a comprehensive understanding of the Gospel. As they preached the word of God, the jailer, his family, and even his slaves listened with keen attention and interest, eagerly receiving the instruction on the doctrines of religion. This thorough teaching went beyond a mere assent to a great truth, for it encompassed the practical implications and transformative power of faith in Jesus Christ.",
+            "wordCount": 136,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.9134784381735295,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                38.27,
+                23.13,
+                38.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the jailer and his household heard the word of the Lord, it was a momentous occasion. Paul and Silas took the time to unfold the deeper meaning of the Lord Jesus Christ and the salvation that faith in Him would bring. This comprehensive teaching, addressed to the whole household, emphasized the practical implications and transformative power of faith. The jailer, his family, and even the slaves listened with rapt attention, eagerly receiving the instruction on the doctrines of religion. It was a remarkable and impactful service for all in attendance.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.5196736801717963,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                35.76,
+                22.64,
+                41.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the jailer and his household were spoken to the word of the Lord, it wasn't a casual conversation. It was a meaningful opportunity for Paul and Silas to provide a fuller exposition of what faith in Jesus Christ entailed and the resulting salvation it would bring. The teaching was extended to all in the house, emphasizing that it was not limited to adults but likely encompassed children too. With the jailer, his warden, slaves, and family gathered together, this was a significant and attentive gathering.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.552862227734595,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.98,
+            "commentatorTierSimilarities": [
+                46.41,
+                18.18,
+                35.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the jailer and his household were spoken to the word of the Lord, it was a profound moment. Paul and Silas took the opportunity to unfold the significance of the Lord Jesus Christ and the salvation that comes through faith in Him. This comprehensive teaching wasn't limited to the jailer alone, but extended to all in the house. The audience, including the jailer, his family, the warden, and even the slaves, listened with intense interest and attentiveness. It was a remarkable occasion that left a lasting impact on all who were present.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.4327885183692866,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.98,
+            "commentatorTierSimilarities": [
+                42.6,
+                18.23,
+                39.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the jailer and his household were addressed with the word of the Lord, it was an opportunity for Paul and Silas to provide a comprehensive understanding of the Lord Jesus Christ and the salvation that faith in Him brings. The teaching was not limited to adults but included the entire household. In this remarkable gathering, the jailer, the warden, slaves, and family members paid keen attention, displaying a genuine interest. It was a powerful service that left a lasting impact on all those present.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4064495570542026,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.11,
+            "commentatorTierSimilarities": [
+                45.39,
+                19.16,
+                35.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

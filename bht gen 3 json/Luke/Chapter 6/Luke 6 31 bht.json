@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:46",
+    "verseRef": "Luke 6:31",
+    "bestBHT": {
+        "bht": "Treat others as you would like to be treated, for this is the essence of the Golden Rule. By applying this principle, we are called to embody justice and benevolence towards others, reciprocating the care and kindness we would desire for ourselves. This teaching reflects the core values emphasized in both natural and divine laws, serving as a guiding standard for our interactions with others. Additionally, another scripture echoes the same sentiment, reminding us of the significance of treating others in the same manner.",
+        "wordCount": 84,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 0.9748073925261587,
+        "qualityScoreNormalizedComparedToV2BHTs": 23.76,
+        "commentatorTierSimilarities": [
+            18.33,
+            46.5,
+            35.17
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "The Golden Rule is inserted here out of its connection.",
+            "It includes in general form the precepts of Luke 6:29-30, as well as of Luke 6:27-28.",
+            "Some suppose the Golden Rule is inserted here out of its connection, but it includes in general form the precepts of Luke 6:29-30, as well as of Luke 6:27-28."
+        ],
+        "Archibald T. Robertson": [
+            "As ye would (\u03ba\u03b1\u03b8\u03c9\u03c2 \u03b8\u03b5\u03bb\u03b5\u03c4\u03b5).",
+            "Luke has 'likewise' (\u03bf\u03bc\u03bf\u03b9\u03c9\u03c2) where Matthew has \u03bf\u03c5\u03c4\u03c9\u03c2.",
+            "See on Matthew for discussion of the saying."
+        ],
+        "John Gill": [
+            "A golden rule this, agreeably to the light of nature, and divine revelation, and is the sum and substance of the law and prophets;",
+            "In matters of justice and beneficence were they in your case, and you in theirs;",
+            "Do ye also to them likewise"
+        ],
+        "John Wesley": [
+            "Matthew 7:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Treat others as you would like to be treated. This teaching, known as the Golden Rule, is found in Luke 6:31. The emphasis on likewise in Luke's account reflects the idea of reciprocity and mutual respect. It is important to note that this saying is not isolated, but rather encompasses the broader principles outlined in the surrounding verses. The Golden Rule is a guiding principle that encapsulates the essence of both natural and divine laws, as well as the teachings of the law and the prophets. Ultimately, it calls for justice, benevolence, and treating others with the same kindness that we would expect for ourselves. This teaching is also found in Matthew 7:12.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.2697794050897804,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.56,
+            "commentatorTierSimilarities": [
+                23.16,
+                46.39,
+                30.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Treat others as you would like to be treated. This teaching, known as the Golden Rule, is a golden standard that encompasses the principles of justice and beneficence. It reflects both natural and divine laws, summarizing the essence of the law and the prophets. By applying this rule, we are called to extend justice and kindness to others, both in matters of reciprocity and in general acts of goodness. This principle is further reinforced in another scripture passage.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.0181808228980562,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.2,
+            "commentatorTierSimilarities": [
+                15.48,
+                49.74,
+                34.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Treat others as you would like to be treated, for this is the essence of the Golden Rule. By applying this principle, we are called to embody justice and benevolence towards others, reciprocating the care and kindness we would desire for ourselves. This teaching reflects the core values emphasized in both natural and divine laws, serving as a guiding standard for our interactions with others. Additionally, another scripture echoes the same sentiment, reminding us of the significance of treating others in the same manner.",
+            "wordCount": 84,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 0.9748073925261587,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.76,
+            "commentatorTierSimilarities": [
+                18.33,
+                46.5,
+                35.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As ye would. Luke's account of the Golden Rule emphasizes reciprocity and mutual respect. This timeless teaching calls for treating others as we would like to be treated. It encompasses the principles of justice and benevolence, reflecting both natural and divine laws. This rule serves as a guiding standard for how we should interact with others, embodying the essence of the law and the prophets. It reminds us to extend kindness and fairness to others, for it is in doing so that we truly live out this golden rule.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.028972550432124,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.56,
+            "commentatorTierSimilarities": [
+                19.64,
+                47.99,
+                32.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Treating others as we would like to be treated is the essence of the Golden Rule. This principle emphasizes reciprocity and mutual respect. It is a guiding standard for how we should interact with others, embodying justice and benevolence. This teaching reflects both natural and divine laws and encompasses the principles outlined in the surrounding verses. By extending kindness and fairness to others, we live out this golden standard that is relevant across cultures and time.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 0.9278103565381213,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.19,
+            "commentatorTierSimilarities": [
+                13.97,
+                53.67,
+                32.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

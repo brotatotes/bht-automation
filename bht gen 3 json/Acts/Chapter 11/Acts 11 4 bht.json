@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:29:33",
+    "verseRef": "Acts 11:4",
+    "bestBHT": {
+        "bht": "Peter's speech began with a deliberate and detailed narrative, expounding graphically to give the full story of God's dealings with him in a methodical and orderly manner. Luke considered this defense of Peter important, preserving the marks of authenticity. By giving a simple and unvarnished statement of the facts, Peter disarmed prejudice and silenced opposition, as it often happens when a careful statement of the facts is presented. The telling of the story itself was proof of the Divine teaching in this case, which was far beyond any argument.",
+        "wordCount": 91,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.7497401783325037,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+        "commentatorTierSimilarities": [
+            35.67,
+            35.82,
+            28.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "A simple and unvarnished statement of facts is usually the best way of disarming prejudice and silencing opposition.",
+            "In most cases prejudice will thus be disarmed, and opposition will die away, as was the case in regard to the admission of the Gentiles to the church.",
+            "It often happens that those who become most zealous and devoted in any new measures for the advancement of religion were as much opposed to them at first as others."
+        ],
+        "Marvin Vincent": [
+            "Began. Graphically indicating the solemn purport of the speech..."
+        ],
+        "Philip Schaff": [
+            "A simple and careful statement of the facts from the outset was more likely to be persuasive than anything else.",
+            "The mere telling of the story was a proof of the Divine teaching in this case, which was far beyond any argument.",
+            "The course which St. Peter followed was utterly different from that which he would have adopted if the privileges of infallibility and supremacy belonged to him."
+        ],
+        "Archibald T. Robertson": [
+            "Began (\u03b1\u03c1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2). Not pleonastic here, but graphically showing how Peter began at the beginning and gave the full story of God's dealings with him in Joppa and Caesarea.",
+            "Expounded (\u03b5\u03be\u03b5\u03c4\u03b9\u03b8\u03b5\u03c4\u03bf). Imperfect middle of \u03b5\u03ba\u03c4\u03b9\u03b8\u03b7\u03bc, to set forth, old verb, but in the N.T. only in Acts... a deliberate and detailed narrative 'in order' (\u03ba\u03b1\u03b8\u03b5\u03be\u03b7\u03c2).",
+            "Luke evidently considered this defence of Peter important and he preserves the marks of authenticity."
+        ],
+        "John Gill": [
+            "But Peter rehearsed the matter from the beginning... in a very methodical and orderly manner...\" ",
+            "He did not insist upon his authority as an apostle, and much less pretended to a primacy to the rest of the apostles...",
+            "...but submitted to have his case heard, examined, and judged of by the body of the brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Peter began his speech with a deliberate and detailed narrative, setting forth the full story of his experiences in Joppa and Caesarea. Luke considered this defense important, and his preservation of the authentic details reflects this. By giving a simple and unvarnished statement of facts, Peter disarmed prejudice and silenced opposition. The telling of the story itself was a testament to the Divine teaching at work. His methodical and orderly approach, devoid of any claim to authority or primacy, demonstrated his willingness to be heard, examined, and judged by the body of believers.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.5133092855721486,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                33.26,
+                32.84,
+                33.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Peter's speech began with a deliberate and detailed narrative, expounding on God's dealings and setting forth the full story in a methodical and orderly manner. Luke, recognizing the importance of this defense, preserves its authenticity. By presenting a simple and unvarnished statement of the facts, Peter disarmed prejudice and silenced opposition. The telling of the story itself served as evidence of the Divine teaching. He did not assert his authority or claim primacy, but rather submitted to be heard and judged by the body of believers.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.5650149538490656,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                32.99,
+                31.35,
+                35.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Peter's speech in Acts 11:4 began with a deliberate and detailed narrative, expounding on God's dealings and setting forth the full story in a methodical and orderly manner. Luke, recognizing the importance of this defense, preserves its authenticity. By giving a simple and unvarnished statement of the facts, Peter disarmed prejudice and silenced opposition. The telling of the story itself served as evidence of the Divine teaching. Peter did not assert his authority or claim primacy, submitting instead to be heard and judged by the body of believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.5703560464920447,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.56,
+            "commentatorTierSimilarities": [
+                33.22,
+                31.15,
+                35.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter's speech began with a deliberate and detailed narrative, expounding on God's dealings and setting forth the full story in a methodical and orderly manner. By giving a simple and unvarnished statement of the facts, Peter disarmed prejudice and silenced opposition. The telling of the story itself served as evidence of the Divine teaching. He did not assert his authority or claim primacy, submitting instead to be heard and judged by the body of believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.635810202751135,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.73,
+            "commentatorTierSimilarities": [
+                30.06,
+                34.04,
+                35.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter's speech began with a deliberate and detailed narrative, expounding graphically to give the full story of God's dealings with him in a methodical and orderly manner. Luke considered this defense of Peter important, preserving the marks of authenticity. By giving a simple and unvarnished statement of the facts, Peter disarmed prejudice and silenced opposition, as it often happens when a careful statement of the facts is presented. The telling of the story itself was proof of the Divine teaching in this case, which was far beyond any argument.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7497401783325037,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.52,
+            "commentatorTierSimilarities": [
+                35.67,
+                35.82,
+                28.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:18:46",
+    "verseRef": "Luke 11:41",
+    "bestBHT": {
+        "bht": "Jesus rebukes the Pharisees for their covetousness and external show of righteousness. He teaches them that true purity comes from the heart and encourages them to cultivate a spirit of inward righteousness through acts of kindness and generosity, such as giving alms and sharing their abundance with the poor. By focusing on the transformation of their hearts rather than superficial rituals, the Pharisees can truly embody righteousness and demonstrate their repentance for their ill-gotten wealth.",
+        "wordCount": 76,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 1.8975825865915565,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+        "commentatorTierSimilarities": [
+            33.37,
+            36.2,
+            30.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But ye give alms of their contents, and, behold, all things are clean (in your estimation) to you.",
+            "The command is a rebuke for their covetousness, which follows in close connexion with ravening (plunder) and wickedness.",
+            "And such persons being pure in heart,\u2014to them, as to the pure, all things are pure."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give alms . . . and . . . all . . clean\u2014a principle of immense value.",
+            "Our Lord bids them exemplify the opposite character, and then their outside, ruled by this, would be beautiful in the eye of God.",
+            "Their meals would be eaten with clean hands, though never so fouled with the business of this worky world."
+        ],
+        "Albert Barnes": [
+            "Though you have lived by rapine, and have amassed wealth in an improper manner, yet, since 'you have it,' it is your duty to make the best of it and do good.",
+            "By giving to the poor, you may show your repentance for your crimes in amassing money in this manner.",
+            "Thus doing, he would evince that the 'mind' was clean as well the 'body;' the 'inside' as well as the 'outside.'"
+        ],
+        "Marvin Vincent": [
+            "Jesus is insisting upon inward righteousness as against pharisaic externalism.",
+            "Cultivate rather the loving, brotherly spirit of inward righteousness.",
+            "Let some poor man partake of your meats and wines."
+        ],
+        "John Calvin": [
+            "It is the lawful use alone... But food is rightly and properly used by those who supply from their abundance the necessities of the poor.",
+            "Christ does not here inform us by what price we must purchase the forgiveness of sins, but says that those persons eat their bread with cleanness, who bestow a part of it on the poor.",
+            "The reproofs which immediately follow may be reserved, with greater propriety, for another occasion."
+        ],
+        "Philip Schaff": [
+            "Not that this giving of alms constituted holiness, but to give those things which are within (the cup and platter) was a far better purification than their ceremonial washings of the outside.",
+            "The precept receives point from the covetousness of the Pharisees.",
+            "But ye give alms, etc., and behold all things are clean to you (in your estimation)."
+        ],
+        "John Gill": [
+            "Give meat and drink to the poor, your platters and cups are full of, gotten by injustice and oppression.",
+            "You oppress and defraud men, devour widows' houses, and fill your own with the spoils of others; and then give out of your cups and platters drink to the thirsty, and meat to the hungry, to make atonement for your avarice and extortion.",
+            "From this opinion of theirs it is, that the Hebrew word, \u05d6\u05db\u05d4, which signifies 'to be clean', is used by them for giving alms."
+        ],
+        "John Wesley": [
+            "Give what is in them \u2014 The vessels which ye clean, in alms, and all things are clean to you.\" ",
+            "By acts directly contrary to rapine and wickedness, show that your hearts are cleansed.",
+            "These outward washings are needless."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 11:41, Jesus rebukes the Pharisees for their covetousness and external righteousness. He challenges them to cultivate a spirit of inward righteousness by giving alms and sharing their abundance with the poor. He emphasizes that true purification comes from the heart, not just external rituals. Jesus's message is that the Pharisees should not only cleanse their hands before meals but also their hearts through acts of kindness and generosity. By giving to the poor, they can demonstrate their repentance for their ill-gotten wealth and show that their minds and bodies are truly clean.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.8606329861074549,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                31.38,
+                37.65,
+                30.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus criticizes the Pharisees in this passage for their covetousness and emphasis on external righteousness. He encourages them to cultivate a spirit of inward righteousness by giving alms and sharing their abundance with the poor. This way, not only would their hands be clean through acts of kindness, but their hearts would also be purified. True purity comes from the inside, not just from external rituals. Jesus challenges the Pharisees to show repentance for their ill-gotten wealth by demonstrating generosity towards those in need.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.8564992835266496,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.07,
+            "commentatorTierSimilarities": [
+                32.54,
+                37.34,
+                30.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus calls out the Pharisees for their covetousness and the importance they place on external righteousness. He urges them to shift their focus towards cultivating a spirit of inward righteousness by giving alms and sharing their abundance with the poor. Jesus emphasizes that true purity comes from the heart, not just from performing external rituals. He challenges the Pharisees to demonstrate repentance and a genuine change of heart by showing generosity and compassion towards those in need.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.7994712341507149,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.17,
+            "commentatorTierSimilarities": [
+                32.96,
+                36.47,
+                30.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus rebukes the Pharisees for their covetousness and external show of righteousness. He teaches them that true purity comes from the heart and encourages them to cultivate a spirit of inward righteousness through acts of kindness and generosity, such as giving alms and sharing their abundance with the poor. By focusing on the transformation of their hearts rather than superficial rituals, the Pharisees can truly embody righteousness and demonstrate their repentance for their ill-gotten wealth.",
+            "wordCount": 76,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8975825865915565,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.44,
+            "commentatorTierSimilarities": [
+                33.37,
+                36.2,
+                30.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus admonishes the Pharisees for their covetousness and superficial display of righteousness. He urges them to cultivate a genuine inward righteousness by practicing acts of kindness and generosity, such as giving alms and sharing their abundance with the poor. Jesus emphasizes that true purity is not found in external rituals but in a transformed heart. By demonstrating repentance and compassion, the Pharisees can truly cleanse both their hands and their hearts, reflecting a sincere and authentic righteousness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.7889290708897274,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.82,
+            "commentatorTierSimilarities": [
+                33.4,
+                35.6,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

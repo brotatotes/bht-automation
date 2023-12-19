@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:19:31",
+    "verseRef": "Luke 13:14",
+    "bestBHT": {
+        "bht": "Filled with indignation, the ruler of the synagogue covertly and cowardly voiced his displeasure to the crowd, seeking to reach Jesus indirectly through them. His false premise was that works of mercy were forbidden on the Sabbath, failing to realize that the one who performed such a miracle couldn't possibly be a violator of God's law. Envy and a desire to hinder the honor that would come to Jesus spurred his anger, as he hypocritically disguised it as concern for Sabbath observance.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 2.102505184801459,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+        "commentatorTierSimilarities": [
+            28.17,
+            32.5,
+            39.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ruler speaks not either to Jesus or to the woman.",
+            "Covertly and cowardly, to the multitude.",
+            "A species of 'working'."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "with indignation\u2014not so much at the sabbath violation as at the glorification of Christ.\" ",
+            "Not daring directly to find fault with the Lord, he seeks circuitously to reach Him through the people, who were more under his influence, and whom he feared less."
+        ],
+        "Albert Barnes": [
+            "He considered this a violation of the Sabbath, doing work contrary to the fourth commandment.",
+            "If he had reasoned aright, he would have seen that he who could perform such a miracle could not be a violator of the law of God.",
+            "From this conduct of the ruler we learn."
+        ],
+        "John Calvin": [
+            "What an astonishing display of furious malice!",
+            "How unreasonable is it that the grace of God should be limited in that manner!",
+            "That ungodly hypocrite talks as if the lawful observation of the Sabbath interrupted the course of God\u2019s favors, hindered men from calling upon him, and took away from them all feeling of his kindness."
+        ],
+        "Philip Schaff": [
+            "Being filled with indignation. The attitude of mind was hostile.",
+            "The ruler was afraid to speak out so boldly, and he 'covertly and cowardly' addresses himself, not to the Healer or to the healed, but to the multitude.",
+            "His false premise was, that works of mercy are forbidden on the Sabbath."
+        ],
+        "Archibald T. Robertson": [
+            "No one had spoken to him, but he felt his importance as the ruler of the synagogue and was indignant.\" ",
+            "His words have a ludicrous sound as if all the people had to do to get their crooked backs straightened out was to come round to his synagogue during the week.",
+            "He was angry with Jesus, but he spoke to the multitude."
+        ],
+        "John Gill": [
+            "His indignation was at Christ, and the miracle he had wrought, being filled with envy at the honour it would bring unto him; though he covered it under pretence of its being a violation of the sabbath...\" (emphasis added)",
+            "His indignation was at Christ, and the miracle he had wrought, being filled with envy at the honour it would bring unto him; though he covered it under pretence of its being a violation of the sabbath...\" (emphasis added)",
+            "The people did not come to be healed; for ought appears, the cure was unthought of and unexpected; nor was healing, especially as performed by Christ, by a word and a touch, a servile work, and therefore could not be any breach of the law referred to.\" (emphasis added)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ruler, feeling his importance as the leader of the synagogue, was filled with indignation towards Jesus and spoke indirectly to the multitude, expressing his discontent. He sought to reach Jesus through the people, whom he feared less and had more influence over. Perhaps hoping to belittle the miracle, he addressed the crowd with a sense of self-importance, as if suggesting that simply coming to his synagogue during the week would straighten out their crooked backs. In reality, his anger stemmed from envy and his false belief that works of mercy were forbidden on the Sabbath, failing to recognize that the one performing the miracle could not be a violator of God's law.",
+            "wordCount": 115,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.9334600877727333,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                34.16,
+                28.82,
+                37.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ruler, filled with indignation, covertly and cowardly addressed the multitude, expressing his discontent at the glorification of Christ. He felt his importance as the ruler of the synagogue and sought to belittle the miracle, implying that the people could straighten out their crooked backs by coming to his synagogue. However, his anger stemmed from envy and his false belief that works of mercy were forbidden on the Sabbath. He failed to recognize that the one performing the miracle could not be a violator of God's law.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.9440832301011919,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.98,
+            "commentatorTierSimilarities": [
+                28.21,
+                32.98,
+                38.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ruler, feeling his importance as the leader of the synagogue, was filled with indignation towards Jesus and spoke indirectly to the multitude, expressing his discontent. Perhaps hoping to belittle the miracle, he addressed the crowd with a sense of self-importance, suggesting that simply coming to his synagogue during the week would straighten out their crooked backs. His anger stemmed from envy and his false belief that works of mercy were forbidden on the Sabbath, failing to recognize that the one performing the miracle could not be a violator of God's law.",
+            "wordCount": 94,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9691421675643044,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                29.86,
+                30.23,
+                39.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Filled with indignation, the ruler of the synagogue covertly and cowardly voiced his displeasure to the crowd, seeking to reach Jesus indirectly through them. His false premise was that works of mercy were forbidden on the Sabbath, failing to realize that the one who performed such a miracle couldn't possibly be a violator of God's law. Envy and a desire to hinder the honor that would come to Jesus spurred his anger, as he hypocritically disguised it as concern for Sabbath observance.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.102505184801459,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                28.17,
+                32.5,
+                39.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ruler of the synagogue, filled with indignation, covertly addressed the multitude, expressing his anger towards Jesus and the miracle He had wrought. He sought to undermine the significance of the miracle, insinuating that the healing of their crooked backs could be achieved by simply visiting his synagogue during the week. However, his ire stemmed from envy and a false belief that works of mercy were forbidden on the Sabbath. He failed to recognize that one capable of performing such a miracle could not be a violator of God's law.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9013929357623653,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                25.9,
+                32.38,
+                41.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:33:49",
+    "verseRef": "Acts 19:41",
+    "bestBHT": {
+        "bht": "The city of Ephesus was known for its devotion to the goddess Diana, with thirteen other cities having a vested interest in the temple there. This reverence can be compared to the veneration of images and pictures in the Roman Catholic Church. Despite the tumultuous nature of the assembly, Luke's account of these events is seen as historically accurate. Gaius and Aristarchus, who were directly involved in these happenings, would have been witnesses to the vivid scene. By dismissing the assembly, Paul ensured the safety of himself and his companions, averting the imminent danger they faced.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.0,
+        "qualityScore": 1.1203770270759814,
+        "qualityScoreNormalizedComparedToV2BHTs": 28.6,
+        "commentatorTierSimilarities": [
+            51.2,
+            22.64,
+            26.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "what man . . . knoweth not that the city of the Ephesians is a worshipper of the great goddess Diana",
+            "Thirteen cities of Asia had an interest in the temple, but Ephesus was honored with the charge of it.",
+            "With this we may compare various legends concerning images and pictures in the Romish Church, such as the traditional likenesses of Christ, which were said to be 'not made with hands'"
+        ],
+        "Albert Barnes": [
+            "Dismissed the assembly...applied to the irregular and tumultuous 'assemblage'\".",
+            "The word usually translated 'church'\".",
+            "The \"assemblage\" which had convened in a riotous manner."
+        ],
+        "Archibald T. Robertson": [
+            "Dismissed the assembly (\u03b1\u03c0\u03b5\u03bb\u03c5\u03c3\u03b5\u03bd \u03c4\u03b7\u03bd \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03b1\u03bd).\" ",
+            "This vivid, graphic picture given by Luke has all the earmarks of historical accuracy.\" ",
+            "Certainly both Gaius and Aristarchus were lively witnesses of these events since their own lives were involved."
+        ],
+        "John Gill": [
+            "He ordered them to break up, and every one to return home in peace, and go about his own business.",
+            "Thus Paul, and his companions, were delivered from an imminent danger they were exposed to."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The city of Ephesus was known for its devotion to the goddess Diana, with thirteen other cities having a vested interest in the temple there. This reverence can be compared to the veneration of images and pictures in the Roman Catholic Church. Despite the tumultuous nature of the assembly, Luke's account of these events is seen as historically accurate. Gaius and Aristarchus, who were directly involved in these happenings, would have been witnesses to the vivid scene. By dismissing the assembly, Paul ensured the safety of himself and his companions, averting the imminent danger they faced.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 1.1203770270759814,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.6,
+            "commentatorTierSimilarities": [
+                51.2,
+                22.64,
+                26.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Ephesians' worship of the goddess Diana was well-known, with other cities also having a stake in the temple. This devotion can be compared to the veneration of images in the Roman Catholic Church. Luke's account is considered historically accurate, as Gaius and Aristarchus were involved in these events. Dismissing the assembly ensured Paul's safety, as they faced imminent danger. The colorful scene presented by Luke is a testament to the authenticity of these events.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.038130535555931,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.86,
+            "commentatorTierSimilarities": [
+                60.66,
+                21.18,
+                18.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The city of Ephesus had a strong devotion to the goddess Diana, with other cities having an interest in the temple as well. The worship of Diana could be likened to the veneration of images in the Roman Catholic Church. The accuracy of Luke's description is evident in the involvement of Gaius and Aristarchus, who witnessed these events. By dismissing the assembly, Paul ensured his own safety, averting the immediate danger they faced. This vivid depiction by Luke provides a historically accurate account of these events.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.0216669069927184,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.31,
+            "commentatorTierSimilarities": [
+                64.2,
+                20.96,
+                14.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The city of Ephesus was renowned for its devotion to the goddess Diana, with other cities sharing an interest in the temple. Paul's decision to dismiss the assembly allowed for his and his companions' deliverance from imminent danger. The vivid and historically accurate description by Luke is supported by the firsthand accounts of Gaius and Aristarchus, who were involved in these events. The worship of Diana can be compared to the veneration of images in the Roman Catholic Church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.097632864658275,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.84,
+            "commentatorTierSimilarities": [
+                47.84,
+                22.94,
+                29.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Ephesians had a strong devotion to the goddess Diana, a worship that was shared by other cities with an interest in the temple. The accuracy of Luke's account is evident in the firsthand involvement of Gaius and Aristarchus. By dismissing the assembly, Paul ensured the safety of himself and his companions, avoiding the imminent danger they faced. This depiction provides a historically accurate and vivid picture of the events, resembling the veneration of images in the Roman Catholic Church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.079898869783507,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.25,
+            "commentatorTierSimilarities": [
+                51.64,
+                19.43,
+                28.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

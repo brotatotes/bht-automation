@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:16:58",
+    "verseRef": "2 Corinthians 8:4",
+    "bestBHT": {
+        "bht": "The Corinthians fervently pleaded for the blessing and partnership of ministering to the saints, imploring Paul and his companions with great entreaty. The Macedonians had set a powerful example, willingly and eagerly participating in this act of grace and favor, even going as far as to anticipate Paul's request. This stirred Paul's disappointment at the Corinthians' inactivity, especially after he had admonished them. However, the Corinthians not only desired to give, but also requested that Paul accept their contribution and oversee its administration to the needy.",
+        "wordCount": 88,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.3680461075234702,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.08,
+        "commentatorTierSimilarities": [
+            28.88,
+            38.26,
+            32.86
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "with much exhortation beseeching of us the grace and fellowship of the ministry to the saints (i. e. to allow them a share in that grace and fellowship):"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Beseeching of us . . . the grace and fellowship of (that is, to grant them the favor of sharing in) the ministering unto the saints.",
+            "The Macedonian contributions must have been from Philippi, because Philippi was the only church that contributed to Paul's support.",
+            "Philippians 4:10; Philippians 4:15; Philippians 4:16."
+        ],
+        "Albert Barnes": [
+            "Praying us with much entreaty - Earnestly entreating me to receive the contribution and convey it to the poor and afflicted saints in Judea.",
+            "And take upon us the fellowship of the ministering to the saints - Greek, 'that we would take the gift and the fellowship of the ministering to the saints.'",
+            "Paul was unwilling to do it unless they particularly desired it, and he seems to have insisted that some person should be associated with him; 2Co 8:20; 1 Corinthians 16:3-4."
+        ],
+        "Marvin Vincent": [
+            "Praying us for the favor and the fellowship of the ministry.\" ",
+            "They earnestly besought him as a favor that they might have a share in ministering to the poor saints.\" ",
+            "Cariv means grace, gift, and favor. Here the last."
+        ],
+        "John Calvin": [
+            "If the Macedonians, without needing to be besought, press forward of their own accord, nay more, anticipate others by using entreaties, how shameful a thing is it for the Corinthians to be inactive, more especially after being admonished!",
+            "But what are we to think, when, not satisfied with beseeching, they added to their requests earnest entreaty, and much of it too?",
+            "They contributed of their own, that it might be administered to the saints. They wished, that Paul would take the charge of collecting it."
+        ],
+        "Archibald T. Robertson": [
+            "With much intreaty begging of us the favour and the partnership in the ministry to the saints.",
+            "By \u03c7\u03b1\u03c1\u03b9\u03c2 Paul means the privilege of giving.",
+            "They demanded the right to have a share in it."
+        ],
+        "John Gill": [
+            "They not only gave freely, being unasked by the apostles; but they sought to them, and earnestly entreated them, that they would receive the gift.\" ",
+            "What they had communicated for the service of the poor saints at Jerusalem, in which they testified their having and holding fellowship with the churches of Christ.\" ",
+            "They would receive it at their hands, and take it upon them, and carry it to Jerusalem, and distribute to the poor saints there, as should seem to them most proper and convenient."
+        ],
+        "John Wesley": [
+            "Praying us with much entreaty \u2014 Probably St. Paul had lovingly admonished them not to do beyond their power."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Corinthians fervently pleaded for the blessing and partnership of ministering to the saints, imploring Paul and his companions with great entreaty. The Macedonians had set a powerful example, willingly and eagerly participating in this act of grace and favor, even going as far as to anticipate Paul's request. This stirred Paul's disappointment at the Corinthians' inactivity, especially after he had admonished them. However, the Corinthians not only desired to give, but also requested that Paul accept their contribution and oversee its administration to the needy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3680461075234702,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.08,
+            "commentatorTierSimilarities": [
+                28.88,
+                38.26,
+                32.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians fervently plead for the blessing and partnership of ministering to the saints, imploring Paul and his companions with great entreaty. The Macedonians eagerly participate in this act of grace and favor and serve as an example. However, Paul expresses his disappointment at the Corinthians' inactivity after he had admonished them. Nevertheless, the Corinthians not only desire to give but also request that Paul accept their contribution and oversee its distribution to the needy.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.2930284750132186,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.58,
+            "commentatorTierSimilarities": [
+                31.32,
+                37.79,
+                30.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians passionately beseech Paul and his companions, earnestly requesting the grace and fellowship of the ministry to the saints. Their desire to participate in this act of giving and caring for the needy is evident, and they eagerly implore to be part of it. The Macedonians serve as an inspiring example, contributing willingly and without needing to be asked. Paul expresses disappointment at the Corinthians' lack of action, especially after he had admonished them. However, the Corinthians not only wish to give but also seek to have Paul accept their contribution and be responsible for its distribution.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.179952099919463,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.82,
+            "commentatorTierSimilarities": [
+                30.64,
+                37.6,
+                31.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians fervently beseech the grace and fellowship of ministering to the saints, pleading with Paul and his companions. They yearn to contribute and participate in this act of giving. The Macedonians' eagerness serves as an example, as they willingly and eagerly give without needing to be asked. Paul expresses disappointment at the Corinthians' inaction, especially after admonishing them. Nevertheless, the Corinthians not only desire to give but also request that Paul accept their contribution and oversee its distribution to those in need.",
+            "wordCount": 83,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1961796212738762,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.36,
+            "commentatorTierSimilarities": [
+                30.29,
+                37.33,
+                32.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians ardently beg for the grace and partnership of ministering to the saints, pleading with great intensity. Inspired by the Macedonians' self-motivated contributions, they long to be part of this act of giving. Paul expresses his disappointment at the Corinthians' lack of action, particularly after his admonishment. However, the Corinthians not only desire to give but also implore Paul to accept their offering and oversee its distribution to the impoverished.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.216155709010713,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.03,
+            "commentatorTierSimilarities": [
+                30.62,
+                39.23,
+                30.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

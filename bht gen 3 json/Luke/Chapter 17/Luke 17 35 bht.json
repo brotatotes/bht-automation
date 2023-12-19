@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:21:06",
+    "verseRef": "Luke 17:35",
+    "bestBHT": {
+        "bht": "The depiction of two women grinding together suggests a sense of unity, while the statement that one shall be taken and the other left underscores the sovereign will and providence of God. Despite the debate surrounding the inclusion of a specific portion, the fundamental message is clear: our destinies are shaped by a higher power. This highlights the divine control that guides our lives, reminding us of the inexplicable workings of God's will.",
+        "wordCount": 74,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 0.5943972430856566,
+        "qualityScoreNormalizedComparedToV2BHTs": 11.11,
+        "commentatorTierSimilarities": [
+            15.6,
+            25.28,
+            59.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Luke 17:35. Two women, etc. See on Matthew 24:41.",
+            "\t",
+            " Luke 17:36 is omitted by the best authorities, and was probably inserted from Matthew 24:40.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Shall be grinding.",
+            "Periphrastic future active indicative of \u03b1\u03bb\u03b7\u03b8\u03c9, an old verb only in the N.T. here and Matthew 24:41.",
+            "Together (\u03b5\u03c0 \u03c4\u03bf \u03b1\u03c5\u03c4\u03bf). In the same place, near together as in Acts 2:1."
+        ],
+        "John Gill": [
+            "Two [women] shall be grinding together\" (Luke 17:35)",
+            "The one shall be taken and the other left\" (Luke 17:35)",
+            "No other reason can be given, but the sovereign will and providence of God\" (Luke 17:35)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Two women shall be grinding together (Luke 17:35), and while some may argue that this verse was inserted from Matthew 24:40, the overarching message remains clear: one will be taken and the other left. The commentary suggests that this selection is reliant on the sovereign will and providence of God. Despite the absence of Luke 17:36 in the best authorities, the significance of two women grinding together is emphasized, possibly highlighting the unity and proximity of their actions. Ultimately, this verse reveals the divine power and control that determines the destiny of individuals.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.9777467739307776,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.85,
+            "commentatorTierSimilarities": [
+                12.61,
+                31.22,
+                56.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "One striking image presented is that of two women grinding together, suggesting a sense of unity and shared actions. The idea that one shall be taken and the other left unveils the inexplicable sovereignty of God's will and providence. While some scholars argue that Luke 17:36 may have been inserted from Matthew 24:40, the essential message remains intact. This verse serves as a reminder that our destinies are ultimately determined by a higher power, emphasizing the divine control at play in our lives.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 0.8700857459493508,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.27,
+            "commentatorTierSimilarities": [
+                15.07,
+                31.27,
+                53.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Two women grinding together highlights the unity and proximity of their actions, while the phrase one shall be taken and the other left emphasizes the inexplicable sovereignty of God's will and providence. Some argue that the omission of a certain verse suggests possible insertion from another biblical account. Nonetheless, this verse serves as a powerful reminder that our destinies are ultimately determined by a higher power, showcasing the divine control that shapes our lives.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 0.7513861429406804,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.33,
+            "commentatorTierSimilarities": [
+                19.75,
+                27.01,
+                53.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The image of two women grinding together depicts unity and shared actions, while the assertion that one shall be taken and the other left reveals the sovereign will and providence of God. Although there is debate about the inclusion of a specific verse, the underlying message remains clear. This passage underscores that our destinies are ultimately determined by a higher power, highlighting the divine control that shapes our lives.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 0.636780419939017,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.52,
+            "commentatorTierSimilarities": [
+                20.83,
+                25.16,
+                54.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The depiction of two women grinding together suggests a sense of unity, while the statement that one shall be taken and the other left underscores the sovereign will and providence of God. Despite the debate surrounding the inclusion of a specific portion, the fundamental message is clear: our destinies are shaped by a higher power. This highlights the divine control that guides our lives, reminding us of the inexplicable workings of God's will.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.5943972430856566,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.11,
+            "commentatorTierSimilarities": [
+                15.6,
+                25.28,
+                59.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:19:23",
+    "verseRef": "Luke 13:8",
+    "bestBHT": {
+        "bht": "Like a diligent gardener, Christ pleads for a brief respite, unwilling to see the seemingly barren tree cut down until every effort is made to nurture its potential. This symbolizes changes in divine treatment and the freshening of spiritual culture for the impenitent. Christ intercedes not only for the elect but also for the unconverted, desiring their conversion and growth in sanctification. The digging represents exposing hidden sins and the lack of spiritual root, while dunging signifies the need for warmth and love for Christ.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.3428481145668325,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.99,
+        "commentatorTierSimilarities": [
+            27.71,
+            14.36,
+            57.93
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] i.e. till I dig holes about the root, cast in manure, as is done to orange-trees in the south of Italy, and to hops in England."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ, as Intercessor, loath to see it cut down so long as there was any hope.",
+            "Loosen the earth about it and enrich it with manure pointing to changes of method in the divine treatment of the impenitent, in order to freshen spiritual culture.",
+            "Changes of method in the divine treatment of the impenitent, in order to freshen spiritual culture."
+        ],
+        "Philip Schaff": [
+            "A brief respite is asked for, and whatever intercessor may be here represented, there is never any certainty of more than a brief one.",
+            "Take additional pains with it, using the means adapted to further fruitfulness.",
+            "It is always true that the intercessor is also the laborer."
+        ],
+        "Archibald T. Robertson": [
+            "Till I shall dig (\u03b5\u03c9\u03c2 \u03bf\u03c4\u03bf\u03c5 \u03c3\u03ba\u03b1\u03c8\u03c9). First aorist active subjunctive like \u03b2\u03b1\u03bb\u03c9 (second aorist active subjunctive of \u03b2\u03b1\u03bb\u03bb\u03c9), both common verbs.",
+            "Dung it (\u03b2\u03b1\u03bb\u03c9 \u03ba\u03bf\u03c0\u03c1\u03b9\u03b1). Cast dung around it, manure it.",
+            "\u039a\u03bf\u03c0\u03c1\u03b9\u03b1, late word, here alone in the N.T."
+        ],
+        "John Gill": [
+            "He not only intercedes for his elect, for those that are unconverted, that they may be converted; and for converted ones, for the carrying on of the work of sanctification; for fresh discoveries of pardoning grace; for consolation and support under trouble; for their final perseverance, and eternal glorification.",
+            "By 'digging', striking at, and exposing some secret sin or sins, which are the root and source of their barrenness; showing them, that they have no root in Christ, nor the root of the matter in them.",
+            "'Dunging', which as it supposes want of heat, or coldness, which is the cause of barrenness, and signifies, that such professors are without spiritual life, and without spiritual heat, or real warmth of love to Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the patience and intercession of Christ. Like a diligent gardener who digs holes, enriches the soil, and provides care for a seemingly barren tree, Christ pleads for a brief respite, unwilling to see it cut down until every effort is made to nurture its potential. This symbolizes the changes in divine treatment and the freshening of spiritual culture for the impenitent. Christ intercedes not only for the elect but also for the unconverted, desiring their conversion and the progress of sanctification. The digging represents exposing hidden sins and the lack of spiritual root, while the dunging signifies the need for warmth and love for Christ. With Christ as both intercessor and laborer, the hope remains for the fruitfulness of each soul.",
+            "wordCount": 125,
+            "quoteTokenProportion": 31.76,
+            "qualityScore": 1.344389593361536,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.04,
+            "commentatorTierSimilarities": [
+                27.78,
+                18.35,
+                53.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Like a diligent gardener, Christ pleads for a brief respite, unwilling to see the seemingly barren tree cut down until every effort is made to nurture its potential. This symbolizes changes in divine treatment and the freshening of spiritual culture for the impenitent. Christ intercedes not only for the elect but also for the unconverted, desiring their conversion and growth in sanctification. The digging represents exposing hidden sins and the lack of spiritual root, while dunging signifies the need for warmth and love for Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3428481145668325,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.99,
+            "commentatorTierSimilarities": [
+                27.71,
+                14.36,
+                57.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, like a diligent gardener, refuses to let the seemingly fruitless tree be cut down until every effort is made to nurture its potential. His intercession represents changes in divine treatment and the cultivation of spiritual growth for the impenitent. He desires not only the conversion of the elect, but also the transformation of the unconverted. The digging symbolizes the exposure of hidden sins and the need for a strong spiritual foundation. The dunging signifies the necessity of warmth and genuine love for Christ in order to bear fruit.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.268236767575264,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.51,
+            "commentatorTierSimilarities": [
+                28.15,
+                19.03,
+                52.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, like a diligent gardener, entreats for a brief respite, unwilling to see the apparently fruitless tree cut down until every effort is made to nurture its potential. This signifies the changes in divine treatment for the impenitent, aiming to refresh their spiritual growth. Christ intercedes not only for the elect but also for the unconverted, yearning for their conversion and progress in sanctification. The act of digging represents the exposure of hidden sins, while dunging symbolizes the need for spiritual warmth and genuine love for Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3162620280949175,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.11,
+            "commentatorTierSimilarities": [
+                27.58,
+                18.39,
+                54.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Like a diligent gardener, Christ intercedes, refusing to see the seemingly fruitless tree cut down until every effort is made to nurture its potential. This represents changes in divine treatment for the impenitent, refreshing their spiritual culture. Christ intercedes for the unconverted, desiring their conversion and growth in sanctification. The act of digging exposes hidden sins, while dunging symbolizes the need for warmth and love for Christ. With Christ as both intercessor and laborer, hope remains for the fruitful growth of each soul.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.339631519536439,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+            "commentatorTierSimilarities": [
+                30.41,
+                18.17,
+                51.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:29:01",
+    "verseRef": "Acts 10:32",
+    "bestBHT": {
+        "bht": "In the house of Simon, Cornelius repeats to Peter with exact precision the instructions which had been given in his vision.",
+        "wordCount": 21,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 3.181545373872939,
+        "qualityScoreNormalizedComparedToV2BHTs": 97.12,
+        "commentatorTierSimilarities": [
+            30.85,
+            67.01,
+            2.14
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Cornelius repeats to Peter with exact precision the instructions which had been given in his vision."
+        ],
+        "Archibald T. Robertson": [
+            "In the house of Simon (\u03b5\u03bd \u03bf\u03b9\u03ba\u03b9\u03b1 \u03a3\u03b9\u03bc\u03c9\u03bd\u03bf\u03c2). See Acts 9:43 for \u03c0\u03b1\u03c1\u03b1 \u03a3\u03b9\u03bc\u03c9\u03bd with same idea. "
+        ],
+        "John Gill": [
+            "Send therefore to Joppa,....\" ",
+            "Who when he cometh shall speak unto thee.\" ",
+            "Is left out in the Alexandrian copy, and in the Vulgate Latin, and Ethiopic versions, but agrees with Acts 10:6."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the house of Simon, Cornelius repeats to Peter with exact precision the instructions which had been given in his vision.",
+            "wordCount": 21,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 3.181545373872939,
+            "qualityScoreNormalizedComparedToV2BHTs": 97.12,
+            "commentatorTierSimilarities": [
+                30.85,
+                67.01,
+                2.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Cornelius, in the house of Simon, faithfully relays to Peter the exact instructions that were given to him in his vision.",
+            "wordCount": 21,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.599774927106834,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.78,
+            "commentatorTierSimilarities": [
+                36.49,
+                58.47,
+                5.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the house of Simon, Cornelius repeats to Peter with precise accuracy the instructions that were originally given to him in his vision.",
+            "wordCount": 23,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.6976915702459574,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.04,
+            "commentatorTierSimilarities": [
+                32.44,
+                63.76,
+                3.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the house of Simon, Cornelius faithfully delivers the instructions he received in his vision to Peter, ensuring that the message is conveyed with exactness and precision.",
+            "wordCount": 27,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.287342631167039,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.39,
+            "commentatorTierSimilarities": [
+                31.75,
+                61.59,
+                6.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Cornelius, in the house of Simon, relays the precise instructions he received in his vision to Peter, ensuring that the message is accurately communicated.",
+            "wordCount": 24,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.183394416842108,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.94,
+            "commentatorTierSimilarities": [
+                33.95,
+                60.89,
+                5.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

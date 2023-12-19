@@ -1,0 +1,117 @@
+{
+    "timestamp": "12-19-2023 16:23:13",
+    "verseRef": "Luke 22:63",
+    "bestBHT": {
+        "bht": "As the soldiers held Jesus prisoner, they began to mock him, playing around like boys and inflicting physical harm by beating him. Their actions went far beyond mere mockery, as they insulted him, used offensive language, and even spat on him. They plucked off his skin, tore off his flesh, and pulled the hairs of his beard, fulfilling the prophecy in Isaiah 50:6. In this cruel and degrading treatment, we see the depths of their contempt for Jesus. (Matthew 26:67; Mark 14:65)",
+        "wordCount": 79,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.4087563438021766,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+        "commentatorTierSimilarities": [
+            33.36,
+            0.0,
+            66.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Smote [\u03b4\u03b5\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2] . Originally to flay; thence to cudgel. Compare our vulgarism, to tan or hide."
+        ],
+        "Archibald T. Robertson": [
+            "That held (\u03bf \u03c3\u03c5\u03bd\u03b5\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2)... Here alone in the N.T. for holding a prisoner (holding together).",
+            "Mocked (\u03b5\u03bd\u03b5\u03c0\u03b1\u03b9\u03b6\u03bf\u03bd). Imperfect active, were mocking, inchoative, began to mock, to play like boys.",
+            "And beat him (\u03b4\u03b5\u03c1\u03bf\u03bd\u03c4\u03b5\u03c2). Present active participle of \u03b4\u03b5\u03c1\u03c9, to flay, tan, or hide. Literally, 'beating.'"
+        ],
+        "John Gill": [
+            "mocked him; insulted him, and gave him very opprobrious language, and used him in a very scurrilous way, and even spit upon him;",
+            "This clause is left out in the Syriac, Arabic, and Persic versions; the word used, signifies plucking off the skin;",
+            "they pinched him, and tore off his flesh with their nails; they plucked the hairs of his beard, and the skin of his cheeks along with them, and so fulfilled Isaiah 50:6."
+        ],
+        "John Wesley": [
+            "Matthew 26:67; Mark 14:65."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the events unfolded, the soldiers began to mock and beat Jesus, treating him like a prisoner and playing around with him like boys. They insulted him, used offensive language, and even spat on him. Their actions went beyond mere mockery - they plucked off his skin, pinched him, tore off his flesh with their nails, and plucked the hairs of his beard. The fulfillment of Isaiah 50:6 became evident as they fulfilled the prophecy with their brutal treatment of Jesus. (Matthew 26:67; Mark 14:65)",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.3280929429459667,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.5,
+            "commentatorTierSimilarities": [
+                30.13,
+                0.0,
+                69.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As the soldiers held Jesus prisoner, they began to mock him, playing around like boys and inflicting physical harm by beating him. Their actions went far beyond mere mockery, as they insulted him, used offensive language, and even spat on him. They plucked off his skin, tore off his flesh, and pulled the hairs of his beard, fulfilling the prophecy in Isaiah 50:6. In this cruel and degrading treatment, we see the depths of their contempt for Jesus. (Matthew 26:67; Mark 14:65)",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.4087563438021766,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.18,
+            "commentatorTierSimilarities": [
+                33.36,
+                0.0,
+                66.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldiers held Jesus prisoner and began to mock Him, playing like boys and inflicting physical harm by beating Him. Their actions went beyond mere mockery; they insulted Him, used offensive language, and even spat on Him. They plucked off His skin, tore off His flesh, and pulled the hairs of His beard, fulfilling the prophecy in Isaiah 50:6. In this cruel treatment, we witness the depths of their contempt for Jesus. (Matthew 26:67; Mark 14:65)",
+            "wordCount": 73,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.3822918703460325,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.3,
+            "commentatorTierSimilarities": [
+                32.64,
+                0.0,
+                67.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Mocking and beating Jesus, the soldiers held Him prisoner, treating Him like a plaything. Their actions transcended mockery as they insulted Him, used offensive language, and even spat on Him. They plucked off His skin, tore off His flesh, and pulled His beard, fulfilling the prophecy in Isaiah 50:6. This cruel and degrading treatment reveals the extent of their contempt for Jesus. (Matthew 26:67; Mark 14:65)",
+            "wordCount": 63,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.3699586501471743,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.89,
+            "commentatorTierSimilarities": [
+                31.23,
+                0.0,
+                68.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the soldiers held Jesus prisoner, they began to mock Him, playing like boys. They not only insulted Him with offensive language, but also went so far as to pluck off His skin, tear His flesh, and pull His beard. This brutal treatment fulfilled the prophecy in Isaiah 50:6. Their actions displayed a deep contempt for Jesus, as they treated Him with such cruelty and degradation. (Matthew 26:67; Mark 14:65)",
+            "wordCount": 67,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.330041947723943,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.57,
+            "commentatorTierSimilarities": [
+                32.38,
+                0.0,
+                67.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 17:15:26",
+    "verseRef": "2 John 4",
+    "bestBHT": {
+        "bht": "I greatly rejoice to have found certain of thy children walking in truth, as commanded by the Father. The blessing of their godly home has clearly had a profound impact on their faith, and it brings me immense joy. May they continue steadfastly in the truth of the Gospel, abiding in the teachings they have received.",
+        "wordCount": 56,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.0105301245178184,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+        "commentatorTierSimilarities": [
+            32.4,
+            28.36,
+            39.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I rejoiced greatly...that I have found...of thy children walking in-truth.",
+            "...in that truth which is derived from and is part of the truth of God in Christ.",
+            "According as we received commandment from the Father, to walk in the truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Father\u2019s commandment is the standard of the truth.",
+            "In truth, that is, in the Gospel truth.",
+            "Probably in one of his missionary tours of superintendence."
+        ],
+        "Albert Barnes": [
+            "That I learned this fact respecting some of thy children...of thy children walking in truth...the essence of religion.",
+            "If he had referred to them all, the participle would have been in the genitive...only a part of her children...others might have done it without his knowledge.",
+            "Her consolation was that she had some who were truly good...to excite them in the most agreeable manner to persevere...the Father...the Source of law."
+        ],
+        "Marvin Vincent": [
+            "Expressions of thankful joy are common in the Pauline salutations.",
+            "Greatly. The word is found in John's writings only here and 3 John 1:3.",
+            "Of thy children. The rendering is obscure. Rev., rightly, supplies certain."
+        ],
+        "Philip Schaff": [
+            "I rejoiced greatly that I have found of thy children walking in truth.",
+            "This great preliminary commandment omits the name of the Son because the reception of Him is its substance.",
+            "The particular commandments are presently to be mentioned."
+        ],
+        "Archibald T. Robertson": [
+            "I rejoice...over the discovery about the blessing of their godly home on these lads.\" ",
+            "He sits down at once and writes to Kyria. How glad she would be that her lads, far away in the great city, were true to their early faith.\" ",
+            "Walking in truth... We received this command."
+        ],
+        "John Gill": [
+            "It is a great mercy when any are called by grace, and instead of the fathers are the children.",
+            "They walked in the truth of Gospel worship, discipline, and ordinances.",
+            "It gives them an inward pleasure and joy, and which is not only expressed by them, to such children and their parents, but is also abundant by many thanksgivings unto God."
+        ],
+        "John Wesley": [
+            "I found of thy children \u2014 Probably in their aunt's house, 2 John 1:13.",
+            "Walking in the truth \u2014 In faith and love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am filled with great joy to have discovered that some of your children are steadfastly walking in the truth, that is, in the Gospel truth as commanded by the Father. It is a wonderful blessing to see the evidence of the Lord's work in their lives and to witness their commitment to the faith. It is my prayer that they might continue on this path, abiding in Christ and living out the teachings of the Gospel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.854370341458403,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.0,
+            "commentatorTierSimilarities": [
+                31.21,
+                24.66,
+                44.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I greatly rejoice in the fact that I have found certain of your children walking in truth, according to the Father's commandment. It is a source of immense joy and thanksgiving to witness the faithfulness of these beloved ones, who have embraced the truth of the Gospel and are living in accordance with it. May they continue to walk in the truth, growing in their faith and remaining steadfast in their devotion to Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.9704551110992963,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.86,
+            "commentatorTierSimilarities": [
+                29.75,
+                28.28,
+                41.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I rejoice greatly to have found among your children those who are walking in the truth, upholding the commandments of the Father. The discovery of their godly upbringing fills my heart with gratitude, knowing that they remain faithful to their early faith. It is a testament to the blessings of their home and the impact it has had on their lives. May they continue to walk in the truth of the Gospel, holding firm to their belief and living out the teachings they have received.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8424469641359793,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                29.79,
+                29.03,
+                41.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I greatly rejoice to have found certain of thy children walking in truth, as commanded by the Father. The blessing of their godly home has clearly had a profound impact on their faith, and it brings me immense joy. May they continue steadfastly in the truth of the Gospel, abiding in the teachings they have received.",
+            "wordCount": 56,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.0105301245178184,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.19,
+            "commentatorTierSimilarities": [
+                32.4,
+                28.36,
+                39.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I greatly rejoice in the fact that I have found certain of thy children walking in truth, according to the Father's commandment. It is a wonderful blessing to see the evidence of the Lord's work in their lives and to witness their commitment to the faith. It is my prayer that they might continue on this path, abiding in Christ and living out the teachings of the Gospel.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.9264113437930093,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.39,
+            "commentatorTierSimilarities": [
+                30.1,
+                29.4,
+                40.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

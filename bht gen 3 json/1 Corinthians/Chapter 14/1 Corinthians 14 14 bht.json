@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:13:13",
+    "verseRef": "1 Corinthians 14:14",
+    "bestBHT": {
+        "bht": "When I pray in tongues, my spirit is inflamed with holy desires, but my intellectual part bears no fruit to edify others. The prayer is rhapsodical, moving my spirit, yet my understanding remains unfruitful for the benefit of others. It is important that my prayer is intelligible and the understanding can join in, so it is not in vain or profitless. If I pray without understanding, my intellect gets no benefit, and it does not align with the nature of prayer to merely proceed from the lips without involving the inmost soul.",
+        "wordCount": 92,
+        "quoteTokenProportion": 44.83,
+        "qualityScore": 2.299943820367419,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+        "commentatorTierSimilarities": [
+            32.37,
+            31.6,
+            36.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When I pray in a tongue, my higher being, my spirit, filled with the Holy Ghost, is inflamed with holy desires, and rapt in prayer.",
+            "But my intellectual part, having no matter before it on which its powers can be exercised, bears no fruit to the edification of others.",
+            "My spirit, not as in ver. 32, and Chrysostom, 'the spiritual gift given to me, and moving my tongue,'... but as in Acts xvii. 16, my (own) spirit, taking himself as an example."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "spirit\u2014my higher being, the passive object of the Holy Spirit's operations\" ",
+            "instrument of prayer in the unknown tongue, distinguished from the 'understanding'",
+            "unfruitful in edifying others, since the vehicle of expression is unintelligible to them"
+        ],
+        "Albert Barnes": [
+            "Unless it was intelligible, and the understanding could join in it, it would be vain and profitless.",
+            "My prayer will be acceptable to God, who looks upon the feelings of the heart, and I may have true enjoyment.",
+            "My intellect, my mind; my mental efforts and operations. Is unfruitful - Produces nothing that will be of advantage to them."
+        ],
+        "Marvin Vincent": [
+            "Spirit [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1] . The human spirit, which is moved by the divine Spirit. See on Romans 8:4. ",
+            "Understanding [\u03bd\u03bf\u03c5\u03c2] . See on Romans 7:23. ",
+            "Is unfruitful [\u03b1\u03ba\u03b1\u03c1\u03c0\u03bf\u03c2 \u03b5\u03c3\u03c4\u03b9\u03bd] . Furnishes nothing to others."
+        ],
+        "John Calvin": [
+            "Thou makest thy boast to me of spirit, but to what purpose, if it is useless?",
+            "Let us take notice, that Paul reckons it a great fault if the mind is not occupied in prayer.",
+            "What is more at variance with the nature of it, than that it should proceed merely from the lips, and not from the inmost soul?"
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 14:14. For if I pray in a tongue, my spirit prayeth, but my understanding is unfruitful \u2018my rational intelligence is unavailing to explain myself to others.\u2019",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "My intellect gets no benefit from rhapsodical praying.\" ",
+            "Rhapsodical praying may even move my spirit."
+        ],
+        "John Gill": [
+            "For if I pray in an unknown tongue...my understanding is unfruitful; that is, what I say with understanding to myself is unprofitable to others, not being understood by them.",
+            "I pray with my breath vocally...or else with affection and devotion, understanding what I say myself, and so am edified.",
+            "I pray...with the gift of the Spirit bestowed on me."
+        ],
+        "John Wesley": [
+            "If I pray in an unknown tongue... My spirit prayeth.\" ",
+            "By the power of the Spirit I understand the words myself.\" ",
+            "The knowledge I have is no benefit to others."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When I pray in tongues, my spirit is filled with the Holy Ghost, but my intellectual part bears no fruit in edifying others. The prayer is rhapsodical, moving my spirit, but my understanding remains unfruitful for the benefit of others. It is important that my prayer is intelligible and the understanding can join in, so it is not in vain or profitless. If I pray without understanding, my intellect gets no benefit, and it does not align with the nature of prayer to merely proceed from the lips without involving the inmost soul.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.297228830852723,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.72,
+            "commentatorTierSimilarities": [
+                32.76,
+                31.18,
+                36.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When I pray in tongues, my spirit is inflamed with holy desires, but my intellectual part bears no fruit to edify others. The prayer is rhapsodical, moving my spirit, yet my understanding remains unfruitful for the benefit of others. It is important that my prayer is intelligible and the understanding can join in, so it is not in vain or profitless. If I pray without understanding, my intellect gets no benefit, and it does not align with the nature of prayer to merely proceed from the lips without involving the inmost soul.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.299943820367419,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.81,
+            "commentatorTierSimilarities": [
+                32.37,
+                31.6,
+                36.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When I pray in tongues, my spirit is filled with the Holy Ghost, but my intellectual part bears no fruit to edify others. The prayer is rhapsodical, moving my spirit, yet my understanding remains unfruitful for the benefit of others. It is important that my prayer is intelligible and the understanding can join in, so it is not in vain or profitless. If I pray without understanding, my intellect gets no benefit, and it does not align with the nature of prayer to merely proceed from the lips without involving the inmost soul.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.290241445519192,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+            "commentatorTierSimilarities": [
+                32.59,
+                31.32,
+                36.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When I pray in a tongue, my higher being, my spirit, is filled with the Holy Ghost and rapt in prayer. However, my intellectual part, lacking material to exercise its powers, does not bear fruit in edifying others. While rhapsodical praying moves my spirit, it leaves my understanding unfruitful and unintelligible to others. Prayer should be both heartfelt and intelligible, engaging the inmost soul instead of proceeding solely from the lips. True prayer involves both the spirit and the understanding, benefiting both the self and others.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.1581796477239115,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.1,
+            "commentatorTierSimilarities": [
+                35.89,
+                29.34,
+                34.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When I pray in tongues, my spirit is filled with the Holy Ghost, but my intellectual part bears no fruit to edify others. The prayer is rhapsodical, moving my spirit, yet my understanding remains unfruitful for the benefit of others. It is important that my prayer is intelligible and the understanding can join in, so it is not in vain or profitless. If I pray without understanding, my intellect gets no benefit, and it does not align with the nature of prayer to merely proceed from the lips without involving the inmost soul.",
+            "wordCount": 93,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.290241445519192,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.49,
+            "commentatorTierSimilarities": [
+                32.59,
+                31.32,
+                36.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:35",
+    "verseRef": "Luke 8:16",
+    "bestBHT": {
+        "bht": "Jesus taught his disciples that the purpose of light is to let one see something else, not the light itself. He had kindled a light within them, and they were to ensure that it spread to others, not hiding it or keeping it back. The mysteries of the kingdom of heaven were delivered in parables so that they would not be seen and understood by everyone initially, but it was always Christ's intention for them to be shared. As the lights of the world, they were to let their light shine, both in their preaching and in their practice, holding forth the evangelical light and knowledge bestowed upon them.",
+        "wordCount": 110,
+        "quoteTokenProportion": 53.52,
+        "qualityScore": 1.49160068415735,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+        "commentatorTierSimilarities": [
+            32.28,
+            0.0,
+            67.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. No man, &amp;c.\u2014(see on :-, of which this is nearly a repetition)."
+        ],
+        "Marvin Vincent": [
+            "Candle [\u03bb\u03c5\u03c7\u03bd\u03bf\u03bd] . Rev., properly, lamp. See on Mark 4:21. ",
+            "Candlestick [\u03bb\u03c5\u03c7\u03bd\u03b9\u03b1\u03c2] . Correctly, as Rev., a stand. See on Matthew 5:15."
+        ],
+        "Archibald T. Robertson": [
+            "That is true, but it does not follow that Mark and Luke have bunched together separate sayings or that Matthew has scattered sayings delivered only on one occasion. One of the slowest lessons for some critics to learn is that Jesus repeated favourite sayings on different occasions and in different groupings just as every popular preacher and teacher does today.\" ",
+            "The purpose of light is to let one see something else, not the light.",
+            "Jesus had kindled a light within them. They must not hide it, but must see that it spreads to others."
+        ],
+        "John Gill": [
+            "Christ [...] observes to his disciples, that though the mysteries of the kingdom of heaven were delivered in parables for the present, that they might not be seen and understood by some.",
+            "His intention was not, that these things should always remain a secret with them; but as they were the lights of the world, they should communicate them to others.",
+            "It is the will of Christ, that what evangelical light and knowledge he bestows on any persons, they should not hide it, nor their gifts and talents, or keep it back from the view of others, but should hold it forth both in their preaching, and in their practice."
+        ],
+        "John Wesley": [
+            "No man having lighted a candle \u2014 As if ho had said, And let your good fruit appear openly. Matthew 5:15; Mark 4:21; Luke 11:33."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus taught his disciples that the purpose of light is to let one see something else, not the light itself. He had kindled a light within them, and they were to ensure that it spread to others, not hiding it or keeping it back. The mysteries of the kingdom of heaven were delivered in parables so that they would not be seen and understood by everyone initially, but it was always Christ's intention for them to be shared. As the lights of the world, they were to let their light shine, both in their preaching and in their practice, holding forth the evangelical light and knowledge bestowed upon them.",
+            "wordCount": 110,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 1.49160068415735,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                32.28,
+                0.0,
+                67.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus taught that light serves to illuminate something else rather than itself. Believers were to let the light kindled within them spread to others, not concealing it or their gifts and talents. Although the mysteries of the kingdom of heaven were often delivered in parables to limit understanding, it was Jesus' desire for his followers to share them openly. As the lights of the world, they were to shine brightly through their preaching and actions, revealing the evangelical light and knowledge they had received.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.4549099301001398,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.72,
+            "commentatorTierSimilarities": [
+                32.16,
+                0.0,
+                67.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus emphasized that the purpose of light is to allow one to see something else rather than the light itself. He had ignited a light within his disciples, urging them to ensure its spread to others instead of concealing it. While the mysteries of the kingdom of heaven were conveyed through parables, inhibiting comprehension for some, Jesus desired believers to openly share this knowledge. As the torchbearers of the world, followers were to radiate the evangelical light and understanding they had received through their teaching and conduct.",
+            "wordCount": 87,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.4354449901372741,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+            "commentatorTierSimilarities": [
+                35.34,
+                0.0,
+                64.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus taught his disciples that the purpose of light is to let one see something else, not the light itself. He had kindled a light within them, and they were to ensure that it spread to others, not hiding it or keeping it back. The mysteries of the kingdom of heaven were delivered in parables so that they would not be seen and understood by everyone initially, but it was always Christ's intention for them to be shared. As the lights of the world, they were to let their light shine, both in their preaching and in their practice, holding forth the evangelical light and knowledge bestowed upon them.",
+            "wordCount": 110,
+            "quoteTokenProportion": 53.52,
+            "qualityScore": 1.49160068415735,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.94,
+            "commentatorTierSimilarities": [
+                32.28,
+                0.0,
+                67.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus taught his disciples that the purpose of light is to let one see something else, not the light itself. He had kindled a light within them, and they were to ensure its spread to others, not hiding it or keeping it back. The mysteries of the kingdom of heaven were delivered in parables so that they would not be seen and understood by everyone initially, but it was always Christ's intention for them to be shared. As the lights of the world, they were to let their light shine both in their preaching and in their practice, extending the evangelical light and knowledge they had received.",
+            "wordCount": 108,
+            "quoteTokenProportion": 54.29,
+            "qualityScore": 1.4806999848178535,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                31.95,
+                0.0,
+                68.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

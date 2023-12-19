@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:59:15",
+    "verseRef": "1 Thessalonians 2:7",
+    "bestBHT": {
+        "bht": "Paul and his co-workers showed kindness and gentleness towards the Thessalonians, treating them like a mother cherishing her own children. They did not assert their authority, but rather nurtured them with patience and gentle guidance. This nurturing relationship went beyond just teaching, as Paul emphasized the tender affection he had for them. He compared their bond to that of a nurse caring for her own children, displaying a deep love and commitment to their spiritual well-being.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.7748635945400189,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+        "commentatorTierSimilarities": [
+            29.81,
+            36.04,
+            34.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But contrasts, not with the mere subordinate clause of the last verse...introduces the positive side of their behavior.",
+            "We were...we proved, as before, were found by experience to be: became, as your estimate of us became more accurate and thorough.",
+            "The emphasis on her own should not be lost sight of\u2014as when a nurse (a suckling mother) cherishes her own children."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "gentle\u2014Greek, 'mild in bearing with the faults of others' [TITTMANN]; one, too, who is gentle (though firm) in reproving the erroneous opinions of others.",
+            "Gentleness is the fitting characteristic of a nurse.",
+            "nurse\u2014a suckling mother. her\u2014Greek, 'her own children' (compare 1 Thessalonians 2:7). So Galatians 4:19."
+        ],
+        "Albert Barnes": [
+            "Instead of using authority, we used only the most kind and gentle methods to win you and to promote your peace and order.",
+            "The word here rendered 'nurse,' may mean any one who nurses a child, whether a mother or another person.",
+            "The apostle felt for them the affectionate solicitude which a mother does for the child at her breast."
+        ],
+        "Marvin Vincent": [
+            "Gentle...babes.\" ",
+            "In the midst of you...implies more intimate intercourse.",
+            "Nurse...cherisheth...her own children."
+        ],
+        "John Calvin": [
+            "Paul says that he was such, inasmuch as he voluntarily refrained from claiming the honor that was due to him, and with calmness and modesty stooped to every kind of office.",
+            "Paul declares that he was so disposed towards the Thessalonians, that he was prepared to lay out his life for their benefit. This, assuredly, was not the conduct of a man that was sordid or avaricious, but of one that exercised a disinterested affection.",
+            "All that would be ranked among true pastors must exercise this disposition of Paul\u2014to have more regard to the welfare of the Church than to their own life, and not be impelled to duty by a regard to their own advantage, but by a sincere love to those to whom they know that they are conjoined, and laid under obligation."
+        ],
+        "Philip Schaff": [
+            "Gentle, not severe, distant, official, imperious.",
+            "He made himself their equal.",
+            "Paul had aimed only at their good, and not at his own advantage, and had therefore put up with affronts and indignities, had borne with their slowness, had looked for no immediate reward or acknowledgment, had watched and worked for them regardless of results to himself."
+        ],
+        "Archibald T. Robertson": [
+            "Paul is fond of the word \u03bd\u03b7\u03c0\u03b9\u03bf (babes). Lightfoot admits that he here works the metaphor to the limit in his passion, but does not mar it as Ellicott holds.",
+            "This comparative clause with \u03c9\u03c2 \u03b5\u03b1\u03bd (Mark 4:26; Galatians 6:10 without \u03b5\u03b1\u03bd or \u03b1\u03bd) and the subjunctive (Robertson, Grammar, p. 968) has a sudden change of the metaphor, as is common with Paul...from babes to nurse (\u03c4\u03c1\u03bf\u03c6\u03bf\u03c2), old word...a picture of Paul's tender affection for the Thessalonians.",
+            "\u0398\u03b1\u03bb\u03c0\u03c9 is an old word to keep warm, to cherish with tender love, to foster. In N.T. only here and Ephesians 5:29."
+        ],
+        "John Gill": [
+            "But we were gentle among you... not using severity, or carrying it in a haughty imperious manner...\" ",
+            "and such were the apostles to these Thessalonians; they were their spiritual parents, of whom they travailed in birth, till Christ was formed in them...",
+            "they bore patiently all the slighting and ill treatment they met with; and condescended to men of low estates, and did them all the good offices they could, without any selfish views or sinister ends..."
+        ],
+        "John Wesley": [
+            "But we were gentle \u2014 Mild, tender.",
+            "In the midst of you \u2014 Like a hen surrounded with her young.",
+            "Even as a nurse cherisheth her own children \u2014 The offspring of her own womb."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul describes how he and his fellow workers behaved among the Thessalonians with kindness and gentleness, treating them as a nurse cherishes her own children. They did not exercise their authority over the Thessalonians, but rather became like nurturing mothers, fostering their spiritual growth. Paul's deep affection for the Thessalonians is evident, as he compares their relationship to a nurse caring for her own children. This nurturing approach included patiently bearing with the faults of others and gently reproving erroneous opinions. Paul wanted to ensure that the Thessalonians truly experienced Christ's love through their interactions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.7157487024235616,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.39,
+            "commentatorTierSimilarities": [
+                32.49,
+                31.77,
+                35.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and his co-workers showed kindness and gentleness towards the Thessalonians, treating them like a mother cherishing her own children. They did not assert their authority, but rather nurtured them with patience and gentle guidance. This nurturing relationship went beyond just teaching, as Paul emphasized the tender affection he had for them. He compared their bond to that of a nurse caring for her own children, displaying a deep love and commitment to their spiritual well-being.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.7748635945400189,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.36,
+            "commentatorTierSimilarities": [
+                29.81,
+                36.04,
+                34.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul and his fellow workers demonstrated gentle and nurturing behavior towards the Thessalonians, resembling a nurse's care for her own children. They were not harsh or distant, but kind and understanding, even when dealing with errors or shortcomings. The apostle's affection for the Thessalonians was genuine, as he willingly endured hardships and labored for their benefit without seeking personal gain or recognition. Their relationship was characterized by warmth and tenderness, reflecting Paul's deep love and desire for their growth in Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.649888933211708,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                25.4,
+                35.97,
+                38.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul and his co-workers exhibited a gentle and nurturing approach toward the Thessalonians, comparable to a mother caring for her own children. Their behavior was characterized by kindness, patience, and a firm yet gentle reproof of false opinions. Rather than asserting their authority, they sought to foster spiritual growth by cherishing the Thessalonians as a nurse would her own children. This intimate and affectionate relationship allowed for a deeper level of connection and understanding in their ministry.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7025708513878022,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.95,
+            "commentatorTierSimilarities": [
+                30.08,
+                36.13,
+                33.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul and his co-workers displayed a gentle and nurturing attitude among the Thessalonians. They chose not to exercise their authority over them, but instead cared for them like a nurse cherishing her own children. This tender approach involved patiently bearing their faults and reproving erroneous opinions with kindness. The apostle emphasized the intimate and affectionate relationship they had, comparing it to a mother caring for her child. Their goal was to promote growth and understanding, fostering a deep sense of love and connection in their ministry.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.6295431571368213,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                29.6,
+                36.14,
+                34.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

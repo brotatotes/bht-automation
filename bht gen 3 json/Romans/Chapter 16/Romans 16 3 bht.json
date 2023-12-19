@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:10:36",
+    "verseRef": "Romans 16:3",
+    "bestBHT": {
+        "bht": "Prisca and Aquila, a couple instrumental in early Christian activity, were skilled tentmakers who supported themselves while fervently serving the Lord. Prisca's name often precedes her husband's, highlighting her prominence and contribution to the Church. They were not only Paul's helpers but also played key roles in instructing and strengthening young Christians. Their commitment, both in their trade and in Christian service, was commended by Paul. Their partnership demonstrated the importance of capacity, fidelity, and devotion in advancing the Gospel.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.7522574741300656,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+        "commentatorTierSimilarities": [
+            27.91,
+            34.2,
+            37.89
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The form Prisca is also found 2 Tim. iv. 19.",
+            "On Prisca and Aquila see note, Acts xviii. 2.",
+            "They must have returned to Rome from Ephesus since the sending of the first Epistle to the Corinthians:\u2014see 1 Cor. xvi. 19."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The wife is here named before the husband... probably as being the more prominent and helpful to the Church.",
+            "The true reading here is 'Prisca'... a contracted form of Priscilla, as 'Silas' of 'Silvanus.'",
+            "Aquila my helpers."
+        ],
+        "Albert Barnes": [
+            "Greet Priscilla and Aquila - Salute; implying the apostle\u2019s kind remembrance of them, and his wishes for their welfare.",
+            "My helpers - My fellow-workers. They had aided him in his work.",
+            "In Christ Jesus - In the Christian cause."
+        ],
+        "Marvin Vincent": [
+            "It is argued by some that Aquila and Priscilla must have been at Ephesus at this time, since they were there when Paul wrote 1 Corinthians 16:19, and again when he wrote 2 Timothy 4:19.",
+            "As Rome was their headquarters, and they had been driven thence by an imperial edict (Acts 18:2), it is natural enough that they should have returned thither as soon as it was convenient and safe to do so.",
+            "Notice that the name of Priscilla precedes that of her husband. So Acts 18:2. Probably she was the more prominent of the two in Christian activity."
+        ],
+        "John Calvin": [
+            "The testimonies which he brings here in favor of some individuals, were partly intended for this end, that by honoring those who were faithful and worthy, faithfulness itself might be honored.",
+            "It is a singular honor which he ascribes here to Prisca and Aquila, especially with regard to a woman.",
+            "The modesty of the holy man does on this account more clearly shine forth; for he disdained not to have a woman as his associate in the work of the Lord; nor was he ashamed to confess this."
+        ],
+        "Philip Schaff": [
+            "'Priscilla' is the diminutive form, found elsewhere and in the versions and Fathers. The wife seems to have been the more prominent and active Christian; her name comes first in Acts 18:2, as well as here.",
+            "Then as now, capacity and fidelity formed the standard.",
+            "Follow workers (so E. V. in Colossians 4:11) in Christ Jesus. They had wrought together at their common handicraft, but this refers to working for Christ, in Him as the sphere of activity."
+        ],
+        "Archibald T. Robertson": [
+            "Prisca and Aquila... showing that Prisca was the more prominent.",
+            "She may have been a noble Roman lady, but her husband was a Jew of Pontus and a tent-maker by trade.",
+            "Both in tent-making and in Christian service in Corinth and Ephesus."
+        ],
+        "John Gill": [
+            "Her being named before her husband, is without design, for sometimes he is put before her... strict order is not always observed...",
+            "...they were very useful in their private conferences and instructions, both to ministers of the Gospel, as in the case of Apollos, and to young Christians...",
+            "...encouraging the young converts, comforting them with their own experiences and thereby helped them forward, instructed, strengthened, and established them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Priscilla and Aquila, also known as Prisca and Aquila, were an influential couple who played a significant role in the early Christian community. They were tentmakers by trade, and this skill allowed them to support themselves while actively engaging in the work of the Lord. Priscilla, the wife, is often mentioned before her husband, indicating her prominence and active involvement in spreading the Gospel. They were not only Paul's fellow workers and helpers but were also instrumental in instructing and strengthening young Christians. Despite societal norms and expectations, Paul did not hesitate to honor Priscilla and acknowledge her as his associate in the work of the Lord, highlighting her faithfulness and the importance of her contributions.",
+            "wordCount": 117,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7582532808636762,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.8,
+            "commentatorTierSimilarities": [
+                27.98,
+                33.72,
+                38.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Priscilla and Aquila, a prominent couple in the early Christian community, were tentmakers by trade and active in spreading the Gospel. Priscilla's name often precedes her husband's, suggesting her significant role and prominence. They not only assisted Paul but also contributed to ministering, instructing, and strengthening young Christians. Their faithfulness and valuable contributions were publicly recognized by Paul, despite societal expectations. Priscilla's involvement as a woman in the work of the Lord was an honorable distinction, highlighting the importance of capacity and fidelity in Christian service.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.7188391325971617,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.49,
+            "commentatorTierSimilarities": [
+                28.39,
+                32.77,
+                38.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Priscilla and Aquila, a couple known for their steadfast work in spreading the Gospel, were tentmakers by trade and essential to Paul's ministry. Priscilla's name is often mentioned ahead of her husband's, emphasizing her prominence and involvement. They not only supported Paul but also served as instructors and encouragers to young Christians. Paul recognized their faithfulness and valuable contributions, valuing them as fellow workers in Christ Jesus. Their partnership in both their trade and Christian service exemplified their dedication and commitment to the cause.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7196051004838901,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.52,
+            "commentatorTierSimilarities": [
+                27.34,
+                35.94,
+                36.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Priscilla and Aquila, a dynamic couple who played important roles in the early Christian community, were skilled tentmakers. Priscilla's name is often mentioned before her husband's, indicating her prominence and influence. They not only supported Paul in his ministry but also served as mentors, instructing and strengthening young Christians. Their dedication to the work of the Lord, both in their trade and in spreading the Gospel, was recognized and appreciated by Paul. Their partnership exemplified the values of capacity, fidelity, and devotion in Christian service.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.7021260871974064,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.94,
+            "commentatorTierSimilarities": [
+                28.11,
+                34.67,
+                37.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Prisca and Aquila, a couple instrumental in early Christian activity, were skilled tentmakers who supported themselves while fervently serving the Lord. Prisca's name often precedes her husband's, highlighting her prominence and contribution to the Church. They were not only Paul's helpers but also played key roles in instructing and strengthening young Christians. Their commitment, both in their trade and in Christian service, was commended by Paul. Their partnership demonstrated the importance of capacity, fidelity, and devotion in advancing the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7522574741300656,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.6,
+            "commentatorTierSimilarities": [
+                27.91,
+                34.2,
+                37.89
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:19:50",
+    "verseRef": "Luke 14:7",
+    "bestBHT": {
+        "bht": "Jesus observed how guests at a feast were choosing the chief places, which were the most honorable. His intention was not merely to teach good manners, but to convey a deeper message about humility. The Pharisees were known for their desire for the chief seats, and Jesus warned that those who exalt themselves would be abased. God would bring disgrace and contempt upon those who arrogantly regarded themselves as superior. It is crucial to resolve to be humble and modest, to avoid such consequences and instead seek true honor in God's sight.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.44,
+        "qualityScore": 1.9066549867359321,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+        "commentatorTierSimilarities": [
+            27.23,
+            30.41,
+            42.36
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Chief places, i.e., see Matt. xxiii. 6, the middle place in each couch, which was the most honourable.",
+            "At a large feast there would be many of these.",
+            "The middle place in each couch, which was the most honourable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His design was not so much to inculcate mere politeness or good manners, as underneath this to teach something deeper.",
+            "Chief rooms - principal seats, in the middle part of the couch on which they reclined at meals, esteemed the most honorable.",
+            "Luke 14:11."
+        ],
+        "Albert Barnes": [
+            "He gave a 'rule or precept' about the proper manner of attending a feast, or about the humility which ought to be manifested on such occasions.",
+            "The word 'rooms' here does not express the meaning of the original. It does not mean 'apartments,' but 'the higher places' at the table; those which were nearest the head of the table and to him who had invited them.",
+            "That this was the common character of the Pharisees appears from Matthew 23:6."
+        ],
+        "Marvin Vincent": [
+            "The Greek writers refer to the absurd contentions which sometimes arose for the chief seats at table.\" ",
+            "Theophrastus designates one who thrusts himself into the place next the host as mikrofilotimov, one who seeks petty distinctions.",
+            "They chose. Imperfect: were choosing. Something going on before his eyes."
+        ],
+        "John Calvin": [
+            "But the same thing must happen to all who proudly give themselves out as superior to others; for God will bring upon them disgrace and contempt.",
+            "But by a comparison taken from men, he describes what we ought to be inwardly before God.",
+            "Lest the same thing should happen to you, that God would punish your arrogance with the deepest disgrace, resolve, of your own accord, to be humble and modest."
+        ],
+        "Philip Schaff": [
+            "A parable, in the widest sense, since the language is to be taken literally, though made the basis of a general moral lesson.\" ",
+            "The invited guests, evidently numerous, were now arriving.",
+            "The coveted places were at the middle table, joining the two side tables."
+        ],
+        "Archibald T. Robertson": [
+            "This parable is for the guests who were there and who had been watching Jesus.\" ",
+            "When he marked, holding the mind upon them, old verb and common.",
+            "The place next to the host on the right was then, as now, the post of honour."
+        ],
+        "John Gill": [
+            "When he marked how they chose out the chief rooms; the uppermost places at the table, which these men loved, coveted, and sought after...",
+            "To the dinner at the Pharisee's house, particularly the lawyers, or Scribes and Pharisees...",
+            "...the uppermost places at the table, which these men loved, coveted, and sought after."
+        ],
+        "John Wesley": [
+            "Not only at a marriage feast, but on every occasion, he that exalteth himself shall be abased, and he that abaseth himself shall be exalted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At a large feast, there would be many who sought the most honorable places, the chief rooms. Jesus, observing their actions, used this opportunity to teach a deeper lesson. He wanted to emphasize the importance of humility rather than mere politeness or good manners. The Pharisees in particular were known for their desire to be seen as superior to others. Jesus warned that those who exalt themselves would ultimately be brought to disgrace and contempt by God. Therefore, it is wise to resolve to be humble and modest, avoiding the pride that leads to destruction.",
+            "wordCount": 95,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.723727806975838,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.66,
+            "commentatorTierSimilarities": [
+                27.22,
+                30.52,
+                42.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At a large feast, there would be many who sought the most honorable places, the chief rooms. Jesus used this to teach a deeper lesson on humility, cautioning against pride and the desire for superiority. He emphasized that those who exalted themselves would ultimately face disgrace and contempt from God. Therefore, it is important to resolve to be humble and modest, avoiding the destructive path of self-exaltation.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7281876810423307,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                25.35,
+                27.38,
+                47.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus observed how guests at a feast were choosing the chief places, which were the most honorable. His intention was not merely to teach good manners, but to convey a deeper message about humility. The Pharisees were known for their desire for the chief seats, and Jesus warned that those who exalt themselves would be abased. God would bring disgrace and contempt upon those who arrogantly regarded themselves as superior. It is crucial to resolve to be humble and modest, to avoid such consequences and instead seek true honor in God's sight.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.9066549867359321,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                27.23,
+                30.41,
+                42.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus observed how guests at a feast were choosing the chief places, which were the most honorable. His intention was not merely to teach good manners, but to convey a deeper message about humility. The Pharisees were known for their desire for the chief seats, and Jesus warned that those who exalt themselves would be abased. It is crucial to resolve to be humble and modest, to avoid disgrace and contempt from God. Seek true honor in God's sight, rather than seeking petty distinctions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8527935168223837,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                28.28,
+                30.64,
+                41.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus marked how guests at a feast were choosing the chief places, which were the most honorable. His purpose was not simply to teach good manners, but to convey a deeper message about humility. The Pharisees, in particular, were known for their desire for the chief seats. Jesus warned that those who exalt themselves would be abased, facing disgrace and contempt from God. To avoid this, it is essential to resolve to be humble and modest, seeking true honor in God's eyes.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.8644369295729413,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                28.69,
+                30.55,
+                40.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

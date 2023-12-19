@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:38:04",
+    "verseRef": "2 Thessalonians 2:2",
+    "bestBHT": {
+        "bht": "Do not let false teachings or forged letters shake your belief in the imminent day of the Lord. There will be individuals who try to deceive you and create confusion, like ships tossed by a stormy sea. Stay steadfast and do not be troubled or easily swayed by their false prophecies or manipulated letters. The teachings of the Apostles and the Holy Spirit confirm that the day of the Lord is at hand. Do not be swayed by those who claim special revelations or distort the words of the Apostles.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 1.7755420327498777,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+        "commentatorTierSimilarities": [
+            31.86,
+            28.72,
+            39.42
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let no pretended saying, no pretended epistle of mine, shake you in this matter.",
+            "The teaching of the Apostles was, and of the Holy Spirit in all ages has been, that the day of the Lord is at hand.",
+            "The devil, when he could not persuade them that the announcements of things future were false, took another way, and having suborned certain pestilent fellows, endeavoured to deceive by persuading them that those great and glorious events had an end."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "tossed\" as ships tossed by an agitated sea.",
+            "from your mind,\" that is, from your mental steadfastness on the subject.",
+            "is immediately imminent,\" literally, \"is present\"; \"is instantly coming."
+        ],
+        "Albert Barnes": [
+            "The word here used signifies, properly, to be moved as a wave of the sea, or to be tossed upon the waves, as a vessel is.",
+            "We may imagine something of the effects which will be produced by the alarm caused in a community when a belief prevails that the day of judgment is near.",
+            "It is no certain evidence of a want of piety to be alarmed at the approach of death."
+        ],
+        "Marvin Vincent": [
+            "They are to 'keep their heads' under the temptation to fanatical extravagances concerning the Lord's appearing.",
+            "The meaning is be unsettled or thrown into confusion.",
+            "Const. as from us with word and letter. The reference is to a letter or letters forged in Paul's name."
+        ],
+        "John Calvin": [
+            "However they may pretend to have the spirit of revelation, believe them not.\" ",
+            "Speech, in my opinion, includes every kind of doctrine, while false teachers insist in the way of reasons or conjectures, or other pretexts.",
+            "This, unquestionably, could not have taken place accidentally, or as the effect of mere human industry, if God himself had not by his power restrained Satan and all his ministers."
+        ],
+        "Philip Schaff": [
+            "That ye be not soon shaken out of your mind.\" ",
+            "Nor yet be troubled.",
+            "Be not troubled by anything I have said or written, as if in my teaching there were ground for the impression you have received."
+        ],
+        "Archibald T. Robertson": [
+            "To the end that...ye be not quickly shaken...from your mind...nor yet be troubled.\" ",
+            "No individual claim to divine revelation (the gift of prophecy) can justify the statement.",
+            "It is enough to give one pause to note Paul's indignation over this use of his name by one of the over-zealous advocates of the view that Christ was coming at once."
+        ],
+        "John Gill": [
+            "That ye be not soon shaken in mind,.... Or 'from your mind or sense', as the Vulgate Latin version; or 'from the solidity of sense', as the Arabic version; that is, from what they had received in their minds...",
+            "nor by spirit; by a prophetic spirit, by pretensions to a revelation from the Spirit, fixing the precise time of Christ's coming...",
+            "nor by letter, as from us; by forging a letter and counterfeiting their hands, for such practices began to be used very early..."
+        ],
+        "John Wesley": [
+            "Be not shaken in mind - In judgment.\" ",
+            "Or terrified - As those easily are who are immoderately fond of knowing future things.\" ",
+            "Neither by any pretended revelation from the Spirit, nor by pretence of any word spoken by me."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not let any false teachings or forged letters shake you in your belief that the day of the Lord is imminent. Just like ships tossed by a stormy sea, there are individuals trying to deceive you and lead you astray from the truth. Stay steadfast in your faith and do not be troubled by these distractions. The teachings of the Apostles and the Holy Spirit make it clear that the day of the Lord is at hand. Pay no heed to those who claim to have special revelations or who twist the words of the Apostles to deceive you. Remain grounded in the truth and do not be easily swayed or alarmed by false prophecies or manipulated letters.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.7818945109805262,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                31.13,
+                31.09,
+                37.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not let false teachings or forged letters shake you from the belief that the day of the Lord is imminent. The teaching of the Apostles and the Holy Spirit is clear: the day of the Lord is at hand. Stay steadfast and do not be swayed by the deceitful actions of those who seek to mislead you. Keep your mind focused, do not be troubled or alarmed by false prophecies or manipulated letters. Remain grounded and unwavering in your faith.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.7416677045413622,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.25,
+            "commentatorTierSimilarities": [
+                30.43,
+                33.2,
+                36.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not let any false teachings or forged letters shake you in your belief that the day of the Lord is imminent. Just like ships tossed by a stormy sea, there are individuals trying to deceive you and lead you astray from the truth. Stay steadfast in your faith and do not be troubled by these distractions. The teachings of the Apostles and the Holy Spirit make it clear that the day of the Lord is at hand. Pay no heed to those who claim to have special revelations or who twist the words of the Apostles to deceive you. Remain grounded in the truth and do not be easily swayed or alarmed by false prophecies or manipulated letters.",
+            "wordCount": 119,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 1.7818945109805262,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.59,
+            "commentatorTierSimilarities": [
+                31.13,
+                31.09,
+                37.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not let false teachings or forged letters shake your belief in the imminent day of the Lord. There will be individuals who try to deceive you and create confusion, like ships tossed by a stormy sea. Stay steadfast and do not be troubled or easily swayed by their false prophecies or manipulated letters. The teachings of the Apostles and the Holy Spirit confirm that the day of the Lord is at hand. Do not be swayed by those who claim special revelations or distort the words of the Apostles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7755420327498777,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.38,
+            "commentatorTierSimilarities": [
+                31.86,
+                28.72,
+                39.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not allow false teachings or forged letters to unsettle your belief in the imminent day of the Lord. Just like ships tossed by a stormy sea, there are individuals who try to deceive and confuse. Remain steadfast and do not be troubled or easily swayed by their false prophecies or manipulated letters. The teachings of the Apostles and the Holy Spirit confirm that the day of the Lord is near. Disregard those who claim special revelations or twist the words of the Apostles. Stay grounded in the truth and avoid being alarmed by their falsehoods.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6940811947072794,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.67,
+            "commentatorTierSimilarities": [
+                31.64,
+                28.59,
+                39.77
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

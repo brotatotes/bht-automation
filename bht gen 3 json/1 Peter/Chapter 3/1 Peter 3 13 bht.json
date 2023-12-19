@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:39:27",
+    "verseRef": "1 Peter 3:13",
+    "bestBHT": {
+        "bht": "Who is he that can harm you if you are zealous for good? This fearless confidence in God's protection from harm is experienced by Christ in His sufferings, and it is also extended to His followers. Those who live a holy and pure life, imitating God's benevolence, can rely on their character to safely navigate through life. The ungodly may provoke and disturb them, but the righteous shall sustain no real hurt and be kept safe under God's watchful care.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 2.242748428901117,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.91,
+        "commentatorTierSimilarities": [
+            30.08,
+            32.35,
+            37.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And who is he that shall harm you?",
+            "If ye be emulous of that which is good",
+            "Who is he that can harm you, if ye be emulous"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This fearless confidence in God's protection from harm, Christ, the Head, in His sufferings realized; so His members.",
+            "If you have become zealous of good.",
+            "Who will do you evil, if you be zealous of good?"
+        ],
+        "Albert Barnes": [
+            "God would in general protect them, though the next verse shows that the apostle did not mean to teach that there would be absolute security...",
+            "People who are upright and pure; who live to do good to others who are characteristically benevolent and who are imitators of God - are those who usually pass life in most tranquillity and security...",
+            "A man of a holy and pure life may, under the protection of God, rely on that character to carry him safely through the world and to bring him at last to an honored grave."
+        ],
+        "Marvin Vincent": [
+            "Followers [\u03bc\u03b9\u03bc\u03b7\u03c4\u03b1\u03b9] . Lit., imitators. But the best texts read zhlwtai, zealots. So Rev., zealous."
+        ],
+        "John Calvin": [
+            "For it happens for the most part, that the ungodly disturb us, or are provoked by us, or that we do not labor to do them good as it behoves us.",
+            "They who seek to do good, do even soften minds which are otherwise hard as iron.",
+            "The children of God, how much soever they may strive to pacify the ungodly by kindness, and shew themselves kind towards all, are yet often assailed undeservedly by many."
+        ],
+        "Philip Schaff": [
+            "The counsels of 1 Peter 3:8-9 are yet again enforced by a still more pointed statement of the security of the righteous.",
+            "Its interrogative form adds also to its confidence.",
+            "However ungenerously dealt with, they shall yet sustain no real hurt; they shall still be in God\u2019s safe keeping."
+        ],
+        "Archibald T. Robertson": [
+            "Any real hurt, either that wishes to harm you or that can harm.",
+            "Rather, 'if ye become' (condition of third class with \u03b5\u03b1\u03bd and second aorist middle subjunctive of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1).",
+            "'Zealots for the good' (objective genitive after \u03b6\u03b7\u03bb\u03c9\u03c4\u03b1 (zealots, not zealous), old word from \u03b6\u03b7\u03bb\u03bf\u03c9."
+        ],
+        "John Gill": [
+            "God will not; for his eyes are upon the righteous, to protect and defend them, and, his ears are open to their cries, to avenge them; he is on their side, and he is the only lawgiver that is able to save, and to destroy."
+        ],
+        "John Wesley": [
+            "Who is he that will harm you \u2014 None can."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who can harm those who are zealous for good? This fearless confidence in God's protection is realized in Christ's suffering, and so it is for His followers. Though the ungodly may provoke and disturb them, the righteous shall sustain no real hurt and will be kept safe by God. Living a holy and pure life and imitating God's benevolence, they can rely on their character to carry them safely through life. God's eyes are upon the righteous, protecting and defending them, and none can harm them.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.203414565147491,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                28.8,
+                33.32,
+                37.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Who is he that can harm you, if ye be emulous of that which is good? This fearless confidence in God's protection from harm is realized in Christ's sufferings and extended to His followers. Though the ungodly may provoke and disturb them, living a holy and pure life, zealous for good, the righteous shall sustain no real hurt and be kept safe by God. His eyes are upon the righteous, protecting and defending them, so none can harm them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.2088603766439174,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.79,
+            "commentatorTierSimilarities": [
+                30.72,
+                29.29,
+                39.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Who is he that can harm you if you are zealous for good? This fearless confidence in God's protection from harm is experienced by Christ in His sufferings, and it is also extended to His followers. Those who live a holy and pure life, imitating God's benevolence, can rely on their character to safely navigate through life. The ungodly may provoke and disturb them, but the righteous shall sustain no real hurt and be kept safe under God's watchful care.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 2.242748428901117,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.91,
+            "commentatorTierSimilarities": [
+                30.08,
+                32.35,
+                37.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Who can harm those who are zealous for good? This fearless confidence in God's protection is realized in Christ's sufferings and extends to His followers. Living a holy and pure life, imitating God's benevolence, ensures that the righteous shall sustain no real hurt. Though the ungodly may provoke and disturb them, they will be kept safe by God's watchful care. God's eyes are upon the righteous, protecting and defending them, leaving no room for harm to come their way.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.1451334238877493,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.67,
+            "commentatorTierSimilarities": [
+                29.43,
+                33.01,
+                37.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Who can harm the zealous pursuers of good? This unwavering trust in God's protective kindness finds its roots in Christ's sufferings as well as in the experience of His faithful followers. Even in the face of provocation or disturbance from the ungodly, those who live a holy and pure life, imitating God's benevolence, experience true safety and harmlessness. Under God's vigilant watch, they are shielded from any lasting harm, as His eyes remain fixed on their protection and defense.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.028487988488194,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.79,
+            "commentatorTierSimilarities": [
+                30.16,
+                32.63,
+                37.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:18:55",
+    "verseRef": "2 Corinthians 13:2",
+    "bestBHT": {
+        "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. With these words, Paul emphasizes his unwavering determination to address both those who have sinned in the past and those who may still require warning. The antithesis between his previous visit and his current absence highlights the seriousness of the matter. Paul's intention is clear: he will not hesitate to take decisive action and punish offenders accordingly, for the time for leniency has passed.",
+        "wordCount": 98,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.8952048846189373,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+        "commentatorTierSimilarities": [
+            35.38,
+            39.37,
+            25.25
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have forewarned you, and I now forewarn you... when present the second time, so also now when absent.\" ",
+            "them which have sinned heretofore... all the rest of you who may not have actually sinned, but still require warning.",
+            "if I come again at my next coming. This was what he was last there, and now repeats."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Rather, 'I have already said (at my second visit), and tell you (now) beforehand, AS (I did) WHEN I WAS PRESENT THE SECOND TIME, SO also NOW in my absence...'",
+            "The antithesis between 'the second time' and 'now' is palpable.",
+            "'...whensoever I come again... These were probably the very words of his former threat which he now repeats again.'"
+        ],
+        "Albert Barnes": [
+            "I would not spare offenders; that I would certainly punish them.",
+            "My fixed determination to punish every offender as he deserves.",
+            "I will not spare - I will punish them. They shall not escape."
+        ],
+        "Marvin Vincent": [
+            "I have said beforehand thus refers to the second visit; I do say beforehand, to his present condition of absence.",
+            "As if I were present the second time; thus making a distinct historical reference to the second visit.",
+            "And being absent now I write to them which heretofore, etc. Render, so now being absent (I say beforehand) to them which, etc."
+        ],
+        "John Calvin": [
+            "When we see him act with so much strictness, we need have no doubt, that they were surprisingly ungovernable and obstinate...",
+            "We are well aware, that nothing is more hurtful than excessive indulgence... Let us, therefore, use mildness, when we can safely do so, and that too, dignified and properly regulated: let us act with greater severity, when necessity requires.",
+            "I have no doubt that he means, that he will inflict punishment upon them by excommunication."
+        ],
+        "Philip Schaff": [
+            "I have said beforehand (at my former visit), and I do say beforehand, as when I was present the second time, so now being absent, that if I come again, I will not spare.",
+            "The time for leniency towards convicted offenders is past."
+        ],
+        "Archibald T. Robertson": [
+            "As when I was present the second time.",
+            "But \u03c9\u03c2 with \u03c0\u03b1\u03c1\u03c9\u03bd can also mean 'as if present' the second time.",
+            "The use of \u03c0\u03b1\u03bb\u03b9\u03bd of itself suits the idea that Paul had not yet made the second visit."
+        ],
+        "John Gill": [
+            "He means, that he had in his former epistle faithfully told them of their evils, and admonished them for them; and now he sends to them a second time before his coming, and again admonishes them, as if he was upon the spot with them...",
+            "before he wrote his first epistle, of which he had information, and had faithfully reproved and admonished them...",
+            "this was the reason why as yet he had not been at Corinth, because he was willing to spare them... being loath to come to severities, if gentler methods would take effect; but now having used all proper means, he is at a point, and determined not to spare..."
+        ],
+        "John Wesley": [
+            "All the rest \u2014 Who have since then sinned in any of these kinds.",
+            "I will not spare \u2014 I will severely punish them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. With these words, Paul emphasizes his unwavering determination to address both those who have sinned in the past and those who may still require warning. The antithesis between his previous visit and his current absence highlights the seriousness of the matter. Paul's intention is clear: he will not hesitate to take decisive action and punish offenders accordingly, for the time for leniency has passed.",
+            "wordCount": 98,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8952048846189373,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.36,
+            "commentatorTierSimilarities": [
+                35.38,
+                39.37,
+                25.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. With these words, Paul emphasizes his unwavering determination to address both those who have sinned in the past and those who may still require warning. The antithesis between his previous visit and his current absence highlights the seriousness of the matter. Paul's intention is clear: he will not hesitate to take decisive action and punish offenders accordingly.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8603836313860036,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                34.58,
+                39.24,
+                26.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. Paul's words reveal his resolute stance in dealing with sinners, both those who have sinned before and those who still need to be cautioned. The contrast between his past visit and his current absence underscores the gravity of the situation. In no uncertain terms, Paul asserts his determination to take decisive action and administer punishment to those who transgress.",
+            "wordCount": 93,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.757613029304463,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                34.59,
+                37.68,
+                27.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. With these words, Paul underscores his unwavering resolve to address both past sinners and those who require warning. The contrasting antithesis between his previous visit and current absence highlights the seriousness of the matter. Paul's clear intention is to take decisive action and punish offenders accordingly, leaving no room for leniency towards convicted transgressors.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.8348958220264922,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                32.51,
+                42.64,
+                24.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I have already said (at my second visit), and tell you (now) beforehand, as I did when I was present the second time, so also now in my absence... I will not spare. Paul's resolute admonition reflects his unwavering determination to address both past and potential sinners. The stark antithesis between his prior visit and present absence underscores the gravity of the situation. Paul unequivocally declares his intent to take decisive action and administer due punishment, leaving no room for leniency towards convicted offenders.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7963948199588597,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.07,
+            "commentatorTierSimilarities": [
+                33.3,
+                42.83,
+                23.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:25",
+    "verseRef": "Luke 20:42",
+    "bestBHT": {
+        "bht": "Jesus clearly acknowledges David as the author of Luke 20:110, as stated in the language used. The inspiration and Messianic nature of this Psalm are confirmed in Mark 12:36 and Matthew 22:43. Despite the disagreements among modern scholars about the authorship of Luke 20:110, the natural implication of Jesus' words supports David as the author. This aligns with the words of David in Psalm 110:1, where he speaks of the Lord bidding his Lord to sit at his right hand in human nature.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.4521567882127693,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.87,
+        "commentatorTierSimilarities": [
+            65.74,
+            0.0,
+            34.26
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "This language of Jesus clearly means that he treats David as the author of Luke 20:110.\" ",
+            "The inspiration of this Psalm is expressly stated in Mark 12:36; Matthew 22:43 (which see) and the Messianic character of the Psalm in all three Synoptics who all quote the LXX practically alike.\" ",
+            "Certainly modern scholars are not agreed on the authorship of Luke 20:110. Meanwhile one can certainly be excused for accepting the natural implication of the words of Jesus here, 'David himself.'"
+        ],
+        "John Gill": [
+            "And David himself saith in the book Psalms.",
+            "the Lord said to my Lord, sit thou on my right hand.",
+            "when he was bid to sit down in human nature, at the right hand of God."
+        ],
+        "John Wesley": [
+            "Psalm 110:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus clearly acknowledges David as the author of Luke 20:110, as stated in the language used. The inspiration and Messianic nature of this Psalm are confirmed in Mark 12:36 and Matthew 22:43. Despite the disagreements among modern scholars about the authorship of Luke 20:110, the natural implication of Jesus' words supports David as the author. This aligns with the words of David in Psalm 110:1, where he speaks of the Lord bidding his Lord to sit at his right hand in human nature.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4521567882127693,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.87,
+            "commentatorTierSimilarities": [
+                65.74,
+                0.0,
+                34.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus affirms David as the author of Luke 20:110, indicating his acknowledgment of the inspiration and Messianic character of the Psalm. Despite opposing views among scholars, the natural implication of Jesus' words supports David as the author. In Psalm 110, David himself speaks of the Lord inviting his Lord to sit at his right hand, demonstrating the divine authority bestowed upon him in human nature.",
+            "wordCount": 63,
+            "quoteTokenProportion": 27.91,
+            "qualityScore": 2.2328551999793493,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                62.12,
+                0.0,
+                37.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' language in Luke 20:110 makes it clear that he recognizes David as the author of the Psalm. The inspiration and Messianic nature of the Psalm are explicitly mentioned in Mark 12:36 and Matthew 22:43. Although scholars disagree on the authorship of Luke 20:110, the words of Jesus strongly imply that David himself penned the passage. This aligns with Psalm 110:1, where David speaks of the Lord inviting his Lord to sit at his right hand, signifying his exalted position in human form.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.4317754905230813,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.2,
+            "commentatorTierSimilarities": [
+                63.13,
+                0.0,
+                36.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' affirmation of David as the author of Luke 20:110 is evident in his language, indicating the inspiration and Messianic nature of the Psalm, which is confirmed in Mark 12:36 and Matthew 22:43. While scholars may differ on the authorship, Jesus' words strongly imply that David himself penned the verses. This aligns with the words of David in Psalm 110:1, where he speaks of the Lord inviting his Lord to sit at his right hand, symbolizing his exalted position in human form.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.398748841618278,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.1,
+            "commentatorTierSimilarities": [
+                62.54,
+                0.0,
+                37.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus indicates that David is the author of the passage in Luke 20:110, signifying the inspiration of the Psalm and its Messianic character. This is supported by the similar quotes in Mark 12:36 and Matthew 22:43, which express the divine nature of the Psalm. Although there is debate among scholars regarding the authorship, Jesus' words strongly suggest that David himself wrote the verses. Psalm 110:1 further confirms this, as David speaks of the Lord inviting his Lord to sit at his right hand, emphasizing the exalted position of the Messiah in human form.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.309983611836103,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.15,
+            "commentatorTierSimilarities": [
+                61.61,
+                0.0,
+                38.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

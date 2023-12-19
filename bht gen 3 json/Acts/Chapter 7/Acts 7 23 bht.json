@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:27:24",
+    "verseRef": "Acts 7:23",
+    "bestBHT": {
+        "bht": "At the age of forty, Moses' heart was filled with a profound longing to visit his Hebrew brethren. Stephen's division of Moses' life into three distinct periods of forty years each, although not explicitly mentioned in scripture, is widely accepted. This deep desire within Moses emerged from the depths of his soul, driving him to take action on his belief that God had chosen him to deliver his people from bondage. Moses' visit to his kinsmen was the fulfillment of a forty-year period that had been appointed for him to complete.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 2.2480891620618246,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+        "commentatorTierSimilarities": [
+            36.73,
+            38.51,
+            24.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23. full forty years old] The text of Exod. ii. 11 has only \u201cwhen Moses was grown.\u201d The exact age was traditional."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the life of Moses is represented as embracing three periods, of forty years each...and though this is not expressly stated in the Old Testament, his age at death, one hundred twenty years...agrees with it.",
+            "it came into his heart to visit his brethren\u2014his heart yearning with love to them as God's chosen people, and heaving with the consciousness of a divine vocation to set them free."
+        ],
+        "Albert Barnes": [
+            "Full forty years old - This is not recorded in the Old Testament; but it is a constant tradition of the Jews that Moses was 40 years of age when he undertook to deliver them.\" ",
+            "Thus, it is said, 'Moses lived in the palace of Pharaoh forty years; he was forty years in Midian; and he ministered to Israel forty years' (Kuinoel).",
+            "To visit ... - Probably with a view of delivering them from their oppressive bondage."
+        ],
+        "Marvin Vincent": [
+            "There may be something in the depth of the soul which afterward emerges and ascends from that sea into the heart as into an island\" (Bengel).",
+            "The expression is imitated from the Hebrew, and occurs in the Septuagint\" (Bengel).",
+            "The ark shall not come to mind; 'lit., go up into the heart\" (Jeremiah 3:16)."
+        ],
+        "John Calvin": [
+            "Stephen incline[s] rather toward the contrary, to wit, that the Spirit of God did at length awake his mind, as it were out of sleep.\" ",
+            "It is to be thought that he was not ignorant of what stock he came, seeing he had some token thereof in his flesh.\" ",
+            "This serveth not a little to set forth the glory of God, that Moses, being ignorant of his calling, doth remain a long time idle in the king\u2019s court, and is afterward called of the Lord contrary to the hope of all men, and his own also."
+        ],
+        "Philip Schaff": [
+            "Stephen divides the life of Moses into three exact periods, each of forty years.",
+            "This repeats the statement of Stephen, who doubtless quoted from the traditional history generally received in his times.",
+            "In the midst of all his busy life with the great ones of Egypt, while dwelling in the palace of the Pharaoh, the thought of his own race and people toiling at their hard tasks...he obeyed the impulse, and went and pondered over the life they were leading."
+        ],
+        "Archibald T. Robertson": [
+            "When a forty year old time was being fulfilled for him.",
+            "Came up as if from the lower deeps of his nature.",
+            "Moses desired to know first hand how his kinsmen were faring."
+        ],
+        "John Gill": [
+            "Indeed, the fabulous history of his life makes him to be but fifteen years of age at this time... but Stephen's account is undoubtedly right.",
+            "He [Moses] exhorted the officers to use mildness and moderation with them [the Israelites], and comforted and encouraged the Israelites to bear their burdens with patience and constancy.",
+            "Suggesting, that things would take another turn, and would change for the better in time."
+        ],
+        "John Wesley": [
+            "It came into his heart \u2014 Probably by an impulse from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the age of forty, Moses felt a deep yearning in his heart to visit his Hebrew brethren and understand their condition firsthand. This desire emerged from the depths of his soul as if from the lower depths, and he was driven by a divine calling to set his people free. Stephen divinely divides Moses' life into three periods of forty years each, even though this is not explicitly stated in the Old Testament. Moses' longing to know how his kinsmen were faring led him to take action and visit them, ultimately fulfilling the forty-year time that was appointed for him.",
+            "wordCount": 102,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.2119952146883657,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.89,
+            "commentatorTierSimilarities": [
+                35.92,
+                37.38,
+                26.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the age of forty, Moses' heart was filled with a profound longing to visit his Hebrew brethren. Stephen's division of Moses' life into three distinct periods of forty years each, although not explicitly mentioned in scripture, is widely accepted. This deep desire within Moses emerged from the depths of his soul, driving him to take action on his belief that God had chosen him to deliver his people from bondage. Moses' visit to his kinsmen was the fulfillment of a forty-year period that had been appointed for him to complete.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.2480891620618246,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+            "commentatorTierSimilarities": [
+                36.73,
+                38.51,
+                24.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the age of forty, Moses felt a deep yearning in his heart to visit his Hebrew brethren and understand their condition firsthand. This desire emerged from the depths of his soul as if from the lower depths, and he was driven by a divine calling to set his people free. Stephen's division of Moses' life into three periods of forty years each, while not explicitly stated in the Old Testament, aligns with his age at death and suggests a divine plan at work.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.239969326690834,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.82,
+            "commentatorTierSimilarities": [
+                37.82,
+                35.61,
+                26.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Moses, at the age of forty, felt a yearning within his heart to visit his Hebrew brethren and witness their plight. This deep desire sprang forth from the depths of his being like an island emerges from the sea. Stephen's division of Moses' life into three forty-year periods corresponds with the traditional belief among Jews. Moses obeyed the impulse to visit his kinsmen, fulfilling a forty-year period that had been ordained for him.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.0291343215838555,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.81,
+            "commentatorTierSimilarities": [
+                36.62,
+                38.92,
+                24.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the age of forty, Moses felt a deep yearning in his heart to personally visit his Hebrew brethren and understand their situation. Stephen's division of Moses' life into three periods of forty years each resonates with the traditional belief among Jews. This longing within Moses emerged from the depths of his soul and drove him to fulfill the predetermined forty-year period. Moses' desire to know the condition of his kinsmen prompted him to take action, ultimately fulfilling his divine calling to deliver his people from bondage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.2081268679559356,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                36.17,
+                40.29,
+                23.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

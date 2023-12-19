@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:38:58",
+    "verseRef": "1 Peter 1:24",
+    "bestBHT": {
+        "bht": "All flesh is likened to grass, fleeting and withering, while the glory of man, his wisdom, strength, wealth, and righteousness, fades away. In contrast, the word of the Lord is eternal, imperishable, and demands that we earnestly follow the new life implanted in us. Through the grace of the new birth, we are called to embrace the eternal and reject the transitory. Our true glory is found in the revelation of God's promise and the undecaying love it instills in us.",
+        "wordCount": 82,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 1.7058810611294932,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+        "commentatorTierSimilarities": [
+            30.46,
+            33.38,
+            36.16
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because all flesh is as grass, and all glory of it as flower of grass. The grass was dried up, and the flower [thereof] fell away: but the word of the Lord remaineth for ever.\" (p. 24)",
+            "The contrast being between the general truth and the particular identification.\" (p. 24)",
+            "And consequently the word preached to you is imperishable and eternal, and demands of you that you earnestly and intently follow up that new life which by it has been implanted in you.\" (p. 24)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If ye were born again of flesh, corruptible seed, ye must also perish again as the grass; but now that from which you have derived life remains eternally, and so also will render you eternal.\" ",
+            "The glory\" is the wisdom, strength, riches, learning, honor, beauty, art, virtue, and righteousness of the NATURAL man (expressed by \"flesh\"), which all are transitory... the glory of man, in his true ideal realized in the believer, is eternal.\" ",
+            "The grass... withered... fell away... it no sooner is than it is gone. 'The grass' is the flesh: 'the flower' its glory."
+        ],
+        "Albert Barnes": [
+            "All flesh, every human being, is like grass. There is no stability in anything that man does or produces. He himself resembles grass that soon fades and withers; but God and his word endure forever the same.",
+            "All that man prides himself on - his wealth, rank, talents, beauty, learning, splendor of equipage or apparel.",
+            "The grass withereth, and the flower thereof falleth away."
+        ],
+        "Marvin Vincent": [
+            "Withereth was the grass.\" ",
+            "The flower fell off."
+        ],
+        "John Calvin": [
+            "For all flesh...how great is the grace of the new birth.",
+            "Until their own emptiness is shown to men, they are not prepared to receive the grace of God.",
+            "Man is wholly alienated from the kingdom of God, that he is nothing but an earthly, fading, and empty creature, until he is born again."
+        ],
+        "Philip Schaff": [
+            "The phrase 'all flesh'...embraces man and all that is of man as he is by nature.\" ",
+            "The 'glory' of the flesh...is compared to the still more tender bloom that brightens on the flower only to fall off.\" ",
+            "Peter identifies the revelation in the form of the ancient word of promise with the revelation in the form of the recent word of preaching...creating in them a life capable of a stedfast and undecaying love."
+        ],
+        "John Gill": [
+            "All men, as born of corruptible seed, are frail, mortal, and perishing; they spring up like grass, and look beautiful for a while, but are very weak and tender, and in a little time they are cut down by death, and wither away.\" ",
+            "All outward things which are in esteem with men, and render them glorious to one another, as riches, honour, wisdom, strength, external righteousness, holiness, and goodness; all which are fading and transitory, like the flower of the field.",
+            "The grass withereth, and the flower thereof fadeth away; and so fading are all the above things."
+        ],
+        "John Wesley": [
+            "Every human creature is transient and withering as grass.",
+            "His wisdom, strength, wealth, righteousness... all the glory of it.",
+            "Man... his glory... fallen off."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reminds us that all human beings, and everything they pride themselves on, are transient and withering, comparable to grass that withers and flowers that fall away. The word of the Lord, on the other hand, remains forever. The glory of man, his wisdom, strength, wealth, and righteousness, is fleeting and ultimately falls off. However, through the imperishable and eternal word preached to us, we are called to earnestly pursue a new life that has been implanted within us. We are born again of a seed that is imperishable and will render us eternal, unlike the fading glory of the flesh.",
+            "wordCount": 102,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.785953347112767,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                30.05,
+                33.89,
+                36.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All flesh is likened to grass, fleeting and withering, while the glory of man, his wisdom, strength, wealth, and righteousness, fades away. In contrast, the word of the Lord is eternal, imperishable, and demands that we earnestly follow the new life implanted in us. Through the grace of the new birth, we are called to embrace the eternal and reject the transitory. Our true glory is found in the revelation of God's promise and the undecaying love it instills in us.",
+            "wordCount": 82,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.7058810611294932,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.06,
+            "commentatorTierSimilarities": [
+                30.46,
+                33.38,
+                36.16
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As all flesh is comparable to grass, withering and transient, the glory of man, encompassing wealth, talents, and righteousness, also fades away. While these earthly pursuits are fleeting, the word of the Lord remains forever. Through the imperishable and eternal word preached, we are called to embrace a new life implanted in us. This new life, born of incorruptible seed, grants us the opportunity for eternal existence. The revelation of God's promise in both ancient scriptures and recent preaching instills in us a steadfast and undecaying love.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.6145397583397254,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+            "commentatorTierSimilarities": [
+                27.97,
+                34.64,
+                37.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All flesh, like grass, fades and withers. The glory of man, including his wealth, talents, and righteousness, is transitory. But the word of the Lord remains eternally. Through the imperishable and eternal word preached, we are compelled to earnestly pursue the new life planted within us. Born again from incorruptible seed, we are called to embrace the everlasting, rejecting the transient. Our true glory lies in the revelation of God's promise, which sparks an undying love within us leading to eternal existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.6507304896230255,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                31.75,
+                32.69,
+                35.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All flesh, including the glory of man, is transitory, like grass that withers. However, the word of the Lord is imperishable and eternal. Through the preached word, we are called to diligently pursue the new life implanted within us. This new life, born of incorruptible seed, leads to everlasting existence. The revelation of God's promise, found in ancient scriptures and recent preaching, ignites an unwavering and enduring love within us. Thus, we are urged to embrace the eternal and reject the fleeting nature of earthly glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.612124612179774,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                30.86,
+                34.27,
+                34.88
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

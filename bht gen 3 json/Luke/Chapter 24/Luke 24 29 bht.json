@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:24:20",
+    "verseRef": "Luke 24:29",
+    "bestBHT": {
+        "bht": "Our blessed Saviour pretended that He would pass forth beyond Emmaus, but if He intended not to do it, yet He did no injury to the two disciples. In the nature of the thing, it is proper and natural, by an offer, to give an occasion to another to do a good action. But for this, the whole design of the interview had been lost but it was not to be lost, for He who only wished to be constrained had kindled a longing in the hearts of His travelling companions which was not to be so easily put off.",
+        "wordCount": 100,
+        "quoteTokenProportion": 58.21,
+        "qualityScore": 1.8049962594970073,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+        "commentatorTierSimilarities": [
+            46.47,
+            35.15,
+            18.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our blessed Saviour pretended that He would pass forth beyond Emmaus; but if He intended not to do it, yet He did no injury to the two disciples.",
+            "Neither did He prevaricate the strictness of simplicity, because they were persons with whom He had made no contracts; to whom He had passed no obligation.",
+            "In the nature of the thing, it is proper and natural, by an offer, to give an occasion to another to do a good action."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But for this, the whole design of the interview had been lost but it was not to be lost, for He who only wished to be constrained had kindled a longing in the hearts of His travelling companions which was not to be so easily put off.",
+            "And does not this still repeat itself in the interviews of the Saviour with His loving, longing disciples?",
+            "Abide with me from morn to eve, For without Thee I cannot live; Abide with me when night is nigh, For without Thee I cannot die."
+        ],
+        "Albert Barnes": [
+            "Christians are delighted with communion with the Saviour. They seek it as the chief object of their desire, and they find their chief pleasure in fellowship with him.",
+            "The two disciples felt it a privilege to entertain the stranger, as they supposed, who had so charmed them with his discourse.",
+            "Those to whom the gospel is preached, and who love it, feel it a privilege, and not a burden, to show kindness to those who bear to them the message of salvation."
+        ],
+        "Marvin Vincent": [
+            "They constrained [\u03c0\u03b1\u03c1\u03b5\u03b2\u03b9\u03b1\u03c3\u03b1\u03bd\u03c4\u03bf]. Contrary to [\u03c0\u03b1\u03c1\u03b1] his apparent intention of going on.",
+            "Only here and Acts 16:15.",
+            "Is far spent [\u03ba\u03b5\u03ba\u03bb\u03b9\u03ba\u03b5\u03bd]. Lit., has declined. Wyc., is now bowed down."
+        ],
+        "Philip Schaff": [
+            "Abide with us. Emmaus may, or may not, have been their home, but they certainly felt themselves at home in the village.",
+            "For it is toward evening, and the day is now far spent. The repetition of the same thought is an indication of their urgency.",
+            "The time was probably shortly before sunset, since the latter phrase seems to refer to the declining sun, and they returned to Jerusalem that evening."
+        ],
+        "Archibald T. Robertson": [
+            "Constrained (\u03c0\u03b1\u03c1\u03b5\u03b2\u03b9\u03b1\u03c3\u03b1\u03bd\u03c4\u03bf). Strong verb \u03c0\u03b1\u03c1\u03b1\u03b2\u03b9\u03b1\u03b6\u03bf\u03bc\u03b1, to compel by use of force (Polybius and LXX). In the N.T. only here and Acts 16:15. It was here compulsion of courteous words.",
+            "Constrained (\u03c0\u03b1\u03c1\u03b5\u03b2\u03b9\u03b1\u03c3\u03b1\u03bd\u03c4\u03bf) [...] It was here compulsion of courteous words.",
+            "Is far spent (\u03ba\u03b5\u03ba\u03bb\u03b9\u03ba\u03b5\u03bd). Perfect active indicative of \u03ba\u03bb\u03b9\u03bd\u03c9. The day 'has turned' toward setting."
+        ],
+        "John Gill": [
+            "The disciples with importunity said unto him...they were so pressing with arguments, that he could not withstand them.",
+            "His conversation was so engaging, and his discourses were so heavenly and instructive, so sweet and delightful, so powerful and moving.",
+            "So earnest, importunate, and resolute was the church, when she had found Christ, that he would abide with her."
+        ],
+        "John Wesley": [
+            "They constrained him \u2014 By their importunate entreaties."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our blessed Saviour appeared as if He would continue on beyond Emmaus, but this was not a deception or a breach of trust. He simply wanted to give the two disciples an opportunity to invite Him in, to allow them the chance to extend their hospitality. The longing of their hearts compelled them to constrain Him, to plead with Him to abide with them. And isn't this still repeated in the encounters between Christ and His loving disciples? We, too, yearn for His presence, uttering the words, Abide with me. The day is almost over, and the disciples were desperate for Jesus to stay. They were so determined and earnest that He could not resist their importunity. So, in response to their pressing entreaties and the deep longing within their hearts, Jesus joined them, and the design of the encounter could not be lost.",
+            "wordCount": 145,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7554201967259786,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                26.73,
+                33.98,
+                39.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our blessed Saviour appeared as if He would continue on beyond Emmaus, but He did no harm in doing so, allowing the disciples the chance to invite Him in. The longing in their hearts compelled them to constrain Him, pleading for His abiding presence. This desire for fellowship with Christ echoes in the yearning of His disciples today, who sing, Abide with me. With the day drawing to a close, the disciples urgently pressed Him to stay. Their determined entreaties could not be resisted, and so He joined them, fulfilling the purpose of the encounter.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.7908507934921565,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                27.15,
+                34.9,
+                37.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our blessed Saviour pretended that He would pass forth beyond Emmaus, but if He intended not to do it, yet He did no injury to the two disciples. In the nature of the thing, it is proper and natural, by an offer, to give an occasion to another to do a good action. But for this, the whole design of the interview had been lost but it was not to be lost, for He who only wished to be constrained had kindled a longing in the hearts of His travelling companions which was not to be so easily put off.",
+            "wordCount": 100,
+            "quoteTokenProportion": 58.21,
+            "qualityScore": 1.8049962594970073,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.36,
+            "commentatorTierSimilarities": [
+                46.47,
+                35.15,
+                18.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As our blessed Saviour pretended to continue on beyond Emmaus, there was no deceit or breach of trust. Instead, He presented an opportunity for the disciples to extend their hospitality and invite Him to stay. This act of offering them the chance to do a good action was essential for the purpose of their encounter. The longing in the disciples' hearts, sparked by Jesus Himself, compelled them to plead for Him to abide with them. Their determined entreaties could not be easily brushed aside.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.6426733481021007,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.96,
+            "commentatorTierSimilarities": [
+                28.01,
+                33.58,
+                38.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As our blessed Saviour appeared to be going past Emmaus, He did no injury to the two disciples, for He only wished to be constrained and had kindled a longing in their hearts that was not easily dismissed. The disciples, yearning for His presence, pleaded for Him to stay, not wanting to lose the opportunity of fellowship. Their urgent entreaties compelled Him to join them, fulfilling the purpose of their encounter, despite His initial apparent intention to continue on.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9990046942232484,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                32.21,
+                35.49,
+                32.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

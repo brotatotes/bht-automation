@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:33:49",
+    "verseRef": "Acts 19:13",
+    "bestBHT": {
+        "bht": "These men, seeing the success of Paul's agency in casting out devils, imitated him by adopting the name of Jesus in their own exorcisms. However, they were ignorant of the true power behind the name. They thought that success turned on the correct use of the magical formula, treating Paul's words as a charm or spell to drive out evil spirits. Yet, they failed to understand that it was faith in Christ and not mere incantations that enabled miracles to be performed.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.141652188661825,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+        "commentatorTierSimilarities": [
+            38.92,
+            28.92,
+            32.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These men, seeing the success of Paul\u2019s agency in casting out devils, adopt the name of Jesus in their own exorcisms.",
+            "These men, seeing the success of Paul\u2019s agency in casting out devils, adopt the name of Jesus in their own exorcisms.",
+            "These men, seeing the success of Paul\u2019s agency in casting out devils, adopt the name of Jesus in their own exorcisms."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That such a power did exist, for some time at least, seems implied in Matthew 12:27.",
+            "But no doubt this would breed imposture.",
+            "We adjure you by Jesus whom Paul preacheth\u2014a striking testimony to the power of Christ's name in Paul's mouth."
+        ],
+        "Albert Barnes": [
+            "The word, however, properly means 'one wandering from place to place, without any settled habitation, from whatever cause it may be.'",
+            "This word properly denotes 'those who went about pretending to be able to expel evil spirits, or to cure diseases by charms, incantations,' etc.",
+            "Such wanderers and pretenders are common in Oriental countries now."
+        ],
+        "Marvin Vincent": [
+            "Vagabond [\u03c0\u03b5\u03c1\u03b9\u03b5\u03c1\u03c7\u03bf\u03bc\u03b5\u03bd\u03c9\u03bd] . Lit., going about. Rev., strolling.",
+            "Exorcists [\u03b5\u03be\u03bf\u03c1\u03ba\u03b9\u03c3\u03c4\u03c9\u03bd] . Only here in New Testament.",
+            "These Jewish exorcists pretended to the power of casting out evil spirits by magical arts derived from Solomon."
+        ],
+        "John Calvin": [
+            "Whatsoever miracles do darken the name of Christ, they be juggling casts of the devil.",
+            "Also, it may be that (God appointing it so to be) it did somewhat; not that he favored it preposterously, but that they might more willingly retain the religion of their fathers, until the coming of Christ.",
+            "The lawful calling upon the name of God and Christ is that which is directed by faith, and does not pass the bounds of a man's calling."
+        ],
+        "Philip Schaff": [
+            "There were, as heathen writers tell us, numbers of these Jews in various parts of the world, who wandered about trading on the credulity of men and women, professing to be magicians, fortune tellers, practicing the exorcism of evil spirits.",
+            "Among the Hebrew race there seems always to have existed a strange hankering after these dealings with unlawful arts, and we find in the Pentateuch repeated laws and enactments against these sorcerers, witches, dealers in enchantments, and the like.",
+            "These impostors, seeing with their own eyes that Paul could really do what they only pretended to do, attempted to use what they fancied was his powerful incantation; powerful it was indeed, only they were ignorant how that glorious name alone could be used!"
+        ],
+        "Archibald T. Robertson": [
+            "These exorcists travelled around (\u03c0\u03b5\u03c1) from place to place like modern Gypsy fortune-tellers.",
+            "They heard what Paul said and treated his words as a magic charm or spell to drive the evil spirits out.",
+            "They thought that success turned on the correct use of the magical formula."
+        ],
+        "John Gill": [
+            "They imitated the Apostle Paul, and attempted to do as he did, using the same: name; hoping to get money or applause, or both, in this way.\" ",
+            "There were some who really did cast out devils in the name of Christ, who did not belong to him.",
+            "The Jews made use of the name of Jesus for healing diseases."
+        ],
+        "John Wesley": [
+            "Satan laughs at all those who attempt to expel him either out of the bodies or the souls of men but by Divine faith.",
+            "All the light of reason is nothing to the craft or strength of that subtle spirit.",
+            "His craft cannot be known but by the Spirit of God nor can his strength be conquered but by the power of faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These Jewish exorcists, witnessing the success of Paul's ministry in casting out demons, decided to adopt the name of Jesus in their own exorcisms. They heard the words that Paul spoke and treated them as a magical charm, thinking that success depended on the correct use of the formula. However, they were ignorant of the true power behind the name. These men were vagabonds, going from place to place like modern fortune-tellers, practicing their deception. They wanted to capitalize on the power that Paul possessed, but they did not understand that it was only through faith in Christ and the guidance of the Spirit that miracles could truly be performed.",
+            "wordCount": 112,
+            "quoteTokenProportion": 37.66,
+            "qualityScore": 2.071125330411564,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.21,
+            "commentatorTierSimilarities": [
+                39.78,
+                31.02,
+                29.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Witnessing the success of Paul's agency in casting out devils, these exorcists traveled around like modern fortune-tellers, adopting the name of Jesus in their own exorcisms. They heard what Paul said and treated his words as a magic charm, not realizing that success depended on the correct use of the formula. However, they were ignorant of the true power behind the name. They wanted to capitalize on the power that Paul possessed, but they did not understand that it was only through faith in Christ that miracles could truly be performed.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.122503056756628,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                40.5,
+                28.63,
+                30.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These men, seeing the success of Paul's agency in casting out devils, imitated him by adopting the name of Jesus in their own exorcisms. However, they were ignorant of the true power behind the name. They thought that success turned on the correct use of the magical formula, treating Paul's words as a charm or spell to drive out evil spirits. Yet, they failed to understand that it was faith in Christ and not mere incantations that enabled miracles to be performed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.141652188661825,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                38.92,
+                28.92,
+                32.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Witnessing Paul's success in casting out demons, these exorcists traveled around like modern fortune-tellers, adopting the name of Jesus for their own exorcisms. Ignorant of the true power behind the name, they treated Paul's words as a magic charm, hoping to capitalize on his abilities. However, they failed to comprehend that miracles were not achieved through formulas, but through faith in Christ. Their imitation of Paul's actions revealed their lack of understanding, for true power over evil lies in the Spirit of God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.1320558360490907,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.23,
+            "commentatorTierSimilarities": [
+                37.92,
+                28.33,
+                33.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Witnessing Paul's success in casting out demons, these exorcists adopted the name of Jesus in their own exorcisms. They treated Paul's words as a magical charm, hoping to capitalize on his abilities. However, they were ignorant of the true power behind the name. These vagabonds traveled around, imitating Paul's actions in the hopes of gaining money or applause. Yet, they failed to understand that it was faith and the power of the Spirit that enabled miracles, not fraudulent practices.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9888459060985686,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                39.73,
+                30.41,
+                29.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

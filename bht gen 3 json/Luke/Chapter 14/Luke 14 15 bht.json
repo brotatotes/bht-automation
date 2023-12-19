@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:19:53",
+    "verseRef": "Luke 14:15",
+    "bestBHT": {
+        "bht": "The great Feast is prepared and invitations are issued, yet many decline. This man's seemingly pious exclamation lacks the true understanding of living a righteous life. He simply wishes that everything is right in the end, without considering the present. Jesus uses the imagery of a banquet to describe the spiritual bliss of heaven, which was a common figure among the rabbis. The man's remark about being blessed to eat bread in the kingdom of God reveals his misconception of a sumptuous and carnal feast, while the true blessing lies in being in the presence of God. (Words: 76)",
+        "wordCount": 100,
+        "quoteTokenProportion": 31.43,
+        "qualityScore": 1.6136411284628962,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+        "commentatorTierSimilarities": [
+            39.89,
+            27.63,
+            32.49
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The great Feast is prepared already the invitations are issued, but declined; the feast, notwithstanding, shall not want abundance of guests.\" ",
+            "This shows what was lacking in the seemingly pious exclamation of this man. It was Balaam's, 'Let me die the death of the righteous, and let my last end be like his,' without any anxiety about living his life.",
+            "Fondly wishing that all were right with him at last, while all heedless of the precious present."
+        ],
+        "Albert Barnes": [
+            "The kingdom of God here means the kingdom which the Messiah was to set up.",
+            "To that period they looked forward as one of great happiness.",
+            "Our Saviour having mentioned the 'resurrection of the just,' this man understood it in the common way of the Jews, and spoke of the special happiness which they expected at that time."
+        ],
+        "Marvin Vincent": [
+            "Blessed. See on Matthew 5:3."
+        ],
+        "Philip Schaff": [
+            "The company this 'one' was in and the parable which his remark called forth, oppose the view that he sympathized with our Lord.",
+            "Some think it was merely an attempt at a diversion; since our Lord's remarks were unpleasantly telling.",
+            "It is more probable that the man, hearing of the resurrection of the just, at once thought of the great feast (the millennial feast) which the Jews expected would follow, and thus spoke with the common Jewish idea that his admission to that feast was a certainty."
+        ],
+        "Archibald T. Robertson": [
+            "Blessed (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf\u03c2). Happy, same word in the Beatitudes of Jesus.\" ",
+            "It was a common figure among the rabbis, the use of a banquet for the bliss of heaven.\" ",
+            "Jesus himself uses this same figure of the spiritual banquet for heavenly bliss."
+        ],
+        "John Gill": [
+            "Blessed is he that shall eat bread in the kingdom of God.",
+            "They suppose, that God will make a splendid feast, a sumptuous entertainment.",
+            "Such gross and carnal notions have they entertained of the world to come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The great Feast is prepared and invitations are issued, yet many decline. This man's seemingly pious exclamation lacks the true understanding of living a righteous life. He simply wishes that everything is right in the end, without considering the present. Jesus uses the imagery of a banquet to describe the spiritual bliss of heaven, which was a common figure among the rabbis. The man's remark about being blessed to eat bread in the kingdom of God reveals his misconception of a sumptuous and carnal feast, while the true blessing lies in being in the presence of God. (Words: 76)",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.6136411284628962,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.0,
+            "commentatorTierSimilarities": [
+                39.89,
+                27.63,
+                32.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The great Feast has been prepared and invitations sent out, but many decline the invitation. This man's remark lacks true understanding, merely expressing a desire for things to be right in the end, while ignoring the importance of the present. Jesus uses the imagery of a banquet to describe the bliss of heaven, a concept familiar among the rabbis. The man's comment reveals a mistaken belief in a lavish, earthly feast, highlighting a misunderstanding of the true blessings found in the kingdom of God. (Words: 67)",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.5108410891508317,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.58,
+            "commentatorTierSimilarities": [
+                39.75,
+                31.6,
+                28.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great Feast is prepared, yet many decline the invitation. This man's seemingly pious remark lacks the true understanding needed to live a righteous life, for it is merely a wish for everything to be right in the end, disregarding the significance of the present. Jesus uses the image of a banquet to depict the heavenly bliss that awaits, a concept commonly employed by the rabbis. The man's statement reveals a mistaken belief in a lavish, earthly feast, failing to grasp the true blessings found in the kingdom of God. (Words: 80)",
+            "wordCount": 93,
+            "quoteTokenProportion": 23.44,
+            "qualityScore": 1.58208423131684,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                38.39,
+                30.38,
+                31.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The great Feast is prepared, but many decline the invitations. This man's pious exclamation lacks true understanding, as it is merely a wish for everything to be right in the end without considering the present. Jesus uses the imagery of a banquet to illustrate the heavenly bliss that awaits, a concept familiar among the rabbis. The man's remark exposes a flawed belief in a lavish, earthly feast, indicating a misunderstanding of the true blessings found in the kingdom of God. (Words: 71)",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.6074047862620944,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.79,
+            "commentatorTierSimilarities": [
+                39.87,
+                29.4,
+                30.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great Feast is prepared and invitations are issued, yet many decline. This man's seemingly pious remark lacks understanding, merely expressing a desire for things to be right in the end while neglecting the present. Jesus uses the imagery of a banquet to depict the spiritual bliss of heaven, a concept commonly used by the rabbis. The man's comment reveals a mistaken belief in a sumptuous and carnal feast, showing a shallow understanding of the true blessings that lie in the kingdom of God. (Words: 76)",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.5393790032805017,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.53,
+            "commentatorTierSimilarities": [
+                37.77,
+                29.66,
+                32.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

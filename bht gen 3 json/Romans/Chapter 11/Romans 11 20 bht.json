@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:08:21",
+    "verseRef": "Romans 11:20",
+    "bestBHT": {
+        "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. The Gentiles should not be high-minded, but rather fear, acknowledging that faith is what sustains them. This fear is not terror, but humility and watchfulness, guarding against self-confidence. The Jews were rejected due to their unbelief and contempt of the Messiah, while the Gentiles were blessed with faith as a gift from God. Therefore, they should not boast, for all they have and enjoy comes from God's goodness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 51.67,
+        "qualityScore": 2.0981192923872487,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+        "commentatorTierSimilarities": [
+            29.43,
+            30.67,
+            39.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because of their unbelief, they were broken off, but thou by thy faith standest.\" ",
+            "Be not high-minded, but fear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Be it so, but remember that because of unbelief they were broken off, and thou standest\u2014not as a Gentile, but solely by faith.\" ",
+            "But as faith cannot live in those 'whose soul is lifted up,' be not high-minded, but fear.\" ",
+            "Be not high-minded, but fear."
+        ],
+        "Albert Barnes": [
+            "Do not be elated in the conception of your privileges, so as to produce vain self-confidence and boasting.",
+            "This fear stands opposed to the spirit of boasting and self-confidence, against which he was exhorting them. It does not mean terror or horror, but it denotes humility, watchfulness, and solicitude to abide in the faith.",
+            "The tendency of faith is to promote humility and a sense of our dependence on God."
+        ],
+        "Marvin Vincent": [
+            "Well [\u03ba\u03b1\u03bb\u03c9\u03c2] . Admitting the fact. Thou art right. Compare Mark 12:32. Some take it as ironical."
+        ],
+        "Philip Schaff": [
+            "Thou\u2019 is emphatic, while standest refers to the position as a branch, rather than to standing as opposed to falling.",
+            "Fear is oppposed, not to faith, but to superciliousness and security.\" ",
+            "The reason is added in Romans 11:21, with which these clauses should be joined."
+        ],
+        "Archibald T. Robertson": [
+            "Well (\u03ba\u03b1\u03bb\u03c9\u03c2).",
+            "Perhaps ironical, though Paul may simply admit the statement (cf. Mark 12:32) and show the Gentile his real situation.",
+            "By unbelief (\u03c4\u03b7 \u03b1\u03c0\u03b9\u03c3\u03c4\u03b9\u03b1) --by faith (\u03c0\u03b9\u03c3\u03c4\u03b5)."
+        ],
+        "John Gill": [
+            "Because of their unbelief and contempt of the Messiah, they were rejected of God, and died in their sins.",
+            "They were blessed with faith in Christ, and having made a profession of it were admitted to Gospel ordinances, and into a Gospel church.",
+            "The apostle would have them not be elated with their gifts, privileges, and enjoyments, and look over others, or down upon them with contempt and disdain, considering that all they had and enjoyed were owing to the goodness of God, and not to any deserts of theirs."
+        ],
+        "John Wesley": [
+            "They were broken off for unbelief, and thou standest by faith \u2014 Both conditionally, not absolutely: if absolutely, there might have been room to boast.",
+            "By faith \u2014 The free gift of God, which therefore ought to humble thee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. So, the Gentiles should not be haughty, but rather be humbled and vigilant, recognizing that it is faith that sustains them as branches. This fear is not terror or horror, but a humility that guards against arrogance and self-confidence. The reason for this warning is that the Jews were rejected due to their unbelief and contempt of the Messiah, while the Gentiles were blessed with faith as a free gift from God. Therefore, they should not boast, for all they have and enjoy is solely by God's goodness.",
+            "wordCount": 106,
+            "quoteTokenProportion": 49.25,
+            "qualityScore": 2.0295677424750567,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.82,
+            "commentatorTierSimilarities": [
+                27.77,
+                30.71,
+                41.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. The Gentiles should not be high-minded, but rather fear, acknowledging that faith is what sustains them. This fear is not terror, but humility and watchfulness, guarding against self-confidence. The Jews were rejected due to their unbelief and contempt of the Messiah, while the Gentiles were blessed with faith as a gift from God. Therefore, they should not boast, for all they have and enjoy comes from God's goodness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.0981192923872487,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                29.43,
+                30.67,
+                39.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. The Gentiles should not be high-minded, but rather fear, acknowledging that faith is what sustains them. This fear is not terror, but humility and watchfulness, guarding against self-confidence. The Jews were rejected due to their unbelief, and the Gentiles were blessed with faith as a gift from God. Therefore, they should not boast, for all they have and enjoy comes from God's goodness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.092658997361149,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                29.77,
+                30.81,
+                39.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. The Gentiles should not be high-minded, but rather fear, acknowledging that faith is what sustains them. This fear is not terror, but humility and watchfulness, guarding against self-confidence. The Jews were rejected due to their unbelief, and the Gentiles were blessed with faith as a gift from God. Therefore, they should not boast, for all they have and enjoy comes from God's goodness.",
+            "wordCount": 82,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 2.092658997361149,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.92,
+            "commentatorTierSimilarities": [
+                29.77,
+                30.81,
+                39.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Because of their unbelief, the Jews were broken off, while the Gentiles stood solely by faith. The Gentiles should not be high-minded but fear, understanding that their standing is due to faith, not superiority. This fear is not to be understood as terror, but as humility and vigilance against arrogance. The Jews were rejected for their unbelief, while the Gentiles were graciously given the gift of faith. Therefore, boasting is unwarranted, as everything they have and enjoy is solely the result of God's goodness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.3,
+            "qualityScore": 2.062963566177379,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.93,
+            "commentatorTierSimilarities": [
+                30.56,
+                31.34,
+                38.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

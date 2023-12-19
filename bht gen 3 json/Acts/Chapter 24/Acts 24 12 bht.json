@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:35:59",
+    "verseRef": "Acts 24:12",
+    "bestBHT": {
+        "bht": "Throughout the city, Paul firmly denies the charges brought against him, challenging proof of any one accusation. He denies being a mover of sedition and emphasizes that he was never found disputing or stirring up a crowd. Paul's conduct had been entirely peaceable, and he had not engaged in any public disputes or tumultuous activities in the synagogues, the city, or the temple. Paul's innocence is evident, as he was burdened with false accusations and faced no suspicion of any wrongdoing.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.8849240614648082,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+        "commentatorTierSimilarities": [
+            25.43,
+            44.33,
+            30.24
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "12. in the city] literally, throughout the city, \u2018any where in the city;\u2019 as we say, \u2018up and down the streets.\u2019"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They neither found me . . . neither can they prove the things.\" ",
+            "After specifying several particulars, he challenges proof of any one of the charges brought against him.",
+            "So much for the charge of sedition."
+        ],
+        "Albert Barnes": [
+            "To the specification that he was a mover of sedition, he replies by a firm denial, and by a solemn declaration that they had not found him in any synagogue, or in the city, or in the temple, either disputing or exciting a tumult.\" ",
+            "His conduct there had been entirely peaceable, and they had no right to suppose that it had been otherwise anywhere."
+        ],
+        "John Calvin": [
+            "He had been one of the scribes which disputed daily; neither were they forbidden either by the law or by custom, but that they might assemble themselves together \u2212 (576) to be taught.",
+            "Also he might easily have turned [retorted] back upon his adversaries the crime which they did object to him, who did daily use the very same things.",
+            "This ought to have been sufficient to discharge him, seeing he was thus burdened with wicked lies, whereas there rested in him not the very least suspicion that could be devised."
+        ],
+        "Philip Schaff": [
+            "He urges that this accusation of exciting sedition was simply incapable of proof.",
+            "Nowhere had he publicly disputed with the hope of exciting a tumult.",
+            "Nor had he gone preaching and speaking 'up and down' the streets of the capital."
+        ],
+        "Archibald T. Robertson": [
+            "Disputing (\u03b4\u03b9\u03b1\u03bb\u03b5\u03b3\u03bf\u03bc\u03b5\u03bd\u03bf\u03bd). Simply conversing, discussing, arguing, and then disputing, common verb in old Greek and in N.T. (especially in Acts).",
+            "Stirring up a crowd (\u03b5\u03c0\u03b9\u03c3\u03c4\u03b1\u03c3\u03b9\u03bd \u03c0\u03bf\u03b9\u03bf\u03c5\u03bd\u03c4\u03b1 \u03bf\u03c7\u03bb\u03bf\u03c5). \u0395\u03c0\u03b9\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2 is a late word from \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc, to make an onset or rush. Only twice in the N.T., 2 Corinthians 11:28 (the pressure or care of the churches) and here (making a rush of a crowd).",
+            "So Paul denies the two charges that were serious and the only one that concerned Roman law (insurrection)."
+        ],
+        "John Gill": [
+            "He was so far from moving sedition among the people of the Jews, that he never so much as entered into any conversation with them, upon any subject whatever.",
+            "True indeed, he was in the temple, and was found there, but not disputing with any, but purifying himself according to the law of Moses.",
+            "The apostle mentions the most noted and public places, where any thing of this kind might most reasonably be thought to be done."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Throughout the city, Paul denied the charges brought against him, challenging proof of any one accusation. He firmly denied being a mover of sedition, emphasizing that he was never found disputing or stirring up a crowd. Paul's conduct had been entirely peaceable, and he had not engaged in any public disputes or tumultuous activities in the synagogues, the city, or the temple. Even though he was often engaged in discussions and debates as a scribe, he had never used those conversations to incite unrest. Paul's innocence was evident, as he was burdened with false accusations and faced no suspicion of any wrongdoing.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.8342304411663348,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.33,
+            "commentatorTierSimilarities": [
+                23.43,
+                43.88,
+                32.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Throughout the city, Paul firmly denies the charges brought against him, challenging proof of any one accusation. He denies being a mover of sedition and emphasizes that he was never found disputing or stirring up a crowd. Paul's conduct had been entirely peaceable, and he had not engaged in any public disputes or tumultuous activities in the synagogues, the city, or the temple. Paul's innocence is evident, as he was burdened with false accusations and faced no suspicion of any wrongdoing.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8849240614648082,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                25.43,
+                44.33,
+                30.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul denies the charges brought against him, challenging proof of any one accusation. He firmly denies being a mover of sedition and emphasizes that he never disputed or stirred up a crowd. Paul's conduct was peaceful, and he did not engage in any public disputes or tumultuous activities in the synagogues, city, or temple. His innocence is evident, as he was burdened with false accusations and faced no suspicion of wrongdoing.",
+            "wordCount": 72,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7784198907106215,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.47,
+            "commentatorTierSimilarities": [
+                23.89,
+                46.11,
+                30.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Throughout the city, Paul firmly denies the charges brought against him, challenging proof of any one accusation. He denies being a mover of sedition and emphasizes that he was never found disputing or stirring up a crowd. Paul's conduct had been entirely peaceable, and he had not engaged in any public disputes or tumultuous activities in the synagogues, the city, or the temple. Paul's innocence is evident, as he was burdened with false accusations and faced no suspicion of any wrongdoing.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.8849240614648082,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                25.43,
+                44.33,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul firmly denies the charges brought against him, challenging proof of any one accusation. He denies being a mover of sedition, emphasizing that he never disputed or stirred up a crowd. Paul's conduct had been peaceful, and he did not engage in public disputes or tumultuous activities in the synagogues, city, or temple. His innocence is evident, burdened with false accusations, and facing no suspicion of wrongdoing.",
+            "wordCount": 68,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.7534863608752218,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.65,
+            "commentatorTierSimilarities": [
+                25.05,
+                46.46,
+                28.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

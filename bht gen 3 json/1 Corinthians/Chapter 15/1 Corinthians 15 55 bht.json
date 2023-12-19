@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:14:32",
+    "verseRef": "1 Corinthians 15:55",
+    "bestBHT": {
+        "bht": "In a triumphant exclamation, the Apostle rejoices in the glorious time when sin, death's sting, and victory are abolished. Death and Hades, once powerful and victorious, have been rendered powerless by the resurrection. The imagery of death as a beast with a sting is now empty, as the serpent has lost its poisonous fangs. The victorious work of the second Adam redeems mankind and ends the reign of death and the grave. Faith assures us of the victorious outcome, even though it may not be seen with our eyes.",
+        "wordCount": 90,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 2.3887244816099704,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.77,
+        "commentatorTierSimilarities": [
+            33.73,
+            35.75,
+            30.52
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "TRIUMPHANT EXCLAMATION of the Apostle, realizing in his mind that glorious time...",
+            "The souls in Had\u00e9s being freed by the resurrection, Death\u2019s victory is gone...",
+            "Sin being abolished by the change of the animal body (the source of sin) to the spiritual, his sting is powerless."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "O death, where are thy plagues? Where, O Hades, is thy destruction?\" ",
+            "The 'where' implies their past victorious destroying power and sting, now gone for ever.",
+            "The souls in Hades being freed by the resurrection, death's sting and victory are gone."
+        ],
+        "Albert Barnes": [
+            "It is a triumphant view which bursts upon the soul as it contemplates the fact that the work of the second Adam has repaired the ruins of the first, and that man is redeemed; his body will be raised; not another human being should die, and the work of death should be ended.",
+            "The language here is the language of exultation, as if that [sting] was taken away or destroyed.",
+            "The power of death and the grave is vanquished, and Christ is triumphant over all."
+        ],
+        "Marvin Vincent": [
+            "Where is thy penalty, O Death? Where thy sting, O Hades?",
+            "The correct reading is Qanate O death.",
+            "The image is that of a beast with a sting; not death with a goad, driving men."
+        ],
+        "John Calvin": [
+            "The true meaning, then, will be this \u2014 that the Lord will put an end to death, and destroy the grave.",
+            "The main thing is this \u2014 that Paul, by an exclamation of a spirited nature, designed to rouse up the minds of the Corinthians, and lead them on, as it were, to a near view of the resurrection.",
+            "Now, although we do not as yet behold the victory with our eyes, and the day of triumph has not yet arrived, (nay more, the dangers of war must every day be encountered,) yet the assurance of faith, as we shall have occasion to observe ere long, is not at all thereby diminished."
+        ],
+        "Philip Schaff": [
+            "O death, where is thy victory? O death, where is thy sting?\" ",
+            "The challenge to 'death,' to say where is now its 'victory,' seems the natural sequel of the immediately preceding words, 'Death is swallowed up in victory;'\" ",
+            "The tables are turned upon thee now: till now the victory was thine indeed; for 'the wages of sin was death,' and thou hadst a right to see them duly paid. But thy sting has been extracted, and where is it now?'"
+        ],
+        "Archibald T. Robertson": [
+            "Victory (\u03bd\u03b9\u03ba\u03bf\u03c2). Late form of \u03bd\u03b9\u03ba\u03b7.",
+            "O death (\u03b8\u03b1\u03bd\u03b1\u03c4\u03b5). Second instance. Here Paul changes Hades of the LXX for Hebrew Sheol (Hosea 13:14) to death. Paul never uses Hades.",
+            "Thy sting (\u03c3\u03bf\u03c5 \u03c4\u03bf \u03ba\u03b5\u03bd\u03c4\u03c1\u03bf\u03bd). Old word from \u03ba\u03b5\u03bd\u03c4\u03c1\u03b5\u03c9, to prick, as in Acts 26:14. In Revelation 9:10 of the sting of locusts, scorpions. The serpent death has lost his poison fangs."
+        ],
+        "John Gill": [
+            "O death, where is thy sting?....",
+            "where is thy revenge, O death? where is thy sting, O grave?",
+            "where is its boasted victory, since it can destroy no longer."
+        ],
+        "John Wesley": [
+            "O death, where is thy sting? \u2014 Which once was full of hellish poison.",
+            "O hades, the receptacle of separate souls, where is thy victory - Thou art now robbed of all thy spoils; all thy captives are set at liberty.",
+            "Hades literally means the invisible world, and relates to the soul; death, to the body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Death and Hades, once powerful and victorious, have been rendered powerless by the resurrection. In a triumphant exclamation, the Apostle reflects on the glorious time when sin, death's sting, and victory are abolished. The image of death as a beast with a sting is now empty, for the serpent has lost its poisonous fangs. The victorious work of the second Adam has repaired the ruins of the first, redeeming mankind and ending the reign of death and the grave. Though we may not see the victory with our eyes, faith assures us of its certainty, and death's sting is now but a distant memory.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.497017171657718,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.37,
+            "commentatorTierSimilarities": [
+                32.97,
+                36.62,
+                30.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a triumphant exclamation, the Apostle rejoices in the glorious time when sin, death's sting, and victory are abolished. Death and Hades, once powerful and victorious, have been rendered powerless by the resurrection. The imagery of death as a beast with a sting is now empty, as the serpent has lost its poisonous fangs. The victorious work of the second Adam redeems mankind and ends the reign of death and the grave. Faith assures us of the victorious outcome, even though it may not be seen with our eyes.",
+            "wordCount": 90,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.3887244816099704,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.77,
+            "commentatorTierSimilarities": [
+                33.73,
+                35.75,
+                30.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In a triumphant exclamation, the Apostle rejoices in realizing the glorious time when sin, death's sting, and victory are abolished. Death and Hades, once mighty and victorious, have been rendered powerless by the resurrection. The image of death as a beast with a sting is now empty, for the serpent has lost its poisonous fangs. The victorious work of the second Adam redeems mankind and brings an end to the reign of death and the grave. Faith assures us of this victory, even though it may not be visible yet.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.3755816843721203,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.33,
+            "commentatorTierSimilarities": [
+                33.36,
+                36.09,
+                30.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a triumphant exclamation, the Apostle reflects on the glorious time when sin, death's sting, and victory are abolished through the resurrection. Death and Hades, once powerful and victorious, are now rendered powerless. The image of death as a beast with a sting is emptied, for the serpent has lost its poisonous fangs. The victorious work of the second Adam redeems mankind and brings an end to the reign of death and the grave. Faith assures us of this victorious outcome, even if we cannot see it yet.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.3327678173003474,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.9,
+            "commentatorTierSimilarities": [
+                33.84,
+                35.94,
+                30.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a triumphant exclamation, the Apostle rejoices in the realization of the glorious time when sin, death's sting, and victory are abolished. Death and Hades, once mighty and victorious, have been rendered powerless by the resurrection. The image of death as a beast with a sting is now empty, as the serpent has lost its poisonous fangs. The victorious work of the second Adam redeems mankind and brings an end to the reign of death and the grave. Faith assures us of this victory, even though it may not be visible yet.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.369917474660838,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.14,
+            "commentatorTierSimilarities": [
+                33.17,
+                36.22,
+                30.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

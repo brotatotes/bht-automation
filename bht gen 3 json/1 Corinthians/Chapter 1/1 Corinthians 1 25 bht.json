@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:00:37",
+    "verseRef": "1 Corinthians 1:25",
+    "bestBHT": {
+        "bht": "The crucifixion of Christ, though viewed as weak and foolish by the world, is actually a display of wisdom and strength. God's plan of salvation, considered foolishness by men, surpasses the wisdom of human understanding. The seeming weakness of God in the Gospel is stronger than any human strength. Despite the world's perception, the Gospel carries divine wisdom and has a greater influence than any human scheme. Therefore, what appears as folly and weakness in the eyes of men is actually wiser and stronger than anything they can comprehend.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.548894294148406,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.09,
+        "commentatorTierSimilarities": [
+            34.99,
+            27.63,
+            37.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the foolishness of God (that act of God which men think foolish) is wiser than men\" (emphasis added).",
+            "the weakness of God (that act of God which men think weak) is stronger than men\" (emphasis added).",
+            "we give them Christ crucified, which is to them a thing weak: but this weak thing of God is stronger than men\" (emphasis added)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "foolishness of God\u2014that is, God's plan of salvation which men deem 'foolishness.'",
+            "weakness of God\u2014Christ 'crucified through weakness,' yet 'living by the power of God.'",
+            "So He perfects strength out of the weakness of His servants."
+        ],
+        "Albert Barnes": [
+            "The passage is not to be understood as affirming that it is really foolish or unwise; but that it appears so to people.",
+            "The instruments were feeble; and people judged that this was owing to the weakness or lack of power in the God who appointed them.",
+            "If his feeblest powers put forth, surpass the mightiest powers of man, how great must be his might. If the powers of man who rears works of art; who levels mountains and elevates vales; if the power which reared the pyramids, be as nothing when compared with the feeblest putting forth of divine power, how mighty must be his arm!"
+        ],
+        "Marvin Vincent": [
+            "The foolishness [\u03c4\u03bf \u03bc\u03c9\u03c1\u03bf\u03bd] . Lit., the foolish thing. More specific than the abstract mwria foolishness (vers. 18, 21), and pointing to the fact of Christ crucified."
+        ],
+        "John Calvin": [
+            "While the Lord deals with us in such a way as to seem to act foolishly, because he does not exhibit his wisdom, what appears foolishness surpasses in wisdom all the ingenuity of men.",
+            "While God appears to act with weakness, in consequence of his concealing his power, that weakness, as it is reckoned, is stronger than any power of men.",
+            "We must, however, always keep it in view, that there is a concession, as I have noticed a little ago. For no one can but perceive, that in strict propriety neither foolishness nor weakness can be ascribed to God, but it was necessary, by such ironical expressions, to beat down the mad presumption of the flesh, which does not scruple to rob God of all his glory."
+        ],
+        "Philip Schaff": [
+            "Because the foolishness of God (in the doctrine of the Cross) is wiser than (the wisdom of) men; and the weakness of God (in the Gospel) is stronger than (the strength of) men.",
+            "It is the ram\u2019s-horn which throws down the walls of Jericho, the jawbone of an ass which slays its thousand men, and the sling and the stone which lays low alike the giant power and wisdom of men.",
+            "Look, says the apostle, at the classes whence its conquests are chiefly gained."
+        ],
+        "Archibald T. Robertson": [
+            "The foolishness of God... the foolish act of God (the Cross as regarded by the world).",
+            "Wiser than men... wiser than the wisdom of men.",
+            "The weakness of God... the weak act of God, as men think, is stronger."
+        ],
+        "John Gill": [
+            "Christ is greater than [Solomon] in wisdom, having all the treasures of wisdom and knowledge in him; yea, in redemption by the blood of his cross, which is accounted such an egregious instance of folly, there is such a display of wisdom as surpasses all the wisdom of men and angels.\" ",
+            "The Gospel of Christ...has infinitely more wisdom in it, than is to be found in the best concerted schemes of the wisest philosophers; and has had a greater influence on the minds and manners of men than theirs ever had; it is the manifold wisdom of God, and the power of God unto salvation.",
+            "Whatever, in things divine and spiritual, has the appearance of folly and weakness, or is judged to be so by carnal men, is wiser and stronger not only than the wisdom and strength of men, but than men themselves with all their wisdom and strength."
+        ],
+        "John Wesley": [
+            "The gospel scheme, which the world judge to be mere foolishness, is wiser than the wisdom of men.",
+            "Weak as they account it, stronger than all the strength of men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse emphasizes that what may seem foolish or weak in the eyes of men is actually wiser and stronger in the sight of God. The commentator explains that the foolishness of God refers to God's plan of salvation through the crucifixion, which the world deems as foolish. Similarly, the weakness of God pertains to Christ's crucifixion through weakness but living by the power of God. Despite being perceived as weak, God perfects strength out of his servants' weakness. This passage highlights the irony that the world's wisdom is nothing compared to the wisdom of God, and what may appear as folly to men is, in fact, wiser and mightier than their own understanding.",
+            "wordCount": 117,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.624293191933977,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.6,
+            "commentatorTierSimilarities": [
+                38.08,
+                28.3,
+                33.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The crucifixion of Christ, though viewed as weak and foolish by the world, is actually a display of wisdom and strength. God's plan of salvation, considered foolishness by men, surpasses the wisdom of human understanding. The seeming weakness of God in the Gospel is stronger than any human strength. Despite the world's perception, the Gospel carries divine wisdom and has a greater influence than any human scheme. Therefore, what appears as folly and weakness in the eyes of men is actually wiser and stronger than anything they can comprehend.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.548894294148406,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.09,
+            "commentatorTierSimilarities": [
+                34.99,
+                27.63,
+                37.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The crucifixion of Christ, perceived as foolish and weak by humanity, is in reality a demonstration of divine wisdom and strength. God's plan of salvation, which is regarded as foolishness by people, exceeds human wisdom. The apparent weakness of God in the Gospel surpasses human strength. Despite the world's viewpoint, the Gospel embodies profound wisdom, surpassing any human scheme. Thus, what may seem foolish and weak in human eyes is, in fact, wiser and stronger than anything humans can perceive.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.3879508397968046,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.74,
+            "commentatorTierSimilarities": [
+                36.49,
+                27.09,
+                36.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The crucifixion of Christ may appear foolish and weak to mankind, but it showcases divine wisdom and strength that surpasses human comprehension. God's plan of salvation, viewed as folly by the world, exceeds human wisdom. Despite the perceived weakness of God in the Gospel, it outweighs any human strength. The Gospel holds immense wisdom, surpassing human schemes. Thus, what seems foolish and weak in human eyes is, in actuality, wiser and stronger beyond human understanding.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.3659657902231643,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.01,
+            "commentatorTierSimilarities": [
+                36.32,
+                27.03,
+                36.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crucifixion of Christ is often seen as foolish and weak by humanity, yet it reveals divine wisdom and strength that surpass human understanding. God's plan of salvation, considered foolishness by the world, supersedes human wisdom. Although the Gospel may appear weak, it actually surpasses human strength. The Gospel embodies profound wisdom, surpassing any human scheme. Therefore, what seems foolish and weak to human eyes is, in reality, wiser and stronger than human comprehension can grasp.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.3398489432670635,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+            "commentatorTierSimilarities": [
+                35.31,
+                27.48,
+                37.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

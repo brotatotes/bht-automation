@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:23:38",
+    "verseRef": "Luke 23:36",
+    "bestBHT": {
+        "bht": "Around midday, the soldiers, yielding to the spell of the crucifixion, acted like boys in their jeers, offering Jesus their posca or sour wine. This incident was not as bitter or persistent as the one mentioned by other Gospel writers, and the soldiers came up close to the cross, coming to Jesus and mockingly holding out the vinegar, which was what was a part of their allowance and drink.",
+        "wordCount": 69,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.8219987437926455,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+        "commentatorTierSimilarities": [
+            26.22,
+            35.68,
+            38.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A different incident from that related in Matthew, ver. 48; Mark, ver. 36; John, vv. 28, 29.",
+            "It was about the time of the mid-day meal of the soldiers.",
+            "They in mockery offered Him their posca or sour wine, to drink with them."
+        ],
+        "Marvin Vincent": [
+            "Coming to him. Coming up close to the cross. ",
+            "Vinegar. See on Matthew 27:34."
+        ],
+        "Philip Schaff": [
+            "Offering him vinegar. It was about midday, when they would be eating and drinking, and they drunk to Him, holding out to Him in mockery the sour wine (vinegar) they used.",
+            "Thus the incident is natural, and at the same time totally distinct from the one related by the other Evangelists, which occurred about three hours later."
+        ],
+        "Archibald T. Robertson": [
+            "Even the soldiers yielded to the spell and acted like boys in their jeers.",
+            "They were not so bitter and persistent.",
+            "Aorist tense here and different verb also from that used of the rulers."
+        ],
+        "John Gill": [
+            "The Roman soldiers...joined in the insult, which is not to be wondered at.\" ",
+            "Coming to him and offering him vinegar; which was what was a part of their allowance, and was their drink."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As the soldiers jeered, they offered Jesus their sour wine, known as posca, in mockery. This incident, different from the one mentioned by other Gospel writers, took place around midday. The soldiers, not as bitter or persistent as the rulers, came up close to the cross and held out the vinegar to Jesus. This act of insult from the Roman soldiers can be seen as a natural response considering it was part of their allowance and drink.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.6000077627051803,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.54,
+            "commentatorTierSimilarities": [
+                25.94,
+                34.25,
+                39.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Around midday, the soldiers, yielding to the spell of the crucifixion, acted like boys in their jeers, offering Jesus their posca or sour wine. This incident, distinct from the one related by other Gospel writers, is not to be wondered at as it was about the time of their mid-day meal. The soldiers, coming up close to the cross, came to Jesus and mockingly held out the vinegar, which was what was a part of their allowance and drink.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7644595532538325,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.01,
+            "commentatorTierSimilarities": [
+                23.27,
+                38.85,
+                37.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Around midday, the soldiers, yielding to the spell of the crucifixion, acted like boys in their jeers, offering Jesus their posca or sour wine. This incident was not as bitter or persistent as the one mentioned by other Gospel writers, and the soldiers came up close to the cross, coming to Jesus and mockingly holding out the vinegar, which was what was a part of their allowance and drink.",
+            "wordCount": 69,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.8219987437926455,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.92,
+            "commentatorTierSimilarities": [
+                26.22,
+                35.68,
+                38.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Around midday, the soldiers in mockery offered Jesus their posca or sour wine to drink with them. This distinct incident, different from the one related by other Gospel writers, shows the soldiers yielding to the spell of the crucifixion, acting like boys in their jeers. They came up close to the cross and held out the vinegar to Jesus, which was their drink and part of their allowance.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7152626467615517,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+            "commentatorTierSimilarities": [
+                26.9,
+                36.45,
+                36.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Around midday, the soldiers, yielding to the spell of the crucifixion, acted like boys in their jeers, offering Jesus their posca or sour wine. This incident was distinct from the one related by other Gospel writers and showed the soldiers coming up close to the cross, coming to Jesus and mockingly holding out the vinegar, which was their drink and part of their allowance.",
+            "wordCount": 64,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.809930925522805,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.52,
+            "commentatorTierSimilarities": [
+                25.94,
+                37.69,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

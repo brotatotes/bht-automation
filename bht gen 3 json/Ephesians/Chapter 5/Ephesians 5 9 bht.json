@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:33:23",
+    "verseRef": "Ephesians 5:9",
+    "bestBHT": {
+        "bht": "The fruit of the light is in all goodness, righteousness, and truth. This fruit, which is the moral outcome of walking as children of light, stands in contrast to the unfruitful works of darkness. It consists in acts and words that reflect goodness, righteousness, and truth. Living in obedience to God, exhibiting these qualities, shows that one is a child of light. These moral qualities are evidence of the Holy Spirit's work within believers and distinguish them as followers of Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 2.359363963772065,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.79,
+        "commentatorTierSimilarities": [
+            30.94,
+            39.47,
+            29.59
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the fruit of the light is in all goodness and righteousness and truth",
+            "in all that is good, right, and true",
+            "connecting this with the moral details which have preceded"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fruit of THE LIGHT; in contrast with the unfruitful works of darkness.",
+            "Walk as children of light, that is, in all good works and words.",
+            "For the fruit of the light is [borne] in all goodness, righteousness, and truth."
+        ],
+        "Albert Barnes": [
+            "For the fruit of the Spirit - That is, since the Holy Spirit through the gospel produces goodness, righteousness, and truth, see that you exhibit these in your lives, and thus show that you are the children of light.",
+            "On the fruits of the Spirit, see the notes on Galatians 5:22-23.",
+            "He who is not good is not a Christian."
+        ],
+        "Marvin Vincent": [
+            "Is in. Consists in. The verse is parenthetical."
+        ],
+        "John Calvin": [
+            "Whoever desires to live in a proper and safe manner, let him resolve to obey God, and to take his will as the rule.\" ",
+            "To regulate life entirely by his command is...a reasonable service.\" ",
+            "Believers must walk in the light, because they are 'children of the light.' This is done, when they do not live according to their own will, but devote themselves entirely to obedience to God."
+        ],
+        "Philip Schaff": [
+            "The fruit of the light; \u2018Spirit\u2019 is poorly supported, apparently taken from Galatians 5:22. As there, \u2018fruit\u2019 is singular, pointing to the unity of the moral results.",
+            "Is in, consists in, is contained in, all, every kind of, goodness and righteousness and truth. All these are moral qualities, presenting Christian ethics under its three aspects, the good, the right, and the true (so Meyer).",
+            "Observe that these are the \u2018fruit,\u2019 not the cause of the \u2018light.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The fruit of light... Two metaphors (fruit, light) combined.",
+            "See Galatians 5:22 for 'the fruit of the Spirit.'",
+            "Goodness... Late and rare word from \u03b1\u03b3\u03b1\u03b8\u03bf\u03c2."
+        ],
+        "John Gill": [
+            "The believer is a tree of righteousness; Christ is his root; the Spirit is the sap, which supports and nourishes; and good works, under the influence of his grace, are the fruit.",
+            "Righteousness lies in living in obedience to the law of God; in attending the worship and service of Him; and in discharging our duty to our fellow creatures.",
+            "Truth is opposed to lying, to hypocrisy, to error and falsehood; and where the Spirit of God, and the work of grace are, there will be more or less an appearance of these fruits."
+        ],
+        "John Wesley": [
+            "The fruit of the light \u2014 Opposite to \" the unfruitful works of darkness,\" Ephesians 4:11.",
+            "Is in \u2014 That is, consists in.",
+            "Goodness and righteousness and truth \u2014 Opposite to the sins spoken of, Ephesians 4:25,etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the fruit of the light, which refers to the moral qualities that result from living in goodness, righteousness, and truth. It is said to be in contrast to the works of darkness, and is described as the evidence of walking as children of light. This fruit consists in all that is good, right, and true, and is a reflection of the Holy Spirit's work in producing these qualities within believers. Living in obedience to God's will and displaying goodness, righteousness, and truth in our words and actions are the marks of a Christian.",
+            "wordCount": 99,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.3149160010453027,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.31,
+            "commentatorTierSimilarities": [
+                30.1,
+                39.77,
+                30.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fruit of the light is in all goodness, righteousness, and truth. This fruit, which is the moral outcome of walking as children of light, stands in contrast to the unfruitful works of darkness. It consists in acts and words that reflect goodness, righteousness, and truth. Living in obedience to God, exhibiting these qualities, shows that one is a child of light. These moral qualities are evidence of the Holy Spirit's work within believers and distinguish them as followers of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.359363963772065,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.79,
+            "commentatorTierSimilarities": [
+                30.94,
+                39.47,
+                29.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fruit of the light consists in all goodness, righteousness, and truth. It is the moral result of walking as children of light. This fruit is in contrast to the unfruitful works of darkness and serves as evidence of the Holy Spirit's work within believers. By living in obedience to God, displaying goodness, righteousness, and truth in their actions and words, believers show that they are children of light. These qualities reflect Christian ethics in their three aspects: the good, the right, and the true.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.3371059032409667,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.05,
+            "commentatorTierSimilarities": [
+                30.6,
+                40.66,
+                28.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fruit of the light, which is in all goodness, righteousness, and truth, serves as evidence of the Holy Spirit's work within believers. This moral outcome is in contrast to the unfruitful works of darkness. By living in obedience to God and exhibiting goodness, righteousness, and truth, believers reflect the qualities of children of light. These moral virtues encompass every kind of good, right, and true action, demonstrating Christian ethics and the transformative power of the Holy Spirit in one's life.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.2439407760377064,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.95,
+            "commentatorTierSimilarities": [
+                27.92,
+                41.15,
+                30.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fruit of the light, in all goodness, righteousness, and truth, is the evidence of the Holy Spirit's work within believers. Walking as children of light entails exhibiting these moral qualities, which contrast with the unfruitful works of darkness. By living in obedience to God and manifesting goodness, righteousness, and truth in their words and actions, believers reflect Christian ethics. These qualities represent the fruit that stems from the transformative power of the Holy Spirit and distinguish them as followers of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.257926884602971,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.42,
+            "commentatorTierSimilarities": [
+                27.46,
+                42.29,
+                30.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

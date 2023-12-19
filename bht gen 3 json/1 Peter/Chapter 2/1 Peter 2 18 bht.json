@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:39:23",
+    "verseRef": "1 Peter 2:18",
+    "bestBHT": {
+        "bht": "In this exhortation, servants are urged to subject themselves to their masters, whether they are good or perverse. The term used for servants refers to house servants or slaves, highlighting their role in the household. The emphasis is on the need for reverence and awe, as well as faithful obedience, regardless of the masters' character. The instruction highlights the principle of submission and the importance of diligent service, even in challenging circumstances where masters may be harsh.",
+        "wordCount": 77,
+        "quoteTokenProportion": 40.74,
+        "qualityScore": 1.913500029657591,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+        "commentatorTierSimilarities": [
+            28.98,
+            41.27,
+            29.74
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ye servants (domestic servants: a milder designation than the common New Test. one of slave.",
+            "Fear, not merely the reverence of an inferior, but the awe of one in subjection.",
+            "Not only to the good (kind) and considerate, but also to the perverse (crooked, in deviating from right and justice)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Peter's special object seems to be to teach them submission, whatever the character of the masters might be.",
+            "The participle expresses a particular instance of the general exhortation to good conduct.",
+            "Those bound to obey must not make the disposition and behavior of the superior the measure of the fulfilment of their obligations."
+        ],
+        "Albert Barnes": [
+            "The word should not and cannot be employed to prove that slavery existed in the churches to which Peter wrote, and still less to prove that he approved of slavery, or regarded it as a good institution.",
+            "Those who are hired, and who are under a necessity of 'going out to service' for a living, are not always free from hard usage, for there are trials incident to that condition of life which cannot be always avoided.",
+            "While the relation continues, the servant should perform his duty with fidelity, whatever may be the character of the master."
+        ],
+        "Marvin Vincent": [
+            "Wherein not strictness of legal right, but consideration for one another, is the rule of practice.",
+            "According to Aristotle, the word stands in contrast with ajkribodikaiov, one who is exactingly just, as one who is satisfied with less than his due.",
+            "The word froward is Anglo - Saxon fream - ward or from - ward, the opposite of to - ward."
+        ],
+        "John Calvin": [
+            "Fear arises from a right knowledge of duty.",
+            "Whatever, then, masters may be, there is no excuse for servants for not faithfully obeying them.",
+            "This passage, then, shows how boldly they trifle with the Word of God."
+        ],
+        "Philip Schaff": [
+            "Peter selects it probably with a conciliatory purpose, as a more courteous term than the common one. It presents the slave in closer relation to the family, and so conveys a softened view of his position.",
+            "The fear here under the other aspect, as the feeling proper to the position of subjection, even under trying circumstances. It means, therefore, careful solicitude to give faithful service, \u2018shrinking from transgressing the master\u2019s will.\u2019",
+            "It is not to be affected by the harshness of the yoke, but is due equally to two very different types of master. The one type is described as 'good and gentle', the other type is described as 'harsh' or 'perverse', the disposition that lacks the reasonable and considerate, and makes a tortuous use of the lawful."
+        ],
+        "Archibald T. Robertson": [
+            "\u039f\u03b9\u03ba\u03b5\u03c4\u03b7\u03c2, old word from \u03bf\u03b9\u03ba\u03bf\u03c2 (house), means one in the same house with another (Latin domesticus), particularly house servants (slaves) in distinction from the general term \u03b4\u03bf\u03c5\u03bb\u03bf\u03c2 (slave).",
+            "Be in subjection (\u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03bf\u03bc\u03b5\u03bd\u03bf). Present middle participle of \u03c5\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03c9, common late compound to subject oneself to one (Luke 2:51).",
+            "To the good and gentle (\u03c4\u03bf\u03b9\u03c2 \u03b1\u03b3\u03b1\u03b8\u03bf\u03b9\u03c2 \u03ba\u03b1 \u03b5\u03c0\u03b9\u03b5\u03b9\u03ba\u03b5\u03c3\u03b9\u03bd)... This is no argument for slavery, but only a sidelight on a condition bad enough at its best."
+        ],
+        "John Gill": [
+            "Servants, be subject to your masters....with all fear; with reverence to their persons, strict regard to their commands, faithfulness in any trust reposed in them, diligence in the discharge of their duty, and carefulness of offending them.\" ",
+            "Those that are good natured, kind, beneficent, and merciful; that do not use them with rigour and severity; are moderate in their demands of service; require no more to be done than what is reasonable; allow them sufficient diet, give them good wages, and pay them duly.",
+            "The ill natured, morose, and rigorous; who exact more labour than is requisite; give hard words, and harder blows; withhold sufficiency of food from them, and keep back the hire of their labours."
+        ],
+        "John Wesley": [
+            "Servants \u2014 Literally, household servants. With all fear - Of offending them or God.",
+            "Not only to the good \u2014 Tender, kind.",
+            "And gentle \u2014 Mild, easily forgiving."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Peter 2:18, the apostle instructs servants to be in subjection to their masters, not only to the good and considerate, but also to the perverse. This command emphasizes the importance of submission and good conduct, regardless of the character of the masters. The word used for servants, oiketes, refers to house servants or slaves. The commentary clarifies that Peter's intention is to teach submission, not endorse or approve of slavery. The fear mentioned here is not a fear of inferiority, but a reverence and awe that comes from being in a position of subjection. Regardless of the circumstances, servants are called to faithfully obey their masters, whether they are kind or harsh. This passage highlights the need for fear, reverence, and diligent service, even in challenging circumstances.",
+            "wordCount": 128,
+            "quoteTokenProportion": 34.25,
+            "qualityScore": 1.9227202638165153,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.27,
+            "commentatorTierSimilarities": [
+                30.54,
+                38.2,
+                31.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, Peter addresses servants and urges them to submit to their masters, regardless of their character. The term used for servants indicates house servants or slaves, emphasizing the context of subjection. The importance of reverence and awe is highlighted, as servants are called to faithfully obey their masters in both the good and difficult circumstances. This verse emphasizes the need for diligent service, regardless of the treatment received from masters, and teaches the principle of submission.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9307841502943202,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                29.1,
+                40.78,
+                30.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this exhortation, servants are urged to subject themselves to their masters, whether they are good or perverse. The term used for servants refers to house servants or slaves, highlighting their role in the household. The emphasis is on the need for reverence and awe, as well as faithful obedience, regardless of the masters' character. The instruction highlights the principle of submission and the importance of diligent service, even in challenging circumstances where masters may be harsh.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.913500029657591,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+            "commentatorTierSimilarities": [
+                28.98,
+                41.27,
+                29.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this exhortation, servants are called to subject themselves to their masters, showing reverence and awe in their subjection. The focus is not only on being obedient to good and considerate masters but also to those who deviate from justice. Peter instructs them to not measure their fulfillment of obligations based on the behavior of their masters. The passage emphasizes the rule of practice based on consideration for one another rather than strictness of legal right. The significance lies in submission, regardless of the character of the masters, and the practice of good conduct.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.88342445673034,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.97,
+            "commentatorTierSimilarities": [
+                33.83,
+                38.28,
+                27.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this teaching, servants are encouraged to subject themselves to their masters, demonstrating both reverence and awe. Peter emphasizes the importance of obedience not only to good and considerate masters, but also to those who deviate from justice. The focus is on fulfilling obligations based on consideration rather than strict adherence to legal rights. The crux of this verse lies in submission and good conduct, regardless of the character of the masters.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.8191476041732315,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.83,
+            "commentatorTierSimilarities": [
+                30.79,
+                41.07,
+                28.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

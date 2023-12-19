@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:50",
+    "verseRef": "Luke 8:48",
+    "bestBHT": {
+        "bht": "The woman's faith served as the connecting link between her and Christ, saving her not only when she touched Him, but also through her confession. The healing power came from Jesus and her restoration was openly ratified by His words. He spoke to her with kindness and affection, assuring her that her faith had made her whole. In response, she was instructed to go in peace, experiencing the fullness of healing and restoration through her faith.",
+        "wordCount": 77,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.262551977924777,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+        "commentatorTierSimilarities": [
+            52.51,
+            0.0,
+            47.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Her faith saved her\u2014not merely in the act of touching, but as now completed by the act of confession.\" ",
+            "It saved her mediately, as the connecting link between herself and Christ: but the 'power which went out from Him'...saved her energetically, and as the working cause.",
+            "[Her healing] openly ratified by the Lord's own word."
+        ],
+        "Marvin Vincent": [
+            "In peace. See on ch. Luke 7:50."
+        ],
+        "John Gill": [
+            "Instead of frowning upon her, and chiding her for what she had done, he addressed her in a very affable and affectionate manner.",
+            "Thy faith hath made thee whole, go in peace.",
+            "Mark 5:34- :"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman's faith played a crucial role in her healing. It was not only in the act of touching, but also in her act of confession. Her faith served as the connecting link between herself and Christ, and it was through this faith that the power of healing was able to flow from Him to her. Her healing was openly confirmed by the words of the Lord. He addressed her with kindness and affection, assuring her that her faith had made her whole and instructing her to go in peace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 1.19440221116995,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.06,
+            "commentatorTierSimilarities": [
+                55.83,
+                0.0,
+                44.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman's faith saved her, not just in the physical act of touching, but also in her confession. It was her faith that forged the connection between her and Christ, allowing the power to heal her to flow from Him. This healing was openly confirmed by the words of the Lord. With kindness and affection, He assured her that her faith had made her whole, granting her peace as she departed.",
+            "wordCount": 72,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 1.2965276377619064,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.45,
+            "commentatorTierSimilarities": [
+                54.59,
+                0.0,
+                45.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman's faith not only saved her by her act of touching, but also through her act of confession. It served as the connecting link between herself and Christ, leading to her energetic and working healing. The Lord's own word openly ratified her healing, and He addressed her with affection and kindness, acknowledging her faith as the cause of her restoration and instructing her to go in peace.",
+            "wordCount": 70,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.2624240519977667,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "commentatorTierSimilarities": [
+                57.06,
+                0.0,
+                42.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman's faith played a vital role in her healing, serving as the connecting link between herself and Christ. It was her faith that saved her, not merely in the act of touching, but completed by her act of confession. The power that healed her flowed from Jesus, and her healing was openly confirmed by His words. He addressed her in an affable and affectionate manner, assuring her that her faith had made her whole, and she could go in peace.",
+            "wordCount": 82,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.3121853232073795,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.97,
+            "commentatorTierSimilarities": [
+                52.99,
+                0.0,
+                47.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman's faith served as the connecting link between her and Christ, saving her not only when she touched Him, but also through her confession. The healing power came from Jesus and her restoration was openly ratified by His words. He spoke to her with kindness and affection, assuring her that her faith had made her whole. In response, she was instructed to go in peace, experiencing the fullness of healing and restoration through her faith.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.262551977924777,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.32,
+            "commentatorTierSimilarities": [
+                52.51,
+                0.0,
+                47.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

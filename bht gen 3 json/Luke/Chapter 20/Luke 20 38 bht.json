@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:22:49",
+    "verseRef": "Luke 20:38",
+    "bestBHT": {
+        "bht": "All beings, regardless of whether they are alive or dead, have an ongoing existence in God's sight. No one is destroyed or wiped out; the being of all is a living one, even through their various transformations. God sees all human beings as alive, never dead, and they all sustain a covenant relation to Him that cannot be dissolved. These glimpses of the resurrection state are precious and remind us that believers continue to lead a heavenly life with God, beyond the comprehension of humanity. For God is not a God of the dead, but of the living.",
+        "wordCount": 99,
+        "quoteTokenProportion": 53.03,
+        "qualityScore": 2.056573066015917,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+        "commentatorTierSimilarities": [
+            38.2,
+            24.06,
+            37.74
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On all live unto him\" - This emphasizes that all, whether living or dead, have an ongoing existence in God's sight.",
+            "none are annihilated\" - According to the commentary, no one is destroyed or wiped out.",
+            "the being of all is a living one, in all its changes\" - In God's view, all beings have a continuous existence, even through their various transformations."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "To God, no human being is dead, or ever will be but all sustain an abiding conscious relation to Him.",
+            "These sustain a gracious covenant relation to God, which cannot be dissolved.",
+            "How precious are these glimpses of the resurrection state!"
+        ],
+        "John Calvin": [
+            "This mode of expression is employed in various senses in Scripture; but here it means that believers, after that they have died in this world, lead a heavenly life with God.\" ",
+            "But here Christ expressly reminds us, that we must not form a judgment of the life of the godly according to the perceptions of the flesh, because that life is concealed under the secret keeping of God.\" ",
+            "But God is faithful to preserve them alive in his presence, beyond the comprehension of men."
+        ],
+        "Philip Schaff": [
+            "For all live unto him.",
+            "The emphasis rests upon 'all,' which may be taken in its widest sense: all creatures, whether living or dead, angels or men, live in the sight of God.",
+            "This extends the argument further than the parallels in Matthew and Mark, where the covenant relation alone is brought into view."
+        ],
+        "John Gill": [
+            "For he is not a God of the dead, but of the living.\" ",
+            "For though they are dead to men, they are not to God; their souls live with him, and their bodies will be raised by him.\" ",
+            "He reckons of them, as if they were now alive, for he quickens the dead, and calls things that are not, as though they were."
+        ],
+        "John Wesley": [
+            "He is not a God of the dead, or, there is no God of the dead.",
+            "All who have him for their God, live to and enjoy him.",
+            "And as the body is an essential part of man, it implies both his resurrection and theirs; and so overthrows the entire scheme of the Sadducean doctrine."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All beings, regardless of whether they are alive or dead, have an ongoing existence in God's sight. No one is destroyed or wiped out; the being of all is a living one, even through their various transformations. God sees all human beings as alive, never dead, and they all sustain a covenant relation to Him that cannot be dissolved. These glimpses of the resurrection state are precious and remind us that believers continue to lead a heavenly life with God, beyond the comprehension of humanity. For God is not a God of the dead, but of the living.",
+            "wordCount": 99,
+            "quoteTokenProportion": 53.03,
+            "qualityScore": 2.056573066015917,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                38.2,
+                24.06,
+                37.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All beings, living or dead, have an ongoing existence in God's sight. None are annihilated; their being is continuous, even through transformations. All human beings sustain an abiding conscious relation to God, which cannot be dissolved. These glimpses of the resurrection state emphasize that believers continue to live with God, beyond human comprehension. For God is not a God of the dead, but of the living.",
+            "wordCount": 67,
+            "quoteTokenProportion": 50.98,
+            "qualityScore": 1.9621010849904568,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.58,
+            "commentatorTierSimilarities": [
+                40.43,
+                24.66,
+                34.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 20:38, the verse emphasizes that all beings, whether living or dead, have a continuous existence in God's sight. None are annihilated or destroyed, as the being of all is a living one, even through their various transformations. Every human being sustains an abiding conscious relationship with God, a gracious covenant relation that cannot be dissolved. These glimpses of the resurrection state are precious, reminding us that God is not only the God of the living, but also of those who have died. This refutes the notion of the Sadducean doctrine, showing that believers lead a heavenly life with God even after death, beyond human comprehension.",
+            "wordCount": 107,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.928592123128215,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                38.59,
+                26.79,
+                34.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All beings, whether living or dead, have a continuous existence in God's sight. None are annihilated or destroyed. The being of all is a living one, even through their transformations. Every human being sustains an abiding conscious relationship to God, a gracious covenant that cannot be dissolved. These glimpses of the resurrection state are precious, for God is the God of the living, not only the dead. Believers continue their heavenly life with God, beyond human comprehension and the false beliefs of the Sadducees.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.33,
+            "qualityScore": 1.7800816652587774,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.53,
+            "commentatorTierSimilarities": [
+                41.46,
+                24.83,
+                33.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All beings, whether living or dead, have an ongoing existence in God's sight. None are annihilated or wiped out. In God's view, every being has a continuous existence, even through their various transformations. No human being is dead or ever will be, but all sustain an abiding conscious relation to Him. These glimpses of the resurrection state emphasize the preciousness of this truth. No matter how it may be perceived in the physical realm, believers lead a heavenly life with God, preserved and alive in His presence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8370614712232147,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                41.82,
+                25.78,
+                32.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:36:41",
+    "verseRef": "Acts 26:20",
+    "bestBHT": {
+        "bht": "Paul, the greatest of theologians, showed the people of Damascus and Jerusalem the extent of his transformation by repeatedly declaring his conversion. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. This phrase, works meet for repentance, is likely a reference to John the Baptist's teaching. Paul's faith in God manifested itself in his actions and words, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, as he emphasized the need for repentance and faith in his message.",
+        "wordCount": 97,
+        "quoteTokenProportion": 26.98,
+        "qualityScore": 1.756246638959811,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+        "commentatorTierSimilarities": [
+            26.5,
+            33.92,
+            39.58
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "showed . . . to them of Damascus, and at Jerusalem\u2014omitting Arabia; because, beginning with the Jews, his object was to mention first the places where his former hatred of the name of Christ was best known: the mention of the Gentiles, so unpalatable to his audience, is reserved to the last.",
+            "repent and return to God, and do works meet for repentance\u2014a brief description of conversion and its proper fruits, suggested, probably, by the Baptist's teaching (Luke 3:7; Luke 3:8)."
+        ],
+        "Albert Barnes": [
+            "The word 'then' in this verse is supplied by our translators, and is not necessary to the proper explanation of the passage.",
+            "It would seem from that word that he had not preached 'to the Gentiles' until after he had preached 'at Jerusalem and throughout all the coasts of Judea,' whereas, in fact, he had...",
+            "The statement here, in the original, is a general statement that he had preached at Damascus and at Jerusalem, and in all the coasts of Judea, and also to the Gentiles, but without specifying the exact order in which it was done."
+        ],
+        "Philip Schaff": [
+            "I kept on showing... from that day have I kept on telling out His message.\" ",
+            "With Paul, faith meant the loving, childlike trust in the Fatherhood of God... It would ever show itself in acts and words and thoughts which that Father would look on, and when He looked could love.\" ",
+            "The expression, 'works meet for repentance,' is a strange one, and apparently was one of John the Baptist\u2019s favourite sayings... graven with an iron pen for ever on the tablets of St. Paul\u2019s heart."
+        ],
+        "Archibald T. Robertson": [
+            "But declared repeatedly.",
+            "The accusative of extent of space will explain it.",
+            "Paul, the greatest of theologians, was an interesting practical preacher."
+        ],
+        "John Gill": [
+            "and turn to God; this is to be understood, not of the first work of conversion, which is God's work, and not man's act, and in which man is passive, and which is before repentance, whereas this follows upon it",
+            "It intends a turning of the Jews from their evil principles and practices, from the traditions of their elders to the law of God, the Gospel of Christ, and the ordinances of it, and of the Gentiles, from their idols to the worship of the true and living God",
+            "and do works meet for repentance... they are they which are the reverse of the evil actions they have been guilty of, and which are properly good works."
+        ],
+        "John Wesley": [
+            "I declared \u2014 From that hour to this, both to Jew and Gentile, that they should repent - This repentance, we may observe, is previous both to inward and outward holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, the greatest of theologians, showed the people of Damascus and Jerusalem the extent of his transformation by repeatedly declaring his conversion. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. This phrase, works meet for repentance, is likely a reference to John the Baptist's teaching. Paul's faith in God manifested itself in his actions and words, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, as he emphasized the need for repentance and faith in his message.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.756246638959811,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                26.5,
+                33.92,
+                39.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, the greatest of theologians, repeatedly declared his conversion to the people of Damascus and Jerusalem. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. This phrase, works meet for repentance, likely references John the Baptist's teaching. Paul's faith in God expressed itself in his actions and words, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, as he emphasized the need for repentance and faith in his message.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.7488186697175716,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.49,
+            "commentatorTierSimilarities": [
+                27.31,
+                33.48,
+                39.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, the greatest theologian, continually declared his conversion, showing the people of Damascus and Jerusalem the extent of his transformation. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. Paul's faith in God manifested in his actions and words, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, highlighting the need for repentance and faith in his message.",
+            "wordCount": 76,
+            "quoteTokenProportion": 22.45,
+            "qualityScore": 1.7409348563483524,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.23,
+            "commentatorTierSimilarities": [
+                26.27,
+                33.62,
+                40.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, the greatest of theologians, showed the people of Damascus and Jerusalem the extent of his transformation by repeatedly declaring his conversion. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. This phrase, works meet for repentance, is likely a reference to John the Baptist's teaching. Paul's faith in God manifested itself in his actions and words, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, as he emphasized the need for repentance and faith in his message.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.756246638959811,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.74,
+            "commentatorTierSimilarities": [
+                26.5,
+                33.92,
+                39.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, the greatest of theologians, repeatedly declared his conversion to the people of Damascus and Jerusalem. He urged them to repent and turn to God, emphasizing the importance of genuine conversion and producing fruits in line with repentance. This phrase works meet for repentance likely references John the Baptist's teaching. Paul's faith in God expressed itself in his actions, reflecting his trust in the Father. His preaching reached both Jews and Gentiles, highlighting the need for repentance and faith in his message.",
+            "wordCount": 84,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.7083080931022603,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.14,
+            "commentatorTierSimilarities": [
+                27.69,
+                32.66,
+                39.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

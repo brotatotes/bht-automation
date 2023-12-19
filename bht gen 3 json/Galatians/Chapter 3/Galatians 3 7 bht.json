@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 14:14:16",
+    "verseRef": "Galatians 3:7",
+    "bestBHT": {
+        "bht": "Those who are of faith, as the origin and starting point of their spiritual life, are the true children of Abraham. They are the ones who have relinquished confidence in works and rely on the promise of God alone. It is evident that only those who believe and are justified in this manner can truly claim to be the descendants of Abraham. Therefore, it is through faith in God and His promises that we can become partakers of Abraham's faith and heirs to the promises made to him.",
+        "wordCount": 89,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.4008910144907007,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.17,
+        "commentatorTierSimilarities": [
+            25.39,
+            28.8,
+            45.81
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is evident to all.",
+            "They which are of faith, as the origin and the starting-point of their spiritual life.",
+            "These, and these only, not they which are of works."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they which are of faith\u2014the source and starting-point of their spiritual life.",
+            "the same\u2014these, and these alone, to the exclusion of all the other descendants of Abraham.",
+            "children\u2014Greek, 'sons' (Galatians 3:29)."
+        ],
+        "Albert Barnes": [
+            "It is an inference which follows, that all they who believe are the children of Abraham.",
+            "They which are of faith - Who believe, and who are justified in this manner.",
+            "If we are like him, if we evince the same spirit and character, we may be sure of salvation."
+        ],
+        "Marvin Vincent": [
+            "Know ye [\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03b5\u03c4\u03b5] . Imperative. It may also be rendered as indicative, ye know, but the imperative is livelier, and the statement in the verse is one of the points which the writer is trying to prove.",
+            "They which are of faith [\u03bf\u03b9 \u03b5\u03ba \u03c0\u03b9\u03c3\u03c4\u03b5\u03c9\u03c2] . Ek pistewv from or out of faith, is found with the verb to justify (Romans 3:26, Romans 3:30; Romans 5:1) : with other verbs, as live (Romans 1:17); eat (Romans 14:23) : with the noun dikaiosunh righteousness (Romans 1:17; Romans 9:30; Romans 10:6) : with other nouns, as promise (Galatians 3:22), law (Galatians 3:12).",
+            "It denotes believers as sprung from, or receiving their spiritual condition from that which specially characterizes them."
+        ],
+        "John Calvin": [
+            "He says that those 'are of faith,' who have relinquished all confidence in works, and rely on the promise of God alone.",
+            "To be of faith, therefore, is to rest their righteousness and hope of salvation on the mercy of God.",
+            "There is no place in the church for any man who is not a son of Abraham."
+        ],
+        "Philip Schaff": [
+            "Those of faith, emphatic, no others, in opposition to the self-righteous men of the law.",
+            "'They whose starting-point, whose fundamental principle is faith.'",
+            "Comp. Romans 2:8; Romans 4:14 (in Greek)."
+        ],
+        "Archibald T. Robertson": [
+            "The real sons of Abraham are those who believe as he did, 'they which be of faith'.",
+            "Those whose spiritual sonship springs out of faith, not out of blood.",
+            "Jesus termed the Pharisees children of the devil and not spiritual children of Abraham."
+        ],
+        "John Gill": [
+            "That they which are of faith... the same are the children of Abraham; his spiritual seed, though they may not be his natural offspring.\" ",
+            "For he is the father of all that believe, whether of the circumcision or the uncircumcision, and of none else in a spiritual sense.",
+            "His view herein is to prove, that the Gentiles, who believe, are the true seed of Abraham, the children of the promise, those in many nations, he was promised to be the father of."
+        ],
+        "John Wesley": [
+            "Know then that they who are partakers of his faith, these, and these only, are the sons of Abraham, and therefore heirs of the promises made to him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are of faith, whose spiritual life springs from and is characterized by faith, are the true children of Abraham. They are the ones who have relinquished confidence in works and rely solely on the promise of God. This distinction is important because Jesus Himself referred to the Pharisees as children of the devil and not spiritual children of Abraham. It is evident that only those who believe and are justified in this manner can truly claim to be the descendants of Abraham. Therefore, it is through faith in God and His promises that we can become partakers of Abraham's faith and heirs to the promises made to him.",
+            "wordCount": 111,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 2.4078285653192752,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.4,
+            "commentatorTierSimilarities": [
+                26.85,
+                28.32,
+                44.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are of faith, the true children of Abraham, are the ones whose spiritual life is rooted in faith. They have relinquished confidence in works and rely solely on the promise of God. This distinction is important because Jesus referred to the Pharisees as children of the devil, not spiritual children of Abraham. Only those who believe and are justified in this manner can truly claim to be descendants of Abraham and heirs to the promises made to him.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.3807318777032505,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.5,
+            "commentatorTierSimilarities": [
+                27.79,
+                27.8,
+                44.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who are of faith, as the origin and starting point of their spiritual life, are the true children of Abraham. They are the ones who have relinquished confidence in works and rely on the promise of God alone. It is evident that only those who believe and are justified in this manner can truly claim to be the descendants of Abraham. Therefore, it is through faith in God and His promises that we can become partakers of Abraham's faith and heirs to the promises made to him.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.4008910144907007,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.17,
+            "commentatorTierSimilarities": [
+                25.39,
+                28.8,
+                45.81
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

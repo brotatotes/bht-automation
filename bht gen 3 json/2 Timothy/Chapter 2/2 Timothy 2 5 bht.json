@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:30:49",
+    "verseRef": "2 Timothy 2:5",
+    "bestBHT": {
+        "bht": "The soldier must serve without dividing his service, striving lawfully and observing all the conditions of the contest. The Christian minister is engaged in a struggle for the crown, striving in the games and running the race set before them in the right way. Just as the victor in the athletic contests was crowned, the Christian must strive to obtain the crown of life. The apostle emphasizes the importance of fulfilling the laws and rules, as failure to comply would result in disqualification from the reward.",
+        "wordCount": 86,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9842567147481165,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+        "commentatorTierSimilarities": [
+            26.63,
+            36.47,
+            36.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The soldier must serve on condition of not dividing his service.",
+            "In the conflicts of the arena there are certain laws, without the fulfilment of which no man can obtain the victory.",
+            "He is not crowned unless he have striven lawfully, according to the prescribed conditions not merely of the contest, but of the preparation also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Moreover...strive for masteries.\" ",
+            "yet is he not crowned, except...he gain the victory.\" ",
+            "strive lawfully...observing all the conditions."
+        ],
+        "Albert Barnes": [
+            "No one could obtain the prize unless he had complied with all the laws of the games, and had thus given to those with whom he contended, a fair opportunity to succeed.",
+            "He says that he could not hope to win it unless he should comply with all the laws by which it is conferred; unless he should subdue every improper propensity, and make an effort like that evinced by the combatants at the Olympic games.",
+            "The apostle here represents the Christian minister as engaged in a struggle or conflict for the crown."
+        ],
+        "Marvin Vincent": [
+            "The allusion to crowning is not decisive in favor of the Rev. rendering. Among the Rom. crowns were the highest distinction for service in war.\" ",
+            "The corona myrtea or ovatio, the crown of bay, was worn by the general who celebrated the lesser triumph or ovatio.",
+            "If he fulfills this requirement, he is not to trouble himself about his worldly maintenance, for it is right that he should draw his support from his ministerial labor : nay, he has the first right to its material fruits."
+        ],
+        "John Calvin": [
+            "He who gives way in the middle of the course deprives himself of honor, even though he may have begun valiantly.",
+            "To strive lawfully is to pursue the contest in such a manner and to such an extent as the law requires, that none may leave off before the time appointed.",
+            "If any man, therefore, wearied with the conflict, immediately withdraw from the arena to enjoy repose, he will be condemned for indolence instead of being crowned."
+        ],
+        "Philip Schaff": [
+            "Strive in the games\" would perhaps answer the purpose, as bringing out more distinctly the new comparison.",
+            "The phrase, which is found in precisely the same connexion in Galen (Comm. in Hippocr. I. 15), was technical, half medical, and half belonging to the training schools of athletes, and implied the observance of all rules of life prior to the contest as well as during it.",
+            "Failure to keep to the appointed diet and discipline, no less than taking an unfair advantage at the time, excluded the competitor from his reward."
+        ],
+        "Archibald T. Robertson": [
+            "Note sharp distinction between \u03b1\u03b8\u03bb\u03b7 (present subjunctive, engage in a contest in general) and \u03b1\u03b8\u03bb\u03b7\u03c3\u03b7 (first aorist active subjunctive, engage in a particular contest).\" ",
+            "Unless he contend (in any given case) 'lawfully' (\u03bd\u03bf\u03bc\u03b9\u03bc\u03c9\u03c2). Old adverb, agreeably to the law.",
+            "The victor in the athletic contests was crowned with a garland."
+        ],
+        "John Gill": [
+            "And if a man also strive for masteries,.... In the Olympic games, by running, wrestling, leaping, c. yet is he not crowned with a corruptible, fading crown, a crown made of herbs and leaves of trees, as parsley, laurel, c.",
+            "so no man that calls himself a Christian, minister, or any other, can expect the crown of life, the prize of the high calling of God, except he runs the race set before him, in the right way.",
+            "looking to Christ, the mark, pressing through all difficulties, towards the prize, and holds on and out unto the end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To obtain the crown of victory, the soldier must serve without dividing his service. Just as in the conflicts of the arena, certain laws must be fulfilled in order to obtain the victory. The soldier must strive lawfully, observing all the conditions of the contest and its preparation. This emphasis on striving lawfully is crucial, as failure to comply with the laws and rules of the game would result in disqualification and exclusion from the reward. The apostle paints a picture of the Christian minister engaged in a struggle or conflict for the crown. The Christian must strive in the games, pursuing the contest in such a manner and to such an extent as the law requires, not leaving off before the appointed time. Just as the victor in the athletic contests was crowned with a garland, the Christian minister must also run the race set before them in the right way in order to obtain the crown of life.",
+            "wordCount": 160,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.946320627025384,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.06,
+            "commentatorTierSimilarities": [
+                27.89,
+                34.83,
+                37.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To obtain the crown of victory, the soldier must serve without dividing his service, striving lawfully and observing all the conditions. Failure to comply with the laws would result in disqualification from the reward. The Christian minister is engaged in a struggle for the crown, striving in the games and running the race set before them in the right way. Just as the victor in the athletic contests was crowned, the Christian must strive to obtain the crown of life.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9375724400201095,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                27.7,
+                34.05,
+                38.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The soldier must serve without dividing his service, striving lawfully and observing all the conditions of the contest. The Christian minister is engaged in a struggle for the crown, striving in the games and running the race set before them in the right way. Just as the victor in the athletic contests was crowned, the Christian must strive to obtain the crown of life. The apostle emphasizes the importance of fulfilling the laws and rules, as failure to comply would result in disqualification from the reward.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9842567147481165,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.32,
+            "commentatorTierSimilarities": [
+                26.63,
+                36.47,
+                36.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The soldier must serve without dividing his service, striving lawfully and observing all the conditions of the contest. The Christian minister is engaged in a struggle for the crown, striving in the games and running the race set before them in the right way. Just as the victor in the athletic contests was crowned, the Christian must strive to obtain the crown of life. Failure to comply with the laws would result in disqualification from the reward.",
+            "wordCount": 77,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.925059843985855,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                28.03,
+                35.47,
+                36.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The soldier must serve without dividing his service, striving lawfully and observing all the conditions of the contest. Just as in the conflicts of the arena, there are certain laws that must be fulfilled to obtain the victory. The Christian minister is engaged in a struggle for the crown, striving in the games and running the race set before them in the right way. The apostle emphasizes the importance of fulfilling the laws and rules, as failure to comply would result in disqualification from the reward.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9076778004201573,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.77,
+            "commentatorTierSimilarities": [
+                28.23,
+                36.96,
+                34.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

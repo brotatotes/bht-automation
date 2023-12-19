@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:15:32",
+    "verseRef": "2 Corinthians 3:3",
+    "bestBHT": {
+        "bht": "The Corinthians serve as Christ's letter of recommendation, ministered by Paul, with the Spirit of the living God writing on their hearts instead of ink on stone tablets. Through their transformed hearts of flesh, the Corinthians embody Christ's message, attesting to Paul's faithfulness and the work of the Spirit. This epistle carries more weight than an inscription on stone, for only God can inscribe His truths on the human heart. Thus, the Corinthians become a living testament, allowing others to read Christ in them.",
+        "wordCount": 87,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 2.3605618649132696,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.83,
+        "commentatorTierSimilarities": [
+            34.62,
+            35.21,
+            30.17
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He is the Recommender of us, the Head of the church and sender of us His ministers.",
+            "The Corinthians are his Epistle of recommendation, both to themselves and others; an Epistle, written by Christ, ministered by St. Paul.",
+            "I bear on my heart, as a testimony to all men, that which Christ has by His Spirit written in your hearts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Being manifestly shown to be an Epistle of Christ\" - a letter coming manifestly from Christ, and \"ministered by us.",
+            "Not with ink, but with the Spirit of the living God\" - Christ's Epistle (His believing members converted by Paul) is written with the \"Spirit of the living God.",
+            "On [your] hearts [which are] tables of flesh\" - God has taken away the stony heart and given you a heart of flesh, making your hearts the tables on which His message is written."
+        ],
+        "Albert Barnes": [
+            "Your conversion is his work, and it is his public attestation to our fidelity in his cause.",
+            "Every trace of the Spirit\u2019s influences on the heart was an undoubted proof that God had sent the apostles.",
+            "This testimonial was of more value than an inscription on stone, because no hand but that of God could reach the heart, and inscribe these truths there."
+        ],
+        "Marvin Vincent": [
+            "An epistle written by Christ through our ministry; that is, you, as the converted subjects of our ministry, are an epistle of Christ.",
+            "The Spirit. Instead of ink.",
+            "Tables which are hearts of flesh."
+        ],
+        "John Calvin": [
+            "He says that it was ministered by him, as if meaning by this, that he had been in the place of ink and pen.",
+            "For in drawing a contrast between ink and the Spirit of God, and between stones and heart, he expresses more than if he had simply made mention of the Spirit and the heart, without drawing any comparison.",
+            "Paul says, that this blessing was accomplished through means of his preaching. Hence it abundantly appears, that he is a faithful minister of the New Covenant."
+        ],
+        "Philip Schaff": [
+            "all who see you may read Christ in you.",
+            "an epistle commendatory of Christ.",
+            "written ... by the Spirit of the living God accompanying our message, not in tables of stone, but in fleshy tables of the heart."
+        ],
+        "Archibald T. Robertson": [
+            "They are Christ's letter to men as well as Paul's.",
+            "Not with ink.",
+            "Of stone... of flesh."
+        ],
+        "John Gill": [
+            "Christ was the author and dictator; yea, he himself is the very matter, sum, substance, and subject of the epistle.",
+            "They are made use of to show the sinner the black characters which are written upon him, and that what is written in him, and to be read by him, by the light of nature is not sufficient for salvation.",
+            "The law was written on tables of stone, which may denote the firmness and stability of the law; not as in the hands of Moses, from whence the tables fell and were broken, but as in the hands of Christ, by whom they are fulfilled."
+        ],
+        "John Wesley": [
+            "Manifestly declared to be the letter of Christ \u2014 Which he has formed and published to the world.",
+            "Ministered by us \u2014 Whom he has used herein as his instruments, therefore ye are our letter also.",
+            "Written not in tables of stone \u2014 Like the ten commandments. But in the tender, living tables of their hearts - God having taken away the hearts of stone and given them hearts of flesh."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is clear that the Corinthians are being referred to as an epistle or letter of recommendation, written by Christ Himself and ministered by Paul. This letter is not written with ink, but with the Spirit of the living God on the tables of their hearts, symbolizing the transformation from stony hearts to hearts of flesh. This conversion serves as a powerful testimony to the work of the Spirit and an attestation of Paul's fidelity in Christ's cause. The Corinthians themselves are a commendatory epistle of Christ, an undeniable proof of God's involvement in their lives, and a visible manifestation of Christ in them.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.3867054323207153,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.7,
+            "commentatorTierSimilarities": [
+                36.83,
+                34.43,
+                28.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians serve as Christ's letter of recommendation, ministered by Paul, with the Spirit of the living God writing on their hearts instead of ink on stone tablets. Through their transformed hearts of flesh, the Corinthians embody Christ's message, attesting to Paul's faithfulness and the work of the Spirit. This epistle carries more weight than an inscription on stone, for only God can inscribe His truths on the human heart. Thus, the Corinthians become a living testament, allowing others to read Christ in them.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.3605618649132696,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.83,
+            "commentatorTierSimilarities": [
+                34.62,
+                35.21,
+                30.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Corinthians are Christ's written commendation, a letter ministered by Paul, where the Spirit of the living God writes on their hearts, replacing ink and stone. This transformation from stony hearts to hearts of flesh showcases the work of the Spirit and demonstrates Paul's fidelity. Through their converted lives, the Corinthians become a living epistle that reveals Christ to others, surpassing the value of stone inscriptions. Their hearts bear the unmistakable traces of the Spirit's influence, providing undeniable proof of God's hand in their conversion.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.2844198686066415,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                34.88,
+                36.28,
+                28.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians are an epistle of recommendation, written by Christ and ministered by Paul. Through the Spirit of the living God, Christ's message is inscribed on the tables of their hearts, not with ink but with divine influence. Their transformed hearts of flesh, replacing stony ones, serve as a powerful testimony to the work of the Spirit and validate Paul's faithfulness. The Corinthians are living letters, a visible manifestation of Christ in them, allowing others to read and witness Christ's transformative power.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.320274083389817,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                37.76,
+                34.13,
+                28.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Corinthians, as a converted people, are Christ's commendatory epistle made manifest through Paul's ministry. Instead of using ink on stone tablets, Christ writes His message on their hearts, which were once stony but have been transformed into hearts of flesh. This divine inscription by the Spirit demonstrates God's handiwork and surpasses any human testimonial. The Corinthians become living proof of Paul's fidelity and the power of the Spirit, allowing others to see Christ in them and read the message written on their transformed hearts.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.246544773502249,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.04,
+            "commentatorTierSimilarities": [
+                35.26,
+                35.13,
+                29.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

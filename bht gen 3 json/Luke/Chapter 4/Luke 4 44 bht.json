@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:14:57",
+    "verseRef": "Luke 4:44",
+    "bestBHT": {
+        "bht": "Embarking on his initial tour of Galilee, Jesus preached in the synagogues, with this being the only ministry recorded in Jud\u00e6a by the three Evangelists. It is essential to faithfully trace the sacred text instead of imposing personal judgment on its content. Although specific details of this campaign are sparse, it is worth noting that Mark 1:39 and Matthew 8:23-25 describe the multitude of work accomplished during this time in Galilee.",
+        "wordCount": 69,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.6560522047065793,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.41,
+        "commentatorTierSimilarities": [
+            44.6,
+            0.0,
+            55.4
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The reading Jud\u00e6a must, on any intelligible critical principles, be adopted.",
+            "The three Evangelists relate no ministry in Jud\u00e6a, with this single exception.",
+            "It is his province simply to track out what is the sacred text, not what, in his own feeble and partial judgment, it ought to have been."
+        ],
+        "Archibald T. Robertson": [
+            "Periphrastic imperfect active, describing his first tour of Galilee in accord with the purpose just stated.",
+            "One must fill in details, though Mark 1:39 and Matthew 8:23-25 tell of the mass of work done on this campaign."
+        ],
+        "John Gill": [
+            "And he preached in the synagogues of Galilee. In the several synagogues that were in different cities and towns throughout all Galilee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, after leaving Capernaum, went on a ministry tour of Galilee. This verse implies that this was His first time preaching in the synagogues of Galilee. Although there is not much information about this specific tour, it is important to note that the other Gospel accounts mention a great amount of work done during this campaign. While some may question why there is no record of Jesus ministering in Jud\u00e6a apart from this occasion, it is crucial to remember that the purpose of the Gospel writers was to faithfully track the sacred text as it was and not impose their own judgment on it.",
+            "wordCount": 104,
+            "quoteTokenProportion": 46.48,
+            "qualityScore": 1.4341032290876712,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.03,
+            "commentatorTierSimilarities": [
+                37.59,
+                0.0,
+                62.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus embarked on his first ministry tour of Galilee, preaching in the synagogues. Despite the absence of any accounts mentioning Jesus ministering in Jud\u00e6a aside from this instance, it is important to adhere to the sacred text as it stands, rather than impose personal judgment. While specific details of this tour are scant, it is noteworthy that other Gospel accounts document a substantial amount of work accomplished during this campaign.",
+            "wordCount": 70,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.37739775907589,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.14,
+            "commentatorTierSimilarities": [
+                42.16,
+                0.0,
+                57.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Embarking on his first tour of Galilee, Jesus preached in the synagogues, with the exception of any ministry in Jud\u00e6a mentioned by the Evangelists. It is crucial to faithfully track the sacred text rather than impose personal judgment on what it ought to have been. Although lacking specific details of this particular campaign in Galilee, it is worth noting the abundant work described in other accounts, such as Mark 1:39 and Matthew 8:23-25.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.605530535630842,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.73,
+            "commentatorTierSimilarities": [
+                42.92,
+                0.0,
+                57.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus commenced his first tour of Galilee, preaching in the synagogues of the region. It is important to honor the sacred text and not impose personal judgment on what it should have included. While details about this specific tour are limited, it is noteworthy that other Gospel accounts mention a significant amount of work accomplished during this campaign. Mark 1:39 and Matthew 8:23-25 provide additional insight into the extensive ministry carried out during this time.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3167883488571313,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.13,
+            "commentatorTierSimilarities": [
+                41.92,
+                0.0,
+                58.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Embarking on his initial tour of Galilee, Jesus preached in the synagogues, with this being the only ministry recorded in Jud\u00e6a by the three Evangelists. It is essential to faithfully trace the sacred text instead of imposing personal judgment on its content. Although specific details of this campaign are sparse, it is worth noting that Mark 1:39 and Matthew 8:23-25 describe the multitude of work accomplished during this time in Galilee.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.6560522047065793,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.41,
+            "commentatorTierSimilarities": [
+                44.6,
+                0.0,
+                55.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

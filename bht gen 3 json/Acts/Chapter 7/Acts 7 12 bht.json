@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:27:03",
+    "verseRef": "Acts 7:12",
+    "bestBHT": {
+        "bht": "When Jacob heard that there was grain in Egypt, he sent our fathers there. Egypt was known for its abundance of grain, and in later times, it became the main source of food for Rome. Stephen refers to this history in a general way, showing his belief in what Moses had spoken and not intending to disrespect him. Jacob sent out his ten sons first, but without Benjamin.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7066807905499963,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+        "commentatorTierSimilarities": [
+            40.57,
+            24.87,
+            34.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The word 'corn' here rather denotes 'wheat.'\" ",
+            "Stephen here \u2018refers\u2019 only to the history, without entering into details.\" ",
+            "By this general reference he sufficiently showed that he believed what Moses had spoken, and did not intend to show him disrespect."
+        ],
+        "Marvin Vincent": [
+            "In Egypt [\u03b5\u03bd \u03b1\u03b9\u03b3\u03c5\u03c0\u03c4\u03c9] . But the best texts read eijv Aigupton, into Egypt, and construe with sent forth : \"he sent forth our fathers into Egypt."
+        ],
+        "Philip Schaff": [
+            "Acts 7:12. There was corn in Egypt. Egypt was the great corn-growing country of the old world. In later times it became the principal granary of Rome (see Acts 27:6-38).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "That there was corn (\u03bf\u03bd\u03c4\u03b1 \u03c3\u03b9\u03c4\u03b9\u03b1)... \u03c3\u03b9\u03c4\u03b9\u03b1 is diminutive of \u03c3\u03b9\u03c4\u03bf\u03c2 and means grain (wheat, barley, not our maize or Indian corn), old word also for provisions, victuals, here only in the N.T.\" ",
+            "Participle (present active of \u03b5\u03b9\u03bc) in indirect discourse, after \u03b1\u03ba\u03bf\u03c5\u03c3\u03b1\u03c2, 'heard of corn being in Egypt.'",
+            "The first time (\u03c0\u03c1\u03c9\u03c4\u03bf\u03bd). While Jacob himself remained in Canaan before he went down to Egypt and died there."
+        ],
+        "John Gill": [
+            "But when Jacob heard that there was corn in Egypt... which by some means or another, Jacob had heard of.\" ",
+            "he sent out our fathers first... these were the ten sons of Jacob, and brethren of Joseph, who were sent the first time.\" ",
+            "or he sent them first, he laid his commands on them, or they had not gone."
+        ],
+        "John Wesley": [
+            "Sent our fathers first \u2014 Without Benjamin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jacob heard that there was wheat in Egypt, he sent our fathers there, into Egypt. This was the first time that our fathers were sent, while Jacob himself remained in Canaan. Egypt was known for its abundance of grain, and in later times, it became the main source of food for Rome. Stephen refers to this history in a general way, showing his belief in what Moses had spoken and not intending to disrespect him. Jacob, having heard about the presence of grain, sent out his ten sons first, but without Benjamin.",
+            "wordCount": 93,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.8048704293150033,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                42.03,
+                23.82,
+                34.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jacob heard that there was grain in Egypt, he sent our fathers there. This was the first time our fathers were sent, while Jacob remained in Canaan. Egypt was known as a great corn-growing country, and it later became Rome's primary granary. Stephen's reference to this history shows his belief in Moses' words and his intent not to disrespect him. Jacob sent out his ten sons first, without Benjamin.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.7474664224694854,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                39.21,
+                21.92,
+                38.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When Jacob heard that there was grain in Egypt, he sent our fathers there. Egypt was known for its abundance of grain, and in later times, it became the main source of food for Rome. Stephen refers to this history in a general way, showing his belief in what Moses had spoken and not intending to disrespect him. Jacob sent out his ten sons first, but without Benjamin.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7066807905499963,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.09,
+            "commentatorTierSimilarities": [
+                40.57,
+                24.87,
+                34.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When Jacob heard that there was corn in Egypt, he sent our fathers first, the ten sons of Jacob and Joseph's brothers. Egypt was known for its abundance in grain, and this presented an opportunity for Jacob and his family to seek provisions. Stephen's reference to the corn in Egypt demonstrated his belief in the words of Moses and his respect towards him. It is interesting to note that Egypt would later become the granary of Rome.",
+            "wordCount": 79,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9194613628284434,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                52.9,
+                26.22,
+                20.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When Jacob heard that there was corn in Egypt, he sent forth our fathers into Egypt. Egypt was the great corn-growing country of the old world. Stephen's reference to the corn in Egypt demonstrated his belief in the words of Moses and his respect towards him. The presence of corn in Egypt presented an opportunity for Jacob and his family to seek provisions. This act of sending their fathers first was done by the ten sons of Jacob, who obeyed his commands. Egypt's abundance in grain made it a prime location for securing food and became the principal granary of Rome in later times.",
+            "wordCount": 107,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8816942873110798,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.91,
+            "commentatorTierSimilarities": [
+                51.84,
+                25.7,
+                22.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "timestamp": "12-19-2023 16:39:59",
+    "verseRef": "1 Peter 5:7",
+    "bestBHT": {
+        "bht": "Exemption from care goes along with humble submission to God. Care is a burden which faith casts off the man on his God. The fact that God retains a loving concern for us is our reason for rolling the burden of our anxieties upon Him. Where there is the disposition to humble ourselves beneath God\u2019s hand, there the disposition to trust Him will also appear. We ought the more to dwell on this thought, that God cares for us, in order, first, that we may have peace within; and, secondly, that we may be humble and meek towards men.",
+        "wordCount": 100,
+        "quoteTokenProportion": 51.52,
+        "qualityScore": 2.3117112368606785,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+        "commentatorTierSimilarities": [
+            26.44,
+            40.58,
+            32.98
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "casting (once for all, by an act which includes the life) all your anxiety upon Him\" ",
+            "this again is an Old Test. citation\" ",
+            "He careth (this is not the same, nor a like word to that rendered anxiety above: and however much the run of the words to which we are accustomed is marred by the change, the two should in rendering be kept carefully distinct) for (about) you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Exemption from care goes along with humble submission to God.\" ",
+            "Care is a burden which faith casts off the man on his God.",
+            "Careth\u2014for you\u2014literally 'respecting you.' Care is a burden which faith casts off the man on his God."
+        ],
+        "Albert Barnes": [
+            "The meaning is, that we are to commit our whole cause to him. If we suffer heavy trials; if we lose our friends, health, or property; if we have arduous and responsible duties to perform; if we feel that we have no strength, and are in danger of being crushed by what is laid upon us, we may go and cast all upon the Lord; that is, we may look to him for grace and strength, and feel assured that he will enable us to sustain all that is laid upon us.",
+            "It is one of the glorious attributes of the true God, that he can and will thus notice the needs of the mean as well as the mighty; and one of the richest of all consolations when we are afflicted, and are despised by the world, is the thought that we are not forgotten by our heavenly Father.",
+            "Remember, poor, despised, afflicted child of God, that you will never be forgotten. Friends on earth, the great, the frivolous, the noble, the rich, may forget you; God never will."
+        ],
+        "Marvin Vincent": [
+            "Casting [\u03b5\u03c0\u03b9\u03c1\u03c1\u03b9\u03c8\u03b1\u03bd\u03c4\u03b5\u03c2] . The aorist participle denoting an act once for all; throwing the whole life with its care on him.\" (quote 1)",
+            "Not every anxiety as it arises, for none will arise if this transference has been effectually made.\" (quote 2)",
+            "Pride is at the root of most of our anxiety. To human pride it is humiliating to cast everything upon another and be cared for.\" (quote 3)"
+        ],
+        "John Calvin": [
+            "For all those who recumb not on God\u2019s providence must necessarily be in constant turmoil and violently assail others.\" ",
+            "We ought the more to dwell on this thought, that God cares for us, in order, first, that we may have peace within; and, secondly, that we may be humble and meek towards men.\" ",
+            "But we are not thus bidden to cast all our care on God, as though God wished us to have strong hearts, and to be void of all feeling; but lest fear or anxiety should drive us to impatience."
+        ],
+        "Philip Schaff": [
+            "The fact that God retains a loving concern for us is our reason for rolling the burden of our anxieties upon Him.",
+            "Humility of mind is a chief protection against anxiety. Where there is the disposition to humble ourselves beneath God\u2019s hand, there the disposition to trust Him will also appear.",
+            "The anxiety is described here as a burden which is to be cast as one whole upon God."
+        ],
+        "Archibald T. Robertson": [
+            "Casting their clothes on the colt.\" ",
+            "It is a care to him.\" ",
+            "God does care."
+        ],
+        "John Gill": [
+            "The care of the body, and of all the affairs of life...should be committed into the hands of Christ, on whom help is laid, and who is become the author of eternal salvation.\" ",
+            "[God] will not suffer them to want, nor withhold any good thing from them, or ever leave them and forsake them.",
+            "[God] has made provision in his Son...bestows his grace upon them, and gives every needful supply of it to them, and keeps them by his power through faith unto salvation."
+        ],
+        "John Wesley": [
+            "Casting all your care upon him \u2014 In every want or pressure."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 2,
+    "bhtAttempts": [
+        {
+            "bht": "Exemption from care goes along with humble submission to God. Care is a burden which faith casts off the man on his God. The fact that God retains a loving concern for us is our reason for rolling the burden of our anxieties upon Him. Humility of mind is a chief protection against anxiety. Where there is the disposition to humble ourselves beneath God\u2019s hand, there the disposition to trust Him will also appear. We ought the more to dwell on this thought, that God cares for us, in order, first, that we may have peace within; and, secondly, that we may be humble and meek towards men.",
+            "wordCount": 109,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 2.270973133569266,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.85,
+            "commentatorTierSimilarities": [
+                26.86,
+                41.47,
+                31.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Exemption from care goes along with humble submission to God. Care is a burden which faith casts off the man on his God. The fact that God retains a loving concern for us is our reason for rolling the burden of our anxieties upon Him. Where there is the disposition to humble ourselves beneath God\u2019s hand, there the disposition to trust Him will also appear. We ought the more to dwell on this thought, that God cares for us, in order, first, that we may have peace within; and, secondly, that we may be humble and meek towards men.",
+            "wordCount": 100,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 2.3117112368606785,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.2,
+            "commentatorTierSimilarities": [
+                26.44,
+                40.58,
+                32.98
+            ],
+            "generationAttempt": 2
+        }
+    ]
+}

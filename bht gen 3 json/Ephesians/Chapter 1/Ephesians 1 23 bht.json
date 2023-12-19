@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:29",
+    "verseRef": "Ephesians 1:23",
+    "bestBHT": {
+        "bht": "The Church, filled by Christ, shares in His crucifixion and glory. Christ as Creator fills the universe with all things, and the Church serves as His receptacle. This vital union makes the Church His mystical Body, completing His power and glory. The Church is the recipient of His plenitudes and elements, and all things are ultimately summed up in Christ. The Church's fulfillment lies in being filled with the fullness of God, reflecting the dignity of being the Body of Christ.",
+        "wordCount": 82,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 2.384107987815341,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+        "commentatorTierSimilarities": [
+            31.47,
+            39.01,
+            29.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His life is her life. She shares His crucifixion and His consequent glory.",
+            "The Church is dwelt in and filled by Christ. She is the receptacle, not of His inherent, but of His communicated, plenitude of gifts and graces.",
+            "Christ as the Creator, Preserver, and Governor of the world, constituted by God, fills all the universe of things with all things."
+        ],
+        "Albert Barnes": [
+            "The church is the 'completion or filling up' of [Christ's] power and glory. It is that without which his dominion would not be complete.\" ",
+            "The church sustains the same relation to Christ, which the body does to the head. It helps to form the entire person. There is a close and necessary union. The one is not complete without the other.\" ",
+            "The church is safe. Her great Head is on the throne of the universe, and no weapon that is formed against her can prosper."
+        ],
+        "Marvin Vincent": [
+            "Body, a living organism of which He is the head.",
+            "That which is filled. The Church, viewed as a receptacle.",
+            "All things are composed of elements. Whatever things exist, God from His fullness fills with all those elements which belong to their being or welfare."
+        ],
+        "John Calvin": [
+            "This is the highest honor of the Church, that, until He is united to us, the Son of God reckons himself in some measure imperfect.",
+            "What consolation is it for us to learn, that, not until we are along with him, does he possess all his parts, or wish to be regarded as complete!",
+            "His wish to be filled, and, in some respects, made perfect in us, arises from no want or necessity; for all that is good in ourselves, or in any of the creatures, is the gift of his hand; and his goodness appears the more remarkably in raising us out of nothing, that he, in like manner, may dwell and live in us."
+        ],
+        "Philip Schaff": [
+            "The relation of Christians to Christ is that of vital union, akin to, yet in reality and intimacy exceeding, that existing between the parts of any living organism, such as a vine and its branches, the head and its members.\" ",
+            "The Church is that which is filled by Him.",
+            "The Church is the veritable mystical Body of Christ, yea the recipient of the plenitudes of Him who filleth all things, whether in heaven or in earth, with all the things, elements and entities, of which they are composed."
+        ],
+        "Archibald T. Robertson": [
+            "Which in fact is.",
+            "All things are summed up in Christ, who is the \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1 of God.",
+            "The Dignity of the Body of Christ which is ultimately to be filled with the fulness (\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1) of God."
+        ],
+        "John Gill": [
+            "the church of Christ is but one general assembly, which consists of many persons, of different gifts and usefulness, and are all united together under one head, Christ...",
+            "the church is his relative fulness, which fills him, and makes up Christ mystical; and which is filled by him, and is complete in him...",
+            "he fills all the powers and faculties of their souls, their hearts with joy, their minds with knowledge, their consciences with peace, their wills with spiritual desires, submission and resignation, and their affections with love to himself and people..."
+        ],
+        "John Wesley": [
+            "The fulness of him that filleth all in all.\" - It is hard to say in what sense this can be spoken of the church.",
+            "The sense is easy and natural, if we refer it to Christ.\" - He is the fulness of the Father.",
+            "Christ, who is the fulness of the Father."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Church is not only filled by Christ, but she also shares in His crucifixion and glory. As the Creator, Preserver, and Governor of the world, Christ fills all things with His plenitude of gifts and graces. In fact, everything in existence is composed of elements that belong to their being or welfare, and God fills all things with those elements from His fullness. The Church, viewed as a receptacle, is ultimately to be filled with the fulness of God. This vital union between Christ and the Church is akin to the relationship between the head and its members, making the Church the veritable mystical Body of Christ. Through this union, Christ fills all the powers and faculties of the Church, and the Church, in turn, completes His power and glory.",
+            "wordCount": 131,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.2445319302932134,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.97,
+            "commentatorTierSimilarities": [
+                31.16,
+                38.94,
+                29.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Church shares in Christ's crucifixion and glory, as she is both filled by Him and the receptacle of His plenitude of gifts and graces. Christ, as the Creator and Governor of the world, fills all things with the elements that belong to their being or welfare. This vital union between Christ and the Church is akin to the relationship between the head and its members, making the Church the veritable mystical Body of Christ. Through this union, Christ fills all the powers and faculties of the Church, and the Church, in turn, completes His power and glory.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.2428250858759267,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.91,
+            "commentatorTierSimilarities": [
+                28.75,
+                40.72,
+                30.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Church is both filled by Christ and serves as the receptacle for His abundance of gifts and graces. Christ, as the Creator and Governor of the world, fills all things with the elements necessary for their existence. This vital union between Christ and the Church parallels the relationship between the head and its members, making the Church the mystical Body of Christ. Through this union, Christ fills every aspect of the Church, and the Church, in turn, completes His power and glory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.201763500433139,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.55,
+            "commentatorTierSimilarities": [
+                28.88,
+                41.01,
+                30.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Church is not only filled by Christ, but she also shares in His crucifixion and consequent glory. Christ, as the Creator and Governor of the world, fills all things with His communicated gifts and graces. The Church is the receptacle of His plenitude and the veritable mystical Body of Christ. In this vital union, Christ fills all the powers and faculties of the Church, completing His power and glory. The Church's ultimate honor lies in the fact that she contributes to the completeness of Christ himself.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.3084818683972568,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.1,
+            "commentatorTierSimilarities": [
+                30.65,
+                37.95,
+                31.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Church, filled by Christ, shares in His crucifixion and glory. Christ as Creator fills the universe with all things, and the Church serves as His receptacle. This vital union makes the Church His mystical Body, completing His power and glory. The Church is the recipient of His plenitudes and elements, and all things are ultimately summed up in Christ. The Church's fulfillment lies in being filled with the fullness of God, reflecting the dignity of being the Body of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.384107987815341,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.61,
+            "commentatorTierSimilarities": [
+                31.47,
+                39.01,
+                29.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

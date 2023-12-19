@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:20:10",
+    "verseRef": "Luke 15:19",
+    "bestBHT": {
+        "bht": "The prodigal son's humbling realization of his unworthiness is evident in his confession and desire to be treated as a servant rather than a son. His genuine penitence shines through as he acknowledges his own pitiful state without making any excuses for his sins. Despite his lowly state, he longs to return to his father's house, recognizing that even the lowest position in the household would be more honorable than his current condition of sin and destitution.",
+        "wordCount": 79,
+        "quoteTokenProportion": 38.6,
+        "qualityScore": 1.9657704498086017,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+        "commentatorTierSimilarities": [
+            41.29,
+            25.38,
+            33.33
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Such has been my conduct that I have been a disgrace to my father. I am not fit to be honored by being called the son of a man so kind and virtuous.",
+            "Treat me as a servant. Let me come again into your family, but I do not ask to be treated as a son. I am willing to come in if you will give me only the support that you give to a servant.",
+            "This evinced"
+        ],
+        "Philip Schaff": [
+            "I am no more worthy, etc. Genuine penitence!",
+            "Make me as one, etc. He does not give up his sonship, but asks only the treatment given to a hireling, for he does not even deserve that.",
+            "The main point is, that the prodigal makes no excuse for his sins, but acknowledges his unworthiness."
+        ],
+        "Archibald T. Robertson": [
+            "No longer worthy. Confession of the facts. He sees his own pitiful plight and is humble.",
+            "As one. The hired servants in his father's house are high above him now."
+        ],
+        "John Gill": [
+            "And am no more worthy to be called thy son... he now sees, and was ready to own his unworthiness to be called so in any sense; and much more to be called and accounted a Son of God by special adoption.",
+            "Make me as one of thy hired servants... what an happiness and honour it would be to him, could he be the meanest in his family, a doorkeeper in his house; which was more eligible to him, than to dwell in the tents of sin, or continue in this hungry and starving condition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals the prodigal son's realization of his pitiful state and humble confession. He recognizes his unworthiness to be called a son and is willing to be treated as a servant in his father's house. His genuine penitence is evident in his lack of excuses for his sins. His ultimate desire is to be restored, even if it means the lowest position in his father's household, which he deems more honorable than his current state of sin and starvation.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8747289442911446,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.68,
+            "commentatorTierSimilarities": [
+                42.2,
+                23.67,
+                34.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prodigal son's humbling realization of his unworthiness is evident in his confession and desire to be treated as a servant rather than a son. His genuine penitence shines through as he acknowledges his own pitiful state without making any excuses for his sins. Despite his lowly state, he longs to return to his father's house, recognizing that even the lowest position in the household would be more honorable than his current condition of sin and destitution.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.9657704498086017,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.7,
+            "commentatorTierSimilarities": [
+                41.29,
+                25.38,
+                33.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prodigal son's acknowledgment of his pitiful plight and recognition of his unworthiness reflect his genuine penitence. He humbly confesses his disgraceful conduct and expresses his willingness to be treated as a servant rather than a son. Despite his unworthiness, he longs to return to his father's house and be embraced once again. In his state of sin and starvation, he understands that even the lowliest position in his father's household would be a great honor compared to his current situation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.7789613150232921,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.49,
+            "commentatorTierSimilarities": [
+                40.11,
+                23.17,
+                36.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prodigal son's humble confession of his pitiful plight and unworthiness is evident in his desire to be treated as a servant rather than a son. His genuine penitence is displayed as he acknowledges his own disgraceful conduct without making any excuses. Despite his lowly state, he yearns to return to his father's house, recognizing that even the humblest position in the household would be more honorable than his present condition of sin and destitution.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9594178214172324,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                42.35,
+                25.62,
+                32.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Acknowledging his own unworthiness, the prodigal son humbly confesses his pitiful plight and expresses a desire to be treated as a servant rather than a son. His genuine penitence shines through as he takes full responsibility for his disgraceful conduct without offering any excuses. Despite his lowly state, his ultimate longing is to return to his father's house, understanding that even the most menial position in the household would be more honorable than remaining in his current state of sin and destitution.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.8527833141576484,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                39.45,
+                25.83,
+                34.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

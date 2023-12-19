@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:29:37",
+    "verseRef": "Acts 10:39",
+    "bestBHT": {
+        "bht": "We are witnesses of the facts; we saw with our own eyes all that we speak concerning Christ. Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. They slew Jesus, hanging him on a tree, a crowning atrocity added to their other persecutions. Peter wants to lead Cornelius to the Cross, not shying away from the humiliating circumstances of Jesus' death.",
+        "wordCount": 75,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.1659244785623457,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+        "commentatorTierSimilarities": [
+            30.36,
+            35.63,
+            34.01
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You know the history as a matter of universal rumor: and we are witnesses of the facts.",
+            "By this we, St. Peter at once takes away the ground from the exaggerated reverence for himself individually, shewn by Cornelius, ver. 25: and puts himself and the rest of the Apostles in the strictly subordinate place of witnesses for Another.",
+            "St. Peter omits all mention of the actors in the murder, speaking as he did to Gentiles: a striking contrast to ch. ii. 23; iii. 14; iv. 10; v. 30,\u2014when he was working conviction in the minds of those actors themselves."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We are witnesses of all... he did - not objects of superstitious reverence, but simply witnesses to the great historical facts on which the Gospel is founded.",
+            "Slew and hanged - that is, slew by hanging.",
+            "On a tree"
+        ],
+        "Albert Barnes": [
+            "And we are witnesses - We who are apostles.",
+            "Whom they put to death, suspending him on a tree.",
+            "On a tree - On a cross."
+        ],
+        "Marvin Vincent": [
+            "They slew. The best texts insert kai, also : \"whom also they slew;\" also having an incressive force. They added this crowning atrocity to other persecutions. ",
+            "Tree. See on Luke 23:31."
+        ],
+        "John Calvin": [
+            "That he may make his words to be believed, he saith, that he and his fellows in office saw with their eyes all those things which they spake concerning Christ.",
+            "And we have already heard by the mouth of Christ, 'Ye shall be my witnesses in Judea, Samaria, and at Jerusalem.'",
+            "And now Peter calleth himself only an historical witness, because he beheld the things which were done."
+        ],
+        "Philip Schaff": [
+            "There is an emphatic stress in this sentence on the word \u2018we\u2019 Dean Alford adds very justly, that by this emphatic word Peter at once takes away the ground from the exaggerated reverence for himself individually, shown by Cornelius (Acts 10:25), and puts himself, and the rest of the apostles, in the strictly subordinate place of witnesses for Another.",
+            "See Acts 1:21-22, where it is made essential that an apostle should be able to bear personal testimony regarding \u2018all the time that the Lord Jesus went in and out among them, beginning from the baptism of John\u2019 and continuing to the Ascension.",
+            "St. Peter does not shrink from setting forth strongly the humiliating circumstances of the death of Christ. His purpose is to lead Cornelius to the Cross (see Acts 10:43)."
+        ],
+        "Archibald T. Robertson": [
+            "He made the same claim about personal witnesses of the Resurrection of Jesus at Pentecost... Here Peter affirms full knowledge of the work of Jesus in Judea and Jerusalem.\" ",
+            "Whom also they slew... They 'also' slew him, went that far, 'this crowning atrocity' (Vincent).",
+            "Hanging him on a tree... This same expression used by Peter in Acts 5:30."
+        ],
+        "John Gill": [
+            "And we are witnesses of all things...were witnesses, even eyewitnesses, of Christ's going about from place to place, and of the good he did every where, and of the miracles which he wrought...\" (38 words)",
+            "whom they slew and hanged on a tree; whom the Jews put to death...desired he might be crucified, or hanged on a tree; partly because of the pain and torture of it, and partly because of the shame and ignominy that attended it...\" (40 words)",
+            "to throw off the scandal of his death from themselves to the Romans, crucifixion being a Roman punishment.\" (16 words)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We know the history as a matter of universal rumor and are witnesses of the facts. By saying this, Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. He doesn't mention the actors in the murder, emphasizing the historical facts on which the Gospel is founded. They slew Jesus, even going as far as hanging him on a tree. This same claim was made about the personal witnesses of the Resurrection at Pentecost. Peter wants to lead Cornelius to the Cross, not shrinking from setting forth the humiliating circumstances of Jesus' death. And we, as eyewitnesses, saw with our own eyes all that we speak concerning Christ.",
+            "wordCount": 122,
+            "quoteTokenProportion": 39.53,
+            "qualityScore": 2.0593289138273616,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+            "commentatorTierSimilarities": [
+                30.89,
+                32.77,
+                36.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We know the history as a matter of universal rumor and are witnesses of the facts. By saying this, Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. They slew Jesus, even going as far as hanging him on a tree. This same claim was made about the personal witnesses of the Resurrection at Pentecost. Peter wants to lead Cornelius to the Cross, not shrinking from setting forth the humiliating circumstances of Jesus' death. And we, as eyewitnesses, saw with our own eyes all that we speak concerning Christ.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 2.09363117486705,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                30.56,
+                33.75,
+                35.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We know the history as a matter of universal rumor and are witnesses of the facts. By saying this, Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. They slew Jesus, even going as far as hanging him on a tree. Peter wants to lead Cornelius to the Cross, not shrinking from setting forth the humiliating circumstances of Jesus' death. And we, as eyewitnesses, saw with our own eyes all that we speak concerning Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.100448207866414,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                30.87,
+                33.75,
+                35.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We know the history as a matter of universal rumor and are witnesses of the facts. By saying this, Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. They slew Jesus, even going as far as hanging him on a tree. Peter wants to lead Cornelius to the Cross, not shrinking from setting forth the humiliating circumstances of Jesus' death. And we, as eyewitnesses, saw with our own eyes all that we speak concerning Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.100448207866414,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                30.87,
+                33.75,
+                35.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are witnesses of the facts; we saw with our own eyes all that we speak concerning Christ. Peter takes away the exaggerated reverence for himself and puts himself and the other apostles in the subordinate position of witnesses for Another. They slew Jesus, hanging him on a tree, a crowning atrocity added to their other persecutions. Peter wants to lead Cornelius to the Cross, not shying away from the humiliating circumstances of Jesus' death.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.1659244785623457,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                30.36,
+                35.63,
+                34.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

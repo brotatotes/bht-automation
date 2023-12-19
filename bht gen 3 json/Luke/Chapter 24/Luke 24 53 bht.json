@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:24:59",
+    "verseRef": "Luke 24:53",
+    "bestBHT": {
+        "bht": "Every day, the disciples were credible witnesses, faithfully present in the temple, bearing testament to Jesus' resurrection. The fact that these accounts are not mentioned in the Epistles does not detract from their significance. The claim of these events being myths or fictions overlooks the difficulty of their emergence in the early Church. The disciples' continuous presence in the temple signifies their unity, composure, and undisturbed state, countering the accusation of stealing Jesus' body. Their constant prayerfulness and expressions of blessing reflect their unwavering faith and the joyous assurance of redemption, a practice worthy of imitation.",
+        "wordCount": 96,
+        "quoteTokenProportion": 25.37,
+        "qualityScore": 1.2752432503104223,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+        "commentatorTierSimilarities": [
+            30.6,
+            40.97,
+            28.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Is it probable that our Lord would have left so weighty a fact in His history on earth, without witnesses?",
+            "That these accounts themselves are never referred to in the Epistles, is surely no argument against them.",
+            "The fact is, that by far the greatest difficulty remains to be solved by those who can imagine a myth or fiction on this subject to have arisen in the first age of the Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "53. were continually in the",
+            "\ttemple\u2014that is, every day at the regular hours of prayer till",
+            "\tthe day of Pentecost."
+        ],
+        "Albert Barnes": [
+            "Thus the days of their mourning were ended.",
+            "They were filled with happiness at the assurance of redemption.",
+            "Every Christian should feel fulness of joy at the glad tidings that a Saviour has died, and risen, and ascended to God."
+        ],
+        "Philip Schaff": [
+            "Their unity was itself a blessing; their composure a proof that they were not enthusiasts; the fact that they were undisturbed, a proof that the Jewish council dared not bring a charge that they had stolen the body of Jesus.",
+            "Their prayerfulness was a proof of their faith.",
+            "Their blessing God a sign that they had not lost Him, but should see Him again. \u2018Even so, Lord Jesus, come quickly.\u2019"
+        ],
+        "John Gill": [
+            "A practice worthy of imitation, whether in the public or private way.",
+            "Praising, and blessing God; for his Son Jesus Christ, who had died for their sins, was risen again for their justification.",
+            "So let him be praised, and blessed by all the saints, for all that is contained in this Gospel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Every day, the disciples were faithfully present in the temple, serving as credible witnesses to the weighty fact of Jesus' resurrection. Although these accounts are not explicitly mentioned in the Epistles, this does not diminish their significance. The very idea of these events being myths or fictions is deeply flawed, as it fails to account for the difficulty of their emergence in the early Church. The disciples' continuous presence in the temple following Jesus' ascension speaks to their unity, composure, and undisturbed state, providing evidence against the accusation of stealing Jesus' body. Their constant prayerfulness and expressions of blessing reflect their unwavering faith and the joyous assurance of redemption. This gesture serves as an example for all believers, encouraging them to praise and bless God for the Gospel's immeasurable gift of salvation.",
+            "wordCount": 133,
+            "quoteTokenProportion": 27.17,
+            "qualityScore": 1.2850433358523206,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.07,
+            "commentatorTierSimilarities": [
+                29.19,
+                39.71,
+                31.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Every day, the disciples were credible witnesses, faithfully present in the temple, bearing testament to Jesus' resurrection. The fact that these accounts are not mentioned in the Epistles does not detract from their significance. The claim of these events being myths or fictions overlooks the difficulty of their emergence in the early Church. The disciples' continuous presence in the temple signifies their unity, composure, and undisturbed state, countering the accusation of stealing Jesus' body. Their constant prayerfulness and expressions of blessing reflect their unwavering faith and the joyous assurance of redemption, a practice worthy of imitation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 25.37,
+            "qualityScore": 1.2752432503104223,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.75,
+            "commentatorTierSimilarities": [
+                30.6,
+                40.97,
+                28.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The daily presence of the disciples in the temple served as a testament to the weighty fact of Jesus' resurrection. Though not explicitly mentioned in the Epistles, this does not invalidate the accounts. To explain these events as mere myths or fictions overlooks the challenges they would pose in the early Church. The disciples' unwavering presence demonstrated unity, composure, and the absence of disturbance, refuting accusations of theft. Their continuous prayers and blessings showcased their steadfast faith and the assurance of redemption, serving as an example for all believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.1849057993837788,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.74,
+            "commentatorTierSimilarities": [
+                31.99,
+                39.33,
+                28.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Every day, the disciples faithfully gathered in the temple, serving as credible witnesses to the weighty fact of Jesus' resurrection. Though not mentioned in the Epistles, the accounts should not be dismissed. To claim they are myths or fictions overlooks the difficulties of their emergence in the early Church. The disciples' continuous presence reflected their unity, composure, and the absence of disturbance, countering accusations of theft. With unwavering faith, they prayed and blessed God, rejoicing in the assurance of redemption. This practice is worthy of imitation by all believers.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.1859049884001727,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.77,
+            "commentatorTierSimilarities": [
+                26.06,
+                37.0,
+                36.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Every day, the disciples faithfully gathered in the temple, serving as witnesses to the weighty fact of Jesus' resurrection. Dismissing these accounts as myths or fictions overlooks the challenges they would present in the early Church. Their continuous presence reflected unity, composure, and the absence of disturbance, countering accusations of theft. With unwavering faith, they prayed and blessed God, rejoicing in the assurance of redemption. This practice is worthy of imitation by believers, both in public and private contexts, as they praise and bless God for the immeasurable gift of the Gospel.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.2065497767400823,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.46,
+            "commentatorTierSimilarities": [
+                20.85,
+                36.94,
+                42.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

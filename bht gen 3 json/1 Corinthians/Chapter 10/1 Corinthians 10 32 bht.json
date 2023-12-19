@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:11:33",
+    "verseRef": "1 Corinthians 10:32",
+    "bestBHT": {
+        "bht": "In all essential things affecting Christian doctrine and practice, even in the smallest detail, we must not swerve from principle, whatever offense may be the result. Giving offense is unnecessary if our own spirit causes it, but necessary if it is caused by the truth. We should be inoffensive and not lead others into sin, especially when it comes to idol worship. Our desire for the glory of God holds the first place, and we are debtors to all, even strangers, that we may gain them for Christ.",
+        "wordCount": 88,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.687706377658193,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+        "commentatorTierSimilarities": [
+            35.8,
+            33.5,
+            30.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Give none offence\u2014in things indifferent.",
+            "In all essential things affecting Christian doctrine and practice, even in the smallest detail, we must not swerve from principle, whatever offense may be the result.",
+            "Giving offense is unnecessary if our own spirit cause it; necessary if it be caused by the truth."
+        ],
+        "Albert Barnes": [
+            "Be inoffensive; that is, do not act so as to lead others into sin.",
+            "To the Jews be inoffensive, because they think that the least approach to idol worship is to be abhorred.",
+            "Do not countenance them in it, and thus lead them into the sin of idolatry."
+        ],
+        "John Calvin": [
+            "A desire, then, for the glory of God, holds the first place; a regard to our neighbor holds the second.\" ",
+            "We are debtors to all, even to strangers, that we may, if possible, gain them."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 10:32. Give no occasion of stumbling either to Jews or to Greeks to prejudice them against the Gospel. or to the Church of God or your Christian brethren.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Give no occasion of stumbling (\u03b1\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03c0\u03bf).\" ",
+            "Not tripping others by being a stumbling-block.",
+            "Passive in Acts 24:16."
+        ],
+        "John Gill": [
+            "Avoid everything that may be the occasion of offence, of the stumbling and falling of others.\" ",
+            "...care should be taken that no offence be given to any sort of men, neither to the men of the world, of whatsoever character, nor to professors of religion, and more especially the latter.\" ",
+            "Offending one of the least of them that believe in Christ is displeasing to him..."
+        ],
+        "John Wesley": [
+            "Give no offence \u2014 If, and as far as, it is possible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In all essential things affecting Christian doctrine and practice, even in the smallest detail, we must not swerve from principle, whatever offense may be the result. Giving offense is unnecessary if our own spirit causes it, but necessary if it is caused by the truth. We should be inoffensive and not lead others into sin, especially when it comes to idol worship. Our desire for the glory of God holds the first place, and we are debtors to all, even strangers, that we may gain them for Christ. Care should be taken to avoid giving offense to people of all sorts, both in the world and within the Church. We must remember that offending even the least of those who believe in Christ is displeasing to Him.",
+            "wordCount": 127,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.6516155271797972,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.26,
+            "commentatorTierSimilarities": [
+                32.67,
+                33.15,
+                34.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In all essential things affecting Christian doctrine and practice, even in the smallest detail, we must not swerve from principle, whatever offense may be the result. Giving offense is unnecessary if our own spirit causes it, but necessary if it is caused by the truth. We should be inoffensive and not lead others into sin, especially when it comes to idol worship. Our desire for the glory of God holds the first place, and we are debtors to all, even strangers, that we may gain them for Christ.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.687706377658193,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.46,
+            "commentatorTierSimilarities": [
+                35.8,
+                33.5,
+                30.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In all essential things affecting Christian doctrine and practice, we must not swerve from principle, whatever offense may result. Giving offense is unnecessary if caused by our own spirit, but necessary if caused by the truth. We should be inoffensive and not lead others into sin, especially with idol worship. Our desire for God's glory holds first place, and we are debtors to all, even strangers, to gain them for Christ. Care should be taken to avoid giving offense to all sorts of people, both in the world and within the Church.",
+            "wordCount": 93,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.6628062361458946,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                34.96,
+                33.94,
+                31.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In all essential matters of doctrine and practice, we must hold fast to our principles without swerving, even if it may result in offense. We should refrain from causing offense through our own actions, but sometimes it is necessary when the truth is at stake. We should strive to be inoffensive and not lead others into sin, especially when it comes to idol worship. Our primary concern should be the glory of God, and we are called to reach out to all, even strangers, in order to win them for Christ. It is important to be careful and avoid giving offense to people of all backgrounds, both inside and outside the Church.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.67,
+            "qualityScore": 1.542499651379316,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.63,
+            "commentatorTierSimilarities": [
+                31.82,
+                37.06,
+                31.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In all essential matters, we must not swerve from our principles, even if it may result in offense. Causing offense through our own actions is unnecessary, but necessary if it is caused by truth. We should strive to be inoffensive and avoid leading others into sin, particularly regarding idol worship. Our primary focus should be the glory of God, and we are called to reach out to all, even strangers, in order to win them for Christ. It is crucial to be mindful and refrain from giving offense to people of all backgrounds, inside and outside the Church.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.5657969984351867,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.41,
+            "commentatorTierSimilarities": [
+                34.95,
+                35.02,
+                30.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

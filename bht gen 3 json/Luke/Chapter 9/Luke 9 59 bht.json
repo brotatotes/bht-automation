@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 16:17:24",
+    "verseRef": "Luke 9:59",
+    "bestBHT": {
+        "bht": "When the Lord says, Follow me, there is a request for immediate action, which prompts the individual to respond, Lord, suffer me first. This phrase reflects the struggle of balancing competing responsibilities and deciding which takes precedence. While it may seem like a challenge to Jesus' call, the individual's intention is not one of opposition but of grappling with the complexities of life. They desire to fulfill their duty to their father before fully committing to the journey of discipleship.",
+        "wordCount": 81,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 0.9064445370410661,
+        "qualityScoreNormalizedComparedToV2BHTs": 21.48,
+        "commentatorTierSimilarities": [
+            42.42,
+            0.0,
+            57.58
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Follow me\" ",
+            "Lord, suffer me first",
+            "Words could hardly be spoken without a reference"
+        ],
+        "Archibald T. Robertson": [
+            "There is no real opposition, of course.",
+            "One of the problems of life is the relation of duties to each other, which comes first.",
+            "What the scribe apparently meant was that he could not leave his father while still alive to follow Jesus around over the country."
+        ],
+        "John Gill": [
+            "According to Matthew, one of his disciples, who had attended him some time, and whom he now called to the ministerial work...",
+            "But he said, Lord, suffer me first to go and bury my father...",
+            "The Ethiopic version reads, 'another said to him, shall I not follow thee?' but without any foundation: they are certainly the words of Christ, directed to another person, at the same time he met with the former..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, the Lord invites someone to follow Him, but this person hesitates and says, Lord, suffer me first. This phrase reveals the clash between different duties and priorities in life. Although there seems to be opposition, it is important to note that the individual's request is not necessarily an act of defiance. Rather, they are expressing the difficulty of choosing between their duty to care for their father and the call to follow Jesus. Their intention is not to neglect their responsibilities but to fulfill them first before committing fully to discipleship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 43.28,
+            "qualityScore": 0.9927399740598877,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.35,
+            "commentatorTierSimilarities": [
+                44.08,
+                0.0,
+                55.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the Lord says, Follow me, there is a request for immediate action, which prompts the individual to respond, Lord, suffer me first. This phrase reflects the struggle of balancing competing responsibilities and deciding which takes precedence. While it may seem like a challenge to Jesus' call, the individual's intention is not one of opposition but of grappling with the complexities of life. They desire to fulfill their duty to their father before fully committing to the journey of discipleship.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 0.9064445370410661,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.48,
+            "commentatorTierSimilarities": [
+                42.42,
+                0.0,
+                57.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the call to Follow me is given by the Lord, the response of Lord, suffer me first reflects the tension between competing obligations and the struggle of determining priorities. The individual's hesitation does not indicate true opposition, but rather highlights the challenge of navigating the relationships between different responsibilities. Their request suggests a desire to fulfill their duty to their father before fully embracing the path of discipleship. It underscores the complexity of decision-making in relation to our various obligations in life.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 0.8235903103530859,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.73,
+            "commentatorTierSimilarities": [
+                46.44,
+                0.0,
+                53.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the call to Follow me, the response of Lord, suffer me first reveals the underlying dilemma of prioritizing duties in life. The individual's hesitation is not a direct opposition to the invitation but an acknowledgement of the intricate nature of our responsibilities. This interaction raises the question of what takes precedence when faced with conflicting obligations. The individual's request indicates a desire to fulfill the duty to their father before committing fully to the journey of discipleship.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 0.8763738667126846,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.48,
+            "commentatorTierSimilarities": [
+                43.57,
+                0.0,
+                56.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the encounter where the Lord beckons with the words Follow me, the response of Lord, suffer me first shines a light on the intricate dilemmas surrounding the order of duties in our lives. This hesitation is not a sign of outright opposition but rather a recognition of the challenge of weighing our various responsibilities. The individual's request reveals their intention to attend to their father's needs before fully embracing the path of discipleship. It highlights the complexities we face when discerning our priorities in light of competing obligations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 0.7686769102945752,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.9,
+            "commentatorTierSimilarities": [
+                38.44,
+                0.0,
+                61.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

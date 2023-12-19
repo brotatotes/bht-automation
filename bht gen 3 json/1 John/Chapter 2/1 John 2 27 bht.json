@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:47:17",
+    "verseRef": "1 John 2:27",
+    "bestBHT": {
+        "bht": "The anointing received from Christ, the Holy Spirit, abides in believers and acts as their teacher, making them independent of human instruction. This anointing, true and not a lie, was promised by Christ and is experienced by those who yield themselves to the Holy Spirit. It brings about the remembrance of Christ's teachings and testifies of Him. Thus, believers are encouraged to abide in Him, echoing Jesus' previous exhortation to His disciples.",
+        "wordCount": 73,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.9851744975878272,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+        "commentatorTierSimilarities": [
+            37.5,
+            33.16,
+            29.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the anointing which ye received from Him (Christ... as also on the anointing) abideth in you",
+            "ye have no need that any one teach you",
+            "the anointing itself... is true, and not a lie"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The anointing abideth in us we do not need a teacher.",
+            "God is sufficient for them who are taught of Him; they are independent of all others.",
+            "Not that the believer is made infallible, but only the measure needful for keeping him from soul-destroying error."
+        ],
+        "Albert Barnes": [
+            "The apostle evidently meant to say that he felt assured that they would not be seduced from the truth...",
+            "And ye need not that any man teach you - That is, what are the things essential to true religion.",
+            "But as the same anointing teacheth you of all things - This cannot mean that the mere act of anointing... but it refers to what John includes in what he calls the anointing - that is, in the solemn consecrating to the duties of religion under the influences of the Holy Spirit."
+        ],
+        "John Calvin": [
+            "He only meant that they were by no means so ignorant as to need things as it were unknown to be taught them, and that he did not set before them anything which the Spirit of God might not of himself suggest to them.",
+            "He says that the faithful, taught by the Spirit, already understood what he delivered to them, so that they had no need to learn things unknown to them.",
+            "For what John says, that they were taught all things by the Spirit, ought not to be taken generally, but to be confined to what is contained in this passage."
+        ],
+        "Archibald T. Robertson": [
+            "This Paraclete was promised by Christ and came on the great Pentecost, as they knew, and in the experience of all who yielded themselves to the Holy Spirit.\" ",
+            "The Holy Spirit was to bring all things to their remembrance and to bear witness concerning Christ.\" ",
+            "He exhorts them to 'abide in him,' precisely as Jesus had urged the disciples to abide in him."
+        ],
+        "John Gill": [
+            "grace is an internal thing, it is oil in the vessel of the heart, and where it once is, it abides; as does every grace of the Spirit, as faith, hope, love, and every other",
+            "grace can never be taken away; God will not take it away, where he has once bestowed it, and men and devils cannot; it can never be lost as to the principle and being of it; it is an incorruptible seed, and a living principle, which can never be destroyed",
+            "saints under the Gospel dispensation are taught of God by his Spirit, according to the word of truth, and by the ministry of it, and have no need of learning every man from his neighbour, or from his brother, any separate revelation"
+        ],
+        "John Wesley": [
+            "Ye need not that any should teach you, save as that anointing teacheth you.\" ",
+            "Of all things - Which it is necessary for you to know.",
+            "Ye shall abide in him - This is added both by way of comfort and of exhortation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The anointing received from Christ, the Holy Spirit, dwells within believers, serving as their teacher and guide in the knowledge of essential truths. God's sufficiency for those taught by Him renders them independent of human instruction. This anointing, true and reliable, was promised by Christ and imparted on Pentecost, enabling believers to remember and bear witness to God's truth. The faithfulness of the anointing ensures that believers, while not made infallible, are protected from destructive error. John urges believers to remain in Christ, just as Jesus had instructed His disciples, providing both comfort and exhortation.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.8886907205676193,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                35.97,
+                33.76,
+                30.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The anointing received from Christ, the Holy Spirit, abides in believers and acts as their teacher, freeing them from the need to be taught by others. This anointing is trustworthy and not deceptive, providing the necessary guidance to avoid soul-destroying error. It was the promised Paraclete, received on Pentecost, who would bring conviction about Christ and help believers remember His teachings. Therefore, believers are encouraged to abide in Christ, as He had previously instructed His disciples.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8410119331410275,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                36.56,
+                33.2,
+                30.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The anointing received from Christ, the Holy Spirit, abides in believers and acts as their teacher, making them independent of human instruction. This anointing, true and not a lie, was promised by Christ and is experienced by those who yield themselves to the Holy Spirit. It brings about the remembrance of Christ's teachings and testifies of Him. Thus, believers are encouraged to abide in Him, echoing Jesus' previous exhortation to His disciples.",
+            "wordCount": 73,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9851744975878272,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.35,
+            "commentatorTierSimilarities": [
+                37.5,
+                33.16,
+                29.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers have received an anointing from Christ, the Holy Spirit, which remains with them as an internal and incorruptible grace. This anointing acts as their teacher, making them independent of human instruction. It was promised by Christ and was poured out on Pentecost, allowing believers to remember His teachings and testify of Him. They are not in need of learning unknown truths, as they are taught by the Spirit according to the word of truth. In light of this, believers are encouraged to abide in Christ, just as He had instructed His disciples.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.849906827430265,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                36.49,
+                31.54,
+                31.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers have received an anointing from Christ, the Holy Spirit, which abides in them and serves as their teacher. This anointing is true and trustworthy, not a deception. It was promised by Christ and was given to believers on Pentecost, enabling them to remember His teachings and bear witness to Him. Through the anointing, believers are taught by God Himself and have no need for external instruction. They are encouraged to abide in Christ, reflecting His earlier call to His disciples.",
+            "wordCount": 81,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.8999205521211895,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                38.34,
+                31.82,
+                29.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 17:31:01",
+    "verseRef": "2 Timothy 3:14",
+    "bestBHT": {
+        "bht": "Continue in the things you have learned and been assured of, for you know the holy scriptures which can make you wise unto salvation by means of faith. Hold fast to these doctrines, even in the face of opposition, remaining steadfast in the truth of God. Remember that you have learned these things not only from me, but also from your mother and grandmother. Abide in the things you have learned and have been assured of, for you know from whom you have learned them.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6779993208085489,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+        "commentatorTierSimilarities": [
+            30.43,
+            28.76,
+            40.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "But do thou continue in the things which thou learnedst and wert convinced of, knowing thou learnedst them.\" ",
+            "Thou knowest the holy scriptures, which are able to make thee wise unto salvation by means of faith.",
+            "That which is in Christ Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But . . . thou\u2014Whatever they may do.",
+            "learned\u2014from me and thy mother and grandmother.",
+            "of whom\u2014plural, not singular, in the oldest manuscripts, 'from what teachers.' Not only from me, but from Lois and Eunice."
+        ],
+        "Albert Barnes": [
+            "Amidst the errors and seductions of false teachers, Paul now exhorts him to hold fast those doctrines, whoever might oppose them, or whatever might be the consequence.",
+            "The fact that we have received the views of truth from a parent\u2019s lips is a strong motive for adhering to them.",
+            "A child should depart very slowly from the opinions held by a father or mother; and, when it is done, it should be only as the result of prolonged examination and prayer."
+        ],
+        "Marvin Vincent": [
+            "Hast been assured of [\u03b5\u03c0\u03b9\u03c3\u03c4\u03c9\u03b8\u03b7\u03c2] . N. T. o. Quito often in LXX So 2 Samuel 7:16, shall be established (of the house of David) : Psalms 87:37, steadfast in his covenant."
+        ],
+        "John Calvin": [
+            "And undoubtedly this is the actual trial of faith, when we offer unwearied resistance to all the contrivances of Satan, and do not alter our course for every wind that blows, but remain steadfast on the truth of God, as on a sure anchor.",
+            "We ought to unlearn all that we have learned apart from Christ, if we wish to be his disciples; as, for example, it is the commencement of our pure instruction in the faith to reject and forget all the instruction of Popery.",
+            "This passage teaches us, that we ought to be as careful to guard against obstinacy in matters that are uncertain, (such as all the doctrines of men are,) as to hold within unshaken firmness the truth of God."
+        ],
+        "Philip Schaff": [
+            "Thou didst learn and wast persuaded of.",
+            "The received text gives the singular, the better MSS. the plural.",
+            "The former would point to St. Paul, the latter to Lois and Eunice as well, perhaps to them chiefly."
+        ],
+        "Archibald T. Robertson": [
+            "But abide thou.",
+            "In the things which.",
+            "Hast been assured of."
+        ],
+        "John Gill": [
+            "In a spiritual and experimental manner; a comfortable knowledge and experience of which he had attained unto.",
+            "The doctrines of the Gospel are certain things; they are truths without controversy; there is a full assurance of understanding of them.",
+            "Seeing he had learned them of so great an apostle of Christ; whose mission, as such, was abundantly confirmed by miracles and success."
+        ],
+        "John Wesley": [
+            "From whom \u2014 Even from me a teacher approved of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Continue in the things you have learned and been assured of, for you know the holy scriptures which can give you wisdom and salvation through faith in Christ Jesus. You learned these things not only from me, but also from your mother and grandmother, who were faithful teachers. Hold fast to these doctrines, even in the face of opposition, for they are certain truths that have been confirmed by divine authority. Do not waver or be easily swayed by the errors of false teachers, but remain steadfast in the truth of God, placing your trust and anchor in Christ alone.",
+            "wordCount": 100,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.7780014873886167,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                25.54,
+                28.99,
+                45.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Continue in the things you have learned and been assured of, for you know the holy scriptures which can give you wisdom and salvation through faith in Christ Jesus. Hold fast to these doctrines, even in the face of opposition, for they are certain truths that have been confirmed by divine authority. Remain steadfast in the truth of God, placing your trust and anchor in Christ alone.",
+            "wordCount": 67,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7770023434491509,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.43,
+            "commentatorTierSimilarities": [
+                27.39,
+                26.31,
+                46.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Continue in the things you have learned and been assured of, knowing the holy scriptures which are able to make you wise unto salvation. But abide in the things you have learned and have been assured of, for you know from whom you have learned them. Hold fast to these doctrines, even in the face of opposition, remaining steadfast in the truth of God.",
+            "wordCount": 64,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.7480280178990766,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                30.57,
+                25.99,
+                43.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Continue in the things you have learned and been assured of, for you know the holy scriptures which can make you wise unto salvation through faith in Christ Jesus. Hold fast to these doctrines, even in the face of opposition, remaining steadfast in the truth of God. Abide in the things you have learned and have been assured of, for you know from whom you have learned them.",
+            "wordCount": 68,
+            "quoteTokenProportion": 43.9,
+            "qualityScore": 1.7527026029952149,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                30.16,
+                26.55,
+                43.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Continue in the things you have learned and been assured of, for you know the holy scriptures which can make you wise unto salvation by means of faith. Hold fast to these doctrines, even in the face of opposition, remaining steadfast in the truth of God. Remember that you have learned these things not only from me, but also from your mother and grandmother. Abide in the things you have learned and have been assured of, for you know from whom you have learned them.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6779993208085489,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.14,
+            "commentatorTierSimilarities": [
+                30.43,
+                28.76,
+                40.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

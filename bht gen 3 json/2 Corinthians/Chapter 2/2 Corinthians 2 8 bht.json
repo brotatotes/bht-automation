@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:15:21",
+    "verseRef": "2 Corinthians 2:8",
+    "bestBHT": {
+        "bht": "I urge you to publicly confirm and ratify your love towards him, not through an official church decree, but by demonstrating your love through actions and restoring him to your fellowship. By taking these steps, you will effectively show your love and treat him with kindness. Let this confirmation be done publicly, just as his exclusion was known to all. In doing so, love will prevail, embracing him with affection and respect, with the full consent and support of the church.",
+        "wordCount": 81,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 1.9873273865655667,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+        "commentatorTierSimilarities": [
+            28.87,
+            24.23,
+            46.91
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To confirm, hardly... to ratify by a public decree of the church.",
+            "His exclusion was not by such a decree, but only by the abstinence of individuals from his society.",
+            "The ratifying their love to him would consist in the majority making it evident to him that he was again recognized as a brother."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Confirm your love toward him\u2014by giving effect in act, and showing in deeds your love.\" ",
+            "Restoring him to your fellowship and praying for his recovering from the sickness penally inflicted on him."
+        ],
+        "Albert Barnes": [
+            "Wherefore I beseech you that ye would confirm your love toward him... that they should give strong expressions and assurances of their love to him.\" ",
+            "...that love may have strength over him.\" ",
+            "Paul referred, doubtless, here to some public act of the church by which the sentence of excommunication might be removed, and by which the offender might have a public assurance of their favor."
+        ],
+        "Marvin Vincent": [
+            "Confirm your love [\u03ba\u03c5\u03c1\u03c9\u03c3\u03b1\u03b9 \u03b1\u03b3\u03b1\u03c0\u03b7\u03bd].\" ",
+            "The verb is found only here and Galatians 3:15.\" ",
+            "Hence to take judicial resolution to treat the offender with brotherly love."
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 2:8. Wherefore I beseech you to confirm your love towards him by as public a restoration to fellowship as publicly he had been banished from it.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "To confirm (\u03ba\u03c5\u03c1\u03c9\u03c3\u03b1). First aorist active infinitive of old verb \u03ba\u03c5\u03c1\u03bf\u03c9, to make valid, to ratify, from \u03ba\u03c5\u03c1\u03bf\u03c2 (head, authority).",
+            "In N.T. only here and Galatians 3:15.",
+            "\u03ba\u03c5\u03c1\u03c9\u03c3\u03b1. First aorist active infinitive of old verb \u03ba\u03c5\u03c1\u03bf\u03c9, to make valid, to ratify, from \u03ba\u03c5\u03c1\u03bf\u03c2 (head, authority)."
+        ],
+        "John Gill": [
+            "That ye would confirm your love towards him: express your love to him in the most kind and tender manner.",
+            "Receive him as a brother in the most affectionate manner, and embrace him with the most endearing expressions of respect and friendship.",
+            "Let your reception of him in this kind and friendly way be with the full consent, and by the joint vote and suffrage of the whole church."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I urge you to publicly ratify and confirm your love towards him, not through an official decree of the church, but through individual actions and deeds that will make it evident to him that he is once again recognized as a brother. Show your love by restoring him to your fellowship and praying for his recovery from the consequences of his actions. By taking this step, you will give effect to your love and demonstrate your willingness to treat him with brotherly love. This act of confirmation and restoration should be done publicly, just as his exclusion was made known to all. Through this public act of reconciliation, love will have strength over him, and he will be received as a brother with the most affectionate and endearing expressions of respect and friendship. Let your reception of him be with the unanimous agreement and support of the entire church community.",
+            "wordCount": 150,
+            "quoteTokenProportion": 46.59,
+            "qualityScore": 1.9649985476487277,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.68,
+            "commentatorTierSimilarities": [
+                27.02,
+                24.27,
+                48.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I urge you to publicly confirm and ratify your love towards him, not through an official church decree, but by demonstrating your love through actions and deeds. Let your love be evident to him, restoring him to your fellowship and praying for his recovery. By taking this step, you will show your love in a tangible way and treat him with brotherly love. This act of confirmation should be done publicly, just as his exclusion was made known. In doing so, love will prevail, embracing him with affection and respect, with the full consent and united support of the church.",
+            "wordCount": 100,
+            "quoteTokenProportion": 48.48,
+            "qualityScore": 1.9883223070591285,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.45,
+            "commentatorTierSimilarities": [
+                29.74,
+                24.71,
+                45.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I beseech you to publicly confirm your love towards him, not through an official church decree, but by showing your love through actions. Let him be recognized again as a brother, restoring him to your fellowship and praying for his recovery. By doing this, you will effectively demonstrate your love and treat him with brotherly kindness. This act of confirmation should be done publicly, just as his exclusion was known by all. In doing so, love will triumph, embracing him with affection and respect, with the full consent and support of the church.",
+            "wordCount": 93,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.9393371384560916,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.82,
+            "commentatorTierSimilarities": [
+                29.26,
+                24.99,
+                45.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I urge you to publicly confirm and ratify your love towards him, not through an official church decree, but by demonstrating your love through actions and restoring him to your fellowship. By taking these steps, you will effectively show your love and treat him with kindness. Let this confirmation be done publicly, just as his exclusion was known to all. In doing so, love will prevail, embracing him with affection and respect, with the full consent and support of the church.",
+            "wordCount": 81,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 1.9873273865655667,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.42,
+            "commentatorTierSimilarities": [
+                28.87,
+                24.23,
+                46.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I beseech you to publicly confirm your love towards him by showing your love through actions, restoring him to your fellowship, and praying for his recovery. By taking these steps, you will demonstrate your love in a tangible way and treat him with kindness. Let this confirmation be done publicly, just as his exclusion was known to all. In doing so, love will triumph, embracing him with affection and respect, with the full consent and support of the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9592269583026916,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                27.98,
+                24.92,
+                47.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

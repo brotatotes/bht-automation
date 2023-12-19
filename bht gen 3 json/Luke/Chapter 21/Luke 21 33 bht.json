@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:22:27",
+    "verseRef": "Luke 21:33",
+    "bestBHT": {
+        "bht": "Jesus declares that his words are eternal and will never be invalidated or forgotten. This statement carries a weight and certainty that is stronger than mere possibility. It is significant that Jesus speaks these words immediately following a challenging prophecy, emphasizing the importance of his words as a source of comfort and assurance for his followers.",
+        "wordCount": 56,
+        "quoteTokenProportion": 41.86,
+        "qualityScore": 1.1600980590604077,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.92,
+        "commentatorTierSimilarities": [
+            81.04,
+            0.0,
+            18.96
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "My words shall not pass away.\" ",
+            "A bit stronger statement than the subjunctive.",
+            "It is noteworthy that Jesus utters these words just after the difficult prediction in verse Luke 21:32."
+        ],
+        "John Gill": [
+            ":-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus declares that his words are eternal and will never be invalidated or forgotten. This statement carries a weight and certainty that is stronger than mere possibility. It is significant that Jesus speaks these words immediately following a challenging prophecy, emphasizing the importance of his words as a source of comfort and assurance for his followers.",
+            "wordCount": 56,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.1600980590604077,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.92,
+            "commentatorTierSimilarities": [
+                81.04,
+                0.0,
+                18.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus unequivocally proclaims the enduring nature of his teachings, declaring that his words will never cease to hold significance and authority. This assertion is notably more resolute than a mere hypothetical expression. It is particularly noteworthy that Jesus utters these words of assurance following a difficult prediction, highlighting the crucial role his teachings play as a source of solace and reassurance for his disciples.",
+            "wordCount": 64,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.105640125028494,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.11,
+            "commentatorTierSimilarities": [
+                77.93,
+                0.0,
+                22.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus confidently asserts that his words will never fade away or lose their relevance. This declaration carries a stronger emphasis than a mere hypothetical statement. It is worth noting that Jesus makes this affirmation right after sharing a challenging prophecy, highlighting the significant role his teachings play in providing comfort and assurance to his followers.",
+            "wordCount": 55,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1224259821682936,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.66,
+            "commentatorTierSimilarities": [
+                79.65,
+                0.0,
+                20.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus's declaration that My words shall not pass away reflects his unwavering confidence in the eternal validity and endurance of his teachings. This assertion carries a greater weight than a mere possibility, suggesting the enduring nature of his words. Significantly, Jesus makes this profound statement right after foretelling the challenging events that lie ahead, emphasizing the importance of his teachings as a source of comfort and assurance in the midst of uncertainty.",
+            "wordCount": 73,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.0932758518281287,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.7,
+            "commentatorTierSimilarities": [
+                71.67,
+                0.0,
+                28.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus's affirmation that My words shall not pass away underscores the unchanging and lasting nature of his teachings. This declaration carries a sense of certainty that goes beyond mere speculation. It is notable that Jesus expresses these words immediately after delivering a prophecy, emphasizing the significance of his teachings as a source of encouragement and reassurance for his disciples.",
+            "wordCount": 60,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.0490951660847272,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.23,
+            "commentatorTierSimilarities": [
+                79.05,
+                0.0,
+                20.95
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

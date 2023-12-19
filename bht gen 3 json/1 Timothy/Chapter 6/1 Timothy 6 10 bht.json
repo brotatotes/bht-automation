@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:29:40",
+    "verseRef": "1 Timothy 6:10",
+    "bestBHT": {
+        "bht": "The love of money, an immoderate insatiable desire, is the root of all evils. This love of money destroys faith, leads people astray, and surrounds their souls with griefs. It produces no small part of the crimes of the world, piercing those who fall for it with many sorrows. Men commit any sin or crime for money, making it the parent of all manner of evil.",
+        "wordCount": 66,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.312041942582152,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+        "commentatorTierSimilarities": [
+            32.78,
+            33.55,
+            33.67
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For the root of all evils is the love of money.",
+            "Love of money is of itself a desire or lust, and men cannot be properly said to lust after it, but after its object, money.",
+            "He who falls among lusts shall suffer the same and shall surround his soul with griefs."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The love of money [...] is a root of all evils.\" ",
+            "Love of money [...] destroys faith, the root of all that is good.\" ",
+            "The prosperity of fools destroys them."
+        ],
+        "Albert Barnes": [
+            "For the love of money is the root of all evil.",
+            "No small part of the crimes of the world can be traced to the love of gold.",
+            "They have pierced themselves through with many sorrows."
+        ],
+        "Marvin Vincent": [
+            "Love of money. Rare in Class.",
+            "The root. It is not the only root.",
+            "Have erred. More correctly, have been led astray."
+        ],
+        "John Calvin": [
+            "For the root of all evils is avarice.\" ",
+            "Just as we are in the habit of saying... there is no evil which it does not produce.",
+            "He affirms that the most aggravated of all evils springs from avarice \u2014 revolting from the faith."
+        ],
+        "Philip Schaff": [
+            "The thought implied is not that the love of money is the one source of evil, but that out of it, as out of other vices of character, every form of evil would naturally spring.\" ",
+            "The antecedent to the relative is not \u2018money\u2019 itself, but \u2018the love of money,\u2019 the apostle not shrinking, here or elsewhere, from a seeming pleonasm.\" ",
+            "The use of the formula in these Epistles leads us to the belief that St. Paul was making, not a general indefinite statement, but one referring to persons whom he knew, and whom Timothy would know, though they remain unnamed."
+        ],
+        "Archibald T. Robertson": [
+            "A root of all kinds of evil... Surely men today need no proof of the fact that men and women will commit any sin or crime for money.",
+            "Reaching after... Have been led astray.",
+            "Have pierced themselves through... With many sorrows."
+        ],
+        "John Gill": [
+            "For the love of money is the root of all evil... it is an immoderate insatiable desire after it, and an inordinate love of it, which is here meant, such as is properly idolatry.",
+            "Observing that the professors of [faith] are generally poor, they have declined that path, and have not so much as heard the word; and if they have heard and embraced it, yet when persecution arises because of it, they drop their profession of it.",
+            "Riches are therefore fitly compared to thorns, which give great trouble and uneasiness, both in getting and keeping them; and oftentimes the reflection upon the unlawful ways and means made use of to obtain them, gives very pungent pain and distress."
+        ],
+        "John Wesley": [
+            "Love of money \u2014 Commonly called \"prudent care\" of what a man has.",
+            "Is the root \u2014 The parent of all manner of evils.",
+            "And pierced themselves with many sorrows \u2014 From a guilty conscience, tormenting passions, desires contrary to reason, religion, and one another. How cruel are worldly men to themselves!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The love of money, an immoderate insatiable desire for it, is the root of all evils. It is a lust that brings grief, destroys faith, and leads people astray. Out of this vice, every form of evil naturally springs. The prosperity it promises often leads fools to their own destruction. This love of money, or avarice, produces no small part of the crimes of the world, piercing those who succumb to it with many sorrows. It is like thorns, causing great trouble and uneasiness in obtaining and keeping wealth. Men have committed any sin or crime for money, demonstrating that it is the parent of all manner of evil. Worldly men are cruel to themselves, tormenting their own conscience and desires.",
+            "wordCount": 121,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 2.1560243507773578,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                32.19,
+                30.93,
+                36.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The love of money, an insatiable desire and inordinate love, is the root of all kinds of evil. It destroys faith, leads people astray, and surrounds their souls with griefs. This love of money produces no small part of the crimes of the world, piercing those who fall for it with many sorrows. It is like thorns, causing trouble and uneasiness in obtaining and keeping wealth. Men commit any sin or crime for money, making it the parent of all manner of evil.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2092571845163276,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.8,
+            "commentatorTierSimilarities": [
+                32.32,
+                32.37,
+                35.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The love of money, an immoderate insatiable desire, is the root of all evils. It destroys faith, leads people astray, and surrounds their souls with griefs. This love of money, or avarice, produces no small part of the crimes of the world, piercing those who succumb to it with many sorrows. Men commit any sin or crime for money, demonstrating that it is the parent of all manner of evil. Worldly men are cruel to themselves, tormenting their own conscience and desires.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.208430771431012,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.77,
+            "commentatorTierSimilarities": [
+                32.34,
+                31.64,
+                36.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The love of money, an immoderate insatiable desire, is the root of all evils. This love of money destroys faith, leads people astray, and surrounds their souls with griefs. It produces no small part of the crimes of the world, piercing those who fall for it with many sorrows. Men commit any sin or crime for money, making it the parent of all manner of evil.",
+            "wordCount": 66,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.312041942582152,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.22,
+            "commentatorTierSimilarities": [
+                32.78,
+                33.55,
+                33.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The love of money, an immoderate insatiable desire, is the root of all evils. It destroys faith, leads people astray, and surrounds their souls with griefs. This love of money, or avarice, produces no small part of the crimes of the world, piercing those who succumb to it with many sorrows. Men commit any sin or crime for money, demonstrating that it is the parent of all manner of evil. Worldly men are cruel to themselves, tormenting their own conscience and desires.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.208430771431012,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.77,
+            "commentatorTierSimilarities": [
+                32.34,
+                31.64,
+                36.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

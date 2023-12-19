@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:29:43",
+    "verseRef": "Ephesians 2:4",
+    "bestBHT": {
+        "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God, rich in mercy, bestows salvation out of His immense love. His mercy removes our misery, while His love confers salvation. This salvation is solely due to God's undeserved goodness, as a manifestation of His perfection and an essential aspect of His divine nature. Through His mercy, all believers can partake in the life of the Son and be quickened by the Spirit.",
+        "wordCount": 80,
+        "quoteTokenProportion": 45.45,
+        "qualityScore": 2.45436981625965,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+        "commentatorTierSimilarities": [
+            29.13,
+            30.44,
+            40.43
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God, being rich in mercy, on account of His great love wherewith He loved us.",
+            "The construction is resumed, having been interrupted... by the two relative sentences.",
+            "Us are all Christians; the same as 'we all' in the last verse."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God, who is rich in mercy.",
+            "Mercy takes away misery; love confers salvation.",
+            "This was the special ground of God's saving us; as 'rich in mercy' was the general ground."
+        ],
+        "Albert Barnes": [
+            "God is 'rich' in mercy; overflowing, abundant. Mercy is the riches or the wealth of God.",
+            "In that he abounds and he is so rich in it that he is willing to impart it to others; so rich that he can make all blessed.",
+            "It is not that we had any claim or deserved his favor; but it is, that God had for man original and eternal love, and that love led to the gift of a Saviour, and to the bestowment of salvation."
+        ],
+        "Marvin Vincent": [
+            "But God.",
+            "For His great love [\u03b4\u03b9\u03b1].",
+            "What God wrought in Christ He wrought, ipso facto, in all who are united with Him."
+        ],
+        "John Calvin": [
+            "To be made partakers of the life of the Son of God, \u2014 to be quickened by one Spirit, is an inestimable privilege.",
+            "The whole of our salvation is here ascribed to the mercy of God.",
+            "This is a still more express declaration, that all was owing to undeserved goodness; for he declares that God was moved by this single consideration."
+        ],
+        "Philip Schaff": [
+            "\u2018Mercy\u2019 is more general than \u2018compassion\u2019 (comp. Romans 9:15); both refer to God\u2019s love toward sinners, as those who are miserable and need help.",
+            "But here the whole phrase qualifies the verbs, \u2018quickened,\u2019 etc., assigning the special ground for these actions; hence the reference is to love which has manifested itself, love for persons (\u2018us\u2019).",
+            "\u2018Us\u2019 includes all believers, and is not to be limited to Jewish Christians."
+        ],
+        "Archibald T. Robertson": [
+            "But God (\u03bf \u03b4\u03b5 \u03b8\u03b5\u03bf\u03c2). Change in the structure of the sentence here, resuming verse Ephesians 2:1 after the break.",
+            "Being rich in mercy (\u03c0\u03bb\u03bf\u03c5\u03c3\u03b9\u03bf\u03c2 \u03c9\u03bd \u03b5\u03bd \u03b5\u03bb\u03b5\u03b5). More than \u03b5\u03bb\u03b5\u03b7\u03bc\u03c9\u03bd (being merciful).",
+            "Wherewith (\u03b7\u03bd). Cognate accusative with \u03b7\u03b3\u03b1\u03c0\u03b7\u03c3\u03b5\u03bd (loved)."
+        ],
+        "John Gill": [
+            "Mercy is a perfection of the divine nature, and is essential to God.",
+            "God is said to be 'rich' in it [mercy], because he is free and liberal in dispensing it, and the effects of it; and that to a large number of persons, in great abundance and variety.",
+            "The love of God to his chosen people is very great, if it be considered who it is that has loved them, God and not man; who is an infinite, unchangeable, and sovereign Being."
+        ],
+        "John Wesley": [
+            "Mercy removes misery: love confers salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God is overflowing with mercy, so much so that He is willing to impart it to others. His love led to the gift of a Savior and the bestowment of salvation. This mercy and love are not limited to a select few, but include all believers. It is only through God's mercy that we can partake in the life of the Son of God and be quickened by the Spirit. Mercy removes our misery and love confers salvation. The whole of our salvation is owed to God's undeserved goodness, for it is a manifestation of His perfection and essential to His nature.",
+            "wordCount": 120,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 2.3740208690115026,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.28,
+            "commentatorTierSimilarities": [
+                26.82,
+                32.75,
+                40.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God, rich in mercy, bestows salvation out of His immense love. His mercy removes our misery, while His love confers salvation. This salvation is solely due to God's undeserved goodness, as a manifestation of His perfection and an essential aspect of His divine nature. Through His mercy, all believers can partake in the life of the Son and be quickened by the Spirit.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.45436981625965,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.95,
+            "commentatorTierSimilarities": [
+                29.13,
+                30.44,
+                40.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God, who is rich in mercy, extends His salvation to us out of His great love. This love and mercy are not limited to a select few, but include all believers. Through His mercy, we are able to partake in the life of the Son and be quickened by the Spirit. Our salvation is entirely owed to God's undeserved goodness, as it is a manifestation of His perfection and an essential aspect of His divine nature.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 2.3957892991643037,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.0,
+            "commentatorTierSimilarities": [
+                28.96,
+                33.52,
+                37.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God, rich in mercy, extends salvation to all believers out of His great love. Through His mercy, we can partake in the life of the Son and be quickened by the Spirit. Our salvation is solely due to God's undeserved goodness, a manifestation of His perfection and essential to His divine nature. His mercy removes our misery, while His love confers salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.4459977106445585,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.67,
+            "commentatorTierSimilarities": [
+                29.24,
+                30.6,
+                40.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "But God, being rich in mercy, on account of His great love wherewith He loved us. God, rich in mercy, bestows salvation upon us out of His immense love. His mercy takes away our misery, while His love grants us salvation. Our salvation is solely rooted in God's undeserved goodness, as it is a manifestation of His perfect nature. Through His mercy, all believers can share in the life of the Son and be quickened by the Spirit. God's love for His chosen people is infinite, unchangeable, and sovereign.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.437244376772104,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.38,
+            "commentatorTierSimilarities": [
+                29.58,
+                31.43,
+                38.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

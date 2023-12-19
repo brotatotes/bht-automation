@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 17:12:56",
+    "verseRef": "Philemon 13",
+    "bestBHT": {
+        "bht": "To support me during my imprisonment for the gospel, I wished to keep Onesimus with me, in your place. I trusted him to fulfill the services that you would have rendered if you were here. This decision was not to dismiss your affection but to recognize his role as a representative of the Church, as he endures persecution for the sake of the gospel. Hence, I am returning him to you, knowing that he will now serve me in your stead, just as you would have gladly done.",
+        "wordCount": 88,
+        "quoteTokenProportion": 57.63,
+        "qualityScore": 2.0662622891442535,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+        "commentatorTierSimilarities": [
+            32.45,
+            28.42,
+            39.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I, emphatic, I, for my part. in thy stead.\" ",
+            "For, wert thou here, thou wouldst. minister to me: I was minded therefore to retain him in thy place.",
+            "in the bonds of the gospel"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I for my part. Since I had such implicit trust in him as to desire to keep him with me for his services, thou mayest.",
+            "I would have retained. I was not willing.",
+            "That he might supply in your place all the services to me which you, if you were here, would render in virtue of the love you bear to me."
+        ],
+        "Albert Barnes": [
+            "That he might render me the service which I know you would if you were here.",
+            "He might have rendered me assistance (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b7\u0342\u0345 diakone\u0304); to wit, in such a way as one who was in bonds would need."
+        ],
+        "Marvin Vincent": [
+            "The preposition expresses more than near or beside. It implies intercourse.",
+            "A beautiful specimen of Christian courtesy and tact; assuming that Philemon would have desired to render these services in person.",
+            "A delicate hint at his sufferings is blended with an intimation of the authority which attaches to his appeal as a prisoner of Christ."
+        ],
+        "John Calvin": [
+            "It would have been extreme cruelty, to disdain so strong affection manifested by Paul.",
+            "We ought to aid the martyrs of Christ by every kind office in our power, while they are laboring for the testimony of the gospel.",
+            "He who endures persecution, for the sake of the gospel, ought not to be regarded as a private individual, but as one who publicly represents the whole Church."
+        ],
+        "Philip Schaff": [
+            "I personally would have liked to do this.",
+            "The spiritual father had become much bound unto his child in Christ, and the parting was not acceptable.",
+            "Slaves in that age, we know, were not unfrequently well taught, and it may be that Onesimus could help the apostle in that labour of writing which from some reason or other he clearly found painful to himself."
+        ],
+        "Archibald T. Robertson": [
+            "I would fain have kept (\u03b5\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b7\u03bd \u03ba\u03b1\u03c4\u03b5\u03c7\u03b5\u03b9\u03bd). Imperfect middle and present infinitive, 'I was wishing to hold back.'",
+            "In thy behalf (\u03c5\u03c0\u03b5\u03c1 \u03c3\u03bf\u03c5). So 'in thy stead,' 'in place of thee.'",
+            "He might minister (\u03b4\u03b9\u03b1\u03ba\u03bf\u03bd\u03b7). Present active subjunctive (retained after \u03b5\u03b2\u03bf\u03c5\u03bb\u03bf\u03bc\u03b7\u03bd) with \u03b9\u03bd\u03b1, purpose continued, 'that he might keep on ministering.'"
+        ],
+        "John Gill": [
+            "The apostle was in bonds, not for any crime, for any immorality he had been guilty of, but for the sake of the Gospel. For this he was an ambassador in bonds.\" ",
+            "Now he would have kept Onesimus with him, either to have waited upon him, in his bonds, and to have provided for him the necessaries of life; or to have assisted him in the ministration of the word, in the room of Philemon.\" ",
+            "This the apostle observes to prevent an objection that might have been made; that since Onesimus was become so profitable to him, why did he send him back? why did he not keep him for his own service? this he obviates and removes, by signifying he should have done it, but for the following reason."
+        ],
+        "John Wesley": [
+            "To serve me in thy stead \u2014 To do those services for me which thou, if present, wouldest gladly have done thyself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I, for my part, would have liked to retain him in your place, so that he might minister to me in the bonds of the gospel. I had such trust in him that I desired to keep him with me to fulfill all the services you would have rendered in person. This was not to disregard your strong affection, but rather to have him represent the whole Church and assist in the labor of spreading the gospel. It is only fitting that he, who endures persecution for the sake of the gospel, be aided with every kind office possible. So, I send him back to you, not out of cruelty, but with the understanding that he will now serve me in your stead, just as you would have gladly done yourself.",
+            "wordCount": 131,
+            "quoteTokenProportion": 56.41,
+            "qualityScore": 2.0568205096115877,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                31.25,
+                29.43,
+                39.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I, for my part, would have liked to retain him in your place, so that he might minister to me in the bonds of the gospel. I had such trust in him that I desired to keep him with me to fulfill all the services you would have rendered in person. It is only fitting that he, who endures persecution for the sake of the gospel, be aided with every kind office possible. So, I send him back to you, not out of cruelty, but with the understanding that he will now serve me in your stead, just as you would have gladly done yourself.",
+            "wordCount": 105,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 2.102391203121954,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                31.8,
+                29.75,
+                38.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I was inclined to keep Onesimus with me, in order that he might serve me in your place and minister to me in my imprisonment for the sake of the gospel. I trusted him to fulfill the services that you would have provided if you were here. This decision was not made to dismiss your strong affection, but rather to acknowledge his sacrifice as a representative of the Church and to support him as he endures persecution for proclaiming the gospel. Thus, I am returning him to you, with the knowledge that he will serve me in your stead, just as you would have done.",
+            "wordCount": 105,
+            "quoteTokenProportion": 56.25,
+            "qualityScore": 2.0951142737143016,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                32.75,
+                28.83,
+                38.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I wished to keep Onesimus with me, so that he could minister to me in your place and support me in my imprisonment for the sake of the gospel. I trusted him to fulfill the services that you would have provided if you were here. This decision was not meant to disregard your strong affection, but rather to recognize his role as a representative of the Church and to assist him as he endures persecution for the sake of spreading the gospel. Therefore, I am sending him back to you, knowing that he will serve me in your absence, just as you would have done.",
+            "wordCount": 105,
+            "quoteTokenProportion": 56.06,
+            "qualityScore": 2.069235641569726,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                32.66,
+                28.87,
+                38.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To support me during my imprisonment for the gospel, I wished to keep Onesimus with me, in your place. I trusted him to fulfill the services that you would have rendered if you were here. This decision was not to dismiss your affection but to recognize his role as a representative of the Church, as he endures persecution for the sake of the gospel. Hence, I am returning him to you, knowing that he will now serve me in your stead, just as you would have gladly done.",
+            "wordCount": 88,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 2.0662622891442535,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.04,
+            "commentatorTierSimilarities": [
+                32.45,
+                28.42,
+                39.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

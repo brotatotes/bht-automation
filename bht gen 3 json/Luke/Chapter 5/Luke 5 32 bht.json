@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 16:15:26",
+    "verseRef": "Luke 5:32",
+    "bestBHT": {
+        "bht": "Jesus' call to repentance is for sinners, urging a change of mind and life. This sets a precedent for those who seek to win souls to Christ. The challenge lies in reaching the self-satisfied, who often resist efforts to bring them to Him. However, Jesus not only calls sinners to repentance but also grants them the power to do so through His grace. He has the ability to bestow the gift of repentance and to bring individuals to the duty of it.",
+        "wordCount": 83,
+        "quoteTokenProportion": 47.37,
+        "qualityScore": 1.5960071546654322,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+        "commentatorTierSimilarities": [
+            41.55,
+            0.0,
+            58.45
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Only sinners would need a call to repentance, a change of mind and life.",
+            "Jesus has here blazed the path for all soul-winners.",
+            "The self-satisfied are the hard ones to win and they often resent efforts to win them to Christ."
+        ],
+        "John Gill": [
+            "I came not to call the righteous... but sinners to repentance.\" ",
+            "He not only called to repentance by the outward ministry of the word, but brought them to it.",
+            "He having power to bestow the grace of repentance, as well as to call to the duty of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus' call to repentance in Luke 5:32 is directed towards sinners in need of a change of mind and life. By extending this invitation, Jesus sets an example for all who seek to bring others to Him. The challenge lies in reaching the self-satisfied, who often resist efforts to win them over to Christ. In this verse, Jesus not only calls sinners to repentance through His ministry, but also empowers them with the grace to do so.",
+            "wordCount": 77,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.581295610559324,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.92,
+            "commentatorTierSimilarities": [
+                45.35,
+                0.0,
+                54.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus' call to repentance is specifically directed towards those who recognize their need for a change of mind and life. His example paves the way for soul-winners seeking to bring others to Him. However, it can be challenging to reach those who are self-satisfied and resistant to spiritual transformation. Jesus not only calls sinners to repentance through His ministry, but also grants them the grace and power to turn their lives around.",
+            "wordCount": 74,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.457178320011925,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.79,
+            "commentatorTierSimilarities": [
+                43.88,
+                0.0,
+                56.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' call to repentance is a clear indication that it is the sinners who are in need of this transformative change in their minds and lives. As believers, we are encouraged to follow in His footsteps by leading others to Him. However, it is important to acknowledge that reaching those who are content with their self-righteousness can be quite challenging, as they may view efforts to bring them to Christ with resentment. Nonetheless, Jesus not only extends the call to repentance but also possesses the authority to bestow the grace and power needed for individuals to genuinely repent and experience a transformed life.",
+            "wordCount": 104,
+            "quoteTokenProportion": 45.33,
+            "qualityScore": 1.5063598567847576,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                44.03,
+                0.0,
+                55.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' call to repentance is a clear indication that it is the sinners who are in need of this transformative change in their minds and lives. As believers, we are encouraged to follow in His footsteps by leading others to Him. However, reaching those who are self-satisfied can be challenging, as they may resent efforts to win them to Christ. Nonetheless, Jesus not only extends the call to repentance but also possesses the authority to bestow the grace and power needed for individuals to genuinely repent and experience a transformed life.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 1.5581285027615608,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.15,
+            "commentatorTierSimilarities": [
+                47.24,
+                0.0,
+                52.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' call to repentance is for sinners, urging a change of mind and life. This sets a precedent for those who seek to win souls to Christ. The challenge lies in reaching the self-satisfied, who often resist efforts to bring them to Him. However, Jesus not only calls sinners to repentance but also grants them the power to do so through His grace. He has the ability to bestow the gift of repentance and to bring individuals to the duty of it.",
+            "wordCount": 83,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 1.5960071546654322,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.41,
+            "commentatorTierSimilarities": [
+                41.55,
+                0.0,
+                58.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

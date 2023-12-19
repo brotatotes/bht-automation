@@ -1,0 +1,125 @@
+{
+    "timestamp": "12-19-2023 16:20:56",
+    "verseRef": "Luke 17:4",
+    "bestBHT": {
+        "bht": "Jesus teaches us the importance of a forgiving spirit, instructing us to forgive not just once or twice, but even seven times in a day. Forgiveness should be offered sincerely, and while it may be challenging, it is an essential aspect of our Christian faith. Confession and proper Christian rebuke are also encouraged, as they go hand in hand with forgiveness. Ultimately, forgiveness should be extended to all, just as Christ has forgiven us.",
+        "wordCount": 74,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 1.565081716444566,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+        "commentatorTierSimilarities": [
+            33.58,
+            23.33,
+            43.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Seven times\u2014not a lower measure of the forgiving spirit than the 'seventy times seven' enjoined on Peter.",
+            "No, though it come to seventy times that number, if only he ask forgiveness in sincerity.",
+            "If only he ask forgiveness in sincerity."
+        ],
+        "Philip Schaff": [
+            "Luke 17:4. Turn again to thee. Confession is plainly demanded here, as rebuke had been in Luke 17:3. Christian confession may be as rare as proper Christian rebuke.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Seven times in a day (\u03b5\u03c0\u03c4\u03b1\u03ba\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03c2). Seven times within the day.",
+            "On another occasion Peter's question (Matthew 18:21) brought Christ's answer 'seventy times seven' (verse Luke 17:22), which see.",
+            "Seven times during the day would be hard enough for the same offender."
+        ],
+        "John Gill": [
+            "For good men are frequently apt to fall into sin, and offend both God and man.",
+            "Whoever makes haste to forgive, is praiseworthy.",
+            "A man that was always forgiving, was reckoned by them an extraordinary man."
+        ],
+        "John Wesley": [
+            "Receive him just as if he had never sinned against thee.",
+            "But this forgiveness is due only to real penitents.",
+            "In a lower sense we are to forgive all, penitent or impenitent; and that not seven times only, but seventy times seven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When someone wrongs us, it can be difficult to forgive them, but in Luke 17:4, Jesus teaches us the importance of a forgiving spirit. He tells us to forgive not just once or twice, but even seven times in a day, emphasizing the limitless nature of forgiveness. Forgiveness should be offered sincerely, and while it may be challenging to forgive the same offender repeatedly, it is an essential aspect of our Christian faith. Confession and proper Christian rebuke are also encouraged, as they go hand in hand with forgiveness. Ultimately, forgiveness should be extended to all, whether penitent or not, just as Christ has forgiven us.",
+            "wordCount": 105,
+            "quoteTokenProportion": 49.32,
+            "qualityScore": 1.7307697026861177,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.89,
+            "commentatorTierSimilarities": [
+                34.44,
+                23.5,
+                42.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus teaches us the importance of a forgiving spirit, instructing us to forgive not just once or twice, but even seven times in a day. Forgiveness should be offered sincerely, and while it may be challenging, it is an essential aspect of our Christian faith. Confession and proper Christian rebuke are also encouraged, as they go hand in hand with forgiveness. Ultimately, forgiveness should be extended to all, just as Christ has forgiven us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.565081716444566,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.38,
+            "commentatorTierSimilarities": [
+                33.58,
+                23.33,
+                43.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To truly embrace a forgiving spirit, we must be willing to forgive, not just once or twice, but even seven times in one day. Such a measure of forgiveness requires sincerity in seeking forgiveness from the one who was wronged. Confession and rebuke go hand in hand in the Christian life, and confession should not be taken lightly. We should strive to forgive as soon as someone repents, for a quick willingness to forgive is commendable. In fact, receiving the offender as if they had never sinned against us is the kind of forgiveness we are called to demonstrate. Yet, it is worth noting that this kind of forgiveness should be reserved for those who truly repent. In a broader sense, we are still called to forgive all, whether they repent or not, over and over again.",
+            "wordCount": 137,
+            "quoteTokenProportion": 50.59,
+            "qualityScore": 1.645413432796282,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.05,
+            "commentatorTierSimilarities": [
+                33.96,
+                21.58,
+                44.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To embody a truly forgiving spirit, we are called not just to forgive once, or even twice, but even up to seven times within a single day. However, this forgiveness must come from a place of sincerity, where the offender genuinely seeks forgiveness. Confession plays a crucial role in the Christian journey, as does the willingness to offer forgiveness swiftly to the penitent. In fact, we should receive those who ask for forgiveness as if they had never wronged us. Nevertheless, it is important to discern genuine repentance when practicing such forgiveness. Nonetheless, on a broader scale, we are called to forgive everyone, regardless of their repentance, repeatedly.",
+            "wordCount": 108,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.6087948042281384,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.83,
+            "commentatorTierSimilarities": [
+                35.86,
+                19.96,
+                44.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "True forgiveness extends beyond mere lip service. In Luke 17:4, we are urged to forgive not just once or twice, but even seven times in a day, emphasizing the significance of sincere repentance. The act of confession, rarely practiced, is as essential as offering rebuke. A prompt and willing attitude to forgive demonstrates praiseworthy character. When we forgive, it is crucial to receive the offender as if they had never transgressed against us. However, this forgiveness is not indiscriminate; it is reserved for those who show genuine penitence. In a broader sense, we are still obliged to forgive all, both penitent and impenitent, not merely seven times, but seventy times seven.",
+            "wordCount": 110,
+            "quoteTokenProportion": 43.04,
+            "qualityScore": 1.5849470646663586,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.04,
+            "commentatorTierSimilarities": [
+                36.44,
+                20.19,
+                43.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

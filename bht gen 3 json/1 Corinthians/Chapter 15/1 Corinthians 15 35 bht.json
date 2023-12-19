@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:14:30",
+    "verseRef": "1 Corinthians 15:35",
+    "bestBHT": {
+        "bht": "The question arises: How are the dead raised up? and With what kind of body do they come? Paul addresses this doubt by emphasizing that the resurrection involves a spiritual body. It is not a natural body, but one raised through death. Although we may struggle to fully comprehend this concept, we should not reject it based on our limited understanding. Instead, we must recognize that some things are beyond our comprehension and trust in God's power, even when we cannot explain the details.",
+        "wordCount": 85,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.073193303131691,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+        "commentatorTierSimilarities": [
+            37.57,
+            35.29,
+            27.14
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The new difficulty is introduced in the form of a question from an objector.",
+            "How..., In what manner,\u2014and next specifically, With what kind of body are they to come forth at that time?",
+            "With what kind of body are they to come forth at that time?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is folly to deny a fact of REVELATION, because we do not know the 'how.' Some measure God's power by their petty intelligence, and won't admit, even on His assurance, anything which they cannot explain.",
+            "The dead are said to depart, or to be deceased: those rising again to come. The objector could not understand how the dead are to rise, and with what kind of a body they are to come.",
+            "Paul answers, In one sense it will be the same body, in another, a distinct body. It will be a body, but a spiritual, not a natural, body."
+        ],
+        "Albert Barnes": [
+            "How is it possible that the dead should be raised? They return to their native dust. They become entirely disorganized... how can it be re-collected and re-organized?\" ",
+            "What will be the form, the shape, the size, the organization of the new body? Are we to suppose that all the matter which at any time entered into its composition here is to be recollected, and to constitute a colossal frame? Are we to suppose that it will be the same as it is here, with the same organization, the same necessities, the same needs?",
+            "Are we to suppose that the bodies will be gross, material, and needing support and nourishment, or, that there will be a new organization?"
+        ],
+        "Marvin Vincent": [
+            "The body is raised through death.",
+            "A spiritual body.",
+            "Swma body is related to sarx flesh, as general to special."
+        ],
+        "John Calvin": [
+            "For who but God alone could persuade us that bodies, which are now liable to corruption, will, after having rotted away, or after they have been consumed by fire, or torn in pieces by wild beasts, will not merely be restored entire, but in a greatly better condition.",
+            "Do not all our apprehensions of things straightway reject this as a thing fabulous, nay, most absurd?",
+            "Paul, with the view of removing entirely this appearance of absurdity, makes use of an anhypophora, that is, he brings forward by way of objection, in the person of another, what appears at first view to be at variance with the doctrine of a resurrection."
+        ],
+        "Philip Schaff": [
+            "How are the dead raised up? and with what manner of body do they come?\" ",
+            "The first 'How are the dead raised?' is answered half scornfully."
+        ],
+        "Archibald T. Robertson": [
+            "Death itself is the way of resurrection as in the death of the seed for the new plant.",
+            "It is a spiritual, not a natural, body that is raised.",
+            "Flesh is the body for the natural man, but there is a spiritual body for the resurrection."
+        ],
+        "John Gill": [
+            "A weak believer indeed may be designed, one of the babes in Christ in this church, that could not digest such strong meat, but had some doubt and difficulties in his mind about this point.",
+            "This query is put, not as though the person merely hesitated, and was in some suspense about this matter, or with a desire to be informed; but as denying the thing, and as objecting to it as a thing impossible, and impracticable.",
+            "Will they come forth with the same bodies, or with other? with earthly or heavenly ones? mortal or immortal? with bodies different from one another, and from what they now are?"
+        ],
+        "John Wesley": [
+            "How are the dead raised up, after their whole frame is dissolved?",
+            "And with what kind of bodies do they come again, after these are mouldered into dust?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With what kind of body will the dead be raised? This objection challenges the concept of resurrection, questioning how bodies that have decayed or been destroyed could possibly be restored. In response, Paul declares that while it will be the same body in one sense, it will also be distinct - a spiritual body. He emphasizes that this is not a natural body, but one raised through death. The body, referred to as a swma, is related to flesh but is considered spiritual, not natural. Death itself becomes the path to resurrection, just as a seed must die for new life to sprout. The doubt and difficulty in comprehending this reality are understandable. But we must not dismiss God's revelation simply because we cannot fully comprehend the how. We should not limit God's power based on our limited understanding.",
+            "wordCount": 140,
+            "quoteTokenProportion": 43.96,
+            "qualityScore": 2.0449937423742863,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.34,
+            "commentatorTierSimilarities": [
+                39.73,
+                32.79,
+                27.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With what kind of body will the dead be raised? This objection challenges the concept of resurrection, questioning how bodies that have decayed or been destroyed could possibly be restored. In response, Paul declares that while it will be the same body in one sense, it will also be distinct - a spiritual body. The body is related to flesh but is considered spiritual, not natural. Death itself becomes the way of resurrection, as a seed must die for new life to sprout. We must not limit God's power based on our limited understanding.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 2.2097615287764425,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.82,
+            "commentatorTierSimilarities": [
+                40.17,
+                33.23,
+                26.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The objection arises: How are the dead raised up? and With what kind of body do they come? Paul addresses this skepticism, affirming that the resurrection entails a spiritual body, distinct from the natural. Death itself serves as the pathway to resurrection, just as a seed must die for new life to emerge. Though some struggle to comprehend this truth, we should not dismiss the revelation simply because we cannot grasp the how. Instead, we must acknowledge the limitless power of God, even amidst our limited understanding.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.9759982842930168,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.04,
+            "commentatorTierSimilarities": [
+                37.48,
+                34.1,
+                28.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The objection arises: How are the dead raised up? and With what kind of body do they come? Paul addresses this skepticism, affirming that the resurrection entails a spiritual body, distinct from the natural. Death itself serves as the pathway to resurrection. Though we may struggle to comprehend this truth, we must not deny it based on our limited understanding. It is unwise to measure God's power by our own intelligence and dismiss anything we cannot explain, even when assured by His revelation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.83,
+            "qualityScore": 1.975653923291763,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.03,
+            "commentatorTierSimilarities": [
+                37.66,
+                34.84,
+                27.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The question arises: How are the dead raised up? and With what kind of body do they come? Paul addresses this doubt by emphasizing that the resurrection involves a spiritual body. It is not a natural body, but one raised through death. Although we may struggle to fully comprehend this concept, we should not reject it based on our limited understanding. Instead, we must recognize that some things are beyond our comprehension and trust in God's power, even when we cannot explain the details.",
+            "wordCount": 85,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.073193303131691,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.27,
+            "commentatorTierSimilarities": [
+                37.57,
+                35.29,
+                27.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

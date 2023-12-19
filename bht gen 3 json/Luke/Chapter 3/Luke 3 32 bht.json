@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 16:14:31",
+    "verseRef": "Luke 3:32",
+    "bestBHT": {
+        "bht": "The order of names from Jesse to Abraham mentioned in this segment perfectly aligns with the genealogy documented in Matthew and the Old Testament. The Septuagint refers to Abraham's father as Tharra, which is also mentioned here. This consistent naming convention in the Septuagint highlights the reliability and interconnectedness of different biblical accounts. Thus, it emphasizes the harmony between these records and underscores the lineage from Jesse to Abraham.",
+        "wordCount": 70,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 1.6225796632795622,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The order of the persons from Jesse to Abraham... perfectly agrees with the genealogy of Matthew, and the accounts of the Old Testament.",
+            "called by the Septuagint, Tharra.",
+            "called there, by the Septuagint, as here."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The order of names mentioned in this verse, from Jesse to Abraham, aligns with the genealogy found in Matthew and the Old Testament. In fact, the Septuagint refers to Abraham's father as Tharra, and this name is also used here. It is worth noting that the Septuagint consistently maintains this naming convention. Therefore, the verse maintains consistency with existing biblical records and shows the interconnectedness of various accounts throughout the Bible.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.5611090175713171,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.25,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sequence of individuals listed in this passage, from Jesse all the way to Abraham, corresponds perfectly with the genealogy mentioned in Matthew as well as the accounts found in the Old Testament scriptures. It is interesting to note that Abraham's father is called Tharra in the Septuagint, which is the same name used in this passage. This consistent naming convention in the Septuagint further confirms the harmony between different biblical records. Thus, the passage serves to emphasize the interconnectedness and reliability of various biblical accounts.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.5477805462405727,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.81,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The lineage of individuals mentioned in this portion, from Jesse to Abraham, aligns perfectly with the genealogy documented in Matthew as well as the narratives in the Old Testament. Notably, the Septuagint refers to Abraham's father as Tharra, a name that is also used here. This consistent naming convention in the Septuagint further affirms the harmony between different biblical records. Thus, it underscores the interconnectedness and reliability of the biblical accounts.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.4558822065448809,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.75,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sequence of names listed in this verse, from Jesse to Abraham, agrees with the genealogy found in Matthew and the Old Testament. The Septuagint refers to Abraham's father as Tharra, a name also used here. This consistent naming convention in the Septuagint confirms the reliability of various biblical accounts. Thus, the verse emphasizes the interconnectedness of these accounts and reinforces their harmony in showcasing the lineage from Jesse to Abraham.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.624935982113684,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.37,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The order of names from Jesse to Abraham mentioned in this segment perfectly aligns with the genealogy documented in Matthew and the Old Testament. The Septuagint refers to Abraham's father as Tharra, which is also mentioned here. This consistent naming convention in the Septuagint highlights the reliability and interconnectedness of different biblical accounts. Thus, it emphasizes the harmony between these records and underscores the lineage from Jesse to Abraham.",
+            "wordCount": 70,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.6225796632795622,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

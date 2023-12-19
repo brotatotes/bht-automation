@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:26:03",
+    "verseRef": "Acts 4:6",
+    "bestBHT": {
+        "bht": "Annas and Caiaphas, both high priests, were influential figures in the Jewish court, the Sanhedrim. Annas, an ex-high priest and father-in-law of Caiaphas, held authority among the chief priests. Caiaphas held the high-priestly title by Roman law, and they both led the charge against Peter and John. The involvement of John and Alexander, although less known, accentuates the significance of this event. As leaders among the Sadducees, they played a crucial role in pressing the case against the disciples.",
+        "wordCount": 83,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.8090289012346745,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+        "commentatorTierSimilarities": [
+            24.87,
+            30.32,
+            44.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Why is this specified?",
+            "I believe it merely implies that the meeting was not held in the temple, but in the city.",
+            "On Annas and Caiaphas, both called high priests, Luke iii. 2,\u2014see note there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. Annas . . . and Caiaphas\u2014(See",
+            "\ton :-). ",
+            "\t",
+            "John and Alexander\u2014of",
+            "\twhom nothing is known."
+        ],
+        "Philip Schaff": [
+            "The Sanhedrim was the supreme court in the Jewish nation. Its decrees apparently were respected beyond Palestine... Its powers embraced all matters, civil as well as religious.\" ",
+            "The Idumean rulers, and after them the Roman Government, not un-frequently would arbitrarily depose the high priest, and could set up another in his room. But with the people, the deposed functionary kept his title, and even still wore the high-priestly garments.",
+            "Nothing positively certain is known of these two [John and Alexander]. Lightfoot would identify John with Rabbi Johanan ben Zaccai, who is mentioned in the Talmud: after the fall of Jerusalem, he obtained permission from the Roman Government that the Sanhedrim might be settled at Japhneh."
+        ],
+        "Archibald T. Robertson": [
+            "Annas (H\u03b1\u03bd\u03bd\u03b1\u03c2). One of the rulers or chief priests, ex-high priest (A.D. 7-14) and father-in-law of Caiaphas (\u039a\u03b1\u03b9\u03b1\u03c6\u03b1\u03c2)...",
+            "Caiaphas so by Roman law, Annas so in the opinion of the Jews.",
+            "They with John and Alexander are the leaders among the Sadducees in pressing the case against Peter and John."
+        ],
+        "John Gill": [
+            "Annas the high priest,.... So called, either because he had been an high priest, though he was not now, but Caiaphas his son-in-law; or because he was the Sagan of the high priest, and had all the other priests under his government...",
+            "the chief objection to him, as that learned writer observes, is, that he lived and died a Pharisee, whereas this John seems to have been a Sadducee",
+            "and as many as were of the kindred of the high priest; by whose means they were become members of the sanhedrim"
+        ],
+        "John Wesley": [
+            "Annas, who had been the high priest, and Caiaphas, who was so then."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Annas and Caiaphas, both referred to as high priests, played significant roles in the Jewish court, the Sanhedrim. While Annas, the father-in-law of Caiaphas, was an ex-high priest and considered a ruler among the chief priests, Caiaphas held the title by Roman law. These two leaders, along with John and Alexander, who are less known, were influential figures in the Sadducee party. They spearheaded the charge against Peter and John, showing their importance in the proceedings. Although the exact identities of John and Alexander remain uncertain, some interpretations connect John with Rabbi Johanan ben Zaccai from the Talmud. Overall, this verse emphasizes the involvement of these key individuals who held power and were influential in the Jewish court system.",
+            "wordCount": 122,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.7549294784322078,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.69,
+            "commentatorTierSimilarities": [
+                24.09,
+                35.41,
+                40.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Annas and Caiaphas, both high priests, were prominent figures in the Sanhedrim, the Jewish supreme court. Annas, an ex-high priest and father-in-law of Caiaphas, held authority among the chief priests. Caiaphas, recognized as high priest by Roman law, played a pivotal role in the proceedings. Alongside them were John and Alexander, who were leaders among the Sadducees. Their involvement sheds light on the significance of this passage as they were instrumental in pressing charges against Peter and John. The identities of John and Alexander remain somewhat mysterious, but some speculation associates John with Rabbi Johanan ben Zaccai.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 1.793490373593273,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.98,
+            "commentatorTierSimilarities": [
+                23.66,
+                33.52,
+                42.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Annas and Caiaphas, both high priests, played key roles in the Sanhedrim, the Jewish supreme court. While Annas held sway as an ex-high priest and father-in-law of Caiaphas, the latter held the high-priestly position by Roman law. These influential leaders, along with John and Alexander, who were prominent among the Sadducees, aggressively pursued Peter and John. Though the exact identities of John and Alexander are uncertain, some theories connect John with Rabbi Johanan ben Zaccai from the Talmud. The involvement of these figures underscores the importance of this account.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.662743525845682,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.63,
+            "commentatorTierSimilarities": [
+                24.93,
+                35.66,
+                39.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Annas and Caiaphas, both high priests, held significant positions in the Sanhedrim, the Jewish court. Annas, an ex-high priest and father-in-law of Caiaphas, was considered a ruler among the chief priests. Caiaphas, recognized as the high priest according to Roman law, was crucial in the proceedings. Alongside them were John and Alexander, leaders among the Sadducees. These influential figures played a pivotal role in the case against Peter and John. While the specific identities of John and Alexander remain uncertain, their involvement illustrates the importance of this event.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.706033020417372,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.07,
+            "commentatorTierSimilarities": [
+                24.3,
+                30.55,
+                45.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Annas and Caiaphas, both high priests, were influential figures in the Jewish court, the Sanhedrim. Annas, an ex-high priest and father-in-law of Caiaphas, held authority among the chief priests. Caiaphas held the high-priestly title by Roman law, and they both led the charge against Peter and John. The involvement of John and Alexander, although less known, accentuates the significance of this event. As leaders among the Sadducees, they played a crucial role in pressing the case against the disciples.",
+            "wordCount": 83,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.8090289012346745,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                24.87,
+                30.32,
+                44.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

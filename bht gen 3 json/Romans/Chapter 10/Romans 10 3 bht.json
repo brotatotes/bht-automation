@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:07:34",
+    "verseRef": "Romans 10:3",
+    "bestBHT": {
+        "bht": "These individuals, in their ignorance of God's righteousness, sought to establish their own righteousness. However, we see that these two approaches are wholly contrary and cannot stand together. By striving to confirm their own righteousness, they rebelled against the righteousness of God and dishonored His divine ordinance. Their self-righteousness hindered them from submitting to God's righteousness and understanding the true method of justification by faith. It is only through renouncing our own righteousness that we can embrace the righteousness of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.91,
+        "qualityScore": 2.385695749731748,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.66,
+        "commentatorTierSimilarities": [
+            31.15,
+            26.62,
+            42.23
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "not knowing...the righteousness of God...they had it before them, and overlooked it",
+            "seeking to set up their own righteousness...the Apostle speaks subjectively",
+            "they were not subjected to the righteousness of God...they were never subjected, as they were to the law of Moses"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For they being ignorant of God's righteousness\u2014that is, for the justification of the guilty.",
+            "Going about\u2014'seeking' to establish their own righteousness.",
+            "Have not submitted themselves to the righteousness of God."
+        ],
+        "Albert Barnes": [
+            "Involuntary ignorance excuses from guilt; but ignorance produced by our sin or our indolence is no excuse for crime.",
+            "Endeavoring to confirm or make valid their own righteousness; to render it such as to constitute a ground of justification before God; or to make good their own claims to eternal life by their merits.",
+            "No obstacle to salvation by grace is so great as the self-righteousness of the sinner."
+        ],
+        "Marvin Vincent": [
+            "They would erect a righteousness of their own as a monument to their own glory and not to God's.",
+            "God's righteousness. That mentioned in Romans 9:30.",
+            "God's righteousness. Compare Philippians 3:9; Romans 1:16, Romans 1:17; Romans 3:20-22."
+        ],
+        "John Calvin": [
+            "We first see, that they are opposed to one another, as things wholly contrary, and cannot stand together. It hence follows, that God\u2019s righteousness is subverted, as soon as men set up their own.\" ",
+            "Then he who seeks to be justified through himself, submits not to God\u2019s righteousness; for the first step towards obtaining the righteousness of God is to renounce our own righteousness.",
+            "Paul grievously dishonors the pride by which hypocrites are inflated, when they cover it with the specious mask of zeal; for he says, that all such, by shaking off as it were the yoke, are adverse to and rebel against the righteousness of God."
+        ],
+        "Philip Schaff": [
+            "Not knowing, or, more exactly, \u2018being ignorant of\u2019 (as in E. V.), but \u2018not knowing\u2019 preserves the verbal correspondence with \u2018knowledge,\u2019 which exists in the original also, and, moreover, it does not suggest that the ignorance was excusable.",
+            "Striving to establish their own. \u2018Righteousness\u2019 is probably to be omitted in this clause, although the evidence is nearly evenly balanced. \u2018Striving\u2019 suggests that they would acquire what according to God\u2019s method of salvation was to be bestowed, while \u2018establish,\u2019 or, \u2018set up,\u2019 suggests the pride of their endeavor.",
+            "The righteousness of God; here \u2018conceived of as a divine ordinance, to which one submits one\u2019s self, through faith\u2019 (Meyer), as the context plainly indicates."
+        ],
+        "Archibald T. Robertson": [
+            "They did not understand the God-kind of righteousness by faith.",
+            "They misconceived it.",
+            "They did not subject themselves."
+        ],
+        "John Gill": [
+            "They being ignorant of God's righteousness...the righteousness of God required in the law, they imagining that only an external conformity to the commands of the law, was all that was necessary to attain to a justifying righteousness by it...\" ",
+            "They were going about to establish their own righteousness...the righteousness of works, their obedience to the law, an outward conformity to it, an observance of the rituals of it, and a little negative holiness.",
+            "They have not submitted themselves to the righteousness of God...because they had no true humble sense of themselves as sinners, nor did they care to acknowledge themselves as such...because they had an overweening opinion of their own righteousness, which they trusted to, and depended upon."
+        ],
+        "John Wesley": [
+            "For they being ignorant of the righteousness of God - Of the method God has established for the justification of a sinner.",
+            "And seeking to establish their own righteousness - Their own method of acceptance with God.",
+            "Have not submitted to the righteousness of God - The way of justification which he hath fixed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "The people described in this verse did not understand the righteousness of God, even though it was right in front of them. They were trying to establish their own righteousness instead of submitting to God's righteousness. They wanted to build a monument to their own glory, not recognizing the righteousness that comes from God alone. This righteousness is obtained by faith, and it is not something that can be achieved through our own efforts or merits. These individuals were ignorant of the true way of justification that God has established. Their ignorance was not excusable, as they sought to confirm their own righteousness and rebel against God's righteousness. By rejecting God's righteousness and relying on their own works, they were opposing something that is completely contrary to it.",
+            "wordCount": 131,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 2.5475828880755937,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.05,
+            "commentatorTierSimilarities": [
+                32.71,
+                26.69,
+                40.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These individuals lacked knowledge of the righteousness of God and overlooked it, seeking instead to establish their own righteousness. In doing so, they did not submit themselves to God's righteousness but rather exalted their own glory. Their ignorance of the God-kind of righteousness by faith led them to misconceive it and hindered their understanding of the true way of justification. Their self-righteousness was a significant obstacle to receiving salvation by grace, as it opposed the righteousness that comes solely from God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.667169005582534,
+            "qualityScoreNormalizedComparedToV2BHTs": 80.02,
+            "commentatorTierSimilarities": [
+                32.13,
+                27.88,
+                39.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These individuals, in their ignorance of God's righteousness, sought to establish their own righteousness. However, we see that these two approaches are wholly contrary and cannot stand together. By striving to confirm their own righteousness, they rebelled against the righteousness of God and dishonored His divine ordinance. Their self-righteousness hindered them from submitting to God's righteousness and understanding the true method of justification by faith. It is only through renouncing our own righteousness that we can embrace the righteousness of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.91,
+            "qualityScore": 2.385695749731748,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.66,
+            "commentatorTierSimilarities": [
+                31.15,
+                26.62,
+                42.23
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

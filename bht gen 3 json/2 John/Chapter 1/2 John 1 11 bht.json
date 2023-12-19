@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:15:33",
+    "verseRef": "2 John 11",
+    "bestBHT": {
+        "bht": "To wish someone God speed is not a harmless gesture, but rather an endorsement of their beliefs and actions, according to the first-tier insight. By doing so, we become complicit in advancing their evil deeds. Consequently, we cannot simultaneously have fellowship with the saints and with those who oppose Christ. This verse calls us to be discerning in our associations, ensuring they align with Christ's teachings and uphold the truth. It reminds us to be cautious in our interactions, lest we unknowingly support those who seek to undermine the truth.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.5901925331276132,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+        "commentatorTierSimilarities": [
+            29.55,
+            30.97,
+            39.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not of men who have never had any relation with the church, but of men who wish to be thought brethren, and overthrow the truth.",
+            "Do not even by wishing him good speed, which, if spoken by a Christian, would mean God speed, identify yourselves with his course and fortunes.",
+            "If you do, you pronounce approval of his evil deeds, and so far share his guilt, advancing their success by your wishes for it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By wishing a false brother or teacher 'God (or 'good') speed,' you imply that he is capable as such of good speed and joy, and that you wish him it while opposing Christ; so you identify yourself with 'his evil deeds.'",
+            "We cannot have communion with saints and with Antichrist at the same time.",
+            "Here we see John\u2019s naturally fiery zeal directed to a right end. Polycarp, the disciple of John, told contemporaries of Irenaeus, who narrates the story on their authority, that on one occasion when John was about to bathe, and heard that Cerinthus, the heretic, was within, he retired with abhorrence, exclaiming, Surely the house will fall in ruins since the enemy of the truth is there."
+        ],
+        "Albert Barnes": [
+            "For he that biddeth him God speed, is partaker of his evil deeds.\" ",
+            "Shows that he countenances and approves of the doctrine which is taught.",
+            "Compare the notes at 1 Timothy 5:22."
+        ],
+        "Marvin Vincent": [
+            "Is partaker [\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b5\u03b9] . The verb occurs nowhere else in John's writings.",
+            "The fact that the plant is no longer found is significant in connection with Isaiah's prophecy that 'the flags (Hebrews suph, papyrus) shall waste away' (Isaiah 19:6).",
+            "Colored inks, red and gold, were also employed."
+        ],
+        "Archibald T. Robertson": [
+            "Partaketh in his evil works.\" (\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b5 \u03c4\u03bf\u03b9\u03c2 \u03b5\u03c1\u03b3\u03bf\u03b9\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5 \u03c4\u03bf\u03b9\u03c2 \u03c0\u03bf\u03bd\u03b7\u03c1\u03bf\u03b9\u03c2). ",
+            "It is to be borne in mind that the churches often met in private homes.",
+            "There was no way of escaping responsibility for the harm wrought by these propagandists of evil."
+        ],
+        "John Gill": [
+            "For he that biddeth him God speed...is partaker of his evil deeds.\" ",
+            "Wishes him well...is an abettor of him in his principles.",
+            "He has fellowship with him...gives too much reason to think he is one with him in them."
+        ],
+        "John Wesley": [
+            "For he that biddeth him God speed \u2014 That gives him any encouragement, is accessory to his evil deeds."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To wish someone God speed is not a harmless gesture, but rather an endorsement of their beliefs and actions, according to the first-tier commentary. By doing so, we associate ourselves with their wrongdoings and become complicit in furthering their success. Consequently, we cannot simultaneously partake in the fellowship of the saints and of those who oppose Christ. This verse compels us to be discerning and cautious in our associations, as even extending a simple greeting can have significant implications. It is a reminder that our interactions should align with Christ's teachings and uphold the truth, rather than supporting those who seek to undermine it.",
+            "wordCount": 106,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.470089769478442,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.22,
+            "commentatorTierSimilarities": [
+                31.55,
+                31.55,
+                36.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To endorse someone by wishing them God speed implies that we align ourselves with their actions and beliefs, as mentioned in the first-tier commentary. This connection to their wrongdoing compromises our own integrity and supports their success. True fellowship with the saints cannot coexist with association with those opposed to Christ. Thus, we must be discerning and cautious in our interactions, ensuring they align with Christ's teachings and uphold the truth, rather than endorsing those who seek to undermine it.",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.4602035707632197,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.89,
+            "commentatorTierSimilarities": [
+                32.9,
+                32.5,
+                34.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To wish someone God speed is to associate ourselves with their actions and beliefs, according to the first-tier commentary. By doing so, we become complicit in their wrongdoing and support their success. This verse warns us against aligning ourselves with those who oppose Christ, urging us to exercise discernment in our associations. Instead of endorsing those who undermine the truth, we should uphold Christ's teachings and maintain fellowship with the saints. Our interactions should reflect our commitment to the truth and our refusal to partake in evil deeds.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.5240972748638222,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.02,
+            "commentatorTierSimilarities": [
+                27.53,
+                32.59,
+                39.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To wish someone God speed is not a harmless gesture, but rather an endorsement of their beliefs and actions, according to the first-tier insight. By doing so, we become complicit in advancing their evil deeds. Consequently, we cannot simultaneously have fellowship with the saints and with those who oppose Christ. This verse calls us to be discerning in our associations, ensuring they align with Christ's teachings and uphold the truth. It reminds us to be cautious in our interactions, lest we unknowingly support those who seek to undermine the truth.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.5901925331276132,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.22,
+            "commentatorTierSimilarities": [
+                29.55,
+                30.97,
+                39.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To endorse someone by wishing them God speed is to become complicit in their evil deeds and support their success, as stated in the first-tier commentary. It is a way of identifying ourselves with their actions and beliefs, contrary to Christ's teachings. Bearing this in mind, we should exercise discernment in our associations, refraining from aligning ourselves with those who oppose the truth. Instead, we must uphold the integrity of our faith and maintain fellowship with those who uphold Christ's teachings.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6184869310901244,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.16,
+            "commentatorTierSimilarities": [
+                29.61,
+                31.29,
+                39.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

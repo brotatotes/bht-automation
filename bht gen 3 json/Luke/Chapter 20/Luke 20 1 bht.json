@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:22:03",
+    "verseRef": "Luke 20:1",
+    "bestBHT": {
+        "bht": "On one of the days, specifically the last day of Jesus' temple teaching in Jerusalem, the leaders, consisting of both Sadducees and Pharisees, came together to attack Him. This delegation from the Sanhedrin approached Jesus with great warmth and vehemency, open mouthed against Him, seeking to challenge and confront Him. However, Jesus fearlessly taught them, preaching clearly and faithfully, fully anointed and qualified for the task at hand. It was in this context that the confrontation between Jesus and the religious leaders began to unfold.",
+        "wordCount": 85,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.4892375253233128,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+        "commentatorTierSimilarities": [
+            44.56,
+            0.0,
+            55.44
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "1.] the days, viz. of this His being in Jerusalem."
+        ],
+        "Archibald T. Robertson": [
+            "On one of the days (\u03b5\u03bd \u03bc\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b7\u03bc\u03b5\u03c1\u03c9\u03bd). Luke's favourite way of indicating time.",
+            "It was the last day of the temple teaching (Tuesday).",
+            "These leaders (cf. Luke 19:47) had determined to attack Jesus on this morning, both Sadducees (chief priests) and Pharisees (scribes), a formal delegation from the Sanhedrin."
+        ],
+        "John Gill": [
+            "He taught them by preaching that, and which he did most clearly, faithfully, and publicly, being abundantly anointed and qualified for it, and sent to do it.",
+            "The whole sanhedrim being purposely convened together, came upon him in a body; and it may be suddenly, and at an unawares, and came open mouthed against him.",
+            "They attacked him with great warmth and vehemency."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On one of the days, specifically the last day of Jesus' temple teaching in Jerusalem, the leaders, consisting of both Sadducees and Pharisees, came together to attack Him. This delegation from the Sanhedrin approached Jesus with great warmth and vehemency, open mouthed against Him, seeking to challenge and confront Him. However, Jesus fearlessly taught them, preaching clearly and faithfully, fully anointed and qualified for the task at hand. It was in this context that the confrontation between Jesus and the religious leaders began to unfold.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4892375253233128,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                44.56,
+                0.0,
+                55.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On one of the days, namely the last day of Jesus' temple teaching in Jerusalem, the leaders, including both Sadducees and Pharisees, gathered together to attack Him. This delegation from the Sanhedrin approached Jesus with great warmth and fervor, open mouthed against Him, seeking to challenge and confront Him. However, Jesus fearlessly taught them, preaching clearly and faithfully, fully anointed and qualified for the task at hand. It was in this context that the confrontation between Jesus and the religious leaders began to unfold.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.4856544667783893,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                44.8,
+                0.0,
+                55.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On one of the days, particularly the last day of Jesus' temple teaching in Jerusalem, the leaders, consisting of both Sadducees and Pharisees, assembled to confront Him. This delegation from the Sanhedrin approached Jesus with great warmth and fervency, open mouthed against Him, seeking to challenge and oppose His teachings. Nevertheless, Jesus fearlessly taught them, preaching with clarity and faithfulness, fully anointed and authorized by His divine calling. This marked the beginning of the intense confrontation between Jesus and the religious authorities.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.3994864712681612,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.88,
+            "commentatorTierSimilarities": [
+                47.02,
+                0.0,
+                52.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On one of the days, during Jesus' temple teaching, the leaders, including Sadducees and Pharisees, came together to challenge Him. This delegation from the Sanhedrin approached Jesus with fervent opposition, seeking to confront His teachings. Fearlessly, Jesus faithfully preached, fully anointed and qualified for this divine task. The intense confrontation between Jesus and the religious authorities began in this context, as Jesus fearlessly confronted their challenge and stood firmly in His teachings.",
+            "wordCount": 72,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.392437276761738,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.64,
+            "commentatorTierSimilarities": [
+                51.24,
+                0.0,
+                48.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On one of the days, specifically the last day of Jesus' temple teaching in Jerusalem, the leaders, consisting of both Sadducees and Pharisees, came together to attack Him. This delegation from the Sanhedrin approached Jesus with great warmth and vehemency, open mouthed against Him, seeking to challenge and confront Him. However, Jesus fearlessly taught them, preaching clearly and faithfully, fully anointed and qualified for the task at hand. It was in this context that the confrontation between Jesus and the religious leaders began to unfold.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.4892375253233128,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                44.56,
+                0.0,
+                55.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

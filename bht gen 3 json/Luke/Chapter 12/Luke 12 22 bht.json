@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 16:18:48",
+    "verseRef": "Luke 12:22",
+    "bestBHT": {
+        "bht": "The disciples are reminded not to be burdened by worries, specifically about their livelihoods, which aligns with the teachings of Matthew 6:25. Jesus, as a popular preacher, would reiterate his favorite sayings to emphasize their significance. Trusting in God's care and provision is encouraged, allowing us to cast our cares upon Him. Recognizing the value of life and our responsibility to preserve it, we can find peace and security by relying on the Lord, who compassionately provides for all our needs.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 1.460813826080059,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+        "commentatorTierSimilarities": [
+            40.1,
+            0.0,
+            59.9
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22-31. (See on :-)."
+        ],
+        "Marvin Vincent": [
+            "Take no thought. See on Matthew 6:25."
+        ],
+        "Archibald T. Robertson": [
+            "The parable of the rich fool was spoken to the crowd, but this exhortation to freedom from care (Luke 12:22-31) is to the disciples.",
+            "Jesus would naturally repeat his favourite sayings like other popular preachers and teachers.",
+            "So verse Luke 12:23 here is the same in Matthew 6:25 except that there it is a question with \u03bf\u03c5\u03c7 expecting the affirmative answer, whereas here it is given as a reason (\u03b3\u03b1\u03c1, for) for the preceding command."
+        ],
+        "John Gill": [
+            "Life is very near and dear to man; all that a man has, he will give for it; and it is his duty to be careful to preserve it, and to make use of means for the support of it.",
+            "He should not distress himself for fear of wanting bread, nor distrust the promises of God, and a supply from him; but should cast all his care upon the Lord, who daily cares for him.",
+            "Persons should not be difficult and over nice about what they wear, nor be distressed, fearing they should be clothed with rags; but should trust in the Lord, who gives food and raiment, and all things richly to enjoy."
+        ],
+        "John Wesley": [
+            "Matthew 6:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be anxious about your life, what you will eat or what you will wear. This exhortation to freedom from care is directed at the disciples and emphasizes the importance of trusting in God's provision. Jesus repeats his teachings to reinforce their significance. Life is precious and it is our duty to preserve it, but we should not distress ourselves over mundane concerns. Instead, we should cast our cares upon the Lord, who faithfully provides for our needs. Trust in God's provision and do not be consumed by worry, for He daily cares for us.",
+            "wordCount": 98,
+            "quoteTokenProportion": 47.14,
+            "qualityScore": 1.1868679686786394,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.81,
+            "commentatorTierSimilarities": [
+                30.9,
+                0.0,
+                69.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples are urged to not be anxious about their basic needs, echoing the teachings given in Matthew 6:25. Jesus, like other preachers, often repeated key messages to emphasize their importance. Life is valuable, and it is our responsibility to care for it. However, we should not worry excessively about food or clothing. Instead, we are encouraged to trust in God's provision, casting our cares upon Him. By relying on the Lord, who abundantly supplies all things, we can find peace and contentment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.2170805020798825,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.81,
+            "commentatorTierSimilarities": [
+                35.29,
+                0.0,
+                64.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 12:22, the disciples are reminded not to be burdened by worries about their livelihoods, echoing the teachings in Matthew 6:25. Jesus, like other popular teachers, would repeat his favorite sayings. We are encouraged to trust in God's care and provision, casting our cares upon Him. Life is valuable, and it is our duty to preserve it. By relying on the Lord, who compassionately provides for all our needs, we can find peace and security, free from needless anxiety.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.3297767348469514,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.56,
+            "commentatorTierSimilarities": [
+                38.92,
+                0.0,
+                61.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples are reminded not to be burdened by worries, specifically about their livelihoods, which aligns with the teachings of Matthew 6:25. Jesus, as a popular preacher, would reiterate his favorite sayings to emphasize their significance. Trusting in God's care and provision is encouraged, allowing us to cast our cares upon Him. Recognizing the value of life and our responsibility to preserve it, we can find peace and security by relying on the Lord, who compassionately provides for all our needs.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.460813826080059,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                40.1,
+                0.0,
+                59.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Disciples are reminded not to worry about their livelihoods, reflecting the teachings found in Matthew 6:25. Jesus, like other popular teachers, often repeated his favored sayings to emphasize their importance. Trusting in God's care and provision is encouraged, enabling us to cast our concerns upon Him. Recognizing the value of life and our responsibility to preserve it, we can find peace and security by relying on the Lord, who graciously provides for all our needs.",
+            "wordCount": 75,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.3974391455445936,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.81,
+            "commentatorTierSimilarities": [
+                39.9,
+                0.0,
+                60.1
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

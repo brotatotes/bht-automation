@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 16:36:33",
+    "verseRef": "Acts 25:13",
+    "bestBHT": {
+        "bht": "King Agrippa II, the son of Herod the Great, was not well-regarded by the Romans, despite his titles. His sister Bernice, known for her beauty and scandalous history, had been married multiple times, including to her own uncle. King Agrippa II demonstrated nobility and integrity during the turbulent times leading to the downfall of the Jewish nationality. Bernice's presence with him in the judgment hall adds intrigue to their relationship, as notable events unfold during their arrival in Caesarea.",
+        "wordCount": 81,
+        "quoteTokenProportion": 32.79,
+        "qualityScore": 2.0222286749383267,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+        "commentatorTierSimilarities": [
+            30.9,
+            36.03,
+            33.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "HEROD AGRIPPA II., son of the Herod of ch. xii. (see note on ver. 1 there), was at Rome... and was not much esteemed by them.\" ",
+            "Bern\u00edc\u00e9] \u2018The Macedonian form (Berenic\u00e9 or Beronic\u00e9) for Pherenic\u00e9.",
+            "She was afterwards the mistress of Vespasian, and of Titus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "King Agrippa\u2014great-grandson",
+            "of Herod the Great, and Drusilla's brother...",
+            "On his father's awful death, being thought too young...he was made king...and afterwards got Batanea, Iturea, Trachonitis, Abilene, Galilee, and Perea, with the title of king.",
+            "She was married to her uncle Herod...on whose death she lived with her brother Agrippa\u2014not without suspicion of incestuous intercourse, which her subsequent licentious life tended to confirm."
+        ],
+        "Albert Barnes": [
+            "Agrippa had been brought up at Rome, and was strongly attached to the Romans.",
+            "After the captivity of that city he went to Rome with his sister Bernice, where he ended his days.",
+            "Josephus directly charges her with incest with her brother Agrippa."
+        ],
+        "Marvin Vincent": [
+            "A most notable diamond, made more precious by having been worn on the finger of Bernice.\" ",
+            "This a barbarian king once gave to his incestuous love.\" ",
+            "This Agrippa gave to his sister."
+        ],
+        "John Calvin": [
+            "that though the handling of the cause were broken off, yet were Paul\u2019s bands famous; and that he was nevertheless brought out of prison, that he might make profession of his faith, and dispute touching the gospel before a famous auditory",
+            "he had more liberty to preach the gospel being in prison, than if he had lived free in a private house",
+            "they dwelt together, not regarding what men did say; yet did they abstain from marriage, lest their incestuous marriage should betray and also augment their crime"
+        ],
+        "Philip Schaff": [
+            "Justice has hardly been done to this \u2018last of the Herods.\u2019 He had a difficult part to play in the stormy times which preceded the great catastrophe.",
+            "But all through the bloody, terrible war which ended in the total collapse and ruin of the Jewish nationality, King Agrippa seems to have acted well and nobly.",
+            "Famous for her great beauty, and apparently her commanding talents, her history, even in that dissolute and wicked age, reads, to use the graphic words of Professor Plumptre, \u2018like a terrible romance or a page from the chronicles of the Borgias.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "Agrippa II... was the last Jewish king in Palestine, though not king of Judea.",
+            "Bernice... she lived with him in shameful intimacy in spite of her marriage to her uncle Herod King of Chalcis and to Polemon King of Cilicia whom she left.",
+            "The salutation synchronized with the arrival in Caesarea, not with the departure from Jerusalem, nor with the whole journey."
+        ],
+        "John Gill": [
+            "Agrippa, though he was a Jew, his name was a Roman name; Augustus Caesar had a relation of this name, who had a son of the same name, and a daughter called Agrippina.",
+            "Bernice, who is said to be with King Agrippa, is not the name of a man, as some have supposed, because said to sit in the judgment hall with the king, but of a woman.",
+            "Bernice was first married to her uncle Herod, king of Chalcis, and after his death to Polemon, king of Cilicia, from whom she separated, and lived in too great familiarity with her brother Agrippa, as she had done before her second marriage."
+        ],
+        "John Wesley": [
+            "Agrippa \u2014 The son of Herod Agrippa, Acts 12:1; and Bernice - His sister, with whom he lived in a scandalous familiarity.",
+            "This was the person whom Titus Vespasian so passionately loved.",
+            "He would have made her empress, had not the clamours of the Romans prevented it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "King Agrippa II, the son of the Herod mentioned in a previous chapter, was not highly esteemed by the Romans, despite his power and titles. His sister Bernice, known for her beauty and scandalous history, had been married multiple times, including to her own uncle. King Agrippa II played a significant role during the tumultuous times leading up to the downfall of the Jewish nationality, demonstrating nobility and integrity. Bernice's presence with him in the judgment hall adds a sense of intrigue to their relationship. The arrival in Caesarea marks the timing of their encounter, where notable events unfold.",
+            "wordCount": 100,
+            "quoteTokenProportion": 28.77,
+            "qualityScore": 1.8288463090010505,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                31.04,
+                36.86,
+                32.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "King Agrippa II, the son of Herod the Great, was not well-regarded by the Romans, despite his titles. His sister Bernice, known for her beauty and scandalous history, had been married multiple times, including to her own uncle. King Agrippa II demonstrated nobility and integrity during the turbulent times leading to the downfall of the Jewish nationality. Bernice's presence with him in the judgment hall adds intrigue to their relationship, as notable events unfold during their arrival in Caesarea.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.0222286749383267,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.58,
+            "commentatorTierSimilarities": [
+                30.9,
+                36.03,
+                33.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "King Agrippa II, the great-grandson of Herod the Great, was not highly esteemed by the Romans. His sister Bernice, known for her beauty and scandalous history, had been involved in incestuous relationships. Despite their controversial past, King Agrippa II acted nobly during the turbulent times leading up to the collapse of the Jewish nationality. Their presence together in Caesarea resulted in significant events taking place.",
+            "wordCount": 66,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.8855218622207675,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.04,
+            "commentatorTierSimilarities": [
+                30.0,
+                38.99,
+                31.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "King Agrippa II, the son of Herod the Great, was not highly esteemed by the Romans, but held titles and power. His sister Bernice, known for her scandalous history, had been married to her uncle and had an incestuous relationship with her brother Agrippa. King Agrippa II played a notable role during the tumultuous period leading to the decline of Jewish nationality. Their presence together in Caesarea during their arrival marked the timing of significant events unfolding.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.927805578361002,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.44,
+            "commentatorTierSimilarities": [
+                32.07,
+                36.11,
+                31.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "King Agrippa II, the son of the Herod mentioned in a previous chapter, was not highly esteemed by the Romans. His sister Bernice, known for her beauty and scandalous history, had been married multiple times, including to her own uncle. King Agrippa II played a significant role during the tumultuous times leading up to the downfall of the Jewish nationality, demonstrating nobility and integrity. Bernice's presence with him in the judgment hall adds a sense of intrigue to their relationship. The arrival in Caesarea marks the timing of their encounter, where notable events unfold.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8228569316457128,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.95,
+            "commentatorTierSimilarities": [
+                31.37,
+                36.41,
+                32.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

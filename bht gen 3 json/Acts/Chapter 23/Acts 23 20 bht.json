@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:35:30",
+    "verseRef": "Acts 23:20",
+    "bestBHT": {
+        "bht": "Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.",
+        "wordCount": 100,
+        "quoteTokenProportion": 39.73,
+        "qualityScore": 1.3987160327219887,
+        "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+        "commentatorTierSimilarities": [
+            42.49,
+            37.31,
+            20.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Paul's sister's son...may have got at the schools those hints of the conspiracy on which he so promptly acted.",
+            "If he was at this time residing at Jerusalem for his education, like Paul himself.",
+            "He may have got at the schools those hints of the conspiracy on which he so promptly acted."
+        ],
+        "Albert Barnes": [
+            "In what way this young man had received intelligence of this, we can only conjecture.",
+            "It is not improbable that he was a student under some one of the Jewish teachers, and that he might have learned it of him.",
+            "It is not at all probable that the purpose of the 40 men would be very closely kept."
+        ],
+        "Archibald T. Robertson": [
+            "The conspirators may have belonged to the Zealots, but clearly they represented the state of Jewish feeling toward Paul in Jerusalem.",
+            "The singular is used by the youth out of deference to the authority of Lysias and so modifies a bit the scheming of the conspirators, not 'absurd' as Page holds.",
+            "Already this form in Luke 22:5 which see. See also John 9:22; Acts 24:9."
+        ],
+        "John Gill": [
+            "The Jews have agreed to desire thee.\" ",
+            "By the Jews are meant, the Jewish sanhedrim, for the young man had not only intelligence of the conspiracy, and lying in wait of the forty men or more.",
+            "This young man might be a student under the president of the council, or one of the doctors, whereby he came at the knowledge of these things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A possible response:\n\nPaul's sister's son, who may have been educated in Jerusalem, could have learned about the conspiracy against Paul through his connections in the schools. The conspirators, possibly representing the prevailing Jewish sentiment towards Paul, may have belonged to the Zealots. The use of the singular form by the young man shows deference to the authority of Lysias and suggests that the conspirators' plans were not entirely absurd. It is unclear exactly how the young man received this information, but it is possible that he learned it from a teacher or mentor. The fact that he had knowledge of the plot indicates that it was not a closely guarded secret among the forty men.",
+            "wordCount": 118,
+            "quoteTokenProportion": 40.51,
+            "qualityScore": 1.5830603080918548,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                39.04,
+                37.83,
+                23.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's nephew, who may have been studying in Jerusalem, obtained inside information about the conspiracy against his uncle. It is suggested that the conspirators might have belonged to the Zealots, reflecting the prevailing sentiment against Paul in Jerusalem. By using the singular form, the nephew displays deference to Lysias' authority and implies that the conspirators' plans were not entirely baseless. Though the exact source of the young man's intelligence remains uncertain, it is likely that he learned it from a mentor or teacher. This knowledge indicates that the plot was not as closely guarded as one might assume.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 1.3987160327219887,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.85,
+            "commentatorTierSimilarities": [
+                42.49,
+                37.31,
+                20.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's nephew, possibly educated in Jerusalem like his uncle, might have received information about the conspiracy targeting Paul during his time at school. This suggests a reflection of the prevailing Jewish sentiment against Paul in Jerusalem. The nephew's use of the singular form demonstrates deference to Lysias' authority and slightly modifies the plans of the conspirators. While the specific means by which the young man gained this knowledge remains uncertain, it is plausible that it was through his association with a Jewish teacher or leader. The fact that he was aware of the plot suggests that it was not closely guarded by the forty men involved.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.4985858691033311,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.17,
+            "commentatorTierSimilarities": [
+                41.32,
+                31.34,
+                27.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's nephew, equipped with knowledge of the conspiracy against his uncle, may have received this information while studying in Jerusalem. The conspirators, possibly linked to the Zealots, represented the prevailing Jewish sentiment towards Paul in Jerusalem. By using the singular form, the nephew showed deference to Lysias' authority, which influenced the conspirators' plans. The exact means by which the young man obtained this information is unknown, but it is plausible that he gained it through his association with a Jewish teacher or leader. The fact that he had access to this plot implies that it was not closely guarded amongst the group of forty men.",
+            "wordCount": 106,
+            "quoteTokenProportion": 37.84,
+            "qualityScore": 1.5015543443514723,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                39.98,
+                30.96,
+                29.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Possessing inside information about the conspiracy against Paul, his nephew, who may have received an education in Jerusalem, reveals the prevailing Jewish sentiment towards his uncle in the city. The conspirators, possibly affiliated with the Zealots, represent the anger and opposition Paul faced. The use of the singular form by the young man demonstrates his deference to Lysias, which modifies the plans of the conspirators. While it remains uncertain how the nephew obtained this knowledge, it is plausible he learned it from a teacher or mentor. The fact that he was aware of the plot suggests it was not closely guarded.",
+            "wordCount": 101,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 1.3583542402719673,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "commentatorTierSimilarities": [
+                44.88,
+                32.4,
+                22.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

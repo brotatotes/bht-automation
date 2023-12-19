@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:27:16",
+    "verseRef": "Acts 7:16",
+    "bestBHT": {
+        "bht": "Debate arises over Stephen's mention of Jacob among our fathers buried in Shechem. Some argue it was a mistake, while others suggest he possibly meant to refer only to the patriarchs without Jacob. Nonetheless, the bones of Joseph and the other patriarchs who died in Egypt were taken and buried in Shechem. Despite criticisms of Stephen's accuracy, the charges of errors appear unfounded.",
+        "wordCount": 65,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 1.5303217864704084,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+        "commentatorTierSimilarities": [
+            51.51,
+            0.0,
+            48.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The facts, as related in the Old Testament, were these: Jacob, dying in Egypt, was taken into the land of Canaan, and buried in the cave of Macpelah, before Mamre...",
+            "Joseph, dying also in Egypt, was taken in a coffin at the Exodus and finally buried at Shechem.",
+            "These traditions probably Stephen followed; and, in haste or inadvertence, classed Jacob with the rest."
+        ],
+        "John Calvin": [
+            "Some answer, that Moses speaketh of Joseph for honor\u2019s sake, because he had given express commandment concerning his bones.",
+            "I can affirm nothing concerning this matter for a certainty, save only that this is either a speech wherein is synecdoche, or else that Luke rehearseth this not so much out of Moses, as according to the old fame.",
+            "And whereas he saith afterward, they were laid in the sepulcher which Abraham had bought of the sons of Hemor, it is manifest that there is a fault [mistake] in the word Abraham."
+        ],
+        "Archibald T. Robertson": [
+            "Possibly only 'our fathers' without Jacob is the subject of 'were carried.'",
+            "If 'Jacob' is substituted for 'Abraham,' the matter is cleared up.",
+            "'In Shechem' is the true reading."
+        ],
+        "John Gill": [
+            "Joseph and the rest of the patriarchs, who died in Egypt, when the children of Israel came out from thence, they brought their bones along with them, and buried them in Sichem.",
+            "Since they buried the bones of Joseph in Sichem, it is most reasonable to believe that the rest were buried there likewise.",
+            "Upon the whole, the charge of several errors brought against Stephen appears to be groundless."
+        ],
+        "John Wesley": [
+            "This concise manner of speaking, strange as it seems to us, was common among the Hebrews; particularly, when in a case notoriously known, the speaker mentioned but part of the story, and left the rest, which would have interrupted the current of his discourse, to be supplied in the mind of the hearer.",
+            "The first land which these strangers bought was for a sepulchre. They sought for a country in heaven.",
+            "Perhaps the whole sentence might be rendered thus: So Jacob went down into Egypt and died, he and our fathers, and were carried over to Shechem, and laid by the sons (that is, descendants) of Hamor, the father of Shechem, in the sepulchre that Abraham bought for a sum of money."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 7:16, Stephen includes Jacob among our fathers who were carried over to Shechem and buried in the sepulchre that Abraham bought. However, the first-tier commentators suggest that this may have been a mistake on Stephen's part, as Jacob was actually buried in the cave of Macpelah. Another possibility is that Stephen only meant to refer to our fathers without including Jacob. Nevertheless, the presence of Jacob in this context can be reconciled by substituting Jacob for Abraham, which clarifies the matter. Regardless, it is clear that the bones of Joseph and the other patriarchs who died in Egypt were indeed taken and buried in Shechem. Overall, despite the criticisms of Stephen's accuracy, it seems that the charge of errors against him is unfounded.",
+            "wordCount": 127,
+            "quoteTokenProportion": 46.34,
+            "qualityScore": 1.674955594221358,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.03,
+            "commentatorTierSimilarities": [
+                53.8,
+                0.0,
+                46.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Acts 7:16, Stephen's inclusion of Jacob among our fathers who were buried in Shechem has sparked some discussion. Some say that Stephen mistakenly grouped Jacob with the others, but it is suggested that he may have intended to refer to the patriarchs without Jacob. However, the bones of Joseph and the other patriarchs who died in Egypt were indeed taken and buried in Shechem. Although some criticize Stephen's accuracy, the charge of errors against him seems baseless.",
+            "wordCount": 79,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 1.6172024193354855,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.11,
+            "commentatorTierSimilarities": [
+                52.59,
+                0.0,
+                47.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, there is some debate regarding Stephen's mention of Jacob alongside our fathers who were buried in Shechem. Some argue it was a mistake, while others suggest he possibly meant to refer to the patriarchs without including Jacob. Regardless, the bones of Joseph and the other patriarchs who died in Egypt were indeed taken and buried in Shechem. Despite the criticisms aimed at Stephen's accuracy, it appears that the accusations of errors against him are unfounded.",
+            "wordCount": 80,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.6246581772937154,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.36,
+            "commentatorTierSimilarities": [
+                49.63,
+                0.0,
+                50.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Debate arises over Stephen's mention of Jacob among our fathers buried in Shechem. Some argue it was a mistake, while others suggest he possibly meant to refer only to the patriarchs without Jacob. Nonetheless, the bones of Joseph and the other patriarchs who died in Egypt were taken and buried in Shechem. Despite criticisms of Stephen's accuracy, the charges of errors appear unfounded.",
+            "wordCount": 65,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 1.5303217864704084,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                51.51,
+                0.0,
+                48.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Stephen's mention of Jacob among our fathers buried in Shechem has raised some controversy. There are different interpretations regarding this inclusion. Some argue that it was a mistake on Stephen's part and that he possibly meant to refer to the patriarchs without Jacob. Yet, it is undeniable that the bones of Joseph and the other patriarchs who died in Egypt were indeed transported and laid to rest in Shechem. Despite the criticisms directed at Stephen's accuracy, it seems that the allegations of errors against him lack foundation.",
+            "wordCount": 90,
+            "quoteTokenProportion": 47.69,
+            "qualityScore": 1.3998894661831518,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.89,
+            "commentatorTierSimilarities": [
+                50.59,
+                0.0,
+                49.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

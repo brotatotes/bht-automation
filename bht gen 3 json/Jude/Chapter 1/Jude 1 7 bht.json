@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 17:15:39",
+    "verseRef": "Jude 7",
+    "bestBHT": {
+        "bht": "The sin of Sodom and Gomorrah, specifically their departure from the natural order of sexuality, serves as a warning against immorality. The punishment they faced, the eternal fire that consumed their cities, is a type of the future punishment that awaits the ungodly. This severity of suffering shows the intensity of God's judgement. The destruction of these cities serves as a monument of God's vengeance and serves as an example for all to fear the consequences of such wickedness.",
+        "wordCount": 81,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 2.063868582195675,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+        "commentatorTierSimilarities": [
+            23.96,
+            39.48,
+            36.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sin of Sodom was afterwards common in the most enlightened nations of antiquity.",
+            "But in all probability Sodom and Gomorrah must be numbered among those whose sin went further even than this.",
+            "Undergoing the punishment, as even now be seen, of eternal fire: of that fire which shall never be quenched."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "following fornication extraordinarily,",
+            "\tthat is, out",
+            "\tof the",
+            "\torder of nature.",
+            "departing from the course of nature, and going after that which is unnatural.",
+            "The lasting marks of the fire that consumed the cities irreparably, is a type of the eternal fire to which the inhabitants have been consigned."
+        ],
+        "Albert Barnes": [
+            "The cities of Sodom and Gomorrah furnishes a warning against all such conduct, and a demonstration that punishment shall come upon the ungodly.",
+            "The word 'strange' or 'other,' refers to that which is contrary to nature.",
+            "The phrase 'eternal fire' is one that is often used to denote future punishment - as expressing the severity and intensity of the suffering."
+        ],
+        "Marvin Vincent": [
+            "The force of ejk is out and out; giving themselves up utterly.",
+            "Turning away from purity, and going after strange flesh.",
+            "Those cities are most truly an example of eternal fire."
+        ],
+        "John Calvin": [
+            "And Jude also mentions in what follows, that the fire through which the five cities perished was a type of the eternal fire.",
+            "Then God at that time exhibited a remarkable example, in order to keep men in fear till the end of the world.",
+            "We ought to observe, that he devotes them to eternal fire; for we hence learn, that the dreadful spectacle which Moses describes, was only an image of a much heavier punishment."
+        ],
+        "Archibald T. Robertson": [
+            "Like the fallen angels.",
+            "Horrible licentiousness, not simply with women not their wives or in other nations, but even unnatural uses.",
+            "Suffering sentence (punishment) of eternal fire."
+        ],
+        "John Gill": [
+            "Their sin was alike; which sin is a work of the flesh, contrary to the law of God, is against the body, and attended with many evils.",
+            "Men; and designs that detestable and unnatural sin, which, from these people, is called sodomy to this day.",
+            "Their punishment follows, are set forth for an example; being destroyed by fire from heaven, and their cities turned into a sulphurous lake, which continues to this day, as a monument of God's vengeance."
+        ],
+        "John Wesley": [
+            "The cities which gave themselves over to fornication \u2014 The word here means, unnatural lusts.",
+            "Are set forth as an example, suffering the vengeance of eternal fire.",
+            "That is, the vengeance which they suffered is an example or a type of eternal fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sin of Sodom and Gomorrah, which included departing from the natural order of sexuality, serves as a warning against all forms of immorality. The punishment they faced, the eternal fire that consumed their cities and left lasting marks, is a type of the eternal fire that awaits the ungodly. This serves as a demonstration of the severity and intensity of future punishment. Jude mentions how their sin is like that of the fallen angels, exhibiting a detestable and unnatural act that goes against God's law. The destruction of these cities by fire from heaven serves as a lasting monument of God's vengeance and a reminder to all to fear the consequences of such wickedness.",
+            "wordCount": 117,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 2.0362487473658457,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.05,
+            "commentatorTierSimilarities": [
+                23.98,
+                39.65,
+                36.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sin of Sodom, an example of going after strange flesh, was a departure from the course of nature. The punishment they experienced, the eternal fire that consumed their cities, serves as a type of the eternal fire of God's judgement. This serves as a warning against all forms of immorality, as the severity and intensity of their suffering demonstrate the consequences of ungodliness. Their destruction remains a lasting monument of God's vengeance and a reminder of the punishment that awaits the wicked.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 2.041617586467397,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                25.02,
+                37.95,
+                37.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sin of Sodom and Gomorrah, specifically their departure from the natural order of sexuality, serves as a warning against immorality. The punishment they faced, the eternal fire that consumed their cities, is a type of the future punishment that awaits the ungodly. This severity of suffering shows the intensity of God's judgement. The destruction of these cities serves as a monument of God's vengeance and serves as an example for all to fear the consequences of such wickedness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.063868582195675,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                23.96,
+                39.48,
+                36.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sin of Sodom and Gomorrah, characterized by its departure from the natural order of sexuality, serves as a strong warning against immorality. Their punishment, the eternal fire that consumed their cities, illustrates the severity and intensity of God's judgement. This serves as a lasting reminder of the consequences that await the ungodly. The destruction of these cities stands as a solemn monument of God's vengeance and should instill fear in the hearts of all who consider the consequences of such wickedness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0020438802247273,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                24.98,
+                38.82,
+                36.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sin of Sodom and Gomorrah, departing from the natural order and engaging in unnatural acts, serves as a warning against immorality. Their punishment, the eternal fire that consumed their cities, is a type of the future punishment for the ungodly. This severity of suffering reflects the intensity of God's judgement. The destruction of these cities remains a lasting monument of God's vengeance and serves as an example to fear the consequences of such wickedness.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.0274728145186534,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.75,
+            "commentatorTierSimilarities": [
+                24.1,
+                39.9,
+                36.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

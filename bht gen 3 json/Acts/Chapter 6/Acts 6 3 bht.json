@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:27:07",
+    "verseRef": "Acts 6:3",
+    "bestBHT": {
+        "bht": "In selecting the seven to be appointed, it was crucial to consider their duty of superintending the distribution beyond ministering to Hellenistic Jews. These appointed individuals were required to exhibit a good reputation, be full of the Holy Spirit and wisdom. They held a position of higher importance than later deacons, a unique position peculiar to themselves. The apostles followed the certain choice made by the church. It would have been beneficial if ministers in every era acted in harmony with their congregations as the apostles did on this and other occasions.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 1.767165073910097,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+        "commentatorTierSimilarities": [
+            20.22,
+            44.08,
+            35.7
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The duty (see above) was, not that of ministering to the Hellenistic Jews only, but that of superintending the whole distribution.",
+            "The similarity to Gen. xli. 33 may be noticed, and seems to shew that the look ye out of the A.V. is the right rendering.",
+            "Why seven were to be chosen, let him say, who has boldness to make the guess."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "look ye out among you\u2014that is, ye, 'the multitude,' from among yourselves.",
+            "full of the Holy Ghost\u2014not full of miraculous gifts, which would have been no qualification for the duties required, but spiritually gifted.",
+            "and wisdom\u2014discretion, aptitude for practical business."
+        ],
+        "Albert Barnes": [
+            "It follows from this, also, that the right of selecting 'deacons' resides 'in' the church, and does not pertain to the ministry.",
+            "These qualifications are indispensable to a faithful discharge of the duty entrusted to the officers of the church.",
+            "The deacons were expressly set apart to a different work, and to that work they should be confined."
+        ],
+        "Marvin Vincent": [
+            "Of good report [\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03bf\u03c5\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2] . Lit., attested, having witness born them."
+        ],
+        "John Calvin": [
+            "Surely we need no disputation to prove that they agree in no point with the apostles.",
+            "The apostles prescribe what manner [of] persons ought to be chosen, to wit, men of tried honesty and credit, men endued with wisdom and other gifts of the Spirit.",
+            "That function is not only painful, but also subject to many ungodly murmurings."
+        ],
+        "Philip Schaff": [
+            "The requirements to be possessed by the seven show what an important office the apostles deemed this subordinate ministry; they must not only be men of high honour, of acknowledged integrity of character, but they must be full of the Spirit, that is, distinguished for their enthusiasm in the cause, burning with holy zeal, and to their zeal they must add wisdom.",
+            "It is a noticeable fact how in these early days those unlettered men whom the Lord in His wisdom had chosen, were guided, when His Church had become a power, in their first solemn choice of assistants, to look for men not only of stainless character and of burning zeal, but for those who, besides being good and earnest, possessed a reputation for knowledge and wisdom.",
+            "To assert that these seven in any way occupied the position which ecclesiastical order, even so early as in the lifetime of St. Paul, has assigned to deacons, would be utterly to misstate the whole spirit of the story of the early Church. The seven occupied a place of far higher importance than that held by the deacons of after years, a position, in fact, as Chrysostom says, peculiar to themselves."
+        ],
+        "Archibald T. Robertson": [
+            "Men with a good reputation as well as with spiritual gifts.",
+            "The action of the apostles follows the choice by the church, but it is promised as a certainty, not as a possibility.",
+            "We shall appoint."
+        ],
+        "John Gill": [
+            "Such officers are to be chosen as the church requires.",
+            "This sort of officers should be men 'of honest report'; that have a good testimony both from within the church and without.",
+            "Wisdom is highly requisite in them, that they may be good economists of the church's stock, and dispose of it in the most prudent manner."
+        ],
+        "John Wesley": [
+            "Of good report \u2014 That there may be no room to suspect them of partiality or injustice.",
+            "Full of the Holy Ghost and wisdom \u2014 For it is not a light matter to dispense even the temporal goods of the Church.",
+            "Whom we will set over this business \u2014 It would have been happy for the Church, had its ordinary ministers in every age taken the same care to act in concert with the people committed to their charge, which the apostles themselves, extraordinary as their office was, did on this and other occasions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In choosing the seven to be appointed, it was not just the duty of ministering to the Hellenistic Jews that was considered, but the superintending of the whole distribution. The selected individuals needed to have a good reputation and be full of the Holy Spirit and wisdom. Men with a good reputation as well as with spiritual gifts were desired. The apostles followed the choice made by the church, but it was promised as a certainty. The seven occupied a position of far higher importance than that held by the deacons of later years, a position peculiar to themselves. It would have been beneficial if ordinary ministers in every age took the same care to act in concert with the people committed to their charge, as the apostles did.",
+            "wordCount": 129,
+            "quoteTokenProportion": 38.75,
+            "qualityScore": 1.7967625326591543,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.08,
+            "commentatorTierSimilarities": [
+                24.38,
+                41.05,
+                34.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When choosing the seven to be appointed, the duty extended beyond ministering to Hellenistic Jews, encompassing the overseeing of the entire distribution. Those chosen needed not only a good reputation but also to be full of the Holy Spirit and wisdom. It was important to select men with a good reputation and spiritual gifts. The apostles followed the church's choice with certainty. The position held by the seven was of higher importance than that of later deacons. It would have been beneficial if ministers in every age acted in concert with their congregations like the apostles did.",
+            "wordCount": 98,
+            "quoteTokenProportion": 39.44,
+            "qualityScore": 1.7560772484837504,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.73,
+            "commentatorTierSimilarities": [
+                23.92,
+                40.65,
+                35.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In appointing the seven, the duty went beyond ministering to Hellenistic Jews and included supervising the entire distribution. The chosen individuals needed a good reputation, full of the Holy Spirit and wisdom. The apostles followed the church's choice with certainty. The seven had a position of higher importance than later deacons, unique to themselves. It would be beneficial for ministers to act in concert with their congregations as the apostles did.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7430452763458613,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                23.48,
+                41.89,
+                34.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In selecting the seven to be appointed, it was crucial to consider their duty of superintending the distribution beyond ministering to Hellenistic Jews. These appointed individuals were required to exhibit a good reputation, be full of the Holy Spirit and wisdom. They held a position of higher importance than later deacons, a unique position peculiar to themselves. The apostles followed the certain choice made by the church. It would have been beneficial if ministers in every era acted in harmony with their congregations as the apostles did on this and other occasions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.767165073910097,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.1,
+            "commentatorTierSimilarities": [
+                20.22,
+                44.08,
+                35.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In appointing the seven, it was important to consider their duty of superintending the distribution. They needed to have a good reputation, be full of the Holy Spirit and wisdom. The apostles followed the certain choice made by the church. The seven held a position of higher importance than later deacons, unique to themselves. It would have been beneficial if ministers in every age acted in harmony with their congregations as the apostles did.",
+            "wordCount": 74,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.6977113474019365,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.79,
+            "commentatorTierSimilarities": [
+                22.66,
+                42.98,
+                34.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

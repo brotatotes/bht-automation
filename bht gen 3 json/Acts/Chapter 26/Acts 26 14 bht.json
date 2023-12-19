@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:36:59",
+    "verseRef": "Acts 26:14",
+    "bestBHT": {
+        "bht": "Saul's use of the Hebrew language is significant, as it is not mentioned in other accounts. The phrase it is hard for thee to kick against the pricks illustrates the futility and harm of resisting divine authority. It conveys the idea that opposing God's will is like an ox kicking against a goad, causing more pain. This proverb, commonly used in Greek literature, emphasizes the inevitable submission to God's plan. Saul's conversion is presented as a struggle against God's will, ultimately leading to his transformation into a follower of Christ.",
+        "wordCount": 95,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.5041871014558317,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+        "commentatorTierSimilarities": [
+            35.91,
+            38.1,
+            25.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "in the Hebrew tongue...In ch. ix. we have the fact remarkably preserved by the Hebrew form in the original; in ch. xxii. he was speaking in Hebrew, and the notice was not required.",
+            "it is hard for thee to kick against the pricks...The metaphor is derived from oxen at plough or drawing a burden, who, on being pricked with the goad, kick against it, and so cause it to pierce deeper.",
+            "See instances, in my Greek Test., of the use of the proverb."
+        ],
+        "Marvin Vincent": [
+            "It is hard for thee to kick against the pricks.",
+            "Being enraged, I would kick against the goads, a mortal against a God.",
+            "If you strike the goads with your fists, you hurt your hands more than the goads."
+        ],
+        "Philip Schaff": [
+            "It is hard for thee to kick against the pricks.\" ",
+            "On the use of the Hebrew tongue on this solemn occasion, see the Excursus at the end of this chapter."
+        ],
+        "Archibald T. Robertson": [
+            "In the Hebrew language (\u03c4\u03b7 \u0395\u03b2\u03c1\u03b1\u03b9\u03b4 \u03b4\u03b9\u03b1\u03bb\u03b5\u03ba\u03c4\u03c9).",
+            "It is hard for thee to kick against the goad (\u03c3\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd \u03c3\u03bf \u03c0\u03c1\u03bf\u03c2 \u03ba\u03b5\u03bd\u03c4\u03c1\u03b1 \u03bb\u03b1\u03ba\u03c4\u03b9\u03b6\u03b5\u03b9\u03bd).",
+            "\u039a\u03b5\u03bd\u03c4\u03c1\u03bf\u03bd means either sting as of bees (II Macc. 14:19) and so of death (1 Corinthians 15:55) or an iron goad in the ploughman's hand as here."
+        ],
+        "John Gill": [
+            "And when we were all fallen to the earth,.... Saul, and the men that were with him, for fear of the divine Majesty\" ",
+            "the other narratives only relate Saul's falling to the earth",
+            "how this is to be reconciled to their standing speechless"
+        ],
+        "John Wesley": [
+            "In the Hebrew tongue \u2014 St. Paul was not now speaking in Hebrew: when he was, Acts 23:7, he did not add, In the Hebrew tongue. Christ used this tongue both on earth and from heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see Saul speaking in the Hebrew tongue, which is a significant detail that is not mentioned in other accounts. The phrase it is hard for thee to kick against the pricks is a metaphor derived from oxen kicking against the goad, causing it to pierce deeper. This proverb is used to convey the idea that resisting or opposing divine authority is ultimately futile and harmful. By using this metaphor, Saul's conversion is presented as a struggle against God's will.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.589121332473078,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                33.6,
+                36.58,
+                29.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Saul's use of the Hebrew language is a notable aspect of this account. The expression it is hard for thee to kick against the pricks serves as a metaphor illustrating the futility and harm of resisting divine authority. This phrase, commonly used in Greek literature, conveys the idea that opposing God's will only leads to greater suffering, like a mortal fighting against a god. It signifies the struggle within Saul's conversion, highlighting the inevitability and ultimate submission to God's plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.498109019920696,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.15,
+            "commentatorTierSimilarities": [
+                34.29,
+                39.01,
+                26.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the Hebrew tongue, Saul speaks, emphasizing the significance of his words. The metaphor of kicking against the pricks is used to depict resistance against divine authority as futile and harmful, likening it to an ox kicking against a goad. It conveys the idea that opposing God's will only leads to deeper pain and struggles. This proverb, commonly used in Greek literature, highlights the inevitability and ultimate submission to God's plan.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.4747504701810112,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.38,
+            "commentatorTierSimilarities": [
+                32.92,
+                34.65,
+                32.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Saul's use of the Hebrew language is significant, as it is not mentioned in other accounts. The phrase it is hard for thee to kick against the pricks illustrates the futility and harm of resisting divine authority. It conveys the idea that opposing God's will is like an ox kicking against a goad, causing more pain. This proverb, commonly used in Greek literature, emphasizes the inevitable submission to God's plan. Saul's conversion is presented as a struggle against God's will, ultimately leading to his transformation into a follower of Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.5041871014558317,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.36,
+            "commentatorTierSimilarities": [
+                35.91,
+                38.1,
+                25.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Saul's use of the Hebrew language is a significant detail that distinguishes this account. The phrase it is hard for thee to kick against the pricks serves as a metaphor highlighting the futility and harm of resisting divine authority. This common proverb illustrates the inevitability and ultimate submission to God's plan, portraying Saul's conversion as a struggle against God's will. This struggle is compared to an ox kicking against a goad, causing more pain and leading to a transformative encounter with Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5005552080408673,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.24,
+            "commentatorTierSimilarities": [
+                36.27,
+                38.17,
+                25.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

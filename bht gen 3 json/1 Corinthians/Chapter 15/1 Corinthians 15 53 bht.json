@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:14:30",
+    "verseRef": "1 Corinthians 15:53",
+    "bestBHT": {
+        "bht": "In the necessity of putting on incorruptibility and immortality, the body is seen as a metaphorical garment that needs to be changed. The idea of putting on this new state of being is compared to clothing oneself, emphasizing the transformation required to enter the kingdom of God. It is crucial to recognize that the immortality of the soul is not separate from the body, as the resurrection is upheld as the eagerly anticipated consummation. Through this transformation, our corruptible and mortal nature will be replaced by incorruption and immortality, enabling us to participate fully in God's kingdom.",
+        "wordCount": 98,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.1913744896583305,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+        "commentatorTierSimilarities": [
+            30.38,
+            35.27,
+            34.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Confirmation of the last words, by a re-statement of the necessity of putting on incorruptibility and immortality.",
+            "this corruptible... this mortal] this indicating his own body.",
+            "Compare on the figure of putting on, 2 Cor. v. 3 and notes."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "put on\u2014as a garment",
+            "Nowhere is the immortality of the soul, distinct from the body, taught",
+            "Scripture does not contemplate the anomalous state brought about by death, as the consummation to be earnestly looked for, but the resurrection."
+        ],
+        "Albert Barnes": [
+            "We cannot enter heaven as we are now.\" ",
+            "The righteous who remain till the coming of Christ shall be at once changed, and invested, as Enoch and Elijah were, with incorruption and immortality.",
+            "We must cease to be corruptible and mortal, and must become incorruptible and immortal."
+        ],
+        "Marvin Vincent": [
+            "This corruptible. As if pointing to his own body.\" ",
+            "Put on [\u03b5\u03bd\u03b4\u03c5\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9] The metaphor of clothing.",
+            "Incorruption and immortality are to invest the spiritually - embodied personality like a garment."
+        ],
+        "John Calvin": [
+            "Our nature then, as being now corruptible and mortal, is not admissible into the kingdom of God, but when it shall have put off corruption, and shall have been beautified with in-corruption, it will then make its way into it.",
+            "This passage, too, distinctly proves, that we shall rise again in that same flesh that we now carry about with us, as the Apostle assigns a new quality to it which will serve as a garment.",
+            "Now, however, when he declares that this corruptible shall be invested with glory, there is no room left for cavil."
+        ],
+        "Philip Schaff": [
+            "For this corruptible must put on incorruption, and this mortal put on immortality.\" ",
+            "The same figure of 'putting off' and 'putting on' the dress of our present and future state is found in 2 Corinthians 5:2-4.",
+            "It is the mortality of the saints at large."
+        ],
+        "Archibald T. Robertson": [
+            "Must put on (\u03b4\u03b5 \u03b5\u03bd\u03b4\u03c5\u03c3\u03b1\u03c3\u03b8\u03b1). Aorist (ingressive) middle infinitive, put on as a garment.\" ",
+            "Immortality (\u03b1\u03b8\u03b1\u03bd\u03b1\u03c3\u03b9\u03b1\u03bd). Old word from \u03b1\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c2, undying, and that from \u03b1 privative and \u03b8\u03bd\u03b7\u03c3\u03ba\u03c9, to die.",
+            "In N.T. only here and 1 Timothy 6:16 where God is described as having immortality."
+        ],
+        "John Gill": [
+            "For this corruptible must put on incorruption...shall and must be clothed with incorruption.\" ",
+            "and this mortal must put on immortality;...be clothed with the shining robes of immortality.",
+            "These be they that have put off the mortal clothing, and put on the immortal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 15:53, the necessity of putting on incorruptibility and immortality is emphasized as a confirmation of the last words. The verse points to the body as the embodiment of corruption and mortality, highlighting the concept of being clothed with incorruption and immortality as a garment. The Bible does not separate the immortality of the soul from the body, but rather teaches the resurrection as the consummation to be eagerly anticipated. The metaphor of putting on clothing is used to describe the transformation of the spiritually-embodied personality. It is through this transformation that our corruptible and mortal nature will be replaced with incorruption and immortality, allowing us to enter the kingdom of God.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.172594445856761,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.58,
+            "commentatorTierSimilarities": [
+                33.32,
+                36.02,
+                30.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the necessity of putting on incorruptibility and immortality, the body is seen as a metaphorical garment that needs to be changed. The idea of putting on this new state of being is compared to clothing oneself, emphasizing the transformation required to enter the kingdom of God. It is crucial to recognize that the immortality of the soul is not separate from the body, as the resurrection is upheld as the eagerly anticipated consummation. Through this transformation, our corruptible and mortal nature will be replaced by incorruption and immortality, enabling us to participate fully in God's kingdom.",
+            "wordCount": 98,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.1913744896583305,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.2,
+            "commentatorTierSimilarities": [
+                30.38,
+                35.27,
+                34.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 15:53, the necessity of putting on incorruptibility and immortality is emphasized. The metaphor of clothing is used to describe the transformation required, as our corruptible and mortal nature is replaced by incorruption and immortality. The verse points to the body as a metaphorical garment, highlighting the distinction between the current state of corruption and mortality and the future state of glory and immortality. The resurrection is presented as the consummation to be earnestly anticipated, as scripture teaches that the immortality of the soul is not separate from the body.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.340402560656576,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.16,
+            "commentatorTierSimilarities": [
+                33.11,
+                37.31,
+                29.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Incorruptibility and immortality are described as garments that must be put on, highlighting the transformation required to enter the kingdom of God. The metaphor of clothing is used to illustrate how our current corruptible and mortal nature will be replaced by incorruption and immortality. The resurrection, rather than the immortality of the soul, is emphasized as the anticipated consummation. Our earthly bodies, referred to as corruptible, will be invested with glory, ensuring our participation in God's kingdom. This passage affirms that we will rise again in the same flesh we currently possess, adorned with new qualities.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 2.086289893882978,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                28.87,
+                35.66,
+                35.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The necessity of putting on incorruptibility and immortality is reiterated, emphasizing the need for a transformation. The concept of putting on is compared to clothing oneself in a new state, replacing our current corruptible and mortal nature. The resurrection, rather than the separation of the soul from the body, is taught as the anticipated culmination. By replacing our corruptible state with incorruption and mortality with immortality, we are clothed with the ability to enter God's kingdom. This affirms the importance of rising again in our same flesh, now transformed into an immortal state.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.07397802003722,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                29.91,
+                35.79,
+                34.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

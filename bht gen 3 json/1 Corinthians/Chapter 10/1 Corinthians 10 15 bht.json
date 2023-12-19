@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 15:11:26",
+    "verseRef": "1 Corinthians 10:15",
+    "bestBHT": {
+        "bht": "I urge you to exercise your judgment and wisdom as you consider what I am saying. You have the responsibility to judge for yourselves, using the mind that has been given to you. In worship, there is a sacramental aspect that brings us into communion with the unseen. Just as idolatry leads to communion with demons, partaking in the Eucharist means communion with Christ. So, I speak to you as wise men, appealing to your understanding and asking you to judge what I say.",
+        "wordCount": 84,
+        "quoteTokenProportion": 47.27,
+        "qualityScore": 1.8498892598757743,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+        "commentatorTierSimilarities": [
+            39.73,
+            24.24,
+            36.03
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An appeal to their own sense of what is congruous and possible.",
+            "Assuming on the Apostle's part, that they are wise men.",
+            "Be YE the judges of what I am saying."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We cannot divest ourselves of the responsibility of 'judging' for ourselves. The weakness of private judgment is not an argument against its use, but its abuse.",
+            "If Paul, an inspired apostle, not only permits, but urges, men to judge his sayings by Scripture, much more should the fallible ministers of the present visible Church do so.",
+            "Here you have an opportunity of exercising your 'wisdom' in judging 'what I say.'"
+        ],
+        "Albert Barnes": [
+            "I speak to people qualified to understand the subject; and present reasons which will commend themselves to you.",
+            "The reasons referred to are those which occupy the remainder of the chapter.",
+            "I speak as to wise men..."
+        ],
+        "Marvin Vincent": [
+            "An act of worship is sacramental, as bringing the worshipper into communion with the unseen.",
+            "He who practices idolatry is in communion with demons, as he who truly partakes of the Eucharist is in communion with Christ.",
+            "In citing the Eucharist he appeals to them as intelligent (wise) men, concerning a familiar practice."
+        ],
+        "John Calvin": [
+            "I do not address mere novices. You understand the efficacy of the sacred Supper in it we are ingrafted into the Lord\u2019s body.\" ",
+            "How unseemly a thing is it then, that you should enter into fellowship with the wicked, so as to be united in one body.",
+            "He tacitly reproves their want of consideration in this respect, that, while accurately instructed in the school of Christ, they allowed themselves in gross vice, as to which there was no difficulty in forming an opinion."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 10:15. I speak as to wise men; judge ye what I say: \u2018Apostolic authority I have no need to urge; to your own judgment as wise men I appeal.\u2019",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "As to wise men (\u03c9\u03c2 \u03c6\u03c1\u03bf\u03bd\u03b9\u03bc\u03bf\u03b9\u03c2). No sarcasm as in 2 Corinthians 11:19, but plea that they make proper use of the mind (\u03c6\u03c1\u03b5\u03bd) given them. "
+        ],
+        "John Gill": [
+            "I speak as to wise men... and makes them themselves judges thereof.\" ",
+            "...what I say is proper and pertinent, just and right."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I appeal to your sense of wisdom and judgment in understanding what I am saying. You have the responsibility to judge for yourselves and make use of the mind that has been given to you. In this act of worship, you are brought into communion with the unseen. Just as those who practice idolatry are in communion with demons, those who partake of the Eucharist are in communion with Christ. I am speaking to you as wise men, for you are qualified to understand the subject at hand. Consider the reasons that I present and judge for yourselves what I say.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7718912636950757,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                38.09,
+                26.44,
+                35.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I urge you to exercise your judgment and wisdom as you consider what I am saying. You have the responsibility to judge for yourselves, using the mind that has been given to you. In worship, there is a sacramental aspect that brings us into communion with the unseen. Just as idolatry leads to communion with demons, partaking in the Eucharist means communion with Christ. So, I speak to you as wise men, appealing to your understanding and asking you to judge what I say.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 1.8498892598757743,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.85,
+            "commentatorTierSimilarities": [
+                39.73,
+                24.24,
+                36.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Use your wisdom and judgment to assess what I am saying. It is your responsibility to judge for yourselves, using the mind that has been given to you. In worship, there is a sacramental aspect that connects us with the unseen. Just as idolatry leads to communion with demons, partaking in the Eucharist means communion with Christ. I address you as wise individuals, appealing to your understanding and asking you to evaluate my words.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.6818438708646666,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.26,
+            "commentatorTierSimilarities": [
+                40.96,
+                22.89,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I appeal to your sense of wisdom and judgment in understanding what I am saying. You have the responsibility to judge for yourselves and make use of the mind that has been given to you. In this act of worship, you are brought into communion with the unseen. Just as those who practice idolatry are in communion with demons, those who partake of the Eucharist are in communion with Christ. I am speaking to you as wise men, for you are qualified to understand the subject at hand. Consider the reasons that I present and judge for yourselves what I say.",
+            "wordCount": 101,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7718912636950757,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.26,
+            "commentatorTierSimilarities": [
+                38.09,
+                26.44,
+                35.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I appeal to your wisdom and urge you to judge for yourselves what I am saying. You have the responsibility to exercise your judgment and make use of the mind given to you. In worship, there is a sacramental aspect that brings communion with the unseen. Just as idolaters commune with demons, those who partake of the Eucharist commune with Christ. I am addressing you as wise men, asking you to evaluate my words and consider their pertinence and propriety.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.7452776655821238,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                39.79,
+                25.2,
+                35.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

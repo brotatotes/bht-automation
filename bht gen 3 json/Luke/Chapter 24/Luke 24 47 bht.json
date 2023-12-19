@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:24:26",
+    "verseRef": "Luke 24:47",
+    "bestBHT": {
+        "bht": "The preaching of the Gospel corresponds to the first sermon in Jerusalem, emphasizing repentance and baptism for the remission of sins. The preaching derives significance and authority from Jesus Christ, starting in Jerusalem as prophesied. Repentance is not of the law, but of the Gospel, inseparably connected to the remission of sins through Christ's shed blood. This decision to begin in Jerusalem encourages even the greatest sinners to repent, emphasizing mercy for all and abundantly attesting to the truth of Christianity.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 2.3288355870918016,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+        "commentatorTierSimilarities": [
+            22.45,
+            40.93,
+            36.62
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The substance of the preaching of the Gospel literally corresponded to this description.",
+            "Repent and be baptized every one of you in the name of Jesus Christ for the remission of sins.",
+            "Were the words of the first sermon preached at Jerusalem."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the metropolis and heart of the then existing kingdom of God.",
+            "To the Jew first.",
+            "There is mercy in Christ for the chief of sinners."
+        ],
+        "Albert Barnes": [
+            "Repentance - Sorrow for sin and forsaking of it. It was proper that the 'necessity' of repentance should be preached among all nations, for all were sinners.\" ",
+            "Remission of sins - Pardon or forgiveness of sins. It should be proclaimed that all people should repent, and that those who are penitent may be pardoned.\" ",
+            "Beginning at Jerusalem - This was the dwelling of his murderers, and it shows his readiness to forgive the vilest sinners."
+        ],
+        "Marvin Vincent": [
+            "Should be preached.",
+            "On the foundation of [\u03b5\u03c0\u03b9].",
+            "Beginning from Jerusalem ye are witnesses."
+        ],
+        "John Calvin": [
+            "Christ now discovers clearly what he had formerly concealed\u2014that the grace of the redemption brought by him extends alike to all nations.",
+            "Till his resurrection, therefore, Christ was not acknowledged to be anything more than the Redeemer of the chosen people alone.",
+            "For since God had peculiarly adopted the posterity of Abraham, they must have been preferred to the rest of the world."
+        ],
+        "Philip Schaff": [
+            "Repentance and remission of sins. These two things are inseparably connected.",
+            "In his name. The preaching derives all its significance and authority from Him in whose name and by whose commission it takes place.",
+            "Beginning at Jerusalem. If this clause is joined to Luke 24:47, it declares that the preaching should begin at Jerusalem in fulfilment of prophecy."
+        ],
+        "Archibald T. Robertson": [
+            "Beginning (\u03b1\u03c1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf). Aorist middle participle of \u03b1\u03c1\u03c7\u03c9, but the nominative plural with no syntactical connection (an anacoluthon). "
+        ],
+        "John Gill": [
+            "The doctrine of 'repentance' is not of the law, which neither requires, nor admits of it, but of the Gospel.",
+            "Christ's tears themselves did not take away, nor atone for sin; his blood must be shed, and it was shed for the remission of it; and that is the only meritorious cause it.",
+            "There is no true evangelical repentance without views, or at least hopes of pardoning grace, and mercy; for that is attended with faith in Christ, and is heightened by the discoveries of forgiving love."
+        ],
+        "John Wesley": [
+            "Beginning at Jerusalem - This was appointed most graciously and wisely: graciously, as it encouraged the greatest sinners to repent, when they saw that even the murderers of Christ were not excepted from mercy.",
+            "Beginning at Jerusalem - wisely, as hereby Christianity was more abundantly attested; the facts being published first on the very spot where they happened."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The substance of the preaching of the Gospel corresponds to the description in the verse, with the words of the first sermon preached in Jerusalem. Repentance and baptism for the remission of sins should be preached, starting from Jerusalem, the heart of the existing kingdom of God, to the Jews first. The preaching derives its significance and authority from Jesus Christ, and it begins at Jerusalem in fulfillment of prophecy. The doctrine of repentance is not of the law, but of the Gospel, and it is inseparably connected with the remission of sins through the shedding of Christ's blood. This gracious and wise decision to begin in Jerusalem encourages even the greatest sinners to repent, showing that there is mercy in Christ for all.",
+            "wordCount": 125,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 2.307265824619047,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.06,
+            "commentatorTierSimilarities": [
+                24.03,
+                40.2,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The preaching of the Gospel fulfills the description given, emphasizing repentance and baptism for the remission of sins. Jerusalem, as the heart of the kingdom of God, serves as the starting point for this message. The doctrine of repentance is not of the law, but of the Gospel, connected to the pardoning grace and mercy found in Christ. His shed blood is the meritorious cause of forgiveness. By beginning in Jerusalem, even the greatest sinners are encouraged to repent and witness the abundant testimony of Christianity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.0943905107161456,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.98,
+            "commentatorTierSimilarities": [
+                22.96,
+                40.34,
+                36.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The preaching of the Gospel corresponds to the first sermon in Jerusalem, emphasizing repentance and baptism for the remission of sins. The preaching derives significance and authority from Jesus Christ, starting in Jerusalem as prophesied. Repentance is not of the law, but of the Gospel, inseparably connected to the remission of sins through Christ's shed blood. This decision to begin in Jerusalem encourages even the greatest sinners to repent, emphasizing mercy for all and abundantly attesting to the truth of Christianity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.3288355870918016,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.77,
+            "commentatorTierSimilarities": [
+                22.45,
+                40.93,
+                36.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The preaching of the Gospel, beginning in Jerusalem, displays the mercy in Christ for all sinners. Emphasizing repentance and baptism for the remission of sins, the preaching draws its authority from Jesus Christ and fulfills the description in the first sermon preached. Repentance is connected to the Gospel, not the law, and is accompanied by hopes of pardoning grace. The shedding of Christ's blood is the meritorious cause of forgiveness, demonstrating the paramount importance of forgiveness in the preaching of the Gospel.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.08,
+            "qualityScore": 2.2808931104562618,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.18,
+            "commentatorTierSimilarities": [
+                22.16,
+                41.5,
+                36.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Gospel preaching, beginning in Jerusalem, brings forth the mercy of Christ for all sinners. It highlights the importance of repentance and baptism for the remission of sins, drawing authority from Jesus Christ Himself. Repentance is not of the law but of the Gospel, inseparably linked to hopes of pardoning grace. The shedding of Christ's blood is the sole cause for the remission of sins, emphasizing the vital role of forgiveness in the Gospel message.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.2251399536577523,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                21.19,
+                41.28,
+                37.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

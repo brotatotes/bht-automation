@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:15:12",
+    "verseRef": "Luke 5:4",
+    "bestBHT": {
+        "bht": "When Jesus directs Peter to launch out into the deep and the other fishermen to let down their nets, he acknowledges Peter's leadership as the steersman and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to bless abundantly. Going into the deep signifies their reliance on Jesus and the unknown territory they are called to venture into. This encounter invites them to trust in Jesus' remarkable provision.",
+        "wordCount": 78,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.313046123723148,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+        "commentatorTierSimilarities": [
+            29.13,
+            38.21,
+            32.66
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Launch out is, in the original, singular, as addressed to Peter alone, who was the steersman of his ship.",
+            "Let down is plural, as addressed to the fishermen in the ship collectively.",
+            "So below also, I will let down, of the director,\u2014when they had this done, of the doers,\u2014of the act."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. for a draught\u2014munificent",
+            "\trecompense for the use of his boat."
+        ],
+        "Albert Barnes": [
+            "Launch, out - Go out with your vessels.",
+            "Into the deep - Into the sea; at a distance from the shore.",
+            "For a draught - A draught of fish; or let down your nets for the \u201ctaking\u201d of fish."
+        ],
+        "Marvin Vincent": [
+            "Launch out. Rev., put out. The singular number, addressed to Peter as master of the craft.",
+            "Let down [\u03c7\u03b1\u03bb\u03b1\u03c3\u03b1\u03c4\u03b5] . The plural, addressed to the whole of the boat 's crew.",
+            "Metaphorically, to be indulgent, to pardon."
+        ],
+        "Philip Schaff": [
+            "Simon. Evidently the steersman of the boat.",
+            "Put out into the deep, i.e., the deep water. Luke always uses proper nautical phrases. Addressed in the singular, to Simon.",
+            "Let down your nets. Addressed to all the fishermen in the boat. Our Lord first makes a slight request of Simon, then after His discourse a greater one, calling for more confidence in Himself."
+        ],
+        "Archibald T. Robertson": [
+            "He ceased speaking.",
+            "Put out into the deep.",
+            "For a catch, This purpose was the startling thing that stirred up Simon."
+        ],
+        "John Gill": [
+            "He said unto Simon, launch out into the deep...",
+            "...put it off further into deep water, more convenient for fishing...",
+            "...let down your nets for a draught; of fishes..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When Jesus instructs Peter to launch out into the deep and the other fishermen to let down their nets, he is not only giving them a command, but also revealing his power and authority as the master of both the boat and the fish. By addressing Peter in the singular and the others in the plural, Jesus acknowledges Peter's role as the steersman and leader of the crew. The purpose of this request was to not only provide an abundant catch of fish, but also to demonstrate Jesus' ability to bless and provide beyond what they could imagine. Furthermore, Jesus' call for them to go out into the deep sea shows that he is calling them to venture into unknown and possibly risky territory, relying on his guidance and power. In this encounter, Jesus invites the fishermen to trust in him and his ability to provide in remarkable ways.",
+            "wordCount": 150,
+            "quoteTokenProportion": 42.53,
+            "qualityScore": 1.5786314018931744,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.83,
+            "commentatorTierSimilarities": [
+                25.91,
+                40.8,
+                33.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When Jesus directs Peter to launch out into the deep and the other fishermen to let down their nets, he acknowledges Peter's leadership as the steersman and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to bless abundantly. Going into the deep signifies their reliance on Jesus and the unknown territory they are called to venture into. This encounter invites them to trust in Jesus' remarkable provision.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.313046123723148,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.0,
+            "commentatorTierSimilarities": [
+                29.13,
+                38.21,
+                32.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus' command to Peter to launch out into the deep and to the rest of the fishermen to let down their nets demonstrates his recognition of Peter's role as the boat's master and the collective effort of the crew. By addressing them individually and collectively, Jesus showcases his authority and ability to provide generously. Going into the deep represents their reliance on Jesus and their willingness to venture into unfamiliar territory. This interaction encourages them to trust in Jesus' extraordinary provision.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.2688480617553382,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.53,
+            "commentatorTierSimilarities": [
+                29.82,
+                39.4,
+                30.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus' instruction to Peter to launch out into the deep and to the other fishermen to let down their nets highlights his acknowledgement of Peter's leadership and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to provide abundantly. Venturing into the deep signifies their dependence on Jesus and their willingness to explore unknown territory. This encounter invites them to put their trust in Jesus' exceptional provision.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.273098044198169,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.67,
+            "commentatorTierSimilarities": [
+                27.93,
+                36.92,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus' command to Peter to launch out into the deep and to the other fishermen to let down their nets demonstrates his acknowledgment of Peter's leadership and the collective effort of the crew. By addressing them individually and collectively, Jesus reveals his authority and ability to provide abundantly. Going into the deep represents their reliance on Jesus and their willingness to venture into unfamiliar territory. This encounter invites them to trust in Jesus' remarkable provision.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.273702337461433,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "commentatorTierSimilarities": [
+                27.89,
+                37.99,
+                34.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

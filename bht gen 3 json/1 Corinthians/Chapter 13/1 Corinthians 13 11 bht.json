@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:13:00",
+    "verseRef": "1 Corinthians 13:11",
+    "bestBHT": {
+        "bht": "As a child, my thoughts, words, and reasoning were naive and incomplete. However, now that I have matured, I have put away those childish ways. This transformation reflects the growth we experience in our understanding of spiritual matters as we mature in our faith. Our current knowledge is like a child's compared to the wisdom and knowledge that await us in heaven. We are constantly learning and developing in this world, but one day, in the fullness of maturity, we will gain a deeper understanding and leave behind the limitations of our childish thinking.",
+        "wordCount": 95,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.8719604453119305,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+        "commentatorTierSimilarities": [
+            22.65,
+            41.07,
+            36.28
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I spake, I thought (was minded, or felt), I reasoned (or judged).",
+            "Now that I am become a man, I have brought to an end the ways of a child.",
+            "Not, as A.V., \u2018when I became a man I put away....,\u2019 as if it were done on a set day;\u2014this rendering is ungrammatical."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When I became a man, I have done away with the things of the child.",
+            "I spake alluding to 'tongues' and understood, alluding to 'prophecy.'",
+            "When I thought, I reasoned or judged; alluding to 'knowledge.'"
+        ],
+        "Albert Barnes": [
+            "The knowledge which we now have, compared with that which we shall have in heaven, is like that which is possessed in infancy compared with that we have in manhood.",
+            "Our knowledge at present, compared with the knowledge of heaven, is like the broken and scarcely intelligible efforts of a child to speak compared with the power of utterance in manhood.",
+            "There will be, doubtless, as much difference between our present knowledge, and plans, and views, and those which we shall have in heaven, as there is between the plans and views of a child and those of a man."
+        ],
+        "Marvin Vincent": [
+            "The reference here is to the earlier undeveloped exercise of the childish mind; a thinking which is not yet connected reasoning.\" ",
+            "This last is expressed by elogizomhn I thought or reasoned.",
+            "Now that I am become. Hence I have put away for I put away. Lit., have brought them to nought."
+        ],
+        "John Calvin": [
+            "For there are many things that are suitable to children, which are afterwards done away on arriving at maturity.",
+            "So long as we live in this world, we require, in some sense, education. We are far from having attained, as yet, the perfection of wisdom.",
+            "That perfection, therefore, which will be in a manner a maturity of spiritual age, will put an end to education and its accompaniments."
+        ],
+        "Philip Schaff": [
+            "When I was a child, I spake as a child prattling; I felt as a child, I thought (or \u2018reasoned\u2019) as a child.\" ",
+            "My thoughts were all a child\u2019s thoughts, my notions of persons and things were childish, and my way of connecting things as causes and effects, premises and conclusions was ludicrous.",
+            "Now that I am become a man, I have put away childish things wondering ever so spake, felt, and thought."
+        ],
+        "Archibald T. Robertson": [
+            "A child (\u03bd\u03b7\u03c0\u03b9\u03bf\u03c2). See on 1 Corinthians 3:1 for \u03bd\u03b7\u03c0\u03b9\u03bf\u03c2 in contrast with \u03c4\u03b5\u03bb\u03b5\u03b9\u03bf\u03c2 (adult).",
+            "I spake (\u03b5\u03bb\u03b1\u03bb\u03bf\u03c5\u03bd). Imperfect active, I used to talk.",
+            "I have put away (\u03ba\u03b1\u03c4\u03b7\u03c1\u03b3\u03b7\u03ba\u03b1). Perfect active indicative. I have made inoperative (verse 1 Corinthians 13:8) for good."
+        ],
+        "John Gill": [
+            "Hereby the apostle illustrates the then present gift of speaking with divers tongues, which was an extraordinary gift of the Spirit, was peculiar to some persons, and what many were very fond of; and yet this, in its highest degree and exercise, was but like the lisping of a child, in comparison of what will be known and expressed by saints when they come to be perfect men in heaven.",
+            "The people of God, who are in the highest form and class of understanding, in the present state of things, are but children in understanding; it is in the other world, when they are arrived at the measure of the stature of the fullness of Christ, that they will in understanding be men.",
+            "So when the saints shall be grown to the full age of Christ, and are become perfect men in him, tongues shall cease, prophecies shall fail, and knowledge vanish away; and in the room thereof, such conversation, understanding, and knowledge take place, as will be entirely suited to the manly state in glory."
+        ],
+        "John Wesley": [
+            "In our present state we are mere infants in point of knowledge, compared to what we shall be hereafter.",
+            "I put away childish things.",
+            "Of my own accord, willingly, without trouble."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As a child, I spoke, felt, and thought like a child - my knowledge and understanding were limited, my reasoning incomplete. However, now that I am matured and have put away those childish ways of thinking, I have embraced a deeper level of understanding. This verse emphasizes the improvement we experience in our comprehension of spiritual matters as we grow in our faith. Just as a child's speech is incomparable to that of an adult, our current knowledge is limited in comparison to the wisdom and understanding we will have in heaven. In our present state, we still have much more to learn and develop, but one day, when we reach the fullness of spiritual maturity, we will leave behind childish things and fully embrace the depth of knowledge and understanding that lies ahead.",
+            "wordCount": 134,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 1.9484705000310205,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                21.19,
+                42.64,
+                36.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a child, my thoughts and speech were limited, only scratching the surface of understanding. But as I have grown and put away those childish ways, my comprehension has expanded. This process mirrors our progression in the faith, with our current knowledge paling in comparison to the depth of wisdom that will be revealed in heaven. Our understanding now is like a child's babbling, yet in the future, we will reach a spiritual maturity where we leave behind the limitations of immaturity and fully embrace the vast knowledge that awaits us.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.8575563283604377,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                22.83,
+                41.93,
+                35.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a child, my thoughts, words, and reasoning were naive and incomplete. However, now that I have matured, I have put away those childish ways. This transformation reflects the growth we experience in our understanding of spiritual matters as we mature in our faith. Our current knowledge is like a child's compared to the wisdom and knowledge that await us in heaven. We are constantly learning and developing in this world, but one day, in the fullness of maturity, we will gain a deeper understanding and leave behind the limitations of our childish thinking.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8719604453119305,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                22.65,
+                41.07,
+                36.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In my youth, my thoughts and speech were that of a child, lacking depth and reasoning. However, as I have grown into adulthood, I have put aside those immature ways. This transformation is analogous to our spiritual journey, where our current understanding is limited compared to the profound wisdom that awaits us in heaven. We are in a constant state of education while on earth, gradually moving towards the perfection of spiritual maturity. Only then will we leave behind the limitations of our childish thinking and embrace the boundless knowledge of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8230110141011941,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.96,
+            "commentatorTierSimilarities": [
+                21.06,
+                40.19,
+                38.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As a child, my thoughts and speech were limited, only scratching the surface of understanding. However, now that I have grown and put away those childish ways, my comprehension has expanded. This process mirrors our progression in the faith, with our current knowledge paling in comparison to the depth of wisdom that will be revealed in heaven. Our understanding now is like a child's babbling, yet in the future, we will reach a spiritual maturity where we leave behind the limitations of immaturity and fully embrace the vast knowledge that awaits us.",
+            "wordCount": 93,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 1.8573839515897737,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                22.86,
+                42.02,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

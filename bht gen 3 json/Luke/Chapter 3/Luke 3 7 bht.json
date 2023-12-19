@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:14:28",
+    "verseRef": "Luke 3:7",
+    "bestBHT": {
+        "bht": "He used to say to those who were coming out, to the crowds of people which kept pouring out successively, warning them secretly, 'O generation of vipers, who has warned you to flee from the wrath to come?' His harsh language towards those who voluntarily came to be baptized and make a public profession of the gospel serves as a reminder to us to confront the enemies of Christ with the same severity. Just as the people desired to be admitted to his baptism, we must also examine our motives when approaching God.",
+        "wordCount": 93,
+        "quoteTokenProportion": 46.27,
+        "qualityScore": 1.569285220819072,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+        "commentatorTierSimilarities": [
+            39.08,
+            0.0,
+            60.92
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "He said, the imperfect, and came forth, the present participle; both denoting action in progress, or customary action; so that the sense is, he kept saying, or he used to say to those who were coming out, to the crowds of people which kept pouring out successively.",
+            "Generation [\u03b3\u03b5\u03bd\u03bd\u03b7\u03bc\u03b1\u03c4\u03b1] . Lit., births. Rev., better, offspring. It has been observed that John's figurative language is altogether the language of the desert.",
+            "Warned [\u03c5\u03c0\u03b5\u03b4\u03b5\u03b9\u03be\u03b5\u03bd] . From upo, under, and deiknumi, to shew. Hence, literally, to shew secretly. The word implies a private or confidential hint or reminder."
+        ],
+        "John Calvin": [
+            "It is probable, therefore, that John publicly attacked the Pharisees, for the benefit of the whole church of God, that they might no longer dazzle the eyes of simple men by empty show, or hold the body of the people under oppression by wicked tyranny.",
+            "If John, the organ of the Holy Spirit, employed such severity of language in his opening address to those who voluntarily came to be baptized, and to make a public profession of the gospel; how ought we now to act towards the avowed enemies of Christ?",
+            "Those, whose ears are so delicate, that they cannot endure to have any bitter thing said against the Pope, must argue, not with us, but with the Spirit of God."
+        ],
+        "Archibald T. Robertson": [
+            "The present participle also notes the repetition of the crowds as does \u03b5\u03bb\u03b5\u03b3\u03b5\u03bd (imperfect), he used to say.",
+            "To be baptized of him (\u03b2\u03b1\u03c0\u03c4\u03b9\u03c3\u03b8\u03b7\u03bd\u03b1 \u03c5\u03c0' \u03b1\u03c5\u03c4\u03bf\u03c5). This is the purpose of their coming.",
+            "The verb is like our 'suggest' by proof to eye, ear, or brain (Luke 6:47; Luke 12:5; Acts 9:16; Acts 20:35; Matthew 3:7)."
+        ],
+        "John Gill": [
+            "O generation of vipers, who hath warned you to flee from the wrath to come?",
+            "They came with a view of being baptized, were it thought fit and proper they should.",
+            "They desired to be admitted to his baptism."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He used to say to those who were coming out, to the crowds of people which kept pouring out successively, warning them secretly, 'O generation of vipers, who has warned you to flee from the wrath to come?' His harsh language towards those who voluntarily came to be baptized and make a public profession of the gospel serves as a reminder to us to confront the enemies of Christ with the same severity. Just as the people desired to be admitted to his baptism, we must also examine our motives when approaching God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 1.569285220819072,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                39.08,
+                0.0,
+                60.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He kept saying to the crowds, warning them secretly, 'O generation of vipers, who has warned you to flee from the wrath to come?' John's harsh language towards those who came to be baptized reminds us to confront the enemies of Christ with equal severity. Just as the people desired to be admitted to his baptism, we must also examine our motives when approaching God.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.5344727519090273,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                38.17,
+                0.0,
+                61.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John, repeatedly addressing the crowds that poured out one after another, would secretly warn them, saying, O generation of vipers, who has warned you to flee from the wrath to come? His bold and severe language towards those who approached him for baptism serves as a reminder for us to be equally firm in confronting the enemies of Christ. As the people sought admission to his baptism, we too should examine our intentions when approaching the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.513301778951642,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.66,
+            "commentatorTierSimilarities": [
+                42.57,
+                0.0,
+                57.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his continuous address to the successive crowds that were coming out, John used to secretly warn them, saying, O generation of vipers, who has warned you to flee from the wrath to come? John's stern and direct language towards those seeking baptism reminds us to confront the enemies of Christ with the same severity. Just as the people sought admission to his baptism, we are reminded to examine the motivations of our hearts when approaching God.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5625074876694698,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.3,
+            "commentatorTierSimilarities": [
+                42.67,
+                0.0,
+                57.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Continuously addressing the crowds as they poured out, John would secretly warn them, asking, O generation of vipers, who has warned you to flee from the wrath to come? His stern words towards those seeking baptism urge us to confront the enemies of Christ with equal severity. Just as the people desired to be admitted to John's baptism, we too must examine our motives when approaching God.",
+            "wordCount": 68,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.5130759563872265,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                39.4,
+                0.0,
+                60.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

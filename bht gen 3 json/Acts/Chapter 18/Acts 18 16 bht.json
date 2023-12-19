@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 16:32:53",
+    "verseRef": "Acts 18:16",
+    "bestBHT": {
+        "bht": "The Jews were stunned by this sudden blow from the mild proconsul and wanted to linger to argue the case further, but they had to go. Despite this, Gallio did not use any violence; he simply refused to hear and decide the controversy, dismissing them in an authoritative manner. It is clear that Gallio had no intention of entertaining any future cases like this.",
+        "wordCount": 64,
+        "quoteTokenProportion": 46.15,
+        "qualityScore": 1.802416298428636,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+        "commentatorTierSimilarities": [
+            47.15,
+            32.08,
+            20.76
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. drave them, &amp;c.\u2014annoyed",
+            "\tat such a case."
+        ],
+        "Albert Barnes": [
+            "He refused to hear and decide the controversy.",
+            "The word used here does not denote that there was any violence used by Gallio.",
+            "...but merely that he dismissed them in an authoritative manner."
+        ],
+        "Philip Schaff": [
+            "Acts 18:16. And he drave them from the judgment-seat. The language shows that some force had to be used to induce these importunate accusers to leave the court.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The Jews were stunned by this sudden blow from the mild proconsul and wanted to linger to argue the case further, but they had to go."
+        ],
+        "John Gill": [
+            "He would not hear, and try the cause; but dismissed them with threatening them.\" ",
+            "He drave them from the judgment seat.\" ",
+            "If ever they brought an affair of that kind to him any more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews were shocked and annoyed when the proconsul, Gallio, abruptly dismissed their case and expelled them from the court. They wanted to continue arguing their point, but they had no choice but to leave. Despite this, Gallio did not use any violence; he simply refused to hear and decide the controversy, dismissing them in an authoritative manner. It is clear that Gallio had no intention of entertaining any future cases like this.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.5002115173007535,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.22,
+            "commentatorTierSimilarities": [
+                35.18,
+                37.26,
+                27.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews were stunned by this sudden blow from the mild proconsul and wanted to linger to argue the case further, but they had to go. Despite this, Gallio did not use any violence; he simply refused to hear and decide the controversy, dismissing them in an authoritative manner. It is clear that Gallio had no intention of entertaining any future cases like this.",
+            "wordCount": 64,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.802416298428636,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                47.15,
+                32.08,
+                20.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Jews, who had been annoyed by the case, were unexpectedly driven away by the proconsul Gallio. Although they wished to prolong the argument, they were compelled to depart. Gallio, in his mild manner, did not resort to violence, but simply refused to hear and decide the controversy, then dismissing them with authority. His actions conveyed a clear message that he had no intention of entertaining similar cases in the future.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.4169922558664636,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                38.87,
+                35.88,
+                25.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Jews, troubled by the case, were compelled to leave when the proconsul Gallio drove them away. Although they wanted to continue the argument, they had no choice but to depart. Gallio, without resorting to violence, refused to hear and decide the controversy, concluding the matter with authority. It is evident that Gallio had no intentions of entertaining similar cases in the future.",
+            "wordCount": 63,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.3369390496099465,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.8,
+            "commentatorTierSimilarities": [
+                40.56,
+                36.09,
+                23.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Jews, annoyed by the case, were compelled to go when the proconsul Gallio drove them away. In an authoritative manner, Gallio refused to hear and decide the controversy, demonstrating that he had no intention of entertaining further cases of this kind. Despite their desire to prolong the argument, the Jews had no choice but to leave the court. It is evident that Gallio's dismissal left a lasting impression on them, marking the end of their encounter.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.4922582527081203,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.96,
+            "commentatorTierSimilarities": [
+                42.46,
+                32.59,
+                24.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

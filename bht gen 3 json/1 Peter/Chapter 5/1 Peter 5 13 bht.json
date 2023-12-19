@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:27",
+    "verseRef": "1 Peter 5:13",
+    "bestBHT": {
+        "bht": "The identity behind the enigmatic phrase in this Bible passage has led to various interpretations among scholars. Some suggest it refers to St. Peter's wife or the church residing in Babylon, the center from which the dispersed Jewish-Christian community originated. The word Babylon can be understood literally or mystically as Rome, but the latter interpretation is not supported by the context. Though translators added church that is, the original text allows for a personal greeting such as Peter's wife or the evangelist Mark. Regardless, the passage emphasizes Peter's call for unity within the Church, promoting healing, reconciliation, and the glorification of God.",
+        "wordCount": 106,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.1974135372112955,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.4,
+        "commentatorTierSimilarities": [
+            33.15,
+            39.33,
+            27.51
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Still, it seems hardly probable, that there should be joined together in the same sending of salutation, an abstraction, spoken of thus enigmatically, and a man, Mark my son, by name.",
+            "These considerations induce me to accede to the opinion of those, who recognize here the believing sister whom St. Peter led about, being his wife, 1 Cor. ix. 5: and to find, in the somewhat unusual periphrastic way of speaking of her, a confirmation of this view.",
+            "Perhaps, and so most have thought, the well-known Evangelist: perhaps the actual son of St. Peter, bearing this name."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That portion of the whole dispersion, or Church of Christianized Jews, with Gentile converts, which resides in Babylon.\" ",
+            "Babylon was the center from which the Asiatic dispersion whom Peter addresses was derived.",
+            "The earliest distinct authority for Peter's martyrdom at Rome is Dionysius, bishop of Corinth, in the latter half of the second century. The desirableness of representing Peter and Paul, the two leading apostles, as together founding the Church of the metropolis, seems to have originated the tradition."
+        ],
+        "Albert Barnes": [
+            "It will be seen at once that much of this is supplied by our translators; the words 'church that is' not being in the original.\" ",
+            "This word would be properly used in reference to one individual if writing to another individual, but would hardly be appropriate as applied to an individual addressing a church.",
+            "If this was the Mark referred to, then the word son is a title of affection, and is used by Peter with reference to his own superior age."
+        ],
+        "Marvin Vincent": [
+            "The majority of interpreters... refer it to the church.",
+            "In favor of the literal interpretation are the weighty names of Alford, Huther, Calvin, Neander, Weiss, and Reuss.",
+            "The fact, however, that the word is mystically used in a mystical book like the Apocalypse - a book, too, which is steeped in the spirit and terminology of the Old Testament - is no argument for the mystical use of the word in writings of a different type."
+        ],
+        "John Calvin": [
+            "Moreover, let them only retain the name of Peter\u2019s chair, and they will not refuse to set Rome in the infernal regions.",
+            "But this old comment has no color of truth in its favor...",
+            "In saying that the Church there was a partaker of the same election, his object was to confirm others more and more in the faith; for it was a great matter that the Jews were gathered into the Church, in so remote a part of the world."
+        ],
+        "Philip Schaff": [
+            "there is an obvious fitness in giving the greetings of the Christian community, within whose bounds Peter was at present resident, as the greetings of a church which, though widely separated geographically, was 'co-elect' with those 'elect sojourners' in other countries to whom he was writing.",
+            "The allegorical interpretation becomes still less likely when it is observed that other geographical designations in this Epistle (chap. 1 Peter 1:1) have undoubtedly the literal meaning.",
+            "Peter here...joins Mark with Silas, who had once been preferred in his room. So may all wounds be healed, and all differences cease in the Church of Christ. So may all falterers be recovered, and Christian charity prevail, and God\u2019s glory be magnified in all persons and in all things, through Jesus Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Either actual Babylon or, as most likely, mystical Babylon (Rome) as in the Apocalypse.",
+            "If Peter is in Rome about A.D. 65, there is every reason why he should not make that fact plain to the world at large and least of all to Nero.",
+            "The natural way to take it is for Peter's wife."
+        ],
+        "John Gill": [
+            "But that Peter was at Rome, when he wrote this epistle, cannot be proved, nor any reason be given why the proper name of the place should be concealed, and a figurative one expressed.",
+            "The church in this place is said to be elected together with you; that is, were chosen together with them in Christ, before the foundation of the world, to grace here, and glory hereafter.",
+            "He is said to be the interpreter of Peter, and to have wrote his Gospel from what he heard from him; and who approved of it, and confirmed it, and indeed it is said to be his."
+        ],
+        "John Wesley": [
+            "The church that is at Babylon \u2014 Near which St. Peter probably was, when he wrote this epistle.",
+            "Elected together with you \u2014 Partaking of the same faith with you.",
+            "Mark \u2014 It seems the evangelist."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The identity behind the enigmatic phrase she who is in Babylon in 1 Peter 5:13 has led to various interpretations. Some commentators propose that the mention refers to a believing sister, possibly St. Peter's wife, who he led about as he spread the gospel. Others suggest that it may be a reference to the church residing in Babylon, which was seen as the center from which the dispersed Jewish-Christian community originated. The word Babylon can also be understood literally as the city or mystically as Rome, the figurative Babylon mentioned in the book of Revelation. The usage of the term in the Apocalypse, however, does not necessarily require a mystical interpretation here. This debate involves considerations of Peter's residence in Rome around 65 AD and the tradition of his martyrdom there. Ultimately, the translator's addition of church that is is not found in the original text, which allows for the possibility that Peter's greetings were intended on a personal level, potentially referring to Peter's wife or the evangelist Mark. Nevertheless, what is evident is Peter's desire for unity within the Church, reflected in his mention of Mark and Silas as well. In this, we are reminded of the importance of healing wounds, resolving differences, and embracing Christian charity for the glory of God.",
+            "wordCount": 217,
+            "quoteTokenProportion": 34.11,
+            "qualityScore": 2.0406398354855853,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                34.35,
+                37.42,
+                28.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mention of she who is in Babylon in this verse has sparked various interpretations. Some suggest it may refer to St. Peter's wife, while others see it as the church in Babylon, the center from which the dispersed Jewish-Christian community originated. The word Babylon can be understood literally or mystically as Rome, but the usage in the book of Revelation doesn't necessitate a mystical interpretation here. The translator's addition of church that is is not in the original text, leaving room for the possibility that Peter's greetings were meant on a personal level, perhaps for his wife or the evangelist Mark. Despite the uncertainty, Peter's desire for unity within the Church is evident, calling for healing, reconciliation, and the magnification of God's glory.",
+            "wordCount": 131,
+            "quoteTokenProportion": 38.2,
+            "qualityScore": 2.1830313749763866,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.93,
+            "commentatorTierSimilarities": [
+                34.89,
+                36.97,
+                28.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The enigmatic reference to she who is in Babylon in this passage has led to various interpretations. Some propose it may be St. Peter's wife or the church in Babylon, the center from which the dispersed Jewish-Christian community originated. The term Babylon could be taken literally or mystically as Rome, but the usage in the book of Revelation does not require a mystical interpretation. Though the translator's addition of church that is is not in the original text, it allows for the possibility of a personal greeting to Peter's wife or the evangelist Mark. Regardless, the passage highlights Peter's desire for unity within the Church, emphasizing healing, reconciliation, and the glorification of God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.1660531393045,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.36,
+            "commentatorTierSimilarities": [
+                35.08,
+                37.33,
+                27.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mysterious mention of she who is in Babylon in the Bible has given rise to different interpretations. It is suggested that it could refer to St. Peter's wife or to the church residing in Babylon, which was the center of the dispersed Jewish-Christian community. The term Babylon may have a literal or mystical meaning, but the mystical interpretation is not necessary here. While translators added church that is, the original text leaves room for a personal greeting, such as for Peter's wife or the evangelist Mark. Ultimately, the verse emphasizes Peter's call for unity within the Church, promoting healing, reconciliation, and the glorification of God.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.1553300959874777,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.01,
+            "commentatorTierSimilarities": [
+                35.32,
+                36.93,
+                27.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The identity behind the enigmatic phrase in this Bible passage has led to various interpretations among scholars. Some suggest it refers to St. Peter's wife or the church residing in Babylon, the center from which the dispersed Jewish-Christian community originated. The word Babylon can be understood literally or mystically as Rome, but the latter interpretation is not supported by the context. Though translators added church that is, the original text allows for a personal greeting such as Peter's wife or the evangelist Mark. Regardless, the passage emphasizes Peter's call for unity within the Church, promoting healing, reconciliation, and the glorification of God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.1974135372112955,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.4,
+            "commentatorTierSimilarities": [
+                33.15,
+                39.33,
+                27.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

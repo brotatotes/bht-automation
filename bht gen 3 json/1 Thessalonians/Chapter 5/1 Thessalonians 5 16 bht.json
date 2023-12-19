@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 14:01:18",
+    "verseRef": "1 Thessalonians 5:16",
+    "bestBHT": {
+        "bht": "When we have a disposition to hurt no one and to do good to all, we can experience unbroken joy. By rejoicing evermore and giving thanks to God for all that happens, we can possess continuous joy. This abiding joy comes from conversing with God, falling into various trials, and remaining hopeful in Christ. By restraining our desires with contentment and always mingling thanksgiving with our desires in prayer, we can find joy even in the midst of adversity. This joy is grounded in the Holy Spirit's work within us and is a source of true and steady joy.",
+        "wordCount": 100,
+        "quoteTokenProportion": 41.79,
+        "qualityScore": 2.1322735974175213,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+        "commentatorTierSimilarities": [
+            37.26,
+            31.13,
+            31.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When we have such a disposition as to hurt no one but to do good to all, whence can the sting of grief enter?\" ",
+            "He who so joys in being injured as to requite his injurer by good offices, whence shall he receive annoyance for the future?",
+            "For one accustomed to converse with God and to give thanks to Him for all that happens, as good for him, will clearly possess unbroken joy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In order to 'rejoice evermore,' we must 'pray without ceasing.' He who is wont to thank God for all things as happening for the best, will have continuous joy.\" ",
+            "Rejoice in the Lord... by prayer and supplication with thanksgiving.\" ",
+            "Rejoice... in the Holy Ghost, in hope, in being counted worthy to suffer shame for Christ's name, in falling into divers temptations."
+        ],
+        "Albert Barnes": [
+            "Rejoice evermore - See the notes on Philippians 3:1; Philippians 4:4."
+        ],
+        "John Calvin": [
+            "Rejoice always. I refer this to moderation of spirit, when the mind keeps itself in calmness under adversity, and does not give indulgence to grief.",
+            "He prescribes the remedy \u2014 that by prayer we disburden our anxieties, as it were, into his bosom.",
+            "For many pray in such a manner, as at the same time to murmur against God, and fret themselves if he does not immediately gratify their wishes. But, on the contrary, it is befitting that our desires should be restrained in such a manner that, contented with what is given us, we always mingle thanksgiving with our desires."
+        ],
+        "Philip Schaff": [
+            "It is a scandalous misprision, vulgarly admitted, concerning religion, that it is altogether sullen and sour, requiring a dull, lumpish, morose kind of life, barring all delight, all mirth, all good humour; whereas, on the contrary, it alone is the never-failing source of true, pure, steady joy.",
+            "This precept supposes that it is possible for us to obey it. To know that it is God\u2019s will that we should always rejoice, that we should resemble Himself in this as in all that inward purity which causes joy, goes far to fill us with the happiness here enjoined.",
+            "\u2018all spiritual sorrows, of what nature soever, are turned into spiritual joy: that is the proper end of them; they have a natural tendency that way.\u2019"
+        ],
+        "John Gill": [
+            "Rejoice evermore. Not in a carnal, but in a spiritual way, with joy in the Holy Ghost.",
+            "Rejoice...in the Lord Jesus Christ, in the greatness, fitness, fulness, and glory of his person, in his blood, righteousness, and sacrifice.",
+            "There is always reason, and ever a firm ground and foundation for rejoicing with believers, let their circumstances or their frames be what they will."
+        ],
+        "John Wesley": [
+            "Rejoice evermore \u2014 In uninterrupted happiness in God.",
+            "Pray without ceasing \u2014 Which is the fruit of always rejoicing in the Lord.",
+            "In everything give thanks \u2014 Which is the fruit of both the former. This is Christian perfection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When we have a disposition to hurt no one and to do good to all, the sting of grief has no place. By rejoicing evermore and giving thanks to God for all that happens, we can experience unbroken joy. To rejoice evermore, we must pray without ceasing and thank God for all things as happening for the best. This continuous joy can be found in conversing with God and falling into various trials, all while remaining hopeful and counting it a privilege to suffer for Christ's name. This joyful disposition transcends mere happiness and is grounded in the Holy Spirit's work within us. It is a source of true, pure, and steady joy that flows from living in alignment with God's will. By restraining our desires with contentment and always mingling thanksgiving with our desires in prayer, we can find joy even in the midst of adversity.",
+            "wordCount": 150,
+            "quoteTokenProportion": 38.95,
+            "qualityScore": 2.130403688591629,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.18,
+            "commentatorTierSimilarities": [
+                37.77,
+                29.98,
+                32.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When we have a disposition to hurt no one and to do good to all, we can experience unbroken joy. By rejoicing evermore and giving thanks to God for all that happens, we can possess continuous joy. This abiding joy comes from conversing with God, falling into various trials, and remaining hopeful in Christ. By restraining our desires with contentment and always mingling thanksgiving with our desires in prayer, we can find joy even in the midst of adversity. This joy is grounded in the Holy Spirit's work within us and is a source of true and steady joy.",
+            "wordCount": 100,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 2.1322735974175213,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                37.26,
+                31.13,
+                31.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we have a disposition to do good and not harm others, we are shielded from the sting of grief. By rejoicing always and giving thanks to God for everything, we can experience unbroken joy. This requires continuous prayer and a spirit of gratitude. The command to rejoice evermore is not about shallow happiness, but a deep, spiritual joy rooted in the Holy Spirit. This joy can be found even in the midst of suffering and trials, as we remain hopeful and embrace our identity as followers of Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.9731249713815973,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.95,
+            "commentatorTierSimilarities": [
+                36.3,
+                31.42,
+                32.28
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we adopt a disposition of doing good to all and not hurting anyone, the sting of grief cannot find its way into our lives. If we find joy in being hurt and respond with acts of kindness, we will not be easily disturbed in the future. The path to constant rejoicing lies in our continuous conversation with God, thanking Him for everything as a way of seeing them for our benefit. This unbroken joy springs from praying without ceasing and being grateful in all circumstances.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.8811615185529145,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                40.05,
+                27.72,
+                32.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Having a disposition of doing good and refraining from hurting others shields us from the sting of grief. Rejoicing always and thanking God for all that happens allows us to possess unbroken joy. This continuous joy is attained through constant prayer, expressing gratitude for everything, and finding contentment in our desires. This joy, rooted in the work of the Holy Spirit, enables us to experience true and unwavering happiness. By enduring trials, remaining hopeful in Christ, and embracing suffering for His sake, we can find joy even in the face of adversity.",
+            "wordCount": 92,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.0651318488928863,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                38.1,
+                29.81,
+                32.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

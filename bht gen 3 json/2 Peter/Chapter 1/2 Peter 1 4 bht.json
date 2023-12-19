@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:19",
+    "verseRef": "2 Peter 1:4",
+    "bestBHT": {
+        "bht": "Through the precious and exceeding great promises of God, we may escape the corruption and lust of the world. These promises grant us sanctification, imparting God Himself through the Holy Spirit in our souls. By clinging to these promises with unwavering confidence, we can become partakers of the divine nature and experience a growth in our moral character. These promises are a gift from God, as sure and reliable as if they were already fulfilled, leading us to eternal life and glory.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 2.412649068909235,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.56,
+        "commentatorTierSimilarities": [
+            30.26,
+            33.28,
+            36.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "that by means of these (promises: i.e. their fulfilment) ye may become partakers of the divine nature.",
+            "having escaped...from the corruption...which is in the world in lust.",
+            "This corruption he shews to be not in the elements which surround us, but in our own heart, because there reign the vicious and wicked affections, whose source and root he denotes by the word lust."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Precious promises are the object of precious faith.",
+            "The promises themselves are a gift: for God's promises are as sure as if they were fulfilled.",
+            "Sanctification is the imparting to us of God Himself by the Holy Spirit in the soul."
+        ],
+        "Albert Barnes": [
+            "The promises referred to are doubtless those which are made in connection with the plan of salvation revealed in the gospel, for there are no other promises made to man. They refer to the pardon of sin; strength, comfort, and support in trial; a glorious resurrection; and a happy immortality.",
+            "For the promises of God, therefore, we should be in the highest degree grateful, and in the trials of life we should cling to them with unwavering confidence as the only things which can be an anchor to the soul.",
+            "The reference then, in this place, must be to the 'moral' nature of God; and the meaning is, that they who are renewed become participants of the same 'moral' nature; that is, of the same views, feelings, thoughts, purposes, principles of action."
+        ],
+        "Marvin Vincent": [
+            "Hence Rev., correctly, he hath granted.",
+            "Precious [\u03c4\u03b9\u03bc\u03b9\u03b1] . The word occurs fourteen times in the New Testament. In eight instances it is used of material things, as stones, fruit, wood. In Peter it occurs three times : 1 Peter 1:7, of tried faith; 1 Peter 1:19, of the blood of Christ; and here, of God's promises.",
+            "Might be partakers [\u03b3\u03b5\u03bd\u03b7\u03c3\u03b8\u03b5 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03bf\u03b9] . Rev., more correctly, may become, conveying the idea of a growth."
+        ],
+        "John Calvin": [
+            "For what things have been promised to us by God, ought to be properly and justly deemed to be the effects of his power and glory.",
+            "And he then shews the excellency of the promises, that they make us partakers of the divine nature, than which nothing can be conceived better.",
+            "But we, disregarding empty speculations, ought to be satisfied with this one thing, \u2014 that the image of God in holiness and righteousness is restored to us for this end, that we may at length be partakers of eternal life and glory as far as it will be necessary for our complete felicity."
+        ],
+        "Philip Schaff": [
+            "By means of those same revealed and efficient perfections by which He called us, God has put us in actual possession of those incalculable bestowals of grace which are identified with the Coming of Christ and the gift of the Spirit.",
+            "His object was that through these (for only through these was it possible) the servants of the flesh might have a new life and a new destiny.",
+            "What is meant, therefore, is a Divine order of moral nature, an inward life of a Godlike constitution, participation in qualities which are in God, and which may be in us so far as His Spirit is in us."
+        ],
+        "Archibald T. Robertson": [
+            "He hath granted His precious and exceeding great promises.",
+            "Through these [promises]... partakers of the divine nature.",
+            "Having escaped... by lust."
+        ],
+        "John Gill": [
+            "The promises of the new and everlasting covenant [...] are absolute, free, and unconditional, and are irreversible and unchangeable; and they answer great ends and purposes, the glory of God, and the everlasting good and happiness of his people; and therefore must be 'precious', of more value and worth than thousands of gold and silver.",
+            "By way of resemblance and likeness, the new man or principle of grace, being formed in the heart in regeneration, after the image of God, and bearing a likeness to the image of his Son.",
+            "The Gospel, and the precious promises, being graciously bestowed and powerfully applied, have an influence on purity of heart and conversation, and teach men to deny ungodliness and worldly lusts, and to live soberly, righteously, and godly."
+        ],
+        "John Wesley": [
+            "He hath given us exceeding great, and inconceivably precious promises - Both the promises and the things promised, which follow in their due season.",
+            "That, sustained and encouraged by the promises, we may obtain all that he has promised.",
+            "Ye may become partakers of the divine nature - Being renewed in the image of God, and having communion with them, so as to dwell in God and God in you."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Through the precious and exceedingly great promises of God, we have the opportunity to escape the corruption and lust that plague the world and instead partake in the divine nature. These promises, given by God Himself, are as sure and reliable as if they were already fulfilled. They provide us with sanctification and the imparting of God Himself through the Holy Spirit. As we grow in faith, clinging to these promises, we can experience a transformation of our moral nature, sharing in the qualities of God Himself. By being renewed in the image of God and dwelling in Him, we can obtain eternal life and glory.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.1965575476211026,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.38,
+            "commentatorTierSimilarities": [
+                28.1,
+                35.17,
+                36.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through the precious and exceedingly great promises of God, we can escape the corruption and lust of the world and partake in the divine nature. These promises, given by God Himself, are as sure as if they were already fulfilled. They provide sanctification and impart God Himself through the Holy Spirit. As we grow in faith, clinging to these promises, we experience a transformation in our moral nature, sharing in the qualities of God. By being renewed and dwelling in Him, we obtain eternal life and glory.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.1596510554473376,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                29.78,
+                34.5,
+                35.72
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the precious promises of God, we escape the corrupt world and partake in the divine nature. These promises are as sure as if already fulfilled and grant us sanctification. The promises impart God Himself through the Holy Spirit, transforming our moral nature to reflect His qualities. By being renewed in the image of God and dwelling in Him, we obtain eternal life and glory. The promises are of great value and ensure the everlasting good and happiness of His people.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.2306789983126647,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.51,
+            "commentatorTierSimilarities": [
+                28.71,
+                32.77,
+                38.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through the precious and exceeding great promises of God, we may escape the corruption and lust of the world. These promises grant us sanctification, imparting God Himself through the Holy Spirit in our souls. By clinging to these promises with unwavering confidence, we can become partakers of the divine nature and experience a growth in our moral character. These promises are a gift from God, as sure and reliable as if they were already fulfilled, leading us to eternal life and glory.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.412649068909235,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.56,
+            "commentatorTierSimilarities": [
+                30.26,
+                33.28,
+                36.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the precious and exceeding great promises of God, we can escape the corruption and lust present in the world. These promises, a gift from God Himself, are as sure as if already fulfilled. They bring sanctification and the indwelling of God through the Holy Spirit, transforming our hearts and enabling us to partake in the divine nature. By clinging to these promises, we can experience a growth in our moral character, leading us to eternal life and glory.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.3094723842627127,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.13,
+            "commentatorTierSimilarities": [
+                30.36,
+                33.0,
+                36.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

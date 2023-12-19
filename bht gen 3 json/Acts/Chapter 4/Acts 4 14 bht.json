@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:25:58",
+    "verseRef": "Acts 4:14",
+    "bestBHT": {
+        "bht": "The religious authorities found themselves at a loss for words as the once-lame man stood before their very eyes, living proof of Peter's proclamation. The undeniable sight of the man, who had been known to them for years, lying at the gate of the temple, left them without any valid argument to counter the miraculous healing that had taken place. They could not deny the fact that this transformation was not the result of any earthly powers or fraudulent actions.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 1.5723497744521604,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+        "commentatorTierSimilarities": [
+            40.15,
+            25.69,
+            34.16
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The presence of the man that was healed was an unanswerable fact in proof of the truth of what the apostles alleged.\" ",
+            "The miracles of Jesus and his apostles were such that they could not be denied.\" ",
+            "It evinced no little gratitude in the man that was healed that he was present on this occasion, and showed that he was deeply interested in what befell his benefactors."
+        ],
+        "Philip Schaff": [
+            "The attitude of the healed one is mentioned with emphasis.",
+            "No longer the cripple who had never walked or stood.",
+            "He now stands near his deliverers."
+        ],
+        "Archibald T. Robertson": [
+            "They could say nothing against it. The lame man was standing there before their eyes in proof of what Peter had said.",
+            "Imperfect again, they kept on having nothing to say against it.",
+            "The lame man was standing there before their eyes in proof of what Peter had said."
+        ],
+        "John Gill": [
+            "they could, and did point and appeal unto him, who was ready to justify, that it was not by the use of medicine, or of magic art, or in the name of Satan or Beelzebub, but by the name of Jesus Christ of Nazareth, that his cure was wrought.",
+            "they could not gainsay the fact, for the man was before them, perfectly well, whom they personally knew, by his lying so long at the gate of the temple; they knew that he had been lame from his mother's womb, who was now above forty years of age",
+            "they could not blame them for doing it, it being a good deed, nor charge them with fraud and imposture."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The astonishment of the religious authorities was evident, for they had nothing to refute the undeniable evidence presented before them. The once-lame man, who had been lying at the gate for years, now stood as living proof of the truth of Peter's words. They found themselves powerless against the unassailable reality of the miraculous healing that had taken place. With the man's restored mobility, his gratitude and interest in the proceedings were clear. There could be no denying, even by his adversaries, that this transformation was not a result of medicine, magic, or any nefarious powers. The apostles could not be faulted for performing this act of kindness, as it was an undeniably good deed, leaving the religious authorities to confront the truth they had witnessed firsthand.",
+            "wordCount": 130,
+            "quoteTokenProportion": 40.66,
+            "qualityScore": 1.3436605232395182,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.02,
+            "commentatorTierSimilarities": [
+                35.81,
+                31.83,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The religious authorities were left speechless as they could not find any arguments against the truth presented before their eyes. The once-lame man, who had been unable to walk his entire life, now stood as clear evidence of the words spoken by Peter. The undeniable fact of his healing, known to them as he had been lying at the temple gate for many years, left them with no choice but to acknowledge the power of Jesus Christ in this remarkable transformation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.5624143638413626,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.29,
+            "commentatorTierSimilarities": [
+                42.85,
+                28.86,
+                28.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The religious authorities were left with no valid rebuttals as the healed man stood before them, a living testament to Peter's words. Unable to deny the undeniable truth, they were faced with the overwhelming evidence of the miraculous healing that had taken place. The restored mobility of the once-lame man served as a clear demonstration that the power behind this transformation could not be attributed to medicine, magic, or fraudulent actions. The authorities had no choice but to confront the reality they had witnessed firsthand.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.441292289558482,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.27,
+            "commentatorTierSimilarities": [
+                37.91,
+                31.77,
+                30.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The religious authorities found themselves at a loss for words as the once-lame man stood before their very eyes, living proof of Peter's proclamation. The undeniable sight of the man, who had been known to them for years, lying at the gate of the temple, left them without any valid argument to counter the miraculous healing that had taken place. They could not deny the fact that this transformation was not the result of any earthly powers or fraudulent actions.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.5723497744521604,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                40.15,
+                25.69,
+                34.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The religious authorities were left speechless and unable to present any counterarguments when faced with the undeniable proof of the once-lame man standing before them. His presence served as irrefutable evidence of the truth of Peter's words. The healed man's gratitude and deep interest in the situation further highlighted the authenticity of his transformation. There was no way to dismiss or question what had occurred, as the fact of the miraculous healing was clear and undeniable, leaving the authorities with no choice but to confront this remarkable reality.",
+            "wordCount": 91,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.3257400148103593,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.42,
+            "commentatorTierSimilarities": [
+                36.76,
+                37.73,
+                25.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

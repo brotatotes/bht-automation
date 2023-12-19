@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:18:04",
+    "verseRef": "Luke 11:5",
+    "bestBHT": {
+        "bht": "If selfish man can be won by prayer and importunity to give, and unjust man to do right, much more certainly shall the bountiful Lord bestow, and the righteous Lord do justice. We must remember that all reluctance on the part of God to answer our prayers is not real, but apparent only, and arises from deeper reasons working for our good. The reluctance in these two parables is real, arising from selfishness and contempt of justice.",
+        "wordCount": 77,
+        "quoteTokenProportion": 48.28,
+        "qualityScore": 1.8852989535202846,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+        "commentatorTierSimilarities": [
+            25.86,
+            44.76,
+            29.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If selfish man can be won by prayer and importunity to give, and unjust man to do right, much more certainly shall the bountiful Lord bestow, and the righteous Lord do justice.",
+            "We must remember that all reluctance on the part of God to answer our prayers is not real, but apparent only, and arises from deeper reasons working for our good.",
+            "The reluctance in these two parables is real, arising from selfishness and contempt of justice."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The heat in warm countries makes evening preferable to-day for travelling.",
+            "Midnight is everywhere a most unseasonable hour of call.",
+            "For that very reason it is here selected."
+        ],
+        "Marvin Vincent": [
+            "Set before. See on ch. Luke 9:16."
+        ],
+        "John Calvin": [
+            "Believers ought not to be discouraged, if they do not immediately obtain their desires, or if they find them difficult to be obtained.",
+            "If, among men, importunity of asking extorts what a person would not willingly do, we have no reason to doubt that God will listen to us.",
+            "If we persevere constantly in prayer, and if our minds do not slacken through difficulty or delay."
+        ],
+        "Philip Schaff": [
+            "The argument of this parable is: \u2018If selfish man can be won by prayer and importunity to give,\u2019 \u2018much more certainly shall the bountiful Lord bestow.\u2019\" ",
+            "The purpose is, as in the similar parable of the unjust judge, not only to enjoin and encourage persevering prayer, but to declare the certainty that prayer will be heard.",
+            "A reference to the Bread of Life is most probable."
+        ],
+        "Archibald T. Robertson": [
+            "At midnight.\" ",
+            "And say to him...Lend me.\" ",
+            "Lend me now."
+        ],
+        "John Gill": [
+            "Which of you shall have a friend... and shall go unto him at midnight...\" ",
+            "...on a sabbath day, a man may ask of his friend vessels of wine, and vessels of oil, only he must not say, lend me...\" ",
+            "For what was lent, could not be demanded again under thirty days."
+        ],
+        "John Wesley": [
+            "At midnight \u2014 The most unseasonable time: but no time is unseasonable with God, either for hearing or answering prayer."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If selfish man can be won by prayer and importunity to give, and unjust man to do right, much more certainly shall the bountiful Lord bestow, and the righteous Lord do justice. We must remember that all reluctance on the part of God to answer our prayers is not real, but apparent only, and arises from deeper reasons working for our good. The reluctance in these two parables is real, arising from selfishness and contempt of justice. The argument of this parable is: \u2018If selfish man can be won by prayer and importunity to give,\u2019 \u2018much more certainly shall the bountiful Lord bestow.\u2019 The purpose is, as in the similar parable of the unjust judge, not only to enjoin and encourage persevering prayer, but to declare the certainty that prayer will be heard.",
+            "wordCount": 133,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.058784474706584,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                20.25,
+                53.66,
+                26.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If selfish man can be won by prayer and importunity to give, and unjust man to do right, much more certainly shall the bountiful Lord bestow, and the righteous Lord do justice. We must remember that all reluctance on the part of God to answer our prayers is not real, but apparent only, and arises from deeper reasons working for our good. The reluctance in these two parables is real, arising from selfishness and contempt of justice.",
+            "wordCount": 77,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 1.8852989535202846,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                25.86,
+                44.76,
+                29.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When we pray, we can take comfort in the fact that if selfish individuals can be moved by persistence to give, and unjust individuals to do what is right, then surely the generous Lord will grant our requests, and the righteous Lord will ensure justice. It is important to understand that any apparent reluctance on God's part to answer our prayers is merely superficial, stemming from deeper reasons that work for our ultimate good. In these parables, the hesitation arises from the selfishness and disregard for justice displayed by the characters involved.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.738137588842642,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                24.82,
+                47.22,
+                27.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When we pray, we can take comfort in the fact that if selfish individuals can be moved by persistence to give, and unjust individuals to do what is right, then surely the generous Lord will grant our requests, and the righteous Lord will ensure justice. It is important to remember that any reluctance on God's part to answer our prayers is not real, but apparent only, arising from deeper reasons working for our good. The reluctance in these parables is real, stemming from selfishness and contempt of justice.",
+            "wordCount": 89,
+            "quoteTokenProportion": 46.15,
+            "qualityScore": 1.7791826340360748,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.5,
+            "commentatorTierSimilarities": [
+                26.25,
+                44.09,
+                29.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When we pray, we can find encouragement in knowing that if selfish individuals can be influenced by persistent requests to give, and unjust individuals to do what is right, then certainly the bountiful Lord will bestow and the righteous Lord will do justice. It is crucial to understand that any apparent hesitation from God to answer our prayers is only superficial, stemming from deeper reasons that work for our ultimate good. The hesitation in these parables is real, originating from selfishness and disregard for justice.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.7921237170211526,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                24.32,
+                46.28,
+                29.4
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

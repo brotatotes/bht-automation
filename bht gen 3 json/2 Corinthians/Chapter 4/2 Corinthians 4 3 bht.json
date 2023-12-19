@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:15:49",
+    "verseRef": "2 Corinthians 4:3",
+    "bestBHT": {
+        "bht": "The gospel may be veiled to those who are perishing, but this is not the fault of the gospel itself. Just as Moses' face was veiled, the gospel can be hidden from understanding due to unbelief. The blindness and rejection of the gospel by some does not diminish its clarity and brilliance. The gospel remains clear and resplendent, shining brightly even if some choose not to see its light. It is the lost who are unable to perceive its beauty, not the gospel that lacks clarity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 52.73,
+        "qualityScore": 2.174485698590648,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+        "commentatorTierSimilarities": [
+            25.36,
+            38.94,
+            35.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And even if our gospel is vailed, it is among the perishing that it is vailed.\" ",
+            "The allegory of ch. iii. is continued,\u2014the hiding of the gospel by the vail placed before the understanding."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Hid\" (Greek, 2 Corinthians 3:13-47.3.18- :) is said of that withdrawn from view altogether. 'Veiled,' of a thing within reach of the eye, but covered over so as not to be seen.",
+            "So it was in the case of Moses' face.",
+            "So the same cloud that was 'light' to the people of God, was 'darkness' to the Egyptian foes of God."
+        ],
+        "Albert Barnes": [
+            "The beauty of the gospel may be hidden from many of the human family. There are thousands and million to whom it is preached who see no beauty in it, and who regard it as foolishness.",
+            "There is a class of people who may be called, even now, 'the lost.' They are lost to virtue, to piety, to happiness, to hope. They deserve to perish; and they are hastening to merited ruin.",
+            "This is not the fault of the gospel. It is not the fault of the sun when people shut their eyes and will not see it. It is not the fault of a running stream, or a bubbling fountain, if people will not drink of it, but rather choose to die of thirst."
+        ],
+        "Marvin Vincent": [
+            "Hid [\u03ba\u03b5\u03ba\u03b1\u03bb\u03c5\u03bc\u03bc\u03b5\u03bd\u03bf\u03bd] . Rev., veiled, in accordance with the imagery of ch. 3."
+        ],
+        "John Calvin": [
+            "The sum is this \u2014 that the blindness of unbelievers detracts nothing from the clearness of his gospel; for the sun is not less resplendent, that the blind do not perceive his light.",
+            "When Christ is included in the law, the sun shines forth through the midst of the clouds, so that men have light enough for their use; but when Christ is disjoined from it, there is nothing left but darkness, or a false appearance of light, that dazzles men\u2019s eyes instead of assisting them.",
+            "It is befitting, however, that all that would be looked upon as ministers of God\u2019s word should be endued with the like confidence, that with a fearless confidence they may unhesitatingly summon all the adversaries of their doctrine to the judgment-seat of God, that they may bring thence a sure condemnation."
+        ],
+        "Archibald T. Robertson": [
+            "It is veiled in them that are perishing.",
+            "Periphrastic perfect passive of \u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03c9, to veil in both condition (first class) and conclusion.",
+            "See on 2 Corinthians 2:15 for 'the perishing.'"
+        ],
+        "John Gill": [
+            "If our Gospel be hid, it is hid to them that are lost.",
+            "The Gospel is preached to Jews and Gentiles; so that it is hid to none, as to the outward ministration of it.",
+            "Such instances are no more an objection to the clearness and perspicuity of the Gospel, and the ministration of it, than men born blind, who never could, nor never will see light, are to the bright and clear shining of the sun noon day."
+        ],
+        "John Wesley": [
+            "But if our gospel also \u2014 As well as the law of Moses."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Even if the gospel is veiled, as the allegory continues from chapter 3, it is only veiled to those who are perishing. The gospel is like a hidden treasure, withdrawn from view for some, but within reach of the eye for others. Just as the face of Moses was hidden by a veil, the gospel can be obscured by unbelief. It is a matter of perception - what is light to the people of God is darkness to those who reject it. The gospel is not at fault for being hidden; it is those who are blind to its beauty and choose to perish. Just as the sun shines brightly even if the blind cannot perceive its light, so the gospel remains clear and resplendent regardless of unbelief. The clearness and perspicuity of the gospel is not diminished by the blindness of unbelievers, for it is their lost condition and rejection of the truth that veils it to them.",
+            "wordCount": 157,
+            "quoteTokenProportion": 42.17,
+            "qualityScore": 2.1636204817960687,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.28,
+            "commentatorTierSimilarities": [
+                26.79,
+                37.95,
+                35.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Even if the gospel is veiled, it is only veiled to those who are perishing. The allegory of hiding the gospel by a veil continues, illustrating how it may be hidden from some but within reach of others. Just as Moses' face was hidden, the gospel can be obscured by unbelief. What is light to the people of God is darkness to those who reject it. The gospel remains clear and resplendent, regardless of unbelief. Its clarity is not diminished by the blindness of unbelievers.",
+            "wordCount": 85,
+            "quoteTokenProportion": 51.79,
+            "qualityScore": 2.082846175738057,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.6,
+            "commentatorTierSimilarities": [
+                30.61,
+                33.32,
+                36.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gospel may be hidden from those who are perishing, like a veil covering their understanding. Just as Moses' face was veiled, the gospel can be obscured by unbelief. However, this is not the fault of the gospel itself, but rather due to the blindness and rejection of those who choose not to see its beauty. The gospel remains clear and resplendent, shining brightly even if some are unable or unwilling to perceive its light. Its clarity is not diminished by the unbelief of those who are lost.",
+            "wordCount": 88,
+            "quoteTokenProportion": 51.67,
+            "qualityScore": 2.1132931430697366,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.61,
+            "commentatorTierSimilarities": [
+                26.68,
+                38.37,
+                34.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The gospel may be veiled to those who are perishing, but this is not the fault of the gospel itself. Just as Moses' face was veiled, the gospel can be hidden from understanding due to unbelief. The blindness and rejection of the gospel by some does not diminish its clarity and brilliance. The gospel remains clear and resplendent, shining brightly even if some choose not to see its light. It is the lost who are unable to perceive its beauty, not the gospel that lacks clarity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 52.73,
+            "qualityScore": 2.174485698590648,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.64,
+            "commentatorTierSimilarities": [
+                25.36,
+                38.94,
+                35.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The gospel may be veiled to those who are perishing, but this is not the fault of the gospel itself. It is like a hidden treasure, withdrawn from view for some, but within reach for others. Just as Moses' face was hidden by a veil, the gospel can be obscured by unbelief. However, the clarity and brilliance of the gospel are not diminished by the blindness of unbelievers. It remains clear and resplendent, shining brightly even if some choose not to see its light.",
+            "wordCount": 84,
+            "quoteTokenProportion": 53.45,
+            "qualityScore": 1.9010997355377666,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                27.6,
+                37.2,
+                35.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

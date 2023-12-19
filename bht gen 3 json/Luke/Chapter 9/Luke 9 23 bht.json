@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:17:06",
+    "verseRef": "Luke 9:23",
+    "bestBHT": {
+        "bht": "Jesus wanted all to understand the lesson of self-sacrifice. Each person has their own cross to bear, symbolizing the hardships they will face in following him. It is through denying oneself and willingly carrying their cross daily that believers can truly follow Jesus. Afflictions and trials are to be expected every day, but it is in surrendering to them and bearing them with courage that believers can fully devote themselves to their faith.",
+        "wordCount": 74,
+        "quoteTokenProportion": 44.64,
+        "qualityScore": 1.496594276157326,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+        "commentatorTierSimilarities": [
+            48.36,
+            0.0,
+            51.64
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23.] to them all\u2014\u201d having called the multitude with His disciples,\u201d Mark. There is no allusion to what He had said to Peter in this all."
+        ],
+        "Marvin Vincent": [
+            "Will come after [\u03b8\u03b5\u03bb\u03b5\u03b9] . Not the future tense of the verb come, but the present of the verb to will : wills to come.\"  ",
+            "Rev., properly, would come.",
+            "Daily. Peculiar to Luke."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus wanted all (the multitude with his disciples, as Mark 8:34 has it) to understand the lesson of self-sacrifice.",
+            "The word for lose (\u03b1\u03c0\u03bf\u03bb\u03b5\u03c3\u03b5, from \u03b1\u03c0\u03bf\u03bb\u03bb\u03c5\u03bc, a very common verb) is used in the sense of destroy, kill, lose, as here.",
+            "Each man has his own cross to meet and bear."
+        ],
+        "John Gill": [
+            "Let him deny himself, and take up his cross daily, and follow me.\" ",
+            "Showing that afflictions, trials, and persecutions of one sort or another, are to be expected every day by the people of God, and to be continually submitted to, and borne with cheerfulness."
+        ],
+        "John Wesley": [
+            "Let him deny himself, and take up his cross.\" ",
+            "The necessity of this duty has been shown in many places.\" ",
+            "Therefore that day is lost wherein no cross is taken up."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus wanted everyone, not just his disciples, to grasp the importance of self-sacrifice. He emphasized that each person has their own cross to bear, symbolizing the trials and hardships they will face in following him. This daily commitment to deny oneself and willingly carry their cross is essential. It is through this act of self-denial and perseverance that they can truly follow Jesus. Afflictions and trials are to be expected every day, but it is in surrendering to them and bearing them with courage that believers can fully devote themselves to their faith.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.4030258094040873,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.99,
+            "commentatorTierSimilarities": [
+                43.77,
+                0.0,
+                56.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus wanted all to understand the lesson of self-sacrifice. Each person has their own cross to bear, symbolizing the hardships they will face in following him. It is through denying oneself and willingly carrying their cross daily that believers can truly follow Jesus. Afflictions and trials are to be expected every day, but it is in surrendering to them and bearing them with courage that believers can fully devote themselves to their faith.",
+            "wordCount": 74,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 1.496594276157326,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.1,
+            "commentatorTierSimilarities": [
+                48.36,
+                0.0,
+                51.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus desired that everyone comprehend the importance of self-sacrifice, not just his own disciples. Each individual has their own unique cross to bear, signifying the trials and challenges they will encounter in their dedication to Christ. This daily act of denying oneself and willingly embracing their cross is crucial in truly following Jesus. It is inevitable that believers will face afflictions and difficulties on a regular basis, but it is in accepting and enduring them with bravery that they can wholeheartedly commit themselves to their faith.",
+            "wordCount": 87,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.4473926387954157,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.47,
+            "commentatorTierSimilarities": [
+                49.23,
+                0.0,
+                50.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus wanted everyone to grasp the lesson of self-sacrifice and to understand that each person has their own cross to bear. This daily commitment to deny oneself and willingly carry their cross is essential in following Jesus. Believers should anticipate trials and hardships every day but should face them with courage, fully devoting themselves to their faith. Surrendering to afflictions and bearing them cheerfully is the path to true discipleship.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.3643591520141312,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.71,
+            "commentatorTierSimilarities": [
+                42.62,
+                0.0,
+                57.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus desired everyone to understand the lesson of self-sacrifice and grasp the importance of daily denying oneself and willingly carrying their own cross. Believers should expect trials, hardships, and persecutions each day, continuously submitting to them with cheerfulness and steadfastness. Surrendering to afflictions and persevering through them is an essential duty for followers of Christ, allowing them to fully dedicate themselves to their faith.",
+            "wordCount": 65,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.3732384886395292,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.0,
+            "commentatorTierSimilarities": [
+                40.86,
+                0.0,
+                59.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

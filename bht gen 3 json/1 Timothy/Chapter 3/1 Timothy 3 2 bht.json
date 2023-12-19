@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 17:28:26",
+    "verseRef": "1 Timothy 3:2",
+    "bestBHT": {
+        "bht": "An overseer in the early church should strive to be blameless and without reproach, maintaining a character that cannot be accused. While some argue against polygamy, it likely refers to the preference for candidates to have been married only once. Bishops should exhibit a festival-like character, avoiding excess, violence, and meanness. Hospitality is highly valued, emphasizing the importance of welcoming others. The office of a bishop differs from later monarchical forms. Bishops should be refined gentlemen, setting an example through manners and promoting the welfare of others.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.5716653011153827,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+        "commentatorTierSimilarities": [
+            29.09,
+            34.37,
+            36.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Episcopacy was adopted in apostolic times as the most expedient form of government, being most nearly in accordance with Jewish institutions, and so offering the less obstruction through Jewish prejudices to the progress of Christianity.",
+            "Though the Jews practiced polygamy, yet as he is writing as to a Gentile Church, and as polygamy was never allowed among even laymen in the Church, the ancient interpretation that the prohibition here is against polygamy in a candidate bishop is not correct. It must, therefore, mean that, though laymen might lawfully marry again, candidates for the episcopate or presbytery were better to have been married only once.",
+            "The new man bears somewhat of a sacred festival character, incompatible with all confusion, disorder, excess, violence, laxity, assumption, harshness, and meanness."
+        ],
+        "Albert Barnes": [
+            "His conduct should be irreprehensible or irreproachable. Undoubtedly it means that if 'any' charge could be brought against him implying moral obliquity, he is not fit for the office.",
+            "The marriage of a second wife, after the death of the first, is nowhere spoken of in the Scriptures as wrong... Marriage is as honorable for a minister of the gospel as for any other man.",
+            "A minister of the gospel should be a finished gentleman in his manners, and there is no excuse for him if he is not... He should be an example and a pattern in all that goes to promote the welfare of mankind, and there are few things so easily acquired that are suited to do this, as refinement and gentility of manners."
+        ],
+        "Marvin Vincent": [
+            "Blameless [\u03b1\u03bd\u03b5\u03c0\u03b9\u03bb\u03b7\u03bc\u03c0\u03c4\u03bf\u03bd] . Or without reproach : one who cannot be laid hold of [\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03b5\u03b9\u03bd] : who gives no ground for accusation.",
+            "The last is probably meant. Much of the difficulty arises from the assumption that the Pastorals were written by Paul.",
+            "The opposition to second marriage became very strong in the latter part of the second century. It was elevated into an article of faith by the Montanists."
+        ],
+        "John Calvin": [
+            "He wishes a bishop to be blameless...that he must not be marked by any infamy that would lessen his authority.\" ",
+            "The only true exposition, therefore, is that of Chrysostom, that in a bishop he expressly condemns polygamy.",
+            "In this way, he would not demand it as a thing necessary for them, but would only praise it as not inconsistent with the dignity of the office."
+        ],
+        "Philip Schaff": [
+            "A bishop most be blameless. Literally, \u2018giving no handle to reproach, unassailable.\u2019\" ",
+            "The husband of one wife.\" ",
+            "Given to hospitality. The stress laid on this virtue here and in Titus 1:8, 1 Peter 4:9, Romans 12:13, Hebrews 13:2, rested mainly on the special trials to which the state of society exposed the early converts."
+        ],
+        "Archibald T. Robertson": [
+            "The bishop (\u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03bf\u03bd). The overseer...does not In the N.T. have the monarchical sense found in Ignatius of a bishop over elders.",
+            "Without reproach (\u03b1\u03bd\u03b5\u03c0\u03b9\u03bb\u03b7\u03bc\u03c0\u03c4\u03bf\u03bd)...irreproachable.",
+            "Given to hospitality (\u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03bf\u03bd)...in N.T. only here, Titus 1:8; 1 Peter 4:9."
+        ],
+        "John Gill": [
+            "A bishop then must be blameless\" - He should be one without any notorious or flagitious crime, having a good reputation before men.",
+            "The husband of one wife\" - If married, he should have but one wife at a time, excluding polygamists or those who have divorced and remarried without valid reasons.",
+            "Apt to teach\" - Capable of interpreting the Scripture for the edification of others, communicating the truths of the Gospel effectively, and having a gift of elocution."
+        ],
+        "John Wesley": [
+            "Must be blameless \u2014 Without fault or just suspicion.",
+            "The husband of one wife \u2014 This neither means that a bishop must be married, nor that he may not marry a second wife; which it is just as lawful for him to do as to marry a first, and may in some cases be his bounden duty.",
+            "Vigilant, prudent \u2014 Lively and zealous, yet calm and wise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "An overseer in the early church should strive to be blameless and without reproach, maintaining a character that cannot be accused. While some argue that this verse prohibits polygamy, it is more likely that it emphasizes the importance of a candidate for leadership in the church having been married only once. Furthermore, the bishop should possess a festival-like character marked by order and dignity, avoiding all forms of excess, violence, and meanness. It is important for a bishop to be hospitable, as this virtue was highly regarded in the early Christian community. The office of a bishop does not have the same monarchical sense as it later developed in church history. Ultimately, a bishop should be a refined gentleman, setting an example through his manners and conduct, and always striving to promote the welfare of others.",
+            "wordCount": 137,
+            "quoteTokenProportion": 37.78,
+            "qualityScore": 1.802463633368491,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.27,
+            "commentatorTierSimilarities": [
+                30.31,
+                35.03,
+                34.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "An overseer in the early church is expected to be blameless, without reproach, and incapable of being accused. While some argue that this verse condemns polygamy, it is more likely referring to the preferred state of being married only once for those in leadership positions. Bishops are expected to exhibit a festival-like character, maintaining order, dignity, and a complete avoidance of excess, violence, and meanness. In addition, the virtue of hospitality is highly valued in the early Christian community. The office of a bishop differs from the later monarchical sense it took on in church history. A bishop should strive to be a refined gentleman, exemplifying good manners and promoting the welfare of others.",
+            "wordCount": 115,
+            "quoteTokenProportion": 32.1,
+            "qualityScore": 1.7111636827404815,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.24,
+            "commentatorTierSimilarities": [
+                30.4,
+                35.68,
+                33.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "An overseer in the early church is expected to be blameless, without reproach, and incapable of being accused. While some argue that this verse condemns polygamy, it is more likely referring to the preferred state of being married only once for those in leadership positions. Bishops are expected to exhibit a festival-like character, maintaining order, dignity, and a complete avoidance of excess, violence, and meanness. The virtue of hospitality is highly valued, emphasizing the importance of welcoming others. Overall, bishops should be refined gentlemen, exemplifying good manners and promoting the welfare of others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.6344845561601375,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                28.74,
+                35.62,
+                35.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "An overseer in the early church should strive to be blameless, without reproach, maintaining a character that cannot be accused. While some argue that this verse prohibits polygamy, it is more likely that it emphasizes the importance of a candidate for leadership having been married only once. The bishop should possess a festival-like character marked by order and dignity, avoiding excess, violence, and meanness. Being hospitable is highly regarded in the early Christian community. Ultimately, a bishop should be refined, setting an example through manners and conduct, and promoting the welfare of others.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.7202351025171683,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.54,
+            "commentatorTierSimilarities": [
+                29.47,
+                35.1,
+                35.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "An overseer in the early church should strive to be blameless and without reproach, maintaining a character that cannot be accused. While some argue against polygamy, it likely refers to the preference for candidates to have been married only once. Bishops should exhibit a festival-like character, avoiding excess, violence, and meanness. Hospitality is highly valued, emphasizing the importance of welcoming others. The office of a bishop differs from later monarchical forms. Bishops should be refined gentlemen, setting an example through manners and promoting the welfare of others.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.5716653011153827,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.6,
+            "commentatorTierSimilarities": [
+                29.09,
+                34.37,
+                36.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

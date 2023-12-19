@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:14:04",
+    "verseRef": "Luke 2:9",
+    "bestBHT": {
+        "bht": "In their anticipation of the consolation of Israel, the shepherds found themselves in the presence of the glory of the Lord, the brightness of God's presence. The radiant angel, surrounded by heavenly light, stood by their side. Filled with great fear, they were awed by the divine majesty and their own unworthiness. In this profound moment, the shepherds received the angel's message with reverence and humility, recognizing their own sinfulness and fragility in the presence of God's glory.",
+        "wordCount": 81,
+        "quoteTokenProportion": 28.26,
+        "qualityScore": 2.109226881652,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+        "commentatorTierSimilarities": [
+            26.19,
+            33.0,
+            40.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the glory of the Lord\u2014the brightness of God\u2019s presence\u2014the Shechinah (see reff.) which also accompanied His angels when they appeared to men.",
+            "It is agreeable at least to the analogy of the divine dealings, to suppose that these shepherds, like Symeon, were waiting for the consolation of Israel.",
+            "the brightness of God\u2019s presence"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "glory of the Lord\u2014\"the brightness or glory which is represented as encompassing all heavenly visions\" [OLSHAUSEN].\" ",
+            "sore afraid\u2014So it ever was (Daniel 10:7; Daniel 10:8; Luke 1:12; Revelation 1:17).\" ",
+            "Men have never felt easy with the invisible world laid suddenly open to their gaze. It was never meant to be permanent; a momentary purpose was all it was intended to serve."
+        ],
+        "Albert Barnes": [
+            "The glory of the Lord - This is the same as a 'great' glory - that is, a splendid appearance or 'light.'\" ",
+            "The word 'glory' is often the same as light.",
+            "The glory of the Lord here means an exceedingly great or bright luminous appearance perhaps not unlike what Paul saw on the way to Damascus."
+        ],
+        "Marvin Vincent": [
+            "The angel. More correctly an angel, as Rev. The Greek has no article.",
+            "Came upon [\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7] . The word is used in this sense in classical Greek, as well as in that of to stand by, which Rev. prefers here, as in Acts 12:7. In verse 38 of this chapter, Rev. renders coming up.",
+            "They were sore afraid. Lit., feared with great fear."
+        ],
+        "John Calvin": [
+            "For it would have been of little avail to be told by an angel what is related by Luke, if God had not testified, by some outward sign, that what they heard proceeded from Him.",
+            "The angel appeared, not in an ordinary form, or without majesty, but surrounded with the brightness of heavenly glory, to affect powerfully the minds of the shepherds, that they might receive the discourse which was addressed to them, as coming from the mouth of God himself.",
+            "Hence the fear, of which Luke shortly afterwards speaks, by which God usually humbles the hearts of men, and disposes them to receive his word with reverence."
+        ],
+        "Philip Schaff": [
+            "Stood by. This indicates a sudden but actual appearance; not a vision.",
+            "The glory of the Lord. The Shekinah, the brightness of God\u2019s presence, so often spoken of in the Old Testament.",
+            "And they were sore afraid. Lit., 'feared a great fear.' The usual effect of angelic appearances, enhanced in this case by the supernatural brightness."
+        ],
+        "Archibald T. Robertson": [
+            "Stood by them (\u03b5\u03c0\u03b5\u03c3\u03c4\u03b7 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2). Ingressive aorist active indicative. Stepped by their side.",
+            "The same word in Acts 12:7 of the angel there.",
+            "It is a common old Greek word, \u03b5\u03c6\u03b9\u03c3\u03c4\u03b7\u03bc."
+        ],
+        "John Gill": [
+            "The glory of the Lord shone round about them; or a very glorious and extraordinary light shone with surprising lustre and brightness all around them.",
+            "By which light, they could discern the illustrious form of the angel that was over them.",
+            "They were awed with the majesty of God, of which these were symbols, and were conscious to themselves of their own sinfulness and frailty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The shepherds, like Symeon, were waiting for the consolation of Israel. Suddenly, the brightness of God\u2019s presence, the glory of the Lord, accompanied by an angel, appeared before them. This luminous appearance, surrounded by heavenly glory, caused the shepherds to fear greatly. The angel, standing by their side, with great power and majesty, spoke to them, and the brightness of the Lord shone around them. This extraordinary light allowed them to see the angel's illustrious form. Overwhelmed by the majesty of God and aware of their own sinfulness, the shepherds received the angel's message with reverence and humility.",
+            "wordCount": 101,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.0793993354545477,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                25.8,
+                33.05,
+                41.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the darkness of the night, the shepherds eagerly awaited the consolation of Israel. Suddenly, the glory of the Lord, surrounded by a radiant light, appeared before them. Overwhelmed by the brightness of God's presence, they were filled with great fear. A majestic angel, with power and authority, stood by their side. The shepherds witnessed the extraordinary and luminous form of the angel in the divine light. Aware of their own sinfulness and frailty, they humbly received the angel's message with reverence.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.032931413828594,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.94,
+            "commentatorTierSimilarities": [
+                26.75,
+                32.94,
+                40.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the waiting darkness, the shepherds anticipated the consolation of Israel. Suddenly, the glory of the Lord, the brightness of God's presence, shone around them. Filled with fear, they stood in awe of the luminous angel who approached them. The angel, with great power and majesty, stood by their side, a tangible presence. The shepherds, aware of their own sinfulness and humbled by the divine manifestation, received the angel's message with reverence.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 2.038766883339431,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+            "commentatorTierSimilarities": [
+                26.3,
+                33.58,
+                40.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The shepherds, eagerly awaiting the consolation of Israel, were startled as the brilliance of God\u2019s presence suddenly surrounded them. Overwhelmed by fear, they trembled in the presence of the luminous angel. With great power and majesty, the angel stood by their side, illuminating their surroundings. The shepherds, humbled by their own sinfulness and frailty, listened attentively, receiving the angel's message in reverence and awe.",
+            "wordCount": 66,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 2.0068339128647867,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.07,
+            "commentatorTierSimilarities": [
+                26.46,
+                29.82,
+                43.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In their anticipation of the consolation of Israel, the shepherds found themselves in the presence of the glory of the Lord, the brightness of God's presence. The radiant angel, surrounded by heavenly light, stood by their side. Filled with great fear, they were awed by the divine majesty and their own unworthiness. In this profound moment, the shepherds received the angel's message with reverence and humility, recognizing their own sinfulness and fragility in the presence of God's glory.",
+            "wordCount": 81,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 2.109226881652,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.47,
+            "commentatorTierSimilarities": [
+                26.19,
+                33.0,
+                40.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

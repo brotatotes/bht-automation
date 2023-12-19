@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 15:21:59",
+    "verseRef": "Colossians 4:1",
+    "bestBHT": {
+        "bht": "Paul implores masters to treat their servants with fairness and equity, going beyond strict rules for a generous interpretation of justice. Recognizing the mutual obligations and responsibilities among all ranks, masters are reminded that they too have a Master in heaven. By providing what is just and equal, they reflect the brotherly equality inherent in the Christian relationship. Gentleness and care should be extended, acknowledging the authority of God over both masters and servants.",
+        "wordCount": 74,
+        "quoteTokenProportion": 41.67,
+        "qualityScore": 1.8332786536667074,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+        "commentatorTierSimilarities": [
+            32.62,
+            25.66,
+            41.72
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "equality] i.e. equity,\u2014fairness: an extension of justice to matters not admitting of the application of strict rules\u2014a large and liberal interpretation of justice in ordinary matters.\" ",
+            "knowing] see ch, iii. 24. also] as well as they: \u2018as you are masters to them, so the Lord to you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Give...literally, 'afford.'\" ",
+            "Equal...that is, as the slaves owe their duties to you, so you equally owe to them your duties as masters.",
+            "Knowing...ye also\u2014as well as they."
+        ],
+        "Albert Barnes": [
+            "That all men were of one and the same blood; Acts 17:26. That they were all redeemed by the same Saviour, and were brethren; 1 Timothy 6:2; Philemon 1:16.",
+            "If redeemed; if they were 'brethren;' if they were heirs of glory, they were not 'chattels,' or 'things;' and how could a Christian conscientiously hold or regard them as property?",
+            "Have they not been deprived of their liberty by injustice, and would not 'justice' restore it? What has the slave done to forfeit his liberty? If he should make him 'equal' in rights to himself, or to what he is by nature, would he not emancipate him?"
+        ],
+        "Marvin Vincent": [
+            "The best texts attach this verse to the preceding chapter.\" ",
+            "Not equality of condition, but the brotherly equality growing out of the Christian relation in which there is neither bond nor free.",
+            "See on Philippians 1:16."
+        ],
+        "John Calvin": [
+            "But as masters, looking down as it were from aloft, despise the condition of servants, so that they think that they are bound by no law, Paul brings them under control, because both are equally under subjection to the authority of God.\" ",
+            "For masters have not their servants bound to them in such a manner as not to owe something to them in their turn, as analogical right to be in force among all ranks.\" ",
+            "As there is a mutual right, regulated according to a consideration of the office and calling of each individual, which right ought to have a place among all ranks."
+        ],
+        "Philip Schaff": [
+            "The arrangement is identical, the precepts and motives in the main the same.",
+            "Nowhere is the division of chapters more infelicitous than here.",
+            "From this nothing can be inferred as to which was first written."
+        ],
+        "Archibald T. Robertson": [
+            "If employers always did this, there would be no labour problem.",
+            "A Master in heaven...he keeps his eye on the conduct of masters of men here towards their employees."
+        ],
+        "John Gill": [
+            "Masters, give unto your servants [...] that which is just and equal.\" ",
+            "Using them with gentleness and humanity, taking care of them when under affliction, and in sickness.",
+            "Knowing that ye also have a master in heaven."
+        ],
+        "John Wesley": [
+            "Just \u2014 According to your contract.",
+            "Equitable \u2014 Even beyond the letter of your contract."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Colossians 4:1, Paul emphasizes the importance of fairness and justice, urging masters to treat their servants with equality, understanding that they too have a Master in heaven. This goes beyond mere obedience and highlights the need for masters to afford their servants what is just and equal. It also reminds masters that they are not exempt from God's authority, and they should show gentleness and care towards their servants. Ultimately, this verse speaks to the mutual obligations and responsibilities that exist among all ranks, reflecting the brotherly equality that arises from the Christian relationship.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 1.8584138686541256,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.13,
+            "commentatorTierSimilarities": [
+                32.13,
+                26.63,
+                41.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Paul calls for fairness and justice, urging masters to treat their servants with equality. He emphasizes the mutual obligations and responsibilities that exist among all ranks, reminding masters that they too have a Master in heaven, and should show gentleness and care towards their servants. This reflects the brotherly equality that arises from the Christian relationship and emphasizes the importance of affording what is just and equal to those under their authority.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.8460537776805261,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                33.01,
+                27.24,
+                39.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul encourages masters to treat their servants with fairness and equity, extending justice to matters that cannot be addressed by strict rules. He emphasizes the mutual obligations and responsibilities that exist among all ranks, reminding masters that they too have a Master in heaven. By affording what is just and equal to their servants, masters reflect the brotherly equality that arises from the Christian relationship. This verse highlights the importance of showing gentleness and care, recognizing the authority of God over both masters and servants.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.8323312148688813,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.27,
+            "commentatorTierSimilarities": [
+                32.91,
+                25.61,
+                41.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul implores masters to treat their servants with fairness and equity, going beyond strict rules for a generous interpretation of justice. Recognizing the mutual obligations and responsibilities among all ranks, masters are reminded that they too have a Master in heaven. By providing what is just and equal, they reflect the brotherly equality inherent in the Christian relationship. Gentleness and care should be extended, acknowledging the authority of God over both masters and servants.",
+            "wordCount": 74,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8332786536667074,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.3,
+            "commentatorTierSimilarities": [
+                32.62,
+                25.66,
+                41.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul urges masters to extend fairness and equity, offering a liberal interpretation of justice beyond strict rules. He emphasizes the mutual obligations among all ranks, reminding masters that they too have a Master in heaven. By providing what is just and equal to their servants, they reflect the brotherly equality of the Christian relationship. In recognizing the authority of God, masters should demonstrate gentleness and care towards their servants, fostering a sense of harmony and respect.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7591028748801931,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.83,
+            "commentatorTierSimilarities": [
+                32.66,
+                25.35,
+                41.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

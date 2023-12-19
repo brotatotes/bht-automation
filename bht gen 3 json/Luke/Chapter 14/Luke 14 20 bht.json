@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 16:19:53",
+    "verseRef": "Luke 14:20",
+    "bestBHT": {
+        "bht": "The excuses given reflect the influence of worldliness in deterring people from accepting God's invitation. One individual bluntly replies, I cannot (i.e. I will not) come. Another cites his recent marriage as a reason to prioritize his marital responsibilities. Nonetheless, the excuses presented may not genuinely represent the underlying motives. This discrepancy between appearance and reality signifies a stark contrast. Ultimately, these individuals opt for worldly relationships and indulgence in earthly pleasures, forsaking the offered blessings and salvation.",
+        "wordCount": 80,
+        "quoteTokenProportion": 29.85,
+        "qualityScore": 1.3396844198142697,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+        "commentatorTierSimilarities": [
+            32.55,
+            37.9,
+            29.55
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the third not so much as either of these, but rudely asserts 'I cannot (i. e. I will not) come.'",
+            "Also the excuses themselves are threefold.",
+            "All are detained by worldliness, in however varied forms."
+        ],
+        "Albert Barnes": [
+            "The love of earthly relatives and friends often takes off the affections from God, and prevents our accepting the blessings which he would bestow on us.",
+            "We cannot but be amazed that 'such' excuses are suffered to interfere with our salvation.",
+            "People can be satisfied for 'such' reasons to exclude themselves from the kingdom of God."
+        ],
+        "Marvin Vincent": [
+            "A newly married man had special indulgence allowed him.",
+            "The man who had the most plausible excuse returned the surliest and most peremptory answer.",
+            "He is but just joined in wedlock, and is busy enough with that."
+        ],
+        "Philip Schaff": [
+            "Home engagements are often the most pressing, as they are also when sanctified the most pious.\" ",
+            "The invitation had been accepted before, the wife should have been induced to go with him, etc.",
+            "Worldly gratification hindered this one."
+        ],
+        "Archibald T. Robertson": [
+            "I cannot come. Less polite than the others but a more plausible pretence if he wanted to make it so.",
+            "The law excused a newly married man from war, but not from social courtesy.",
+            "There is here as often a sharp difference between the excuses offered and the reasons behind them."
+        ],
+        "John Gill": [
+            "And another said, I have married a wife.... I cannot come.",
+            "therefore I will not go\": this man is more rustic and rude than the former.",
+            "Represents such who are fond of their sensual lusts and pleasures, and are resolved to indulge them, and will not be taken off from them by any means whatever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals three different excuses given by individuals who decline an invitation. One individual outright refuses to come, asserting I cannot (i.e. I will not) come. The excuses given by these individuals represent a variety of forms of worldliness, with one newly married man claiming that he is too busy with his marital responsibilities. Although the law excuses a newly married man from war, it does not exempt him from social courtesy. These excuses offered may differ from the true reasons behind them, highlighting the sharp contrast between the appearances and realities of these individuals' motives. Ultimately, these excuses reflect a prioritization of earthly relationships and indulgence in worldly pleasures over accepting the blessings and salvation offered by God.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.5891165113227217,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.18,
+            "commentatorTierSimilarities": [
+                37.72,
+                35.73,
+                26.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The threefold excuses in this passage exemplify the ways in which worldliness can hinder individuals from accepting God's invitation. One man outright refuses, rudely asserting, I cannot (i.e. I will not) come. Another excuses himself due to his recent marriage, prioritizing his marital responsibilities over the invitation. These excuses, though offered, do not necessarily reflect the true reasons behind them, exposing the contrast between appearances and realities. Ultimately, they demonstrate a preference for earthly relationships and indulgence in worldly pleasures, rejecting the blessings and salvation offered by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.5250714108999637,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                31.31,
+                40.18,
+                28.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The excuses given in the verse showcase the ways in which worldliness can prevent people from accepting God's invitation. One individual rudely asserts I cannot (i.e. I will not) come. Another offers the excuse of being newly married, prioritizing his marital responsibilities over attending the event. These excuses may not reflect the true reasons behind them, highlighting the discrepancy between appearances and realities. Ultimately, these individuals prioritize earthly relationships and indulgence in worldly pleasures over accepting the blessings and salvation offered by God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.468005755518334,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.15,
+            "commentatorTierSimilarities": [
+                31.75,
+                41.75,
+                26.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The excuses given reflect the influence of worldliness in deterring people from accepting God's invitation. One individual bluntly replies, I cannot (i.e. I will not) come. Another cites his recent marriage as a reason to prioritize his marital responsibilities. Nonetheless, the excuses presented may not genuinely represent the underlying motives. This discrepancy between appearance and reality signifies a stark contrast. Ultimately, these individuals opt for worldly relationships and indulgence in earthly pleasures, forsaking the offered blessings and salvation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 29.85,
+            "qualityScore": 1.3396844198142697,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.89,
+            "commentatorTierSimilarities": [
+                32.55,
+                37.9,
+                29.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The excuses offered in the verse illustrate the ways in which worldliness can hinder individuals from accepting God's invitation. One person rudely asserts, I cannot (i.e. I will not) come, while another individual prioritizes his recent marriage over attending the event. These excuses, however, may not truly reflect their underlying motivations. This discrepancy between the offered excuses and the hidden reasons behind them highlights a sharp contrast. Ultimately, these individuals choose to prioritize earthly relationships and indulge in worldly pleasures, rejecting the blessings and salvation extended by God.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.4442936960983883,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.37,
+            "commentatorTierSimilarities": [
+                32.81,
+                40.6,
+                26.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

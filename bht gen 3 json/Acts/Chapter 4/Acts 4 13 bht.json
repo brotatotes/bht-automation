@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:26:17",
+    "verseRef": "Acts 4:13",
+    "bestBHT": {
+        "bht": "The Sanhedrin was astonished by the boldness of Peter and John, recognizing that they were uneducated and ordinary men who had once been with Jesus. These simple fishermen, devoid of professional training or rabbinic knowledge, presented their case before the religious leaders with eloquence and power. The rulers marveled at their speech, acknowledging that their words were not solely their own, but infused with divine wisdom. The presence of Jesus was undeniable in these transformed men, who boldly proclaimed the truth.",
+        "wordCount": 81,
+        "quoteTokenProportion": 36.67,
+        "qualityScore": 1.9913959644277077,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+        "commentatorTierSimilarities": [
+            29.9,
+            30.49,
+            39.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Having previously known, i.e. they did not then perceive it for the first time; this is stated as the reason for their wonder.",
+            "Not as the A.V. they recognized them; their astonishment setting them to think, and reminding them that they had seen these men with Jesus.",
+            "That they (once) were with Jesus."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Men in private life, untrained to teaching.",
+            "Recognized them as having been in His company.",
+            "We thought we had got rid of Him; but lo! He reappears in these men."
+        ],
+        "Albert Barnes": [
+            "Boldness - This word properly denotes 'openness' or 'confidence in speaking.' It stands opposed to 'hesitancy,' and to 'equivocation' in declaring our sentiments.\" ",
+            "This same character is uniformly attributed to the early preachers of Christianity. The Galileans were regarded by the Jews as particularly rude and uncultivated.",
+            "Boldness and success in the ministry, as well as in everything else, will depend far more on honest, genuine, thorough conviction of the truth than on the endowments of talent and learning, and the arts and skill of eloquence."
+        ],
+        "Marvin Vincent": [
+            "Perceived [\u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03bf\u03bc\u03b5\u03bd\u03bf\u03b9] . The word, meaning originally to seize upon or lay hold of, occurs frequently in the New Testament in different phases of this original sense.",
+            "Unlearned [\u03b1\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03b9] . Or, very literally, unlettered. With special reference to Rabbinic culture, the absence of which was conspicuous in Peter's address.",
+            "Ignorant [\u03b9\u03b4\u03b9\u03c9\u03c4\u03b1\u03b9] . Originally, one in a private station, as opposed to one in office or in public affairs. Therefore one without professional knowledge, a layman."
+        ],
+        "John Calvin": [
+            "Here may we see an evil conscience; for being destitute of right and reason, they break out into open tyranny, the hatred whereof they had essayed to escape.",
+            "In as much as they know that Peter and John were men unlearned and ignorant, they acknowledge that there was somewhat more than belongeth to man in their boldness; therefore they are enforced to wonder whether they will or no.",
+            "For after they have put two simple men to silence, shall the arm of God be broken?"
+        ],
+        "Philip Schaff": [
+            "Unlearned. Observing from the language and arguments used that Peter and John were untaught in the rabbinical learning of the Jewish schools.",
+            "And obscure, or common. Men of no mark.",
+            "They marvelled. The rulers were evidently astonished that one so unlearned and undistinguished should address them in such moving, powerful language."
+        ],
+        "Archibald T. Robertson": [
+            "Peter had turned the table on the Sanhedrin and had arraigned them before the bar of God.\" (Commentary)",
+            "Unlettered men without technical training in the professional rabbinical schools of Hillel or Shammai.\" (Commentary)",
+            "Peter and John were men of ability and of courage, but they did not belong to the set of the rabbis.\" (Commentary)"
+        ],
+        "John Gill": [
+            "They observed their elocution, the justness of their diction, the propriety of their language, and the strength and nervousness of their reasoning.",
+            "They were informed that they were 'unlearned' men, or who did not understand letters; not but that they had learned their mother tongue, and could read the Scriptures; but they had not had a liberal education.",
+            "They were mean and abject, poor fishermen, men of no name and figure, that were in no office, and exalted station of life, nor versed in Jewish learning, but common private men."
+        ],
+        "John Wesley": [
+            "Illiterate and uneducated men \u2014 Even by such men (though not by such only) hath God in all ages caused his word to be preached before the world."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the members of the Sanhedrin saw the boldness of Peter and John, they were astonished. These uneducated, ordinary men who had once been with Jesus were speaking with such eloquence and power that it was undeniable that they had been transformed by their association with Him. The Sanhedrin, who thought they had rid themselves of Jesus, were now confronted by His powerful presence in these men. The rulers marveled at their speech, recognizing that these unlettered, laymen had a deep understanding of the Scriptures and a fervent conviction of the truth. Their words were not merely the product of human wisdom, but were infused with the hand of God himself.",
+            "wordCount": 111,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.921586444368605,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                30.82,
+                28.53,
+                40.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Sanhedrin was astonished by the boldness of Peter and John, recognizing that they were uneducated and ordinary men who had once been with Jesus. These simple fishermen, devoid of professional training or rabbinic knowledge, presented their case before the religious leaders with eloquence and power. The rulers marveled at their speech, acknowledging that their words were not solely their own, but infused with divine wisdom. The presence of Jesus was undeniable in these transformed men, who boldly proclaimed the truth.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9913959644277077,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.56,
+            "commentatorTierSimilarities": [
+                29.9,
+                30.49,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The members of the Sanhedrin were astonished by the boldness of Peter and John, for they were uneducated and ordinary men who had been with Jesus. These simple fishermen, lacking in professional training or rabbinical knowledge, delivered a powerful and persuasive message. The rulers marveled at their speech, recognizing that it was not of human origins but rather an expression of the divine. Clearly, the presence of Jesus was evident in these transformed men, who fearlessly proclaimed the truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8935702725414152,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                30.13,
+                31.46,
+                38.41
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Sanhedrin was amazed by the boldness of Peter and John, who were uneducated and ordinary men but had once been with Jesus. Despite lacking formal training or rabbinic knowledge, these humble fishermen spoke with eloquence and power that could only be attributed to divine inspiration. The rulers were astonished by their speech, acknowledging that it surpassed human ability and revealed the presence of Jesus in these transformed men. Their message was not a product of their own wisdom, but a manifestation of God's truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9013274713864603,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.56,
+            "commentatorTierSimilarities": [
+                28.77,
+                30.08,
+                41.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Sanhedrin was astonished by the boldness of Peter and John, recognizing that they were uneducated and ordinary men. These fishermen had once been with Jesus, and their speech displayed a remarkable transformation. Despite lacking formal training or rabbinical knowledge, they spoke with eloquence and power, revealing the presence of Jesus in their words. The rulers marveled at their message, acknowledging that it surpassed human wisdom and bore witness to divine inspiration. These unlettered men had become vessels for the truth of God.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.888709501052761,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.14,
+            "commentatorTierSimilarities": [
+                29.06,
+                32.49,
+                38.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

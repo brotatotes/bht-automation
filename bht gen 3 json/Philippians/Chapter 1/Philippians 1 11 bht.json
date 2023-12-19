@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:53:11",
+    "verseRef": "Philippians 1:11",
+    "bestBHT": {
+        "bht": "The fruits of righteousness, as the harmonious whole of the works of righteousness, are like the fruit of the Spirit in believers' lives. By being grafted into Christ, the root of life, we become fruitful branches. Through the grace of Christ and the Spirit sent by the Father, these fruits of righteousness are produced. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly as a testimony to God's transformative work in their lives.",
+        "wordCount": 92,
+        "quoteTokenProportion": 40.35,
+        "qualityScore": 2.153323485940269,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.94,
+        "commentatorTierSimilarities": [
+            34.73,
+            30.62,
+            34.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Regarding the works of righteousness, however manifold, as one harmonious whole, 'the fruit of the Spirit'.\" ",
+            "We are wild and useless olive trees till we are grafted into Christ, who, by His living root, makes us fruit-bearing branches.\" ",
+            "Through His sending to us the Spirit from the Father."
+        ],
+        "Albert Barnes": [
+            "The wish of the apostle is, that they might show abundantly by their lives that they were truly righteous.",
+            "His honor is never more promoted than by the eminent holiness of his friends.",
+            "If we wish, therefore, to honor God, it should not be merely with the lips, or by acts of prayer and praise; it should be by a life devoted to him."
+        ],
+        "Marvin Vincent": [
+            "Fruit of righteousness.\" (James 3:18, Proverbs 11:30) ",
+            "Glory and praise of God.\" (Romans 3:23) ",
+            "That God's glory may be both manifested and recognized.\" (Ephesians 1:6)"
+        ],
+        "John Calvin": [
+            "Such fruits, he says, are by Christ, because they flow from the grace of Christ.",
+            "And as Paul here derives a similitude from trees, we are wild olive-trees, and unproductive, until we are ingrafted into Christ, who by his living root makes us fruitbearing trees.",
+            "For no life is so excellent in appearance as not to be corrupted and become offensive in the view of God, if it is not directed towards this object."
+        ],
+        "Philip Schaff": [
+            "Men cannot be sincere and void of offence without making their character known by their works.",
+            "There is much to be said for the singular number 'fruit.' It gives the idea, which is the true one, that the fruit of righteousness is uniform.",
+            "That God thereby may be praised and glorified, first by those who through Christ have been aided to bring forth fruit to abundance, and then by those who see their good works, and are led also to glorify the Father in heaven."
+        ],
+        "Archibald T. Robertson": [
+            "Fruits of righteousness (\u03ba\u03b1\u03c1\u03c0\u03bf\u03bd \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7\u03c2). Singular, collective idea, fruit of righteousness. Accusative case retained with perfect passive participle. "
+        ],
+        "John Gill": [
+            "Good works in general are meant, which are called 'fruits', because, like fruits, they spring from a seed, even from the incorruptible seed of grace in the heart, implanted there in regeneration.",
+            "The apostle wishes, that these saints might be 'filled' with [good works]; that they might be like trees laden with fruit, which have fruit on every branch, bough, and twig; that they might abound in the performance of them, be ready to, and fruitful in every good work.",
+            "And this end is necessary to a good work, that it be done to the glory of God; for if anything else is in view and not that, let it have ever such an appearance of a good work, it is none at all."
+        ],
+        "John Wesley": [
+            "It must bear fruits, the fruits of righteousness, all inward and outward holiness, all good tempers, words, and works; and that so abundantly, that we may be filled with them.",
+            "The branch and the fruits must derive both their virtue and their very being from the all-supporting, all-supplying root, Jesus Christ.",
+            "As all these flow from the grace of Christ, so they must issue in the glory and praise of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The works of righteousness are likened to the fruit of the Spirit, produced through being grafted into Christ and empowered by the Spirit sent by the Father. These fruits of righteousness manifest the glory and praise of God, making His glory known and recognized. The abundance of these fruits in the lives of believers not only honors God but also serves as a testimony to others, leading them to glorify the Father in heaven. It is through the grace of Christ that these fruits are brought forth, as our lives are directed towards the purpose of glorifying God. These fruits encompass all aspects of a believer's life, both inward and outward, and it is by being filled with these fruits that we truly display our righteousness in Christ.",
+            "wordCount": 129,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.232798254566271,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.58,
+            "commentatorTierSimilarities": [
+                31.99,
+                31.81,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The works of righteousness, as the fruit of the Spirit, flow from being grafted into Christ and His sending of the Spirit. These fruits, which include the abundance of good works, manifest the glory and praise of God. They serve as a testimony to others, leading them to honor and glorify the Father. By being filled with these fruits, believers display their righteousness in Christ and fulfill the purpose of bringing glory to God. It is through the grace of Christ that these fruits are produced, springing from the incorruptible seed of grace planted in the heart.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.1102709515697757,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                31.64,
+                30.45,
+                37.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fruit of the Spirit, the works of righteousness, are like a branch grafted into Christ, producing abundant and uniform fruits. Through the grace of Christ and the sending of the Spirit, believers are enabled to bring forth these fruits, which manifest the glory and praise of God. By being filled with these fruits, our lives become a testimony that leads others to honor and glorify the Father. These fruits encompass all areas of our lives, both inward and outward, and spring from the incorruptible seed of grace within us.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.103761743430172,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.29,
+            "commentatorTierSimilarities": [
+                32.05,
+                28.57,
+                39.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The works of righteousness are like the fruit of the Spirit, produced through being grafted into Christ who makes us fruit-bearing branches. These fruits flow from the grace of Christ and the Spirit sent by the Father. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly in their lives, both inwardly and outwardly, as a testimony to the transformative power of Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 2.0897795382301005,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.83,
+            "commentatorTierSimilarities": [
+                32.95,
+                29.79,
+                37.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fruits of righteousness, as the harmonious whole of the works of righteousness, are like the fruit of the Spirit in believers' lives. By being grafted into Christ, the root of life, we become fruitful branches. Through the grace of Christ and the Spirit sent by the Father, these fruits of righteousness are produced. They manifest the glory and praise of God, leading others to recognize and honor Him. Believers are called to be filled with these fruits, displaying them abundantly as a testimony to God's transformative work in their lives.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 2.153323485940269,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.94,
+            "commentatorTierSimilarities": [
+                34.73,
+                30.62,
+                34.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

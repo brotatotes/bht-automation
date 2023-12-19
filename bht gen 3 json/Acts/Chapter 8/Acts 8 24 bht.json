@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:28:13",
+    "verseRef": "Acts 8:24",
+    "bestBHT": {
+        "bht": "In response to Peter's rebuke, Simon's words resemble Pharaoh's hardened heart, displaying a distinct lack of genuine repentance. Simon is focused solely on avoiding punishment and seeks the intercession of the wonder-working men, having no confidence in the power of faith-filled prayer. Although Christianity still maintains a hold on him, his response reveals no personal transformation or remorse for his sins. Simon's request for others to pray for him reflects fear of consequences rather than true repentance.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.03,
+        "qualityScore": 2.1931907746268386,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+        "commentatorTierSimilarities": [
+            31.54,
+            34.45,
+            34.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Simon speaks here much as Pharaoh...who yet hardened his heart afterwards.\" ",
+            "It is observable also that he wishes merely for the averting of the punishment.\" ",
+            "The words, 'that none of the things which ye have spoken come upon me,' seem remarkably to set forth the mere terror of the carnal man, without any idea of the me becoming another man in thoughts and aims."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Pray ye to the Lord for me.\" - Peter had urged him to pray for himself: he asks those wonder-working men to do it for him; having no confidence in the prayer of faith, but thinking that those men possessed some peculiar interest with heaven.",
+            "Having no confidence in the prayer of faith.\" -...he asks those wonder-working men to do it for him; having no confidence in the prayer of faith, but thinking that those men possessed some peculiar interest with heaven.",
+            "Christianity, as something divine, still retained its hold of him.\" - While this throws great light on Peter's view of his melancholy case, it shows that Christianity, as something divine, still retained its hold of him."
+        ],
+        "Albert Barnes": [
+            "Sinners will often ask others to pray for them, when they are too proud, or too much in love with sin, to pray for themselves.",
+            "Simon did not regard this, but looked only to the punishment. He was terrified and alarmed; he sought to avoid future 'punishment,' but he had no alarm about his 'sins.'",
+            "If people expect to be saved, they must pray 'for themselves'; and pray not chiefly to be freed from 'punishment,' but from the 'sin which deserves hell.'"
+        ],
+        "John Calvin": [
+            "Simon answered. Hereby we gather that he did not so take that which Peter had threatened unto him, but that he did consider that his salvation was sought.",
+            "Whereas he yieldeth when he is reproved, and being touched with the feeling of his sin, feareth the judgment of God; and that done, flieth unto the mercy of God, and commendeth himself to the prayers of the Church; these are assuredly no small signs of repentance; therefore we may conjecture that he repented.",
+            "Nothing is more safe than bidding adieu to uncertain opinions, simply to embrace that which is set down in the Scriptures."
+        ],
+        "Philip Schaff": [
+            "He confesses his fear of punishment, not horror of guilt.",
+            "The history of the Acts never refers again to this episode; so, as far as the New Testament records are concerned, we are left in doubt whether or no St. Peter\u2019s solemn words had any effect on the subsequent life and conduct of Simon.",
+            "This gifted but deeply erring man seems, after his meeting with the apostles, to have gone on from bad to worse."
+        ],
+        "Archibald T. Robertson": [
+            "Simon is thoroughly frightened by Peter's words, but shows no sign of personal repentance or change of heart.\" ",
+            "He wants to escape the penalty for his sin and hopes that Peter can avert it.",
+            "Peter had clearly diagnosed his case. He was an unconverted man in spite of his profession of faith and baptism."
+        ],
+        "John Gill": [
+            "pray ye to the Lord for me...but whether he was serious, and in good earnest in this, is a question;",
+            "he did not take Peter's advice to pray for himself; nor did he declare any repentance for his sin;",
+            "his desire that the apostles would pray for him, might not be from any sense he had of the evil of his sin, but from a slavish fear"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 8:24, Simon's response to Peter's rebuke reveals his true nature. His words echo Pharaoh's hardened heart, and he only seeks to avoid punishment without any real repentance or change of heart. Simon's lack of confidence in the prayer of faith leads him to ask the wonder-working men to pray for him, as if they have a special connection with heaven. However, his request exposes his fear and alarm about the consequences of his sin, rather than genuine remorse. While Christianity still holds some influence over him, Simon shows no sign of personal repentance or a desire to change his ways.",
+            "wordCount": 106,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.0773583955367894,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.41,
+            "commentatorTierSimilarities": [
+                32.51,
+                32.85,
+                34.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Simon's response to Peter's rebuke in Acts 8:24 reflects a similarity to Pharaoh's hardened heart. He shows no genuine repentance or change of heart, but merely wishes to avoid punishment. Lacking confidence in the power of faith-filled prayer, he asks the wonder-working men to pray for him instead. This reveals his fear and alarm about the consequences of his sin, rather than a true understanding of the need for personal repentance. Although Christianity still retains a hold on him, there is no evidence of a genuine transformation in Simon's heart.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.0231938832149217,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.61,
+            "commentatorTierSimilarities": [
+                32.47,
+                32.86,
+                34.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Simon's response to Peter's rebuke lacks genuine repentance. Like Pharaoh, Simon hardens his heart and only seeks to avoid punishment. He places no trust in the prayer of faith, instead relying on the wonder-working men to intercede on his behalf. While Christianity still holds some influence over him, Simon shows no sign of personal change or remorse. His request for others to pray for him demonstrates fear of consequences, rather than a true understanding of his sinful nature.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.0419825944731445,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.24,
+            "commentatorTierSimilarities": [
+                32.25,
+                33.38,
+                34.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In response to Peter's rebuke, Simon's words resemble Pharaoh's hardened heart, displaying a distinct lack of genuine repentance. Simon is focused solely on avoiding punishment and seeks the intercession of the wonder-working men, having no confidence in the power of faith-filled prayer. Although Christianity still maintains a hold on him, his response reveals no personal transformation or remorse for his sins. Simon's request for others to pray for him reflects fear of consequences rather than true repentance.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.1931907746268386,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.26,
+            "commentatorTierSimilarities": [
+                31.54,
+                34.45,
+                34.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Simon's response to Peter's rebuke in Acts 8:24 mirrors Pharaoh's hardened heart, showing no genuine repentance. He seeks to avoid punishment but lacks confidence in the power of faith-filled prayer, appealing to the wonder-working men to intercede on his behalf. Although Christianity still influences him, Simon lacks personal transformation and fails to express remorse for his sins. His request for others to pray for him stems from fear, not true repentance.",
+            "wordCount": 75,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.1703648579064496,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.51,
+            "commentatorTierSimilarities": [
+                31.09,
+                34.11,
+                34.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

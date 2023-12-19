@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:24:47",
+    "verseRef": "Acts 1:22",
+    "bestBHT": {
+        "bht": "The chosen apostle had to be a personal witness who could speak from his own experience of the ministry, resurrection, and ascension of the Lord Jesus. This qualification ensured that only those who could bear personal testimony would be chosen, putting an end to those who claim without evidence. The testimony of the chosen apostle would encompass the resurrection of Christ, which is the principal basis and foundation of the Christian religion.",
+        "wordCount": 72,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 2.3011606285867323,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+        "commentatorTierSimilarities": [
+            32.64,
+            34.52,
+            32.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This one event was the passage-point between the Lord's life of humiliation and His life of glory,\u2014the completion of His work below and beginning of His work above.\" ",
+            "And to \u2018give witness with power\u2019 of the Resurrection (ch. iv. 33), would be to discourse of it as being all this: in order to which, the whole ministry of Jesus must be within the cycle of the Apostle\u2019s experience.",
+            "It is remarkable that Peter here lays down experience of matters of fact, not eminence in any subjective grace or quality, as the condition of Apostleship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How clearly is the primary office of the apostles here expressed: (1) to testify, from personal observation, to the one great fact of 'the resurrection of the Lord Jesus'...\" ",
+            "...to show how this glorified His whole previous life, of which they were constant observers, and established His divine claims.",
+            "...established His divine claims."
+        ],
+        "Albert Barnes": [
+            "Beginning from the baptism of John - The words 'beginning from' in the original refer to the Lord Jesus.\" ",
+            "The reason why it was proper that he should be taken from the seventy disciples was, that they had been particularly distinguished by Jesus himself, and had been witnesses of most of his public life.",
+            "The expression does not imply that he must be set apart in any particular manner, but simply that one should be designated or appointed for this specific purpose, to be a witness of the resurrection of Christ."
+        ],
+        "Marvin Vincent": [
+            "Witness [\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b1] . One who shall bear testimony : not a spectator, a mistake often made on Hebrews 12:1. Compare Acts 2:32."
+        ],
+        "Archibald T. Robertson": [
+            "The ministry of Jesus began with the baptism of John and lasted until the Ascension.",
+            "The one chosen should be a personal witness who can speak from his own experience of the ministry, resurrection, and ascension of the Lord Jesus.",
+            "One can easily see that this qualification will soon put an end to those who bear such personal testimony."
+        ],
+        "John Gill": [
+            "Not from the time trial John first administered the ordinance of baptism; for Christ was not so soon made known, or had followers; but from the time of the administration of it by John, to Christ, when he was made known to Israel.",
+            "To the time of his ascension to heaven, whether by himself, or by the ministry of angels: must one be ordained.",
+            "The resurrection of Christ from the dead, which supposes his incarnation and life, and so his obedience, ministry, and miracles in it; and also his sufferings and death, with all the benefits and advantages thereof; and is particularly mentioned, because it not only supposes and includes the above things, but is the principal article, basis, and foundation of the Christian religion."
+        ],
+        "John Wesley": [
+            "To be a witness with us of his resurrection \u2014 And of the circumstances which preceded and followed it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This one event was the passage-point between the Lord's life of humiliation and His life of glory, and it established His divine claims. The chosen apostle had to be a personal witness who could speak from his own experience of the ministry, resurrection, and ascension of the Lord Jesus. The ministry of Jesus, from His baptism by John to the Ascension, had to be within the cycle of the apostle's experience. This qualification ensured that only those who could bear personal testimony would be chosen, putting an end to those who claim without evidence. The testimony of the chosen apostle would encompass the resurrection of Christ, which is the principal basis and foundation of the Christian religion.",
+            "wordCount": 120,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.2862480652891186,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.36,
+            "commentatorTierSimilarities": [
+                32.65,
+                34.96,
+                32.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The chosen apostle had to be a witness who could speak from personal experience of Jesus' ministry, resurrection, and ascension. This qualification ensured that only those who could provide factual testimony would be chosen. The ministry of Jesus, from His baptism by John to the Ascension, had to be within the apostle's experience. This personal testimony would establish the divine claims of Jesus and serve as the foundation of the Christian religion.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 2.238759582894951,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.78,
+            "commentatorTierSimilarities": [
+                31.92,
+                35.99,
+                32.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The chosen apostle had to be a personal witness who could speak from his own experience of the ministry, resurrection, and ascension of the Lord Jesus. This qualification ensured that only those who could bear personal testimony would be chosen, putting an end to those who claim without evidence. The testimony of the chosen apostle would encompass the resurrection of Christ, which is the principal basis and foundation of the Christian religion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 2.3011606285867323,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+            "commentatorTierSimilarities": [
+                32.64,
+                34.52,
+                32.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle must be a witness, speaking from personal experience of the ministry, resurrection, and ascension of Jesus. This requirement eliminates those lacking evidence for their claims. The chosen apostle's testimony would establish the divine claims of Jesus and serve as the foundation of the Christian faith.",
+            "wordCount": 48,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 2.025918663470259,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.7,
+            "commentatorTierSimilarities": [
+                33.61,
+                33.47,
+                32.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To be considered as an apostle, one must be a witness, testifying from personal observation to the resurrection of Jesus. This requirement emphasizes the importance of factual experience rather than subjective qualities. The chosen apostle's testimony would establish Jesus' divine claims and glorify His entire ministry, serving as the foundation of the Christian faith. Only those who can speak firsthand about Jesus' baptism, ministry, resurrection, and ascension would meet the criteria for apostleship.",
+            "wordCount": 74,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.204207692123571,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.63,
+            "commentatorTierSimilarities": [
+                31.76,
+                36.49,
+                31.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:15:26",
+    "verseRef": "2 Corinthians 2:11",
+    "bestBHT": {
+        "bht": "To prevent Satan from gaining an advantage by causing a penitent offender to despair and fall away from the faith, we must not be overreached by his knowing plots. The loss of a single sinner is a common loss, and we must be mindful of his evil plans and purposes. Let us not neglect church discipline or turn it into tyranny, for Satan seeks to defraud and destroy souls. Instead, we should extend forgiveness, comfort, and restoration to the repentant, guarding against despair and denial of the faith.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.43,
+        "qualityScore": 2.1814789364762994,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+        "commentatorTierSimilarities": [
+            30.5,
+            34.33,
+            35.16
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "To prevent Satan getting any advantage over us...in causing the penitent offender to despair and fall away from the faith.",
+            "The word 'advantage' is used appropriately, in a case where Satan would be conquering us by our own weapons.",
+            "The offender was to be delivered over to Satan for the destruction of the flesh\u2014care must be taken lest we be overreached by Satan, and his soul perish likewise."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "That we may have no advantage gained over us by Satan, by letting one of our members be lost to us through despair.\" ",
+            "The loss of a single sinner is a common loss.\" ",
+            "We are not without knowledge of his knowing schemes."
+        ],
+        "Albert Barnes": [
+            "That we may not be defrauded by Satan.",
+            "We are not ignorant of his devices.",
+            "Even the best and purest efforts of the church are often perverted... Satan often takes advantage of the church."
+        ],
+        "Marvin Vincent": [
+            "That no advantage may be gained over us.",
+            "Not know his knowing plots."
+        ],
+        "John Calvin": [
+            "It is a most wicked fraud of Satan, when depriving us of all consolation, he swallows us up, as it were, in a gulf of despair.\" ",
+            "For it very frequently happens, that, under colour of zeal for discipline, a Pharisaical rigour creeps in, which hurries on the miserable offender to ruin, instead of curing him.\" ",
+            "We know, from being warned of it by the Lord, that one stratagem to which he carefully has recourse is, that when he cannot ruin us by open means, he surprises us when off our guard by making a secret attack."
+        ],
+        "Philip Schaff": [
+            "To overreach the victorious servants of Christ in 'destroying the works of the devil,' he is incessantly devising.",
+            "Preservation of the openly corrupt in the fellowship of the Church, if this can be effected, serves his purpose by contaminating the rest and lowering the standard of church purity.",
+            "When this fails, through the stern fidelity of the guardians of its sanctity, the hopelessness of all restoration to the fellowship of the Church and to Christian society even of the manifestly penitent will equally serve his purpose, as it will either harden the offender or drive him to despair."
+        ],
+        "Archibald T. Robertson": [
+            "That we may not be overreached by Satan.",
+            "\u039d\u03bf\u03b7\u03bc\u03b1 from \u03bd\u03bf\u03b5\u03c9 to use the \u03bd\u03bf\u03c5\u03c2 is old word, especially for evil plans and purposes as here."
+        ],
+        "John Gill": [
+            "Satan gets an advantage of the churches, when church discipline is brought into neglect and contempt, or turned into tyranny.",
+            "Since the incestuous person had true repentance for his sin, he ought to be forgiven, comforted, and received into the church; lest by too great severity... he should be either plunged into despair or be drawn into a denial of the faith.",
+            "Under pretence of showing a just indignation against sin, [Satan] destroys souls, ruins churches, and brings religion into contempt."
+        ],
+        "John Wesley": [
+            "Lest Satan...sought to destroy not only his flesh, but his soul also.",
+            "For the loss of one soul is a common loss.",
+            "Get an advantage over us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To prevent Satan from causing a penitent offender to despair and fall away from the faith, care must be taken not to be overreached by his schemes. The loss of a single sinner is a common loss, and we are not ignorant of his knowing plots. It is crucial to not be defrauded or overreached by Satan's devices, as he often takes advantage of the church and seeks to ruin both individuals and the fellowship of believers. In zealous pursuit of discipline, we must guard against Pharisaical rigidity that drives the offender to despair rather than restoration. Beware of Satan's secret attacks and be diligent in upholding church discipline, for his aim is to destroy souls and bring religion into contempt. Let us forgive, comfort, and receive the repentant, lest they be plunged into despair or deny the faith.",
+            "wordCount": 141,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 2.0530299601107216,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.6,
+            "commentatorTierSimilarities": [
+                27.71,
+                36.05,
+                36.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To prevent Satan from causing a penitent offender to fall away from the faith, we must not be overreached by his knowing plots. We are not ignorant of his schemes, for he seeks to gain an advantage over us. The loss of a single sinner is a common loss. Therefore, we must be careful not to be defrauded or ruined by his devices. In our zeal for discipline, we must guard against becoming Pharisaical and driving the offender to despair. Let us forgive, comfort, and receive the repentant, lest they be plunged into despair or deny the faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.9042835684119286,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.66,
+            "commentatorTierSimilarities": [
+                33.06,
+                32.39,
+                34.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To prevent Satan from conquering us through our own weapons and causing a penitent offender to despair, we must not allow him to gain any advantage over us. We must be vigilant and not be deceived by his knowing schemes. The loss of a single sinner affects us all, so we must be cautious and not be overreached by Satan. Let us not neglect church discipline or turn it into tyranny, as Satan seeks to defraud and ruin us. Instead, let us extend forgiveness, comfort, and restoration to the repentant, guarding against despair and denial of the faith.",
+            "wordCount": 98,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1639664609276412,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.29,
+            "commentatorTierSimilarities": [
+                33.57,
+                33.54,
+                32.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To prevent Satan from advancing by causing the penitent offender to despair and fall away from the faith, we must not allow him to gain any advantage over us. We must be cautious and not be overreached by his knowing plots or let one of our members be lost through despair. The loss of a single sinner is a shared loss, and we must be aware of his schemes and not be defrauded by him. In our pursuit of discipline, let us guard against rigidity and instead extend forgiveness, comfort, and restoration to the repentant, to prevent them from being driven to despair or denying the faith.",
+            "wordCount": 107,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.0461035748936367,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                32.25,
+                33.59,
+                34.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To prevent Satan from gaining an advantage by causing a penitent offender to despair and fall away from the faith, we must not be overreached by his knowing plots. The loss of a single sinner is a common loss, and we must be mindful of his evil plans and purposes. Let us not neglect church discipline or turn it into tyranny, for Satan seeks to defraud and destroy souls. Instead, we should extend forgiveness, comfort, and restoration to the repentant, guarding against despair and denial of the faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.1814789364762994,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                30.5,
+                34.33,
+                35.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

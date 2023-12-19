@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 15:18:36",
+    "verseRef": "2 Corinthians 13:12",
+    "bestBHT": {
+        "bht": "Greet one another with a holy kiss, a custom that was observed in the Eastern churches and denoted a bond of holy unity among believers. This practice, known as the kiss of charity, was even continued during the celebration of the Eucharist. Although it eventually faded away as manners changed, its significance as a Christian greeting should not be disregarded. ",
+        "wordCount": 60,
+        "quoteTokenProportion": 44.68,
+        "qualityScore": 1.6592326997524638,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+        "commentatorTierSimilarities": [
+            35.89,
+            38.26,
+            25.84
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Greet - Salute; see the note, Romans 16:3.",
+            "With an holy kiss - note, Romans 16:16."
+        ],
+        "Marvin Vincent": [
+            "Kiss. In 1 Peter 1:14, called the kiss of charity.",
+            "The practice was maintained chiefly at the celebration of the Eucharist.",
+            "In the East it is continued in the Coptic and Russian Churches."
+        ],
+        "Philip Schaff": [
+            "Salute one another with a holy kiss. Such a form of salutation is the common Eastern practice, but the word holy is designed to mark its Christian meaning, as the expression of that holy unity which their common oneness with Christ imparted.",
+            "It long continued in the Eastern Church, and up to a pretty late period even in the Western, but gradually and properly died away as manners changed, and the significance of it ceased.",
+            "All the saints salute you."
+        ],
+        "Archibald T. Robertson": [
+            "With a holy kiss (\u03b5\u03bd \u03b1\u03b3\u03b9\u03c9 \u03c6\u03b9\u03bb\u03b7\u03bc\u03b1\u03c4). In the Jewish synagogues where the sexes were separated, men kissed men, the women, women.\" ",
+            "It is still observed in the Coptic and the Russian churches.\" ",
+            "Think of the germ theory of disease and that kissing tablet!"
+        ],
+        "John Gill": [
+            "Greet one another with an holy kiss.",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Greet one another with a holy kiss, a custom that was observed in the Eastern churches and denoted a bond of holy unity among believers. This practice, known as the kiss of charity, was even continued during the celebration of the Eucharist. Although it eventually faded away as manners changed, its significance as a Christian greeting should not be disregarded. ",
+            "wordCount": 60,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.6592326997524638,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                35.89,
+                38.26,
+                25.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Greet one another with a holy kiss, a form of salutation that embodies the Christian meaning of unity. This practice, prevalent in the Eastern churches, symbolizes the bond among believers who share in their oneness with Christ. While it may seem unfamiliar in today's culture, the significance of this holy kiss should not be overlooked, as it signifies the deep connection and love that believers have for one another.",
+            "wordCount": 70,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.5391164622801972,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.52,
+            "commentatorTierSimilarities": [
+                29.03,
+                38.17,
+                32.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Greet one another with a holy kiss, a common Eastern practice that holds Christian significance as an expression of the believers' unity in Christ. This salutation, observed in the Coptic and Russian churches, served as a symbol of love and fellowship among believers. Though the custom gradually diminished over time, the meaning behind it should not be forgotten, highlighting the deep bond believers share and their oneness in Christ. Let this ancient gesture of affection remind us of the unity we have with our fellow brothers and sisters in faith.",
+            "wordCount": 90,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.501504953128248,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.27,
+            "commentatorTierSimilarities": [
+                34.04,
+                40.96,
+                25.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Greet one another with a holy kiss, a common Eastern practice that holds Christian significance as an expression of the believers' unity in Christ. This salutation, observed in the Coptic and Russian churches, served as a symbol of love and fellowship among believers. Though the custom gradually diminished over time, the meaning behind it should not be forgotten, highlighting the deep bond believers share and their oneness in Christ. Let this ancient gesture remind us of the unity we have with our fellow brothers and sisters in faith.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.4593743128988943,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.87,
+            "commentatorTierSimilarities": [
+                33.96,
+                41.75,
+                24.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Greet one another with a holy kiss, a common Eastern practice denoting the believers' unity in Christ. This salutation, observed in the Coptic and Russian churches, symbolizes love and fellowship among believers. Although it faded as times changed, its significance remains, reminding us of the deep bond shared by believers and their oneness in Christ. Let this ancient gesture serve as a reminder of the unity we have with our fellow brothers and sisters in faith.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.4942566746390318,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                35.36,
+                40.45,
+                24.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

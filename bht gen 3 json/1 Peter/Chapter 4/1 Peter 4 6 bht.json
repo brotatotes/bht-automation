@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:39:51",
+    "verseRef": "1 Peter 4:6",
+    "bestBHT": {
+        "bht": "The gospel was preached to the dead, to those who have died and are in their graves. They were judged according to human standards while alive, but the purpose of the preaching was to bring about a judgment based on God's standards. This means that even the dead will be judged by Christ. Although they may have suffered in the flesh, their souls will truly live. Believers can take comfort in knowing that their cause is secure with Christ as the final Judge.",
+        "wordCount": 84,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2632632403130986,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.59,
+        "commentatorTierSimilarities": [
+            29.72,
+            37.89,
+            32.39
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Seeing that for binds vv. 5 and 6 logically together, and that to dead men also distinctly takes up the to dead men before in this logical connexion, all interpretations must be false, which do not give to the words the dead in ver. 6 the same meaning as the dead in ver. 5: i.e. that of dead men, literally and simply so called: men who have died and are in their graves.",
+            "The view here adopted is, the persons pointed at are those spirits in prison to whom our Lord went and preached, ch. iii. 19.",
+            "For this end the gospel was preached even to the dead,\u2014that they might\u2014not indeed escape the universal judgment on human sin, which is physical death,\u2014but, that they might be judged [be in the state of the completed sentence on sin, which is death after the flesh] according to [as] man as regards the flesh, but [notwithstanding] might live [of a state to continue] according to God [a life with God, and divine] as regards the spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Judge is ready to judge the quick and dead\u2014the dead, I say, for they, too, in their lifetime, have had the Gospel preached to them, that so they might be judged at last in the same way as those living now.",
+            "He says, 'live,' not 'made alive' or quickened; for they are supposed to have been already 'quickened together with Christ'.",
+            "For Peter is plainly referring only to those within reach of the Gospel, or who might have known God through His ministers in Old and New Testament times."
+        ],
+        "Albert Barnes": [
+            "The gospel was preached to them that are dead...to whom the gospel had been preached when living, and who had become true Christians.",
+            "In respect to that - to the flesh - they were put to death; in respect to their souls - their higher natures - they were made truly to live.",
+            "The flesh might suffer in consequence of their embracing the gospel that was preached to them, but the soul would live."
+        ],
+        "John Calvin": [
+            "Though Christ, then, may not appear a deliverer in this life, yet his redemption is not void, or without effect; for his power extends to the dead.",
+            "But if the grace of Christ once penetrated to the dead, there is no doubt but that we shall partake of it when dead.",
+            "The sum of what he says is, that though the condition of the dead in the flesh is worse, according to man, yet it is enough that the Spirit of Christ revives them, and will eventually lead them to the perfection of life."
+        ],
+        "Philip Schaff": [
+            "For the whole statement then takes this form \u2018Christ is ready to judge quick and dead; and with justice shall the dead, no less than the living, be judged by Him; for His Gospel is preached to all, in the other world, if not in this.\u2019",
+            "The two things have something like this relation to each other \u2018in order that, though once judged indeed, as other men are, as regards the flesh, they might, as regards the spirit, have an enduring life such as God lives.\u2019",
+            "\u2018Have done for ever with the vile, pagan life; the heathen will persecute you, and justify their persecutions by reviling your character; be not moved by that. Christ is Judge, and the cause of all is safe with Him, of those who die, not less than of those who survive."
+        ],
+        "Archibald T. Robertson": [
+            "There are those who take 'dead' here in the spiritual sense...but consider it 'impossible' for Peter to use the same word in two senses so close together; but Jesus did it in the same sentence...",
+            "Bigg takes it to mean that all men who did not hear the gospel message in this life will hear it in the next before the final judgment.",
+            "There is contrast also between 'according to men' and 'according to God'."
+        ],
+        "John Gill": [
+            "By the Gospel is meant the good news of the incarnation, sufferings, and death of Christ, and salvation by him: and includes all the doctrines of grace.",
+            "But such are intended, to whom the Gospel had been preached, and to whom it had been effectual unto salvation; who had received it in the love of it, had sincerely professed it, and had suffered for it even death itself.",
+            "While they were here on earth, the Gospel preached to them had such an effect upon them, as to cause them to live spiritually, to live by faith on Christ, to live a life of holiness from him, and communion with him, and to live according to the will of God, in righteousness and true holiness."
+        ],
+        "John Wesley": [
+            "For to this end was the gospel preached - Ever since it was given to Adam.",
+            "That they might be judged - That though they were judged.",
+            "In the flesh according to the manner of men - With rash, unrighteous judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse can be understood as referring to those who have died and are in their graves, having been judged according to human standards while they were alive. However, the gospel was preached to them in order to bring about a judgment according to God's standards, resulting in a life with God in the spirit. This interpretation is supported by the idea that the gospel was preached to those spirits in prison, who had the opportunity to hear and respond while still alive. Therefore, even the dead will be judged by Christ, and although they may have suffered in the flesh, their souls will truly live. So, despite the persecutions and reviling from the pagans, believers should stand firm knowing that Christ is the ultimate Judge and their cause is secure with Him.",
+            "wordCount": 134,
+            "quoteTokenProportion": 43.53,
+            "qualityScore": 2.4740607224563727,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.6,
+            "commentatorTierSimilarities": [
+                30.71,
+                38.35,
+                30.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The gospel was preached to those who have died and are in their graves, judged according to human standards in their lifetime. However, the purpose was to bring about a judgment according to God's standards, leading to a life with God in the spirit. Believers should take comfort in the fact that even the dead will be judged by Christ. Although they may have suffered in the flesh, their souls will truly live. Despite persecution and reviling, believers can be confident that their cause is safe with Christ, the ultimate Judge.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.212618861628803,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.91,
+            "commentatorTierSimilarities": [
+                28.81,
+                39.22,
+                31.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gospel was preached to those who have died and are in their graves. They were judged according to human standards while alive, but the purpose of preaching to them was to bring about a judgment based on God's standards. This means that even the dead will be judged by Christ. Although they may have suffered in the flesh, their souls will truly live. Believers can find reassurance in knowing that their cause is secure with Christ as the final Judge.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.2459090249134563,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.02,
+            "commentatorTierSimilarities": [
+                29.77,
+                37.96,
+                32.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The gospel was preached to the dead, to those who have died and are in their graves. They were judged according to human standards while alive, but the purpose of preaching to them was to bring about a judgment based on God's standards. This means that even the dead will be judged by Christ. Although they may have suffered in the flesh, their souls will truly live. Believers can find reassurance in knowing that their cause is secure with Christ as the final Judge.",
+            "wordCount": 85,
+            "quoteTokenProportion": 49.21,
+            "qualityScore": 2.262089982485339,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.55,
+            "commentatorTierSimilarities": [
+                29.93,
+                37.74,
+                32.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The gospel was preached to the dead, to those who have died and are in their graves. They were judged according to human standards while alive, but the purpose of the preaching was to bring about a judgment based on God's standards. This means that even the dead will be judged by Christ. Although they may have suffered in the flesh, their souls will truly live. Believers can take comfort in knowing that their cause is secure with Christ as the final Judge.",
+            "wordCount": 84,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2632632403130986,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.59,
+            "commentatorTierSimilarities": [
+                29.72,
+                37.89,
+                32.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

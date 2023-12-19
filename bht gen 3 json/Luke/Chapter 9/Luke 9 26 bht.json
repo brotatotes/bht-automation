@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:17:19",
+    "verseRef": "Luke 9:26",
+    "bestBHT": {
+        "bht": "Those who are ashamed of Christ and his words may be tempted to prioritize the opinions of others rather than standing firmly in their faith. However, being ashamed of Christ carries eternal consequences, as he will disown those who disowned him before the Father and the holy angels. On the other hand, those who are unashamed of Christ, like Paul and Onesiphorus, demonstrate their unwavering commitment to him. It is crucial to remember that our allegiance to Christ should outweigh any fear or shame we may face in this world.",
+        "wordCount": 90,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9691572308505498,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+        "commentatorTierSimilarities": [
+            49.34,
+            0.0,
+            50.66
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The glory is threefold: His own, the glory of God, and the glory of the angels.\" ",
+            "His own [glory], which He has to and for Himself as the exalted Messiah.\" ",
+            "The glory of the angels, who surround Him with their brightness."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When one is, in this sense of it, lost to shame, he is nearly past hope.",
+            "But when Christ and 'His words'\u2014Christianity, especially in its more spiritual and uncompromising features\u2014are unpopular, the same instinctive desire to stand well with others begets the temptation to be ashamed of Him.",
+            "He will disown him before the most august of all assemblies, and put him to 'shame and everlasting contempt'."
+        ],
+        "Marvin Vincent": [
+            "It does not spring out of a reverence for right in itself, but from fear of the knowledge and opinion of men.",
+            "It will be as if he should feel himself disgraced before the Father and the holy angels in owning any fellowship with those who have been ashamed of him.",
+            "Threefold glory. His own, as the exalted Messiah; the glory of God, who owns him as his dearly beloved son, and commits to him the judgment; and the glory of the angels who attend him."
+        ],
+        "Archibald T. Robertson": [
+            "Whosoever is ashamed as in Mark 8:38\u2026 Jesus endured the shame of the cross.\" ",
+            "Paul is not ashamed of the Gospel.\" ",
+            "Onesiphorus was not ashamed of Paul."
+        ],
+        "John Gill": [
+            "For whosoever shall be ashamed of me, of my person and offices, of me, as the Messiah, Saviour, and Redeemer, of my grace, righteousness, blood, and sacrifice: and of my words; of the doctrines of the Gospel, one and another of them.",
+            "Of him shall the son of man be ashamed when he shall come in his own glory; in the glory of his human nature... and in the glory of his office, as mediator, and the judge of all the earth... and in the glory of his divine nature.",
+            "and in his Father's... which is the same with his own, as he is the Son of God... and of the holy angels; who shall attend him at his second coming, and be employed in various offices under him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who are ashamed of Christ, his person, his gospel, and his words will face the consequences when he comes in his own glory, the glory of God, and the glory of the angels. This shame stems from a desire to please others and fear of their opinions, rather than a reverence for what is right. But those who are unashamed of Christ, like Paul and Onesiphorus, demonstrate their faith and commitment to him. It is important to remember that being ashamed of Christ carries eternal consequences, as he will disown those who disowned him in front of the Father and the holy angels.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 2.093201198801124,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                48.23,
+                0.0,
+                51.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are ashamed of Christ and his teachings will face severe consequences when he appears in his own glory, the glory of God, and the glory of the angels. This shame stems from a fear of the opinions of others rather than a genuine reverence for what is right. However, those who are unashamed of Christ, like Paul and Onesiphorus, demonstrate their faith and commitment to him. Being ashamed of Christ carries eternal consequences, as he will disown those who disowned him before the Father and the holy angels.",
+            "wordCount": 90,
+            "quoteTokenProportion": 48.28,
+            "qualityScore": 2.075024392538306,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.34,
+            "commentatorTierSimilarities": [
+                48.79,
+                0.0,
+                51.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who are ashamed of Christ and his words may be tempted to prioritize the opinions of others rather than standing firmly in their faith. However, being ashamed of Christ carries eternal consequences, as he will disown those who disowned him before the Father and the holy angels. On the other hand, those who are unashamed of Christ, like Paul and Onesiphorus, demonstrate their unwavering commitment to him. It is crucial to remember that our allegiance to Christ should outweigh any fear or shame we may face in this world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9691572308505498,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.82,
+            "commentatorTierSimilarities": [
+                49.34,
+                0.0,
+                50.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who are ashamed of Christ and his teachings risk facing severe consequences when he returns in his glory, accompanied by the glory of God and the angels. This shame comes from a fear of others' opinions rather than a genuine reverence for what is right. In contrast, those who boldly proclaim their faith in Christ, like Paul and Onesiphorus, demonstrate their commitment to him. It is essential to stand firm in our allegiance to Christ, for being ashamed of him carries eternal implications.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9302776097727028,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                50.2,
+                0.0,
+                49.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Being ashamed of Christ and his teachings has grave consequences when he returns in glory, accompanied by the glory of God and the angels. This shame stems from a fear of others' opinions, rather than a genuine reverence for what is right. However, those who boldly proclaim their faith in Christ, exemplified by Paul and Onesiphorus, demonstrate their unwavering commitment. It is crucial to stand firm in our allegiance to Christ, for being ashamed of him carries everlasting repercussions.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.8586543268243534,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.14,
+            "commentatorTierSimilarities": [
+                50.95,
+                0.0,
+                49.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

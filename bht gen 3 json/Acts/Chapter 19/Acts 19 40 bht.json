@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 16:33:56",
+    "verseRef": "Acts 19:40",
+    "bestBHT": {
+        "bht": "The assembly in question is viewed as an unlawful and potentially riotous concourse, causing concern for the authorities who might face questioning. There is no clear reason or justification for this gathering, increasing the danger of being accused and the real peril involved. Roman law treated riots seriously, and the town-clerk of Ephesus understood the possible consequences for the city's prized liberties. Therefore, it is crucial to address and explain this matter to the proconsul, as no legitimate account can justify this assembly.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.5343014061347466,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+        "commentatorTierSimilarities": [
+            20.4,
+            46.52,
+            33.08
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He here assumes that this assembly was an unlawful one.",
+            "There being no ground why we shall be able to give an account.",
+            "No ground whereon to build the possibility of our giving an account."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "40. For we\u2014the public",
+            "\tauthorities. ",
+            "\t",
+            "are in danger of being called",
+            "\tin question\u2014by our superiors."
+        ],
+        "Albert Barnes": [
+            "Popular commotions were justly dreaded by the Roman government; and such an assembly as this, convened without any good cause, would not escape their notice.",
+            "There was a Roman law which made it capital for anyone to be engaged in promoting a riot.",
+            "Sui coetum, et concursum fecerit, capite puniatur: 'He who raises a mob, let him be punished with death.'"
+        ],
+        "Marvin Vincent": [
+            "Concourse [\u03c3\u03c5\u03c3\u03c4\u03c1\u03bf\u03c6\u03b7\u03c2] . Lit., a twisting together : hence of anything which is rolled or twisted into a mass; and so of a mass of people, with an underlying idea of confusion : a mob.",
+            "Compare ch. 28 12.",
+            "(none)"
+        ],
+        "Philip Schaff": [
+            "Men of the rank of the \u2018town-clerk\u2019 of Ephesus well knew how probable it was that a tumultuous meeting which endangered the public peace would be inquired into by the Roman officials.",
+            "The prized liberties of their city might in consequence have been forfeited.",
+            "There was a Roman law which made it a capital offence to raise a riot."
+        ],
+        "Archibald T. Robertson": [
+            "For indeed we are in danger to be accused concerning this day's riot. The peril was real.\" ",
+            "There being no cause for it, as touching it. No clear antecedent, only the general idea.\" ",
+            "Give an account of this concourse. They will have to explain matters to the proconsul. \u03a3\u03c5\u03c3\u03c4\u03c1\u03bf\u03c6\u03b7 is a late word for a conspiracy and a disorderly riot."
+        ],
+        "John Gill": [
+            "For we are in danger of being called in question... it being capable of being interpreted as a riot, tumult, and sedition.",
+            "There being no cause whereby we may give an account of this concourse.",
+            "None can be given that will justify it, or that can be alleged in favour of it."
+        ],
+        "John Wesley": [
+            "This concourse \u2014 He wisely calls it by an inoffensive name."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The assembly in Acts 19:40 is described as unlawful and a potential riotous mob. The public authorities express concern about being called into question by their superiors regarding this day's events. They emphasize that there is no justifiable reason for this gathering, with no clear antecedent or cause to explain the nature of the concourse. They acknowledge the danger of being accused and the real peril of the situation. The Romans had strict laws regarding riots and commotion, making it a capital offense to be involved in promoting such actions. The town-clerk of Ephesus knew the repercussions this assembly could have on the city's liberties. In this context, it becomes crucial for the authorities to address and explain the matter to the proconsul, as there is no legitimate account for this gathering.",
+            "wordCount": 134,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.5126790495061488,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.64,
+            "commentatorTierSimilarities": [
+                21.69,
+                45.57,
+                32.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In Acts 19:40, the authorities recognize the danger of this unlawful assembly, referring to it as a riotous and disorderly concourse. They express concern about being questioned and accused due to the absence of a justifiable cause for the gathering. The Romans imposed severe penalties for promoting riots, and the town-clerk of Ephesus understood the potential consequences for the city's liberties. It becomes essential for the authorities to explain this situation to the proconsul, as no legitimate account can justify this event.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5679843170293526,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                19.39,
+                47.61,
+                33.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The assembly in question is viewed as an unlawful and potentially riotous concourse, causing concern for the authorities who might face questioning. There is no clear reason or justification for this gathering, increasing the danger of being accused and the real peril involved. Roman law treated riots seriously, and the town-clerk of Ephesus understood the possible consequences for the city's prized liberties. Therefore, it is crucial to address and explain this matter to the proconsul, as no legitimate account can justify this assembly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.5343014061347466,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.36,
+            "commentatorTierSimilarities": [
+                20.4,
+                46.52,
+                33.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The assembly in Acts 19:40 is regarded as unlawful, potentially leading to a riotous concourse. The authorities express concern about facing questioning and risk being accused of involvement. There is no clear justification or cause for this gathering, and the danger of the situation is acknowledged. Roman law strictly punished those involved in promoting riots, and this weighed heavily on the town-clerk of Ephesus, aware of the potential consequences for the city's liberties. It becomes crucial to address and explain this matter to the proconsul, as no legitimate account can justify this assembly.",
+            "wordCount": 94,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.4389560672783817,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.19,
+            "commentatorTierSimilarities": [
+                20.66,
+                42.63,
+                36.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The concerns raised in Acts 19:40 revolve around an unlawful and potentially riotous gathering. Authorities fear being called into question and accused due to the lack of a justifiable cause. The danger and real peril of the situation are acknowledged, as Roman law treated riots seriously. The potential consequences for the city's liberties weigh heavily on the town-clerk of Ephesus. Therefore, it becomes crucial to explain the matter to the proconsul with no legitimate account to justify this assembly.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.526795032243749,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.11,
+            "commentatorTierSimilarities": [
+                21.37,
+                47.04,
+                31.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

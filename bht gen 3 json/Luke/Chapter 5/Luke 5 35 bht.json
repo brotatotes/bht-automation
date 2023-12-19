@@ -1,0 +1,119 @@
+{
+    "timestamp": "12-19-2023 16:15:30",
+    "verseRef": "Luke 5:35",
+    "bestBHT": {
+        "bht": "In those days, the bridegroom shall be taken away from them through death, leading to fasting as a sign of mourning and humility. This mirrors the situation with John the Baptist, who was taken away from his disciples and imprisoned. The disciples would mourn and fast not only for the loss of their Lord but also in response to the many afflictions and persecutions they would face for the sake of their faith.",
+        "wordCount": 73,
+        "quoteTokenProportion": 49.06,
+        "qualityScore": 1.3700591364281414,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+        "commentatorTierSimilarities": [
+            24.27,
+            11.8,
+            63.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The days shall come - and when the bridegroom shall be taken away, then shall they fast.",
+            "The thought is broken off.",
+            "The A. V. follows a reading which omits kai, and, which is inserted in all the best texts."
+        ],
+        "Philip Schaff": [
+            "Luke 5:35. See on Matthew 9:15. Observe the solemnity of the correct reading.",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "Then in those days (\u03c4\u03bf\u03c4\u03b5 \u03b5\u03bd \u03b5\u03ba\u03b5\u03b9\u03bd\u03b1\u03b9\u03c2 \u03c4\u03b1\u03b9\u03c2 \u03b7\u03bc\u03b5\u03c1\u03b1\u03b9\u03c2). Here Mark 2:20 has \"then in that day,\" and Matthew 9:15 only \"then.\" "
+        ],
+        "John Gill": [
+            "The bridegroom shall be taken away from them: as their master, John, was taken away from them, and now in prison, and therefore it was no wonder they mourned and fasted.\" ",
+            "In a short time he, the bridegroom of his church and people, should be taken away by death.",
+            "They shall fast in those days; mourn, and be humbled, of which fasting was, a sign, for the death of their Lord, and on account of the many afflictions and persecutions they should endure for his sake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 5:35, it is mentioned that the days shall come - and when the bridegroom shall be taken away, then shall they fast. This refers to the time when Jesus, the bridegroom of his church and people, would be taken away by death. The disciples would mourn and fast as a sign of their grief for losing their master and because of the afflictions and persecutions they would face for His sake. This passage emphasizes the solemnity and seriousness of the correct reading, highlighting the significance of this event.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.467506452618769,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.14,
+            "commentatorTierSimilarities": [
+                29.15,
+                14.55,
+                56.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In those days, the bridegroom shall be taken away and they shall fast. This signifies the sorrow that the disciples would experience when their master, Jesus, would be taken away from them by death. Fasting would be a sign of their mourning, a gesture of humility. It was not surprising that they would fast, as they mourned the loss of their Lord and endured various afflictions and persecutions for His sake. The seriousness of this event is emphasized by the correct reading, highlighting its significance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.2631897160248784,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.34,
+            "commentatorTierSimilarities": [
+                29.48,
+                11.68,
+                58.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In those days, when the bridegroom shall be taken away, they shall fast. This refers to the time when Jesus, the bridegroom of his church and people, would be taken away by death. Fasting would be a sign of mourning and humility, as they grieved the loss of their Lord and endured afflictions and persecutions. The seriousness and solemnity of this event are underscored by the emphasis on the correct reading, highlighting its significant impact.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.3366328781959675,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.79,
+            "commentatorTierSimilarities": [
+                29.1,
+                11.09,
+                59.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Luke 5:35, Jesus speaks about the future, saying, The days shall come - and when the bridegroom shall be taken away, then shall they fast. Here, the bridegroom is taken away through death, and fasting becomes a way for the disciples to mourn and show humility. They mourn the loss of their master, just as John the Baptist was taken from them and imprisoned. Additionally, fasting is also a response to the afflictions and persecutions they will endure for the sake of their Lord.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4780719831693823,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.49,
+            "commentatorTierSimilarities": [
+                27.48,
+                12.78,
+                59.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In those days, the bridegroom shall be taken away from them through death, leading to fasting as a sign of mourning and humility. This mirrors the situation with John the Baptist, who was taken away from his disciples and imprisoned. The disciples would mourn and fast not only for the loss of their Lord but also in response to the many afflictions and persecutions they would face for the sake of their faith.",
+            "wordCount": 73,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 1.3700591364281414,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.9,
+            "commentatorTierSimilarities": [
+                24.27,
+                11.8,
+                63.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

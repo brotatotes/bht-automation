@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:35:27",
+    "verseRef": "Acts 22:16",
+    "bestBHT": {
+        "bht": "Baptism is a visible seal of remission, symbolizing the washing away of sins by the blood of Christ. It is not a mere ceremonial rite, but rather an act that invites the presence of the Lord and expresses a deep faith in Him. While baptism itself does not possess salvific power, it serves as a means and seal of God's forgiveness. Therefore, it is crucial not to delay obedience to the command of baptism, for God often uses this ordinance to lead His children to the cleansing power of Christ's blood.",
+        "wordCount": 93,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 2.329100404897601,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+        "commentatorTierSimilarities": [
+            28.74,
+            31.92,
+            39.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This was the Jewish as well as the Christian doctrine of baptism.",
+            "Paul carefully avoids mentioning to the Jews this Name, except where it is unavoidable.",
+            "I saw him, ver. 18."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Baptism being the visible seal of remission.",
+            "Having called, that is, after having done so; referring to the confession of Christ which preceded baptism."
+        ],
+        "Albert Barnes": [
+            "Receive baptism as emblematic of the washing away of sins...as expressive of the washing away of sins, or of purifying the heart.\" ",
+            "Sinners are represented in the Scriptures as defiled or polluted by sin...to wash away the sins denotes the purifying of the soul from this polluted influence.",
+            "It is proper that the rite of baptism should be attended with extraordinary prayer; that he who is to be baptized should make it the occasion of special and very solemn religious exercises."
+        ],
+        "Marvin Vincent": [
+            "Wash away [\u03b1\u03c0\u03bf\u03bb\u03bf\u03c5\u03c3\u03b1\u03b9] . See on ch. Acts 16:33."
+        ],
+        "John Calvin": [
+            "But because it may seem that by this means more is attributed to the outward and corruptible element than is meet, the question is, whether baptism be the cause of our purging.",
+            "Therefore, we must hold this, first, that it is God alone who washeth us from our sins by the blood of his Son; and to the end this washing may be effectual in us, he worketh by the hidden power of his Spirit.",
+            "For the sacraments have neither any power of salvation included in them, neither are they anything worth of themselves."
+        ],
+        "Philip Schaff": [
+            "The more accurate rendering is, \u2018have thyself baptized.\u2019",
+            "In St. Paul\u2019s mind it was no mere formal or ceremonial rite.",
+            "We see, therefore, that the Church of the first days directly invoked our Lord and Redeemer."
+        ],
+        "Archibald T. Robertson": [
+            "By baptized (\u03b2\u03b1\u03c0\u03c4\u03b9\u03c3\u03b1). First aorist middle (causative), not passive, Get thyself baptized (Robertson, Grammar, p. 808).",
+            "It is possible, as in Acts 2:38, to take these words as teaching baptismal remission or salvation by means of baptism, but to do so is in my opinion a complete subversion of Paul's vivid and picturesque language.",
+            "Baptism here pictures the washing away of sins by the blood of Christ."
+        ],
+        "John Gill": [
+            "Though it might not be the apostle's case, yet it is often the case of many, to procrastinate and delay obedience to the commands of Christ, and particularly to the ordinance of baptism.",
+            "And wash away thy sins; or 'be washed from thy sins'; not that it is in the power of man to cleanse himself from his sins [...] but the ordinance of baptism, may be, and sometimes is, a means of leading the faith of God's children to the blood of Christ, which cleanses from all sin.",
+            "Calling on the name of the Lord; the name of the Lord is not only to be used by the administrator of baptism in the performance of it; but it should be called upon by the person who submits to it, both before and at the administration of it, for the presence of Christ in it."
+        ],
+        "John Wesley": [
+            "Be baptized, and wash away thy sins \u2014 Baptism administered to real penitents, is both a means and seal of pardon.",
+            "Baptism...is both a means and seal of pardon.",
+            "Nor did God ordinarily in the primitive Church bestow this on any unless through this means."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Baptism is a significant act in both Jewish and Christian teachings, symbolizing the visible seal of remission, the washing away of sins by the blood of Christ. By being baptized, one participates in the purification of the soul and the cleansing of sins through the power of the Holy Spirit. It is not a mere ceremonial rite, but an act that invites the presence of the Lord and expresses a deep faith in Him. While baptism itself does not possess salvific power, it serves as a means and seal of God's forgiveness. Therefore, it is crucial not to delay obedience to the command of baptism, for God often uses this ordinance to lead His children to the cleansing power of Christ's blood.",
+            "wordCount": 124,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 2.328192750098788,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.75,
+            "commentatorTierSimilarities": [
+                28.97,
+                32.65,
+                38.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Baptism is a visible seal of remission, symbolizing the washing away of sins by the blood of Christ. It is not a mere ceremonial rite, but rather an act that invites the presence of the Lord and expresses a deep faith in Him. While baptism itself does not possess salvific power, it serves as a means and seal of God's forgiveness. Therefore, it is crucial not to delay obedience to the command of baptism, for God often uses this ordinance to lead His children to the cleansing power of Christ's blood.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.329100404897601,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+            "commentatorTierSimilarities": [
+                28.74,
+                31.92,
+                39.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Baptism is the visible seal of remission and the washing away of sins by the blood of Christ. It is a significant act in both Jewish and Christian teachings that invites the presence of the Lord and expresses a deep faith in Him. While baptism itself does not possess salvific power, it serves as a means and seal of God's forgiveness. God often uses this ordinance to lead His children to the cleansing power of Christ's blood. Therefore, it is crucial not to delay obedience to the command of baptism.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.165290904782779,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.34,
+            "commentatorTierSimilarities": [
+                30.1,
+                30.55,
+                39.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Baptism acts as a visible seal of remission and the washing away of sins through the blood of Christ. It is an important rite in both Jewish and Christian teachings, inviting the presence of the Lord and expressing a deep faith in Him. While baptism does not have salvific power, it serves as a means and seal of God's forgiveness. It is vital to promptly obey the command of baptism, as God often uses this ordinance to guide His children towards the cleansing power of Christ's blood.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.2936140582390983,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.6,
+            "commentatorTierSimilarities": [
+                30.26,
+                32.02,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Baptism is the visible seal of remission and the washing away of sins by the blood of Christ. While it does not possess salvific power, baptism serves as a means and seal of God's forgiveness. It is a significant act that displays a deep faith in the Lord, inviting His presence. Delaying obedience to the command of baptism is unwise, as God often uses this ordinance to lead His children to the cleansing power of Christ's blood.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2908203484911933,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+            "commentatorTierSimilarities": [
+                30.61,
+                31.57,
+                37.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

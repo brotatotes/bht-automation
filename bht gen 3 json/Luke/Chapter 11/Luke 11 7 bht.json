@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:17:59",
+    "verseRef": "Luke 11:7",
+    "bestBHT": {
+        "bht": "The door is barred, causing trouble for the one in need of bread. The one being asked is reluctant to rise and give, unable to overcome his own reluctance. This parable presents a father figure rather than a mother, symbolizing the heavenly Father we should importune. Despite the selfish reluctance of the one asked, God's apparent reluctance is only apparent and ultimately works for our good. The urgency and inconvenience of disturbing a whole family in the same room is highlighted in this parable.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.5505489867504807,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+        "commentatorTierSimilarities": [
+            20.65,
+            43.3,
+            36.05
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The door is \u2018barred,\u2019 not only \u2018shut;\u2019 there is the trouble of unbarring it.\" ",
+            "(observe how in all the parables which place the Father, or the Husband, before us, the Mother, or the Bride, does not appear)",
+            "he cannot (i.e. will not, cannot from being overcome by reluctance) rise and give to him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. Trouble me not\u2014the trouble",
+            "\tmaking him insensible both to the urgency of the case and the claims",
+            "\tof friendship. ",
+            "\t",
+            "I cannot\u2014without",
+            "\texertion which he would not make."
+        ],
+        "Marvin Vincent": [
+            "My children are with me in bed. \"A whole family - parents, children, and servants - sleep in the same room\" (Thomson, \" Land and Book \"). Tynd. my servants are with me in the chamber."
+        ],
+        "Philip Schaff": [
+            "Trouble me not. The half-vexed tone is true to nature.",
+            "The one asked is selfish, and his reluctance is real. But God\u2019s reluctance is apparent only, and even this appearance arises from reasons which work for our best good.",
+            "The father is naturally introduced, and represents, better than the mother, in such a parable, the heavenly Father we should importune."
+        ],
+        "Archibald T. Robertson": [
+            "Stop furnishing troubles to me.\" ",
+            "The door is now shut, shut to stay shut.\" ",
+            "I cannot, that is, I am not willing."
+        ],
+        "John Gill": [
+            "Trouble me not; by knocking at the door, and importuning to rise and lend loaves; whereby his rest would be disturbed, and trouble given him.\" ",
+            "The door is now shut; being very late at night, and which could not be opened without noise and inconvenience.",
+            "I cannot rise; without disturbing them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 11:7, the door is not just shut, but also barred, causing trouble for the one seeking bread. The request to trouble me not reflects the reluctance of the one asked, who is unwilling to exert the effort necessary to provide. This parable presents a father figure rather than a mother, symbolizing the heavenly Father we should persistently seek. While the one asked may be selfish, God's apparent reluctance arises from reasons that work for our good. In this parable, a whole family sleeps in the same room, highlighting the urgency and inconvenience of disturbing them.",
+            "wordCount": 97,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 1.4892132715271291,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                20.7,
+                47.36,
+                31.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The door is barred, causing trouble for the one in need of bread. The one being asked is reluctant to rise and give, unable to overcome his own reluctance. This parable presents a father figure rather than a mother, symbolizing the heavenly Father we should importune. Despite the selfish reluctance of the one asked, God's apparent reluctance is only apparent and ultimately works for our good. The urgency and inconvenience of disturbing a whole family in the same room is highlighted in this parable.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.5505489867504807,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.9,
+            "commentatorTierSimilarities": [
+                20.65,
+                43.3,
+                36.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The door is barred, causing reluctance in the one being asked. They are unable to rise and give, being overwhelmed by their own resistance. This parable features a father figure, representing the heavenly Father we should persistently seek. Despite the selfishness of the one asked, God's reluctance is only apparent and serves our best good. The urgent and inconvenient nature of the situation is emphasized by the presence of a whole family sleeping in the same room.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.3994277886982784,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.87,
+            "commentatorTierSimilarities": [
+                21.26,
+                40.12,
+                38.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The door is not just shut, but also barred, adding to the difficulty of obtaining bread. The one asked is reluctant and unable to rise and provide, evident in their refusal to be troubled. This parable portrays a father figure, symbolizing the heavenly Father we should consistently implore. Although the one asked may be self-centered, God's reluctance is only a facade, driven by reasons that ultimately work for our benefit. The urgency and inconvenience of disturbing a whole family in the same room is highlighted in this narrative.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.4107841928267628,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.25,
+            "commentatorTierSimilarities": [
+                19.8,
+                40.76,
+                39.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The door, barred and shut to stay shut, presents a challenge in obtaining bread. The reluctance of the one asked is palpable; they cannot rise and give without being thoroughly troubled. Representing the heavenly Father, the father figure in this parable reflects the divine reluctance that serves our ultimate good. Sleeping in the same room, the presence of the whole family underscores the urgency and inconvenience of disturbing them.",
+            "wordCount": 69,
+            "quoteTokenProportion": 37.25,
+            "qualityScore": 1.4856548766563578,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.74,
+            "commentatorTierSimilarities": [
+                22.7,
+                31.07,
+                46.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

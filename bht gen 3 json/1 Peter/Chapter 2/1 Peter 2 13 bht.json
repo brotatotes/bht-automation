@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:39:16",
+    "verseRef": "1 Peter 2:13",
+    "bestBHT": {
+        "bht": "We are called to submit ourselves to every human institution and ordinance of man for the sake of Christ. Our submission reflects the existing rights of power in each case and honors Christ, who was subject to earthly rulers. This obedience demonstrates that we are not anarchists but representatives of Christ on earth. By obeying these earthly authorities, we bring glory to God and refute the accusations of the heathen. Our submission is a testament to God's command and His divine appointment of civil government.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 2.0091696633419156,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+        "commentatorTierSimilarities": [
+            30.44,
+            33.57,
+            35.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is no objection to this command, that all powers are ordained of God: for that consideration does not come into notice in these words, but in those which follow, 'for the Lord\u2019s sake.'",
+            "Here, it is the lower side of such institutions, the fact of their being ordained and upheld by men, that is brought into sight.",
+            "For first the analogy of the clauses shews that the grounds of obedience in each case, all being alike for the Lord\u2019s sake, belong to the actually existing rights of power in that case."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The apostle speaks as one raised above all human things.",
+            "Submit yourselves for the sake of Christ, who desires you to be subject, and who once was subject to earthly rulers Himself, though having all things subject to Him, and whose honor is at stake in you as His earthly representatives.",
+            "The distinction between 'the king as supreme' and 'governors sent by him' implies that 'if the king command one thing, and the subordinate magistrate another, we ought rather to obey the superior'."
+        ],
+        "Albert Barnes": [
+            "Submit yourselves to every ordinance of man - Greek, 'to every creation of man,' ... that is, to every institution or appointment of man.",
+            "The laws, institutes, and appointments of such a government may be spoken of as the creation of man.",
+            "The meaning is, that we are to be subject to that authority whether exercised by the sovereign in person, or by those who are appointed by him."
+        ],
+        "Marvin Vincent": [
+            "Submit yourselves. Rev., be subject.\" ",
+            "Ordinance of man. Lit., to every human creation or institution.",
+            "King. The emperor, styled king by Greek writers."
+        ],
+        "John Calvin": [
+            "Submit yourselves,\" or, Be ye subject; for by refusing the yoke of government, they would have given to the Gentiles no small occasion for reproaching them.",
+            "Suitable, then, is the word \u201cordination;\u201d by which Peter reminds us, that God the maker of the world has not left the human race in a state of confusion, that they might live after the manner of beasts, but as it were in a building regularly formed, and divided into several compartments.",
+            "For many are wont to inquire too scrupulously by what right power has been attained; but we ought to be satisfied with this alone, that power is possessed and exercised."
+        ],
+        "Philip Schaff": [
+            "It is not to be limited, however, to magistracy only, or to persons in authority, or to magisterial laws, but is to be taken in the absolute sense, embracing under it all the different forms, kingship, magistracy, and the rest, which follow.\" ",
+            "The spirit of consideration for Christ, who would be dishonored by the opposite, or more simply, the thought that Christ wills it so.",
+            "While he speaks of them with the same breadth of spirit as Paul, his standpoint is not quite the same. He does not deal with them here as Paul does there, in respect of what they are as powers 'ordained of God,' but simply in respect of this duty of submission."
+        ],
+        "Archibald T. Robertson": [
+            "For the Lord's sake. That is reason enough for the Christian not to be an anarchist.",
+            "The heathen were keen to charge the Christians with any crime after Nero set the fashion.",
+            "It is not the divine right of kings, but the fact of the king as the outstanding ruler."
+        ],
+        "John Gill": [
+            "Submission is limited and restrained to persons in such a place and situation.\" ",
+            "Civil government is of God; magistracy is of divine appointment; the powers that be are ordained of God.\" ",
+            "It is the command of God that magistrates should be obeyed; and it makes for his glory, as well as for the good of men, when they are submitted to in things that do not contradict the revealed will of God; for otherwise, not man, but God, is to be obeyed."
+        ],
+        "John Wesley": [
+            "Submit yourselves to every ordinance of man \u2014 To every secular power. Instrumentally these are ordained by men; but originally all their power is from God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the sake of Christ, we are called to submit ourselves to every human institution and ordinance of man. This includes being subject to earthly rulers and governors sent by them, recognizing the existing rights of power in each case. By doing so, we honor Christ, who Himself was subject to earthly rulers, and represent Him as His earthly representatives. It is not a matter of divine right of kings, but rather the recognition of the king as the outstanding ruler. Our submission is not a validation of their authority, but a demonstration of our obedience to God's command, showing the world that we are not anarchists. Such obedience will silence the accusations of the heathen and bring glory to God.",
+            "wordCount": 122,
+            "quoteTokenProportion": 42.5,
+            "qualityScore": 1.9860242786169136,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                33.21,
+                32.24,
+                34.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the sake of Christ, we are called to submit ourselves to every human institution and ordinance of man. By recognizing the existing rights of power in each case, we honor Christ and represent Him as His earthly representatives. Our submission is not a validation of their authority, but a demonstration of our obedience to God's command, showing the world that we are not anarchists. Such obedience will silence the accusations of the heathen and bring glory to God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9838924192466596,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.31,
+            "commentatorTierSimilarities": [
+                30.21,
+                33.31,
+                36.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We are called to submit ourselves to every human institution and ordinance of man for the sake of Christ, recognizing the existing rights of power in each case. Our submission is a demonstration of our obedience to God's command, showing the world that we are not anarchists. By being subject to earthly rulers and governors sent by them, we honor Christ, who Himself was subject to earthly rulers. This is not a validation of their authority, but a representation of Christ's will for us as His earthly representatives. Our obedience brings glory to God and silences the accusations of the heathen.",
+            "wordCount": 103,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 2.0073543839887327,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                31.18,
+                32.67,
+                36.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We are called to submit ourselves to every human institution and ordinance of man for the sake of Christ. Our submission reflects the existing rights of power in each case and honors Christ, who was subject to earthly rulers. This obedience demonstrates that we are not anarchists but representatives of Christ on earth. By obeying these earthly authorities, we bring glory to God and refute the accusations of the heathen. Our submission is a testament to God's command and His divine appointment of civil government.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0091696633419156,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                30.44,
+                33.57,
+                35.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We are called to submit ourselves to every human institution and ordinance of man for the sake of Christ. By recognizing the existing rights of power in each case, we honor Christ and represent Him as His earthly representatives. Our submission is not a validation of their authority but a demonstration of our obedience to God's command, showing the world that we are not anarchists. Such obedience brings glory to God and refutes the accusations of the heathen.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 1.971188921438785,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                30.73,
+                32.92,
+                36.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:19:19",
+    "verseRef": "Luke 13:20",
+    "bestBHT": {
+        "bht": "Jesus raises the question, Whereunto shall I liken? which is found only in Luke, just as in a prior instance. This parable closely resembles the one mentioned in Matthew 13:33. Several interpretations suggest that it represents the Gospel of the kingdom, the church, or the grace of God in the heart. However, the primary emphasis appears to be on the Gospel of the kingdom, as it is depicted as leaven that permeates and transforms the entire lump of dough.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.6220056514332832,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+        "commentatorTierSimilarities": [
+            58.1,
+            0.0,
+            41.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "Whereunto shall I liken?\" (Luke 13:20) - This question alone in Luke here as... (Commentary)",
+            "This question alone in Luke here as in verse Luke 13:18.\" (Commentary)",
+            "The parable is precisely like that in Matthew 13:33.\" (Commentary)"
+        ],
+        "John Gill": [
+            "besides the parable of the grain of mustard seed, that also of the leaven hid in three measures of meal",
+            "either the Gospel of the kingdom, and the mysteries of it; or the church, which is Christ's kingdom; or the grace of God in the heart, which makes meet for the kingdom of glory",
+            "the first seems rather to be intended"
+        ],
+        "John Wesley": [
+            "Matthew 13:33."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 13:20, Jesus asks, Whereunto shall I liken? This question is unique to Luke's gospel and is also found in Luke 13:18. The parable in this verse is similar to the one in Matthew 13:33, which is about the leaven hidden in three measures of meal. Some commentators suggest that this parable could represent the Gospel of the kingdom, the church, or the grace of God in the heart. However, it seems that the primary focus is on the Gospel of the kingdom, which is like the leaven that permeates and transforms the whole lump of dough.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.9796215078631874,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                60.6,
+                0.0,
+                39.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, Jesus poses the question, Whereunto shall I liken? This question appears only in Luke, as in a previous verse. The parable being referred to is similar to the one in Matthew, specifically Matthew 13:33. It is suggested that this parable could symbolize different concepts such as the Gospel of the kingdom, the church, or the grace of God in the heart. However, it seems that the primary focus is on the Gospel of the kingdom, which works like leaven, permeating and transforming the entire lump of dough.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.8852255206300135,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.03,
+            "commentatorTierSimilarities": [
+                59.32,
+                0.0,
+                40.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus raises the question, Whereunto shall I liken? which is found only in Luke, just as in a prior instance. This parable closely resembles the one mentioned in Matthew 13:33. Several interpretations suggest that it represents the Gospel of the kingdom, the church, or the grace of God in the heart. However, the primary emphasis appears to be on the Gospel of the kingdom, as it is depicted as leaven that permeates and transforms the entire lump of dough.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6220056514332832,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.27,
+            "commentatorTierSimilarities": [
+                58.1,
+                0.0,
+                41.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus asks the question, Whereunto shall I liken? which is exclusive to the book of Luke, as seen in a previous instance. The parable referred to is similar to the one found in Matthew 13:33. Some scholars propose that it symbolizes the Gospel of the kingdom, the church, or the grace of God in the heart. However, the primary focus seems to be on the Gospel of the kingdom, which acts like leaven, permeating and transforming the entire lump of dough.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.608214836107751,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.82,
+            "commentatorTierSimilarities": [
+                57.49,
+                0.0,
+                42.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus poses the question, Whereunto shall I liken? which is found only in Luke, similar to a previous verse. This parable closely resembles the one in Matthew 13:33. It is suggested that it represents the Gospel of the kingdom, the church, or the grace of God in the heart. However, the emphasis is on the Gospel of the kingdom, depicted as leaven that permeates and transforms the entire lump of dough.",
+            "wordCount": 70,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 1.634937596599328,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                58.34,
+                0.0,
+                41.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

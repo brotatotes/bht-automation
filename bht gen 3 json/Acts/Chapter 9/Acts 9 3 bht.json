@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:28:48",
+    "verseRef": "Acts 9:3",
+    "bestBHT": {
+        "bht": "At midday, a bright light suddenly flashed around Saul, causing him and his companions to fall to the ground. The specific details of this blinding light and its timing refute any attempt to explain it away as lightning. This extraordinary event, which occurred at the turning point of Saul's life, carried immense significance for both him and the early Christian movement. It was in this moment that Saul encountered Jesus Christ, an encounter that would radically change his entire trajectory and serve as the foundation for his mission of spreading the Gospel light. This sudden and powerful intervention from God was an act of mercy towards Saul, redirecting him from a path of destruction.",
+        "wordCount": 115,
+        "quoteTokenProportion": 30.38,
+        "qualityScore": 1.9522166266278194,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+        "commentatorTierSimilarities": [
+            27.98,
+            37.27,
+            34.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Unquestionably, the inference is, that it was a bright noon, and the full splendour of the Oriental sun was shining.",
+            "His companions saw the light, and were also cast to the ground.",
+            "These details at once cut away all ground from the absurd rationalistic attempt to explain away the appearance as having been lightning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Tradition points to a bridge near the city as the spot referred to.\" ",
+            "Events which are the turning points in one's history so imprint themselves upon the memory that circumstances the most trifling in themselves acquire by connection with them something of their importance, and are recalled with inexpressible interest.",
+            "he himself emphatically states, in one of his narratives, that it was 'about noon' and in the other, 'at midday' when there could be no deception."
+        ],
+        "Albert Barnes": [
+            "And suddenly - Like a flash of lightning.",
+            "God was accustomed to appear to the Jews in a cloud; in a pillar of smoke, or of fire; in that special splendor which they denominated the Shechinah.",
+            "We are to regard this appearance, therefore, as the reappearance of the Shechinah, the Son of God invested with appropriate glory, appearing to convince an enemy of his ascension, and to change him from a foe to a friend."
+        ],
+        "Marvin Vincent": [
+            "There shined round about [\u03c0\u03b5\u03c1\u03b9\u03b7\u03c3\u03c4\u03c1\u03b1\u03c8\u03b5\u03bd] . Only here and ch. 22 6. Flashed. See on Luke 11:36; Luke 24:4. ",
+            "A light. Compare ch. Acts 22:6; Acts 26:13."
+        ],
+        "John Calvin": [
+            "This is surely the most excellent mercy of God, in that that man is reclaimed unto salvation contrary to the purpose of his mind, whom so great a heat carried headlong into destruction.",
+            "Christ must needs have showed some sign of his majesty, whereby Paul might perceive that he had to do with God himself, and not with any mortal man.",
+            "For although the godly be afraid and tremble at the seeing of God, yet it must needs be that Paul was far more afraid when as he perceived that the divine power of Christ was set full against him."
+        ],
+        "Philip Schaff": [
+            "Then in the full splendour of an oriental sun at noon, around the Pharisee leader and his companions there flashed the blinding light of the Divine glory.",
+            "We gather, then, from the narrative that Saul alone saw the form of the Redeemer in the shining glory.",
+            "He came by degrees to learn, that never until he should gaze again on the glory of that light, and the One whom it environed, in the King\u2019s city, would that dimness, and perhaps a constant sense of pain, be removed from those dazzled eyes which had gazed for a minute into the Divine splendour."
+        ],
+        "Archibald T. Robertson": [
+            "A light from heaven suddenly flashed around him.\" ",
+            "Luke evidently attached great importance to the story of Saul's conversion as the turning point not simply in the career of the man, but an epoch in the history of apostolic Christianity.",
+            "It is impossible to overestimate the worth to the student of Christianity of this event from every angle because we have in Paul's Epistles his own emphasis on the actual appearance of Jesus to him as the fact that changed his whole life."
+        ],
+        "John Gill": [
+            "the design of the historian, under a divine direction, being to give an account of the temper and disposition of Saul",
+            "[the light] was an emblem of that inward and spiritual light which was now quickly communicated to him, light being the first thing in the new, as in the old creation",
+            "of that Gospel light he was hereafter to spread in the world"
+        ],
+        "John Wesley": [
+            "When God suddenly and vehemently attacks a sinner, it is the highest act of mercy.",
+            "So Saul, when his rage was come to the height, is taught not to breathe slaughter.",
+            "By his also the suddenly constituted apostle was guarded against the grand snare into which novices are apt to fall."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At midday, a bright light shone down from heaven, flashing around Saul and his companions and causing them to fall to the ground. This was no mere lightning, for the circumstances and precise timing of the event attest to its divine nature. The significance of this moment cannot be exaggerated, as it marks a turning point not only in Saul's life but also in the history of early Christianity. It was in this blinding light that Saul encountered the risen Jesus Christ, an encounter that would forever transform him and lead to the spreading of the Gospel light throughout the world. This sudden and intense encounter was a tremendous act of mercy, as Saul, consumed by his zeal and on the path of destruction, was intercepted by divine grace. Through this extraordinary event, Saul was not only confronted with the majestic power of God but also protected from the snares that often befall newcomers to the faith.",
+            "wordCount": 158,
+            "quoteTokenProportion": 35.35,
+            "qualityScore": 1.938038453028072,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.78,
+            "commentatorTierSimilarities": [
+                25.82,
+                36.77,
+                37.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At midday, a bright light suddenly flashed around Saul, causing him and his companions to fall to the ground. The specific details of this blinding light and its timing refute any attempt to explain it away as lightning. This extraordinary event, which occurred at the turning point of Saul's life, carried immense significance for both him and the early Christian movement. It was in this moment that Saul encountered Jesus Christ, an encounter that would radically change his entire trajectory and serve as the foundation for his mission of spreading the Gospel light. This sudden and powerful intervention from God was an act of mercy towards Saul, redirecting him from a path of destruction.",
+            "wordCount": 115,
+            "quoteTokenProportion": 30.38,
+            "qualityScore": 1.9522166266278194,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                27.98,
+                37.27,
+                34.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Around midday, a brilliant light shone down from heaven, dazzling Saul and causing him and his companions to be thrown to the ground. This was no ordinary lightning, as it carried divine significance. The importance of this event cannot be overstated, as it marks a pivotal moment not only in Saul's personal journey but also in the history of early Christianity. It was in this radiant light that Saul encountered Jesus Christ, an encounter that completely transformed him and propelled him to proclaim the Gospel throughout the world. This sudden and intense encounter was an extraordinary act of mercy, intercepting Saul in the midst of his destructive path and redirecting him towards the path of salvation.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.8821321010003316,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                27.74,
+                35.15,
+                37.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Midday, a brilliant light from heaven suddenly flashed around Saul, casting him and his companions to the ground. The specific timing and details of this event refute attempts to dismiss it as mere lightning. Its significance cannot be underestimated, as it marks a turning point in Saul's life and in the history of early Christianity. In this blinding moment, Saul encountered Jesus Christ, an encounter that radically transformed him and became the foundation for his mission of spreading the Gospel light throughout the world. This sudden and powerful intervention was an extraordinary act of mercy from God, redirecting Saul from a destructive path toward salvation.",
+            "wordCount": 106,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 1.8893743758823147,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                29.51,
+                34.73,
+                35.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At midday, a brilliant light flashed from heaven around Saul, causing him and his companions to fall to the ground. The details of this event refute any attempt to explain it as mere lightning. This extraordinary encounter was of utmost significance, serving as a turning point in both Saul's life and the history of early Christianity. In this blinding light, Saul encountered Jesus Christ, an encounter that completely transformed him and set him on a path to share the Gospel light with the world. This sudden and powerful intervention from God was a profound act of mercy, redirecting Saul from his destructive path and leading him towards salvation.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.8871909583293234,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.09,
+            "commentatorTierSimilarities": [
+                29.36,
+                35.33,
+                35.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

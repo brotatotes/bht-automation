@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:20:37",
+    "verseRef": "Luke 15:31",
+    "bestBHT": {
+        "bht": "Son, there is no need for special joy over you because you have faithfully served me for many years. Your reward lies in the lifelong satisfaction of being a true-hearted, faithful son in my house. Don't resent the joy shown to the lost one, for all that I have is still yours. Your portion has not been diminished by their celebration. Listen to reason and understand that their restoration does not take away from your inheritance.",
+        "wordCount": 78,
+        "quoteTokenProportion": 53.23,
+        "qualityScore": 1.6535581938085944,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+        "commentatorTierSimilarities": [
+            40.46,
+            30.67,
+            28.87
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou art ever with me, as a reason why no extraordinary joy should be shewn over him.",
+            "This is the soft answer to turn away wrath.",
+            "All that I have is thine, because the portion of goods which remained was his."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Son, listen to reason. What need for special, exuberant joy over thee? Didst thou say, 'Lo, these many years do I serve thee?' In that saidst thou truly but just for that reason do I not set the whole household a-rejoicing over thee.\" ",
+            "For thee is reserved what is higher still\u2014a tranquil lifelong satisfaction in thee, as a true-hearted faithful son in thy father's house.\" ",
+            "Nor of the inheritance reserved for thee is aught alienated by this festive and fitting joy over the once foolish but now wise and newly recovered one."
+        ],
+        "Albert Barnes": [
+            "The disposition of a sinner is selfish. He desires to get all that he can, and is impatient of delay.",
+            "The sinner has taken the world for his portion, and it neither supplies the wants of his soul, nor gives him comfort when he is far away from his Father\u2019s home and from God.",
+            "If God is willing to receive sinners, if all holy beings rejoice, then how should Christians strive for their conversion, and seek for their return!"
+        ],
+        "John Calvin": [
+            "All my property, says he, is thine: that is, 'Though thou hast hitherto carried nothing away out of my house, it has been no loss to the for all is reserved for thee undiminished.'\" ",
+            "It is no loss to us, (547) if God graciously receives into favor those who had been at variance with him on account of their sins.\" ",
+            "It is wicked hardness of heart not to rejoice, when we see our brethren returned from death to life."
+        ],
+        "Philip Schaff": [
+            "Son. Still affectionate God has forbearing kindness toward the self-righteous and uncharitable.",
+            "Thou art ever with me. No occasion for extraordinary joy had arisen in his case.",
+            "All that is mine is thine. Only the portion of the elder son remained in the father\u2019s hands."
+        ],
+        "Archibald T. Robertson": [
+            "Son (\u03a4\u03b5\u03ba\u03bd\u03bf\u03bd). Child.",
+            "Thou (\u03c3\u03c5). Expressed and in emphatic position in the sentence. He had not appreciated his privileges at home with his father. "
+        ],
+        "John Gill": [
+            "Thou art ever with me...here it intends only attendance on public worship, in the place where the symbol of God's presence was, the temple.\" ",
+            "The 'ever' denotes the term of the legal dispensation, which in many branches of it, as circumcision, the passover, and other ordinances and statutes, is said to be for ever.\" ",
+            "And all that I have is thine...all the outward ordinances of the legal dispensation, which belonged to the Jews."
+        ],
+        "John Wesley": [
+            "Thou art ever with me, and all that I have is thine.\" This suggests a strong reason against murmuring at the indulgence shown to the greatest of sinners.",
+            "God's receiving notorious sinners will be no loss to those who have always served him.",
+            "Neither will he raise these to a state of glory equal to that of those who have always served him, if they have, upon the whole, made a greater progress in inward as well as outward holiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Son, listen to reason. What need for special, exuberant joy over thee? Didst thou say, 'Lo, these many years do I serve thee?' In that saidst thou truly but just for that reason do I not set the whole household a-rejoicing over thee. For thee is reserved what is higher still\u2014a tranquil lifelong satisfaction in thee, as a true-hearted faithful son in thy father's house. Nor of the inheritance reserved for thee is aught alienated by this festive and fitting joy over the once foolish but now wise and newly recovered one. Thou art ever with me, and all that I have is thine. This suggests a strong reason against murmuring at the indulgence shown to the greatest of sinners. All my property, says he, is thine: that is, 'Though thou hast hitherto carried nothing away out of my house, it has been no loss to the for all is reserved for thee undiminished.'",
+            "wordCount": 158,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 1.6547351252970137,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.36,
+            "commentatorTierSimilarities": [
+                39.53,
+                28.15,
+                32.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Son, why should there be extraordinary joy over you? Haven't you been serving faithfully all these years? Your reward lies in the tranquil satisfaction of being a true-hearted, faithful son in your father's house. Don't be quick to grumble when others receive indulgence, for all that the father has is still yours. The festive joy over the once foolish but now wise and recovered one doesn't diminish your inheritance. All that the father possesses is reserved for you, undiminished.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 1.7208541136654154,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                37.39,
+                35.18,
+                27.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Son, there is no need for special joy over you because you have faithfully served me for many years. Your reward lies in the lifelong satisfaction of being a true-hearted, faithful son in my house. Don't resent the joy shown to the lost one, for all that I have is still yours. Your portion has not been diminished by their celebration. Listen to reason and understand that their restoration does not take away from your inheritance.",
+            "wordCount": 78,
+            "quoteTokenProportion": 53.23,
+            "qualityScore": 1.6535581938085944,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                40.46,
+                30.67,
+                28.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thou art ever with me, as a reason why no extraordinary joy should be shewn over him. This is the soft answer to turn away wrath... All that I have is thine, because the portion of goods which remained was his. Son, listen to reason. What need for special, exuberant joy over thee? Didst thou say, 'Lo, these many years do I serve thee?' In that saidst thou truly but just for that reason do I not set the whole household a-rejoicing over thee. For thee is reserved what is higher still\u2014a tranquil lifelong satisfaction in thee, as a true-hearted faithful son in thy father's house. Nor of the inheritance reserved for thee is aught alienated by this festive and fitting joy over the once foolish but now wise and newly recovered one.",
+            "wordCount": 137,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 1.7041064834255448,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.0,
+            "commentatorTierSimilarities": [
+                44.08,
+                29.18,
+                26.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thou art ever with me, as a reason why no extraordinary joy should be shewn over him. This is the soft answer to turn away wrath... All that I have is thine, because the portion of goods which remained was his. Son, listen to reason. What need for special, exuberant joy over thee? Didst thou say, 'Lo, these many years do I serve thee?' In that saidst thou truly but just for that reason do I not set the whole household a-rejoicing over thee.",
+            "wordCount": 85,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.6255401542030952,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.39,
+            "commentatorTierSimilarities": [
+                44.56,
+                29.01,
+                26.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

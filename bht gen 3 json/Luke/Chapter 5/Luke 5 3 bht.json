@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:15:10",
+    "verseRef": "Luke 5:3",
+    "bestBHT": {
+        "bht": "Jesus took a boat and taught the multitudes from it, using Peter's boat as a pulpit to spread the Gospel. It may be puzzling why Jesus would go into a boat to address the crowd, but perhaps the serene lake and the silence on the shore provided the perfect conditions for His teachings to be heard clearly. Sitting in the boat, Jesus followed the custom of the times, delivering His message with authority and impact.",
+        "wordCount": 76,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.8020021695942772,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+        "commentatorTierSimilarities": [
+            23.01,
+            39.91,
+            37.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3. taught . . . out of the ship\u2014(See",
+            "\ton :-)."
+        ],
+        "Albert Barnes": [
+            "It may be somewhat difficult to conceive why Jesus should go into a boat and put off from the shore in order to speak to the multitude.",
+            "It is not improbable that the lake was still; that scarcely a breeze passed over it; that all was silence on the shore, and that there was nothing to disturb his voice.",
+            "Oh how much 'more' effect may we suppose the gospel would have in such circumstances, than when proclaimed among the proud, the joyful, the honored, even when assembled in the most splendid edifice that wealth and art could finish!"
+        ],
+        "Marvin Vincent": [
+            "Thrust out [\u03b5\u03c0\u03b1\u03bd\u03b1\u03b3\u03b1\u03b3\u03b5\u03b9\u03bd] . Rev., put out. The special nautical word for putting out to sea. ",
+            "Taught [\u03b5\u03b4\u03bf\u03b4\u03b1\u03c3\u03ba\u03b5\u03bd] . The imperfect. He continued the teaching he had begun on the shore."
+        ],
+        "Philip Schaff": [
+            "This does not prove Simon to be the older brother.",
+            "As our Lord walked on the shore of the lake, He came first to this boat, and Simon was probably near it.",
+            "Taught the multitudes out of the boat."
+        ],
+        "Archibald T. Robertson": [
+            "To put out a little. Second aorist infinitive of the double compound verb \u03b5\u03c0-\u03b1\u03bd-\u03b1\u03b3\u03c9, found in Xenophon and late Greek writers generally.",
+            "Only twice in the N.T. In Matthew 21:18 in the sense of leading back or returning and here in the sense of leading a ship up upon the sea, to put out to sea, a nautical term.",
+            "Christ uses Peter's boat as a pulpit whence to throw the net of the Gospel over His hearers."
+        ],
+        "John Gill": [
+            "To which the Syriac and Persic versions agree; only they make the orders to be given not to Simon singly, but to others, to all in the boat.",
+            "And which adds, agreeable to the sense enough, though it is not in the text, 'when they had executed his command': had done as he entreated, or ordered, and put off the vessel a little way from the shore.",
+            "And whereas he sat while he taught, this was according to the then custom of the times with the Jews."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus climbed into a boat on the sea and began teaching the multitudes from there. He used Peter's boat as a pulpit to cast the net of the Gospel over His hearers. It may seem strange that Jesus went into a boat to speak to the crowd, but perhaps the lake was calm, the shore was silent, and there was nothing to disturb His voice. Such circumstances would surely have a greater impact on the proclamation of the gospel than any splendid edifice. Jesus sat and taught from the boat, following the custom of the times.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6550376740059134,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                24.12,
+                42.74,
+                33.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus took a boat and taught the multitudes from it, using Peter's boat as a pulpit to spread the Gospel. It may be puzzling why Jesus would go into a boat to address the crowd, but perhaps the serene lake and the silence on the shore provided the perfect conditions for His teachings to be heard clearly. Sitting in the boat, Jesus followed the custom of the times, delivering His message with authority and impact.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.8020021695942772,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.26,
+            "commentatorTierSimilarities": [
+                23.01,
+                39.91,
+                37.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus utilized a boat as His platform to teach the multitudes, casting the net of the Gospel over His listeners. The decision to teach from a boat might seem peculiar, but it could have been due to the calmness of the lake, the tranquility of the shore, and the absence of any distractions to hinder His voice. By adopting this method, Jesus effectively communicated His message, adhering to the prevailing practices of that era.",
+            "wordCount": 74,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.499332986535732,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
+            "commentatorTierSimilarities": [
+                25.83,
+                37.88,
+                36.29
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus embarked on a boat to teach the multitude, utilizing Peter's boat as a pulpit from which to cast the net of the Gospel upon His hearers. This decision to teach from the water may raise questions, but it is possible that the serene lake and the quiet shore offered an ideal environment for His voice to carry unhindered. Settling in the boat, Jesus adhered to the customs of that time, delivering His message with authority and making a profound impact.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6263445366708775,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.42,
+            "commentatorTierSimilarities": [
+                24.58,
+                38.31,
+                37.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus taught the multitudes from a boat, using Peter's boat as a pulpit to spread the Gospel. It may seem strange that Jesus went into a boat to speak to the crowd, but perhaps the lake was still and the shore was silent, creating an ideal setting for His teachings to be heard without any disturbances. Jesus sat in the boat, following the customs of the time, and delivered His message with authority and impact.",
+            "wordCount": 76,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.7883092674332821,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.8,
+            "commentatorTierSimilarities": [
+                22.49,
+                39.75,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

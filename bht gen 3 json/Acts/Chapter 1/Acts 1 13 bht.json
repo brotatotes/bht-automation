@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:24:55",
+    "verseRef": "Acts 1:13",
+    "bestBHT": {
+        "bht": "The disciples gathered in an upper room, a private and secluded space, likely the same where they had shared the Last Supper. This room under the flat roof was meant for retreat, prayer, and religious conversation. It was a place of resort for the disciples, where they could safely gather away from the Jews who were hostile towards Jesus. In this upper chamber, the disciples remained firm in their faith, waiting eagerly for the Holy Spirit to be poured out upon them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.1540704818247782,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+        "commentatorTierSimilarities": [
+            28.53,
+            36.64,
+            34.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is in the highest degree improbable that the disciples would be found assembled in any public place at this time.",
+            "The upper chamber was perhaps that in which the last Supper had been taken; probably that in which they had been since then assembled, but certainly one in a private house.",
+            "And Nicephorus says that the Empress Helena enclosed in her larger church the room where took place the descent of the Holy Spirit in the upper chamber."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "went up into an upper room\u2014perhaps the same 'large upper room' where with their Lord they had celebrated the last Passover and the first Supper.",
+            "where abode\u2014not lodged, but had for their place of rendezvous.",
+            "Peter, &c.\u2014(See on Luke 22:12- :)."
+        ],
+        "Albert Barnes": [
+            "The word \u03c5\u0314\u03c0\u03b5\u03c1\u03c9\u0342\u0345\u03bf\u03bd huperoo\u0304n, here translated 'upper room,' occurs only four times in the New Testament: Acts 9:37, 'She (Dorcas) was sick and died; whom when they had washed, they laid her in an upper chamber' (see also Acts 9:39); Acts 20:8, 'And there were many lights in the upper chamber where they were gathered together.'\" ",
+            "Here it [the upper room] evidently means the place where they were assembled for devotion.\" ",
+            "The disciples probably selected one where they might be together, and yet so retired that they might be safe from the Jews."
+        ],
+        "Marvin Vincent": [
+            "An upper room [\u03c4\u03bf \u03c5\u03c0\u03b5\u03c1\u03c9\u03bf\u03bd] . With the article, denoting some well-known place of resort.",
+            "It was the name given to the room directly under the flat roof.",
+            "The participle and finite verb, denoting continuance or habitual residence."
+        ],
+        "John Calvin": [
+            "Too, too ridiculous are the Papists, which go about to prove Peter his supremacy hereby, because he is reckoned up first of all the apostles.\" ",
+            "But if he be, therefore, the chief of all the apostles, because his name is first in the catalogue of the apostles\u2019 names, I will again conclude, that the mother of Christ was inferior unto all the rest of the women, because she is [here] reckoned the last.\" ",
+            "Because the disciples had fallen away, and filthily fled from their Master Christ, every man whither fear did drive him, they did deserve, like forsakers of their masters, or run-agates, to be deprived of honor."
+        ],
+        "Philip Schaff": [
+            "It is hardly likely that the priests, bitterly hostile as they were to Jesus, would have allowed His followers the use of any room in the temple.",
+            "It was very probably the same chamber in which the last Supper had been eaten.",
+            "The reason for this last enumeration is evidently to introduce the subject of the election of Matthias to fill the place Judas vacated."
+        ],
+        "Archibald T. Robertson": [
+            "The upstairs or upper room (\u03c5\u03c0\u03b5\u03c1 is upper or over, the adjective \u03c5\u03c0\u03b5\u03c1\u03c9\u03b9\u03bf\u03c2), the room upstairs where the women staid in Homer, then a room up under the flat roof for retirement or prayer.",
+            "The word is used in the N.T. only in Acts. It was in a private house as in Luke 22:11 and not in the temple as Luke 24:53 might imply, 'continually' (\u03b4\u03b9\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03c2) these words probably meaning on proper occasions.",
+            "Called Simon the Cananaean (\u03bf \u03a7\u03b1\u03bd\u03b1\u03bd\u03b1\u03b9\u03bf\u03c2) in Matthew 10:4; Mark 3:18, but Zealot in Luke 6:16 as here giving the Greek equivalent of the Aramaic word because Luke has Gentiles in mind. The epithet (member of the party of Zealots) clung to him after he became an apostle and distinguishes him from Simon Peter."
+        ],
+        "John Gill": [
+            "It seems most likely, that it was not any private house, but the temple into which the disciples immediately went, and where they continued.",
+            "It was usual to meet in upper rooms for devotion and religious conversation.",
+            "They are all here mentioned but Judas the betrayer, who was dead, to show, that though one had disbelieved the resurrection of Christ, another had denied him, and all of them had forsook him, and fled; yet they were got together again, and were firm and steadfast in the faith of Christ, waiting for the pouring forth of the Spirit."
+        ],
+        "John Wesley": [
+            "The upper rooms, so frequently mentioned in Scripture, were chambers in the highest part of the house, set apart by the Jews for private prayer.",
+            "These, on account of their being so retired and convenient, the apostles now used for all the offices of religion.",
+            "They went up into the upper room."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples gathered in an upper room, a private space in a house, possibly the same room where they had partaken in the Last Supper. This upper chamber was a well-known place of resort, a room under the flat roof where they could retreat for prayer and religious conversation. It was crucial for them to have a safe and secluded location, as the priests who were hostile towards Jesus would unlikely allow them to use any room in the temple. The disciples, who had previously denied and forsaken Jesus, were now together, firm in their faith and eagerly waiting for the outpouring of the Spirit.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.177023011830346,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+            "commentatorTierSimilarities": [
+                28.31,
+                37.02,
+                34.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples gathered in an upper room, possibly the same room where they had celebrated the Last Supper. This private space, a well-known place of resort, provided a secluded environment for prayer and religious conversation. They retreated to this upper chamber, under the flat roof, to ensure their safety from the Jews. This room was specifically used for devotion and religious gatherings, as the disciples eagerly awaited the outpouring of the Spirit, remaining firm in their faith despite their prior denial and abandonment of Jesus.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.9931202105802739,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                29.99,
+                36.58,
+                33.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples gathered in an upper room, a private and secluded space, likely the same where they had shared the Last Supper. This room under the flat roof was meant for retreat, prayer, and religious conversation. It was a place of resort for the disciples, where they could safely gather away from the Jews who were hostile towards Jesus. In this upper chamber, the disciples remained firm in their faith, waiting eagerly for the Holy Spirit to be poured out upon them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.1540704818247782,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.96,
+            "commentatorTierSimilarities": [
+                28.53,
+                36.64,
+                34.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples gathered in an upper room, believed to be the same place where they had partaken in the Last Supper. This private and secluded chamber, located in a private house, provided a safe environment for the disciples to assemble and wait in anticipation. It was a place for prayer, devotion, and religious conversation, where they could strengthen their faith. In this upper room, away from the public eye, the disciples remained steadfast and united, eagerly awaiting the Holy Spirit's arrival.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9597008647949066,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.5,
+            "commentatorTierSimilarities": [
+                28.46,
+                35.22,
+                36.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples gathered in an upper room, a private and secure place, possibly the same room where they shared the Last Supper. This room, under the flat roof, provided a secluded environment for prayer and religious conversation. It was a well-known location of resort, where the disciples met on proper occasions, away from the public eye. In this upper chamber, the disciples, who had previously denied and fled from Jesus, now stood firm in their faith, eagerly waiting for the pouring forth of the Spirit.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.0612570343612533,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                30.87,
+                34.4,
+                34.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

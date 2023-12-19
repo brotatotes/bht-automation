@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:16:52",
+    "verseRef": "Luke 8:29",
+    "bestBHT": {
+        "bht": "As Jesus commanded the unclean spirit to come out of the possessed man, the man cried out in torment. Jesus demonstrated his power by breaking the bands that held the man, showing a supernatural strength often seen in cases of madness. The use of the imperfect tense indicated the simultaneousness of the exorcism and the cry of torment. Those around closely watched Jesus' command with great vigilance. Urgently, with compassion, Jesus cast out the unclean spirit, which frequently seized and tormented the man, driving him into desolate places.",
+        "wordCount": 88,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.4189944293248002,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+        "commentatorTierSimilarities": [
+            36.91,
+            19.07,
+            44.01
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he was commanding, imperfect tense: in the midst of this ordering, and as a consequence of it, the possessed man cried out",
+            "brake the bands",
+            "unnatural increase of muscular strength is also observed in cases of raving madness"
+        ],
+        "Marvin Vincent": [
+            "The imperfect expresses the simultaneousness of the exorcism and the cry torment me not. Better, for he was commanding.\" ",
+            "The verb literally means to snatch and carry away with.\" ",
+            "The A. V. does not sufficiently bring out the vigilance with which he was attended."
+        ],
+        "Philip Schaff": [
+            "For gives the reason of the command.",
+            "Caught, or, \u2018seized.\u2019 The violent effect of the possession is set forth.",
+            "Being under guard. Peculiar to Luke."
+        ],
+        "Archibald T. Robertson": [
+            "For he commanded (\u03c0\u03b1\u03c1\u03b7\u03b3\u03b3\u03b5\u03bb\u03bb\u03b5\u03bd \u03b3\u03b1\u03c1). Imperfect active, correct text, for he was commanding.",
+            "Often times (\u03c0\u03bf\u03bb\u03bb\u03bf\u03b9\u03c2 \u03c7\u03c1\u03bf\u03bd\u03bf\u03b9\u03c2). Or 'for a long time' like \u03c7\u03c1\u03bf\u03bd\u03c9 \u03c0\u03bf\u03bb\u03bb\u03c9 of verse Luke 8:27.",
+            "Breaking the bands asunder (\u03b4\u03b9\u03b1\u03c1\u03b7\u03c3\u03c3\u03c9\u03bd \u03c4\u03b1 \u03b4\u03b5\u03c3\u03bc\u03b1). Old verb, the preposition \u03b4\u03b9\u03b1 (in two) intensifying the meaning of the simple verb \u03c1\u03b7\u03c3\u03c3\u03c9 or \u03c1\u03b7\u03b3\u03bd\u03c5\u03bc, to rend."
+        ],
+        "John Gill": [
+            "For he had commanded the unclean spirit...to come out of the man; this he had done, either before, or just as he came up to him.\" ",
+            "For oftentimes it had caught him; possessed him, and wrought so strongly in him, and with so much fury, that there was no governing him.",
+            "And was driven of the devil into the wilderness: into some desert and desolate place, where were the tombs and sepulchres of the dead."
+        ],
+        "John Wesley": [
+            "For many times it had caught him \u2014 Therefore our compassionate Lord made the more haste to cast him out."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the midst of Jesus ordering the unclean spirit to come out of the possessed man, the man cried out in torment. Jesus, commanding the spirit, demonstrated his power by breaking the bands that held the man. This supernatural strength is often observed in cases of madness. The man was closely watched by those around him, for Jesus commanded with great vigilance. The use of the imperfect tense indicates the simultaneousness of the exorcism and the cry of the tormented man. Jesus, with compassion, urgently cast out the unclean spirit that had often seized and tormented the man, causing him to be driven into desolate places.",
+            "wordCount": 106,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.3802565428982327,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.24,
+            "commentatorTierSimilarities": [
+                37.7,
+                16.26,
+                46.03
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As Jesus commanded the unclean spirit to come out of the possessed man, the man cried out in torment. The power of Jesus was evident as he broke the bands that held the man, displaying a supernatural strength often seen in cases of madness. The use of the imperfect tense indicates the simultaneousness of the exorcism and the cry of torment from the man. Displaying great vigilance, those around closely watched Jesus' command. With compassion, Jesus urgently cast out the unclean spirit, which had frequently seized and tormented the man, causing him to be driven into desolate places.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.415081812919511,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.39,
+            "commentatorTierSimilarities": [
+                36.52,
+                18.58,
+                44.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As Jesus commanded the unclean spirit to come out of the possessed man, the man cried out in torment. Jesus demonstrated his power by breaking the bands that held the man, showing a supernatural strength often seen in cases of madness. The use of the imperfect tense indicated the simultaneousness of the exorcism and the cry of torment. Those around closely watched Jesus' command with great vigilance. Urgently, with compassion, Jesus cast out the unclean spirit, which frequently seized and tormented the man, driving him into desolate places.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.4189944293248002,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.52,
+            "commentatorTierSimilarities": [
+                36.91,
+                19.07,
+                44.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As Jesus commanded the unclean spirit to come out of the possessed man, the man cried out in torment. Jesus displayed a supernatural strength by breaking the bands that held the man, a common occurrence in cases of madness. The use of the imperfect tense indicated the simultaneousness of the exorcism and the cry of torment. Those present closely watched Jesus' commanding with great vigilance. Jesus urgently cast out the unclean spirit, which had frequently seized and tormented the man, driving him into desolate places.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.3984321761503775,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.84,
+            "commentatorTierSimilarities": [
+                37.85,
+                17.19,
+                44.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As Jesus commanded the unclean spirit to come out of the possessed man, the man cried out in torment. Jesus demonstrated his power by breaking the bands that held the man, showing a supernatural strength often observed in cases of madness. The use of the imperfect tense indicated the simultaneousness of the exorcism and the cry of torment. Vigilant observers closely watched Jesus' commanding. Urgently and with compassion, Jesus cast out the unclean spirit that had frequently seized and tormented the man, driving him into desolate places.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.4065382611973953,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.11,
+            "commentatorTierSimilarities": [
+                37.98,
+                18.27,
+                43.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

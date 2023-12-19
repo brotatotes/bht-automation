@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:22:21",
+    "verseRef": "Luke 21:6",
+    "bestBHT": {
+        "bht": "Behold, as for these things, one stone upon another, it was a shock to the disciples to hear this after the triumphal entry. Are these the things which ye behold? The days will come; and they are hastening on; a little while, a few years more. There shall not be left one stone upon another, that shall not be thrown down. See the notes at Matthew 24:2.",
+        "wordCount": 66,
+        "quoteTokenProportion": 60.42,
+        "qualityScore": 1.573083054811458,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+        "commentatorTierSimilarities": [
+            20.94,
+            38.91,
+            40.16
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "See the notes at Matthew 24:2."
+        ],
+        "Marvin Vincent": [
+            "Behold [\u03b8\u03b5\u03c9\u03c1\u03b5\u03b9\u03c4\u03b5] . See on ch. Luke 10:18. ",
+            "Thrown down. See on Mark 13:2."
+        ],
+        "Archibald T. Robertson": [
+            "As for these things (\u03c4\u03b1\u03c5\u03c4\u03b1). Accusative of general reference.",
+            "One stone upon another (\u03bb\u03b9\u03b8\u03bf\u03c2 \u03b5\u03c0 \u03bb\u03b9\u03b8\u03c9). Stone upon stone (locative).",
+            "It was a shock to the disciples to hear this after the triumphal entry."
+        ],
+        "John Gill": [
+            "Are these the things which ye behold? Do ye look upon these with wonder and delight?",
+            "The days will come; and they are hastening on; a little while, a few years more.",
+            "There shall not be left one stone upon another, that shall not be thrown down."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, as for these things, one stone upon another, it was a shock to the disciples to hear this after the triumphal entry. Are these the things which ye behold? The days will come; and they are hastening on; a little while, a few years more. There shall not be left one stone upon another, that shall not be thrown down. See the notes at Matthew 24:2.",
+            "wordCount": 66,
+            "quoteTokenProportion": 60.42,
+            "qualityScore": 1.573083054811458,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                20.94,
+                38.91,
+                40.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, one stone upon another, thrown down. As for these things, are these the things which ye behold? The days will come; and they are hastening on; a little while, a few years more. There shall not be left one stone upon another, that shall not be thrown down. It was a shock to the disciples to hear this after the triumphal entry. See the notes at Matthew 24:2.",
+            "wordCount": 68,
+            "quoteTokenProportion": 60.42,
+            "qualityScore": 1.5250669381891169,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                24.06,
+                36.96,
+                38.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, these things, one stone upon another - it was a shock to the disciples to hear this after the triumphal entry. Are these the things which ye behold? Do ye look upon these with wonder and delight? The days will come; and they are hastening on; a little while, a few years more. There shall not be left one stone upon another, that shall not be thrown down.",
+            "wordCount": 68,
+            "quoteTokenProportion": 57.45,
+            "qualityScore": 1.2204772403661084,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.92,
+            "commentatorTierSimilarities": [
+                24.21,
+                12.66,
+                63.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, as for these things, one stone upon another, it was a shock to the disciples to hear this after the triumphal entry. Are these the things which ye behold, the days will come, there shall not be left one stone upon another, that shall not be thrown down.",
+            "wordCount": 49,
+            "quoteTokenProportion": 60.0,
+            "qualityScore": 1.4606815153177497,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.91,
+            "commentatorTierSimilarities": [
+                36.76,
+                9.85,
+                53.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, as for these things, one stone upon another, it was a shock to the disciples to hear this after the triumphal entry. Are these the things which ye behold? The days will come; and they are hastening on; a little while, a few years more. There shall not be left one stone upon another, that shall not be thrown down.",
+            "wordCount": 61,
+            "quoteTokenProportion": 61.36,
+            "qualityScore": 1.2421722694625792,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.65,
+            "commentatorTierSimilarities": [
+                27.11,
+                9.76,
+                63.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

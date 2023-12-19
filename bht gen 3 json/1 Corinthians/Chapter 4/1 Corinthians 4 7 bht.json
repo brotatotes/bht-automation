@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:03:55",
+    "verseRef": "1 Corinthians 4:7",
+    "bestBHT": {
+        "bht": "Do not boast or think yourself superior, for all that you have comes from God. Your gifts and graces are not self-acquired or self-bestowed, but from the Giver. Let go of self-conceit and recognize that any superiority rests on the notion of self-acquired greatness. Remember that God is the one who distinguishes and makes a difference among his people. So, deflate the inflated bag of false pride and humbly acknowledge that all that is worthy of praise is derived from God's grace.",
+        "wordCount": 87,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 1.6958965438195683,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+        "commentatorTierSimilarities": [
+            31.78,
+            24.27,
+            43.95
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For (reason why this puffing up should be avoided) who distinguisheth thee (from others? meaning, that all such conceits of pre-eminence are unfounded.",
+            "And what hast thou that thou didst not receive ( \u2018from God\u2019\u2014not, \u2018from me as thy father in the faith\u2019)? but if (which I concede) thou receivedst it, &c.",
+            "He speaks not only to the leaders, but to the members of parties,\u2014who imagined themselves superior to those of other parties,\u2014as if all, for every good thing, were not dependent on God, the Giver."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. Translate, \"Who",
+            "\tdistinguisheth thee (above another)?\" Not thyself, but God. ",
+            "\t",
+            "glory, as if thou hadst not",
+            "\treceived it\u2014as if it was to thyself, not to God, thou owest the",
+            "\treceiving of it."
+        ],
+        "Albert Barnes": [
+            "all that any of them possessed had been derived from God, and no endowments whatever, which they had, could be laid as the foundation for self-congratulation and boasting.",
+            "It is God who makes one, in any of these respects, to differ from others; and it is especially true in regard to personal piety. Had not God interfered and made a difference, all would have remained alike under sin.",
+            "This passage states a general doctrine, that the reason why one man differs from another is to be traced to God; and that this fact should repress all boasting and glorying, and produce true humility in the minds of Christians."
+        ],
+        "John Calvin": [
+            "Let us know, then, that the Lord has so placed us in the Church, and has in such a manner assigned to every one his own station, that, being under one head, we may be mutually helpful to each other.",
+            "The true foundation of Christian modesty is this \u2014 not to be self-complacent, as knowing that we are empty and void of everything good \u2014 that, if God has implanted in us anything that is good, we are so much the more debtors to his grace.",
+            "For God does not obtain his due otherwise than by our being emptied, so that it may be seen that everything in us that is worthy of praise is derived."
+        ],
+        "Philip Schaff": [
+            "[1] The allusion may be, as has been suggested, to the practice of depositing treasure in vessels of earthenware. "
+        ],
+        "Archibald T. Robertson": [
+            "All self-conceit rests on the notion of superiority of gifts and graces as if they were self-bestowed or self-acquired.",
+            "Pride of intellect, of blood, of race, of country, of religion, is thus shut out.",
+            "This neat participial clause... punctures effectually the inflated bag of false pride."
+        ],
+        "John Gill": [
+            "Whatever difference is made among men, is of God; it is he that makes them to differ from the rest of the creation... It is God that makes them to differ from one another... and there is an ecclesiastical difference which God makes in his own people.",
+            "The grand distinction God has made among men, lies in his special, distinguishing, and everlasting love to some, and not others... all which is owing, not to anything of man's, but to the free grace, sovereign will, and good pleasure of God.",
+            "To glory in any mercy, favour, or blessing received from God, as if it was not received from him, but as owing to human power, care, and industry, betrays wretched vanity, stupid and more than brutish ignorance, horrid ingratitude, abominable pride and wickedness."
+        ],
+        "John Wesley": [
+            "Who maketh thee to differ \u2014 Either in gifts or graces.",
+            "As if thou hadst not received it \u2014 As if thou hadst it originally from thyself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Stop boasting and being prideful, for what do you have that you did not receive from God? Do not think that you are superior to others because of your gifts and graces, for all that you have is dependent on God, the true source of every good thing. Remember, it is God who distinguishes you, not yourself. Let go of self-conceit and recognize that any superiority is not self-bestowed but from the giver, God. So deflate the inflated bag of false pride and humbly acknowledge that all that you are and have comes from God's grace and not your own doing.",
+            "wordCount": 104,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.8526131916545965,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                32.06,
+                23.67,
+                44.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not boast or think yourself superior, for all that you have comes from God. Your gifts and graces are not self-acquired or self-bestowed, but from the Giver. Let go of self-conceit and recognize that any superiority rests on the notion of self-acquired greatness. Remember that God is the one who distinguishes and makes a difference among his people. So, deflate the inflated bag of false pride and humbly acknowledge that all that is worthy of praise is derived from God's grace.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.6958965438195683,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.73,
+            "commentatorTierSimilarities": [
+                31.78,
+                24.27,
+                43.95
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why are you boasting and thinking of yourself as superior? Everything you have is received from God, not self-acquired. Any gifts and graces you possess are not the foundation for self-congratulation, but a reminder of God's sovereignty. Pride of intellect, blood, race, or religion is all shut out. Recognize that God is the one who distinguishes and makes a difference among his people. So, puncture your inflated bag of false pride and acknowledge that true humility comes from understanding that everything worthy of praise is derived from God's grace.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.651832200001337,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.27,
+            "commentatorTierSimilarities": [
+                30.91,
+                24.7,
+                44.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why are you boasting, thinking of yourself as superior? All that you have is received from God, not self-acquired. Recognize that any superiority rests on the notion of self-bestowed gifts and graces, which is unfounded. Let go of self-conceit and remember that God is the one who distinguishes and makes a difference among his people. So, puncture your inflated bag of false pride and humbly acknowledge that any praise-worthy attributes are derived from God's grace.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.66783604272548,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.8,
+            "commentatorTierSimilarities": [
+                32.24,
+                24.83,
+                42.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why are you boasting and considering yourself superior? All that you have is received from God, not self-acquired. Don't think that you owe your gifts and graces to yourself, but rather to God, the true source. Let go of self-conceit and recognize that any superiority rests on the false notion of self-bestowed greatness. Remember that God is the one who distinguishes and makes a difference among his people. So, humble yourself and acknowledge that anything worthy of praise is derived from God's grace.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6593043821158275,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.51,
+            "commentatorTierSimilarities": [
+                30.9,
+                23.81,
+                45.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

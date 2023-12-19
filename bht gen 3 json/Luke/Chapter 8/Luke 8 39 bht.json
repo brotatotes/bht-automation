@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:51",
+    "verseRef": "Luke 8:39",
+    "bestBHT": {
+        "bht": "He had a great story to tell and he told it with power, relating and recounting all the things Jesus had done. In the person of one man, Christ exhibited proof of his grace, delivering him from the tyranny of the devil and showing him great things that only God could do. What Jesus did for him was not based on the man's merit, but rather on God's mercy.",
+        "wordCount": 71,
+        "quoteTokenProportion": 53.85,
+        "qualityScore": 1.683389674641972,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+        "commentatorTierSimilarities": [
+            43.63,
+            0.0,
+            56.37
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shew [\u03b4\u03b9\u03b7\u03b3\u03bf\u03c5] . Rather relate, recount, with the idea of telling the story throughout [\u03b4\u03b9\u03b1].\" ",
+            "Declared all things throughout, as many as Jesus had done.",
+            "Compare Matthew 9:18-26; Mark 5:22-43."
+        ],
+        "John Calvin": [
+            "Relate those things which God hath done for thee.\" ",
+            "In the person of one man Christ has exhibited to us 'proof of his grace' which is extended to all mankind.",
+            "Though we are not tortured by the devil, yet he holds us as his slaves, till the Son of God delivers us from his tyranny."
+        ],
+        "Archibald T. Robertson": [
+            "He had a great story to tell and he told it with power.",
+            "The rescue missions in our cities can match this incident with cases of great sinners who have made witnesses for Christ.",
+            "He had a great story to tell and he told it with power."
+        ],
+        "John Gill": [
+            "And show how great things God hath done unto thee; for none but God could effect such things tacitly suggesting to him hereby, that he himself was God.",
+            "Signifying, that what he had done for him, did not arise from merit in the man, but from mercy in himself.",
+            "Having cast out a legion of devils from him, clothed him, and brought him to his right mind; and had not only delivered his body from a diabolical possession, but had given him spiritual and saving instructions for his soul, on which he had wrought a real work of grace."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He had a great story to tell and he told it with power, relating and recounting all the things Jesus had done. The rescue missions in our cities can match this incident with cases of great sinners who have made witnesses for Christ. In the person of one man, Christ exhibited proof of his grace, delivering him from the tyranny of the devil and showing him great things that only God could do. What Jesus did for him was not based on the man's merit, but rather on God's mercy. Jesus not only cast out a legion of devils from him and clothed him, but also brought him to his right mind and worked a real work of grace in his soul.",
+            "wordCount": 124,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 1.5731727291104827,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.65,
+            "commentatorTierSimilarities": [
+                43.87,
+                0.0,
+                56.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He had a great story to tell and he told it with power, relating and recounting all the things Jesus had done. The rescue missions in our cities can match this incident with cases of great sinners who have made witnesses for Christ. In the person of one man, Christ exhibited proof of his grace, delivering him from the tyranny of the devil and showing him great things that only God could do. What Jesus did for him was not based on the man's merit, but rather on God's mercy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.6509724061266322,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.24,
+            "commentatorTierSimilarities": [
+                48.99,
+                0.0,
+                51.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He had a great story to tell and he told it with power, relating and recounting all the things Jesus had done. The rescue missions in our cities can match this incident with cases of great sinners who have made witnesses for Christ. In the person of one man, Christ exhibited proof of his grace, delivering him from the tyranny of the devil and showing him great things that only God could do. What Jesus did for him was not based on the man's merit, but rather on God's mercy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 1.6509724061266322,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.24,
+            "commentatorTierSimilarities": [
+                48.99,
+                0.0,
+                51.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He had a great story to tell and he told it with power, relating and recounting all the things Jesus had done. In the person of one man, Christ exhibited proof of his grace, delivering him from the tyranny of the devil and showing him great things that only God could do. What Jesus did for him was not based on the man's merit, but rather on God's mercy.",
+            "wordCount": 71,
+            "quoteTokenProportion": 53.85,
+            "qualityScore": 1.683389674641972,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.31,
+            "commentatorTierSimilarities": [
+                43.63,
+                0.0,
+                56.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He had a great story to tell and he told it with power, relating the things Jesus had done throughout his life. Like the rescue missions in our cities, we can find our own stories of redemption and share them as witnesses for Christ. The man's deliverance from the tyranny of the devil not only gave him physical freedom but also sparked a work of grace in his soul. Through this, he became a living testimony of God's mercy and grace for all mankind, proving that only God could bring about such great things.",
+            "wordCount": 96,
+            "quoteTokenProportion": 47.22,
+            "qualityScore": 1.4914177722895199,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                46.92,
+                0.0,
+                53.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

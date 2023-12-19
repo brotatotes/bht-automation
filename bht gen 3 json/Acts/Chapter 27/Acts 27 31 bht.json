@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:37:52",
+    "verseRef": "Acts 27:31",
+    "bestBHT": {
+        "bht": "Paul's actions in this scenario highlight the interconnectedness of divine agency and human responsibility. He confidently relies on God's pledge of ultimate safety, yet he does not underestimate the importance of human means and effort. By emphasizing the necessity for the sailors to remain in the ship, Paul recognizes their vital role in ensuring the ship's salvation. This teaches us that while we trust in God's promises, we must also actively participate in the means and conditions necessary for our own security and success.",
+        "wordCount": 88,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.593108084885384,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+        "commentatorTierSimilarities": [
+            33.87,
+            27.28,
+            38.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I answer, that Paul is not here treating accurately of God\u2019s power, distinct from human will and means.",
+            "God does not offer His help to the faithful that they may despise means of safety, and indulge torpor and sloth, where there is a plain way of caution.",
+            "But it does not therefore follow, that the hand of God is tied to means or assistances; but when God ordains this or that way of acting, He curbs the inclinations of men that they transgress not His appointed bounds."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The flight of the crew, therefore, might well be regarded as certain destruction to all who remained.",
+            "In full assurance of ultimate safety, in virtue of a DIVINE pledge, to all in the ship, Paul speaks and acts throughout this whole scene in the exercise of a sound judgment as to the indispensable HUMAN conditions of safety.",
+            "Divine agency and human instrumentality are in all the events of life quite as much as here. The only difference is that the one is for the most part shrouded from view, while the other is ever naked and open to the senses."
+        ],
+        "Albert Barnes": [
+            "The certainty of an event does not render it improper to use means to obtain it.",
+            "The doctrine of the divine purposes or decrees, making certain future events, does not make the use of man's agency unnecessary or improper.",
+            "A belief that God has purposes of mercy; that he designs, and has always designed, to save some, will prompt to the use of all proper means to secure it."
+        ],
+        "Philip Schaff": [
+            "St. Paul said nothing to the sailors, but spoke at once to his friend the centurion; and he used with him and the soldiers the argument which is of greatest weight in such a case, the appeal to self-preservation.",
+            "Except these abide in the ship, ye cannot be saved.",
+            "Much has been written on this in connection with the assurance previously given that they should all certainly be saved. It is quite useless to write any more on the subject. The same difficulty meets us everywhere."
+        ],
+        "Archibald T. Robertson": [
+            "Except these abide in the ship. Paul has no hesitancy in saying this in spite of his strong language in verse Acts 27:24 about God's promise.",
+            "He has no notion of lying supinely down and leaving God to do it all.",
+            "Without the sailors the ship could not be properly beached."
+        ],
+        "John Gill": [
+            "The end and means, in the decrees of God, are not to be separated; nor is any end to be expected without the use of means; and means are as peremptorily fixed, and are as absolutely necessary, and must as certainly be accomplished, as the end.",
+            "Thus spiritual and eternal salvation is a certain thing; it is the appointment of God, which is absolute and unconditional, immutable and unfrustrable.",
+            "Without perseverance in faith and holiness, there is no salvation; wherefore the Lord puts his grace into the hearts of his people to cause them to persevere."
+        ],
+        "John Wesley": [
+            "Unless these mariners abide in the ship \u2014 Without them ye know not how to manage her, ye cannot be saved.\" ",
+            "We may learn hence, to use the most proper means for security and success, even while we depend on Divine Providence, and wait for the accomplishment of God's own promise.",
+            "To expect the accomplishment of any promise, without exerting these, is at best vain and dangerous presumption, if all pretence of relying upon it be not profane hypocrisy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 27:31, the commentator emphasizes the balance between divine agency and human instrumentality. While Paul speaks and acts with the full assurance of ultimate safety based on God's promise, he acknowledges the indispensable human conditions of safety. Paul urges the sailors to remain in the ship, recognizing that without them, the ship cannot be properly beached. This demonstrates that God does not tie His hand to means of assistance but expects His people to use the proper means for security and success while still relying on divine providence. The certainty of God's promises does not negate the necessity of human effort; rather, it motivates believers to use all means available to fulfill God's purposes.",
+            "wordCount": 117,
+            "quoteTokenProportion": 34.21,
+            "qualityScore": 1.7579496848911984,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.79,
+            "commentatorTierSimilarities": [
+                35.92,
+                29.83,
+                34.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the importance of both God's power and human means is highlighted. God's power is not separate from human will and means, so even though Paul speaks and acts in full assurance of safety based on God's promise, he still recognizes the necessary human conditions for salvation. Without the sailors remaining in the ship, the ship cannot be properly beached. This shows that while we should rely on divine providence, we must also use the appropriate means for security and success, as God's promises require our active participation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.7441068575560847,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.33,
+            "commentatorTierSimilarities": [
+                35.06,
+                25.43,
+                39.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 27:31, Paul demonstrates a balanced understanding of divine agency and human instrumentality. While he confidently speaks and acts with the assurance of God's ultimate safety, he also acknowledges the importance of human effort. Paul emphasizes that without the sailors remaining in the ship, it would not be possible to properly beach it. This illustrates the need for believers to actively participate, utilizing the means available, while still relying on God's providence and the fulfillment of His promises.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.6609230708589657,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.57,
+            "commentatorTierSimilarities": [
+                37.1,
+                29.64,
+                33.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's actions in this passage from Acts exemplify the reciprocal relationship between divine assistance and human responsibility. While he confidently presses forward in faith, knowing he is protected by God's pledge, he never neglects the role of human effort. By urging the sailors to remain in the ship, Paul acknowledges that their presence is crucial for the ship's salvation. This serves as a reminder that we should trust in God's promises while actively engaging in the means and conditions necessary for our own security and success.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.6466042579578741,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.09,
+            "commentatorTierSimilarities": [
+                33.77,
+                28.51,
+                37.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's actions in this scenario highlight the interconnectedness of divine agency and human responsibility. He confidently relies on God's pledge of ultimate safety, yet he does not underestimate the importance of human means and effort. By emphasizing the necessity for the sailors to remain in the ship, Paul recognizes their vital role in ensuring the ship's salvation. This teaches us that while we trust in God's promises, we must also actively participate in the means and conditions necessary for our own security and success.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.593108084885384,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.31,
+            "commentatorTierSimilarities": [
+                33.87,
+                27.28,
+                38.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

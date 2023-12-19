@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:16:00",
+    "verseRef": "Luke 7:23",
+    "bestBHT": {
+        "bht": "Those who follow the teachings of Jesus will not find any occasion of stumbling or offense. They will be blessed if they do not doubt or deny Him, but instead have unwavering faith and trust in Him.",
+        "wordCount": 37,
+        "quoteTokenProportion": 54.84,
+        "qualityScore": 1.7879076466283836,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+        "commentatorTierSimilarities": [
+            47.33,
+            0.0,
+            52.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Shall not be offended [\u03bc\u03b7 \u03c3\u03ba\u03b1\u03bd\u03b4\u03b1\u03bb\u03b9\u03c3\u03b8\u03b7] . Rev., shall find none occasion of stumbling. See on Matthew 5:29. Note also the conditional not [\u03bc\u03b7] : \"shall not find, whatever may occur."
+        ],
+        "John Gill": [
+            "Blessed is he that doubts not of me.\" (Arabic version)",
+            "Blessed is he that is not brought into offence and doubt concerning me.\" (Persic version)",
+            "Blessed are they who do not deny me, and are not offended in me.\" (Ethiopic version)"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who follow the teachings of Jesus will not find any occasion of stumbling or offense. They will be blessed if they do not doubt or deny Him, but instead have unwavering faith and trust in Him.",
+            "wordCount": 37,
+            "quoteTokenProportion": 54.84,
+            "qualityScore": 1.7879076466283836,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.79,
+            "commentatorTierSimilarities": [
+                47.33,
+                0.0,
+                52.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are those who do not find any reason to stumble or doubt in me, for they shall not be offended. The verse emphasizes the importance of remaining steadfast in faith, regardless of any challenges or doubts that may arise. One should not allow obstacles or uncertainties to shake their belief in God. Trust in him and stay committed to the path, for those who do so will find blessings and strength along the way.",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.4124483706049393,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.31,
+            "commentatorTierSimilarities": [
+                42.21,
+                0.0,
+                57.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are those who shall find none occasion of stumbling or doubt in me, for they shall not be offended. The importance of remaining steadfast in faith, regardless of any challenges or uncertainties, is emphasized. Trust in God and stay committed to the path, for those who do so will find blessings and strength along the way.",
+            "wordCount": 57,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 1.5606954664361987,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                45.41,
+                0.0,
+                54.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are those who shall find none occasion of stumbling or doubt in me, for they shall not be offended. The verse reminds believers to keep a steady faith, regardless of obstacles or uncertainties. Trust God and remain committed, for those who stay unwavering in their belief will be rewarded and find strength to overcome any challenges they encounter.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.6488258527754922,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                47.39,
+                0.0,
+                52.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are the ones who do not stumble or doubt in me, for they will not be offended. This verse highlights the importance of maintaining unwavering faith and trust in God, regardless of any challenges or uncertainties that may arise. By staying firmly committed to God, believers will find blessings and strength to navigate through the trials of life.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.3488393253360211,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.19,
+            "commentatorTierSimilarities": [
+                41.61,
+                0.0,
+                58.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

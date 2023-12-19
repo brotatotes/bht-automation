@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 15:13:54",
+    "verseRef": "1 Corinthians 15:26",
+    "bestBHT": {
+        "bht": "Death, the consequence of sin, is the last enemy to be abolished through redemption. Personified and rendered powerless, death is done away with by the general resurrection. The triumph of the gospel subdues enmity and breaks the power of the evil one. Though repulsive, death is ultimately defeated as the final enemy. Therefore, death is the last enemy that shall be abolished, showing the accomplishment of redemption and the destruction of sin and Satan.",
+        "wordCount": 74,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.5227595994028187,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.22,
+        "commentatorTierSimilarities": [
+            37.93,
+            26.21,
+            35.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Death is the last enemy, as being the consequence of sin.",
+            "When he is overcome and done away with, the whole end of Redemption is shown to have been accomplished.",
+            "Death is personified, as in Rev. xx. 14."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "shall be\u2014Greek, 'is done away with' (Revelation 20:14; compare Revelation 1:18)",
+            "It is to believers especially this applies (Revelation 1:18- :); even in the case of unbelievers, death is done away with by the general resurrection.",
+            "Satan brought in sin, and sin brought in death! So they shall be destroyed (rendered utterly powerless) in the same order (1 Corinthians 15:56; Hebrews 2:14; Revelation 19:20; Revelation 20:10; Revelation 20:14)."
+        ],
+        "Albert Barnes": [
+            "The enmity of the human heart should be subdued by the triumphs of the gospel.",
+            "The scepter of Satan should be broken and wrested from him.",
+            "Death is here personified as a tyrant, exercising despotic power over the human race; and 'he' is to be subdued."
+        ],
+        "Philip Schaff": [
+            "Though death to the believer, stripped of its sting, only ushers him into the presence of his Lord, yet in itself and to nature instinct with the love of life, it is utterly repulsive.\" ",
+            "Death is the unnatural and abhorrent divorce of parties formed for sweet and uninterrupted fellowship.",
+            "Viewed thus, it is even to the believer an 'enemy,' but it is 'the last.'"
+        ],
+        "Archibald T. Robertson": [
+            "The last enemy that shall be abolished is death.\" ",
+            "Death is done away, the last enemy.\" ",
+            "Death is the last enemy."
+        ],
+        "John Gill": [
+            "A corporeal one is here meant; which is an enemy, the fruit, effect, and wages of sin; the penalty and curse of the law; is contrary to human nature, and destructive of the work of God's hands.",
+            "It is, indeed, through the blood, righteousness, and sacrifice of Christ, become the friend of his people; it is disarmed of its sting, and ceases to be a penal evil.",
+            "And though the wicked when they rise, they will rise to damnation, to shame and contempt, yet their worm will never die, nor their fire be quenched; they will always live, though in torment, there will be no more corporeal death, neither among the righteous nor the wicked; it will be utterly abolished."
+        ],
+        "John Wesley": [
+            "The last enemy that is destroyed is death.",
+            "Christ, when he of old engaged with these enemies, first conquered Satan, then sin, in his death; and, lastly, death, in his resurrection.",
+            "In the same order he delivers all the faithful from them, yea, and destroys these enemies themselves. Death he so destroys that it shall be no more; sin and Satan, so that they shall no more hurt his people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Death, as the consequence of sin, is the last enemy to be overcome and done away with through the work of redemption. It is personified and shall be abolished for believers, although even for unbelievers, death is rendered powerless by the general resurrection. Death, brought about by sin and perpetuated by Satan, will be destroyed in the same order. The triumph of the gospel will subdue the enmity of the human heart and break the scepter of Satan. Though death is repulsive and the enemy of nature, it is ultimately defeated. Death is the unnatural and abhorrent separation of loved ones, making it an enemy, but it is the last enemy to be destroyed.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.5077323261677926,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.72,
+            "commentatorTierSimilarities": [
+                35.46,
+                28.59,
+                35.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Death, as the consequence of sin, is the last enemy to be done away with through the work of redemption. It is personified and shall be abolished, showing the full accomplishment of the end of Redemption. Death is destroyed in the same order as sin and Satan, rendering them utterly powerless. The triumph of the gospel will subdue the enmity of the human heart and break the scepter of Satan. Though death is repulsive and an enemy, it is ultimately defeated as the last enemy.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.3723526655695535,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.22,
+            "commentatorTierSimilarities": [
+                36.28,
+                27.45,
+                36.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Death, the consequence of sin, is the last enemy to be abolished in the work of redemption. It is personified and its power is diminished by the resurrection. Even though death is repulsive and an enemy, it is ultimately destroyed through the triumph of the gospel. As the final enemy, death will be subdued, stripping it of its sting and ceasing to be a penal evil. Thus, death is the last enemy that shall be abolished, signifying the completion of Christ's victory.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.4897796443810956,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.12,
+            "commentatorTierSimilarities": [
+                37.55,
+                26.28,
+                36.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Death, the consequence of sin, is the last enemy to be abolished through redemption. It is personified and will be done away with, demonstrating the fulfillment of Christ's work. Death, along with sin and Satan, is destroyed in order. The triumph of the gospel subdues enmity and breaks the power of the evil one. Though death is repulsive and an enemy, it is ultimately defeated as the final enemy. Therefore, death is the last enemy that shall be abolished, signifying the completion of redemption.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.3712631460863722,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.18,
+            "commentatorTierSimilarities": [
+                37.6,
+                26.14,
+                36.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Death, the consequence of sin, is the last enemy to be abolished through redemption. Personified and rendered powerless, death is done away with by the general resurrection. The triumph of the gospel subdues enmity and breaks the power of the evil one. Though repulsive, death is ultimately defeated as the final enemy. Therefore, death is the last enemy that shall be abolished, showing the accomplishment of redemption and the destruction of sin and Satan.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.5227595994028187,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.22,
+            "commentatorTierSimilarities": [
+                37.93,
+                26.21,
+                35.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

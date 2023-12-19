@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 15:12:23",
+    "verseRef": "1 Corinthians 11:34",
+    "bestBHT": {
+        "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites but had a higher and holier purpose. If any are too hungry to wait for others, they should take off the edge of their hunger at home. Perhaps there were questions on the most convenient time or manner of celebrating the Lord's Supper, as practices varied. The rest of the questions regarding the due celebration will be addressed later. The Lord's Supper is not meant for indulging appetites, but for higher purposes. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home.",
+        "wordCount": 104,
+        "quoteTokenProportion": 50.72,
+        "qualityScore": 2.09961257346437,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+        "commentatorTierSimilarities": [
+            31.13,
+            54.49,
+            14.39
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Agap\u00e6 were not meals to satiate the bodily appetites, but for a higher and holier purpose.\" ",
+            "Let the hungry take off the edge of his hunger at home.\" ",
+            "Perhaps they had asked him questions respecting the most convenient time or manner of celebration of the Lord\u2019s supper: points on which primitive practice widely differed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "If any . . . hunger\u2014so as not to be able to 'tarry for others,' let him take off the edge of his hunger at home.\" ",
+            "The rest\u2014'the other questions you asked me as to the due celebration of the Lord's Supper.'",
+            "Not other questions in general; for he does subsequently set in order other general questions in this Epistle."
+        ],
+        "Albert Barnes": [
+            "The Lord\u2019s Supper is not a common feast; it is not designed as a place where a man may gratify his appetite.",
+            "That the effect of your coming together for the observance of the Lord\u2019s Supper be not to produce condemnation.",
+            "If all Christians would follow implicitly his directions here in regard to the Lord\u2019s Supper, it would be an ordinance full of comfort."
+        ],
+        "Marvin Vincent": [
+            "Will I set in order [\u03b4\u03b9\u03b1\u03c4\u03b1\u03be\u03bf\u03bc\u03b1\u03b9] . Referring to outward, practical arrangements. See on Matthew 11:1, and compare ch. 1 Corinthians 9:14; 1 Corinthians 16:1; Galatians 3:19. "
+        ],
+        "John Calvin": [
+            "The rest I will set in order when I come.\" ",
+            "Paul reserves to himself the liberty of arranging matters when present, according as occasion may require.",
+            "As this is put in the power of the Church, so it ought to be arranged according to the condition of times, places, and persons."
+        ],
+        "Philip Schaff": [
+            "The religious gatherings of believers are for higher purposes than satisfying the cravings of natural appetite: this should be done at home."
+        ],
+        "Archibald T. Robertson": [
+            "At home (\u03b5\u03bd \u03bf\u03b9\u03ba\u03c9). If so hungry as all that (verse 1 Corinthians 11:22).",
+            "The rest (\u03c4\u03b1 \u03bb\u03bf\u03b9\u03c0\u03b1). He has found much fault with this church, but he has not told all.",
+            "I will set in order (\u03b4\u03b9\u03b1\u03c4\u03b1\u03be\u03bf\u03bc\u03b1). Not even Timothy and Titus can do it all. Whensoever I come (\u03c9\u03c2 \u03b1\u03bd \u03b5\u03bb\u03b8\u03c9). Common idiom for temporal clause of future time (conjunction like \u03c9\u03c2 with \u03b1\u03bd and aorist subjunctive \u03b5\u03bb\u03b8\u03c9)."
+        ],
+        "John Gill": [
+            "And if any man hunger let him eat at home...",
+            "...that ye come not together unto condemnation or judgment...",
+            "...And the rest will I set in order when I come..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites but had a higher and holier purpose. If anyone is hungry and cannot wait for others, they should eat at home to take the edge off their hunger. Perhaps there were questions about the most convenient time or manner of celebrating the Lord's Supper, as the practices varied. The rest of the questions regarding the due celebration of the Lord's Supper will be addressed at a later time. The Lord's Supper is not meant for indulging appetites, but for higher purposes. If all Christians followed these instructions, the Lord's Supper would bring comfort instead of condemnation. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home.",
+            "wordCount": 130,
+            "quoteTokenProportion": 47.5,
+            "qualityScore": 2.2108952936638167,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.85,
+            "commentatorTierSimilarities": [
+                30.67,
+                54.94,
+                14.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites but had a higher and holier purpose. If any are too hungry to wait for others, they should take off the edge of their hunger at home. Perhaps there were questions on the most convenient time or manner of celebrating the Lord's Supper, as practices varied. The rest of the questions regarding the due celebration will be addressed later. The Lord's Supper is not meant for indulging appetites, but for higher purposes. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home.",
+            "wordCount": 104,
+            "quoteTokenProportion": 50.72,
+            "qualityScore": 2.09961257346437,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+            "commentatorTierSimilarities": [
+                31.13,
+                54.49,
+                14.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites, but for a higher and holier purpose. If anyone is too hungry to wait for others, they should take off the edge of their hunger at home. The Lord's Supper is not meant for indulging appetites, but for higher purposes. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home. The rest of the questions regarding the due celebration of the Lord's Supper will be addressed at a later time.",
+            "wordCount": 92,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.2404847730818953,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.84,
+            "commentatorTierSimilarities": [
+                30.23,
+                54.66,
+                15.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites, but for a higher purpose. If anyone is too hungry to wait for others, they should eat at home. The Lord's Supper is not meant for indulging appetites, but for higher purposes. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home. The rest of the questions regarding the due celebration will be addressed later.",
+            "wordCount": 76,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 2.047310850726794,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.41,
+            "commentatorTierSimilarities": [
+                28.75,
+                54.62,
+                16.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Agap\u00e6 were not meals to satisfy bodily appetites, but for a higher and holier purpose. If any are too hungry to wait for others, they should take off the edge of their hunger at home. The Lord's Supper is not meant for indulging appetites, but for higher purposes. The gatherings of believers are meant for higher purposes and not for satisfying natural appetites, which can be done at home. The rest of the questions regarding the due celebration will be addressed at a later time.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.121128705202265,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                29.99,
+                53.54,
+                16.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

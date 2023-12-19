@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:06:57",
+    "verseRef": "1 Corinthians 7:1",
+    "bestBHT": {
+        "bht": "Marriage is honorable and morally salutary, but in certain cases, celibacy may be expedient for devoting oneself to the Lord. While celibacy is not wrong but good, it is important to distinguish God's pure ordinance from the punishment of sin. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is crucial. Paul argues that it is better for a man to abstain if he has the gift of continency, but ultimately, one must make wise choices regarding marriage and be master of oneself.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.9184616977486215,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+        "commentatorTierSimilarities": [
+            30.53,
+            31.2,
+            38.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Marriage is HONORABLE IN ALL.",
+            "Another reason why in some cases celibacy may be a matter of Christian expediency is stated in 1 Corinthians 7:34; 1 Corinthians 7:35, 'that ye may attend upon the Lord without distraction.'",
+            "But these are exceptional cases, and in exceptional times, such as those of Paul."
+        ],
+        "Albert Barnes": [
+            "It is well. It is fit, convenient, or, it is suited to the present circumstances, or, the thing itself is well and expedient in certain circumstances.\" ",
+            "The apostle did not mean that marriage was unlawful, for he says Hebrews 13:4 that 'marriage is honorable in all.'",
+            "Not to be connected with her by marriage."
+        ],
+        "Marvin Vincent": [
+            "It is good [\u03ba\u03b1\u03bb\u03bf\u03bd]. Not merely expedient, but morally salutary.\" ",
+            "May give yourselves [\u03c3\u03c7\u03bf\u03bb\u03b1\u03c3\u03b7\u03c4\u03b5]. Lit., may have leisure. Like the Latin phrase vacaare rei to be free for a thing, and so to devote one's self to it.",
+            "Incontinency [\u03b1\u03ba\u03c1\u03b1\u03c3\u03b9\u03b1\u03bd]. Only here and Matthew 23:35, on which see note."
+        ],
+        "John Calvin": [
+            "Nothing farther, therefore, can be elicited from Paul\u2019s words than this \u2014 that it is indeed expedient and profitable for a man not to be bound to a wife, provided he can do otherwise.",
+            "Hence, as there are in married life many impediments which keep a man entangled, it were on that account good not to be connected in marriage.",
+            "The sum is this, that we must remember to distinguish between the pure ordinance of God and the punishment of sin, which came in subsequently. According to this distinction, it was in the beginning good for a man, without any exception, to be joined to a wife, and even yet, it is good in such a way, that there is in the meantime a mixture of bitter and sweet, in consequence of the curse of God."
+        ],
+        "Philip Schaff": [
+            "It is good for a man not to touch a woman i.e. to marry (an Old Testament phrase).",
+            "Indeed, the 'present distress' (1 Corinthians 7:26) seems to have been his main reason for recommending the single state.",
+            "In Hebrews 13:4, also, marriage is declared to be 'honourable in all,' or 'to be had in honour of all;'"
+        ],
+        "Archibald T. Robertson": [
+            "Paul pointedly says that it is not wrong, but good (\u03ba\u03b1\u03bb\u03bf\u03bd).",
+            "One of the marks of certain heretics will be forbidding to marry (1 Timothy 4:3).",
+            "Paul is not here opposing marriage. He is only arguing that celibacy may be good in certain limitations."
+        ],
+        "John Gill": [
+            "It is good for a man not to touch a woman; which is to be understood, not of merely touching a woman, which can neither be criminal, nor in all cases inexpedient, or be attended with any ill, or dangerous consequences; but of the act of carnal copulation with a woman.",
+            "The apostle's meaning is not that it is unlawful to marry, or that it is sinful to lie with a woman in lawful wedlock; but that it is much better, and more expedient on several accounts, to abstain from the use of women, when persons have the gift of continency.",
+            "The things they wrote to him about, here referred to, may be collected from the contents of this chapter, and some others following; as whether a Christian man ought not to abstain from the use of women; whether a believer ought to live with an unbelieving yoke fellow; whether such as had been circumcised should not make use of some methods to draw on the foreskin of their flesh; whether apprentices, who were called by the grace of God, ought to serve out their time with their masters; and concerning celibacy or virginity, the eating of things offered to idols, and the maintenance of ministers."
+        ],
+        "John Wesley": [
+            "It is good for a man \u2014 Who is master of himself.",
+            "Not to touch a women \u2014 That is, not to marry.",
+            "So great and many are the advantages of a single life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Marriage is honorable, good, and morally salutary. In some cases, celibacy may be a matter of Christian expediency, allowing one to attend upon the Lord without distraction. Paul argues that celibacy may be good and expedient, but he is not opposing marriage. It is important to distinguish between the pure ordinance of God and the punishment of sin. Marriage is not unlawful, but it may be better and more expedient for a man to abstain from the use of women if he has the gift of continency. However, it is crucial to remember that the advantages of a single life should be balanced with the mixture of bitter and sweet that can arise from the curse of God. In the end, it is good for every man to be master of himself and make wise choices regarding marriage.",
+            "wordCount": 138,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9305947754988095,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.53,
+            "commentatorTierSimilarities": [
+                29.99,
+                33.4,
+                36.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Marriage is honorable and morally salutary. Celibacy may be expedient in some cases, allowing one to attend to the Lord without distraction. However, Paul is not opposing marriage, but arguing for the potential benefits of celibacy. It is important to distinguish between God's pure ordinance and the punishment of sin. While marriage is not unlawful, it may be better for a man to abstain from it if he has the gift of continency. Balancing the advantages of a single life with the bitter and sweet consequences is crucial. Make wise choices about marriage and be master of yourself.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.821740575041101,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.91,
+            "commentatorTierSimilarities": [
+                30.79,
+                33.66,
+                35.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Marriage is honorable and morally salutary. Celibacy may be expedient in exceptional cases and times, allowing one to attend to the Lord without distraction. Paul argues that celibacy is not wrong, but good, and may be beneficial in certain limitations. However, it is crucial to distinguish between God's pure ordinance and the punishment of sin. While marriage is not unlawful, it may be better for a man to abstain if he has the gift of continency. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is important.",
+            "wordCount": 94,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.8134284100954359,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.64,
+            "commentatorTierSimilarities": [
+                32.49,
+                31.98,
+                35.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Marriage is honorable and morally salutary, but in certain cases, Paul argues for the potential benefits of celibacy. He distinguishes between God's pure ordinance and the punishment of sin that brought about drawbacks in married life. Celibacy may be expedient and morally good, allowing one to have leisure and devote themselves to the Lord without distraction. However, it is crucial to balance the advantages of a single life with the mixture of bitter and sweet consequences that arise from the curse of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.833097262577554,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.29,
+            "commentatorTierSimilarities": [
+                30.93,
+                30.85,
+                38.22
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Marriage is honorable and morally salutary, but in certain cases, celibacy may be expedient for devoting oneself to the Lord. While celibacy is not wrong but good, it is important to distinguish God's pure ordinance from the punishment of sin. Balancing the advantages of a single life with the mixture of bitter and sweet consequences is crucial. Paul argues that it is better for a man to abstain if he has the gift of continency, but ultimately, one must make wise choices regarding marriage and be master of oneself.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9184616977486215,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.13,
+            "commentatorTierSimilarities": [
+                30.53,
+                31.2,
+                38.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

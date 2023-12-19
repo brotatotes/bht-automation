@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:29:36",
+    "verseRef": "Ephesians 2:22",
+    "bestBHT": {
+        "bht": "Believers are being built together in the Spirit as a permanent dwelling for God. Through the fellowship and indwelling of the Spirit, they grow into a holy temple in the Lord. This grace of God imparts spiritual life and transforms them into the mystical body of Christ, the temple of God. The Spirit's involvement in the building process signifies that the church becomes a spiritual house, a fitting habitation for God. As believers, we are called to continue growing in the faith of Christ, relying on the Spirit's power, and fostering love and unity within the church.",
+        "wordCount": 99,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 1.8803806427502272,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+        "commentatorTierSimilarities": [
+            25.58,
+            32.09,
+            42.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22. are builded together\u2014Translate,",
+            "\t\"are being builded together.\" ",
+            "\t",
+            "through\u2014Greek,",
+            "\t\"in the Spirit.\" God, by His Spirit in",
+            "\tbelievers, has them for His habitation (1 Corinthians 3:16;",
+            "\t1 Corinthians 3:17; 1 Corinthians 6:19;",
+            "\t2 Corinthians 6:16)."
+        ],
+        "Albert Barnes": [
+            "We were by nature dead in sin...There we should have remained, had not the grace of God given us life.",
+            "They will act out their nature, unless they are changed: and they will not be changed, but by the grace of God.",
+            "The salvation of sinners involves all the exercise of power that is put forth in the resurrection of the dead...None can impart spiritual life to the soul but he who gave it life at first."
+        ],
+        "Marvin Vincent": [
+            "The reference is to individual Christians, not to communities.",
+            "Indicating a permanent dwelling.",
+            "In the fellowship of the indwelling Spirit."
+        ],
+        "John Calvin": [
+            "It is, I think, an exhortation to the Ephesians to grow more and more in the faith of Christ, after having been once founded in it.\" ",
+            "All human exertions are of no avail without the operation of the Spirit.",
+            "The superiority of the spiritual building [is] to all Jewish and outward services."
+        ],
+        "Philip Schaff": [
+            "Are being builded together, as a continuous process.",
+            "The church, as the mystical body of Christ, is the temple of God.",
+            "We have the true temple of the Father, built in the Son, inhabited in the Spirit."
+        ],
+        "Archibald T. Robertson": [
+            "Ye also are builded together (\u03ba\u03b1 \u03c5\u03bc\u03b5\u03b9\u03c2 \u03c3\u03c5\u03bd\u03bf\u03b9\u03ba\u03bf\u03b4\u03bf\u03bc\u03b5\u03b9\u03c3\u03b8\u03b5).",
+            "Possibly each of us is meant here to be the 'habitation of God in the Spirit'.",
+            "Growing (\u03b1\u03c5\u03be\u03b5) 'into a holy temple in the Lord'."
+        ],
+        "John Gill": [
+            "A church is a building compact together; it consists of many parts; and these are joined together, by agreement, and are knit and cemented in love.",
+            "The end of their being thus built together is, for an habitation of God through the Spirit.",
+            "And whereas it is said to be such through the Spirit; hence it appears, that the Spirit is concerned with the other two persons in the building of it; and that hereby it becomes a spiritual house; and is, through his grace, a fit habitation for the holy God to dwell in; and that God dwells in his churches by his Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are being built together into a permanent dwelling for God in the Spirit. This refers to individual Christians who, through the fellowship of the indwelling Spirit, grow into a holy temple in the Lord. The grace of God gives us spiritual life and changes us, making us part of the mystical body of Christ, which is the temple of God. It is through the Spirit that we become a fit habitation for God to dwell in, and He dwells in His churches by His Spirit. Thus, we are encouraged to continue growing in the faith of Christ, relying on the operation of the Spirit, and being joined together in love as the building of the church.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.79,
+            "qualityScore": 1.9280884209515157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.45,
+            "commentatorTierSimilarities": [
+                25.74,
+                32.2,
+                42.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers are being built together in the Spirit as a permanent dwelling for God. This process of growth in faith, facilitated by the indwelling Spirit, transforms them into a holy temple in the Lord. Through the grace of God, they receive spiritual life and become part of the mystical body of Christ, the temple of God. The Spirit's involvement makes the church a spiritual house, fit for God's dwelling. Thus, believers should continue to grow in faith, relying on the Spirit's operation and fostering love and unity within the church.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8213165634287178,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                24.74,
+                32.95,
+                42.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are being built together in the Spirit as a permanent dwelling for God. Through the fellowship and indwelling of the Spirit, they grow into a holy temple in the Lord. This grace of God imparts spiritual life and transforms them into the mystical body of Christ, the temple of God. The Spirit's involvement in the building process signifies that the church becomes a spiritual house, a fitting habitation for God. As believers, we are called to continue growing in the faith of Christ, relying on the Spirit's power, and fostering love and unity within the church.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8803806427502272,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.86,
+            "commentatorTierSimilarities": [
+                25.58,
+                32.09,
+                42.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers are being built together in the Spirit as a permanent dwelling for God. Through the fellowship and indwelling of the Spirit, they grow into a holy temple in the Lord. God's grace imparts spiritual life, transforming believers into the mystical body of Christ, the temple of God. The Spirit's involvement in the building process denotes that the church becomes a fitting habitation for God. It is through the Spirit that believers are empowered to grow in faith, relying on His operation and fostering love and unity within the church.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.87099065601221,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                26.05,
+                31.3,
+                42.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers are being built together in the Spirit as a permanent dwelling for God. Through the indwelling of the Spirit, they grow into a holy temple in the Lord. God's grace imparts spiritual life, transforming believers into the mystical body of Christ, the temple of God. The Spirit's involvement in this process signifies that the church becomes a fitting habitation for God. As believers, we are encouraged to continue growing in faith, relying on the Spirit's operation, and fostering love and unity within the church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.841843139826806,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                26.37,
+                32.55,
+                41.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

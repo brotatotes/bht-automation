@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 13:58:46",
+    "verseRef": "1 Thessalonians 2:18",
+    "bestBHT": {
+        "bht": "Despite Satan hindering them, Paul and his companions desired to return to the Thessalonians. Paul used the word hindered in a personal sense, charging Satan with cutting in on his path. The obstacles encountered in performing our duties and the hindrances in our enjoyment can often be traced back to the hand of the great enemy of good. It is important to remember that even in the face of opposition, the Holy Spirit and the providence of God will overrule Satan's interference to fulfill His purposes.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.1592344836461885,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+        "commentatorTierSimilarities": [
+            34.86,
+            35.11,
+            30.03
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Satan hindered us\u2014... the Holy Ghost and the providence of God overruled Satan's opposition to further His own purpose.\" ",
+            "We cannot, in each case, define whence hindrances in good undertakings arise; Paul in this case, by inspiration, was enabled to say; the hindrance was from Satan.",
+            "The Greek for 'hindered' is literally, 'to cut a trench between one's self and an advancing foe, to prevent his progress'; so Satan opposing the progress of the missionaries."
+        ],
+        "Albert Barnes": [
+            "Paul, therefore, is at much pains to assure them that his long separation from them was unavoidable.",
+            "In the obstacles, therefore, to the performance of our duty, and in the hindrances of our enjoyment, it is not improper to trace the hand of the great enemy of good.",
+            "The hindrances which we meet with in our efforts to do good, when the providence of God seems to favor us, and his word and Spirit seem to call us to a particular duty, often look very much like the work of Satan."
+        ],
+        "Marvin Vincent": [
+            "From the more general conception of an adversary, there is, in the O. T., a gradual development toward that of an evil personality.\" ",
+            "Satan appears as the personal spirit of evil - the same who is called the devil, the wicked one, the prince of the power of the air, the prince of this world, the serpent, the God of this world, the tempter.",
+            "It is clear that Paul here as elsewhere employs the word in a personal sense; but any attempt to base the doctrine of a personal devil on this and similar passages is unsafe."
+        ],
+        "John Calvin": [
+            "Whenever the wicked molest us, they fight under Satan\u2019s banner, and are his instruments for harassing us.",
+            "When our endeavors are directed to the work of the Lord, it is certain that everything that hinders proceeds from Satan.",
+            "We would assuredly be more careful to resist him; we would take more care to maintain sound doctrine, of which that enemy strives so keenly to deprive us."
+        ],
+        "Philip Schaff": [
+            "In saying 'we would have come,' Paul includes Silas and Timothy, and by this appended clause he means to emphasize his own strong personal longing to revisit his friends.",
+            "Once and again. It was not a passing impulse, but a steady, constant yearning.",
+            "How Satan did so, whether by stirring up the Jews in Thessalonica so that Paul dared not return, or by causing troubles which required Paul\u2019s presence elsewhere, or by the infliction of sickness, we do not know. But this plain matter-of-fact statement shows us that Satan does what he can to hinder the progress and welfare of the Church, and is therefore well called Satan, the Adversary."
+        ],
+        "Archibald T. Robertson": [
+            "Because...we desired to come to you.\" ",
+            "Paul uses his own name elsewhere also as in 2 Corinthians 10:1.\" ",
+            "So Paul charges Satan with cutting in on his path."
+        ],
+        "John Gill": [
+            "They not only had a will, and purposed in themselves, and entered into some resolutions to come unto them, but endeavoured to put them into execution.\" ",
+            "Satan does all he can to hinder the preaching of the Gospel, the hearing of the word, the profession of religion, and the saints coming together, and having spiritual conversation with each other.",
+            "He hindered the apostle from doing what he willed and purposed, but he did not hinder the will of God, which was that Paul should be employed in other work elsewhere."
+        ],
+        "John Wesley": [
+            "Satan \u2014 By those persecuting Jews, Acts 17:13."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite the hindrances caused by Satan, Paul and his companions were eager to return to the Thessalonians. Although it is unsafe to base the doctrine of a personal devil solely on this passage, it is clear that Paul used the word hindered in a personal sense, charging Satan with cutting in on his path. The obstacles encountered in performing our duties and the hindrances in our enjoyment can often be traced back to the hand of the great enemy of good. Satan, as the Adversary, seeks to hinder the progress and welfare of the Church, using any means necessary. However, it is important to remember that even in the face of opposition, the Holy Spirit and the providence of God will overrule Satan's interference to fulfill His purposes.",
+            "wordCount": 129,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 2.156250614356848,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.04,
+            "commentatorTierSimilarities": [
+                34.69,
+                34.96,
+                30.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite Satan hindering them, Paul and his companions desired to return to the Thessalonians. Though it is unsafe to base the doctrine of a personal devil solely on this, Paul used the word hindered in a personal sense, charging Satan with cutting in on his path. The obstacles encountered in performing our duties and the hindrances in our enjoyment can often be traced back to the hand of the great enemy of good. It is important to remember that even in the face of opposition, the Holy Spirit and the providence of God will overrule Satan's interference to fulfill His purposes.",
+            "wordCount": 102,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 2.1694631717690402,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                35.04,
+                35.05,
+                29.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite Satan hindering them, Paul and his companions desired to return to the Thessalonians. Paul used the word hindered in a personal sense, charging Satan with cutting in on his path. The obstacles encountered in performing our duties and the hindrances in our enjoyment can often be traced back to the hand of the great enemy of good. It is important to remember that even in the face of opposition, the Holy Spirit and the providence of God will overrule Satan's interference to fulfill His purposes.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.1592344836461885,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                34.86,
+                35.11,
+                30.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of Satan's hindrance, Paul and his companions were determined to return to the Thessalonians. The personal sense in which Paul used the word hindered shows his belief that Satan was actively obstructing their progress. The obstacles in our duties and the hindrances in our enjoyment often reflect the work of the great enemy of good. Nonetheless, the Holy Spirit and God's providence will triumph over Satan's opposition and fulfill the divine purposes in our lives.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.081965255873457,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.57,
+            "commentatorTierSimilarities": [
+                34.12,
+                36.28,
+                29.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite Satan's hindrance, Paul and his companions sought to return to the Thessalonians. Paul charges Satan with cutting in on his path, illustrating the personal sense in which he used the word hindered. The obstacles we encounter in performing our duties and the hindrances in our enjoyment often trace back to the great enemy of good. However, we can take comfort in knowing that the Holy Spirit and the providence of God will ultimately prevail over Satan's interference, fulfilling God's purposes.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.1055347429901095,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+            "commentatorTierSimilarities": [
+                34.11,
+                35.96,
+                29.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

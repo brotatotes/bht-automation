@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 15:03:50",
+    "verseRef": "1 Corinthians 6:10",
+    "bestBHT": {
+        "bht": "In this writing, the apostle consistently categorizes the covetous with the most depraved groups of individuals. He also mentions revilers, those who use abusive language, and extortioners, who obtain money or other resources through coercion or unlawful means. Thieves, who steal another person's property, whether through deceit or violence, are likewise condemned. Furthermore, Paul denounces those consumed by greed, seeking worldly gain at any cost, and those given to excessive alcohol consumption.",
+        "wordCount": 73,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.0438413569593163,
+        "qualityScoreNormalizedComparedToV2BHTs": 26.05,
+        "commentatorTierSimilarities": [
+            0.0,
+            34.73,
+            65.27
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "It is remarkable that the apostle always ranks 'the covetous' with the most abandoned classes of people.",
+            "Nor revilers - The same word which in 1 Corinthians 5:11, is rendered railer.",
+            "Nor extortioners - See the note at 1 Corinthians 5:11."
+        ],
+        "John Gill": [
+            "Nor thieves,.... Who take away another man's property, secret or openly, by fraud or force.",
+            "Nor covetous: insatiable, in the lust of uncleanness; or greedy of worldly gain, bent upon increasing their substance at any rate, by circumvention, fraud, and deceit; and do not use the things of this life as they should, for their own good, and that of others.",
+            "Nor drunkards who are strong to drink strong liquors; who give up themselves thereunto: who sit down on purpose to intoxicate themselves, and are frequent in the commission of this sin."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 1 Corinthians 6:10, the apostle Paul groups together the covetous, revilers, and extortioners, placing them among the most depraved individuals. These are people who are insatiable in their lust for worldly gain, willing to go to any lengths to increase their own wealth and possessions, even resorting to deception and fraud. Additionally, Paul condemns thieves, those who take what does not belong to them, whether through secret schemes or open acts of force. He also includes drunkards, individuals who purposefully indulge in excessive drinking and regularly engage in this sinful behavior.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.3277309037732967,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.49,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.92,
+                61.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the apostle Paul denotes the presence of various immoral behaviors. Paul places those driven by greed, revilers, and extortioners among the most wicked individuals. He distinguishes thieves as those who unlawfully take possession of the property of others using force or deceit. Likewise, he condemns those who exhibit insatiable desires for worldly wealth, resorting to unscrupulous means to acquire it. Paul also admonishes drunkards, who persistently surrender to the temptation of excessive drinking.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.129333242291674,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.89,
+            "commentatorTierSimilarities": [
+                0.0,
+                38.89,
+                61.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, the apostle Paul highlights the association of covetousness, reviling, and extortion with the most morally corrupt individuals. Thieves, who appropriate the belongings of others through fraud or force, are similarly condemned. Paul also criticizes the insatiable desire for worldly gain, which drives individuals to increase their wealth through dishonest means. Additionally, he addresses the issue of drunkenness, where individuals willingly and frequently engage in excessive alcohol consumption.",
+            "wordCount": 70,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.032530545865642,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.68,
+            "commentatorTierSimilarities": [
+                0.0,
+                30.73,
+                69.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this writing, the apostle consistently categorizes the covetous with the most depraved groups of individuals. He also mentions revilers, those who use abusive language, and extortioners, who obtain money or other resources through coercion or unlawful means. Thieves, who steal another person's property, whether through deceit or violence, are likewise condemned. Furthermore, Paul denounces those consumed by greed, seeking worldly gain at any cost, and those given to excessive alcohol consumption.",
+            "wordCount": 73,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.0438413569593163,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.05,
+            "commentatorTierSimilarities": [
+                0.0,
+                34.73,
+                65.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, the apostle Paul groups together the covetous, revilers, and extortioners, placing them among the most depraved individuals. These are people who are insatiable in their lust for worldly gain, willing to go to any lengths to increase their own wealth and possessions, even resorting to deception and fraud. Additionally, Paul condemns thieves, those who take what does not belong to them, whether through secret schemes or open acts of force. He also includes drunkards, individuals who purposefully indulge in excessive drinking and regularly engage in this sinful behavior.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.2300216428766815,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.24,
+            "commentatorTierSimilarities": [
+                0.0,
+                35.31,
+                64.69
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

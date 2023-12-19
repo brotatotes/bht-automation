@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:10:48",
+    "verseRef": "Romans 16:19",
+    "bestBHT": {
+        "bht": "I rejoice over your well-known obedience. However, be cautious with those who deceive with their pretended wisdom. Just as Jesus admonished his disciples to be wise as serpents, I want you to be wise unto that which is good and discerning of evil. Your obedience to the gospel is commendable, and I'm glad that your reputation for obedience is well-spoken of among all the churches.",
+        "wordCount": 68,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.9170113523580623,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+        "commentatorTierSimilarities": [
+            28.93,
+            35.52,
+            35.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their obedience being a matter of universal notoriety, is the ground of his confidence that they will comply with his entreaty.",
+            "Some slight reproof is conveyed in 'I rejoice... yet...' They were well known for obedience, but had not been perhaps cautious enough with regard to these designing persons and their pretended wisdom.",
+            "See Matt. x. 16, of which words of our Lord there seems to be here a reminiscence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I rejoice therefore over you.",
+            "I would have you wise unto that which is good.",
+            "Ye need the serpent's wisdom to discriminate between transparent truth and plausible error, with that guileless simplicity which instinctively cleaves to the one and rejects the other."
+        ],
+        "Albert Barnes": [
+            "Your mild, obedient disposition to learn, and to obey the precepts of the teachers of religion.",
+            "I rejoice that you evince such a disposition. But he immediately adds, that 'this' was just the temper to be imposed upon, and cautions them against that danger.",
+            "You have shown your wisdom in 'obeying' the gospel. I would have you still evince wisdom toward 'every good' design; but to be unacquainted with 'any' plan of evil. Do not yield to those plans, or follow those who would lead you into them."
+        ],
+        "Marvin Vincent": [
+            "Simple [\u03b1\u03ba\u03b5\u03c1\u03b1\u03b9\u03bf\u03c5\u03c2] . See on harmless, Matthew 10:16."
+        ],
+        "John Calvin": [
+            "Your obedience is indeed commended everywhere, and for this reason I rejoice on your account: yet since it often happens, that a fall occurs through simplicity, I would have you to be harmless and simple as to the doing of evil; but in doing good, to be most prudent, whenever it may be necessary, so that you may preserve your integrity.",
+            "We here see what that simplicity is which is commended in Christians; so that they have no reason to claim this distinction, who at this day count as a high virtue their stupid ignorance of the word of God.",
+            "So then he congratulates them, because they were free from a wicked disposition; he yet wished them to be wise, so as to exercise caution."
+        ],
+        "Philip Schaff": [
+            "Wise unto that which is good, and simple unto that which is evil.",
+            "And the God of peace shall bruise Satan under your feet shortly.",
+            "The preservation of primitive Christianity from the fatal errors that very soon assailed it is one of the most striking of the gracious providences of God toward His church."
+        ],
+        "Archibald T. Robertson": [
+            "Over you (\u03b5\u03c6' \u03c5\u03bc\u03b9\u03bd). 'Upon you.'",
+            "Simple unto that which is evil (\u03b1\u03ba\u03b5\u03c1\u03b1\u03b9\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c2 \u03c4\u03bf \u03ba\u03b1\u03ba\u03bf\u03bd). Old adjective from \u03b1 privative and \u03ba\u03b5\u03c1\u03b1\u03bd\u03bd\u03c5\u03bc, to mix.",
+            "Unmixed with evil, unadulterated."
+        ],
+        "John Gill": [
+            "The fame and report of their obedience to the faith, to the doctrine of the Gospel, and the ministers of it, was spread everywhere, was well known to everyone, and spoken of with commendation among all the churches in all nations.",
+            "I am glad therefore on your behalf; that they had so cheerfully and readily embraced the Gospel, and from the heart obeyed that form of doctrine delivered to them; and that their praise for this was in all the churches of Christ, and had everywhere a good report on this account.",
+            "I would have you wise unto that which is good, and simple concerning evil; which is just the reverse of natural and unregenerate men, who are wise to do evil, but to do good they have no knowledge."
+        ],
+        "John Wesley": [
+            "But I would have you \u2014 Not only obedient, but discreet also.",
+            "Wise with regard to that which is good \u2014 As knowing in this as possible.",
+            "And simple with regard to that which is evil \u2014 As ignorant of this as possible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I rejoice over you and your obedience, which is universally known. However, I want to caution you to be wise in discerning good from evil. You need the serpent's wisdom to distinguish between transparent truth and plausible error. Be simple and uncompromising when it comes to evil, but be wise and discerning when it comes to doing good. Your obedience to the gospel is commendable, and I am glad for your sake that your reputation for obedience is widespread among the churches.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.0243717027437085,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.65,
+            "commentatorTierSimilarities": [
+                27.98,
+                35.71,
+                36.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I rejoice over your well-known obedience. However, be cautious with those who deceive with their pretended wisdom. Just as Jesus admonished his disciples to be wise as serpents, I want you to be wise unto that which is good and discerning of evil. Your obedience to the gospel is commendable, and I'm glad that your reputation for obedience is well-spoken of among all the churches.",
+            "wordCount": 68,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.9170113523580623,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                28.93,
+                35.52,
+                35.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The apostle Paul commends the Romans for their well-known obedience to the Gospel, but also cautions them against being too trusting of those who may try to deceive them with false wisdom. He urges them to be wise in discerning what is good and to remain innocent in regards to evil. This simplicity he speaks of is not a foolish ignorance, but rather a demonstrated wisdom in righteousness. Paul rejoices over their faithfulness and encourages them to continue on this path, assuring them that God will ultimately triumph over evil. The integrity and obedience of the Romans serve as a testament to the providential care of God for His church, preserving them from the errors that threatened to corrupt the early Christian faith.",
+            "wordCount": 124,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 1.9088395922025518,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.81,
+            "commentatorTierSimilarities": [
+                23.16,
+                37.66,
+                39.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The apostle Paul commends the Romans for their obedience to the Gospel, but warns against being naive towards those who would deceive them with false wisdom. He encourages them to be wise in discerning good from evil, while maintaining a simplicity that is ignorant of evil. Paul rejoices over their faithfulness and assures them that God will triumph over evil. The Romans' obedience serves as a testament to God's care for His church, preserving them from the errors that threatened the early Christian faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 43.55,
+            "qualityScore": 1.9594402387140857,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                23.11,
+                39.09,
+                37.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The apostle Paul commends the Romans for their obedience, rejoices over them, and encourages them to be wise in discerning good from evil. He warns against being too trusting of false wisdom, urging them to remain innocent and simple regarding evil. This simplicity should not be seen as ignorance, but as a demonstrated wisdom in righteousness. The Romans' obedience serves as a testament to God's providential care for His church, preserving them from the errors that could corrupt the early Christian faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.9159833186152775,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                24.32,
+                37.71,
+                37.96
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

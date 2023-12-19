@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:21:18",
+    "verseRef": "Luke 17:33",
+    "bestBHT": {
+        "bht": "During his preceding life, whoever seeks to save his life will ultimately lose it, while those who have lost it through self-sacrifice will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor on a woman in travail, yet for the saints of God, it will be the birth of their soul and body to eternal life and glory. This is a call to not hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true life and preservation.",
+        "wordCount": 101,
+        "quoteTokenProportion": 42.42,
+        "qualityScore": 1.8958812998516585,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+        "commentatorTierSimilarities": [
+            33.17,
+            29.12,
+            37.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "whosoever shall have sought, i.e. \u2018during his preceding life,\u2019\u2014shall lose it then: whosoever shall have lost it, by self-sacrifice, during this life, shall quicken it then.\" ",
+            "shall quicken it] 'The verb in the original is an expressive word, derived from animal parturition, bringing forth to air and life what was before concealed in the womb.",
+            "That day shall come as the pains of labour on a woman in travail (Matt. xxiv. 8): but to the saints of God it shall be the birth of the soul and body to life and glory everlasting."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "33. Whosoever, &amp;c.\u2014(See on",
+            "\tLuke 9:23)."
+        ],
+        "Albert Barnes": [
+            "See the notes at Matthew 10:39."
+        ],
+        "Marvin Vincent": [
+            "Shall preserve [\u03b6\u03c9\u03bf\u03b3\u03bf\u03bd\u03b7\u03c3\u03b5\u03b9] . Only here and Acts 7:19. Originally to engender; thence to produce alive or endue with life, and so to preserve alive. Wyc., shall quicken it."
+        ],
+        "Philip Schaff": [
+            "Whosoever shall have lost his life, i.e., shall not have counted his life dear to him in comparison with Christ.",
+            "Will preserve, or, \u2018quicken\u2019 it. The word is derived from animal parturition, as if the events of that day were represented as the pangs of travail resulting in the new and glorious life of the believer.",
+            "In this part of the verse, also, the reference to the whole preceding life seems more appropriate."
+        ],
+        "Archibald T. Robertson": [
+            "Shall preserve it (\u03b6\u03c9\u03bf\u03b3\u03bf\u03bd\u03b7\u03c3\u03b5 \u03b1\u03c5\u03c4\u03b7\u03bd). Or save it alive.",
+            "It is a late word and common in medical writers, to bring forth alive (\u03b6\u03c9\u03bf\u03c3, \u03b3\u03b5\u03bd\u03c9) and here to keep alive.",
+            "Here only in the N.T. except 1 Timothy 6:13; Acts 7:19."
+        ],
+        "John Gill": [
+            "Whosoever shall seek to save his life...shall lose it.\" ",
+            "and whosoever shall lose his life...shall preserve it.\" ",
+            "he shall be safe."
+        ],
+        "John Wesley": [
+            "Yet as great as the danger will be, do not seek to save your life by violating your conscience: if you do, you will surely lose it...\" ",
+            "...if you should lose it for my sake, you shall be paid with life everlasting.",
+            "But the most probable way of preserving it now, is to be always ready to give it up: a peculiar Providence shall then watch over you, and put a difference between you and other men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During his preceding life, whoever seeks to save his life will ultimately lose it, while those who have lost it through self-sacrifice in this life will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor on a woman in travail, yet for the saints of God, it will be the birth of their soul and body to eternal life and glory. This is a call to not hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true life and preservation. The danger may be great, but seeking to save our lives by compromising our faith will only lead to its loss. Instead, let us be always ready to give up our lives and trust in the peculiar Providence of God, who will watch over and preserve us.",
+            "wordCount": 151,
+            "quoteTokenProportion": 41.76,
+            "qualityScore": 1.792643892399162,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.95,
+            "commentatorTierSimilarities": [
+                32.82,
+                24.77,
+                42.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During his preceding life, whoever seeks to save his life will ultimately lose it, while those who have lost it through self-sacrifice in this life will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor on a woman in travail, yet for the saints of God, it will be the birth of their soul and body to eternal life and glory. This is a call to not hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true life and preservation.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8941461637662962,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                33.3,
+                29.61,
+                37.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During his preceding life, whoever seeks to save his life will ultimately lose it, while those who have lost it through self-sacrifice in this life will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor on a woman in travail, yet for the saints of God, it will be the birth of their soul and body to eternal life and glory. This is a call to not hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true life and preservation.",
+            "wordCount": 104,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8941461637662962,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.32,
+            "commentatorTierSimilarities": [
+                33.3,
+                29.61,
+                37.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Whoever seeks to save his life in this world will ultimately lose it, while those who have lost it through self-sacrifice will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor, but for the saints of God, it will be the birth of their soul and body to eternal life. This verse urges us not to hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true preservation and everlasting life.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.893634748740526,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                32.26,
+                27.94,
+                39.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During his preceding life, whoever seeks to save his life will ultimately lose it, while those who have lost it through self-sacrifice will bring it forth to life and glory everlasting. The day of judgment will come upon the world like the pains of labor on a woman in travail, yet for the saints of God, it will be the birth of their soul and body to eternal life and glory. This is a call to not hold our lives dear in comparison to Christ, for in losing our lives for His sake, we will find true life and preservation.",
+            "wordCount": 101,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.8958812998516585,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "commentatorTierSimilarities": [
+                33.17,
+                29.12,
+                37.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

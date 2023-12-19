@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:12:28",
+    "verseRef": "1 Corinthians 12:14",
+    "bestBHT": {
+        "bht": "Just as the natural body, though one, consists of many members, so it is with the Christian body. The weaker as well as the stronger, the less comely as well as the more comely members, are necessary. The analogy of the body illustrates the mutual dependence of the various members in the one body, the Church. This understanding is essential for church life, both locally and universally. We must remember that God created us to cooperate, just as Socrates pointed out the absurdity of feet and hands working against each other. The church is made up of many different individuals, yet all are one in Christ and related to each other.",
+        "wordCount": 111,
+        "quoteTokenProportion": 50.75,
+        "qualityScore": 1.77402931877482,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+        "commentatorTierSimilarities": [
+            30.52,
+            31.66,
+            37.82
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is even so in the natural body, which, though one, consists of many members.",
+            "Their various gifts had been bestowed by God on them as members of the Christian body.",
+            "The weaker as well as the stronger, the less comely as well as the more comely members were necessary."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For the body also.",
+            "The analogy of the body, not consisting exclusively of one, but of many members, illustrates the mutual dependence of the various members in the one body, the Church.",
+            "The well-known fable of the belly and the other members, spoken by Menenius Agrippa, to the seceding commons [LIVY, 2.32], was probably before Paul's mind, stored as it was with classical literature."
+        ],
+        "Albert Barnes": [
+            "The body is made up of many members, which have various offices. So it is in the church.",
+            "We are to expect the same variety there; and we are not to presume either that all will be alike.",
+            "We are not to presume that any member that God has placed there will be useless."
+        ],
+        "Marvin Vincent": [
+            "The student will naturally recall the fable of the body and the members uttered by Menenius Agrippa, and related by Livy.\" ",
+            "The illustration seems to have been a favorite one, and occurs in Seneca, Marcus Antoninus, and others."
+        ],
+        "Archibald T. Robertson": [
+            "The point sounds like a truism, but it is the key to the whole problem of church life both local and general.",
+            "Socrates pointed out how absurd it would be if feet and hands should work against one another when God made them to cooperate.",
+            "Seneca alludes to it as does Marcus Aurelius and Marcus Antoninus."
+        ],
+        "John Gill": [
+            "For the body is not one member,.... Not only one; nor is anyone member the body...",
+            "thus the church of Christ is not one person only, or does not consist of one sort of persons...",
+            "yet all one in Christ the head, and all related to each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Just as the natural body is made up of many members, each with its own unique function, so it is with the Christian body. The weaker and less comely members are just as necessary as the stronger and more comely ones. This analogy of the body, consisting of many members, illustrates the mutual dependence of the various members in the one body, the Church. This concept is not a new idea - it can be found in classic literature, such as the fable of the belly and the other members. It may seem like a truism, but it is the key to understanding church life. Just as Socrates pointed out the absurdity of feet and hands working against each other, so we must remember that God created us to cooperate and work together. The church is made up of many different individuals, but we are all one in Christ and all related to each other.",
+            "wordCount": 154,
+            "quoteTokenProportion": 47.06,
+            "qualityScore": 1.754215798835348,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.67,
+            "commentatorTierSimilarities": [
+                30.67,
+                32.17,
+                37.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Just as the natural body, though one, consists of many members, so it is with the Christian body. The weaker as well as the stronger, the less comely as well as the more comely members, are necessary. The analogy of the body illustrates the mutual dependence of the various members in the one body, the Church. This understanding is essential for church life, both locally and universally. We must remember that God created us to cooperate, just as Socrates pointed out the absurdity of feet and hands working against each other. The church is made up of many different individuals, yet all are one in Christ and related to each other.",
+            "wordCount": 111,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.77402931877482,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.33,
+            "commentatorTierSimilarities": [
+                30.52,
+                31.66,
+                37.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The natural body, though one, consists of many members, just like the Christian body. The weaker, less comely members are necessary alongside the stronger, more comely ones. The analogy of the body illustrates the mutual dependence of the various members in the Church. This concept, though seemingly obvious, is key to understanding church life. Just as feet and hands should not work against one another, but rather cooperate, so should the members of the church. We are all different, yet united in Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.7273082028053584,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.77,
+            "commentatorTierSimilarities": [
+                29.04,
+                32.74,
+                38.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as the natural body is made up of many members, each with its own unique function, so it is with the Christian body. The weaker and less comely members are just as necessary as the stronger and more comely ones. This analogy of the body, consisting of many members, illustrates the mutual dependence of the various members in the one body, the Church. This concept is not a new idea - it can be found in classic literature, such as the fable of the belly and the other members. It may seem like a truism, but it is the key to understanding church life.",
+            "wordCount": 104,
+            "quoteTokenProportion": 51.61,
+            "qualityScore": 1.7226956034825962,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                32.79,
+                31.17,
+                36.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Just as the natural body consists of many members, the Christian body is also composed of diverse individuals. Whether weak or strong, comely or less attractive, all members are necessary for the functioning of the body. The analogy of the body illustrates the interdependence of the various members within the Church. This well-known concept can be found in ancient fables and classical literature. It is crucial to grasp this truth in order to comprehend the dynamics of church life, both locally and universally.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.5604240466314263,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.23,
+            "commentatorTierSimilarities": [
+                32.03,
+                32.16,
+                35.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

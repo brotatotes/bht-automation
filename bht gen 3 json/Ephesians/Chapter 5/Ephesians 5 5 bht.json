@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:33:00",
+    "verseRef": "Ephesians 5:5",
+    "bestBHT": {
+        "bht": "Those who engage in fornication, uncleanness, or covetousness, which is essentially idolatry, are aware that they have no inheritance in the kingdom of Christ and God. The sin of covetousness, seen as worship of the created rather than the Creator, is severely rebuked by St. Paul due to his own abandonment of selfish greed. This firm exclusion from the eternal verities of the Kingdom emphasizes the need for riches to be used for the good of others and the glory of God in order to avoid their own destruction.",
+        "wordCount": 89,
+        "quoteTokenProportion": 45.31,
+        "qualityScore": 2.0300085868770896,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+        "commentatorTierSimilarities": [
+            23.79,
+            35.74,
+            40.47
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this ye know, being aware that every fornicator or unclean man, or covetous man, which is an idolater, hath not inheritance in the kingdom of Christ and God.",
+            "Meyer remarks well, that it was very natural for St. Paul, whose forsaking of all things so strongly contrasted with selfish greediness, to mark with the deepest reprobation the sin of covetousness.",
+            "The present implying more the fixedness of the exclusion, grounded on the eternal verities of that Kingdom, than mere future certainty."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Covetousness is worship of the creature instead of the Creator, the highest treason against the King of kings.",
+            "The present implies the fixedness of the exclusion, grounded on the eternal verities of that kingdom.",
+            "Implies their perfect oneness, which is consistent only with the doctrine that Christ is God."
+        ],
+        "Albert Barnes": [
+            "No one of corrupt and licentious life can be saved.",
+            "To worship money is as real idolatry as to worship a block of stone.",
+            "Shall we not be allowed to preach against those sins which will certainly exclude people from heaven?"
+        ],
+        "Marvin Vincent": [
+            "Ye know recognizing.\" ",
+            "Ye know of a surety.\" ",
+            "Idolater. Compare Colossians 3:5, and see on 1 Corinthians 5:10."
+        ],
+        "John Calvin": [
+            "But let all fornicators, or unclean or covetous persons, so long as they continue such, be assured that they have no friendship with God, and are deprived of all hope of salvation.",
+            "Covetousness is idolatry - not the idolatry which is so frequently condemned in Scripture, but one of a different description. All covetous men must deny God, and put wealth in his place.",
+            "This disease is widely spread, and not a few minds have caught the infection. Nay, it is not reckoned a disease, but receives, on the contrary, very general commendation."
+        ],
+        "Philip Schaff": [
+            "The covetous man makes wealth his God; this is now the most common form of idolatry, and the Scriptures plainly reveal its sinfulness.",
+            "There is no cure for this destructive love of money, but using it for other than selfish purposes.",
+            "Riches, therefore, must ruin their possessor, unless he employs them for the good of others and for the glory of God."
+        ],
+        "Archibald T. Robertson": [
+            "Ye know recognizing by your own experience.",
+            "Covetous man... old word.",
+            "But Sharp's rule cannot be insisted on here because \u03b8\u03b5\u03bf\u03c2 is often definite without the article like a proper name."
+        ],
+        "John Gill": [
+            "the covetous man may be called an idolater, because the idolater and he worship the same in substance, gold and silver, and brass, or what is made of them",
+            "this may be said to be an inheritance, because it is peculiar to children, the bequest of their heavenly Father, and is not purchased or acquired by them, but comes to them from the free donation of God, through the death of Christ",
+            "the meaning of these words is, not that all who have been guilty of these sins shall be excluded the kingdom of God, but all such who live and die in them, without the grace of God, and righteousness of Christ"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse warns that no fornicator, unclean person, or covetous man, who is essentially an idolater, has any inheritance in the kingdom of Christ and God. The recognition that covetousness is a worship of the creature rather than the Creator is emphasized, leading to the firm exclusion from the eternal verities of that Kingdom. This sin is condemned greatly by St. Paul, contrasting his own selflessness with the selfish greediness that covetousness represents. Therefore, it is crucial to understand that the covetous man makes wealth his God, engaging in a form of idolatry that denies God and puts wealth in His place. Riches can only escape ruin if they are used for the good of others and for the glory of God.",
+            "wordCount": 122,
+            "quoteTokenProportion": 39.51,
+            "qualityScore": 1.986136705309486,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                23.25,
+                36.75,
+                40.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No fornicator, unclean person, or covetous man, an idolater, has any inheritance in the kingdom of Christ and God. Covetousness is a worship of the creature instead of the Creator, the highest treason against the King of kings. St. Paul strongly condemns this sin, which contrasts with his own selflessness. Wealth becomes a god, replacing the worship of the true God. Only by using riches for others and God's glory can they avoid ruin, as they are a free gift from God through Christ's death.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.94,
+            "qualityScore": 1.9137029547030113,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+            "commentatorTierSimilarities": [
+                23.84,
+                36.73,
+                39.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who engage in fornication, uncleanness, or covetousness, which is essentially idolatry, are aware that they have no inheritance in the kingdom of Christ and God. The sin of covetousness, seen as worship of the created rather than the Creator, is severely rebuked by St. Paul due to his own abandonment of selfish greed. This firm exclusion from the eternal verities of the Kingdom emphasizes the need for riches to be used for the good of others and the glory of God in order to avoid their own destruction.",
+            "wordCount": 89,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 2.0300085868770896,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.84,
+            "commentatorTierSimilarities": [
+                23.79,
+                35.74,
+                40.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Covetousness, which is equivalent to worshiping the creation rather than the Creator, is strongly condemned by St. Paul. Fornicators, unclean individuals, and those who are covetous, essentially idolaters, have no inheritance in the kingdom of Christ and God. The exclusion from this kingdom is firm, being based on the eternal verities. Such exclusion can only be avoided by using wealth in selfless ways for the benefit of others and the glory of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 46.43,
+            "qualityScore": 1.830663473778698,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.21,
+            "commentatorTierSimilarities": [
+                25.15,
+                33.45,
+                41.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No fornicator, unclean person, or covetous man, who is essentially an idolater, has any inheritance in the kingdom of Christ and God. The recognition that covetousness is a worship of the creature rather than the Creator is emphasized. This sin is condemned greatly by St. Paul, contrasting his own selflessness with the selfish greediness that covetousness represents. Therefore, it is crucial to understand that the covetous man makes wealth his God, engaging in a form of idolatry that denies God and puts wealth in His place.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9628521372614949,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                25.48,
+                34.29,
+                40.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

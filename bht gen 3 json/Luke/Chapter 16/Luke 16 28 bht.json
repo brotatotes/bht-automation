@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:20:41",
+    "verseRef": "Luke 16:28",
+    "bestBHT": {
+        "bht": "The Rich Man in the passage is laboring under the illusion that his five brothers will be persuaded by Lazarus' testimony, even if he were to rise from the dead. This misguided belief showcases his refusal to face the consequences of his actions. Considering the divisions within Jewish society, such as the priests, Levites, and Israelites, as well as the Pharisees, Sadducees, and Essenes, sheds light on the historical context of Christ's words. He sought to highlight the Jews' sins and their inadequate self-righteousness. The Rich Man's fear of his brothers joining him in torment further exacerbates his suffering.",
+        "wordCount": 102,
+        "quoteTokenProportion": 36.49,
+        "qualityScore": 1.6840385933789885,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+        "commentatorTierSimilarities": [
+            59.1,
+            0.0,
+            40.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Archibald T. Robertson": [
+            "The Rich Man labours under the delusion that his five brothers will believe the testimony of Lazarus as a man from the dead."
+        ],
+        "John Gill": [
+            "The Jewish nation were usually divided into 'three' parts, 'priests, Levites, and Israelites'; of these three the great sanhedrim usually consisted.",
+            "Now these were again divided into 'three' sects, 'Pharisees, Sadducees', and 'Essenes'.",
+            "Christ, when here on earth, did testify to that people of their sins, showed them the heinousness of them, inveighed against them, and reproved for them; and of their righteousness, and showed the hypocrisy, deficiency, and insufficiency of it to justify them."
+        ],
+        "John Wesley": [
+            "Lest they also come into this place \u2014 He might justly fear lest their reproaches should add to his own torment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Rich Man in Luke 16:28 mistakenly believes that his five brothers will be convinced of the truth by the testimony of Lazarus, even if he were to rise from the dead. This shows the depth of his delusion and highlights his refusal to acknowledge the consequences of his actions. The division in Jewish society at the time between priests, Levites, and Israelites, as well as the sects of Pharisees, Sadducees, and Essenes, reminds us of the context in which Christ spoke these words. He aimed to testify to the Jewish people about their sins and righteousness, revealing their hypocrisy and the insufficiency of their self-righteousness. The Rich Man fears that his brothers, like him, will be condemned to this place of torment and adds to his own suffering by anticipating their reproaches.",
+            "wordCount": 133,
+            "quoteTokenProportion": 34.15,
+            "qualityScore": 1.814995910598089,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.69,
+            "commentatorTierSimilarities": [
+                57.59,
+                0.0,
+                42.41
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Rich Man in the passage is laboring under the illusion that his five brothers will be persuaded by Lazarus' testimony, even if he were to rise from the dead. This misguided belief showcases his refusal to face the consequences of his actions. Considering the divisions within Jewish society, such as the priests, Levites, and Israelites, as well as the Pharisees, Sadducees, and Essenes, sheds light on the historical context of Christ's words. He sought to highlight the Jews' sins and their inadequate self-righteousness. The Rich Man's fear of his brothers joining him in torment further exacerbates his suffering.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.6840385933789885,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                59.1,
+                0.0,
+                40.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Rich Man in Luke 16 mistakenly believes that his brothers would be convinced by Lazarus' testimony, a man returning from the dead. This reveals his delusion and refusal to acknowledge the consequences of his actions. Understanding the divisions within Jewish society - priests, Levites, and Israelites, as well as the Pharisees, Sadducees, and Essenes - contextualizes Christ's message. He confronted the Jews about their sins and their inadequate self-righteousness. The Rich Man fears his brothers' reproaches, adding to his own torment in the afterlife.",
+            "wordCount": 84,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.820834787670285,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.88,
+            "commentatorTierSimilarities": [
+                60.54,
+                0.0,
+                39.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Rich Man in Luke labors under the delusion that his five brothers would believe Lazarus' testimony, even if he were to rise from the dead. This highlights his refusal to acknowledge the consequences of his actions. The divisions within Jewish society - priests, Levites, and Israelites; Pharisees, Sadducees, and Essenes - provide context for Christ's message. He denounced the Jews' sins, exposed their hypocrisy, and criticized their insufficient self-righteousness. The Rich Man fears his brothers coming into the place of torment, adding to his own suffering.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.7703927223788942,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                60.79,
+                0.0,
+                39.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Rich Man's mistaken belief in Luke is that his brothers will be convinced by Lazarus' testimony, even if he were to rise from the dead. This highlights his refusal to acknowledge the consequences of his actions. The divisions within Jewish society - priests, Levites, and Israelites; Pharisees, Sadducees, and Essenes - provide historical context for Christ's message. He denounced the Jews' sins, exposed their hypocrisy, and criticized their insufficient self-righteousness. The Rich Man fears his brothers joining him in torment, compounding his own suffering.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.6071043932200615,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.78,
+            "commentatorTierSimilarities": [
+                58.42,
+                0.0,
+                41.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

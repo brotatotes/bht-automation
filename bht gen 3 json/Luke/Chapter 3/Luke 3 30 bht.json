@@ -1,0 +1,104 @@
+{
+    "timestamp": "12-19-2023 16:14:25",
+    "verseRef": "Luke 3:30",
+    "bestBHT": {
+        "bht": "This list of Jesus' ancestry traces back to Adam, establishing his connection to humanity and fulfilling the promise made to David. It reveals the divine and royal significance of his lineage, showcasing the intentional design of God in bringing forth the Savior from a humble human lineage. It highlights the wondrous and purposeful nature of God's plan in delivering salvation to all mankind through Jesus.",
+        "wordCount": 66,
+        "quoteTokenProportion": 29.17,
+        "qualityScore": 0.42598406682934675,
+        "qualityScoreNormalizedComparedToV2BHTs": 5.51,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            ":-"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse lists the ancestry of Jesus, tracing it back through Heli down to Adam. It is significant in that it establishes Jesus' connection to humanity, as well as the fulfillment of the promise made to David that the Messiah would come from his lineage. This lineage is one of royal and divine significance, as it not only includes kings but also the father of all mankind. It shows the great and wondrous plan of God in bringing forth the Savior of the world from a humble human lineage.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 0.3115184787464769,
+            "qualityScoreNormalizedComparedToV2BHTs": 1.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This list of Jesus' ancestry traces back through Heli to Adam, establishing his connection to humanity and fulfilling the promise made to David. It reveals the divine and royal significance of his lineage, demonstrating God's incredible plan to bring forth the Savior of the world from a humble human lineage. This passage showcases the wondrous and intentional design of God in appointing Jesus as the Messiah and delivering salvation to all mankind.",
+            "wordCount": 73,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 0.3812793166491023,
+            "qualityScoreNormalizedComparedToV2BHTs": 4.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This list of Jesus' ancestry traces back to Adam, establishing his connection to humanity and fulfilling the promise made to David. It reveals the divine and royal significance of his lineage, demonstrating God's incredible plan in bringing forth the Savior from a humble human lineage. The verse showcases the intentional design of God in appointing Jesus as the Messiah and delivering salvation to all mankind. It highlights the wondrous and purposeful nature of God's plan in bringing forth the Savior of the world.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 0.34135432688421324,
+            "qualityScoreNormalizedComparedToV2BHTs": 2.7,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This list of Jesus' ancestry traces back to Adam, establishing his connection to humanity and fulfilling the promise made to David. It reveals the divine and royal significance of his lineage, showcasing the intentional design of God in bringing forth the Savior from a humble human lineage. It highlights the wondrous and purposeful nature of God's plan in delivering salvation to all mankind through Jesus.",
+            "wordCount": 66,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 0.42598406682934675,
+            "qualityScoreNormalizedComparedToV2BHTs": 5.51,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This list of Jesus' ancestry traces back to Adam, establishing his connection to humanity and fulfilling the promise made to David. It reveals the divine and royal significance of his lineage, showcasing the intentional design of God in bringing forth the Savior from a humble human lineage. It highlights the wondrous nature of God's plan in delivering salvation to all mankind through Jesus, demonstrating the incredible and intentional nature of God's design.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 0.41633129329012153,
+            "qualityScoreNormalizedComparedToV2BHTs": 5.19,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

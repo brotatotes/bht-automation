@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:40:38",
+    "verseRef": "2 Peter 2:5",
+    "bestBHT": {
+        "bht": "Noah, a preacher of righteousness, serves as an example of the righteous being preserved while the ungodly faced destruction. The flood demonstrates that sin does not go unpunished, emphasizing God's judgment against the wicked. With Noah and seven others saved, the flood underscores the principle that the wicked will face consequences. This story warns against false teachers who oppose righteousness and encourages us to imitate the saints in seeking righteousness amidst a sinful world.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.21,
+        "qualityScore": 2.4361198296258104,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.34,
+        "commentatorTierSimilarities": [
+            28.54,
+            34.91,
+            36.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Preservation of the righteous... worked out further in the next verse.",
+            "Noah, disgusted with their proceedings, and afflicted with their evil counsels, exhorted them to repentance in heart and life.",
+            "Bringing the flood on the world of ungodly men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "eighth\u2014that is, Noah, and seven others. Contrasted with the densely peopled 'world of the ungodly.'\" ",
+            "preacher\u2014not only 'righteous' himself, but also 'a preacher of righteousness': adduced by Peter against the licentiousness of the false teachers.",
+            "who have no prospect before them but destruction, even as it overtook the ungodly world in Noah's days."
+        ],
+        "Albert Barnes": [
+            "By that awful act of sweeping away the inhabitants of a world, he showed that people could not sin with impunity, and that the incorrigibly wicked must perish.",
+            "The righteous, however few in number, would be saved when the wicked were cut off.",
+            "The argument here is, that if God would cut off a wicked race in this manner, the principle is settled that the wicked will not escape."
+        ],
+        "Marvin Vincent": [
+            "Noah with seven others.",
+            "The word herald is beautifully suggestive, at many points, of the office of a gospel minister.",
+            "In Herodotus (i., 21), the word herald is used as synonymous with apostle."
+        ],
+        "John Calvin": [
+            "For how can the wicked escape the deluge of divine wrath, since the whole world was once destroyed by it?",
+            "A multitude would not be a shield against God to protect the wicked; but that as many as sin shall be punished, be they few or many in number.",
+            "The design of the Apostle is to set before our eyes God\u2019s wrath against the wicked, so as to encourage us at the same time to imitate the saints."
+        ],
+        "Philip Schaff": [
+            "The fact that it had practically become the absolute possession of the ungodly being the reason for God\u2019s act of judgment.",
+            "Noah is designated \u2018a preacher (or, \u2018herald\u2019) of righteousness,\u2019 in explanation of his exemption.",
+            "It expresses, however, the fewness of the righteous in comparison with the world-wide multitude of the ungodly."
+        ],
+        "Archibald T. Robertson": [
+            "Preserved (\u03b5\u03c6\u03c5\u03bb\u03b1\u03be\u03b5\u03bd). Still part of the long protasis with \u03b5, first aorist active indicative of \u03c6\u03c5\u03bb\u03b1\u03c3\u03c3\u03c9.",
+            "A preacher of righteousness (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03c5\u03bd\u03b7\u03c2 \u03ba\u03b7\u03c1\u03c5\u03ba\u03b1). 'Herald' as in 1 Timothy 2:7; 2 Timothy 1:11 alone in N.T.",
+            "Upon the world of the ungodly (\u03ba\u03bf\u03c3\u03bc\u03bf \u03b1\u03c3\u03b5\u03b2\u03c9\u03bd). The whole world were 'ungodly' (\u03b1\u03c3\u03b5\u03b2\u03b5\u03b9\u03c2 as in 1 Peter 4:18) save Noah's family of eight."
+        ],
+        "John Gill": [
+            "Noah, a preacher of righteousness, was saved.",
+            "False teachers...are ministers of unrighteousness; opposers of the righteousness of Christ.",
+            "A world of ungodly men were...at once swept away."
+        ],
+        "John Wesley": [
+            "And spared not the old, the antediluvian, world, but he preserved Noah the eighth person - that is, Noah and seven others, a preacher as well as practiser of righteousness.",
+            "Bringing a flood on the world of the ungodly \u2014 Whose numbers stood them in no stead."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The story of Noah and the flood illustrates the preservation of the righteous amidst a world of ungodliness. Noah, a righteous man and a preacher of righteousness, was saved along with seven others. The flood served as a reminder that sin cannot be committed with impunity, and that the incorrigibly wicked will face destruction. The fewness of the righteous in comparison to the multitude of the ungodly emphasizes the principle that the wicked will not escape judgment. The deluge of divine wrath highlights God's punishment for sin, with the whole world once being destroyed by it. This serves as a warning against false teachers, who are ministers of unrighteousness and oppose the righteousness of Christ. Ultimately, the flood teaches us to imitate the saints and seek righteousness in the midst of a wicked world.",
+            "wordCount": 135,
+            "quoteTokenProportion": 33.75,
+            "qualityScore": 2.2799001103292307,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.15,
+            "commentatorTierSimilarities": [
+                27.24,
+                35.31,
+                37.44
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The preservation of the righteous in the story of Noah and the flood reveals that sin cannot go unpunished. Noah, a preacher of righteousness, was saved along with seven others, while the ungodly world faced destruction. This underscores the principle that the wicked will not escape judgment. The flood serves as a reminder of God's wrath against sin and the consequences it carries. It also warns against false teachers who oppose righteousness. Noah's story encourages us to imitate the saints and seek righteousness in a wicked world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.231096616390838,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.52,
+            "commentatorTierSimilarities": [
+                28.51,
+                34.2,
+                37.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The flood in Noah's time serves as a powerful reminder that sin does not go unpunished. God spared Noah, a preacher of righteousness, along with seven others, while the ungodly world faced destruction. This highlights the principle that the wicked will not escape judgment. The flood stands as a testament to God's wrath against sin and the consequences it carries. Additionally, it serves as a warning against false teachers who oppose righteousness. Noah's story calls us to imitate the righteous and seek godliness in a corrupt world.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.2396819377959134,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+            "commentatorTierSimilarities": [
+                27.85,
+                35.47,
+                36.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Noah's story of preservation showcases the fate of the ungodly and the refuge found in righteousness. As a herald of righteousness, Noah called the wicked to repentance, but they refused and faced the flood's destruction. This event reveals that sin does not go unpunished, emphasizing God's judgment against the ungodly. In a world filled with evil, Noah's righteousness stood in stark contrast. His story serves as a warning against false teachers and encourages us to follow in the path of righteousness amidst a corrupt society.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.2361983195667414,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.69,
+            "commentatorTierSimilarities": [
+                29.61,
+                34.0,
+                36.39
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Noah, a preacher of righteousness, serves as an example of the righteous being preserved while the ungodly faced destruction. The flood demonstrates that sin does not go unpunished, emphasizing God's judgment against the wicked. With Noah and seven others saved, the flood underscores the principle that the wicked will face consequences. This story warns against false teachers who oppose righteousness and encourages us to imitate the saints in seeking righteousness amidst a sinful world.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.4361198296258104,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.34,
+            "commentatorTierSimilarities": [
+                28.54,
+                34.91,
+                36.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:37:45",
+    "verseRef": "Acts 28:23",
+    "bestBHT": {
+        "bht": "Paul spent the day in his lodging, expounding the spiritual principles of the kingdom and persuading the Jews about Jesus as the ordained and predicted Head. He drew arguments from the law of Moses and the prophets, giving full proof that the Messiah's kingdom was spiritual. Despite his earnest pleading, the majority remained unconvinced, and Paul likely gave up hope of changing Israel as a people, focusing instead on winning the despised Gentiles to his Master.",
+        "wordCount": 77,
+        "quoteTokenProportion": 28.07,
+        "qualityScore": 1.9359485406126684,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+        "commentatorTierSimilarities": [
+            23.78,
+            41.63,
+            34.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "23. his lodging] Probably the \u201chired house\u201d of ver. 30: hardly, as Olshausen thinks, the house of Aquila."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "opening up the great spiritual principles of that kingdom in opposition to the contracted and secular views of it entertained by the Jews.",
+            "persuading them concerning Jesus\u2014as the ordained and predicted Head of that kingdom.",
+            "drawing his materials and arguments from a source mutually acknowledged."
+        ],
+        "Albert Barnes": [
+            "He expounded - He explained or declared the principles of the Christian religion.",
+            "And testified the kingdom of God - Bore witness to, or declared the principles and doctrines of the reign of the Messiah.",
+            "From morning till evening - An instance of Paul\u2019s indefatigable toil in endeavoring to induce his countrymen to believe in Jesus as the Messiah."
+        ],
+        "Philip Schaff": [
+            "The majority of the listeners remained unconvinced. The long and earnest pleading of Paul with his countrymen dwelling in the queen city, availed nothing.",
+            "There is something terribly dramatic in the words of the Isaiah blessing and the Isaiah curse which the sorrowful servant of Jesus Christ pronounced, as the Hebrew rejecters of the glorious message of his Divine Master departed from his prison chamber that same evening, resolved to see his face no more.",
+            "From that hour it is probable that Paul for the remainder of his life gave up the hope of touching the heart of Israel as a people, and devoted the few remaining years of his noble life to winning to his loving Master\u2019s side the hated and despised Gentile nations."
+        ],
+        "Archibald T. Robertson": [
+            "Appointed (\u03c4\u03b1\u03be\u03b1\u03bc\u03b5\u03bd\u03bf). First aorist middle participle of \u03c4\u03b1\u03c3\u03c3\u03c9. Formal arrangement as in Matthew 28:16 when Jesus appointed the mountain for his meeting in Galilee.",
+            "In great number (\u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03b5\u03c2). Comparative of \u03c0\u03bf\u03bb\u03c5\u03c2, 'more than a few.'",
+            "Expounded (\u03b5\u03be\u03b5\u03c4\u03b9\u03b8\u03b5\u03c4\u03bf). Imperfect middle of \u03b5\u03ba\u03c4\u03b9\u03b8\u03b7\u03bc, to set forth, as in Acts 11:4; Acts 18:26. He did it with detail and care and spent all day at it, 'from morning till evening' (\u03b1\u03c0\u03bf \u03c0\u03c1\u03c9 \u03b5\u03c9\u03c2 \u03b5\u03c3\u03c0\u03b5\u03c1\u03b1\u03c2)."
+        ],
+        "John Gill": [
+            "And testified the kingdom of God; or the kingdom of the Messiah, which oftentimes signifies the Gospel, and the Gospel dispensation: he produced full and sufficient proofs and testimonies from prophecies, miracles, and facts, that the kingdom of the Messiah was come.",
+            "concerning these he persuaded the Jews, setting things in a clear light, using strong arguments to convince them, and giving full proof, as the nature of them would admit of; and which is no other than moral persuasion, and is of itself ineffectual; efficacious persuasion is only of God.",
+            "Both out off the law of Moses: not the law of the ten commandments, given on Mount Sinai to Moses, who delivered it to the children of Israel, and is opposed to the doctrine of grace and truth, which came by Jesus Christ, John 1:17; that accuses and convinces of sin, and pronounces guilty, and curses for it; but does not reveal Jesus Christ as a Saviour from it."
+        ],
+        "John Wesley": [
+            "That the kingdom of the Messiah was of a spiritual, not temporal nature",
+            "Jesus of Nazareth was the very person foretold, as the Lord of that kingdom",
+            "Their will making as strong a resistance as their understanding"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, in his lodging, spent the entire day opening up the great spiritual principles of the kingdom of God to the Jews, persuading them concerning Jesus as the ordained and predicted Head of that kingdom. He drew his arguments from a source mutually acknowledged, both out of the law of Moses and the prophets, giving full proof that the kingdom of the Messiah was of a spiritual nature and that Jesus of Nazareth was the very person foretold as the Lord of that kingdom. Despite Paul's diligence and earnest pleading, the majority of the listeners remained unconvinced, and from that hour, Paul likely gave up hope of touching the heart of Israel as a people, devoting his remaining years to winning the despised Gentile nations.",
+            "wordCount": 126,
+            "quoteTokenProportion": 23.68,
+            "qualityScore": 1.9959232944696201,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                22.83,
+                41.38,
+                35.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In his lodging, Paul expounded the great spiritual principles of the kingdom, persuading the Jews regarding Jesus as the Head. He drew his arguments from the law of Moses, showing that the kingdom of the Messiah was of a spiritual nature. Despite Paul's efforts, the majority remained unconvinced, leading him to give up hope of touching the heart of Israel. Instead, he devoted his remaining years to winning the despised Gentile nations to his loving Master's side.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.7929061298286433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                24.05,
+                43.43,
+                32.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, in his lodging, spent the entire day opening up the great spiritual principles of the kingdom of God, persuading the Jews concerning Jesus as the ordained and predicted Head of that kingdom. He drew his arguments from a source mutually acknowledged, both out of the law of Moses and the prophets, giving full proof that the kingdom of the Messiah was of a spiritual nature. Despite Paul's earnest pleading, the majority remained unconvinced, leading him to give up hope of touching the heart of Israel as a people and devoting his remaining years to winning the despised Gentile nations to his loving Master's side.",
+            "wordCount": 107,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.9858538219646333,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                24.14,
+                41.85,
+                34.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In his lodging, Paul expounded the great spiritual principles of the kingdom, persuading the Jews regarding Jesus as the Head. He drew his arguments from the law of Moses, showing that the kingdom of the Messiah was of a spiritual nature. Despite Paul's efforts, the majority remained unconvinced, leading him to give up hope of touching the heart of Israel. Instead, he devoted his remaining years to winning the despised Gentile nations to his loving Master's side.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.7929061298286433,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                24.05,
+                43.43,
+                32.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul spent the day in his lodging, expounding the spiritual principles of the kingdom and persuading the Jews about Jesus as the ordained and predicted Head. He drew arguments from the law of Moses and the prophets, giving full proof that the Messiah's kingdom was spiritual. Despite his earnest pleading, the majority remained unconvinced, and Paul likely gave up hope of changing Israel as a people, focusing instead on winning the despised Gentiles to his Master.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.9359485406126684,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+            "commentatorTierSimilarities": [
+                23.78,
+                41.63,
+                34.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

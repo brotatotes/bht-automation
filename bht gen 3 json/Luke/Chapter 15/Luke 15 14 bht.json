@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:20:28",
+    "verseRef": "Luke 15:14",
+    "bestBHT": {
+        "bht": "The famine depicted in this story parallels the prodigal son's spiritual journey, highlighting the emptiness and consequences of his sinful actions. As he experiences this famine, he becomes acutely aware of the evil in his surroundings and the need for a transformation. These external circumstances hasten the effects of sin, leading him to a crucial crossroad of either despair or repentance. Sin depletes a person of all that is good, leaving them in a state of longing and misery, emphasizing the dire consequences of spiritual emptiness.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.9271933783809152,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+        "commentatorTierSimilarities": [
+            23.46,
+            36.56,
+            39.98
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This famine is the shepherd seeking his stray sheep\u2014the woman sweeping to find the lost.",
+            "The famine, in the interpretation, is to be subjectively taken; he begins to be in want.",
+            "To feel the emptiness of soul which precedes either utter abandonment or true penitence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A mighty famine\u2014a mysterious providence holding back the famine till he was in circumstances to feel it in all its rigor.\" ",
+            "Thus, like Jonah, whom the storm did not overtake till on the mighty deep at the mercy of the waves, does the sinner feel as if 'the stars in their courses were fighting against' him.\" ",
+            "In want\u2014the first stage of his bitter experience, and preparation for a change."
+        ],
+        "Albert Barnes": [
+            "Famines were common in Eastern nations.\" (Luke 15:14)",
+            "They were caused by the failure of the crops - by a want of timely rains, a genial sun, or sometimes by the prevalence of the plague or of the pestilence...\" (Luke 15:14)",
+            "In this case it is very naturally connected with the luxury, the indolence, and the dissipation of the people in that land...\" (Luke 15:14)"
+        ],
+        "Marvin Vincent": [
+            "Want is characteristic of the 'far country.' The prodigal feels the evil of his environment.\" ",
+            "He (with a shade of emphasis) began to be in want.",
+            "To be in want [\u03c5\u03c3\u03c4\u03b5\u03c1\u03b5\u03b9\u03c3\u03b8\u03b1\u03b9] . From usterov, behind. Compare our phrase of one in straitened circumstances, to fall behind."
+        ],
+        "Philip Schaff": [
+            "The enjoyment of sin is brief.",
+            "External circumstances hasten the consequences of sin, and are used by God to lead to repentance.",
+            "Conscious emptiness of soul must lead one way or the other; to despair or to repentance."
+        ],
+        "Archibald T. Robertson": [
+            "The very land was in a famine when the boy had spent all.",
+            "The verb is here used in a bad sense as in James 4:3.",
+            "We use 'fall behind' (Vincent) of one in straitened circumstances."
+        ],
+        "John Gill": [
+            "Sin strips a man of all that is good and valuable; of the image of God, of the knowledge of divine things, of natural holiness, of moral righteousness, and of strength to perform moral good; hence man is in a wretched and miserable condition.",
+            "Sin brings men into a starving and famishing condition; for in the far country, the land of sin, there is a famine of the word: though the Gospel is preached, it is only food to spiritual persons; unregenerate men have no desire to it, but neglect and despise it.",
+            "An unregenerate man is in want of every thing that is good; of wisdom and knowledge, of grace and holiness, of righteousness or clothing, of food, and of all the necessaries of life."
+        ],
+        "John Wesley": [
+            "He began to be in want \u2014 All his worldly pleasures failing, he grew conscious of his want of real good."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Luke 15:14, we see the prodigal son reaching a point of emptiness and need due to a famine. This famine serves as a symbolic representation of his soul's emptiness and the consequences of his sinful lifestyle. It is through this famine that he begins to feel the effects of his choices and the evil of his environment in the far country. The famine acts as a catalyst for change, leading the prodigal son to a crucial turning point where he must choose despair or repentance. The external circumstances of the famine hasten the consequences of his sin and serve as a means for God to bring him to a place of repentance. Ultimately, this verse highlights the inescapable need and emptiness that sin brings, stripping a person of all that is good and valuable.",
+            "wordCount": 135,
+            "quoteTokenProportion": 31.08,
+            "qualityScore": 1.9795702423105812,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                27.1,
+                34.31,
+                38.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the prodigal son experiences a famine that symbolizes his soul's emptiness and the consequences of his sinful lifestyle. This famine acts as a turning point, where he becomes aware of his need for real goodness and the evil of his environment. The external circumstances of the famine hasten the consequences of his sin and prompt him to either despair or repentance. The emptiness and want caused by sin strip a person of all that is good, leaving them in a wretched and miserable condition.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.959928074777371,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.51,
+            "commentatorTierSimilarities": [
+                23.97,
+                34.63,
+                41.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The famine in this account serves as a powerful image of the prodigal son's inner emptiness, a consequence of his sinful choices. Through this famine, he begins to realize the evil of his environment and the need for a change. The external circumstances of the famine accelerate the effects of his sin and can lead to either despair or repentance. Sin, ultimately, strips a person of everything good and valuable, leaving them in a pitiful state of want and misery.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.915090681812393,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                25.55,
+                34.96,
+                39.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The famine depicted in this story parallels the prodigal son's spiritual journey, highlighting the emptiness and consequences of his sinful actions. As he experiences this famine, he becomes acutely aware of the evil in his surroundings and the need for a transformation. These external circumstances hasten the effects of sin, leading him to a crucial crossroad of either despair or repentance. Sin depletes a person of all that is good, leaving them in a state of longing and misery, emphasizing the dire consequences of spiritual emptiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9271933783809152,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.42,
+            "commentatorTierSimilarities": [
+                23.46,
+                36.56,
+                39.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The famine in this story represents the prodigal son's deep spiritual emptiness brought on by his sinful choices. It serves as a catalyst for change, pushing him to confront the evil and dissatisfaction in his surroundings. These external circumstances accelerate the consequences of his actions and leave him with a choice: despair or repentance. Sin strips a person of all that is good, leaving them in a state of desperate need and misery, highlighting the devastating effects of spiritual emptiness.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.8081758020429808,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                25.01,
+                35.43,
+                39.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

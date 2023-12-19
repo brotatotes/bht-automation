@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 15:07:03",
+    "verseRef": "1 Corinthians 7:25",
+    "bestBHT": {
+        "bht": "The instruction for virgins pertains not just to unmarried individuals, but centers on the commandment of the Lord. Paul, faithfully stewarding the hidden things of God, offers his opinion under the ordinary inspiration accompanying the apostles. While it may be viewed as a disclaimer of inspiration, it is, in fact, an assertion of divine aid in forming the considered judgment\u2014an inspired opinion, not a direct command. The advice of a devoted and experienced Christian deserves respectful heed, especially when grounded in divine truth rather than human tradition.",
+        "wordCount": 88,
+        "quoteTokenProportion": 34.33,
+        "qualityScore": 1.9665309510087812,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+        "commentatorTierSimilarities": [
+            35.95,
+            34.06,
+            29.99
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "virgins is not to be understood unmarried persons of both sexes... The emphasis is on commandment\u2014command of the Lord have I none, i.e., no expressed precept.\" ",
+            "to be faithful, ie., as a steward and dispenser of the hidden things of God, and, among them, of such directions as you cannot make for yourselves, but require one so entrusted to impart to you.",
+            "This sense, which has occurred in the estimate given of himself in this very Epistle, is better than the more general ones of true or believing."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I have no express revelation from the Lord commanding it, but I give my judgment (opinion); namely, under the ordinary inspiration which accompanied the apostles in all their canonical writings.",
+            "The Lord inspires me in this case to give you only a recommendation, which you are free to adopt or reject\u2014not a positive command.",
+            "He attributes his apostleship and the gifts accompanying it (including inspiration) to God's grace alone."
+        ],
+        "Albert Barnes": [
+            "It is known that that opinion had an early prevalence, and gave rise to the establishment of 'nunneries' in the papal church; an opinion that has everywhere been attended with licentiousness and corruption.",
+            "Yet I give my judgment - I give my opinion, or advice.",
+            "The advice of 'such' a man - a devoted, faithful, self-denying, experienced Christian - is entitled to respectful deference, even where there is no claim to inspiration."
+        ],
+        "Marvin Vincent": [
+            "The use of the word by ecclesiastical writers for an unmarried man has no warrant in classical usage.\" ",
+            "The meaning is unquestionable.\" ",
+            "In every other case in the New Testament the meaning is unquestionable."
+        ],
+        "John Calvin": [
+            "I give you my authoritative decision as to this matter.",
+            "Whatever things have been introduced into the Church by human authority have nothing in common with this advice of Paul.",
+            "It is not enough for a teacher to be conscientious, if he has not also prudence and acquaintance with the truth."
+        ],
+        "Archibald T. Robertson": [
+            "Paul did have (verse 1 Corinthians 7:10) a command from the Lord as we have in Matthew and Mark. It was quite possible for Paul to know this command of Jesus as he did other sayings of Jesus (Acts 20:35) even if he had as yet no access to a written gospel or had received no direct revelation on the subject from Jesus (1 Corinthians 11:23). Sayings of Jesus were passed on among the believers.\" ",
+            "But I give my judgment (\u03b3\u03bd\u03c9\u03bc\u03b7\u03bd \u03b4\u03b5 \u03b4\u03b9\u03b4\u03c9\u03bc). About mixed marriages (1 Corinthians 7:12-16) Paul had the command of Jesus concerning divorce to guide him. Here he has nothing from Jesus at all. So he gives no 'command,' but only 'a judgment,' a deliberately formed decision from knowledge (2 Corinthians 8:10), not a mere passing fancy.\" ",
+            "This language, so far from being a disclaimer of inspiration, is an express claim to help from the Lord in the forming of this duly considered judgment, which is in no sense a command, but an inspired opinion."
+        ],
+        "John Gill": [
+            "I have no commandment of the Lord...nothing is therein enjoined concerning celibacy.\" ",
+            "The apostle does not make use of his power and authority...only humbly and modestly gives his opinion.",
+            "When a man is free and faithful, and openly and honestly tells his mind, it greatly recommends him, and commands attention and regard to what he says."
+        ],
+        "John Wesley": [
+            "I have no commandment from the Lord \u2014 By a particular revelation.",
+            "Nor was it necessary he should; for the apostles wrote nothing which was not divinely inspired.",
+            "And this, also, was not their private opinion, but a divine rule of faith and practice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Regarding the instruction for virgins in 1 Corinthians 7:25, it is important to note that the emphasis is on the commandment of the Lord, not on unmarried individuals. Paul, as a faithful steward of God's hidden things, imparts his opinion rather than a direct command. While some may interpret this as a disclaimer of inspiration, it is actually an assertion of divine assistance in forming this judgment. The advice of a devoted and experienced Christian like Paul deserves respectful consideration, even without a claim to inspiration. Thus, his guidance, which is an inspired opinion, should be valued and followed, as it is aligned with divine truth rather than human tradition.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 2.068564634687577,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                35.03,
+                34.57,
+                30.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In regard to the instruction for virgins, it is important to distinguish that the focus lies on the command of the Lord rather than on the marital status of individuals. Paul, as a faithful steward, provides his opinion under the ordinary inspiration he received as an apostle. This advice, though not a direct command, should not be regarded as a disclaimer of inspiration. Rather, it is an assurance of divine assistance in forming this inspired judgment, deserving respectful consideration and adherence, as it harmonizes with divine truth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.8580745946015005,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.12,
+            "commentatorTierSimilarities": [
+                34.48,
+                34.72,
+                30.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 1 Corinthians 7:25, the instruction for virgins is not limited to unmarried individuals, but rather emphasizes the commandment of the Lord. Paul, as a faithful steward, imparts his opinion guided by God's inspiration, making it an inspired judgment. While not a direct command, his advice should be respected and followed as it aligns with divine truth rather than human tradition. Therefore, the faithful guidance of a devoted Christian like Paul is worthy of consideration and adherence.",
+            "wordCount": 76,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.042058414134249,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.24,
+            "commentatorTierSimilarities": [
+                35.17,
+                33.4,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The instruction for virgins pertains not just to unmarried individuals, but centers on the commandment of the Lord. Paul, faithfully stewarding the hidden things of God, offers his opinion under the ordinary inspiration accompanying the apostles. While it may be viewed as a disclaimer of inspiration, it is, in fact, an assertion of divine aid in forming the considered judgment\u2014an inspired opinion, not a direct command. The advice of a devoted and experienced Christian deserves respectful heed, especially when grounded in divine truth rather than human tradition.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.9665309510087812,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                35.95,
+                34.06,
+                29.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Regarding the instruction for virgins, the focus lies on the commandment of the Lord, rather than on the marital status of individuals. Paul, as a faithful steward of God's hidden things, imparts his opinion under the guidance of ordinary inspiration. While this may be perceived as a disclaimer of inspiration, it is, in fact, an assertion of divine assistance in forming this judgment\u2014an inspired opinion rather than a direct command. The advice of a devoted and experienced Christian deserves respectful consideration, as it aligns with divine truth.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.950171941744148,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.18,
+            "commentatorTierSimilarities": [
+                34.02,
+                35.92,
+                30.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

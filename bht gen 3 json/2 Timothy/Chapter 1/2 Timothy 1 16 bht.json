@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 17:30:15",
+    "verseRef": "2 Timothy 1:16",
+    "bestBHT": {
+        "bht": "May the Lord give mercy to the house of Onesiphorus, because on many occasions he refreshed me and was not ashamed of my chain. He did not shrink from me because I was a prisoner, but made that very fact his reason for seeking me out more diligently. Onesiphorus himself was no longer living at this time, but his acts of mercy live on. God blesses not only the righteous man himself, but all his household. Let us be inspired by the example of Onesiphorus and show kindness and refreshment to those in need.",
+        "wordCount": 94,
+        "quoteTokenProportion": 55.88,
+        "qualityScore": 1.9241356649853092,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+        "commentatorTierSimilarities": [
+            41.08,
+            32.51,
+            26.42
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "May the Lord give mercy to the house of Onesiphorus, because on many occasions he refreshed me and was not ashamed of my chain.\" ",
+            "He did not shrink from me because I was a prisoner, but made that very fact his reason for seeking me out more diligently.\" ",
+            "Onesiphorus himself was no longer living at this time."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Lord give mercy\u2014even as ONESIPHORUS had abounded in works of mercy.",
+            "His household would hardly retain his name after the master was dead, as BENGEL supposes him to have been.",
+            "God blesses not only the righteous man himself, but all his household."
+        ],
+        "Albert Barnes": [
+            "The Lord give mercy unto the house of Onesiphorus - The family of Onesiphorus - for so the word house is often used.",
+            "He was himself still living... but not improbably then absent from his home.",
+            "He was evidently of Asia, and is the only one who is mentioned from that region who had showed the apostle kindness in his trials."
+        ],
+        "Marvin Vincent": [
+            "Refreshed... Originally to cool; to revive by fresh air.",
+            "Once in Paul... It may mean handcuffs or manacles.",
+            "See Hdt 9:74; Eurip. Orest. 984. Mark 5:4 is not decisive."
+        ],
+        "John Calvin": [
+            "From this prayer we infer, that the good offices done to the saints are not thrown away, even though they cannot recompense them; for, when he prays to God to reward them, this carries in it the force of a promise.",
+            "What if he had possessed abundant means of remuneration? Undoubtedly he would have manifested that he was not ungrateful.",
+            "So great is the love of God toward his people, that it diffuses itself over all who are connected with them."
+        ],
+        "Philip Schaff": [
+            "The expression 'to the house of Onesiphorus,' suggests, though it cannot be said to prove, the supposition that he himself was dead.",
+            "Acts of kindness were to the heart of St. Paul as a cool breeze in the parching heat, as water to the thirsty, as the shadow of a rock in a weary land.",
+            "The word is obviously chosen to remind Timothy of the weakness which had made St. Paul\u2019s entreaty in 2 Timothy 1:3 a painful necessity."
+        ],
+        "Archibald T. Robertson": [
+            "Grant mercy (\u03b4\u03c9\u03b9\u03b7 \u03b5\u03bb\u03b5\u03bf\u03c2). The phrase nowhere else in the N.T.\" ",
+            "Unto the house of Onesiphorus (\u03c4\u03c9 \u039f\u03bd\u03b7\u03c3\u03b9\u03c6\u03bf\u03c1\u03bf\u03c5 \u03bf\u03b9\u03ba\u03c9). The same phrase in 2 Timothy 4:19. Apparently Onesiphorus is now dead as is implied.",
+            "For he oft refreshed me (\u03bf\u03c4 \u03c0\u03bf\u03bb\u03bb\u03b1\u03ba\u03b9\u03c2 \u03bc\u03b5 \u03b1\u03bd\u03b5\u03c8\u03c5\u03be\u03b5\u03bd). First aorist active indicative of \u03b1\u03bd\u03b1\u03c8\u03c5\u03c7\u03c9, old verb, to cool again... If he lost his life for coming to see Paul, it was probably recently during this imprisonment."
+        ],
+        "John Gill": [
+            "He answered to his name, which signifies, 'one that brings profit':",
+            "Onesiphorus was not ashamed of the apostle, though he was bound with a chain; nor was he ashamed of the cause for which he suffered:",
+            "The apostle proposes him to Timothy, as an example worthy of imitation, in those times of defection."
+        ],
+        "John Wesley": [
+            "The family of Onesiphorus \u2014 As well as himself.",
+            "Hath often refreshed me \u2014 Both at Ephesus and Rome."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "May the Lord give mercy to the family of Onesiphorus, for he was not ashamed of my chains but instead sought me out diligently, refreshing me on many occasions. Though Onesiphorus himself is no longer living, his acts of mercy continue to bear fruit. The words used to describe his kindness, to cool and revive, exemplify the comfort and support he offered Paul. His actions were not in vain, for God blesses not only the righteous individual but also their household. May we too follow the example of Onesiphorus and show kindness and refreshment to those in need.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.8273670254592984,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                35.69,
+                35.18,
+                29.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "May the Lord show mercy to the family of Onesiphorus, who consistently refreshed and did not shrink from Paul, even in his chains. Though Onesiphorus has passed away, his acts of mercy continue to be remembered. God blesses not only the righteous person themselves, but also their household. Onesiphorus exemplified kindness and refreshment, providing comfort and support. Let us learn from his example and extend acts of kindness and refreshment to those around us.",
+            "wordCount": 74,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.6887455394565607,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.49,
+            "commentatorTierSimilarities": [
+                36.67,
+                31.67,
+                31.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "May the Lord give mercy to the house of Onesiphorus, because on many occasions he refreshed me and was not ashamed of my chain. He did not shrink from me because I was a prisoner, but made that very fact his reason for seeking me out more diligently. Onesiphorus himself was no longer living at this time, but his acts of mercy live on. God blesses not only the righteous man himself, but all his household. Let us be inspired by the example of Onesiphorus and show kindness and refreshment to those in need.",
+            "wordCount": 94,
+            "quoteTokenProportion": 55.88,
+            "qualityScore": 1.9241356649853092,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.32,
+            "commentatorTierSimilarities": [
+                41.08,
+                32.51,
+                26.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "May the Lord give mercy to the house of Onesiphorus, for he often refreshed Paul and was not ashamed of his chains. Though Onesiphorus is no longer alive, his acts of mercy continue to speak volumes. God's blessings extend not only to the righteous person, but also to their entire household. Let us take inspiration from Onesiphorus and seek opportunities to bring refreshment and kindness to those around us, just as he did for Paul.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.21,
+            "qualityScore": 1.881919219275713,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                38.3,
+                33.64,
+                28.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "May the Lord give mercy to the house of Onesiphorus, for he often refreshed Paul and was not ashamed of his chains. Though Onesiphorus is no longer alive, his acts of mercy continue to be celebrated. God blesses not just the righteous person, but their entire household. Let us emulate Onesiphorus and offer refreshment and kindness to those in need, just as he did for Paul.",
+            "wordCount": 66,
+            "quoteTokenProportion": 48.98,
+            "qualityScore": 1.939648898170732,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.83,
+            "commentatorTierSimilarities": [
+                38.09,
+                33.76,
+                28.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

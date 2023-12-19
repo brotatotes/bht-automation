@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:18:44",
+    "verseRef": "Luke 12:27",
+    "bestBHT": {
+        "bht": "Consider the lilies how they grow, for what is afterwards said is true of any of them, but particularly of the lilies. They toil not, they spin not; they neither labor as men do, and yet I say unto you, that Solomon in all his glory was not arrayed like one of these. Their beauty and glory are natural, whereas his was but an artificial imitation of nature.",
+        "wordCount": 68,
+        "quoteTokenProportion": 60.78,
+        "qualityScore": 1.3004139096766962,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+        "commentatorTierSimilarities": [
+            15.54,
+            0.0,
+            84.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "22-31. (See on :-)."
+        ],
+        "Marvin Vincent": [
+            "How they grow. Some texts omit they grow, and read how they toil not, etc. ",
+            "Toil - spin [\u03ba\u03bf\u03c0\u03b9\u03b1\u03bd\u03b7\u03b8\u03b5\u03b9] . Some read, instead of toil, uJfainei, weave."
+        ],
+        "John Gill": [
+            "Consider the lilies how they grow... for what is afterwards said, is true of any of them, but particularly of the lilies.\" ",
+            "They toil not, they spin not; they neither labour as men do... and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.\" ",
+            "Its glory being natural to it, whereas his, at best, was but artificial, and an imitation of nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Consider the lilies how they grow, for what is afterwards said is true of any of them, but particularly of the lilies. They toil not, they spin not; they neither labor as men do, and yet I say unto you, that Solomon in all his glory was not arrayed like one of these. Their beauty and glory are natural, whereas his was but an artificial imitation of nature.",
+            "wordCount": 68,
+            "quoteTokenProportion": 60.78,
+            "qualityScore": 1.3004139096766962,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.58,
+            "commentatorTierSimilarities": [
+                15.54,
+                0.0,
+                84.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Consider the lilies how they grow and how they toil not, neither do they spin. The beauty of the lilies, with their natural glory, surpasses even the splendor of Solomon's artificial adornment. Just as the lilies do not struggle or labor to grow, we too can find rest in trusting that God will provide for our needs. We can learn from the lilies to embrace a life of simplicity, relying on God's provision rather than striving in our own strength.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.207620208164415,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                31.31,
+                0.0,
+                68.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Consider the lilies how they grow and how they toil not, neither do they spin. The beauty of the lilies, with their natural glory, surpasses even the splendor of Solomon's artificial adornment. Just as the lilies do not struggle or labor to grow, we too can find rest in trusting that God will provide for our needs. We can learn from the lilies to embrace a life of simplicity, relying on God's provision rather than striving in our own strength.",
+            "wordCount": 82,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 1.207620208164415,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.5,
+            "commentatorTierSimilarities": [
+                31.31,
+                0.0,
+                68.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Consider the lilies, how they grow without toiling or spinning. Their natural beauty far surpasses Solomon's artificial glory. Just as the lilies rely on the providence of God without laboring, we too can find peace in trusting His provision. Let us learn from the lilies and embrace a life of simplicity, free from the relentless striving of the world, knowing that God will care for us with His abundant grace.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.0283097170728401,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.54,
+            "commentatorTierSimilarities": [
+                31.0,
+                0.0,
+                69.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Consider the lilies, how they grow without laboring or spinning. Their natural beauty exceeds the artificial glory of Solomon. Just as the lilies rely on God's provision, we should embrace a life of simplicity, trusting that He will care for us. Let us learn from the lilies to let go of the endless striving of the world and find rest in God's abundant grace.",
+            "wordCount": 66,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.0439352755761024,
+            "qualityScoreNormalizedComparedToV2BHTs": 26.05,
+            "commentatorTierSimilarities": [
+                28.95,
+                0.0,
+                71.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

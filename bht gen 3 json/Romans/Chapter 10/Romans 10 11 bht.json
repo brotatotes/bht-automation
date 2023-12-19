@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:07:39",
+    "verseRef": "Romans 10:11",
+    "bestBHT": {
+        "bht": "As the scripture declares, Whosoever believeth on Him shall not be ashamed, echoing the prophetic words of Isaiah 28:16, it emphasizes the inclusive nature of faith in Christ. Paul reinforces this truth by adding the word everyone to the original quote, emphasizing that this promise applies universally. This assurance assures all, regardless of their background, that those who place their faith in Christ will experience salvation and will not encounter shame or disappointment.",
+        "wordCount": 72,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.310918580577817,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+        "commentatorTierSimilarities": [
+            37.94,
+            30.84,
+            31.22
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "11.] For (proof of the former part of ver. 10) the scripture saith, Whosoever believeth on Him shall not be ashamed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Whosoever believeth on him shall not be ashamed\u2014Here, as in Isaiah 28:16- :, the quotation is from the Septuagint, which renders those words of the original, 'shall not make haste' (that is, fly for escape, as from conscious danger), 'shall not be put to shame,' which comes to the same thing.",
+            "For the scripture saith\u2014in Isaiah 28:16, a glorious Messianic passage.",
+            "which comes to the same thing."
+        ],
+        "Albert Barnes": [
+            "This was the uniform doctrine of the Scripture, that he who holds an opinion on the subject of religion will not be ashamed to avow it.",
+            "This is the nature of religion, and without this there can be none.",
+            "See this passage explained in Romans 9:33."
+        ],
+        "Marvin Vincent": [
+            "The scripture saith. The quotation from Isaiah 28:16 is repeated (see ch. 9 33) with the addition of everyone, whosoever."
+        ],
+        "John Calvin": [
+            "He returns to prove the calling of the Gentiles, which is the other part of the question which he is discussing.",
+            "He repeats the testimony which he had before adduced from Isaiah, that what he said might have more authority.",
+            "It might also be evident, how well the prophecies concerning Christ harmonize with the law."
+        ],
+        "Philip Schaff": [
+            "For the Scripture saith...After the extended proof that \u2018Christ is the end of the law unto righteousness to every one that believeth,\u2019 the passage is introduced again to confirm that statement.\" (33 words)",
+            "Strictly speaking \u2018for\u2019 furnishes a proof of the former half of Romans 10:10.\" (16 words)",
+            "Whosoever, etc...this idea of universality...is not only been established in the intervening discussion, but is the theme of the succeeding verses.\" (29 words)"
+        ],
+        "Archibald T. Robertson": [
+            "Every one (\u03c0\u03b1\u03c2). Paul adds this word to the quotation from Isaiah 28:16 already made in Romans 9:33. "
+        ],
+        "John Gill": [
+            "Such who cordially believe in Christ, and make a sincere profession of their faith in him, shall be saved.",
+            "A certain truth it is, that whosoever believes in Christ, whether Jew or Gentile, be he who he will, shall surely be saved.",
+            "Whoever by faith builds on this foundation is safe and shall not be ashamed; neither in this world, nor in that to come."
+        ],
+        "John Wesley": [
+            "Isaiah 28:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scripture says, Whosoever believeth on Him shall not be ashamed, which comes from Isaiah 28:16. This verse confirms the universal nature of belief in Christ, extending salvation to all who have faith in Him. By adding the word everyone to the Isaiah quotation, Paul emphasizes that this promise of salvation applies to all. This passage serves as a firm assurance that anyone who believes in Christ, regardless of their background, will be saved and will not be ashamed.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.591546992824391,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.51,
+            "commentatorTierSimilarities": [
+                38.59,
+                30.01,
+                31.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The scripture affirms that those who believe in Christ will not be put to shame, as Isaiah 28:16 declares, Whosoever believeth on Him shall not be ashamed. Paul strengthens this proclamation by including the word everyone in the quotation, underscoring the universal invitation to salvation. This assurance assures us that anyone, irrespective of their background, who embraces Christ in faith will experience deliverance and will not face embarrassment or regret.",
+            "wordCount": 69,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.259943071410896,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.48,
+            "commentatorTierSimilarities": [
+                40.72,
+                28.91,
+                30.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The scripture declares that whoever believes in Christ will not be put to shame. This quote from Isaiah 28:16 is referred to by Paul to establish the universal nature of salvation. By adding the word everyone to the original verse, Paul emphasizes that this promise applies to all. It assures us that anyone, regardless of their background, who puts their faith in Christ will be saved and will not face embarrassment or disappointment.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.2955830888119557,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.67,
+            "commentatorTierSimilarities": [
+                38.03,
+                31.04,
+                30.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The scripture affirms that those who believe in Christ will not be ashamed, as it states, Whosoever believes on Him shall not be put to shame. This declaration, taken from Isaiah 28:16, underscores the universal invitation to salvation. By including the word everyone in the quote, Paul emphasizes that this promise extends to all. It assures us that anyone, regardless of their background, who embraces faith in Christ will find redemption and will not experience shame or regret.",
+            "wordCount": 77,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.195794926529012,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                38.14,
+                30.03,
+                31.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "As the scripture declares, Whosoever believeth on Him shall not be ashamed, echoing the prophetic words of Isaiah 28:16, it emphasizes the inclusive nature of faith in Christ. Paul reinforces this truth by adding the word everyone to the original quote, emphasizing that this promise applies universally. This assurance assures all, regardless of their background, that those who place their faith in Christ will experience salvation and will not encounter shame or disappointment.",
+            "wordCount": 72,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.310918580577817,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.18,
+            "commentatorTierSimilarities": [
+                37.94,
+                30.84,
+                31.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

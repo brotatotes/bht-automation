@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:21:11",
+    "verseRef": "Luke 17:32",
+    "bestBHT": {
+        "bht": "Remember Lot's wife. This caution serves as a pertinent illustration to warn against looking back with yearning after what has been left behind. Lot's wife, her heart still in Sodom, paid the price for her delayed departure. She became a type of earthly-mindedness and self-seeking, a warning to all who have taken a step towards salvation but do not hold out in the hour of decisive trial. The disciples are directed to be in haste, not to look back, not to delay, but to escape quickly.",
+        "wordCount": 90,
+        "quoteTokenProportion": 44.93,
+        "qualityScore": 2.0201497150155676,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+        "commentatorTierSimilarities": [
+            32.91,
+            34.48,
+            32.61
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "32.] A solemn caution is here added, binding the warning to the example before,\u2014let him not return back\u2014remember her who did."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Her heart was in Sodom still...\" ",
+            "Her 'look' just said, 'And must I bid it adieu?'\" ",
+            "...and her recorded doom."
+        ],
+        "Albert Barnes": [
+            "Remember Lot\u2019s wife - See Genesis 19:26.\" ",
+            "She looked back - she delayed.",
+            "Jesus directed his disciples... to be in haste - not to look back - not to delay - but to escape quickly."
+        ],
+        "Philip Schaff": [
+            "Remember Lot\u2019s wife. Her crime was still paying attention to what had been left behind in Sodom, her punishment was destruction while apparently on the way to safety.",
+            "She has become 'the type of earthly-mindedness and self-seeking.'",
+            "This caution was appropriate to \u2018disciples,\u2019 since Lot\u2019s wife represents, not those entirely careless, but those who have taken a step towards salvation, and yet do not hold out in the hour of decisive trial."
+        ],
+        "Archibald T. Robertson": [
+            "Remember Lot's wife. A pertinent illustration to warn against looking back with yearning after what has been left behind.",
+            "Remember Lot's wife. Warns against looking back with yearning after what has been left behind.",
+            "Remember Lot's wife. A warning against looking back with yearning after what has been left behind."
+        ],
+        "John Gill": [
+            "Remember Lot's wife.\" ",
+            "...not to look back in their flight, or to turn back to their houses, to save their goods, when the desolation of Jerusalem was coming on...",
+            "...warn all professors of religion, in all ages, against looking back to things that are behind, or turning their backs on him, in a time of distress and persecution..."
+        ],
+        "John Wesley": [
+            "Remember Lot's wife \u2014 And escape with all speed, without ever looking behind you. Luke 9:24; John 12:25."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Remember Lot's wife. This caution serves as a pertinent illustration to warn against looking back with yearning after what has been left behind. Lot's wife, her heart still in Sodom, paid the price for her delayed departure. She became a type of earthly-mindedness and self-seeking, a warning to all who have taken a step towards salvation but do not hold out in the hour of decisive trial. The disciples are directed to be in haste, not to look back, not to delay, but to escape quickly. In all ages, this warning applies to professors of religion, urging them not to turn their backs on Christ in times of distress and persecution.",
+            "wordCount": 115,
+            "quoteTokenProportion": 40.96,
+            "qualityScore": 1.924369746037001,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                31.91,
+                32.71,
+                35.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Remember Lot's wife. This caution serves as a pertinent illustration to warn against looking back with yearning after what has been left behind. Lot's wife, her heart still in Sodom, paid the price for her delayed departure. She became a type of earthly-mindedness and self-seeking, a warning to all who have taken a step towards salvation but do not hold out in the hour of decisive trial. The disciples are directed to be in haste, not to look back, not to delay, but to escape quickly.",
+            "wordCount": 90,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 2.0201497150155676,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.51,
+            "commentatorTierSimilarities": [
+                32.91,
+                34.48,
+                32.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Remember Lot's wife. This caution serves as a warning against looking back with yearning after what has been left behind. Lot's wife's heart was still in Sodom, and her delayed departure led to her recorded doom. She became a type of earthly-mindedness and self-seeking, reminding disciples not to look back, delay, or turn their backs on Christ in times of distress and persecution. The disciples are directed to be in haste, escape quickly, and not to look back in their flight.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.988615170537023,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                31.94,
+                32.85,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Remember Lot's wife. This warning cautions against looking back with yearning after what has been left behind. Lot's wife, whose heart was still in Sodom, met her recorded doom due to her delay. She became a type of earthly-mindedness and self-seeking, illustrating the danger for those who have taken a step towards salvation but do not hold out in the hour of decisive trial. The disciples are commanded not to look back, delay, or turn their backs on Christ in times of distress and persecution, but to escape quickly.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9764198892265759,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                32.87,
+                32.69,
+                34.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Remember Lot's wife. This warning serves as a pertinent illustration to caution against looking back with yearning after what has been left behind. Lot's wife, still attached to Sodom, met her recorded doom due to her delay. Her story stands as a type of earthly-mindedness and self-seeking, reminding disciples not to look back, delay, or turn their backs on Christ in times of distress and persecution. Rather, they are urged to escape quickly, leaving behind the things of the past.",
+            "wordCount": 84,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8901707075984029,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.19,
+            "commentatorTierSimilarities": [
+                35.0,
+                30.74,
+                34.26
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:24:09",
+    "verseRef": "Luke 24:33",
+    "bestBHT": {
+        "bht": "The disciples, undeterred by the prospect of traveling at night, hastened back to Jerusalem from Emmaus, their fear replaced with joy. Their exhilaration to convey the news to the apostles and others gathered was undeniable, as they disregarded their own need for rest to share the incredible encounter with the risen Savior. Their immediate response, arriving in Jerusalem despite the late hour, displayed their eagerness and added credibility to their testimony.",
+        "wordCount": 71,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 1.4269261269920803,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+        "commentatorTierSimilarities": [
+            22.77,
+            45.99,
+            31.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They have now no fear of the journey at night, from which they before dissuaded their unknown companion.\" ",
+            "The whole eleven were not there\u2014Thomas was not present.",
+            "Who them that were with them are, we learn from Acts i, 14."
+        ],
+        "Albert Barnes": [
+            "This was natural and proper, and it shows how quick and ready they who have found the Saviour are to tell it to others.",
+            "Young converts to Christ 'should hasten' to tell their joy, and should not shrink at self-denial to proclaim to others what God hath done for the soul.",
+            "The eleven - The eleven apostles. Judas was now dead. This shows that the two that went to Emmaus were not apostles."
+        ],
+        "John Calvin": [
+            "With what ardor those two men turned to convey the intelligence to their fellow-disciples.",
+            "As they chose rather to deprive themselves of the repose of the night than to allow the slightest delay in making the apostles partakers of their joy, the very haste gave additional credit to their narrative.",
+            "Now when Luke says that they arose in the same hour, it is probable that they came to the disciples about midnight."
+        ],
+        "Philip Schaff": [
+            "That very hour. Probably leaving the meal untouched. If the hour were six P.M., they would reach Jerusalem at no late hour, since their joy would occasion a rapid gait.",
+            "Gathered together. According to John 20:19, \u2018the doors were shut\u2019 \u2018for fear of the Jews.\u2019 We identify that appearance with that mentioned in the next section.",
+            "Them that were with them. John\u2019s account does not forbid the presence of others. Acts 1:14 tells who these persons were."
+        ],
+        "Archibald T. Robertson": [
+            "That very hour. They could not wait.\" ",
+            "Gathered. Only here in the N.T."
+        ],
+        "John Gill": [
+            "They immediately rose up from table",
+            "and returned to Jerusalem",
+            "and found the eleven gathered together"
+        ],
+        "John Wesley": [
+            "The same hour \u2014 Late as it was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples, no longer fearing the journey at night that they had warned their companion about earlier, hurriedly and joyfully made their way back to Jerusalem from Emmaus. Although Thomas was not present, they joined the eleven apostles and others who were gathered together. Their eagerness to share the news of their encounter with the risen Saviour led them to sacrifice their own rest, emphasizing the importance of proclaiming the truth of what God had done. This immediate response, even at a late hour, highlighted their fervor and strengthened the credibility of their testimony.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.3872319629186665,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.47,
+            "commentatorTierSimilarities": [
+                26.17,
+                42.26,
+                31.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples, undeterred by the prospect of traveling at night, hastened back to Jerusalem from Emmaus, their fear replaced with joy. Their exhilaration to convey the news to the apostles and others gathered was undeniable, as they disregarded their own need for rest to share the incredible encounter with the risen Savior. Their immediate response, arriving in Jerusalem despite the late hour, displayed their eagerness and added credibility to their testimony.",
+            "wordCount": 71,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.4269261269920803,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+            "commentatorTierSimilarities": [
+                22.77,
+                45.99,
+                31.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With no fear of the journey at night, the disciples swiftly returned to Jerusalem from Emmaus, promptly sharing their news with the gathered apostles. Their urgency to spread the message of the risen Savior triumphed over their need for rest, underscoring the significance of proclaiming God's work. Their immediate response, even at a late hour, conveyed their enthusiasm and bolstered the authenticity of their account.",
+            "wordCount": 66,
+            "quoteTokenProportion": 26.53,
+            "qualityScore": 1.2736272188398887,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.69,
+            "commentatorTierSimilarities": [
+                21.92,
+                45.95,
+                32.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples disregarded their prior concerns about journeying at night and eagerly returned to Jerusalem from Emmaus, wasting no time in sharing their divine encounter with the apostles. Their immediate response, despite the late hour, demonstrated their unwavering commitment to spreading the joyous news of the resurrected Savior. Their fervor and haste not only magnified the credibility of their account but also highlighted the importance of promptly communicating the transformative work of God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.2772973281758153,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.81,
+            "commentatorTierSimilarities": [
+                22.88,
+                47.18,
+                29.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Unfazed by the prospect of traveling at night, the disciples hastened back to Jerusalem from Emmaus, compelled to share their life-changing experience with the apostles. Their instant response, even at a late hour, showcased their ardor and reinforced the authenticity of their testimony. By prioritizing the immediate proclamation of the risen Savior, they exemplified the urgency and enthusiasm that should inspire all believers to eagerly spread the good news of what God has done in their lives.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.2568790187170058,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.13,
+            "commentatorTierSimilarities": [
+                20.74,
+                47.32,
+                31.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

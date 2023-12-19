@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 16:18:51",
+    "verseRef": "Luke 12:18",
+    "bestBHT": {
+        "bht": "The man's fourfold folly is evident in his forgetfulness of the Giver, his greedy reservation of his fruits and goods, his misguided belief in their ability to satisfy his soul, and his neglect of the reality of death. His plan to build bigger barns reflects his shortsightedness and disregard for the uncertainty of life. Ultimately, he will have to leave behind his earthly possessions and face the inevitable.",
+        "wordCount": 69,
+        "quoteTokenProportion": 27.66,
+        "qualityScore": 1.1618952073403426,
+        "qualityScoreNormalizedComparedToV2BHTs": 29.98,
+        "commentatorTierSimilarities": [
+            14.8,
+            25.48,
+            59.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His folly is fourfold:\u2014he forgets the Giver, ( 'my fruits, my goods,')\u2014he greedily reserves all for himself,\u2014he imagines such things to be food for his soul\u2014he forgets death, which is every day possible.\u201d Stier.",
+            "There is that waxeth rich by his wariness and pinching, and this is the portion of his reward: whereas be saith, I have found rest, and now will eat continually of my goods: and yet he knoweth not what time shall come upon him, and that he must leave these things to others, and die.\" Stier.",
+            "Stier thinks this a convincing proof that our Lord did occasionally refer to the Apocrypha."
+        ],
+        "Albert Barnes": [
+            "The word 'barns' here, properly means, 'granaries,' or places exclusively designed to put wheat, barley, etc.",
+            "They were commonly made, by the ancients, 'underground,' where grain could be kept a long time more safe from thieves and from vermin.",
+            "If it be asked why he did not let the old ones remain and build new ones, it may be answered that it would be easier to 'enlarge' those already excavated in the earth than to dig new ones."
+        ],
+        "Marvin Vincent": [
+            "Fruits [\u03b3\u03b5\u03bd\u03b7\u03bc\u03b1\u03c4\u03b1] . Some texts, however, read ton siton, my corn. So Rev."
+        ],
+        "Archibald T. Robertson": [
+            "I will pull down... my barns.\" ",
+            "My barns... all my corn.\" ",
+            "My goods... my good things."
+        ],
+        "John Gill": [
+            "This was the resolution he came to, and which he took up, without consulting God, or asking leave of him.\" ",
+            "He ascribes the increase of his substance to himself, and reckons them his own acquisitions, and entirely owing to his diligence and industry.",
+            "He determines to lay up all in his barns, for his own use and service, and nothing for God and his interest, nor any thing for the poor and their relief."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The man in this verse demonstrates his folly in several ways. First, he forgets the Giver, claiming ownership over his fruits and goods. Second, he selfishly reserves everything for himself, without considering the needs of others. Third, he mistakenly believes that material possessions will satisfy the hunger in his soul. Lastly, he conveniently forgets about death and the uncertainty of when it will come. The man's plan to build bigger barns reflects his shortsightedness and worldly focus. Ironically, this whole endeavor is futile as he will one day have to leave everything behind and face the reality of death.",
+            "wordCount": 100,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.006450436243519,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.81,
+            "commentatorTierSimilarities": [
+                21.05,
+                22.45,
+                56.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The man's folly lies in his forgetfulness of the Giver, selfishly reserving his fruits and goods for himself, and his mistaken belief that material possessions can satisfy the hunger in his soul. He foolishly disregards the reality of death and the uncertainty of when it will come. His plan to build bigger barns reveals his shortsightedness, as he fails to consider the fleeting nature of worldly possessions. Ultimately, he will have to leave everything behind and face the inevitability of death.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.0889832118682479,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.55,
+            "commentatorTierSimilarities": [
+                19.84,
+                27.13,
+                53.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The man's fourfold folly is evident in his forgetfulness of the Giver, his greedy reservation of his fruits and goods, his misguided belief in their ability to satisfy his soul, and his neglect of the reality of death. His plan to build bigger barns reflects his shortsightedness and disregard for the uncertainty of life. Ultimately, he will have to leave behind his earthly possessions and face the inevitable.",
+            "wordCount": 69,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 1.1618952073403426,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.98,
+            "commentatorTierSimilarities": [
+                14.8,
+                25.48,
+                59.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The man's folly is fourfold: he forgets the Giver and selfishly reserves his fruits and goods for himself, mistakenly believing they will satisfy his soul, while disregarding the reality of death. His plan to build larger barns demonstrates his shortsightedness and worldly focus, failing to consider the fleeting nature of material possessions. In the end, he will have to leave everything behind and confront the inevitability of death.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.1471843079917428,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.49,
+            "commentatorTierSimilarities": [
+                20.11,
+                25.3,
+                54.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The man in question demonstrates his folly in multiple ways. First, he forgets the Giver and selfishly reserves his fruits and goods for himself. Second, he deludes himself into thinking that these possessions can satisfy the hunger in his soul. Third, he conveniently forgets about death and the uncertainty of when it will come. Lastly, his plan to build bigger barns exposes his shortsightedness and worldly focus. Eventually, he will have to abandon everything he accumulated and confront the reality of his mortality.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.0259084458919272,
+            "qualityScoreNormalizedComparedToV2BHTs": 25.46,
+            "commentatorTierSimilarities": [
+                19.6,
+                19.76,
+                60.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

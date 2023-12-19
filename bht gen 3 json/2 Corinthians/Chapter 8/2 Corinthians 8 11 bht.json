@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 15:17:11",
+    "verseRef": "2 Corinthians 8:11",
+    "bestBHT": {
+        "bht": "Paul encourages the Corinthians to demonstrate the same eagerness to complete their act of giving as they had shown in the beginning. He urges them to contribute out of their own ability, emphasizing that the size of the gift is not as important as the willingness to give. Paul highlights the need for both a willing heart and the fulfillment of their pledges, reminding them to give according to what they have. Regardless of the amount, God values the disposition of the heart in their act of giving.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 1.56072974406731,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+        "commentatorTierSimilarities": [
+            34.03,
+            28.54,
+            37.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "My giving my opinion, rather than commanding, is expedient for you, who have already shewn yourselves so willing.\" ",
+            "The Corinthians had begun not only the second, but even the first of these, before the Macedonians. Long employed as they had then been in the matter, it was more creditable to them to receive advice from the Apostle, than command.\" ",
+            "Now shew not only the completion of a ready will in the act begun, but complete the act also."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The godly should show the same zeal to finish, as well as to begin well.",
+            "The worldly exhibit in their undertakings.",
+            "Complete the doing also."
+        ],
+        "Albert Barnes": [
+            "Do not suppose that the intention was sufficient, or that you are now released from the obligation.",
+            "The sentiment here is, that if we have felt it our duty to aid in a cause of benevolence, and have commenced it, and have then been interrupted in executing our purpose, we should seize the first favorable opportunity to accomplish what we had designed.",
+            "We should not regard ourselves as released from our obligation, but should, from a regard to consistency and our obligation to God, accomplish what we had intended."
+        ],
+        "Marvin Vincent": [
+            "Out of that which ye have. Wrong. Meyer justly remarks that it would be an indelicate compliment to the inclination of the readers, that it had originated from their possession.\" ",
+            "Render, according to your ability; better than Rev. out of your ability."
+        ],
+        "John Calvin": [
+            "Could I give so small a sum? All excuses of this nature Paul removes, when he commands every one to contribute according to the measure of his ability.",
+            "If from slender resources you present some small sum, your disposition is not less esteemed in the sight of God, than in the case of a rich man\u2019s giving a large sum from his abundance.",
+            "For the disposition is not estimated according to what you have not, that is, God does by no means require of thee, that thou coldest contribute more than thy resources allow.\u201d"
+        ],
+        "Philip Schaff": [
+            "2 Corinthians 8:11. But now complete the doing also; that as there was the readiness to will, so there may be the completion also out of your ability \u2018according to your means.\u2019",
+            "\t",
+            " "
+        ],
+        "Archibald T. Robertson": [
+            "The readiness to will (\u03b7 \u03c0\u03c1\u03bf\u03b8\u03c5\u03bc\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bb\u03b5\u03b9\u03bd). They were quick to pledge.\" ",
+            "The completion also (\u03ba\u03b1 \u03c4\u03bf \u03b5\u03c0\u03b9\u03c4\u03b5\u03bb\u03b5\u03c3\u03b1). The finishing also.",
+            "Out of your ability (\u03b5\u03ba \u03c4\u03bf\u03c5 \u03b5\u03c7\u03b5\u03b9\u03bd). 'Out of the having,' literally, and so, 'out of what you can give'."
+        ],
+        "John Gill": [
+            "Both should go together: that as there was a readiness to will, so there may be a performance also.",
+            "They had it in the power of their hands, more or less, to act.",
+            "Give 'out of that which you have', be it less or more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In 2 Corinthians 8:11, the Apostle Paul expresses his desire to offer an opinion rather than a command to the Corinthians, who had already shown willingness in their giving. He commends their zeal to begin well but urges them to also complete the act of giving according to their ability. Paul emphasizes that the completion of a good intention is just as important as the initial willingness, highlighting the need for both to go hand in hand. Regardless of the size of the contribution, God values the disposition of the heart, be it a small sum from scarce resources or a large sum from abundance. Essentially, Paul encourages the Corinthians to give out of what they have, whether it be less or more, and to fulfill their pledges with wholehearted commitment.",
+            "wordCount": 129,
+            "quoteTokenProportion": 45.35,
+            "qualityScore": 1.5458859047631244,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.74,
+            "commentatorTierSimilarities": [
+                26.59,
+                33.05,
+                40.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul advises the Corinthians in their act of giving, emphasizing the importance of both a willing heart and completing the act itself. He urges them to contribute according to their ability and to finish what they have started. Paul reminds them that the size of the contribution matters less than the sincerity behind it. He encourages them to give out of what they have, regardless of its amount, and emphasizes the significance of fulfilling their commitment to giving.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 1.4538828241170787,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.68,
+            "commentatorTierSimilarities": [
+                33.38,
+                29.17,
+                37.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In 2 Corinthians 8:11, Paul commends the Corinthians for their willingness to begin their act of giving. However, he urges them to complete the act as well, emphasizing the importance of both a ready heart and the fruition of their intentions. He encourages them to contribute according to their ability and not to be discouraged by the size of their offering. Regardless of the amount, the disposition of the heart is valued by God. Paul urges them to fulfill their pledges with sincerity and commitment, giving out of what they have.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4052340957711635,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.07,
+            "commentatorTierSimilarities": [
+                31.4,
+                34.03,
+                34.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul advises the Corinthians to complete their act of giving with the same zeal they had shown in the beginning. He urges them to contribute according to their ability, regardless of the size of their gift. The disposition of the heart is more important to God than the actual amount given. Paul emphasizes the importance of fulfilling their commitment to giving with sincerity and urges them to give out of what they have, whether it be more or less.",
+            "wordCount": 79,
+            "quoteTokenProportion": 48.08,
+            "qualityScore": 1.5303139239226784,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                30.72,
+                28.41,
+                40.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul encourages the Corinthians to demonstrate the same eagerness to complete their act of giving as they had shown in the beginning. He urges them to contribute out of their own ability, emphasizing that the size of the gift is not as important as the willingness to give. Paul highlights the need for both a willing heart and the fulfillment of their pledges, reminding them to give according to what they have. Regardless of the amount, God values the disposition of the heart in their act of giving.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.56072974406731,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                34.03,
+                28.54,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

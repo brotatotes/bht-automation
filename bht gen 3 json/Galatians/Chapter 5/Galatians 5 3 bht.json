@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:19:00",
+    "verseRef": "Galatians 5:3",
+    "bestBHT": {
+        "bht": "Receiving circumcision not only obligates one to keep the whole law but also becomes a solemn affirmation of embracing the complete adherence to the moral and ritual requirements of the Jewish religion. By submitting to circumcision, one binds oneself to the entire scope of the Mosaic law, leaving no room for partial observance. This act signifies a commitment to the whole law and carries the burden of perpetual guilt as no one can ever fully satisfy its demands.",
+        "wordCount": 78,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.1128193444225998,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+        "commentatorTierSimilarities": [
+            27.23,
+            34.94,
+            37.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Yea, or moreover, introduces an addition, and a slight contrast\u2014 'not only will Christ not profit.... but....' to every man who receives circumcision,\u2014 'submits to be circumcised.'\" ",
+            "The emphasis is on every man, substantiating, and carrying further, the last verse. the whole has the stress.\" ",
+            "The circumcised man became a 'proselyte of righteousness,' and bound to keep the whole law."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Moreover, I testify...to every man.",
+            "Such a one became a 'proselyte of righteousness'.",
+            "None can be justified by the law...unless he keep it wholly."
+        ],
+        "Albert Barnes": [
+            "For I testify again...he is a debtor to do the whole law.\" ",
+            "Circumcision was the distinguishing badge of the Jews, as baptism is of Christians.\" ",
+            "A man, therefore, who became circumcised became a professor of the Jewish religion, and bound himself to obey all its special laws."
+        ],
+        "Marvin Vincent": [
+            "A debtor [\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03c4\u03b7\u03c2] . In N. T. mostly of one under moral obligation.",
+            "To do the law [\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1\u03b9] . Rare in N. T.",
+            "The whole law [\u03bf\u03bb\u03bf\u03bd] . Comp. James 2:10. Submission to circumcision commits one to the whole law."
+        ],
+        "John Calvin": [
+            "He who is a debtor to do the whole law will never escape death, but will always continue to be held as guilty; for no man will ever be found who satisfies the law.",
+            "When Abraham had received a promise concerning Christ, and justification by free grace, and eternal salvation, circumcision was added, in order to confirm the promise; and thus it became, by the appointment of God, a sacrament, which was subservient to faith.",
+            "To show more fully the agreement between the doctrine of the Papists and that which Paul opposes, it must be observed, that the sacraments, when we partake of them in a sincere manner, are not the works of men, but of God."
+        ],
+        "Philip Schaff": [
+            "Circumcision is an initiatory rite by which the person circumcised becomes a Jew, and assumes the solemn obligation to keep the whole law of Moses, moral and ritual.\" ",
+            "The sacramental rite implies all the responsibilities and duties as well as privileges of membership.\" ",
+            "'I testify,' I bear witness, I solemnly assert as in court."
+        ],
+        "Archibald T. Robertson": [
+            "A debtor (\u03bf\u03c6\u03b5\u03b9\u03bb\u03b5\u03c4\u03b7\u03c2). Common word from \u03bf\u03c6\u03b5\u03b9\u03bb\u03c9, to owe for one who has assumed an obligation.",
+            "He takes the curse on himself.",
+            "See Galatians 3:10."
+        ],
+        "John Gill": [
+            "that is circumcised... that he is a debtor to do the whole law;\" ",
+            "this it is that made circumcision an insupportable yoke",
+            "everyone that is circumcised, in order to procure righteousness and life, is bound to keep the whole law"
+        ],
+        "John Wesley": [
+            "I testify to every man \u2014 Every gentile.",
+            "That is circumcised \u2014 He thereby makes himself a debtor - Obliges."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the apostle Paul asserts that receiving circumcision obligates one to keep the whole law, he emphasizes the all-encompassing nature of this commitment. By becoming circumcised, one not only assumes the solemn obligation to obey all the special laws of the Jewish religion but also binds oneself to the complete adherence to the moral and ritual requirements of the Mosaic law. It is crucial to understand that submission to circumcision signifies an acceptance of the entire law and all its responsibilities and duties, leaving no room for partial observance. Therefore, those who choose to be circumcised, seeking righteousness and life through this act, also choose to be burdened by the impossibility of perfectly satisfying the law and consequently face the curse associated with it.",
+            "wordCount": 125,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 2.1517965035521254,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.89,
+            "commentatorTierSimilarities": [
+                23.96,
+                36.93,
+                39.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Receiving circumcision not only obligates one to keep the whole law, but it also signifies embracing the complete adherence to the moral and ritual requirements of the Jewish religion. By becoming circumcised, one binds oneself to all the responsibilities and duties of the Mosaic law, leaving no room for partial observance. In this act, one seeks righteousness and life but also assumes the burden of never escaping guilt and the inability to satisfy the law.",
+            "wordCount": 75,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 2.0544563778535982,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.65,
+            "commentatorTierSimilarities": [
+                25.46,
+                37.25,
+                37.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Receiving circumcision not only obligates one to keep the whole law but also signifies embracing the complete adherence to the moral and ritual requirements of the Jewish religion. By becoming circumcised, one binds oneself to all the responsibilities and duties of the Mosaic law, leaving no room for partial observance. This act signifies a commitment to the entire law and carries the burden of perpetual guilt as no one can ever fully satisfy its demands.",
+            "wordCount": 75,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1069536297042477,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.4,
+            "commentatorTierSimilarities": [
+                26.17,
+                36.14,
+                37.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Receiving circumcision not only obligates one to keep the whole law but also becomes a solemn affirmation of embracing the complete adherence to the moral and ritual requirements of the Jewish religion. By submitting to circumcision, one binds oneself to the entire scope of the Mosaic law, leaving no room for partial observance. This act signifies a commitment to the whole law and carries the burden of perpetual guilt, as no one can ever fully satisfy its demands. The curse associated with failing to keep the entire law hangs over those who choose this path.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.00013583424834,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.85,
+            "commentatorTierSimilarities": [
+                29.15,
+                33.2,
+                37.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Receiving circumcision not only obligates one to keep the whole law but also becomes a solemn affirmation of embracing the complete adherence to the moral and ritual requirements of the Jewish religion. By submitting to circumcision, one binds oneself to the entire scope of the Mosaic law, leaving no room for partial observance. This act signifies a commitment to the whole law and carries the burden of perpetual guilt as no one can ever fully satisfy its demands.",
+            "wordCount": 78,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.1128193444225998,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+            "commentatorTierSimilarities": [
+                27.23,
+                34.94,
+                37.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

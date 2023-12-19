@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 14:13:33",
+    "verseRef": "Galatians 2:18",
+    "bestBHT": {
+        "bht": "By rebuilding what was torn down, one proves themselves a transgressor of the law. Peter contradicted himself by asserting the obligation of the law after setting it aside and living like the Gentiles. In doing so, he became an architect of ruin, going against the gospel of freedom. If anyone professes the gospel but doesn't live according to it, they are sinners but not justified, and the blame lies on them, not the gospel.",
+        "wordCount": 75,
+        "quoteTokenProportion": 50.88,
+        "qualityScore": 1.983239470726372,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+        "commentatorTierSimilarities": [
+            26.86,
+            39.5,
+            33.64
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If the things which I pulled down, those very things (and no others) I again build up.",
+            "I am proving myself a transgressor.",
+            "You, by now reasserting the obligation of the law, are proving (as far as in you lies) that your former step of setting aside the law was in fact a transgression of it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "You, Peter, by now asserting the law to be obligatory, are proving yourself a 'sinner,' or 'transgressor,' in your having set it aside by living as the Gentiles, and with them.",
+            "Thus you are debarred by transgression from justification by the law, and you debar yourself from justification by Christ, since in your theory He becomes a minister of sin.",
+            "Instead of commending yourself as you sought to do, you merely commend yourself as a transgressor."
+        ],
+        "Albert Barnes": [
+            "If a man, having removed or destroyed that which was evil, again introduces it or establishes it, he does wrong, and is a transgressor of the Law of God.",
+            "Their conduct, therefore, was that of building up again that which had once been destroyed, destroyed by the ministry, and toils, and death of the Lord Jesus, and by the fair influence of his gospel.",
+            "To rebuild that again; to re-establish those customs, was wrong, and now involved the guilt of a transgression of the Law of God."
+        ],
+        "John Calvin": [
+            "He had preached the faith of Christ in such a manner as to connect with it the ruin and destruction of sin.\" ",
+            "Christ came not to build up the kingdom of sin, but 'that he might destroy the works of the devil.'\" (1 John 3:8)",
+            "Paul declares, that, in preaching the gospel, he had restored true righteousness, in order that sin might be destroyed."
+        ],
+        "Philip Schaff": [
+            "The sin is the other way, in going back from Christ to Moses, from the gospel of freedom to the law of bondage.",
+            "Peter in this case proved himself an architect of ruin.",
+            "I prove myself to be a transgressor of the law itself, by rebuilding it on the ruins of the gospel contrary to its own spirit and intent to prepare the way for the gospel as its fulfillment."
+        ],
+        "Archibald T. Robertson": [
+            "Peter, by his shifts had contradicted himself helplessly as Paul shows by this condition.",
+            "When he lived like a Gentile, he tore down the ceremonial law.",
+            "When he lived like a Jew, he tore down salvation by grace."
+        ],
+        "John Gill": [
+            "he showed himself a faithful minister of Christ",
+            "for if the law was not abolished, then he made himself a transgressor of it",
+            "should he, or any other, take encouragement to sin from the doctrine of free justification by the righteousness of Christ, as if he was the author and minister of sin, and allowed persons in it; this would be to establish sin"
+        ],
+        "John Wesley": [
+            "By my sinful practice.",
+            "I only make myself - Or show myself, not Christ, to be a transgressor; the whole blame lies on me, not him or his gospel.",
+            "Therefore if any who profess the gospel do not live according to it, they are sinners, it is certain, but not justified, and so the gospel is clear."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By rebuilding the very things that were torn down, one proves themselves to be a transgressor of the law. This is what Peter did by asserting the obligation of the law after previously setting it aside and living like the Gentiles. In doing so, he contradicted himself and became an architect of ruin. By establishing once again the law of bondage, he went against the gospel of freedom. In preaching the gospel, Paul restored true righteousness and the destruction of sin. Therefore, if anyone professes the gospel but does not live according to it, they are sinners but not justified, and the blame lies on them, not the gospel.",
+            "wordCount": 109,
+            "quoteTokenProportion": 51.32,
+            "qualityScore": 1.9552982054031363,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                26.4,
+                38.6,
+                35.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By rebuilding what was torn down, one proves themselves a transgressor of the law. Peter contradicted himself by asserting the obligation of the law after setting it aside and living like the Gentiles. In doing so, he became an architect of ruin, going against the gospel of freedom. Paul preached the gospel to restore righteousness and destroy sin. If anyone professes the gospel but doesn't live according to it, they are sinners but not justified, and the blame lies on them, not the gospel.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.9863007895052762,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                25.11,
+                38.62,
+                36.27
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By rebuilding what was torn down, one proves themselves a transgressor of the law. Peter contradicted himself by asserting the obligation of the law after setting it aside and living like the Gentiles. In doing so, he became an architect of ruin, going against the gospel of freedom. If anyone professes the gospel but doesn't live according to it, they are sinners but not justified, and the blame lies on them, not the gospel.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.88,
+            "qualityScore": 1.983239470726372,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                26.86,
+                39.5,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Galatians 2:18, Paul confronts Peter for his inconsistency in upholding the law. Paul emphasizes that by now reasserting the obligation of the law, Peter is proving himself a transgressor and undermining the gospel of grace. Peter's fluctuating behavior of living like a Gentile and then like a Jew tears down both the ceremonial law and salvation by grace. By rebuilding that which had been destroyed, Peter deviates from the true righteousness that comes through faith in Christ and establishes sin instead. As Paul points out, this proves that Peter is not a faithful minister of Christ, but rather a transgressor of the very law he seeks to uphold.",
+            "wordCount": 109,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.0932682788316037,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                28.87,
+                35.35,
+                35.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, Paul confronts Peter's contradictory behavior, accusing him of proving himself a transgressor by rebuilding the very things he had torn down. By asserting the obligation of the law once again, Peter undermines the gospel of grace and debar himself from both justification by the law and justification by Christ. This inconsistency in upholding the law demonstrates Peter's failure to be a faithful minister of Christ, establishing sin instead of true righteousness through faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.0607068426871975,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.86,
+            "commentatorTierSimilarities": [
+                27.41,
+                36.43,
+                36.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

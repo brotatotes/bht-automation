@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:54",
+    "verseRef": "Jude 4",
+    "bestBHT": {
+        "bht": "Certain men have crept in unnoticed, changing the grace of our God into lasciviousness. They deny Jesus Christ, the only Master and Lord, and have infiltrated the Church with false doctrines. Their actions reject God's authority and holiness, reflecting their ungodliness. Believers must vigilantly resist these deceptive influences and remain firm in the truth. God's grace is meant to transform us, enabling us to live righteously and godly lives. Let us not be swayed by those who pervert His grace, but instead stand for truth and godliness.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.78,
+        "qualityScore": 1.9144213387340812,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+        "commentatorTierSimilarities": [
+            27.4,
+            42.83,
+            29.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Crept in (not 'are... crept in:\u2019 the past tense explains the arising of the occasion of his thus writing. On crept in, see 2 Pet. ii. 1, and note: also Gal. ii. 4. Secrecy, and lack of legitimate introduction, are plainly expressed in the word.",
+            "For there crept in... certain men (it las been observed that the term certain men has a tinge of contempt about it), [men] who have been of old written down in prophecy (to what time and fact are we to refer such designation of them? Clearly not to God\u2019s eternal purpose, in this place, from the term of old, which, as Huther remarks, is never used of that purpose, but points to some fact in time.",
+            "Impious, changing the grace of our God into lasciviousness (the words might mean, 'perverting the grace of our God in the direction of, for the purposes of lasciviousness:\u2019 but the meaning of the verb used is simply to change, not to pervert: and we therefore must understand, as above, that they made the state of grace and Christian liberty into a state of [moral] licence and wantonness)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God\u2019s eternal character as the Punisher of sin, as set forth in Scripture 'of old,' is the ground on which such apostate characters are ordained to condemnation.\" ",
+            "Scripture itself reflects God\u2019s character from everlasting, which is the ground of His decrees from everlasting.\" ",
+            "Translate as the Greek, 'the only Master'; here used of Jesus Christ, who is at once Master and 'Lord', implying God\u2019s absolute ownership to dispose of His creatures as He likes."
+        ],
+        "Albert Barnes": [
+            "They professed to teach the Christian religion, when in fact they denied some of its fundamental doctrines; they professed to be holy, when in fact they were living most scandalous lives.",
+            "All these instances bore on just such cases as these, and in these facts they might read their sentence as clearly as if their names were written on the face of the sky.",
+            "Their doctrines and practice tended as really to the denial of the true God as they did to the denial of the Lord Jesus."
+        ],
+        "Marvin Vincent": [
+            "Crept in unawares. The verb means to get in by the side, to slip in by a side - door. Only here in New Testament.",
+            "The meaning is in dispute. The word occurs four times in New Testament. In two of these instances pro has clearly the temporal sense before...It seems better, on the whole, to take it here in the temporal sense, and to render written of beforehand.",
+            "Lasciviousness. See on 1 Peter 4:3."
+        ],
+        "John Calvin": [
+            "Satan now, he says, attacks and harasses you in a peculiar manner; it is therefore necessary to take up arms to resist him.",
+            "The word \u03c0\u03b1\u03c1\u03b5\u03b9\u03c3\u1f73\u03b4\u03c5\u03c3\u03b1\u03bd, which he uses, denotes an indirect and stealthy insinuation, by which the ministers of Satan deceive the unwary.",
+            "But the grace of God has appeared for a far different purpose, even that, denying ungodliness and worldly lusts, we may live soberly, righteously, and godly in this world."
+        ],
+        "Philip Schaff": [
+            "They came in by a side door; not that they crept in from without, being really no members of the Church; but only that they came in as members, and yet had in fact, as was now clear, sentiments and habits foreign to those of a Christian community, and ought never, therefore, to have entered it at all.",
+            "Their character is further defined; they are ungodly men, with whom God\u2019s holiness is no ground of reverence, nor His law their guide, who, having broken loose from His authority, show their ungodliness in all they do.",
+            "Christ is here called their one absolute Lord and Owner, not in contrast with the other persons in the Godhead, but with foreign lords who once had dominion over them. They are called godless, indeed, chiefly because they pervert the grace that is in Christ, and deny the claims of Him who first created and then redeemed them."
+        ],
+        "Archibald T. Robertson": [
+            "Ungodly men. Keynote of the Epistle.",
+            "For the change of 'grace' into 'lasciviousness'.",
+            "Denying. So 2 Peter 2:1. "
+        ],
+        "John Gill": [
+            "wherefore present rigour and vigilance were necessary to be used",
+            "if some were chosen before the foundation of the world, others must be left or passed by as early; and if some were appointed unto salvation from the beginning, others must be foreordained to condemnation from the beginning also",
+            "false teachers are generally such; here it signifies such who are destitute of the fear of God, and of all internal devotion, and powerful godliness"
+        ],
+        "John Wesley": [
+            "There are certain men crept in, who were of old described before.\" ",
+            "Turning the grace of God - Revealed in the gospel - Into lasciviousness.",
+            "Into an occasion of more abandoned wickedness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certain men have crept in unnoticed, who have been written of beforehand in prophecy. These ungodly men change the grace of our God into a license for immorality and deny the Master and Lord, Jesus Christ. They have infiltrated the Church, professing false doctrines and behaving scandalously. Their actions and teachings not only deny the fundamental principles of Christianity, but also reject the authority and holiness of God. They are godless, defying His law and having broken away from His authority. These false teachers pervert the grace found in Christ, distorting it into an opportunity for indulgence in sinful desires. It is imperative for believers to be vigilant and resistant against such deceptive influences. They need to stand firm in the truth and live in accordance with godliness, righteousness, and sobriety, as the true purpose of God's grace is to transform and sanctify His people in this world.",
+            "wordCount": 149,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.8405450560807681,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.54,
+            "commentatorTierSimilarities": [
+                26.59,
+                45.59,
+                27.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Certain men have crept in unnoticed, changing God's grace into lasciviousness. These ungodly individuals deny Jesus Christ, the only Master and Lord. They have infiltrated the Church with their false doctrines, contradicting the principles of Christianity. Their actions reject God's authority and holiness, displaying their godlessness. Believers must remain vigilant and resist these deceptive influences. The purpose of God's grace is to deny ungodliness and enable righteous living. It is essential to combat these false teachers and live according to God's truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 1.8348664854249832,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.35,
+            "commentatorTierSimilarities": [
+                25.75,
+                44.31,
+                29.94
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Certain men have crept in unnoticed, who have been written of beforehand in prophecy. They change the grace of our God into lasciviousness, denying the Master and Lord, Jesus Christ. These men infiltrate the Church with false doctrines, denying fundamental principles and living scandalous lives. They reject the authority and holiness of God, displaying their ungodliness. Believers must be vigilant and resist these deceptive influences, standing firm in the truth and living in accordance with godliness, righteousness, and sobriety.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8459123120821057,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.72,
+            "commentatorTierSimilarities": [
+                25.14,
+                47.3,
+                27.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Certain men have crept in unnoticed, changing the grace of our God into lasciviousness. They deny Jesus Christ, the only Master and Lord, and have infiltrated the Church with false doctrines. Their actions reject God's authority and holiness, reflecting their ungodliness. Believers must vigilantly resist these deceptive influences and remain firm in the truth. God's grace is meant to transform us, enabling us to live righteously and godly lives. Let us not be swayed by those who pervert His grace, but instead stand for truth and godliness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.9144213387340812,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.0,
+            "commentatorTierSimilarities": [
+                27.4,
+                42.83,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Certain men have crept in unnoticed, changing God's grace into lasciviousness. They deny Jesus Christ, the only Master and Lord, and infiltrate the Church with false doctrines. Their actions reject God's authority, reflecting their ungodliness. Believers must resist these deceptive influences and stand firm in the truth. God's grace is meant to transform us, enabling righteous living. Let us not be swayed by those who pervert His grace but instead live according to godliness, sobriety, and righteousness in this world.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8848399856638243,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.01,
+            "commentatorTierSimilarities": [
+                27.86,
+                42.43,
+                29.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

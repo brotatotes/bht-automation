@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:13:07",
+    "verseRef": "Philemon 1",
+    "bestBHT": {
+        "bht": "Paul, a fellow laborer in building up the church in Colosse, writes to Philemon, warmly addressing him as our dearly beloved and fellow laborer. Acknowledging himself as a prisoner of Christ Jesus, Paul appeals to Philemon to receive back a runaway slave. In this letter, Paul does not assert his authority as an apostle, but rather seeks sincere sympathy. He emphasizes the sacrifices Philemon has already made for the church, implying that he will be willing to do even more. Through this epistle, Paul teaches about Christian forbearance and highlights the importance of treating secular affairs from higher principles.",
+        "wordCount": 99,
+        "quoteTokenProportion": 44.0,
+        "qualityScore": 2.334727577667663,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+        "commentatorTierSimilarities": [
+            30.56,
+            38.8,
+            30.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "prisoner of Christ Jesus, i.e. one whom He (or His cause) has placed in bonds",
+            "He does not designate himself as an apostle, or the like, as writing familiarly, and not authoritatively.",
+            "fellow-labourer...at Colosse, in building up the church there"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "prisoner of Jesus Christ \u2014 one whom Christ's cause has made a prisoner.",
+            "He does not call himself, as in other Epistles, 'Paul an apostle', as he is writing familiarly, not authoritatively.",
+            "our... fellow labourer \u2014 in building up the Church at Colosse, while we were at Ephesus."
+        ],
+        "Albert Barnes": [
+            "Paul, a prisoner of Jesus Christ - A prisoner at Rome in the cause of Jesus Christ",
+            "As Timothy was of that region of country, and as he had accompanied Paul in his travels, he was doubtless acquainted with Philemon.",
+            "The word rendered 'fellow-laborer' does not determine what office he held, if he held any, or in what respects he was a fellow-laborer with Paul."
+        ],
+        "Marvin Vincent": [
+            "A prisoner for Christ's sake.",
+            "Timothy could not be called an apostle.",
+            "Philemon, an inhabitant, and possibly a native of Colossae in Phrygia."
+        ],
+        "John Calvin": [
+            "Sending back a runaway slave and thief, he supplicates pardon for him. But in pleading this cause, he discourses about Christian forbearance with such ability, that he appears to speak about the interests of the whole Church rather than the private affairs of a single individual.",
+            "In behalf of a man of the lowest condition, he demeans himself so modestly and humbly, that nowhere else is the meekness of his temper painted in a more lively manner.",
+            "A prisoner of Jesus Christ. In the same sense in which he elsewhere calls himself an Apostle of Christ, or a minister of Christ, he now calls himself 'a prisoner of Christ;' because the chains by which he was bound on account of the gospel, were the ornaments or badges of that embassy which he exercised for Christ."
+        ],
+        "Philip Schaff": [
+            "As the matter on which the apostle is about to write is rather personal and social in its character, he does not style himself an apostle in his address, but employs a word which should challenge sympathy more than make a claim to obedience.",
+            "St. Paul was not ashamed of his chains, but saw advantage coming from his bondage, and so he called it his grace.",
+            "The sacrifices which Philemon was making for the church at Coloss\u00e6, by receiving the congregation into his house, entitles him to this name. And the man who did so much for Christ\u2019s cause, we may be sure was ready to do more."
+        ],
+        "Archibald T. Robertson": [
+            "A prisoner of Christ Jesus... more touching occasion of pride as Paul writes with his manacled right hand.",
+            "Timothy... associated with Paul also in I and II Thess., II Cor., Philipp., Col.",
+            "To Philemon... active in the church in Colossae and was beloved by Paul."
+        ],
+        "John Gill": [
+            "He was a prisoner at Rome for the sake of Christ, on account of professing him, and preaching in his name; his bonds were for the sake of the Gospel of Christ; and therefore they are in this epistle called the bonds of the Gospel.",
+            "And Timothy our brother, not according to the flesh, or as being of the same country, for he was the countryman of neither of them; nor only on account of his being a regenerate than, born of God, a child of God, and of the same family; but chiefly because he was of the same function, was a minister of the Gospel.",
+            "unto Philemon our dearly beloved, and fellow labourer: the name of Philemon is Greek; there was a Greek poet of this name, and a Greek historian that Pliny made use of in compiling his history... and likewise as he was a minister of the Gospel; for so the next phrase, 'and fellow labourer,' seems to import."
+        ],
+        "John Wesley": [
+            "This single epistle infinitely transcends all the wisdom of the world.",
+            "It gives us a specimen how Christians ought to treat of secular affairs from higher principles.",
+            "Paul a prisoner of Christ \u2014 To whom, as such, Philemon could deny nothing."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, a fellow laborer in building up the church in Colosse, writes to Philemon, who is active in the church and dearly beloved by Paul. Addressing himself as a prisoner of Christ Jesus, Paul humbly appeals to Philemon to receive back a runaway slave who had become a thief. In this personal and social matter, Paul does not assert his authority as an apostle, but rather seeks sincere sympathy. He emphasizes the sacrifices Philemon has already made for the church, implying that he will be willing to do even more. Despite his chains, Paul sees his imprisonment as a grace, acknowledging that his bondage serves the cause of Christ. As Timothy, a trusted companion, is associated with Paul in this letter, it is likely that he knows Philemon well. Through this epistle, Paul teaches about Christian forbearance and highlights the importance of treating secular affairs from higher principles. Overall, this letter exemplifies Paul's meekness, his role as an ambassador for Christ, and the way in which he pleads on behalf of others. It is a profound testament to the power of grace and the unity of the Church.",
+            "wordCount": 189,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.2727489590877363,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.91,
+            "commentatorTierSimilarities": [
+                30.08,
+                39.39,
+                30.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, a fellow laborer in building up the church in Colosse, writes to Philemon, warmly addressing him as our dearly beloved and fellow laborer. Acknowledging himself as a prisoner of Christ Jesus, Paul appeals to Philemon to receive back a runaway slave. In this letter, Paul does not assert his authority as an apostle, but rather seeks sincere sympathy. He emphasizes the sacrifices Philemon has already made for the church, implying that he will be willing to do even more. Through this epistle, Paul teaches about Christian forbearance and highlights the importance of treating secular affairs from higher principles.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.0,
+            "qualityScore": 2.334727577667663,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.97,
+            "commentatorTierSimilarities": [
+                30.56,
+                38.8,
+                30.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, described as a fellow laborer in building up the church in Colosse, writes a heartfelt plea to Philemon. Acknowledging his imprisonment for the sake of Christ, Paul humbly appeals for the forgiveness of a runaway slave. He notes Philemon's sacrifices for the church and presents the opportunity for further acts of kindness. Through this personal letter, Paul teaches about Christian forbearance in dealing with secular affairs and exemplifies the meekness of his temper. The depth of this epistle goes beyond the interests of a single individual, reflecting the broader concerns of the Church.",
+            "wordCount": 95,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.0976347889135676,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                29.98,
+                36.64,
+                33.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, a fellow laborer in building up the church in Colosse, appeals to Philemon in his heartfelt letter. As a prisoner of Christ Jesus, Paul writes with humility and warmth, not asserting his authority as an apostle. He acknowledges Philemon's sacrifices for the church and presents the case of a runaway slave, urging forgiveness. Through this personal plea, Paul teaches about Christian forbearance and demonstrates his meekness. This remarkable epistle goes beyond the confines of an individual's affairs, addressing the interests of the entire Church.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.2234139363330403,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.27,
+            "commentatorTierSimilarities": [
+                31.27,
+                37.1,
+                31.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, a fellow laborer in building up the church in Colosse, humbly writes to Philemon as a prisoner of Christ Jesus. Rather than asserting his authority, Paul appeals for forgiveness concerning a runaway slave. Recognizing Philemon's sacrifices for the church, he implies a willingness to do more. This personal letter showcases Christian forbearance and the meekness of Paul's character, addressing not just individual matters but the interests of the entire Church.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.323421764252977,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.59,
+            "commentatorTierSimilarities": [
+                32.08,
+                37.24,
+                30.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

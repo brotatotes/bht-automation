@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 15:03:19",
+    "verseRef": "1 Corinthians 4:10",
+    "bestBHT": {
+        "bht": "The Corinthians were highly regarded for their wisdom and honor, while the apostles, including Paul, were seen as fools because of their unwavering commitment to Christ. The Corinthians boasted in their worldly wisdom, using their Christianity to attain greatness, whereas the apostles willingly embraced lowliness and reproach for the sake of the Gospel. This stark contrast between the Corinthians' pursuit of worldly honor and the apostles' willingness to be seen as fools emphasizes the price of true discipleship and the difference between earthly reputation and heavenly reward.",
+        "wordCount": 87,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 2.2628190094583216,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.58,
+        "commentatorTierSimilarities": [
+            35.91,
+            34.83,
+            29.26
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We are foolish for Christ\u2019s sake (on account of Christ,\u2014our connexion with Him does nothing but reduce us to be fools), whereas you are wise in Christ, have entered into full participation of Him, and grown up to be wise, subtle Christians.\" ",
+            "weak and strong are both to be understood generally: the weakness is not here that of persecution, but that of ch. ii. 3: the strength is the high bearing of the Corinthians.\" ",
+            "ye are in honour (in glorious repute, party leaders and party men, highly honoured and looked up to), whereas we are despised (without honour)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "How much your lot (supposing it real) is to be envied, and ours to be pitied.",
+            "Our connection with Christ only entails on us the lowest ignominy, 'ON ACCOUNT OF,' or 'FOR THE SAKE OF' Him, as 'fools'; yours gives you full fellowship IN Him as 'wise'.",
+            "we . . . weak . . . ye . . . strong\u2014 (1 Corinthians 2:3; 2 Corinthians 13:9)."
+        ],
+        "Albert Barnes": [
+            "We, Paul, Apollos, and Barnabas, have no claims to the character of wise men - we are to be regarded as fools, unworthy of confidence, and unfit to instruct; but you are full of wisdom.",
+            "You, Corinthians, boast of your wisdom and prudence. You are to be esteemed very wise. You are unwilling to submit to be esteemed fools.",
+            "That they only should be wise and prudent, and the apostles fools, was in the highest degree absurd; and this absurdity the apostle puts in a strong light by his irony."
+        ],
+        "Marvin Vincent": [
+            "We apostles are fools in the world's eyes on account of Christ.\" ",
+            "You are wise in Christ, as Christians, making your Christianity a means to your worldly greatness - union with Christ the basis of worldly wisdom.",
+            "Honorable. Right honorable are ye!"
+        ],
+        "John Calvin": [
+            "You desire, along with the gospel, to retain commendation for wisdom, whereas I have not been able to preach Christ otherwise than by becoming a fool in this world.",
+            "How in these things consort \u2014 that I who have been your master, am a fool for Christ\u2019s sake, and you, on the other hand, remain wise!",
+            "Now the complaint carries with it so much the more reproach on this account, that even among themselves he was weak and contemptible."
+        ],
+        "Philip Schaff": [
+            "We are fools for Christ\u2019s sake, but ye are wise in Christ.\" ",
+            "How enviable your lot, how pitiable ours!\" ",
+            "(irony, however, this is) we weak, ye strong; ye have glory, we dishonour."
+        ],
+        "Archibald T. Robertson": [
+            "The apostles were fools for Christ's sake.",
+            "They made 'union with Christ the basis of worldly wisdom.'",
+            "They are over strong in pretension."
+        ],
+        "John Gill": [
+            "We are fools for Christ's sake... for enduring so much reproach, affliction, and persecution for his sake and the Gospel's.",
+            "But ye are wise in Christ... they were truly wise in their own eyes, and made use of much worldly wisdom and carnal policy in their profession of religion.",
+            "But we are despised... for the mean appearance we make, the Gospel we preach, and the cross we bear."
+        ],
+        "John Wesley": [
+            "We are fools, in the account of the world, for Christ's sake, but ye are wise in Christ.\" ",
+            "We are weak \u2014 In presence, in infirmities, in sufferings.\" ",
+            "But ye are strong \u2014 In just opposite circumstances."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse implies that the Corinthians took pride in their wisdom and reputation, while Paul and the apostles were considered fools for their devotion to Christ. Paul sarcastically highlights the stark contrast between their esteemed position and his own lowly one. The Corinthians were esteemed as wise and honored, using their Christianity as a means for worldly greatness. On the other hand, Paul and the apostles were despised and considered fools for their devotion to Christ. The Corinthians' desire for worldly wisdom and honor was in direct opposition to Paul's willingness to be seen as a fool for Christ's sake.",
+            "wordCount": 102,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.2300823579546227,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.49,
+            "commentatorTierSimilarities": [
+                34.46,
+                37.12,
+                28.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Corinthians prided themselves on their wisdom, while the apostles, like Paul, were considered fools for their commitment to Christ. This irony is amplified by the stark contrast between their esteemed status and the apostles' despised position. The Corinthians used their Christianity as a means for worldly greatness, while the apostles endured reproach and persecution. The Corinthians' desire for worldly wisdom and honor clashed with Paul's willingness to embrace foolishness for the sake of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.111824021361759,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                34.79,
+                35.52,
+                29.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "While the Corinthians were wise and esteemed, the apostles, including Paul, were viewed as fools in their devotion to Christ. This stark contrast in reputation highlights the Corinthians' pursuit of worldly wisdom and honor, versus the apostles' willingness to endure reproach and persecution for the sake of the Gospel. The Corinthians' desire for status and recognition conflicted with Paul's acceptance of being seen as a fool for the sake of Christ.",
+            "wordCount": 72,
+            "quoteTokenProportion": 29.79,
+            "qualityScore": 2.20332344180414,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.6,
+            "commentatorTierSimilarities": [
+                33.49,
+                36.4,
+                30.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Corinthians were highly regarded for their wisdom and honor, while the apostles, including Paul, were seen as fools because of their unwavering commitment to Christ. The Corinthians boasted in their worldly wisdom, using their Christianity to attain greatness, whereas the apostles willingly embraced lowliness and reproach for the sake of the Gospel. This stark contrast between the Corinthians' pursuit of worldly honor and the apostles' willingness to be seen as fools emphasizes the price of true discipleship and the difference between earthly reputation and heavenly reward.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.2628190094583216,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.58,
+            "commentatorTierSimilarities": [
+                35.91,
+                34.83,
+                29.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "While the Corinthians found honor and wisdom in their faith, the apostles, namely Paul, were considered fools due to their unwavering commitment to Christ. The Corinthians used their Christianity to achieve worldly greatness, boasting in their wisdom, while the apostles embraced the lowliness and reproach that came with their devotion. This stark contrast reflects the cost of discipleship and highlights the disparity between earthly reputation and heavenly reward.",
+            "wordCount": 68,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.018021648881879,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.44,
+            "commentatorTierSimilarities": [
+                35.63,
+                33.94,
+                30.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

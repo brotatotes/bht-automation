@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:23:39",
+    "verseRef": "Luke 23:16",
+    "bestBHT": {
+        "bht": "Pilate begins to show culpable weakness in yielding to the Jews, thinking that if there is no fault in Jesus, why should He be corrected at all? Despite recognizing Jesus' innocence, Pilate proposes chastening Him, intending to purify and amend rather than punish. Pilate's compromise and desire for public favor enable the Jews to demand crucifixion. May we learn from Pilate's moral laxity and choose righteousness over popularity, refusing to yield to the pressures of the world.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.32,
+        "qualityScore": 2.0481322988791275,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+        "commentatorTierSimilarities": [
+            28.15,
+            39.83,
+            32.02
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Pilate begins to show culpable weakness in yielding to the Jews.",
+            "If there be no fault in Him, why should He be corrected at all?",
+            "The Jews perceive their advantage, and from"
+        ],
+        "Albert Barnes": [
+            "It is not easy to see the reason why, if Pilate supposed Jesus to be 'innocent,' he should propose publicly to scourge him.",
+            "It was as 'really' unjust to do that as it was to crucify him.",
+            "Man should do his duty in all situations; and he that, like Pilate, seeks only for public favor and popularity, will assuredly be led into crime."
+        ],
+        "Marvin Vincent": [
+            "The word is not synonymous with punish, since it always implies an infliction which contemplates the subject's amendment; and hence answers to chastise or chasten.\" ",
+            "Chasten is from the Latin castus, 'pure,' 'chaste; ' and to chasten is, properly, to purify.",
+            "Instead of punishing him with death, he will chastise him, in order to teach him better."
+        ],
+        "John Calvin": [
+            "Earthly men, who are not confirmed by the Spirit of God in a constant wish to do what is right, even though they are desirous to maintain integrity, are accustomed, in this manner, to yield so far as to commit small injuries when they are compelled.\" ",
+            "Would to God that the world were not now filled with many Pilates!\" ",
+            "But though our three Evangelists pass by this circumstance, yet it is evident from the Evangelist John, that Christ was beaten with rods, while Pilate was still laboring to save his life, in order that so appalling a spectacle might appease the rage of the people."
+        ],
+        "Philip Schaff": [
+            "Pilate ought to have said: I will release without any punishment. His want of moral earnestness now appears.",
+            "This first wrong step was the decisive one, since the Jews understood how to follow up the advantage thus given them.",
+            "If he was willing to chastise Jesus illegally, why could he not be forced to crucify Him."
+        ],
+        "Archibald T. Robertson": [
+            "Chastise (\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c3\u03b1\u03c2). First aorist active participle of \u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c9, to train a child... and then, as a part of the training, punishment.\" ",
+            "Our English word chasten is from the Latin castus, pure, chaste, and means to purify.\" ",
+            "Perhaps Pilate may have split a hair over the word as Wycliff puts it: 'I shall deliver him amended.'"
+        ],
+        "John Gill": [
+            "Give him some correction, as by scourging, or beating with rods: this he proposed, not because he thought him deserving of it, but in complaisance to the Jews...",
+            "...he hoped this might be thought sufficient, and so he should please them, and save Jesus from dying, which he much desired...",
+            "...and release him; from his bonds, and let him go."
+        ],
+        "John Wesley": [
+            "I will therefore chastise him \u2014 Here Pilate began to give ground, which only encouraged them to press on. Matthew 27:15; Mark 15:6; John 18:39."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Pilate, with his culpable weakness, yielded to the Jews' insistence on punishment for Jesus. Though Pilate recognized no fault in Jesus, he suggested chastening Him, not to punish, but to purify and amend. He may have split hairs over the word, proposing to deliver Jesus amended. It is unclear why Pilate, who believed Jesus to be innocent, would publicly propose scourging Him, thus committing an injustice. However, Pilate's desire for public favor and popularity led him astray, and this first wrong step empowered the Jews to demand crucifixion. May we learn from Pilate's moral laxity and choose righteousness over compromise.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.0140163730071228,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                26.7,
+                40.55,
+                32.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Pilate's culpable weakness led him to yield to the Jews' demand for punishment, despite acknowledging Jesus' innocence. Seeking to appease the Jews and maintain popularity, Pilate proposed chastening Jesus to purify and amend him. Although it remains unclear why Pilate suggested scourging an innocent man, this initial compromise allowed the Jews to push for ultimate crucifixion. Pilate's moral laxity serves as a warning against prioritizing public favor over truth and righteousness.",
+            "wordCount": 73,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.0254446468952794,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.69,
+            "commentatorTierSimilarities": [
+                26.47,
+                41.46,
+                32.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Pilate's culpable weakness is evident as he yields to the Jews' demand for punishment, even though he acknowledges Jesus' innocence. Seeking to appease the Jews and maintain popularity, Pilate proposes chastening Jesus, not to punish, but to purify and amend him. This first wrong step allows the Jews to push for crucifixion. Pilate's moral laxity serves as a warning against compromising truth and righteousness for the sake of public favor.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.021638124459442,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                28.63,
+                40.83,
+                30.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Pilate begins to show culpable weakness in yielding to the Jews, thinking that if there is no fault in Jesus, why should He be corrected at all? Despite recognizing Jesus' innocence, Pilate proposes chastening Him, intending to purify and amend rather than punish. Pilate's compromise and desire for public favor enable the Jews to demand crucifixion. May we learn from Pilate's moral laxity and choose righteousness over popularity, refusing to yield to the pressures of the world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 2.0481322988791275,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.44,
+            "commentatorTierSimilarities": [
+                28.15,
+                39.83,
+                32.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pilate, influenced by his culpable weakness, gives in to the Jews by proposing chastening for Jesus. Although Pilate acknowledges Jesus' innocence, he suggests purifying and amending Him instead of punishing. This compromise puts the Jews in a position to demand crucifixion. Pilate's moral laxity warns us against prioritizing popularity over righteousness and reminds us of the importance of standing firm in the face of worldly pressures.",
+            "wordCount": 67,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9287755618810956,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.47,
+            "commentatorTierSimilarities": [
+                26.92,
+                40.47,
+                32.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

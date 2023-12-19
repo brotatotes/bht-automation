@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 16:22:32",
+    "verseRef": "Luke 21:9",
+    "bestBHT": {
+        "bht": "Jesus urges His disciples not to be immediately terrified by the commotions and tumults that will precede the end times (Be not terrified, commotions, tumults). He reminds them that the end is not imminent (end not by and by; or 'immediately'). Even though these unsettling events may include wars and internal conflicts (hear of wars and commotions, Intestine broils; civil wars), Jesus encourages his followers to remain steadfast in their faith and trust in God's plan (have faith, trust in Christ's explicit denial, trust in God's plan).",
+        "wordCount": 90,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.3197477890239773,
+        "qualityScoreNormalizedComparedToV2BHTs": 35.22,
+        "commentatorTierSimilarities": [
+            41.38,
+            0.0,
+            58.62
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "9-11. not terrified\u2014(See",
+            "\tLuke 21:19; Isaiah 8:11-14).",
+            "\t",
+            "end not by and by\u2014or",
+            "\timmediately, not yet (Matthew 24:6;",
+            "\tMark 13:7): that is, \"Worse",
+            "\tmust come before all is over."
+        ],
+        "Marvin Vincent": [
+            "Commotions. From aj, not, and kaqisthmi, to establish. Hence disestablishments; unsettlements. Rev., tumults.",
+            "Be not terrified. Only here and ch. 24 37.",
+            "By and by. Better as Rev. immediately."
+        ],
+        "Archibald T. Robertson": [
+            "Be not terrified...to terrify, from terror.\" (Luke 21:9)",
+            "It is so easy to forget this and to insist that the end is 'immediately' in spite of Christ's explicit denial here.\" (Luke 21:9)",
+            "The great eschatological discourse of Jesus.\" (Luke 21:9)"
+        ],
+        "John Gill": [
+            "But when ye shall hear of wars and commotions... be not terrified; for these things must first come to pass...\" (Luke 21:9). ",
+            "...the end is not by and by; or 'immediately'\" (Luke 21:9)."
+        ],
+        "John Wesley": [
+            "Commotions \u2014 Intestine broils; civil wars."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not be terrified, Jesus tells his disciples in Luke 21:9. The commentary explains that this is a message to not be immediately alarmed by the tumultuous events that will precede the end times. It cautions against the tendency to jump to conclusions and assume that the end is imminent. The first-tier notes that the word commotions signifies unsettlements and tumults, possibly referring to civil wars and internal conflicts. Jesus' words serve as a reminder to have faith and trust in God's plan, even in the midst of chaos and uncertainty.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.1858329203347453,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.77,
+            "commentatorTierSimilarities": [
+                42.36,
+                0.0,
+                57.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus encourages His disciples in Luke 21:9 to not be immediately terrified by the commotions and unrest that will precede the end times. The word commotions suggests civil wars and internal conflicts. It is important to remember that the end is not imminent, regardless of the unsettling events. Instead, Jesus urges His followers to maintain faith and trust in God's plan, even during uncertain and tumultuous times.",
+            "wordCount": 67,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.3072128919265371,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.81,
+            "commentatorTierSimilarities": [
+                37.18,
+                0.0,
+                62.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus tells His disciples to not be terrified by the commotions and tumults that will happen before the end times (Commotions. From aj...settlements. Rev., tumults.). He reassures them that the end is not immediate, to not be alarmed (end not by and by...immediately...not yet). These unsettling events may include wars and upheavals (hear of wars and commotions). It is crucial to remember Jesus' words and not to fear, but to trust in God's plan (Be not terrified...have faith...in spite of Christ's explicit denial...).",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.2222109264596943,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.98,
+            "commentatorTierSimilarities": [
+                45.47,
+                0.0,
+                54.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus advises His disciples not to be immediately terrified by the tumultuous events that will precede the end times (not terrified, Be not terrified). He cautions against assuming the end is imminent (end not by and by; or 'immediately'). The term commotions refers to civil wars and unrest (commotions, Intestine broils; civil wars). Instead of being consumed by fear, Jesus encourages his followers to have faith in God's plan and trust in Him (have faith, trust in Christ's explicit denial, trust in God's plan).",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.2211117814660153,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.95,
+            "commentatorTierSimilarities": [
+                33.59,
+                0.0,
+                66.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus urges His disciples not to be immediately terrified by the commotions and tumults that will precede the end times (Be not terrified, commotions, tumults). He reminds them that the end is not imminent (end not by and by; or 'immediately'). Even though these unsettling events may include wars and internal conflicts (hear of wars and commotions, Intestine broils; civil wars), Jesus encourages his followers to remain steadfast in their faith and trust in God's plan (have faith, trust in Christ's explicit denial, trust in God's plan).",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.3197477890239773,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.22,
+            "commentatorTierSimilarities": [
+                41.38,
+                0.0,
+                58.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:08:53",
+    "verseRef": "Titus 2:2",
+    "bestBHT": {
+        "bht": "Aged men should conduct themselves with vigilant sobriety, dignified behavior, and self-restraint. They should not be led astray by the impudence of the young, but rather display gravity that compels modesty. Their conversation should be serious, sound in doctrine, and free from levity. Patience is also essential for them, as they bear the physical infirmities of old age and endure suffering for the sake of Christ and the Gospel. They should be vigilant like soldiers, remaining serious and focused on their eternal destination.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 1.577583148452276,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+        "commentatorTierSimilarities": [
+            22.86,
+            30.68,
+            46.46
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "sober\u2014Translated 'vigilant,' as sober men alone can be.",
+            "grave\u2014'dignified'; behaving with reverent propriety.",
+            "temperate\u2014'self-restrained'; 'discreet' [ALFORD]."
+        ],
+        "Albert Barnes": [
+            "That the aged men - All aged men - for there is no reason to suppose that the apostle refers particularly to those who were in office, or who were technically elders, or Presbyters.",
+            "The idea is, that he was to adapt his instructions to the special character of different classes of his hearers. The aged needed special instructions, and so did the young.",
+            "The aged should submit to the trials of their advanced years, also, with resignation - for they will soon be over."
+        ],
+        "Marvin Vincent": [
+            "To be understood of natural age, not of ecclesiastical position.",
+            "These church members are classified in this and the following verses as old men, old women, younger men, servants.",
+            "In LXX presbuthv is occasionally interchanged with presbeuthv ambassador."
+        ],
+        "John Calvin": [
+            "Nothing is more shameful than for an old man to indulge in youthful wantonness, and, by his countenance, to strengthen the impudence of the young.",
+            "In the life of old men, therefore, let there be displayed 'a becoming gravity,' which shall constrain the young to modesty.",
+            "By faith we worship God; for neither calling upon him, nor any exercises of godliness, can be separated from it."
+        ],
+        "Philip Schaff": [
+            "Sober is best taken literally; parallel to \u2018not given to much wine\u2019 in Titus 2:3. Drunkenness was a Cretan failing, and the old were especially liable to it.",
+            "Grave, \u2018reverend or worshipful\u2019 (Wordsworth), misrendered \u2018honest\u2019 in Philippians 4:8.",
+            "Temperate, same word as \u2018sober\u2019 of Titus 1:8, indicates wise self-control. The next words apply the idea of moral sanity and holiness to the three cardinal Christian graces; only for \u2018hope\u2019 is here put that brave endurance to the end under trial which is the practical fruit of hope, and appropriate in aged disciples."
+        ],
+        "Archibald T. Robertson": [
+            "Aged men (\u03c0\u03c1\u03b5\u03c3\u03b2\u03c5\u03c4\u03b1\u03c2). See Philemon 1:9 for this word. For discussion of family life see also Colossians 3:18-4; Ephesians 5:22-6; 1 Timothy 5:1-6. For the adjectives here see 1 Timothy 3:2; 1 Timothy 3:8; for the substantives see 1 Timothy 6:11. "
+        ],
+        "John Gill": [
+            "Levity of conversation, frothy language, and airy dress are very unbecoming aged persons.",
+            "They should be sound in their minds; in the doctrine of faith, lest they should lead others into error.",
+            "Patience should have its perfect work; not only to bear the infirmities of body brought on by age but whatsoever sufferings they may be called unto for the sake of Christ and his Gospel."
+        ],
+        "John Wesley": [
+            "Vigilant \u2014 As veteran soldiers, not easily to be surprised.",
+            "Patience \u2014 A virtue particularly needful for and becoming them.",
+            "Serious \u2014 Not drolling or diverting on the brink of eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Aged men should conduct themselves with vigilant sobriety, dignified behavior, and self-restraint, as they alone possess the ability to do so. They should not be led astray by the impudence of the young, but rather display gravity that compels modesty. Their conversation should be serious and sound in doctrine, steering clear of levity and frivolity. Patience is also a virtue crucial for them, not just in bearing the physical infirmities of old age, but also in enduring suffering for the sake of Christ and his Gospel. They should be like vigilant soldiers, ever watchful on the brink of eternity.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.569294085223964,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.52,
+            "commentatorTierSimilarities": [
+                22.71,
+                31.35,
+                45.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Aged men are called to exemplify vigilant sobriety, dignified behavior, and self-restraint. They must display gravity that encourages modesty in the young. It is important for them to engage in serious conversation and hold firm to sound doctrine, avoiding frivolity and levity. Patience is also a virtue they should embody, not only in bearing physical infirmities but also in enduring suffering for the sake of Christ and the Gospel. They are to be like watchful soldiers, ever mindful of their eternal destination.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4858543290645856,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.75,
+            "commentatorTierSimilarities": [
+                24.8,
+                28.88,
+                46.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Aged men should conduct themselves with vigilant sobriety, dignified behavior, and self-restraint. They should not be led astray by the impudence of the young, but rather display gravity that compels modesty. Their conversation should be serious, sound in doctrine, and free from levity. Patience is also essential for them, as they bear the physical infirmities of old age and endure suffering for the sake of Christ and the Gospel. They should be vigilant like soldiers, remaining serious and focused on their eternal destination.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.577583148452276,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.8,
+            "commentatorTierSimilarities": [
+                22.86,
+                30.68,
+                46.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Aged men are called to exhibit vigilant sobriety, dignified behavior, and self-restraint. They must refrain from youthful wantonness and instead display a becoming gravity that encourages modesty in the young. Their conversation should be serious, focusing on sound doctrine and avoiding frivolity and levity. Patience is also vital as they endure the physical infirmities of old age and face suffering for the sake of Christ and the Gospel. They should be like watchful soldiers, ever mindful of their eternal destination.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.552456555853642,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.96,
+            "commentatorTierSimilarities": [
+                22.88,
+                31.22,
+                45.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Aged men are called to exhibit vigilant sobriety, dignified behavior, and self-restraint. They should refrain from youthful wantonness and instead display a becoming gravity that encourages modesty in the young. Their conversation should be serious, focusing on sound doctrine and avoiding frivolity. Patience is also vital as they bear physical infirmities and endure suffering for the sake of Christ and the Gospel. They should be like watchful soldiers, ever mindful of their eternal destination.",
+            "wordCount": 75,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5290014615168168,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                23.21,
+                29.78,
+                47.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

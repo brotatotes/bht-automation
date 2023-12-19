@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 16:34:45",
+    "verseRef": "Acts 21:16",
+    "bestBHT": {
+        "bht": "The word 'old' in this context means someone who has been a disciple since the beginning and accompanied Jesus during His ministry. Mnason of Cyprus, an important figure in the Jerusalem Church, had likely settled in Jerusalem after preaching to the Grecians in Antioch. Assisted by other disciples, Paul was brought to Mnason to introduce him and provide accommodation. This highlights the early Christians' practice of showing hospitality to fellow believers, while also revealing that Jesus' disciples extended beyond Galilee and Judaea to other regions.",
+        "wordCount": 85,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 2.216720210121174,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+        "commentatorTierSimilarities": [
+            32.0,
+            40.22,
+            27.78
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word rendered old signifies from the beginning.",
+            "He had been a disciple all through, and had accompanied our Lord during His ministry.",
+            "See ch. xi. 15, where the term is applied to the time of the Pentecostal effusion of the Spirit."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One Mnason of Cyprus, an old disciple, c.\u2014not an 'aged' disciple, but probably 'a disciple of old standing,'",
+            "He had come, probably, with the other Cyprians, to Antioch, 'preaching the Lord Jesus unto the Grecians,' and now he appears settled at Jerusalem.",
+            "The apostle was full of anxiety about this visit to Jerusalem, from the numerous prophetic intimations of danger awaiting him."
+        ],
+        "Albert Barnes": [
+            "And brought us to Mnason of Cyprus, an old disciple.\" ",
+            "An early convert to Christianity - perhaps one who was converted before the crucifixion of the Saviour.\" ",
+            "The rites of hospitality were shown in a distinguished manner by the early Christians."
+        ],
+        "Marvin Vincent": [
+            "Bringing with them, etc. This would imply that Mnason was at Caesarea, and accompanied Paul and his companions to Jerusalem.\" ",
+            "It seems better to suppose that the disciples accompanied the apostle in order to introduce him to Mnason, whom they knew.\" ",
+            "Better, as Rev., early. The rendering old might be taken to mean aged; whereas the word means of long standing."
+        ],
+        "Philip Schaff": [
+            "There went with us also certain of the disciples of C\u00e6sarea, conducting us to Mnason of Cyprus, an early disciple, with whom we should lodge.",
+            "Mnason was no doubt an important person in the Jerusalem Church; he is styled \u2018an old or an early disciple,\u2019 and was possibly converted during the life of our Lord Himself.",
+            "If so, it is interesting as showing that our Lord\u2019s disciples were not limited to the natives of Galilee and Jud\u00e6a."
+        ],
+        "Archibald T. Robertson": [
+            "A thoroughly idiomatic Greek idiom, incorporation and attraction of the antecedent into the relative clause.",
+            "He was originally from Cyprus, but now in Caesarea.",
+            "As the number of the first disciples lessened, the next generation accorded a sort of honour to the survivors."
+        ],
+        "John Gill": [
+            "This Mnason was an",
+            "old disciple; not of Aristotle, or of his sect of philosophers, or any other, but of Jesus Christ.",
+            "probably he might have seen Christ in the flesh",
+            "he is by some thought to be one of the seventy disciples"
+        ],
+        "John Wesley": [
+            "The disciples brought us to one Mnason, a Cyprian, an old disciple.\" ",
+            "He was a native of Cyprus, but an inhabitant of Jerusalem.",
+            "And probably one of the first converts there."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The word old in this verse signifies someone who has been a disciple from the very beginning, and it is possible that Mnason of Cyprus was actually a disciple of Jesus during His ministry. Mnason had likely settled in Jerusalem after preaching to the Grecians in Antioch and was an important figure in the Jerusalem Church. The disciples who accompanied Paul wanted to introduce him to Mnason and provide him with a place to stay, as the early Christians showed great hospitality to fellow believers. This interaction also highlights the fact that Jesus' disciples were not limited to those from Galilee and Judaea but extended to other regions as well.",
+            "wordCount": 110,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.221073805722717,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.19,
+            "commentatorTierSimilarities": [
+                31.11,
+                41.08,
+                27.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The word 'old' in this passage refers to someone who has been a disciple from the beginning, potentially even during Jesus' ministry. Mnason of Cyprus, an important figure in the Jerusalem Church, likely settled in Jerusalem after preaching to the Grecians in Antioch. Accompanied by other disciples, Paul was brought to Mnason to introduce him and provide lodging. This highlights the early Christians' practice of showing hospitality, while also demonstrating that Jesus' disciples were not only from Galilee and Judaea but also from other regions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.1919384363596857,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.22,
+            "commentatorTierSimilarities": [
+                31.7,
+                40.25,
+                28.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The word 'old' in this context means someone who has been a disciple since the beginning and accompanied Jesus during His ministry. Mnason of Cyprus, an important figure in the Jerusalem Church, had likely settled in Jerusalem after preaching to the Grecians in Antioch. Assisted by other disciples, Paul was brought to Mnason to introduce him and provide accommodation. This highlights the early Christians' practice of showing hospitality to fellow believers, while also revealing that Jesus' disciples extended beyond Galilee and Judaea to other regions.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 2.216720210121174,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.05,
+            "commentatorTierSimilarities": [
+                32.0,
+                40.22,
+                27.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The word 'old' in this verse refers to someone who has been a disciple from the beginning, possibly even during Jesus' ministry. Mnason of Cyprus was an important figure in the Jerusalem Church who had settled in Jerusalem after preaching to the Grecians in Antioch. Accompanied by other disciples, Paul was brought to Mnason to introduce him and provide lodging. This highlights the early Christians' practice of showing hospitality to fellow believers and demonstrates that Jesus' disciples were not limited to Galilee and Judaea, but extended to other regions as well.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 2.1969369663927947,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                31.61,
+                40.09,
+                28.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The term 'old' in this context means someone who has been a disciple from the beginning, possibly even during Jesus' earthly ministry. Mnason of Cyprus, a significant figure in the Jerusalem Church, likely settled in Jerusalem after preaching to the Grecians in Antioch. Accompanied by other disciples, Paul was brought to Mnason to introduce him and provide accommodation. This emphasizes the early Christians' practice of extending hospitality to their fellow believers, while also highlighting that Jesus' disciples were not limited to those from Galilee and Judaea, but included people from other regions.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 2.154387794130526,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                31.75,
+                39.84,
+                28.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

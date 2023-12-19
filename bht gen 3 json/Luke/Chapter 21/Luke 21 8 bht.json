@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:22:25",
+    "verseRef": "Luke 21:8",
+    "bestBHT": {
+        "bht": "Take heed that you are not led astray by those who claim that the time of the Kingdom is at hand, for many will come in My name. Just as John the Baptist spoke of the Kingdom, so too will these deceivers proclaim its imminent arrival. It is important not to be swayed by their false cries, for they will lead you astray from the true path. Do not be their disciples, and do not follow them into destruction.",
+        "wordCount": 79,
+        "quoteTokenProportion": 57.63,
+        "qualityScore": 1.8456514536756607,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+        "commentatorTierSimilarities": [
+            42.53,
+            0.0,
+            57.47
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "8.] The time draweth near, i.e. the time of the Kingdom. They are the words, not of our Lord, but of the many just mentioned: see on Matthew, verses 4, 5."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "8. the time\u2014of the Kingdom, in",
+            "\tits full glory. ",
+            "\t",
+            "go . . . not . . . after",
+            "\tthem\u2014\"I come not so very soon\" (2 Thessalonians 2:1;",
+            "\t2 Thessalonians 2:2) [STIER]."
+        ],
+        "Marvin Vincent": [
+            "Deceived. Rev., rightly, led astray. See on Matthew 24:4. ",
+            "In my name. See on Matthew 18:5."
+        ],
+        "Archibald T. Robertson": [
+            "That ye be not led astray... Our word planet is from this word.\" ",
+            "The time is at hand... Just as John the Baptist did of the kingdom.\" ",
+            "Go ye not after them... A needed warning today with all the false cries in the religious world."
+        ],
+        "John Gill": [
+            "Take heed that ye be not deceived... for many shall come in my name.\" ",
+            "They will say, that the time of the deliverance of the Jewish nation from the Roman yoke is at hand.\" ",
+            "Do not be their disciples, or follow them where they would lead you; for nothing but destruction will be the consequence of it."
+        ],
+        "John Wesley": [
+            "I am the Christ; and the time is near \u2014 When I will deliver you from all your enemies. They are the words of the seducers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The time spoken about in this verse is the time of the Kingdom, the time of its full glory. Our Lord warns not to be led astray by those who falsely claim that the time is at hand. These false teachers will come in His name, deceiving many and leading them astray. It is important to be cautious and not follow after them, as their cries are false and will only bring destruction. The warning still holds true today, with many false teachings and claims in the religious world.",
+            "wordCount": 89,
+            "quoteTokenProportion": 50.79,
+            "qualityScore": 1.6866937249696106,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.42,
+            "commentatorTierSimilarities": [
+                45.83,
+                0.0,
+                54.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The time of the Kingdom, in its full glory, is approaching. False teachers will emerge, claiming that the time is at hand, deceiving many. They will use the name of Jesus to lead people astray. It is crucial to be vigilant and not follow after them, as their cries are false and will only lead to destruction. This warning remains relevant today, in a world filled with various false teachings and misleading claims in the realm of faith.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 1.5271075996614187,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.12,
+            "commentatorTierSimilarities": [
+                44.09,
+                0.0,
+                55.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The time of the Kingdom, in its full glory, is drawing near. False teachers will come in the name of Jesus, leading many astray. They will claim that the time of deliverance is at hand, but we must not be deceived by their false cries. It is vital that we do not follow after them, as their teachings will only bring destruction. This warning is relevant even today, amidst the numerous false claims and deceptions present in the religious world.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.46,
+            "qualityScore": 1.58549091172777,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                42.41,
+                0.0,
+                57.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The time of the Kingdom, in its full glory, is approaching. Jesus warns us to not be led astray by those who falsely claim that the time is near. False teachers will come in His name, deceiving many. We must be cautious and not follow after them, as their cries are false and will only bring destruction. This warning remains relevant today, as there are many false teachings and deceptive claims in the religious world.",
+            "wordCount": 75,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5911501220143325,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.25,
+            "commentatorTierSimilarities": [
+                46.24,
+                0.0,
+                53.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Take heed that you are not led astray by those who claim that the time of the Kingdom is at hand, for many will come in My name. Just as John the Baptist spoke of the Kingdom, so too will these deceivers proclaim its imminent arrival. It is important not to be swayed by their false cries, for they will lead you astray from the true path. Do not be their disciples, and do not follow them into destruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 57.63,
+            "qualityScore": 1.8456514536756607,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.71,
+            "commentatorTierSimilarities": [
+                42.53,
+                0.0,
+                57.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

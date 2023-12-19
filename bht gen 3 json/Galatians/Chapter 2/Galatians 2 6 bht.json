@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:14:44",
+    "verseRef": "Galatians 2:6",
+    "bestBHT": {
+        "bht": "Paul's authority as an apostle and the truth of his message were unaffected by the standing or reputation of the early apostles. God's impartiality means He does not show favoritism based on external factors. The other apostles did not make any new demands on Paul or add to his knowledge of the Gospel. Paul did not seek approval from recognized church leaders for his commission because his message was complete. The endorsement of the pillars of the church came when they embraced Paul's gospel without presenting their own.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.44,
+        "qualityScore": 2.0019604265509674,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+        "commentatorTierSimilarities": [
+            18.37,
+            51.55,
+            30.08
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God respecteth no man\u2019s person...I wish to form all my judgments according to God\u2019s rule\u2014which is that of strict unbiassed justice.\" (Quote #1)",
+            "They...imparted nothing unto me: we were independent the one of the other.\" (Quote #2)",
+            "The meaning 'added' (A. V. 'in conference added') is not justified by the usage of the word.\" (Quote #3)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "they . . . added nothing to me.",
+            "respecteth no man's person",
+            "they now did not impart aught additional to me, above what I already knew."
+        ],
+        "Albert Barnes": [
+            "Paul means to say that whatever was their real rank and standing, it did not in the least affect his authority as an apostle, or his argument.",
+            "What they were, or what they might be thought to be, was immaterial to his claims as an apostle, and immaterial to the authority of his own views as an apostle.",
+            "God is not influenced in His judgment by a regard to the rank, or wealth, or external condition of anyone."
+        ],
+        "Marvin Vincent": [
+            "To be something from (at the hands of) those who were of repute, whatever they were, matters nothing to me (God accepteth not man's person), for those who were of repute imparted nothing to me.",
+            "Paul does not say, as A. V. and Rev., that the standing and repute of the apostles were matters of indifference to him, but that he was indifferent about receiving his commission from them as recognized dignitaries of the church.",
+            "They imposed on me no new [\u03c0\u03c1\u03bf\u03c2 \u03b1\u03b4\u03b4\u03b9\u03c4\u03b9\u03bf\u03bd\u03b1\u03bb] requirements; no conditions or limitations of my missionary work."
+        ],
+        "John Calvin": [
+            "But any one who will consider how necessary that boasting was, will acknowledge that it was holy boasting, and worthy of the highest praise; for, if he had yielded this point to his opponents, that he had profited under the apostles, he would have furnished them with two charges against him.",
+            "He admits that they were first in the order of time, but contends that this did not prevent him from being their equal in rank.",
+            "When the apostles had heard Paul\u2019s gospel, they did not on the other side bring forward their own, (as is commonly done when something better and more perfect is desired,) but were satisfied with his explanation, and simply and unhesitatingly embraced his doctrine."
+        ],
+        "Philip Schaff": [
+            "It appears from Galatians 2:9 that he means the older Apostles, James, Peter, and John, who were justly regarded as the pillars of the Church.",
+            "Paul made no account of the knowledge of Christ \u2018after the flesh\u2019 (2 Corinthians 5:16), which was of no benefit to the Jews without faith.",
+            "God accepteth not man\u2019s person, or God is no regarder of person. A Hebraizing expression for impartiality. To regard a man\u2019s person, his face, wealth, rank, and external condition, as distinct from his intrinsic merits, is partiality, and this God never exercises."
+        ],
+        "Archibald T. Robertson": [
+            "Something, not somebody. Paul refers to the Big Three (Cephas, James, and John). He seems a bit embarrassed in the reference.\" ",
+            "Whatsoever they were. Literally, 'What sort they once were.'",
+            "The compromisers tried to win them, but they finally came over to my view."
+        ],
+        "John Gill": [
+            "Whatever they were... it maketh no matter to me, God accepteth no man's person.",
+            "He knew that God was no respecter of persons, nor was he influenced by any such external circumstances, but chose whom he pleased to such a high office.",
+            "The scheme of truths he laid before them... was so complete and perfect, containing the whole counsel of God, that they had nothing to add unto it."
+        ],
+        "John Wesley": [
+            "It is no difference to me \u2014 So that I should alter either my doctrine or my practice.",
+            "God accepteth no man's person \u2014 For any eminence in gifts or outward prerogatives.",
+            "In that conference added nothing to me - Neither as to doctrine nor mission."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God is impartial and does not show favoritism towards anyone based on their status or external conditions. The early apostles, who were esteemed in the church, did not impose any new requirements on Paul or add anything to his knowledge of the Gospel. Paul was indifferent about receiving his commission from recognized church leaders because his authority as an apostle and the truth of his message were not dependent on their approval. The pillars of the church, James, Peter, and John, eventually embraced Paul's gospel without offering a different one. Their standing and reputation mattered little to Paul because he knew that God does not show partiality. He was confident in the completeness and perfection of the truths he shared, and the fact that the other apostles did not bring forth their own gospel validated the validity of his message.",
+            "wordCount": 141,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.0517130675111535,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                18.83,
+                49.64,
+                31.53
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God is impartial and does not show favoritism towards anyone based on their status or external conditions. The early apostles did not impose new requirements on Paul or add anything to his knowledge of the Gospel. Paul was indifferent about receiving his commission from recognized church leaders because his authority as an apostle and the truth of his message were not dependent on their approval. The pillars of the church eventually embraced Paul's gospel, validating the completeness and perfection of his truths.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9699565183819234,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                17.16,
+                51.46,
+                31.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's authority as an apostle and the truth of his message were not affected by the standing or reputation of the early apostles. God does not show partiality based on external factors. The other apostles did not impose new requirements or add anything to Paul's knowledge of the Gospel. Paul was indifferent about receiving his commission from recognized church leaders because his message was complete and perfect. The validation of his gospel came when the pillars of the church embraced it without introducing their own.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9451881257487256,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                18.27,
+                50.5,
+                31.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's authority as an apostle and the truth of his message were unaffected by the standing or reputation of the early apostles. God's impartiality means He does not show favoritism based on external factors. The other apostles did not make any new demands on Paul or add to his knowledge of the Gospel. Paul did not seek approval from recognized church leaders for his commission because his message was complete. The endorsement of the pillars of the church came when they embraced Paul's gospel without presenting their own.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0019604265509674,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                18.37,
+                51.55,
+                30.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God's impartiality means He does not show favoritism based on external factors. Paul's authority as an apostle and the truth of his message were unaffected by the standing or reputation of the early apostles. The other apostles did not impose new requirements or add anything to Paul's knowledge of the Gospel. Paul was indifferent about receiving his commission from recognized church leaders because his message was complete and perfect. The validation of his gospel came when the pillars of the church embraced it without introducing their own.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.983059770652408,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.28,
+            "commentatorTierSimilarities": [
+                18.36,
+                50.65,
+                31.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "timestamp": "12-19-2023 16:18:16",
+    "verseRef": "Luke 11:34",
+    "bestBHT": {
+        "bht": "When the understanding is enlightened by the Spirit of God, and a single regard is had unto the truths of the Gospel and the glory of Christ, the whole soul is filled with light, joy, and comfort. However, if the understanding is darkened with respect to Gospel truths, the soul will experience a state of misery and discomfort. Therefore, it is essential to maintain a focused and single eye, solely fixed on the Gospel truths and the glory of Christ, in order to guide and direct the soul towards light and away from folly, sin, and misery.",
+        "wordCount": 97,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 1.4406236994759958,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+        "commentatorTierSimilarities": [
+            28.29,
+            0.0,
+            71.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Single - full of light. See on Matthew 6:22."
+        ],
+        "John Gill": [
+            "The sense is, that as the eye gives light, to the body, and the several members of it, by which they are guided and directed; so the understanding is the light of the soul, and the guide to all the powers and faculties of it.",
+            "When the eye of the understanding is opened and enlightened by the Spirit of God, into the truths of the Gospel, and a single regard is had unto them, and to the glory of Christ in them, the whole soul is filled with light, joy, and comfort.",
+            "When the understanding is darkened through the blindness and ignorance there is in men, with respect to Gospel truths, all the powers and faculties of the soul are in a very miserable and uncomfortable condition."
+        ],
+        "John Wesley": [
+            "But when thine eye is evil \u2014 When thou aimest at any thing else, thou wilt be full of folly, sin, and misery. On the contrary, Matthew 6:22."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the eye of the understanding is opened and enlightened by the Spirit of God, into the truths of the Gospel, and a single regard is had unto them, and to the glory of Christ in them, the whole soul is filled with light, joy, and comfort. But when the understanding is darkened through the blindness and ignorance there is in men, with respect to Gospel truths, all the powers and faculties of the soul are in a very miserable and uncomfortable condition. So, if one's eye is single - full of light, focusing solely on the Gospel truths and the glory of Christ, the soul will be guided and directed by this light. However, if the eye is evil, aiming at anything else, folly, sin, and misery will fill the soul.",
+            "wordCount": 132,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.4831706472184103,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.66,
+            "commentatorTierSimilarities": [
+                26.35,
+                0.0,
+                73.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the understanding is enlightened by the Spirit of God, into the truths of the Gospel, and a single regard is had unto them, the whole soul is filled with light, joy, and comfort. But when the understanding is darkened with respect to Gospel truths, all the powers and faculties of the soul are in a very miserable condition. Therefore, one's eye should be single and focused solely on the glory of Christ in the Gospel, for this will guide and direct the soul. Conversely, aiming at anything else will result in folly, sin, and misery.",
+            "wordCount": 97,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 1.2280223529953431,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.18,
+            "commentatorTierSimilarities": [
+                26.09,
+                0.0,
+                73.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the understanding is enlightened by the Spirit of God, into the truths of the Gospel, and a single regard is had unto them, the whole soul is filled with light, joy, and comfort. But when the understanding is darkened with respect to Gospel truths, all the powers and faculties of the soul are in a very miserable and uncomfortable condition. Therefore, it is crucial for one's eye to be single, fully focused on the glory of Christ in the Gospel. Anything else will lead to folly, sin, and misery.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.2890251972725313,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.2,
+            "commentatorTierSimilarities": [
+                30.65,
+                0.0,
+                69.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the understanding is enlightened by the Spirit of God, and a single regard is had unto the truths of the Gospel and the glory of Christ, the whole soul is filled with light, joy, and comfort. However, if the understanding is darkened with respect to Gospel truths, the soul will experience a state of misery and discomfort. Therefore, it is essential to maintain a focused and single eye, solely fixed on the Gospel truths and the glory of Christ, in order to guide and direct the soul towards light and away from folly, sin, and misery.",
+            "wordCount": 97,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.4406236994759958,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.24,
+            "commentatorTierSimilarities": [
+                28.29,
+                0.0,
+                71.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the understanding is enlightened by the Spirit of God and focused on the truths of the Gospel, the soul is filled with light, joy, and comfort. However, if the understanding remains in darkness and ignorance of Gospel truths, the soul is left in a miserable and uncomfortable condition. Therefore, one's eye should be single, fixed solely on the glory of Christ in the Gospel, to guide and direct the soul. Aiming at anything else will lead to folly, sin, and misery.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.1480144364901808,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.52,
+            "commentatorTierSimilarities": [
+                26.84,
+                0.0,
+                73.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

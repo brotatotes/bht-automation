@@ -1,0 +1,147 @@
+{
+    "timestamp": "12-19-2023 15:29:49",
+    "verseRef": "Ephesians 1:9",
+    "bestBHT": {
+        "bht": "The revelation of God's mystery is not just an intellectual understanding, but a deep revelation to the heart. All Christians are initiated into this profound mystery, while unbelievers remain uninitiated. The mystery of God's will, manifested in His grace and redemption, is a rich and deep expression of His nature. It was once hidden, but is now revealed according to His good pleasure and eternal plan. This mystery surpasses human comprehension, even for true believers.",
+        "wordCount": 77,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 2.0951079345111587,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+        "commentatorTierSimilarities": [
+            33.09,
+            29.49,
+            37.42
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This 'making known' is not merely the information of the understanding, but the revelation, in its fulness, to the heart.",
+            "All who vitally know that, i.e. all the Christian church, are the initiated: and all who have the word, read or preached, may vitally know it.",
+            "Only the world without, the unbelieving, are the uninitiated."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He hath abounded,",
+            "   or made (grace) to abound toward us... in our hearts.",
+            "This 'mystery' is not like the heathen mysteries, which were imparted only to the initiated few. All Christians are the initiated. Only unbelievers are the uninitiated.",
+            "According to his good pleasure\u2014showing the cause why 'He hath made known to us the mystery,' namely, His own loving 'good pleasure' toward us; also the time and manner of His doing so, are according to His good pleasure."
+        ],
+        "Albert Barnes": [
+            "The word 'mystery' means literally something into which one must be 'initiated' before it is fully known...It means there some doctrine or fact which has been concealed.",
+            "When the doctrine is made known, it may be as clear and plain as any other...though when it was revealed, there was nothing incomprehensible in it.",
+            "His purposes originated in his own mind, and were concealed until he chose to make them known."
+        ],
+        "Marvin Vincent": [
+            "The mystery of His will...God's grace as manifested in redemption is a mystery in virtue of its riches and depth - as the expression of God's very nature.\" ",
+            "The mystery of the redemption in Christ, belonging to the eternal plan of God, could be known to men only through revelation - making known.",
+            "Purposed. Only here, Romans 1:13; Romans 3:25 (note). In Himself. The best texts read in Him; but the reference is clearly to God, not to Christ, who is expressly mentioned in the next verse."
+        ],
+        "John Calvin": [
+            "The decree to adopt the Gentiles is declared to have been till now hidden in the mind of God, but so hidden, that God reserved it in his own power until the time of the revelation.\" ",
+            "Does any one now complain of it as a new and unprecedented occurrence, that those who were formerly 'without God in the world' (Ephesians 2:12) should be received into the church?\" ",
+            "Will he have the hardihood to deny that the knowledge of God is greater than that of men?"
+        ],
+        "Philip Schaff": [
+            "The word \u2018mystery\u2019 in the N. T. is applied to: (1.) \u2018such matters of fact as are inaccessible to reason, and can only be known through revelation; (2) such matters as are patent facts, but the process of which cannot be entirely taken in by the reason.\u2019",
+            "Here the wider reference is to be accepted; the redemption in Christ as belonging to the eternal plan of God. We could not know this great fact were it not revealed, and even now it contains much that transcends our reason.",
+            "\u2018Purposed\u2019 means to put before one\u2019s self, not necessarily beforehand, though the whole context shows that the purpose is to be regarded as taking place before the foundation of the world."
+        ],
+        "Archibald T. Robertson": [
+            "The mystery of his will (\u03c4\u03bf \u03bc\u03c5\u03c3\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bb\u03b7\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). Once hidden, now revealed...\" ",
+            "Which he purposed (\u03b7\u03bd \u03c0\u03c1\u03bf\u03b5\u03b8\u03b5\u03c4\u03bf). Second aorist middle of \u03c0\u03c1\u03bf\u03c4\u03b9\u03b8\u03b7\u03bc, old verb...\" ",
+            "Once hidden, now revealed as in Colossians 1:26..."
+        ],
+        "John Gill": [
+            "The Gospel, which is a mystery, a hidden mystery, the mystery of God and of Christ, and the mystery of the Gospel...",
+            "The several doctrines of it [the Gospel] are called the mysteries of the kingdom of heaven...",
+            "The Gospel is the mystery of the will of God; of his will in saving sinners by Christ; and it declares that he does all things in salvation, according to his sovereign will and pleasure..."
+        ],
+        "John Wesley": [
+            "The mystery of his will \u2014 The gracious scheme of salvation by faith, which depends on his own sovereign will alone.",
+            "This was but darkly discovered under the law; is now totally hid from unbelievers.",
+            "And has heights and depths which surpass all the knowledge even of true believers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that God has made known to us the mystery of His will, a revelation not merely for the understanding, but a full revelation to the heart. All Christians are initiated into this mystery, while unbelievers remain uninitiated. The mystery of His will, a manifestation of God's grace in redemption, is a profound mystery due to its richness and depth. It was once hidden, but is now revealed through God's good pleasure and according to His eternal plan. This mystery of God's will is far greater than human comprehension and surpasses all knowledge, even of true believers.",
+            "wordCount": 102,
+            "quoteTokenProportion": 46.27,
+            "qualityScore": 2.2529833157292805,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.25,
+            "commentatorTierSimilarities": [
+                31.09,
+                31.17,
+                37.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The revelation of God's mystery is not just an intellectual understanding, but a deep revelation to the heart. All Christians are initiated into this profound mystery, while unbelievers remain uninitiated. The mystery of God's will, manifested in His grace and redemption, is a rich and deep expression of His nature. It was once hidden, but is now revealed according to His good pleasure and eternal plan. This mystery surpasses human comprehension, even for true believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0951079345111587,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.0,
+            "commentatorTierSimilarities": [
+                33.09,
+                29.49,
+                37.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mystery of God's will, revealed to us, is not a mere intellectual understanding, but a profound revelation that touches the depths of our hearts. All Christians are part of this sacred initiation, while unbelievers remain outside of it. This mystery, displaying God's grace and redemption, is a divine expression of His very nature. It was once hidden, but is now made known according to His own loving good pleasure. This mystery goes beyond human comprehension and even surpasses the knowledge of true believers.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.0205589300800852,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.52,
+            "commentatorTierSimilarities": [
+                31.64,
+                31.04,
+                37.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The revelation of God's mystery is not merely an intellectual understanding, but a profound unveiling that resonates within our hearts. All Christians are initiated into this sacred knowledge, while unbelievers remain uninitiated. This revelation showcases God's grace and redemption, serving as a testament to His very nature. Though once concealed, it is now disclosed according to His good pleasure and eternal plan. This mystery surpasses human comprehension and even eludes the understanding of true believers.",
+            "wordCount": 77,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.980262490676194,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                32.09,
+                31.7,
+                36.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God has made known to us the mystery of His will, a revelation that goes beyond mere intellectual understanding and reaches into the depths of our hearts. All Christians are initiated into this sacred knowledge, while unbelievers remain outside of it. This mystery reflects God's grace and redemption, revealing His true nature. Although once hidden, it is now disclosed according to God's good pleasure and eternal plan. This profound mystery surpasses human comprehension and even extends beyond the knowledge of true believers.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.032477142109623,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.92,
+            "commentatorTierSimilarities": [
+                30.96,
+                30.21,
+                38.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

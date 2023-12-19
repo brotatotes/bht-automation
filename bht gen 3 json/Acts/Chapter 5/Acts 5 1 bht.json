@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:26:25",
+    "verseRef": "Acts 5:1",
+    "bestBHT": {
+        "bht": "Ananias and Sapphira desired to serve two masters while appearing to serve just one. Ananias, meaning The cloud of God or The mercy of God, and Sapphira, a Greek name for the precious stone sapphire, sold their property for religious purposes but failed to fully devote the funds to God. Hypocrisy and deceit were involved as they tried to imitate the people of God. This incident shows the presence of hypocrites even among those with esteemed names and in pure churches.",
+        "wordCount": 81,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.5938913037860472,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+        "commentatorTierSimilarities": [
+            21.85,
+            49.83,
+            28.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Ananias signifies in Hebrew,\u2014The cloud of God, or The mercy of God.",
+            "Sapphira is probably a Greek name for the precious stone sapphire.",
+            "They wished to serve two masters, but to appear to serve only One."
+        ],
+        "Albert Barnes": [
+            "The case is a remarkable instance of the nature of 'hypocrisy,' and goes to illustrate the art and cunning of the enemy of souls in attempting to corrupt the church, and to pervert the religion of the gospel.\" ",
+            "Hypocrisy consists in an attempt to 'imitate' the people of God, or to assume the 'appearance' of religion, in whatever form it may be manifested.",
+            "It is clear that they were not under obligation to sell their property. But, 'having' sold it for the purposes of religion, it became their duty, if they professed to devote the avails of it to God, to do it entirely, and without any reservation."
+        ],
+        "John Calvin": [
+            "He hath wonderful wiles of hypocrisy to insinuate himself.",
+            "God cannot abide this unfaithfulness, when as bearing a show of holiness where there is none, we do mock him contemptibly.",
+            "The sacrifices of the ungodly are an abomination to God; neither can anything please him where the singleness of heart is wanting."
+        ],
+        "Archibald T. Robertson": [
+            "Sold (\u03b5\u03c0\u03c9\u03bb\u03b7\u03c3\u03b5\u03bd). Aorist active indicative again, for a single case. "
+        ],
+        "John Gill": [
+            "This shows there are hypocrites among men of the greatest names and characters, and in the purest churches.",
+            "The name 'Sappho', which was the name of a famous poetess, the inventress of a kind of verse called 'Sapphic' verse, is said to be the diminutive of this name 'Sapphira'.",
+            "But whatever her name or person were, her actions were disagreeable."
+        ],
+        "John Wesley": [
+            "It is certain, not a believer, for all that believed were of one heart and of one soul...",
+            "Probably not baptized; but intending now to offer himself for baptism."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 5:1, Ananias and Sapphira desired to serve two masters while appearing to serve just one. Ananias, meaning The cloud of God or The mercy of God, and Sapphira, a Greek name for the precious stone sapphire, sold their property for religious purposes but did not fully devote the funds to God. Hypocrisy played a significant role in their actions, as they aimed to imitate the people of God and assume the appearance of religion. God detests such unfaithfulness and contemptible mockery. This incident exposes the presence of hypocrites even among those with esteemed names and in pure churches.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.5045051073645688,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                19.14,
+                50.66,
+                30.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Ananias and Sapphira desired to serve two masters while appearing to serve just one, as Ananias means The cloud of God or The mercy of God, and Sapphira is a Greek name for the precious stone sapphire. They sold their property for religious purposes but failed to fully devote the funds to God. Hypocrisy played a role, as they imitated the people of God and assumed the appearance of religion. This incident shows the presence of hypocrites even among those with esteemed names and in pure churches.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.586243120189694,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.08,
+            "commentatorTierSimilarities": [
+                20.26,
+                52.82,
+                26.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Acts 5:1, Ananias and Sapphira wished to serve two masters while appearing to serve only one. Ananias, meaning The cloud of God or The mercy of God, and Sapphira, a Greek name for the precious stone sapphire, sold their property for religious purposes but failed to fully devote the funds to God. Hypocrisy and deceit were involved as they tried to imitate the people of God, yet God detests such unfaithfulness. This account serves as a reminder that even those with esteemed names and in pure churches can be hypocrites.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 1.6220544970895139,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                22.59,
+                48.33,
+                29.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Ananias and Sapphira desired to serve two masters while appearing to serve just one. Ananias, meaning The cloud of God or The mercy of God, and Sapphira, a Greek name for the precious stone sapphire, sold their property for religious purposes but failed to fully devote the funds to God. Hypocrisy and deceit were involved as they tried to imitate the people of God. This incident shows the presence of hypocrites even among those with esteemed names and in pure churches.",
+            "wordCount": 81,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.5938913037860472,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.34,
+            "commentatorTierSimilarities": [
+                21.85,
+                49.83,
+                28.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Acts 5:1, Ananias and Sapphira desired to serve two masters while appearing to serve just one. Ananias, meaning The cloud of God or The mercy of God, and Sapphira, a Greek name for the precious stone sapphire, sold their property for religious purposes, but failed to fully devote the funds to God. Their actions were marked by hypocrisy, attempting to imitate the people of God. This account serves as a reminder that even among esteemed names and in pure churches, hypocrites exist.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.569912174841868,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.54,
+            "commentatorTierSimilarities": [
+                21.75,
+                48.52,
+                29.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

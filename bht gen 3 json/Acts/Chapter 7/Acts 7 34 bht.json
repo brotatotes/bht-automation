@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 16:27:30",
+    "verseRef": "Acts 7:34",
+    "bestBHT": {
+        "bht": "God emphatically declares that He has indeed seen the afflictions and groaning of His people. This repetition emphasizes His absolute certainty and exact knowledge of their suffering, revealing His deep compassion and heartfelt response. By saying, I have heard their groaning, God assures His people that He intimately understands their hardships. In response, He has come down to deliver them from their affliction and lead them towards freedom and restoration.",
+        "wordCount": 70,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.277393303287665,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.82,
+        "commentatorTierSimilarities": [
+            6.73,
+            28.2,
+            65.07
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "34. I have seen, I have seen (literally, seeing I saw)] This is the emphatic way of expression in the Hebrew."
+        ],
+        "Albert Barnes": [
+            "The repetition of this word is in accordance with the usage of the Hebrew writers when they wish to represent anything emphatically.",
+            "Am come down - This is spoken in accordance with human conceptions. It means that God was about to deliver them.",
+            "I will send thee ... - This is a mere summary of what is expressed at much greater length in Exodus 3:7-10."
+        ],
+        "Marvin Vincent": [
+            "I have seen, I have seen [\u03b9\u03b4\u03c9\u03bd \u03b5\u03b9\u03b4\u03bf\u03bd]. Lit., having seen I saw. A Hebraism.\" ",
+            "Compare Jude 1:28: utterly drive them out; lit., removing did not utterly remove.",
+            "Genesis 37:8: reigning shalt thou reign; i.e., shalt thou indeed reign."
+        ],
+        "John Calvin": [
+            "In like sort is he said to come down. He needeth not to move out of his place to help us, for his hand reacheth throughout the heaven and earth; but this is referred unto our understanding.",
+            "For, seeing that he did not deliver his people from their affliction, he might seem that he was afar off, and was busied about some other thing in heaven. Now he saith that the Israelites shall perceive that he is nigh unto them.",
+            "For we must note that he saith that he heard the mourning of the people. For although he hath respect unto those which are in misery and unjustly oppressed, yet when we lay our mournings and complaints in his lap, he is especially moved to have mercy."
+        ],
+        "Philip Schaff": [
+            "And am come down to deliver them. That is, from His throne in heaven.",
+            "This is the ordinary language used when speaking of the Eternal in His relations with men.",
+            "So Isaiah 66:1: 'Thus saith the Lord, Heaven is My throne, and earth is My footstool.'"
+        ],
+        "Archibald T. Robertson": [
+            "Seeing I saw\" (cf. Hebrews 6:14).",
+            "From \u03ba\u03b1\u03ba\u03bf\u03c9, to treat evilly (from \u03ba\u03b1\u03ba\u03bf\u03c2, evil).",
+            "Root \u03c3\u03c4\u03b5\u03bd in our word stentorian."
+        ],
+        "John Gill": [
+            "The repetition of the phrase denotes the certainty of it, the exquisite and exact knowledge the Lord took of the affliction of his people, and how much his heart was affected with it.",
+            "I have heard their groaning; under their various oppressions and burdens, and by reason of the cruel usage of their taskmasters.",
+            "And now come, I will send thee into Egypt; to Pharaoh, the king of it, to require of him to let the children of Israel go, and to deliver them out of their bondage."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God, in His emphatic way, declares through this verse that He has not only seen the afflictions and groaning of His people, but He has truly seen and taken notice of them. This repetition emphasizes the certainty and exact knowledge that the Lord has of His people's suffering. It demonstrates His deep compassion and how greatly His heart is affected by their pain. By saying, I have heard their groaning, God assures us that He is intimately aware of the hardships his people face. In response to their cries, God has come down with a purpose - to deliver them from their affliction and bring them to a place of freedom and restoration.",
+            "wordCount": 113,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.3632302117040036,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.67,
+            "commentatorTierSimilarities": [
+                12.83,
+                25.79,
+                61.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In an emphatic manner, God declares that He has truly seen and taken notice of the afflictions and groaning of His people. This repetition emphasizes His exquisite and exact knowledge, demonstrating His deep compassion and how greatly His heart is affected by their pain. By saying, I have heard their groaning, God assures us that He is intimately aware of the hardships they face. In response to their cries, He has come down to deliver them from their affliction and bring them to a place of freedom and restoration.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.2702560716703948,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.58,
+            "commentatorTierSimilarities": [
+                9.07,
+                23.93,
+                67.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God emphatically declares that He has indeed seen the afflictions and groaning of His people. This repetition emphasizes His absolute certainty and exact knowledge of their suffering, revealing His deep compassion and heartfelt response. By saying, I have heard their groaning, God assures His people that He intimately understands their hardships. In response, He has come down to deliver them from their affliction and lead them towards freedom and restoration.",
+            "wordCount": 70,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.277393303287665,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.82,
+            "commentatorTierSimilarities": [
+                6.73,
+                28.2,
+                65.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God, in His emphatic way, declares through this verse that He has not only seen the afflictions and groaning of His people, but He has truly seen and taken notice of them. This repetition emphasizes the certainty and exact knowledge that the Lord has of His people's suffering. It demonstrates His deep compassion and how greatly His heart is affected by their pain. By saying, I have heard their groaning, God assures us that He is intimately aware of the hardships his people face. In response to their cries, God has come down to deliver them from their affliction and bring them to a place of freedom and restoration.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.3682864005107462,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.84,
+            "commentatorTierSimilarities": [
+                13.09,
+                25.8,
+                61.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With an emphatic expression, God declares His absolute certainty and deep compassion towards His people's afflictions and groaning. The repetition highlights the perfect and precise understanding He possesses of their suffering, moving His heart with sympathy. By affirming, I have heard their groaning, God assures us that He intimately knows the hardships they endure. In response, He descends to deliver them, bringing freedom from their afflictions and leading them towards a place of restoration and redemption.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.2564761370307451,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.12,
+            "commentatorTierSimilarities": [
+                10.04,
+                24.63,
+                65.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

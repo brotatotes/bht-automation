@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 15:15:27",
+    "verseRef": "2 Corinthians 3:4",
+    "bestBHT": {
+        "bht": "Our confidence is not a vain boast, but rests on the power imparted to us through Christ in regard to God's work and our own account to be given to Him. This confidence is solid and real, as looking to Him for the strength needed now and the reward of grace to be given hereafter. Human confidence is unreal in that it looks to man for help and its reward. Through Christ, we have confidence toward God and to whom we must account for our work.",
+        "wordCount": 87,
+        "quoteTokenProportion": 53.7,
+        "qualityScore": 2.6376452777344905,
+        "qualityScoreNormalizedComparedToV2BHTs": 79.04,
+        "commentatorTierSimilarities": [
+            43.14,
+            32.82,
+            24.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Such confidence, however, we possess through Christ toward God: i.e. 'it is no vain boast, but rests on power imparted to us through Christ in regard to God, in reference to God's work and our own account to be given to Him.'\" "
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Such confidence, however (namely, of our 'sufficiency,' 2 Corinthians 3:5; 2 Corinthians 3:6; 2 Corinthians 2:16 - :), we have through Christ...",
+            "Confidence toward God is solid and real, as looking to Him for the strength needed now, and also for the reward of grace to be given hereafter.",
+            "Human confidence is unreal in that it looks to man for its help and its reward."
+        ],
+        "Albert Barnes": [
+            "Such confidence have we that we are appointed by God, and that he accepts our work.",
+            "His confidence did not rest on letters of introduction from people, but in the evidence of the divine presence, and the divine acceptance of his work.",
+            "Our confidence relates to God. It is confidence that he has appointed us, and sent us forth; and confidence that he will still continue to own and to bless us."
+        ],
+        "Marvin Vincent": [
+            "Confidence. In the fact that he may appeal to them, notwithstanding their weaknesses and errors.",
+            "Through Christ to God - ward [\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u03b8\u03b5\u03bf\u03bd]. Through Christ who engenders the confidence, toward God, with reference to God who gives us success...",
+            "...and to whom we must account for our work."
+        ],
+        "John Calvin": [
+            "I extol God rather than myself, by whose grace I am what I am.",
+            "He adds, as he is accustomed to do by Christ, because he is, as it were, the channel, through which all God's benefits flow forth to us."
+        ],
+        "Philip Schaff": [
+            "not that we are sufficient of (\u2018from\u2019) ourselves to account anything as from (\u2018out of\u2019) ourselves as though we were the source of our own success;",
+            "our sufficiency is from God;",
+            "our sufficiency is from God"
+        ],
+        "Archibald T. Robertson": [
+            "Through Christ (\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). It is not self-conceit on Paul's part, but through Christ. "
+        ],
+        "John Gill": [
+            "And such trust have we\" - This reveals the level of confidence Paul and his fellow ministers possess.",
+            "sufficient in some measure\" - This acknowledges their adequacy and capability to carry out their ministry effectively.",
+            "many seals of their ministry\" - This highlights the evidence and affirmations of God's approval and blessing on Paul's ministry."
+        ],
+        "John Wesley": [
+            "Such trust have we in God \u2014 That is, we trust in God that this is so."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "Our confidence is not a vain boast, but rests on the power imparted to us through Christ in regard to God's work and our own account to be given to Him. This confidence is solid and real, as we look to God for the strength needed now and the reward of grace to be given hereafter. It is not based on human confidence, which is unreal as it looks to man for help and reward. Through Christ, we have confidence toward God and to whom we must account for our work. Our sufficiency and appointment come from God, not from ourselves, and we trust in Him to continue to own and bless us.",
+            "wordCount": 114,
+            "quoteTokenProportion": 48.39,
+            "qualityScore": 2.717227527784231,
+            "qualityScoreNormalizedComparedToV2BHTs": 81.69,
+            "commentatorTierSimilarities": [
+                38.51,
+                36.48,
+                25.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our confidence is not a vain boast, but rests on the power imparted to us through Christ in regard to God's work and our own account to be given to Him. This confidence is solid and real, as we look to God for the strength needed now and the reward of grace to be given hereafter. It is not based on human confidence, which is unreal as it looks to man for help and reward. Our sufficiency and appointment come from God, not from ourselves.",
+            "wordCount": 86,
+            "quoteTokenProportion": 47.27,
+            "qualityScore": 2.5984188520188622,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.74,
+            "commentatorTierSimilarities": [
+                38.23,
+                37.66,
+                24.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our confidence is not a vain boast, but rests on the power imparted to us through Christ in regard to God's work and our own account to be given to Him. This confidence is solid and real, as looking to Him for the strength needed now and the reward of grace to be given hereafter. Human confidence is unreal in that it looks to man for help and its reward. Through Christ, we have confidence toward God and to whom we must account for our work.",
+            "wordCount": 87,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 2.6376452777344905,
+            "qualityScoreNormalizedComparedToV2BHTs": 79.04,
+            "commentatorTierSimilarities": [
+                43.14,
+                32.82,
+                24.05
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

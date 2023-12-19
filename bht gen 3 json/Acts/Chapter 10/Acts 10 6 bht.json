@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:29:01",
+    "verseRef": "Acts 10:6",
+    "bestBHT": {
+        "bht": "At the ninth hour, Peter's vision was revealed to him distinctly while he was praying on the rooftop. In Joppa, Simon the tanner's house by the seashore served as a tanner's yard, located outside the city walls for practical purposes. Although the tanner's occupation was considered unclean and required living apart from strict Jews, Simon welcomed and lodged strangers in his home. This act of hospitality and kindness reflected Simon's character as a good man, despite his humble and insignificant residence in Joppa.",
+        "wordCount": 88,
+        "quoteTokenProportion": 29.69,
+        "qualityScore": 1.3594370333112447,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+        "commentatorTierSimilarities": [
+            24.06,
+            27.87,
+            48.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "3-6. saw . . .",
+            "\tevidently\u2014\"distinctly.\" ",
+            "\t",
+            "the ninth hour of the",
+            "\tday\u2014three o'clock, the hour of the evening sacrifice. But he",
+            "\thad been \"fasting until that hour\" ( :-), perhaps from the sixth hour ( :-)."
+        ],
+        "Albert Barnes": [
+            "He lodgeth - He remains as a guest at his house.\" (Acts 10:6)",
+            "By the sea-side - Joppa was a seaport on the Mediterranean.",
+            "Tanneries are erected on the margin of streams or of any body of water to convey away the filth produced in the operation of dressing skins."
+        ],
+        "Marvin Vincent": [
+            "The tanner's occupation was regarded as unclean by strict Jews, and the tanners were commanded to dwell apart.",
+            "A tanner's yard must be at least fifty cubits from any town.",
+            "I observed that the rocks in front of them were covered with the water a few inches deep, and that they soaked their hides on these rocks and also submitted them to some process in the water which I did not stop to understand."
+        ],
+        "Philip Schaff": [
+            "This, again, is part of the minute exactitude conspicuous throughout the narrative.",
+            "Thus the phrase is seen to have a true importance in the narrative.",
+            "At all events, his temporary home at Joppa was not a place of any distinction and honour; and this, too, is significant."
+        ],
+        "Archibald T. Robertson": [
+            "To entertain a guest as here or to surprise by strange acts.",
+            "Whose (\u03c9). To whom, dative of possession.",
+            "Outside the city walls because a tanner and to secure water for his trade."
+        ],
+        "John Gill": [
+            "Simon the tanner...a good man, and one that lodged strangers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "As Peter was praying on the rooftop at the ninth hour, he saw a vision that was revealed to him distinctly. Meanwhile, in Simon the tanner's house by the sea-side in Joppa, a tanner's yard was located outside the city walls for practical reasons related to his occupation. The tanner's occupation was regarded as unclean, causing them to live apart from the other strict Jews. Yet, Simon opened his home and lodged strangers, demonstrating his hospitality and kindness, and his temporary residence in Joppa was not a place of distinction, but rather a humble dwelling.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.3263692800427438,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.44,
+            "commentatorTierSimilarities": [
+                30.87,
+                31.2,
+                37.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the ninth hour, Peter's vision was revealed to him distinctly while he was praying on the rooftop. In Joppa, Simon the tanner's house by the seashore served as a tanner's yard, located outside the city walls for practical purposes. Although the tanner's occupation was considered unclean and required living apart from strict Jews, Simon welcomed and lodged strangers in his home. This act of hospitality and kindness reflected Simon's character as a good man, despite his humble and insignificant residence in Joppa.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.3594370333112447,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.54,
+            "commentatorTierSimilarities": [
+                24.06,
+                27.87,
+                48.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the ninth hour, Peter had a distinct vision while praying on the rooftop. Simon the tanner's house in Joppa, situated by the seashore, served as a tanner's yard, which had to be located outside the city walls. Although the tanner's profession was considered unclean and required dwelling apart from others, Simon's hospitality stood out. He welcomed and lodged strangers, inspiring others with his kind and generous nature, despite his modest dwelling in Joppa.",
+            "wordCount": 78,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.2900168811192885,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.24,
+            "commentatorTierSimilarities": [
+                25.36,
+                25.97,
+                48.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the ninth hour, Peter experienced a clear vision while praying on the rooftop. Simon the tanner resided in Joppa, by the seashore, where the tanner's yard was located outside the city walls. Despite the tanner's occupation being considered unclean and requiring isolation, Simon's character shone through as a gracious and hospitable man. He welcomed and provided lodging for strangers, demonstrating his kindness and generosity, even though his dwelling in Joppa was not esteemed or prestigious.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.2857502402765197,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.09,
+            "commentatorTierSimilarities": [
+                26.58,
+                27.77,
+                45.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the ninth hour, Peter had a distinct vision while praying on the rooftop. Simon the tanner resided in Joppa by the seashore, and his occupation required him to live outside the city walls, away from strict Jews. However, Simon's character shone through as a good man who showed hospitality by lodging strangers. Despite his humble dwelling, Simon's kindness and generosity were evident, as he received and welcomed guests into his home, exemplifying the true spirit of hospitality.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.3091752997070476,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.87,
+            "commentatorTierSimilarities": [
+                19.76,
+                21.13,
+                59.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

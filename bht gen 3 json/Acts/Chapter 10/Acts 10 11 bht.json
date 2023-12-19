@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:14",
+    "verseRef": "Acts 10:11",
+    "bestBHT": {
+        "bht": "As a sheet was being knit at the four corners and let down from heaven, it symbolized the embrace of men from all directions, who were now considered clean before God and called to share in His kingdom. The opening of heaven, though not literally visible to Peter, was a visionary glimpse into the revelation of the mystery of the calling of the Gentiles. It represents the church, which originates from heaven and expands to the four corners of the world, uniting believers to Christ and to one another.",
+        "wordCount": 89,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.9435782191276196,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+        "commentatorTierSimilarities": [
+            14.76,
+            40.7,
+            44.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These four ends are not without meaning, directed as they are to the four parts of heaven.\" ",
+            "Men from the North, South, East, and West, now were accounted clean before God, and were called to a share in his kingdom.",
+            "We must not wander away into childish exaggeration of symbolism as some have done."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9-16. upon the housetop\u2014the",
+            "\tflat roof, the chosen place in the East for cool retirement. ",
+            "\t",
+            "the sixth hour\u2014noon."
+        ],
+        "Albert Barnes": [
+            "This language is derived from a common mode of speaking in the Hebrew Scriptures, as if the sky above us was a solid, vast expanse, and as if it were opened to present an opportunity for anything to descend. It is language that is highly figurative.",
+            "The sacred writer does not say that Peter literally saw such an object descending; but he uses this as an imperfect description of the vision.",
+            "Knit at the four corners - Bound, united, or tied. The corners were collected, as would be natural in putting anything into a great sheet."
+        ],
+        "Marvin Vincent": [
+            "The word is used in this sense by Herodotus, describing the sacrifices of the Scythians. The victim's forefeet are bound with a cord, 'and the person who is about to offer, taking his station behind the victim, pulls the end [\u03b1\u03c1\u03c7\u03b7\u03bd] of the rope, and thereby throws the animal down' (4, 60).",
+            "It was the technical expression in medical language for the ends of bandages.",
+            "We have thus in this passage a technical medical phrase - the ends of a bandage - used for the ends of a sheet, which hardly any one except a medical man would think of employing."
+        ],
+        "John Calvin": [
+            "The opening of heaven signifieth, in my judgment, another thing in this place than in the seventh chapter.",
+            "For it is said there that heaven was opened to Stephen, that he did behold the glory of Christ.",
+            "In this place Peter saw our heaven which we see divided, so that a sheet came thence."
+        ],
+        "Philip Schaff": [
+            "The verb in the original denotes that he gazed upon the opened heaven, and carefully surveyed it.",
+            "The impression conveyed is that the great sheet not only floated from heaven, but gradually approached St. Peter, so as to invite his close examination.",
+            "This must have been the view of the meaning of the word \u1f00\u03c1\u03c7\u03b1\u1fd1\u03c2 entertained by one of the old Greek commentators, who fancifully interprets it as denoting the four gospels."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid historical present and change from past time.",
+            "Perfect passive participle with double reduplication, state of completion.",
+            "The picture is the sheet held up by four cords to which the sheet is fastened."
+        ],
+        "John Gill": [
+            "Not literally, as at the baptism of Christ, and the stoning of Stephen; but in a visionary way, and which was an emblem of the opening and revealing the mystery of the calling of the Gentiles...\" ",
+            "Which seems to represent the church of God, whose original is from heaven, and consists of persons born from above, who have their conversation in heaven, and were designed for it...",
+            "Which may denote the preaching of the Gospel, and the spread of it, and the planting of churches by it in the four parts of the world; and also the church being knit to Christ, and the members of it one to another..."
+        ],
+        "John Wesley": [
+            "Tied at the corners \u2014 Not all in one knot, but each fastened as it were up to heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Acts 10:11, as a sheet was being knit at the four corners and let down from heaven, it symbolized the embrace of men from all directions, who were now considered clean before God and called to share in His kingdom. This image is not to be interpreted overly symbolically, but rather, it conveys a vivid and historical present reality. The opening of heaven, though not literally visible to Peter, was a visionary glimpse into the revelation of the mystery of the calling of the Gentiles. It represents the church, which originates from heaven and expands to the four corners of the world, uniting believers to Christ and to one another.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.8647488472518665,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.34,
+            "commentatorTierSimilarities": [
+                17.24,
+                41.33,
+                41.43
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "As a sheet was being knit at the four corners and let down from heaven, it symbolized the embrace of men from all directions, who were now considered clean before God and called to share in His kingdom. The opening of heaven, though not literally visible to Peter, was a visionary glimpse into the revelation of the mystery of the calling of the Gentiles. It represents the church, which originates from heaven and expands to the four corners of the world, uniting believers to Christ and to one another.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9435782191276196,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                14.76,
+                40.7,
+                44.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When a sheet was knit at the four corners and descended from heaven, it conveyed the inclusiveness of those from the North, South, East, and West - all now deemed clean and worthy of God's kingdom. This powerful image paints a picture of the church, born from heaven, spreading to the four corners of the world. It signifies the preaching of the Gospel, the growth of Christ's church, and the unity of believers in Christ. It was a visionary illustration of the calling of the Gentiles and the expansion of God's kingdom.",
+            "wordCount": 94,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.6977368784218259,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.79,
+            "commentatorTierSimilarities": [
+                17.88,
+                37.85,
+                44.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As a sheet was being knit at the four corners and let down from heaven, it symbolized the embrace of men from all directions, who were now considered clean before God and called to share in His kingdom. The opening of heaven, though not literally visible to Peter, was a visionary glimpse into the revelation of the mystery of the calling of the Gentiles. It represents the church, which originates from heaven and expands to the four corners of the world, uniting believers to Christ and to one another.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.9435782191276196,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.97,
+            "commentatorTierSimilarities": [
+                14.76,
+                40.7,
+                44.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this passage, a sheet is knit at the four corners and lowered from heaven, signifying the inclusion of people from all directions who are now considered clean before God and invited to share in His kingdom. This vision offers a glimpse into the revelation of the mystery of the calling of the Gentiles, representing the global expansion of the church and the unity of believers. It serves as a symbolic image of the preaching of the Gospel and the knitting together of Christ and His followers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7140212675344686,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.33,
+            "commentatorTierSimilarities": [
+                15.56,
+                40.22,
+                44.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

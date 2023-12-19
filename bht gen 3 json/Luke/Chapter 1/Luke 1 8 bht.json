@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:13:03",
+    "verseRef": "Luke 1:8",
+    "bestBHT": {
+        "bht": "The verse is about a priest serving in the temple, showing dedication in his duty before God. The use of the Greek idiom emphasizes how the priest came before God with the proper reverence and respect. The temple was seen as God's dwelling place and the priest served in accordance with their course. The priest, in the line of Abia, faithfully carried out his duties, considering himself in the sight of God and doing his work sincerely. In this way, he demonstrated his devotion and fear of God.",
+        "wordCount": 89,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.479108523976141,
+        "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+        "commentatorTierSimilarities": [
+            24.8,
+            35.51,
+            39.69
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "Before God\" - In the temple, where God dwelt by the symbols of His presence.",
+            "The temple was regarded by the Jews as the \u201chouse\u201d or dwelling of God.",
+            "In the \u201cfirst\u201d temple there was, in the most holy place, a \u201ccloud\u201d called the Shechinah, or a visible sign of the presence of God."
+        ],
+        "Philip Schaff": [
+            "Served as priest, is more simple than the paraphrase of the E. V.",
+            "The words used here and in Luke 1:9 are not the same.",
+            "In the order of his course, i.e., during the week his course served in the temple."
+        ],
+        "Archibald T. Robertson": [
+            "A favourite idiom in Luke, \u03b5\u03bd with the articular infinitive and the accusative of general reference where the genitive absolute could have been used or a temporal conjunction and finite verb.",
+            "It is proper Greek, but occurs often in the LXX, which Luke read, particularly in imitation of the Hebrew infinitive construct.",
+            "The word \u03b9\u03b5\u03c1\u03b1\u03c4\u03b5\u03c5\u03c9 does not appear in the ancient Greek, but in the LXX and this one example in Luke."
+        ],
+        "John Gill": [
+            "Whilst he was in the way of his duty, when oftentimes God appears to, and in favour of his people...\" ",
+            "As having the fear of God before his eyes; considering himself as in the sight of God, and doing his work faithfully and sincerely...\" ",
+            "Taking his turn in the order of the course of Abia, to which he belonged..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse is about a priest serving in the temple, showing dedication in his duty before God. The use of the Greek idiom emphasizes how the priest came before God with the proper reverence and respect. The temple was seen as God's dwelling place and the priest served in accordance with their course. The priest, in the line of Abia, faithfully carried out his duties, considering himself in the sight of God and doing his work sincerely. In this way, he demonstrated his devotion and fear of God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.479108523976141,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.52,
+            "commentatorTierSimilarities": [
+                24.8,
+                35.51,
+                39.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The priest in the temple, following the order of his course, faithfully served before God with reverence and sincerity. The use of the Greek idiom, not commonly found in ancient Greek but appearing in the LXX and Luke, emphasizes the priest's dedication. The temple, regarded as God's dwelling place, was where the priest carried out his duties according to his allotted time. This demonstrates the priest's fear of God and his commitment to fulfilling his responsibilities in the sight of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.5881573106045703,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                31.01,
+                35.49,
+                33.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the temple, the priest served with reverence and sincerity, following the order of his course. The use of a Greek idiom, often found in the LXX and Luke, highlights his devotion. The temple symbolized God's dwelling place, and the priest's duty was to faithfully carry out his responsibilities in this sacred setting. By doing so, he demonstrated his fear of God and his commitment to fulfilling his duties in the presence of the Almighty.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.4765138487178926,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.44,
+            "commentatorTierSimilarities": [
+                29.03,
+                32.29,
+                38.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The priest, in accordance with his course, served with reverence before God in the temple. The use of a Greek idiom, commonly seen in the LXX and Luke, emphasizes his sincere devotion. The temple was viewed as God's dwelling place, where the priest fulfilled his duties at the appointed time. This showcases his fear of God and his faithful commitment to carrying out his responsibilities in the presence of the divine.",
+            "wordCount": 72,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.5097982985428469,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.54,
+            "commentatorTierSimilarities": [
+                29.56,
+                35.76,
+                34.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The priest, following his course, faithfully served in the temple with reverence before God. The Greek idiom, frequently used in Luke and the LXX, highlights his devotion and commitment. The temple, seen as God's dwelling place, was where the priest fulfilled his duties according to the order. This demonstrated his fear of God and his sincere dedication to carrying out his work in the presence of the Almighty.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.4881841877210404,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.82,
+            "commentatorTierSimilarities": [
+                27.69,
+                35.88,
+                36.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

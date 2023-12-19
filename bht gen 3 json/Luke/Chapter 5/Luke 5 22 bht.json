@@ -1,0 +1,113 @@
+{
+    "timestamp": "12-19-2023 16:15:14",
+    "verseRef": "Luke 5:22",
+    "bestBHT": {
+        "bht": "He, being God omniscient, perceiving their thoughts, exposed their wickedness by asking them why they were reasoning in their hearts. This was not out of ignorance, as it was previously mentioned that he perceived their thoughts, but rather to expose their evil intentions. This correlates with Matthew 9:4, where it is added that their thoughts were focused on evil things.",
+        "wordCount": 59,
+        "quoteTokenProportion": 53.33,
+        "qualityScore": 1.2044999035131847,
+        "qualityScoreNormalizedComparedToV2BHTs": 31.39,
+        "commentatorTierSimilarities": [
+            20.4,
+            0.0,
+            79.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Perceived. See on Mark 2:8."
+        ],
+        "Archibald T. Robertson": [
+            "Perceiving (\u03b5\u03c0\u03b9\u03b3\u03bd\u03bf\u03c5\u03c2). Same form (second aorist active participle of \u03b5\u03c0\u03b9\u03b3\u03b9\u03bd\u03c9\u03c3\u03ba\u03c9, common verb for knowing fully) in Mark 2:8.",
+            "Reason ye (\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03b6\u03b5\u03c3\u03b8\u03b5) as in Mark 2:8. Matthew 9:4 has \u03b5\u03bd\u03b8\u03c5\u03bc\u03b5\u03b9\u03c3\u03b8\u03b5. "
+        ],
+        "John Gill": [
+            "Being God omniscient; he answering said unto them, what reason ye in your hearts?\" ",
+            "This he said, not as being ignorant what their reasonings were, for it is before said he perceived their thoughts, but to expose the wickedness of them.",
+            "In one exemplar of Beza's it is added, 'evil things', as in Matthew 9:4."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He perceived their thoughts and asked them why they were reasoning in their hearts. This shows that Jesus, being God omniscient, was not ignorant of their thoughts, but rather exposed their wickedness. In another version, it adds evil things, highlighting the sinful nature of their thoughts.",
+            "wordCount": 46,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.0823709349574087,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.33,
+            "commentatorTierSimilarities": [
+                21.08,
+                0.0,
+                78.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He perceived their thoughts and exposed their wickedness by asking them why they were reasoning in their hearts. This shows that Jesus, being God omniscient, was not ignorant of their thoughts but intentionally challenged them to reveal their wicked intentions. Interestingly, in a manuscript of Beza's, it adds evil things to the statement, echoing the concept in Matthew 9:4.",
+            "wordCount": 59,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.1944867557955248,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.06,
+            "commentatorTierSimilarities": [
+                24.83,
+                0.0,
+                75.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He, being God omniscient, perceiving their thoughts, exposed their wickedness by asking them why they were reasoning in their hearts. This was not out of ignorance, as it was previously mentioned that he perceived their thoughts, but rather to expose their evil intentions. This correlates with Matthew 9:4, where it is added that their thoughts were focused on evil things.",
+            "wordCount": 59,
+            "quoteTokenProportion": 53.33,
+            "qualityScore": 1.2044999035131847,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.39,
+            "commentatorTierSimilarities": [
+                20.4,
+                0.0,
+                79.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Though the verse does not explicitly state it, the commentators indicate that Jesus knew the thoughts of those who were questioning him. He perceived their thoughts and fully knew their reasoning in their hearts. Jesus asked them why they were reasoning in this way, not because he was ignorant of their thoughts, but to expose their wickedness. This is in line with what is said in another version of the same passage, which adds that the thoughts were evil things.",
+            "wordCount": 80,
+            "quoteTokenProportion": 53.7,
+            "qualityScore": 1.2608176384979075,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.27,
+            "commentatorTierSimilarities": [
+                28.95,
+                0.0,
+                71.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this account, Jesus demonstrates his divine knowledge by perceiving the thoughts and reasoning of those who were questioning him. He fully understood what was in their hearts and exposed their wickedness by asking them why they were entertaining such thoughts. This aligns with another version of this incident, which suggests that their thoughts were inclined towards evil.",
+            "wordCount": 58,
+            "quoteTokenProportion": 52.17,
+            "qualityScore": 0.9713939977568333,
+            "qualityScoreNormalizedComparedToV2BHTs": 23.64,
+            "commentatorTierSimilarities": [
+                22.58,
+                0.0,
+                77.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

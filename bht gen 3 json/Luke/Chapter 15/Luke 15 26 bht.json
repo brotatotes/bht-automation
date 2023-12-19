@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:20:12",
+    "verseRef": "Luke 15:26",
+    "bestBHT": {
+        "bht": "The servant eagerly and repeatedly inquired about what these things might be, as he stood outside, feeling offended and jealous of the joy he was excluded from. This servant, not a bondslave, expressed his curiosity, while the Scribes and Pharisees, being self-righteous, lacked understanding of the Gospel and were ignorant of their own lost state and the deliverance available to them. Their joy was confined to themselves and their own works, leaving them unaware of the deeper spiritual joy they were missing out on.",
+        "wordCount": 85,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 1.4468549301710976,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.45,
+        "commentatorTierSimilarities": [
+            16.03,
+            37.85,
+            46.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Inquired [\u03b5\u03c0\u03c5\u03bd\u03b8\u03b1\u03bd\u03b5\u03c4\u03bf] . Imperfect. Began to inquire."
+        ],
+        "Philip Schaff": [
+            "One of the servants. Not the same word as in Luke 15:22; probably an inferior domestic in the permanent employ of the householder, but now standing without.",
+            "What these things might be. Offended that this should take place without his knowledge; jealous of the joy in which he would not share."
+        ],
+        "Archibald T. Robertson": [
+            "Servants (\u03c0\u03b1\u03b9\u03b4\u03c9\u03bd). Not \u03b4\u03bf\u03c5\u03bb\u03bf (bondslaves) as in verse Luke 15:22. The Greeks often used \u03c0\u03b1\u03b9\u03c2 for servant like the Latin puer.\" ",
+            "He inquired (\u03b5\u03c0\u03c5\u03bd\u03b8\u03b1\u03bd\u03b5\u03c4\u03bf). Imperfect middle, inquired repeatedly and eagerly.\" ",
+            "What these things might be (\u03c4 \u03b1\u03bd \u03b5\u03b9\u03b7 \u03c4\u03b1\u03c5\u03c4\u03b1). Not 'poor' Greek as Easton holds, but simply the form of the direct question retained in the indirect."
+        ],
+        "John Gill": [
+            "For self-righteous persons, as these Scribes and Pharisees were, are ignorant of the truths of the Gospel.",
+            "They are strangers to themselves, their lost state and condition, and a deliverance out of it.",
+            "The rejoicing of such persons is only in themselves, and in their own works and duties; but as for true solid spiritual joy, they intermeddle not with it, nor know they what it means."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The servant began to inquire eagerly and repeatedly about what these things might be. This servant was not a bondslave, but likely an inferior domestic standing outside the house. His curiosity was fueled by the offense and jealousy he felt for being left out of the joyous celebration. The self-righteousness of the Scribes and Pharisees blinded them to the truths of the Gospel. They were strangers to their own lost state and condition, lacking understanding of deliverance. Their joy was solely in themselves and their own works, ignorant of the deeper and true spiritual joy they were missing out on.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.28,
+            "qualityScore": 1.1849750011558025,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.74,
+            "commentatorTierSimilarities": [
+                19.25,
+                32.1,
+                48.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The servant eagerly inquired about what these things might be, repeatedly seeking to understand. This servant, different from a bondslave, stood outside and felt offended and jealous of the joy he was excluded from. The Scribes and Pharisees, being self-righteous, lacked knowledge of the Gospel and were ignorant of their own lost state and the deliverance available to them. Their joy was limited to themselves and their own works, unaware of the true spiritual joy they were missing out on.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.3888550119151513,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.52,
+            "commentatorTierSimilarities": [
+                20.49,
+                35.92,
+                43.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The servant eagerly and repeatedly inquired about what these things might be, as he stood outside, feeling offended and jealous of the joy he was excluded from. This servant, not a bondslave, expressed his curiosity, while the Scribes and Pharisees, being self-righteous, lacked understanding of the Gospel and were ignorant of their own lost state and the deliverance available to them. Their joy was confined to themselves and their own works, leaving them unaware of the deeper spiritual joy they were missing out on.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.4468549301710976,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.45,
+            "commentatorTierSimilarities": [
+                16.03,
+                37.85,
+                46.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The inquiring servant, not a bondslave but an inferior domestic standing outside, eagerly and repeatedly sought to understand what these things might be. His offense and jealousy stemmed from being excluded from the joyous celebration. The self-righteous Scribes and Pharisees lacked knowledge of the Gospel and were ignorant of their own lost state and the deliverance available to them. Their joy was limited to themselves and their own works, leaving them oblivious to the true spiritual joy they were missing out on.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.2413113989367475,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.62,
+            "commentatorTierSimilarities": [
+                14.85,
+                37.87,
+                47.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The servant, not a bondslave but an inferior domestic, eagerly inquired repeatedly about what these things might be. Standing outside, he felt offended and jealous of the joyous celebration he was excluded from. The self-righteous Scribes and Pharisees, lacking knowledge of the Gospel, remained ignorant of their own lost state and the deliverance available to them. Their joy was limited to themselves and their own works, leaving them unaware of the true spiritual joy they were missing out on.",
+            "wordCount": 80,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.3773107773982844,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.14,
+            "commentatorTierSimilarities": [
+                17.88,
+                39.61,
+                42.51
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 15:18:23",
+    "verseRef": "2 Corinthians 11:30",
+    "bestBHT": {
+        "bht": "He will boast of his weaknesses\u2014of those things which made him appear mean and contemptible in the eyes of his adversaries. He is carried on in his fervency of self-renunciation amidst his apparent self-celebration, and he will even cast before his enemies the contemptible antecedents of his career, boasting in being despised, if only for what Christ had done in him. A character utterly incompatible with that of an enthusiast, he will be attested as a true apostle by the sufferings which show his weakness.",
+        "wordCount": 88,
+        "quoteTokenProportion": 49.18,
+        "qualityScore": 2.2606079375511445,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+        "commentatorTierSimilarities": [
+            37.61,
+            31.26,
+            31.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He will boast of his weaknesses\u2014of those things which made him appear mean and contemptible in the eyes of his adversaries.",
+            "He is carried on in his fervency of self-renunciation amidst his apparent self-celebration, and he will even cast before his enemies the contemptible antecedents of his career, boasting in being despised, if only for what Christ had done in him.",
+            "I will glory in my weaknesses\u2014yea, and I will yet more abase myself\u2014God knows that I am telling sober truth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Glorying or boasting of what others make matter of shame, namely, infirmities.",
+            "A character utterly incompatible with that of an enthusiast.",
+            "A striking contrast! Glorying of infirmities."
+        ],
+        "Albert Barnes": [
+            "He admitted that he often wept, and trembled, and glowed with strong feelings on occasions which perhaps to many would not seem to call for such strong emotions, and which they might be disposed to set down as a weakness or infirmity.",
+            "But Paul admitted that he was disposed to glory in this alone. He gloried that he had sneered so much; that he had endured so many trials on account of Christianity, and that he had a mind that was capable of feeling for others and of entering into their, sorrows and trials.",
+            "Well might he do this, for there is no more lovely feature in the mind of a virtuous man, and there is no more lovely influence of Christianity than this, that it teaches us to 'bear a brother\u2019s woes,' and to sympathize in all the sorrows and joys of others."
+        ],
+        "Marvin Vincent": [
+            "He will be attested as a true apostle by the sufferings which show his weakness.",
+            "The sufferings...make him contemptible in his adversaries' eyes.",
+            "Not by the strength of which his opponents boast."
+        ],
+        "John Calvin": [
+            "Paul is more inclined to boast of those things that are connected with his infirmity, that is, those things which might, in the view of the world, bring him contempt, rather than glory.",
+            "Those things, in truth, that we are usually as much ashamed of, as of things that incur great dishonor.",
+            "Of all which we feel ordinarily as much ashamed, as if we had been shockingly defamed."
+        ],
+        "Philip Schaff": [
+            "If I must needs glory, I will glory of the things that concern my weakness.",
+            "The reference here is thought by many excellent critics to be to the infirmities spoken of in the following chapter.",
+            "But this seems unnatural, and we cannot well doubt that it is to the whole preceding details, which being of an astounding nature, and doubtless known in full only to himself, seemed to require the very strong and solemn asseveration of the next verse."
+        ],
+        "Archibald T. Robertson": [
+            "The things that concern my weakness (\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03b1\u03c2 \u03bc\u03bf\u03c5). Like the list above. "
+        ],
+        "John Gill": [
+            "What he had done was by force, and through necessity; he was compelled to it by the boasts of the false apostles.",
+            "His afflictions and sufferings for Christ, under which he was supported, and from which he was delivered by the power of Christ, and that was the reason he chose to glory of them.",
+            "His bearing them with so much patience, courage, and pleasure, and his many singular deliverances out of them, served greatly to illustrate the power and grace of Christ."
+        ],
+        "John Wesley": [
+            "I will glory of the things that concern my infirmities \u2014 Of what shows my weakness, rather than my strength."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He will boast of his weaknesses\u2014of those things which made him appear mean and contemptible in the eyes of his adversaries. He is carried on in his fervency of self-renunciation amidst his apparent self-celebration, and he will even cast before his enemies the contemptible antecedents of his career, boasting in being despised, if only for what Christ had done in him. A character utterly incompatible with that of an enthusiast, he will be attested as a true apostle by the sufferings which show his weakness. He will glory in the things that concern his infirmities\u2014yea, and even more abase himself, for God knows that he is telling sober truth.",
+            "wordCount": 113,
+            "quoteTokenProportion": 43.84,
+            "qualityScore": 2.2326144037042956,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.57,
+            "commentatorTierSimilarities": [
+                35.48,
+                32.12,
+                32.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He will boast of his weaknesses\u2014of those things which made him appear mean and contemptible in the eyes of his adversaries. He is carried on in his fervency of self-renunciation amidst his apparent self-celebration, and he will even cast before his enemies the contemptible antecedents of his career, boasting in being despised, if only for what Christ had done in him. A character utterly incompatible with that of an enthusiast, he will be attested as a true apostle by the sufferings which show his weakness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 49.18,
+            "qualityScore": 2.2606079375511445,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.51,
+            "commentatorTierSimilarities": [
+                37.61,
+                31.26,
+                31.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul will boldly boast of his weaknesses, even those aspects that his adversaries view as contemptible. He will humbly exalt in his infirmities, for they testify to his authenticity as a true apostle. His self-renunciation is not a sign of fanaticism but rather a testament to his genuine commitment to Christ. Paul's sufferings, which his opponents deride, highlight his strength as he endures for the sake of the Gospel. He chooses to glory in the things that concern his weaknesses, knowing that in Christ's power, weaknesses are transformed into triumphs.",
+            "wordCount": 93,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.104980114651424,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.33,
+            "commentatorTierSimilarities": [
+                32.01,
+                32.94,
+                35.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul will glory in his weaknesses, even as they make him contemptible in the eyes of his adversaries. His self-renunciation and willingness to cast light on the despised aspects of his life demonstrate his genuineness as a true apostle. Rather than boast in strength, Paul embraces his infirmities, knowing they testify to the power of Christ at work in him. His sufferings and endurance serve as a testament to the transformative grace of Christ, as weaknesses become opportunities for God's strength to be displayed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.051416598703521,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.55,
+            "commentatorTierSimilarities": [
+                31.07,
+                31.9,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul will boast of his weaknesses, even things that bring him contempt in the eyes of his adversaries, for they provide evidence of his authenticity as a true apostle. Contrary to being an enthusiast, his self-renunciation and ability to bear sufferings magnify the power of Christ. Paul's choice to glory in his infirmities rather than his strengths demonstrates his firm belief that weaknesses are transformed into sources of divine strength. These infirmities, he reveals, serve to illustrate the power and grace of Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.0749247953512486,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.33,
+            "commentatorTierSimilarities": [
+                30.59,
+                32.07,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

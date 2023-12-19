@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:40:13",
+    "verseRef": "1 Peter 5:8",
+    "bestBHT": {
+        "bht": "To stand firm against the devil, we must have a sober and self-restrained mind, being watchful for his attacks. The devil, like a roaring lion, is hungry for our destruction, continuously seeking to satisfy his insatiable appetite. However, Christ, our Advocate, has fulfilled the demands of justice on our behalf, making our redemption consistent with God's righteousness. Therefore, we should not be intoxicated by anxieties but trust in God's provision and remain watchful against the adversary's relentless pursuit of our destruction.",
+        "wordCount": 85,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.9376435754282877,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+        "commentatorTierSimilarities": [
+            32.75,
+            35.92,
+            31.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This sobriety of mind, as opposed to intoxication with anxieties of this life, is necessary to the firm resistance: only he who is sober stands firm.",
+            "Can it be that Peter thought of his Lord\u2019s 'Were ye thus unable to watch with me one hour' on the fatal night when he denied Him?",
+            "The devil is compared to a lion hungry and roaring for impatience of his hunger, because he insatiably seeks our destruction, and no prey satisfies him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Care, that is, anxiety, will intoxicate the soul; therefore be sober, that is, self-restrained.\" ",
+            "God provides, therefore do not be anxious. The devil seeks, therefore watch.",
+            "Through man's sin he got God's justice on his side against us; but Christ, our Advocate, by fulfilling all the demands of justice for us, has made our redemption altogether consistent with justice."
+        ],
+        "Albert Barnes": [
+            "Be sober, but your solicitude be directed to another point. Do not doubt that he is able and willing to support and befriend you, but be watchful against your foes.\" ",
+            "Satan opposes man in his best interests. He resists his efforts to do good; his purposes to return to God; his attempts to secure his own salvation.",
+            "The lion here is not the crouching lion - the lion stealthfully creeping toward his foe - but it is the raging monarch of the woods, who by his terrible roar would intimidate all so that they might become an easy prey."
+        ],
+        "Marvin Vincent": [
+            "Be watchful.\" ",
+            "A reminiscence of the scene in Gethsemane: Could ye not watch with me?\" ",
+            "Christ is called 'a lion' (Revelation 5:5) because of his courage: the devil, because of his ferocity."
+        ],
+        "John Calvin": [
+            "We must, he says, carry on a warfare in this world; and he reminds us that we have to do with no common enemy, but one who, like a lion, runs here and there, ready to devour.\" ",
+            "We too often turn peace into sloth, and hence it comes that the enemy then circumvents and overwhelms us; for, as though placed beyond the reach of danger, we indulge ourselves according to the will of the flesh.",
+            "He calls him the adversary of the godly, that they might know that they worship God and profess faith in Christ on this condition, that they are to have continual war with the devil, for he does not spare the members who fights with the head."
+        ],
+        "Philip Schaff": [
+            "Be sober; see on chap. 1 Peter 1:13, where sobriety is noticed as a condition to the highest type of Christian hope.",
+            "The verb rendered \u2018vigilant\u2019 here, and in 1 Thessalonians 5:10 \u2018wake,\u2019 is elsewhere (in some twenty-one occurrences) always rendered \u2018watch\u2019 by the A. V. Its use here perhaps indicates painful, personal recollection on the writer\u2019s part.",
+            "While this adversary is elsewhere described as a serpent in respect of his cunning, he is here appropriately compared to a \u2018roaring lion,\u2019 where threatenings and persecutions are in view."
+        ],
+        "Archibald T. Robertson": [
+            "Be watchful (\u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03b7\u03c3\u03b1\u03c4\u03b5)... For \u03bd\u03b7\u03c8\u03b1\u03c4\u03b5 see 1 Peter 1:13; 1 Peter 4:7.",
+            "Your adversary (\u03bf \u03b1\u03bd\u03c4\u03b9\u03b4\u03b9\u03ba\u03bf\u03c2 \u03c5\u03bc\u03c9\u03bd). Old word for opponent in a lawsuit (Matthew 5:25).",
+            "The devil (\u03b4\u03b9\u03b1\u03b2\u03bf\u03bb\u03bf\u03c2). Slanderer. See on Matthew 4:1."
+        ],
+        "John Gill": [
+            "Sobriety and watchfulness being exceeding necessary and useful in the Christian life; and the one cannot well be without the other.",
+            "If he is not on his watch and guard, he is liable to every sin and temptation.",
+            "He takes a tour, and comes round upon them, upon the back of them, at an unawares, so that they have need to be always sober, and upon their guard."
+        ],
+        "John Wesley": [
+            "Be vigilant - As if he had said, Awake, and keep awake. Sleep no more: be this your care.",
+            "As a roaring lion \u2014 Full of rage.",
+            "Seeking \u2014 With all subtilty likewise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To resist the devil and stand firm, we must have a sober mind and be watchful against his relentless attacks and temptations. Just as Christ asked His disciples to watch with Him in Gethsemane, we are called to be vigilant in our faith. While the devil seeks our destruction like a hungry and roaring lion, we have Christ as our Advocate who has made our redemption possible through His fulfillment of justice. Therefore, we should not be consumed by anxieties, but trust in God's provision and care. Our adversary seeks to oppose us and slander us, so we must remain sober and watchful, always ready to resist his cunning and subtilty.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.9772992257579483,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.09,
+            "commentatorTierSimilarities": [
+                32.35,
+                34.16,
+                33.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To stand firm against the devil, we must maintain a sober and self-restrained mind, staying watchful for his attacks. Just as Christ asked His disciples in Gethsemane, Could ye not watch with me? we too are called to be vigilant in our faith. The devil, like a roaring lion, seeks our destruction, but Christ, our Advocate, has made our redemption consistent with justice. Therefore, we should not be consumed by anxieties, but trust in God's provision and remain watchful against the adversary's cunning.",
+            "wordCount": 86,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.906342586948122,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                34.31,
+                32.97,
+                32.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "To stand firm against the devil, we must have a sober and self-restrained mind, being watchful for his attacks. The devil, like a roaring lion, is hungry for our destruction, continuously seeking to satisfy his insatiable appetite. However, Christ, our Advocate, has fulfilled the demands of justice on our behalf, making our redemption consistent with God's righteousness. Therefore, we should not be intoxicated by anxieties but trust in God's provision and remain watchful against the adversary's relentless pursuit of our destruction.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.9376435754282877,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                32.75,
+                35.92,
+                31.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To resist the devil and stand firm in our faith, we must maintain a sober mind and be watchful against his relentless pursuit of our destruction. The devil, compared to a hungry and roaring lion, seeks to devour us without satisfaction. However, Christ, our Advocate, has fulfilled the demands of justice, making our redemption consistent with God's righteousness. Therefore, instead of being consumed by anxieties, we should trust in God's provision and be vigilant against the adversary's cunning and subtilty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9063398501736968,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                33.48,
+                34.94,
+                31.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "To resist the devil and stand firm in our faith, we must maintain a sober mind and be watchful against his relentless pursuit. Like a hungry and roaring lion, the devil seeks our destruction, never satisfied. However, Christ, our Advocate, has fulfilled justice on our behalf, making our redemption consistent with righteousness. Thus, we should not be consumed by anxieties but trust in God's provision and remain vigilant against the adversary's cunning.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.891008783064347,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                33.58,
+                34.16,
+                32.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 16:16:01",
+    "verseRef": "Luke 6:49",
+    "bestBHT": {
+        "bht": "Two men faced the same choice of where to build their houses, each selecting a spot where sand covered the rock. One man built directly on the sand, while the other dug through to the rock. When the storm hit, the house built on the sand fell together, collapsed with a great crash that echoed like a mighty oak falling in the forest. This vivid imagery illustrates the consequences of merely hearing Christ's teachings without putting them into practice. It emphasizes the necessity of building our lives on a solid foundation by both hearing and doing what Jesus says.",
+        "wordCount": 100,
+        "quoteTokenProportion": 39.47,
+        "qualityScore": 1.2343998994948036,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.39,
+        "commentatorTierSimilarities": [
+            55.65,
+            0.0,
+            44.35
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "The two men are conceived as alike selecting a spot where the sand overlies the rock. The one builds directly upon the sand, the other digs through and down into the rock.\" ",
+            "It fell [\u03b5\u03c0\u03b5\u03c3\u03b5\u03bd]. But the best texts read sunepesen, fell together, collapsed. Rev., fell in. Only here in New Testament.",
+            "Ruin [\u03c1\u03b7\u03b3\u03bc\u03b1]. Lit., breaking. Only here in New Testament. A medical term for a laceration or rupture."
+        ],
+        "Archibald T. Robertson": [
+            "He that heareth and doeth not... Like a man... Upon the earth... Without a foundation... It fell in... The ruin.\" (37 words)",
+            "Aorist active participle with article... Associative instrumental case after \u03bf\u03bc\u03bf\u03b9\u03bf\u03c2... Matthew 7:26 has 'upon the sand'... The foundation on the rock... Second aorist active of \u03c3\u03c5\u03bd\u03c0\u03b9\u03c0\u03c4\u03c9... The crash like a giant oak in the forest resounded far and wide.\" (43 words)",
+            "Particular case singled out... More precise and worse than mere earth... An old verb from Homer on, but only here in the N.T... The crash like a giant oak in the forest resounded far and wide... Only here in the N.T.\" (43 words)"
+        ],
+        "John Gill": [
+            "But he that heareth, and doth not,.... Hears Christ's sayings externally, but does not obey his commands.\" ",
+            "is like a man that without a foundation built upon the earth... against which the stream did beat vehemently, and immediately it fell, and the ruin of that house was great."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Two men, both aware of the sandy surface resting on a rock, made different decisions. One chose to build directly upon the sand, while the other dug through to the rock. When the storm came, their differing foundations became clear. As one commentator describes, the house built on the sand fell together, collapsed in complete ruin. The crash was so loud that it reverberated far and wide like a gigantic oak falling in the forest. The imagery highlights the consequences of merely hearing without doing, emphasizing the importance of building our lives on a firm foundation of hearing and obeying Christ's teachings.",
+            "wordCount": 103,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.188937713443817,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.88,
+            "commentatorTierSimilarities": [
+                58.5,
+                0.0,
+                41.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Two men faced the same choice of where to build their houses, each selecting a spot where sand covered the rock. One man built directly on the sand, while the other dug through to the rock. When the storm hit, the house built on the sand fell together, collapsed with a great crash that echoed like a mighty oak falling in the forest. This vivid imagery illustrates the consequences of merely hearing Christ's teachings without putting them into practice. It emphasizes the necessity of building our lives on a solid foundation by both hearing and doing what Jesus says.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.47,
+            "qualityScore": 1.2343998994948036,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.39,
+            "commentatorTierSimilarities": [
+                55.65,
+                0.0,
+                44.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Two men faced the same dilemma of choosing where to build their houses - one opted for the sandy surface, while the other burrowed down to the rock. As anticipated, when the storm arrived, the house without a foundation crumbled like a gigantic oak falling in the forest. This powerful imagery serves as a cautionary tale, underscoring the importance of not just hearing but also obeying Christ's teachings. The message is clear: our lives ought to be built on a firm foundation of both attentive listening and active obedience to His words.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.0810816091168252,
+            "qualityScoreNormalizedComparedToV2BHTs": 27.29,
+            "commentatorTierSimilarities": [
+                48.3,
+                0.0,
+                51.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Two men faced a decision on where to build their houses, both choosing a spot where sand covered the rock. One built on the sand, while the other dug down to the rock. When the storm hit, the house built on the sand fell together, collapsed with a great crash resembling a huge oak falling in the forest. This imagery serves as a powerful reminder of the consequences of hearing but not putting into action Christ's teachings. It emphasizes the necessity of a solid foundation built on both hearing and doing.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.1782633138641116,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.52,
+            "commentatorTierSimilarities": [
+                58.01,
+                0.0,
+                41.99
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Two men faced the same decision, choosing a spot where sand covered the rock. One built directly on the sand, while the other dug through to the rock. The house built on the sand fell together, collapsed with a resounding crash that echoed like a fallen oak in the forest. This vivid imagery cautions against merely hearing Christ's teachings without putting them into practice. It emphasizes the need for a strong foundation, grounded in both attentive listening and active obedience to His words.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.1801397582469393,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.58,
+            "commentatorTierSimilarities": [
+                58.34,
+                0.0,
+                41.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

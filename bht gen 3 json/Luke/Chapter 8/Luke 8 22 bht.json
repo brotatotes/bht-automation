@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 16:16:46",
+    "verseRef": "Luke 8:22",
+    "bestBHT": {
+        "bht": "On a certain day, Jesus and his disciples embarked on a boat to cross over to the other side of the lake. This event signifies that St. Luke lacked the information that could have allowed him to accurately indicate what followed if he had access to the Gospel of St. Mark. Luke's use of the term launched forth suggests that they set sail and moved into the high sea, leaving the shore behind, a phrasing uniquely employed by Luke in his writings, particularly in the Acts of the Apostles.",
+        "wordCount": 90,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.511386288957406,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+        "commentatorTierSimilarities": [
+            53.22,
+            0.0,
+            46.78
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This serves to shew that St. Luke had no data by which he could fix the following events.\" ",
+            "If he had seen the Gospel of St. Mark, could this have been so?"
+        ],
+        "Marvin Vincent": [
+            "Pass we over the standing water.\" (Wyc. translation)",
+            "The verb literally means to lead up; hence to lead up to the high sea, or take to sea; put to sea.",
+            "Often in Acts in the accounts of Paul's voyages."
+        ],
+        "Archibald T. Robertson": [
+            "They launched forth (\u03ba\u03b1 \u03b1\u03bd\u03b7\u03c7\u03b8\u03b7\u03c3\u03b1\u03bd).",
+            "First aorist passive indicative of \u03b1\u03bd\u03b1\u03b3\u03c9, an old verb, to lead up, to put out to sea (looked at as going up from the land).",
+            "This nautical sense of the verb occurs only in Luke in the N.T. and especially in the Acts."
+        ],
+        "John Gill": [
+            "Now it came to pass on a certain day...in which he delivered the parables.\" ",
+            "Let us go over unto the other side of the lake.\" ",
+            "They launched forth; into the sea; they set sail, and proceeded."
+        ],
+        "John Wesley": [
+            "Matthew 8:23; Mark 4:35."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "On a certain day, Jesus and his disciples embarked on a boat to cross over to the other side of the lake (Let us go over unto the other side of the lake). This event recounted in Luke 8:22 reminds us that St. Luke did not have access to the Gospel of St. Mark, as he could have provided more specific details about what followed. It is clear from Luke's use of the verb launched forth that they set sail and proceeded into the high sea, leaving the land behind. Similar nautical language is often used in Luke's writings, particularly in the Acts of the Apostles. This particular passage, while brief, is a significant moment in the narrative, setting the stage for what is to come.",
+            "wordCount": 127,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.3775638617730075,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.15,
+            "commentatorTierSimilarities": [
+                55.17,
+                0.0,
+                44.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "On a certain day, Jesus and his disciples embarked on a boat to cross over to the other side of the lake. This event signifies that St. Luke lacked the information that could have allowed him to accurately indicate what followed if he had access to the Gospel of St. Mark. Luke's use of the term launched forth suggests that they set sail and moved into the high sea, leaving the shore behind, a phrasing uniquely employed by Luke in his writings, particularly in the Acts of the Apostles.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.511386288957406,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.6,
+            "commentatorTierSimilarities": [
+                53.22,
+                0.0,
+                46.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "On a certain day, Jesus and his disciples boarded a boat to cross to the other side of the lake. This instance underscores that St. Luke lacked the necessary information to provide more specific details about what ensued, had he seen the Gospel of St. Mark. Luke's use of the phrase launched forth suggests their departure into the high sea, indicating a departure from the land. Remarkably, Luke utilizes similar nautical language in his works, especially in the Acts of the Apostles.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.4372684414320447,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.13,
+            "commentatorTierSimilarities": [
+                56.25,
+                0.0,
+                43.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "On a certain day, Jesus and his disciples embarked on a boat to cross over to the other side of the lake. St. Luke's lack of available data from the Gospel of St. Mark prevents him from providing further details about what followed. Using the phrase launched forth, Luke indicates that they set sail and entered the high sea, leaving the land behind. This nautical language is notable, as it is a unique feature in Luke's writings, particularly in the Acts of the Apostles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4269781965150186,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.79,
+            "commentatorTierSimilarities": [
+                54.18,
+                0.0,
+                45.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "On a certain day, Jesus and his disciples embarked on a boat to cross over to the other side of the lake. The fact that St. Luke didn't have access to the Gospel of St. Mark is evident from his lack of specific details about what happened next. Describing their departure as launched forth, Luke highlights their setting sail and venturing into the high sea, leaving the land behind. This distinctive nautical language is a recurring theme in Luke's writings, particularly in the Acts of the Apostles.",
+            "wordCount": 89,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.3967619471962047,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.79,
+            "commentatorTierSimilarities": [
+                52.95,
+                0.0,
+                47.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "timestamp": "12-19-2023 16:16:27",
+    "verseRef": "Luke 7:31",
+    "bestBHT": {
+        "bht": "The people of that generation rejected both John the Baptist and Jesus, finding fault in their societal interactions and personal conduct. However, the children of Wisdom are able to recognize and appreciate the value in both, whether in the austere style of the Baptist or the more appealing approach of Jesus. It is only the full soul that despises the honeycomb, while the hungry soul finds every bitter thing sweet. Jesus asks to what the resistant ones can be compared, emphasizing their unresponsiveness even when presented with various methods of drawing them closer.",
+        "wordCount": 93,
+        "quoteTokenProportion": 40.3,
+        "qualityScore": 1.2560405054726604,
+        "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+        "commentatorTierSimilarities": [
+            50.82,
+            0.0,
+            49.18
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "that generation rejected both John and his Master: the one because he was too unsocial\u2014more like a demoniac than a rational man the other, because He was too much the reverse, given to animal indulgences, and consorting with the lowest classes of society.",
+            "But the children of Wisdom recognize and honor her, whether in the austere garb of the Baptist or in the more attractive style of his Master, whether in the Law or in the Gospel, whether in rags or in royalty.",
+            "for 'the full soul loatheth an honeycomb, but to the hungry soul every bitter thing is sweet'"
+        ],
+        "John Calvin": [
+            "He charges them with this reproach, that while the Lord endeavored, by various methods, to draw them to himself, they repelled his grace with incorrigible obstinacy.",
+            "He employs a comparison, which was probably taken from a common amusement of children.",
+            "Thus declaring that, however distinguished they were, nothing more was necessary to condemn them than a song which children were wont to sing in the market-place for their amusement."
+        ],
+        "Archibald T. Robertson": [
+            "And to what are they like? This second question is not in Matthew 11:16. It sharpens the point.",
+            "The case of \u03c4\u03b9\u03bd is associative instrumental after \u03bf\u03bc\u03bf\u03b9\u03bf.",
+            "See discussion of details in Matthew."
+        ],
+        "John Gill": [
+            "And the Lord said,.... This clause is not in the Syriac, Arabic, Persic, and Ethiopic versions, nor in some copies, nor in Beza's most ancient copy; and being omitted, more clearly shows, that the two former verses are the words of Christ, and not an observation the evangelist makes, on the different behaviour of Christ's hearers, upon the commendation he had given of John:",
+            "whereunto then shall I liken the men of this generation; or 'to what men shall I liken them', as the Persic version: the phrase 'men of this generation', is Rabbinical;",
+            "so \u05d3\u05e8\u05d0 \u05d4\u05d4\u05d5\u05d0 \u05d0\u05d5\u05e9\u05d9, the men of that 'generation', are more beautiful in work than these, says the Targumist on Ecclesiastes 7:11. 'And to what are they like?' To that which follows."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people of that generation rejected both John the Baptist and Jesus, finding fault in both the austere nature of John and the more attractive style of Jesus. However, the wise recognize and honor the wisdom of both, whether in the Law or in the Gospel, and regardless of their appearance or social status. Jesus compares the people to children who refuse to play along, stubbornly rejecting the message no matter how it is presented to them. He laments their incorrigible obstinacy, as they reject the grace and teachings that he offers.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.2000746565637106,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.25,
+            "commentatorTierSimilarities": [
+                45.23,
+                0.0,
+                54.77
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people of that generation rejected both John the Baptist and Jesus, finding fault in both. However, the wise honor the wisdom of both, whether in the Law or in the Gospel, and regardless of their appearance or social status. Jesus compares the people to children who stubbornly reject the message, no matter how it is presented. He laments their incorrigible obstinacy, as they reject the grace and teachings he offers.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.186211258648422,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.79,
+            "commentatorTierSimilarities": [
+                45.31,
+                0.0,
+                54.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people of that generation rejected both John the Baptist and Jesus because of their respective demeanor and associations. However, the wise see the value in both, recognizing and honoring them whether they appear austere like John or attractive like Jesus, whether they reside in the Law or the Gospel. Jesus likens these resistant individuals to children who refuse to engage in the game and reject the message regardless of its form. He laments their stubbornness and their unyielding rejection of the grace and teachings he offers.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.1887230410898644,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.87,
+            "commentatorTierSimilarities": [
+                45.14,
+                0.0,
+                54.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people of that generation rejected both John the Baptist and Jesus because of their different characteristics and associations. However, the wise recognize and honor them, whether in the Law or the Gospel, whether in rags or in royalty. Jesus compares the resistant ones to children who refuse to play along, stubbornly rejecting the message. He laments their stubbornness and their rejection of the grace and teachings he offers, despite his efforts to draw them to himself.",
+            "wordCount": 77,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.1529143034874236,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.68,
+            "commentatorTierSimilarities": [
+                44.31,
+                0.0,
+                55.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people of that generation rejected both John the Baptist and Jesus, finding fault in their societal interactions and personal conduct. However, the children of Wisdom are able to recognize and appreciate the value in both, whether in the austere style of the Baptist or the more appealing approach of Jesus. It is only the full soul that despises the honeycomb, while the hungry soul finds every bitter thing sweet. Jesus asks to what the resistant ones can be compared, emphasizing their unresponsiveness even when presented with various methods of drawing them closer.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.2560405054726604,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.11,
+            "commentatorTierSimilarities": [
+                50.82,
+                0.0,
+                49.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

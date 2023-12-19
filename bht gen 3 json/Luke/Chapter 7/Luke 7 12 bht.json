@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:16:13",
+    "verseRef": "Luke 7:12",
+    "bestBHT": {
+        "bht": "In Nain, the Jews buried outside the city gates, while kings were buried within. Dead bodies were not allowed to be buried within the cities due to ceremonial uncleanness. The funeral usually happened on the same day as the death. The death of a widow's only son was an immense tragedy, and the crowd at the funeral showed the town's genuine sympathy for her. Jesus' act of touching the coffin exemplifies His compassion in raising us from death to life.",
+        "wordCount": 82,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.01579175457303,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+        "commentatorTierSimilarities": [
+            38.9,
+            25.8,
+            35.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Jews ordinarily buried outside the gates of their cities.",
+            "The kings however of the house of David were buried in the city of David.",
+            "One entrance alone Nain could have had; that which opens on the rough hill-side in its downward slope to the plain."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Dead bodies, being ceremonially unclean, were not allowed to be buried within the cities.",
+            "The funeral was usually on the same day as the death.",
+            "Affecting particulars, told with delightful simplicity."
+        ],
+        "Albert Barnes": [
+            "Cities were surrounded by walls, to defend them from their enemies. They were entered through 'gates' placed at convenient distances from each other.",
+            "The custom of burying within cities, and especially within the walls of churches or in their vicinity, had its origin among Christians very early.",
+            "Burial-places should be in situations of retirement, far from the tread of the happy and busy world, where all the feelings may be still and calm, and where there can be no injury to health from the mouldering bodies of the dead."
+        ],
+        "Marvin Vincent": [
+            "Carried out. The tombs were outside of the city."
+        ],
+        "John Calvin": [
+            "We have here a striking emblem of his freely bestowed compassion in raising us from death to life.",
+            "By touching the coffin he intended perhaps to show, that he would by no means shrink from death and the grave, in order to obtain life for us.",
+            "He not only deigns to touch us with his hand, in order to quicken us when we are dead, but, in order that he might raise us to heaven, himself descends into the grave."
+        ],
+        "Philip Schaff": [
+            "Graves were commonly outside the towns."
+        ],
+        "Archibald T. Robertson": [
+            "The 'death of a widow's only son was the greatest misfortune conceivable.",
+            "The mourning of a widow for an only son is the extremity of grief.",
+            "Some were hired mourners, but the size of the crowd showed the real sympathy of the town for her."
+        ],
+        "John Gill": [
+            "According to the age of persons was the company that attended them to the grave.",
+            "Whoever was known to many, many accompanied him.",
+            "It was looked upon as an act of kindness and mercy to follow a corpse to the grave."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Jews customarily buried outside the city gates, but the kings of the house of David were buried within the city. Nain, however, only had one entrance, which led to the tombs outside the city. The dead bodies were not allowed to be buried within the city due to ceremonial uncleanness. The funeral usually took place on the same day as the death, and in this case, it was the death of a widow's only son, which was considered the greatest misfortune and brought extreme grief. The crowd that accompanied the funeral procession showed the town's genuine sympathy for the widow. By touching the coffin, Jesus demonstrated his willingness to go to death and the grave in order to bring life to us. His compassion for us, raising us from death to life, is beautifully symbolized in this moving event.",
+            "wordCount": 142,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 1.985718073092515,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.37,
+            "commentatorTierSimilarities": [
+                37.76,
+                26.63,
+                35.61
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Jews buried outside the cities, while kings were buried in the city of David. Nain had only one entrance, leading to the tombs outside. Dead bodies were not buried within cities due to ceremonial uncleanness. Funerals typically took place on the same day as the death. The death of a widow's only son was a great misfortune that caused extreme grief. The crowd at the funeral procession showed genuine sympathy. Jesus touching the coffin reveals his willingness to go to the grave for us, raising us from death to life. His compassion is beautifully displayed in this event.",
+            "wordCount": 100,
+            "quoteTokenProportion": 35.62,
+            "qualityScore": 1.9211970148502688,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                39.79,
+                26.01,
+                34.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Nain, the Jews buried outside the city gates, while kings were buried within. Dead bodies were not allowed to be buried within the cities due to ceremonial uncleanness. The funeral usually happened on the same day as the death. The death of a widow's only son was an immense tragedy, and the crowd at the funeral showed the town's genuine sympathy for her. Jesus' act of touching the coffin exemplifies His compassion in raising us from death to life.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.01579175457303,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                38.9,
+                25.8,
+                35.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Nain, the Jews buried outside the city gates, while kings were buried within. The funeral usually took place on the same day as the death. The death of a widow's only son was a great misfortune, evoking extreme grief. The crowd attending the funeral procession reflected the town's sincere sympathy for the widow. Jesus touching the coffin showed His willingness to go to the grave, raising us from death to life. This event beautifully embodies His freely bestowed compassion.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8955896267857868,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.37,
+            "commentatorTierSimilarities": [
+                38.08,
+                22.71,
+                39.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Nain, the Jews buried outside the city gates, while kings were buried within. The death of a widow's only son was a great misfortune, bringing extreme grief. The funeral procession's size demonstrated the town's genuine sympathy for the widow. By touching the coffin, Jesus revealed His willingness to face death and the grave to bring life to us. His compassion, in raising us from death to life, is powerfully symbolized in this touching event.",
+            "wordCount": 78,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9056165865680743,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.7,
+            "commentatorTierSimilarities": [
+                36.11,
+                21.84,
+                42.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

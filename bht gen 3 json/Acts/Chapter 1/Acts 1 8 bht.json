@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 16:24:49",
+    "verseRef": "Acts 1:8",
+    "bestBHT": {
+        "bht": "To redirect their curiosity and uphold God's promise and command, Christ emphasizes that the Kingdom is not limited to Israel's restoration but encompasses global testimony. Empowered by the Holy Spirit, the disciples will bear witness in Jerusalem, Judea, Samaria, and to the ends of the earth. This apostolic order of preaching and success, as documented in the Acts, encapsulates their mission. Their expanding witness inspires us to pursue worldwide evangelization on behalf of Christ.",
+        "wordCount": 76,
+        "quoteTokenProportion": 28.07,
+        "qualityScore": 2.0784961001834237,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+        "commentatorTierSimilarities": [
+            32.56,
+            31.16,
+            36.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "As the best means of bridling their curiosity, Christ recalls them both to God\u2019s promise and to His command.\" (Calvin)",
+            "\u201cBy the extension of their testimony, from Jerusalem to Samaria, and then indefinitely over the world, He reproves, by implication, their carnal anticipation of the restoration of the Kingdom to Israel thus understood.\" (Unknown)",
+            "The Kingdom was to be one founded on testimony, and therefore reigning in the convictions of men\u2019s hearts; and not confined to Jud\u00e6a, but coextensive with the world.\" (Unknown)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "receive power\u2014See :-.\" ",
+            "ye shall be witnesses unto me . . . in Jerusalem . . . in all Judea . . . and unto the uttermost part of the earth\" ",
+            "This order of apostolic preaching and success supplies the proper key to the plan of the Acts"
+        ],
+        "Albert Barnes": [
+            "Ye shall receive the power of the Holy Spirit coming upon you.\" ",
+            "The apostles had impatiently asked him if he was then about to restore the kingdom to Israel. Jesus by this answer rebuked their impatience, taught them to repress their ill-timed ardor; and assured them again of the coming of the Holy Spirit.\" ",
+            "The fact that this was the design of their appointment, and that they actually bore such testimony, is abundantly confirmed in the Acts of the Apostles."
+        ],
+        "Marvin Vincent": [
+            "Unto me...my witnesses.",
+            "Formerly they had been commanded not to enter the cities of the Samaritans."
+        ],
+        "John Calvin": [
+            "Curiosity doth rise almost always either of idleness or else of distrust; distrust is cured by meditating upon the promises of God.",
+            "You shall be my witnesses; that is, the husbandman must first work before he can reap his fruits.",
+            "The kingdom of Christ consisteth in the preaching of the gospel... Christ did then reign when as he subdueth unto himself (all the whole) world by the preaching of the gospel."
+        ],
+        "Philip Schaff": [
+            "But ye shall receive power, after that the Holy Ghost is come upon you.\"  ",
+            "The Lord again referred to that new power which should descend upon them which He had before promised them.",
+            "Armed with this new strength, they should be His witnesses not only in the city and Holy Land, but to the isles of the Gentiles to the uttermost parts of the earth."
+        ],
+        "Archibald T. Robertson": [
+            "The Holy Spirit will give them the 'power' as he comes upon them. This is the baptism of the Holy Spirit referred to in verse Acts 1:5.",
+            "'His by a direct personal relationship' (Knowling). The expanding sphere of their witness ... beckons us on to world conquest for Christ.",
+            "The Acts themselves form the best commentary on these words, and the words themselves might be given as the best summary of the Acts."
+        ],
+        "John Gill": [
+            "And ye shall be witnesses unto me; of the person of Christ, of his deity and sonship, of his incarnation, his ministry, and his miracles, of his suffering and death, of his resurrection from the dead, and his ascension to heaven.",
+            "This was to be their work, and what belong to them, and not to enquire about a temporal kingdom, and the setting up of that, and the times and seasons of it; their business was to testify of the sufferings of Christ, and the glory that followed, and to preach a crucified Jesus, as the only Saviour of lost sinners.",
+            "And in all Judea; that part of the land of Israel which was distinct from Samaria and Galilee, and from beyond Jordan; where churches were to be planted, as afterwards they were; see Acts 9:31."
+        ],
+        "John Wesley": [
+            "But ye shall receive power \u2014 and shall be witnesses to me - That is, ye shall be empowered to witness my Gospel, both by your preaching and suffering."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To curb their curiosity and refocus their attention on God's promise and command, Christ reminds the disciples that the Kingdom is not about the restoration of Israel, but about spreading their testimony to all corners of the world. They will receive the power of the Holy Spirit, enabling them to be witnesses in Jerusalem, Judea, Samaria, and even to the ends of the earth. This order of apostolic preaching and success, as seen in the Acts, marks the plan for their mission. The expanding sphere of their witness invites us to follow their example and bring Christ's message to the world.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.215394404618089,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.0,
+            "commentatorTierSimilarities": [
+                31.03,
+                33.67,
+                35.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ redirected the disciples' curiosity from the restoration of Israel to God's promise and command. Their mission was to bear witness, not only in Jerusalem and Judea, but also in Samaria, extending to the farthest corners of the earth. They would receive the power of the Holy Spirit, enabling them to fulfill this commission. The Acts of the Apostles provide the best insight into their journey, capturing their obedience to the task at hand. Their expanding witness encourages us to boldly proclaim the message of Christ worldwide.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.031665809027425,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.89,
+            "commentatorTierSimilarities": [
+                30.55,
+                37.06,
+                32.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "As a means of reining in their curiosity, Christ reminds the disciples of God's promise and command. He reproves their misplaced anticipation of the Kingdom's restoration to Israel by emphasizing that the Kingdom is founded on testimony, extending beyond Jud\u00e6a to reach the ends of the earth. Through the power of the Holy Spirit, they will serve as witnesses to Christ, starting in Jerusalem and expanding throughout Judea and Samaria. The Acts of the Apostles provide the clearest commentary on this divine plan, which calls us to embrace global evangelism.",
+            "wordCount": 92,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.0999631330850974,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
+            "commentatorTierSimilarities": [
+                30.92,
+                36.36,
+                32.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To redirect their curiosity and uphold God's promise and command, Christ emphasizes that the Kingdom is not limited to Israel's restoration but encompasses global testimony. Empowered by the Holy Spirit, the disciples will bear witness in Jerusalem, Judea, Samaria, and to the ends of the earth. This apostolic order of preaching and success, as documented in the Acts, encapsulates their mission. Their expanding witness inspires us to pursue worldwide evangelization on behalf of Christ.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 2.0784961001834237,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.45,
+            "commentatorTierSimilarities": [
+                32.56,
+                31.16,
+                36.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ redirects the disciples' curiosity by reminding them of God's promise and command. Rather than focusing on the restoration of Israel, the Kingdom is built upon testimony that will extend throughout the world. Through the power of the Holy Spirit, they will fulfill their role as witnesses, starting in Jerusalem and reaching all the way to the farthest parts of the earth. Their obedience to this mission is captured in the Acts, serving as a testament to the power of their proclamation. Let us follow their example and boldly share the message of Christ with the world.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 1.9938843778894246,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.64,
+            "commentatorTierSimilarities": [
+                30.8,
+                35.34,
+                33.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

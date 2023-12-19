@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 16:36:51",
+    "verseRef": "Acts 26:16",
+    "bestBHT": {
+        "bht": "Paul, the witness of the glory of Christ, became more than all the other apostles through divine grace. He condensed various sayings of Jesus into one statement to emphasize the grandeur of his commission. As a minister and a witness, he had firsthand experiences of Christ and was called to testify. This appearance of Christ was not for destruction but for honor and comfort in his honorable ministry. Paul's role as a minister was appointed by Christ and his visions are a testimony of what he saw and would continue to see.",
+        "wordCount": 93,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.2560844273806118,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.36,
+        "commentatorTierSimilarities": [
+            27.05,
+            36.42,
+            36.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Paul was the witness of the glory of Christ: whereas Peter, the first of the former twelve, describes himself as 'a witness of the sufferings of Christ, and a partaker of the glory that shall be revealed.'\" (16 words)",
+            "So true it was that this latest born among the Apostles, became, by divine grace, more than they all.\" (18 words)",
+            "That such visions did take place, we know, from ch. xviii. 9; xxii. 18; xxiii. 11; 2 Cor. xii. 1; Gal. i. 12.\" (20 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here the apostle appears to condense into one statement various sayings of his Lord to him in visions at different times, in order to present at one view the grandeur of the commission with which his Master had clothed him.",
+            "Putting him on a footing with those 'eye-witnesses and ministers of the word' mentioned in Luke 1:2.",
+            "Referring to visions he was thereafter to be favored with such as Acts 18:9; Acts 18:10; Acts 22:17-21; Acts 23:11; 2 Corinthians 12:1-10, &amp;c. (Galatians 1:12)."
+        ],
+        "Albert Barnes": [
+            "It is the duty of ministers to bear witness not only to the truth of religion in general, or of that which they can demonstrate by argument, but more especially of that which they experience in their own hearts, and which they understand by having themselves been the subjects of it.",
+            "No man is qualified to enter the ministry who has not a personal saving view of the glory and perfections of the Lord Jesus, and who does not go to his work as a witness of those things which he has felt.",
+            "The highest personal consolation in this work is the promise of being admitted to ever-growing and expanding views of the glory of the Lord Jesus, and of experiencing his presence, guidance, and protection."
+        ],
+        "Marvin Vincent": [
+            "Have I appeared [\u03c9\u03c6\u03b8\u03b7\u03bd] . See on Luke 22:43. ",
+            "To make [\u03c0\u03c1\u03bf\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03b1\u03c3\u03b8\u03b1\u03b9] . Better, as Rev., appoint. See on ch. Acts 3:20. A minister and a witness. See on Matthew 5:25; Acts 1:22."
+        ],
+        "John Calvin": [
+            "But rise. Christ did throw down Paul that he might humble him; now he lifteth him up, and biddeth him be of good courage.",
+            "And this is no small consolation, when Christ saith that he appeared to him not as a revenger to plague him, but as a merciful Lord, intending to use his industry, and to call him to an honorable ministry.",
+            "For he made him a witness of those things which he saw, and which he should afterward see."
+        ],
+        "Philip Schaff": [
+            "It is most improbable that Paul here \u2018condenses into one, various sayings of our Lord to him at different times, in visions and by Ananias\u2019 (Dean Alford).",
+            "Saul the Pharisee was to bear witness not only of the present sublime scene, in which the Crucified appeared surrounded with a glory too bright for mortal eyes to gaze into; but he was to be a witness also to tell out to the world, to Jew and Gentile, to high-born and low-born, the story of future revelations which would be made to him in coming days.",
+            "It is remarkable that Paul, the last called, the one admitted into the fellowship of the holy Twelve after no little anxious thought, the one always looked on by a portion of the early Church with doubt and suspicion, should have been the apostle commissioned to be the witness of the glory of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Stand up and take a stand.",
+            "Paul is thus a personal eyewitness of the Risen Christ.",
+            "The passive form bringing out the agency of God."
+        ],
+        "John Gill": [
+            "This appearance was not for his destruction, but for his honour, comfort, and usefulness.",
+            "He was a minister, not of man's making, but of Christ's; and they are the only true ministers of the Gospel, who are made by Christ.",
+            "The apostle's work, as a minister, was to be a witness; it was to testify what he had seen of Christ corporeally."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul, the witness of the glory of Christ, surpassed even the first of the twelve apostles in his divine grace. In condensed words, he presents the grandeur of the commission given to him by his Master through various visions. He stood on equal footing with the eye-witnesses and ministers of the word. As a personal eyewitness, he fulfilled his duty to bear witness to the truth, not only by argument but by his own experience. This appearance of Christ was not for destruction, but for honor, comfort, and usefulness in his honorable ministry as a witness.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 2.158553338063761,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.11,
+            "commentatorTierSimilarities": [
+                27.87,
+                36.77,
+                35.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul, the witness of the glory of Christ, surpassed even the first of the twelve apostles in divine grace. He condensed various sayings of Jesus to present the grandeur of his commission. As an eyewitness, he fulfilled his duty to bear witness not only through argument but through personal experience. This appearance of Christ was not for destruction but for honor and usefulness in his ministry as a witness. His role as a minister was appointed by Christ himself, and he testified to what he saw and would continue to see.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.2355351051725005,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.67,
+            "commentatorTierSimilarities": [
+                26.43,
+                37.15,
+                36.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul, the witness of the glory of Christ, became more than all the other apostles through divine grace. He condensed various sayings of Jesus into one statement to emphasize the grandeur of his commission. As a minister and a witness, he had firsthand experiences of Christ and was called to testify. This appearance of Christ was not for destruction but for honor and comfort in his honorable ministry. Paul's role as a minister was appointed by Christ and his visions are a testimony of what he saw and would continue to see.",
+            "wordCount": 93,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.2560844273806118,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.36,
+            "commentatorTierSimilarities": [
+                27.05,
+                36.42,
+                36.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul, the witness of the glory of Christ, became more than all the other apostles through divine grace. He condensed various sayings of Jesus into one statement to emphasize the grandeur of his commission. As a minister and a witness, he had firsthand experiences of Christ and was called to testify. This appearance of Christ was not for destruction but for honor and usefulness in his ministry. His role as a minister was appointed by Christ and his visions are a testimony of what he saw and would continue to see.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.15,
+            "qualityScore": 2.2298449533134743,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.48,
+            "commentatorTierSimilarities": [
+                26.79,
+                36.08,
+                37.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul, the witness of the glory of Christ, surpassed the other apostles in divine grace. Through visions, he condensed various sayings of Jesus into one statement, highlighting the grandeur of his commission. As a minister and a witness, Paul had firsthand experiences of Christ and was called to testify. This appearance of Christ was not for destruction but for honor, comfort, and usefulness in his ministry. He was appointed by Christ himself, and his visions served as testimony to what he saw and would continue to see.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.247719586737957,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.08,
+            "commentatorTierSimilarities": [
+                27.01,
+                37.01,
+                35.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

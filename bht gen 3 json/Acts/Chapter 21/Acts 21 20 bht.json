@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 16:34:53",
+    "verseRef": "Acts 21:20",
+    "bestBHT": {
+        "bht": "The believing Jews praised God for the work done among the Gentiles but still felt obliged to advise Paul due to suspicions about his teachings. They were concerned that Paul's statements against the adoption of legal observances by Gentile converts might lead to a complete apostasy from Moses and the law. Despite the Jewish complexion of Jerusalem's Christianity, the believers justified Paul's course, while acknowledging the trouble caused by Judaizers in other regions. Paul's apprehension in Jerusalem was well-founded, given the circumstances.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.31,
+        "qualityScore": 2.1801324005314915,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.83,
+        "commentatorTierSimilarities": [
+            40.31,
+            30.98,
+            28.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "While they praised God for, and fully recognized, the work wrought by him among the Gentiles, they found it requisite to advise him respecting the suspicion under which he laboured among the believing Jews.",
+            "They, led, naturally perhaps, but incorrectly (see 1 Cor. vii. 18), by some passages of Paul's life [and of his already-written Epistles?], in which he had depreciated legal observances in comparison with faith in Christ, and spoken strongly against their adoption by Gentile converts,\u2014apprehended that he advised, on the part of the Hellenistic believers, an entire apostasy from Moses and the ordinances of the law.",
+            "Thou seest...] This can hardly be a reference to the elders present, as representatives of the 'myriads' of believing Jews: for only those of Jerusalem were there:\u2014but refers to Paul's own experience, and knowledge of the vast numbers of the Jews who believed at Jerusalem, and elsewhere in Jud\u00e6a."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20-25. they glorified the Lord,",
+            "\t&amp;c.\u2014constrained to justify his course, notwithstanding the",
+            "\tJewish complexion of the Christianity of Jerusalem."
+        ],
+        "Albert Barnes": [
+            "True piety will rejoice in the spread of the gospel, and in the conversion of sinners, by whatever instrumentality it may be effected.",
+            "The language of tenderness in this address, recognizing Paul as a fellow-laborer and fellow-Christian, implies a wish that Paul would do all that could be done to avoid giving offence, and to conciliate the favor of his countrymen.",
+            "As the Christian religion became better understood - that as its large, free, and catholic nature became more and more developed, the special institutions of Moses would be laid aside of course, without agitation and without tumult."
+        ],
+        "Philip Schaff": [
+            "In their minds after his narrative no shadow of mistrust or suspicion of the earnest and devoted man lingered.",
+            "The Jews of the first century in great numbers were willing to acknowledge as Messiah, that Crucified One whom so many had seen after He was risen from the dead; but they were reluctant to give up their privileges as a chosen race, and so they clung to their law and its stern restrictions with an attachment more devoted than ever.",
+            "The hatred of the Jews for Paul sprang from their consciousness that he looked upon this sacred law as having done its work, and consequently doomed to vanish away."
+        ],
+        "Archibald T. Robertson": [
+            "There were undoubtedly a great many thousands of believers in Jerusalem and all Jewish Christians, some, alas, Judaizers.",
+            "The Judaizers rankled under Paul's victory and power in spreading the gospel among the Gentiles and gave him great trouble in Galatia and Corinth.",
+            "Clearly then Paul had real ground for his apprehension of trouble in Jerusalem while still in Corinth when he asked for the prayers of the Roman Christians."
+        ],
+        "John Gill": [
+            "Thou seest, brother; for so he was to James, both as a believer, and a minister of the word, and as an apostle.",
+            "How many thousands of Jews there are which believe; there were many thousands converted at Jerusalem upon the first preaching of the Gospel, after Christ's ascension.",
+            "They are all zealous of the law; of the law of Moses, of the ceremonial law, as Paul might see by their being at Jerusalem, to keep this feast; for though they believed in Jesus of Nazareth as the true Messiah, yet they had not light enough to see, that he was the sum and substance of all the ceremonies of the law, and that they all ended in him; and therefore were zealous in the observance of them, and could not bear to hear of their abrogation."
+        ],
+        "John Wesley": [
+            "They are all zealous for the law \u2014 For the whole Mosaic dispensation.",
+            "How astonishing is this!",
+            "Did none of the apostles, beside St. Paul, know that this dispensation was now abolished?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Although the believing Jews praised God for the work the Lord had done among the Gentiles, they felt the need to advise Paul due to the suspicion surrounding him. They were concerned because Paul had previously spoken against the adoption of legal observances by Gentile converts, which led some to believe that he was advocating for an apostasy from Moses and the ordinances of the law. Despite the Jewish complexion of Jerusalem's Christianity, the believers glorified the Lord and justified Paul's course. However, there were Judaizers who opposed Paul's message and caused trouble in other regions. Thus, Paul had genuine grounds for his apprehension in Jerusalem.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.085866771618652,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                40.68,
+                31.3,
+                28.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "While the believing Jews praised God for the work among the Gentiles, they advised Paul due to suspicions of his teachings. These suspicions were fueled by Paul's previous dismissal of legal observances in comparison to faith in Christ. The believers recognized that Paul's experiences and knowledge of the vast numbers of Jewish believers were enough to justify his course. However, there were Judaizers who opposed Paul's success in spreading the gospel among the Gentiles, causing trouble for him in other regions. Thus, Paul had a genuine reason for his apprehension in Jerusalem.",
+            "wordCount": 95,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.097736832958208,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.09,
+            "commentatorTierSimilarities": [
+                39.96,
+                31.22,
+                28.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Although the believing Jews praised God for the work the Lord had done among the Gentiles, they felt the need to advise Paul due to the suspicion surrounding him. They were concerned because Paul had previously spoken against the adoption of legal observances by Gentile converts, which led some to believe that he was advocating for an apostasy from Moses and the ordinances of the law. Despite the Jewish complexion of Jerusalem's Christianity, the believers glorified the Lord and justified Paul's course. However, there were Judaizers who opposed Paul's message and caused trouble in other regions. Thus, Paul had genuine grounds for his apprehension in Jerusalem.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.96,
+            "qualityScore": 2.085866771618652,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.7,
+            "commentatorTierSimilarities": [
+                40.68,
+                31.3,
+                28.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The believing Jews, while praising God for the work among the Gentiles, advised Paul due to suspicions regarding his teachings. These suspicions arose from Paul's previous statements against the adoption of legal observances by Gentile converts, which led some to think he advocated apostasy from Moses and the law. Despite the Jewish complexion of Jerusalem's Christianity, the believers glorified the Lord and justified Paul's actions. However, Judaizers caused trouble for Paul in other regions, and he had valid reasons to be concerned in Jerusalem.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 2.1104456415769466,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                40.96,
+                31.69,
+                27.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The believing Jews praised God for the work done among the Gentiles but still felt obliged to advise Paul due to suspicions about his teachings. They were concerned that Paul's statements against the adoption of legal observances by Gentile converts might lead to a complete apostasy from Moses and the law. Despite the Jewish complexion of Jerusalem's Christianity, the believers justified Paul's course, while acknowledging the trouble caused by Judaizers in other regions. Paul's apprehension in Jerusalem was well-founded, given the circumstances.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.1801324005314915,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.83,
+            "commentatorTierSimilarities": [
+                40.31,
+                30.98,
+                28.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 15:09:11",
+    "verseRef": "1 Corinthians 9:23",
+    "bestBHT": {
+        "bht": "The apostle Paul's passionate pursuit of sharing the gospel is evident as he declares that all his actions are driven by the desire to become a fellow-partaker of the blessings promised in the gospel. His goal is not just personal enjoyment of the gospel, but to share it with others and become a joint partaker of its fruits and final joys. By emphasizing the importance of this calling, Paul encourages all believers to actively participate in the gospel and receive its abundant blessings.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.1290259900578943,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+        "commentatorTierSimilarities": [
+            41.3,
+            28.64,
+            30.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "All things I do on account of the gospel, that I may be a fellow-partaker of it.",
+            "Not only this of which I have spoken, but all.",
+            "The blessings promised in the gospel to be brought by the Lord at his coming."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fellow partaker\": of the Gospel blessings promised at Christ's coming.",
+            "With\" them, namely, with those thus \"gained\" by me to the Gospel."
+        ],
+        "Albert Barnes": [
+            "For the gospel\u2019s sake - That it may be advanced, and may be successful.",
+            "That I might be partaker thereof with you - You hope to be saved.",
+            "I wish to give evidence also that 'I' am a Christian, and that I shall be admitted to heaven to partake of the happiness of the redeemed."
+        ],
+        "John Calvin": [
+            "As the Corinthians might think with themselves, that this was a peculiarity in Paul\u2019s case on the ground of his office, he argues, from the very design of it, that this is common to all Christians.",
+            "For when he declares, that his aim had been, that he might become a partaker of the gospel, he indirectly intimates, that all who do not act the same part with him are unworthy of the fellowship of the gospel.",
+            "To become a partaker of the gospel is to receive the fruit of it."
+        ],
+        "Philip Schaff": [
+            "And I do all things for the gospel\u2019s sake, that I may be a joint partaker thereof joint partaker of the Gospel\u2019s blessed fruits and final joys with all who are saved by it.",
+            "Now, however, he rises higher to the absolute necessity of it to final salvation even in himself, as an indispensable feature of the Christian character.",
+            "To set this forth, he refers the Corinthians to their own athletic contests To whom does the prize go?"
+        ],
+        "Archibald T. Robertson": [
+            "That I may become co-partner with others in the gospel.",
+            "The point is that he may be able to share the gospel with others, his evangelistic passion.",
+            "Paul does not wish to enjoy the gospel just by himself."
+        ],
+        "John Gill": [
+            "And this I do for the Gospel's sake",
+            "He became all things to all men",
+            "That I might be partaker thereof with you"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The apostle Paul declares that all his actions are done for the sake of the gospel, desiring to become a fellow-partaker of the blessings it promises at Christ's coming. He aims to share the gospel with others, longing to be a joint partaker of its fruits and final joys with all who are saved by it. His evangelistic passion is evident, as he does not wish to enjoy the gospel just by himself. Paul's dedication to the gospel is not limited to himself or his office, but he urges all believers to embrace this calling. It is through our participation in the gospel that we receive its abundant fruit and become joint partakers in its blessings.",
+            "wordCount": 119,
+            "quoteTokenProportion": 46.58,
+            "qualityScore": 2.1583456798621072,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.11,
+            "commentatorTierSimilarities": [
+                40.51,
+                29.36,
+                30.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The apostle Paul's passionate pursuit of sharing the gospel is evident as he declares that all his actions are driven by the desire to become a fellow-partaker of the blessings promised in the gospel. His goal is not just personal enjoyment of the gospel, but to share it with others and become a joint partaker of its fruits and final joys. By emphasizing the importance of this calling, Paul encourages all believers to actively participate in the gospel and receive its abundant blessings.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.1290259900578943,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                41.3,
+                28.64,
+                30.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's unwavering commitment to the gospel is evident in his declaration that all his actions are done for its sake. He fervently desires to become a fellow-partaker of the blessings promised in the gospel, and his evangelistic passion compels him to share it with others. His ultimate goal is not self-centered enjoyment of the gospel, but to be a joint partaker of its fruits and joys alongside those who are saved by it. Paul's example serves to inspire and remind all believers of the importance of actively participating in and sharing the gospel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.0602685299283086,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                41.05,
+                28.97,
+                29.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's purpose in all his endeavors is to advance and be a joint partaker of the gospel's blessings promised at Christ's coming. By sharing the gospel with others, he seeks to be a co-partner, not just enjoying it for himself. This evangelistic passion and dedication extend beyond his own office, as he reveals it as a universal calling for all Christians. Paul's aim serves as a reminder of the necessity for believers to actively participate in the gospel and eagerly share it with others to partake in its abundant fruit.",
+            "wordCount": 95,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9958590888576766,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.7,
+            "commentatorTierSimilarities": [
+                40.33,
+                28.2,
+                31.47
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's unwavering commitment to the gospel compels him to do all things for its sake, longing to become a fellow-partaker of the blessings it promises. He seeks to share the gospel with others and be a co-partner in the final joys it brings. This evangelistic passion is not exclusive to Paul alone, but a call for all believers to actively participate in the gospel and share its blessings with others. By embracing this calling, believers become joint partakers of the abundant fruit and blessings of the gospel.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.0981289482194128,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.1,
+            "commentatorTierSimilarities": [
+                43.28,
+                28.33,
+                28.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

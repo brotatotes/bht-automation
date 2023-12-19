@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:33:03",
+    "verseRef": "Acts 18:7",
+    "bestBHT": {
+        "bht": "In order to separate himself from the Jews, Paul ceased visiting the house of Aquila and started going to the house of a Gentile proselyte instead. By preaching near the synagogue, Paul made it clear that he was no longer testifying there but focusing on Justus' house. This strategic decision resulted in a rapid increase in conversions. Justus' house being close to the synagogue allowed Paul to engage with Gentiles and draw clear lines between Christians and Jews.",
+        "wordCount": 78,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 2.1788374600684266,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+        "commentatorTierSimilarities": [
+            30.29,
+            32.41,
+            37.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In order to shew that he henceforth separated himself from the Jews.",
+            "...he went no longer to the house of the Jew Aquila...but to the house of a Gentile proselyte of the gate.",
+            "...close to the synagogue: in the sight of all the congregation in the synagogue."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not changing his lodging, as if Aquila and Priscilla up to this time were with the opponents of the apostle.\" ",
+            "Merely ceasing any more to testify in the synagogue, and henceforth carrying on his labors in this house of Justus.",
+            "From this time forth conversions rapidly increased."
+        ],
+        "Albert Barnes": [
+            "A certain man\u2019s house - Probably he had become a convert to the Christian faith.",
+            "Joined hard - Was near to the synagogue."
+        ],
+        "John Calvin": [
+            "Paul did not change his lodging...but that he might more familiarly insinuate himself and come in favor with the Gentiles.",
+            "Yea, it seemeth that Paul did make choice of the house which did join to the synagogue, that he might the more nettle the Jews.",
+            "For though the Jews had not sincere religion, yet because they did all profess the worship of God, it might have seemed that godliness took place commonly in all the whole nation."
+        ],
+        "Philip Schaff": [
+            "As long as it was possible, Paul seems always to have made the synagogue, or the meeting-place of prayer for the Jews, his centre of work; but this usually, after a time, was closed to him.",
+            "So at Rome we read of \u2018his own hired house;\u2019 at Ephesus, \u2018the school of Tyrannus;\u2019 at Corinth, it was the house of a proselyte close by the Jews\u2019 synagogue, where Paul was in the habit of assembling the little Church of Christ, to instruct them in the gospel of his Master.",
+            "In this very uncertain reference we possess the only possible allusion in the \u2018Acts\u2019 to St. Paul\u2019s famous companion."
+        ],
+        "Archibald T. Robertson": [
+            "The Titii were a famous family of potters in Corinth.",
+            "This Roman was a God-fearer whose house 'joined hard to the synagogue.'",
+            "The lines are being drawn between the Christians and the Jews, drawn by the Jews themselves."
+        ],
+        "John Gill": [
+            "he did not return to Aquila and Priscilla, because they were Jews, lest he should be thought not to abide by his words, that he would henceforth go to the Gentiles.",
+            "One that worshipped God; a Gentile, but a religious man, such an one as Cornelius.",
+            "whose house joined hard to the synagogue."
+        ],
+        "John Wesley": [
+            "He went into the house of one named Justus \u2014 A Gentile, and preached there, though probably he still lodged with Aquila."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul's decision to no longer visit the house of Aquila, a Jew, but instead go to the house of a Gentile proselyte of the gate, demonstrated his separation from the Jews and his willingness to carry on his work among the Gentiles. By preaching near the synagogue, Paul intended to make it clear that he was no longer testifying there, but rather focusing on the house of Justus. This change in strategy resulted in the rapid increase of conversions. The location of Justus' house, close to the synagogue, allowed Paul to more closely engage with Gentiles and challenge the Jews by drawing clear lines between Christians and them.",
+            "wordCount": 109,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 2.13770497163436,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.42,
+            "commentatorTierSimilarities": [
+                30.91,
+                32.38,
+                36.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's decision to separate himself from the Jews is evident in his choice to no longer visit the house of Aquila, but instead go to the house of a Gentile proselyte. By preaching near the synagogue, Paul aimed to show that he was no longer testifying there, but focusing his efforts on the house of Justus. This strategic move led to a rapid increase in conversions. The proximity of Justus' house to the synagogue allowed Paul to engage with Gentiles and establish clear distinctions between Christians and Jews.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 2.0940786953832653,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.97,
+            "commentatorTierSimilarities": [
+                29.86,
+                32.34,
+                37.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In order to separate himself from the Jews, Paul ceased visiting the house of Aquila and started going to the house of a Gentile proselyte instead. By preaching near the synagogue, Paul made it clear that he was no longer testifying there but focusing on Justus' house. This strategic decision resulted in a rapid increase in conversions. Justus' house being close to the synagogue allowed Paul to engage with Gentiles and draw clear lines between Christians and Jews.",
+            "wordCount": 78,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.1788374600684266,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.79,
+            "commentatorTierSimilarities": [
+                30.29,
+                32.41,
+                37.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By ceasing to visit the house of Aquila, a Jew, and instead going to the house of a Gentile proselyte, Paul demonstrated his separation from the Jews. Preaching in the vicinity of the synagogue, he signified that he would no longer testify there but dedicate himself to Justus' house. This strategic shift led to a rapid growth in conversions. The proximity of Justus\u2019 house to the synagogue allowed Paul to engage Gentiles and create a clear distinction between Christians and Jews.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1307731598871618,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.19,
+            "commentatorTierSimilarities": [
+                31.37,
+                31.04,
+                37.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's decision to separate himself from the Jews is evident in his choice to no longer visit the house of Aquila, but instead go to the house of a Gentile proselyte. By preaching near the synagogue, Paul aimed to show that he was no longer testifying there, but focusing his efforts on the house of Justus. This change in strategy resulted in a rapid increase of conversions. The close proximity of Justus' house to the synagogue allowed Paul to engage with Gentiles and clearly delineate between Christians and Jews.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.1079004786461253,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                30.42,
+                32.23,
+                37.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

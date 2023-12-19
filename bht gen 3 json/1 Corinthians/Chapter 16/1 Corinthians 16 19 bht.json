@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:14:48",
+    "verseRef": "1 Corinthians 16:19",
+    "bestBHT": {
+        "bht": "Aquila and Priscilla, a married couple, had a faithful assembly in their dwelling, demonstrating a pattern of Christian self-devoting love. Paul visited their house to search for Christians, emphasizing the close tie between believers in different locations. The churches in Asia often met in private houses, fostering a sense of blessed community. Aquila and Priscilla's family resembled a little church, engaging in singing, praying, and discussing divine matters daily. Their devotion is a magnificent example, symbolizing a whole church in a single family.",
+        "wordCount": 85,
+        "quoteTokenProportion": 20.63,
+        "qualityScore": 1.8466680732118785,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+        "commentatorTierSimilarities": [
+            26.15,
+            35.09,
+            38.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "See note, Rom. xvi. 2.",
+            "On Aquila and Priscilla, see Rom. xvi. 3, 4; Acts xviii. 2.",
+            "They had removed from Corinth (Acts xviii. 1) to Ephesus (ib. 26), and had there, as subsequently at Rome (xvi. 3, 5), an assembly of the faithful meeting in their dwelling."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A pattern to Christian husbands and wives.",
+            "Their Christian self-devoting love appears wherever they were.",
+            "From this we may explain Paul's entering 'into every house and haling men and women': he would in searching for Christians go to their several 'houses' of prayer."
+        ],
+        "Albert Barnes": [
+            "The churches of Asia\" - The word \"Asia\" in the New Testament usually denotes Asia Minor in general; see the note on Acts 2:9.",
+            " ",
+            "Salute you - Greet you; send respectful and affectionate Christian regards.\" ",
+            "With the church that is in their house - See the note at Romans 16:5."
+        ],
+        "Marvin Vincent": [
+            "Asia. See on Acts 2:9. ",
+            "Aquila and Prisca. See on Romans 16:3."
+        ],
+        "John Calvin": [
+            "A magnificent eulogium, inasmuch as the name of the Church is applied to a single family!",
+            "It is befitting, that all the families of the pious should be regulated in such a manner as to be so many little Churches.",
+            "His saluting them in the name of Aquila and Priscilla, confirms what I have noticed above \u2014 that the Epistle was written at Ephesus, not at Philippi."
+        ],
+        "Philip Schaff": [
+            "The Christian 'salutation' was no unmeaning ceremony: it was the Hebrew 'Peace be unto you' in its highest, warmest sense.",
+            "From this and similar references to churches regularly meeting in the private houses of their members, it is plain that up to this time and probably for long after the Christians met only in private houses.",
+            "In this way the tie between Christians in different localities, and between those little communities themselves, would be drawn close, and be felt to be a blessed reality."
+        ],
+        "Archibald T. Robertson": [
+            "True of the Roman province (Acts 10:10; Acts 10:26; Colossians 1:6; Colossians 2:1; Colossians 4:13; Colossians 4:16). The gospel spread rapidly from Ephesus.\" ",
+            "Paul had long ago left the synagogue for the school house of Tyrannus (Acts 19:9). But Aquila and Prisca opened their house here for the services.\" ",
+            "The churches had to meet where they could. Paul had laboured and lived with this family in Corinth (Acts 18:2) and now again in Ephesus (Acts 18:19; Acts 20:34). It was their habit wherever they lived (Romans 16:5)."
+        ],
+        "John Gill": [
+            "Aquila and Priscilla salute you much in the Lord; Aquila was a Jew of Pontus, and Priscilla was his wife, who came from Italy, all Jews being obliged to depart from Rome, by the order of Claudius Caesar.",
+            "These came to Corinth, where they met with the apostle; and being of the same occupation, stayed and wrought with him; and when he went from thence to Ephesus, accompanied him thither.",
+            "Their family consisting of believers, and being kept in such good decorum, and employed daily in singing, praying, expounding, and conferring together about divine things, looked like a little church."
+        ],
+        "John Wesley": [
+            "Aquila and Priscilla had formerly made some abode at Corinth, and there St. Paul's acquaintance with them began, Acts 18:1,2."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Aquila and Priscilla, a married couple who had moved from Corinth to Ephesus, had a faithful assembly meeting in their dwelling. They were a pattern of Christian self-devoting love, serving as an example for husbands and wives. Paul went to their house in search of Christians and their home served as a place for the services. The churches in Asia regularly met in the private houses of their members, tying Christians in different localities together. Aquila and Priscilla, despite being a single family, were considered a magnificent eulogium as if they were a whole church. It is clear that the Epistle was written in Ephesus and not Philippi, as Aquila and Priscilla were mentioned as the authors. Aquila, a Jew from Pontus, and Priscilla, his wife from Italy, met the apostle in Corinth and later accompanied him to Ephesus. Their family, consisting of believers, acted like a little church, engaging in singing, praying, expounding, and conferring about divine things.",
+            "wordCount": 160,
+            "quoteTokenProportion": 27.55,
+            "qualityScore": 1.936273004534785,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                29.54,
+                26.15,
+                44.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Aquila and Priscilla, a married couple who had an assembly meeting in their dwelling, exemplified self-devoting love as a pattern for Christian husbands and wives. Paul visited their house to search for Christians, highlighting the close tie between Christians in different localities. The churches in Asia regularly met in private houses, fostering a sense of blessed community. Aquila and Priscilla's family, consisting of believers, resembled a little church, engaging in singing, praying, and discussing divine matters daily. Their faithful devotion is a magnificent eulogium, symbolizing a whole church in a single family.",
+            "wordCount": 94,
+            "quoteTokenProportion": 21.43,
+            "qualityScore": 1.8241343220961381,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.99,
+            "commentatorTierSimilarities": [
+                26.23,
+                36.0,
+                37.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Aquila and Priscilla, a married couple, had a faithful assembly meeting in their dwelling, serving as a pattern for Christian husbands and wives. Paul visited their house to search for Christians, reflecting the tie between Christians in different localities. The churches in Asia regularly met in private houses, fostering a close-knit community. Aquila and Priscilla's family resembled a little church, engaging in singing, praying, and discussing divine matters daily. Their devotion is a magnificent eulogium, symbolizing a whole church in a single family.",
+            "wordCount": 85,
+            "quoteTokenProportion": 19.67,
+            "qualityScore": 1.8444239123082062,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                26.62,
+                34.62,
+                38.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Aquila and Priscilla, a married couple, had a faithful assembly in their dwelling, serving as a pattern for Christian husbands and wives. Paul visited their house to search for Christians, reflecting the close tie between Christians in different localities. The churches in Asia often met in private houses, fostering a sense of community. Aquila and Priscilla's family resembled a little church, engaging in singing, praying, and discussing divine matters daily. Their devotion is a magnificent example, symbolizing a whole church in a single family.",
+            "wordCount": 85,
+            "quoteTokenProportion": 22.95,
+            "qualityScore": 1.836412691042978,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                26.06,
+                35.3,
+                38.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Aquila and Priscilla, a married couple, had a faithful assembly in their dwelling, demonstrating a pattern of Christian self-devoting love. Paul visited their house to search for Christians, emphasizing the close tie between believers in different locations. The churches in Asia often met in private houses, fostering a sense of blessed community. Aquila and Priscilla's family resembled a little church, engaging in singing, praying, and discussing divine matters daily. Their devotion is a magnificent example, symbolizing a whole church in a single family.",
+            "wordCount": 85,
+            "quoteTokenProportion": 20.63,
+            "qualityScore": 1.8466680732118785,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.74,
+            "commentatorTierSimilarities": [
+                26.15,
+                35.09,
+                38.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

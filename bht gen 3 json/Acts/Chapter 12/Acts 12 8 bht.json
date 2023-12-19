@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:29:58",
+    "verseRef": "Acts 12:8",
+    "bestBHT": {
+        "bht": "The angel's detailed instructions to Peter depict the authenticity of the scene. The urgency and promptness displayed in the commands reflect the necessity of swift action. Peter is instructed to gird himself with a belt, bind on his sandals, and cast his outer garment around him, symbolizing readiness. His immediate obedience without questioning reveals his trust in the angel's guidance.",
+        "wordCount": 62,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 1.4608437634963491,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+        "commentatorTierSimilarities": [
+            29.97,
+            36.18,
+            33.85
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "In such graphic minuteness of detail we have a charming mark of reality.",
+            "The curtness of the orders, and the promptitude with which they were obeyed, betoken the despatch which, in the circumstances, was necessary.",
+            "The rapidity of the orders...betoken the despatch which, in the circumstances, was necessary."
+        ],
+        "Albert Barnes": [
+            "Gird thyself - When they slept the outer garment was thrown off, and the girdle with which they bound their inner garment, or tunic, was loosed.\" (Commentary)",
+            "Bind on thy sandals - Put on thy sandals; prepare to walk.\" (Commentary)",
+            "Cast thy garment about thee - The outer garment, that was thrown loosely around the shoulders.\" (Commentary)"
+        ],
+        "Marvin Vincent": [
+            "Garment [\u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03bd] . The outer garment, or mantle. See on Matthew 5:40."
+        ],
+        "Philip Schaff": [
+            "The angel gives these various directions 1st, to indicate the reality of the appearance; 2d, to show there was no need for haste.",
+            "He was to arise at once; he would find the iron fetters which bound him to the two sleeping soldiers already snapped by the Divine touch.",
+            "He was to throw round him his heavy cloak as a protection against the sharp air of the early spring morning."
+        ],
+        "Archibald T. Robertson": [
+            "Gird thyself.\" (\u03b6\u03c9\u03c3\u03b1) - The girdle was worn round the \u03c7\u03b9\u03c4\u03c9\u03bd or undergarment.",
+            "Bind on.\" (\u03c5\u03c0\u03bf\u03b4\u03b7\u03c3\u03b1) - A command to bind under, to tie on sandals.",
+            "Cast about thee.\" (\u03c0\u03b5\u03c1\u03b9\u03b2\u03b1\u03bb\u03bf\u03c5) - To throw around, especially clothing around the body. The \u03b9\u03bc\u03b1\u03c4\u03b9\u03bf\u03bd (outer garment) was put over the \u03c7\u03b9\u03c4\u03c9\u03bd."
+        ],
+        "John Gill": [
+            "He did not ask any question, or the reason of these orders; he did not dispute the matter, but at once obeyed.",
+            "And he saith unto him, cast thy garment about thee; meaning his upper garment, or cloak, which lay by him.",
+            "And follow me; suggesting hereby, that he should take care of him, and show him his way, and bring him safe out of the prison."
+        ],
+        "John Wesley": [
+            "Gird thyself \u2014 Probably he had put off his girdle, sandals, and upper garment, before he lay down to sleep."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this passage from Acts, we see a vivid attention to detail, depicting the realistic nature of the events. The urgency and promptness with which the instructions are given and followed indicate the necessity of haste in this situation. The angel commands Peter to gird himself with a belt, bind on his sandals, and cast his outer garment around him. These instructions demonstrate the reality of the angel's appearance while also symbolizing Peter's preparedness for action. By obeying these orders without question, Peter is shown to implicitly trust and follow the guidance of the angel.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.4724560383150138,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                31.74,
+                36.96,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The detailed instructions given by the angel to Peter in this account convey the authentic nature of the event. The urgency of the orders and the swift obedience required reflect the need for prompt action. Peter is commanded to wear a girdle, put on sandals, and wrap his outer garment around him, symbolizing preparedness for the task at hand. His immediate and unquestioning compliance shows his trust in the guidance and protection of the angel.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.4518913918409662,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.62,
+            "commentatorTierSimilarities": [
+                31.24,
+                32.7,
+                36.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel's detailed instructions to Peter depict the authenticity of the scene. The urgency and promptness displayed in the commands reflect the necessity of swift action. Peter is instructed to gird himself with a belt, bind on his sandals, and cast his outer garment around him, symbolizing readiness. His immediate obedience without questioning reveals his trust in the angel's guidance.",
+            "wordCount": 62,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 1.4608437634963491,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.92,
+            "commentatorTierSimilarities": [
+                29.97,
+                36.18,
+                33.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The specific and detailed instructions given by the angel to Peter reveal the realism and authenticity of the event. The sense of urgency implied by the swift compliance with these orders underscores the importance of acting quickly in the given circumstances. Peter is directed to gird himself with a belt, put on sandals, and wrap his outer garment around him, symbolizing preparedness. By immediately obeying these instructions, Peter demonstrates his implicit trust in the guidance of the angel.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.4175654971976765,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.48,
+            "commentatorTierSimilarities": [
+                32.64,
+                33.58,
+                33.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The precise instructions provided by the angel to Peter in this account serve to portray the genuine nature of the event. The urgency and prompt execution of these commands indicate the necessity for swift action. Peter is instructed to gird himself with a belt, bind on his sandals, and throw his outer garment around him, demonstrating preparedness. By obeying these orders without hesitation, Peter exhibits his trust and reliance on the angel's guidance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.4584449823115317,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.84,
+            "commentatorTierSimilarities": [
+                31.9,
+                32.92,
+                35.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

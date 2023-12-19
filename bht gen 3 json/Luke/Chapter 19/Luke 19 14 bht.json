@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 16:21:54",
+    "verseRef": "Luke 19:14",
+    "bestBHT": {
+        "bht": "The parable in question represents the rejection of Jesus by the Jews and their refusal to have him reign over them. This rejection is mirrored by infidel rejecters in Christendom who oppose Christianity and persecute its followers. The opposition towards Jesus and his teachings is unfounded and unreasonable, as the Jews had no other reason for their unwillingness to accept him. This deliberate rejection of Jesus has been seen throughout history, with the Jews going as far as sending an embassy after him to protest his kingship.",
+        "wordCount": 87,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.9635268425649373,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+        "commentatorTierSimilarities": [
+            27.99,
+            38.86,
+            33.15
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The nobleman, son of a king, literally, one high born, is the Lord Jesus; the kingdom is that over his own citizens, the Jews.",
+            "They sent a message after Him; their cry went up to Heaven, in the persecutions of his servants, &c.; we will not have this man to reign over us.",
+            "The parable has a double import: suited both to the disciples (his own servants), and the multitude (his citizens)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "his citizens\u2014His proper subjects; meaning the Jews, who expressly repudiating our Lord's claims said, \"We have no king but C\u00e6sar\".\" ",
+            "In Christendom, these correspond to infidel rejecters of Christianity, as distinguished from professed Christians."
+        ],
+        "Albert Barnes": [
+            "Archelaus went to Rome to obtain from Augustus a confirmation of his title to reign over that part of Judea which had been left him by his father, Herod the Great.",
+            "The Jews, knowing his character, sent an embassy of 50 men to Rome, to prevail on Augustus 'not' to confer the title on him, but they could not succeed.",
+            "By this part of it Christ designed to denote that the Jews would reject 'him' - the Messiah, and would say that they did not desire him to reign over them."
+        ],
+        "Philip Schaff": [
+            "The world hates our Lord unreasonably, and therefore opposes Him.",
+            "No other reason was urged than their unwillingness.",
+            "This positive opposition to the Lord Jesus has manifested itself, ever since He went to receive His kingdom, mainly in persecution of His servants."
+        ],
+        "Archibald T. Robertson": [
+            "His citizens (\u03bf \u03c0\u03bf\u03bb\u03b9\u03c4\u03b1 \u03b1\u03c5\u03c4\u03bf\u03c5). That actually happened with Archelaus. "
+        ],
+        "John Gill": [
+            "These hated him with a mortal hatred...by persecuting his disciples and followers.",
+            "...when they not only mocked them, but laid hold on them, and put them in hold, even in the common prison, and persecuted them from place to place.",
+            "...this is the language of every graceless soul; and is to be observed in their opposition to, and neglect of the truths of Christ, and his divine institutions."
+        ],
+        "John Wesley": [
+            "Such were those of Jerusalem, hated him, and sent an embassy after him - The word seems to imply, their sending ambassadors to a superior court, to enter their protest against his being admitted to the regal power.",
+            "In such a solemn manner did the Jews protest, as it were, before God, that Christ should not reign over them.",
+            "this man - So they call him in contempt."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The parable of the nobleman and his citizens in Luke 19:14 has a double meaning. Firstly, it represents the rejection of Jesus by the Jews, as they sent a message saying they did not want him to reign over them. Secondly, it speaks to the rejection of Christianity by infidel rejecters in Christendom. This rejection is manifested in the persecution of his disciples and followers. The Jews' negative response to Jesus is similar to how the graceless souls of the world oppose and neglect the truths of Christ. They not only protested against Christ before God, but they also referred to him with contempt as this man.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.8851709013988545,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.02,
+            "commentatorTierSimilarities": [
+                30.62,
+                34.45,
+                34.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The parable of the nobleman reflects the rejection of Jesus by his own people, the Jews. They sent a message declaring that they did not want him to reign over them. This rejection extended to those who oppose Christianity, as they persecute the disciples and followers. The graceless souls of the world, in their opposition and neglect of Christ's truths and institutions, mirror the Jews' protest against Christ. They even referred to him in contempt as this man.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.8175408692795187,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.77,
+            "commentatorTierSimilarities": [
+                28.17,
+                33.05,
+                38.78
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The parable in question represents the rejection of Jesus by the Jews and their refusal to have him reign over them. This rejection is mirrored by infidel rejecters in Christendom who oppose Christianity and persecute its followers. The opposition towards Jesus and his teachings is unfounded and unreasonable, as the Jews had no other reason for their unwillingness to accept him. This deliberate rejection of Jesus has been seen throughout history, with the Jews going as far as sending an embassy after him to protest his kingship.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.9635268425649373,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.63,
+            "commentatorTierSimilarities": [
+                27.99,
+                38.86,
+                33.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this parable, the rejection of Jesus by the Jews is vividly portrayed. They sent a message declaring their refusal to acknowledge Jesus as their king. This rejection can be seen in the persecution of Jesus' disciples and followers, even extending to infidel rejecters of Christianity. The graceless souls of the world oppose and neglect Christ's truths and institutions. The Jews' protest against Christ, referring to him contemptuously as this man, exemplifies their deep-seated hatred towards him.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7944654763147494,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "commentatorTierSimilarities": [
+                28.63,
+                34.36,
+                37.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The parable illustrates the rejection of Jesus by the Jews, who sent a message declaring they did not want him to reign over them. This rejection extends to those who oppose Christianity, persecuting Jesus' disciples. The animosity towards Jesus is unreasonable and unfounded. The deliberate protest against him is seen in the Jews' contemptuous reference to him as this man. This display of hatred by the Jews towards Jesus is evident in their persecution, mocking, and imprisonment of his followers.",
+            "wordCount": 80,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.9479403567523987,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.11,
+            "commentatorTierSimilarities": [
+                29.65,
+                35.24,
+                35.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 16:16:48",
+    "verseRef": "Luke 8:53",
+    "bestBHT": {
+        "bht": "The people around the maiden knew that she was dead, and thus the words of Jesus saying she is not dead but sleepeth did not give them any hope. Instead, they laughed at him in derision, not understanding the deeper meaning behind his words. Despite their mocking, Jesus knew the truth - that not even death could separate him from his power to bring the dead back to life.",
+        "wordCount": 68,
+        "quoteTokenProportion": 54.0,
+        "qualityScore": 2.0707724543127175,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+        "commentatorTierSimilarities": [
+            45.51,
+            0.0,
+            54.49
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The maiden was actually dead as plainly appears from the knowing that she was dead.",
+            "The words, she is not dead but sleepeth, are no ground for surmising the contrary.",
+            "The words, she is not dead but sleepeth, are no ground for surmising the contrary: see note on Matthew, ver. 24."
+        ],
+        "Archibald T. Robertson": [
+            "Knowing that she was dead (\u03b5\u03b9\u03b4\u03bf\u03c4\u03b5\u03c2 \u03bf\u03c4 \u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03b5\u03bd). That she died (\u03b1\u03c0\u03b5\u03b8\u03b1\u03bd\u03b5\u03bd), second aorist active indicative of \u03b1\u03c0\u03bf\u03b8\u03bd\u03b7\u03c3\u03ba\u03c9. "
+        ],
+        "John Gill": [
+            "These, from weeping for the dead, fell to laughing at Christ, having him and his words in the utmost derision.\" ",
+            "They were ignorant in what sense Christ meant she was not dead, but asleep.\" ",
+            "They laughed him to scorn, knowing that she was dead, as she doubtless was."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The people in the room were filled with sorrow when they realized that the girl had died. Even though Jesus told them, She is not dead but sleepeth, they did not understand that he meant something different. Their laughter and derision showed their lack of understanding and disbelief in Jesus' ability to bring the dead back to life. However, the truth remained that the girl was indeed dead, as they knew.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.94,
+            "qualityScore": 1.9777701241016072,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                46.58,
+                0.0,
+                53.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The people around the maiden knew that she was dead, and thus the words of Jesus saying she is not dead but sleepeth did not give them any hope. Instead, they laughed at him in derision, not understanding the deeper meaning behind his words. Despite their mocking, Jesus knew the truth - that not even death could separate him from his power to bring the dead back to life.",
+            "wordCount": 68,
+            "quoteTokenProportion": 54.0,
+            "qualityScore": 2.0707724543127175,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                45.51,
+                0.0,
+                54.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people gathered were fully aware that the young girl had indeed died. The statement made by Jesus, she is not dead, but sleepeth, should not be misconstrued as evidence to the contrary. The crowd erroneously reacted by laughing and mocking him, unaware of the true meaning behind Christ's words. Their laughter was a display of their ignorance, for they failed to understand the deeper significance of his statement. Despite their doubt, the reality remained that the girl had passed away.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.668831016753127,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+            "commentatorTierSimilarities": [
+                46.1,
+                0.0,
+                53.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The onlookers were well aware that the girl had died, evident from their understanding of her state. Jesus' words, she is not dead but sleepeth, should not be taken as evidence to the contrary. Their reaction of mocking and laughter stemmed from their misunderstanding of Christ's true intent. Unaware of the deeper meaning, they scorned Him, oblivious to the fact that the girl had indeed passed away.",
+            "wordCount": 68,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 1.8414862274979444,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.57,
+            "commentatorTierSimilarities": [
+                48.55,
+                0.0,
+                51.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The crowd knew that the young girl had died, as it was plainly apparent. Jesus' statement, she is not dead but sleepeth, should not be interpreted as evidence against her death. Their derisive laughter stemmed from their ignorance of Christ's intended meaning. They were oblivious to the fact that the girl had truly passed away and failed to grasp the deeper significance of His words.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.8427764864918617,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                47.96,
+                0.0,
+                52.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

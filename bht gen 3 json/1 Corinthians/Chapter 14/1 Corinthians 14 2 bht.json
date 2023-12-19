@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 15:12:49",
+    "verseRef": "1 Corinthians 14:2",
+    "bestBHT": {
+        "bht": "For the one who speaks in tongues is not speaking to men, but to God. This form of communication is characterized by speaking mysteries in the Spirit, which are often hidden and unintelligible to both the hearers and even the speaker himself. While there are a few exceptions who possess the gift of interpreting tongues, for most people, these utterances serve as unexplained mysteries, exciting wonder rather than conveying clear understanding. Thus, the purpose of speaking in tongues is to express profound truths and secrets directly to God.",
+        "wordCount": 88,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 2.1118776286329206,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+        "commentatorTierSimilarities": [
+            27.6,
+            34.75,
+            37.65
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For he that speaketh in a tongue, speaketh not unto men; but unto God...in the spirit he speaketh mysteries.\" ",
+            "No one understandeth him...but in his spirit he speaketh mysteries.\" ",
+            "Things which are hidden from the hearers, and sometimes also from himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "speaketh . . . unto God\u2014who alone understands all languages.\" ",
+            "no man understandeth\u2014generally speaking; the few who have the gift of interpreting tongues are the exception.\" ",
+            "mysteries\u2014unintelligible to the hearers, exciting their wonder, rather than instructing them."
+        ],
+        "Albert Barnes": [
+            "The faculty of speaking intelligibly, and to the edification of the church, is of more value than the power of speaking a foreign language.",
+            "It is as if he spoke to God. No one could understand him but God.",
+            "All would be valueless unless it were understood by the church."
+        ],
+        "John Calvin": [
+            "He that speaketh in another tongue, speaketh not unto men, but unto God: that is, according to the proverb, 'He sings to himself and to the Muses.'",
+            "He speaketh in the Spirit \u2014 that is, 'by a spiritual gift...He speaketh mysteries and hidden things, and things, therefore, that are of no profit.'",
+            "I understand the term, however, in a bad sense, as meaning \u2014 dark sayings, that are obscure and involved, as if he had said, 'He speaks what no one understands.'"
+        ],
+        "Philip Schaff": [
+            "For he that speaketh in a tongue speaketh not onto men, but unto God the Giver of that gift.\" ",
+            "In the spirit (as distinct from his conscious understanding) he speaketh mysteries.\" ",
+            "By 'mysteries' is meant truths which, under the ancient economy, were but partially understood, but now fully disclosed."
+        ],
+        "Archibald T. Robertson": [
+            "For no man understands.\" ",
+            "Verb \u03b1\u03ba\u03bf\u03c5\u03c9 used either of hearing the sound only or getting the idea.",
+            "Mysteries. Unexplained mysteries."
+        ],
+        "John Gill": [
+            "For he that speaketh in an unknown tongue...speaketh not unto men; but unto God.\" ",
+            "No man understandeth him...it is of no use and advantage to him.\" ",
+            "In the Spirit he speaketh mysteries...they are a mere jargon to others, being unintelligible."
+        ],
+        "John Wesley": [
+            "He that speaketh in an unknown tongue speaks, in effect, not to men, but to God - Who alone understands him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For the one who speaks in tongues is not speaking to men, but to God, speaking mysteries in the Spirit. It is a form of communication that is hidden from the hearers and often even from the speaker himself. The gift of speaking in tongues involves speaking in languages that are unintelligible to others, with only a few exceptions of those who can interpret. These utterances are not meant to instruct or edify others, but rather to express deep truths and secrets directly to God. They are like unexplained mysteries, exciting wonder instead of providing clear understanding.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.31,
+            "qualityScore": 1.9867826748833783,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.4,
+            "commentatorTierSimilarities": [
+                29.59,
+                34.08,
+                36.33
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For the one who speaks in tongues is not speaking to men, but to God, speaking mysteries in the Spirit. It is a form of communication that is hidden from the hearers and often even from the speaker himself. These utterances are not meant to instruct or edify others, but rather to express deep truths and secrets directly to God. They are like unexplained mysteries, exciting wonder instead of providing clear understanding.",
+            "wordCount": 72,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.9481631760075955,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.12,
+            "commentatorTierSimilarities": [
+                29.71,
+                33.85,
+                36.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For the one who speaks in tongues is not speaking to men, but to God, speaking mysteries in the Spirit. It is a form of communication that is hidden from the hearers and sometimes even from the speaker himself, being unintelligible to others. While the few who have the gift of interpreting tongues can understand, for the majority it remains a mysterious language. These utterances are not meant to instruct or edify others, but rather to express deep truths and secrets directly to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 49.12,
+            "qualityScore": 2.0909124107193433,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.86,
+            "commentatorTierSimilarities": [
+                27.57,
+                34.14,
+                38.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The one who speaks in tongues is not addressing men, but rather speaking to God, communicating mysteries in the Spirit. These mysteries are often hidden from both the hearers and the speaker. The few who possess the gift of interpreting tongues are the exception, as generally, no one understands the language being spoken. These utterances are not intended to edify others, but rather to convey enigmatic truths and secrets directly to God. Thus, they remain unexplained mysteries, captivating the listeners but not providing clear understanding.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.0169815907863518,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.41,
+            "commentatorTierSimilarities": [
+                30.51,
+                33.49,
+                36.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For the one who speaks in tongues is not speaking to men, but to God. This form of communication is characterized by speaking mysteries in the Spirit, which are often hidden and unintelligible to both the hearers and even the speaker himself. While there are a few exceptions who possess the gift of interpreting tongues, for most people, these utterances serve as unexplained mysteries, exciting wonder rather than conveying clear understanding. Thus, the purpose of speaking in tongues is to express profound truths and secrets directly to God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.1118776286329206,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.56,
+            "commentatorTierSimilarities": [
+                27.6,
+                34.75,
+                37.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 16:06:56",
+    "verseRef": "Romans 8:32",
+    "bestBHT": {
+        "bht": "The act of delivering Jesus, God's own Son, was a profound act of self-sacrifice that surpasses any sacrifice we can make. This act demonstrates the Father's love and grace towards us. Understanding Christ's genuine Sonship helps us grasp the language of Scripture in a harmonious way. Through this ultimate gift, we receive all things necessary for our good. Christ, being God's freely bestowed favor, encompasses everything we need. His deliverance is a pledge of God's infinite love and blessings towards us.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.1,
+        "qualityScore": 1.9237312366369617,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+        "commentatorTierSimilarities": [
+            24.02,
+            37.14,
+            38.84
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He spared not His own Son, but delivered Him up on behalf of us all.\" ",
+            "No other sense of own will suit its position here, in a clause already made emphatic by at least, in consequence of which whatever epithet is fixed to son must partake of the emphasis.",
+            "How shall He not also with Him give freely to us all things?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In 'not sparing His own Son, but delivering Him up,' or surrendering Him, God exercised, in His Paternal character, a mysterious act of Self-sacrifice, which, though involving none of the pain and none of the loss which are inseparable from the very idea of self-sacrifice on our part, was not less real, but, on the contrary, as far transcended any such acts of ours as His nature is above the creature's.\" ",
+            "Understand Christ's Sonship thus, and the language of Scripture regarding it is intelligible and harmonious; but take it to be an artificial relationship, ascribed to Him in virtue either of His miraculous birth, or His resurrection from the dead, or the grandeur of His works, or all of these together\u2014and the passages which speak of it neither explain of themselves nor harmonize with each other.",
+            "How can we conceive that He should not [freely give us all things]?"
+        ],
+        "Albert Barnes": [
+            "The argument for the security of all Christians is here derived from the fact, that God had shown them equal love in giving his Son for them.",
+            "He that has given his Son to die for his people will not withdraw the lesser mercies that may be necessary to secure their salvation.",
+            "The most humble and obscure believer may derive consolation from the fact that Christ died for him, and that God has expressed the highest love for him which we can conceive to be possible."
+        ],
+        "Marvin Vincent": [
+            "Spared. Mostly in Paul. Elsewhere only Acts 20:29; 2 Peter 2:4, 2 Peter 2:5. Compare Genesis 22:16, which Paul may have had in mind.",
+            "His own. See on Acts 1:7; 2 Peter 1:3, 2 Peter 1:20.",
+            "Freely give. In contrast with spared."
+        ],
+        "John Calvin": [
+            "It greatly concerns us to be so thoroughly persuaded of the paternal love of God, as to be able to retain our rejoicing on its account.",
+            "As he is a pledge of God\u2019s infinite love towards us, so he has not been sent to us void of blessings or empty, but filled with all celestial treasures.",
+            "Christ himself, and everything that comes with or through him, is a favor freely bestowed, and not what we merit. This shuts out everything as meritorious on the part of man. All is grace."
+        ],
+        "Philip Schaff": [
+            "He who even, or, indeed.",
+            "The gift of Christ for us is the gift of Christ to us.",
+            "Give as a matter of grace or favor, all those things already indicated in Romans 8:26-30, everything created that can work for good to us as those who are the objects of the love of God in Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Who as much as this",
+            "The gift of 'his own son' is the promise and the pledge of the all things for good",
+            "Christ is all and carries all with him"
+        ],
+        "John Gill": [
+            "He that spared not his own Son... but delivered him up for us all.\" ",
+            "God did not spare his Son, because he did not withhold him.\" ",
+            "Christ is God's free gift to his elect... all things freely give us."
+        ],
+        "John Wesley": [
+            "He spared not his own Son; therefore he will freely give us all things.",
+            "He delivered him up for us all; therefore, none can lay anything to our charge.",
+            "All things \u2014 Needful or profitable for us."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Romans 8:32, we see the profound act of self-sacrifice as God the Father did not spare His own Son, but delivered Him up on behalf of us all. This act of delivering Jesus is a mysterious act of self-sacrifice that far transcends any sacrifice we could make. The language of Scripture regarding Christ's Sonship is intelligible and harmonious when we understand it as His genuine relationship with the Father, rather than an artificial relationship based on His birth or works. This act of delivering Jesus is the promise and pledge of all good things. If God did not spare His own Son, then how can we conceive that He would not freely give us all things? Christ is the all-encompassing gift of God's love and grace, and through Him, we receive everything necessary for our good.",
+            "wordCount": 141,
+            "quoteTokenProportion": 50.59,
+            "qualityScore": 2.1541644156178403,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.97,
+            "commentatorTierSimilarities": [
+                28.31,
+                34.47,
+                37.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, we see the remarkable act of self-sacrifice as God the Father did not spare His own Son, but delivered Him up on behalf of us all. This act of delivering Jesus is a mysterious act of self-sacrifice that far surpasses any act of sacrifice on our part. By understanding Christ's genuine Sonship, we can grasp the intelligible and harmonious language of Scripture. Through this ultimate gift, we receive all things necessary for our good, as Christ is the embodiment of God's love and grace.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.026502362902005,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.72,
+            "commentatorTierSimilarities": [
+                27.11,
+                37.24,
+                35.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The act of delivering Jesus, God's own Son, was a profound act of self-sacrifice surpassing any sacrifice we could make. This act reflects the Father's love and grace towards us. By understanding Christ's genuine Sonship, we can comprehend the language of Scripture regarding Him. Through this ultimate gift, we obtain all things necessary for our good. Christ is the all-encompassing embodiment of God's love and grace, freely given to us, ensuring our assurance and security.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9085964282040435,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                24.72,
+                38.89,
+                36.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The act of delivering Jesus, God's own Son, was a profound act of self-sacrifice that surpasses any sacrifice we can make. This act demonstrates the Father's love and grace towards us. Understanding Christ's genuine Sonship helps us grasp the language of Scripture in a harmonious way. Through this ultimate gift, we receive all things necessary for our good. Christ, being God's freely bestowed favor, encompasses everything we need. His deliverance is a pledge of God's infinite love and blessings towards us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.9237312366369617,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                24.02,
+                37.14,
+                38.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In delivering His own Son, God performed a remarkable act of self-sacrifice, surpassing any sacrifice we can make. This act exemplifies the Father's love and grace toward us. Understanding Christ's genuine Sonship helps us comprehend the language of Scripture in a coherent manner. Through this ultimate gift, we receive all things necessary for our well-being. Christ, as God's freely bestowed favor, encompasses everything we require. His delivering of Jesus serves as a testament to God's infinite love and blessings toward us.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.921137489630249,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.22,
+            "commentatorTierSimilarities": [
+                24.16,
+                36.92,
+                38.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

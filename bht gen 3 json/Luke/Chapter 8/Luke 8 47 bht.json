@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 16:16:56",
+    "verseRef": "Luke 8:47",
+    "bestBHT": {
+        "bht": "Our Lord's precise observation of the situation reveals His complete knowledge of the woman's healing. By openly confessing her miraculous cure before everyone, she not only acknowledged her faith but also publicly acknowledged Jesus' power. This incident vividly captures the importance of openly proclaiming our Christian faith, rather than keeping it concealed. Despite her initial fear and hesitation, the woman humbly and courageously declared the truth of her healing in the presence of all, serving as an inspiring example of bold testimony.",
+        "wordCount": 84,
+        "quoteTokenProportion": 34.92,
+        "qualityScore": 1.685747303701331,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+        "commentatorTierSimilarities": [
+            38.96,
+            31.14,
+            29.91
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Our Lord looked around to see 'her that had done this thing,'\u2014a wonderful precision of expression, by which His absolute knowledge of the whole matter is set before us.\" (commentator)",
+            "Her confession before all the people, is very striking Himself openly confessed, and not only secretly sought.\" (commentator)",
+            "Our Christian life is not, as it is sometimes called, merely 'a thing between ourselves and God;' but a good confession, to be witnessed before all.\" (commentator)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This, though a great trial to the shrinking modesty of the believing woman..."
+        ],
+        "Marvin Vincent": [
+            "Falling down. Not in worship, but in terror. See on fell down, Luke 5:28."
+        ],
+        "Philip Schaff": [
+            "Could not be hid. She felt that He knew of the cure He had wrought.",
+            "In the presence of all the people. Peculiar to Luke, and significant.",
+            "This our Lord desires and deserves. A caution to those believers who do not confess Him before men."
+        ],
+        "Archibald T. Robertson": [
+            "Vivid touch of the feeling of this sensitive woman who now had to tell everybody of her cure.",
+            "In the presence of all the people... She faced the widest publicity for her secret cure."
+        ],
+        "John Gill": [
+            "she came trembling; for fear of the anger and resentment of Christ, and lest the favour would be revoked, and the penalty of the law inflicted",
+            "And falling down before him; in the most humble manner, 'at his feet', as the Arabic version reads; 'and worshipped him'",
+            "she declared unto him before all the people; the whole truth of the matter, what a disease she had laboured under for so long a time, what means she had used to no purpose"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord, with His absolute knowledge of the situation, looked around to identify the woman who had been healed. Her confession in front of the entire crowd was a powerful testament to her faith and the undeniable work of Jesus. This incident reminds us that our Christian life is not just a personal matter between us and God, but a testimony to be shared openly. It must have been a great trial for this woman, who was initially filled with fear and hesitation, to face the widest publicity for her secret cure. However, she overcame her apprehension and bravely declared the truth of her healing before all the people.",
+            "wordCount": 109,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.692017226973023,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                35.5,
+                30.22,
+                34.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord's precise observation of the situation reveals His complete knowledge of the woman's healing. By openly confessing her miraculous cure before everyone, she not only acknowledged her faith but also publicly acknowledged Jesus' power. This incident vividly captures the importance of openly proclaiming our Christian faith, rather than keeping it concealed. Despite her initial fear and hesitation, the woman humbly and courageously declared the truth of her healing in the presence of all, serving as an inspiring example of bold testimony.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.685747303701331,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                38.96,
+                31.14,
+                29.91
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Our Lord's precise knowledge is evident as He scans the crowd, identifying the woman who had received healing. Her courageous confession before everyone serves as a powerful demonstration of her faith and speaks volumes about the open acknowledgment of Jesus' work. This incident emphasizes that our Christian life should not be confined to our personal relationship with God but should be openly witnessed to all. Despite her initial trepidation, the woman boldly proclaimed the truth of her cure, facing the daunting prospect of widespread publicity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.82,
+            "qualityScore": 1.6008045962450566,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.57,
+            "commentatorTierSimilarities": [
+                40.59,
+                31.28,
+                28.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Our Lord's meticulous examination of the surroundings exposes His comprehensive understanding of the situation. The woman's public acknowledgement of her healing is a poignant exhibition of faith and a testament to the transparency we should exhibit in our Christian lives. Although it likely posed a great trial for her modesty, she bravely faced the widest possible audience in order to share her secret cure. This act exemplifies the significance of openly proclaiming our faith, allowing it to be witnessed by all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.5020444629723502,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.29,
+            "commentatorTierSimilarities": [
+                42.74,
+                29.53,
+                27.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Our Lord's exact observation showcases His complete awareness regarding the woman who had been healed, emphasizing His unwavering knowledge of the situation. The woman's confession in front of the entire crowd serves as a powerful testament to her faith and Jesus' miraculous work. This incident highlights the importance of openly declaring our Christian life before others, rather than keeping it hidden. Despite her initial fear, the woman courageously shared the truth of her cure, facing the daunting challenge of public scrutiny.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6145883186496353,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+            "commentatorTierSimilarities": [
+                42.53,
+                29.67,
+                27.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

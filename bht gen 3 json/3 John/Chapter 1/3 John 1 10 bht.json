@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:15:33",
+    "verseRef": "3 John 10",
+    "bestBHT": {
+        "bht": "In rejecting the Apostle's person, Diotrephes, who possibly stood at the head of a party, rejected all his influence and hindered those who would receive the strangers, prating against them with wicked speeches. He went so far as to cast them out of the church, wielding his power of excommunication. The aged apostle, unafraid of Diotrephes, defied him by vowing to remember and punish his actions and bring them to remembrance before the church. John knew that the conduct of Diotrephes, filled with malevolent words and a domineering spirit, would not stand the light.",
+        "wordCount": 95,
+        "quoteTokenProportion": 35.82,
+        "qualityScore": 2.0077902981292626,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+        "commentatorTierSimilarities": [
+            42.6,
+            42.47,
+            14.93
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "In rejecting the Apostle's person, he rejected all his influence.",
+            "Prating against us with wicked speeches.",
+            "He hinders those that would receive them, and casts them out of the church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I will remember... by stigmatizing and punishing.",
+            "He casteth them... by excommunication from the Church.",
+            "Diotrephes possibly stood at the head of this party, which fact, as well as this domineering spirit, may account for his hostility to the missionaries, and to the apostle John."
+        ],
+        "Albert Barnes": [
+            "He would punish his arrogance and presumption; would take measures that he should be dealt with in a proper manner.",
+            "If it was the duty of the church to have received these men, who had been thus recommended to them, and it had been prevented from doing what it would otherwise have done, by the influence of one man, then it was proper that the influence of that man should be restrained...",
+            "Not satisfied with venting his private feelings in talk...He himself rejected the brethren, and persuaded the church to do the same thing."
+        ],
+        "Marvin Vincent": [
+            "Prating. From fluw to bubble up or boil over. Hence of talk which is both fluent and empty.",
+            "Them that would. Those who were disposed to receive the strangers.",
+            "Casteth them out. By excommunication, which, through his influence, he had power to bring about."
+        ],
+        "Philip Schaff": [
+            "We mark here the same tone of faithful sternness which pervades the two other Epistles.",
+            "I will bring to remembrance before the church, his works which he doeth: not merely his prating against us with malicious words, but his actions, of more importance to the apostle than any words spoken against himself merely.",
+            "He casteth them out who would receive the brethren: by using his influence to have them cut off from the Christian society."
+        ],
+        "Archibald T. Robertson": [
+            "The aged apostle is not afraid of Diotrephes and here defies him.",
+            "Not simply foolish chatter, but malevolent words.",
+            "John knows that the conduct of Diotrephes will not stand the light."
+        ],
+        "John Gill": [
+            "silly, idle, trifling, and empty stuff",
+            "a lordly and tyrannical way",
+            "assumes the power of doing it himself"
+        ],
+        "John Wesley": [
+            "He prateth against us \u2014 Both them and me, thereby endeavouring to excuse himself."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In rejecting the Apostle's person, Diotrephes, who possibly stood at the head of a party, rejected all his influence and hindered those who would receive the strangers, prating against them with wicked speeches. He went so far as to cast them out of the church, wielding his power of excommunication. The aged apostle, unafraid of Diotrephes, defied him by vowing to remember and punish his actions and bring them to remembrance before the church. John knew that the conduct of Diotrephes, filled with malevolent words and a domineering spirit, would not stand the light.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.0077902981292626,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.1,
+            "commentatorTierSimilarities": [
+                42.6,
+                42.47,
+                14.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In rejecting the Apostle's person, Diotrephes, who possibly stood at the head of a party, rejected all his influence and hindered those who would receive the strangers, prating against them with wicked speeches. He went so far as to cast them out of the church, wielding his power of excommunication. The aged apostle, unafraid of Diotrephes, vowed to remember and punish his actions. John knew that the conduct of Diotrephes, filled with malevolent words and a domineering spirit, would not stand the light.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.005302540439144,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                42.95,
+                40.75,
+                16.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Diotrephes, possibly standing at the head of a party, rejected the Apostle's person and, in turn, his influence. He hindered those who wanted to receive the strangers and cast them out of the church. The aged apostle, unafraid, vowed to remember and punish his actions. John knew that Diotrephes' conduct, filled with malevolent words and a domineering spirit, could not withstand scrutiny.",
+            "wordCount": 63,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 1.9514494912995612,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                41.87,
+                41.43,
+                16.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Diotrephes, possibly standing at the head of a party, rejected the Apostle's person, thus rejecting all his influence. He hindered those who wanted to receive the strangers, casting them out of the church through his power of excommunication. The aged apostle, unafraid, vowed to remember and punish Diotrephes' actions. John knew that Diotrephes' conduct, filled with malevolent words and a domineering spirit, would not be able to withstand the light.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9156685954570705,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                43.59,
+                41.76,
+                14.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In rejecting the Apostle's person and prating against him with malicious words, Diotrephes, possibly standing at the head of a party, not only rejected the Apostle's influence but hindered those who were disposed to receive the strangers by casting them out of the church. Nevertheless, the aged apostle was unafraid of Diotrephes and vowed to remember and punish his actions, bringing them to remembrance before the church. John was well aware that Diotrephes' conduct, filled with malevolent words and a domineering spirit, could not withstand the light.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9342792860710016,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                41.82,
+                48.12,
+                10.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

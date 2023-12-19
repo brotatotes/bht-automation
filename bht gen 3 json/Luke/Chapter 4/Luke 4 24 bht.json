@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:15:02",
+    "verseRef": "Luke 4:24",
+    "bestBHT": {
+        "bht": "The people in Nazareth were unable to recognize Jesus as a prophet due to his long residence, which made him too ordinary for them. Their contempt was fueled by their familiarity with his family and disregard for his teachings and miracles. This illustrates the principle that no prophet is accepted in his own country. We should be cautious not to let familiarity breed contempt and remain open to receiving wisdom from unexpected sources.",
+        "wordCount": 73,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.5905622011851452,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+        "commentatorTierSimilarities": [
+            22.33,
+            41.86,
+            35.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A formula usual with St. Luke; and indicating, if I mistake not, the passing to a different source of information, or at least a break in the record, if from the same source.\" ",
+            "See John iv. 44 and note."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Too much familiarity breeds contempt.",
+            "Our Lord's long residence in Nazareth merely as a townsman had made Him too common, incapacitating them for appreciating Him.",
+            "A most important principle, to which the wise will pay due regard."
+        ],
+        "Albert Barnes": [
+            "No prophet is accepted - Has honor, or is acknowledged as a prophet. See the notes at Matthew 13:57."
+        ],
+        "John Calvin": [
+            "The unbelief of men presents an obstruction to God, and hinders him from working, as might be desired, for their salvation.",
+            "If you wish to have a share in miracles, why do you not give place to God?",
+            "It was intolerable ingratitude that, when God was pleased to have his Son brought up in their city, such a person, who had been among them from his infancy, was despised."
+        ],
+        "Philip Schaff": [
+            "No prophet is acceptable, etc. Hence the proverb, \u2018Physician, heal thyself,\u2019 could not be fulfilled.\" ",
+            "He could not work here as in Capernaum.\" ",
+            "The similarity of thought with the saying in Matthew and Mark is an argument for the identity of the visits, the great difference of form is a stronger argument against it."
+        ],
+        "Archibald T. Robertson": [
+            "The interjection of these words here by Luke may indicate a break in his address.",
+            "Perhaps they only serve to introduce solemnly the new proverb.",
+            "The devil had tempted Jesus to make a display of his power to the people by letting them see him floating down from the pinnacle of the temple."
+        ],
+        "John Gill": [
+            "No prophet is accepted in his own country.\" ",
+            "The meaning of which was well known to them, and was very appropriate to the present case.",
+            "Another proverb in use among them."
+        ],
+        "John Wesley": [
+            "No prophet is acceptable in his own country \u2014 That is, in his own neighbourhood.",
+            "It generally holds, that a teacher sent from God is not so acceptable to his neighbours as he is to strangers.",
+            "The meanness of his family, or lowness of his circumstances, bring his office into contempt: nor can they suffer that he, who was before equal with, or below themselves, should now bear a superior character."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Our Lord's long residence in Nazareth had made Him too common and familiar to the people, which incapacitated them from appreciating Him and acknowledging Him as a prophet. The proverb No prophet is accepted in his own country was well-known to the people and was very appropriate in this case, highlighting the unbelief and ingratitude they displayed. Their familiarity with Jesus' family and humble background also contributed to their contempt and refusal to accept His teachings and miracles. This principle serves as a reminder for us to not let familiarity breed contempt and to be open to receiving wisdom from unexpected sources.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.1,
+            "qualityScore": 1.6022434816775335,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.62,
+            "commentatorTierSimilarities": [
+                23.82,
+                39.79,
+                36.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Our Lord's long residence in Nazareth had made Him too common and familiar for the people to appreciate Him as a prophet. The proverb No prophet is accepted in his own country was well-known to them and applied to the situation, emphasizing their ingratitude and disbelief. Their contempt stemmed from Jesus' humble background and familiarity with His family. This reminds us not to let familiarity breed contempt and to be open to receiving wisdom from unexpected sources.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.604530689585606,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.69,
+            "commentatorTierSimilarities": [
+                25.77,
+                38.83,
+                35.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The people in Nazareth could not accept Jesus as a prophet because His long residence there had made Him too common, and they were incapable of appreciating Him. This demonstrated the important principle that no prophet is accepted in his own country. The people's familiarity with Jesus' family and humble background contributed to their contempt and hindered them from acknowledging His teachings and miracles. Understanding and avoiding the tendency for familiarity to breed contempt is a valuable lesson we can learn from this passage.",
+            "wordCount": 85,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.5904747317789951,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                21.96,
+                42.5,
+                35.55
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The people in Nazareth struggled to accept Jesus as a prophet due to his long residence, which made him too common for them to appreciate. Their familiarity with his family and humble background bred contempt, preventing them from acknowledging his teachings and miracles. This reflects the important principle that no prophet is accepted in his own country. We can learn from this the danger of allowing familiarity to diminish our respect for others and the need to be open to wisdom from unexpected sources.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.5771953765419129,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.78,
+            "commentatorTierSimilarities": [
+                22.94,
+                42.08,
+                34.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The people in Nazareth were unable to recognize Jesus as a prophet due to his long residence, which made him too ordinary for them. Their contempt was fueled by their familiarity with his family and disregard for his teachings and miracles. This illustrates the principle that no prophet is accepted in his own country. We should be cautious not to let familiarity breed contempt and remain open to receiving wisdom from unexpected sources.",
+            "wordCount": 73,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.5905622011851452,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.23,
+            "commentatorTierSimilarities": [
+                22.33,
+                41.86,
+                35.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

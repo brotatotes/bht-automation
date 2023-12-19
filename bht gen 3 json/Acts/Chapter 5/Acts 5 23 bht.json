@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 16:26:36",
+    "verseRef": "Acts 5:23",
+    "bestBHT": {
+        "bht": "The authenticity of the narrative is emphasized through the reluctance to explicitly mention Jesus and the spread of his teachings, indicated by the use of phrases like 'this name' and 'this man's blood'. In contrast, Peter fearlessly acknowledges and celebrates Jesus. The mention of divine vengeance is not suggesting punishment for Jesus' murder but rather serves as a caution that the people might seek retribution against the Sanhedrin. The astonishing escape from a securely locked prison parallels the miraculous catch of fish in John 21:11, demonstrating divine intervention.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.31,
+        "qualityScore": 1.3676279841135353,
+        "qualityScoreNormalizedComparedToV2BHTs": 36.82,
+        "commentatorTierSimilarities": [
+            56.42,
+            20.23,
+            23.35
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The same shyness of open allusion to the names or facts connected with Jesus and the spread of his doctrine may be traced in the words 'this name,' and 'this man's blood,' and is a strong mark of truth and circumstantiality.\" ",
+            "The High Priest will not name Jesus: Peter names and celebrates Him.",
+            "Not meaning that divine vengeance would come on them for the murder of Jesus; but with a stress on us\u2014that the people would be incited to take vengeance on them, the Sanhedrim, for that murder."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The reverse of the miracle.",
+            "A similar contrast to that of the nets at the miraculous draughts of fishes.",
+            "John 21:11."
+        ],
+        "Albert Barnes": [
+            "there was therefore clear proof that they had been delivered by the interposition of God.",
+            "they were keeping watch, as if unconscious that anything had happened",
+            "the officers had the only means of entering the prison."
+        ],
+        "Philip Schaff": [
+            "The prison truly found we shut with all safety.",
+            "We have here the report of the guard who were sent by the high priest to fetch the accused from their place of confinement.",
+            "They found the prison locked and barred, and the keepers watching as usual, fully believing all was secure; but on entering the guard found the prisoners gone."
+        ],
+        "John Gill": [
+            "The prison truly found we shut with all safety, locked, barred and bolted.",
+            "The keepers standing without before the doors, both inner and outer in their proper places, diligently discharging their office.",
+            "But when we had opened we found no man within."
+        ],
+        "John Wesley": [
+            "We found the prison shut \u2014 The angel probably had shut the doors again."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The High Priest will not name Jesus: Peter names and celebrates Him, reflecting the shyness of openly discussing Jesus and his teachings, which adds truth and detail to the narrative. As a result, divine vengeance is not declared upon the High Priest but rather a warning that the people may seek retribution for the murder of Jesus. The miraculous escape of the prisoners is an opposite outcome to the usual circumstances, analogous to the miraculous draughts of fishes. Similar to John 21:11, where the nets were filled with an abundance of fish, this event serves as clear evidence of divine intervention and protection, as the prison was securely locked when the guards arrived, but the prisoners were gone upon entering. Overall, this verse portrays a powerful demonstration of God's ability to defy earthly restraints.",
+            "wordCount": 134,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.3905414553272748,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.58,
+            "commentatorTierSimilarities": [
+                41.64,
+                31.82,
+                26.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The refusal of the High Priest to utter Jesus' name is contrasted with Peter boldly proclaiming and honoring him. The escape of the prisoners is an astonishing reversal of expectations, much like the miraculous abundance of fish in John 21:11. The guarded prison was found securely locked, yet the inmates were mysteriously missing. This event serves as compelling evidence of divine intervention. By not naming Jesus, the High Priest unwittingly contributes to the unfolding of God's providential plan.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3223525425416764,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.31,
+            "commentatorTierSimilarities": [
+                35.16,
+                33.45,
+                31.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The hesitation to openly refer to Jesus in the phrase 'this name' and 'this man's blood' adds authenticity and precision to the account. Peter confidently names and honors Jesus, highlighting the contrast between the High Priest's reluctance and Peter's boldness. The mention of divine vengeance is not a direct consequence of the murder of Jesus but rather a warning that the people might be incited to seek vengeance against the Sanhedrin. The miraculous escape from a securely locked prison is a striking reversal, similar to the miraculous draught of fishes in John 21:11, signaling God's intervention.",
+            "wordCount": 99,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.3545979192420792,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.38,
+            "commentatorTierSimilarities": [
+                60.12,
+                19.74,
+                20.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The authenticity of the narrative is emphasized through the reluctance to explicitly mention Jesus and the spread of his teachings, indicated by the use of phrases like 'this name' and 'this man's blood'. In contrast, Peter fearlessly acknowledges and celebrates Jesus. The mention of divine vengeance is not suggesting punishment for Jesus' murder but rather serves as a caution that the people might seek retribution against the Sanhedrin. The astonishing escape from a securely locked prison parallels the miraculous catch of fish in John 21:11, demonstrating divine intervention.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.3676279841135353,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.82,
+            "commentatorTierSimilarities": [
+                56.42,
+                20.23,
+                23.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The High Priest's reluctance to mention Jesus by name reveals the authenticity and attention to detail in the account. In contrast, Peter boldly celebrates him. The idea of divine vengeance is not directed towards the High Priest but warns of the potential retaliation from the people for Jesus' murder. The miraculous escape from the locked prison is a striking reversal, akin to the miraculous catch of fish in John 21:11, showcasing God's intervention. This event serves as compelling evidence of divine protection and intervention in the face of earthly limitations.",
+            "wordCount": 91,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.2329879433580215,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.34,
+            "commentatorTierSimilarities": [
+                55.53,
+                22.55,
+                21.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

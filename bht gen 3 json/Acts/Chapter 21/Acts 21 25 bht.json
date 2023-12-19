@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:34:55",
+    "verseRef": "Acts 21:25",
+    "bestBHT": {
+        "bht": "The Church of Jerusalem was taught to adhere to the decision of the council as James asks Paul to stand by the right of Jewish Christians to observe the Mosaic law. This demonstrates their conciliation to Jewish prejudice and commitment to unity. The Jews, who clung to their observations and ceremonies, did not challenge Paul's stance on the circumcision of Gentile believers, as long as they abstained from certain practices. James reiterated the main items from the council's decision to remind everyone of their agreement.",
+        "wordCount": 87,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 1.9952171695150227,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+        "commentatorTierSimilarities": [
+            31.41,
+            39.64,
+            28.95
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "25.] See ch. xv. 28, 29."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "touching the Gentiles . . . we have written and concluded that they observe no such things, &c.\u2014This shows that with all their conciliation to Jewish prejudice, the Church of Jerusalem was taught to adhere to the decision of the famous council held there.\" ",
+            "This shows that with all their conciliation to Jewish prejudice, the Church of Jerusalem was taught to adhere to the decision of the famous council held there.\" ",
+            "the Church of Jerusalem was taught to adhere to the decision of the famous council held there."
+        ],
+        "Albert Barnes": [
+            "The conduct of the Christians at Jerusalem in giving this advice, and of Paul in following it, may be easily vindicated.",
+            "The sum of the whole matter is this, that when the observance of the Jewish ceremonial law was urged as necessary to justification and acceptance with God, Paul resisted it; when it was demanded that its observance should be enjoined on the Gentiles, he opposed it; in all other cases he made no opposition to it, and was ready himself to comply with it, and willing that others should also.",
+            "We have written - Acts 15:20, Acts 15:29."
+        ],
+        "Marvin Vincent": [
+            "Blood. See on ch. Acts 14:29."
+        ],
+        "John Calvin": [
+            "But, in the mean season, they seem to keep the Jews in bondage, from which they set free the Gentiles alone in plain words.",
+            "But there is mention made of the Jews, who were so addicted to their observations and ceremonies, that they would not take to themselves that liberty which they might well challenge.",
+            "Moreover, lest I load the paper with a superfluous repetition, let the readers repair unto the fifteenth chapter, (Acts 15:20) where they shall find those things which appertain unto the exposition of this decree."
+        ],
+        "Philip Schaff": [
+            "James and the Jerusalem elders were careful after they had advised Paul to assist these poor Nazarites, and to associate himself as one zealous for the law of Moses with them in their vow of asceticism to repeat that they had no desire whatever to interfere with that perfect liberty of action...\" ",
+            "...freedom from all the restraints of the law of Moses, which had already, in a solemn apostolic conclave at Jerusalem, been conceded to Gentile Christians...",
+            "...none of these austere practices like the Nazarite\u2019s vow were to be expected from any except a born Jew..."
+        ],
+        "Archibald T. Robertson": [
+            "James stands by that agreement and repeats the main items... from which they are to keep themselves.\" ",
+            "James has thus again cleared the air about the Gentiles who have believed.",
+            "He asks that Paul will stand by the right of Jewish Christians to keep on observing the Mosaic law."
+        ],
+        "John Gill": [
+            "This is said, to show that the Jews were not offended with Paul, for not insisting upon the circumcision of the believing Gentiles, and their conformity to the ceremonial law.",
+            "Beza's ancient copy adds, 'they have nothing to say to thee'; for as it follows, we have written and concluded.",
+            "Save only that they keep themselves from things offered to idols, &c."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Church of Jerusalem was taught to adhere to the decision of the famous council and James stands by that agreement, asking Paul to stand by the right of Jewish Christians to keep on observing the Mosaic law. This shows that with all their conciliation to Jewish prejudice, the Church of Jerusalem was careful to maintain unity while also recognizing the freedom that Gentile Christians had from the restraints of the law of Moses. The Jews, who were so attached to their observations and ceremonies, did not challenge Paul's stance on the circumcision of the believing Gentiles, as long as they kept themselves from certain practices. Therefore, James repeats the main items from the council's decision to remind everyone of their agreement.",
+            "wordCount": 124,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.1443313486644366,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.64,
+            "commentatorTierSimilarities": [
+                29.66,
+                40.32,
+                30.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Church of Jerusalem adheres to the decision of the council and James asks Paul to stand by the right of Jewish Christians to observe the Mosaic law. This shows their conciliation to Jewish prejudice and their commitment to unity. The Jews, who were attached to their observations and ceremonies, do not challenge Paul's stance on the circumcision of Gentile believers as long as they abstain from certain practices. James reiterates the main items from the council's decision to remind everyone of their agreement.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.9712199304566185,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                31.31,
+                38.72,
+                29.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Church of Jerusalem was taught to adhere to the decision of the council as James asks Paul to stand by the right of Jewish Christians to observe the Mosaic law. This demonstrates their conciliation to Jewish prejudice and commitment to unity. The Jews, who clung to their observations and ceremonies, did not challenge Paul's stance on the circumcision of Gentile believers, as long as they abstained from certain practices. James reiterated the main items from the council's decision to remind everyone of their agreement.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.9952171695150227,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.68,
+            "commentatorTierSimilarities": [
+                31.41,
+                39.64,
+                28.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Church of Jerusalem adheres to the decision of the council, as James asks Paul to stand by the right of Jewish Christians to observe the Mosaic law. This reflects their unity and conciliation towards Jewish prejudice. The Jews, who were attached to their observations and ceremonies, do not challenge Paul's stance on the circumcision of Gentile believers, as long as they abstain from certain practices. In reaffirming the council's decision, James reminds everyone of their mutual agreement.",
+            "wordCount": 80,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.9070348031673916,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.75,
+            "commentatorTierSimilarities": [
+                31.82,
+                39.34,
+                28.84
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Church of Jerusalem was taught to adhere to the decision of the famous council held there, as James asks Paul to stand by the right of Jewish Christians to keep observing the Mosaic law. While the Church was conciliatory towards Jewish prejudice, they were careful to maintain unity and respect for the freedom that Gentile Christians had from the restraints of the law of Moses. The Jews recognized Paul's stance on the circumcision of Gentile believers as long as they abstained from certain practices. Therefore, James repeats the main items from the council's decision to remind everyone of their agreement.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.085481290446352,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                30.72,
+                41.5,
+                27.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

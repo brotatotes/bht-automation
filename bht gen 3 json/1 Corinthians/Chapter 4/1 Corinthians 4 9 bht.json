@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 15:04:06",
+    "verseRef": "1 Corinthians 4:9",
+    "bestBHT": {
+        "bht": "God has set forth Paul and the apostles as the last and lowest in the eyes of the world. They are like men condemned to death, making a spectacle for all to witness, including angels and men. This contrasts sharply with the Corinthians, who hold themselves in high regard. The apostles face severe suffering and persecution, surpassing even the prophets. Despite the indifference of the Corinthians, the apostles embrace their role as the grand finale in God's plan, captivating the attention of angels and humanity.",
+        "wordCount": 86,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 2.176705955738793,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+        "commentatorTierSimilarities": [
+            39.76,
+            30.53,
+            29.71
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "God hath set forth us the Apostles last, as men sentenced to death.\" ",
+            "For we are made a spectacle to the world, to angels, and to men.",
+            "The general term, the world, is afterwards specialized into angels and men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul tacitly implies that though 'last' and lowest in the world's judgment, Christ's servants are deemed by angels a spectacle worthy of their most intense regard.",
+            "The apostles fared worse than even the prophets, who, though sometimes afflicted, were often honored.",
+            "Since 'the world' is a comprehensive expression, and is applied in this Epistle to the evil especially, I think bad angels are included, besides good angels."
+        ],
+        "Albert Barnes": [
+            "Whatever might be their condition, Paul says that the condition of himself and his fellow-laborers was one of much contempt and suffering.",
+            "The theater, or amphitheater of the ancients was composed of an arena, or level floor, on which the combatants fought, and which was surrounded by circular seats rising above one another to a great height, and capable of containing many thousands of spectators.",
+            "He is made public; and the universe gazes on the struggle. Angels and human beings denote the universe, as gazing upon the conflicts and struggles of the apostles."
+        ],
+        "Marvin Vincent": [
+            "As having in men's eyes the basest lot of all.",
+            "God hath chosen us apostles last as beast-fighters.",
+            "The contrast of the selfish Corinthians sitting by unconcerned and unmoved by the awful spectacle."
+        ],
+        "John Calvin": [
+            "This is my condition, that I exhibit to the world a spectacle of my miseries, like those who having been condemned to fight with wild beasts, or to the games of the gladiators, or to some other mode of punishment, are brought forth to the view of the people, and that not before a few spectators, but before the whole world.",
+            "Observe here the admirable steadfastness of Paul, who, while he saw himself to be dealt with by God in this manner, was nevertheless not broken or dispirited.",
+            "He simply means, that the Lord has so ordered his lot that he seems as though he had been appointed to furnish sport to the whole world."
+        ],
+        "Philip Schaff": [
+            "God hath set forth us the apostles last of all, as men doomed to death ... a spectacle (to be gazed on as in a theatre) unto the world, and to angels, and to men...\" ",
+            "...to exhibit men\u2019s enmity to the truth."
+        ],
+        "Archibald T. Robertson": [
+            "In this grand pageant Paul and other apostles come last as a grand finale.",
+            "All this in violent contrast to the kingly Messianic pretensions of the Corinthians.",
+            "The spectators include 'the world, both to angels and men.'"
+        ],
+        "John Gill": [
+            "For we are made a spectacle unto the world, and to angels, and to men.",
+            "Such a spectacle were the apostles in their sufferings and persecutions to the 'whole' world, distinguished into 'angels' and 'men'.",
+            "By 'angels' may be meant the devils, who stirred up the princes of this world against the apostles, to persecute and afflict them; than which nothing was a greater pleasure to these envious and malicious spirits."
+        ],
+        "John Wesley": [
+            "God hath set forth us last, as appointed to death.\" ",
+            "Alluding to the Roman custom of bringing forth those persons last on the stage, either to fight with each other, or with wild beasts, who were devoted to death.",
+            "If they escaped one day, they were brought out again and again, till they were killed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Paul acknowledges that God has appointed him and the other apostles to be last in the eyes of the world, as if they were sentenced to death and made a spectacle for all to see. This spectacle is not limited to human eyes alone, but extends to the angels as well. While the prophets were honored at times, the apostles have faced even greater affliction and contempt. In contrast, the self-serving Corinthians remain indifferent to the suffering of those who proclaim the truth of Christ. The apostles, however, embrace their role as the grand finale in the great pageant of God's kingdom, capturing the attention of both angels and humanity.",
+            "wordCount": 112,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.102994026926762,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.27,
+            "commentatorTierSimilarities": [
+                37.69,
+                30.36,
+                31.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul and the other apostles are set apart by God as the last and lowest in the world's eyes, as if they are condemned to death and made a spectacle for all to witness. This spectacle is not limited to humanity alone, but even the angels are captivated by it. While the prophets were honored, the apostles have faced greater affliction and contempt. The Corinthians, in their selfishness, remain indifferent to the suffering of these servants of Christ. The apostles, however, embrace their role as the grand finale in God's divine plan, capturing the attention of angels and mankind alike.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.1255763450537764,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.02,
+            "commentatorTierSimilarities": [
+                39.61,
+                29.55,
+                30.84
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul describes how he and the other apostles are regarded as the last and most despised in the world, as if they were sentenced to death and put on display. This spectacle is not limited to human observation, but also captures the attention of angels. While the prophets were sometimes honored, the apostles have experienced worse treatment. The Corinthians, in their self-centeredness, remain unmoved by the suffering of God's messengers. Yet, the apostles understand their significant role as the grand finale, contrasting the Corinthians' misplaced worldly glory, and attracting the attention of both angels and humanity.",
+            "wordCount": 98,
+            "quoteTokenProportion": 41.43,
+            "qualityScore": 2.061477494495885,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.89,
+            "commentatorTierSimilarities": [
+                40.23,
+                29.11,
+                30.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God has set forth Paul and the apostles as the last and lowest in the eyes of the world. They are like men condemned to death, making a spectacle for all to witness, including angels and men. This contrasts sharply with the Corinthians, who hold themselves in high regard. The apostles face severe suffering and persecution, surpassing even the prophets. Despite the indifference of the Corinthians, the apostles embrace their role as the grand finale in God's plan, captivating the attention of angels and humanity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 2.176705955738793,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+            "commentatorTierSimilarities": [
+                39.76,
+                30.53,
+                29.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul acknowledges that God has appointed him and the other apostles to be last in the eyes of the world, as if they were sentenced to death and made a spectacle for all to see. This spectacle is not limited to human eyes, but extends to the angels as well. While the prophets were honored at times, the apostles have faced even greater affliction and contempt. In contrast, the self-serving Corinthians remain indifferent to the suffering of those who proclaim the truth of Christ. The apostles, however, embrace their role as the grand finale in the great pageant of God's kingdom, capturing the attention of both angels and humanity.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.74,
+            "qualityScore": 2.0995141397196884,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.15,
+            "commentatorTierSimilarities": [
+                38.09,
+                30.21,
+                31.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

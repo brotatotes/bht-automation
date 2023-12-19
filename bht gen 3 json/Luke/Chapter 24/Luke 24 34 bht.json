@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 16:24:17",
+    "verseRef": "Luke 24:34",
+    "bestBHT": {
+        "bht": "Jesus appeared to Simon Peter after his resurrection, which was a mark of special love and favor, especially after Peter's denial. This appearance provided crucial evidence for the disciples and turned the scales in their belief. By choosing to reveal himself to Peter first, Jesus showed his readiness to pardon and bring comfort to the penitent, despite their great sins. This confirmation of Jesus' resurrection brought hope and strengthened not only Peter but also the other disciples who were in need of encouragement.",
+        "wordCount": 84,
+        "quoteTokenProportion": 38.33,
+        "qualityScore": 1.9695173118655398,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+        "commentatorTierSimilarities": [
+            27.82,
+            46.08,
+            26.1
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This appearance to Simon is only hinted at here\u2014but is asserted again, 1 Cor. xv. 5, in immediate connexion with that which here follows.",
+            "It is not clear whether it took place before or after that on the way to Emmaus."
+        ],
+        "Albert Barnes": [
+            "Hath appeared to Simon - To Peter.",
+            "Paul has referred to it in 1 Corinthians 15:5, from which it appears that he appeared to 'Cephas or Peter' before he did to any other of the apostles.",
+            "This was a mark of special love and favor, and particularly, after Peter\u2019s denial, it showed how ready he was to pardon, and how willing to impart comfort to those who are penitent, though their sins are great."
+        ],
+        "Marvin Vincent": [
+            "Is risen [\u03b7\u03b3\u03b5\u03c1\u03b8\u03b7] - appeared [\u03c9\u03c6\u03b8\u03b7] . Both aorists. The Lord rose and appeared. So Wyc. See on appeared, ch. 22 43."
+        ],
+        "John Calvin": [
+            "By a comparison of the time, we may conclude that Peter, after having returned from the sepulcher, was in a state of great perplexity and uncertainty, until Christ showed himself to him, and that, on the very day that he had visited the sepulcher, he obtained his wish.\" ",
+            "First, I reply, that the general phrase contains a synecdoche; for some were harder or less ready to believe, and Thomas was more obstinate than all the rest.\" ",
+            "And yet we shall soon afterwards see that, a second and a third time, in consequence of their astonishment, they fell back into their former doubts."
+        ],
+        "Philip Schaff": [
+            "The Lord is risen indeed. The emphasis rests on 'indeed;' they had half hoped so, but had now good evidence.",
+            "Notice the two came with good tidings to strengthen their brethren, and themselves are strengthened.",
+            "Peter was probably the first (male) disciple who saw the risen Lord."
+        ],
+        "Archibald T. Robertson": [
+            "Indeed (\u03bf\u03bd\u03c4\u03c9\u03c2). Really, because 'he has appeared to Simon' (\u03c9\u03c0\u03b8\u03b7 \u03a3\u03b9\u03bc\u03c9\u03bd).",
+            "This is the crucial evidence that turned the scales with the disciples and explains 'indeed.'",
+            "Paul also mentions it (1 Corinthians 15:5)."
+        ],
+        "John Gill": [
+            "the Lord is risen indeed; it is certainly matter of fact",
+            "he appeared to him first, before he did to any of the rest, though he had denied him in so shameful a manner",
+            "his report would be believed"
+        ],
+        "John Wesley": [
+            "The Lord hath appeared to Simon.",
+            "He had, in his wonderful condescension and grace, taken an opportunity on the former part of that day to show himself to Peter.",
+            "That he might early relieve his distresses and fears, on account of having so shamefully denied his Master."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After the resurrection, Jesus appeared to Simon Peter, which is mentioned briefly in this verse. This appearance, which is also mentioned by Paul in 1 Corinthians 15:5, was crucial evidence for the disciples. As one commentary suggests, this appearance of Jesus to Peter showed his special love and favor, especially after Peter's denial. It demonstrated Jesus' readiness to pardon and bring comfort to the penitent. This appearance not only strengthened Peter but also served as good tidings to encourage the other disciples. Jesus chose to reveal himself to Peter first, despite Peter's shameful denial, as an early means of relieving his distress and fears. This confirmed the truth that the Lord had truly risen.",
+            "wordCount": 114,
+            "quoteTokenProportion": 35.14,
+            "qualityScore": 1.9579606721920404,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                30.19,
+                43.67,
+                26.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the resurrection, Jesus appeared to Simon Peter, showing his special love and favor even after Peter's denial. This appearance turned the scales for the disciples and provided crucial evidence of Jesus' resurrection. It not only strengthened Peter but also brought good tidings to the other disciples, who themselves were in need of encouragement. By appearing to Peter first, Jesus relieved his distress and fears, demonstrating his readiness to pardon and comfort the penitent. This confirmed the reality of Jesus' resurrection and brought hope to all.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.854163603381761,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.99,
+            "commentatorTierSimilarities": [
+                28.1,
+                44.77,
+                27.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus appeared to Simon Peter after his resurrection, which was a mark of special love and favor, especially after Peter's denial. This appearance provided crucial evidence for the disciples and turned the scales in their belief. By choosing to reveal himself to Peter first, Jesus showed his readiness to pardon and bring comfort to the penitent, despite their great sins. This confirmation of Jesus' resurrection brought hope and strengthened not only Peter but also the other disciples who were in need of encouragement.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9695173118655398,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                27.82,
+                46.08,
+                26.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After his resurrection, Jesus appeared to Simon Peter, demonstrating his special love and favor, even in light of Peter's denial. This appearance was crucial evidence for the disciples and turned the scales in their beliefs. By revealing himself to Peter first, Jesus showcased his readiness to pardon and provide comfort to the penitent, regardless of the gravity of their sins. This confirmation of his resurrection provided hope and encouragement for Peter and the other disciples, solidifying their faith.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.915563250700143,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                27.12,
+                45.76,
+                27.12
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After the resurrection, Jesus appeared to Simon Peter, which was a mark of special love and favor, especially after Peter\u2019s denial. This appearance turned the scales with the disciples and explains 'indeed.' By revealing himself to Peter first, Jesus demonstrated his readiness to pardon and bring comfort to the penitent, even those with significant sins. This confirmation of the resurrection brought hope and strength not only to Peter but also to the other disciples who were in need of encouragement.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 1.9448314480533195,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.01,
+            "commentatorTierSimilarities": [
+                28.66,
+                45.55,
+                25.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

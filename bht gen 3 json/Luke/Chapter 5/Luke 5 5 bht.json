@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 16:15:21",
+    "verseRef": "Luke 5:5",
+    "bestBHT": {
+        "bht": "Recognizing Jesus as his Master, Peter, a seasoned fisherman, put his trust in Christ's command to let down the net again, despite having toiled all night in vain. This act of faith and obedience displayed Peter's understanding that true success lies in relying on the words of Jesus. Although fishing at night was the customary practice, Peter recognized the authority and assurance carried in Christ's command. His obedience serves as an example for believers, highlighting the importance of trusting and obeying Jesus in all circumstances.",
+        "wordCount": 88,
+        "quoteTokenProportion": 32.26,
+        "qualityScore": 1.9160233252081522,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+        "commentatorTierSimilarities": [
+            25.47,
+            29.22,
+            45.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "5.] all the night,\u2014the ordinary time of fishing:\u2014see John xxi. 3."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Master\u2014betokening not surely a first acquaintance, but a relationship already formed.",
+            "...Peter, as a fisherman, knew how hopeless it was to 'let down his net' again, save as a mere act of faith, 'at His word' of command, which carried in it, as it ever does, assurance of success.",
+            "This shows he must have been already and for some time a follower of Christ."
+        ],
+        "Albert Barnes": [
+            "The word here used means a 'prefect,' or one placed 'over' others, and hence, it comes to mean 'teacher' or 'guide.'",
+            "At thy command. Though it seemed so improbable... yet he was willing to trust the word of Jesus and make the trial.",
+            "Oh, if all would as readily obey him, all would be in like manner blessed. If sinners would thus obey him, they would find all his promises sure."
+        ],
+        "Marvin Vincent": [
+            "Master [\u03b5\u03c0\u03b9\u03c3\u03c4\u03b1\u03c4\u03b1]. Used by Luke only, and always with reference to Jesus.",
+            "Toiled [\u03ba\u03bf\u03c0\u03b9\u03b1\u03c3\u03b1\u03bd\u03c4\u03b5\u03c2]. From korov, suffering, weariness; and therefore indicating exhausting toil.",
+            "At thy word [\u03b5\u03c0\u03b9]. Relying on : on the ground of."
+        ],
+        "John Calvin": [
+            "Our sentiments concerning Christ do not render him sufficient honor unless we embrace his doctrine by the obedience of faith.\" ",
+            "But a particular instance of faith, rendered to a single command of Christ, would not have made Peter a Christian... if he had not been led on, from this first act of submission, to a full obedience.",
+            "No apology can be offered for our disgraceful conduct, if, while we call him our Lord... we do not move a finger to perform our duty, to which we have ten times received his commands."
+        ],
+        "Philip Schaff": [
+            "Master. Not \u2018teacher,\u2019 but a title of respect, not involving a close personal relation.",
+            "All night. The usual time for fishing, comp. John 21:2.",
+            "I will let down the nets. He speaks as the director of the fishing party. The significance of this verse for \u2018fishers of men\u2019 is obvious."
+        ],
+        "Archibald T. Robertson": [
+            "This word recognizes Christ's authority.",
+            "Peter's protest calls attention also to the whole night of fruitless toil.",
+            "Besides, fishing in this lake was Peter's business and he really claimed superior knowledge on this occasion to that of Jesus."
+        ],
+        "John Gill": [
+            "We have toiled all the night, and have taken nothing; which carries in it an objection to what Christ advised and directed to: they had been fishing that 'night', which was the best time for catching fish... and what was most discouraging of all, their labour was in vain; they had caught 'nothing'.",
+            "Nevertheless at thy word I will let down the net; which showed faith in Christ, and obedience to him.",
+            "Thus the faithful preachers of the Gospel, sometimes labour and toil in the ministry of the word a great while, with little or no success... they dare not be disobedient to; and for the word of promise he has given them, to be with them, on which they depend."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite having toiled all night and catching nothing, Peter, a seasoned fisherman, recognized Jesus as his Master and obeyed His command to let down the net once again. This act of faith and submission to Christ's authority demonstrates Peter's recognition that true success lies in relying on the words of Jesus, even when it seems hopeless. Moreover, Peter's use of the title Master indicates an existing relationship and familiarity with Jesus. His willingness to trust and obey Jesus's command serves as an example for all believers to follow. Just as Peter's obedience led to an abundance of fish, if sinners would likewise obey Jesus, they too would experience the blessings of His promises.",
+            "wordCount": 118,
+            "quoteTokenProportion": 36.25,
+            "qualityScore": 1.8780860416224092,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.79,
+            "commentatorTierSimilarities": [
+                25.86,
+                31.54,
+                42.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Recognizing Jesus as his Master, Peter, a seasoned fisherman, put his trust in Christ's command to let down the net again, despite having toiled all night in vain. This act of faith and obedience displayed Peter's understanding that true success lies in relying on the words of Jesus. Although fishing at night was the customary practice, Peter recognized the authority and assurance carried in Christ's command. His obedience serves as an example for believers, highlighting the importance of trusting and obeying Jesus in all circumstances.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.26,
+            "qualityScore": 1.9160233252081522,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.05,
+            "commentatorTierSimilarities": [
+                25.47,
+                29.22,
+                45.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Luke 5:5, Peter, a seasoned fisherman, demonstrates his faith and obedience by acknowledging Jesus as his Master and following his command to let down the net again, despite having toiled all night with no success. This act of submission reflects Peter's recognition of Christ's authority and the assurance that comes from trusting in His word. It serves as a reminder for believers to trust and obey Jesus, even when circumstances seem bleak, as He has the power to bring abundance out of apparent failure.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8339867617741525,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.32,
+            "commentatorTierSimilarities": [
+                23.65,
+                28.93,
+                47.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Peter, a seasoned fisherman, demonstrated his faith by acknowledging Jesus as his Master and obeying His command to let down the net again. Despite toiling all night with no success, Peter recognized the authority of Christ's word and believed in the assurance of success that it carried. This act of submission and trust serves as an example for believers, reminding us to wholeheartedly trust and obey Jesus, even when circumstances seem discouraging.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.8778560640165085,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.78,
+            "commentatorTierSimilarities": [
+                24.28,
+                28.62,
+                47.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Peter, an experienced fisherman, recognized Jesus as his Master and obeyed His command to let down the net again. Despite toiling all night with no results, Peter's act of faith and obedience displayed his understanding of the assurance and authority that came from trusting in Jesus' word. This example encourages believers to trust and obey Jesus even in seemingly fruitless situations, knowing that His commands hold the promise of success and blessings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8841176522885965,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.99,
+            "commentatorTierSimilarities": [
+                24.12,
+                29.27,
+                46.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

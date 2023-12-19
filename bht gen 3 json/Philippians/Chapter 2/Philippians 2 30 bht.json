@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 13:55:29",
+    "verseRef": "Philippians 2:30",
+    "bestBHT": {
+        "bht": "Epaphroditus risked his life for the work of Christ, fearlessly exposing himself to danger to bring support to Paul. He willingly put his life in jeopardy, embodying true devotion and sacrificial service. His actions were representative of the unity and love of the Philippians, who lacked the opportunity to personally serve. Epaphroditus' selflessness serves as a reminder to deeply care for one another, honoring those who serve the Lord with joy and gratitude. His example demonstrates the excellence and dedication needed to serve Christ wholeheartedly.",
+        "wordCount": 85,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.7913637123346797,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+        "commentatorTierSimilarities": [
+            31.61,
+            29.3,
+            39.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he came nigh unto death...not to be understood, as Chrysostom and others do, of danger incurred by the hostility of the authorities.\" ",
+            "that which you would have done if you could, he did for you\u2014therefore receive him with all joy.",
+            "this Epaphroditus filled up, and in so doing risked his life."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "for the work of Christ\u2014namely, the bringing of a supply to me, the minister of Christ.",
+            "Not that Paul would imply, they lacked the will: what they 'lacked' was the 'opportunity' by which to send their accustomed bounty.",
+            "That which ye would have done if you could (but which you could not through absence), he did for you therefore receive him with all joy."
+        ],
+        "Albert Barnes": [
+            "Let us learn to esteem others as they ought to be.\" ",
+            "We should feel a deep interest in the welfare of others.",
+            "Let us rejoice that we have a Saviour who has ascended to heaven, and who is to be forever honored there."
+        ],
+        "Marvin Vincent": [
+            "Not regarding his life...Epaphroditus recklessly exposed his life.\" ",
+            "The brotherhoods of the ancient Church, who cared for the sick at the risk of their lives, were called parabolani, or reckless persons.\" ",
+            "All that was wanting in the matter of their service was their ministration in person, which was supplied by Epaphroditus."
+        ],
+        "John Calvin": [
+            "It is an excellence not to spare yourself that you may serve Christ.",
+            "Epaphroditus felt that his health would be in danger if he applied himself beyond measure; yet he would rather be negligent as to health than be deficient in duty.",
+            "There is nothing in which we can better serve God, than when we help his servants who labor for the truth of the gospel."
+        ],
+        "Philip Schaff": [
+            "The work' is a New Testament phrase for the work of preaching the Gospel.",
+            "He willingly put it in jeopardy. [...] such as only true devotion could supply.",
+            "Epaphroditus came as the representative of many, and would fain have multiplied both his powers and services, that he might not only be the bearer of their bounty, but the impersonation of their united love."
+        ],
+        "Archibald T. Robertson": [
+            "Hazarding his life (\u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b5\u03c5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 \u03c4\u03b7 \u03c8\u03c5\u03c7\u03b7)... \u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b5\u03c5\u03c3\u03b1\u03bc\u03b5\u03bd\u03bf\u03c2 from an inscription at Olbia or the Black Sea of the second century A.D. where it plainly means 'exposing himself to danger' as here.\" ",
+            "The word \u03c0\u03b1\u03c1\u03b1\u03b2\u03bf\u03bb\u03b1\u03bd (riskers) was applied to the Christians who risked their lives for the dying and the dead.",
+            "Lightfoot renders it here 'having gambled with his life.'"
+        ],
+        "John Gill": [
+            "Because for the work of Christ he was nigh unto death...",
+            "He rather despised it, and made no account of it, being very willing to deliver it up, and sacrifice it in such a good work and cause.",
+            "...this good man and faithful minister and messenger of theirs having done for them to the hazard of his life, he ought therefore to be received by them with great joy, and to be highly honoured and respected."
+        ],
+        "John Wesley": [
+            "To supply your deficiency of service \u2014 To do what you could not do in person."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Epaphroditus risked his life to bring a supply to Paul for the work of Christ, filling in for the Philippians who lacked the opportunity to send their customary support. He came near to death, not regarding his own life, as his devotion to Christ and his fellow believers compelled him to recklessly expose himself to danger. Epaphroditus represented the unity and love of the Philippians, and in his sacrificial service, he exemplified the selflessness and dedication that we should have towards one another. His actions remind us to esteem others, deeply care for their welfare, and joyfully honor those who serve the Lord.",
+            "wordCount": 103,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8618867635887262,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.25,
+            "commentatorTierSimilarities": [
+                31.83,
+                32.45,
+                35.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Epaphroditus, a faithful minister, risked his life for the work of Christ, going near to death to bring support to Paul. His selfless actions exemplified the unity and love of the Philippians, who lacked the opportunity to provide in person. Epaphroditus embodied the dedication and sacrifice that we should have towards one another, reminding us to deeply care for others and honor those who serve the Lord. His willingness to jeopardize his own well-being serves as a powerful example of the excellence and devotion required to serve Christ.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.747202808907057,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                29.04,
+                30.41,
+                40.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Epaphroditus risked his life for the work of Christ, going near to death to bring support to Paul. His selfless actions exemplified the unity and love of the Philippians, who lacked the opportunity to provide in person. Epaphroditus embodied the dedication and sacrifice that we should have towards one another, reminding us to deeply care for others and honor those who serve the Lord. His willingness to jeopardize his own well-being serves as a powerful example of the excellence and devotion required to serve Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.7631715766716036,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.97,
+            "commentatorTierSimilarities": [
+                29.31,
+                30.3,
+                40.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Epaphroditus risked his life for the work of Christ, fearlessly exposing himself to danger to bring support to Paul. He willingly put his life in jeopardy, embodying true devotion and sacrificial service. His actions were representative of the unity and love of the Philippians, who lacked the opportunity to personally serve. Epaphroditus' selflessness serves as a reminder to deeply care for one another, honoring those who serve the Lord with joy and gratitude. His example demonstrates the excellence and dedication needed to serve Christ wholeheartedly.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.7913637123346797,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.9,
+            "commentatorTierSimilarities": [
+                31.61,
+                29.3,
+                39.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Epaphroditus risked his life to bring support to Paul for the work of Christ. His selfless actions exemplified the unity and love of the Philippians, who lacked the opportunity to provide in person. He fearlessly exposed himself to danger, recklessly sacrificing his own well-being. Epaphroditus' dedication serves as a reminder to deeply care for others and honor those who serve the Lord. His willingness to jeopardize his own life demonstrates the excellence and devotion required to serve Christ wholeheartedly.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.7758001607688483,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.39,
+            "commentatorTierSimilarities": [
+                32.69,
+                27.84,
+                39.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

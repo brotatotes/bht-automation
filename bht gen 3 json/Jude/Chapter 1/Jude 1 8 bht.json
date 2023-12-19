@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 17:15:45",
+    "verseRef": "Jude 8",
+    "bestBHT": {
+        "bht": "These men, in their sinful slumber, defile themselves, despise authority, and speak evil of celestial dignities. Their dreams of indulgence and disobedience lead them to belittle the glories of celestial powers they do not understand. Like the inhabitants of Sodom, they persist in their wickedness, blind to the self-destruction they invite. These dreamers, whose false teachings corrupt themselves and others, seek to undermine order and authority. However, their delusions and fleeting fantasies will not go unchecked, as divine punishment awaits them.",
+        "wordCount": 82,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.0884189474194246,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+        "commentatorTierSimilarities": [
+            33.04,
+            31.39,
+            35.57
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Notwithstanding these warning examples, these men in their dreams defile the flesh and despise lordship, and speak evil of glories.",
+            "The term represents that state of dreaming in the sleep of sin, out of which men are so often called on to awake to righteousness and the light of Christ.",
+            "It becomes therefore necessary to understand the words of celestial lordships and dignities: probably in both cases those of the holy angels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The clause, 'these men dreaming' (that is, in their dreams), belongs to all the verbs, 'defile,' 'despise,' and 'speak evil.' All sinners are spiritually asleep, and their carnal activity is as it were a dream.",
+            "Their speaking evil of dignities is because they are dreaming, and know not what they are speaking evil of.",
+            "As a man dreaming seems to himself to be seeing and nearing many things, so the natural man's lusts are agitated by joy, distress, fear, and the other passions. But he is a stranger to self-command."
+        ],
+        "Albert Barnes": [
+            "Their character resembled that of the inhabitants of Sodom; the example which he adduces of the punishment which was brought on those sinners, leaves it to be clearly inferred that the persons of whom he was speaking would be punished in a similar manner.",
+            "Their doctrines were the fruits of mere imagination, foolish vagaries and fancies.",
+            "Despise dominion."
+        ],
+        "Marvin Vincent": [
+            "though they have these fearful examples before them, yet they persist in their sin.",
+            "Kuriothv, dominion, occurs in three other passages, Ephesians 1:21; Colossians 1:16; 2 Peter 2:10.",
+            "In Colossians the term is used with thrones, principalities, and powers, with reference to the orders of the celestial hierarchy as conceived by Gnostic teachers, and with a view to exalt Christ above all these."
+        ],
+        "John Calvin": [
+            "He only shews that they were vessels of wrath appointed to destruction, and that they could not escape the hand of God, but that he would some time or another make them examples of his vengeance.",
+            "He intimates that they were so dull and stupid as to give up themselves without any shame to every kind of baseness.",
+            "They who abandon themselves to iniquity, do also wish to abolish all order."
+        ],
+        "Philip Schaff": [
+            "And yet these men (Jude 1:4) actually do the same things as the people of Sodom and the fallen angels.",
+            "They live in the feelings of their own perverted sense, and they corrupt others as well as themselves.",
+            "No other vice, indeed, so easily demoralizes the entire nature."
+        ],
+        "Archibald T. Robertson": [
+            "In like manner (\u03bf\u03bc\u03bf\u03b9\u03c9\u03c2). Like the cities of the plain.",
+            "These also (\u03ba\u03b1 \u03bf\u03c5\u03c4\u03bf). The false teachers of verse Jude 1:4.",
+            "In their dreamings (\u03b5\u03bd\u03c5\u03c0\u03bd\u03b9\u03b1\u03b6\u03bf\u03bc\u03b5\u03bd\u03bf). Present middle participle of \u03b5\u03bd\u03c5\u03c0\u03bd\u03b9\u03b1\u03b6\u03c9, to dream."
+        ],
+        "John Gill": [
+            "False doctrines are dreams, and the teachers of them dreamers...are illusory and deceitful, and are in themselves vanities, and like dreams pass away.",
+            "And the dreamers of these dreams may be said to 'defile the flesh'; since they appear to follow and walk after the dictates of corrupt nature.",
+            "False teachers are injurious to themselves, disturbers of churches, and pernicious to civil government."
+        ],
+        "John Wesley": [
+            "In like manner these dreamers \u2014 Sleeping and dreaming all their lives.",
+            "Despise authority \u2014 Those that are invested with it by Christ, and made by him the overseers of his flock.",
+            "Rail at dignities \u2014 The apostle does not seem to speak of worldly dignities."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These men, in their sinful slumber, defile themselves and belittle the authority placed over them. Their dreams of indulgence and disobedience lead them to speak against the glories of celestial powers they do not understand. Like the inhabitants of Sodom, they persist in their wickedness, blind to the self-destruction they invite. These dreamers, whose false teachings are the root of their corruption, do not merely corrupt themselves but also seek to undermine order and authority. However, their delusions and fantasies will ultimately pass away like fleeting dreams, and their destructive influence will not go unchecked.",
+            "wordCount": 96,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.0422605269753618,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                33.18,
+                30.7,
+                36.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These men, in their sinful slumber, defile themselves, despise authority, and speak evil of celestial dignities. Their dreams of indulgence and disobedience lead them to belittle the glories of celestial powers they do not understand. Like the inhabitants of Sodom, they persist in their wickedness, blind to the self-destruction they invite. These dreamers, whose false teachings corrupt themselves and others, seek to undermine order and authority. However, their delusions and fleeting fantasies will not go unchecked, as divine punishment awaits them.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0884189474194246,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.78,
+            "commentatorTierSimilarities": [
+                33.04,
+                31.39,
+                35.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These men, in their sinful slumber, defile themselves and speak evil of celestial dignities they do not understand. Their dreams of indulgence and disobedience lead them to despise authority. Like the inhabitants of Sodom, they persist in their wickedness, blind to the self-destruction they invite. These dreamers, whose false teachings corrupt themselves and others, seek to undermine order and authority. However, their delusions and fleeting fantasies will not go unchecked, as divine punishment awaits them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0837171137181825,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.62,
+            "commentatorTierSimilarities": [
+                32.54,
+                31.49,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "These men, in their dreams of sin, defile the flesh and despise lordship, speaking evil of celestial dignities they do not understand. Their spiritual slumber keeps them blind to the consequences of their actions. Like the people of Sodom, they persist in their wickedness, unwilling to awaken to righteousness. Their corrupt teachings not only harm themselves but also disrupt the harmony of the church and civil society. But their illusory fantasies will not evade divine judgement, as they are vessels of destruction.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0067083536438663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                32.92,
+                32.29,
+                34.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These men, in their dreams of sin, defile the flesh and despise lordship, speaking evil of celestial dignities they do not understand. Their spiritual slumber keeps them blind to the consequences of their actions. Like the people of Sodom, they persist in their wickedness, unwilling to awaken to righteousness. Their corrupt teachings not only harm themselves but also disrupt the harmony of the church and civil society. But their illusory fantasies will not evade divine judgement, as they are vessels of destruction.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0067083536438663,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                32.92,
+                32.29,
+                34.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

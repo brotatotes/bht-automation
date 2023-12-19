@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 16:13:17",
+    "verseRef": "Luke 1:6",
+    "bestBHT": {
+        "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna were all examples of individuals who were righteous before God. Their obedience to both moral and ceremonial commandments and ordinances served as a testimony of their piety towards God. Their blameless walk in all the commandments and ordinances of the Lord was not the basis of their righteousness before God, but rather the evidence of it before men. As we seek to order our own lives, let us also strive to approve ourselves to God, knowing that He desires a sincere heart and a pure conscience.",
+        "wordCount": 95,
+        "quoteTokenProportion": 42.19,
+        "qualityScore": 2.1805544913195556,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.84,
+        "commentatorTierSimilarities": [
+            26.32,
+            33.61,
+            40.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "commandments and ordinances\u2014The one expressing their moral\u2014the other their ceremonial\u2014obedience\"  ",
+            "It has been denied that any such distinction was known to the Jews and New Testament writers.",
+            "Hebrews 9:1- :, and other passages, put this beyond all reasonable doubt."
+        ],
+        "Albert Barnes": [
+            "Both \u2018just\u2019 or holy...an honorable testimonial of their \u2018piety\u2019 toward God.",
+            "To walk in the way that God commands is \u2018to obey.\u2019",
+            "They were strict, exact, punctual. Yet this, if it had been mere \u2018external\u2019 observance, might have been no proof of piety."
+        ],
+        "Marvin Vincent": [
+            "Before God. A Hebrew expression. Compare Genesis 7:1; Acts 8:21."
+        ],
+        "John Calvin": [
+            "In ordering our life, our first study ought to be to approve ourselves to God; and we know that what he chiefly requires is a sincere heart and a pure conscience.",
+            "The righteousness which is commended in them depends on the gracious forbearance of God, who does not reckon to them their remaining unrighteousness.",
+            "The false coloring, too which they give to a single word is pitiful. Ordinances, they tell us, are called commandments of the law, and, therefore, they justify us."
+        ],
+        "Philip Schaff": [
+            "Righteous before God. Not outwardly, but really, pious.",
+            "Commandments and ordinances. The former probably refers to special commandments, the latter, as its derivation hints, to that by which God defines what is \u2018righteous\u2019 for men.",
+            "Blameless. The full sense may be thus expressed: \u2018walking,\u2019 etc. so that they were \u2018blameless.\u2019 They were \u2018saints\u2019 after the Old Testament pattern."
+        ],
+        "Archibald T. Robertson": [
+            "Righteous before God (\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf \u03b5\u03bd\u03b1\u03bd\u03c4\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Old Testament conception and idiom.",
+            "Picture of 'noblest product of Old Testament education' (Ragg) is Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna.",
+            "Privileged to see with clear eyes the dawn of the New Testament revelation."
+        ],
+        "John Gill": [
+            "Not as the Pharisees, only righteous before men, but in the sight of God, who sees the heart...",
+            "Walking in all the commandments and ordinances of the Lord: this was not the matter of their righteousness before God, but the evidence of it before men...",
+            "They were so in the sight of God; as they were justified by the righteousness of Christ, so they were without fault before the throne, and unreproveable before God..."
+        ],
+        "John Wesley": [
+            "Walking in all the moral commandments, and ceremonial ordinances, blameless \u2014 How admirable a character! May our behaviour be thus unblamable, and our obedience thus sincere and universal!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna were all examples of individuals who were righteous before God. Their obedience to both moral and ceremonial commandments and ordinances served as a testimony of their piety towards God. Their blameless walk in all the commandments and ordinances of the Lord was not the basis of their righteousness before God, but rather the evidence of it before men. As we strive to order our own lives, let us also seek to approve ourselves to God, knowing that He desires a sincere heart and a pure conscience. May our behavior be unblamable and our obedience sincere and universal.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.0802284947014247,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.51,
+            "commentatorTierSimilarities": [
+                25.81,
+                32.56,
+                41.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna exemplify righteousness before God, with their obedience to moral and ceremonial commandments and ordinances being a testament to their piety. Their blameless walk in all the commandments and ordinances of the Lord was evidence of their righteousness before men. As we seek to order our own lives, let us strive to approve ourselves to God, with a sincere heart and a pure conscience. May our behavior be unblamable and our obedience sincere and universal.",
+            "wordCount": 83,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.095887919326736,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.03,
+            "commentatorTierSimilarities": [
+                24.65,
+                31.56,
+                43.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna were all examples of individuals who were righteous before God. Their obedience to both moral and ceremonial commandments and ordinances served as a testimony of their piety towards God. Their blameless walk in all the commandments and ordinances of the Lord was not the basis of their righteousness before God, but rather the evidence of it before men. As we strive to order our own lives, let us also seek to approve ourselves to God, knowing that He desires a sincere heart and a pure conscience. May our behavior be unblamable and our obedience sincere and universal.",
+            "wordCount": 106,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 2.0802284947014247,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.51,
+            "commentatorTierSimilarities": [
+                25.81,
+                32.56,
+                41.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna were all examples of individuals who were righteous before God. Their obedience to both moral and ceremonial commandments and ordinances served as a testimony of their piety towards God. Their blameless walk in all the commandments and ordinances of the Lord was not the basis of their righteousness before God, but rather the evidence of it before men. As we seek to order our own lives, let us also strive to approve ourselves to God, knowing that He desires a sincere heart and a pure conscience.",
+            "wordCount": 95,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 2.1805544913195556,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.84,
+            "commentatorTierSimilarities": [
+                26.32,
+                33.61,
+                40.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Zacharias and Elisabeth, Mary and Joseph, Simeon and Anna exemplify righteousness before God. Their obedience to commandments and ordinances, both moral and ceremonial, testifies to their piety. Walking blamelessly in the Lord's commandments and ordinances serves as evidence of their righteousness before others. As we order our lives, let us seek to approve ourselves to God with a sincere heart and pure conscience. May our behavior be unblamable and our obedience sincere and universal.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.0319764099149884,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.9,
+            "commentatorTierSimilarities": [
+                25.95,
+                31.92,
+                42.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

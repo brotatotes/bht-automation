@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 14:13:37",
+    "verseRef": "Galatians 2:8",
+    "bestBHT": {
+        "bht": "The power of God was evident in the ministry of the apostles, as signs and miracles accompanied their preaching. God worked mightily, making the preached word efficacious through the secret mighty power of the Holy Ghost. This divine working was not limited to one apostle, for God worked through Peter to reach the Jews, and also through Paul to reach the Gentiles. Their respective apostleships were affirmed by the signs and miracles that accompanied their ministry, demonstrating the equality of their apostolic authority.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.076275307862116,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+        "commentatorTierSimilarities": [
+            26.81,
+            41.89,
+            31.29
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The word wrought applies to the signs following with which the Lord accompanied His word spoken by them, and to the power with which they spoke that word.",
+            "The agent in this working is GOD\u2014the Father.",
+            "Unto the apostleship, i.e. towards, with a view to, the apostleship."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "wrought effectually\u2014that is, made the preached word efficacious to conversion, not only by sensible miracles, but by the secret mighty power of the Holy Ghost.",
+            "to\u2014with a view to.",
+            "in me\u2014for (or 'in') me also."
+        ],
+        "Albert Barnes": [
+            "The argument here is, that the same effects had been produced under the ministry of Paul among the Gentiles which had been under the preaching of Peter among the Jews.",
+            "It is inferred, therefore, that God had called both to the apostolic office.",
+            "In enabling me to work miracles, and in the success which attended the ministry."
+        ],
+        "Marvin Vincent": [
+            "He that wrought effectually...The reference is to God, not to Christ.",
+            "Unto the apostleship...with the design of making him an apostle.",
+            "Observe how Paul puts himself on an equality with Peter."
+        ],
+        "John Calvin": [
+            "That the province which had been assigned to him was truly his own, is proved by the exertion of divine power during his ministry.",
+            "Now, this manifestation of divine energy, as we have frequently seen, is the seal by which his doctrine was attested, and his office as a teacher sanctioned.",
+            "The amount of the whole is, that it was no idle bargain which the apostles had made among themselves, but a decision which God had sealed."
+        ],
+        "Philip Schaff": [
+            "Gave strength to (or worked for), i.e., enabled them successfully to discharge the duties of the Apostolic office.\" ",
+            "By conferring upon them the necessary spiritual gifts and qualifications and accompanying their preaching with signs and miracles.\" ",
+            "For the Gentiles for the apostleship of the Gentiles."
+        ],
+        "Archibald T. Robertson": [
+            "Paul here definitely recognizes Peter's leadership to the Jews and asserts that Peter acknowledges his apostleship to the Gentiles.\" ",
+            "This is a complete answer to the Judaizers who denied the genuineness of Paul's apostleship because he was not one of the twelve."
+        ],
+        "John Gill": [
+            "The Spirit of God is meant, who filled Peter with such eminent gifts, and inspired him with so much zeal and resolution",
+            "The Spirit of God wrought as effectually in, and by him, as in Peter; filled him with extraordinary gifts for the discharge of his work among the Gentiles.",
+            "The same Spirit also accompanied the Gospel preached by him, to the conversion of multitudes, by which means many famous churches were founded and raised among the Gentiles."
+        ],
+        "John Wesley": [
+            "For he that wrought effectually in Peter for the apostleship of the circumcision.",
+            "Wrought likewise effectually in and by me.",
+            "For and in the discharge of my office toward the gentiles."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power of God was evident in the ministry of the apostles, as signs and miracles accompanied their preaching. God worked mightily in and through them, enabling the preaching of the word to be efficacious for conversion. This divine working was not limited to one apostle, for God worked through Peter to reach the Jews, and also through Paul to reach the Gentiles. Their respective apostleships were affirmed by the signs and miracles that accompanied their ministry. This demonstrates the equality of their apostolic authority. This is a powerful response to those who doubted Paul's apostleship and serves as a reminder that it was not a decision made among themselves, but one that was sealed by God.",
+            "wordCount": 118,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.9712875015935194,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.89,
+            "commentatorTierSimilarities": [
+                26.97,
+                41.14,
+                31.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The power of God was evident in the ministry of the apostles, as signs and miracles accompanied their preaching. God worked mightily, making the preached word efficacious through the secret mighty power of the Holy Ghost. This divine working was not limited to one apostle, for God worked through Peter to reach the Jews, and also through Paul to reach the Gentiles. Their respective apostleships were affirmed by the signs and miracles that accompanied their ministry, demonstrating the equality of their apostolic authority.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.076275307862116,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.38,
+            "commentatorTierSimilarities": [
+                26.81,
+                41.89,
+                31.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Through the signs and miracles that accompanied the preaching of the apostles, it was evident that God worked mightily in and through them. The power of God made the preached word efficacious, not only through sensible miracles but also through the secret mighty power of the Holy Ghost. This divine working was not limited to one apostle, but extended to both Peter and Paul, affirming their respective roles and demonstrating the equality of their apostolic authority. It was God who sealed their apostleships, not a decision made among themselves.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.910821082985339,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                28.07,
+                38.62,
+                33.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The power of God was evident in the ministry of the apostles, as signs and miracles accompanied their preaching. God worked mightily in and through them, enabling the preached word to be efficacious for conversion through the secret mighty power of the Holy Ghost. This divine working applied to both Peter and Paul, affirming their respective apostleships and reflecting the equality of their authority. Their roles were sealed by God, not by their own decisions, serving as a powerful response to those who questioned Paul's apostleship.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.99979707717223,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.83,
+            "commentatorTierSimilarities": [
+                29.88,
+                38.59,
+                31.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The power of God was evident in the apostles' ministry, as signs and miracles accompanied their preaching. God worked mightily in and through them, making the word efficacious for conversion through the secret mighty power of the Holy Ghost. This divine working applied to both Peter and Paul, affirming their apostleships and demonstrating the equality of their authority. Their roles were sealed by God, contradicting those who doubted Paul's apostleship and emphasizing that their decision was divinely sanctioned.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.0016308872039303,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                28.34,
+                38.76,
+                32.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

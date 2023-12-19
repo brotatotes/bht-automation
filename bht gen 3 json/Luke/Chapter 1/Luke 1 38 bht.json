@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 16:13:11",
+    "verseRef": "Luke 1:38",
+    "bestBHT": {
+        "bht": "In the visit of Mary to Elizabeth, we witness her marvellous faith despite the circumstances she finds herself in. Through her expression of resignation and faith in the promise, Mary exemplifies her willingness to be the humble handmaid of the Lord. In acknowledging her unworthiness and obediently accepting God's will, Mary exhibits a beautiful contrast to the extravagant praise bestowed upon her. With her assent, she eagerly desires and firmly believes in the accomplishment of God's word, becoming the vessel for the miraculous conception of our Lord Jesus Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.507001543141603,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+        "commentatorTierSimilarities": [
+            18.34,
+            41.48,
+            40.19
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "38. Marvellous faith in such",
+            "\tcircumstances! ",
+            "\t",
+            " :-. VISIT OF MARY",
+            "\tTO ELISABETH."
+        ],
+        "Albert Barnes": [
+            "This was an expression of resignation to the will of God, and of faith in the promise.",
+            "To be the 'handmaid of the Lord' is to be submissive and obedient.",
+            "I fully credit all that is said, and am perfectly ready to obey all the commands of the Lord."
+        ],
+        "John Calvin": [
+            "This is the real proof of faith, when we restrain our minds, and, as it were, hold them captive, so that they dare not reply this or that to God: for boldness in disputing, on the other hand, is the mother of unbelief.",
+            "But if the holy virgin was the handmaid of the Lord, because she yielded herself submissively to his authority, there cannot be worse obstinacy than to fly from him, and to refuse that obedience which he deserves and requires.",
+            "I interpret it simply that she is convinced of the power of God, follows cheerfully where he calls, trusts also to his promise, and not only expects, but eagerly desires, its accomplishment."
+        ],
+        "Philip Schaff": [
+            "The handmaid, or, \u2018bondmaid.\u2019 The humble title she gives herself forms a striking contrast to the fulsome ones given to her by her adorers. Rightly considered, however, this brings out the beauty of her character.",
+            "Be it unto me. In humble faith she assents; and so it was unto her according to the angel\u2019s word.",
+            "\u2018The heart of Mary is now filled with the Holy Spirit, who can also prepare her body to be the temple of the God-man,\u2019 From this moment, rather than from the words of the angel (Luke 1:35), we date the miraculous conception of our Lord."
+        ],
+        "John Gill": [
+            "In which words she expresses her obedience of faith; she owns herself to be the handmaid of the Lord, and desires to obey him, and be submissive to him as such; and tacitly acknowledges her meanness, and great unworthiness.",
+            "She assented to what the angel said should be unto her; she earnestly desired it might be, and firmly believed it would be; she set her 'Amen' to the angel's message.",
+            "To the heavenly regions from whence he came; to his great Lord and master, that sent him; having dispatched the business he came about, and which he was accountable to him for."
+        ],
+        "John Wesley": [
+            "Behold, the handmaid of the Lord.\" ",
+            "It is not improbable that this time of the virgin's humble faith, consent, and expectation, might be the very time of her conceiving."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the visit of Mary to Elizabeth, we witness her marvellous faith despite the circumstances she finds herself in. Through her expression of resignation and faith in the promise, Mary exemplifies her willingness to be the humble handmaid of the Lord. In acknowledging her unworthiness and obediently accepting God's will, Mary exhibits a beautiful contrast to the extravagant praise and adoration bestowed upon her. With her assent, she eagerly desires and firmly believes in the accomplishment of God's word. By restraining her mind from disputing and embracing obedience, Mary demonstrates the real proof of faith. Through her submission, she becomes the vessel for the miraculous conception of our Lord Jesus Christ.",
+            "wordCount": 113,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 1.4353213706674142,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.07,
+            "commentatorTierSimilarities": [
+                18.04,
+                41.35,
+                40.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the visit of Mary to Elizabeth, we witness her marvellous faith, exemplified through her expression of resignation and faith in the promise. By acknowledging her unworthiness and obediently accepting God's will, Mary exemplifies the beauty of her character. Through her assent and fervent belief in the accomplishment of God's word, Mary becomes the vessel for the miraculous conception of our Lord Jesus Christ. Her submission and restraint from disputing highlight her true faith, demonstrating the proof of one's belief in God's plan.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 1.4577204979258114,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.81,
+            "commentatorTierSimilarities": [
+                18.37,
+                41.14,
+                40.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the visit of Mary to Elizabeth, we witness her marvellous faith despite the circumstances she finds herself in. Through her expression of resignation and faith in the promise, Mary exemplifies her willingness to be the humble handmaid of the Lord. In acknowledging her unworthiness and obediently accepting God's will, Mary exhibits a beautiful contrast to the extravagant praise bestowed upon her. With her assent, she eagerly desires and firmly believes in the accomplishment of God's word, becoming the vessel for the miraculous conception of our Lord Jesus Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.507001543141603,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.45,
+            "commentatorTierSimilarities": [
+                18.34,
+                41.48,
+                40.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the visit of Mary to Elizabeth, Mary's marvellous faith shines through as she embraces her role as the handmaid of the Lord. Out of humility, she accepts God's will and shows her complete trust in His promise. Mary's willingness to obediently follow God's command reflects the beauty of her character. Her assent and eager desire for God's word to be fulfilled demonstrate her firm belief in its accomplishment. Thus, Mary becomes the chosen vessel for the miraculous conception of our Lord.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.372173666267446,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.97,
+            "commentatorTierSimilarities": [
+                15.23,
+                42.88,
+                41.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the visit of Mary to Elizabeth, we witness her marvellous faith despite the circumstances. With humble resignation and trust in God's promise, Mary embraces her role as the handmaid of the Lord. Her obedience and willingness to follow God's commands highlight the beauty of her character. Mary's assent and eager desire for the fulfillment of God's word demonstrate her unwavering belief. As a result, she becomes the vessel for the miraculous conception of our Savior, Jesus Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.402055754755998,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.96,
+            "commentatorTierSimilarities": [
+                17.09,
+                43.18,
+                39.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

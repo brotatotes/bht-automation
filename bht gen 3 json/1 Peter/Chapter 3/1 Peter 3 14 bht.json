@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:39:36",
+    "verseRef": "1 Peter 3:14",
+    "bestBHT": {
+        "bht": "If you should suffer for righteousness' sake, remember that the highest good gained by Christ in the Gospel is a heart certified of God's grace, bringing tranquility in all adversities. This suffering does not take away your blessedness, but rather promotes it. So do not be terrified by the fear that others try to strike into you. Instead, trust in God, for He is your protector and can vanquish all your foes. By conquering immoderate terrors through faith, you can firmly stand and fulfill your duty.",
+        "wordCount": 87,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.9587876852124513,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+        "commentatorTierSimilarities": [
+            27.23,
+            36.71,
+            36.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not what, but why, he suffers, makes the martyr.",
+            "The highest good which Christ gained for us and offers us in the Gospel is a heart certified of the grace of God, and consequently tranquil in all adversities and dangers.",
+            "This addition is not made here, but instead, in your hearts, to bring out that the sanctifying must be perfected in the inner parts of a man, and so keep him from all false fear."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The promises of this life extend only so far as it is expedient for us that they should be fulfilled\" - CALVIN.",
+            "Not even can suffering take away your blessedness, but rather promotes it.\" - Commentary",
+            "Be not terrified with their terror, that is, with that which they try to strike into you, and which strikes themselves when in adversity.\" - Commentary"
+        ],
+        "Albert Barnes": [
+            "Happy are ye - Perhaps alluding to what the Saviour says in Matthew 5:10; 'Blessed are they which are persecuted for righteousness' sake.'",
+            "The meaning here is, not that they would find positive enjoyment in persecution on account of righteousness, but that they were to regard it as a blessed condition; that is, as a condition that might be favorable to salvation; and they were not therefore, on the whole, to regard it as an evil.",
+            "If we are true Christians, we have really no reason to be alarmed in view of anything that can happen to us. God is our protector, and he is abundantly able to vanquish all our foes; to uphold us in all our trials; to conduct us through the valley of death, and to bring us to heaven."
+        ],
+        "Marvin Vincent": [
+            "Blessed. See on Matthew 5:3. ",
+            "Be troubled [\u03c4\u03b1\u03c1\u03b1\u03c7\u03b8\u03b7\u03c4\u03b5] . The word used of Herod 's trouble (Matthew 2:3); of the agitation of the pool of Bethesda (John 5:4); of Christ 's troubled spirit (John 12:27)."
+        ],
+        "John Calvin": [
+            "The faithful will do more towards obtaining a quiet life by kindness, than by violence and promptitude in taking revenge.",
+            "The best remedy for checking the turbulent emotions of our minds will be, to conquer immoderate terrors by trusting in the aid of God.",
+            "The faithful will firmly stand, and can never be moved from a right course of duty by any dread or fear, if they will sanctify the Lord."
+        ],
+        "Philip Schaff": [
+            "But even if ye should have to suffer for righteousness\u2019 sake, blessed are ye.",
+            "be not afraid of the fear which they cause",
+            "the contrast then will be between the alarms and disquietudes which the ills of life excite in those who have no faith in God, and the perfect peace in which those should be kept \u2018whose mind is stayed on God.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "But if ye should also (or even) suffer...then 'blessed' (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf, the very word of Jesus there which see, a word meaning 'happy,' not \u03b5\u03c5\u03bb\u03bf\u03b3\u03b7\u03c4\u03bf) 'are ye' (not in the Greek).\" ",
+            "Fear not their fear (\u03c4\u03bf\u03bd \u03c6\u03bf\u03b2\u03bf\u03bd \u03b1\u03c5\u03c4\u03c9\u03bd \u03bc\u03b7 \u03c6\u03bf\u03b2\u03b7\u03b8\u03b7\u03c4\u03b5). Prohibition with \u03bc\u03b7 and the first aorist (ingressive) passive subjunctive of \u03c6\u03bf\u03b2\u03b5\u03bf\u03bc\u03b1, to fear, and the cognate accusative \u03c6\u03bf\u03b2\u03bf\u03bd (fear, terror). 'Do not fear their threats' (Bigg). Quotation from Isaiah 8:12.",
+            "Neither be troubled (\u03bc\u03b7\u03b4\u03b5 \u03c4\u03b1\u03c1\u03b1\u03be\u03b8\u03b7\u03c4\u03b5). Prohibition with \u03bc\u03b7\u03b4\u03b5 and the first aorist (ingressive) subjunctive of \u03c4\u03b1\u03c1\u03b1\u03c3\u03c3\u03c9, to disturb (Matthew 2:6; John 12:27). Part of the same quotation. Cf. 1 Peter 3:6."
+        ],
+        "John Gill": [
+            "No hurt is done them, they are still happy persons: happy are ye.",
+            "Such generally enjoy much of the presence of God, and the comforts of his Spirit; the Spirit of God and of glory rests upon them.",
+            "Nothing can harm you, since God is on your side, Christ has delivered you from this present evil world, and saved you out of the hands of every enemy; and since the love of God, which casteth out fear, is shed abroad in your hearts, and you are encompassed with it, and nothing can separate you from it."
+        ],
+        "John Wesley": [
+            "But if ye should suffer - This is no harm to you, but a good.",
+            "Fear ye not their fear \u2014 The very words of the Septuagint, Isaiah 8:12,13.",
+            "Let not that fear be in you which the wicked feel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you should suffer for righteousness' sake, you are blessed. The highest good gained and offered by Christ in the Gospel is a heart certified of God's grace, which brings tranquility in all adversities. Suffering does not take away your blessedness, but rather promotes it. Do not be terrified by the fear that others try to strike into you. God is your protector and can vanquish all your foes. Trust in Him and conquer immoderate terrors. Fear not their fear, for the faithful can never be moved from the right course of duty.",
+            "wordCount": 94,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.9123267522820622,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                26.38,
+                36.97,
+                36.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you should suffer for righteousness' sake, remember that the highest good gained by Christ in the Gospel is a heart certified of God's grace, bringing tranquility in all adversities. This suffering does not take away your blessedness, but rather promotes it. So do not be terrified by the fear that others try to strike into you. Instead, trust in God, for He is your protector and can vanquish all your foes. By conquering immoderate terrors through faith, you can firmly stand and fulfill your duty.",
+            "wordCount": 87,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.9587876852124513,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                27.23,
+                36.71,
+                36.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you should suffer for righteousness' sake, remember that the highest good gained by Christ in the Gospel is a heart certified of God's grace, bringing tranquility in all adversities. Suffering does not take away your blessedness, but rather promotes it. Do not be terrified by the fear that others try to strike into you. God is your protector and can vanquish all your foes. Trust in Him, conquer immoderate terrors, and do not be moved from the right course of duty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9129120855400874,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                27.19,
+                35.3,
+                37.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you should suffer for righteousness' sake, remember that the highest good gained by Christ in the Gospel is a heart certified of God's grace, bringing tranquility in all adversities. Suffering does not take away your blessedness, but rather promotes it. Do not be terrified by the fear that others try to strike into you. God is your protector and can vanquish all your foes. Trust in Him, conquer immoderate terrors, and do not be moved from the right course of duty.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9129120855400874,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                27.19,
+                35.3,
+                37.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you should suffer for righteousness' sake, remember that the highest good gained by Christ in the Gospel is a heart certified of God's grace, bringing tranquility in all adversities. Suffering promotes blessedness and does not take it away. Do not be terrified by the fear others try to strike into you. Trust in God, who can vanquish all foes. Conquer immoderate terrors, stand firm, and fulfill your duty with a heart sanctified by the Lord.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9254317014773377,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                27.2,
+                36.25,
+                36.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

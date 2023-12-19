@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 16:15:17",
+    "verseRef": "Luke 5:23",
+    "bestBHT": {
+        "bht": "Jesus demonstrated his divine authority by telling the paralyzed man to walk about, showcasing his power to heal physical ailments and forgive sins. Only God possesses the ability to forgive sins and perform such miraculous healings, and Jesus aimed to prove his divinity and refute accusations of blasphemy. This passage underscores Jesus' dual nature as both fully God and fully man.",
+        "wordCount": 61,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 0.8871922673029345,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.84,
+        "commentatorTierSimilarities": [
+            13.35,
+            0.0,
+            86.65
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Walk [\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u03b9] . Lit., walk about."
+        ],
+        "John Gill": [
+            "Neither of them could be said by a mere man, with effect, so as that sins would be really remitted on so saying; or that a man sick of a palsy, by such a word speaking, would be able to stand upon his feet and walk; but both of them were equally easy to him, that is truly God.",
+            "He that could cure a man of a palsy with a word speaking, ought not to be charged with blasphemy, for taking upon him to forgive sin.",
+            "Our Lord meant, by putting this question, and acting upon it, to prove himself to be God, and to remove the imputation of blasphemy from him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus, by telling the paralytic to walk about, demonstrated his divine authority to not only heal physical ailments but also forgive sins. The commentators highlight that only God has the power to forgive sins and perform such miraculous healings. By asking the question, Jesus aimed to prove his divinity and dispel any accusations of blasphemy. Thus, this verse showcases Jesus' dual nature as both fully God and fully man.",
+            "wordCount": 69,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 0.8230538964526439,
+            "qualityScoreNormalizedComparedToV2BHTs": 18.71,
+            "commentatorTierSimilarities": [
+                11.92,
+                0.0,
+                88.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus demonstrated his divine authority by telling the paralytic to walk about, showing his power to heal physical ailments and forgive sins. Only God holds the ability to forgive sins and perform such miraculous healings, and Jesus aimed to prove his divinity and refute accusations of blasphemy. This passage highlights Jesus' dual nature as both fully God and fully man.",
+            "wordCount": 60,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 0.8546548265631155,
+            "qualityScoreNormalizedComparedToV2BHTs": 19.76,
+            "commentatorTierSimilarities": [
+                12.9,
+                0.0,
+                87.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus displayed his divine authority by instructing the paralyzed man to walk about, which showcased his ability to heal both physical afflictions and forgive sins. The commentators emphasize that the power to forgive sins and perform extraordinary healings belongs exclusively to God. Through this question, Jesus sought to validate his divinity and refute any claims of blasphemy against him. This reveals the dual nature of Jesus as fully God and fully man.",
+            "wordCount": 72,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 0.748529923471392,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.23,
+            "commentatorTierSimilarities": [
+                8.01,
+                0.0,
+                91.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus demonstrated his divine authority by telling the paralyzed man to walk about, showcasing his power to heal physical ailments and forgive sins. Only God possesses the ability to forgive sins and perform such miraculous healings, and Jesus aimed to prove his divinity and refute accusations of blasphemy. This passage underscores Jesus' dual nature as both fully God and fully man.",
+            "wordCount": 61,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 0.8871922673029345,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.84,
+            "commentatorTierSimilarities": [
+                13.35,
+                0.0,
+                86.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus displayed his divine authority and power by commanding the paralyzed man to walk about, demonstrating his capability to heal physical infirmities and forgive sins. The commentators stress that only God possesses the power to forgive sins and perform such extraordinary healings. By presenting this question, Jesus sought to establish his divine nature, refuting any allegations of blasphemy against him. Thus, this verse serves as a testament to the dual essence of Jesus, fully embodying both God and man.",
+            "wordCount": 79,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 0.7314646514384044,
+            "qualityScoreNormalizedComparedToV2BHTs": 15.67,
+            "commentatorTierSimilarities": [
+                7.59,
+                0.0,
+                92.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

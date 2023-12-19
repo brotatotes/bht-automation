@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:37:06",
+    "verseRef": "Acts 27:2",
+    "bestBHT": {
+        "bht": "Adramyttium, a seaport in Mysia, was where the ship that Paul and his companions boarded was headed. Expecting to find another ship bound for Italy in a port in Asia Minor, the centurion set sail on the ship that was about to depart. Aristarchus, a Macedonian, was a companion of Paul, and Luke, his physician, likely gained permission to accompany them. The companionship of Aristarchus and Luke with Paul was close and prolonged, even in Rome.",
+        "wordCount": 76,
+        "quoteTokenProportion": 34.69,
+        "qualityScore": 2.2229741988204896,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+        "commentatorTierSimilarities": [
+            25.67,
+            41.73,
+            32.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Adramyttium was a seaport with a harbour in Mysia, an Athenian colony.\" ",
+            "It is now a village called Endramit.",
+            "Aristarchus] See ch. xix. 29; xx. 4; Col. iv. 10; Philem. 24."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Doubtless the centurion expected to find another ship, bound for Italy, at some of the ports of Asia Minor, without having to go with this ship all the way to Adramyttium; and in this he was not disappointed.",
+            "Aristarchus the Macedonian...should not have been introduced here by our translators, as if this name had not occurred before.",
+            "After this we find him at Rome with the apostle."
+        ],
+        "Albert Barnes": [
+            "This man is mentioned as Paul\u2019s companion... choosing to share with him his dangers, and to enjoy the benefit of his society and friendship.",
+            "It was doubtless a great comfort to Paul to have with him two such valuable friends as Luke and Aristarchus.",
+            "They were not ashamed of his bonds, but were willing to share his dangers, and to expose themselves to peril for the sake of accompanying him to Rome."
+        ],
+        "Marvin Vincent": [
+            "Meaning to sail. This refers the intention to the voyagers.",
+            "The best texts read mellonti, agreeing with ploiw, ship.",
+            "The correct rendering is, as Rev., a ship - which was about to sail."
+        ],
+        "John Calvin": [
+            "Luke seemeth so to commend one man\u2019s constancy, that he nippeth the rest.",
+            "Surely, it is likely that he was a rich man, seeing he was able to bear the charges whereat he was by the space of three years, having left his house.",
+            "Let it suffice us to hold that which is certain and good to be known, that there is set before us an example of holy patience, because Aristarchus is not wearied with any trouble, but doth willingly take part with Paul in his trouble."
+        ],
+        "Philip Schaff": [
+            "The true reading is \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9 [...] As far, however, as the south-western angle of the peninsula, the course of this vessel was in the direction of Italy; and in some of the harbours at which it would touch in its way, Julius might expect to find another western-bound ship in which he and his prisoners could pursue their voyage.",
+            "A good illustration is supplied by Josephus (War, vii. 2, 1) in his account of the voyage of Vespasian himself, who went on board a merchant ship from Alexandria to Rhodes, and thence pursued his way through Greece to the Adriatic, and finally went to Rome through Italy by land.",
+            "Thus the companionship of the two was close and prolonged. In each case, too, it is to be noted that Aristarchus and Luke are both mentioned as being with St. Paul in Rome."
+        ],
+        "Archibald T. Robertson": [
+            "The usual way to go to Rome was to go to Alexandria and so to Rome, but no large ship for Alexandria was at hand.",
+            "We put to sea.",
+            "Luke was Paul's physician and may have gained permission on that score."
+        ],
+        "John Gill": [
+            "Perhaps it might be so called, either from the badness of the air in which it was, or the dangerousness of its haven.",
+            "There was another city of the same name in Aeolia, or Mysia, and which was formerly called Pedasus, and since Landermiti, and was a seaport.",
+            "There was an island of Lycia called Adramitis, now Audromety, and it was at Myra, a city of Lycia, where this ship stopped."
+        ],
+        "John Wesley": [
+            "Adramyttium \u2014 was a sea port of Mysia. Aristarchus and Luke went with Paul by choice, not being ashamed of his bonds."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Adramyttium, a seaport in Mysia, was the destination for the ship that Paul and his companions boarded. It seems that the centurion expected to find another ship bound for Italy at a port in Asia Minor, but in the end, they set sail on the ship that was about to depart. Aristarchus, a Macedonian, was a companion of Paul, and he had been mentioned before. Luke, Paul's physician, likely gained permission to accompany them because of his role. The companionship of Aristarchus and Luke with Paul was close and prolonged, as they were with him even in Rome.",
+            "wordCount": 99,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.169584263861328,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.48,
+            "commentatorTierSimilarities": [
+                24.52,
+                43.12,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Adramyttium, a seaport in Mysia, was where the ship that Paul and his companions boarded was headed. Expecting to find another ship bound for Italy in a port in Asia Minor, the centurion set sail on the ship that was about to depart. Aristarchus, a Macedonian, was a companion of Paul, and Luke, his physician, likely gained permission to accompany them. The companionship of Aristarchus and Luke with Paul was close and prolonged, even in Rome.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 2.2229741988204896,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.25,
+            "commentatorTierSimilarities": [
+                25.67,
+                41.73,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The intention of the voyagers was to sail aboard a ship from Adramyttium, a seaport in Mysia. The centurion, Julius, expected to find another ship bound for Italy at one of the ports in Asia Minor but decided to set sail on the ship that was about to depart. Aristarchus, a Macedonian mentioned before, accompanied Paul on this journey, along with Luke, who was Paul's physician. Their companionship with Paul lasted throughout their time in Rome as well.",
+            "wordCount": 79,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 2.0636245999075498,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                30.03,
+                39.88,
+                30.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ship carrying Paul and his companions set sail from Adramyttium, a seaport in Mysia, as they intended to sail to Italy. The centurion, Julius, expected to find another ship bound for Italy at one of the ports in Asia Minor. Accompanying Paul were Aristarchus, a Macedonian who had been with him before, and Luke, Paul's physician. Their companionship with Paul extended even to Rome.",
+            "wordCount": 66,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 2.058948174509819,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.8,
+            "commentatorTierSimilarities": [
+                25.95,
+                45.71,
+                28.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Adramyttium, a seaport in Mysia, was where the ship that Paul and his companions boarded was headed. The centurion expected to find another ship bound for Italy in a port in Asia Minor, but in the end, they set sail on the ship that was about to depart. Aristarchus, a Macedonian, was a companion of Paul, and Luke, Paul's physician, likely gained permission to accompany them. The companionship of Aristarchus and Luke with Paul was close and prolonged, even in Rome.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.219896807439804,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.15,
+            "commentatorTierSimilarities": [
+                25.47,
+                42.28,
+                32.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

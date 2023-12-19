@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 17:30:43",
+    "verseRef": "2 Timothy 2:17",
+    "bestBHT": {
+        "bht": "False teachings can be compared to a spreading, consuming disease. Just as a gangrene eats away at healthy flesh and spreads, these erroneous doctrines not only corrupt the specific truths they address but also infect and corrupt other truths. Such teachings have a destructive nature that can have far-reaching consequences, as seen with figures like Hymenaeus and Philetus. Like a cancer, false teachings feed on the vital elements of faith, threatening to bring destruction and death wherever they infiltrate. Therefore, it is imperative to oppose and cut off those who propagate such doctrines before the damage becomes irreparable.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.79,
+        "qualityScore": 1.6297398147997626,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+        "commentatorTierSimilarities": [
+            23.43,
+            34.22,
+            42.35
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The consuming progress of mortification is the image.",
+            "They pretend to give rich spiritual pasture to their disciples: the only pasture is that of a spiritual cancer feeding on their vitals.",
+            "After his excommunication he seems to have been readmitted into the Church and again to have troubled it."
+        ],
+        "Albert Barnes": [
+            "The words rendered 'will eat,' mean 'will have nutriment;' that is, will spread over and consume the healthful parts.",
+            "So it is with erroneous doctrines. They will not merely eat out the truth in the particular matter to which they refer, but they will also spread over and corrupt other truths.",
+            "They have gained an undesirable immortality, destined to be known to the end of time only as the advocates of error."
+        ],
+        "Marvin Vincent": [
+            "Will eat [\u03bd\u03bf\u03bc\u03b7\u03bd \u03b5\u03be\u03b5\u03b9] . Lit. will have pasturage, and so grow.\" ",
+            "Nomh purov a spreading of fire : a sore is said nomhn poieisqai to spread.\" ",
+            "Canker [\u03b3\u03b1\u03b3\u03b3\u03c1\u03b1\u03b9\u03bd\u03b1] . Transliterated into gangrene. An eating sore; a cancer."
+        ],
+        "John Calvin": [
+            "We must therefore abide by the word 'gangrene,' which Paul uses, and which best agrees with what he says as to 'eating' or 'consuming.'\" (Commentary)",
+            "Since, therefore, 'gangrene' is immediately followed by mortification, which rapidly infects the rest of the members till it ends in the universal destruction of the body; to this mortal contagion Paul elegantly compares false doctrines.\" (Commentary)",
+            "The dreadful extinction of the gospel among the Papists arose from this cause, that, through the ignorance or slothfulness of the pastors, corruptions prevailed long and without control, in consequence of which the purity of doctrine was gradually destroyed.\" (Commentary)"
+        ],
+        "Philip Schaff": [
+            "Canker. Another medical word - Literally \u2018gangrene,\u2019 the state between inflammation and entire mortification.",
+            "The word is used by Hippocrates sometimes in this special sense, sometimes of cancer.",
+            "Hymen\u00e6us and Philetus. The former has been mentioned already (1 Timothy 1:20). Of the latter nothing more is known."
+        ],
+        "Archibald T. Robertson": [
+            "Will have pasturage or increase.",
+            "An eating, spreading disease.",
+            "Hymenaeus is probably the one mentioned in 1 Timothy 1:20. Nothing is known of Philetus."
+        ],
+        "John Gill": [
+            "And their word will eat as doth a cancer... It is better rendered 'gangrene', as in the marginal reading, than 'cancer'.\" ",
+            "By the microscope, a gangrene has been discovered to contain an infinite number of little worms engendered in the morbid flesh; and which continually producing new broods, they swarm, and overrun the adjacent parts: if the gangrene proceed to an utter sphacelation (or mortification), and be seated in any of the limbs, or extreme parts, recourse must be had to the operation of amputation.",
+            "And so the errors and heresies of false teachers worm and spread, and feed upon the souls of men, and eat up the vitals of religion, or what seemed to be such, and even destroy the very form of godliness; and bring destruction and death, wherever they come; and when they get into Christian churches, threaten the ruin of them; and therefore are to be opposed in time, and those infected with them to be cut off."
+        ],
+        "John Wesley": [
+            "And their word \u2014 If they go on, will be mischievous as well as vain, and will eat as a gangrene."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "False teachings can be compared to a spreading, consuming disease. Just as a gangrene eats away at healthy flesh and spreads, these erroneous doctrines not only corrupt the specific truths they address but also infect and corrupt other truths. Such teachings have a destructive nature that can have far-reaching consequences, as seen with figures like Hymenaeus and Philetus. Like a cancer, false teachings feed on the vital elements of faith, threatening to bring destruction and death wherever they infiltrate. Therefore, it is imperative to oppose and cut off those who propagate such doctrines before the damage becomes irreparable.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.79,
+            "qualityScore": 1.6297398147997626,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.53,
+            "commentatorTierSimilarities": [
+                23.43,
+                34.22,
+                42.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "False teachings can be likened to a consuming, spreading disease like gangrene. Just as gangrene eats away at healthy flesh and infects other parts of the body, erroneous doctrines not only corrupt specific truths but also corrupt other truths. Figures like Hymenaeus and Philetus serve as examples of the destructive nature of false teachings. Like a cancer, false teachings feed on the vital elements of faith, posing a threat to the very essence of religion. Such doctrines must be opposed and those infected with them must be cut off to prevent further harm.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.5493652206061714,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.86,
+            "commentatorTierSimilarities": [
+                22.86,
+                36.09,
+                41.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "False teachings can be likened to a spreading disease, consuming the truth and corrupting other beliefs. Just as gangrene eats away at healthy flesh, these doctrines feed on the vital elements of faith, threatening its very essence. Figures like Hymenaeus and Philetus exemplify the destructive nature of such teachings, which must be opposed and those infected with them cut off. By understanding the analogy of gangrene, we can grasp the urgency and importance of taking action against false teachings to prevent their detrimental impact.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.5350034694532266,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.38,
+            "commentatorTierSimilarities": [
+                20.78,
+                33.22,
+                46.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Just as gangrene is a consuming, spreading disease, false teachings have a similar impact on faith. These doctrines corrupt the truth they address and contaminate other beliefs. Hymenaeus and Philetus serve as examples of the destructive nature of such teachings, which must be opposed and those influenced by them cut off. Like a cancer, these erroneous doctrines feed on the vitality of religion, posing a serious threat to its integrity. It is therefore crucial to confront and eradicate falsehood to preserve the purity of faith.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.5330927789332471,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                24.25,
+                36.2,
+                39.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "False teachings are like a consuming, spreading disease such as gangrene. Just as gangrene eats away at healthy flesh and infects other parts of the body, these doctrines corrupt the truth they address and contaminate other beliefs. Figures like Hymenaeus and Philetus exemplify the destructive nature of such teachings, which must be opposed and those influenced by them cut off. These erroneous doctrines feed on the vitality of faith, posing a serious threat to its integrity. Thus, it is essential to confront and eliminate falsehood to preserve the purity of faith.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.24,
+            "qualityScore": 1.5187726733676703,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.84,
+            "commentatorTierSimilarities": [
+                21.77,
+                34.48,
+                43.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

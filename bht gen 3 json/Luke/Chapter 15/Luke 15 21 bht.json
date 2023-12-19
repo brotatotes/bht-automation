@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 16:20:21",
+    "verseRef": "Luke 15:21",
+    "bestBHT": {
+        "bht": "The prodigal son's heartfelt confession to his father omits the request to be treated as a hired servant, as his father's immediate and unconditional acceptance interrupts the planned speech. Some manuscripts indicate that the father interrupted the son's confession before he could finish. The son's genuine recognition of his sin and unworthiness is seen in his acknowledgement that he has sinned against heaven and his father. His humility is essential in obtaining forgiveness for his transgressions.",
+        "wordCount": 80,
+        "quoteTokenProportion": 34.62,
+        "qualityScore": 1.747406229277877,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+        "commentatorTierSimilarities": [
+            37.27,
+            19.06,
+            43.67
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The intended close of his confession is not uttered:\u2014there is no abatement of his penitence, for all his Father\u2019s touching and reassuring kindness.\" ",
+            "But his filial confidence sufficiently awakened to prevent the request that he might be as an hired servant."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. Father, I have sinned,",
+            "\t&amp;c.\u2014\"This confession is uttered after the kiss of",
+            "\treconciliation\" ( :-) [TRENCH]."
+        ],
+        "Marvin Vincent": [
+            "He omits make me a servant.",
+            "The slavish spirit vanishes in the clasp of the father's arms.",
+            "He just shut his mouth, and said, 'I take you to my heart, and that's enough.'"
+        ],
+        "John Calvin": [
+            "Displeasure with sin must therefore go before repentance.",
+            "And certainly so far astray are the impulses of the flesh, that any one who gives himself up to them may be said to have gone out of himself, and to have lost his senses.",
+            "This humility is absolutely necessary in order to obtain forgiveness of sins."
+        ],
+        "Philip Schaff": [
+            "The terms are the same, 'I have sinned'; but how different is the accent!",
+            "The discovery of the difference between the repentance of fear and that of love was the true principle of the Reformation.",
+            "Luther felt it profoundly."
+        ],
+        "Archibald T. Robertson": [
+            "The son made his speech of confession as planned, but it is not certain that he was able to finish.",
+            "A number of early manuscripts do not have 'Make me as one of the hired servants,' though Aleph B D do have them.",
+            "It is probable that the father interrupted him at this point before he could finish."
+        ],
+        "John Gill": [
+            "I have sinned against heaven, and in thy sight; this is what he determined to say, and was allowed to say, having a deep sense of his sin and vileness, and which was increased by the love and kindness his father had shown him.\" ",
+            "The phrase is Jewish; to which may be added, what is elsewhere said c, 'what is the sense of that passage, Psalms 12:4 \"who have said, with our tongues we will prevail?\" c. it designs all the transgressions a man sins against earth and if\u05d7\u05d5\u05d8\u05d0\u05d9\u05df \u05d1\u05e9\u05de\u05d9\u05dd, 'they sin against heaven', and earth; what is the sense of that in Psalms 73:9?''",
+            "and am no more worthy to be called thy son: so much he was suffered to say, which fully expresses his sense of his vileness and unworthiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prodigal son's confession to his father is sincere and heartfelt, as shown by his lack of request to be treated as a hired servant. His father's loving embrace interrupts the son's planned speech, indicating that the father's acceptance and forgiveness is immediate and unconditional. The absence of the phrase Make me as one of the hired servants in some manuscripts suggests that the father interrupted the son's confession before he could finish. The son's recognition of his sin and unworthiness is genuine, as he acknowledges that he has sinned against heaven and his father. His humility is essential in obtaining forgiveness for his transgressions.",
+            "wordCount": 111,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 1.7665881561944912,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.08,
+            "commentatorTierSimilarities": [
+                36.47,
+                19.54,
+                43.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prodigal son's heartfelt confession to his father omits the request to be treated as a hired servant, as his father's immediate and unconditional acceptance interrupts the planned speech. Some manuscripts indicate that the father interrupted the son's confession before he could finish. The son's genuine recognition of his sin and unworthiness is seen in his acknowledgement that he has sinned against heaven and his father. His humility is essential in obtaining forgiveness for his transgressions.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.747406229277877,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.44,
+            "commentatorTierSimilarities": [
+                37.27,
+                19.06,
+                43.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prodigal son speaks to his father with an authentic confession of sin, accompanied by a deep sense of his own vileness and unworthiness. The absence of his request to be a hired servant indicates that his filial confidence is awakened, preventing the need for such a plea. The loving embrace of his father interrupts the son's planned speech, expressing the immediate and reassuring kindness bestowed upon him. The son's humility plays a vital role in obtaining forgiveness, as his sincere confession acknowledges his wrongdoing against both heaven and his father.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.6636211357194095,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                36.92,
+                19.5,
+                43.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prodigal son's genuine confession to his father is accompanied by a deep sense of his unworthiness and sin. His filial confidence prevents him from requesting to be a hired servant, reflecting the awakening of his faith. The interruption of his speech by his father's loving embrace demonstrates the immediate and reassuring kindness shown to the repentant son. Through his humble acknowledgement of his wrongdoing against heaven and his father, the son exemplifies the essential role of humility in obtaining forgiveness.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.6881469495169537,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                35.07,
+                21.15,
+                43.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prodigal son's heartfelt confession lacks a request to be a hired servant, indicating his genuine penitence and faith in his father's love. The father's immediate embrace interrupts the planned speech, showing his unwavering acceptance and forgiveness. Some manuscripts suggest that the father cut off the son before he could finish speaking. The son's sincere recognition of his sin and unworthiness, confessing his offenses against heaven and his father, highlights the crucial requirement of humility in obtaining forgiveness for one's transgressions.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.6982048583778253,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                37.74,
+                18.84,
+                43.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

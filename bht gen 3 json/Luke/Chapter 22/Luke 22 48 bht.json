@@ -1,0 +1,91 @@
+{
+    "timestamp": "12-19-2023 16:22:56",
+    "verseRef": "Luke 22:48",
+    "bestBHT": {
+        "bht": "With a kiss, Jesus openly challenges Judas and calls it betrayal, yet it did not stop him. Addressing Judas by name throughout, Jesus sets before him the full enormity of his purpose, exposing the hypocritical and deceitful way in which he betrays the Son of Man. Judas knowingly hands over the one he knows to be the Christ into the hands of his most implacable adversaries.",
+        "wordCount": 66,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.7608243528193763,
+        "qualityScoreNormalizedComparedToV2BHTs": 83.14,
+        "commentatorTierSimilarities": [
+            48.25,
+            28.24,
+            23.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Philip Schaff": [
+            "Judas, betrayest then, etc. This probably followed the question recorded by Matthew.",
+            "It is addressed to Judas by name, and is emphatic throughout, setting before the traitor the full enormity of his purpose.",
+            "The form used coincides with that used in predicting the betrayal."
+        ],
+        "Archibald T. Robertson": [
+            "With a kiss (\u03c6\u03b9\u03bb\u03b7\u03bc\u03b1\u03c4). Instrumental case. Jesus challenges the act of Judas openly and calls it betrayal, but it did not stop him. "
+        ],
+        "John Gill": [
+            "Calling him by his name, that he might know he knew him, and to aggravate his sin...",
+            "...betrayest thou the son of man with a kiss!",
+            "...what, betray such an one into the hands of his most implacable adversaries, and in such an hypocritical and deceitful way!"
+        ],
+        "John Wesley": [
+            "Betrayest thou the Son of man \u2014 He whom thou knowest to be the Son of man, the Christ?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 3,
+    "bhtAttempts": [
+        {
+            "bht": "With a kiss, Jesus openly challenges Judas for his act of betrayal in Luke 22:48. Despite being called out by name and being shown the enormity of his purpose, Judas did not stop. Jesus addresses him as an individual, using the same language that was used to predict his betrayal, in order to make it clear that he knows and understands Judas' actions. The use of a kiss to betray the Son of Man aggravates the sin, as it is a hypocritical and deceitful way of handing over someone to their adversaries. Judas betrayed Jesus, the Son of Man, and the one he knew to be the Christ.",
+            "wordCount": 107,
+            "quoteTokenProportion": 46.38,
+            "qualityScore": 2.532557270619825,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.55,
+            "commentatorTierSimilarities": [
+                45.64,
+                30.11,
+                24.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a kiss, Jesus openly challenges Judas for his act of betrayal, calling it betrayal yet not stopping him. Addressing him by name throughout, Jesus emphasizes the full enormity of Judas' purpose, aggravating his sin. Using the same language predicted beforehand, Jesus exposes the hypocritical and deceitful nature of betraying the Son of Man with a kiss. Judas betrayed someone he knew to be the Son of Man, the Christ, into the hands of his most implacable adversaries.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.5227219527091704,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.22,
+            "commentatorTierSimilarities": [
+                45.46,
+                28.51,
+                26.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a kiss, Jesus openly challenges Judas and calls it betrayal, yet it did not stop him. Addressing Judas by name throughout, Jesus sets before him the full enormity of his purpose, exposing the hypocritical and deceitful way in which he betrays the Son of Man. Judas knowingly hands over the one he knows to be the Christ into the hands of his most implacable adversaries.",
+            "wordCount": 66,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.7608243528193763,
+            "qualityScoreNormalizedComparedToV2BHTs": 83.14,
+            "commentatorTierSimilarities": [
+                48.25,
+                28.24,
+                23.51
+            ],
+            "generationAttempt": 3
+        }
+    ]
+}

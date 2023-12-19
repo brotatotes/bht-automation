@@ -1,0 +1,118 @@
+{
+    "timestamp": "12-19-2023 16:23:04",
+    "verseRef": "Luke 22:45",
+    "bestBHT": {
+        "bht": "The disciples were found sleeping for sorrow, their drowsiness stemming from their overwhelmed hearts and their misunderstanding of the events taking place. Jesus' warning about his betrayal and suffering did not fully register with them, leading to confusion and the question about using the sword. Their grief filled their hearts, resulting in a heaviness that induced sleep. Nonetheless, Jesus remained resolute in fulfilling the prophecies, regardless of the disciples' sorrow and lack of comprehension.",
+        "wordCount": 74,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.694274819123462,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+        "commentatorTierSimilarities": [
+            38.45,
+            0.0,
+            61.55
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The words may possibly express an inference of the Evangelist: but I would rather understand them as exactly describing the cause of their sleeping.",
+            "The first of these is the address to Judas, ver. 48, calling the traitor by name, and setting before him the whole magnitude of his crime in the very words in which the treason had lately been announced.",
+            "Another is in ver. 49, where the disciples, seeing what would follow, ask, Lord, shall we smite with the sword? which question refers to, and is the filling up of their misunderstanding."
+        ],
+        "Marvin Vincent": [
+            "For sorrow. The mention of the cause of the drowsiness is characteristic. ",
+            "- 53. Compare Matthew 27:47-56; Mark 14:43-52."
+        ],
+        "Archibald T. Robertson": [
+            "Sleeping for sorrow (\u03ba\u03bf\u03b9\u03bc\u03c9\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 \u03b1\u03c0\u03bf \u03c4\u03b7\u03c2 \u03bb\u03c5\u03c0\u03b7\u03c2). Luke does not tell of the three turnings of Jesus to the trusted three for human sympathy. "
+        ],
+        "John Gill": [
+            "He found them sleeping for sorrow; on his account...\" ",
+            "...he had given them some intimations of his being to be betrayed by one of them, and of his sufferings and death, and speedy departure from them...",
+            "...sorrow had filled their hearts, and this had induced heaviness and sleep upon them..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The disciples found themselves sleeping for sorrow, overwhelmed by grief and despair, causing them to be oblivious to their surroundings. The weight of their emotions, coupled with their misunderstanding of the events unfolding before them, led to their drowsiness. Their confusion is evident in their question about smiting with the sword, demonstrating their lack of comprehension. Even though Jesus had forewarned them about his impending betrayal and the suffering he would endure, their hearts were still filled with grief and this heaviness was the catalyst for their unintended slumber.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.6349557348725887,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                40.0,
+                0.0,
+                60.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The disciples were found sleeping for sorrow, their drowsiness caused by the weight of their emotions and their misunderstanding of the situation. Jesus had warned them about his betrayal and suffering, but their hearts were still filled with grief, leading to a heaviness that induced sleep. This confusion is evident in their question about using the sword. Despite the disciples' sorrow and lack of comprehension, Jesus continued to fulfill his destiny as foretold in the Scriptures.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.675636677691433,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.06,
+            "commentatorTierSimilarities": [
+                42.59,
+                0.0,
+                57.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The disciples were found sleeping due to their sorrow, caused by Jesus' impending betrayal and the magnitude of the crime. This drowsiness stemmed from their misunderstanding of the situation, as seen in their question about using the sword. Their sleep was a result of their heavy hearts and grief. Jesus, aware of their slumber and the reasons behind it, continued on the path that had been predicted in the Scriptures.",
+            "wordCount": 70,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.5871779923808491,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.12,
+            "commentatorTierSimilarities": [
+                39.48,
+                0.0,
+                60.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The disciples were found sleeping for sorrow, their drowsiness stemming from their overwhelmed hearts and their misunderstanding of the events taking place. Jesus' warning about his betrayal and suffering did not fully register with them, leading to confusion and the question about using the sword. Their grief filled their hearts, resulting in a heaviness that induced sleep. Nonetheless, Jesus remained resolute in fulfilling the prophecies, regardless of the disciples' sorrow and lack of comprehension.",
+            "wordCount": 74,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.694274819123462,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.68,
+            "commentatorTierSimilarities": [
+                38.45,
+                0.0,
+                61.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The disciples were discovered sleeping due to their sorrow, which caused them to be drowsy and oblivious to their surroundings. Their sleep was a result of their overwhelmed hearts and their misunderstanding of the situation. Jesus had warned them about his betrayal, suffering, and imminent departure, but their grief filled their hearts and induced sleep upon them. Their confusion is evident in their question about using the sword. Nevertheless, Jesus continued on the predetermined path, fulfilling the prophecies despite the disciples' sorrow and lack of comprehension.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.568005145929924,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.48,
+            "commentatorTierSimilarities": [
+                35.87,
+                0.0,
+                64.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

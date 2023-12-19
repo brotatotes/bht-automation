@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 15:20:12",
+    "verseRef": "Colossians 2:20",
+    "bestBHT": {
+        "bht": "If you died with Christ from the elements of the world, why are you being prescribed to as though living in the world? Paul emphasizes that if you have died to the world through baptism, you should not continue to live according to its principles or be bound by its outward, worldly ordinances. The Colossians were acting as if they were seeking life and righteousness in the rudiments of the world, rather than recognizing their freedom in Christ.",
+        "wordCount": 78,
+        "quoteTokenProportion": 52.83,
+        "qualityScore": 2.1217989502988712,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+        "commentatorTierSimilarities": [
+            28.67,
+            33.07,
+            38.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If ye died (in your baptism, as detailed above, vv. 11 if) with Christ from (i. e. \u2018died, and so were set free from\u2019) the elements (compare ver. 8: the rudimentary lessons, i.e. ritualistic observances) of the world (see on ver. 8; Christ Himself was set free from these, when, being made under the law, He at His Death bore the curse of the law, and thus it was superseded in Him), why, as though living (emphatic, as though you had not died, see Gal. vi. 14) in the world, are ye being prescribed to (literally, are ye being dogmatized, brought under ordinances.\u2014The reference to the word [dogmas] 'ordinances,' in ver. 14, is plain.",
+            "If ye died with Christ from the elements of the world, why are ye being prescribed to as though living in the world?\" ",
+            "Why, as though living in the world, are ye being dogmatized, brought under ordinances?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "if ye died (so as to be freed) from",
+            "Carnal, outward, worldly, legal ordinances",
+            "you are again being made subject to 'ordinances,' the 'handwriting' of which had been 'blotted out'"
+        ],
+        "Albert Barnes": [
+            "If it be true that you are really dead to the world, why do you act as if you still lived under the principles of the world?",
+            "We died with him; that is, such was the efficacy of his death, and such is our union with him, that we became dead also to the world.",
+            "Why do you allow them to influence you, as though you were living and acting under those worldly principles? They ought no more to do it, than the things of this world influence those who are in their graves."
+        ],
+        "Marvin Vincent": [
+            "Ye died; the aorist tense indicating a definite event.",
+            "Elementary teachings and practices the peculiar sphere of which is the world.",
+            "Why do ye submit to be dictated to?"
+        ],
+        "John Calvin": [
+            "He now employs another figure of speech \u2014 that we are dead to them.",
+            "He says, therefore, that the Colossians have nothing to do with ordinances.",
+            "Hence he concludes that they are by no means bound by the ordinances."
+        ],
+        "Philip Schaff": [
+            "When baptized their death with Christ was signified and sealed.",
+            "They died \u2018from\u2019 these, because they were separated from them.",
+            "It is a curious instance of change in language that \u2018subject to dogmas\u2019 would now refer to doctrines, whereas then it pointed to practical rules of life."
+        ],
+        "Archibald T. Robertson": [
+            "He is alluding to the picture of burial in baptism...",
+            "We are not to act as though we had not done so.",
+            "Paul still has in mind the rules of the ascetic wing of the Gnostics."
+        ],
+        "John Gill": [
+            "They were dead with Christ by virtue of union to him; they being one with him, and considered in him as their head and representative, died in him, and with him.",
+            "They were dead also to the ceremonial law, and were free from the rudiments, or 'elements' of the world: the ordinances of a worldly sanctuary, the rites and ceremonies of the world, or state of the Jews, in opposition to, and distinction from, the Gospel dispensation, or times of the Messiah.",
+            "But what he seems to blame them for, and reason with them about, was, that they acted as if they sought for life and righteousness in the rudiments of the world, or by their obedience to ceremonial rites, or human inventions."
+        ],
+        "John Wesley": [
+            "If ye are dead with Christ from the rudiments of the world \u2014 That is, If ye are dead with Christ, and so freed from them, why receive ye ordinances - Which Christ hath not enjoined, from which he hath made you free."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If you died with Christ from the elements of the world, why are you being prescribed to as though living in the world? Why do you submit to be dictated to? Paul emphasizes that if you have died to the world through baptism, you should not continue to live according to its principles or be bound by its carnal, outward, worldly ordinances. The Colossians, influenced by the ascetic rules of the Gnostics, were acting as if they were seeking life and righteousness in the rudiments of the world. Instead, they should recognize that they are dead to the rudimentary teachings and practices of the world, and live in the freedom that Christ has provided.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 2.0177987806134157,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.43,
+            "commentatorTierSimilarities": [
+                30.88,
+                32.47,
+                36.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If you died with Christ from the elements of the world, why are you being prescribed to as though living in the world? Paul emphasizes that if you have died to the world through baptism, you should not continue to live according to its principles or be bound by its outward, worldly ordinances. The Colossians were acting as if they were seeking life and righteousness in the rudiments of the world, rather than recognizing their freedom in Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 52.83,
+            "qualityScore": 2.1217989502988712,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+            "commentatorTierSimilarities": [
+                28.67,
+                33.07,
+                38.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "If you died with Christ from the elements of the world, why are you being prescribed to as though living in the world? If you have died to the world through baptism, you should not be bound by its outward, worldly ordinances. The Colossians were seeking life and righteousness in the rudiments of the world, instead of recognizing their freedom in Christ.",
+            "wordCount": 62,
+            "quoteTokenProportion": 54.76,
+            "qualityScore": 2.1145130637289316,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.65,
+            "commentatorTierSimilarities": [
+                30.88,
+                30.7,
+                38.42
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "If you have died with Christ, why are you allowing yourself to be dictated to as if you were still living in the world? Paul reminds the Colossians that their baptism signifies their death to the worldly principles and ordinances. They should not be influenced by these worldly elements but should live in the freedom that Christ has provided. The Colossians were urged to break free from the ascetic rules of the Gnostics and not seek life and righteousness in the rituals and practices of the world.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.9863958214205275,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.39,
+            "commentatorTierSimilarities": [
+                28.34,
+                33.74,
+                37.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "If you have died with Christ, why are you allowing yourself to be dictated to as if you were still living in the world? The Colossians were urged to break free from the ascetic rules of the Gnostics and not seek life and righteousness in the rituals and practices of the world. Instead, they should live in the freedom that Christ has provided, recognizing that their baptism signifies their death to the worldly principles and ordinances.",
+            "wordCount": 76,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 2.053544180534181,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.62,
+            "commentatorTierSimilarities": [
+                28.26,
+                34.28,
+                37.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

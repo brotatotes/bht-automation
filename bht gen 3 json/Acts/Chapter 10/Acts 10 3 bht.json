@@ -1,0 +1,145 @@
+{
+    "timestamp": "12-19-2023 16:29:06",
+    "verseRef": "Acts 10:3",
+    "bestBHT": {
+        "bht": "At the ninth hour, Cornelius, a devout man, saw a clear vision, not a mere imagination. This significant encounter marked the introduction of the gospel to the Gentile world. The fact that an angel appeared to a Roman centurion, rather than a Jewish convert, is noteworthy. The account emphasizes that Cornelius was not a circumcised proselyte. Through the details shared by Luke, we understand that the vision was not a trick or illusion but a divine experience.",
+        "wordCount": 77,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 1.7174466198147367,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+        "commentatorTierSimilarities": [
+            24.84,
+            38.86,
+            36.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Not in a trance, but with his bodily eyes: thus asserting the objective truth of the appearance.",
+            "It here appears that Cornelius observed the Jewish hours of prayer."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3-6. saw . . .",
+            "\tevidently\u2014\"distinctly.\" ",
+            "\t",
+            "the ninth hour of the",
+            "\tday\u2014three o'clock, the hour of the evening sacrifice. But he",
+            "\thad been \"fasting until that hour\" ( :-), perhaps from the sixth hour ( :-)."
+        ],
+        "Albert Barnes": [
+            "Evidently - Openly; manifestly.",
+            "About the ninth hour - About 3 o\u2019clock p. m. This was the usual hour of evening worship among the Jews.",
+            "The importance of the occasion - the introduction of the gospel to a Gentile, and hence, to the entire Gentile world - was probably the chief reason why an angel was commissioned to visit the Roman centurion."
+        ],
+        "Marvin Vincent": [
+            "A vision. See on ch. Acts 8:31. ",
+            "Evidently [\u03c6\u03b1\u03bd\u03b5\u03c1\u03c9\u03c2] . Better, clearly or distinctly, as opposed to a fancy."
+        ],
+        "John Calvin": [
+            "Luke putteth vision for a kind of oracle coming from God, that we may know that Cornelius was brought unto the faith of Christ after an heavenly manner.",
+            "And because men are oftentimes deceived with juggling, Luke setteth down the time to avoid all suspicion, when he mentioneth the ninth hour.",
+            "Although there were always seals added unto visions, that they might free the servants of God from fear of illusions, because when he appeared in dreams, yet were there such marks of certainty imparted in their minds as would not suffer them to doubt."
+        ],
+        "Philip Schaff": [
+            "What Cornelius saw was addressed to his waking senses.",
+            "The whole tone of the narrative... convey[s] the impression that Cornelius was by no means a proselyte in the sense of having been circumcised.",
+            "A distinct appeal was made at C\u00e6sarea to the hearing, as well as the seeing, of Cornelius."
+        ],
+        "Archibald T. Robertson": [
+            "Saw come, not 'saw coming.'",
+            "So also 'say' or 'speak,' not 'saying.'",
+            "Luke repeats the account of this vision to Cornelius twice and also the story of the vision to Peter."
+        ],
+        "John Gill": [
+            "He saw in a vision evidently... it was not in the night, but in clear day.",
+            "the hour of prayer... he was now engaged.",
+            "he called him by his name... to engage his attention."
+        ],
+        "John Wesley": [
+            "He saw in a vision \u2014 Not in a trance, like Peter: plainly, so as to leave one not accustomed to things of this kind no room to suspect any imposition."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Cornelius, a devout man, saw a vision at the ninth hour, the hour of evening sacrifice. The vision was clear and distinct, not a mere fancy. This was a significant moment in history, as the gospel was about to be introduced to the Gentile world. It is notable that an angel was sent to a Roman centurion, and not a Jewish convert. The whole account conveys that Cornelius was not a circumcised proselyte. Interestingly, the vision appealed not only to his sight but also to his hearing. Luke emphasizes the time of the vision to avoid suspicion and to establish its certainty. By sharing these details, Luke wants us to understand that this was a divine encounter, not a mere trick or illusion.",
+            "wordCount": 123,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.707911207552924,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.13,
+            "commentatorTierSimilarities": [
+                24.2,
+                35.66,
+                40.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Cornelius, a devout man, saw a vision at the ninth hour, the hour of evening sacrifice. The vision was clear and distinct, not a mere fancy. This was a significant moment in history, as the gospel was about to be introduced to the Gentile world. It is notable that an angel was sent to a Roman centurion, and not a Jewish convert. The whole account conveys that Cornelius was not a circumcised proselyte. By sharing the time and details, Luke emphasizes the certainty and divine nature of this encounter.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.6650418165199263,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                23.75,
+                41.03,
+                35.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the ninth hour, Cornelius, a devout man, saw a clear vision, not a mere imagination. This significant encounter marked the introduction of the gospel to the Gentile world. The fact that an angel appeared to a Roman centurion, rather than a Jewish convert, is noteworthy. The account emphasizes that Cornelius was not a circumcised proselyte. Through the details shared by Luke, we understand that the vision was not a trick or illusion but a divine experience.",
+            "wordCount": 77,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.7174466198147367,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.45,
+            "commentatorTierSimilarities": [
+                24.84,
+                38.86,
+                36.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the ninth hour, Cornelius, a devout man, saw a vision distinctly. This momentous occasion marked the introduction of the gospel to the Gentile world. The fact that an angel visited a Roman centurion reflects the significance of this event. The account makes it clear that Cornelius was not a circumcised proselyte. Luke's emphasis on the time and details of the vision establishes its certainty and divine nature, assuring us that it was not a mere illusion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.6880721063486535,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                23.73,
+                41.13,
+                35.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Cornelius, a devout man, saw a clear vision at the ninth hour, the hour of evening sacrifice. This significant encounter marked the introduction of the gospel to the Gentile world. It is notable that an angel was sent to a Roman centurion and not a Jewish convert. The details shared by Luke emphasize the certainty and divinity of this encounter, establishing that it was not a mere trick or illusion.",
+            "wordCount": 70,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.6507506358452888,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.23,
+            "commentatorTierSimilarities": [
+                23.92,
+                36.95,
+                39.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

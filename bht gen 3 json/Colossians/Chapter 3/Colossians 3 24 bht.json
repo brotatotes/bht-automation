@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 15:21:55",
+    "verseRef": "Colossians 3:24",
+    "bestBHT": {
+        "bht": "Serve the Lord Christ, not men, for He is the source of all Christian reward. Even in your present state of slavery, the compensation you will receive from Him, consisting of the inheritance of heavenly glory, will make ample amends for any earthly possessions you lack. Therefore, serve the Lord Christ willingly and gladly, knowing that the full recompense of the inheritance is from Him. Keep on serving faithfully, for the heavenly reward is worth every labor and sacrifice.",
+        "wordCount": 79,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 2.1957740457368686,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+        "commentatorTierSimilarities": [
+            30.87,
+            30.55,
+            38.58
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "You must look to Him, not to men, as the source of all Christian reward.",
+            "Here the word recompense would appear to be used with a marked reference to their present state of slavery, the compensation.",
+            "The last clause, without the 'for,' is best. taken imperatively, as a general comprehension of the course of action prescribed in the former part of the verse: serve ye the Lord Christ."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Knowing that it is from the Lord (the ultimate source of reward), ye shall receive the compensation (or recompense, which will make ample amends for your having no earthly possession as slaves now) consisting of the inheritance.",
+            "Serve ye the Lord Christ.",
+            "To the Lord and not unto men."
+        ],
+        "Marvin Vincent": [
+            "Of the inheritance. Which consists or is in the inheritance.",
+            "For ye serve [\u03b3\u03b1\u03c1 \u03b4\u03bf\u03c5\u03bb\u03b5\u03c5\u03b5\u03c4\u03b5]. Omit for. Some take the verb as imperative, serve ye; but the indicative is better as explaining from the Lord."
+        ],
+        "Philip Schaff": [
+            "Ye shall receive the recompense. Not pay or reward, but that which is a compensation for the present privations.",
+            "Of the inheritance. This is the compensation, the heritage of heaven, full salvation.",
+            "Ye serve. The word \u2018for\u2019 is to be omitted; and the original may mean either \u2018ye serve,\u2019 or \u2018serve ye.\u2019 The latter is preferable, summing up in one phrase the contents of all the previous precepts."
+        ],
+        "Archibald T. Robertson": [
+            "Ye shall receive (\u03b1\u03c0\u03bf\u03bb\u03b7\u03bc\u03c8\u03b5\u03c3\u03b8\u03b5). Future middle indicative of \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, old verb, to get back (\u03b1\u03c0\u03bf), to recover.",
+            "The recompense (\u03b1\u03bd\u03c4\u03b1\u03c0\u03bf\u03b4\u03bf\u03c3\u03b9\u03bd). 'The full recompense,' old word, in LXX, but only here in N.T., but \u03b1\u03bd\u03c4\u03b1\u03c0\u03bf\u03b4\u03bf\u03bc\u03b1 twice (Luke 14:12; Romans 11:9). Given back (\u03b1\u03c0\u03bf) in return (\u03b1\u03bd\u03c4).",
+            "Ye serve the Lord Christ (\u03c4\u03bf \u039a\u03c5\u03c1\u03b9\u03c9 \u03a7\u03c1\u03b9\u03c3\u03c4\u03c9 \u03b4\u03bf\u03c5\u03bb\u03b5\u03c5\u03b5\u03c4\u03b5). As his slaves and gladly so. Perhaps better as imperatives, keep on serving."
+        ],
+        "John Gill": [
+            "Though they may receive little or nothing from their earthly and carnal masters; yet they shall be used and treated as children by the Lord, and by whom they will be possessed of an eternal inheritance, after their work and labour is over.",
+            "By 'the reward of the inheritance' is meant the heavenly glory, called a reward, because the apostle is speaking to servants and therefore uses language agreeable to them; and who, though they may have no reward in this world, yet as there is a God that judgeth in the earth, there is verily one for them in the world to come.",
+            "It is in a way of receiving, and so by gift, as a man can receive nothing but what is given him; and as all grace is in a way of receiving, and therefore boasting in it is excluded, so glory is enjoyed in the same way, and from the same hands, even from Christ."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Knowing that the ultimate source of reward is the Lord Christ, you must serve Him rather than men. Though you may face hardships as a servant in the present, consider that the inheritance of heavenly glory will be your compensation. This recompense will make ample amends for any lack of earthly possessions as slaves. Therefore, strive to serve the Lord Christ willingly and gladly, knowing that you shall receive the full recompense of the inheritance from Him. Keep on serving Him faithfully, for the heavenly reward is worth every labor and sacrifice.",
+            "wordCount": 92,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.0935938609747407,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.95,
+            "commentatorTierSimilarities": [
+                29.6,
+                32.3,
+                38.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Serve the Lord Christ, not men, for He is the source of all Christian reward. Even in your current state of slavery, remember that the compensation you will receive from Him, consisting of the inheritance of heavenly glory, will make amends for any present hardships. Therefore, continue to serve Him faithfully, for though you may have no earthly reward, there is certainly one waiting for you in the world to come. Trust in the Lord's provision and keep on serving Him willingly and gladly, knowing that He will reward your labor.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.099685730153571,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.16,
+            "commentatorTierSimilarities": [
+                31.18,
+                28.61,
+                40.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Serve the Lord Christ, not men, for He is the source of all Christian reward. Even in your present state of slavery, the compensation you will receive from Him, consisting of the inheritance of heavenly glory, will make ample amends for any earthly possessions you lack. Therefore, serve the Lord Christ willingly and gladly, knowing that the full recompense of the inheritance is from Him. Keep on serving faithfully, for the heavenly reward is worth every labor and sacrifice.",
+            "wordCount": 79,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.1957740457368686,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.35,
+            "commentatorTierSimilarities": [
+                30.87,
+                30.55,
+                38.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Serve the Lord Christ, not men, for He is the ultimate source of all Christian reward. Though you may face hardships as a slave, the compensation you will receive from Him, the inheritance of heavenly glory, will make ample amends for any earthly possessions you lack. Therefore, continue to serve Him faithfully, knowing that you will receive the full recompense of the inheritance. Serve the Lord Christ willingly and gladly, for the heavenly reward is worth every labor and sacrifice.",
+            "wordCount": 80,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.1559317684071253,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                30.74,
+                30.94,
+                38.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Serve the Lord Christ, not men, for He is the source of all Christian reward. Even in your present state of slavery, remember that the compensation you will receive from Him, consisting of the inheritance of heavenly glory, will make amends for any present hardships. Therefore, continue to serve the Lord Christ faithfully, for you will receive the full recompense of the inheritance from Him. Serve Him willingly and gladly, knowing that the heavenly reward is worth every labor and sacrifice. Trust in His provision and keep on serving Him with joy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.008147327942845,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.11,
+            "commentatorTierSimilarities": [
+                31.74,
+                29.85,
+                38.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

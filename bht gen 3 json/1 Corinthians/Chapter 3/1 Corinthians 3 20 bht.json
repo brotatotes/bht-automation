@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 15:02:25",
+    "verseRef": "1 Corinthians 3:20",
+    "bestBHT": {
+        "bht": "The Lord knows that the thoughts and reasonings of the wise are in fact vain, lacking true wisdom. The psalmist refers to the proud and worldly wise, whose high thoughts are considered vanity. While they may boast of their wisdom and pursuit of personal gain, God sees their thoughts as foolish and ultimately useless. The wisdom of this world, esteemed by many, is seen as foolishness by God, who knows and eventually reveals its emptiness.",
+        "wordCount": 75,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.306485465446354,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.03,
+        "commentatorTierSimilarities": [
+            26.82,
+            27.92,
+            45.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Psalmist however is speaking of the proud, and such, when these high thoughts are in question, would be the worldly wise.\" ",
+            "The thoughts of man.\" ",
+            "When these high thoughts are in question, would be the worldly wise."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul by inspiration states the class of men whose 'thoughts' (or rather, 'reasonings,' as suits the Greek and the sense of the context) the Spirit designated in the Psalm, 'vanity.'\" ",
+            "God in Proverbs calls 'fools,' though they 'boast themselves' of their wisdom in pushing their interests.\" ",
+            "Here it is 'of the wise.'"
+        ],
+        "Albert Barnes": [
+            "The Lord knoweth - God searches the heart.",
+            "The particular thing which it is here said that he knows, is, that the thoughts of man are vain.",
+            "That they are vain - That they lack real wisdom; they are foolish; they shall not be accomplished as they expect; or be seen to have that wisdom which they now suppose they possess."
+        ],
+        "Philip Schaff": [
+            "1 Corinthians 3:20. And again (Psalms 94:11), The Lord knoweth the reasonings of the wise, that they are vain.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Reasonings (\u03b4\u03b9\u03b1\u03bb\u03bf\u03b3\u03b9\u03c3\u03bc\u03bf\u03c5\u03c2). More than cogitationes (Vulgate), sometimes disputations (Philippians 2:14).",
+            "Paul changes 'men' of LXX to wise (\u03c3\u03bf\u03c6\u03c9\u03bd) in harmony with the Hebrew context.",
+            "Vain (\u03bc\u03b1\u03c4\u03b1\u03b9\u03bf). Useless, foolish, from \u03bc\u03b1\u03c4\u03b7, a futile attempt."
+        ],
+        "John Gill": [
+            "The wisdom of this world is foolishness with God.",
+            "The Lord knoweth the thoughts of the wise, that they are vain.",
+            "The omniscient God not only knows, but makes known, and discovers them, sooner or later, to be vain and fruitless, yea, vanity itself."
+        ],
+        "John Wesley": [
+            "That they are but vain \u2014 Empty, foolish; they and all their thoughts. Psalm 94:11."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord is aware of the reasonings and thoughts of the wise, and He sees them as being futile and lacking true wisdom. The Psalmist speaks specifically about the proud, those who consider themselves worldly wise and hold high thoughts. These high thoughts are the reasonings that the Spirit, through Paul's inspiration, designates as vanity. Even though the wise may boast about their wisdom and push their own interests, God sees their thoughts as useless and foolish. The wisdom of this world is considered foolishness by God, and He knows and eventually reveals the emptiness and futility of the thoughts of the wise.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.2844925419845086,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.3,
+            "commentatorTierSimilarities": [
+                30.22,
+                27.02,
+                42.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord knows that the thoughts and reasonings of the wise are in fact vain, lacking true wisdom. The psalmist refers to the proud and worldly wise, whose high thoughts are considered vanity. While they may boast of their wisdom and pursuit of personal gain, God sees their thoughts as foolish and ultimately useless. The wisdom of this world, esteemed by many, is seen as foolishness by God, who knows and eventually reveals its emptiness.",
+            "wordCount": 75,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.306485465446354,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.03,
+            "commentatorTierSimilarities": [
+                26.82,
+                27.92,
+                45.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord knows the thoughts and reasonings of the worldly wise, which the psalmist identifies as vanity. These individuals, proud and haughty, boast of their wisdom and push their own interests. However, God sees through their facade, recognizing that their thoughts lack true wisdom and are ultimately futile. The wisdom of this world, perceived as valuable by many, is foolishness in the eyes of God. He knows and ultimately makes known the emptiness and fruitlessness of the thoughts of the wise.",
+            "wordCount": 81,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.025299490416242,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.68,
+            "commentatorTierSimilarities": [
+                27.38,
+                27.3,
+                45.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord's knowledge extends to the thoughts and reasonings of the worldly wise, revealing their vanity. The psalmist speaks of those who are proud and hold high thoughts, but Paul clarifies that their reasonings are futile. Despite their self-proclaimed wisdom, these individuals are considered fools by God. Their thoughts, though they may boast about them, are seen as empty and useless. The omniscient God not only knows their thoughts, but also exposes their true nature as vain and fruitless.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.1346197727370155,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.32,
+            "commentatorTierSimilarities": [
+                27.45,
+                27.82,
+                44.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord discerns the thoughts and reasonings of the worldly wise, recognizing their vanity. Whereas the proud often hold high thoughts and consider themselves wise, Paul reveals that such reasonings are actually futile. God perceives these individuals as foolish, despite their claims of wisdom. Their thoughts, although they may boast about them, are ultimately empty and lacking in purpose. Indeed, the all-knowing God not only comprehends these thoughts, but also exposes them for what they truly are - vain and fruitless.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 2.1353062843786863,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.34,
+            "commentatorTierSimilarities": [
+                27.21,
+                27.46,
+                45.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

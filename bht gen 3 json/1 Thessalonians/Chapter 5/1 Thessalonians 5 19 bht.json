@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 14:01:29",
+    "verseRef": "1 Thessalonians 5:19",
+    "bestBHT": {
+        "bht": "Do not quench the Spirit within you, for it is like a holy fire that burns wherever it is present. The caution here is to not throw cold water on those who speak with tongues or reveal mysteries, dismissing or undervaluing their extraordinary inspiration. Both apathetic indifference and excessive zeal can hinder the authentic work of the Spirit. It is crucial to cultivate a sincere and discerning response to the Spirit's influence in our lives, nurturing our relationship with God and embracing the gifts that He provides.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 2.224460781282201,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.3,
+        "commentatorTierSimilarities": [
+            35.45,
+            33.74,
+            30.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "An unclean life quenches the Spirit within.",
+            "The supernatural agency of the Spirit is here alluded to.",
+            "It is conceived of as a flame, which may be checked and quenched."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Quench not\u2014the Spirit being a holy fire: 'where the Spirit is, He burns'\" - BENGEL",
+            "Do not throw cold water on those who, under extraordinary inspiration of the Spirit, stand up to speak with tongues, or reveal mysteries, or pray in the congregation.",
+            "The caution was needed, not to receive 'all' pretended revelations as divine, without 'proving' them."
+        ],
+        "Albert Barnes": [
+            "We are not to extinguish the influences of the Holy Spirit in our hearts.",
+            "Neglect of cultivating the Christian graces, or of prayer, of the Bible, of the sanctuary, of a careful watchfulness over the heart, will [quench the Spirit].",
+            "A man has no more religion than he intends to have; he has no graces of the Spirit which he does not seek; he has no deadness to the world which is not the object of his sincere desire, and which he does not aim to have."
+        ],
+        "Marvin Vincent": [
+            "Quench not the Spirit.\" ",
+            "The operation of the Spirit is set forth under the image of fire.",
+            "The reference here is to the work of the Spirit generally, and not specially to his inspiration of prayer or prophecy."
+        ],
+        "John Calvin": [
+            "Be enlightened by the Spirit of God. See that you do not lose that light through your ingratitude.",
+            "This admonition, therefore, as to not quenching the Spirit, has a wider extent of meaning than the one that follows as to not despising prophesyings.",
+            "We must, therefore, be on our guard against indolence, by which the light of God is choked in us."
+        ],
+        "Philip Schaff": [
+            "Quench not the Spirit. The Spirit being first revealed as a cleansing fire and an enlightening flame...",
+            "The succeeding clause, \u2018despise not prophesyings,\u2019 shows that it is the extraordinary manifestations of the Spirit\u2019s operation which Paul chiefly has in view.",
+            "These \u2018prophesyings\u2019 (i.e. not predictions, but utterances of this supernatural kind) might be undervalued either by those who heard or by those who uttered them."
+        ],
+        "Archibald T. Robertson": [
+            "Quench not the spirit.\" ",
+            "Some of them were trying to put out the fire of the Holy Spirit.",
+            "Today, as then, there are two extremes about spiritual gifts (cold indifference or wild excess)."
+        ],
+        "John Gill": [
+            "Such as faith, which is a light in the soul, a seeing of the Son, and an evidence of things not seen; and love, which gives a vehement flame, which many waters cannot quench; and zeal, which is the boiling up of love, the fervency of it; and spiritual knowledge, which is also light, and of an increasing nature, and are all graces of the spirit.",
+            "The extraordinary gifts of the Spirit, bestowed on the apostles at the day of Pentecost, are represented under the symbol of fire... to burn and shine the brighter, and give both light and heat.",
+            "Even private persons may quench the Spirit of God, his gifts of light and knowledge, when they hold the truth in unrighteousness, imprison it, and conceal it, and do not publicly profess it as they ought."
+        ],
+        "John Wesley": [
+            "Quench not the Spirit \u2014 Wherever it is, it burns; it flames in holy love, in joy, prayer, thanksgiving.",
+            "O quench it not, damp it not in yourself or others...",
+            "...either by neglecting to do good, or by doing evil!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Do not extinguish the flame of the Spirit within you. The Spirit is like a cleansing fire and an enlightening flame, working in extraordinary ways to reveal truth and inspire prophetic utterances. It is important not to reject or undervalue these manifestations, but also to be cautious and discerning. While the reference here is to the work of the Spirit in general, it is worth noting that some were trying to put out the fire of the Holy Spirit during Paul's time, just as there are those who either coldly disregard spiritual gifts or wildly indulge in them today. Let us not throw cold water on the Spirit's work in ourselves or others, but instead be proactive in cultivating a vibrant and authentic spiritual life.",
+            "wordCount": 127,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 2.292594720805515,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.57,
+            "commentatorTierSimilarities": [
+                35.21,
+                34.4,
+                30.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Do not quench the fire of the Spirit within you. The Spirit's supernatural agency is compared to a flame that can be checked and extinguished. It is important not to throw cold water on those who speak with tongues or reveal mysteries under the extraordinary inspiration of the Spirit. While the caution was not to blindly accept all revelations, it is crucial to not neglect or dampen the work of the Spirit generally. There are two extremes regarding spiritual gifts - indifference or excess. Let us cultivate a sincere and discerning response to the Spirit's work in ourselves and others.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 2.28970345377106,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.47,
+            "commentatorTierSimilarities": [
+                37.94,
+                32.43,
+                29.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not quench the Spirit within you, for it is like a holy fire that burns wherever it is present. We must be careful not to throw cold water on those who speak in tongues or reveal mysteries under the extraordinary inspiration of the Spirit. While discernment is necessary, it is crucial to not neglect or undervalue the work of the Spirit in our lives. Both indifference and wild excess can hinder the manifestation of spiritual gifts. Let us cultivate a sincere and balanced response to the Spirit's work, nurturing our relationship with God and embracing the gifts He provides.",
+            "wordCount": 101,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.285708712511706,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.34,
+            "commentatorTierSimilarities": [
+                35.46,
+                33.42,
+                31.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Do not quench the Spirit within you, for it is like a holy fire that burns wherever it is present. The caution here is to not throw cold water on those who speak with tongues or reveal mysteries, dismissing or undervaluing their extraordinary inspiration. \nBoth apathetic indifference and excessive zeal can hinder the authentic work of the Spirit. It is crucial to cultivate a sincere and discerning response to the Spirit's influence in our lives, nurturing our relationship with God and embracing the gifts that He provides.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.221702161406519,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                35.3,
+                33.8,
+                30.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not quench the Spirit within you, for it is like a holy fire that burns wherever it is present. The caution here is to not throw cold water on those who speak with tongues or reveal mysteries, dismissing or undervaluing their extraordinary inspiration. Both apathetic indifference and excessive zeal can hinder the authentic work of the Spirit. It is crucial to cultivate a sincere and discerning response to the Spirit's influence in our lives, nurturing our relationship with God and embracing the gifts that He provides.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.224460781282201,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.3,
+            "commentatorTierSimilarities": [
+                35.45,
+                33.74,
+                30.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

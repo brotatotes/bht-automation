@@ -1,0 +1,88 @@
+{
+    "timestamp": "12-19-2023 14:14:17",
+    "verseRef": "Galatians 3:14",
+    "bestBHT": {
+        "bht": "Through faith in Christ, we receive the promised blessing of Abraham, which is justification by faith. This blessing extends to both Jews and Gentiles, as Christ has redeemed us all. It is through this faith that we receive the Holy Spirit, who kindles within us a spark of faith and enables us to lay hold of Christ. The deliverance from the curse not only brings the blessing promised to Abraham to the Gentiles, but also imparts the Spirit to all believers, regardless of their background. In Christ, through faith, we all obtain the promised blessings.",
+        "wordCount": 95,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.7294271501036667,
+        "qualityScoreNormalizedComparedToV2BHTs": 82.09,
+        "commentatorTierSimilarities": [
+            35.84,
+            32.68,
+            31.48
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "To the end that upon the Gentiles the blessing of Abraham (that is, promised to Abraham, namely, justification by faith) might come in Christ Jesus.",
+            "This clause follows not the clause immediately preceding (for our receiving the Spirit is not the result of the blessing of Abraham coming on the Gentiles), but 'Christ hath redeemed us,' &amp;c.",
+            "The Spirit from without, kindles within us some spark of faith Whereby we lay hold of Christ, and even of the Spirit Himself, that He may dwell within us."
+        ],
+        "Albert Barnes": [
+            "The blessing of Abraham - The blessing which Abraham enjoyed, to wit, that of being justified by faith.",
+            "That we might receive the promise of the Spirit - That all we who are Christian converts.",
+            "The promise of the Spirit, or the promised Spirit, is here put for all the blessings connected with the Christian religion."
+        ],
+        "Marvin Vincent": [
+            "The deliverance from the curse results not only in extending to the Gentiles the blessing promised to Abraham, but in the impartation of the Spirit to both Jews and Gentiles through faith.",
+            "The eujlogia blessing is not God's gift of justification as the opposite of the curse; for in vv. 10, 11, justification is not represented as the opposite of the curse, but as that by which the curse is removed and the blessing realized.",
+            "The subject of the promise is the life which comes through the Spirit."
+        ],
+        "John Calvin": [
+            "If the Jews must be delivered from the law, in order to become the heirs of Abraham, what shall hinder the Gentiles from obtaining the same benefit?",
+            "And if that blessing is found in Christ alone, it is faith in Christ which alone brings it into our possession.",
+            "Because, if it is spiritual, it is received by faith alone."
+        ],
+        "Philip Schaff": [
+            "We, i.e., all Christians whether of Jewish or Gentile descent",
+            "'Receive the promise of the Spirit,' refers back to Galatians 3:2.",
+            "The gift of the Holy Ghost came through faith in Jesus Christ."
+        ],
+        "Archibald T. Robertson": [
+            "That we might receive (\u03b9\u03bd\u03b1 \u03bb\u03b1\u03b2\u03c9\u03bc\u03b5\u03bd). Second final clause coordinate with the first as in 2 Corinthians 9:3.",
+            "So in Christ we all (Gentile and Jew) obtain the promise of blessing made to Abraham, through faith."
+        ],
+        "John Gill": [
+            "The same blessing Abraham enjoyed, even justification by the righteousness of Christ; and what was promised to Abraham, that in him, his seed, that is Christ, the Gentiles should be blessed.",
+            "Though this blessing, as all other spiritual ones, were laid up in the covenant of grace, put into the hands of Christ, and God's elect blessed therewith...Christ is made a curse for them, to make way for the blessing to take place upon them.",
+            "By 'the promise of the Spirit' may be meant, either by an 'hypallage', the Spirit of promise, who opens and applies the promises; or the Spirit promised, not as a spirit of regeneration, conversion, and faith; but rather as a spirit of adoption."
+        ],
+        "John Wesley": [
+            "That the blessing of Abraham \u2014 The blessing promised to him.",
+            "Might come on the gentiles \u2014 Also.",
+            "Through faith \u2014 Not by works; for faith looks wholly to the promise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 1,
+    "bhtAttempts": [
+        {
+            "bht": "Through faith in Christ, we receive the promised blessing of Abraham, which is justification by faith. This blessing extends to both Jews and Gentiles, as Christ has redeemed us all. It is through this faith that we receive the Holy Spirit, who kindles within us a spark of faith and enables us to lay hold of Christ. The deliverance from the curse not only brings the blessing promised to Abraham to the Gentiles, but also imparts the Spirit to all believers, regardless of their background. In Christ, through faith, we all obtain the promised blessings.",
+            "wordCount": 95,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.7294271501036667,
+            "qualityScoreNormalizedComparedToV2BHTs": 82.09,
+            "commentatorTierSimilarities": [
+                35.84,
+                32.68,
+                31.48
+            ],
+            "generationAttempt": 1
+        }
+    ]
+}

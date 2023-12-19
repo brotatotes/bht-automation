@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 16:30:04",
+    "verseRef": "Acts 11:29",
+    "bestBHT": {
+        "bht": "The church in Jerusalem, likely impacted by their communal living, faced poverty. However, the disciples responded with Christian love and generosity, contributing according to their ability to send relief to their brethren in Judaea. This act demonstrated their gratitude for receiving the Gospel and their obligation to assist their Jewish counterparts. It served as proof of their genuine conversion and exemplified the principle that those who receive spiritual blessings should also provide for the temporal needs of those who bless them.",
+        "wordCount": 81,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.94937778353661,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+        "commentatorTierSimilarities": [
+            30.01,
+            38.76,
+            31.22
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The church at Jerusalem was poor, probably in connexion with the community of goods, which would soon have this effect.\" (Commentary, p. 29)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This was the pure prompting of Christian love, which shone so bright in those earliest days of the Gospel.",
+            "The disciples, every man according to his ability, determined to send relief.",
+            "Christian love, which shone so bright in those earliest days of the Gospel."
+        ],
+        "Albert Barnes": [
+            "According to his ability - According as they had prospered. It does not imply that they were rich, but that they rendered such aid as they could afford.",
+            "Determined to send relief - This arose not merely from their general sense of obligation to aid the poor, but they felt themselves particularly bound to assist their Jewish brethren.",
+            "The obligation to relieve the temporal needs of those from whom important spiritual mercies are received is repeatedly enforced in the New Testament."
+        ],
+        "Marvin Vincent": [
+            "According to his ability... as each one fared well.\" ",
+            "The same idea appears in our farewell; fare meaning originally to travel. Hence, to bid one farewell is to wish him a prosperous journey.",
+            "To send relief... to send for ministry."
+        ],
+        "John Calvin": [
+            "For there is nothing more just than that those should reap earthly things who have sown spiritual things.",
+            "Thus shall it come to pass, that he which is but poor shall have a liberal mind, and that a small reward shall be counted a fat and gorgeous sacrifice.",
+            "Love ought to extend itself unto all mankind, but because those ought to be preferred whom God hath joined and linked to us more near, and with a more holy band."
+        ],
+        "Philip Schaff": [
+            "This is a very different aspect of giving pecuniary relief... and, if we may venture to say so, it is a higher aspect.",
+            "The principle here acted on... is precisely that which St. Paul afterwards inculcated on the Christians.",
+            "In this place it is probably used to indicate the brotherly feeling which subsisted between the 'disciples' in Syria and Judea."
+        ],
+        "Archibald T. Robertson": [
+            "Of the disciples, as any one was able (or well off), they determined each of them to send relief to the brethren who dwelt in Judaea.",
+            "The worst of the famine came A.D. 45.",
+            "The warning by Agabus stirred the brethren in Antioch to send the collection on ahead."
+        ],
+        "John Gill": [
+            "Every man according to his ability; whether rich or poor, master or servant, everyone according to the substance he was possessed of; whether more or less, which was a good rule to go by.",
+            "The Christians at Antioch, in gratitude to them for having received the Gospel, and Gospel ministers from them, resolved to help them with their temporal things, when in distress.",
+            "The disciples... determined to send relief to the brethren which dwelt in Judea; either because that Agabus might have suggested, that the famine would be the severest in those parts; or because that the Christians there had parted with their substance already, in the support of one another, and for the spread of the Gospel in other parts."
+        ],
+        "John Wesley": [
+            "Understanding the distress they would otherwise be in on that account.",
+            "The disciples determined to send relief to the brethren in Judea.",
+            "Who herein received a manifest proof of the reality of their conversion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The church at Jerusalem, most likely affected by their practice of communal living, was enduring poverty. In the spirit of Christian love that characterized the early days of the Gospel, the disciples each contributed according to their ability to send relief to their brethren in Judaea, who were experiencing a severe famine. This act of giving was not just a general moral obligation, but specifically aimed at aiding their Jewish brothers and sisters. It demonstrated the disciples' gratitude for receiving the Gospel and the ministering of Gospel workers from Judaea. This act of charity served as a tangible proof of the reality of their conversion and exemplified the principle that those who receive spiritual blessings should also sow into the material needs of those who bless them.",
+            "wordCount": 127,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.9780643933880815,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.11,
+            "commentatorTierSimilarities": [
+                32.04,
+                36.7,
+                31.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The church in Jerusalem, likely impacted by their communal living, faced poverty. However, the disciples responded with Christian love and generosity, contributing according to their ability to send relief to their brethren in Judaea. This act demonstrated their gratitude for receiving the Gospel and their obligation to assist their Jewish counterparts. It served as proof of their genuine conversion and exemplified the principle that those who receive spiritual blessings should also provide for the temporal needs of those who bless them.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.94937778353661,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.16,
+            "commentatorTierSimilarities": [
+                30.01,
+                38.76,
+                31.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church in Jerusalem, affected by communal living, experienced poverty. But the disciples, out of Christian love, determined to send relief to their brethren in Judaea, each contributing according to their ability. This act demonstrated their gratitude for the Gospel and their obligation to aid their Jewish counterparts. It exemplified the principle of sowing spiritual and material blessings. This act of charity served as tangible proof of their conversion and deepened their bond with the believers in Judea.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.8443671309662246,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                29.89,
+                38.51,
+                31.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the early days of the Gospel, the church in Jerusalem faced poverty possibly due to their communal living arrangements. However, the disciples, driven by Christian love, determined to send relief to their brethren in Judaea, with each person contributing according to their ability. This act of charity demonstrated their gratitude for the Gospel and their obligation to assist their Jewish counterparts. It served as tangible proof of their genuine conversion and solidified the close bond between the believers in Jerusalem and those in Judaea.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.930951493438032,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "commentatorTierSimilarities": [
+                33.0,
+                35.81,
+                31.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The church at Jerusalem, in connection with their community of goods, experienced poverty. Nevertheless, the disciples, driven by Christian love, determined to send relief to their brethren in Judaea, each contributing according to their ability. This act of charity exemplified the selfless giving that characterized the early days of the Gospel. It was both a demonstration of gratitude for the blessings they had received and a tangible proof of their genuine conversion.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.9205866527382494,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                36.16,
+                33.9,
+                29.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

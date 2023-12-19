@@ -1,0 +1,146 @@
+{
+    "timestamp": "12-19-2023 13:53:34",
+    "verseRef": "Philippians 1:7",
+    "bestBHT": {
+        "bht": "Paul's confidence in the Philippians stemmed from their continuous remembrance of him and their active role in defending and confirming the Gospel. Despite his bonds, their love and support remained unwavering. By being partakers of his grace, they shared in his sufferings and contributed to the spread of the Gospel. Paul prayed for God to perfect His work of grace in them, believing that they would partake in the blessings that would come forth from their partnership in the Gospel. Their unwavering faith gave him hope and assurance in their salvation.",
+        "wordCount": 92,
+        "quoteTokenProportion": 29.09,
+        "qualityScore": 2.05939371296955,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+        "commentatorTierSimilarities": [
+            32.53,
+            38.71,
+            28.76
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Their bearing him always in mind was the ground of his confidence that they were prospering in the Gospel.\" ",
+            "His bonds were his situation: his defence and confirmation of the Gospel, his employment in that situation.\" ",
+            "One such defence and confirmation we have recorded in Acts xxviii. 23 ff being partakers of my grace."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Paul's confident prayer in their behalf was that God would perfect His own good work of grace in them.",
+            "This last clause thus assigns the reason why he has them in his heart, even in his bonds, and in his defense and confirmation of the Gospel, namely, 'inasmuch as ye are fellow partakers of my grace.'",
+            "Bonds do not bind love."
+        ],
+        "Albert Barnes": [
+            "There is a reason why I should cherish this hope of you, and this confident expectation that you will be saved.",
+            "He expected that the divine blessing would follow his efforts in the cause of the gospel, and he says that they would share in the blessing.",
+            "They had shown all the sympathy which they could in his trials; they had nobly stood by him when others forsook him; and he anticipated, as a matter of course, that they would all share in the benefits which would flow to him in his efforts in the cause of the Redeemer."
+        ],
+        "Marvin Vincent": [
+            "Even as\" . The reason for being confident.",
+            "Defense\" . See on 1 Peter 3:15.",
+            "Confirmation\" . Only here and Hebrews 6:16. The kindred verb bebaiow to confirm, occurs frequently, as Romans 14:8; 1 Corinthians 1:8, etc."
+        ],
+        "John Calvin": [
+            "For it is no common honor that God confers upon us when we suffer persecution for the sake of his truth.",
+            "Let us therefore bear in remembrance also, that we must with readiness and alacrity embrace the fellowship of the cross of Christ as a special favor from God.",
+            "That kind of confirmation, therefore, of which Paul makes mention, has a relation to men, as we learn from our own experience that the slaughter of so many martyrs has been attended at least with this advantage, that they have been as it were so many seals, by which the gospel has been sealed in our hearts."
+        ],
+        "Philip Schaff": [
+            "He has seen and valued God's work within them, both from their behaviour towards himself and their labours for the spread of the Gospel.\" ",
+            "The phrase ['to be thus minded'] implies a settled state of feeling which is not likely to be disturbed.\" ",
+            "The Philippians have had the same kind of lot to bear as the apostle himself, and have joined with him in spirit in defending and confirming the Gospel of Christ."
+        ],
+        "Archibald T. Robertson": [
+            "Because I have you in my heart... love begets love.",
+            "In the defence... in the original sense in Acts 22:1; Acts 25:16.",
+            "Partakers with me of grace... 'Grace prompted them to alleviate his imprisonment, to cooperate with him in defending and propagating the gospel, and to suffer for its sake' (Vincent, Int. Crit. Comm.)."
+        ],
+        "John Gill": [
+            "In a judgment of faith the apostle might be confident, and so may every other man, that all that believe in Christ truly, and have a good work begun in them, that shall be finished.",
+            "It is a token for good when the Lord lays the case of any upon the hearts of his ministers, or any of his people.",
+            "They stood by him, encouraged and assisted him, when others forsook him, and laid difficulties and discouragements in his way; on account of all which it was but meet and proper he should entertain such sentiments of them as before expressed."
+        ],
+        "John Wesley": [
+            "Because I have you in my heart, who were all partakers of my grace.",
+            "Sharers in the afflictions which God vouchsafed me as a grace or favour.",
+            "After they had endured that great trial of affliction, God had sealed them unto full victory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The reason Paul was confident that the Philippians were prospering in the Gospel is because they were constantly bearing him in mind, participating in his defense and confirmation of the Gospel. They had shown their love for him by standing by him in his bonds, and their partaking in his grace was the basis for his affection towards them. Paul's prayer was that God would perfect His work of grace in them, and he anticipated that they would share in the blessings that would come from his efforts in spreading the Gospel. The Philippians had endured trials and had been sealed by God, giving Paul hope and assurance of their salvation.",
+            "wordCount": 112,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.195122884928245,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.33,
+            "commentatorTierSimilarities": [
+                30.18,
+                39.91,
+                29.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Paul's confidence in the Philippians stemmed from their constant remembrance of him and their active involvement in defending and confirming the Gospel. Despite his bonds, their love and support were not hindered. They had become fellow partakers of his grace, sharing in his sufferings and efforts in spreading the Gospel. Paul prayed for God to perfect His work of grace in them, and he expected them to receive blessings from his endeavors. The Philippians' steadfastness in faith gave Paul hope and assurance of their salvation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.0264726211589146,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.72,
+            "commentatorTierSimilarities": [
+                31.9,
+                39.41,
+                28.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Paul's confidence in the Philippians was grounded in their constant remembrance of him and their active engagement in defending and confirming the Gospel, despite his imprisonment. They had actively participated in his work of spreading the Gospel, showing their love and support. Paul prayed that God would perfect His work of grace in them. He anticipated that they would share in the blessings that would result from his efforts and their partnership in the Gospel. Their enduring faith and loyalty gave Paul hope and assurance of their ultimate victory.",
+            "wordCount": 90,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.9942117446475085,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.65,
+            "commentatorTierSimilarities": [
+                30.57,
+                40.96,
+                28.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Paul's confidence in the Philippians was based on their continual remembrance of him and their active involvement in defending and confirming the Gospel. Even though he was in bonds, their love for him remained steadfast. They were fellow partakers of his grace, sharing in his sufferings and participating in his work of spreading the Gospel. Paul prayed for God to perfect His work of grace in them and expected them to partake in the blessings that would come from their partnership in the Gospel. Their enduring faith gave Paul hope and assurance of their salvation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.0538527749377913,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                32.49,
+                38.17,
+                29.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Paul's confidence in the Philippians stemmed from their continuous remembrance of him and their active role in defending and confirming the Gospel. Despite his bonds, their love and support remained unwavering. By being partakers of his grace, they shared in his sufferings and contributed to the spread of the Gospel. Paul prayed for God to perfect His work of grace in them, believing that they would partake in the blessings that would come forth from their partnership in the Gospel. Their unwavering faith gave him hope and assurance in their salvation.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 2.05939371296955,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.82,
+            "commentatorTierSimilarities": [
+                32.53,
+                38.71,
+                28.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

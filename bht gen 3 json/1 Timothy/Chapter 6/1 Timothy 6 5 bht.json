@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 17:29:17",
+    "verseRef": "1 Timothy 6:5",
+    "bestBHT": {
+        "bht": "Those who engage in perverse disputings and incessant collisions of the mind have become corrupted and bereft of the truth, misled by a supposed deeper knowledge and higher holiness used for profit. They make religion a means of livelihood, supposing that gain is godliness, a dangerous sophistry destructive to the Church. Paul warns against interaction with such individuals as they provoke anger and every evil work, lacking true understanding of Christ's teachings.",
+        "wordCount": 73,
+        "quoteTokenProportion": 35.48,
+        "qualityScore": 1.757576736160436,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+        "commentatorTierSimilarities": [
+            22.94,
+            35.38,
+            41.68
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "lasting contests\" [WIESINGER]; \"incessant collisions\" [ALFORD].",
+            "the inmost source of the evil is in the perverted mind",
+            "they had had the truth, but through want of moral integrity and of love of the truth, they were misled by a pretended deeper gnosis (knowledge) and higher ascetical holiness, of which they made a trade\" [WIESINGER]."
+        ],
+        "Albert Barnes": [
+            "Supposing that gain is godliness - That that which contributes to an increase of property is of course true religion; or that it is proper to infer that any course which contributes to worldly prosperity must be sanctioned by religion.",
+            "This maxim, it would seem, they applied to the relation of the slave and his master, and as the tendency of the system was always to keep the servant poor and in an humble condition, they seem to have inferred that the relation was contrary to Christianity, and hence to have excited the servant to disaffection.",
+            "This passage does not teach that slavery is either a good thing, or a just thing, a desirable relation in life, or an institution that God wishes to be perpetuated on the earth."
+        ],
+        "Marvin Vincent": [
+            "Perverse disputings...continued friction...wearing discussion; protracted wrangling.\" ",
+            "Bereft of the truth...they once possessed the truth...represented as taken away from them.",
+            "That godliness is a way (or source) of gain...They make religion a means of livelihood."
+        ],
+        "John Calvin": [
+            "From this passage, therefore, let us learn to detest (\u03c3\u03bf\u03c6\u03b9\u03c3\u03c4\u03b9\u03ba\u1f74\u03bd) sophistry as a thing more destructive to the Church of God than can easily be believed.",
+            "That godliness is gain The meaning is, that godliness is a gainful art; that is, because they measure the whole of Christianity by gain.",
+            "Paul forbids the servants of Christ to have any intercourse with such persons... We should therefore, labor to the utmost, that all may know, that so far are we from being agreed with them, that they have no communication with us."
+        ],
+        "Archibald T. Robertson": [
+            "Mutual irritations\" (Field).",
+            "Corrupted in mind\" (\u03b4\u03b9\u03b5\u03c6\u03b8\u03b1\u03c1\u03bc\u03b5\u03bd\u03c9\u03bd \u03c4\u03bf\u03bd \u03bd\u03bf\u03c5\u03bd).",
+            "Bereft of the truth\" (\u03b1\u03c0\u03b5\u03c3\u03c4\u03b5\u03c1\u03b7\u03bc\u03b5\u03bd\u03c9\u03bd \u03c4\u03b7\u03c2 \u03b1\u03bb\u03b7\u03b8\u03b5\u03b9\u03b1\u03c2)."
+        ],
+        "John Gill": [
+            "Perverse disputings of men of corrupt minds...provoke, to wrath and anger, and, every evil work.\" ",
+            "Destitute of the truth of Christ...knowing nothing of him spiritually and savingly.\" ",
+            "Supposing that gain is godliness...acted as if there was nothing in religion but worldly profit and gain."
+        ],
+        "John Wesley": [
+            "Supposing that gain is godliness \u2014 Thinking the best religion is the getting of money: a far more common case than is usually supposed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who engage in the perverse disputings and incessant collisions of the mind have become corrupted and bereft of the truth. They had once possessed the truth but were misled by a pretended deeper knowledge and higher holiness which they used to gain profit. They make religion a means of livelihood, supposing that gain is godliness. However, this is a dangerous sophistry that is destructive to the Church. Paul warns against having any interaction with such individuals, as their actions only provoke anger and every evil work. We must make it known that we are not in agreement with them, as they have no true understanding of Christ and His teachings.",
+            "wordCount": 111,
+            "quoteTokenProportion": 47.56,
+            "qualityScore": 1.5147012938960422,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.71,
+            "commentatorTierSimilarities": [
+                24.93,
+                32.52,
+                42.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who engage in perverse disputings and incessant collisions of the mind have become corrupted and bereft of the truth, misled by a supposed deeper knowledge and higher holiness used for profit. They make religion a means of livelihood, supposing that gain is godliness, a dangerous sophistry destructive to the Church. Paul warns against interaction with such individuals as they provoke anger and every evil work, lacking true understanding of Christ's teachings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.757576736160436,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                22.94,
+                35.38,
+                41.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who engage in perverse disputings and incessant collisions of the mind have become corrupted and bereft of the truth, misled by a pretended deeper knowledge and higher holiness used for profit. They make religion a means of livelihood, supposing that gain is godliness. Paul warns against having any interaction with such individuals, as their actions only provoke anger and every evil work. We must make it known that we are not in agreement with them, as they have no true understanding of Christ and His teachings.",
+            "wordCount": 87,
+            "quoteTokenProportion": 45.71,
+            "qualityScore": 1.5262107114157613,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.09,
+            "commentatorTierSimilarities": [
+                21.56,
+                35.08,
+                43.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those engaged in perverse disputings and incessant collisions of the mind have become corrupted, misled by a pretended deeper knowledge and higher holiness used for profit. They make religion a means of livelihood, supposing that gain is godliness. Paul warns against interaction with them, as their actions provoke anger and every evil work. We must make it known that we are not in agreement with them, as they lack understanding of Christ's teachings and the truth.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.5152277270894898,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.72,
+            "commentatorTierSimilarities": [
+                23.94,
+                33.1,
+                42.96
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who engage in perverse disputings and incessant collisions of the mind have become corrupted and bereft of the truth. They had once possessed the truth, but through want of moral integrity and love for the truth, they were misled by a pretended deeper knowledge and higher holiness, which they used for profit. They make religion a means of livelihood, supposing that gain is godliness, but this is a dangerous sophistry that can easily destroy the Church. We must avoid any association with such individuals, as their actions only provoke anger and every evil work.",
+            "wordCount": 95,
+            "quoteTokenProportion": 45.21,
+            "qualityScore": 1.6489737493203394,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.17,
+            "commentatorTierSimilarities": [
+                28.08,
+                31.64,
+                40.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

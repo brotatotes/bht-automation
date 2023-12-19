@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 16:22:59",
+    "verseRef": "Luke 22:19",
+    "bestBHT": {
+        "bht": "The loaf of bread, given for us and not broken for us, carries significance in its use of the word 'broken'. This instruction to keep on partaking in the breaking of bread highlights its continuous nature. The bread symbolizes the body of Christ, a voluntary and substitutionary sacrifice. Through contemplation of this sacrifice, we are nourished by Christ's flesh. The Lord's Supper is a commemoration, not a repetition, of his sacrifice. Therefore, we must understand the bread as symbolizing his body figuratively, similar to the paschal lamb.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.29,
+        "qualityScore": 1.6333137063148044,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+        "commentatorTierSimilarities": [
+            24.6,
+            30.41,
+            44.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Marvin Vincent": [
+            "Bread [\u03b1\u03c1\u03c4\u03bf\u03bd] . Better, a loaf."
+        ],
+        "John Calvin": [
+            "The reason why the flesh of Christ becomes bread to us is, that by it salvation was once procured for us.",
+            "Whoever then desires that the flesh of Christ should afford nourishment to him, let him look at it as having been offered on the cross, that it might be the price of our reconciliation with God.",
+            "In order that we may feed aright on the flesh of Christ, we must contemplate the sacrifice of it, because it was necessary that it should have been once given for our salvation, that it might every day be given to us."
+        ],
+        "Philip Schaff": [
+            "Given to death, as the sequel shows, and as Luke 22:20 involves.",
+            "Such a surrender to death had necessarily a vicarious character.",
+            "This passage proves that [the Lord's Supper] is a memorial service, commemorating the atoning death of our Master."
+        ],
+        "Archibald T. Robertson": [
+            "Which is given for you...which is for you, not which is broken for you.\" ",
+            "It is curious to find the word 'broken' here preserved and justified so often...",
+            "This do. Present active indicative, repetition, keep on doing this."
+        ],
+        "John Gill": [
+            "which is given for you; or will be given for you, as an offering for sin in your room and stead; and accordingly it was given into the hands of men, and of justice, and unto death.\" ",
+            "The phrase denotes the substitution and sacrifice of Christ in the room of his people, and the voluntariness of it.",
+            "The Lord's supper is not a reiteration, but a commemoration of the sacrifice of Christ."
+        ],
+        "John Wesley": [
+            "This is my body \u2014 As he had just now celebrated the paschal supper, which was called the passover, so in like figurative language, he calls this bread his body.",
+            "And this circumstance of itself was sufficient to prevent any mistake, as if this bread was his real body, any more than the paschal lamb was really the passover."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a loaf of bread that is given for us, not broken for us. The use of the word broken is significant, as it is often justified and preserved. This instruction to partake in the breaking of bread is not a one-time act, but rather a continuous action. The bread represents the body of Christ, given as a sacrifice in our place. It is through contemplating this sacrifice that we are able to partake in the nourishment of Christ's flesh. The phrase given for you emphasizes the substitution and voluntary sacrifice of Christ. The Lord's Supper is a commemoration, not a reiteration, of Christ's sacrifice. Therefore, we must understand that the bread represents his body symbolically and not literally.",
+            "wordCount": 126,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.5553445604148908,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.06,
+            "commentatorTierSimilarities": [
+                26.13,
+                27.56,
+                46.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The loaf of bread, given for us and not broken for us, carries significance in its use of the word 'broken'. This instruction to keep on partaking in the breaking of bread highlights its continuous nature. The bread symbolizes the body of Christ, a voluntary and substitutionary sacrifice. Through contemplation of this sacrifice, we are nourished by Christ's flesh. The Lord's Supper is a commemoration, not a repetition, of his sacrifice. Therefore, we must understand the bread as symbolizing his body figuratively, similar to the paschal lamb.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.6333137063148044,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.65,
+            "commentatorTierSimilarities": [
+                24.6,
+                30.41,
+                44.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The loaf of bread given for us, not broken for us, carries significance as it is often preserved and justified. The instruction to keep on partaking emphasizes the continuous nature of this act. The bread symbolizes Christ's body, voluntarily given as a substitutionary sacrifice. By contemplating this sacrifice, we are able to nourish ourselves on His flesh. The Lord's Supper is a commemoration, not a reiteration, of Christ's sacrifice. Hence, we must understand the symbolic nature of the bread as representing His body, similar to the paschal lamb.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 1.5093224818227973,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.53,
+            "commentatorTierSimilarities": [
+                23.06,
+                30.28,
+                46.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The significance of the bread given for us lies in the use of the word broken, which is often preserved and justified. The instruction to keep on partaking highlights the continuous nature of this act. The loaf symbolizes Christ's voluntary and substitutionary sacrifice, allowing us to be nourished by His flesh through contemplation of this sacrifice. The Lord's Supper is a commemoration, not a reiteration, emphasizing the symbolic nature of the bread representing His body, as was the case with the paschal lamb.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.462604074820732,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.97,
+            "commentatorTierSimilarities": [
+                25.05,
+                27.86,
+                47.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The significance of the bread lies in the use of the word broken, often preserved and justified. The instruction to keep on partaking emphasizes its continuous nature. The bread symbolizes Christ's voluntary and substitutionary sacrifice, allowing us to nourish ourselves through contemplation. The Lord's Supper is a commemoration, not a reiteration, symbolizing His body like the paschal lamb. Thus, the bread becomes a means of nourishment when we understand the sacrifice it represents and its role in our salvation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.467400075495696,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.13,
+            "commentatorTierSimilarities": [
+                25.8,
+                27.99,
+                46.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
