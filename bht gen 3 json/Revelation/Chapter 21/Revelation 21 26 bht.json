@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 21:50:46",
+    "verseRef": "Revelation 21:26",
+    "bestBHT": {
+        "bht": "In the future, the City of God will encompass not only the glorified church but also nations organized under kings. This city will gather the best and most excellent from Earth, including all that was truly glorious and valuable among converted nations. Analogous to the divisions of nations on Earth, the redeemed will have various orders within the united bride. As the nations bring their finest possessions and glory into the city, it will become an honorable and magnificent place, surpassing the greatness of Rome and encompassing all that is rich and precious throughout the world.",
+        "wordCount": 96,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 2.259991513382567,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.49,
+        "commentatorTierSimilarities": [
+            35.57,
+            29.0,
+            35.44
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Besides the glorified church, there shall still be dwelling on the renewed earth nations, organized under kings."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "All that was truly glorious and excellent in the earth and its converted nations shall be gathered into it.\" ",
+            "While all shall form one Bride, there shall be various orders among the redeemed.\" ",
+            "Analogous to the divisions of nations on earth constituting the one great human family, and to the various orders of angels."
+        ],
+        "Albert Barnes": [
+            "And they shall bring ... - See the notes on Revelation 21:24. That blessed world shall be made up of all that was truly valuable and pure on the earth."
+        ],
+        "Philip Schaff": [
+            "The nations shall stream into the city with their gifts, to lay their best upon its altars, and to enjoy in turn its rest and peace and security and light.",
+            "The New Jerusalem receives freely, and possesses for ever, the glory and honour of the lungs of the earth.",
+            "She receives without seeking it all that Babylon had become a harlot to obtain, and could not keep."
+        ],
+        "Archibald T. Robertson": [
+            "Rome gathered the merchandise of the world.",
+            "The City of God will have the best of all the nations.",
+            "An expansion of verse Revelation 21:24."
+        ],
+        "John Gill": [
+            "The glory of the nations are the people of God, who, though they are reckoned the filth of the world, are the excellent in the earth.",
+            "These will be brought into this city, and be presented to the King of it, in a glorious manner, and that by the kings of the earth.",
+            "Whatever is great and glorious in the nations of the world, will be counted as nothing in comparison of the glory and magnificence of this state."
+        ],
+        "John Wesley": [
+            "They shall bring the glory of the nations into it.\" ",
+            "A select part of each nation... all which can contribute to make this city honorable and glorious shall be found in it.",
+            "All that was rich and precious throughout the world was brought into one city."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the future, alongside the glorified church, there will still be nations on the renewed earth, each with their own order and kings. These nations will bring their finest possessions into the City of God, which will have the best of all the nations. It will be an expansion of the previous verse, where the glory and honor of the nations are included, representing all that is valuable and pure on earth. This City receives freely what Babylon sought to possess as a harlot but could not keep. As each nation presents their glory to the King, it will contribute to making the city honorable and magnificent with all the wealth and beauty that was brought into it.",
+            "wordCount": 118,
+            "quoteTokenProportion": 45.95,
+            "qualityScore": 2.322696142737839,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.57,
+            "commentatorTierSimilarities": [
+                31.05,
+                32.17,
+                36.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future, there will be nations on the renewed earth alongside the glorified church. Each nation will have its own order and kings. These nations will bring their finest possessions into the City of God, which will have the best of all the nations. This City receives freely what Babylon sought but could not keep. As the nations present their glory to the King, it will contribute to making the city honorable and magnificent with all the wealth and beauty brought into it.",
+            "wordCount": 84,
+            "quoteTokenProportion": 47.37,
+            "qualityScore": 2.1561847135094463,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                33.08,
+                28.17,
+                38.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future, there will still be nations on the renewed earth, organized under kings, alongside the glorified church. The City of God will boast the best of all the nations, gathering all that was truly glorious and excellent on Earth. These nations will bring their finest possessions into the city, contributing to its honor and magnificence. This gathering of glory and honor echoes the image of Rome gathering the merchandise of the world. It is an expansion of the previous verse, reaffirming the inclusion of all that is valuable and pure within the City.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 2.156999999377792,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.06,
+            "commentatorTierSimilarities": [
+                32.37,
+                32.03,
+                35.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future, the City of God will encompass not only the glorified church but also nations organized under kings. This city will gather the best and most excellent from Earth, including all that was truly glorious and valuable among converted nations. Analogous to the divisions of nations on Earth, the redeemed will have various orders within the united bride. As the nations bring their finest possessions and glory into the city, it will become an honorable and magnificent place, surpassing the greatness of Rome and encompassing all that is rich and precious throughout the world.",
+            "wordCount": 96,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 2.259991513382567,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.49,
+            "commentatorTierSimilarities": [
+                35.57,
+                29.0,
+                35.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future, the City of God will encompass nations organized under kings, along with the glorified church. These nations will bring their best possessions, contributing to the honor and magnificence of the city. Just as Rome gathered the merchandise of the world, the City of God will gather all that is truly glorious and excellent from Earth. The various orders among the redeemed will form one united bride, analogous to the divisions of nations on Earth. This expansion of the previous verse highlights the gathering of all that is valuable and pure within the City.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.1600106258854557,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+            "commentatorTierSimilarities": [
+                36.21,
+                29.33,
+                34.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

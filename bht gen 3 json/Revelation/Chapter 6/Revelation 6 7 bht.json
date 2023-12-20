@@ -1,0 +1,122 @@
+{
+    "timestamp": "12-19-2023 21:41:52",
+    "verseRef": "Revelation 6:7",
+    "bestBHT": {
+        "bht": "The fourth living creature, like a flying eagle, introduces this seal with high-soaring intelligence and judgment descending from on high, likened to a king of birds on his prey. It is poetic and appropriate for each of the living creatures to make a proclamation in turn. This living creature represents decline in the Gospel ministry, lacking the courage of the lion, the patience of the ox, and the prudence of the man. However, they still retain some degree of light, knowledge, sagacity, penetration, and contempt of the world symbolized by the eagle.",
+        "wordCount": 93,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.5079886748745872,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+        "commentatorTierSimilarities": [
+            32.41,
+            26.92,
+            40.67
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And when he opened the fourth I heard [the voice of] the fourth living-being saying, Come (see above on ver. 1)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The fourth living creature, who was 'like a flying eagle,' introduces this seal; implying high-soaring intelligence, and judgment descending from on high fatally on the ungodly, as the king of birds on his prey.",
+            "High-soaring intelligence, and judgment descending from on high fatally on the ungodly.",
+            "As the king of birds on his prey."
+        ],
+        "Albert Barnes": [
+            "As in the other cases, there does not appear to have been any particular reason why the fourth of the living creatures should have made this proclamation rather than either of the others.\" ",
+            "It was poetic and appropriate to represent each one in his turn as making proclamation.\" ",
+            "Come and see."
+        ],
+        "John Gill": [
+            "This living creature was that which was like an eagle, and was on the north side of the throne, answerable to the standard of Dan, which was on the north of the camp of Israel, and had the figure of an eagle upon it.\" ",
+            "And it may denote some decline in the Gospel ministry, that they had not the courage and strength of the lion, as the first Gospel preachers; nor the patience and laboriousness of the ox, the next set of ministers; nor the solidity and prudence of the man, the ministers that followed them.",
+            "They retained some degree of light and knowledge, sagacity and penetration, and contempt of the world, signified by the eagle."
+        ],
+        "John Wesley": [
+            "I heard the voice of the fourth living creature \u2014 Toward the north."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fourth living creature, like a flying eagle, introduces this seal with high-soaring intelligence and judgment descending from on high, likened to a king of birds on his prey. It is poetic and appropriate for each of the living creatures to make a proclamation in turn. This living creature represents decline in the Gospel ministry, lacking the courage of the lion, the patience of the ox, and the prudence of the man. However, they still retain some degree of light, knowledge, sagacity, penetration, and contempt of the world symbolized by the eagle.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5079886748745872,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.48,
+            "commentatorTierSimilarities": [
+                32.41,
+                26.92,
+                40.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The fourth living creature, like a flying eagle, introduces this seal with high-soaring intelligence and judgment descending from on high, fatally on the ungodly, as the king of birds on his prey. It is poetic and appropriate for each of the living creatures to make a proclamation. This living creature signifies a decline in the Gospel ministry, lacking the courage, patience, and prudence of its predecessors. However, it still retains some degree of light, knowledge, sagacity, penetration, and contempt of the world symbolized by the eagle.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.4745982940743403,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.37,
+            "commentatorTierSimilarities": [
+                34.65,
+                25.96,
+                39.39
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fourth living creature, 'like a flying eagle,' serves as the voice for the opening of this seal. It represents high-soaring intelligence and judgment descending from on high, akin to the king of birds on his prey. Just like the other living creatures, there seems to be no particular reason for the fourth to make this proclamation. Nonetheless, it is a poetic and fitting choice. This living creature signifies some decline in the Gospel ministry, lacking the courage, patience, and prudence of its predecessors, but still retaining some degree of light, knowledge, sagacity, penetration, and contempt of the world symbolized by the eagle.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.11,
+            "qualityScore": 1.5318855061916308,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.28,
+            "commentatorTierSimilarities": [
+                34.86,
+                27.03,
+                38.1
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fourth living creature, 'like a flying eagle,' introduces this seal with high-soaring intelligence and judgment descending from on high, fatally on the ungodly, as the king of birds on his prey. Each living creature making a proclamation in turn is poetic and appropriate. This living creature represents a decline in the Gospel ministry, lacking the courage, patience, and prudence of its predecessors. However, it still retains some degree of light, knowledge, sagacity, penetration, and contempt of the world symbolized by the eagle.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.4637112358812692,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.01,
+            "commentatorTierSimilarities": [
+                34.62,
+                25.41,
+                39.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fourth living creature, 'like a flying eagle,' signifies a seal that brings forth high-soaring intelligence and divine judgment descending upon the ungodly, comparable to a powerful bird swooping down on its prey. It is poetically fitting for each of the living creatures to take turns in making proclamations. This particular creature represents a decline in the Gospel ministry, lacking the boldness, endurance, and wisdom of its predecessors. Nevertheless, it still retains a measure of enlightenment, sagacity, and disdain for worldly pursuits, symbolized by the eagle.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.3603517810243355,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.57,
+            "commentatorTierSimilarities": [
+                34.45,
+                26.68,
+                38.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

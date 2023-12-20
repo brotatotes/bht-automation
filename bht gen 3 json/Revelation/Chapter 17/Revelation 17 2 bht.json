@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:48:12",
+    "verseRef": "Revelation 17:2",
+    "bestBHT": {
+        "bht": "The woman portrayed here represents the congregation of God in its purity throughout both the Old and New Testament, appearing again as the Bride of the Lamb, symbolizing the triumphant Church. This harlot figure, committing fornication with kings and peoples, is a recurring image in the prophets, signifying the departure of God's Church and its attachment to others. The judgment mentioned, along with the spiritual fornication, extends beyond Rome and encompasses the entire apostate Church, including Roman, Greek, and even Protestant, as they turn away from their devotion to Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0060167877359034,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+        "commentatorTierSimilarities": [
+            52.54,
+            25.35,
+            22.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The woman (Revelation 12:1) is the congregation of God in its purity under the Old and New Testament, and appears again as the Bride of the Lamb, the transfigured Church prepared for the marriage feast.\" ",
+            "The woman, the invisible Church, is latent in the apostate Church, and is the Church militant; the Bride is the Church triumphant.\" ",
+            "The judgment (Revelation 18:2) and the spiritual fornication (Revelation 18:3), though finding their culmination in Rome, are not restricted to it, but comprise the whole apostate Church, Roman, Greek, and even Protestant, so far as it has been seduced from its 'first love' (Revelation 2:4) to Christ, the heavenly Bridegroom, and given its affections to worldly pomps and idols."
+        ],
+        "Albert Barnes": [
+            "The meaning is, that papal Rome, unfaithful to God, and idolatrous and corrupt, had seduced the rulers of the earth, and led them into the same kind of unfaithfulness, idolatry, and corruption.",
+            "How true this is in history need not be stated. All the princes and kings of Europe in the dark ages, and for many centuries were, and not a few of them are now, entirely under the influence of papal Rome.",
+            "What could better describe the influence of Rome on the people of the world, in making them, under these delusions, incapable of sober judgment, and in completely fascinating and controlling all their powers?"
+        ],
+        "Marvin Vincent": [
+            "The figure of a harlot committing fornication with kings and peoples occurs frequently in the prophets, representing the defection of God's Church and its attachment to others.",
+            "The word is applied to heathen cities in three places only: to Tyre, Isaiah 23:15, Isaiah 23:16, Isaiah 23:17; to Nineveh, Nahum 3:4; and here.",
+            "The figure of a harlot committing fornication with kings and peoples occurs frequently in the prophets."
+        ],
+        "Philip Schaff": [
+            "\u2018Kings\u2019 are the representatives of all authority; and \u2018the earth\u2019 is the guilty world.",
+            "Not the kings only but all \u2018the inhabiters of the earth,\u2019 all who belong to the world in its evil sense, have been betrayed by the harlot.",
+            "The description is again unlimited."
+        ],
+        "Archibald T. Robertson": [
+            "In purchasing the favour of Rome by accepting her suzerainty and with it her vices and idolatries\" (Swete).",
+            "The kings of the inhabited earth\" (Revelation 16:14) either for human rulers in general or the vassal kings absorbed by the Roman Empire.",
+            "Cf. Isaiah 51:7 and \u03c0\u03b5\u03c0\u03bf\u03c4\u03b9\u03ba\u03b5\u03bd in Revelation 14:8."
+        ],
+        "John Gill": [
+            "These are the ten kings, who being of the same mind, and of one religion, the Popish religion, gave their power, strength, and kingdom to the beast.",
+            "Hence this whore appears to be no mean strumpet, but one of great note, and in much vogue, being sought after and made use of by the great men of the earth.",
+            "Such as riches, honours, pleasures, lying miracles, and great pretensions to devotion and religion; whereby they have been intoxicated as men with wine, and have been filled with a blind zeal for that church, and the false doctrines and worship of it, and with madness and fury against the true professors of religion."
+        ],
+        "John Wesley": [
+            "No wine can more thoroughly intoxicate those who drink it, than false zeal does the followers of the great whore.",
+            "With whom the kings of the earth \u2014 Both ancient and modern, for many ages.",
+            "And the inhabitants of the earth \u2014 The common people."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The woman in Revelation 17:2 represents the pure congregation of God in both the Old and New Testament, known as the Bride of the Lamb. The figure of a harlot committing fornication with kings and peoples is frequently used in the prophets to symbolize the defection of God's Church and its attachment to others. The judgment and spiritual fornication mentioned in Revelation 18:2 encompass not only Rome but the whole apostate Church, including Roman, Greek, and Protestant. Papal Rome, with its idolatrous and corrupt practices, seduced rulers and people alike, rendering them incapable of sober judgment. The harlot's influence extended beyond kings to all the inhabiters of the earth, signifying the betrayal of the guilty world.",
+            "wordCount": 116,
+            "quoteTokenProportion": 27.03,
+            "qualityScore": 2.0866491835392695,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.72,
+            "commentatorTierSimilarities": [
+                42.04,
+                33.41,
+                24.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The woman in question is the congregation of God in its purity under the Old and New Testaments. She reappears as the Bride of the Lamb, representing the transfigured Church prepared for the marriage feast. This figure of a harlot, committing fornication with kings and peoples, is seen throughout the prophets, symbolizing the defection of God's Church and its attachment to others. The judgment and spiritual fornication are not limited to Rome, but comprise the whole apostate Church, including Roman, Greek, and even Protestant.",
+            "wordCount": 85,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8926194675789982,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.27,
+            "commentatorTierSimilarities": [
+                54.11,
+                22.91,
+                22.98
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman in Revelation 17:2 portrays the congregation of God in its purity under the Old and New Testament, who reappears as the Bride of the Lamb \u2013 the transfigured Church prepared for the marriage feast. The harlot committing fornication with kings and peoples represents the defection of God's Church and its attachment to others, seen frequently in the prophets. This judgment and spiritual fornication, while finding culmination in Rome, encompass the entire apostate Church, Roman, Greek, and Protestant, seduced from their devotion to Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 2.1028859644348734,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.26,
+            "commentatorTierSimilarities": [
+                54.28,
+                23.55,
+                22.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman depicted in the verse represents the pure congregation of God, visible as the Bride of the Lamb - the transformed and prepared Church. The image of a harlot engaging in fornication with kings and peoples is a recurring symbol in the prophets, signifying the Church's departure from God and its association with other powers. The judgment and spiritual corruption mentioned are not limited to Rome, but encompass the entirety of the apostate Church\u2500including Roman, Greek, and Protestant\u2500losing their devotion to Christ in pursuit of worldly desires.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.9907177087896568,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.53,
+            "commentatorTierSimilarities": [
+                49.8,
+                30.22,
+                19.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The woman portrayed here represents the congregation of God in its purity throughout both the Old and New Testament, appearing again as the Bride of the Lamb, symbolizing the triumphant Church. This harlot figure, committing fornication with kings and peoples, is a recurring image in the prophets, signifying the departure of God's Church and its attachment to others. The judgment mentioned, along with the spiritual fornication, extends beyond Rome and encompasses the entire apostate Church, including Roman, Greek, and even Protestant, as they turn away from their devotion to Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0060167877359034,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.04,
+            "commentatorTierSimilarities": [
+                52.54,
+                25.35,
+                22.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

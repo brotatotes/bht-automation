@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:49:24",
+    "verseRef": "Revelation 18:23",
+    "bestBHT": {
+        "bht": "The darkness and silence in Babylon or Rome illustrate its complete desolation. The absence of light, including the light of a lamp and the voices of the bridegroom and the bride, represents the loss of comfort and joy. Babylon's sorceries and deception have deceived nations and even the great men of the earth. This downfall signifies the end of their pride, luxury, and other sinful ways.",
+        "wordCount": 67,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.6857929963785132,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+        "commentatorTierSimilarities": [
+            25.99,
+            35.02,
+            39.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The light of a lamp shall never shine in thee any more.\" ",
+            "The Voice of the bridegroom and the bride shall never be heard in thee any more.\" ",
+            "Because in thy sorcery all the nations were deceived."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "What a blessed contrast is Revelation 22:5, respecting the city of God: 'They need no candle (just as Babylon shall no more have the light of a candle, but for a widely different reason), for the Lord God giveth them light.'\" ",
+            "Contrast the heavenly city, with its Bridegroom, Bride, and blessed marriage supper (Revelation 19:7; Revelation 19:9; Revelation 21:2; Revelation 21:9; Isaiah 62:4; Isaiah 62:5).",
+            "sorceries\u2014Greek, 'sorcery.'"
+        ],
+        "Albert Barnes": [
+            "Another image of desolation, as if every light were put out, and there were total darkness.",
+            "The merry and cheerful voice of the marriage procession in the streets, or the cheerful, glad voice of the newly-married couple in their own dwelling.",
+            "It is a common representation of papal Rome that she has deceived or deluded the nations of the earth, and no representation ever made accords more with facts as they have occurred."
+        ],
+        "Marvin Vincent": [
+            "Bridegroom - bride.",
+            "Great men [\u03bc\u03b5\u03b3\u03b9\u03c3\u03c4\u03b1\u03bd\u03b5\u03c2] . Rev., princes.",
+            "By thy sorceries [\u03b5\u03bd \u03c4\u03b7 \u03c6\u03b1\u03c1\u03bc\u03b1\u03ba\u03b5\u03b9\u03b1 \u03c3\u03bf\u03c5] . See on ch. Revelation 9:21. Rev., more literally, with thy sorcery."
+        ],
+        "Archibald T. Robertson": [
+            "Even the occasional flash of the torches carried by bridal processions is seen no more\" (Swete). (40 words)",
+            "Thy merchants were the grandees\" once, but now these merchant princes are gone. (12 words)",
+            "True medical science has had a hard fight to shake off chicanery and charlatanry.\" (14 words)"
+        ],
+        "John Gill": [
+            "Either for common use, or at feasts, or at marriages, which being kept at night, required candies, lamps, or torches; this shows that Babylon, or Rome, shall be deprived of everything, even of the least thing that is comfortable in life.\" ",
+            "There will be no marrying, nor giving in marriage; no procreation of children, or propagation of posterity, in this place; which denotes the utter extirpation of the inhabitants of it.",
+            "Meaning her false doctrines, traditions, idolatry, superstition, and will worship, with which, as another Jezebel, she has bewitched, allured, and deceived the nations of the empire, and the kings thereof."
+        ],
+        "John Wesley": [
+            "For thy merchants were the great men of the earth.\" ",
+            "A circumstance which was in itself indifferent, and yet led them into pride, luxury, and numberless other sins."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 18:23, the imagery of darkness and silence demonstrates the desolation of Babylon or Rome. The absence of light symbolizes the loss of comfort and the extinction of any joyful celebrations, particularly the voices of the bridegroom and the bride. The contrast with the city of God, where the Lord God Himself provides light, highlights the eternal bliss and love found in the heavenly city. Babylon's sorceries and deception, encompassing false doctrines and idolatry, have led the nations astray, deceiving even the great men of the earth. This downfall signifies the utter eradication of Babylon's inhabitants and the end of their pride, luxury, and other sins. (78 words)",
+            "wordCount": 109,
+            "quoteTokenProportion": 20.29,
+            "qualityScore": 1.5019301839348431,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.28,
+            "commentatorTierSimilarities": [
+                25.55,
+                35.11,
+                39.34
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The darkness and silence in Babylon or Rome depicted in Revelation 18:23 signify the utter desolation of the city. The absence of light, including the light of a lamp and the voices of the bridegroom and the bride, symbolizes the loss of comfort and joy, contrasting with the city of God. Babylon's sorceries and deception have led the nations astray, deceiving even the great men of the earth. This downfall marks the end of their pride, luxury, and other sins.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.6339615045058147,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.67,
+            "commentatorTierSimilarities": [
+                24.76,
+                33.63,
+                41.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The darkness and silence in Babylon or Rome depicted in this passage signify the extreme desolation of the city. The absence of light, specifically the light of a lamp and the voices of the bridegroom and the bride, symbolizes the loss of comfort and joy, contrasting sharply with the city of God. Babylon's deceptive sorceries have led the nations astray, even deceiving the great men of the earth. This downfall marks the end of their pride, luxury, and other sinful ways.",
+            "wordCount": 82,
+            "quoteTokenProportion": 22.64,
+            "qualityScore": 1.6461624461464957,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.08,
+            "commentatorTierSimilarities": [
+                25.05,
+                33.27,
+                41.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The darkness and silence in Babylon or Rome illustrate its complete desolation. The absence of light, including the light of a lamp and the voices of the bridegroom and the bride, represents the loss of comfort and joy. This stands in stark contrast to the city of God, where the Lord Himself provides light. Babylon's sorceries and deception have led the nations astray, even deceiving the great men of the earth. This downfall marks the end of their pride, luxury, and other sinful ways.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.5968363021370764,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.44,
+            "commentatorTierSimilarities": [
+                25.82,
+                34.68,
+                39.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The darkness and silence in Babylon or Rome illustrate its complete desolation. The absence of light, including the light of a lamp and the voices of the bridegroom and the bride, represents the loss of comfort and joy. Babylon's sorceries and deception have deceived nations and even the great men of the earth. This downfall signifies the end of their pride, luxury, and other sinful ways.",
+            "wordCount": 67,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.6857929963785132,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.39,
+            "commentatorTierSimilarities": [
+                25.99,
+                35.02,
+                39.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

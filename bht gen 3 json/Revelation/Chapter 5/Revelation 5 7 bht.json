@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:43:04",
+    "verseRef": "Revelation 5:7",
+    "bestBHT": {
+        "bht": "The Lamb takes the book from the open hand of the one seated on the throne, signifying His investiture into His everlasting dominion. This moment symbolizes the culmination of all events leading up to the establishment of Christ's visible kingdom. The idea of the Lamb taking the book goes beyond a simple act of receiving; it reflects His ownership and entitlement as the victorious Redeemer and Head of the Church. As He takes the book, the song of praise and joy begins, echoing throughout all creation. This act aligns with the Psalms, where it was prophesied that He would draw near to God, approach His throne, and receive from Him. This momentous occasion also foreshadows the outpouring of the Holy Spirit and the fulfillment of all that is written within the book.",
+        "wordCount": 133,
+        "quoteTokenProportion": 32.53,
+        "qualityScore": 1.7545412696514964,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+        "commentatorTierSimilarities": [
+            23.92,
+            37.12,
+            38.96
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lamb takes the Book.\" (7)",
+            "And he (or, it) came and took (not, \u2018received,\u2019 as Ebrurd.\" (7)",
+            "The book hy on the open hand of Him that sat on the throne, for any to take who was found worthy.\" (7)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The book lay on the open hand of Him that sat on the throne for any to take who was found worthy.\" ALFORD",
+            "The Lamb takes it from the Father in token of formal investiture into His universal and everlasting dominion as Son of man.\" ALFORD",
+            "This introductory vision thus presents before us, in summary, the consummation to which all the events in the seals, trumpets, and vials converge, namely, the setting up of Christ's kingdom visibly.\" ALFORD"
+        ],
+        "Albert Barnes": [
+            "There is a difficulty here, arising from the incongruity of what is said of a lamb, which it is not easy to solve.",
+            "But all this beauty and fitness of representation is destroyed if we think of him as having human hands proceeding from his breast or sides, or as blending the form of a man and an animal together.",
+            "It may do something to confirm this view to recollect that when we use the term 'Lamb of God'... it never suggests to the mind the idea of a lamb."
+        ],
+        "Marvin Vincent": [
+            "Took [\u03b5\u03b9\u03bb\u03b7\u03c6\u03b5\u03bd] . Lit., hath taken. The perfect, alternating with the aorist, is graphic."
+        ],
+        "Philip Schaff": [
+            "The latter word therefore implies more than 'took.' St. John sees the Lamb not merely take the roll, but keep it.",
+            "It is His, His by right of the victory He has won; His as Immanuel, God with us; His not as the Divine Eternal Son only, but as our Redeemer, the Head of His Church.",
+            "He 'hath taken it,' He is worthy to open it, and it shall be opened. Therefore the song of praise and joy begins, gradually widening until it embraces all creation."
+        ],
+        "Archibald T. Robertson": [
+            "He taketh it.\" ",
+            "Perfect active indicative of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9, not used for the aorist, but vivid dramatic picture of the actual scene.",
+            "He has taken it."
+        ],
+        "John Gill": [
+            "He drew nigh to the throne of God, he engaged his heart to approach unto him...\" ",
+            "and came up even to his seat, which a mere creature, without a Mediator, cannot do...\" ",
+            "and took the book out of the right hand of him that sat upon the throne..."
+        ],
+        "John Wesley": [
+            "Here was 'Ask of me,' Psalm 2:8, fulfilled in the most glorious manner.",
+            "Ten days after, he received from the Father and sent the Holy Ghost.",
+            "He received it, in token of his being both able and willing to fulfil all that was written therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lamb takes the book from the open hand of the one seated on the throne, signifying His investiture into His everlasting dominion. This moment symbolizes the culmination of all events leading up to the establishment of Christ's visible kingdom. The idea of the Lamb taking the book goes beyond a simple act of receiving; it reflects His ownership and entitlement as the victorious Redeemer and Head of the Church. As He takes the book, the song of praise and joy begins, echoing throughout all creation. This act aligns with the Psalms, where it was prophesied that He would draw near to God, approach His throne, and receive from Him. This momentous occasion also foreshadows the outpouring of the Holy Spirit and the fulfillment of all that is written within the book.",
+            "wordCount": 133,
+            "quoteTokenProportion": 32.53,
+            "qualityScore": 1.7545412696514964,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.68,
+            "commentatorTierSimilarities": [
+                23.92,
+                37.12,
+                38.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lamb takes the book from the open hand of Him who sits on the throne, symbolizing His formal investiture into His everlasting dominion. This pivotal moment represents the final fulfillment of the events within the seals, trumpets, and vials, culminating in the visible establishment of Christ's kingdom. The Lamb's action goes beyond mere reception, emphasizing His ownership and entitlement as the victorious Redeemer and Head of His Church. As the Lamb takes the book, a joyous song of praise reverberates, encompassing all creation. This act aligns with the Psalms, symbolizing the Lamb drawing near to God, approaching His throne, and receiving divine authority. This momentous occasion foreshadows the outpouring of the Holy Spirit and the complete fulfillment of all that is written within the book.",
+            "wordCount": 128,
+            "quoteTokenProportion": 24.39,
+            "qualityScore": 1.734157274933902,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                25.42,
+                39.11,
+                35.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lamb takes the book from the open hand of Him who sits on the throne, signifying His formal investiture into His everlasting dominion. This moment represents the culmination of the seals, trumpets, and vials, leading to the visible establishment of Christ's kingdom. The Lamb's action goes beyond simple reception, emphasizing His ownership and entitlement as the victorious Redeemer and Head of His Church. As the Lamb takes the book, a joyful song of praise resounds, echoing throughout all creation. This pivotal act aligns with the Psalms, foreshadowing the Lamb's approach to God's throne and His receipt of divine authority.",
+            "wordCount": 104,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.7418395419019732,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.26,
+            "commentatorTierSimilarities": [
+                26.02,
+                39.97,
+                34.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lamb takes the book from the open hand of Him who sits on the throne, signifying His investiture into His everlasting dominion. This moment represents the culmination of the events within the seals, trumpets, and vials, marking the visible establishment of Christ's kingdom. The Lamb's action goes beyond simple reception, emphasizing His ownership and entitlement as the victorious Redeemer and Head of His Church. As the Lamb takes the book, a joyous song of praise resounds, echoing throughout creation. This act aligns with the Psalms, foreshadowing the Lamb's access to God's throne and His reception of divine authority.",
+            "wordCount": 103,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.7363867055898459,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                26.51,
+                39.56,
+                33.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lamb takes the book from the open hand of Him who sits on the throne, signifying His investiture into His everlasting dominion. This moment represents the culmination of the events within the seals, trumpets, and vials, marking the visible establishment of Christ's kingdom. The Lamb's action goes beyond simple reception, emphasizing His ownership and entitlement as the victorious Redeemer and Head of His Church. As the Lamb takes the book, a joyous song of praise resounds, echoing throughout creation. This act aligns with the Psalms, foreshadowing the Lamb's access to God's throne and His reception of divine authority.",
+            "wordCount": 103,
+            "quoteTokenProportion": 25.76,
+            "qualityScore": 1.7363867055898459,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.08,
+            "commentatorTierSimilarities": [
+                26.51,
+                39.56,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 21:39:32",
+    "verseRef": "Revelation 2:25",
+    "bestBHT": {
+        "bht": "Hold fast to the truth and purity that remains among you, not allowing false teachers to take it away. This exhortation is given until the uncertain time of Christ's coming, when the conflict with evil will end. It is important to continuously hold onto what you have and not let it go, as seen in the present imperative form of the Greek word hold fast. The coming of Christ can be understood as the Reformation or the ultimate judgment against evil, both of which require the Gospel to be held firmly.",
+        "wordCount": 92,
+        "quoteTokenProportion": 43.75,
+        "qualityScore": 1.5723598739860571,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+        "commentatorTierSimilarities": [
+            41.06,
+            19.88,
+            39.06
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Hold fast\u2014do not let go from your grasp, however false teachers may wish to wrest it from you.",
+            "Till I come\u2014when your conflict with evil will be at an end.",
+            "The Greek implies uncertainty as to when He shall come."
+        ],
+        "Albert Barnes": [
+            "All that there is of truth and purity remaining among you, retain faithfully.",
+            "Till I come - To receive you to myself.",
+            "John 14:3."
+        ],
+        "Philip Schaff": [
+            "But what ye have hold fast until I shall have come.",
+            "This refers rather to that in which all special judgments culminate, the Second and final Coming.",
+            "Again we see another trace of the climactic nature of these Epistles."
+        ],
+        "Archibald T. Robertson": [
+            "Hold fast (\u03ba\u03c1\u03b1\u03c4\u03b7\u03c3\u03b1\u03c4\u03b5). First aorist active imperative of \u03ba\u03c1\u03b1\u03c4\u03b5\u03c9, either ingressive (get a grip on) or constative (hold on as a single decisive effort).\" ",
+            "See present imperative \u03ba\u03c1\u03b1\u03c4\u03b5 in Revelation 3:11 (keep on holding).",
+            "Till I come (\u03b1\u03c7\u03c1 \u03bf\u03c5 \u03b1\u03bd \u03b7\u03be\u03c9). Indefinite temporal clause with \u03b1\u03c7\u03c1 \u03bf\u03c5 (until which time) with modal \u03b1\u03bd and either the future active indicative or the first aorist active subjunctive of \u03b7\u03ba\u03c9 (usual idiom with \u03b1\u03c7\u03c1 in Revelation as in Revelation 7:3; Revelation 15:8; Revelation 20:3; Revelation 20:5)."
+        ],
+        "John Gill": [
+            "But that which ye have [already],.... Which was something good, even the faithful word, the form of sound words, the mystery and doctrine of faith; this they had received from Christ and his apostles; they had it in their hearts, and a comfortable experience of the truth and power of it, and had made a profession of it, which they now held, and are here exhorted to hold fast.\" ",
+            "hold fast till I come; meaning the coming of Christ, either at the Reformation by Luther, Calvin, and others, which began at the close of this church state, when the hands and hearts of those professors would be more strengthened, which seems to be the first sense of the words.",
+            "or to judge Jezebel, destroy antichrist, which will be by the brightness of his coming; till which time the doctrine of the Gospel is to be held fast: and such an exhortation will be always necessary, since, till then, there will be always more or less an opposition to it, and attempts made to wrest it out of the hands of its professors, to cause them to hesitate about it, and to intimidate them in the profession of it, by loading them with reproaches, calumnies, and persecution."
+        ],
+        "John Wesley": [
+            "What ye \u2014 Both the angel and the church have."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hold fast to the truth and purity that remains among you, not allowing false teachers to take it away. This exhortation is given until the uncertain time of Christ's coming, when the conflict with evil will end. It is important to continuously hold onto what you have and not let it go, as seen in the present imperative form of the Greek word hold fast. This instruction applies to the faithful word, the form of sound words, and the doctrine of faith that was received and professed. The coming of Christ can be understood as the Reformation or the ultimate judgment against evil, both of which require the Gospel to be held firmly.",
+            "wordCount": 114,
+            "quoteTokenProportion": 39.19,
+            "qualityScore": 1.512501617400042,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                38.18,
+                20.64,
+                41.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hold fast to the truth and purity that remains among you, not allowing false teachers to take it away. This exhortation is given until the uncertain time of Christ's coming, when the conflict with evil will end. It is important to continuously hold onto what you have and not let it go, as seen in the present imperative form of the Greek word hold fast. The coming of Christ can be understood as the Reformation or the ultimate judgment against evil, both of which require the Gospel to be held firmly.",
+            "wordCount": 92,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.5723598739860571,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.62,
+            "commentatorTierSimilarities": [
+                41.06,
+                19.88,
+                39.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hold fast to the truth and purity, not letting false teachers take it away, until Christ's coming ends the conflict with evil. Continuously hold onto what you have, as seen in the present imperative form of hold fast. This exhortation applies to the faithful word, the form of sound words, and the doctrine of faith received and professed. The coming of Christ could refer to the Reformation or the ultimate judgment against evil, both requiring a firm grasp on the Gospel.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.528945853698861,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.18,
+            "commentatorTierSimilarities": [
+                36.12,
+                22.66,
+                41.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Hold fast to the truth and purity, not letting false teachers take it away until Christ's coming brings an end to the conflict. This exhortation to hold fast is an imperative to firmly grasp and retain what has been received. The coming of Christ could refer to the Reformation or the final judgment against evil. Regardless, the Gospel must be firmly held in the face of opposition and attempts to sway believers from their faith.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.455670779385749,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.74,
+            "commentatorTierSimilarities": [
+                35.16,
+                22.59,
+                42.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hold fast to what you have, resisting the attempts of false teachers to take it away from you. This imperative to hold fast implies a decisive effort to firmly grasp and retain the truth and purity that remains among you. This exhortation is given until the uncertain time of Christ's coming, when the conflict with evil will come to an end. Whether referring to the Reformation or the final judgment against evil, the instruction remains the same: hold firmly to the Gospel in the face of opposition and attempts to weaken your faith.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.5090395725205081,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.52,
+            "commentatorTierSimilarities": [
+                42.19,
+                21.27,
+                36.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

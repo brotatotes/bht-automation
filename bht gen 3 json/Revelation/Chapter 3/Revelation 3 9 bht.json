@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:41:10",
+    "verseRef": "Revelation 3:9",
+    "bestBHT": {
+        "bht": "Jesus promises the church in Philadelphia that those who once persecuted them will come and worship at their feet, expressing their willingness to take the lowest place in the Church and honor those they formerly opposed. This promise speaks to the profound love Jesus has for the church in Philadelphia, surpassing the promise given to Smyrna. The mention of the synagogue refers to certain individuals, possibly Jewish converts, who will bow down before the church as an act of submission. Ultimately, this promise reveals Christ's power to transform hearts and highlights the centrality of His love.",
+        "wordCount": 97,
+        "quoteTokenProportion": 36.92,
+        "qualityScore": 1.9485027362648966,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+        "commentatorTierSimilarities": [
+            32.18,
+            40.97,
+            26.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I will make them that they shall come, and shall worship before thy feet.",
+            "They shall call thee the city of the Lord, the Zion of the Holy One of Israel.",
+            "That they may know that I loved thee."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The promise to Philadelphia is larger than that to Smyrna.",
+            "Translate, '(some) of the synagogue.'",
+            "Their worshipping before her feet expresses the convert's willingness to take the very lowest place in the Church, doing servile honor to those whom once they persecuted, rather than dwell with the ungodly."
+        ],
+        "Albert Barnes": [
+            "I will arrange matters so that this shall occur...proves that he has power over the heart of man, and can secure such a result as he chooses.",
+            "Though they were of Jewish extraction, and boasted much of being Jews, yet they were really under the influence of Satan, and their assemblages deserved to be called his 'synagogue.'",
+            "It is in the power of the Lord Jesus so to turn the hearts of all the enemies of religion that they shall be brought to show respect to it."
+        ],
+        "Marvin Vincent": [
+            "I will make them to come [\u03c0\u03bf\u03b9\u03b7\u03c3\u03c9 \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 \u03b9\u03bd\u03b1 \u03b7\u03be\u03c9\u03c3\u03b9\u03bd] Lit., I will make them that they shall come.",
+            "Of the synagogue [\u03b5\u03ba \u03c4\u03b7\u03c2 \u03c3\u03c5\u03bd\u03b1\u03b3\u03c9\u03b3\u03b7\u03c2] . Certain ones of the synagogue. Most interpreters refer to the Jews. Others explain more generally, of the bowing down of the Church 's enemies at her feet.",
+            "Worship before thy feet. Compare Isaiah 60:14; Isaiah 49:23."
+        ],
+        "Philip Schaff": [
+            "Those referred to are described as in chap. Revelation 2:9... Commentators generally imagine that we have here a promise of the conversion of the Jews literally understood.",
+            "There is nothing in the words in the least degree resembling a promise of conversion... They speak only of constrained submission to a Church which has been hitherto disowned.",
+            "What we read of is simply the bowing down of the Church\u2019s enemies before her feet... Nor is the inward progress of the Church less perceptible."
+        ],
+        "Archibald T. Robertson": [
+            "These Jewish converts are a gift from Christ.",
+            "The Jews expected homage (not worship in the strict sense) from the Gentiles, but it will come to the Christians at last.",
+            "I loved thee."
+        ],
+        "John Gill": [
+            "the men that assemble in them are of their father the devil, and do his works, and will do them.",
+            "The worship here spoken of is not either a religious or civil worship of the church, for the church is not the object of worship; only before whom, and at whose feet, this worship shall be given to God in the most humble and hearty manner.",
+            "the convinced and converted Jews shall come to the church, and in the most lowly and contrite manner acknowledge their former blindness, furious zeal, and violent hatred of the Christians, and shall profess their faith in Christ."
+        ],
+        "John Wesley": [
+            "Behold, I \u2014 who have all power; and they must then comply.",
+            "I will make them come and bow down before thy feet \u2014 Pay thee the lowest homage.",
+            "And know \u2014 At length, that all depends on my love, and that thou hast a place therein."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 3:9, Jesus promises the church in Philadelphia that He will bring those who formerly persecuted them to worship at their feet. This act of worship expresses the convert's willingness to humble themselves and honor those they once mistreated. The promise to Philadelphia is greater than the one given to Smyrna, as it signifies the profound love Jesus has for them. The mention of the synagogue refers to certain individuals who will submit to the authority of the Church, possibly including Jewish converts. Through this promise, Jesus demonstrates His power over the hearts of individuals and his ability to bring about a change of heart. Ultimately, this act of worship affirms that Christ's love plays a central role in all things.",
+            "wordCount": 123,
+            "quoteTokenProportion": 39.24,
+            "qualityScore": 1.8644252935442918,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                31.71,
+                40.81,
+                27.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Promising to make those who once persecuted them come and worship at their feet, Jesus assures the church in Philadelphia of His profound love. This act of worship represents a convert's humility and willingness to honor those they previously mistreated. The mention of the synagogue refers to certain individuals, possibly Jewish converts, who will submit to the authority of the Church. Jesus's promise demonstrates His power to change hearts and affirms that His love is the driving force behind it all.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.9371978218085333,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                31.74,
+                39.51,
+                28.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Revelation 3:9, Jesus promises that those who once persecuted the church in Philadelphia will come and worship at their feet, acknowledging their former hostility and professing their faith in Christ. This act of worship signifies the convert's willingness to humbly honor those they previously mistreated. Jesus's promise showcases His power to transform hearts and ultimately highlights the depth of His love for the church.",
+            "wordCount": 66,
+            "quoteTokenProportion": 34.69,
+            "qualityScore": 1.9045548212728358,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.67,
+            "commentatorTierSimilarities": [
+                30.38,
+                38.99,
+                30.62
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus promises the church in Philadelphia that those who persecuted them will come and worship at their feet, demonstrating the convert's humility and respect towards those they previously persecuted. This act signifies the depth of Christ's love for the church, as He brings Jews and others to submit to the Church's authority. This promise reveals Jesus's power to change hearts and affirms that His love is the ultimate driving force behind this act of worship.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.9156696377819395,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                29.21,
+                40.21,
+                30.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus promises the church in Philadelphia that those who once persecuted them will come and worship at their feet, expressing their willingness to take the lowest place in the Church and honor those they formerly opposed. This promise speaks to the profound love Jesus has for the church in Philadelphia, surpassing the promise given to Smyrna. The mention of the synagogue refers to certain individuals, possibly Jewish converts, who will bow down before the church as an act of submission. Ultimately, this promise reveals Christ's power to transform hearts and highlights the centrality of His love.",
+            "wordCount": 97,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.9485027362648966,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.13,
+            "commentatorTierSimilarities": [
+                32.18,
+                40.97,
+                26.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

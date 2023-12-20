@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:42:37",
+    "verseRef": "Revelation 5:10",
+    "bestBHT": {
+        "bht": "The saints who cast their crowns before the throne do not call themselves kings in the sight of the great King. Their priestly access has such dignity that their reigning on earth cannot exceed it. Despite their current lowly state, the saints spiritually reign now, and their present reign should not be overlooked. The dominion on earth will be given to the saints, leading to a prevalence of true religion and a future where human affairs will be in their hands.",
+        "wordCount": 81,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.725084477178211,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+        "commentatorTierSimilarities": [
+            33.92,
+            37.02,
+            29.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They who cast their crowns before the throne, do not call themselves kings in the sight of the great King.\" ",
+            "Their priestly access has such dignity that their reigning on earth cannot exceed it.",
+            "The saints do spiritually reign now; but certainly not as they shall when the prince of this world shall be bound...So far from reigning on the earth now, they are 'made as the filth of the world and the offscouring of all things.'"
+        ],
+        "Albert Barnes": [
+            "The idea clearly is, in accordance with what is so frequently said in the Scriptures, that the dominion on the earth will be given to the saints; that is, that there will be such a prevalence of true religion, and the redeemed will be so much in the ascendency, that the affairs of the nations will be in their hands.",
+            "Righteous people will hold the offices; will fill places of trust and responsibility; will have a controlling voice in all that pertains to human affairs.",
+            "To such a prevalence of religion all things are tending; and to this, in all the disorder and sin which now exist, are we permitted to look forward."
+        ],
+        "Marvin Vincent": [
+            "Their reigning is not future, but present.",
+            "Read, basileian a kingdom.",
+            "Us [\u03b7\u03bc\u03b1\u03c2] . Read aujtouv them."
+        ],
+        "Archibald T. Robertson": [
+            "First aorist active indicative of \u03c0\u03bf\u03b9\u03b5\u03c9, a prophetic use anticipating the final result.",
+            "As the correct text in Revelation 1:6.",
+            "Present active indicative, futuristic use, though Aleph P have the future \u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03c5\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd (shall reign) as in Revelation 20:6."
+        ],
+        "John Gill": [
+            "And hast made us unto our God kings and priests\" ",
+            "we shall reign on the earth",
+            "they shall reign"
+        ],
+        "John Wesley": [
+            "And hast made them \u2014 The redeemed. So they speak of themselves also in the third person, out of deep self-abasement.",
+            "They shall reign over the earth \u2014 The new earth: herewith agree the golden crowns of the elders.",
+            "The reign of the saints in general follows, under the trumpet of the seventh angel; particularly after the first resurrection, as also in eternity."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The saints who cast their crowns before the throne do not claim themselves as kings in the sight of the great King. Their priestly access holds such dignity that their reigning on earth cannot surpass it. Although they spiritually reign now, it does not compare to the future when the prince of this world will be bound. Currently, they are treated as the lowest of the low. However, their reigning is not a future event, but rather a present reality. The dominion on earth will be given to the saints, where true religion will prevail, and the redeemed will have control over human affairs. This is the direction in which things are heading, despite the disorder and sin that currently exist.",
+            "wordCount": 121,
+            "quoteTokenProportion": 43.21,
+            "qualityScore": 1.455264370982234,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.73,
+            "commentatorTierSimilarities": [
+                35.02,
+                38.07,
+                26.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The saints who cast their crowns before the throne do not claim themselves as kings in the sight of the great King. Their priestly access has such dignity that their reigning on earth cannot exceed it. Their reigning is not future, but present. The dominion on earth will be given to the saints; there will be such a prevalence of true religion that the affairs of the nations will be in their hands. This is the direction in which things are heading, despite the disorder and sin that currently exist.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.5830080938553848,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                35.61,
+                40.14,
+                24.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The saints, who cast their crowns before the throne, do not call themselves kings in the sight of the great King. Their priestly access has such dignity that their reigning on earth cannot exceed it. Despite the current state where the saints are made as the filth of the world, their present reign is not to be overlooked. The dominion on earth will be given to the saints, leading to a prevalence of true religion and a future where the affairs of nations will be in their hands.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 1.7065003311168248,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.08,
+            "commentatorTierSimilarities": [
+                33.88,
+                36.94,
+                29.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The saints who cast their crowns before the throne do not claim themselves as kings in the sight of the great King. Their priestly access has such dignity that their reigning on earth cannot exceed it. Although they spiritually reign now, it does not compare to the future reign when the prince of this world will be bound. The dominion on earth will be given to the saints, where true religion will prevail, and the redeemed will have control over human affairs. This is the direction in which things are heading, despite the disorder and sin that currently exist.",
+            "wordCount": 99,
+            "quoteTokenProportion": 45.07,
+            "qualityScore": 1.65638820166218,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.42,
+            "commentatorTierSimilarities": [
+                30.92,
+                42.09,
+                27.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The saints who cast their crowns before the throne do not call themselves kings in the sight of the great King. Their priestly access has such dignity that their reigning on earth cannot exceed it. Despite their current lowly state, the saints spiritually reign now, and their present reign should not be overlooked. The dominion on earth will be given to the saints, leading to a prevalence of true religion and a future where human affairs will be in their hands.",
+            "wordCount": 81,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.725084477178211,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.7,
+            "commentatorTierSimilarities": [
+                33.92,
+                37.02,
+                29.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

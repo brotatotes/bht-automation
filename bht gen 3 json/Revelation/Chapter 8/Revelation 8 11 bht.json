@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 21:44:49",
+    "verseRef": "Revelation 8:11",
+    "bestBHT": {
+        "bht": "The fallen star, representing a chief minister, loses its heavenly light and becomes a torch of earthly fire and smoky darkness, bringing bitter afflictions and transforming the sweet teachings of Scripture into deadly poison. The bitterness of wormwood, a bitter herb, mirrors the heretical teachings that change the pure waters of truth into fatal poison. This bitterness is not only physical but also spiritual, causing sorrow, distress, and death. Wormwood serves as a metaphor for idolatry, calamity, false judgment, and sorrow in the Old Testament.",
+        "wordCount": 85,
+        "quoteTokenProportion": 26.98,
+        "qualityScore": 1.9668632263360228,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+        "commentatorTierSimilarities": [
+            39.53,
+            30.28,
+            30.2
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The symbolizers interpret the star fallen from heaven as a chief minister... falling from his high place in the Church, and instead of shining with heavenly light as a star, becoming a torch lit with earthly fire and smouldering with smoke.",
+            "Wormwood, though medicinal in some cases, if used as ordinary water would not only be disagreeable to the taste, but also fatal to life: so 'heretical wormwood changes the sweet Siloas of Scripture into deadly Marahs.'",
+            "ALFORD gives as an illustration in a physical point of view, the conversion of water into firewater or ardent spirits, which may yet go on to destroy even as many as a third of the ungodly in the latter days."
+        ],
+        "Albert Barnes": [
+            "The Greek word - \u03b1\u0313\u0301\u03c8\u03b9\u03bd\u03b8\u03bf\u03c2 apsinthos - denotes 'wormwood,' a well-known bitter herb. That word becomes the proper emblem of bitterness.",
+            "This effect would naturally follow if any considerable portion of the fountains and streams of a land were changed by an infusion of wormwood. It is not necessary to suppose that this is intended to be literally true; for as, by the use of a symbol, it is not to be supposed that literally a part of the waters would be turned into wormwood by the baleful influence of a falling meteor, so it is not necessary to suppose that there is intended to be represented a literal destruction of human life by the use of waters.",
+            "After describing the progress and the effects of this invasion (pp. 320-331) he proceeds more particularly to detail the events in the invasion of Gaul and Italy, pp. 331-347. After the terrible battle of Chalons, in which, according to one account, one hundred and sixty-two thousand, and, according to other accounts, three hundred thousand persons were slain, and in which Attila was defeated, he recovered his vigor, collected his forces, and made a descent on Italy. Under pretence of claiming Honoria, the daughter of the Empress of Rome, as his bride, 'the indignant lover took the field, passed the Alps, invaded Italy, and besieged Aquileia with an innumerable host of barbarians.'"
+        ],
+        "Marvin Vincent": [
+            "Wormwood [\u03b1\u03c8\u03b9\u03bd\u03b8\u03bf\u03c2] . Used metaphorically in the Old Testament of the idolatry of Israel (Deuteronomy 29:18); of calamity and sorrow (Jeremiah 9:15; Jeremiah 23:15; Lamentations 3:15, Lamentations 3:19); of false judgment (Amos 5:7)."
+        ],
+        "Archibald T. Robertson": [
+            "Absinthe. Usually feminine (\u03b7), but masculine here probably because \u03b1\u03c3\u03c4\u03b7\u03c1 is masculine.",
+            "This use of \u03b5\u03b9\u03c2 in the predicate with \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 is common in the LXX and the N.T.",
+            "First aorist passive indicative of \u03c0\u03b9\u03ba\u03c1\u03b1\u03b9\u03bd\u03c9. Old verb (from \u03c0\u03b9\u03ba\u03c1\u03bf\u03c2, bitter), as in Revelation 10:9."
+        ],
+        "John Gill": [
+            "And the name of the star is called Wormwood,... Because of the bitter afflictions, sorrows, and distresses which it was the instrument of.\" ",
+            "The third part of the waters became wormwood; that is, the inhabitants of the provinces and cities belonging to the Roman empire were afflicted with grievous and bitter afflictions and calamities.",
+            "Many men died of the waters, because they were bitter; through the barbarities and cruelties of these savage people, who afflicted the empire."
+        ],
+        "John Wesley": [
+            "The unparalleled bitterness both of Arius himself and of his followers show the exact propriety of his title.",
+            "A very considerable part of Afric was infected with the same bitter doctrine and Spirit.",
+            "By the cruelty of the Arians."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A fallen star represents a chief minister who has lost their heavenly light and now possesses earthly fire, bringing bitter afflictions and changes to the sweet teachings of Scripture. Wormwood, a bitter herb, symbolizes the heretical teachings that transform the pure waters of truth into deadly poison. This imagery can be likened to the conversion of water into destructive spirits that may harm the ungodly. In the Old Testament, wormwood is metaphorically used to describe idolatry, calamity, false judgment, and sorrow. The bitterness of wormwood was not only physical but also spiritual, as it caused sorrow, distress, and death. It is important to note that wormwood was used symbolically, representing the bitter afflictions and cruel acts brought upon the Roman Empire by the invading forces. The Arians, with their bitter doctrines and cruel ways, infected a significant part of Africa, reflecting the bitter effects of wormwood.",
+            "wordCount": 146,
+            "quoteTokenProportion": 29.29,
+            "qualityScore": 1.9889350622921285,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.47,
+            "commentatorTierSimilarities": [
+                34.78,
+                33.33,
+                31.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A fallen star, symbolizing a fallen chief minister, brings earthly fire and smokey darkness, turning the sweet teachings of Scripture into deadly poison. Wormwood, a bitter herb, represents heretical teachings that transform truth into sorrowful calamity. The conversion of water into ardent spirits illustrates the destructive nature of these teachings, causing bitter afflictions. In the Old Testament, wormwood is associated with idolatry, sorrow, and false judgment. The bitterness extends to the Roman Empire, where barbarian invasions bring about suffering and death. The Arians' bitter doctrines infect Africa, mirroring the effects of wormwood.",
+            "wordCount": 92,
+            "quoteTokenProportion": 18.84,
+            "qualityScore": 1.8949593188901952,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.35,
+            "commentatorTierSimilarities": [
+                35.45,
+                31.88,
+                32.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The fallen star signifies a chief minister who loses their heavenly light and becomes a torch lit with earthly fire, bringing forth bitter afflictions and changing the sweetness of Scripture into deadly poison. Wormwood, a bitter herb, symbolizes heretical teachings that distort the pure waters of truth, causing grief and sorrow. This transformation can be compared to the conversion of water into ardent spirits, which can eventually bring destruction to the ungodly. The metaphorical use of wormwood in the Old Testament highlights the presence of idolatry, calamity, and false judgment. The bitter effects of wormwood can be seen in the afflictions and cruelties inflicted upon the Roman Empire by invading forces. The Arians, with their bitter doctrines and savage ways, spread their influence throughout Africa, leading to further suffering.",
+            "wordCount": 129,
+            "quoteTokenProportion": 22.22,
+            "qualityScore": 1.8929198924137065,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.28,
+            "commentatorTierSimilarities": [
+                34.13,
+                32.54,
+                33.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The fallen star, representing a chief minister, loses its heavenly light and becomes a torch of earthly fire and smoky darkness, bringing bitter afflictions and transforming the sweet teachings of Scripture into deadly poison. The bitterness of wormwood, a bitter herb, mirrors the heretical teachings that change the pure waters of truth into fatal poison. This bitterness is not only physical but also spiritual, causing sorrow, distress, and death. Wormwood serves as a metaphor for idolatry, calamity, false judgment, and sorrow in the Old Testament.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.9668632263360228,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.74,
+            "commentatorTierSimilarities": [
+                39.53,
+                30.28,
+                30.2
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The fallen star, a symbol of a chief minister who has lost their heavenly light, brings earthly fire and smoke, transforming the sweet teachings of Scripture into deadly poison. Wormwood, a bitter herb, represents heretical teachings that change the pure waters of truth into fatal poison. This bitterness affects both physical and spiritual realms, causing sorrow, distress, and death. In the Old Testament, wormwood is used metaphorically to depict idolatry, calamity, false judgment, and sorrow. These bitter afflictions extend to the Roman Empire with invading forces, and the Arians spread bitter doctrines and cruelty throughout Africa.",
+            "wordCount": 96,
+            "quoteTokenProportion": 24.32,
+            "qualityScore": 1.8936394694494485,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.3,
+            "commentatorTierSimilarities": [
+                36.34,
+                31.4,
+                32.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

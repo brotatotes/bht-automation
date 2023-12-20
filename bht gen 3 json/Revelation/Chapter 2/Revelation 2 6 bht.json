@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:39:32",
+    "verseRef": "Revelation 2:6",
+    "bestBHT": {
+        "bht": "There is one thing that the church in Pergamum is commended for, and that is their hatred towards the teachings and deeds of the Nicolaitans, which Christ himself also hates. These Nicolaitans were not only a sect, but professing Christians who sought to introduce false freedom and licentiousness into the Church. Despite the church in Pergamum tolerating them, they still held firm to their hatred for such wickedness. Even though they had departed from their first love, their shared abhorrence for sinful practices was recognized by Christ and commended.",
+        "wordCount": 89,
+        "quoteTokenProportion": 53.12,
+        "qualityScore": 1.9628817061218946,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+        "commentatorTierSimilarities": [
+            34.36,
+            25.39,
+            40.25
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This thou hast (this one thing: there is no need to supply 'good' or the like: of what sort this one thing is, is explained by what follows.",
+            "He in the midst of painful matters inserts encouraging ones, lest the church should be swallowed up by overmuch sorrow.",
+            "The prevailing opinion among the fathers was, that they were a sect founded by Nicolaus the proselyte of Antioch, one of the seven deacons."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "We should hate men's evil deeds, not hate the men themselves.",
+            "They are not a sect, but professing Christians who, like Balaam of old, tried to introduce into the Church a false freedom, that is, licentiousness.",
+            "The Antinomian Gnostics were so opposed to John as a Judaizing apostle that they would assume as a name of chiefest honor one which John branded with dishonor."
+        ],
+        "Albert Barnes": [
+            "But this thou hast - This thou hast that I approve of, or that I can commend.",
+            "From the two passages, compared with each other, it would seem that they were alike corrupt in doctrine and in practice, for in the passage before us their deeds are mentioned, and in Revelation 2:15 their doctrine.",
+            "Everything, however, in regard to the origin of this sect, and the reason of the name given to it, and the opinions which they held, is involved in great obscurity, and there is no hope of throwing light on the subject."
+        ],
+        "Philip Schaff": [
+            "The Lord cannot leave them without a fresh word of commendation.",
+            "But this thou hast, that thou hatest the works of the Nicolaitans, which I also hate.",
+            "Notwithstanding the declension of the Ephesian Christians, there was still one point on which their Lord and they were similarly minded."
+        ],
+        "Archibald T. Robertson": [
+            "That thou hatest (\u03bf\u03c4 \u03bc\u03b9\u03c3\u03b5\u03b9\u03c2). Accusative object clause in apposition with \u03c4\u03bf\u03c5\u03c4\u03bf (this).",
+            "Christ himself hates the teachings and deeds of the Nicolaitans (\u03b1, not \u03bf\u03c5\u03c2, deeds, not people)",
+            "The church in Pergamum tolerated them."
+        ],
+        "John Gill": [
+            "Though these Christians had left their first love, yet they bore an hatred to the filthy and impure practices of some men.",
+            "All sin is hateful to Christ, being contrary to his nature, to his will, and to his Gospel; and whatever is hateful to him should be to his people.",
+            "Hatred of sin is taken notice of by Christ, with a commendation."
+        ],
+        "John Wesley": [
+            "Divine grace seeks whatever may help him that is fallen to recover his standing.",
+            "Their doctrines and lives were equally corrupt. They allowed the most abominable lewdness and adulteries, as well as sacrificing to idols.",
+            "All which they placed among things indifferent, and pleaded for as branches of Christian liberty."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There is one thing that the church in Pergamum is commended for, and that is their hatred towards the teachings and deeds of the Nicolaitans, which Christ himself also hates. These Nicolaitans were not only a sect, but professing Christians who sought to introduce false freedom and licentiousness into the Church. Despite the church in Pergamum tolerating them, they still held firm to their hatred for such wickedness. Even though they had departed from their first love, their shared abhorrence for sinful practices was recognized by Christ and commended.",
+            "wordCount": 89,
+            "quoteTokenProportion": 53.12,
+            "qualityScore": 1.9628817061218946,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                34.36,
+                25.39,
+                40.25
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The church in Pergamum is praised for their hatred of the teachings and deeds of the Nicolaitans, who sought to introduce licentiousness into the Church. Despite tolerating them, the Pergamum church remained steadfast in their disdain for such wickedness. Although they had strayed from their first love, their mutual abhorrence for sinful practices was acknowledged by Christ and commended.",
+            "wordCount": 59,
+            "quoteTokenProportion": 43.18,
+            "qualityScore": 1.7711330443904492,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.23,
+            "commentatorTierSimilarities": [
+                32.84,
+                23.67,
+                43.49
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church in Pergamum is commended for their hatred of the teachings and deeds of the Nicolaitans, which Christ himself also hates. These Nicolaitans were professing Christians who sought to introduce false freedom and licentiousness into the Church. Despite the church in Pergamum tolerating them, they still held firm to their hatred for such wickedness. Even though they had departed from their first love, their shared abhorrence for sinful practices was recognized by Christ and commended.",
+            "wordCount": 76,
+            "quoteTokenProportion": 48.15,
+            "qualityScore": 1.933871698795637,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.64,
+            "commentatorTierSimilarities": [
+                34.35,
+                24.77,
+                40.89
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The church in Pergamum is praised for their hatred of the teachings and deeds of the Nicolaitans, who sought to introduce licentiousness into the Church. Despite tolerating them, the Pergamum church remains steadfast in their disdain for such wickedness. Although they had strayed from their first love, their mutual abhorrence for sinful practices is acknowledged by Christ and commended.",
+            "wordCount": 59,
+            "quoteTokenProportion": 41.86,
+            "qualityScore": 1.785900854573375,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.72,
+            "commentatorTierSimilarities": [
+                33.07,
+                23.26,
+                43.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The church in Pergamum is commended for their hatred of the teachings and deeds of the Nicolaitans, which Christ himself also hates. Despite tolerating them, the Pergamum church still holds firm to their hatred for such wickedness. Even though they had departed from their first love, their shared abhorrence for sinful practices is recognized and commended by Christ.",
+            "wordCount": 58,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.8559103782066386,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                33.0,
+                23.45,
+                43.55
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

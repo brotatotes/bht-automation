@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:40:07",
+    "verseRef": "Revelation 2:19",
+    "bestBHT": {
+        "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. Love, faith, service, and endurance are all interconnected. Thyatira's last works exceeded her first, showing progress and advancement. The longer list of graces indicates commendable growth. Religion in the soul and community is meant to be progressive, a constant striving for knowledge and holiness. The commendation lies in the fact that there is progress in all these aspects, demonstrating the transformative power of faith.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.4110107994536145,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+        "commentatorTierSimilarities": [
+            33.66,
+            31.66,
+            34.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "I know thy works, even the love and the faith (these two forming one pair, as 'faith works by love'), and the service (ministration to the suffering members of the Church, and to all in spiritual or temporal need), and the endurance of (that is, shown by) thee.",
+            "As love is inward, so service is its outward manifestation. Similarly, faith and persevering endurance, or 'patient continuance in well-doing,' are connected.",
+            "And (I know) thy works which are last (to be) more in number than the first. Instead of retrograding from 'the first works' and 'first love,' as Ephesus, Thyatira's last works exceeded her first."
+        ],
+        "Albert Barnes": [
+            "I know thy works - See the notes on Revelation 2:2. He knew all they had done, good and bad.",
+            "And faith - Or, fidelity in the cause of the Redeemer. The word here would include not only trust in Christ for salvation, but what is the proper result of such trust - fidelity in his service.",
+            "Religion in the soul, and in a community, is designed to be progressive; and while we should seek to live in such a manner always that we may have the commendation of the Saviour, we should regard it as a thing to be greatly desired that we may be approved as making advances in knowledge and holiness."
+        ],
+        "Philip Schaff": [
+            "The fact commended is that there is progress in them all.",
+            "The path of the church has been as the morning light shining unto the perfect day.",
+            "She has not fallen back like Ephesus; she has advanced."
+        ],
+        "Archibald T. Robertson": [
+            "Four items are given, with separate feminine article for each, a longer list of graces than in Revelation 2:2 for Ephesus.",
+            "More praise is given in the case of Ephesus and Thyatira when blame follows than in the case of Smyrna and Philadelphia when no fault is found.",
+            "Love comes first in this list in true Johannine fashion."
+        ],
+        "John Gill": [
+            "Good works, as appears from the particular enumeration of them afterwards, and the commendation of proficiency in them, the last being more than the first.",
+            "But the divine grace of love to God and Christ, and the saints, without which a profession of religion is a vain thing; and, generally speaking, this grace is most in exercise in a time of trouble and persecution.",
+            "That their works or acts of love to God and Christ and one another, and of service to God and to the saints, and of faith and faithfulness in the cause of God, and of patience in suffering for the Gospel of Christ, were more in quantity, and greater in quality, toward the close of this period, which brought on the Reformation, than at the beginning of it."
+        ],
+        "John Wesley": [
+            "I know thy love.\" ",
+            "Mixed characters both; yet the latter, not the former, is reproved for his fall, and commanded to repent.\" ",
+            "Love is shown, exercised, and improved by serving God and our neighbour; so is faith by patience and good works."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. As love is inward, so service is its outward manifestation. Similarly, faith and persevering endurance are connected. And (I know) thy works which are last more in number than the first. Four items are given, with separate feminine article for each, a longer list of graces than in Revelation 2:2 for Ephesus. More praise is given in the case of Ephesus and Thyatira when blame follows than in the case of Smyrna and Philadelphia when no fault is found. Love comes first in this list in true Johannine fashion. Religion in the soul, and in a community, is designed to be progressive; and while we should seek to live in such a manner always that we may have the commendation of the Saviour, we should regard it as a thing to be greatly desired that we may be approved as making advances in knowledge and holiness. The fact commended is that there is progress in them all.",
+            "wordCount": 174,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.5304666430202825,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.23,
+            "commentatorTierSimilarities": [
+                45.33,
+                25.84,
+                28.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. As love is inward, so service is its outward manifestation, connected to faith and persevering endurance. And (I know) thy works which are last more in number than the first. Four items are given, with separate feminine article for each, a longer list of graces than in Revelation 2:2 for Ephesus. The fact commended is that there is progress in them all, as religion in the soul and community is designed to be progressive.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.6422517311876,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                43.02,
+                25.18,
+                31.8
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. Love, faith, service, and endurance are all interconnected. Thyatira's last works exceeded her first, showing progress and advancement. The longer list of graces indicates commendable growth. Religion in the soul and community is meant to be progressive, a constant striving for knowledge and holiness. The commendation lies in the fact that there is progress in all these aspects, demonstrating the transformative power of faith.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.4110107994536145,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.26,
+            "commentatorTierSimilarities": [
+                33.66,
+                31.66,
+                34.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. As love is inward, so service is its outward manifestation. Similarly, faith and persevering endurance are connected. And (I know) thy works which are last more in number than the first. Four items are given, with separate feminine article for each, a longer list of graces than in Revelation 2:2 for Ephesus. The fact commended is that there is progress in them all, showing growth and advancement in the Christian walk.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.5250583929793844,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                43.79,
+                24.32,
+                31.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I know thy works, even the love and the faith, and the service, and the endurance of thee. Love and service are the outward expressions of inward faith. Thyatira's last works exceeded her first, showcasing progress and growth. The longer list of graces signifies commendable advancement. Religion, both individually and communally, is designed to be progressive, a continuous journey towards knowledge and holiness. The commendation lies in the continuous improvement in all areas, revealing the transformative power of faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.3814567319323583,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.28,
+            "commentatorTierSimilarities": [
+                34.09,
+                30.36,
+                35.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

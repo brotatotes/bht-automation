@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:43:52",
+    "verseRef": "Revelation 6:8",
+    "bestBHT": {
+        "bht": "The breaking of the first seal reveals God's mysterious purposes, bringing forth judgments that span the Church's entire history. The pale horse symbolizes death and terror, with its sickly and deathly appearance. Death, personified and accompanied by Hades, acts as the agent of destruction. The color of the horse, described as 'livid', represents the paleness associated with death. This seal encompasses the judgments on Rome Pagan and extends beyond the visible world, demonstrating Christ's reign over the horsemen to fulfill His will. The rider of the pale horse represents the hypocrisy and superstition within the Church.",
+        "wordCount": 99,
+        "quoteTokenProportion": 26.15,
+        "qualityScore": 1.960158738432029,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+        "commentatorTierSimilarities": [
+            32.26,
+            37.64,
+            30.11
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Personification: the representation of processions of events by the impersonation of their leading features.",
+            "The breaking of this first seal is the great opening of the mystery of God. This in some sense includes and brings in the others.",
+            "The fulfilment of each of these judgments is, as it were, the removing a seal from the book of God\u2019s mysterious purposes: the bringing nearer of the time when that book shall be open for all the redeemed to read."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "pale\u2014'livid'\" - The horse is described as 'livid', highlighting its sickly and deathly appearance.",
+            "Death\u2014personified\" - Death is personified, emphasizing its active role in bringing about destruction.",
+            "The calamities indicated are not restricted to one time, but extend through the whole period of Church history\" - The indicated calamities are not limited to a single timeframe but span the entire history of the Church."
+        ],
+        "Albert Barnes": [
+            "The color of the horse was 'pale' - \u03c7\u03bb\u03c9\u03c1\u03bf\u0300\u03c2 chlo\u0304ros This word properly means 'pale-green, yellowish-green,' like the color of the first shoots of grass and herbage; then green, verdant, like young herbage...The color here would be an appropriate one to denote the reign of death - as one of the most striking effects of death is paleness.\" ",
+            "The simple idea in this portion of the symbol is, that death would reign or prevail under the opening of this seal - whether by sword, by famine, or by"
+        ],
+        "Marvin Vincent": [
+            "Used of a mist, of sea - water, of a pale or bilious complexion.",
+            "Gladstone says that in Homer it indicates rather the absence than the presence of definite color.",
+            "The preposition uJpo by is used here instead of ejn in or with, indicating more definitely the actual agent of destruction."
+        ],
+        "Archibald T. Robertson": [
+            "The pale horse is a symbol of death and of terror.",
+            "Death is the name of this fourth rider (so personified) and there is with Death 'his inseparable comrade, Hades.'",
+            "The four scourges of Ezekiel 14:21 are here reproduced with instrumental \u03b5\u03bd with the inanimate things and \u03c5\u03c0\u03bf for the beasts."
+        ],
+        "John Gill": [
+            "An emblem either of the state of the church, pale not with persecution, as some think, for through that it was red; but with the hypocrisy and superstition of many of its members.",
+            "This is the only rider that has a name given him; and from hence we may learn what to call the rest, as the rider of the white horse \"Truth\", or Christ, who is truth itself; the rider of the red horse \"War\"; and the rider of the black horse \"Famine\".",
+            "This seal all the judgments of God on Rome Pagan meet together; and it is observable that Maximinus, a Roman emperor, and one of the last of the Pagans, boasted, that for worshipping of the gods, and persecuting Of the Christians, neither pestilence, famine, nor war, were in his times, when on a sudden all these three came together at once."
+        ],
+        "John Wesley": [
+            "The four first seals concern living men. Death therefore is properly introduced.",
+            "The fourth seal reaches to the borders of things invisible, which are comprised in the three last seals.",
+            "The four horsemen, as with their first entrance in the reign of Trajan, so with all their entrances in succeeding ages, and with the whole course of the world and of visible nature, are in all ages subject to Christ, subsisting by his power, and serving his will, against the wicked, and in defence of the righteous."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The breaking of the first seal is the unveiling of God's mysterious purposes, which includes the other judgments. The pale horse, representing death and terror, signifies the sickly and deathly appearance of the calamities that will span the entire history of the Church. Death, personified and accompanied by Hades, is the active agent of destruction. The color of the horse, described as 'livid' or 'pale and sickly', is appropriate to symbolize the reign of death, as death is often associated with paleness. This seal encompasses the judgments of God on Rome Pagan and reaches beyond the visible world, demonstrating that Christ reigns over the horsemen and uses them to execute His will. The rider of the pale horse represents not persecution but the hypocrisy and superstition within the Church.",
+            "wordCount": 130,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.0435242108316114,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                30.18,
+                38.92,
+                30.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The breaking of the first seal reveals God's mysterious purposes, bringing forth judgments that span the Church's entire history. The pale horse symbolizes death and terror, with its sickly and deathly appearance. Death, personified and accompanied by Hades, acts as the agent of destruction. The color of the horse, described as 'livid', represents the paleness associated with death. This seal encompasses the judgments on Rome Pagan and extends beyond the visible world, demonstrating Christ's reign over the horsemen to fulfill His will. The rider of the pale horse represents the hypocrisy and superstition within the Church.",
+            "wordCount": 99,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.960158738432029,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.52,
+            "commentatorTierSimilarities": [
+                32.26,
+                37.64,
+                30.11
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The pale horse, symbolizing death and terror, is the fourth rider who brings about destruction. The breaking of the first seal opens up God's mysterious purposes and sets the stage for the other judgments to come. Death, personified, is the active agent of this seal, accompanied by Hades. The pale color of the horse represents its sickly and deathly appearance. This seal encompasses the judgments of God throughout the history of the Church. The rider of the pale horse represents the hypocrisy and superstition within the Church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 1.9273924060537613,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.43,
+            "commentatorTierSimilarities": [
+                32.86,
+                36.09,
+                31.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The breaking of the first seal reveals God's mysterious purposes and marks the beginning of a series of calamities that span the entire history of the Church. The pale horse, described as 'livid' and sickly in appearance, represents death and terror. Death, personified, takes an active role in the destruction, accompanied by Hades. This seal signifies the removal of a seal from God's book of mysterious purposes, bringing the Church closer to the time when all the redeemed will be able to understand. The rider of the pale horse embodies the hypocrisy and superstition within the Church.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.9230041208656263,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.28,
+            "commentatorTierSimilarities": [
+                34.02,
+                35.28,
+                30.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first seal opens the mystery of God's purposes, ushering in a series of calamities that span the Church's history. The pale horse, with its sickly and deathly appearance, represents death and terror. Death, personified, takes an active role in destruction, accompanied by Hades. The pale horse symbolizes the removal of a seal from God's book of mysterious purposes. The rider of the pale horse embodies the hypocrisy and superstition present in the Church.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.9577438428986247,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.44,
+            "commentatorTierSimilarities": [
+                33.88,
+                35.5,
+                30.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

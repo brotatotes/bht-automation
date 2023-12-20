@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:45:38",
+    "verseRef": "Revelation 11:9",
+    "bestBHT": {
+        "bht": "During this period, the 3 \u00bd days correspond to the 3 \u00bd years, symbolizing the perfect and complete number of seven. The spectators from all over the world derive both fiendish and childish delight from gazing at the exposed and unburied corpses of the witnesses. This act of contempt and disrespect for the dead is a reflection of the wickedness of the world, as they refuse to allow the bodies to be put in graves.",
+        "wordCount": 73,
+        "quoteTokenProportion": 38.0,
+        "qualityScore": 1.8435950217180817,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+        "commentatorTierSimilarities": [
+            28.15,
+            38.14,
+            33.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On this period we may remark, that these 3 \u00bd days are connected by analogy with the periods previously mentioned: with the 1260 days and 42 months = 3 years: and that in each case the half of the mystic number 7 enters.",
+            "Elliott\u2019s calculation of this period as 3 \u00bd years...labours under this fatal defect;\u2014that whereas his 3 years...are years of 365 days, his half-year...is '180, or half 360 days:' i.e. wanting 2 \u00bd days of the time required according to that reckoning.",
+            "I may observe, that in his Apocalypsis Alfordiana...he has repeated this inconsistency."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Three and a half days answer to the three and a half years, the half of seven, the full and perfect number.",
+            "In righteous retribution in kind, the flesh of the Antichristian hosts is not buried, but given to all the fowls in mid-heaven to eat.",
+            "The prophetic present."
+        ],
+        "Albert Barnes": [
+            "The essential idea is, that there would be an assemblage of different classes of people to whom their carcasses would be exposed, and that they would come and look upon them.",
+            "This might be either literally three days and a half, or, more in accordance with the usual style of this book, these would be prophetic days; that is, three years and a half.",
+            "There would be a course of conduct in regard to these witnesses such as would be shown to the dead if they were not suffered to be decently interred."
+        ],
+        "Marvin Vincent": [
+            "Shall see [\u03b2\u03bb\u03b5\u03c8\u03bf\u03c5\u03c3\u03b9\u03bd] . Read, blepousin do men look (Rev.), and see on John 1:29.",
+            "Shall not suffer [\u03bf\u03c5\u03ba \u03b1\u03c6\u03b7\u03c3\u03bf\u03c5\u03c3\u03b9\u03bd] . Read ajfiousin do not suffer.",
+            "To be put in graves [\u03c4\u03b5\u03b8\u03b7\u03bd\u03b1\u03b9 \u03b5\u03b9\u03c2 \u03bc\u03bd\u03b7\u03bc\u03b1\u03c4\u03b1] . Read mnhma a tomb, as Rev. Compare Genesis 23:4; Isaiah 14:19, Isaiah 14:20."
+        ],
+        "Philip Schaff": [
+            "The spectators mentioned in this verse come from the whole world in its fourfold designation of peoples and tribes and tongues and nations.",
+            "All look upon the 'dead body' of the witnesses without commiseration for the miserable state in which it lies.",
+            "That during this period the world suffers not their dead bodies to be laid in a tomb heightens the picture of contempt and injury."
+        ],
+        "Archibald T. Robertson": [
+            "The days of the gloating over the dead bodies are as many as the years of the prophesying by the witnesses, but there is no necessary correspondence (day for a year).\" (Revelation 11:9)",
+            "This delight of the spectators 'is represented as at once fiendish and childish'.\" (Revelation 11:9)",
+            "In a country where burial regularly took place on the day of death the time of exposure and indignity would be regarded long.\" (Revelation 11:9)"
+        ],
+        "John Gill": [
+            "they shall not suffer their dead bodies to be put in graves."
+        ],
+        "John Wesley": [
+            "Three days and a half \u2014 So exactly are the times set down in this prophecy.\" ",
+            "If we suppose this time began in the evening, and ended in the morning, and included (which is no way impossible) Friday, Saturday, and Sunday, the weekly festival of the Turkish people, the Jewish tribes, and the Christian tongues.\" ",
+            "Then all these together, with the heathen nations, would have full leisure to gaze upon and rejoice over them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During this period, which is connected to previous periods mentioned, there is a parallel between the 3 \u00bd days and the 3 \u00bd years, representing the perfect number of seven. The spectators who come from all over the world look upon the dead bodies of the witnesses with fiendish and childish delight, reveling in their exposed and unburied state. This exposure and indignity, lasting for the same number of days as the years of prophesying by the witnesses, depicts a picture of contempt and injury. The wickedness of the world is not moved to show any compassion, as they do not allow their dead bodies to be put in graves.",
+            "wordCount": 108,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.8612065047835262,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.23,
+            "commentatorTierSimilarities": [
+                27.35,
+                40.89,
+                31.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During this period, the 3 \u00bd days correspond to the 3 \u00bd years, symbolizing the perfect and complete number of seven. The spectators from all over the world derive both fiendish and childish delight from gazing at the exposed and unburied corpses of the witnesses. This act of contempt and disrespect for the dead is a reflection of the wickedness of the world, as they refuse to allow the bodies to be put in graves.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 1.8435950217180817,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.64,
+            "commentatorTierSimilarities": [
+                28.15,
+                38.14,
+                33.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During this period, the 3 \u00bd days align with the 3 \u00bd years, symbolizing the perfect number of seven. The spectacle of spectators delighting in the exposed and unburied bodies of the witnesses reveals both fiendish and childish behavior. This act of contempt and disrespect reflects the wickedness of the world, as they refuse to allow the bodies to be put in graves, prolonging the exposure and indignity.",
+            "wordCount": 66,
+            "quoteTokenProportion": 28.89,
+            "qualityScore": 1.711607920526564,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.25,
+            "commentatorTierSimilarities": [
+                30.81,
+                37.86,
+                31.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During this period, the 3 \u00bd days correspond to the 3 \u00bd years, representing the perfect and complete number of seven. The spectators from all over the world derive both fiendish and childish delight from gazing upon the exposed and unburied corpses of the witnesses. This act of contempt and disrespect for the dead is a reflection of the wickedness of the world, as they refuse to allow the bodies to be put in graves and prolong the exposure and indignity.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8146093688136151,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                29.36,
+                39.12,
+                31.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During this period, the 3 \u00bd days are connected to the 3 \u00bd years, representing the full and perfect number of seven. The spectators from all over the world delight in their fiendish and childish manner as they gaze at the exposed and unburied corpses of the witnesses. This act of contempt and disrespect towards the dead displays the wickedness of the world, as they refuse to allow the bodies to be placed in graves, prolonging the exposure and indignity suffered by the witnesses.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.814696682949359,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.68,
+            "commentatorTierSimilarities": [
+                29.34,
+                40.73,
+                29.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

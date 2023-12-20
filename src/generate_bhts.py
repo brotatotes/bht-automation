@@ -32,7 +32,7 @@ if __name__ == '__main__':
         "2 John",
         "3 John",
         "Jude",
-        # "Revelation",
+        "Revelation",
         ]]:
         for verse in book:
             verses.append(verse)

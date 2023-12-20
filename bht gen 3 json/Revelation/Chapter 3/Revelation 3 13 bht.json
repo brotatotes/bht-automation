@@ -1,0 +1,115 @@
+{
+    "timestamp": "12-19-2023 21:40:10",
+    "verseRef": "Revelation 3:13",
+    "bestBHT": {
+        "bht": "This call to attentive listening refers back to a previous instruction, reminding readers of the importance of comprehension. The repeated phrase he that hath an ear, let him hear serves as a concluding statement for a specific set of letters, signifying the completion of a series of guidance and encouragement. By emphasizing the act of listening, it emphasizes the necessity of paying close attention and recognizing the significance of the message being communicated.",
+        "wordCount": 73,
+        "quoteTokenProportion": 31.48,
+        "qualityScore": 0.6484780144113429,
+        "qualityScoreNormalizedComparedToV2BHTs": 12.91,
+        "commentatorTierSimilarities": [
+            -11.51,
+            42.03,
+            69.49
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "13.] See above, ch. ii. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "13. (See on :-)."
+        ],
+        "Philip Schaff": [
+            "Revelation 3:13. The usual call at the close of the second group of the seven Epistles.",
+            "\t"
+        ],
+        "John Gill": [
+            "He that hath an ear, let him hear,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse in question is a reference to a previous verse in the book of Revelation, specifically chapter 2, verse 7. It serves as a call to attention and understanding for those who are willing to listen and comprehend the message being conveyed. This verse is a conclusion to the second group of seven letters, signaling the end of a specific set of instructions and exhortations. The repetition of the phrase he that hath an ear, let him hear emphasizes the importance of paying attention and heeding the words being spoken.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 0.8692184672835093,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.25,
+            "commentatorTierSimilarities": [
+                11.55,
+                43.36,
+                45.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage echoes a previous verse, highlighting the significance of attentive listening and comprehension. The phrase he that hath an ear, let him hear serves as a call to attention, inviting individuals to engage with the message being shared. It functions as a conclusion to a set of letters, indicating the end of a specific collection of instructions and exhortations. This repetition emphasizes the importance of paying heed and recognizing the weight of the words being conveyed.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 0.6328440696360139,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.39,
+            "commentatorTierSimilarities": [
+                -9.47,
+                36.97,
+                72.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This call to attentive listening refers back to a previous instruction, reminding readers of the importance of comprehension. The repeated phrase he that hath an ear, let him hear serves as a concluding statement for a specific set of letters, signifying the completion of a series of guidance and encouragement. By emphasizing the act of listening, it emphasizes the necessity of paying close attention and recognizing the significance of the message being communicated.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 0.6484780144113429,
+            "qualityScoreNormalizedComparedToV2BHTs": 12.91,
+            "commentatorTierSimilarities": [
+                -11.51,
+                42.03,
+                69.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This reference directs attention back to a prior section, reinforcing the value of understanding and perceiving. The reiterated expression he that hath an ear, let him hear serves as a final call to action, concluding a distinct collection of letters. It signifies the culmination of specific directives and exhortations. By highlighting the act of listening, it underscores the criticality of diligently paying attention and appreciating the import of the conveyed message.",
+            "wordCount": 71,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 0.5934713813108636,
+            "qualityScoreNormalizedComparedToV2BHTs": 11.08,
+            "commentatorTierSimilarities": [
+                -11.6,
+                36.59,
+                75.02
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This verse in Revelation harkens back to a previous passage, drawing attention to the significance of attentiveness and comprehension. The recurring phrase he that hath an ear, let him hear serves as a concluding admonition for a specific group of letters, signifying the completion of a set of instructions and encouragements. By stressing the act of listening, it underscores the importance of actively listening and grasping the weight of the message being conveyed.",
+            "wordCount": 73,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 0.7693286838078421,
+            "qualityScoreNormalizedComparedToV2BHTs": 16.92,
+            "commentatorTierSimilarities": [
+                6.88,
+                40.43,
+                52.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

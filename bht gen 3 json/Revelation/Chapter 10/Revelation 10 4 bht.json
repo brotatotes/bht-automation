@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:45:11",
+    "verseRef": "Revelation 10:4",
+    "bestBHT": {
+        "bht": "The command is given to seal up the things which the seven thunders spoke, and do not write them. These thunders are described as part of the machinery of the Apocalypse, with God in His tender mercy withholding some terrors from being revealed. The importance of not recording these utterances is emphasized, suggesting their extreme and terrifying nature. There are unutterable and horrifying aspects lying in the background, waiting to be unveiled at the appointed time. It serves as a reminder of the hidden depths and mysteries within God's plan.",
+        "wordCount": 91,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.687927073911962,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+        "commentatorTierSimilarities": [
+            24.77,
+            40.8,
+            34.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Seal up the things which the seven thunders spoke, and do not write them.",
+            "The thunders... form part of the divinely-arranged machinery of the Apocalypse.",
+            "God in His tender mercy to His own does not reveal all His terrors."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Seal up\u2014the opposite command to Revelation 22:20.",
+            "Though heard by John, they were not to be imparted by him to others in this book of Revelation; so terrible are they that God in mercy withholds them.",
+            "Besides the terrors foretold, there are others unutterable and more horrifying lying in the background."
+        ],
+        "Albert Barnes": [
+            "The voice of the seven thunders referred to the papal anathemas, a rational and satisfactory solution of the reasons of this silence can be given.",
+            "There was nothing in the voices, or in what was uttered, that would manifestly mark it as distinct from what had been uttered as coming from God.",
+            "The command not to record what the seven thunders uttered was of the nature of a caution not to regard what was said in this manner; that is, not to be deceived by these utterances as if they were the voice of God."
+        ],
+        "Marvin Vincent": [
+            "To write. According to the injunction in ch. 1 11."
+        ],
+        "Philip Schaff": [
+            "The thunders must not only have been in themselves intelligible, but they must have been understood by the Seer.",
+            "A voice out of heaven, however, was heard saying, Seal the things which the seven thunders uttered, and write them not.",
+            "They must pass through trials, whatever they may be, before darkness is dispelled and light in its full brightness shines around them."
+        ],
+        "Archibald T. Robertson": [
+            "I was on the point of beginning to write.",
+            "Seal up at once.",
+            "Do not begin to write."
+        ],
+        "John Gill": [
+            "john taking particular notice of what they said, and believing it might be for the advantage, comfort, and support of the church of christ under its suffering circumstances, to be informed of what god had in reserve among the treasures of his wrath for their adversaries, was going to put it down in writing, that he might retain it, and the better communicate it\" ",
+            "hide them from men, for the present, and say nothing of them",
+            "it not being the will of god that the glorious state of the church should arise from these thunders, and be built on their laws and establishments"
+        ],
+        "John Wesley": [
+            "And I heard a voice from heaven \u2014 Doubtless from him who had at first commanded him to write, and who presently commands him to take the book; namely, Jesus Christ.",
+            "Seal up those things which the seven thunders have uttered, and write them not \u2014 These are the only things of all which he heard that he is commanded to keep secret: so something peculiarly secret was revealed to the beloved John, besides all the secrets that are written in this book.",
+            "At the same time we are prevented from inquiring what it was which these thunders uttered: suffice that we may know all the contents of the opened book, and of the oath of the angel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 10:4, the command is given to seal up the things which the seven thunders spoke, and do not write them. This highlights the mysterious and divine nature of the thunders, which are described as part of the intricate machinery of the Apocalypse. While God's tender mercy withholds some terrors from being revealed, it is clear that other unutterable and horrifying aspects lie in the background. The command to seal up and not write stands in contrast to the injunction in Revelation 22:20. It is suggested that these thunders were so terrible that John was forbidden to impart them to others in this book of Revelation. Through the caution against recording them, it becomes clear that these utterances should not be regarded as the voice of God. Instead, there is a sense that the thunders must be understood in the context of trials before darkness is dispelled and light shines around the suffering church.",
+            "wordCount": 154,
+            "quoteTokenProportion": 40.22,
+            "qualityScore": 1.8903595807174,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                24.97,
+                43.18,
+                31.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the book of Revelation, there is a command to seal up the things which the seven thunders spoke, and do not write them. These thunders are described as part of the divinely-arranged machinery of the Apocalypse, representing terrors that God, in His mercy, withholds from full disclosure. John was forbidden to communicate these terrible utterances to others. The caution to not record them emphasizes the need for the church to pass through trials and await the dispelling of darkness before the fullness of light shines upon them.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.54,
+            "qualityScore": 1.902177524452855,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.59,
+            "commentatorTierSimilarities": [
+                24.1,
+                42.64,
+                33.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the book of Revelation, the command is given to seal up the things which the seven thunders spoke, and do not write them. These thunders are described as part of the divinely-arranged machinery of the Apocalypse, reflecting terrors that God, in His tender mercy, withholds from complete revelation. John is forbidden to communicate these fearful utterances in the book. This caution highlights the existence of unutterable and more horrifying aspects that lie in the background, awaiting the time for their unveiling.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.7971883730183271,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.1,
+            "commentatorTierSimilarities": [
+                26.66,
+                37.94,
+                35.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the book of Revelation, the command is given to seal up the things which the seven thunders spoke, and do not write them. These thunders, forming part of the divinely-arranged machinery of the Apocalypse, contain terrrors that God, in His mercy, withholds from being fully revealed. John, though he heard them, is not allowed to impart these unspeakable and horrifying aspects to others in this book. It is a reminder of the mysteries and hidden depths that lie within the divine plan, waiting to be unfolded in due time.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.8513114534804707,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                24.77,
+                35.79,
+                39.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The command is given to seal up the things which the seven thunders spoke, and do not write them. These thunders are described as part of the machinery of the Apocalypse, with God in His tender mercy withholding some terrors from being revealed. The importance of not recording these utterances is emphasized, suggesting their extreme and terrifying nature. There are unutterable and horrifying aspects lying in the background, waiting to be unveiled at the appointed time. It serves as a reminder of the hidden depths and mysteries within God's plan.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.687927073911962,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.47,
+            "commentatorTierSimilarities": [
+                24.77,
+                40.8,
+                34.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

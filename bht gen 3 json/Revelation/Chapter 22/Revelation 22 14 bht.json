@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:51:10",
+    "verseRef": "Revelation 22:14",
+    "bestBHT": {
+        "bht": "Blessed are they that wash their robes...in the Blood of the Lamb... Those who wash their robes in the blood of the Lamb are granted the privilege to partake in the tree of life and enter into the city. This privilege of access is not earned through personal merit, but rather bestowed through God's grace. It is a reminder that salvation is not achieved by human works, but by the sacrifice of Christ. As believers, we are united as one in the Church and have authority over the tree of life.",
+        "wordCount": 93,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 2.01534125087024,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+        "commentatorTierSimilarities": [
+            35.23,
+            34.47,
+            30.31
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed are they that wash their robes...in the Blood of the Lamb.\" ",
+            "...that they may have the power (licence) over the tree (to eat of the tree) of life...",
+            "...and may enter by the gates into the city."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "(Blessed are they that) wash their robes,\" namely, in the blood of the Lamb.\"  ",
+            "This reading takes away the pretext for the notion of salvation by works.",
+            "The right, or privilege, is founded, not on our merits, but on God's grace."
+        ],
+        "Albert Barnes": [
+            "That they may have right - That they may be entitled to approach the tree of life; that this privilege may be granted to them. It is not a right in the sense that they have merited it, but in the sense that the privilege is conferred on them as one of the rewards of God.",
+            "So the word used here - \u03b5\u0313\u03be\u03bf\u03c5\u03c3\u03b9\u0301\u03b1 exousia - means in John 1:12, rendered 'power.' The reason why this right or privilege is conferred is not implied in the use of the word. In this case it is by grace, and all the right which they have to the tree of life is founded on the fact that God has been pleased graciously to confer it on them.",
+            "And may enter in through the gates into the city - The New Jerusalem, Revelation 21:2. They would have free access there; they would be permitted to abide there forever."
+        ],
+        "Marvin Vincent": [
+            "They that wash their robes.",
+            "In order that theirs shall be authority over the tree of life.",
+            "May have right to come to\" (so Rev.)"
+        ],
+        "Philip Schaff": [
+            "Those who are to enjoy that reward are evidently conceived of as one class, the Church of Christ as a whole, not two classes, Jewish and Gentile Christians. All have \u2018washed their robes,\u2019 and in that respect they are one.",
+            "In the two last clauses of the verse their blessedness is presented under two points of view first, they have \u2018a right to,\u2019 literally, they have authority over, \u2018the tree of life,\u2019 so that they may eat continually of its fruit.",
+            "The order may be first, the right; secondly, the entering; thirdly, the eating."
+        ],
+        "Archibald T. Robertson": [
+            "This is the last beatitude of the book and 'deals with the issues of the higher life' (Swete).\" ",
+            "They that wash their robes...that they may have the right.\" ",
+            "To come to the tree of life...May enter in by the gates."
+        ],
+        "John Gill": [
+            "Christ's commandments are his new commandment of love, and the ordinances of baptism, and the Lord's supper; which are to be observed in the same evangelical manner as the commandments of God, and to be kept exactly as they are delivered, without any alteration, addition, or diminution.",
+            "Such as regard [the commandments] in a right way and manner are blessed; they have much pleasure and delight in the observance of them; these commandments are not grievous, especially when they have the presence of Christ, the discoveries of his love, and are under the gracious influences of his Spirit.",
+            "To have interest in Christ, the tree of life, and a right, power, and liberty to eat thereof, is a free grace gift... and happy are those who enjoy such a privilege!"
+        ],
+        "John Wesley": [
+            "Happy are they that do his commandments \u2014 His, who saith, I come - He speaks of himself.",
+            "That they may have right \u2014 Through his gracious covenant.",
+            "To the tree of life \u2014 To all the blessings signified by it. When Adam broke his commandment, he was driven from the tree of life. They who keep his commandments\" shall eat thereof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are they that wash their robes...in the Blood of the Lamb... Those who wash their robes in the blood of the Lamb are granted the privilege to partake in the tree of life and enter into the city. This privilege of access is not earned through personal merit, but rather bestowed through God's grace. It is a reminder that salvation is not achieved by human works, but by the sacrifice of Christ. As believers, we are united as one in the Church, and we all have authority over the tree of life, allowing us to partake in the eternal blessings it represents. Ultimately, it is a testament to the blessings and joy that come from obediently following Christ's commandments and having the right to partake in the tree of life.",
+            "wordCount": 134,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.0475504199863157,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.42,
+            "commentatorTierSimilarities": [
+                30.55,
+                34.36,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are they that wash their robes...in the Blood of the Lamb... Those who wash their robes in the blood of the Lamb are granted the privilege to partake in the tree of life and enter into the city. This privilege of access is not earned through personal merit, but rather bestowed through God's grace. It is a reminder that salvation is not achieved by human works, but by the sacrifice of Christ. As believers, we are united as one in the Church and have authority over the tree of life.",
+            "wordCount": 93,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 2.01534125087024,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                35.23,
+                34.47,
+                30.31
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are they that wash their robes...in the Blood of the Lamb. This verse speaks of the blessedness of those who are cleansed by the blood of Jesus. It emphasizes that salvation is not based on our own merits or works, but on God's grace. The privilege of partaking in the tree of life and entering into the city is granted to those who have washed their robes. It is a reminder that our access to eternal blessings is a gift from God, received by faith in Christ.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9606539811671162,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.53,
+            "commentatorTierSimilarities": [
+                32.6,
+                33.33,
+                34.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are they that wash their robes...in the Blood of the Lamb. This passage highlights the blessedness of those who have been purified through the sacrificial blood of Jesus. Salvation is not attained through personal achievements but is a result of God's grace. The privilege to partake in the tree of life and enter the city is granted to those who have cleansed their robes. It reminds us that our access to eternal blessings is a gift from God, received through faith in Christ.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9237748930420735,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.31,
+            "commentatorTierSimilarities": [
+                33.6,
+                31.94,
+                34.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are they that wash their robes...in the Blood of the Lamb. This verse reveals the blessedness of those who are cleansed by the redemptive blood of Jesus. It emphasizes that salvation is not earned through human effort, but rather received as a gift of God's grace. Those who have washed their robes have the privilege and authority to partake in the tree of life and enter the city. It reminds us that our access to eternal blessings is based on Christ's sacrifice and our faith in Him.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9775612958354372,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                33.09,
+                32.08,
+                34.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

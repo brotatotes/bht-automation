@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:40:12",
+    "verseRef": "Revelation 2:10",
+    "bestBHT": {
+        "bht": "Fear not the things which thou art about to suffer, for the devil is about to cast [some] into prison, that ye may be tried, and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life. The life itself is the crown. Fear none, for the persecution is traced to the direct agency of Satan. The time of trial shall be short, the duration of your joy forever. Keep on becoming faithful, proving faithful unto death as the martyrs have done.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 2.057224866654615,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+        "commentatorTierSimilarities": [
+            35.63,
+            30.92,
+            33.45
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Fear not the things which thou art about to suffer... behold for certain... the devil is about to cast [some] of you into prison... that ye may be tried... and ye shall have tribulation ten days.",
+            "Be thou faithful unto death... I will give thee the crown of life.",
+            "The life itself being the crown."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Fear none, c. - the oldest manuscripts read, 'Fear not those things,' &c.\" ",
+            "The conflict of the latter was not with mere flesh and blood, but with the rulers of the darkness of this world.\" ",
+            "The time of trial shall be short, the duration of your joy shall be forever."
+        ],
+        "Albert Barnes": [
+            "We need not dread suffering if we can hear the voice of the Redeemer encouraging us, and if he assures us that in a little while we shall have the crown of life.",
+            "The design in the case is that of the Saviour, though Satan is allowed to do it. It was common in the early periods of the church to suffer religion to be subjected to trial amidst persecutions, in order to show that it was of heavenly origin, and to demonstrate its value in view of the world.",
+            "Affliction in this life, however severe, can be but brief; and in the hope that it will soon end, why should we not bear it without complaining or repining?"
+        ],
+        "Marvin Vincent": [
+            "Fear not [\u03c5\u03b7\u03b4\u03b5\u03bd \u03c6\u03bf\u03b2\u03bf\u03c5]. Lit., fear nothing.",
+            "The persecution of the Christians is thus traced to the direct agency of Satan, and not to the offended passions or prejudices of men.",
+            "Faithfulness is to be not only existent but becoming, developing with new strength and into new applications."
+        ],
+        "Philip Schaff": [
+            "The tribulation to be expected is then further specified. It shall proceed from the devil, a name of Satan chosen with a reference to the calumnies and slanders previously alluded to.",
+            "Be thou faithful unto death, that is, not merely during the whole of life, but even to the extremity, if necessary, of meeting death.",
+            "And I will give thee the crown of life, that is, the crown which consists in \u2018life', in life corresponding to the life of Him of whom we have been told in Revelation 2:8 that He \u2018rose to life.'"
+        ],
+        "Archibald T. Robertson": [
+            "Worse things are about to come than poverty and blasphemy, perhaps prison and death.",
+            "Tribulation of ten days\" (or \"within ten days\"). It is unwise to seek a literal meaning for ten days. Even ten days of suffering might seem an eternity while they lasted.",
+            "Keep on becoming faithful\" (present middle imperative of \u03b3\u03b9\u03bd\u03bf\u03bc\u03b1), \"keep on proving faithful unto death\" as the martyrs have done."
+        ],
+        "John Gill": [
+            "Fear none of those things which thou shalt suffer...nor should they indulge a slavish fear about them.",
+            "Suffering times are trying times, whether men are real Christians or not; whether they have the true grace of God or not.",
+            "Be thou faithful unto death...and I will give thee a crown of life."
+        ],
+        "John Wesley": [
+            "Fear none of those things which thou art about to suffer.",
+            "The devil \u2014 Who sets all persecutors to work; and these more particularly.",
+            "Be thou faithful \u2014 Our Lord does not say, 'till I come,' as in the other letters, but unto death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Fear not the things which thou art about to suffer, for the devil is about to cast [some] of you into prison, that ye may be tried, and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life. The life itself being the crown. Fear none, for the persecution of the Christians is traced to the direct agency of Satan, and not to the offended passions or prejudices of men. The time of trial shall be short, the duration of your joy shall be forever. Keep on becoming faithful, proving faithful unto death as the martyrs have done. In the hope that it will soon end, why should we not bear it without complaining or repining?",
+            "wordCount": 126,
+            "quoteTokenProportion": 45.57,
+            "qualityScore": 2.0080714297590436,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.11,
+            "commentatorTierSimilarities": [
+                33.69,
+                33.16,
+                33.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Fear not the things which thou art about to suffer, for the devil is about to cast [some] into prison, that ye may be tried, and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life. The life itself is the crown. Fear none, for the persecution is traced to the direct agency of Satan. The time of trial shall be short, the duration of your joy forever. Keep on becoming faithful, proving faithful unto death as the martyrs have done.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.057224866654615,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.74,
+            "commentatorTierSimilarities": [
+                35.63,
+                30.92,
+                33.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Do not fear the suffering that awaits you, for the devil will cast some into prison to be tested. You will face tribulation for a limited time, but remain faithful even unto death, and you will receive the crown of life. This crown is the very essence of life itself. The persecution you face is not merely the result of human hostility, but the direct workings of Satan. Endure the trials, for they will pass, and your joy will endure eternally.",
+            "wordCount": 81,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.979971772372339,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                32.76,
+                33.92,
+                33.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Fear not the coming suffering, for the devil will try to imprison and afflict you, but endure faithfully unto death, and you will receive the crown of life. This crown represents life itself, a reward for remaining steadfast in the face of persecution. Do not fear, for the persecution you face is not simply the result of human hostility, but the direct handiwork of Satan. Though the time of trial may be short, the joy that follows will be eternal.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.0382418530033193,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.11,
+            "commentatorTierSimilarities": [
+                32.74,
+                37.02,
+                30.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Do not fear the coming suffering, for the devil will try to imprison and afflict you. Endure faithfully unto death, and you will receive the crown of life. This crown represents life itself, a reward for remaining steadfast in the face of persecution. The persecution you face is the direct handiwork of Satan. Though the time of trial may be short, the joy that follows will be eternal.",
+            "wordCount": 68,
+            "quoteTokenProportion": 38.3,
+            "qualityScore": 1.9452423451981011,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                32.86,
+                35.15,
+                31.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

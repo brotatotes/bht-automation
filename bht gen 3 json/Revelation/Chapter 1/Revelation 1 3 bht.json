@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:40:00",
+    "verseRef": "Revelation 1:3",
+    "bestBHT": {
+        "bht": "Blessed is the one who reads and hears the words of this prophecy with a view to keeping the things written in it, for the time is near. It is a privilege attended with many blessings to become acquainted with what is communicated in this book, and to properly regard and treasure its truth is to experience the blessing that results from having the revealed truth of God. So, let us read, hear, and keep this revelation, for it offers moral counsel, religious instruction, and the promise of fulfillment in Christ.",
+        "wordCount": 91,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.3015296295624315,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.87,
+        "commentatorTierSimilarities": [
+            29.05,
+            36.38,
+            34.57
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed is he that readeth, and they that hear the words of the prophecy and observe the things written in it; for the time is near.\" ",
+            "Surely it is high time, that our timid rulers should gather courage to face their duties, and such an omission should be supplied.\" ",
+            "The nearness spoken of is to be understood as alluding to the shortly of verse 1, which see."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "A special blessing attends him who reads or hears the apocalyptic 'prophecy' with a view to keeping the things therein.",
+            "Even though he find not the key to its interpretation, he finds a stimulus to faith, hope, and patient waiting for Christ.",
+            "Note: the term 'prophecy' has relation to the human medium or prophet inspired, here John: 'Revelation' to the Divine Being who reveals His will, here Jesus Christ."
+        ],
+        "Albert Barnes": [
+            "Blessed is he that readeth... it is to be regarded as a privilege attended with many blessings, to be permitted to mark the disclosures to be made in this book.",
+            "The general sense is, that they were to be regarded as highly favored who became acquainted in any way with what is here communicated.",
+            "The blessing which results from having in possession the revealed truth of God is not merely in reading it, or in hearing it: it results from the fact that the truth is properly regarded, and exerts a suitable influence over our lives."
+        ],
+        "Marvin Vincent": [
+            "The stated reading of the Apostolical writings did not exist as a received form before the destruction of Jerusalem, A. D. 70.",
+            "Threin to keep, is a peculiarly Johannine word, and is characteristic of Revelation as of the other writings in its own peculiar sense of 'keeping' in the exercise of active and strenuous care, rather than of watching over to preserve.",
+            "The time [\u03bf \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2] . See on Matthew 12:1."
+        ],
+        "Philip Schaff": [
+            "The book must not only be heard, it must be \u2018kept;\u2019 that is, not simply must it be obeyed, it must be preserved or treasured in the heart, that there it may become the spirit and the rule of life.",
+            "The things written therein are not to be limited to those exhortations to repentance, faith, patience, etc., which accompany the visions; they include all the words of the prophecy.",
+            "The blessedness of thus \u2018keeping\u2019 the revelation is enforced by the thought that the time, the distinct and definite season, when all shall be accomplished, is at hand."
+        ],
+        "Archibald T. Robertson": [
+            "The content of the Apocalypse is not merely prediction; moral counsel and religious instruction are the primary burdens of its pages.",
+            "The church reader (\u03b1\u03bd\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03b7\u03c2, lector) gradually acquired an official position. John expects this book to be read in each of the seven churches mentioned and elsewhere.",
+            "Today the public reading of the Bible is an important part of worship that is often poorly done."
+        ],
+        "John Gill": [
+            "Blessed [is] he that readeth...this book the Revelation...carefully and diligently, with a desire of understanding it...\" ",
+            "Blessed are they that read, and they that hear...\" ",
+            "Happy are those persons that observe, and take notice of what is written herein, and meditate upon them, and well weigh them in their minds, and retain them in their memories."
+        ],
+        "John Wesley": [
+            "Happy is he that readeth, and they that hear, the words of this prophecy.\" ",
+            "It reaches from the old Jerusalem to the new, reducing all things into one sum, in the exactest order, and with a near resemblance to the ancient prophets.",
+            "It is a revelation with regard to Christ who gives it; a prophecy, with regard to John who delivers it to the churches."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is the one who reads and hears the words of the prophecy and keeps the things written in it. This privilege is attended with many blessings, as those who become acquainted with what is communicated here are highly favored. It is not enough to simply read or hear the book; it must be kept, preserved, and treasured in the heart. The things written in this prophecy include all the words of the revelation, and the blessedness of keeping it is enforced by the fact that the time for its fulfillment is at hand. So, we are encouraged to read and meditate upon the words of this book, for in it we find understanding, stimulus to faith, hope, and patient waiting for Christ.",
+            "wordCount": 123,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 2.161485829290956,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+            "commentatorTierSimilarities": [
+                27.79,
+                38.22,
+                33.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is the one who reads and hears the words of the prophecy and keeps the things written in it. This privilege is attended with many blessings, as those who become acquainted with what is communicated here are highly favored. It is not enough to simply read or hear the book; it must be kept, preserved, and treasured in the heart. The time for its fulfillment is at hand, so we must read and meditate upon its words, finding guidance, faith, hope, and patient waiting for Christ.",
+            "wordCount": 87,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.073369721809654,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.28,
+            "commentatorTierSimilarities": [
+                27.62,
+                38.79,
+                33.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed is the one who reads and hears the words of this prophecy with a view to keeping the things written in it, for the time is near. It is a privilege attended with many blessings to become acquainted with what is communicated in this book, and to properly regard and treasure its truth is to experience the blessing that results from having the revealed truth of God. So, let us read, hear, and keep this revelation, for it offers moral counsel, religious instruction, and the promise of fulfillment in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.3015296295624315,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.87,
+            "commentatorTierSimilarities": [
+                29.05,
+                36.38,
+                34.57
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed is the one who reads and hears the words of the prophecy and keeps the things written in it. This privilege is attended with many blessings, for it provides a stimulus to faith, hope, and patient waiting for Christ. The time is near, and in reading and meditating upon this book, we find not just prediction but also moral counsel and religious instruction. So, let us embrace the opportunity to read and hear the words of this prophecy, seeking understanding and allowing it to shape our lives.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 2.132374946019101,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                30.16,
+                32.98,
+                36.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed is the one who reads and hears the words of the prophecy and keeps the things written in it, for the time is near. This book, the Revelation, should be read with a desire to understand, meditating upon its words and weighing them in our minds. By properly regarding and treasuring the truth it reveals, we can experience the blessings that result from having the revealed truth of God. Let us read and heed the words of this prophecy, for it offers guidance and the promise of fulfillment in Christ.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1969700939146715,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                29.05,
+                34.14,
+                36.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

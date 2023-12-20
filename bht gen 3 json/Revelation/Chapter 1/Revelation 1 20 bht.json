@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:04",
+    "verseRef": "Revelation 1:20",
+    "bestBHT": {
+        "bht": "The stars in this symbolic vision represent actual persons associated with the churches, portraying faithful teachers who symbolize lordship and beings of light. These symbols convey the hidden truth and reveal the mystery of the inner meaning behind the vision. The term angel is transferred from heavenly to earthly ministers, highlighting that angels of the churches symbolize the churches themselves. The golden candlesticks are connected to the stars, signifying that the churches serve as lampstands that reflect the light of Christ to the world.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.35125327165087,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.52,
+        "commentatorTierSimilarities": [
+            40.89,
+            29.43,
+            29.68
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The stars, concentrated sparks of light, should represent some actually existing persons in or connected with the churches.",
+            "The interpretation of angels as bishops by the analogy of the legate of the congregation, in the synagogue, appears to be futile, inasmuch as that officer held quite an inferior place, in no way corresponding to a bishop, or any kind of president of the church.",
+            "Stars are the symbols of the angels of the churches, inasmuch as angels are beings of light."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Mystery signifies the hidden truth, veiled under this symbol, and now revealed; its correlative is revelation.\" ",
+            "Stars symbolize lordship of faithful teachers.\" ",
+            "The term angel, designating an office, is, in accordance with the enigmatic symbolism of this book, transferred from the heavenly to the earthly superior ministers of Jehovah."
+        ],
+        "Albert Barnes": [
+            "The meaning here...is, that they were symbols, and that their meaning as symbols, without a suitable explanation, would remain hidden or unknown.",
+            "The general and obvious truths which they would serve to convey would be that the ministers of the churches, and the churches themselves, were designed to be lights in the world, and should burn clearly and steadily.",
+            "To the most beloved of the apostles, now the only surviving one of the number...it was appropriate that such communications should be made. In a lonely island; far away from the homes of people; surrounded by the ocean, and amid barron rocks; on the day consecrated to the purposes of sacred repose and the holy duties of religion - the day observed in commemoration of the resurrection of his Lord, it was most fit that the Redeemer should appear."
+        ],
+        "Philip Schaff": [
+            "The Seer beholds the churches \u2018in\u2019 the hand of their Lord as His absolute property and in His safe keeping. The Lord Himself beholds them \u2018upon\u2019 His right hand, in a more upright and independent position: they are churches which He is about to send forth to struggle in His place.",
+            "Angels of a church are a method of expressing the church itself, the church being spoken of as if it were concentrated in its angel or messenger.",
+            "The one is the Church in action, the other the Church in her inner life; and hence, probably, the mention of the former before the latter, for throughout the Apocalypse it is with the working, struggling Church that we have to do."
+        ],
+        "Archibald T. Robertson": [
+            "The mystery of the seven stars... means the inner meaning (the secret symbol) of a symbolic vision.",
+            "The seven golden candlesticks... identifying the stars with the lampstands.",
+            "These seven churches are themselves lampstands reflecting the light of Christ to the world."
+        ],
+        "John Gill": [
+            "The ministers of the Gospel are not only compared to 'stars,' for which Revelation 1:19; but likewise to 'angels,' which signifies 'messengers', as ministers are sent forth by Christ with the message of the Gospel to publish to the sons of men.",
+            "There is some agreement between [ministers of the Gospel] and [angels] in holiness, knowledge, zeal, diligence, and watchfulness, in their work; as also they may be so called for the honour and esteem in which they are, both with Christ and his churches.",
+            "The whole book [of Revelation] is called a prophecy, and a revelation of things that were shortly to come to pass, and it would be very strange, and very unsuitable to its title, should the three first chapters contain nothing prophetic in them."
+        ],
+        "John Wesley": [
+            "The seven stars are angels of the seven churches - Mentioned in the eleventh verse. In each church, there was one pastor or ruling minister, to whom all the rest were subordinate.",
+            "This pastor, bishop, or overseer, had the peculiar care over that flock: on him the prosperity of that congregation in a great measure depended, and he was to answer for all those souls at the judgment seat of Christ.",
+            "A candlestick, though of gold, has no light of itself; neither has any church, or child of man. But they receive from Christ the light of truth, holiness, comfort, that it may shine to all around them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The stars in Revelation 1:20 are not literal stars, but rather symbols representing actual persons in or connected with the churches. These symbols convey the idea that faithful teachers in the churches are like stars, beings of light, symbolizing their lordship. Moreover, the term angel is transferred from heavenly to earthly ministers of God, and angels of the churches represent the churches themselves. The seven golden candlesticks in this verse are identified with the stars, signifying that the churches are lampstands reflecting Christ's light to the world. These symbols and their hidden meanings are part of the mystery revealed in the book of Revelation. The ministers of the Gospel, like stars and angels, are messengers sent forth by Christ to proclaim His message. Thus, the stars and angels symbolize both the ministers and the churches, emphasizing their role as lights in the world, shining with the truth, holiness, and comfort received from Christ.",
+            "wordCount": 153,
+            "quoteTokenProportion": 30.12,
+            "qualityScore": 2.3202086393282566,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.49,
+            "commentatorTierSimilarities": [
+                38.42,
+                27.76,
+                33.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The stars in this passage are symbols representing actual persons in the churches, emphasizing the lordship of faithful teachers who are like beings of light. The term angel is transferred from heavenly to earthly ministers of God, indicating that angels of the churches represent the churches themselves. The golden candlesticks are identified with the stars, symbolizing that the churches are lampstands reflecting Christ's light to the world. These symbols reveal the mystery of the inner meaning behind this vision, highlighting the role of ministers as messengers sent forth by Christ to shine with truth and holiness.",
+            "wordCount": 97,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 2.3813563786117546,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.52,
+            "commentatorTierSimilarities": [
+                38.99,
+                28.11,
+                32.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this symbolic imagery, the stars in Revelation 1:20 represent actual persons connected with the churches, conveying the idea of faithful teachers symbolizing lordship and beings of light. The term angel is transferred from heavenly to earthly ministers, emphasizing that angels of the churches represent the churches themselves. The golden candlesticks are identified with the stars, signifying that the churches are lampstands reflecting Christ's light to the world. These symbols reveal the hidden truth of the mystery and the important role of ministers as messengers of the Gospel.",
+            "wordCount": 88,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 2.338355690222515,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.09,
+            "commentatorTierSimilarities": [
+                38.39,
+                28.56,
+                33.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The stars in this passage symbolize actual persons in the churches, representing faithful teachers who are beings of light, signifying their lordship. Using the enigmatic symbolism of the book of Revelation, the term angel refers to earthly superior ministers of God. These angels of the churches are messengers sent forth to publish the message of the Gospel. The seven golden candlesticks are linked to the stars, indicating that the churches themselves are lampstands shining the light of Christ to the world.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 2.298597118621938,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                39.08,
+                26.85,
+                34.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The stars in this symbolic vision represent actual persons associated with the churches, portraying faithful teachers who symbolize lordship and beings of light. These symbols convey the hidden truth and reveal the mystery of the inner meaning behind the vision. The term angel is transferred from heavenly to earthly ministers, highlighting that angels of the churches symbolize the churches themselves. The golden candlesticks are connected to the stars, signifying that the churches serve as lampstands that reflect the light of Christ to the world.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.35125327165087,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.52,
+            "commentatorTierSimilarities": [
+                40.89,
+                29.43,
+                29.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

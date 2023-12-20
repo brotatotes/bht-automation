@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:44:56",
+    "verseRef": "Revelation 9:7",
+    "bestBHT": {
+        "bht": "The likeness of the demonic locusts to horses, particularly horses with armor, is remarkable. The outer shell of the locust resembles the plates of a warrior's horse, while the head may actually end in a crown-shaped fillet resembling gold. Additionally, their faces resemble human faces, adding to the terror they bring. These demonic locusts, with their human-like features, strike fear into the hearts of those who encounter them.",
+        "wordCount": 71,
+        "quoteTokenProportion": 30.77,
+        "qualityScore": 2.123082995672034,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+        "commentatorTierSimilarities": [
+            44.25,
+            33.71,
+            22.04
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The resemblance holds good when the horse is equipped for war; the plates of the horse\u2019s armour being represented by the hard lamin\u00e6 of the outer shell of the locust.",
+            "I should understand the words, of the head actually ending in a crown-shaped fillet which resembled gold in its material, just as the wings of some of the beetle tribe might be said to blaze with gold and gems.",
+            "Their faces were like human faces: and then comes the limitation, not in the face, but in another particular."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The plates of a horse armed for battle are an image on a larger scale of the outer shell of the locust.\" ",
+            "ALFORD understands it of the head of the locusts actually ending in a crown-shaped fillet which resembled gold in its material.",
+            "The 'as' seems to imply the locusts here do not mean men. At the same time they are not natural locusts, for these do not sting men. They must be supernatural."
+        ],
+        "Albert Barnes": [
+            "The resemblance between the locust and the horse, dissimilar as they are in most respects, has been often remarked.",
+            "The writer does not say either that these were literally crowns, or that they were actually made of gold. They were 'as it were' crowns, and they were like gold.",
+            "They had a human countenance. This would indicate that, after all, they were human beings that the symbol described, though they had come up from the bottomless pit."
+        ],
+        "Marvin Vincent": [
+            "The likeness of a locust to a horse, especially to a horse equipped with armor, is so striking that the insect is named in German Heupferd hay - horse, and in Italian calvaletta little horse.",
+            "Not actual crowns, but as crowns. Milligan remarks that any yellow brilliancy about the head of the insect is a sufficient foundation for the figure.",
+            "There is a distant resemblance to the human countenance in the face of the locust. Men [\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03c9\u03bd] is to be taken not as distinguishing sex, but in the generic sense : human faces."
+        ],
+        "Archibald T. Robertson": [
+            "The likenesses were like\" - The likenesses were like horses.",
+            "The likeness of a locust to a horse, especially to a horse equipped with armor, is so striking\" - The likeness of a locust to a horse, particularly a horse with armor, is remarkable.",
+            "Human-looking faces in these demonic locusts to give added terror\" - Human-looking faces in these demonic locusts add terror."
+        ],
+        "John Gill": [
+            "The horse is a warlike creature, swift, strong, and courageous.",
+            "This may design the several victories and conquests which the Saracens obtained in Arabia, Persia, Syria, Egypt, Africa, Spain, and many other places.",
+            "Their show of humanity, and their pretended great concern for the welfare of the souls of men, their flatteries, good words, and fair speeches, with which they deceive the simple and unwary."
+        ],
+        "John Wesley": [
+            "The appearances\u2026suit a people neither throughly civilized, nor entirely savage; and such were the Persians of that age.",
+            "The Persians excelled in horsemanship.",
+            "Their faces are as the faces of men \u2014 friendly and agreeable."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The likenesses of the demonic locusts to horses, especially those equipped for battle, are astonishing. The outer shell of the locust resembles the plates of a warrior's horse, while the head of the creature ends in a crown-shaped fillet that appears golden. Moreover, their faces resemble human faces, adding to the terror they bring. Although not actual crowns, the gold-like brilliance around their heads is enough to form the figure. The resemblance between locusts and horses is so remarkable that locusts are even referred to as hay horses in German. These demonic locusts, with their human-like faces, strike fear into the hearts of those who encounter them.",
+            "wordCount": 111,
+            "quoteTokenProportion": 37.33,
+            "qualityScore": 2.1103233975311184,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                42.21,
+                35.79,
+                22.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The likenesses of the demonic locusts to horses, especially horses equipped for battle, are remarkable. The plates of a horse armed for war resemble the hard lamin\u00e6 of the locust's outer shell. The head of the locust may end in a crown-shaped fillet, similar to gold in material. Additionally, their faces bear a resemblance to human faces, instilling additional terror. The demonic locusts, with their human-like countenances, strike fear into all who encounter them.",
+            "wordCount": 77,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.0000451581486485,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.84,
+            "commentatorTierSimilarities": [
+                46.17,
+                32.43,
+                21.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The likeness of the demonic locusts to horses, particularly horses with armor, is remarkable. The outer shell of the locust resembles the plates of a warrior's horse, while the head may actually end in a crown-shaped fillet resembling gold. Additionally, their faces resemble human faces, adding to the terror they bring. These demonic locusts, with their human-like features, strike fear into the hearts of those who encounter them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.123082995672034,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                44.25,
+                33.71,
+                22.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The demonic locusts bear a striking resemblance to horses equipped for battle, with the plates of a horse's armor mirroring the hard shell of the locust. The head of the locust may end in a crown-shaped fillet, akin to gold in its material. Furthermore, their faces have a human-like appearance, adding an element of terror. These unearthly locusts are not ordinary insects, for they do not sting men; they are supernatural beings with the ability to inflict fear and destruction.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.963069263030294,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                47.2,
+                33.52,
+                19.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The likeness of the demonic locusts to horses, particularly those equipped for war, is remarkable. The outer shell of the locust resembles the plates of a horse's armor. The head of the locust may end in a crown-shaped fillet, resembling gold in its material. Moreover, their faces bear a resemblance to human faces. These supernatural locusts strike fear into the hearts of those who encounter them, inflicting terror with their human-like countenances.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0336068850695685,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.96,
+            "commentatorTierSimilarities": [
+                44.76,
+                34.13,
+                21.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

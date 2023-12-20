@@ -1,0 +1,124 @@
+{
+    "timestamp": "12-19-2023 21:43:07",
+    "verseRef": "Revelation 6:14",
+    "bestBHT": {
+        "bht": "The cataclysmic disruption portrayed here presents a vivid image of the sky being rolled up and separated, indicating a complete removal. This powerful imagery suggests a pre-Adamic-like upheaval, preparing the earth for its current inhabitants and hinting at the creation of a new world. This event also symbolizes the eradication of Paganism and idolatrous worship in the Roman Empire, enabling the unhindered growth of Christian churches, even in the islands. The comparison of mountains and islands serves to highlight God's supreme power and magnificence.",
+        "wordCount": 87,
+        "quoteTokenProportion": 23.08,
+        "qualityScore": 1.1913112737339002,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.95,
+        "commentatorTierSimilarities": [
+            33.46,
+            0.0,
+            66.54
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "was separated from\" its place; \"was made to depart.",
+            "rolled together as a scroll which had been open is rolled up and laid aside.",
+            "This total disruption shall be the precursor of the new earth, just as the pre-Adamic convulsions prepared it for its present occupants."
+        ],
+        "Marvin Vincent": [
+            "Departed [\u03b1\u03c0\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03b8\u03b7] . The verb means to separate, sever. Rev., was removed. ",
+            "Scroll [\u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03bd] . See on Luke 4:17. Compare Isaiah 34:4. Mountain and island. Compare Matthew 24:35; Nahum 1:5."
+        ],
+        "Archibald T. Robertson": [
+            "The heaven was parted.",
+            "Vivid picture of the expanse of the sky rolled up and away as a papyrus roll.",
+            "These violent displacements in the earth's crust."
+        ],
+        "John Gill": [
+            "The Roman empire...was now, as to the Paganism of it, rolled up together, so that there were no more Heathen gods, nor Heathen priests; no more idolatry, and idolatrous worship of that kind were to be seen.\" ",
+            "By 'every mountain' may be meant the places of idolatrous worship, which were usually upon mountains...which were now shut up, or demolished, or used for Christian worship.",
+            "Paganism was not only rooted out of the provinces of the empire upon the continent, but out of the islands also; and the ecclesiastical history of these times informs us, that there were Christian churches in the isles, which enjoyed the Gospel free of persecution and distress."
+        ],
+        "John Wesley": [
+            "When the scripture compares some very great with a little thing, the majesty and omnipotence of God, before whom great things are little, is highly exalted.",
+            "What a mountain is to the land, that an island is to the sea."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The events described in this verse depict a total disruption and separation, as if the sky itself is being rolled up and removed. It is a vivid picture of violent displacements in the earth's crust. This cataclysmic event symbolizes the precursor of the new earth, just as the convulsions before the creation of present-day Earth prepared it for its inhabitants. In a broader context, these disruptions signify the downfall of Paganism and the removal of idolatrous worship from the Roman Empire, leaving behind a transformed society where Christian churches could thrive without persecution or distress. The comparison of mountains and islands emphasizes the power and majesty of God, elevating His omnipotence above all else.",
+            "wordCount": 116,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.28334958799736,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.01,
+            "commentatorTierSimilarities": [
+                41.86,
+                0.0,
+                58.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The cataclysmic events described in this passage portray a vivid image of the sky being rolled up and separated, symbolizing a total disruption and removal. These violent displacements in the earth's crust foreshadow the creation of a new earth, akin to the prehistoric convulsions that prepared the land for its occupants. Beyond its literal meaning, this depiction signifies the eradication of Paganism and idolatrous worship in the Roman Empire, paving the way for the growth and prosperity of Christian churches, untouched by persecution or distress on both the mainland and the islands. Ultimately, this emphasizes the supreme power and majesty of God, as even the mightiest mountains and islands pale in comparison.",
+            "wordCount": 113,
+            "quoteTokenProportion": 25.32,
+            "qualityScore": 1.2903803997323433,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.25,
+            "commentatorTierSimilarities": [
+                36.81,
+                0.0,
+                63.19
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The earth experiences a cataclysmic upheaval, as the sky is rolled up and separated, signifying a total disruption and removal. This serves as a prelude to the creation of a new earth, reminiscent of the pre-Adamic convulsions that prepared the land for its inhabitants. Beyond its literal interpretation, this imagery also represents the eradication of Paganism and idolatrous practices in the Roman Empire, providing an environment where Christian churches could flourish without persecution. Through this, the unmatched power and majesty of God is exalted, emphasizing His supreme authority over all things.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.176590091441334,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.47,
+            "commentatorTierSimilarities": [
+                38.17,
+                0.0,
+                61.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The cataclysmic disruption described in this verse illustrates the sky being rolled up and separated, foreshadowing a complete removal. This imagery mirrors the convulsions that prepared the land for its current inhabitants, acting as a precursor to the creation of a new earth. Beyond its literal meaning, this portrayal symbolizes the eradication of Paganism and idolatrous worship in the Roman Empire, allowing Christian churches to flourish without persecution. By comparing the grandeur of mountains and islands, this verse emphasizes the unmatched power and majesty of God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.2208404931332533,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.94,
+            "commentatorTierSimilarities": [
+                34.76,
+                0.0,
+                65.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The cataclysmic disruption portrayed here presents a vivid image of the sky being rolled up and separated, indicating a complete removal. This powerful imagery suggests a pre-Adamic-like upheaval, preparing the earth for its current inhabitants and hinting at the creation of a new world. This event also symbolizes the eradication of Paganism and idolatrous worship in the Roman Empire, enabling the unhindered growth of Christian churches, even in the islands. The comparison of mountains and islands serves to highlight God's supreme power and magnificence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 1.1913112737339002,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.95,
+            "commentatorTierSimilarities": [
+                33.46,
+                0.0,
+                66.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

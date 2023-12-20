@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:46:14",
+    "verseRef": "Revelation 11:13",
+    "bestBHT": {
+        "bht": "The precise number of those who fall emphasizes the significance of each individual, while the earthquake symbolizes upheaval in society and spirituality, prompting a movement towards Christianity out of fear and despair. Although only a tenth of the city is affected, it signifies the collapse of the persecuting power. The faithful witnesses within the Church remain steadfast amidst defection, representing the true believers. Through this event, the divine promises are fulfilled, and God's righteousness and deliverance are recognized.",
+        "wordCount": 79,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 1.8017245445954944,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+        "commentatorTierSimilarities": [
+            30.19,
+            40.48,
+            29.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The number is carefully and precisely stated, as if the name of each were recounted.",
+            "To say nothing of the inapplicability of the instances cited to justify such a view, our ch. xiv. 7 is decisive against it, where men are exhorted to 'fear God, and give Him glory.'",
+            "The giving glory to God is not equivalent in the Scriptures to thanking God, but is, as Bengel notices, 'a mark of conversion or at all events, of the recognition of God.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Six is the number of the world power's greatest triumph, but at the same time verges on seven, the divine number, when its utter destruction takes place.",
+            "The nine-tenths remain and become when purified the center of Christ's earthly kingdom.",
+            "His receiving up into heaven the two witnesses who had power during their time on earth to shut heaven from raining, constrained His and their enemies who witnessed it, to acknowledge the God of heaven, to be God of the earth."
+        ],
+        "Albert Barnes": [
+            "An earthquake is a symbol of commotion, agitation, change; of great political revolutions, etc.",
+            "The destruction, we may suppose, would extend to all that was represented by the persecuting power.",
+            "Fear and alarm came on them in consequence of these calamities. The 'remnant' here refers to those who still remained in the 'city' - that is, to those who belonged to the community or people designed to be represented here by the city."
+        ],
+        "Marvin Vincent": [
+            "Earthquake.",
+            "Gave glory to the God of heaven.",
+            "The phrase signifies not conversion, nor repentance, nor thanksgiving, but recognition, which is its usual sense in scripture."
+        ],
+        "Philip Schaff": [
+            "There was a great earthquake, the constant symbol of judgment.",
+            "The city is without doubt \u2018the great city\u2019 of Revelation 11:8; but only a tenth part falls because judgment does not yet descend in all its fullness.",
+            "The two witnesses are thus believers who, amidst all the defection of others, remain faithful to their Lord. They are the true Divine seed within the outward Church, the little flock that listens only to the voice of the Good Shepherd and is led astray neither by the world nor hireling shepherds."
+        ],
+        "Archibald T. Robertson": [
+            "Earthquakes are often given as a symbol of great upheavals in social and spiritual order.",
+            "Only the tenth of the city fell.",
+            "A general movement toward Christianity, induced by fear or despair--a prediction fulfilled more than once in ecclesiastical history."
+        ],
+        "John Gill": [
+            "By 'the city' is meant the city of Rome, the great city.",
+            "but I rather think the kingdom of France is meant, the last of the ten kingdoms, which rose up out of the ruins of the Roman empire, which will be conquered, and which will be the means of its reformation from Popery.",
+            "and gave glory to the God of heaven; will acknowledge the justice of God, and the righteousness of his judgments upon those that were slain, and his goodness to them who are spared; will confess their transgressions and sins they have been guilty of; and give the glory of their deliverance, not to their idols and images, but to the true God, whose religion they now embrace."
+        ],
+        "John Wesley": [
+            "We have here an unanswerable proof that this city is not Babylon or Rome, but Jerusalem.",
+            "Such a conversion we no where else read of. So there shall be a larger as well as holier church at Jerusalem than ever was yet.",
+            "This is the point so long aimed at, the desired 'fulfilling of the mystery of God,' when the divine promises are so richly fulfilled on those who have gone through so great afflictions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse tells of an earthquake that causes fear and recognition of God. The number of those who fell is explicitly stated, emphasizing the significance of each individual. This earthquake symbolizes the upheaval in social and spiritual order, leading to a general movement towards Christianity out of fear or despair. While only a tenth of the city falls, the destruction represents the downfall of the persecuting power. The two witnesses, who remain faithful amidst defection, represent the true believers within the Church. Through this event, the divine promises are fulfilled and the recognition of God's righteousness and deliverance are proclaimed.",
+            "wordCount": 101,
+            "quoteTokenProportion": 30.99,
+            "qualityScore": 1.810143368793332,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.53,
+            "commentatorTierSimilarities": [
+                34.36,
+                39.38,
+                26.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The precise number of individuals falling signifies the importance of each one. The earthquake serves as a symbol of upheaval in society and spirituality, leading to a movement towards Christianity in response to fear and despair. Though only a tenth of the city falls, it represents the downfall of the persecuting power. The faithful witnesses within the Church remain steadfast amidst defection, exemplifying the true believers. Through this event, the divine promises are fulfilled, and God's righteousness and deliverance are acknowledged.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7244902456038378,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                31.45,
+                40.97,
+                27.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The precise number of those who fall emphasizes the significance of each individual, while the earthquake symbolizes upheaval in society and spirituality, prompting a movement towards Christianity out of fear and despair. Although only a tenth of the city is affected, it signifies the collapse of the persecuting power. The faithful witnesses within the Church remain steadfast amidst defection, representing the true believers. Through this event, the divine promises are fulfilled, and God's righteousness and deliverance are recognized.",
+            "wordCount": 79,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.8017245445954944,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.25,
+            "commentatorTierSimilarities": [
+                30.19,
+                40.48,
+                29.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The number of individuals who fall is stated precisely, underscoring their significance. The earthquake symbolizes societal and spiritual upheaval, leading to a movement toward Christianity born out of fear and despair. Though only a tenth of the city is affected, it signifies the downfall of the persecuting power. The faithful witnesses within the Church remain steadfast amidst defection, representing the true believers. Through this event, the divine promises are fulfilled, and the recognition of God's righteousness and deliverance is proclaimed.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.42,
+            "qualityScore": 1.721178458639558,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.57,
+            "commentatorTierSimilarities": [
+                31.87,
+                41.2,
+                26.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The precise number of those who fall emphasizes the significance of each individual, while the earthquake symbolizes a societal and spiritual upheaval. This leads to a movement towards Christianity out of fear and despair. Though only a tenth of the city is affected, it represents the downfall of the persecuting power. The faithful witnesses within the Church remain steadfast amidst defection, representing the true believers. Through this event, God's righteousness and deliverance are recognized, fulfilling divine promises.",
+            "wordCount": 78,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7227188330332863,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.62,
+            "commentatorTierSimilarities": [
+                30.93,
+                40.37,
+                28.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

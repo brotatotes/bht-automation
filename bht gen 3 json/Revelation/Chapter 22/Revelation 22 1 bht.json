@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:51:01",
+    "verseRef": "Revelation 22:1",
+    "bestBHT": {
+        "bht": "In Revelation, a river of water of life, bright as crystal, is described as flowing from the throne of God and the Lamb. This river symbolizes the uninterrupted continuance of life derived by the saints, ever fresh and pure like a crystal. It serves as an emblem of peace, happiness, and abundance, reminiscent of the river in the Garden of Eden. The river represents the everlasting love of God, bringing refreshment and vitality to the heavenly city.",
+        "wordCount": 77,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.207238685489244,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.73,
+        "commentatorTierSimilarities": [
+            28.54,
+            41.31,
+            30.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And he shewed me a river of water of life, bright as crystal, coming forth out of the throne of God and of the Lamb.",
+            "which throne is one and the same: see ch. iii, 21, and note on ch. xx. 11.",
+            "The Old Test. passages in view are Gen. ii. 10; Ezek. xlvii, ff."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The millennial waters represent full Gospel grace; these waters of new Jerusalem represent Gospel glory perfected.\" ",
+            "Their continuous flow from God, the Fountain of life, symbolizes the uninterrupted continuance of life derived by the saints, ever fresh, from Him: life in fulness of joy, as well as perpetual vitality.",
+            "Like pure crystal, it is free from every taint."
+        ],
+        "Albert Barnes": [
+            "The phrase 'water of life,' means living or running water, like a spring or fountain, as contrasted with a stagnant pool.",
+            "The allusion here is doubtless to the first Eden, where a river watered the garden.",
+            "Here, the river is an emblem of peace, happiness, plenty; and the essential thought in its flowing from the throne is, that all the happiness of heaven proceeds from God."
+        ],
+        "Marvin Vincent": [
+            "Pure. Omit. ",
+            "Clear [\u03bb\u03b1\u03bc\u03c0\u03c1\u03bf\u03bd] . See on Luke 23:11. Rev., bright."
+        ],
+        "Philip Schaff": [
+            "No scenery is complete without water; and more especially to the Jew, accustomed to a burning climate and a thirsty land, water was the constant symbol of all that was refreshing and quickening to men.",
+            "The joy of the heavenly city could not, therefore, be perfect without it.",
+            "The waters are those of peace and spiritual life: Jerusalem\u2019s \u2018peace is like a river, and the glory of the Gentiles like a flowing stream\u2019."
+        ],
+        "Archibald T. Robertson": [
+            "There was a river in the Garden of Eden.",
+            "The metaphor of river reappears in Zechariah 14:8; Ezekiel 47:9, and the fountain of life in Joel 3:18; Jeremiah 2:13; Proverbs 10:11; Proverbs 13:14; Proverbs 14:27; Proverbs 16:22; Psalms 36:10.",
+            "Sparkling like rock crystal, shimmering like mountain water over the rocks."
+        ],
+        "John Gill": [
+            "By this river is meant the everlasting love of God, which may be compared to a river for its largeness and abundance, its height and depth, its length and breadth; and for the large displays of it in this state, when its waters will increase, and be a broad river to swim in, and be unpassable.",
+            "It may be called a river 'of water of life', because in the present state of things it quickens such who are dead in trespasses and sins; revives the saints when dead and lifeless, supports their spirits, and is a cordial that preserves from fainting.",
+            "And it may be said to be pure and clear as crystal, it being free from all hypocrisy and dissimulation, being real, hearty, and sincere, both in the Father and in Christ, of which the fullest proofs and demonstrations are given; and being clear of all motives and conditions in the creature, by which it might be influenced."
+        ],
+        "John Wesley": [
+            "The ever fresh and fruitful effluence of the Holy Ghost.\" ",
+            "The trees are mentioned which 'bear fruit every month,' that is, perpetually.",
+            "All that the Father hath...even the throne of his glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the book of Revelation, there is a description of a river of water of life, flowing from the throne of God and the Lamb. This river is like a crystal, pure and clear, symbolizing the uninterrupted continuance of life derived by the saints from God. The metaphor of the river can be traced back to the Garden of Eden and various Old Testament passages, depicting it as an emblem of peace, happiness, and plenty. The river represents the everlasting love of God, which quickens and revives the saints, supporting and preserving them. It is an ever fresh and fruitful effluence of the Holy Spirit, bringing life and vitality to the heavenly city.",
+            "wordCount": 113,
+            "quoteTokenProportion": 30.88,
+            "qualityScore": 2.0424548085368355,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                26.44,
+                39.89,
+                33.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the book of Revelation, a river of water of life, bright as crystal, is shown flowing from the throne of God and the Lamb. This river represents the uninterrupted continuance of life derived by the saints from Him, ever fresh and pure. It is an emblem of peace, happiness, and plenty, reminding us of the river in the Garden of Eden. The river symbolizes the everlasting love of God, which revives and supports the saints, bringing them joy and vitality in the heavenly city.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.132829041913321,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                27.43,
+                41.89,
+                30.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Revelation, a river of water of life, bright as crystal, is described as flowing from the throne of God and the Lamb. This river symbolizes the uninterrupted continuance of life derived by the saints, ever fresh and pure like a crystal. It serves as an emblem of peace, happiness, and abundance, reminiscent of the river in the Garden of Eden. The river represents the everlasting love of God, bringing refreshment and vitality to the heavenly city.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.207238685489244,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.73,
+            "commentatorTierSimilarities": [
+                28.54,
+                41.31,
+                30.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the book of Revelation, a river of water of life is shown, flowing from the throne of God and the Lamb. This river is bright as crystal, symbolizing the continuous flow of life derived by the saints from God. It is free from impurity and represents the Gospel glory perfected. The metaphor of the river recalls the one in the Garden of Eden and other Old Testament passages, portraying it as an emblem of peace, refreshment, and spiritual life. Its sparkling waters bring joy and everlasting vitality to the heavenly city.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 2.0688967364634143,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.13,
+            "commentatorTierSimilarities": [
+                29.03,
+                41.15,
+                29.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Revelation, a river of water of life, bright as crystal, flows from the throne of God and the Lamb. This river represents the uninterrupted continuance of life derived by the saints, ever fresh and pure. It symbolizes the Gospel glory perfected and serves as an emblem of peace, refreshment, and spiritual life. Similar to the river in the Garden of Eden and other passages, its sparkling waters bring joy and everlasting vitality to the heavenly city.",
+            "wordCount": 77,
+            "quoteTokenProportion": 28.3,
+            "qualityScore": 2.1785798707011383,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.78,
+            "commentatorTierSimilarities": [
+                29.61,
+                39.83,
+                30.56
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

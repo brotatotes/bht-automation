@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:53",
+    "verseRef": "Revelation 13:16",
+    "bestBHT": {
+        "bht": "The mark, imposed on individuals of all statuses and conditions, signifies a branding akin to the marking of slaves by masters or soldiers by monarchs. The mark, visible on the forehead or hand, indicates a complete surrender of physical and intellectual powers to the domination of the beast. It serves as an unmistakable symbol that designates those who belong to the beast and are subject to its authority. The mark becomes necessary for life and all social and business relationships, an indelible sign of allegiance.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.76,
+        "qualityScore": 2.1464467910357556,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+        "commentatorTierSimilarities": [
+            36.11,
+            31.2,
+            32.69
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And he maketh all men, the small and the great, and the rich and the poor, and the free and the bond, that they should give them a mark.",
+            "Such a mark as masters set on their slaves, or monarchs on their soldiers, a brand, stamped or burnt in.",
+            "In the forehead for profession: in the hand for operation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "that they should give them a mark\"; such a brand as masters stamp on their slaves, and monarchs on their subjects.",
+            "Soldiers voluntarily punctured their arms with marks of the general under whom they served. Votaries of idols branded themselves with the idol's cipher or symbol.",
+            "The mark in the right hand and forehead implies the prostration of bodily and intellectual powers to the beast's domination."
+        ],
+        "Albert Barnes": [
+            "And he caused all - He claims jurisdiction, in the matters here referred to, over all classes of persons, and compels them to do his will.",
+            "These various forms of expression, therefore, are designed merely to denote, in an emphatic manner, universality.",
+            "Applied to the papacy, the meaning is, that there would be some mark of distinction; some indelible sign; something which would designate, with entire certainty, those persons who belonged to it, and who were subject to it."
+        ],
+        "Marvin Vincent": [
+            "A mark [\u03c7\u03b1\u03c1\u03b1\u03b3\u03bc\u03b1]... commentators find illustrations in the brand set upon slaves by their masters, or upon soldiers by their monarchs, and in the branding of slaves attached to certain temples.",
+            "Paul, in Galatians 6:17, applies the word for these brands, stigmata, to the marks of Christ's service which he bears in his body.",
+            "In 3 Macc. 2 29, we read that Ptolemy Philopator required all the Jews of Alexandria to be registered among the common people; and that those who were thus registered were to be marked [\u03c7\u03b1\u03c1\u03b1\u03c3\u03b5\u03c3\u03b8\u03b1\u03b9] on their persons by the ivy-leaf symbol of Dionysus (Bacchus)."
+        ],
+        "Philip Schaff": [
+            "The mark is originated by \u2018the beast,\u2019 that is, by the first beast, but is imposed at the instigation of the second.\" ",
+            "The \u2018mark\u2019 itself is the travesty of that impressed by God as His seal upon His own.",
+            "The followers of the beast own the beast as their captain and serve it as its slaves."
+        ],
+        "Archibald T. Robertson": [
+            "A mark (\u03c7\u03b1\u03c1\u03b1\u03b3\u03bc\u03b1). Old word from \u03c7\u03b1\u03c1\u03b1\u03c3\u03c3\u03c9, to engrave...on the right hand or on the forehead or on both.",
+            "The servants of God receive on their foreheads the stamp of the divine seal.",
+            "At any rate, this 'mark of the beast' was necessary for life and all social and business relations."
+        ],
+        "John Gill": [
+            "Men of all ranks and degrees, states and conditions, within his jurisdiction.",
+            "The sense is, that some received the mark in one place, and some in another.",
+            "Those who were obliged to receive the mark in the right hand seem to be the clergy... And those who received the mark in their foreheads are the common people in general."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a mark that is imposed on all individuals, regardless of their status or position, compelling them to submit to the authority of the beast. This mark is akin to a brand or seal, visible either on the forehead or the hand. In ancient times, such marks were used by masters to identify their slaves or by monarchs to distinguish their soldiers. Soldiers willingly bore marks of their allegiance, while votaries of idols brandished symbols associated with their idols. The mark represents a surrender of physical and intellectual faculties to the dominion of the beast. Those who bear this mark are recognized as belonging to the beast, offering unquestioning service and engaging in all aspects of societal life.",
+            "wordCount": 121,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 2.0854988876564797,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                38.63,
+                32.2,
+                29.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The mark mentioned in the passage is a symbol that people of all levels of society are compelled to receive. It is comparable to the branding of slaves by masters or soldiers with the mark of their commanding officer. In that time, soldiers willingly marked themselves as a sign of loyalty, and idol worshippers also branded themselves with their idol's symbol. The mark on the forehead signifies profession, while the mark on the hand represents active participation. It suggests complete submission of both mind and body to the dominion of the beast.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.01270119922796,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.26,
+            "commentatorTierSimilarities": [
+                37.52,
+                31.91,
+                30.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mark, affixed on people of all ranks, serves as a distinctive brand that signifies allegiance to the beast. Masters marked their slaves, and soldiers voluntarily bore the marks of their commanding officers. The mark on the forehead represents a public declaration, while the mark on the hand reflects active engagement. By accepting this mark, individuals surrender their physical and intellectual faculties, submitting themselves completely to the dominion of the beast. Embracing this mark becomes essential for participation in all aspects of social and business life.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.0063619499406484,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                34.53,
+                31.14,
+                34.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mark, imposed on individuals of all statuses and conditions, signifies a branding akin to the marking of slaves by masters or soldiers by monarchs. The mark, visible on the forehead or hand, indicates a complete surrender of physical and intellectual powers to the domination of the beast. It serves as an unmistakable symbol that designates those who belong to the beast and are subject to its authority. The mark becomes necessary for life and all social and business relationships, an indelible sign of allegiance.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 2.1464467910357556,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                36.11,
+                31.2,
+                32.69
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mark, required for everyone, signifies a brand indicating servitude, just like slaves marked by masters or soldiers bearing the mark of their commanding officers. This brand on the forehead implies a public declaration, while on the hand signifies active participation. The mark represents the complete submission of body and mind to the domination of the beast. It becomes necessary for all aspects of life and interactions, a symbol of unequivocal devotion to the beast's authority.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.9625106795751948,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                35.96,
+                32.79,
+                31.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

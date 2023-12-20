@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:46:24",
+    "verseRef": "Revelation 11:18",
+    "bestBHT": {
+        "bht": "The Lord reigned, let the people be angry. The time has come for judgment and reward, for God to destroy those who destroy the earth. The nations are angered, but their anger is nothing compared to the wrath of God. This seventh trumpet marks the end of all things, where Christ will bring the judgment and reward that His saints have long prayed for. This is not the personal coming of Christ to raise the dead, but His spiritual coming to reign in His churches and judge their enemies. It is a time of joy as God destroys the destroyers.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 2.1234213213805044,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+        "commentatorTierSimilarities": [
+            33.25,
+            30.82,
+            35.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord reigned, let the people be angry.\" ",
+            "The time of the dead, to be judged, and [the time] to give their reward to Thy servants the prophets, and to the saints, and to them that fear Thy name, the small and the great.",
+            "To destroy the destroyers of the earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The nations were angered, and Thy anger is come.\" How petty man's impotent anger, standing here side by side with that of the omnipotent God!",
+            "This seventh trumpet is at the end of all things, when the judgment on Christ's foes and the reward of His saints, long prayed for by His saints, shall take place.",
+            "Jesus shall come to effect by His presence that which we have looked for long, but vainly, in His absence, and by other means."
+        ],
+        "Albert Barnes": [
+            "At this period of glorious triumph it was natural to look back to those dark times when the 'nations raged'...\".",
+            "In the final winding-up of human affairs, God will bestow the long-promised reward on those who have been his true friends.",
+            "One of the glories of the true religion is, that, in bestowing its favors, it disregards all the artificial distinctions of society, and addresses man as man, welcoming all who are human beings to the blessings of life and salvation."
+        ],
+        "Marvin Vincent": [
+            "The time [\u03bf \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2].\" ",
+            "Reward [\u03bc\u03b9\u03c3\u03b8\u03bf\u03bd].",
+            "Destroy [\u03b4\u03b9\u03b1\u03c6\u03b8\u03b5\u03b9\u03c1\u03b1\u03b9]."
+        ],
+        "Philip Schaff": [
+            "The nations were roused to wrath...They are roused to a sudden burst of wrath.\" ",
+            "Thy wrath came, the wrath of God, so much more terrible than that of the nations.\" ",
+            "The time of the dead to be judged...to give their reward unto thy servants the prophets, both the saints, and them that fear thy name, the small and the great."
+        ],
+        "Archibald T. Robertson": [
+            "The culmination of wrath against God... John sees the hostility of the world against Christ.\" ",
+            "The Dies Irae is conceived as already come.\" ",
+            "God will destroy the destroyers."
+        ],
+        "John Gill": [
+            "This refers not to the times of the dragon, or the Pagan Roman emperors, who were wroth with the woman, the church, and made war with her seed; but Rome Papal, and its Gentiles, are intended; these are the nations that antichrist reigns over.",
+            "But this trumpet respects not the personal coming of Christ to raise the dead, and judge the world, but his spiritual coming to reign in his churches, and judge their enemies.",
+            "And shouldest destroy them which destroy the earth; or 'corrupt it'; meaning antichrist and his followers; who destroy the bodies, souls, and estates of men, and not only the inhabitants of the earth, but even the earth itself."
+        ],
+        "John Wesley": [
+            "In this verse is described both the going forth and the end of God's wrath, which together take up several ages.",
+            "And to destroy them that destroyed the earth - The earth was destroyed by the 'great whore' in particular... but likewise in general, by the open rage and hate of wicked men against all that is good...",
+            "This great work of God, destroying the destroyers, under the trumpet of the seventh angel, is not the third woe, but matter of joy, for which the elders solemnly give thanks."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lord reigned, let the people be angry. The time has come for judgment and reward, for God to destroy those who destroy the earth. The nations are angered, but their anger is nothing compared to the wrath of God. This seventh trumpet marks the end of all things, where Christ will bring the judgment and reward that His saints have long prayed for. This is not the personal coming of Christ to raise the dead, but His spiritual coming to reign in His churches and judge their enemies. It is a time of joy, as God destroys the destroyers and brings about His ultimate plan.",
+            "wordCount": 106,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.1104608154585853,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.51,
+            "commentatorTierSimilarities": [
+                33.07,
+                30.67,
+                36.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The time of the dead, to be judged, and [the time] to give their reward to Thy servants the prophets, and to the saints, and to them that fear Thy name, the small and the great. The Lord's reign has arrived, despite the anger of the nations. This seventh trumpet signifies the end, where Christ will finally bring the long-awaited judgment and reward for His faithful. It is a time of destroying those who destroy the earth, as God's wrath surpasses the impotent anger of mankind. With Christ's spiritual coming, He will reign in His churches, bringing joy as the destroyers are vanquished.",
+            "wordCount": 107,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.131389502346356,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                30.03,
+                32.91,
+                37.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The time of the dead, to be judged, and [the time] to give their reward to Thy servants the prophets, and to the saints, and to them that fear Thy name, the small and the great. The Lord's reign has arrived, despite the anger of the nations. This seventh trumpet signifies the end, where Christ will finally bring the long-awaited judgment and reward for His faithful. With His spiritual coming, Christ will destroy those who destroy the earth, putting an end to the hostility against Him. It is a time of great joy, as God's plan unfolds and the destroyers are vanquished.",
+            "wordCount": 105,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.100671632045191,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.19,
+            "commentatorTierSimilarities": [
+                30.49,
+                33.45,
+                36.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The time of the dead, to be judged, and [the time] to give their reward to Thy servants the prophets, and to the saints, and to them that fear Thy name, the small and the great. The Lord's reign has arrived, despite the anger of the nations. With the seventh trumpet, Christ will bring the long-awaited judgment and reward for His faithful. His spiritual coming will put an end to the hostility against Him and destroy those who destroy the earth. It is a time of joy as God's plan unfolds and the destroyers are vanquished.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.074536286826001,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.32,
+            "commentatorTierSimilarities": [
+                31.46,
+                33.02,
+                35.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord reigned, let the people be angry. The time has come for judgment and reward, for God to destroy those who destroy the earth. The nations are angered, but their anger is nothing compared to the wrath of God. This seventh trumpet marks the end of all things, where Christ will bring the judgment and reward that His saints have long prayed for. This is not the personal coming of Christ to raise the dead, but His spiritual coming to reign in His churches and judge their enemies. It is a time of joy as God destroys the destroyers.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.1234213213805044,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.94,
+            "commentatorTierSimilarities": [
+                33.25,
+                30.82,
+                35.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

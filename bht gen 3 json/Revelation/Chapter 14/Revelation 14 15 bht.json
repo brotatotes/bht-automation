@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 21:47:08",
+    "verseRef": "Revelation 14:15",
+    "bestBHT": {
+        "bht": "The Son receives the command from the angel to put forth His sickle and reap the harvest of the earth, as the time has come. This harvest signifies the gathering of the elect righteous, while the vintage represents the removal of the sinful. The command is not from the angel, but from God the Father to the Son. The temple is where God's judgments are proclaimed at their appointed seasons. The world is ripe for Christ's second coming, when the righteous will be gathered and the wicked will be dealt with accordingly.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.98,
+        "qualityScore": 1.9584548620648063,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+        "commentatorTierSimilarities": [
+            29.0,
+            37.38,
+            33.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Put forth thy sickle and reap: because the time to reap is come, because the harvest of the earth is dried.\" ",
+            "The angel is only the messenger of the will of God.",
+            "The command is one regarding the times and seasons, which the Father hath kept in his own power."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Son sends His sickle-bearing angel to reap the righteous when fully ripe.",
+            "By the harvest-reaping the elect righteous are gathered out; by the vintage the Antichristian offenders are removed out of the earth.",
+            "Ripe for glory."
+        ],
+        "Albert Barnes": [
+            "The temple was regarded as his unique dwelling-place.",
+            "It is not a command of the angel, but a command from God the Father to the Son.",
+            "The harvest in reference to the righteous - fruit of the good seed sown by the Saviour and his apostles and ministers."
+        ],
+        "Archibald T. Robertson": [
+            "Thrust in thy sickle now,\" this angel urges Christ.",
+            "The harvest (\u03bf \u03b8\u03b5\u03c1\u03b9\u03c3\u03bc\u03bf\u03c2) is over-ripe.",
+            "Perhaps just 'ripe,' not 'over-ripe.'"
+        ],
+        "John Gill": [
+            "unless a set of Gospel ministers, as before, should be intended, who either by divine revelation, or by the signs of the time being come, and observed by them, will know that the harvest, or end of the world, is come.",
+            "which being spoken by an inferior angel, whether this designs the ministering spirits, or preachers of the word, must be understood not as commanding, nor even directing what should be done, but as beseeching and entreating.",
+            "the measure of the sins of wicked men will now be filled up, and the afflictions of the saints will be accomplished in them, and the number of God's elect will be completed in the effectual calling; they will be all called, and so things will be ripe for the second coming of Christ."
+        ],
+        "John Wesley": [
+            "And another angel came out of the temple \u2014 \"Which is in heaven,\" verse17. Revelation 14:17 Out of which came the judgments of God in the appointed seasons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel, as the messenger of God's will, commands the Son to put forth His sickle and reap the harvest of the earth, for the time has come and the righteous are fully ripe for glory. This is not a command from the angel, but a command from God the Father to the Son. The harvest represents the gathering of the elect righteous, while the vintage represents the removal of the Antichristian offenders. The temple, regarded as God's unique dwelling-place, is where the judgments of God in the appointed seasons are delivered. It is through the reaping of the harvest that the righteous are gathered and the wicked are dealt with, signaling the ripe condition of the world for Christ's second coming.",
+            "wordCount": 126,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.9875657131367968,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                28.92,
+                38.3,
+                32.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Son receives the command from the angel to put forth His sickle and reap the harvest of the earth, as the time has come. This harvest signifies the gathering of the elect righteous, while the vintage represents the removal of the sinful. The command is not from the angel, but from God the Father to the Son. The temple is where God's judgments are proclaimed at their appointed seasons. The world is ripe for Christ's second coming, when the righteous will be gathered and the wicked will be dealt with accordingly.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.9584548620648063,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                29.0,
+                37.38,
+                33.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel commands the Son to put forth His sickle and reap the harvest of the earth, as the time has come and the righteous are ripe for glory. This is not a command from the angel, but from God the Father to the Son. The temple, regarded as God's unique dwelling-place, is where God's judgments are delivered at their appointed seasons. The harvest symbolizes the gathering of the elect righteous, while the vintage represents the removal of the Antichristian offenders. The world is ready for Christ's second coming.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8603526001547608,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.2,
+            "commentatorTierSimilarities": [
+                28.85,
+                39.39,
+                31.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel commands the Son to reap the harvest of the earth, as the time has come and the righteous are ripe for glory. This command comes from God the Father, and the temple is where His judgments are proclaimed. The harvest represents the gathering of the elect righteous, while the vintage signifies the removal of the Antichristian offenders. The world is now ready for the second coming of Christ, when the righteous will be gathered and the wicked will be dealt with accordingly.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.8524092002447374,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                31.08,
+                36.09,
+                32.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel commands the Son to put forth His sickle and reap the harvest of the earth, for the time has come and the righteous are ripe for glory. This is not a command from the angel, but from God the Father to the Son. The temple is regarded as God's unique dwelling-place, where His judgments are proclaimed at their appointed seasons. The harvest represents the gathering of the elect righteous, while the vintage symbolizes the removal of the Antichristian offenders. The world is ready for Christ's second coming.",
+            "wordCount": 92,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8573402766924598,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                28.89,
+                40.14,
+                30.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

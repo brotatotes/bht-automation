@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:24",
+    "verseRef": "Revelation 13:13",
+    "bestBHT": {
+        "bht": "A power claims miracles and even makes fire come down from heaven in the sight of men. It counterfeits the true spirit and power of Elias, deceiving through signs and wonders resembling those of true followers of Christ. Christ warned against false prophets with their deceptive miracles, while Paul depicted the power of the man of sin. Discerning between true and false miracles is crucial, as the false ones are pretensions, deluding and cheating with a deceptive appearance of things that are not real.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.0882179816120874,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.77,
+        "commentatorTierSimilarities": [
+            32.72,
+            33.69,
+            33.6
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is notorious enough that the great arm of support of the sacerdotal power, pagan and papal, has ever been the claim to work miracles.",
+            "It even maketh fire to come down from the heaven to the earth in the sight of men.",
+            "The false prophet shall counterfeit the true spirit and power of Elias."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "signs",
+            "maketh even fire",
+            "miracles of a demoniacal kind"
+        ],
+        "Albert Barnes": [
+            "The representation here is, that the power referred to by the second beast would found its claim on pretended miracles, and would accomplish an effect on the world as if it actually did work miracles.",
+            "He pretends this; he accomplishes an effect as if he did it. It is not necessary to suppose that he actually did this, anymore than it is to suppose that he actually performed the other pretended miracles referred to in other places.",
+            "The phrase 'in the sight of men' implies that this would be done publicly, and is such language as would be used of pretended miracles designed for purposes of ostentation."
+        ],
+        "Philip Schaff": [
+            "The \u2018great signs\u2019 are again a symbol of what is done by false prophetical and priestly power.\" ",
+            "The \u2018fire out of heaven\u2019 is explained by the function of this beast. He is to direct men to the worship of the first beast in whom the Satanic power of the dragon is personified.",
+            "As therefore Christ, in whom the power of God is personified, is preceded by Elias, who is to direct men\u2019s eyes to Him, so the first beast has in the second his Elias, who travesties the miracle of the ancient prophet (2 Kings 1:10-12)."
+        ],
+        "Archibald T. Robertson": [
+            "Christ promised great signs to the disciples, but he also warned them against false prophets and false christs with their signs and wonders.",
+            "So also Paul had pictured the power of the man of sin.",
+            "Elijah had called down fire from heaven and James and John had once even urged Jesus to do this miracle."
+        ],
+        "John Gill": [
+            "Not real, but pretended ones, lying wonders, which the Popish legends are full of the accounts of.",
+            "This may be understood mystically, of the pretensions of the Papacy to confer the Holy Ghost, and his gifts upon men, by breathing on them.",
+            "They being cheated and deluded with an appearance and show of things which were not real."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a power that claims to work miracles, even making fire come down from heaven in the sight of men. This power is identified as the false prophet, who counterfeits the true spirit and power of Elias. The first-tier commentary emphasizes the importance of discerning between the signs and wonders of false prophets and those of true followers of Christ. While Christ promised great signs to His disciples, including the ability to call down fire from heaven, He also warned against the deceptive miracles of false prophets. Thus, it is crucial to be wary of those who claim to perform miracles but are actually manipulating and deceiving others through their demonstrations.",
+            "wordCount": 115,
+            "quoteTokenProportion": 41.33,
+            "qualityScore": 2.0517992285880777,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.56,
+            "commentatorTierSimilarities": [
+                35.14,
+                37.26,
+                27.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A power claims miracles, making fire come down from heaven in the sight of men. It counterfeits the true spirit and power of Elias, deceiving by signs and wonders resembling those of true followers of Christ. However, Christ warned against false prophets with their deceptive miracles and Paul similarly depicted the power of the man of sin. Discerning between true and false miracles is crucial, as the false ones are a guise, full of pretensions and a show of things that are not real.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.0485523678685924,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.46,
+            "commentatorTierSimilarities": [
+                33.05,
+                34.03,
+                32.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A power claims to work miracles, even making fire come down from heaven in the sight of men. This deceiving power counterfeits the true spirit and power of Elias. Christ warned against false prophets and their deceptive signs, while Paul depicted the power of the man of sin. Discerning between true and false miracles is crucial, as the false ones are pretensions and a show of things that are not real, deluding and cheating those who are deceived by their appearance.",
+            "wordCount": 81,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9959415813586743,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.71,
+            "commentatorTierSimilarities": [
+                33.29,
+                33.23,
+                33.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A power claims to work miracles, even making fire come down from heaven in the sight of men. This power counterfeits the true spirit and power of Elias, deceiving with signs and wonders resembling those performed by true prophets and followers of Christ. However, Christ warned against false prophets and their deceptive miracles, while Paul depicted the power of the man of sin. Discerning between true and false miracles is crucial, as the false ones are pretensions, deluding and cheating through a deceptive appearance of things that are not real.",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0690345095445024,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.14,
+            "commentatorTierSimilarities": [
+                33.63,
+                34.27,
+                32.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A power claims miracles and even makes fire come down from heaven in the sight of men. It counterfeits the true spirit and power of Elias, deceiving through signs and wonders resembling those of true followers of Christ. Christ warned against false prophets with their deceptive miracles, while Paul depicted the power of the man of sin. Discerning between true and false miracles is crucial, as the false ones are pretensions, deluding and cheating with a deceptive appearance of things that are not real.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.0882179816120874,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.77,
+            "commentatorTierSimilarities": [
+                32.72,
+                33.69,
+                33.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

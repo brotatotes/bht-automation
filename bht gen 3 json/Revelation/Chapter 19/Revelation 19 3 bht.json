@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:19",
+    "verseRef": "Revelation 19:3",
+    "bestBHT": {
+        "bht": "And a second time they said Hallelujah, a heavenly encore, as her smoke goes up to the ages of the ages. The image comes from the description of the smoke that ascended from the cities of the plain. The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last, where her smoke rose up for ever and ever. (44 words)",
+        "wordCount": 75,
+        "quoteTokenProportion": 45.65,
+        "qualityScore": 1.7282187502001443,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+        "commentatorTierSimilarities": [
+            26.06,
+            37.46,
+            36.48
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And a second time they said Hallelujah...",
+            "...and her smoke goeth up to the ages of the ages...",
+            "...this addition gives a reason for the praise, parallel with those introduced by because before."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "3. again\u2014Greek, \"a",
+            "\tsecond time.\" ",
+            "\t",
+            "rose up\u2014Greek,",
+            "\t\"goeth up.\" ",
+            "\t",
+            "for ever and ever\u2014Greek,",
+            "\t\"to the ages of the ages."
+        ],
+        "Albert Barnes": [
+            "The event was so glorious and so important; the final destruction of the great enemy of the church was of so much moment in its bearing on the welfare of the world, as to call forth repeated expressions of praise.",
+            "This is an image of final ruin; the image being derived probably from the description in Genesis of the smoke that ascended from the cities of the plain, Genesis 19:28.",
+            "On the joy expressed here in her destruction, compare the notes on Revelation 18:20."
+        ],
+        "Marvin Vincent": [
+            "Her smoke, etc. Compare Isaiah 34:10."
+        ],
+        "Philip Schaff": [
+            "The thought of a 'second' time has peculiar importance in the eyes of St. John. It confirms with a singular degree of emphasis the idea with which it is connected.\" ",
+            "The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last.\" ",
+            "But it was more tolerable for Sodom than it will be for Babylon; for its fires were quenched in the waters of the Dead Sea. This fire goes up 'for ever and ever.'"
+        ],
+        "Archibald T. Robertson": [
+            "A second time (\u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03bf\u03bd). Adverbial accusative, a heavenly encore.",
+            "They say (\u03b5\u03b9\u03c1\u03b7\u03ba\u03b1\u03bd). Perfect active indicative of \u03b5\u03b9\u03c0\u03bf\u03bd. 'They have said,' not an 'aoristic' perfect for 'they say,' but vivid dramatic perfect as in Revelation 5:7 and the form in -\u03b1\u03bd instead of -\u03b1\u03c3\u03b9\u03bd as in Revelation 18:3; Revelation 21:6.",
+            "Goeth up (\u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03b5). Linear present active indicative of \u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9, 'keeps on going up,' 'a last touch to the description already given (Revelation 18:21) of Babylon's utter collapse' (Swete). The smoke of the city's ruin (Revelation 14:11; Revelation 18:8; Revelation 18:18) instead of incense (Revelation 8:4). Cf. Isaiah 34:9."
+        ],
+        "John Gill": [
+            "And again they said, Alleluia.... So some psalms begin and end with this word, translated in the Old Testament by the words 'Praise ye the LORD', as in Psalms 106:1 c.",
+            "Or the words may be rendered, 'for her smoke rose', and so are a reason for the second 'hallelujah': it looks as if Rome, like another Sodom and Gomorrah, would sink into a sulphurous burning lake, and continue so.",
+            "Respect is had to the everlasting punishment of antichrist and his followers in hell, and to the everlasting burnings that will follow Rome's temporal destruction, which was an example and symbol of the vengeance of eternal fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And a second time they said Hallelujah, and her smoke goeth up to the ages of the ages... This addition gives a reason for the praise, parallel with those introduced by because before. A heavenly encore, they have said, 'Her smoke goes up,' a last touch to the description already given of Babylon's utter collapse. The image being derived probably from the description in Genesis of the smoke that ascended from the cities of the plain. The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last. Respect is had to the everlasting punishment of antichrist and his followers in hell, and to the everlasting burnings that will follow Rome's temporal destruction, which was an example and symbol of the vengeance of eternal fire. (57 words)",
+            "wordCount": 143,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.696298497012912,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.74,
+            "commentatorTierSimilarities": [
+                24.02,
+                35.04,
+                40.94
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And a second time they said Hallelujah, and her smoke goeth up to the ages of the ages... A heavenly encore, they have said, 'Her smoke goes up,' a last touch to the description already given of Babylon's utter collapse. The image being derived probably from the description in Genesis of the smoke that ascended from the cities of the plain. The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last. (60 words)",
+            "wordCount": 90,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.716425711150018,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.41,
+            "commentatorTierSimilarities": [
+                25.69,
+                38.62,
+                35.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And a second time they said Hallelujah, a heavenly encore, as her smoke goes up to the ages of the ages. This addition gives a reason for the praise, parallel with those introduced earlier. The image comes from the description of the smoke that ascended from the cities of the plain. The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last. (57 words)",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.6029401719952734,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.64,
+            "commentatorTierSimilarities": [
+                28.22,
+                39.7,
+                32.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And a second time they said Hallelujah, a heavenly encore, as her smoke goes up to the ages of the ages. The image comes from the description of the smoke that ascended from the cities of the plain, where the fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last. (44 words)",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.7243952686759094,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.68,
+            "commentatorTierSimilarities": [
+                25.77,
+                36.56,
+                37.67
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And a second time they said Hallelujah, a heavenly encore, as her smoke goes up to the ages of the ages. The image comes from the description of the smoke that ascended from the cities of the plain. The fate of the first city out of which God's people were called turns out to have been a prophecy of the fate of the last, where her smoke rose up for ever and ever. (44 words)",
+            "wordCount": 75,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 1.7282187502001443,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.81,
+            "commentatorTierSimilarities": [
+                26.06,
+                37.46,
+                36.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

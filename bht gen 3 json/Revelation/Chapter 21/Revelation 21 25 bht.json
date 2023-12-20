@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:50:44",
+    "verseRef": "Revelation 21:25",
+    "bestBHT": {
+        "bht": "The gates of the New Jerusalem shall never be shut, for if they were, they must be shut by day. In the eternal city, there shall be no night, and it shall always be day. It signifies the absence of both physical and moral darkness, where no calamity, sorrow, or bereavement exists. The gates shall provide continual free ingress into the city, a symbol of security and peace. It is a city of unclouded splendor, where happiness remains undisturbed forever in the absence of night.",
+        "wordCount": 85,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.88270179785287,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+        "commentatorTierSimilarities": [
+            30.05,
+            36.45,
+            33.5
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Shall never be shut, for if they were, they must be shut by day.\" ",
+            "In meaning, shall never be shut, seeing it will always be day.\" ",
+            "Night shall not exist there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It shall always be day.\" ",
+            "In it shall be no night.\" ",
+            "There shall be continual free ingress into it."
+        ],
+        "Albert Barnes": [
+            "It shall be constantly open, allowing free ingress and egress to all who reside there.",
+            "The universe will be open to them. They will be permitted to go forth and visit every world, and survey the works of God in all parts of his dominions.",
+            "It shall be all day; all unclouded splendor...no calamity, no sorrow, no bereavement, no darkened windows on account of the loss of friends and kindred."
+        ],
+        "Philip Schaff": [
+            "How often had the gates of an ancient city to be closed, always by night, often by day! How often had measures of precaution to be taken against apprehended danger! Here there is no danger, no apprehension, no enemy to approach the gate, but happiness perfect and for ever undisturbed.",
+            "He could not bring the thought of 'night' into connection with the New Jerusalem, for there was 'no night there.' There may have been something more in his thoughts. We know from John 13:30 the symbolical meaning which he attached to the word 'night' 'It was night' when Judas went out upon his errand of treachery and crime.",
+            "The first clause of the verse contains the emblem of security and peace. The second assigns the reason why these shall continue undisturbed. There shall be no night there, no darkness either physical or moral, neither men nor deeds that shun the light."
+        ],
+        "Archibald T. Robertson": [
+            "Shall in no wise be shut.\" ",
+            "By day.\" ",
+            "For there shall be no night there."
+        ],
+        "John Gill": [
+            "But rather the universal collection, and free admission of all the saints from all parts into this city.",
+            "There will be no night in this city, and so no need of ever shutting the gates; the night time being the season for thieves and robbers, and for enemies to make their incursions, and to surprise.",
+            "There will be no night of spiritual darkness and desertion, of drowsiness, sleepiness, and inactivity, of error and heresy, or of calamity and distress of any kind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The gates of the New Jerusalem shall never be shut, for it will always be day in the eternal city. There will be no night, no darkness, and no need for precaution or measures of safety. It represents the symbol of security and peace, where there is no danger or enemy to approach the gate. The gates will be constantly open, allowing free ingress and egress to all the saints who reside there. The absence of night signifies the absence of spiritual darkness, drowsiness, and distress. It is a city of unclouded splendor, where happiness is perfect and undisturbed forever.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.698154078206985,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.81,
+            "commentatorTierSimilarities": [
+                22.74,
+                39.51,
+                37.75
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The gates of the New Jerusalem shall never be shut, for it will always be day in the eternal city. There will be no night, and no need for precaution or safety. The gates will be constantly open, allowing free ingress and egress to all who reside there. The absence of night signifies the absence of spiritual darkness and distress. It is a city of unclouded splendor, where happiness is undisturbed forever.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.7316154696546873,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                26.66,
+                38.3,
+                35.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gates of the New Jerusalem shall never be shut, for if they were, they must be shut by day. In meaning, they shall never be shut, for it will always be day. There shall be no night in the eternal city, no darkness, and no need for precaution. The gates shall always be open, providing free ingress into the city. The absence of night symbolizes the absence of spiritual darkness and distress. It is a city of unclouded splendor, where happiness is undisturbed forever.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.68,
+            "qualityScore": 1.8441819128424966,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                34.18,
+                34.05,
+                31.77
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The gates of the New Jerusalem shall never be shut, for it will always be day. In this eternal city, there shall be no night, no darkness, and no need for precaution. The gates shall constantly be open, allowing free ingress and egress. The absence of night signifies the absence of spiritual darkness, distress, and the drowsiness of inactivity. It is a city of unclouded splendor, where happiness remains undisturbed forever.",
+            "wordCount": 71,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 1.8407840435585565,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                27.2,
+                37.13,
+                35.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The gates of the New Jerusalem shall never be shut, for if they were, they must be shut by day. In the eternal city, there shall be no night, and it shall always be day. It signifies the absence of both physical and moral darkness, where no calamity, sorrow, or bereavement exists. The gates shall provide continual free ingress into the city, a symbol of security and peace. It is a city of unclouded splendor, where happiness remains undisturbed forever in the absence of night.",
+            "wordCount": 85,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.88270179785287,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.94,
+            "commentatorTierSimilarities": [
+                30.05,
+                36.45,
+                33.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

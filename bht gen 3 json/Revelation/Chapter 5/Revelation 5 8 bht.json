@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:43:04",
+    "verseRef": "Revelation 5:8",
+    "bestBHT": {
+        "bht": "The twenty-four elders, representing the whole church, offer praises and prayers to the Lamb, displaying the worthiness and kingly rank of the Church even in the midst of persecution. They play a harp, symbolizing the melody in their hearts, and hold golden phials filled with incense, representing the prayers of the saints. These prayers ascend to God, regarded and remembered by Him. The Lamb is the proper object of worship, sharing the throne with the Father.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0539756964191924,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+        "commentatorTierSimilarities": [
+            28.85,
+            34.11,
+            37.04
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The twenty-four elders, representing as they do the whole church of God, are represented as offering the praises and the prayers of the whole church.",
+            "The manifestation of the worthiness of the Lamb calls forth fresh words springing from fresh and living thoughts.",
+            "The Church even now, in Christ her Head, reigns on the earth: all things are being put under her feet, as under His: and even if this meaning be questioned, we have her kingly rank and office asserted in the present, even in the midst of persecution and contempt."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "fell down before the Lamb\u2014who shares worship and the throne with the Father.",
+            "Two oldest manuscripts, A, B, Syriac and Coptic read, 'a harp': a kind of guitar, played with the hand or a quill.",
+            "Though they be employed by God in some way unknown to us to present our prayers (nothing is said of their interceding for us), yet we are told to pray only to Him."
+        ],
+        "Albert Barnes": [
+            "The acts of adoration here described as rendered by the four living creatures and the elders are, according to the explanation given ... emblematic of the honor done to the Redeemer by the church, and by the course of providential events in the government of the world.",
+            "The usual posture of profound worship. Usually in such worship there was entire prostration on the earth.",
+            "It is an interesting and beautiful representation that there are in heaven appropriate symbols of ascending prayer, and that while in the outer courts here below we offer prayer, incense, emblematic of it, ascends in the holy of holies above."
+        ],
+        "Marvin Vincent": [
+            "Each one, that is, of the elders. Kiqara harp signifies an instrument unlike our harp as ordinarily constructed. Rather a lute or guitar, to which latter word kithara is etymologically related.\u201d ",
+            "The word vial, used commonly of a small bottle, gives a wrong picture here. The fialh was a broad, flat vessel, used for boiling liquids, sometimes as a cinerary urn, and for drinking, or pouring libations.",
+            "The prayers offered by priests and people at this part of the service are recorded by tradition as follows : 'True it is that Thou art Jehovah, our God and the God of our fathers; our King and the King of our fathers; our Savior and the Rock of our salvation; our Help and our Deliverer."
+        ],
+        "Philip Schaff": [
+            "The incense is the prayers of the saints, that is, of God\u2019s suffering saints.",
+            "The Elders on their thrones are the representatives of the Church triumphant.",
+            "The bowls are full."
+        ],
+        "Archibald T. Robertson": [
+            "For like vivid variation (not confusion) of tenses with \u03b5\u03b9\u03bb\u03b7\u03c6\u03b5\u03bd see Revelation 3:3; Revelation 8:5; Revelation 11:17 and with \u03b5\u03b9\u03c1\u03b7\u03ba\u03b1 in Revelation 7:13; Revelation 19:3.",
+            "Fell down (\u03b5\u03c0\u03b5\u03c3\u03b1\u03bd). Second aorist active indicative of \u03c0\u03b9\u03c0\u03c4\u03c9 with first aorist (-\u03b1\u03bd) ending, just 'fell.'",
+            "Which (these bowls of incense) symbolize the prayers of the saints as in Psalms 140:2; Luke 1:10."
+        ],
+        "John Gill": [
+            "which shows that he [the Lamb] was not a mere creature, who assumed human nature... but is truly God, and is the proper object of worship.\" ",
+            "the prayers of the saints are compared to 'odours', or 'incense'... as incense goes upwards, so do they go up to God, and are received, regarded, and had in remembrance by him; and partly because as incense is of a sweet smell, so the prayers of the saints, put up in the name and faith of Christ, are very grateful and acceptable to God.",
+            "true prayer is that which is inwrought in the soul, and comes from the heart, even from a heart pure like gold, purified by faith in the blood of Christ, a true heart, that asks in faith, nothing wavering; such as are really saints, true believers in Christ, are praying souls; they are full of prayers for themselves and others; they pray always, and for all saints."
+        ],
+        "John Wesley": [
+            "An harp \u2014 Which was one of the chief instruments used for thanksgiving in the temple service: a fit emblem of the melody of their hearts.",
+            "And golden phials \u2014 Cups or censers.",
+            "Full of incense, which are the prayers of the saints \u2014 Not of the elders themselves, but of the other saints still upon earth, whose prayers were thus emblematically represented in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The twenty-four elders, representing the whole church, offer praises and prayers to the Lamb, displaying the worthiness and kingly rank of the Church even in the midst of persecution. As they fall down before the Lamb, they play a harp, symbolizing the melody in their hearts, and hold golden phials filled with incense, which represents the prayers of the saints. These prayers are compared to incense because they ascend to God and are regarded and remembered by Him. The bowls are full, signifying the abundance of these prayers. This passage emphasizes the worship and adoration given to the Lamb, who is the proper object of worship and who shares the throne with the Father.",
+            "wordCount": 115,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 2.121765496439378,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.89,
+            "commentatorTierSimilarities": [
+                27.85,
+                35.37,
+                36.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The twenty-four elders, representing the whole church, offer praises and prayers to the Lamb, displaying the worthiness and kingly rank of the Church even in the midst of persecution. As they fall down before the Lamb, they play a harp, symbolizing the melody in their hearts, and hold golden phials filled with incense, which represents the prayers of the saints. These prayers are compared to incense because they ascend to God and are regarded and remembered by Him. The bowls are full, signifying the abundance of these prayers. The Lamb is the proper object of worship and shares the throne with the Father.",
+            "wordCount": 104,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0897384693440513,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                27.67,
+                35.51,
+                36.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The twenty-four elders, representing the whole church, offer praises and prayers to the Lamb, displaying the worthiness and kingly rank of the Church even in the midst of persecution. They play a harp, symbolizing the melody in their hearts, and hold golden phials filled with incense, representing the prayers of the saints. These prayers ascend to God, regarded and remembered by Him. The bowls are full, signifying the abundance of these prayers. The Lamb is the proper object of worship, sharing the throne with the Father.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.012235271290687,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.25,
+            "commentatorTierSimilarities": [
+                27.49,
+                36.39,
+                36.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twenty-four elders, representing the whole church, offer praises and prayers to the Lamb, displaying the worthiness and kingly rank of the Church even in the midst of persecution. They play a harp, symbolizing the melody in their hearts, and hold golden phials filled with incense, representing the prayers of the saints. These prayers ascend to God, regarded and remembered by Him. The Lamb is the proper object of worship, sharing the throne with the Father.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0539756964191924,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.64,
+            "commentatorTierSimilarities": [
+                28.85,
+                34.11,
+                37.04
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twenty-four elders, symbolizing the entire church, worship and offer prayers to the Lamb, demonstrating the exalted position of the Church amid trials. Playing a harp, they express the joyful melody within their hearts, while clutching golden phials filled with incense, symbolizing the prayers of the saints. These prayers ascend to God, cherished and acknowledged by Him. The fullness of the bowls indicates the abundance of prayers. Thus, the Lamb, sharing the throne with the Father, is rightly worshipped as the divine recipient of adoration.",
+            "wordCount": 86,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0184342091542606,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                27.29,
+                36.29,
+                36.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

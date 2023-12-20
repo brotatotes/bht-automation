@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:45:38",
+    "verseRef": "Revelation 11:5",
+    "bestBHT": {
+        "bht": "The two witnesses have the power to release fire from their mouths, which devours their enemies. This fire represents the immediate fulfillment and retribution of their pronouncements. Like Elijah, their words burn like a lamp. Those who desire to harm them will be killed by the devouring fire of God's word, fulfilling the principle of an eye for an eye. This is a just response to the harm inflicted upon the witnesses.",
+        "wordCount": 73,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 2.007520908739633,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+        "commentatorTierSimilarities": [
+            31.17,
+            36.52,
+            32.31
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "fire goeth forth...out of their mouth, and devoureth their enemies...the two being here combined together.",
+            "I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+            "then stood up Elias the prophet as fire, and his word burned like a lamp."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God makes their inspired denunciations of judgment to come to pass and devour their enemies.",
+            "Twice repeated, to mark the immediate certainty of the accomplishment.",
+            "Retribution in kind."
+        ],
+        "Albert Barnes": [
+            "The word \u201churt\u201d here means to do 'injury' or 'injustice' - \u03b1\u0313\u03b4\u03b9\u03ba\u03b7\u0342\u03c3\u03b1\u03b9 adike\u0304sai - and may refer to wrong in any form - whether in respect to their character, opinions, persons, or property.",
+            "It is, of course, not necessary that this should be taken literally. The meaning is, that they would have the power of destroying their enemies as if fire should proceed out of their mouth; that is, their words would be like burning coals or flames.",
+            "The allusion here, therefore, is to the denunciations which they would utter, or the doctrines which they would preach, and which would have the same effect on their enemies as if they breathed forth fire and flame."
+        ],
+        "Marvin Vincent": [
+            "Fire proceedeth. Compare 2 Kings 1:10; Jeremiah 5:14."
+        ],
+        "Philip Schaff": [
+            "If any man desireth to hurt them fire proceedeth out of their mouth, and devonreth their enemies.",
+            "There can be no doubt that the allusion is to 2 Kings 1:10; 2 Kings 1:12, although literal fire may not be thought of, but rather those 'words' of the Lord in the mouth of His prophet of which it is said, 'I will make them fire, and this people wood, and it shall devour them' (Jeremiah 5:14).",
+            "In the last half of the verse we have the lex talionis, judgment returning in kind upon the oppressors of the just. These oppressors hurt to the extent of killing, just as the Jews 'went about to kill Jesus' in the days of His flesh. As a consequence, in this manner must they be killed."
+        ],
+        "Archibald T. Robertson": [
+            "It is impossible to hurt these two witnesses till they do their work.",
+            "The fire proceeding out of the mouths of the witnesses is like Elijah's experience.",
+            "The condition is repeated in this changed form, as less likely to happen and with inevitable death."
+        ],
+        "John Gill": [
+            "And also for the heat of it, it being the means of quickening, or of conveying a vital heat to dead sinners; and of warming and comforting the saints, causing their hearts to burn within them, while they bear or read it, or meditate upon it; and of scorching and tormenting reprobate sinners, and filling them with wrath, pain, and anguish...",
+            "Likewise, the word of God may be compared to fire for its purity in itself, for every word of his is pure; and for its purifying nature, when faithfully preached, and powerfully applied, it penetrates deep, it searches, and discovers, and purges from the dross of profaneness, false doctrine, and will worship; and for its consuming nature, as follows, it pronouncing damnation to unbelievers and impenitent sinners, and it being the savour of death unto death to such...",
+            "...these enemies of the witnesses will not be killed by the sword, or any other weapon, but by the word of God, and through the prayers of the saints, and by the denunciations of God's judgments on them."
+        ],
+        "John Wesley": [
+            "If any would kill them \u2014 As the Israelites would have done Moses and Aaron, Numbers 16:41.",
+            "He must be killed thus \u2014 By that devouring fire."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The two witnesses in Revelation 11:5 have the power to bring destruction to their enemies through the fire that proceeds out of their mouth. Just like the prophet Elijah, their words burn like a lamp, devouring their adversaries. The fire represents the immediate certainty of the accomplishment of their judgment. It is a retribution in kind, a response to the injustice and harm inflicted upon them. Those who desire to hurt the witnesses will be killed by the devouring fire of God's word, fulfilling the lex talionis, the law of eye for an eye.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 2.0581798727381173,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.78,
+            "commentatorTierSimilarities": [
+                29.49,
+                38.63,
+                31.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The two witnesses in this passage possess the extraordinary ability to release fire from their mouths, which devours their enemies. This fire symbolizes the immediate fulfillment and retribution of their pronouncements of judgment. Just as Elijah's words burned like a lamp, these witnesses' words carry the power to ignite and consume. Those who seek to harm them will suffer a similar fate, being killed by the devouring flame of God's word. This is a just response to the harm inflicted upon the witnesses, fulfilling the principle of an eye for an eye.",
+            "wordCount": 94,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 2.0597286704931204,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.83,
+            "commentatorTierSimilarities": [
+                28.94,
+                38.38,
+                32.68
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The two witnesses possess the remarkable ability to release fire from their mouths, devouring their adversaries, as seen in the book of Revelation. This fire represents the immediate fulfillment and retribution of their prophetic judgments. Similar to the prophet Elijah, their words burn with a powerful intensity, bringing forth judgment upon their enemies. Those who seek to harm them will face a fitting demise, as they will be killed by the raging fire of God's word. This act of retribution emphasizes the righteousness of divine justice.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.022958478583597,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                28.54,
+                38.07,
+                33.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The witnesses possess the ability to release fire from their mouths, devouring their enemies. This fire represents the immediate fulfillment of their judgments. Like the prophet Elijah, their words burn like a lamp. Those who seek to harm them will face a fitting demise, being killed by the devouring fire of God's word. This retribution is a just response to the harm inflicted upon the witnesses, fulfilling the principle of an eye for an eye.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9900471407627336,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                31.01,
+                36.43,
+                32.56
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The two witnesses have the power to release fire from their mouths, which devours their enemies. This fire represents the immediate fulfillment and retribution of their pronouncements. Like Elijah, their words burn like a lamp. Those who desire to harm them will be killed by the devouring fire of God's word, fulfilling the principle of an eye for an eye. This is a just response to the harm inflicted upon the witnesses.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 2.007520908739633,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.09,
+            "commentatorTierSimilarities": [
+                31.17,
+                36.52,
+                32.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

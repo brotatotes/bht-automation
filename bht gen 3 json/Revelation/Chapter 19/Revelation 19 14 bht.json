@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:49:23",
+    "verseRef": "Revelation 19:14",
+    "bestBHT": {
+        "bht": "The heavenly armies, including the glorified saints, follow the celestial Warrior on white horses, clothed in pure linen. Their garments symbolize the saints' inclusion in the triumphant procession, while the white horses signify their heavenly victory. This army consists not only of angels but also redeemed believers, who witness the triumph and share in the joy of the celestial Warrior's victory. Engaged in spiritual warfare, the saints press forward as volunteers under Christ, their Captain, as they journey towards their heavenly citizenship.",
+        "wordCount": 83,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 2.0174330798915494,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+        "commentatorTierSimilarities": [
+            28.06,
+            34.32,
+            37.61
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the armies which are in heaven... followed Him upon white horses.\" ",
+            "...the glorified saints... are spoken of in reference to this very triumph.",
+            "This clothing also speaks for the saints being included in the triumphal procession."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The glorified saints whom God 'will bring with' Christ at His advent",
+            "white and clean\u2014Greek, 'pure'",
+            "A, B, Vulgate, Syriac, and CYPRIAN omit 'and,' which ORIGEN and ANDREAS retain, as English Version."
+        ],
+        "Albert Barnes": [
+            "The heavenly hosts; particularly, it would seem, the redeemed, as there would be some incongruity in representing the angels as riding in this manner.",
+            "These hosts of the redeemed on white horses accompany him to be witnesses of his victory, and to participate in the joy of the triumph, not to engage in the work of blood.",
+            "The usual raiment of those who are in heaven, as everywhere represented in this book."
+        ],
+        "Marvin Vincent": [
+            "Followed [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03b9] . Note the imperfect tense denoting progression, and thus describing the advancing movement of the host."
+        ],
+        "Philip Schaff": [
+            "These armies comprise in all probability both the angels and the saints.",
+            "All triumph with their triumphant Head and King.",
+            "But no blood is sprinkled upon their garments."
+        ],
+        "Archibald T. Robertson": [
+            "The celestial Warrior with his angelic hosts 'upon white horses' like the Leader and, like him 'clothed in fine linen white and pure.'",
+            "The armies which are in heaven...warring with the dragon.",
+            "Graphic picture of the celestial Warrior with his angelic hosts."
+        ],
+        "John Gill": [
+            "The saints are in a state of warfare, have many enemies to fight with, sin, Satan, and the world.",
+            "They are enlisted as volunteers under Christ, the Captain of salvation.",
+            "The saints...belong to heaven, they are citizens of it, and are pressing on to it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes the heavenly armies following the celestial Warrior on white horses, clothed in pure linen. This imagery signifies the triumph of the glorified saints, who join in the victorious procession alongside Christ. The army consists not only of angels, but also redeemed believers, who witness the victory and partake in the joy of the triumph. Their white garments symbolize their purity and heavenly status. While engaged in spiritual warfare against sin, Satan, and the world, the saints remain loyal to Christ as volunteers and citizens of heaven, pressing forward to their eternal destination.",
+            "wordCount": 95,
+            "quoteTokenProportion": 24.24,
+            "qualityScore": 1.9133593802982016,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.96,
+            "commentatorTierSimilarities": [
+                26.85,
+                33.06,
+                40.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The imagery in Revelation 19:14 depicts a procession of the heavenly armies, including the glorified saints, following the celestial Warrior on white horses. Their garments of pure, white linen symbolize their purity and heavenly status. This victorious scene shows the saints participating in the triumphal procession with Christ, who leads them in the battle against sin, Satan, and the world. As volunteers in Christ's army, the saints press forward as citizens of heaven, eagerly pursuing their eternal destination. The heavenly hosts, both angels and redeemed believers, join together to celebrate the triumph of their Head and King.",
+            "wordCount": 97,
+            "quoteTokenProportion": 23.88,
+            "qualityScore": 1.9330457383766841,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.62,
+            "commentatorTierSimilarities": [
+                27.72,
+                32.96,
+                39.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavenly armies, including the glorified saints, follow the celestial Warrior on white horses, clothed in pure linen. Their garments symbolize the saints' inclusion in the triumphant procession, while the white horses signify their heavenly victory. This army consists not only of angels but also redeemed believers, who witness the triumph and share in the joy of the celestial Warrior's victory. Engaged in spiritual warfare, the saints press forward as volunteers under Christ, their Captain, as they journey towards their heavenly citizenship.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.0174330798915494,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.42,
+            "commentatorTierSimilarities": [
+                28.06,
+                34.32,
+                37.61
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The celestial Warrior, accompanied by angelic hosts, leads the heavenly armies on white horses, adorned in pure linen garments. This imagery portrays the triumph of the glorified saints, who join in the victorious procession with Christ. Their white clothing signifies their purity and participation in the triumphant procession. Although engaged in spiritual warfare against sin, Satan, and the world, the saints remain steadfast in their commitment to Christ, volunteering under Him as their Captain. As citizens of heaven, they eagerly press forward towards their eternal destination.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.82689083253576,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.09,
+            "commentatorTierSimilarities": [
+                27.26,
+                31.09,
+                41.65
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The celestial Warrior leads the heavenly armies on white horses, with the glorified saints following Him in pure linen garments. This vivid picture represents the triumph and victory of the saints as they join the procession. Through their white clothing, they symbolize both their purity and their inclusion in this triumphant gathering. Engaged in the ongoing battle against sin, Satan, and the world, the saints willingly serve under the leadership of Christ as volunteer soldiers, pressing forward towards their heavenly citizenship and eternal reward.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.9051207028249921,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                29.19,
+                31.5,
+                39.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

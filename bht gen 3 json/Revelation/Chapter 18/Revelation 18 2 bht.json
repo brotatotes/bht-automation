@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:01",
+    "verseRef": "Revelation 18:2",
+    "bestBHT": {
+        "bht": "With a mighty voice, Babylon the great has fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies that wait for their prey. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of Babylon is described by wild beasts and doleful creatures dwelling in it.",
+        "wordCount": 71,
+        "quoteTokenProportion": 40.82,
+        "qualityScore": 2.0093732535004887,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+        "commentatorTierSimilarities": [
+            28.6,
+            28.02,
+            43.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "with (literally, 'in') a mighty voice.",
+            "is fallen, is fallen\" (Isaiah 21:9; Jeremiah 51:8). This phrase is here prophetical of her fall, still future, as Jeremiah 51:8- : proves.",
+            "the hold - a keep or prison."
+        ],
+        "Albert Barnes": [
+            "Babylon the great is fallen, is fallen - See the notes on Revelation 14:8.",
+            "And is become the habitation of devils - Of demons - in allusion to the common opinion that the demons inhabited abandoned cities, old ruins, and deserts.",
+            "And a cage of every unclean and hateful bird - That is, they would resort there, and abide there as in a cage."
+        ],
+        "Marvin Vincent": [
+            "Mightily with a strong voice...in strength with a great voice.\" ",
+            "Fallen, fallen is Babylon.\" ",
+            "Properly, demons, which Rev., strangely commits to the margin."
+        ],
+        "Philip Schaff": [
+            "This is the only passage in the book in which a voice is spoken of as \u2018mighty,\u2019 the usual appellation being \u2018great.\u2019",
+            "Everything about the city is chanced into a wild and hateful desert.",
+            "The unclean beasts and birds themselves that are driven into her ruins regard them as a prison."
+        ],
+        "Archibald T. Robertson": [
+            "Fallen, fallen is Babylon the great.",
+            "A hold of every unclean spirit.",
+            "The evil spirits, watching over fallen Rome like night-birds or harpies that wait for their prey."
+        ],
+        "John Gill": [
+            "Babylon the great is fallen, is fallen.",
+            "The inhabitants of Rome now are no other; the pope and his cardinals, the priests, Jesuits, monks, and friars, are the spirits of devils, and their doctrines the doctrines of devils.",
+            "The desolation of old Babylon is described by wild beasts and doleful creatures dwelling in it."
+        ],
+        "John Wesley": [
+            "And he cried, Babylon is fallen... and is become a habitation of devils, and an hold of every unclean spirit.\" ",
+            "How many horrid inhabitants hath desolate Babylon! of invisible beings, devils, and unclean spirits; of visible, every unclean beast, every filthy and hateful bird.",
+            "Suppose, then, Babylon to mean heathen Rome; what have the Romanists gained, seeing from the time of that destruction, which they say is past, these are to be its only inhabitants for ever."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "With a mighty voice, Babylon the great has fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies waiting for their prey. This city, once so grand and powerful, now lies in ruins, inhabited by demonic forces and unclean creatures. Everything about the city has changed into a wild and hateful desert. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of Babylon is described as a dwelling place for wild beasts and doleful creatures. This once mighty city has become a habitation of devils and an abode for every unclean spirit.",
+            "wordCount": 118,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8865064993293754,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.07,
+            "commentatorTierSimilarities": [
+                24.16,
+                32.89,
+                42.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "With a mighty voice, Babylon the great has fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies waiting for their prey. This city, once so grand and powerful, now lies in ruins, inhabited by demonic forces and unclean creatures. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of old Babylon is described by wild beasts and doleful creatures dwelling in it.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9727287089725092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                26.98,
+                29.43,
+                43.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "With a mighty voice, Babylon the great has fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies waiting for their prey. This city, once so grand and powerful, now lies in ruins, inhabited by demonic forces and unclean creatures. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of old Babylon is described by wild beasts and doleful creatures dwelling in it.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.9727287089725092,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.93,
+            "commentatorTierSimilarities": [
+                26.98,
+                29.43,
+                43.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "With a mighty voice, Babylon the great is fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies that wait for their prey. This once grand city, now in ruins, is inhabited by demonic forces and unclean creatures. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of Babylon is described by wild beasts and doleful creatures dwelling in it.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.0064914593811856,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.06,
+            "commentatorTierSimilarities": [
+                27.35,
+                29.35,
+                43.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a mighty voice, Babylon the great has fallen, fallen. She has become a hold, a prison for every unclean spirit. The evil spirits watch over fallen Rome like night-birds or harpies that wait for their prey. The inhabitants of Rome have become the spirits of devils, and their doctrines are the doctrines of devils. The desolation of Babylon is described by wild beasts and doleful creatures dwelling in it.",
+            "wordCount": 71,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.0093732535004887,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                28.6,
+                28.02,
+                43.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

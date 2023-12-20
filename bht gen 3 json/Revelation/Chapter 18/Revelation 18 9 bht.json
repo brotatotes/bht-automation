@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 21:48:37",
+    "verseRef": "Revelation 18:9",
+    "bestBHT": {
+        "bht": "The kings of the earth, who had committed fornication and luxuriated with the unfaithful Church, will witness the smoke of her burning and mourn her destruction. The contrast between rejoicing over faithful witnesses and lamenting the harlot who paved their way to heaven is evident. The fall of the papacy will likely result in the downfall of oppressive governments sustained by its support. Their sorrow arises from a religion that soothed their consciences while permitting indulgence in sinful desires.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.6422568765363592,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+        "commentatorTierSimilarities": [
+            27.13,
+            29.53,
+            43.34
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The kings of the earth, who committed fornication and luxuriated with her.\" ",
+            "When they see the smoke of her burning.",
+            "The smoke of her burning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The faithless Church, instead of reproving, connived at the self-indulgent luxury of the great men of this world, and sanctioned it by her own practice.",
+            "Contrast the world's rejoicing over the dead bodies of the two witnesses who had tormented it by their faithfulness, with its lamentations over the harlot who had made the way to heaven smooth, and had been found a useful tool in keeping subjects in abject tyranny.",
+            "Men's carnal mind relishes a religion like that of the apostate Church, which gives an opiate to conscience, while leaving the sinner license to indulge his lusts."
+        ],
+        "Albert Barnes": [
+            "The kings of Europe have owed much of their influence and power to the support which has been derived from the papacy, and when that power shall fall, there will fall much that has contributed to sustain oppressive and arbitrary governments.",
+            "In fact, Europe might have been long since free, if it had not been for the support which despotic governments have derived from the papacy.",
+            "The fall of the papacy will be the signal for a general overturning of the thrones of Europe."
+        ],
+        "Archibald T. Robertson": [
+            "Shall weep... And wail over her.\" ",
+            "For combination with \u03ba\u03bb\u03b1\u03b9\u03c9 as here see Luke 8:52.",
+            "Fire seems to be the worst."
+        ],
+        "John Gill": [
+            "And the kings of the earth, who have committed fornication, shall bewail her, and lament for her... shall mourn inwardly, and by various gestures outwardly express their sorrow at her desolation.\" ",
+            "These will not be the ten kings who will burn the whore with fire, and then repent of what they have done, and weep over her, as Titus did at the destruction of Jerusalem, as some Popish writers have fancied, for they will hate the whore, and eat her flesh.\" ",
+            "But earthly and idolatrous kings, who will be in the communion of the church of Rome, when they shall see the smoke of her burning..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the kings of the earth, who had indulged in sinful and luxurious living with the faithless Church, will witness the destruction of the harlot with sorrow and mourning. This contrast between their rejoicing over the faithful witnesses of God and their lamentations over the one who paved their way to heaven through easy religion and aided their tyrannical rule is striking. Their sorrow stems from the loss of a religion that provided an opiate to their consciences while allowing them to freely indulge in their lusts. The fall of the papacy will have far-reaching consequences, potentially leading to the downfall of oppressive governments in Europe that have relied on its support.",
+            "wordCount": 116,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6113935775420432,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.92,
+            "commentatorTierSimilarities": [
+                23.72,
+                36.48,
+                39.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The kings of the earth, who had committed fornication and luxuriated with the faithless Church, will witness the smoke of her burning and mourn for her. This stands in stark contrast to their earlier rejoicing over the faithful witnesses who stood against them. The fall of the papacy will have significant repercussions, potentially leading to the downfall of oppressive governments in Europe that have derived strength from its support. Their sorrow reflects the loss of a religion that appeased their conscience while allowing them to freely indulge in their sinful desires.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6098449757135427,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                25.25,
+                33.47,
+                41.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The kings of the earth, who indulged in luxuries and fornication with the faithless Church, will witness the smoke of her burning and lament her demise. This contrast is notable, as they celebrated the deaths of faithful witnesses but mourn the destruction of the harlot who enabled their sinful ways. The papacy's fall will have wide-ranging consequences, potentially leading to the downfall of oppressive governments that relied on its support. Their sorrow reflects the loss of a religion that appeased their conscience while allowing them to indulge their lusts.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 1.6288965616525783,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.5,
+            "commentatorTierSimilarities": [
+                27.84,
+                27.15,
+                45.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The kings of the earth, who had committed fornication and luxuriated with the faithless Church, will witness the smoke of her burning and mourn her destruction. This contrast between rejoicing over faithful witnesses and lamenting the harlot who facilitated their sinful ways is striking. The fall of the papacy will have profound consequences, potentially leading to the downfall of oppressive governments that relied on its support. Their sorrow stems from the loss of a religion that appeased their conscience while allowing them to indulge in their sinful desires.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.6309442469178403,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.57,
+            "commentatorTierSimilarities": [
+                27.1,
+                28.99,
+                43.9
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The kings of the earth, who had committed fornication and luxuriated with the unfaithful Church, will witness the smoke of her burning and mourn her destruction. The contrast between rejoicing over faithful witnesses and lamenting the harlot who paved their way to heaven is evident. The fall of the papacy will likely result in the downfall of oppressive governments sustained by its support. Their sorrow arises from a religion that soothed their consciences while permitting indulgence in sinful desires.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.6422568765363592,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.95,
+            "commentatorTierSimilarities": [
+                27.13,
+                29.53,
+                43.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

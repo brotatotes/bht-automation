@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:03",
+    "verseRef": "Revelation 18:14",
+    "bestBHT": {
+        "bht": "All the desire of thy soul, the riches and splendid things that thou cherished, are gone forever. The merchants who profited from thee shall stand afar off, full of fear of thy torment, weeping and mourning, exclaiming, Woe, woe, the great city! In just one hour, all thy wealth has been completely destroyed. The fruits that thy soul longed for, the sumptuous and dainty things, have perished and will never be found again.",
+        "wordCount": 73,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 1.6669664541417797,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+        "commentatorTierSimilarities": [
+            51.03,
+            21.31,
+            27.66
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And thy harvest of the desire of thy soul has departed from thee, and all [thy] fat things and [thy] splendid things have perished from thee, and they (men) shall never more at all find them.",
+            "The merchants of these things, who gained wealth from her, shall stand afar off by reason of their fear of her torment, weeping and mourning, saying, Woe, woe, the great city.",
+            "Because in one hour hath been desolated all that wealth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the fruits that thy soul lusted after\u2014Greek, 'thy autumn-ripe fruits of the lust (eager desire) of the soul.'\" ",
+            "dainty\u2014Greek, 'fat': 'sumptuous' in food.\" ",
+            "thou shalt\u2014A, C, Vulgate, and Syriac read, 'They (men) shall no more find them at all.'"
+        ],
+        "Albert Barnes": [
+            "The word rendered 'fruits' - \u03bf\u0313\u03c0\u03c9\u0301\u03c1\u03b1 opo\u0304ra - properly means, 'late summer; dog-days,' the time when Sirius, or the Dog-star, is predominant.",
+            "These words 'characterize all kinds of furniture and clothing which were gilt, or plated, or embroidered, and therefore were bright or splendid' (Prof. Stuart).",
+            "The meaning is, that they would no more be found there."
+        ],
+        "Marvin Vincent": [
+            "The fruits. Originally, the late summer or early autumn; then, generally, used of the ripe fruits of trees.",
+            "Dainty. From lipov grease. Hence, literally, fat. Only here in the New Testament. Homer uses it once in the sense of oily or shiny with oil, as the skin anointed after a bath.",
+            "Goodly. A too indefinite rendering. Better, Rev., sumptuous. Mostly in the New Testament of clothing."
+        ],
+        "Archibald T. Robertson": [
+            "The ripe autumn fruit...of uncertain etymology.",
+            "Of the lusting of thy soul.",
+            "All the dainty and the gorgeous things...are perished from thee."
+        ],
+        "John Gill": [
+            "The desirable fruits which are then in season...may design all such fruit as Italy abounds with, which will now be destroyed.",
+            "They will have these things in their hands again before Rome's utter destruction, but after that they will no more be regained.",
+            "The outward court, or the reformed church, sinking into an outward show and form, will be wholly given to the Gentiles, the Papists."
+        ],
+        "John Wesley": [
+            "The fruits...none of which is in greater request there, than the particular sort which is here mentioned.\" ",
+            "And all things that are dainty \u2014 To the taste.",
+            "And splendid \u2014 To the sight; as clothes, buildings, furniture."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All the desire of your soul, the riches and splendor that you cherished, have now vanished and will never again be found. The merchants who profited from you will stand at a distance, terrified by your torment, and lament, saying, Woe, woe, the great city! In just one hour, all your wealth has been destroyed. The fruits that your soul longed for, the indulgent and magnificent things, have all perished. These words describe the luxurious and extravagant items that were adorned with gold, plated, or embroidered. They were bright and splendid to the eye. However, they will no longer be found in you.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4850884510775684,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                40.97,
+                30.72,
+                28.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All the desired fruits that your soul longed for, the merchants who gained wealth from you will mourn and weep from a distance out of fear of your torment. Woe, woe, the great city! they will cry. In just one hour, all your riches and splendor have been completely destroyed. The sumptuous and dainty things that you cherished, the indulgent and magnificent items, have perished and will never be found again.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.4299520678878648,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.89,
+            "commentatorTierSimilarities": [
+                48.06,
+                22.51,
+                29.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All the desire of your soul, the riches and splendor that you cherished, have now vanished and will never again be found. The merchants who profited from you will stand at a distance, terrified by your torment, and lament, saying, Woe, woe, the great city! In just one hour, all your wealth has been destroyed. The fruits that your soul longed for, the indulgent and magnificent things, have all perished. These words describe the luxurious and extravagant items that were adorned with gold, plated, or embroidered. They were bright and splendid to the eye. However, they will no longer be found in you.",
+            "wordCount": 103,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.4850884510775684,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.72,
+            "commentatorTierSimilarities": [
+                40.97,
+                30.72,
+                28.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All the desire of thy soul has departed from thee; the merchants who gained wealth from thee shall stand afar off, weeping and mourning, and saying, Woe, woe, the great city! In one hour, all that wealth has been desolated. The fruits that thy soul lusted after, the dainty and sumptuous things, have perished and shall never more be found. This verse speaks of the loss of riches and splendor, the lament of the merchants, and the complete destruction of all desirable things.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.6819476378589044,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.27,
+            "commentatorTierSimilarities": [
+                47.15,
+                26.31,
+                26.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All the desire of thy soul, the riches and splendid things that thou cherished, are gone forever. The merchants who profited from thee shall stand afar off, full of fear of thy torment, weeping and mourning, exclaiming, Woe, woe, the great city! In just one hour, all thy wealth has been completely destroyed. The fruits that thy soul longed for, the sumptuous and dainty things, have perished and will never be found again.",
+            "wordCount": 73,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.6669664541417797,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.77,
+            "commentatorTierSimilarities": [
+                51.03,
+                21.31,
+                27.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

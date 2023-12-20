@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:47:41",
+    "verseRef": "Revelation 15:3",
+    "bestBHT": {
+        "bht": "The song of Moses and the Lamb joins together the triumphs of God's people in one grand celebration, acknowledging the greatness and wonder of God's works and the just and true ways of the King of the nations. It unifies the Old and New Testament churches, who are one in their conflicts and triumphs, with the Lamb leading this glorious song. This Hebraic anthem combines the expressions of the old and the new, praising the Glorified Messiah in the midst of a mighty congregation.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.0,
+        "qualityScore": 2.363282274330626,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+        "commentatorTierSimilarities": [
+            43.16,
+            28.41,
+            28.43
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The song of Moses is the song of the Lamb. In this great victory all the triumphs of God\u2019s people are included, and find their fulfil-ment.",
+            "Great and wonderful are thy works, Lord God Almighty: just and true are thy ways, thou King of the nations.",
+            "Their songs of triumph have become ours."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The New Testament song of the Lamb (that is, the song which the Lamb shall lead, as being 'the Captain of our salvation,' just as Moses was leader of the Israelites... The Churches of the Old and New Testament are essentially one in their conflicts and triumphs.\" ",
+            "The elect after their trials (especially those arising from the beast) shall be taken up before the vials of wrath be poured on the beast and his kingdom.\" ",
+            "The Lamb leads the song in honor of the Father amidst the great congregation. This is the 'new song' mentioned in Revelation 14:3."
+        ],
+        "Albert Barnes": [
+            "The redeemed would celebrate their delivery and redemption in a similar manner.",
+            "Great power was evinced in redeeming them; and that the interposition of the divine goodness in doing it was marvelous, or was such as to excite wonder and admiration.",
+            "All the acts or 'ways' of God in the redemption of his people had been characterized by justice and truth."
+        ],
+        "Marvin Vincent": [
+            "The song of Moses is the song of the Lamb.",
+            "The Old and the New Testament churches are one.",
+            "Great and marvelous are Thy works."
+        ],
+        "Philip Schaff": [
+            "The song, therefore, includes everything that God had done for His people alike in Old and New Testament times.\" ",
+            "Not His love towards His 'saints,' but His terror towards His enemies is celebrated.\" ",
+            "We meet with a double marvelling and a double worship, that of faith upon the one hand, and of fear upon the other."
+        ],
+        "Archibald T. Robertson": [
+            "A separate note of victory like that of Moses, though one song, not two.",
+            "John thus combines in Hebraic tone the expressions of the old and the new in the song to the Glorified Messiah.",
+            "John combines in Hebraic tone the expressions of the old and the new in the song to the Glorified Messiah."
+        ],
+        "John Gill": [
+            "Pharaoh was the very picture of the pope of Rome; his oppression and cruel usage of the Israelites represent the tyranny and cruelty of the Romish antichrist.",
+            "The song of the Lamb; the Lamb of God, who was slain for the sins of men; the same song of which mention is made, Revelation 5:9 the song of redeeming love, a song of praise for the blessings of grace which come through him, and of deliverance by him.",
+            "just and true are thy ways, thou King of saints: made so by his Father, and acknowledged by all his people, and especially at this time, when his kingdom will more visibly and gloriously appear."
+        ],
+        "John Wesley": [
+            "Great and wonderful are thy works, Lord God Almighty. Just and true are thy ways, O King of the nations.\" ",
+            "For thou only art gracious.\" ",
+            "For all the nations shall come and worship before thee."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The song of Moses and the Lamb is a powerful anthem that encompasses the triumphs and victories of God's people throughout the ages. It is a declaration of the greatness and wonder of God's works, acknowledging His just and true ways. This song unites the Old and New Testament churches, as they are one in their conflicts and triumphs. Just as Moses led the Israelites, the Lamb leads this new song, honoring the Father amidst a great congregation. It is a song of victory, celebrating the redemption of the elect after their trials, before the pouring of vials of wrath. This Hebraic song combines the expressions of the old and the new, praising the Messiah in all His glory. The redeemed joyfully join in this song, celebrating their deliverance and redemption.",
+            "wordCount": 133,
+            "quoteTokenProportion": 28.17,
+            "qualityScore": 2.201957959432859,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+            "commentatorTierSimilarities": [
+                43.49,
+                29.68,
+                26.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The song of Moses and the Lamb unites the triumphs of God's people throughout history, declaring the greatness and wonder of God's works and the just and true ways of the King of the nations. This song merges the Old and New Testament churches, as they are one in their conflicts and triumphs. Led by the Lamb, it is a song of victory for the elect after their trials. This Hebraic song combines the expressions of the old and the new, honoring the Glorified Messiah in a grand congregation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.3336282579037375,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.93,
+            "commentatorTierSimilarities": [
+                46.62,
+                25.61,
+                27.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The song of Moses is the song of the Lamb, a celebration of God's triumphs and the fulfillment of His people. It proclaims the greatness and marvel of God's works and the just and true ways of the King of the nations. This song unifies the Old and New Testament churches, joined in their conflicts and triumphs. Led by the Lamb, it is the anthem of victory for the elect after their trials. This Hebraic song melds the old and the new, glorifying the Messiah amidst a great congregation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.226753608277782,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.38,
+            "commentatorTierSimilarities": [
+                43.51,
+                27.09,
+                29.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The song of Moses and the Lamb joins together the triumphs of God's people in one grand celebration, acknowledging the greatness and wonder of God's works and the just and true ways of the King of the nations. It unifies the Old and New Testament churches, who are one in their conflicts and triumphs, with the Lamb leading this glorious song. This Hebraic anthem combines the expressions of the old and the new, praising the Glorified Messiah in the midst of a mighty congregation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.363282274330626,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.92,
+            "commentatorTierSimilarities": [
+                43.16,
+                28.41,
+                28.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The song of Moses and the Lamb is a powerful anthem that encompasses the triumphs and victories of God's people throughout the ages. It is a declaration of the greatness and wonder of God's works, acknowledging His just and true ways. This song unites the Old and New Testament churches, as they are one in their conflicts and triumphs. Just as Moses led the Israelites, the Lamb leads this new song, honoring the Father amidst a great congregation. It is a song of victory, celebrating the redemption of the elect after their trials.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.2437070868084716,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.94,
+            "commentatorTierSimilarities": [
+                43.73,
+                28.29,
+                27.98
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

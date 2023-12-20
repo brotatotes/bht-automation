@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:50:47",
+    "verseRef": "Revelation 20:10",
+    "bestBHT": {
+        "bht": "The devil, as the deceiver, along with the beast and the false prophet, will be cast into the lake of fire and brimstone, where they will experience unceasing torment day and night. This lake of fire represents the final and eternal condemnation of Satan, while day and night symbolize continuous suffering without any break. The exclusion of Satan from the Paradise regained emphasizes the absolute security of believers. This eternal punishment serves as a reminder of the irreversible choice of evil made by those destined for everlasting torment.",
+        "wordCount": 88,
+        "quoteTokenProportion": 35.59,
+        "qualityScore": 2.2783431504983334,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+        "commentatorTierSimilarities": [
+            35.21,
+            36.43,
+            28.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The devil their deceiver",
+            "The lake of fire and brimstone, where also are the beast and the false prophet",
+            "They shall be tormented by day and by night to the ages of the ages"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "lake of fire\u2014his final doom: as 'the bottomless pit' was his temporary prison.\" ",
+            "day and night\u2014figurative for without intermission... The same phrase is used of the external state of the blessed. As the bliss of these is eternal, so the woe of Satan and the lost must be.\" ",
+            "Satan shall not be permitted to enter this Paradise regained, to show the perfect security of believers, unlike the first Adam whom Satan succeeded in robbing of Paradise; and shall, like Pharaoh at the Rod Sea, receive in this last attempt his final doom."
+        ],
+        "Albert Barnes": [
+            "Satan, on the other hand, instead of being doomed at once to that final ruin, was confined for a season in a dark abyss, Revelation 20:1-3.",
+            "The gospel triumphs; the way is prepared for the final consummation.",
+            "The world then will have peace; the church will have rest; the great triumph will have been achieved."
+        ],
+        "Philip Schaff": [
+            "The last great enemy of the Church is now overcome and destroyed as the beast and the false prophet have already been.",
+            "He [the devil] is cast into the lake of fire, where all three are tormented for ever and ever.",
+            "It is presupposed in this everlasting torment that they have made their final and unchangeable choice of evil."
+        ],
+        "Archibald T. Robertson": [
+            "Into the lake of fire and brimstone...where are also the beast and the false prophet.",
+            "They shall be tormented...for 'day and night.'",
+            "For 'forever and ever.'"
+        ],
+        "John Gill": [
+            "And the devil that deceived them... was cast into the lake of fire and brimstone... to show what will be his final state and condition.",
+            "where the beast and false prophet are... for so many years have been companions in wickedness together.",
+            "and shall be tormented day and night for ever and ever... is a proof of the eternity of hell torments."
+        ],
+        "John Wesley": [
+            "And they \u2014 All these.",
+            "Shall be tormented day and night \u2014 That is, without any intermission. Strictly speaking, there is only night there: no day, no sun, no hope!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The devil, the deceiver, along with the beast and the false prophet, will meet their ultimate fate in the lake of fire and brimstone. In this eternal torment, they will be continuously tormented day and night, without respite. This lake of fire symbolizes the final and permanent doom of Satan, contrasting with his temporary prison in the bottomless pit. Day and night, in this context, signifies an unending state of suffering, just as the blessed experience eternal bliss. Satan's exclusion from the Paradise regained highlights the complete security of believers, unlike Adam who was deceived and robbed of Paradise. This castigation signifies the irreversible choice of evil made by those condemned to everlasting torment.",
+            "wordCount": 115,
+            "quoteTokenProportion": 29.87,
+            "qualityScore": 2.208252765010671,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.76,
+            "commentatorTierSimilarities": [
+                35.7,
+                35.15,
+                29.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The devil, as the deceiver, along with the beast and the false prophet, will be cast into the lake of fire and brimstone, where they will experience unceasing torment day and night. This lake of fire represents the final and eternal condemnation of Satan, while day and night symbolize continuous suffering without any break. The exclusion of Satan from the Paradise regained emphasizes the absolute security of believers. This eternal punishment serves as a reminder of the irreversible choice of evil made by those destined for everlasting torment.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 2.2783431504983334,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.1,
+            "commentatorTierSimilarities": [
+                35.21,
+                36.43,
+                28.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The devil, the deceiver, along with the beast and the false prophet, will face their ultimate doom in the lake of fire and brimstone. Their torment will be unceasing, day and night, for eternity. This lake of fire signifies Satan's final destiny, contrasting with his temporary imprisonment in the bottomless pit. Day and night represent uninterrupted suffering, highlighting the secure state of believers. The exclusion of Satan from Paradise regained reveals the stark difference, as believers will experience everlasting bliss.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.1985451780295735,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.44,
+            "commentatorTierSimilarities": [
+                36.51,
+                34.25,
+                29.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The devil, the deceiver, will be cast into the lake of fire along with the beast and the false prophet. In this eternal lake of fire and brimstone, their torment will be ceaseless, day and night, to the ages of ages. This final judgment signifies the irrevocable doom of Satan, contrasting with his temporary imprisonment. The continuous suffering without respite demonstrates the eternity of the punishment, emphasizing the everlasting consequences of their choice to embrace evil.",
+            "wordCount": 76,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.256667969996796,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.37,
+            "commentatorTierSimilarities": [
+                35.72,
+                36.14,
+                28.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The devil, who deceived them, shall be cast into the everlasting lake of fire and brimstone, where also the beast and the false prophet reside, and there they shall be tormented day and night, forever and ever. This lake of fire represents the permanent fate and condition of the devil, emphasizing the eternity of hell torments. The inclusion of the beast and the false prophet in this torment highlights their long-standing companionship in wickedness. The unending nature of the torment signifies the perpetual state of suffering in this place, with no hope or respite.",
+            "wordCount": 95,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.26234473329702,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.56,
+            "commentatorTierSimilarities": [
+                34.14,
+                34.94,
+                30.92
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

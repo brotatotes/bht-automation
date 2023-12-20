@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:44:26",
+    "verseRef": "Revelation 7:13",
+    "bestBHT": {
+        "bht": "And one of the elders, representing the Church, answered the unspoken question: Who are these, and where do they come from? This elder, symbolizing the Old and New Testament ministry, acted as the interpreter of this vision of the glorified Church. Although no question had been asked, the purpose of his response was to draw attention to this remarkable group deserving of observation. This elder's answer served to bring about a confession of ignorance, while also providing helpful hints for understanding this vision and the broader prophecy.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.68,
+        "qualityScore": 1.9520066210757845,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+        "commentatorTierSimilarities": [
+            34.54,
+            32.1,
+            33.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And one of the elders answered (on this use of the word answered see Matt. xi. 25, Deut. xxv. 9. The reply is made, not to words actually uttered, but to thoughts, or to circumstances requiring remark), saying to me...",
+            "the elders symbolizing the Church, one of them fitly stands out as the interpreter of this vision in which the glorified Church is represented",
+            "These that are clothed in the white robes, who are they, and whence came they (the questions are those ordinarily put when we seek for information respecting strangers; but put here for the sake of furnishing the explanation. Both inquiries are answered in ver. 14)?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One of the twenty-four elders, representing the Old and New Testament ministry, appropriately acts as interpreter of this vision of the glorified Church.\" ",
+            "These which are arrayed in white robes, WHO are they?"
+        ],
+        "Albert Barnes": [
+            "That is, as there understood, one of the representatives of the church before the throne.",
+            "The word 'answer,' with us, means 'to reply to something which has been said.' In the Bible, however, the word is not infrequently used in the beginning of a speech...",
+            "All those who are before the throne are represented as clothed in white robes, but the eye might be directed to a particular part of them as grouped together, and as having something special in their position or appearance."
+        ],
+        "Marvin Vincent": [
+            "Answered. In the sense of taking up speech in connection with some given occasion.\" ",
+            "These which are arrayed in the white robes, who are they?\" ",
+            "For what, render who, as Rev."
+        ],
+        "Philip Schaff": [
+            "The question is not asked by the Seer. It is addressed to him in order that his attention may be drawn to it with greater force.\" ",
+            "In chap, vi the four living creatures spoke, because they represented creation, and were the instruments of vengeance.",
+            "Now one of the elders speaks, because the elders represent the triumphant Church."
+        ],
+        "Archibald T. Robertson": [
+            "An elder intervenes, though no question has been asked to interpret the vision.",
+            "Prophetic predicate nominative put before 'who are they.'",
+            "Both 'who' and 'whence' as in Joshua 9:8."
+        ],
+        "John Gill": [
+            "This he said, not as being ignorant of them, or of the reason of their being clothed in this manner, nor of the place and state from whence they came, as appears by the account afterwards given of them by him.",
+            "to stir up John to take more notice of them, as being a body of men that were worthy of observation and contemplation.",
+            "to bring him to a confession of his ignorance; and that he might have an opportunity of giving him some hints about them, which might be useful to him, and to the churches, and for the explanation of this vision, and other parts of this prophecy."
+        ],
+        "John Wesley": [
+            "And one of the elders...",
+            "He answered St. John's desire to know...",
+            "Revelation 7:13-17 might have immediately followed the tenth verse..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And one of the elders, symbolizing the Church, stepped forward to answer the unspoken question: Who are these clothed in white robes and where do they come from? This elder, representing the Old and New Testament ministry, acted as the interpreter of this vision of the glorified Church. The purpose of his response was not to express ignorance, but rather to draw John's attention to this remarkable group of people deserving of observation and contemplation. The question was posed to bring John to a confession of his own ignorance and to provide him with insights that would be beneficial to him, the churches, and the understanding of this revelation.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.952413396068395,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                33.74,
+                31.25,
+                35.01
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And one of the elders, representing the Church, answered the unspoken question: Who are these, and where do they come from? This elder, symbolizing the Old and New Testament ministry, acted as the interpreter of this vision of the glorified Church. Although no question had been asked, the purpose of his response was to draw attention to this remarkable group deserving of observation. This elder's answer served to bring about a confession of ignorance, while also providing helpful hints for understanding this vision and the broader prophecy.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.9520066210757845,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                34.54,
+                32.1,
+                33.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "One of the elders, symbolizing the Church, answered the question: Who are they and where do they come from? This elder, representing the Old and New Testament ministry, served as the interpreter for this vision of the glorified Church. Though no direct question was asked, the purpose of the response was to bring awareness to this remarkable group deserving of observation. Through this answer, a confession of ignorance was elicited, along with hints that would be beneficial for understanding the vision and other parts of the prophecy.",
+            "wordCount": 87,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.8706858455571527,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                34.3,
+                32.47,
+                33.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "One of the elders, symbolizing the Church, provided an answer to the unspoken question: Who are these individuals in white robes and where did they come from? This elder, representing the Old and New Testament ministry, acted as the interpreter of this vision of the glorified Church. Although no explicit inquiry was made, this response sought to draw attention to this remarkable group and encourage contemplation. By acknowledging their own lack of knowledge, the elder offered insights that would benefit both John and the churches in understanding this revelation.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.930192188790409,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.52,
+            "commentatorTierSimilarities": [
+                35.28,
+                32.39,
+                32.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And one of the elders, symbolizing the Church, stepped forward to answer the unspoken question: Who are these clothed in white robes and where do they come from? This elder, representing the Old and New Testament ministry, acted as the interpreter of this vision of the glorified Church. The purpose of his response was not to express ignorance, but rather to draw John's attention to this remarkable group of people deserving of observation and contemplation. The question was posed to bring John to a confession of his own ignorance and to provide him with insights that would be beneficial to him, the churches, and the understanding of this revelation.",
+            "wordCount": 110,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.952413396068395,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.26,
+            "commentatorTierSimilarities": [
+                33.74,
+                31.25,
+                35.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

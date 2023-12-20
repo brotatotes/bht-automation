@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:49:39",
+    "verseRef": "Revelation 19:20",
+    "bestBHT": {
+        "bht": "The leaders of the Antichristian alliance, one representing political power and the other representing ecclesiastical power, are cast into the lake of fire, signifying the second death. This lake of fire is a symbol of the severe punishment reserved for these enemies of God. Their defeat is inevitable, as they are taken captive and thrown into the lake of fire, showing the extreme folly of their resistance against the true religion. It is a fitting end for those who have deceived and opposed God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 37.04,
+        "qualityScore": 2.1291406783420794,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+        "commentatorTierSimilarities": [
+            31.88,
+            36.01,
+            32.12
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The two were cast alive into the lake of fire which burneth with brimstone.",
+            "This lake of fire constitutes the second death.",
+            "These only, and not the Lord\u2019s human enemies yet, are cast into eternal punishment."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Many expositors represent the first beast to be the secular, the second beast to be the ecclesiastical power of Rome; and account for the change of title for the latter from the 'other beast' to the 'false prophet,' is because by the judgment on the harlot, the ecclesiastical power will then retain nothing of its former character save the power to deceive.",
+            "The first beast is a political power; the second is a spiritual power\u2014the power of ideas. But both are beasts, the worldly Antichristian wisdom serving the worldly Antichristian power. The dragon is both lion and serpent.",
+            "The world at the highest development of its material and spiritual power is but a decorated carcass round which the eagles gather. It is characteristic that Antichrist and his kings, in their blindness, imagine that they can wage war against the King of heaven with earthly hosts; herein is shown the extreme folly of Babylonian confusion."
+        ],
+        "Albert Barnes": [
+            "The general idea is, that these armies were overcome, and that the Messiah was victorious; but there is a propriety in the representation here that the leaders - the authors of the war should be taken captive, and reserved for severer punishment than death on the battlefield would be...",
+            "The whole representation is that of an alliance to prevent the spread of the true religion, as if the papacy and Mohammedanism were combined, and the one was sustained by the pretended miracles of the other.",
+            "The overthrow will be as signal, and the destruction as complete, as if the leaders of the combined hosts should be taken alive, and thrown into a pit or lake that burns with an intense heat."
+        ],
+        "Marvin Vincent": [
+            "Was taken [\u03b5\u03c0\u03b9\u03b1\u03c3\u03b8\u03b7] . See on Acts 3:7. ",
+            "Mark. See on ch. Revelation 13:16. ",
+            "Lake [\u03bb\u03b9\u03bc\u03bd\u03b7\u03bd] . See on Luke 5:1. ",
+            "Brimstone. See on ch. Revelation 14:10."
+        ],
+        "Philip Schaff": [
+            "The description given in this verse can leave no doubt that we have here the two enemies of chap. 13, the beast and the lamb-like beast with the two horns.",
+            "The 'lake of fire' is again mentioned in chaps. Revelation 20:10; Revelation 20:14, and Revelation 21:8."
+        ],
+        "Archibald T. Robertson": [
+            "The day that sees the end of a false statecraft will see also that of a false priestcraft.\" ",
+            "It is a different figure from the 'abyss' in Revelation 9:1; Revelation 20:1. This is the final abode of Satan, the beast, the false prophet, and wicked men.",
+            "The fact of hell is clearly taught here, but the imagery is not to be taken literally."
+        ],
+        "John Gill": [
+            "And the beast was taken...and carried away captive...\" ",
+            "These both were cast alive into a lake of fire burning with brimstone; which is the second death...\" ",
+            "The phrase denotes the awfulness, inevitableness, and severity of their punishment..."
+        ],
+        "John Wesley": [
+            "These two ungodly men were cast alive - Without undergoing bodily death.",
+            "Here is the last of the beast. After several repeated strokes of omnipotence, he is gone alive into hell.",
+            "Surely, none but the beast of Rome would have hardened himself thus against the God he pretended to adore, or refused to have repented under such dreadful, repeated visitations!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The two leaders, one representing political power and the other representing spiritual power, are cast into the lake of fire, which signifies the second death. The first beast, representing secular power, and the second beast, representing ecclesiastical power, both contribute to the Antichristian alliance. However, their defeat is inevitable, as they are taken captive and thrown into the lake of fire. This lake of fire is not to be taken literally, but symbolizes the severe punishment reserved for these enemies of God. It is a fitting end for those who have deceived and opposed the true religion.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0512110838938495,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                31.89,
+                38.05,
+                30.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The leaders of the Antichristian alliance, one representing political power and the other representing ecclesiastical power, meet their ultimate defeat and are cast alive into the lake of fire, which serves as the second death. This symbolic lake of fire signifies the severe punishment reserved for those who have opposed the true religion. Their captivity and this fiery punishment emphasize the inevitability and severity of their fate, highlighting the folly of their resistance against God.",
+            "wordCount": 75,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.0497366846465646,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                30.86,
+                35.57,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The leaders of the Antichristian alliance, one representing political power and the other representing ecclesiastical power, meet their ultimate defeat and are cast alive into the lake of fire, which constitutes the second death. This lake of fire symbolizes the severe punishment reserved for those who have opposed the true religion. Their captivity and fiery punishment emphasize the inevitability and severity of their fate, highlighting the extreme folly of their resistance against God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.050815188060625,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                31.32,
+                35.02,
+                33.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The two leaders, one representing political power and the other representing spiritual power, are cast into the lake of fire, which signifies the second death. The first beast, representing secular power, and the second beast, representing ecclesiastical power, both contribute to the Antichristian alliance. However, their defeat is inevitable, as they are taken captive and thrown into the lake of fire. This lake of fire is not to be taken literally, but symbolizes the severe punishment reserved for these enemies of God. It is a fitting end for those who have deceived and opposed the true religion.",
+            "wordCount": 97,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.0512110838938495,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.54,
+            "commentatorTierSimilarities": [
+                31.89,
+                38.05,
+                30.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The leaders of the Antichristian alliance, one representing political power and the other representing ecclesiastical power, are cast into the lake of fire, signifying the second death. This lake of fire is a symbol of the severe punishment reserved for these enemies of God. Their defeat is inevitable, as they are taken captive and thrown into the lake of fire, showing the extreme folly of their resistance against the true religion. It is a fitting end for those who have deceived and opposed God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.1291406783420794,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                31.88,
+                36.01,
+                32.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

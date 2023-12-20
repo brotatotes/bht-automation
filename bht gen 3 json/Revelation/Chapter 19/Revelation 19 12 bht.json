@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:49:20",
+    "verseRef": "Revelation 19:12",
+    "bestBHT": {
+        "bht": "The victorious Messiah is depicted with eyes as a flame of fire and many diadems on His head, signifying His universal reign and authority over earthly and heavenly powers. His unknown name, written on His forehead, represents the unveiling of His full identity in due time and the ultimate union between Him and His Church. Through His omniscience, He discerns the secret schemes of His enemies, while His multiple diadems symbolize His kingship over all nations.",
+        "wordCount": 76,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.08740675011646,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+        "commentatorTierSimilarities": [
+            26.51,
+            33.44,
+            40.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His eyes [were as] a flame of fire (ch. i. 14 verbatim, again beyond question identifying Him), and upon His head many diadems (probably"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Christ's diadem comprises all the diadems of the earth and of heavenly powers too.",
+            "These usurpers claim the diadems which belong to Christ alone.",
+            "The Lord's own 'new name' is to be theirs, and to be 'in their foreheads'; whence we may infer that His as yet unknown name also is written on His forehead."
+        ],
+        "Albert Barnes": [
+            "His eyes were as a flame of fire - See the notes on Revelation 1:14.",
+            "And on his head were many crowns - Many diadems, indicative of his universal reign.",
+            "That no man knew but he himself - See the notes on Revelation 2:17."
+        ],
+        "Marvin Vincent": [
+            "Crowns [\u03b4\u03b9\u03b1\u03b4\u03b7\u03bc\u03b1\u03c4\u03b1] . See on 1 Peter 5:4; James 1:12."
+        ],
+        "Philip Schaff": [
+            "The description of the Lord given in this verse sums up various characteristics of Him mentioned in earlier parts of the book.",
+            "The many diadems are in token of His rule over the many nations of the world.",
+            "It must be some name which shall be fully understood only when the union between the Redeemer and His Church is perfected."
+        ],
+        "Archibald T. Robertson": [
+            "The victorious Messiah will wear many royal diadems and not mere crowns, because he is King of kings.",
+            "A name written... as in Revelation 2:17 (cf. Revelation 3:12).",
+            "This word here supplements what Jesus says in Matthew 11:27."
+        ],
+        "John Gill": [
+            "Which denotes the perspicuity and penetration of them, the omniscience of Christ to look into and discover the secret machinations, schemes, and devices of his enemies against his people, and his exercise of it in favour of them.",
+            "And on his head were many crowns; for he has not only a crown, as the Creator and Governor of the universe, in right of nature, but he has one which his Father has put upon his head.",
+            "And he had a name written that no man knew but he himself; which seems to be his name, the Son of God, as the unknown name of the overcomer, in Revelation 2:17 is a child of God."
+        ],
+        "John Wesley": [
+            "And his eyes are a flame of fire... an emblem of his omniscience.",
+            "And upon his head are many diadems... For he is king of all nations.",
+            "And he hath a name written, which none knoweth but himself... As God he is incomprehensible to every creature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes the victorious Messiah with eyes as a flame of fire and many diadems on His head. These diadems represent His reign as King of kings, while His unknown name, written on His forehead, signifies His authority and the completion of the union between Him and His Church. With His omniscience, He sees and understands the secret schemes of His enemies and exercises His power in favor of His people. As the all-knowing and incomprehensible God, His reign extends to all nations, signified by the many diadems upon His head.",
+            "wordCount": 93,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.089628798653946,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                26.63,
+                33.48,
+                39.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The victorious Messiah is depicted with fiery eyes and adorned with numerous diadems, symbolizing His universal rule and authority over earthly and heavenly powers. His unknown name, inscribed on His forehead, signifies the future revelation of His full identity and the completion of His union with the Church. With His omniscience, He discerns and counteracts the secret plots of His adversaries while supporting His people. Being the incomprehensible God, His reign extends globally, as represented by the multiple diadems on His head.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.886826874325779,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                24.44,
+                35.14,
+                40.42
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The victorious Messiah is depicted with eyes as a flame of fire and many diadems on His head, signifying His universal reign and authority over earthly and heavenly powers. His unknown name, written on His forehead, represents the unveiling of His full identity in due time and the ultimate union between Him and His Church. Through His omniscience, He discerns the secret schemes of His enemies, while His multiple diadems symbolize His kingship over all nations.",
+            "wordCount": 76,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.08740675011646,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.75,
+            "commentatorTierSimilarities": [
+                26.51,
+                33.44,
+                40.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The description of the triumphant Messiah reveals His fiery eyes and numerous diadems, highlighting His universal sovereignty as the King of kings. His unknown name, written on His forehead, signifies the ultimate revelation of His identity and the completion of His union with the Church. With His all-knowing nature, He detects and counteracts the hidden schemes of His foes, while His multiple diadems emphasize His rule over all nations. As the inscrutable God, His reign extends to the farthest reaches, surpassing human comprehension.",
+            "wordCount": 84,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.8776066809033507,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                23.28,
+                35.84,
+                40.88
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The victorious Messiah is portrayed with fiery eyes and multiple diadems on His head, representing His universal dominion as the King of kings. His unknown name written on His forehead signifies the future revelation of His full identity and the ultimate union between Him and His Church. His omniscience enables Him to perceive the secret schemes of His adversaries, and the abundance of diadems symbolizes His kingship over all nations. His reign surpasses human understanding, for He is the unfathomable God.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.9982727225582533,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                25.04,
+                34.46,
+                40.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

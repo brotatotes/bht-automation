@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:39:29",
+    "verseRef": "Revelation 1:14",
+    "bestBHT": {
+        "bht": "The whiteness of Jesus' head and hair signifies purity and glory. His eyes, described as a flame of fire, represent the perspicacity of the divine mind, penetrating all secrets. This imagery reflects His energy, power of command, and consuming indignation against sin. The metaphors of white wool and a flame of fire draw upon Old Testament references, emphasizing the eternal nature of Christ and His omniscience.",
+        "wordCount": 66,
+        "quoteTokenProportion": 21.28,
+        "qualityScore": 1.8980361912712702,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+        "commentatorTierSimilarities": [
+            34.51,
+            33.09,
+            32.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The whiteness signifies purity and glory, not as Augustine and others think, eternity, either here or in Dan. vii. 9.",
+            "His eyes as a flame of fire...representing perhaps, as Vitringa says, 'the perspicacity of the divine and pure mind, piercing all secrets.'",
+            "The 'fiery eye' among the sons of men, is indicative of energy and power of command: so also in the Son of man Himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "like white wool... signifying purity and glory.\" ",
+            "eyes... as... flame\u2014all-searching and penetrating like fire.",
+            "implying consuming indignation against sin... at His coming 'in flaming fire, taking vengeance' on all the ungodly."
+        ],
+        "Albert Barnes": [
+            "His head and his hairs were white like wool, as white as snow - Exceedingly or perfectly white - the first suggestion to the mind of the apostle being that of wool, and then the thought occurring of its extreme whiteness resembling snow - the purest white of which the mind conceives.\" ",
+            "The representation was suited to signify majesty and authority; and this would be best accomplished by the image of one who was venerable in years.",
+            "And his eyes were as a flame of fire - Bright, sharp, penetrating; as if everything was light before them, or they would penetrate into the thoughts of people."
+        ],
+        "Archibald T. Robertson": [
+            "As white wool... The person of the Lord Jesus is here described in language largely from Daniel 7:9 (the Ancient of Days).\" ",
+            "White as snow... In N.T. only here and Matthew 28:3.",
+            "As a flame of fire... See also Revelation 2:18; Revelation 19:12 for this bold metaphor (like Hebrews 1:7)."
+        ],
+        "John Gill": [
+            "In allusion to the white head and hairs of old men, said to be hoary, or like the hoar frost, and compared to an almond tree in bloom, Ecclesiastes 12:5; and here to wool and snow for whiteness.",
+            "These metaphors are expressive of the antiquity of Christ, who is the everlasting Father, and whose goings forth were of old, even from everlasting.",
+            "Which may design the omniscience of Christ, which reaches to all persons, and things, and is very searching and penetrating, and discovers and brings to light things the most dark and obscure."
+        ],
+        "John Wesley": [
+            "His head and his hair - That is, the hair of his head, not his whole head.",
+            "Wool is commonly supposed to be an emblem of eternity.",
+            "And his eyes as a flame of fire \u2014 Piercing through all things; a token of his omniscience."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The imagery in this verse is rich with symbolism. The white head and hair of Jesus signify purity and glory, emphasizing His divine nature and authority. His eyes, described as a flame of fire, represent His penetrating and all-knowing gaze, able to discern the deepest secrets. This imagery reflects the attributes of Christ's divinity, his righteous indignation against sin, and his coming judgment. The use of the metaphors of white wool and a flame of fire draws upon Old Testament references, highlighting the continuity between the Old and New Testaments in conveying the eternal nature of Christ and His omniscience.",
+            "wordCount": 102,
+            "quoteTokenProportion": 22.73,
+            "qualityScore": 1.7554972185221498,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.71,
+            "commentatorTierSimilarities": [
+                33.17,
+                32.97,
+                33.86
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The whiteness of Jesus' head and hair symbolizes his purity and glory. His eyes, described as a flame of fire, represent the perspicacity of his divine mind, able to penetrate all secrets. This imagery reflects His energy, power of command, and consuming indignation against sin. By using metaphors of white wool and a flame of fire, the verse draws from Old Testament references to highlight the eternal nature of Christ and His omniscience, making a connection between the Old and New Testaments.",
+            "wordCount": 82,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.847567076341324,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.77,
+            "commentatorTierSimilarities": [
+                33.97,
+                33.42,
+                32.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The white head and hair of Jesus symbolize His purity and glory, while His eyes, described as a flame of fire, represent the penetrating and all-knowing nature of His gaze. This imagery highlights His divine attributes, as well as His righteous indignation against sin and His coming judgment. By drawing upon metaphors of white wool and a flame of fire, the verse establishes a connection between the Old and New Testaments, emphasizing the eternal nature of Christ and His omniscience.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 1.9526445183854704,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.27,
+            "commentatorTierSimilarities": [
+                33.28,
+                33.08,
+                33.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The whiteness of Jesus' head and hair signifies purity and glory. His eyes, described as a flame of fire, represent the perspicacity of the divine mind, penetrating all secrets. This imagery reflects His energy, power of command, and consuming indignation against sin. The metaphors of white wool and a flame of fire draw upon Old Testament references, emphasizing the eternal nature of Christ and His omniscience.",
+            "wordCount": 66,
+            "quoteTokenProportion": 21.28,
+            "qualityScore": 1.8980361912712702,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.45,
+            "commentatorTierSimilarities": [
+                34.51,
+                33.09,
+                32.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The whiteness of Jesus' head and hair signifies purity and glory, not as an indication of eternity but rather to convey His divine nature. His eyes, like a flame of fire, represent the all-searching and penetrating gaze of His omniscient mind. The imagery of white wool and a fiery eye underscores Christ's energy, power of command, and consuming indignation against sin. These metaphors draw upon Old Testament references, pointing to the continuity between the Old and New Testaments in conveying Christ's eternal nature and divine attributes.",
+            "wordCount": 89,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 1.8890952306523778,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.15,
+            "commentatorTierSimilarities": [
+                33.57,
+                32.9,
+                33.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

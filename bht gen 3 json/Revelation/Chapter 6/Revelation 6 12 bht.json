@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:43:32",
+    "verseRef": "Revelation 6:12",
+    "bestBHT": {
+        "bht": "In this vision, the heavens are shaken, as well as the sea and the dry land. The sun becomes black as sackcloth of hair, and the whole moon turns into blood. This imagery depicts the immediate coming of the day of the Lord, signaling a necessary preliminary to the establishment of unshakable things. The parallelism with Matthew 24:29 further underscores the significance of this event, emphasizing the shaking of the powers of the heavens. The darkness of the sun symbolizes the removal of pagan gods, while the moon turning into blood suggests the downfall of idolatry.",
+        "wordCount": 95,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.5175791526591502,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+        "commentatorTierSimilarities": [
+            60.93,
+            0.0,
+            39.07
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For here the heavens are shaken, and the sea, and the dry land.",
+            "The sun became black as sackcloth of hair",
+            "The whole moon became as blood"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This passage...answers to Matthew 24:29; Matthew 24:30, 'the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven;...then shall all the tribes of the earth mourn, and they shall see the Son of man coming'; imagery describing the portents of the immediate coming of the day of the Lord; but not the coming itself...\" ",
+            "earthquake\u2014Greek, 'shaking' of the heavens, the sea, and the dry land; the shaking of these mutable things being the necessary preliminary to the setting up of those things which cannot be shaken.",
+            "moon\u2014A, B, C, and oldest versions read, 'the whole moon' the full moon; not merely the crescent moon."
+        ],
+        "Marvin Vincent": [
+            "The parallelism between the two is, to a certain extent, acknowledged by all inquirers, and is indeed, in many respects, so obvious, that it can hardly escape the notice of even the ordinary reader.",
+            "The word here is not necessarily confined to shaking the earth. In Matthew 24:29, it is predicted that the powers of the heavens shall be shaken.",
+            "Black as sackcloth of hair. Compare Matthew 24:29; Isaiah 50:3; Isaiah 13:10; Jeremiah 4:23; Ezekiel 32:7, Ezekiel 32:8; Joel 2:31; Joel 3:15; Amos 8:9, Amos 8:10; Micah 3:6."
+        ],
+        "Archibald T. Robertson": [
+            "There was a great earthquake...Jesus spoke of earthquakes in his great eschatological discourse...The reference is not a local earthquake like those so common in Asia Minor.",
+            "As sackcloth of hair...coarse garment of hair...clinging to one like a sack...Here the hair is that of the black goat.",
+            "As blood...Peter's interpretation of Joel should make us cautious about too literal an exegesis of these grand symbols."
+        ],
+        "John Gill": [
+            "This seal belongs to the destruction of the Roman empire by the Goths, Huns, Vandals, etc. but it should be observed, that the empire stood some hundreds of years after the end of the fifth seal and the opening of this.",
+            "But to proceed; the business which is the subject of this seal is the removing of Paganism, and Pagan governors out of the Roman empire; this was the thing the rider upon the white horse, under the first seal, set out upon to effect, and never ceased until he had accomplished it.",
+            "The sun was the chief deity worshipped by the Heathens, under various names, and this becoming black, may design the removing of their principal gods from their honour and glory, or the downfall of idolatry."
+        ],
+        "John Wesley": [
+            "This sixth seal seems particularly to point out God's judgment on the wicked departed.",
+            "St. John saw how the end of the world was even then set before those unhappy spirits.",
+            "And there was a great earthquake \u2014 Or shaking, not of the earth only, but the heavens."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 6:12, the imagery describes the portents of the immediate coming of the day of the Lord, but not the coming itself. Here, the heavens, sea, and dry land are shaken, the sun becomes black like sackcloth of hair, and the whole moon turns into blood. This shaking of the mutable things is a necessary preliminary to the setting up of those things which cannot be shaken. The parallelism between this verse and Matthew 24:29, where the powers of the heavens shall be shaken, is acknowledged. The great earthquake mentioned here is not a local one but a significant event, just as Jesus spoke of earthquakes in his eschatological discourse. The blackness of the sun represents the removing of the principal gods of the pagans, and the whole moon becoming blood may symbolize the downfall of idolatry.",
+            "wordCount": 136,
+            "quoteTokenProportion": 35.37,
+            "qualityScore": 1.6380546206485507,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.81,
+            "commentatorTierSimilarities": [
+                54.55,
+                0.0,
+                45.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The imagery in this passage describes the immediate coming of the day of the Lord, with the heavens, sea, and land being shaken. The sun turns black like sackcloth of hair, and the full moon becomes like blood. This shaking is a necessary preliminary to the establishment of unshakable things. The parallelism with Matthew 24:29 is evident, as both passages speak of the shaking of the powers of the heavens. The blackness of the sun represents the removing of the principal gods of the pagans, while the whole moon turning into blood may signify the downfall of idolatry. This vivid imagery highlights the judgment of God upon the wicked.",
+            "wordCount": 108,
+            "quoteTokenProportion": 29.23,
+            "qualityScore": 1.468908328397895,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.18,
+            "commentatorTierSimilarities": [
+                55.14,
+                0.0,
+                44.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Here, the heavens, sea, and dry land are shaken as the sun becomes black like sackcloth and the whole moon turns into blood. This imagery describes the portents of the immediate coming of the day of the Lord. The shaking of these mutable things is a necessary preliminary to the setting up of those things that cannot be shaken. The parallelism with Matthew 24:29 is acknowledged, where the powers of the heavens shall be shaken. The blackness of the sun signifies the removing of the principal gods of the pagans, and the whole moon turning into blood may represent the downfall of idolatry.",
+            "wordCount": 102,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.5942572659044603,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                57.15,
+                0.0,
+                42.85
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this vision, the heavens are shaken, as well as the sea and the dry land. The sun becomes black as sackcloth of hair, and the whole moon turns into blood. This imagery depicts the immediate coming of the day of the Lord, signaling a necessary preliminary to the establishment of unshakable things. The parallelism with Matthew 24:29 further underscores the significance of this event, emphasizing the shaking of the powers of the heavens. The darkness of the sun symbolizes the removal of pagan gods, while the moon turning into blood suggests the downfall of idolatry.",
+            "wordCount": 95,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.5175791526591502,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.8,
+            "commentatorTierSimilarities": [
+                60.93,
+                0.0,
+                39.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this vivid portrayal, the shaking of the heavens, sea, and dry land is accompanied by the sun turning black like sackcloth and the entire moon becoming blood. These powerful symbols signify the impending arrival of the day of the Lord, where sweeping changes are about to take place. The parallelism with Matthew 24:29 underscores the significance of these portents as a necessary precursor to the establishment of unshakable things. The blackness of the sun represents the removal of pagan deities, while the moon turning to blood symbolizes the decline of idolatry.",
+            "wordCount": 91,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.516621970723405,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                55.01,
+                0.0,
+                44.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:40:04",
+    "verseRef": "Revelation 1:13",
+    "bestBHT": {
+        "bht": "In the midst of the candlesticks, one resembling the Son of Man stood, adorned in a garment reaching to the feet and girt with a golden girdle. This long garment signified high rank and office, representing Christ's role as the ruler and organizer of His Church. His glory, resulting from His humble incarnation, was manifest as the Son of Man. The garment and girdle symbolized His priesthood, embodying righteousness, faithfulness, and collected powers. This depiction showcased Christ's fullness as both a priest and a king, exalted in heavenly majesty.",
+        "wordCount": 91,
+        "quoteTokenProportion": 23.73,
+        "qualityScore": 2.042366750305549,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+        "commentatorTierSimilarities": [
+            34.1,
+            29.51,
+            36.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and in the midst of the candlesticks one like to the Son of Man, clothed in a garment reaching to the feet, and girt round at the breasts with a golden girdle.",
+            "This long garment was a sign of high rank or office.",
+            "Christ is here in fulness of energy as ruler and orderer of His Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "His glory (as Son of man, not merely Son of God) is the result of His humiliation as Son of man.",
+            "The garment and girdle seem to be emblems of His priesthood.",
+            "The girdle bracing the frame together, symbolizes collected powers. Righteousness and faithfulness are Christ's girdle."
+        ],
+        "Albert Barnes": [
+            "In the vision as it appeared to John, there was not one lampbearer, with seven lamps or branches, but there were seven lamp-bearers, so arranged that one in the likeness of the Son of man could stand in the midst of them.",
+            "The expression rendered 'like unto the Son of man,' should have been 'like unto a son of man'; that is, like a man, a human being, or in a human form.",
+            "The raiment here assumed was not that of a priest, but that of a king. It was very far from being that in which the Redeemer appeared when he dwelt upon the earth, and was rather designed to denote his royal state as he is exalted in heaven."
+        ],
+        "Philip Schaff": [
+            "In the description given, the first thing mentioned is the Saviour\u2019s garb, a garment down to the foot... It was thus not only a priestly but a royal robe.\" (100 words)",
+            "The Son of man, therefore, is not here at rest, but is engaged in discharging the functions, whatever they are, which belong to Him as a Priest for ever.\" (32 words)",
+            "We have before us not only a Priest but a King, One who is already a Priest upon His throne, a Priest after the order of Melchizedec. But the thought of the King is prominent.\" (34 words)"
+        ],
+        "Archibald T. Robertson": [
+            "The absence of the article here shows also (Charles) that the idea is not 'like the Son of man' for Christ is the Son of man. He is like 'a son of man,' but not a man.",
+            "High girding like this was a mark of dignity as of the high priest.",
+            "Note also \u03c7\u03c1\u03c5\u03c3\u03b1\u03bd (vernacular Koine) rather than the old form, \u03c7\u03c1\u03c5\u03c3\u03b7\u03bd."
+        ],
+        "John Gill": [
+            "Christ is manifestly designed, who, as a divine Person, appeared in a form like that individual human nature which was at his Father's right hand.",
+            "Christ was seen by John in the midst of the candlesticks or churches, and among whom he walked, which is expressive of his presence in his churches.",
+            "Christ's girdle, as a King, is the girdle of faithfulness and righteousness, which is about his loins; and his girdle, as a prophet, is the girdle of truth; but, as a priest, it is the girdle of love."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, we see a vivid description of the Son of Man, clothed in a long garment reaching to the feet and girt with a golden girdle. This attire symbolizes His high rank and office as the ruler and orderer of His Church. It represents His glory, which is the result of His humble incarnation as the Son of man. Moreover, the garment and girdle serve as emblems of His priesthood, highlighting his righteousness and faithfulness. The absence of the definite article in like the Son of man shows that while Christ is the Son of man, He is also like a son of man, but not a mere man. This image of high girding denotes His dignity as a high priest and signifies Christ's collected powers. Overall, this description portrays Christ in His fullness as both a priest and a king, with the garb symbolizing His royal state in heaven.",
+            "wordCount": 153,
+            "quoteTokenProportion": 28.75,
+            "qualityScore": 2.0818132578509143,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.56,
+            "commentatorTierSimilarities": [
+                32.6,
+                32.21,
+                35.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the midst of the candlesticks, there stood one who resembled the Son of Man, adorned in a long garment that signified high rank and office. This attire highlighted Christ's role as the ruler and organizer of His Church, emphasizing His glory resulting from His humble incarnation. The garment and girdle symbolized His priesthood, representing righteousness and faithfulness. This image of high girding conveyed dignity, resembling that of a high priest. The absence of the definite article demonstrated that while Christ is the Son of man, He is also like a son of man, but not a mere man. Thus, this description portrays Christ's fullness as both a priest and a king, adorned in regal attire.",
+            "wordCount": 118,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.0275787103210967,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.76,
+            "commentatorTierSimilarities": [
+                32.37,
+                31.49,
+                36.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the candlesticks, there stood one resembling the Son of Man, donning a long garment reaching to the feet and adorned with a golden girdle. This attire symbolized high rank and office, representing Christ's role as the ruler and orderer of His Church. The absence of the definite article in like the Son of man highlighted His unique identity as not just a man, but as the Son of Man. The garment and girdle served as emblems of His priesthood, signifying righteousness, faithfulness, and collected powers. This image portrayed Christ's fullness as both a priest and a king, exalted in heavenly glory.",
+            "wordCount": 107,
+            "quoteTokenProportion": 24.62,
+            "qualityScore": 2.049091559662014,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.47,
+            "commentatorTierSimilarities": [
+                33.03,
+                31.0,
+                35.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the midst of the candlesticks, one resembling the Son of Man stood, adorned in a garment reaching to the feet and girt with a golden girdle. This long garment signified high rank and office, representing Christ's role as the ruler and organizer of His Church. His glory, resulting from His humble incarnation, was manifest as the Son of Man. The garment and girdle symbolized His priesthood, embodying righteousness, faithfulness, and collected powers. This depiction showcased Christ's fullness as both a priest and a king, exalted in heavenly majesty.",
+            "wordCount": 91,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 2.042366750305549,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.25,
+            "commentatorTierSimilarities": [
+                34.1,
+                29.51,
+                36.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the midst of the candlesticks, the Son of Man, resembling a divine and human figure, stood clothed in a long garment reaching to the feet and girt with a golden girdle. This attire indicated His high rank and office as the ruler and orderer of His Church. His garment represented not only His priesthood but also His kingly status, emphasizing His royal state as He reigns in heaven. The absence of the definite article emphasized His unique identity as the Son of Man, distinct from any other man. This vivid portrayal showcased Christ's fullness as both a priest and a king.",
+            "wordCount": 103,
+            "quoteTokenProportion": 27.94,
+            "qualityScore": 1.9912763693307696,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.55,
+            "commentatorTierSimilarities": [
+                31.73,
+                32.64,
+                35.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

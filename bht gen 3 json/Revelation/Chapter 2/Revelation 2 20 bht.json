@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:04",
+    "verseRef": "Revelation 2:20",
+    "bestBHT": {
+        "bht": "The figure of Jezebel thy wife represents the severe reproof towards any influencer leading the Thyatiran church astray. Her shrewdness and sex-appeal enticed the servants of God and advocated for false teaching and idolatry. The church lacked zeal for godly discipline and doctrine, creating an imbalance with their faith and love. Her actions mirrored the historical Jezebel who drove out the worship of God. The church should expect purity in teaching, but she allied herself with sin instead.",
+        "wordCount": 79,
+        "quoteTokenProportion": 29.31,
+        "qualityScore": 2.0054667022929795,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+        "commentatorTierSimilarities": [
+            37.54,
+            31.03,
+            31.43
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The figure of 'Jezebel thy wife' being once recognized in its historical import, it would not be needful that an individual woman should be found to answer to it: the conscience of the Thyatiran church could not fail to apply the severe reproof to whatever influence was being exerted in the direction here indicated.\" ",
+            "The denunciation of such a teacher under such a title would be at once startling and decisive.\" ",
+            "The fact that this was the prevalent direction of the false teaching of the day is important in a chronological point of view."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The symbolical Jezebel was to the Church of Thyatira what Jezebel, Ahab's \"wife,\" was to him.",
+            "She seems to have been herself a priestess and prophetess of Baal.",
+            "Thyatira was just the reverse of Ephesus. There, much zeal for orthodoxy, but little love; here, activity of faith and love, but insufficient zeal for godly discipline and doctrine."
+        ],
+        "Albert Barnes": [
+            "The kind of character, therefore, which would be designated by the term as used here, would be that of a woman who was artful and persuasive in her manner; who was capable of exerting a wide influence over others; who had talents of a high order; who was a thorough advocate of error; who was unscrupulous in the means which she employed for accomplishing her ends; and the tendency of whose influence was to lead the people into the abominable practices of idolatry.",
+            "Every sentiment of our nature makes us feel that it is right to expect that if a woman teaches at all in a public manner, she should inculcate only what is true and holy - she should be an advocate of a pure life.",
+            "The custom of attending on the festivals of idols led commonly to licentiousness, and they who were gross and sensual in their lives were fit subjects to be persuaded to attend on idol feasts - for nowhere else would they find more unlimited toleration for the indulgence of their passions."
+        ],
+        "Philip Schaff": [
+            "The very head and front of the church\u2019s sin was, not that it merely tolerated false teaching and sinful practices in its midst, but that it had allied itself with them.",
+            "The sins into which the persons alluded to sought to betray the church are now mentioned. They are the sins already spoken of in the case of Pergamos; yet there is at the same time an important distinction. At Pergamos the evil came from an outward source, Balaam; at Thyatira from an inward source, Jezebel.",
+            "The former was a Gentile Prophet; the latter was the wife of the King of Israel. Mark the progress."
+        ],
+        "Archibald T. Robertson": [
+            "The woman Jezebel... guilty of whoredom and witchcraft... sought to drive out the worship of God from Israel.\" ",
+            "She is the pastor's wife!",
+            "One is puzzled to know how such a woman had so much shrewdness and sex-appeal as to lead astray the servants of God in that church."
+        ],
+        "John Gill": [
+            "The impartiality of Christ may be observed in taking notice of the bad deeds, as well as of the good ones of his people.",
+            "His tenderness in representing them as few.",
+            "The church of Rome, for her idolatrous worship of images, for her whoredoms, both in a literal and spiritual sense, and for the witchcrafts, magic, and devilish arts many of her popes have been addicted to."
+        ],
+        "John Wesley": [
+            "But thou sufferest that woman Jezebel \u2014 who ought not to teach at all.\" ",
+            "This Jezebel, fitly called by her name, from the resemblance between their works, led them to partake in the idolatry of the heathens.",
+            "This she seems to have done by first enticing them to fornication, just as Balaam did: whereas at Pergamos they were first enticed to idolatry, and afterwards to fornication."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The figure of Jezebel thy wife in Revelation 2:20 symbolizes the influence of false teaching within the church. This woman, like the historical Jezebel, was a priestess and prophetess of Baal who sought to drive out the worship of God. She was persuasive and had shrewdness and sex-appeal to lead astray the servants of God. The Thyatiran church had an imbalance - they had faith and love, but lacked zeal for godly discipline and doctrine. The church should expect purity in teaching, but this woman advocated error and led people into idolatry. She allied herself with sin instead of confronting it, and her influence was marked by licentiousness.",
+            "wordCount": 107,
+            "quoteTokenProportion": 32.88,
+            "qualityScore": 2.02279434006189,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.6,
+            "commentatorTierSimilarities": [
+                38.76,
+                31.82,
+                29.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The figure of Jezebel thy wife in this verse represents the severe reproof towards any influencer leading the Thyatiran church astray. With her shrewdness and sex-appeal, she enticed the servants of God and advocated for false teaching and idolatry. The Thyatiran church lacked zeal for godly discipline and doctrine, creating an imbalance with their faith and love. Her actions mirrored the historical Jezebel who drove out the worship of God in Israel. The church should expect purity in teaching, but she allied herself with sin instead.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.0035046034069257,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+            "commentatorTierSimilarities": [
+                37.21,
+                31.41,
+                31.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The figure of Jezebel thy wife represents the severe reproof towards any influencer leading the Thyatiran church astray. Her shrewdness and sex-appeal enticed the servants of God and advocated for false teaching and idolatry. The church lacked zeal for godly discipline and doctrine, creating an imbalance with their faith and love. Her actions mirrored the historical Jezebel who drove out the worship of God. The church should expect purity in teaching, but she allied herself with sin instead.",
+            "wordCount": 79,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 2.0054667022929795,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.02,
+            "commentatorTierSimilarities": [
+                37.54,
+                31.03,
+                31.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The figure of Jezebel thy wife in this passage symbolizes a severe reproof aimed at any influencer leading the Thyatiran church astray. This woman, described as a priestess and prophetess of Baal, enticed believers with her shrewdness and sex-appeal, driving them away from the worship of God. While the church possessed faith and love, they lacked the necessary zeal for godly discipline and doctrine. The woman Jezebel represented the prevalent false teaching of the time, seeking to lead believers astray and weakening the church's foundation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 2.1363483958703604,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.37,
+            "commentatorTierSimilarities": [
+                39.59,
+                30.32,
+                30.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The figure of Jezebel thy wife in this verse serves as a severe reproof to any influencer leading the Thyatiran church astray. This woman, a priestess and prophetess of Baal, possessed shrewdness and sex-appeal, enticing believers and diverting them from true worship. The church, while strong in faith and love, lacked sufficient zeal for godly discipline and doctrine. Jezebel's influence represented prevalent false teaching, with the intent to mislead believers, resulting in a weakened foundation for the church.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.9514859826511508,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.23,
+            "commentatorTierSimilarities": [
+                40.51,
+                30.82,
+                28.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

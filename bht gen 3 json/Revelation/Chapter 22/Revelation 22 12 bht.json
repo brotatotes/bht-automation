@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:51:02",
+    "verseRef": "Revelation 22:12",
+    "bestBHT": {
+        "bht": "Behold, I come quickly, and my reward is with me, spoken by our Lord, emphasizes the imminence of Christ's second coming and the certainty of the reward awaiting each individual. Just as the Lord rewards both the wicked and the righteous, every person will receive their rightful recompense according to their deeds. Let us, therefore, be prepared and diligent in presenting works that are pleasing to the Lord, for each one will be given their due reward based on their own actions.",
+        "wordCount": 83,
+        "quoteTokenProportion": 46.77,
+        "qualityScore": 2.4086363681014182,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.43,
+        "commentatorTierSimilarities": [
+            26.16,
+            36.06,
+            37.78
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold I come quickly, and my reward is with me.\" ",
+            "To render to each as his work is.\" ",
+            "These words sound as if spoken by our Lord himself."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "behold, I come quickly\" (Compare Revelation 22:7).",
+            "my reward is with me\" (Isaiah 40:10; Isaiah 62:11).",
+            "to give... every man... shall be\" (Greek, \"to render.\" Greek, \"to each.\" Greek, \"is.\")"
+        ],
+        "Albert Barnes": [
+            "The period when the unchanging sentence would be passed on each individual - on the unjust, the filthy, the righteous, and the holy - would not be remote.",
+            "The design of this seems to be to impress on the mind the solemnity of the truth that the condition hereafter will soon be fixed, and to lead people to prepare for it.",
+            "What thought could there be more adapted to impress on the mind the importance of giving immediate attention to the concerns of the soul?"
+        ],
+        "Marvin Vincent": [
+            "My reward is with me [\u03bf \u03bc\u03b9\u03c3\u03b8\u03bf\u03c2 \u03bc\u03bf\u03c5 \u03bc\u03b5\u03c4 \u03b5\u03bc\u03bf\u03c5]. Misqov reward is strictly wages.\" ",
+            "To give [\u03b1\u03c0\u03bf\u03b4\u03bf\u03c5\u03bd\u03b1\u03b9]. Lit., to give back or in return for, thus appropriate to misqov reward.\" ",
+            "Hence Rev., better, render. See on give an account, Luke 16:2; and gave, Acts 4:33."
+        ],
+        "Philip Schaff": [
+            "Every man whose work is pleasing to the Lord shall receive the welcome and the blessing which the faithful Lord is ready to bestow."
+        ],
+        "Archibald T. Robertson": [
+            "My reward is with me... He speaks now as the Rewarder of Hebrews 11:6.\" ",
+            "Each will receive the reward according to his own work.\" ",
+            "To render... to give back."
+        ],
+        "John Gill": [
+            "And, behold, I come quickly,..... This is repeated, to confirm the truth of Christ's second coming, and the speediness of it, and to point at the time when the above shall be, and to add what follows.",
+            "There is a reward of debt, or a due reward, a reward of punishment, which is the just recompense of reward, which shall be righteously given to wicked men for their sin.",
+            "There is a reward of grace, which is also called the recompence of reward, the reward of the inheritance, which is no other than the gift of eternal life, which God of his free grace bestows upon his people."
+        ],
+        "John Wesley": [
+            "Come quickly \u2014 To judge the world.",
+            "And my reward is with me \u2014 The rewards which I assign both to the righteous and the wicked are given at my coming.",
+            "To give to every man according as his work \u2014 His whole inward and outward behaviour shall be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, I come quickly, and my reward is with me, declares the Lord himself. These words emphasize both the imminence of Christ's second coming and the certainty of the reward that awaits each individual. Just as the Lord is the Rewarder, each person will receive their due recompense, whether it is the just punishment for the wicked or the gracious gift of eternal life for the righteous. Therefore, let us be prepared and diligent in presenting our works that are pleasing to the Lord, for each one will be given their rightful reward according to their own actions.",
+            "wordCount": 99,
+            "quoteTokenProportion": 45.59,
+            "qualityScore": 2.251701710531538,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.21,
+            "commentatorTierSimilarities": [
+                26.84,
+                35.64,
+                37.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, I come quickly, and my reward is with me, spoken by our Lord, signifies the imminent second coming and the sureness of the reward to be given. Just as God is the Rewarder, according to each person's work, they will receive either the deserved punishment or the gracious gift of eternal life. We ought to be ready and diligent, striving to please the Lord, as the reward for our deeds will be rendered accordingly.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.275539795024354,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.0,
+            "commentatorTierSimilarities": [
+                27.06,
+                35.05,
+                37.88
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, I come quickly, and my reward is with me, declares the Lord himself. These words confirm the truth of Christ's imminent second coming and the promptness with which rewards will be given. The reward is not limited to a mere gift, but a just recompense according to each individual's work. Let us be mindful that the Lord, who is faithful in rewarding, will render to every person in accordance with their deeds.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.2251905441079325,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                29.14,
+                34.47,
+                36.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, I come quickly, and my reward is with me, proclaims the Lord himself, underscoring the imminence of his second coming and the certainty of the forthcoming rewards for each person. Just as the Lord is the Rewarder, everyone will receive their rightful recompense based on their works. Indeed, the reward is not merely a gift but a fair and fitting retribution. Therefore, may we be vigilant and earnest, endeavoring to lead lives that are pleasing to the Lord, fully aware that our ultimate reward will correspond to our actions.",
+            "wordCount": 90,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 2.197122173526625,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.39,
+            "commentatorTierSimilarities": [
+                27.58,
+                35.71,
+                36.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, I come quickly, and my reward is with me, spoken by our Lord, emphasizes the imminence of Christ's second coming and the certainty of the reward awaiting each individual. Just as the Lord rewards both the wicked and the righteous, every person will receive their rightful recompense according to their deeds. Let us, therefore, be prepared and diligent in presenting works that are pleasing to the Lord, for each one will be given their due reward based on their own actions.",
+            "wordCount": 83,
+            "quoteTokenProportion": 46.77,
+            "qualityScore": 2.4086363681014182,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.43,
+            "commentatorTierSimilarities": [
+                26.16,
+                36.06,
+                37.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

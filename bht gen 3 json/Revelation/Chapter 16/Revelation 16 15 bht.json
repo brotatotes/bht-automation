@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:48:07",
+    "verseRef": "Revelation 16:15",
+    "bestBHT": {
+        "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly. Those who watch and keep their garments of righteousness, acquired through faith in Him, will be blessed. Neglecting these garments will lead to walking naked, stripped of righteousness and exposed in shame. Therefore, believers must remain vigilant, guarding against sin and staying prepared for Christ's coming. Let us be found watching, clothed in the garments of justification and sanctification, so that we may be accepted and not ashamed before men and angels.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.91,
+        "qualityScore": 2.061931592729525,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+        "commentatorTierSimilarities": [
+            32.0,
+            30.15,
+            37.86
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold, I come as a thief: blessed is he that watcheth, and keepeth his garments...\" ",
+            "In the spiritual sense, the garments are the robe of righteousness put on by faith in Him who is our Righteousness...",
+            "...the walking naked is that destitution of these garments which will at that day bring shame before assembled men and angels."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The gathering of the world kings with the beast against the Lamb is the signal for Christ's coming; therefore He here gives the charge to be watching for His coming and clothed in the garments of justification and sanctification, so as to be accepted.",
+            "thief\u2014 (Matthew 24:43; 2 Peter 3:10).",
+            "shame\u2014literally, 'unseemliness' (Greek, 'aschemosunee'): Greek, 1 Corinthians 13:5: a different word from the Greek in 1 Corinthians 13:5- : (Greek, 'aischunee')."
+        ],
+        "Albert Barnes": [
+            "Behold, I come as a thief - That is, suddenly and unexpectedly.",
+            "Blessed is he that watcheth...he who watches for these events...is in a better and happier state of mind than he on whom they come suddenly and unexpectedly.",
+            "The essential idea, therefore, here, is the duty of vigilance...we are to be ready for death - ready for the coming of the Son of man."
+        ],
+        "Marvin Vincent": [
+            "Behold - shame.",
+            "During the night the captain of the Temple made his rounds. On his approach the guards had to rise and salute him in a particular manner. Any guard found asleep when on duty was beaten, or his garments were set on fire.",
+            "Shame [\u03b1\u03c3\u03c7\u03b7\u03bc\u03bf\u03c3\u03c5\u03bd\u03b7\u03bd] . Only here and Romans 1:27. From aj not and schma fashion. Deformity, unseemliness; nearly answering to the phrase not in good form."
+        ],
+        "Philip Schaff": [
+            "Behold, I come as a thief. The Lord Himself speaks, not the Seer in His name. The words are those of Matthew 24:1; Matthew 25:1, Mark 13:34, Luke 12:37, and they embrace the thought both of the suddenness of Christ\u2019s coming, and of the destruction which it brings with it to the wicked.",
+            "In the remaining words of the verse the Seer seems to take up the strain, as he pronounces blessedness upon him who is ready for the events of the day so rapidly approaching.",
+            "Similar parentheses occur at chaps. Revelation 13:9 and Revelation 14:12."
+        ],
+        "Archibald T. Robertson": [
+            "Behold, I come as a thief.\" ",
+            "Lest he walk naked.\" ",
+            "And they see his shame."
+        ],
+        "John Gill": [
+            "and give them a word of caution and exhortation in these times of difficulty.",
+            "blessed is he that watcheth; against sin, the lusts of the flesh, and the cares of this life",
+            "lest he walk naked; \u05e2\u05e8\u05d5\u05dd \u05de\u05df \u05d4\u05de\u05e6\u05d5\u05ea b, 'naked of the commandments', or good works"
+        ],
+        "John Wesley": [
+            "Behold, I come as a thief \u2014 Suddenly, unexpectedly. Observe the beautiful abruptness.",
+            "Happy is he that watcheth. \u2014 Looking continually for him that 'cometh quickly.' And keepeth on his garments - Which men use to put off when they sleep.",
+            "Lest he walk naked, and they see his shame \u2014 Lest he lose the graces which he takes no care to keep, and others see his sin and punishment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly, signaling His imminent return. Those who watch and keep their garments of righteousness, acquired through faith in Christ, will be blessed. However, those who neglect their garments will walk naked, stripped of their righteousness and exposed in shame before both men and angels. Therefore, it is essential that believers remain vigilant, guarding against sin and staying prepared for Christ's coming. May we be found watching, clothed in the garments of justification and sanctification, that we may be accepted and not ashamed.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0391754013507524,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                32.07,
+                30.34,
+                37.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly. Those who watch and keep their garments of righteousness, acquired through faith in Christ, will be blessed. Those who neglect their garments will walk naked, exposed in shame before both men and angels. Therefore, it is essential that believers remain vigilant, guarding against sin and staying prepared for Christ's coming. May we be found watching, clothed in the garments of justification and sanctification, that we may be accepted and not ashamed.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.0434740308024018,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.29,
+            "commentatorTierSimilarities": [
+                32.17,
+                30.45,
+                37.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly. Those who watch and keep their garments of righteousness, acquired through faith in Him, will be blessed. Neglecting these garments will lead to walking naked, stripped of righteousness and exposed in shame. Therefore, believers must remain vigilant, guarding against sin and staying prepared for Christ's coming. Let us be found watching, clothed in the garments of justification and sanctification, so that we may be accepted and not ashamed before men and angels.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.061931592729525,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                32.0,
+                30.15,
+                37.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly. Those who watch and keep their garments of righteousness, acquired through faith in Him, will be blessed. Those who neglect their garments will walk naked, exposed in shame. Therefore, believers must remain vigilant, guarding against sin and staying prepared for Christ's coming. Let us be found watching, clothed in the garments of justification and sanctification, accepted and not ashamed before men and angels.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.044635958833215,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.33,
+            "commentatorTierSimilarities": [
+                31.8,
+                29.78,
+                38.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, the Lord comes as a thief, suddenly and unexpectedly. Those who watch and keep their garments of righteousness, acquired through faith in Him, will be blessed. The essential duty is vigilance, being ready for death and the coming of the Son of Man. Neglecting the garments will lead to shame and walking naked. Therefore, believers must remain vigilant, guarding against sin and staying prepared for Christ's coming. Let us be found watching, clothed in the garments of justification and sanctification, accepted and not ashamed.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.9698623657762298,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.84,
+            "commentatorTierSimilarities": [
+                30.48,
+                32.74,
+                36.78
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

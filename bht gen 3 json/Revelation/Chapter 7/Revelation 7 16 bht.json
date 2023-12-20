@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:44:24",
+    "verseRef": "Revelation 7:16",
+    "bestBHT": {
+        "bht": "Those who have been redeemed will no longer hunger or thirst as they did in this life. It represents the absence of strong human appetites and the fulfillment of deep longings in a realm free from hunger, thirst, and suffering. Like travelers finding their peaceful home after a challenging journey through scorching deserts, believers will no longer endure the burning wind or the heat of the sun. This promise refutes materialistic or sensual views of the afterlife and assures believers that their needs will be fully satisfied.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.94,
+        "qualityScore": 2.053248378429969,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+        "commentatorTierSimilarities": [
+            27.2,
+            39.93,
+            32.87
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "They shall not hunger any more, nor yet thirst any more.",
+            "Neither shall the sun ever light upon them, no, nor any heat.",
+            "The burning wind, the sirocco, which word is used in Isa. xlix. 10, from whence this whole sentence is taken."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "hunger no more\u2014as they did here.",
+            "thirst any more\u2014\" ( :-).",
+            "the sun\u2014literally, scorching in the East. Also, symbolically, the sun of persecution."
+        ],
+        "Albert Barnes": [
+            "The bodies which the redeemed will have - spiritual bodies 1 Corinthians 15:44 - will doubtless be such as will be nourished in some other way than by food, if they require any nourishment; and whatever that nourishment may be, it will be fully supplied.",
+            "It is easy to conceive of persons suffering so intensely from thirst that the highest vision of felicity would be such a promise as that in the words before us - 'neither thirst anymore.'",
+            "Perhaps the whole image here is that of travelers who have been on a long journey, exposed to hunger and thirst, wandering in the burning sands of the desert, and exposed to the fiery rays of the sun, at length reaching their quiet and peaceful home, where they would find safety and abundance."
+        ],
+        "Marvin Vincent": [
+            "They shall hunger no more, etc. Compare Isaiah 49:10. ",
+            "Heat [\u03ba\u03b1\u03c5\u03bc\u03b1] . In Isaiah 49:10, the word kauswn the scorching wind or sirocco is used. See on Matthew 20:12; James 1:11."
+        ],
+        "Archibald T. Robertson": [
+            "They shall hunger no more... neither thirst any more... neither shall strike... nor any heat.\" ",
+            "The two strong human appetites will be gone, a clear refutation of a gross materialistic or sensual conception of the future life.",
+            "The use of the negative with \u03c0\u03b1\u03bd (all) for 'not any' is common in N.T. Cf. Psalms 121:6."
+        ],
+        "John Gill": [
+            "They shall hunger no more, nor thirst any more... in a literal and corporeal sense.",
+            "There will be no famine of the word; for though there will not be the outward ministration of the word, as now, the substance of it will be enjoyed.",
+            "Nor the heat of Satan's temptations, or his fiery darts; nor of any fiery trial, or sore affliction."
+        ],
+        "John Wesley": [
+            "Neither shall the sun light on them \u2014 For God is there their sun. Nor any painful heat, or inclemency of seasons."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 7:16, we are told that those who have been redeemed shall not hunger any more, nor yet thirst any more. This goes beyond simply satisfying physical needs, but it is instead a refutation of a materialistic or sensual view of the future life. The image of hunger and thirst being gone is a powerful one, representing the absence of the two strong human appetites. Additionally, it conveys the idea of travelers finally reaching their peaceful home after a long journey in the scorching desert, where they no longer experience the burning wind or the heat of the sun. This verse assures believers that their deepest longings will be fulfilled in a realm free from hunger, thirst, and any form of suffering.",
+            "wordCount": 122,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.056422563300168,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                28.67,
+                40.44,
+                30.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who have been redeemed will no longer hunger or thirst as they did in this life. This promise extends beyond physical needs, challenging a materialistic or sensual view of the future. The image of hunger and thirst being gone represents the absence of strong human appetites. It also conveys the idea of weary travelers finding their peaceful home after a challenging journey through the scorching desert, where they no longer endure the burning wind or the heat of the sun. Believers can find assurance in this verse that their deepest longings will be fulfilled in a realm devoid of hunger, thirst, and suffering.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 2.063172151402254,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                28.86,
+                39.57,
+                31.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future life, those who have been redeemed will no longer hunger or thirst as they did in this world. This promise extends beyond fulfilling physical needs and refutes materialistic or sensual views of the afterlife. It symbolizes the absence of strong human appetites and depicts weary travelers finding solace after enduring a challenging journey through scorching deserts and the blazing heat of the sun. This verse provides believers with the comforting assurance that their deepest longings will be satisfied in a realm where hunger, thirst, and suffering are no more.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.0004379231160048,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.86,
+            "commentatorTierSimilarities": [
+                27.03,
+                41.14,
+                31.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who have been redeemed will no longer hunger or thirst as they did in this life. It represents the absence of strong human appetites and the fulfillment of deep longings in a realm free from hunger, thirst, and suffering. Like travelers finding their peaceful home after a challenging journey through scorching deserts, believers will no longer endure the burning wind or the heat of the sun. This promise refutes materialistic or sensual views of the afterlife and assures believers that their needs will be fully satisfied.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 2.053248378429969,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.61,
+            "commentatorTierSimilarities": [
+                27.2,
+                39.93,
+                32.87
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who have been redeemed will no longer hunger or thirst as they did in this life. This promise extends beyond fulfilling physical needs and refutes materialistic or sensual views of the afterlife. It symbolizes the absence of strong human appetites and depicts weary travelers finding solace after enduring a challenging journey through scorching deserts and the blazing heat of the sun. This verse assures believers that their deepest longings will be satisfied in a realm where hunger, thirst, and suffering are no more.",
+            "wordCount": 84,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.0600805788332277,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.84,
+            "commentatorTierSimilarities": [
+                27.98,
+                39.73,
+                32.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

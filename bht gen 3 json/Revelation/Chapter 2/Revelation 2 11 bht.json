@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:39:50",
+    "verseRef": "Revelation 2:11",
+    "bestBHT": {
+        "bht": "The promise gives great precision and certainty: there is no chance that he should be injured by the second death, which awaits the wicked after judgment. Affliction, like it, may be bitter for the time being, but it preserves the elect from corruption and seasons them for immortality. The Christians put to death in persecution will at least escape this second death, this eternal punishment.",
+        "wordCount": 65,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.1919297365885826,
+        "qualityScoreNormalizedComparedToV2BHTs": 64.22,
+        "commentatorTierSimilarities": [
+            32.19,
+            27.8,
+            40.01
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The form in the original gives great precision and certainty to the promise: there is no chance that he should be.",
+            "He that conquereth shall not be injured by the second death.",
+            "In this he shall have no part, nor it any power over him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "shall not by any means (or possibly) be hurt.",
+            "The death in life of the lost, as contrasted with the life in death of the saved.",
+            "Affliction, like it, is bitter for the time being, but salutary; preserving the elect from corruption, and seasoning them for immortality, and gives scope for the exercise of the fragrantly breathing Christian virtues."
+        ],
+        "Albert Barnes": [
+            "A solemn threat that, unless they repented, he would come against them, and inflict summary punishment on them.\" ",
+            "The city of Pergamos stood about twenty miles from the sea. It was on the northern bank of the river, at the base and on the declivity of two high and steep mountains.",
+            "The fanes of Jupiter and Diana, of Aesculapius and Venus, are prostrate in the dust; and where they have not been carried away by the Turks, to be cut up into tombstones or to pound into mortar, the Corinthian and Ionic columns, the splendid capitals, the cornices and the pediments, all in the highest ornament, are thrown into unsightly heaps."
+        ],
+        "Marvin Vincent": [
+            "Be hurt [\u03b1\u03b4\u03b9\u03ba\u03b7\u03b8\u03b7] . Strictly, wronged.",
+            "Second death. An expression peculiar to the Revelation.",
+            "The death awaiting the wicked after judgment."
+        ],
+        "Philip Schaff": [
+            "He that over-cometh shall in no wise be hurt of the second death.",
+            "The expression is taken from the Jewish theology, and denotes the death that follows judgment.",
+            "The lessons taught to the church at Smyrna may well have been present to the soul of Polycarp, Bishop of that see, in his hour of agony, and may have powerfully contributed to sustain that glorious martyr, who was so eminently 'faithful unto death.'"
+        ],
+        "Archibald T. Robertson": [
+            "Shall not be hurt... to do harm or wrong to one.",
+            "The idea is present in Daniel 12:3; John 5:29 and is current in Jewish circles... It is not annihilation.",
+            "The Christians put to death in the persecution will at least escape this second death (eternal punishment)."
+        ],
+        "John Gill": [
+            "he that overcometh; and is not intimidated by poverty, confiscation of goods, tribulation, persecution, and death itself, but through Christ is a conqueror, and more than a conqueror over all these things.\" ",
+            "shall not be hurt of the second death; by which is meant eternal death, in distinction from a corporeal and temporal one; and lies in a destruction of both body and soul in hell, and in an everlasting separation from God, and a continual sense of divine wrath.",
+            "but the second death is peculiar to wicked men."
+        ],
+        "John Wesley": [
+            "The second death \u2014 The lake of fire, the portion of the fearful, who do not overcome, Revelation 21:8."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The promise gives great precision and certainty: there is no chance that he should be injured by the second death, which awaits the wicked after judgment. Affliction, like it, may be bitter for the time being, but it preserves the elect from corruption, seasons them for immortality, and allows the exercise of fragrantly breathing Christian virtues. The Christians put to death in persecution will at least escape this second death, this eternal punishment.",
+            "wordCount": 73,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 2.234350496136785,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.63,
+            "commentatorTierSimilarities": [
+                32.17,
+                27.78,
+                40.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The promise gives great precision and certainty: there is no chance that he should be injured by the second death, which awaits the wicked after judgment. Affliction, like it, may be bitter for the time being, but it preserves the elect from corruption and seasons them for immortality. The Christians put to death in persecution will at least escape this second death, this eternal punishment.",
+            "wordCount": 65,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.1919297365885826,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.22,
+            "commentatorTierSimilarities": [
+                32.19,
+                27.8,
+                40.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He who conquers shall not be injured by the second death. This promise brings great certainty to the believer, assuring them that no harm or wrong will come to them from the second death. The second death, a concept unique to Revelation, refers to the eternal punishment and separation from God that awaits the wicked after judgment. In contrast, those who overcome will be preserved from corruption and seasoned for immortality. Even in times of affliction and persecution, the faithful are protected from the bitter death in life that the lost experience. This promise of deliverance from the second death is a source of hope and encouragement to believers.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.134053589422536,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.3,
+            "commentatorTierSimilarities": [
+                29.05,
+                27.75,
+                43.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He that conquereth shall not be injured by the second death. This promise assures believers with great precision and certainty that they will not be harmed or wronged by the second death, which refers to the eternal punishment awaiting the wicked. Instead, the faithful are protected from corruption and seasoned for immortality, finding solace in their afflictions as it strengthens their Christian virtues. This promise of deliverance from the second death is a source of hope and encouragement in the face of persecution and serves as a reminder of their ultimate victory.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.1683664514586996,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.44,
+            "commentatorTierSimilarities": [
+                30.37,
+                28.95,
+                40.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He who conquers shall not be injured by the second death. This promise affirms with great precision and certainty that believers will be safeguarded from any harm or wrong brought upon by the second death, which represents the eternal punishment awaiting the wicked. In the midst of affliction and persecution, this pledge offers solace and encouragement, assuring that the faithful will be preserved from corruption, seasoned for immortality, and protected from the bitter death in life experienced by the lost.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.2557821839591075,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.35,
+            "commentatorTierSimilarities": [
+                30.23,
+                28.07,
+                41.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

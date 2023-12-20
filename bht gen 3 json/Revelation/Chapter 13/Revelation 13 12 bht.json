@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:32",
+    "verseRef": "Revelation 13:12",
+    "bestBHT": {
+        "bht": "The second beast in question serves and upholds the power and authority of the first beast, symbolizing the non-existence of the beast during the Germanic Christian period and its resurgence in beast-like outbreaks since 1789. This imagery represents the Church's transformation into the worldly power and false prophet, while the second beast represents Papal Rome. It enforces the authority of provincial priests of emperor-worship, making war with the saints and ruling over consciences in a tyrannical manner. Submission to the temporal power of the Papacy is demanded to support its worldly power and grandeur.",
+        "wordCount": 97,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.9612106131190759,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+        "commentatorTierSimilarities": [
+            33.85,
+            23.83,
+            42.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And it worketh all the power (performs all the acts of authority) of the first beast in his presence.\" ",
+            "Being in a relation to it of serving and upholding.",
+            "Whose wound of death was healed."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The non-existence of the beast embraces the whole Germanic Christian period.",
+            "The healing of the wound and return of the beast is represented in that principle which, since 1789, has manifested itself in beast-like outbreaks.",
+            "The Church becomes the harlot: the world's political power, the Antichristian beast; the world's wisdom and civilization, the false prophet."
+        ],
+        "Albert Barnes": [
+            "This shows a remarkable relationship between these two beasts; and proves that it was intended to refer to the same power substantially, though manifested in a different form.",
+            "In fact, on these points they have been identical. The one has sustained the other; either one would long since have fallen if it had not been upheld by the other.",
+            "The Roman civil power would have long ago lost all its influence and been unknown if it had not been for the papacy; and, in fact, all the influence which it has had since the irruption of the northern barbarians...can be traced to that new power which arose in the form of the papacy."
+        ],
+        "Philip Schaff": [
+            "The words 'before him' are to be connected with 'exerciseth;' and they are again a travesty of that 'before God' which we find predicated of the Son, of the Spirit, and of the saints.\" ",
+            "This second beast is 'before' the first, in his presence, sustained by him, ministering to him, doing his pleasure.",
+            "We have here an unmistakable description of the first beast, not as he appeared in the earlier stages of his manifestation under the first five heads, but as he appeared under the sixth, after he had been slain and had risen to life."
+        ],
+        "Archibald T. Robertson": [
+            "The second beast carries on the succession of authority from the dragon and the first beast.",
+            "It has been a common Protestant interpretation since the Reformation to see in the first beast Pagan Rome and in the second beast Papal Rome.",
+            "Clearly the delegated authority of the provincial priests of the emperor-worship is rigorously enforced, if this is the correct interpretation."
+        ],
+        "John Gill": [
+            "Making war with the saints by preaching and writing against them, by anathemas, excommunications, and bulls, and so overcame and silenced them.",
+            "Ruling over the consciences of men in a tyrannical way, in all nations, kindreds, and tongues, in the empire.",
+            "To be subject to the temporal power of the Papacy, or to submit to the pope as a temporal lord, to give homage and tribute to him, and the like, in order to support his worldly power and grandeur."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The second beast in Revelation 13:12 is depicted as having the authority and power of the first beast, serving and upholding it. This symbolism refers to the non-existence of the beast during the Germanic Christian period, but its resurgence and manifestation in beast-like outbreaks since 1789. The Church itself becomes the worldly power and the false prophet, while the second beast carries on the authority of the first and represents Papal Rome. This interpretation sees the second beast enforcing the delegated authority of the provincial priests of the emperor-worship, demonstrating a rigorous enforcement of power. Ultimately, this beast makes war with the saints, ruling over the consciences of men in a tyrannical way, and demanding submission to the temporal power of the Papacy.",
+            "wordCount": 124,
+            "quoteTokenProportion": 28.77,
+            "qualityScore": 2.0848485511902752,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.66,
+            "commentatorTierSimilarities": [
+                37.42,
+                26.99,
+                35.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The second beast in question, which has the power and authority of the first, serves and upholds it. This represents the non-existence of the beast during the Germanic Christian period and its subsequent resurgence with beast-like outbreaks since 1789. The Church itself transforms into the worldly power and the false prophet. The delegated authority of the provincial priests of the emperor-worship is rigorously enforced, as the second beast carries on the succession of authority from the first. It is interpreted as Papal Rome, making war with the saints and ruling over the consciences of men in a tyrannical way.",
+            "wordCount": 101,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9213580369725682,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                38.54,
+                26.58,
+                34.87
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The second beast in Revelation 13:12 shares the power and authority of the first beast, serving and upholding it. This symbolizes the non-existence of the beast during the Germanic Christian period, its resurgence in beast-like outbreaks since 1789, and the Church becoming the worldly power and false prophet. The second beast enforces the authority of the provincial priests of emperor-worship, representing Papal Rome. This interpretation sees the second beast making war with the saints, ruling over consciences in a tyrannical way, and demanding submission to the temporal power of the Papacy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.096845765092502,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.06,
+            "commentatorTierSimilarities": [
+                37.71,
+                25.46,
+                36.84
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The second beast, described in Revelation, possesses the power and authority of the first beast, serving and upholding it. This signifies the non-existence of the beast during the Germanic Christian period, followed by its resurgence in beast-like outbreaks since 1789. The Church transforms into the worldly power and false prophet, while the second beast represents Papal Rome. The interpretation highlights the enforcement of authority by the second beast, specifically related to the provincial priests of emperor-worship. This interpretation depicts the second beast engaging in warfare against the saints and ruling over consciences in a tyrannical manner, demanding submission to the temporal power of the Papacy.",
+            "wordCount": 107,
+            "quoteTokenProportion": 26.15,
+            "qualityScore": 2.019275402905835,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.48,
+            "commentatorTierSimilarities": [
+                38.63,
+                27.63,
+                33.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The second beast in question serves and upholds the power and authority of the first beast, symbolizing the non-existence of the beast during the Germanic Christian period and its resurgence in beast-like outbreaks since 1789. This imagery represents the Church's transformation into the worldly power and false prophet, while the second beast represents Papal Rome. It enforces the authority of provincial priests of emperor-worship, making war with the saints and ruling over consciences in a tyrannical manner. Submission to the temporal power of the Papacy is demanded to support its worldly power and grandeur.",
+            "wordCount": 97,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.9612106131190759,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.55,
+            "commentatorTierSimilarities": [
+                33.85,
+                23.83,
+                42.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

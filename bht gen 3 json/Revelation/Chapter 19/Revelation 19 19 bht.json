@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:36",
+    "verseRef": "Revelation 19:19",
+    "bestBHT": {
+        "bht": "The wild-beast and kings of the earth gather their armies to make war against the One who sits upon the horse and His army. They form a diverse and numerous alliance, united under various leaders. This epic battle, referred to as Armageddon, encompasses different powers and dominions, including the Western and Eastern antichrists. However, their futile attempts to wage war against the divine figure on the white horse, who is the Word of God, the great God, the King of kings, and Lord of lords, are ultimately destined for failure.",
+        "wordCount": 91,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.5668538129667375,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+        "commentatorTierSimilarities": [
+            31.73,
+            22.95,
+            45.31
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I saw the wild-beast (ch. xiii. 1), and the kings of the earth and their armies gathered together...to make their war...with Him that sitteth upon the horse and with his army.\" ",
+            "They are many, and under various leaders.",
+            "singular, probably as being one, and having one Head."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "gathered together\u2014at Armageddon, under the sixth vial.",
+            "But A and B read, 'the war,' namely, that foretold, Revelation 16:14; Revelation 17:4.",
+            "For 'their armies' in B and ANDREAS, there is found 'His armies' in A."
+        ],
+        "Albert Barnes": [
+            "There can be no doubt that the writer in these passages designed to refer to the same events - the still future scenes that are to occur when the Roman, the pagan, and the Muhammedan powers shall be aroused to make common cause against the true religion.\" ",
+            "The Messiah - the Son of God.",
+            "The hosts that are associated with him - his redeemed people."
+        ],
+        "Philip Schaff": [
+            "No doubt the \u2018war\u2019 is that of chap. Revelation 16:14.",
+            "The thought of the unity of the one compared with the inner dissensions of the other lies at the bottom of the change.",
+            "The \u2018army\u2019 of the latter is in the singular; the \u2018armies\u2019 of the former are in the plural."
+        ],
+        "Archibald T. Robertson": [
+            "Gathered together (\u03c3\u03c5\u03bd\u03b7\u03b3\u03bc\u03b5\u03bd\u03b1). In battle array.",
+            "To make war against (\u03c0\u03bf\u03b9\u03b7\u03c3\u03b1 \u03c0\u03bf\u03bb\u03b5\u03bc\u03bf\u03bd \u03bc\u03b5\u03c4\u03b1).",
+            "The beast led a league of ten kings against Babylon...also of fighting the Lamb."
+        ],
+        "John Gill": [
+            "Not the devil, for after this he is taken and bound for a thousand years, and then loosed, and laid hold on again, and cast into the lake of fire...",
+            "The antichristian civil powers, or antichrist in his civil capacity; and which, though it may chiefly regard the western antichrist, and the remains of the Latin idolatry, yet may take in the eastern antichrist, or the Mahometan powers, which may all join together in this battle...",
+            "And their armies gathered together; at Armageddon, or in the valley of Jehoshaphat... to make war against him that sat on the horse; the white horse, as the Arabic and Ethiopic versions read, which must be downright folly and madness, since he is the Word of God, the great God, the King of kings, and Lord of lords..."
+        ],
+        "John Wesley": [
+            "All beings, good and evil, visible and invisible, will be concerned in this grand contest.",
+            "The ten kings... had now drawn the other kings of the earth to them, whether Popish, Mahometan, or pagan.",
+            "Gathered together to make war with him that sat upon the horse."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 19:19, the wild-beast and kings of the earth gather together with their armies, aligned against the One who sits upon the horse with His army. It is a vast and diverse assembly, united in their desire to wage war. However, there is a stark contrast between the plurality of the opposing forces and the singularity of the One they battle against. This epic conflict, known as Armageddon, encompasses various powers and dominions, including the Western and Eastern antichrists. It is a battle that involves both visible and invisible beings, with the ten kings leading a coalition of Popish, Mahometan, and pagan rulers. Yet, their efforts to make war with the divine figure on the white horse, who is the Word of God, the great God, the King of kings, and Lord of lords, are ultimately futile.",
+            "wordCount": 138,
+            "quoteTokenProportion": 34.09,
+            "qualityScore": 1.5634974576028255,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.33,
+            "commentatorTierSimilarities": [
+                30.54,
+                24.56,
+                44.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The wild-beast and kings of the earth mobilize their armies to wage war against the One who sits upon the horse with His army. This gathering of forces, known as Armageddon, is characterized by its diversity, united under various leaders. However, despite their numbers, they stand opposed to the singular figure on the white horse, who is the Word of God, the great God, the King of kings, and Lord of lords. This grand conflict involves both visible and invisible entities, with the ten kings leading a coalition of Popish, Mahometan, and pagan rulers. Ultimately, their futile attempt to make war against the divine champion is destined for failure.",
+            "wordCount": 110,
+            "quoteTokenProportion": 33.77,
+            "qualityScore": 1.5282321022331935,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.16,
+            "commentatorTierSimilarities": [
+                30.46,
+                24.48,
+                45.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The wild-beast and kings of the earth gather their armies to make war against the One who sits upon the horse and His army. They form a diverse and numerous alliance, united under various leaders. This epic battle, referred to as Armageddon, encompasses different powers and dominions, including the Western and Eastern antichrists. However, their futile attempts to wage war against the divine figure on the white horse, who is the Word of God, the great God, the King of kings, and Lord of lords, are ultimately destined for failure.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.5668538129667375,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.44,
+            "commentatorTierSimilarities": [
+                31.73,
+                22.95,
+                45.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Revelation 19:19, the wild-beast and kings of the earth gather their armies, forming a diverse and numerous coalition against the One who sits upon the horse and His army. This climactic battle, known as Armageddon, encompasses various powers and dominions, including the Western and Eastern antichrists. However, their futile attempts to make war with the divine figure on the white horse, who is the Word of God, the great God, the King of kings, and Lord of lords, are doomed to fail.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6689792965671923,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.84,
+            "commentatorTierSimilarities": [
+                29.83,
+                23.58,
+                46.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The wild-beast and kings of the earth gather their armies, uniting under various leaders, to make war against the divine figure on the white horse and His army. This formidable alliance, referred to as Armageddon, includes the Western and Eastern antichrists, presenting a diverse and numerous force. Yet, their futile efforts against the One who is the Word of God, the great God, the King of kings, and Lord of lords, are destined to fail.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5467009927923763,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.77,
+            "commentatorTierSimilarities": [
+                29.01,
+                23.52,
+                47.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

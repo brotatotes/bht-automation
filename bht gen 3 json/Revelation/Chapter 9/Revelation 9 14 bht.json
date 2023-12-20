@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:44:51",
+    "verseRef": "Revelation 9:14",
+    "bestBHT": {
+        "bht": "When the four angels are loosed, it is the angel who represents and announces all that will occur under his trumpet-blowing. Whether it refers to the literal Euphrates or spiritual Babylon (Rome), these angels serve as messengers and executioners of God's judgment. The Euphrates, known as the great River, formed a natural defense for Israel against Assyria, symbolizing the disastrous divine judgments. These angels, previously restrained, are now released to bring forth God's wrath upon the Roman empire and have a profound impact in Palestine.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.68,
+        "qualityScore": 1.9876903940534363,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+        "commentatorTierSimilarities": [
+            32.53,
+            25.21,
+            42.26
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and the four angels, &c. were loosed...We must therefore believe that the command is given to him only in so far as he is the representative and herald of all that takes place under his trumpet-blowing.",
+            "There is not a syllable of winds here, nor any hurting of earth, sea, or trees.",
+            "Thirdly, that there is nothing in the text to prevent 'the great river Euphrates' from being meant literally."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The river whereat Babylon, the ancient foe of God's people was situated.",
+            "Whether from the literal region of the Euphrates, or from the spiritual Babylon (the apostate Church, especially ROME), four angelic ministers of God's judgments shall go forth.",
+            "The brunt of the visitation shall be on Palestine."
+        ],
+        "Albert Barnes": [
+            "The effect of his blowing the trumpet would be the same as if angels that had been bound should be suddenly loosed and suffered to go forth over the earth.",
+            "In the fulfillment of this it will be necessary to look for something of the nature of a check or restraint on these forces, until they were commissioned to go forth to accomplish the work of destruction.",
+            "The fair interpretation is, that there were forces in the vicinity of the Euphrates which were, up to this period, bound or restrained, but which were now suffered to spread woe and sorrow over a considerable portion of the world."
+        ],
+        "Marvin Vincent": [
+            "The Euphrates was known as the great River, the River, the Flood.",
+            "It was the boundary-line of Israel on the northeast... It thus formed the natural defense of the chosen people against the armies of Assyria.",
+            "To the prophets the Euphrates was the symbol of all that was disastrous in the divine judgments."
+        ],
+        "Archibald T. Robertson": [
+            "Accusative masculine singular active participle of \u03bb\u03b5\u03b3\u03c9, personifying \u03c6\u03c9\u03bd\u03b7\u03bd and agreeing with it in case, though not in gender.",
+            "Another group of four angels (Revelation 7:1) like Acts 12:4, described here 'which are bound' (\u03c4\u03bf\u03c5\u03c2 \u03b4\u03b5\u03b4\u03b5\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2).",
+            "A regular epithet of the Euphrates (Revelation 16:12; Genesis 15:18; Deuteronomy 1:7). It rises in Armenia and joins the Tigris in lower Babylonia, a total length of nearly 1800 miles, the eastern boundary of the Roman Empire next to Parthia."
+        ],
+        "John Gill": [
+            "These are called 'angels', because of their might and force, their power and strength, with which they bore all before them.",
+            "And these Ottoman Turks may be called angels, or messengers, because they were the messengers and executioners of God's wrath upon the eastern empire.",
+            "Now here these were bound; they were not suffered to pass the river, or to make any inroads of any consequence further into the Roman empire; they were restrained, by the decree of God, from proceeding any further till this time."
+        ],
+        "John Wesley": [
+            "Loose the four angels \u2014 To go every way; to the four quarters. These were evil angels, or they would not have been bound. Why, or how long, they were bound we know not."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the four angels are loosed, it is not the winds that are released, but rather the angel who is the representative and herald of all that will happen under his trumpet-blowing. The mention of the great river Euphrates can refer either to its literal location or to the spiritual Babylon, particularly Rome. Regardless, the angels are the messengers and executioners of God's judgment, symbolizing all that is disastrous. The Euphrates, known as the great River, was once the boundary-line of Israel and represented defense against Assyria. This visitation of judgment will have its greatest impact in Palestine, and these forces were previously restrained until this appointed time. Ultimately, these angels are agents of God's wrath upon the Roman empire.",
+            "wordCount": 124,
+            "quoteTokenProportion": 39.76,
+            "qualityScore": 1.8815910319952531,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.9,
+            "commentatorTierSimilarities": [
+                33.52,
+                25.36,
+                41.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the four angels are loosed, it is the angel who represents and announces all that will occur under his trumpet-blowing. Whether it refers to the literal Euphrates or spiritual Babylon (Rome), these angels serve as messengers and executioners of God's judgment. The Euphrates, known as the great River, formed a natural defense for Israel against Assyria, symbolizing the disastrous divine judgments. These angels, previously restrained, are now released to bring forth God's wrath upon the Roman empire and have a profound impact in Palestine.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.68,
+            "qualityScore": 1.9876903940534363,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.43,
+            "commentatorTierSimilarities": [
+                32.53,
+                25.21,
+                42.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the four angels are loosed, it is the angel who is the representative and herald of all that takes place under his trumpet-blowing. The mention of the great river Euphrates can refer either to its literal location or to the spiritual Babylon, particularly Rome. The Euphrates, known as the great River, was the natural defense of Israel against the armies of Assyria. Ultimately, these angels are agents of God's wrath upon Palestine and the Roman empire.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9245747134595865,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                39.58,
+                21.95,
+                38.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When the four angels are loosed, it is the angel who represents and announces all that will occur under his trumpet-blowing. The Euphrates, known as the great River, formed a natural defense for Israel against Assyria, symbolizing the disastrous divine judgments. These angels, previously restrained, are now released to bring forth God's wrath upon the Roman empire and have a profound impact in Palestine.",
+            "wordCount": 66,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.955201535126321,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.35,
+            "commentatorTierSimilarities": [
+                31.98,
+                26.42,
+                41.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the four angels are loosed, it is the representative and herald of all that takes place under his trumpet-blowing. The great river Euphrates can refer either to its literal location or to the spiritual Babylon, particularly Rome. The Euphrates was the natural defense of Israel against Assyria, symbolizing the disastrous divine judgments and forming the boundary-line of Israel. These angels, previously restrained, are now agents of God's wrath, bringing devastation upon Palestine and the Roman empire.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.9333826618773955,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                36.53,
+                25.44,
+                38.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

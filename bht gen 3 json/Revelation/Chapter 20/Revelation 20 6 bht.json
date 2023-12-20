@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:39",
+    "verseRef": "Revelation 20:6",
+    "bestBHT": {
+        "bht": "Blessed and holy is the one who partakes in the first resurrection, as the second death has no power over them. They become priests of God and Christ, ruling with Him for a thousand years. This signifies a new time of revelation, where the chosen heavenly Church not only experiences salvation but also exercises love and bestows blessings upon the earth. Their condition is characterized by immense joy and divine favor, liberated from the clutches of spiritual death.",
+        "wordCount": 78,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 2.1714925417374817,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+        "commentatorTierSimilarities": [
+            31.26,
+            34.04,
+            34.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed and holy is he that hath part in the first resurrection: over such persons the second death hath not power.\" ",
+            "They shall be priests of God and of Christ.",
+            "They [shall] reign with Him a (or, the) thousand years."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Blessed\u2014(Compare Revelation 14:13; Revelation 19:9). on such the second death hath no power\u2014even as it has none on Christ now that He is risen.",
+            "A new time of revelation will begin by the outpouring of the fulness of the Spirit.",
+            "The heavenly Church is elected not merely to salvation, but to rule in love, and minister blessings over the whole earth, as king-priests."
+        ],
+        "Albert Barnes": [
+            "Blessed - That is, his condition is to be regarded as a happy or a favored one. This is designed apparently to support and encourage those who, in the time of John, suffered persecution, or who might suffer persecution afterward.",
+            "The \u201csecond death\u201d is properly the death which the wicked will experience in the world of woe. See Revelation 20:14. The meaning here is, that all who are here referred to as having part in the first resurrection will be secure against that. It will be one of the blessed privileges of heaven that there will be absolute security against death in any and every form.",
+            "What could better symbolize it - and we must remember that this is a symbol - than to say that at the commencement of this period there was, as it were, a solemn preparation for a judgment, and that the departed dead seemed to stand there, and that a sentence was pronounced in their favor, and that they became associated with the Son of God in the honors of his kingdom, and that their principles were now to reign and triumph in the earth?"
+        ],
+        "Marvin Vincent": [
+            "Hath part [\u03b5\u03c7\u03c9\u03bd \u03bc\u03b5\u03c1\u03bf\u03c2] . A phrase peculiar to John as referring to a person. Compare John 13:8. ",
+            "Second death. See on ch. Revelation 2:11."
+        ],
+        "Philip Schaff": [
+            "Blessed and holy is he that hath part in the first resurrection.",
+            "Over these the second death hath no power.",
+            "But they shall be priests of God and of the Christ, and shall reign with him a thousand years."
+        ],
+        "Archibald T. Robertson": [
+            "The second death. The spiritual death of Revelation 2:11; Revelation 20:14; Revelation 21:8 in contrast to the first or physical death.",
+            "This language raises a question about the interpretation of the first and the second resurrections, whether both are of the body or one of the spirit.",
+            "The servants of God are to be priests with Christ and to reign with him."
+        ],
+        "John Gill": [
+            "Blessed and holy is he that hath part in the first resurrection... they shall be perfectly blessed in soul and body, and perfectly holy in both.\" ",
+            "They shall escape everlasting burnings, the fire of hell... they shall be delivered from wrath to come.",
+            "They will be wholly devoted to and employed in the service of God and of Christ... adoring the grace and goodness of God and Christ unto them."
+        ],
+        "John Wesley": [
+            "They shall be priests of God and of Christ \u2014 Therefore Christ is God.",
+            "And shall reign with him \u2014 With Christ, a thousand years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed and holy is the one who takes part in the first resurrection, for over them the second death has no power. They shall be priests of God and Christ, and reign with Him for a thousand years. This new era will be marked by the outpouring of the fullness of the Spirit, where the chosen heavenly Church will not only be saved, but also rule in love and bring blessings to the entire earth. The second death, which symbolizes spiritual death, will hold no authority over them, much like Christ who has risen. It is a condition of utmost happiness and favor, ensuring absolute security against any form of death. They are promised to escape eternal sufferings and will be fully devoted and employed in the service of God and Christ, adoring Their grace and goodness unto them for all eternity.",
+            "wordCount": 142,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.186261183182757,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.03,
+            "commentatorTierSimilarities": [
+                29.89,
+                34.99,
+                35.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed and holy is the one who has part in the first resurrection, as the second death has no power over them. They shall be priests of God and Christ, reigning with Him for a thousand years. This new time of revelation will bring forth the outpouring of the Spirit's fullness. The chosen heavenly Church will not only be saved, but will also rule in love and bring blessings to the whole earth. It is a state of happiness and favor, with absolute assurance against all forms of death. They will escape eternal sufferings and be fully devoted to serving God and Christ, adoring Their grace and goodness forever.",
+            "wordCount": 110,
+            "quoteTokenProportion": 41.03,
+            "qualityScore": 2.087769276725584,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.76,
+            "commentatorTierSimilarities": [
+                31.22,
+                32.95,
+                35.83
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed and holy is the one who takes part in the first resurrection, for over such persons the second death has no power. They shall serve as priests of God and Christ, sharing in His reign for a thousand years. This signifies a new era of revelation and overflowing of the Spirit. The heavenly Church is not only elected for salvation, but also to rule in love and bestow blessings upon the entire earth. It is a state of ultimate bliss and divine favor, safeguarded from the grip of spiritual death.",
+            "wordCount": 91,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.130959496389958,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.2,
+            "commentatorTierSimilarities": [
+                33.92,
+                33.72,
+                32.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed and holy is the one who participates in the first resurrection, for the second death holds no power over them. They shall serve as priests of God and Christ, reigning alongside Him for a thousand years. This period marks a new revelation by the outpouring of the Spirit. The chosen heavenly Church is not only saved, but also appointed to rule with love and bring blessings to the earth. Their condition is one of great joy and divine favor, free from the grip of spiritual death.",
+            "wordCount": 87,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 2.093119415416324,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.94,
+            "commentatorTierSimilarities": [
+                32.47,
+                33.79,
+                33.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed and holy is the one who partakes in the first resurrection, as the second death has no power over them. They become priests of God and Christ, ruling with Him for a thousand years. This signifies a new time of revelation, where the chosen heavenly Church not only experiences salvation but also exercises love and bestows blessings upon the earth. Their condition is characterized by immense joy and divine favor, liberated from the clutches of spiritual death.",
+            "wordCount": 78,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.1714925417374817,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.54,
+            "commentatorTierSimilarities": [
+                31.26,
+                34.04,
+                34.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

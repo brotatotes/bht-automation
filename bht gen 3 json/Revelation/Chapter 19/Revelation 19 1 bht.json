@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:49:24",
+    "verseRef": "Revelation 19:1",
+    "bestBHT": {
+        "bht": "The great and final triumph calls forth a response of praise in heaven as the heavenly hosts unite their voices in the word Hallelujah. This word, meaning Praise ye the Lord, is found frequently in the Psalter and should not be disguised in English. The inhabitants of heaven sing this song of thanksgiving, celebrating the overthrow of the enemies of the church and the triumph of the gospel. Through this Hallelujah, heaven designates the church, where the Gentiles will also be brought in.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.0,
+        "qualityScore": 2.373585541440347,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.26,
+        "commentatorTierSimilarities": [
+            33.28,
+            39.22,
+            27.49
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Hallelujah (the word so often found in the Psalter, 'Praise ye Jah, i.e. Jehovah...the formula must have passed, with the Psalter, into the Christian Church.\" ",
+            "The use first here may be quite accounted for by the greatness and finality of this triumph.",
+            "The form Alleluia, adopted by the Greeks and Latins from inability to express the Hebrew spelling, ought not to be retained in English, as it disguises the sacred name, and thus obliterates the meaning of the word."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The great manifestation of God's power in destroying Babylon calls forth a great voice of praise in heaven.\" (Commentary)",
+            "JAH is not a contraction of 'JEHOVAH,' as it sometimes occurs jointly with the latter. It means 'He who Is': whereas Jehovah is 'He who will be, is, and was.'\" (Commentary)",
+            "Israel, especially, will join in the Hallelujah, when 'her warfare is accomplished' and her foe destroyed.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "The occasion on which it is introduced here is very appropriate. It is uttered by the inhabitants of heaven, in the immediate presence of God himself, and in view of the final overthrow of the enemies of the church, and the triumph of the gospel.",
+            "In such circumstances it was fit that heaven should render praise, and that a song of thanksgiving should be uttered in which all holy beings could unite.",
+            "All that there is of honor, glory, power, in the redemption of the world belongs to God, and should be ascribed to him. This is expressive of the true feelings of piety always; this will constitute the song of heaven."
+        ],
+        "Marvin Vincent": [
+            "Hallelujah [\u03b1\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03b9\u03b1]. Hebrew. Praise ye the Lord. Only in Revelation and in this chapter.",
+            "Fifteen of the Psalms either begin or end with this word. The Jewish anthem of praise (Psalm 104 - 109), sung chiefly at the feasts of the Passover and of Tabernacles, derived its title of the Great Hallel from the frequent use of that phrase.",
+            "On the doxologies in Revelation, see on ch. Revelation 1:6."
+        ],
+        "Philip Schaff": [
+            "The heavenly hosts are the first to sing.",
+            "Their keynote is Hallelujah, a word meaning 'Praise the Lord.'",
+            "So in one song of heaven which has no termination closes the Book of Psalms, that 'great book of the wars of the Lord,' when the wars have ceased for ever."
+        ],
+        "Archibald T. Robertson": [
+            "This first voice (verses Revelation 19:1; Revelation 19:2) \u03c9\u03c2 \u03c6\u03c9\u03bd\u03b7\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03b7\u03bd \u03bf\u03c5\u03c7\u03bb\u03bf\u03c5 \u03c0\u03bf\u03bb\u03bb\u03bf\u03c5 (as it were great voice of much multitude) is probably the response of the angelic host.",
+            "Hallelujah (\u0391\u03bb\u03bb\u03b7\u03bb\u03bf\u03c5\u03b9\u03b1). Transliteration of the Hebrew seen often in the Psalms (LXX) and in III. Macc. 7:13, in N.T. only in Revelation 19:1; Revelation 19:3; Revelation 19:4; Revelation 19:6. It means, 'Praise ye the Lord.'",
+            "The Great Hallel (a title for Revelation 19:104-109) is sung chiefly at the feasts of the passover and tabernacles. This psalm of praise uses language already in Revelation 12:10."
+        ],
+        "John Gill": [
+            "Heaven designs the church...the fulness of the Gentiles will be brought in.",
+            "The downfall of Rome...the saints at the destruction of the man of sin and son of perdition.",
+            "Salvation, and glory, and honour, and power, unto the Lord our God...seen in the works of creation, redemption, and sanctification."
+        ],
+        "John Wesley": [
+            "Hallelujah - This Hebrew word signifies, Praise ye Jah, or Him that is.\" ",
+            "God named himself to Moses, EHEIEH, that is, I will be...during the trumpet of the seventh angel, he is styled, 'He that is and was,' and not 'He that is to come:' because his long-expected coming is under this trumpet actually present.",
+            "At length he is styled, 'Jah,' 'He that is;' the past together with the future being swallowed up in the present, the former things being no more mentioned, for the greatness of those that now are."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Praise ye Jehovah, the great and final triumph calls forth a response of praise in heaven. This response, Hallelujah, is a word so often found in the Psalter, indicating praise to the Lord. It is a sacred name that ought not to be disguised in English. The inhabitants of heaven sing this song of thanksgiving in the immediate presence of God, celebrating the overthrow of the enemies of the church and the triumph of the gospel. All honor, glory, and power belong to God, and this song expresses the true feelings of piety. The heavenly hosts are the first to sing, uniting their voices in praise. Through this Hallelujah, heaven designates the church, where the Gentiles will also be brought in. This praise is seen in the works of creation, redemption, and sanctification, and it concludes the Book of Psalms when the wars have forever ceased.",
+            "wordCount": 146,
+            "quoteTokenProportion": 30.12,
+            "qualityScore": 2.2252121300742282,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                32.65,
+                39.36,
+                27.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Praise ye Jehovah, the great and final triumph calls forth a response of praise in heaven. This response, Hallelujah, is a word so often found in the Psalter, indicating praise to the Lord. It is a sacred name that ought not to be disguised in English. The inhabitants of heaven sing this song of thanksgiving in the immediate presence of God, celebrating the overthrow of the enemies of the church and the triumph of the gospel. All honor, glory, and power belong to God, and this song expresses the true feelings of piety.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.1594862013261142,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                32.85,
+                40.57,
+                26.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great and final triumph calls forth a response of praise in heaven, as the word Hallelujah is uttered by the inhabitants of heaven in the immediate presence of God. This word, frequently found in the Psalter, signifies praise to the Lord. The heavenly hosts, being the first to sing, unite their voices in this song of thanksgiving, celebrating the overthrow of the enemies of the church and the triumph of the gospel. Through this Hallelujah, heaven designates the church, where the Gentiles will also be brought in.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.3500212240266527,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.48,
+            "commentatorTierSimilarities": [
+                33.54,
+                39.44,
+                27.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The great and final triumph calls forth a response of praise in heaven as the heavenly hosts unite their voices in the word Hallelujah, meaning Praise ye the Lord. This sacred name, so frequently found in the Psalter, should not be disguised in English. The inhabitants of heaven sing this song of thanksgiving, celebrating the overthrow of the enemies of the church and the triumph of the gospel. Through this Hallelujah, heaven designates the church, where the Gentiles will also be brought in.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.197560041429826,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.41,
+            "commentatorTierSimilarities": [
+                32.93,
+                39.59,
+                27.48
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great and final triumph calls forth a response of praise in heaven as the heavenly hosts unite their voices in the word Hallelujah. This word, meaning Praise ye the Lord, is found frequently in the Psalter and should not be disguised in English. The inhabitants of heaven sing this song of thanksgiving, celebrating the overthrow of the enemies of the church and the triumph of the gospel. Through this Hallelujah, heaven designates the church, where the Gentiles will also be brought in.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.373585541440347,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.26,
+            "commentatorTierSimilarities": [
+                33.28,
+                39.22,
+                27.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:43:27",
+    "verseRef": "Revelation 6:9",
+    "bestBHT": {
+        "bht": "In this symbolic vision, the souls of the martyrs are seen under the altar, symbolizing their sacrifice and offering to God. The altar represents Christ crucified and is comparable to the Old Testament altar of sacrifice. The martyrs' blood and lives were given for Christ, serving as a testament to their unwavering testimony and dedication to their faith. This vision also depicts the ongoing persecution of Christians throughout history, with a long line of martyrs following in their footsteps.",
+        "wordCount": 79,
+        "quoteTokenProportion": 34.0,
+        "qualityScore": 2.1678046882392517,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+        "commentatorTierSimilarities": [
+            34.04,
+            38.16,
+            27.8
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It is manifestly idle to enquire, seeing that the Apostle was in a state of spiritual and supernatural vision, how these disembodied spirits became visible to him.",
+            "The representation here, in which they are seen under the altar, is simply symbolical, carrying out the likening of them to victims slain on an altar.",
+            "After this, it hardly need be said that no inference can be drawn from this vision respecting the intermediate state between the death of the saints and the coming of the Lord."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The three last seals relate to the invisible, as the first four to the visible world.",
+            "The altar in heaven, antitypical to the altar of sacrifice, is Christ crucified.",
+            "The only altar in heaven is that antitypical to the temple altar of incense. The blood of the martyrs cries from the earth under Christ's cross, whereon they may be considered virtually to have been sacrificed; their souls cry from under the altar of incense, which is Christ in heaven."
+        ],
+        "Marvin Vincent": [
+            "The imagery is from the tabernacle.",
+            "blood and life were equivalent terms to the Hebrew.",
+            "Not held fast, but bore the testimony which was committed to them."
+        ],
+        "Philip Schaff": [
+            "They had been sacrificed in the same manner as their Lord; their blood had been shed as His was, and their bodies had been laid upon God\u2019s altar to be consumed as an offering acceptable to Him.",
+            "To the Hebrew blood and life were equivalent terms; \u2018the life of the flesh,\u2019 he said, \u2018 is in the blood.\u2019",
+            "These \u2018souls underneath the altar,\u2019 therefore, are the saints of the Old Testament waiting for the completion of their happiness by having added to them their \u2018fellow-servants\u2019 of New Testament times."
+        ],
+        "Archibald T. Robertson": [
+            "Under\" (\u03c5\u03c0\u03bf\u03ba\u03b1\u03c4\u03c9), for the blood of the sacrifices was poured at the bottom of the altar.",
+            "The lives, for the life is in the blood, were given for Christ.",
+            "Christians were slain during the Neronian persecution and now again under Domitian. A long line of martyrs has followed."
+        ],
+        "John Gill": [
+            "These were the souls of such as 'were slain'; their bodies were dead, but their souls were alive; which shows the immortality of souls, and that they die not with their bodies, and that they live after them in a separate state.",
+            "Christ may be meant by the altar here, as he is in Hebrews 13:10, who is both altar, sacrifice, and priest, and is the altar that sanctifies the gift, and from off which every sacrifice of prayer and praise comes up with acceptance before God.",
+            "For the testimony which they held; the Syriac and Arabic versions read, 'for the testimony of the Lamb'; and so the Complutensian edition; either for the Gospel, which is a testimony of the person, office, and grace of Christ, the Lamb, which they embraced, professed, and held fast; or for the witness they bore to him, and the profession which they made thereof, and in which they continued."
+        ],
+        "John Wesley": [
+            "These all refer to the invisible world; the fifth, to the happy dead, particularly the martyrs; the sixth, to the unhappy; the seventh, to the angels, especially those to whom the trumpets are given.",
+            "Not only the church warring under Christ, and the world warring under Satan; but also the invisible hosts, both of heaven and hell, are described in this book.",
+            "By and by their blood shall be avenged upon Babylon; but not yet, whence it appears that the plagues in the fourth seal do not concern Rome in particular."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage in Revelation depicts a symbolic vision of the souls of the martyrs being seen under the altar in heaven, which is Christ crucified. These souls are representative of the saints who have been sacrificed for their faith, and their blood and life were offered as an acceptable offering to God. The imagery draws from the tabernacle and the Hebrew understanding of blood and life being equivalent. These martyrs, who were slain for their testimony, serve as a testament to the immortality of souls and the separate state they enter after physical death. The vision also highlights the ongoing persecution and sacrifice of Christians throughout history.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 2.1959945372449514,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.36,
+            "commentatorTierSimilarities": [
+                31.11,
+                40.05,
+                28.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this symbolic vision, the souls of the martyrs are seen under the altar in heaven, representing their sacrificial offering to God. The altar, seen as Christ crucified, is antitypical to the Old Testament altar of sacrifice. The souls of these martyrs serve as a testimony to the immortality of souls and the separate state they enter after death. Their blood and lives were given for Christ, symbolizing their unwavering testimony and faithful profession of their faith. The vision also signifies the continued persecution and sacrifice of Christians throughout history.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 2.159722926135932,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.15,
+            "commentatorTierSimilarities": [
+                32.78,
+                38.45,
+                28.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this symbolic vision, the souls of the martyrs are seen under the altar, symbolizing their sacrifice and offering to God. The altar represents Christ crucified and is comparable to the Old Testament altar of sacrifice. The martyrs' blood and lives were given for Christ, serving as a testament to their unwavering testimony and dedication to their faith. This vision also depicts the ongoing persecution of Christians throughout history, with a long line of martyrs following in their footsteps.",
+            "wordCount": 79,
+            "quoteTokenProportion": 34.0,
+            "qualityScore": 2.1678046882392517,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.42,
+            "commentatorTierSimilarities": [
+                34.04,
+                38.16,
+                27.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this symbolic vision, the souls of the martyrs are seen under the altar, which is Christ crucified. This imagery draws from the tabernacle and the Hebrew understanding of blood and life being equivalent. The martyrs' blood and lives were offered as an acceptable sacrifice to God, showcasing their unwavering testimony and commitment to their faith. This vision also signifies the ongoing persecution of believers throughout history, with a continuous line of martyrs who were slain for their faithful profession of faith.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.1593197156913497,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                34.03,
+                37.73,
+                28.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this symbolic vision, the souls of the martyrs are seen under the altar, symbolizing their sacrifice to God. The altar represents Christ crucified, and the martyrs' blood and lives were given for Him. Their unwavering testimony and faithful profession of faith serve as a testament to the immortality of souls, continuing the tradition of martyrdom throughout history. This vision highlights the persecution and sacrifice endured by Christians, with a long line of martyrs who bore witness to their faith.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.133047667740837,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.26,
+            "commentatorTierSimilarities": [
+                33.75,
+                36.11,
+                30.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

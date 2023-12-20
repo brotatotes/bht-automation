@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 21:39:37",
+    "verseRef": "Revelation 1:17",
+    "bestBHT": {
+        "bht": "In the presence of God's glorious manifestation, fallen man is overwhelmed, his senses deprived by the touch of His hand imparting strength. Jesus, referred to as the First and the Last, shares the epithet of God as the Living One, emphasizing His eternal nature. John, upon seeing Him, falls at His feet as if dead, overcome by the evidence of God's presence. But Jesus reassures him, commanding him not to fear, for He is the ever-living One who fulfills His promises and accomplishes His purposes.",
+        "wordCount": 88,
+        "quoteTokenProportion": 37.93,
+        "qualityScore": 1.60602048929838,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+        "commentatorTierSimilarities": [
+            32.89,
+            33.49,
+            33.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "So fallen is man that God's manifestation of His glorious presence overwhelms him.",
+            "The 'touch' of His hand, as of old, imparted strength.",
+            "From eternity, and enduring to eternity: 'the First by creation, the Last by retribution: the First, because before Me there was no God formed; the Last, because after Me there shall be no other: the First, because from Me are all things; the Last, because to Me all things return.'"
+        ],
+        "Albert Barnes": [
+            "And when I saw him, I fell at his feet as dead - As if I were dead; deprived of sense and consciousness.",
+            "Saying unto me, Fear not - ... It is evident that John was overpowered with that awful emotion which the human mind must feel at the evidence of the presence of God.",
+            "I am the first and the last - ... I always live - have lived through all the past, and will live through all which is to come - and therefore I can accomplish all my promises, and execute all my purposes."
+        ],
+        "Archibald T. Robertson": [
+            "Fear not. I am the first and the last.\" ",
+            "And the Living One, another epithet of God common in the O.T. and applied purposely to Jesus.",
+            "Used in Isaiah 44:6; Isaiah 48:12 of God, but here...of Christ."
+        ],
+        "John Gill": [
+            "John fell down at once, as dead. This panic which good men were seized with, at any more than ordinary appearance of God, or apprehension of his presence, arose from a notion that present death ensues a sight of him.",
+            "He laid his right hand upon me...in order to raise him up and revive his spirits, and remove his fears; hence the Ethiopic version renders it, 'and he took hold on me with his right hand, and lifted me up'.",
+            "I am the first and the last...is a proof of his true and proper deity, and is expressive of his eternity, and also of his dignity and excellency."
+        ],
+        "John Wesley": [
+            "A great sinking of nature usually precedes a large communication of heavenly things.",
+            "Ye sinners, be afraid cleanse your hands: purify your hearts. Ye saints, be humble, prepare: rejoice.",
+            "His look terrifies, his speech strengthens. He does not call John by his name, but speaks as his well known master."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the presence of God's glorious manifestation, fallen man is overwhelmed and rendered senseless. The touch of His hand imparts strength, and His declaration as the First and the Last reveals His eternal nature. This epithet, commonly applied to God in the Old Testament, is now intentionally used for Jesus. John, upon seeing Him, falls at His feet as if dead, overcome by the evidence of God's presence. But Jesus reassures him with the command to fear not, for He is the ever-living One who fulfills His promises and accomplishes His purposes. Jesus' touch raises John up, reviving his spirit and removing his fears. His declaration as the First and the Last confirms His true deity, expressing His everlasting nature, dignity, and excellency. In the face of divine revelation, sinners are called to be afraid and repent, while saints are encouraged to be humble, prepared, and rejoice. Jesus' terrifying look stirs fear, but His words strengthen and identify Him as a well-known master.",
+            "wordCount": 167,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.3925837075819139,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.65,
+            "commentatorTierSimilarities": [
+                32.67,
+                28.96,
+                38.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the presence of God's glorious manifestation, fallen man is overwhelmed, his senses deprived by the touch of His hand imparting strength. Jesus, referred to as the First and the Last, shares the epithet of God as the Living One, emphasizing His eternal nature. John, upon seeing Him, falls at His feet as if dead, overcome by the evidence of God's presence. But Jesus reassures him, commanding him not to fear, for He is the ever-living One who fulfills His promises and accomplishes His purposes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.60602048929838,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                32.89,
+                33.49,
+                33.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the overwhelming presence of God's glorious manifestation, fallen man is rendered senseless, his strength restored by the touch of His hand. Jesus, known as the First and the Last, embodies everlasting existence and divine authority. John, in awe, falls at His feet, overcome by the evidence of God's presence. Yet, Jesus comforts him, assuring him not to fear, for He is the Living One, who fulfills His promises and executes His divine purposes.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.5346442272443959,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.37,
+            "commentatorTierSimilarities": [
+                34.15,
+                32.1,
+                33.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of the overwhelming manifestation of God's glory, man is humbled and rendered helpless. The touch of His hand imparts strength, reminiscent of His acts in the past. Jesus, referred to as the First and the Last, embodies the eternal nature and divine authority. John, overwhelmed by God's presence, falls at His feet. But Jesus reassures him not to fear, for He is the Living One who fulfills His promises and carries out His divine will.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.3991375188884128,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.86,
+            "commentatorTierSimilarities": [
+                36.24,
+                28.43,
+                35.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the presence of God's glorious manifestation, fallen man is overwhelmed and rendered senseless. The touch of His hand imparts strength, and His declaration as the First and the Last reveals His eternal nature. This epithet, commonly applied to God in the Old Testament, is now intentionally used for Jesus. John falls at His feet as if dead, overcome by the evidence of God's presence. But Jesus reassures him with the command to fear not, for He is the ever-living One who fulfills His promises and accomplishes His purposes. Jesus' touch raises John up, reviving his spirit and removing his fears. His declaration as the First and the Last confirms His true deity, expressing His everlasting nature, dignity, and excellency. In the face of divine revelation, sinners are called to be afraid and repent.",
+            "wordCount": 137,
+            "quoteTokenProportion": 32.56,
+            "qualityScore": 1.4040967289983626,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.03,
+            "commentatorTierSimilarities": [
+                34.65,
+                28.45,
+                36.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

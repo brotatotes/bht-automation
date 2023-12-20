@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:47:26",
+    "verseRef": "Revelation 15:4",
+    "bestBHT": {
+        "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant; meanwhile 'the mystery of iniquity' is at work, and will at last come to its crisis; then shall judgment descend on the apostates at the harvest-end of this age. The conversion of all nations, therefore, shall be when Christ shall come, and not till then.",
+        "wordCount": 83,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 1.7391694384977856,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+        "commentatorTierSimilarities": [
+            37.65,
+            29.45,
+            32.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Who can but fear [Thee] and [who] shall [not] glorify thy Name?\" ",
+            "Cause Thou only art holy.\" ",
+            "Because Thy righteous acts have been made manifest."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The present preaching of the Gospel is gathering out the elect remnant; meanwhile 'the mystery of iniquity' is at work, and will at last come to its crisis; then shall judgment descend on the apostates at the harvest-end of this age.\" ",
+            "The confederacy of 'the apostates against Christ becomes, when overthrown with fearful judgments, the very means in God's overruling providence of preparing the nations not joined in the Antichristian league to submit themselves to Him.",
+            "The conversion of all nations, therefore, shall be when Christ shall come, and not till then; and the first moving cause will be Christ's manifested judgments preparing all hearts for receiving Christ's mercy."
+        ],
+        "Albert Barnes": [
+            "The sense here is, that the judgments about to be inflicted on the beast and his image should and would teach people to reverence and adore God.\" ",
+            "The sense is, that, as a consequence of these judgments, men would be brought to honor God, and to acknowledge him as the Ruler of the earth.\" ",
+            "For all nations shall come and worship before thee - That is, as the result of these punishments inflicted on this dread anti-Christian power, they shall come and worship thee."
+        ],
+        "Marvin Vincent": [
+            "Who shall not fear Thee?\" ",
+            "Holy [\u03bf\u03c3\u03b9\u03bf\u03c2].",
+            "Judgments [\u03b4\u03b9\u03ba\u03b1\u03b9\u03c9\u03bc\u03b1\u03c4\u03b1]. Not merely divine decisions, but righteous acts generally."
+        ],
+        "Archibald T. Robertson": [
+            "Thou only art holy. God alone is perfectly holy.",
+            "Shall come and worship.",
+            "This martyr's song has the ring of great poetry."
+        ],
+        "John Gill": [
+            "The fear of the Lord will be in all places, and in all men.",
+            "Thou only art holy, not only perfectly holy, as man, but infinitely and essentially holy, as God.",
+            "The Gospel shall now be preached to all nations, and the earth shall be filled with the knowledge of it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant; meanwhile 'the mystery of iniquity' is at work, and will at last come to its crisis; then shall judgment descend on the apostates at the harvest-end of this age. The conversion of all nations, therefore, shall be when Christ shall come, and not till then; and the first moving cause will be Christ's manifested judgments preparing all hearts for receiving Christ's mercy. This martyr's song has the ring of great poetry.",
+            "wordCount": 112,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.7086579376917617,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.15,
+            "commentatorTierSimilarities": [
+                39.81,
+                30.06,
+                30.12
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant; meanwhile 'the mystery of iniquity' is at work, and will at last come to its crisis; then shall judgment descend on the apostates at the harvest-end of this age. The conversion of all nations, therefore, shall be when Christ shall come, and not till then; and the first moving cause will be Christ's manifested judgments preparing all hearts for receiving Christ's mercy.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7953381063569864,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.04,
+            "commentatorTierSimilarities": [
+                38.07,
+                30.57,
+                31.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant; meanwhile 'the mystery of iniquity' is at work, and will at last come to its crisis; then shall judgment descend on the apostates at the harvest-end of this age. The conversion of all nations, therefore, shall be when Christ shall come, and not till then.",
+            "wordCount": 83,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7391694384977856,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.17,
+            "commentatorTierSimilarities": [
+                37.65,
+                29.45,
+                32.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant. The confederacy of 'the apostates against Christ becomes, when overthrown with fearful judgments, the very means in God's overruling providence of preparing the nations not joined in the Antichristian league to submit themselves to Him. This martyr's song has the ring of great poetry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6560148718859562,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                40.17,
+                30.38,
+                29.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Who can but fear [Thee] and [who] shall [not] glorify thy Name? Cause Thou only art holy. Because Thy righteous acts have been made manifest. The present preaching of the Gospel is gathering out the elect remnant. The confederacy of 'the apostates against Christ becomes, when overthrown with fearful judgments, the very means in God's overruling providence of preparing the nations not joined in the Antichristian league to submit themselves to Him. This martyr's song has the ring of great poetry.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.6560148718859562,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.4,
+            "commentatorTierSimilarities": [
+                40.17,
+                30.38,
+                29.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

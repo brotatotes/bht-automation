@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:11",
+    "verseRef": "Revelation 12:14",
+    "bestBHT": {
+        "bht": "The woman's flight into the wilderness depicts the passing of the kingdom of God from the Jews to the Gentiles, culminating in the secure position of the Church under Constantine. The two wings of the great eagle represent the Church's ability to find refuge and outstrip her pursuers. The wilderness symbolizes the obscured state of the pure church amidst the antichristian apostasy, relying on God's help rather than human aid. The time period of three and a half years marks the duration of the beast's influence.",
+        "wordCount": 90,
+        "quoteTokenProportion": 25.86,
+        "qualityScore": 1.6292584989724197,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+        "commentatorTierSimilarities": [
+            31.5,
+            37.6,
+            30.9
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All believers are included.",
+            "The woman's flight into the wilderness is the passing of the kingdom of God from the Jews to be among the Gentiles.",
+            "By degrees the Church had 'her place' more and more secure, until, under Constantine, the empire became Christian."
+        ],
+        "Albert Barnes": [
+            "The meaning here is, that the woman is represented as prepared for a rapid flight; so prepared as to be able to outstrip her pursuer, and to reach a place of safety.",
+            "The simple idea here is, that the church, in the opposition which would come upon it, would find a refuge.",
+            "The fulfillment of this is found in the fact, that during all the time here referred to, there has been a true church on the earth."
+        ],
+        "Marvin Vincent": [
+            "Two wings. The definite article aiJ the should be added : 'the two wings.'\" ",
+            "The great eagle. The article does not point to the eagle of ch. 8 13, but is generic.",
+            "A time and times and half a time. Three years and a half."
+        ],
+        "Archibald T. Robertson": [
+            "The two wings of the great eagle... Every eagle had two wings.",
+            "The griffon or vulture rather than the true eagle is pictured.",
+            "To the end of the present order the Church dwells in the wilderness."
+        ],
+        "John Gill": [
+            "By which are meant, not the two testaments, by which she was supported under afflictions, trials, and persecutions, and against Satan and all his efforts; nor the two graces of faith and hope, by which she rose, and dwelt on high, in the view of invisible things, and with contempt of the world, its frowns or flatteries...",
+            "...rather these two wings of the eagle design the eastern and western divisions of the Roman empire...",
+            "...that she might fly into the wilderness; a place desolate, and full of serpents and scorpions, uncomfortable, and destitute of provisions, and yet a place of safety as well as of solitariness and retirement; and chiefly designs the obscure and invisible state of the pure church in the times of the antichristian apostasy..."
+        ],
+        "John Wesley": [
+            "Eagles are the usual symbols of great potentates.",
+            "By God rather than man; having little human help.",
+            "The length of the several periods here mentioned seems to be nearly this:... The time of the beast is between the beginning and end of the three times and a half."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 12:14, the woman's flight into the wilderness represents the passing of the kingdom of God from the Jews to the Gentiles, and the secure position of the Church under Constantine. The two wings of the great eagle symbolize the Church's ability to outstrip its pursuers and find refuge in a desolate yet safe place. This wilderness represents the obscure and invisible state of the pure church during the times of the antichristian apostasy. Despite being unsupported by man, the Church finds its refuge in God, enduring afflictions, trials, and persecutions. The time period mentioned in the verse, a time and times and half a time, refers to three and a half years, signifying the length of the beast's influence.",
+            "wordCount": 123,
+            "quoteTokenProportion": 24.29,
+            "qualityScore": 1.5826014081416464,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.96,
+            "commentatorTierSimilarities": [
+                28.7,
+                37.0,
+                34.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The flight of the woman into the wilderness symbolizes the transition of the kingdom of God from the Jews to the Gentiles and the Church's secure position under Constantine. The eagle's two wings represent the Church's ability to find refuge and outpace its pursuers. This wilderness signifies the hidden state of the pure church during the antichristian apostasy, relying on God's support rather than human aid. The mentioned time period of three and a half years marks the duration of the beast's influence.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.5618425737521142,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.27,
+            "commentatorTierSimilarities": [
+                31.15,
+                36.21,
+                32.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman's flight into the wilderness depicts the passing of the kingdom of God from the Jews to the Gentiles, culminating in the secure position of the Church under Constantine. The two wings of the great eagle represent the Church's ability to find refuge and outstrip her pursuers. The wilderness symbolizes the obscured state of the pure church amidst the antichristian apostasy, relying on God's help rather than human aid. The time period of three and a half years marks the duration of the beast's influence.",
+            "wordCount": 90,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.6292584989724197,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                31.5,
+                37.6,
+                30.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The flight of the woman into the wilderness signifies the passage of the kingdom of God from the Jews to the Gentiles, confirming the Church's secure position through Constantine's reign. The two wings of the great eagle depict the church's ability to take shelter from pursuers. The wilderness represents the hidden state of the pure church during the time of antichristian apostasy, relying on divine support rather than human assistance. The mentioned time period of three and a half years indicates the duration of the beast's influence.",
+            "wordCount": 91,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.5985829638335864,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.5,
+            "commentatorTierSimilarities": [
+                31.36,
+                38.54,
+                30.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In Revelation, the woman's flight into the wilderness symbolizes the transition of the kingdom of God from the Jews to the Gentiles. The two wings of the great eagle represent the Church's ability to find refuge and outpace its pursuers. This wilderness represents the hidden state of the pure church during the time of the antichristian apostasy, relying on divine support rather than human assistance. The mentioned time period of three and a half years denotes the duration of the beast's influence.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.58830017104704,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                32.08,
+                35.99,
+                31.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

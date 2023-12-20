@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:48:39",
+    "verseRef": "Revelation 18:5",
+    "bestBHT": {
+        "bht": "The sins of Babylon have reached as far as heaven, resembling a heap that has reached so far as to come into close contact with... heaven. God, who seemed to have forgotten, now remembers her iniquities. Her sins are described as a mass that has joined one another in a mass 'up to heaven,' crying out for justice. God is about to punish Babylon for her sins, recognizing the magnitude of her guilt.",
+        "wordCount": 73,
+        "quoteTokenProportion": 51.06,
+        "qualityScore": 2.00575355681729,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+        "commentatorTierSimilarities": [
+            24.37,
+            29.03,
+            46.59
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Her sins have reached as far as heaven.\" ",
+            "The cry of her sins\" (not as De Wette, but the idea is of a heap).",
+            "God hath remembered her iniquities."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "5. her sins\u2014as a great heap. ",
+            "\t",
+            "reached\u2014Greek,",
+            "\t\"reached so far as to come into close contact with, and to",
+            "\tcleave unto."
+        ],
+        "Albert Barnes": [
+            "The meaning is not that the sins of this mystical Babylon were like a mass or pile so high as to reach to heaven, but that it had become so prominent as to attract the attention of God.\" ",
+            "He had seemed to forget them, or not to notice them, but now he acted as if they had come to his recollection."
+        ],
+        "Marvin Vincent": [
+            "Have reached [\u03b7\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b7\u03c3\u03b1\u03bd]. But the best texts read ejkollhqhsan clave.\" ",
+            "Compare the classical phrase for following up closely a fleeing foe, hoerere in terga hostium, to cleave to the backs of the enemy.\" ",
+            "The radical idea of the metaphor is that of following or reaching after so as to be joined to."
+        ],
+        "Philip Schaff": [
+            "So multiplied were her sins that they were heaped together as a mass reaching even unto heaven.",
+            "The figure is taken from Jeremiah 51:9.",
+            "Comp. Genesis 18:20."
+        ],
+        "Archibald T. Robertson": [
+            "Have reached (\u03b5\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03b7\u03c3\u03b1\u03bd)... to cleave to, to join one another in a mass 'up to heaven' (\u03b1\u03c7\u03c1 \u03c4\u03bf\u03c5 \u03bf\u03c5\u03c1\u03b1\u03bd\u03bf\u03c5).\" ",
+            "Hath remembered (\u03b5\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03c5\u03c3\u03b5\u03bd)... with the accusative (\u03b1\u03b4\u03b9\u03ba\u03b7\u03bc\u03b1\u03c4\u03b1, iniquities) instead of the genitive."
+        ],
+        "John Gill": [
+            "Her sins were as it were soldered together, and stuck fast to her, and being joined and linked together, made a long chain, and reached to heaven, and cleaved to that, and cried for vengeance.",
+            "Forgiveness of sin is signified by a non-remembrance of it, so punishment of sin by a remembrance of it, and of the persons that commit it.",
+            "God hath remembered her iniquities; and is about to punish her for them."
+        ],
+        "John Wesley": [
+            "Even to heaven \u2014 An expression which implies the highest guilt."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sins of Babylon have reached as far as heaven, likened to a heap that has accumulated and clung closely together. God, who seemed to have forgotten or ignored these sins, has now remembered them and their gravity. This illustration from Jeremiah 51:9 emphasizes the multitude of Babylon's sins, reaching up to heaven. The imagery suggests that her sins were soldered together, forming a long chain that cried out for justice. God, in remembering her iniquities, is about to bring punishment upon her for the highest level of guilt.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.96479945558968,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.67,
+            "commentatorTierSimilarities": [
+                22.5,
+                29.15,
+                48.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sins of Babylon have reached as far as heaven, forming a prominent heap that closely cleaves together. God, who seemed to have forgotten, now remembers her iniquities. The multitude of her sins is portrayed as a mass reaching even unto heaven. Her sins were like a long chain, soldered together and stuck fast, crying out for vengeance. God is about to bring punishment upon her, recognizing the highest level of guilt.",
+            "wordCount": 72,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9575153003906456,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                24.44,
+                27.12,
+                48.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sins of Babylon have reached as far as heaven, resembling a heap that has reached up and cleaved unto heaven. God, who appeared to have forgotten, now remembers her iniquities. Her sins are likened to a mass that has joined together, forming a long chain and crying out for vengeance. God is about to punish Babylon for these sins, acknowledging the highest level of guilt.",
+            "wordCount": 66,
+            "quoteTokenProportion": 42.55,
+            "qualityScore": 1.9775601134076122,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.1,
+            "commentatorTierSimilarities": [
+                23.79,
+                27.31,
+                48.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sins of Babylon have reached as far as heaven, resembling a heap that has reached so far as to come into close contact with, and to cleave unto heaven. God, who seemed to have forgotten, now remembers her iniquities. Her sins are described as a mass that has joined one another in a mass 'up to heaven' and cleaved to heaven, crying out for justice. God is about to punish Babylon for her sins, recognizing the magnitude of her guilt.",
+            "wordCount": 81,
+            "quoteTokenProportion": 49.02,
+            "qualityScore": 2.010670267322887,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.2,
+            "commentatorTierSimilarities": [
+                24.36,
+                28.55,
+                47.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sins of Babylon have reached as far as heaven, resembling a heap that has reached so far as to come into close contact with... heaven. God, who seemed to have forgotten, now remembers her iniquities. Her sins are described as a mass that has joined one another in a mass 'up to heaven,' crying out for justice. God is about to punish Babylon for her sins, recognizing the magnitude of her guilt.",
+            "wordCount": 73,
+            "quoteTokenProportion": 51.06,
+            "qualityScore": 2.00575355681729,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                24.37,
+                29.03,
+                46.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

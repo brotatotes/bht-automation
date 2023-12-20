@@ -1,0 +1,75 @@
+# Revelation 1:10 Commentary Help Text
+
+## BHT:
+In a state of spiritual ecstasy, with his senses disconnected from the physical realm, John became receptive to the visionary experience that would follow. Despite being physically separated from the communal worship of the Church on the Lord's day, John maintained a spiritual communion with his fellow believers. The ensuing visions, structured in sevens, commenced on the first day of the Church, symbolizing its future. Suddenly, the commanding voice of Christ, resembling the sound of a trumpet, could be heard, marking the entrance of the great King and the revelations that were to unfold.
+
+## Choicest Commentary Quotes:
+### Henry Alford:
+1. "I was in the Spirit...becoming thereby receptive of the vision or revelation to follow."
+2. "Connexion with surrounding objects through the senses is suspended, and a connexion with the invisible world established."
+3. "This circumstance, coupled with a bias in favour of a peculiar method of interpretation, has led certain modern interpreters...to interpret the words of the day of the Lord's coming."
+
+### Jamieson-Fausset-Brown:
+1. "in a state of ecstasy; the outer world being shut out, and the inner and higher life or spirit being taken full possession of by God's Spirit, so that an immediate connection with the invisible world is established."
+2. "Though forcibly detained from Church communion with the brethren in the sanctuary on the Lord's day, John was holding spiritual communion with them."
+3. "The visions of the Apocalypse, the seals, trumpets, and vials, c., are grouped in sevens, and naturally begin on the first day of the seven, the birthday of the Church, whose future they set forth."
+
+### Albert Barnes:
+1. "He was not yet under the prophetic ecstasy (compare Acts 10:10; Acts 11:5; Acts 22:17), but was, though in a lonely and barren island, and far away from the privileges of the sanctuary, permitted to enjoy, in a high degree, the consolations of religion - an illustration of the great truth that God can meet his people anywhere; that, when in solitude and in circumstances of outward affliction, when persecuted and cast out, when deprived of the public means of grace and the society of religious friends, He can meet them with the abundant consolations of His grace, and pour joy and peace into their souls."
+2. "No man, at home or abroad, among friends or strangers, enjoying the privileges of the sanctuary, or deprived of those privileges, ever kept the Christian Sabbath in a devout manner without profit to his own soul; and, when deprived of the privileges of public worship, the visitations of the Saviour to the soul may be more than a compensation for all our privations."
+3. "The Hebrew trumpet is often referred to as employed, on account of its clearness, to summon people together, Exodus 19:13; Numbers 10:10; Judges 7:18, etc.; 1 Samuel 13:3; 2 Samuel 15:10."
+
+### Archibald T. Robertson:
+1. "I came to be (as in Revelation 1:9) in the Spirit, came into an ecstatic condition..."
+2. "The unexpected, overpowering entrance of the divine voice."
+3. "Voice of Christ, as is plain in verses Revelation 1:12."
+
+### John Gill:
+1. "Not on the Jewish sabbath, which was now abolished, nor was that ever called the Lord's day... but the first day of the week is designed."
+2. "This day was known by the ancients by the name of 'the Lord's day'."
+3. "It was a very 'great' one; it was the voice of a great person, of the Son of God, and expressed great things, and was very sonorous and loud, it was like the sound of a trumpet."
+
+### John Wesley:
+1. "I was in the Spirit — That is, in a trance, a prophetic vision; so overwhelmed with the power, and filled with the light, of the Holy Spirit, as to be insensible of outward things, and wholly taken up with spiritual and divine."
+2. "What follows is one single, connected vision, which St. John saw in one day; and therefore he that would understand it should carry his thought straight on through the whole, without interruption."
+3. "A great voice, as of a trumpet — Which was peculiarly proper to proclaim the coming of the great King, and his victory over all his enemies."
+
+
+## Debug Info
+### Generation Details
+- Timestamp: 12-19-2023 21:39:55
+- Choicest Prompt: "choicest prompt v0.4"
+- BHT Prompt: "bht prompt v0.8"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 29.23%
+- BHT Quality Score: 1.6594185340012437
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (65):
+	['a', 'and', 'be', 'became', 'being', 'believers', 'christ', 'church', 'commanding', 'commenced', 'communal', 'communion', 'could', 'day', 'despite', 'disconnected', 'ecstasy', 'ensuing', 'entrance', 'experience', 'fellow', 'first', 'follow', 'from', 'future', 'great', 'heard', 'his', 'in', 'its', 'john', 'king', 'lord', 'maintained', 'marking', 'of', 'on', 'physical', 'physically', 'realm', 'receptive', 'resembling', 'revelations', 's', 'senses', 'separated', 'sevens', 'sound', 'spiritual', 'state', 'structured', 'suddenly', 'symbolizing', 'that', 'the', 'to', 'trumpet', 'unfold', 'visionary', 'visions', 'voice', 'were', 'with', 'worship', 'would']
+- ChatGPT injected words (significant words only) (46):
+	['believers', 'christ', 'church', 'commanding', 'commenced', 'communal', 'communion', 'day', 'despite', 'disconnected', 'ecstasy', 'ensuing', 'entrance', 'experience', 'fellow', 'follow', 'future', 'great', 'heard', 'john', 'king', 'lord', 'maintained', 'marking', 'physical', 'physically', 'realm', 'receptive', 'resembling', 'revelations', 's', 'senses', 'separated', 'sevens', 'sound', 'spiritual', 'state', 'structured', 'suddenly', 'symbolizing', 'trumpet', 'unfold', 'visionary', 'visions', 'voice', 'worship']
+
+### Logs
+- Attempt 1 BHT: In a state of spiritual receptivity, the apostle John was taken into a heightened consciousness, connected to the invisible realm and shut out from the physical world. While physically separated from the Church on the Lord's day, John experienced a spiritual communion with his fellow believers. This visionary experience on the first day of the week, known as the Lord's day, marked the beginning of a series of revelations about the future of the Church. Suddenly, a powerful divine voice, sounding like a trumpet, commanded John's attention. This voice, unmistakably that of Christ, heralded the entrance of the great King and announced the subsequent visions that would unfold before John.
+- 🔄 Revelation 1:10 (attempt 1, 113 words, 28.77% quotes quality score: 1.6662361017021712, V2 normalized quality score: 46.74, commentator tiers 1-3: 36.71%, 24.39%, 38.9%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 2 BHT: In a state of spiritual connectedness with the invisible world, John entered into a receptive trance, shutting out the external and embodying God's Spirit. Though physically separated from the Church on the Lord's day, John spiritually communed with his fellow believers. The visions that followed, grouped in sevens, commenced on the birthday of the Church, symbolizing its future. Suddenly, an overwhelming divine voice, resembling a trumpet, marked the entrance of Christ. This great voice proclaimed the coming of the victorious King and introduced the subsequent revelations to come.
+- 🔄 Revelation 1:10 (attempt 2, 90 words, 25.37% quotes quality score: 1.5906050761092323, V2 normalized quality score: 44.23, commentator tiers 1-3: 38.89%, 25.79%, 35.32%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 3 BHT: In a state of spiritual receptiveness, John entered a trance-like condition, shutting out the world and connecting with the invisible realm. While physically unable to join the brethren in the sanctuary on the Lord's day, John experienced a deep spiritual communion with them. The visions that followed, starting on the first day of the Church, unfolded the future of God's people. Suddenly, a powerful voice, much like a trumpet, resonated, revealing itself to be the voice of Christ. This marked the beginning of a significant revelation.
+- 🔄 Revelation 1:10 (attempt 3, 89 words, 28.33% quotes quality score: 1.5365823145055257, V2 normalized quality score: 42.43, commentator tiers 1-3: 39.38%, 24.43%, 36.19%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 4 BHT: In a state of spiritual receptivity, detached from the physical world, John became open to receiving the forthcoming vision. Although physically separated from the fellowship of believers on the Lord's day, John fostered a spiritual connection with them. The subsequent visions, arranged in sevens, inaugurated on the first day of the Church, giving insight into its future. Suddenly, the resounding voice of Christ, resembling a trumpet, reverberated through the scene, signifying His majestic presence and introducing the ensuing visions to John.
+- 🔄 Revelation 1:10 (attempt 4, 82 words, 28.81% quotes quality score: 1.641482559259775, V2 normalized quality score: 45.92, commentator tiers 1-3: 39.85%, 26.9%, 33.25%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- Attempt 5 BHT: In a state of spiritual ecstasy, with his senses disconnected from the physical realm, John became receptive to the visionary experience that would follow. Despite being physically separated from the communal worship of the Church on the Lord's day, John maintained a spiritual communion with his fellow believers. The ensuing visions, structured in sevens, commenced on the first day of the Church, symbolizing its future. Suddenly, the commanding voice of Christ, resembling the sound of a trumpet, could be heard, marking the entrance of the great King and the revelations that were to unfold.
+- 🔄 Revelation 1:10 (attempt 5, 95 words, 29.23% quotes quality score: 1.6594185340012437, V2 normalized quality score: 46.52, commentator tiers 1-3: 39.99%, 25.61%, 34.41%) 
+	- BHT WAS OVER 80 WORDS! 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Revelation 1:10 bht prompt v0.8 (95 words, 29.23% quotes)
+- quality score: 1.6594185340012437, V2 normalized quality score: 46.52, commentator tiers 1-3: 39.99%, 25.61%, 34.41%)

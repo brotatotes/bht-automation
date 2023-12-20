@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 21:44:34",
+    "verseRef": "Revelation 9:10",
+    "bestBHT": {
+        "bht": "These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.",
+        "wordCount": 78,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.9250473187427048,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+        "commentatorTierSimilarities": [
+            35.57,
+            32.71,
+            31.72
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And they have tails like to scorpions, and stings: this is the particular especially in which the comparison finds its aptitude.",
+            "And in their tails is their power to hurt men five months.",
+            "In their tails is their power to hurt men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "tails like unto scorpions\u2014like unto the tails of scorpions.",
+            "and there were stings\u2014There is no oldest manuscript for this reading.",
+            "and (they have) stings: and in their tails (is) their power (literally, 'authority': authorized power) to hurt."
+        ],
+        "Albert Barnes": [
+            "The fancy of an Arab now often discerns a resemblance between the tail of the locust and the scorpion.",
+            "The only thing which they have resembling a sting is a hard bony subsubstance like a needle, with which the female punctures the bark and wood of trees in order to deposit her eggs.",
+            "It does not appear that the wrong would be by inflicting bodily torments, but would be characterized by that injustice toward others which produces distress and anguish."
+        ],
+        "Archibald T. Robertson": [
+            "Tails...like unto scorpions"
+        ],
+        "John Gill": [
+            "And they had tails like unto scorpions.\" ",
+            "And there were stings in their tails.\" ",
+            "and their power [was] to hurt men five months."
+        ],
+        "John Wesley": [
+            "And they have tails like scorpions \u2014 That is, each tail is like a scorpion, not like the tail of a scorpion.\" ",
+            "To hurt the unsealed men five months - Five prophetic months; that is, seventy-nine common years\" ",
+            "So long did these calamities last."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes creatures with tails like unto scorpions that have the power to hurt men for a period of five months. The commentators remark on the aptitude of this comparison, highlighting the authority and ability of these creatures to inflict harm. They discuss the resemblance between the tails of these creatures and scorpions, pointing out that the stings mentioned may not be literal, but rather symbolic of the distress and anguish caused by their unjust actions. These calamities are said to last for a significant period of time, symbolized by the five prophetic months or seventy-nine common years.",
+            "wordCount": 100,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 1.7431782680167078,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.3,
+            "commentatorTierSimilarities": [
+                34.66,
+                31.6,
+                33.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The creatures in question possess scorpion-like tails with stings that have the authority to harm for five months. The comparison between the creatures and scorpions is emphasized as apt. Although the stings may be symbolic, they represent the distress caused by their unjust actions. These afflictions last for a considerable duration, symbolized by the five prophetic months or seventy-nine common years.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.1,
+            "qualityScore": 1.6279615638783334,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.47,
+            "commentatorTierSimilarities": [
+                34.17,
+                31.75,
+                34.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These scorpion-like creatures possess tails and stings that have the power to hurt men for a five-month period. The parallel between their tails and scorpions is notable, emphasizing their authority and ability to inflict harm. The stings, whether literal or symbolic, represent the distress and anguish caused by their unjust actions towards others. These afflictions endure for an extensive period of time, symbolized by the five prophetic months, roughly amounting to seventy-nine common years.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.7388044493855142,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.16,
+            "commentatorTierSimilarities": [
+                33.94,
+                34.49,
+                31.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The creatures described in this passage have tails like unto scorpions and possess the authority to harm men for a specified period of time. The comparison between their tails and scorpions is appropriate, emphasizing their power in causing harm. The stings in their tails symbolize the distress and anguish they bring upon others. This affliction lasts for a significant duration, represented by the five prophetic months or approximately seventy-nine common years.",
+            "wordCount": 72,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.9270151707321852,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                37.12,
+                30.63,
+                32.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These creatures possess tails resembling scorpions and are capable of inflicting harm upon men for a five-month span. The comparison of their tails to scorpions highlights their undeniable similarity and suggests their authority in causing suffering. The stings found in their tails symbolize the distress and anguish they bring upon others. It is noteworthy that these calamities endure for quite a long time, as represented by the five prophetic months, equivalent to around seventy-nine common years.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.9250473187427048,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                35.57,
+                32.71,
+                31.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:48:51",
+    "verseRef": "Revelation 18:16",
+    "bestBHT": {
+        "bht": "Adorned in fine linen, purple, scarlet, and glided with gold, precious stones, and pearls, that great city meets its demise in a single hour, leaving behind the desolation of great riches. The merchants lament the loss of their beloved city, mourning its downfall. The city, depicted as a woman cloaked in luxurious items, represents sinful allure and opulence. The kings of the earth join in the mourning, using the same language to lament the destruction of this magnificent city.",
+        "wordCount": 79,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 1.2292886629549153,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.22,
+        "commentatorTierSimilarities": [
+            17.43,
+            40.44,
+            42.13
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. And\u2014so Vulgate and",
+            "\tANDREAS. But A, B, and C",
+            "\tomit. ",
+            "\t",
+            "decked\u2014literally,",
+            "\t\"glided.\" ",
+            "\t",
+            "stones . . . pearls\u2014Greek,",
+            "\t\"stone . . . pearl.\" B and ANDREAS",
+            "\tread \"pearls.\" But A and C, \"pearl."
+        ],
+        "Albert Barnes": [
+            "That was clothed in fine linen - In the previous description Revelation 18:12-13, these are mentioned as articles of traffic; here the city, under the image of a female, is represented as clothed in the most rich and frivolous of these articles.",
+            "And purple, and scarlet - See the notes on Revelation 17:3-4. Compare Revelation 18:12 of this chapter.",
+            "And decked with gold, and precious stones, and pearls - notes on Revelation 17:4."
+        ],
+        "Marvin Vincent": [
+            "Decked [\u03ba\u03b5\u03c7\u03c1\u03c5\u03c3\u03c9\u03bc\u03b5\u03bd\u03b7] . See on ch. Revelation 17:4."
+        ],
+        "Archibald T. Robertson": [
+            "For in one hour so great riches is made desolate.\" ",
+            "The reason for the 'woe.'",
+            "This is the dirge of the merchants."
+        ],
+        "John Gill": [
+            "Alas, alas! that great city...",
+            "that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls...",
+            "Using the same words the kings of the earth do..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "That great city, adorned with fine linen, purple, scarlet, and glimmering with gold, precious stones, and pearls, meets its downfall in a single hour, leaving behind the desolation of great riches. This is the dirge of the merchants who mourn the loss of their beloved city. The city is depicted as a woman adorned with luxurious and extravagant items, reflecting the sinful allure and opulence she represents. The kings of the earth, using the same language, lament the demise of this magnificent city. Truly, alas, alas, for her grandeur has been laid to waste.",
+            "wordCount": 94,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.2082803266893167,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.52,
+            "commentatorTierSimilarities": [
+                18.21,
+                36.06,
+                45.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Adorned in fine linen, purple, scarlet, and glided with gold, precious stones, and pearls, that great city meets its demise in a single hour, leaving behind the desolation of great riches. The merchants lament the loss of their beloved city, mourning its downfall. The city, depicted as a woman cloaked in luxurious items, represents sinful allure and opulence. The kings of the earth join in using the same language to mourn the destruction of this magnificent city. Indeed, alas, alas, for her grandeur crumbles to ruin. (80 words, 53.75% from provided quotes)",
+            "wordCount": 90,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.1214772724534048,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.63,
+            "commentatorTierSimilarities": [
+                20.24,
+                32.75,
+                47.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Adorned in fine linen, purple, scarlet, and glided with gold, precious stones, and pearls, that great city meets its demise in a single hour, leaving behind the desolation of great riches. The merchants lament the loss of their beloved city, mourning its downfall. The city, depicted as a woman cloaked in luxurious items, represents sinful allure and opulence. The kings of the earth join in using the same language to mourn the destruction of this magnificent city.",
+            "wordCount": 77,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.216285703191755,
+            "qualityScoreNormalizedComparedToV2BHTs": 31.78,
+            "commentatorTierSimilarities": [
+                17.32,
+                39.12,
+                43.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Adorned in fine linen, purple, scarlet, and glided with gold, precious stones, and pearls, that great city meets its demise in a single hour, leaving behind the desolation of great riches. The merchants lament the loss of their beloved city, mourning its downfall. The city, depicted as a woman cloaked in luxurious items, represents sinful allure and opulence. The kings of the earth join in the mourning, using the same language to lament the destruction of this magnificent city.",
+            "wordCount": 79,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.2292886629549153,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.22,
+            "commentatorTierSimilarities": [
+                17.43,
+                40.44,
+                42.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Decked in fine linen, purple, scarlet, and glided with gold, precious stones, and pearls, that great city experiences its downfall in an hour, leading to the desolation of immense riches. The merchants grieve for the loss of their cherished city, mourning its collapse. Symbolically portrayed as a woman adorned in extravagant attire, the city embodies allure and opulence. The kings of the earth share in the lament, echoing the language used to mourn the demise of this magnificent city.",
+            "wordCount": 79,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 1.159173469965086,
+            "qualityScoreNormalizedComparedToV2BHTs": 29.89,
+            "commentatorTierSimilarities": [
+                16.54,
+                41.2,
+                42.25
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

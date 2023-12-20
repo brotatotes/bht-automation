@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 21:45:59",
+    "verseRef": "Revelation 12:15",
+    "bestBHT": {
+        "bht": "The flood symbolizes the Germanic tribes threatening to destroy Christianity, and the earth represents the assistance given to the Church against persecution and heresies. The serpent's plans to drown the woman were thwarted as she was carried away by the river. This imagery reflects the persistent malice of the papal body against the true church, while Satan continuously seeks to destroy it. However, his efforts were ultimately frustrated, demonstrating God's providence and assurance of the Church's triumph over adversity.",
+        "wordCount": 82,
+        "quoteTokenProportion": 27.59,
+        "qualityScore": 1.6905434838064768,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+        "commentatorTierSimilarities": [
+            26.02,
+            42.4,
+            31.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The flood, or river, is the stream of Germanic tribes which, pouring on Rome, threatened to destroy Christianity.",
+            "But the earth helped the woman, by swallowing up the flood.",
+            "Perhaps it includes also, generally, the help given by earthly powers (those least likely, yet led by God's overruling providence to give help) to the Church against persecutions and also heresies."
+        ],
+        "Albert Barnes": [
+            "The figure here would well represent the continued malice of the papal body against the true church, in those dark ages when it was sunk in obscurity, and, as it were, driven out into the desert.",
+            "That malice never slumbered, but was continually manifesting itself in some new form, as if it were the purpose of papal Rome to sweep it entirely away.",
+            "The truth taught is, that Satan leaves no effort untried to destroy the church."
+        ],
+        "Marvin Vincent": [
+            "Cause her to be carried away of the flood: a river-born one.",
+            "Might make her one carried away by the stream.",
+            "The word occurs only here in the New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Water as a flood... The serpent could not follow the woman or stop her flight and so sought to drown her.\" ",
+            "That he might cause her to be carried away by the stream.\" ",
+            "This compound verbal \u03c0\u03bf\u03c4\u03b1\u03bc\u03bf\u03c6\u03bf\u03c1\u03b7\u03c4\u03bf\u03bd... means simply 'carried away by the river'."
+        ],
+        "John Gill": [
+            "That flood of errors and heresies, which were poured in between the times of Constantine and the rise of antichrist may be here intended... and this flood of errors and heresies may be truly said to be cast out of the serpent's mouth; since the old serpent, the devil, is the father of all lies, and errors.",
+            "The above heresies are the doctrines of devils, and damnable ones; and were designed by Satan to destroy the souls of men, and ruin the church.",
+            "But his designs were frustrated, and he disappointed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 12:15, the flood represents the Germanic tribes threatening to destroy Christianity and the earth symbolizes the help given by earthly powers to the Church against persecution and heresies. The serpent seeks to drown the woman, but he cannot stop her flight. The compound verbal used here means carried away by the river. This imagery reflects the continued malice of the papal body against the true church, with Satan never ceasing to try and destroy it. Ultimately, his attempts were frustrated and his designs were disappointed. This verse serves as a reminder that Satan leaves no effort untried to destroy the church, but God's providence and help will prevail.",
+            "wordCount": 110,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.670742419394294,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                25.33,
+                41.76,
+                32.91
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the flood represents the Germanic tribes threatening to destroy Christianity, while the earth symbolizes the help given by earthly powers to the Church against persecution and heresies. The serpent attempts to drown the woman, but cannot stop her flight, as she is carried away by the river. The continued malice of the papal body against the true church is reflected, with Satan persistently seeking to destroy it. However, his designs were ultimately frustrated, revealing that God's providence and help will prevail against all odds.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.33,
+            "qualityScore": 1.7451469249919995,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.37,
+            "commentatorTierSimilarities": [
+                26.63,
+                42.12,
+                31.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The flood of Germanic tribes threatened to destroy Christianity, but the earth offered help by swallowing them up. This may also represent the help from earthly powers against persecutions and heresies. The serpent's intent was to drown the woman, but she managed to escape, carried away by the river. The persistence of the papal body's malice against the true church is evident, as Satan continuously attempts to destroy it. However, his efforts were ultimately frustrated, and God's providence and help triumphed.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 1.5975181477386842,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.46,
+            "commentatorTierSimilarities": [
+                28.05,
+                41.41,
+                30.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The flood of Germanic tribes posed a threat to Christianity, but the earth intervened by swallowing them up. This imagery may also represent the help the Church received from unexpected earthly powers. The serpent aimed to drown the woman, but she was carried away by the river. The persistence of the papal body's malice against the true church is evident, as Satan continuously sought to destroy it. However, his efforts were ultimately frustrated, emphasizing God's ultimate triumph over evil.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6262180546606662,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.41,
+            "commentatorTierSimilarities": [
+                26.79,
+                45.03,
+                28.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The flood symbolizes the Germanic tribes threatening to destroy Christianity, and the earth represents the assistance given to the Church against persecution and heresies. The serpent's plans to drown the woman were thwarted as she was carried away by the river. This imagery reflects the persistent malice of the papal body against the true church, while Satan continuously seeks to destroy it. However, his efforts were ultimately frustrated, demonstrating God's providence and assurance of the Church's triumph over adversity.",
+            "wordCount": 82,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6905434838064768,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.55,
+            "commentatorTierSimilarities": [
+                26.02,
+                42.4,
+                31.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

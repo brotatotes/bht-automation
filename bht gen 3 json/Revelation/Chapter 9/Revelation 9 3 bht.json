@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:45:04",
+    "verseRef": "Revelation 9:3",
+    "bestBHT": {
+        "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These infernal locusts, described as a swarm of hellish creatures, are not of the earth like natural locusts. The scorpions, shaped like lobsters, have a venomous sting and are hostile to man. This plague of locusts, reminiscent of the eighth plague in Egypt and Joel's prophecy, represents a numerous and destructive army with the ability to cause great torment. The Seer perceives this plague as demoniacal in origin, depicting a scene of terrible and irresistible destruction.",
+        "wordCount": 100,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 2.280478404993996,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.17,
+        "commentatorTierSimilarities": [
+            32.39,
+            32.89,
+            34.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And out of the smoke (which therefore was their vehicle or envelope) came forth locusts into (towards, over, so as to spread over: it gives more the sense of distribution than 'upon' would) the earth...\" ",
+            "...there was given to them power as the scorpions of the earth (not as noting any distinction between land and water-scorpions, as Ewald, but because the scorpions are natural and of the earth, whereas these locusts are infernal and not of nature) have power...\" ",
+            "...to sting, as below explained."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "as the scorpions of the earth",
+            "have power\u2014namely, to sting",
+            "are not 'of the earth'"
+        ],
+        "Albert Barnes": [
+            "The symbol is Oriental, and would most naturally refer to something that was to occur in the East.",
+            "Locusts were remarkable for their numbers - so great often as to appear like clouds, and to darken the sky.",
+            "The natural application of this symbol, then, is to a numerous and destructive army, or to a great multitude of people committing ravages, and sweeping off everything in their march."
+        ],
+        "Marvin Vincent": [
+            "Locusts [\u03b1\u03ba\u03c1\u03b9\u03b4\u03b5\u03c2] . The idea of this plague is from the eighth plague in Egypt (Exodus 10:14, Exodus 10:15). Compare the description of a visitation of locusts in Joel 2:0.",
+            "Scorpions. See Ezekiel 2:6; Luke 10:19; Luke 11:12. Shaped like a lobster, living in damp places, under stones, in clefts of walls, cellars, etc. The sting is in the extremity of the tail.",
+            "The sting of the Syrian scorpion is not fatal, though very painful. The same is true of the West Indian scorpion. Thomson says that those of North Africa are said to be larger, and that their poison frequently causes death."
+        ],
+        "Philip Schaff": [
+            "We need not ask whether these locusts came out of the well, or only out of the smoke after it reached the surface of the earth. The latter is all that the Seer beholds, but it cannot be doubted that he looks upon the plague as demoniacal in its origin.",
+            "The locusts are compared with locusts of the earth, and they have given unto them the frightful power of destruction belonging to the latter.",
+            "The idea of the plague is no doubt taken in the first instance from the Egyptian plague of the same kind, but a similar image of terrible and irresistible destruction is frequently employed by the prophets."
+        ],
+        "Archibald T. Robertson": [
+            "The smoke was worse than the fallen star and the locusts that came out of the smoke were worse still, 'a swarm of hellish locusts'.\" ",
+            "The scorpions...a little animal somewhat like a lobster that lurks in stone walls in warm regions, with a venomous sting in its tail.",
+            "The scorpion ranks with the snake as hostile to man."
+        ],
+        "John Gill": [
+            "The western locusts are the clergy of the church of Rome, cardinals, bishops, priests, monks, and friars, of every order; these were not instituted by Christ, but rose out of the bottomless pit, from the antichristian smoke of councils, decrees, and traditions; and are fitly compared to locusts for their number...and for their devouring nature.",
+            "The eastern locusts are the Saracens...these are fitly signified by locusts, because the locusts generally come out of the eastern parts...like locusts they were innumerable, they went in troops and bands...pillaging and ravaging all they could...",
+            "And unto them was given power, as the scorpions of the earth have power; that is, to torment then, by striking them with their stings in their tails...very fitly describes the Saracens, the race of the Ishmaelites, a generation of vipers, a subtle and treacherous sort of people, very furious and wrathful, and who lived by continual robbing and plundering of others..."
+        ],
+        "John Wesley": [
+            "And out of the smoke \u2014 Not out of the bottomless pit, but from the smoke which issued thence.",
+            "There went forth locusts \u2014 A known emblem of a numerous, hostile, hurtful people.",
+            "The scorpions of the earth \u2014 The most hurtful kind. The scorpions of the air have wings."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These locusts, unlike natural locusts, are infernal and not of the earth. They are described as a swarm of hellish creatures with the ability to cause great torment. The scorpions, shaped like lobsters, are known for lurking in damp places and have a venomous sting. This plague of locusts is reminiscent of the eighth plague in Egypt and the visitation of locusts in Joel's prophecy. The symbol of locusts is often used in Scripture to represent a numerous and destructive army, and these locusts are given the power of the scorpions to torment. It is clear that the Seer perceives this plague as demoniacal in its origin and envisions a scene of terrible and irresistible destruction.",
+            "wordCount": 140,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 2.2385657492081283,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+            "commentatorTierSimilarities": [
+                31.53,
+                33.58,
+                34.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These infernal locusts are described as a swarm of hellish creatures, not of the earth like natural locusts. The scorpions, shaped like lobsters, have a venomous sting and rank as hostile to man. This plague of locusts, reminiscent of the eighth plague in Egypt and Joel's prophecy, signifies a numerous and destructive army with the ability to cause great torment. The Seer perceives this plague as demoniacal in origin, depicting a scene of terrible and irresistible destruction.",
+            "wordCount": 101,
+            "quoteTokenProportion": 24.59,
+            "qualityScore": 2.3009926953799096,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.85,
+            "commentatorTierSimilarities": [
+                32.51,
+                32.92,
+                34.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These infernal locusts, described as a swarm of hellish creatures, are not of the earth like natural locusts. The scorpions, shaped like lobsters, have a venomous sting and are hostile to man. This plague of locusts, reminiscent of the eighth plague in Egypt and Joel's prophecy, represents a numerous and destructive army with the ability to cause great torment. The Seer perceives this plague as demoniacal in origin, depicting a scene of terrible and irresistible destruction.",
+            "wordCount": 100,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.280478404993996,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.17,
+            "commentatorTierSimilarities": [
+                32.39,
+                32.89,
+                34.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These infernal locusts, not of the earth like natural locusts, are described as a swarm of hellish creatures. Resembling lobsters, scorpions have a venomous sting. This plague of locusts, drawing from the eighth plague in Egypt and Joel's prophecy, symbolizes a numerous and destructive army with the ability to cause torment. The Seer perceives this plague as demoniacal in origin, envisioning a scene of overwhelming and devastating destruction.",
+            "wordCount": 92,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.221557239539501,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.21,
+            "commentatorTierSimilarities": [
+                33.16,
+                32.27,
+                34.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And out of the smoke came forth locusts into the earth, having power as the scorpions of the earth have power to sting. These infernal locusts, not of the earth like natural locusts, are described as a swarm of hellish creatures. Resembling lobsters, scorpions have a venomous sting. This plague of locusts, reminiscent of the eighth plague in Egypt and Joel's prophecy, represents a numerous and destructive army with the ability to cause great torment. The Seer perceives this plague as demoniacal in origin, envisioning a scene of terrible and irresistible destruction.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 2.244690651342726,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.98,
+            "commentatorTierSimilarities": [
+                32.91,
+                32.62,
+                34.47
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

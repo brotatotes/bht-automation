@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:48:11",
+    "verseRef": "Revelation 16:17",
+    "bestBHT": {
+        "bht": "The voice of God Himself resonates from the temple of heaven, declaring the completion of the final plagues that mark the end. The destruction unleashed upon the air surpasses all other plagues, affecting all who breathe it. With the proclamation, It is done, God's purposes and the pouring out of all the plagues find fulfillment. This significant seventh phial poured out upon the air symbolizes the culmination of God's judgment, signifying the realization of His divine plan.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.980115093961755,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+        "commentatorTierSimilarities": [
+            29.57,
+            39.31,
+            31.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The voice, as in ver. 1, of God himself.",
+            "The plagues are the last plagues: if therefore they are done, all is done.",
+            "The declaration is of course made in anticipation, and imports that the outpouring of the seventh vial had done that which should accomplish all and bring in the end."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is done\u2014\"It is come to pass.\" God's voice as to the final consummation, as Jesus' voice on the cross when the work of expiation was completed, 'It is finished.'\" ",
+            "But A and B, 'upon' (Greek, 'epi').",
+            "great\u2014so B, Vulgate, Syriac, Coptic, and ANDREAS."
+        ],
+        "Albert Barnes": [
+            "The most probable supposition as to the idea intended to be represented is, that, as storms and tempests seem to be engendered in the air, so this destruction would come from some supernatural cause, as if the whole atmosphere should be filled with wind and storm; and a furious and desolating whirlwind should be aroused by some invisible power.",
+            "And there came a great voice out of the temple of heaven - The voice of God.",
+            "The meaning here is, that that destruction was so certain, that it might be spoken of as now actually accomplished."
+        ],
+        "Marvin Vincent": [
+            "Temple of heaven. Omit of heaven."
+        ],
+        "Philip Schaff": [
+            "The air is the dwelling-place of the powers of darkness, whose head is \u2018the prince of the power of the air.\u2019",
+            "The voice is from God, and from His very throne.",
+            "It is done, i.e all God\u2019s purposes are accomplished: all the plagues are poured out; the end is reached."
+        ],
+        "Archibald T. Robertson": [
+            "Upon the air. All men breathe the air and this is worse than the smiting of the earth, the sea, the fresh waters, the sun.",
+            "A great voice. The voice of God.",
+            "It is done. The whole series of plagues is now complete."
+        ],
+        "John Gill": [
+            "This vial differs from all the rest; that whereas the rest only affect some part or branch of the antichristian state, this will affect all the remains of the Pagan, Papal, and Mahometan powers, gathered and united together at Armageddon.",
+            "The first accomplishment of this vial will be the decisive battle at Armageddon, when the remains of all Christ's and his church's enemies will have a total defeat; and this will be the third and last woe, which will utterly destroy those that have destroyed the earth, Pagans, Papists, and Mahometans, even all the open enemies of Christ, so that nothing will lie in the way of his kingdom.",
+            "But though antichrist will be no more, and Satan will have no more in form an open kingdom upon earth; yet, towards the close of this reign, great lukewarmness and coldness will seize professors of religion, and immorality and profaneness will abound again; which will bring on the times of the coming of the son of man."
+        ],
+        "John Wesley": [
+            "And the seventh poured out his phial upon the air \u2014 Which encompasses the whole earth.\" ",
+            "This is the most weighty phial of all, and seems to take up more time than any of the preceding.",
+            "It is done \u2014 What was commanded, verse 1. The phials are poured out."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voice of God Himself declares that the final plagues, which bring about the end, are complete. This voice comes from the temple of heaven, signifying its divine authority. The destruction brought upon the air is more severe than any other plague, as it affects all people who breathe it. Like a furious whirlwind, this supernatural devastation leaves no corner untouched. The voice of God proclaims, It is done, signifying the accomplishment of His purposes and the fulfillment of all the plagues. The pouring out of this final and weighty phial upon the air signifies the culmination of God's judgment.",
+            "wordCount": 101,
+            "quoteTokenProportion": 38.81,
+            "qualityScore": 1.9497203724911456,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.17,
+            "commentatorTierSimilarities": [
+                29.83,
+                40.65,
+                29.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice of God Himself, from the temple of heaven, affirms the completion of the final plagues that bring about the end. The destruction upon the air, affecting all who breathe it, surpasses all other plagues. This supernatural devastation, like a furious whirlwind, leaves no part untouched. From God's voice comes the declaration, It is done, signifying the fulfillment of His purposes and the accomplishment of the plagues. The pouring out of the weighty seventh phial upon the air represents the culmination of God's judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.940292629482403,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.86,
+            "commentatorTierSimilarities": [
+                29.84,
+                38.72,
+                31.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The voice of God Himself resonates from the temple of heaven, declaring the completion of the final plagues that mark the end. The destruction unleashed upon the air surpasses all other plagues, affecting all who breathe it. With the proclamation, It is done, God's purposes and the pouring out of all the plagues find fulfillment. This significant seventh phial poured out upon the air symbolizes the culmination of God's judgment, signifying the realization of His divine plan.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.980115093961755,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.18,
+            "commentatorTierSimilarities": [
+                29.57,
+                39.31,
+                31.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice of God, echoing from the temple of heaven, declares the final plagues as It is done. This proclamation denotes the completion of God's purposes and the fulfillment of all the poured-out plagues. The destruction upon the air surpasses every other plague, affecting all who breathe it. Like a raging whirlwind, this supernatural devastation leaves no part untouched. As the weightiest phial, poured out upon the air, signifies the culmination, it represents the ultimate judgment of God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9169142562406698,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.08,
+            "commentatorTierSimilarities": [
+                29.45,
+                38.97,
+                31.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The voice of God Himself, resounding from the temple of heaven, declares the final plagues as complete, proclaiming, It is done. This signifies the accomplishment of God's purposes and the fulfillment of all the poured-out plagues. The destruction unleashed upon the air surpasses all other plagues, affecting every person who breathes. Like a violent whirlwind, this supernatural devastation leaves no area untouched. The pouring out of the weighty seventh phial upon the air ultimately represents the culmination of God's judgment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8670567015161141,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.42,
+            "commentatorTierSimilarities": [
+                28.2,
+                38.42,
+                33.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

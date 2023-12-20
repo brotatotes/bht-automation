@@ -1,0 +1,120 @@
+{
+    "timestamp": "12-19-2023 21:40:06",
+    "verseRef": "Revelation 3:6",
+    "bestBHT": {
+        "bht": "The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.",
+        "wordCount": 49,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 0.8687660046343205,
+        "qualityScoreNormalizedComparedToV2BHTs": 20.23,
+        "commentatorTierSimilarities": [
+            2.72,
+            49.96,
+            47.32
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "6.] See above, ch, i. 7."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. (See on :-.)"
+        ],
+        "Albert Barnes": [
+            "He here addresses the church as one who is holy and true; as he who has the key of David, and who can shut and no one can open, and open and no one can shut.",
+            "A general promise, in view of the circumstances in Philadelphia, to all who should overcome. They would be made a pillar in the temple of God, and go no more out. They would have written on themselves the name of his God, and the name of the holy city - showing that they were inhabitants of the heavenly world.",
+            "One solitary pillar has been often noticed, as reminding beholders of the remarkable words in the Apocalypse - \u2018Him that overcometh I will make a pillar in the temple of my God\u2019"
+        ],
+        "Philip Schaff": [
+            "Revelation 3:6. The usual call, with which the four last Epistles close.",
+            "\t"
+        ],
+        "John Gill": [
+            "He that hath an ear, let him hear,....",
+            " :-."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a church that is addressed by someone who is holy and true, possessing the key of David and the power to open and shut. For those who overcome, there is a promise of being made a pillar in the temple of God, belonging to the heavenly world, with the names of God and the holy city written on them as a sign of their heavenly citizenship. This promise is a general one, given to all who are victorious. The verse concludes with an invitation for those with ears to hear.",
+            "wordCount": 94,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 0.9909736549397345,
+            "qualityScoreNormalizedComparedToV2BHTs": 24.29,
+            "commentatorTierSimilarities": [
+                6.94,
+                57.25,
+                35.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The church is addressed by someone holy and true, with the power to open and shut. If they overcome, they will become pillars in God's temple, bearing the names of God and the holy city as inhabitants of the heavenly world. This is a promise to all who are victorious. Those with ears should listen.",
+            "wordCount": 56,
+            "quoteTokenProportion": 48.84,
+            "qualityScore": 0.919450154273501,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.92,
+            "commentatorTierSimilarities": [
+                7.35,
+                51.59,
+                41.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church is addressed by someone who is holy and true and possesses the key of David. For those who overcome, there is a promise of becoming pillars in God's temple, with the names of God and the holy city written on them. This promise is given to all who are victorious. The verse ends with an invitation for those with ears to hear.",
+            "wordCount": 65,
+            "quoteTokenProportion": 47.73,
+            "qualityScore": 0.9255836852360946,
+            "qualityScoreNormalizedComparedToV2BHTs": 22.12,
+            "commentatorTierSimilarities": [
+                1.78,
+                60.76,
+                37.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The church is addressed by someone who is holy and true, possessing the power to open and shut. The promise to the victorious is to become pillars in God's temple, bearing the names of God and the holy city. It is a general promise for all who overcome. The invitation is for those with ears to hear.",
+            "wordCount": 58,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 0.9008998863904893,
+            "qualityScoreNormalizedComparedToV2BHTs": 21.3,
+            "commentatorTierSimilarities": [
+                3.73,
+                53.84,
+                42.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The church is addressed by someone who is holy and true, possessing the key of David. For those who overcome, there is a promise to become pillars in God's temple. This promise is given to all who are victorious. The invitation is for those with ears to hear.",
+            "wordCount": 49,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 0.8687660046343205,
+            "qualityScoreNormalizedComparedToV2BHTs": 20.23,
+            "commentatorTierSimilarities": [
+                2.72,
+                49.96,
+                47.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

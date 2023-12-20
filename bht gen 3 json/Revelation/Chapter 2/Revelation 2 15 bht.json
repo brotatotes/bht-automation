@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:40:02",
+    "verseRef": "Revelation 2:15",
+    "bestBHT": {
+        "bht": "In the church at Pergamum, there are those who hold the same Balaamite or Nicolaitan doctrine spiritually or symbolically. These individuals promote idolatry and fornication both physically and spiritually, which is sin. Just as Balak had Balaam as a false teacher, the church in Pergamum has Nicolaitan teachers. However, these actions go against what God hates, and the church is urged to address this issue and not tolerate such false teachings.",
+        "wordCount": 71,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.05467216242429,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.66,
+        "commentatorTierSimilarities": [
+            35.3,
+            31.02,
+            33.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus thou also hast (as well as those of old: not, as the Church at Ephesus, ver. 6) men holding (see above) the teaching of the Nicolaitans in like manner...\" (37 words)",
+            "We may remark, 1) that it is most according to the sense of the passage to understand these sins in the case of the Nicolaitans, as in that of those whom Balaam tempted, literally, and not mystically...\" (42 words)",
+            "The mere existence of the etymological relation is extremely doubtful [see above on ver. 6]: and even granting it,\u2014to suppose the two identical, would be to destroy the historical illustration by which the present existing sect is described.\" (38 words)"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "THOU also hast them that hold the same Balaamite or Nicolaitane doctrine spiritually or symbolically.",
+            "Literal eating of idol-meats and fornication in Pergamos were accompanied by spiritual idolatry and fornication.",
+            "It is sin not to hate what God hates."
+        ],
+        "Albert Barnes": [
+            "So hast thou also them ... - That is, there are those among you who hold those doctrines.",
+            "If this be the correct interpretation, then we have, in fact, a description of what the Nicolaitanes held, agreeing with all the accounts given of them by the ancient fathers.",
+            "Which thing I hate - So the common Greek text - \u03bf\u0314\u0301 \u03bc\u03b9\u03c3\u03c9\u0342 ho miso\u0304. But the best-supported reading, and the one adopted by Griesbach, Tittmann, and Hahn, is \u03bf\u0314\u03bc\u03bf\u03b9\u0301\u03c9\u03c2 homoio\u0304s - 'in like manner'; that is, 'as Balak retained a false prophet who misled the Hebrews, so thou retainest those who teach things like to those which Balaam taught.'"
+        ],
+        "Marvin Vincent": [
+            "So. Even as Balak had Balaam for a false teacher, so hast thou the Nicolaitan teachers. ",
+            "Nicolaitans. See on verse 6. ",
+            "Which thing I hate. Omit."
+        ],
+        "Philip Schaff": [
+            "The chief point of inquiry connected with these words is, whether they introduce a second group of erroneous teachers, or whether they constitute a second description of the Balaamites already mentioned.",
+            "The addition of the words 'in like manner' is important, showing, as they do, that the second class of false teachers is really identical with the first.",
+            "We are thus led to the conclusion that these Nicolaitans are no sect distinct from the followers of Balaam. They are a mystical name for those who in the church at Pergamos imitated the example and the errors of that false prophet of the Old Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Thou and the church at Pergamum as Israel had the wiles of Balaam.",
+            "The use of \u03bf\u03bc\u03bf\u03b9\u03c9\u03c2 (likewise) here shows that they followed Balaam in not obeying the decision of the Conference at Jerusalem about idolatry and fornication.",
+            "They encouraged a return to pagan laxity of morals."
+        ],
+        "John Gill": [
+            "This seems to design the doctrines of the church of Rome, which in this period took place; which forbid marriage to the priests, and recommended celibacy and virginity to others also; which were the source of all uncleanness and abominable lusts; for which pardons and indulgences were given, and, in process of time, brothel houses were set up, and licensed and encouraged by authority.",
+            "Which thing I hate; the doctrine of these men, as well as their deeds."
+        ],
+        "John Wesley": [
+            "In like manner thou also \u2014 As well as the angel at Ephesus.",
+            "Hast them that hold the doctrine of the Nicolaitans \u2014 And thou sufferest them to remain in the flock."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 2:15, there are those in the church of Pergamum who hold the teaching of the Nicolaitans, much like the church of old. These sins should be understood literally, not mystically. Just as Balak had Balaam as a false teacher, the church in Pergamum has Nicolaitan teachers. They encouraged a return to pagan laxity of morals, promoting idolatry and fornication both physically and spiritually. However, these actions go against what God hates. The church at Pergamum is urged to address this issue and not tolerate such false teachings, just as the church in Ephesus was commended for not tolerating false teachers.",
+            "wordCount": 101,
+            "quoteTokenProportion": 44.29,
+            "qualityScore": 1.9151164326229018,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                37.19,
+                32.44,
+                30.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the church of Pergamum, there are those who hold the teaching of the Nicolaitans, much like the church of old. These sins should be understood literally, not mystically. Just as Balak had Balaam as a false teacher, the church in Pergamum has Nicolaitan teachers. They encouraged a return to pagan laxity of morals, physically and spiritually. However, these actions go against what God hates. The church is urged to address this issue and not tolerate such false teachings.",
+            "wordCount": 79,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.8667053865084422,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                37.01,
+                31.74,
+                31.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the church at Pergamum, there are those who hold the same Balaamite or Nicolaitan doctrine spiritually or symbolically. These individuals promote idolatry and fornication both physically and spiritually, which is sin. Just as Balak had Balaam as a false teacher, the church in Pergamum has Nicolaitan teachers. However, these actions go against what God hates, and the church is urged to address this issue and not tolerate such false teachings.",
+            "wordCount": 71,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.05467216242429,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.66,
+            "commentatorTierSimilarities": [
+                35.3,
+                31.02,
+                33.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thou also hast men holding the teaching of the Nicolaitans in like manner, both literally and symbolically, partaking in idolatrous practices and laxity of morals. Even as Balak had Balaam for a false teacher, so hast thou the Nicolaitan teachers. The church at Pergamum retained those who taught things like those which Balaam taught. These Nicolaitans are no separate sect, but rather a mystical name for those in the church who imitated the errors of the false prophet Balaam. Therefore, it is sin not to hate what God hates, the doctrines and deeds of these men.",
+            "wordCount": 96,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 2.1588640814561826,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.12,
+            "commentatorTierSimilarities": [
+                32.94,
+                34.98,
+                32.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thou also hast men holding the teaching of the Nicolaitans in like manner, both literally and symbolically, partaking in idolatrous practices and laxity of morals. Even as Balak had Balaam for a false teacher, so hast thou the Nicolaitan teachers. The church at Pergamum retained those who taught things like those which Balaam taught.These Nicolaitans are no separate sect, but rather a mystical name for those in the church who imitated the errors of the false prophet Balaam.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 2.149956944558269,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.83,
+            "commentatorTierSimilarities": [
+                32.76,
+                37.94,
+                29.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

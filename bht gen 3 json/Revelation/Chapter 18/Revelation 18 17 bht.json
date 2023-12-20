@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 21:48:56",
+    "verseRef": "Revelation 18:17",
+    "bestBHT": {
+        "bht": "All sailors, shipmasters, and mariners, along with those who made a living by working the sea, stood afar off from the desolated city. The suddenness and speediness of Rome's destruction is highlighted by how quickly its great riches came to nothing. Even the less venturesome and experienced coasters were affected. Traders abroad also stood at a distance, fearing condemnation and punishment. This reveals the widespread impact and swift downfall of the city.",
+        "wordCount": 73,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.4308892477629693,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+        "commentatorTierSimilarities": [
+            19.6,
+            33.25,
+            47.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And every pilot and every one who saileth any whither (all sailors from place to place), and sailors and as many as make traffic of the sea, stood afar off,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "is come to naught\u2014Greek, 'is desolated.'"
+        ],
+        "Albert Barnes": [
+            "In a very brief period - so short, that it seemed to them to be but one hour.",
+            "All the accumulated wealth of so great and rich a city.",
+            "Those less venturesome, or experienced, or bold than others... this class of seamen here referred to is 'coasters'."
+        ],
+        "Marvin Vincent": [
+            "Shipmaster [\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b7\u03c2] . From kubernaw to govern. Strictly, steersman. Only here and Acts 27:11.",
+            "All the company in ships [\u03c0\u03b1\u03c2 \u03b5\u03c0\u03b9 \u03c4\u03c9\u03bd \u03c0\u03bb\u03bf\u03b9\u03c9\u03bd \u03bf \u03bf\u03bc\u03b9\u03bb\u03bf\u03c2] . The best texts substitute oJ ejpi topon plewn, that saileth anywhere, lit., saileth to a place. So Rev.",
+            "Trade by sea [\u03c4\u03b7\u03bd \u03b8\u03b1\u03bb\u03b1\u03c3\u03c3\u03b1\u03bd \u03b5\u03c1\u03b3\u03b1\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9] . Lit., work the sea, like the Latin mare exercent, live by seafaring. Rev., gain their living by sea."
+        ],
+        "Archibald T. Robertson": [
+            "Shipmaster (\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b7\u03c2). Old word (from \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b1\u03c9, to steer), helmsman, sailing-master, in N.T. only here and Acts 27:11. Subordinate to the \u03bd\u03b1\u03c5\u03ba\u03bb\u03b7\u03c1\u03bf\u03c2 (supreme commander).",
+            "That saileth any whither (\u03bf \u03b5\u03c0 \u03c4\u03bf\u03c0\u03bf\u03bd \u03c0\u03bb\u03b5\u03c9\u03bd). 'The one sailing to a place.' See Acts 27:2, \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u0391\u03c3\u03b9\u03b1\u03bd \u03c0\u03bb\u03b5\u03bf\u03bd\u03c4\u03b1\u03c2 (those sailing down along Asia). Nestle suggests \u03c0\u03bf\u03bd\u03c4\u03bf\u03bd (sea) here for \u03c4\u03bf\u03c0\u03bf\u03bd (place), but it makes sense as it is.",
+            "Mariners (\u03bd\u03b1\u03c5\u03c4\u03b1). Old word (from \u03bd\u03b1\u03c5\u03c2, ship), in N.T. only here and Acts 27:27; Acts 27:30.",
+            "Gain their living by the sea (\u03c4\u03b7\u03bd \u03b8\u03b1\u03bb\u03b1\u03c3\u03c3\u03b1\u03bd \u03b5\u03c1\u03b3\u03b1\u03b6\u03bf\u03bd\u03c4\u03b1). 'Work the sea.' This idiom is as old as Hesiod for sailors, fishermen, etc. See verses Revelation 18:10; Revelation 18:15."
+        ],
+        "John Gill": [
+            "For in one hour so great riches is come to nought... expressing the suddenness and speediness of Rome's destruction...\" ",
+            "By 'ships' are meant dioceses, abbeys, priories, and monasteries... and by 'all the company in ships', or 'every shipmate', the fellows that belong to every religious house and order...",
+            "These [traders abroad] stood afar off; as the kings and merchants before, for fear of sharing in the condemnation and punishment of Babylon..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 18:17, all sailors, shipmasters, and mariners stood far off from the desolated city. This includes those who sailed to different places, gained their living by the sea, and worked the sea for their livelihood. The suddenness and speediness of Rome's destruction is emphasized by saying that in one hour, the great riches of the city came to nothing. Even those who were less venturesome or experienced, like the coasters, were affected by the destruction. The traders abroad also stood far off, fearing to share in the condemnation and punishment of Babylon. This verse reveals the widespread impact and the swift downfall of the city.",
+            "wordCount": 106,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.506305198353435,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.43,
+            "commentatorTierSimilarities": [
+                21.72,
+                30.93,
+                47.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "All sailors, shipmasters, and mariners, along with those who made a living by working the sea, stood afar off from the desolated city. The suddenness and speediness of Rome's destruction is highlighted by how quickly its great riches came to nothing. Even the less venturesome and experienced coasters were affected. Traders abroad also stood at a distance, fearing condemnation and punishment. This reveals the widespread impact and swift downfall of the city.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.4308892477629693,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.92,
+            "commentatorTierSimilarities": [
+                19.6,
+                33.25,
+                47.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "All sailors, shipmasters, and mariners, along with every one who saileth to a place and makes a living by seafaring, stood far off from the desolated city. The suddenness and speediness of the city's destruction is emphasized by the fact that in one hour, its great riches came to nothing. Even the less venturesome and experienced coasters were affected. Traders abroad also stood at a distance, fearing to share in the condemnation and punishment. This reveals the widespread impact and swift downfall of the city.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.4295944611735476,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.88,
+            "commentatorTierSimilarities": [
+                18.22,
+                35.83,
+                45.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "All sailors, shipmasters, mariners, and those who sail to different places stood afar off from the desolated city. The sudden destruction of Rome's great riches in just one hour is highlighted. Even the less venturesome coasters were affected by its downfall. Traders abroad also stood at a distance, fearing condemnation and punishment. This verse reveals the swift downfall and widespread impact of the city on those who made their living by sea.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.5130225394212022,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.65,
+            "commentatorTierSimilarities": [
+                22.33,
+                31.08,
+                46.59
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "All sailors, shipmasters, mariners, and all who sail to different places stood at a distance from the desolated city. In just one hour, Rome's great riches were completely brought to nothing, showcasing the suddenness and speediness of its destruction. Even the less venturesome coasters were impacted. Traders abroad also kept their distance, fearing to share in the condemnation and punishment. This passage emphasizes the swift downfall and widespread impact of the city, particularly affecting those who made their living by navigating the sea.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.4670614670019446,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.12,
+            "commentatorTierSimilarities": [
+                21.86,
+                31.84,
+                46.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

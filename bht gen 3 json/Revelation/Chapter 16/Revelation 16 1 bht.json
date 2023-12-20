@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:47:36",
+    "verseRef": "Revelation 16:1",
+    "bestBHT": {
+        "bht": "And I heard a great voice out of the temple, which can be no other than the divine voice, saying to the seven angels, Go and pour out the seven vials of the wrath of God into the earth. These vials are not contemporary with the seven trumpets, as they are more specific in their effects, affecting the earth, sea, springs, and the sun in their entirety. The voice heard is that of God Himself, indicating that He is taking direct action for His people.",
+        "wordCount": 85,
+        "quoteTokenProportion": 52.63,
+        "qualityScore": 2.0809606795714255,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+        "commentatorTierSimilarities": [
+            32.59,
+            33.38,
+            34.04
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I heard a great voice out of the temple...saying to the seven angels, Go and pour out the seven vials of the wrath of God into the earth.\" ",
+            "From the fact...that the divine Presence is filling the temple, and that none might enter into it, this voice can be no other than the divine voice.",
+            "So, previous to the series of trumpets, the angel casts the fire from the altar into the earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first four are more general, affecting the earth, the sea, springs, and the sun, not merely a portion of these natural bodies, as in the case of the trumpets, but the whole of them; the last three are more particular, affecting the throne of the beast, the Euphrates, and the grand consummation.\" ",
+            "Some of these particular judgments are set forth in detail in the seventeenth through twentieth chapters.",
+            "The first four are distinguished from the last three, just as in the case of the seven seals and the seven trumpets."
+        ],
+        "Albert Barnes": [
+            "A loud voice out of the temple as seen in heaven, and that came, therefore, from the very presence of God.",
+            "Empty those vials; cause to come upon the earth the plagues indicated by their contents.",
+            "The particular part of the earth is not here specified, but it should not be inferred that it was to be upon the earth in general, or that there were any calamities, in consequence of this pouring out of the vials of wrath, to spread over the whole world."
+        ],
+        "Marvin Vincent": [
+            "The vials. Add seven."
+        ],
+        "Philip Schaff": [
+            "The voice heard is that of God, for He alone was in the temple... it shows us that it is not now the people of God who continue the conflict, but God Himself who acts directly for them.\" ",
+            "He takes His own cause in hand.\" ",
+            "The earth is to be distinguished from the 'sea'."
+        ],
+        "Archibald T. Robertson": [
+            "A great voice. Not an angel as in Revelation 5:2; Revelation 7:2; Revelation 10:3; Revelation 14:7; Revelation 14:9; Revelation 14:15; Revelation 14:18, but of God as Revelation 15:8 shows, since no one could enter the \u03bd\u03b1\u03bf\u03c2.\" ",
+            "Pour out. Second aorist active imperative of \u03b5\u03ba\u03c7\u03b5\u03c9 (same form as present active imperative). Blass would change to \u03b5\u03ba\u03c7\u03b5\u03b1\u03c4\u03b5 (clearly aorist) as in verse Revelation 16:6.",
+            "The seven bowls. The article points to verse Revelation 16:7."
+        ],
+        "John Gill": [
+            "And I heard a great voice out of the temple... or of Christ, who is always in the midst of his church and people, and whose voice is as the voice of many waters.",
+            "These seven vials are not contemporary, much less the same with the seven trumpets... the vials respect the antichristian powers in their several branches, under the pope and Turk.",
+            "I am ready to think they are not, because they seem to me to refer to the seventh trumpet, which as yet has not sounded, and are the same with the wrath of God, and the time of the judging the dead, or avenging the blood of the saints... not but that there has been some manifest marks of the divine displeasure upon the whore of Rome, and she has been sinking ever since the Reformation."
+        ],
+        "John Wesley": [
+            "The trumpets gradually, and in a long tract of time, overthrow the kingdom of the world: the phials destroy chiefly the beast and his followers, with a swift and impetuous force.\" ",
+            "The four first affect the earth, the sea, the rivers, the sun; the rest fall elsewhere, and are much more terrible."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And I heard a great voice out of the temple, which can be no other than the divine voice, saying to the seven angels, Go and pour out the seven vials of the wrath of God into the earth. These vials are not contemporary with the seven trumpets, as they are more specific in their effects, affecting the earth, sea, springs, and the sun in their entirety. The last three vials are particularly significant, targeting the throne of the beast, the Euphrates, and the ultimate consummation. The voice heard is that of God Himself, indicating that He is taking direct action for His people.",
+            "wordCount": 104,
+            "quoteTokenProportion": 47.76,
+            "qualityScore": 1.9932478114613148,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                33.64,
+                30.57,
+                35.79
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And I heard a great voice out of the temple, which can be no other than the divine voice, saying to the seven angels, Go and pour out the seven vials of the wrath of God into the earth. These vials are not contemporary with the seven trumpets, as they are more specific in their effects, affecting the earth, sea, springs, and the sun in their entirety. The voice heard is that of God Himself, indicating that He is taking direct action for His people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.0809606795714255,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                32.59,
+                33.38,
+                34.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And I heard a great voice out of the temple, which can be no other than the divine voice, saying to the seven angels, Go and pour out the seven vials of the wrath of God into the earth. These vials are not contemporary with the seven trumpets, as they are more specific in their effects, affecting the earth, sea, springs, and the sun in their entirety. The voice heard is that of God Himself, indicating that He is taking direct action for His people.",
+            "wordCount": 85,
+            "quoteTokenProportion": 52.63,
+            "qualityScore": 2.0809606795714255,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                32.59,
+                33.38,
+                34.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A great voice, possibly of God, commanded the seven angels to pour out the seven vials of God's wrath onto the earth. These vials, unlike the trumpets, have more specific effects, impacting the entire earth, sea, springs, and sun. The voice from the temple signifies the direct action of God Himself, as no one else could enter the temple. These vials target the throne of the beast, the Euphrates, and bring about the ultimate culmination.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.9593694029213111,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                34.83,
+                31.66,
+                33.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A great voice, possibly of God, commanded the seven angels to pour out the seven vials of God's wrath onto the earth. These vials, unlike the trumpets, affect the entire earth, sea, springs, and sun. The voice from the temple signifies the direct action of God Himself, as no one else could enter the temple. These vials target the throne of the beast, the Euphrates, and bring about the ultimate culmination.",
+            "wordCount": 72,
+            "quoteTokenProportion": 34.04,
+            "qualityScore": 1.942407822838275,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.93,
+            "commentatorTierSimilarities": [
+                34.62,
+                31.56,
+                33.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

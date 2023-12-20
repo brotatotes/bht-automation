@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:03",
+    "verseRef": "Revelation 18:20",
+    "bestBHT": {
+        "bht": "Rejoice at her, ye heaven, saints, apostles, and prophets, for God hath judged your judgment upon her. God hath executed vengeance on the corrupt and worldly church, who failed to uphold His word of grace and desired to assert worldly power. The most heinous sin is to know God's grace and not keep it. The downfall of the church calls for rejoicing among the righteous, both in heaven and on earth, who are interested in the cause of truth.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.3931860744627076,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.91,
+        "commentatorTierSimilarities": [
+            31.09,
+            34.65,
+            34.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Rejoice at her, thou heaven, and ye saints and ye apostles and ye prophets, for God hath judged your judgment upon her.",
+            "God hath judged your judgment upon her.",
+            "God hath exacted from her that judgment of vengeance which is due to you."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The most heinous of all sin is the sin of those who know God's word of grace, and keep it not.",
+            "The worldliness of the Church is the most worldly of all worldliness.",
+            "The fullest form of her whoredom is, where the Church wishes to be itself a worldly power."
+        ],
+        "Albert Barnes": [
+            "The great oppressor of the church, and the corrupter of the world, was now destroyed; the grand hindrance to the spread of the gospel was now removed, and all the holy in heaven and on earth would have occasion to rejoice.",
+            "The dwellers in heaven - the holy angels and the redeemed - had occasion to rejoice over the downfall of the great enemy of the church.",
+            "All the redeemed, therefore, in earth and in heaven, are interested in whatever tends to retard or to promote the cause of truth. All have occasion to mourn when the enemies of the truth triumph; to rejoice when they fall."
+        ],
+        "Marvin Vincent": [
+            "Hath judged your judgment on her or from her. The idea is that of exacting judgment from.",
+            "The meaning is either, that judgment which is your due, or what she hath judged concerning you.",
+            "Exacting judgment from [her]."
+        ],
+        "Philip Schaff": [
+            "While it is a source of lamentation to the wicked, it is a joy to the righteous, and they are now summoned to experience that joy.",
+            "For God hath judged your judgment upon her.",
+            "The meaning is that that judgment on the wicked which the righteous have passed is regarded as executed for them by God Himself."
+        ],
+        "Archibald T. Robertson": [
+            "The song of doom\" (Charles) here seems to be voiced by John himself.",
+            "God hath judged your judgment (\u03b5\u03ba\u03c1\u03b9\u03bd\u03b5\u03bd \u03bf \u03b8\u03b5\u03bf\u03c2 \u03c4\u03bf \u03ba\u03c1\u03b9\u03bc\u03b1). First aorist (prophetic) active of \u03ba\u03c1\u03b9\u03bd\u03c9 and cognate accusative \u03ba\u03c1\u03b9\u03bc\u03b1, here a case for trial (Exodus 18:22; 1 Corinthians 6:7), not a sentence as in Revelation 17:1.",
+            "God has approved the case of heaven."
+        ],
+        "John Gill": [
+            "Rejoice over her, thou heaven.",
+            "the true church of Christ upon earth, which in this book often goes by the name of heaven, in opposition to the apostate church, called the earth",
+            "vengeance belongs to the Lord, and he will avenge his elect sooner or later"
+        ],
+        "John Wesley": [
+            "Rejoice over her, thou heaven \u2014 That is, all the inhabitants of it; and more especially, ye saints; and among the saints still more eminently, ye apostles and prophets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Rejoice, O heaven, saints, apostles, and prophets, for God has executed judgment upon the corrupt and worldly church. This judgment is the consequence of her failure to uphold God's word of grace and her desire to assert worldly power. All who know and keep God's grace are called to rejoice over her downfall, for it is the most heinous of all sins to reject the truth. As the great enemy of the church is destroyed, the angels and the redeemed in heaven have cause for joy, and all the righteous, both on earth and in heaven, have reason to celebrate.",
+            "wordCount": 102,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.3636562275835558,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.93,
+            "commentatorTierSimilarities": [
+                28.26,
+                37.57,
+                34.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Rejoice, O heaven and saints, for God has judged the corrupt and worldly church, exacting the vengeance deserved. The sin of those who know God's grace and reject it is the most heinous of all sins. The downfall of the church, which sought worldly power, calls for rejoicing among the heavenly inhabitants. All the redeemed, both in heaven and on earth, have reason to celebrate and are interested in the progress of truth.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.186312076321241,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                28.06,
+                37.01,
+                34.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Rejoice at her, ye heaven, saints, apostles, and prophets, for God hath judged your judgment upon her. God hath executed vengeance on the corrupt and worldly church, who failed to uphold His word of grace and desired to assert worldly power. The most heinous sin is to know God's grace and not keep it. The downfall of the church calls for rejoicing among the righteous, both in heaven and on earth, who are interested in the cause of truth.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.3931860744627076,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.91,
+            "commentatorTierSimilarities": [
+                31.09,
+                34.65,
+                34.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Rejoice at her, thou heaven, and ye saints and ye apostles and ye prophets, for God hath judged your judgment upon her. God hath exacted from her that judgment of vengeance which is due to you. The most heinous of all sin is the sin of those who know God's word of grace, and keep it not. The worldliness of the Church is the most worldly of all worldliness. The fullest form of her whoredom is, where the Church wishes to be itself a worldly power.",
+            "wordCount": 87,
+            "quoteTokenProportion": 49.06,
+            "qualityScore": 2.316941755227783,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.38,
+            "commentatorTierSimilarities": [
+                39.4,
+                29.45,
+                31.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Rejoice, O heaven, saints, apostles, and prophets, for God has executed judgment upon the corrupt church. He has exacted the vengeance deserved from her, the most heinous sin being the rejection of God's grace. The worldliness of the Church, especially when it desires to be a worldly power, is the epitome of sin. This downfall calls for rejoicing among the righteous, both in heaven and on earth, united in their interest and passion for the cause of truth.",
+            "wordCount": 79,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 2.161415757513491,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+            "commentatorTierSimilarities": [
+                28.62,
+                37.1,
+                34.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

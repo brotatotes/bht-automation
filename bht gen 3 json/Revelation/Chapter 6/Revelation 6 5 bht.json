@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:42:14",
+    "verseRef": "Revelation 6:5",
+    "bestBHT": {
+        "bht": "The black horse symbolizes mourning and famine, with the rider holding scales that represent scarcity and the rationing of food. The color black signifies sadness and want, while the scales remind us of the yoke of slavery and unbalanced measures. This judgment of scarcity brings affliction to the church and serves as a reminder that Christ's hand governs all aspects of nature and life, including triumphs and the natural order.",
+        "wordCount": 71,
+        "quoteTokenProportion": 24.0,
+        "qualityScore": 1.9208475009885975,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+        "commentatorTierSimilarities": [
+            48.26,
+            0.0,
+            51.74
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The colour [of the black horse] is indicative of the mournful nature of the employment of the rider.",
+            "The symbol of scarcity, during which the bread is doled out by weight.",
+            "The meaning 'yoke,' instead of balance, is one which in this connexion cannot be justified."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "black\u2014implying sadness and want.",
+            "a pair of balances\u2014the symbol of scarcity of provisions, the bread being doled out by weight.",
+            "had\u2014Greek, 'having.'"
+        ],
+        "Marvin Vincent": [
+            "Black. The color of mourning and famine.",
+            "The judgment of this seal is scarcity, of which the balance is a symbol, representing the time when food is doled out by weight.",
+            "The cross - beam of the loom, to which the warp was fixed; the thwarts joining the opposite sides of a ship; the beam of the balance, and hence the balance itself."
+        ],
+        "Archibald T. Robertson": [
+            "The colour of mourning and famine.",
+            "Literally, a yoke of slavery, of teaching, of weight or measure like a pair of scales evenly balancing.",
+            "The rider of this black horse, like the spectral figure of hunger, carries in his hand a pair of scales."
+        ],
+        "John Gill": [
+            "These are represented as calling upon John to come and see, and take notice of the following hieroglyphic.",
+            "An emblem either of the afflicted state of the church, still answering to the Smyrnaean one, being black with persecutions, schisms, errors, and heresies.",
+            "Rather it signifies famine, and such a scarcity as that bread is delivered out by weight to men."
+        ],
+        "John Wesley": [
+            "And behold a black horse \u2014 A fit emblem of mourning and distress; particularly of black famine, as the ancient poets term it.",
+            "These scales signify scarcity. They serve also for a token, that all the fruits of the earth, and consequently the whole heavens, with their courses and influences; that all the seasons of the year, with whatsoever they produce, in nature or states, are subject to Christ.",
+            "Accordingly his hand is wonderful, not only in wars and victories, but likewise in the whole course of nature."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The black horse in this verse symbolizes mourning and famine. The rider, like a spectral figure of hunger, holds a pair of scales, which represent scarcity and the doling out of food by weight. This judgment of scarcity is depicted as a yoke of slavery, a weight that brings sadness and want. The color black signifies the affliction and distress of the church, while the scales serve as a token that all aspects of nature and life are subject to Christ's hand, both in wars and victories and in the course of nature itself.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.0019663287324017,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                51.51,
+                0.0,
+                48.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The black horse represents mourning and famine, with the rider carrying a pair of scales that symbolize scarcity and the doling out of food by weight. The color black signifies sadness and want, while the scales also imply a yoke of slavery. This judgment of scarcity brings affliction and distress to the church. The scales serve as a reminder that all aspects of nature and life are subject to Christ's hand, including both wars and victories, as well as the course of nature itself.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.8403915254241419,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                47.45,
+                0.0,
+                52.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The black horse in this passage signifies mourning and famine, while the rider holds a pair of scales that represent scarcity and the distribution of food by weight. The color black symbolizes sadness and want, and the scales serve as a reminder of the yoke of slavery and the imbalance of measures. This judgment of scarcity brings affliction and distress to the church. It is a potent reminder that all aspects of nature and life are subject to Christ's hand, both in triumphs and in the natural order.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.7575322223583578,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                47.67,
+                0.0,
+                52.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The black horse signifies mourning and famine, and the rider carries a pair of scales symbolizing scarcity and rationing of food by weight. The color black represents sadness and want, while the scales serve as a reminder of the yoke of slavery and unbalanced measures. This judgment of scarcity brings affliction to the church. It reminds us that all aspects of nature and life are subject to Christ's hand, triumphs, and the order of the natural world.",
+            "wordCount": 78,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.7446248334956382,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                48.3,
+                0.0,
+                51.7
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The black horse symbolizes mourning and famine, with the rider holding scales that represent scarcity and the rationing of food. The color black signifies sadness and want, while the scales remind us of the yoke of slavery and unbalanced measures. This judgment of scarcity brings affliction to the church and serves as a reminder that Christ's hand governs all aspects of nature and life, including triumphs and the natural order.",
+            "wordCount": 71,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 1.9208475009885975,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.21,
+            "commentatorTierSimilarities": [
+                48.26,
+                0.0,
+                51.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

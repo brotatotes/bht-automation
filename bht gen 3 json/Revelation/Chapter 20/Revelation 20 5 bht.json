@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:51:00",
+    "verseRef": "Revelation 20:5",
+    "bestBHT": {
+        "bht": "In the book of Revelation, it is vital to consider the words in their plain sense and the intended chronology. The first-tier experts stress the significance of a literal resurrection witnessed by John. Old Testament prophecies align with the idea of a millennial reign on earth. Although the interpretation of the rest of the dead may differ, some argue it refers to the wicked. The faithful are promised a higher honor. By distinguishing between the first and second resurrection, conflicting prophecies find harmony.",
+        "wordCount": 84,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 1.8046211492492115,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+        "commentatorTierSimilarities": [
+            33.33,
+            36.79,
+            29.88
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I cannot consent to distort the words from their plain sense and chronological place in the prophecy, on account of any considerations of difficulty, or any risk of abuses which the doctrine of the millennium may bring with it.",
+            "It is a strange sight in these days to see expositors who are among the first in reverence of antiquity, complacently casting aside the most cogent stance of unanimity which primitive antiquity presents.",
+            "If in a passage where two resurrections are mentioned, where certain souls lived at the first, and the rest of the dead lived only at the end of a specified period after that first\u2014if in such a passage the first resurrection may be understood to mean spiritual rising with Christ, while the second means literal rising from the grave\u2014then there is an end of all significance in language, and Scripture is wiped out as a definite testimony to anything."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "John saw them not only when restored to life, but when in the act of reviving.",
+            "The millennial reign on earth does not rest on an isolated passage of the Apocalypse, but all Old Testament prophecy goes on the same view.",
+            "The papacy is a false anticipation of the kingdom during the Church-historical period."
+        ],
+        "Albert Barnes": [
+            "The 'rest of the dead' - the pious dead - would indeed be raised up and rewarded, but they would occupy comparatively humble places, as if they did not partake in the exalted triumphs when the world should be subdued to the Saviour.",
+            "Their places in honor, in rank, and in reward would be 'beneath' that of those who in fiery times had maintained unshaken fidelity to the cause of truth.",
+            "It is not necessary to suppose that what is called here the 'first resurrection' will resemble the real and literal resurrection in every respect. All that is meant is, that there will be such a resemblance as to make it proper to call it a resurrection - a coming to life again."
+        ],
+        "Marvin Vincent": [
+            "Lived - again [\u03b1\u03bd\u03b5\u03b6\u03b7\u03c3\u03b1\u03bd] . Read ezhsan lived, as in ver. 4"
+        ],
+        "Philip Schaff": [
+            "The 'rest of the dead' spoken of in Revelation 20:5 can signify none but the ungodly.",
+            "He is describing the condition of certain persons in comparison with others after an act of rising, predicable of them both, has taken place.",
+            "The contrast that he has in view is not between a first and a second resurrection, but between a 'first resurrection' and a 'second death.'"
+        ],
+        "Archibald T. Robertson": [
+            "The rest of the dead...But some take this to mean only the wicked.",
+            "To infer from this statement...is to interpret apocalyptic prophecy by methods of exegesis which are proper to ordinary narrative.",
+            "According to this view the first resurrection is a special incident in the present life before the Parousia."
+        ],
+        "John Gill": [
+            "This clause is left out in the Syriac version.",
+            "The first resurrection; which is not to be connected with the living again of the rest of the dead at the end of the thousand years, for that will be the second and last resurrection.",
+            "This is the first resurrection; which is not meant of a resurrection from the death of sin to a life of grace; though the work of grace and conversion is sometimes so represented, it cannot be designed here."
+        ],
+        "John Wesley": [
+            "The small time, and the second thousand years, begin at the same point, immediately after the first thousand.\" ",
+            "By observing these two distinct thousand years, many difficulties are avoided.",
+            "There is room enough for the fulfilling of all the prophecies, and those which before seemed to clash are reconciled."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Revelation is often seen as a challenging and mysterious text to interpret. However, the first-tier commentators believe that it is important to take the words of the passage in their plain sense and chronological order, without distorting their meaning. They argue against disregarding the ancient teachings on the millennium and emphasize the significance of the language used in the passage. It is said that John saw the souls in the act of reviving, signifying a literal resurrection. Furthermore, the millennial reign on earth is seen as consistent with Old Testament prophecy. While there are differing views on the meaning of the rest of the dead, some argue that it refers to the wicked. The second-tier commentators suggest that those who were faithful during challenging times will have a higher position in reward and honor. They also note that the first resurrection does not necessarily resemble the literal resurrection. In the third-tier commentary, it is suggested that the first resurrection is not about spiritual rising but should be distinguished from the living again of the rest of the dead. Ultimately, by carefully considering the distinct thousand years mentioned in Revelation, the commentators believe that the prophecies can be fulfilled without conflicting with one another.",
+            "wordCount": 209,
+            "quoteTokenProportion": 36.89,
+            "qualityScore": 1.9862677649863811,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.38,
+            "commentatorTierSimilarities": [
+                31.76,
+                38.93,
+                29.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The puzzling nature of the book of Revelation should not lead us to distort its plain sense. The first-tier commentators argue for the importance of understanding the words in their chronological order. They emphasize that John witnessed a literal resurrection, not just a spiritual rising. The millennial reign on earth finds support in Old Testament prophecies. Regarding the rest of the dead, there is contention over whether it refers to the wicked. Those who were faithful during difficult times will receive higher honor. Differentiating between the first and second resurrection helps reconcile conflicting prophecies.",
+            "wordCount": 95,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.8158347064134124,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                33.07,
+                36.48,
+                30.44
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the book of Revelation, it is vital to consider the words in their plain sense and the intended chronology. The first-tier experts stress the significance of a literal resurrection witnessed by John. Old Testament prophecies align with the idea of a millennial reign on earth. Although the interpretation of the rest of the dead may differ, some argue it refers to the wicked. The faithful are promised a higher honor. By distinguishing between the first and second resurrection, conflicting prophecies find harmony.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.8046211492492115,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.35,
+            "commentatorTierSimilarities": [
+                33.33,
+                36.79,
+                29.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "To truly grasp the meaning of the passage in the book of Revelation, the first-tier scholars emphasize the importance of not distorting its plain sense and chronological order. They firmly reject dismissing the ancient wisdom on the millennium and stress the significance of the language used. John's vision includes witnessing a literal resurrection. The millennial reign on earth is in agreement with Old Testament prophecies. Different views exist on the meaning of the rest of the dead, while the faithful are promised a higher reward.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.8820702070517075,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.92,
+            "commentatorTierSimilarities": [
+                36.88,
+                35.04,
+                28.07
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The book of Revelation is often regarded as enigmatic, but the first-tier scholars stress the significance of understanding its plain sense and chronological order. They caution against distorting the words to avoid potential difficulty or abuse of doctrine. John's vision includes a clear observation of a literal resurrection. The idea of a millennial reign on earth aligns with the prophecies found in the Old Testament. The interpretation of the rest of the dead varies, as some believe it refers to the wicked. The faithful are promised a higher position and reward.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.7291043046671979,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.83,
+            "commentatorTierSimilarities": [
+                34.87,
+                36.97,
+                28.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

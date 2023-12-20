@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:49:08",
+    "verseRef": "Revelation 19:5",
+    "bestBHT": {
+        "bht": "A voice came forth from the throne, summoning all of God's servants to join in praising Him. This call to worship is reminiscent of the praise performed by the Levites in the presence of the divine glory. The voice unites all the servants of God in offering thanksgiving. All of heaven is interested in the triumph of the church, and this call to praise resonates throughout the realms. All of God's people, from every class and condition, are urged to join in this chorus of worship.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.13136393751534,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+        "commentatorTierSimilarities": [
+            36.72,
+            31.9,
+            31.38
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A voice came forth from the throne... saying, Give praise to our God, all His servants.\" ",
+            "Give praise to our God, all His servants, and ye that fear Him, the small and the great.\" ",
+            "Ye that fear Him, the small and the great."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Praise our God\u2014Compare the solemn act of praise performed by the Levites, especially when the house of God was filled with the divine glory.",
+            " ",
+            "the small and the great."
+        ],
+        "Albert Barnes": [
+            "All heaven was interested in the triumph of the church, and that one portion of the dwellers there called on the others to unite in offering thanksgiving.",
+            "The God that we worship.",
+            "All of every class and condition - poor and rich - young and old; those of humble and those of exalted rank."
+        ],
+        "Marvin Vincent": [
+            "All ye His servants - small and great. Compare Psalms 114:13; Psalms 134:1."
+        ],
+        "Philip Schaff": [
+            "Revelation 19:5. A voice is next heard from the throne calling upon all God\u2019s people to give praise to Him. The voice is immediately answered.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "A voice from the throne (\u03c6\u03c9\u03bd\u03b7 \u03b1\u03c0\u03bf \u03c4\u03bf\u03c5 \u03b8\u03c1\u03bf\u03bd\u03bf\u03c5)... from an angel of the Presence.\" ",
+            "This angel summons all the servants of God to join in the antiphonal praise to God.\" ",
+            "Give praise to our God (\u03b1\u03b9\u03bd\u03b5\u03b9\u03c4\u03b5 \u03c4\u03c9 \u03b8\u03b5\u03c9 \u03b7\u03bc\u03c9\u03bd)."
+        ],
+        "John Gill": [
+            "Praise our God, all ye his servants; meaning not the ministers of the Gospel only, but all the people of God.",
+            "Though they are sons, and no more servants to sin and Satan, and the world, yet they are servants of God and of righteousness.",
+            "Who fear the Lord, not with a servile, but filial fear, with the new covenant grace of fear, which springs from, and is increased by, the goodness and grace of God."
+        ],
+        "John Wesley": [
+            "Praise our God.\" ",
+            "God was praised before... Now for that which follows it...\" ",
+            "There is real, yea, and terrible anger in God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A voice came forth from the throne, summoning all of God's servants, regardless of their status and position, to join in praising Him. This call to worship is reminiscent of the solemn act of praise performed by the Levites in the presence of the divine glory. The voice from the throne unites all the servants of God in offering thanksgiving and adoration. All of heaven is interested in the triumph of the church, and this call to praise resonates throughout the heavenly realms. All of God's people, from every class and condition, are urged to join in this chorus of worship.",
+            "wordCount": 103,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.149293091273821,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.8,
+            "commentatorTierSimilarities": [
+                36.54,
+                32.83,
+                30.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A voice came forth from the throne, summoning all of God's servants to join in praising Him. This call to worship is reminiscent of the praise performed by the Levites in the presence of the divine glory. The voice unites all the servants of God in offering thanksgiving. All of heaven is interested in the triumph of the church, and this call to praise resonates throughout the realms. All of God's people, from every class and condition, are urged to join in this chorus of worship.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.13136393751534,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.21,
+            "commentatorTierSimilarities": [
+                36.72,
+                31.9,
+                31.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "A voice from the throne calls forth all of God's servants, both small and great, to praise Him. This summons to worship is akin to the solemn act of praise performed in the presence of divine glory, as seen in the Old Testament. It is an inclusive call, encompassing all of God's people, regardless of status or position. The voice from the throne unites them in offering thanksgiving and adoration. This collective praise echoes throughout the heavenly realms, demonstrating the universal interest in the triumph of the church.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.67,
+            "qualityScore": 1.9934822501103628,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.62,
+            "commentatorTierSimilarities": [
+                38.64,
+                31.6,
+                29.76
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A voice from the throne calls forth all of God's servants, both small and great, to join in praising Him. This summons to worship is reminiscent of the Levites' solemn act of praise in the presence of divine glory. It is an inclusive call, extending to all of God's people, regardless of their status or position. The voice unifies them in offering thanksgiving and adoration. This collective praise reverberates across the heavenly realms, indicating the universal interest in the triumph of the church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.9469366944384157,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.08,
+            "commentatorTierSimilarities": [
+                38.35,
+                32.54,
+                29.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A voice from the throne calls all of God's servants, both small and great, to praise Him. This summons to worship recalls the solemn act of praise by the Levites in the presence of the divine glory. It is an inclusive call to all of God's people, across all classes and conditions, to join in expressing gratitude and adoration. This collective praise resonates throughout the heavenly realms, indicating the universal interest in the triumph of the church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.1260027844525387,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.03,
+            "commentatorTierSimilarities": [
+                38.6,
+                30.98,
+                30.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

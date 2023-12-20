@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:44:57",
+    "verseRef": "Revelation 9:15",
+    "bestBHT": {
+        "bht": "The appointed hour occurring in the appointed day, and that in the appointed month, and that in the appointed year. The angels are prepared unto the hour appointed by God. This hour shall fall in its appointed day and month and year. All preparation over, the angels are waiting for the signal to begin. This woe brings death, not merely to hurt as in the fifth trumpet. The angels were let loose, in a state of readiness prepared by God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 38.64,
+        "qualityScore": 2.031073174905737,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+        "commentatorTierSimilarities": [
+            49.23,
+            36.84,
+            13.93
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The appointed hour occurring in the appointed day, and that in the appointed month, and that in the appointed year.",
+            "The ideas of the appointed hour, day, month, and year would have been separated, not, as now, united.",
+            "In this term, men, we are to include only the 'dwellers on the earth' of ch. viii. 13, not any of the servants of God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The article would have been omitted had a sum-total of periods been specified, namely, three hundred ninety-one years and one month.",
+            "Not merely to 'hurt' (Revelation 9:10), as in the fifth trumpet.",
+            "Of men\u2014namely, of earthy men, 'inhabiters of the earth,' as distinguished from God's sealed people."
+        ],
+        "Albert Barnes": [
+            "The loosening of the angels was, in fact, also a letting loose of all these hosts, that they might accomplish the work which they were commissioned to do.",
+            "The meaning, however, rather seems to be that they were prepared, not for the commencement of such a period, but they were prepared for the whole period indicated by the hour, the day, the month, and the year; that is, that the continuance of this 'woe' would extend along through the whole period.",
+            "The meaning here is, that the immense host which was restrained on the Euphrates would, when loosed, spread desolation over about a third part of the world."
+        ],
+        "Marvin Vincent": [
+            "The angels are prepared unto the hour appointed by God.\" ",
+            "This hour shall fall in its appointed day and month and year."
+        ],
+        "Philip Schaff": [
+            "They had not only been bound: they had been kept ready for an appointed moment.",
+            "The meaning is that the angels are prepared \u2018unto the hour\u2019 appointed by God, and that this hour shall fall in its appointed day and month and year.",
+            "The point chiefly to be noticed is the climax from a one-fourth part under the seals to a one-third part here."
+        ],
+        "Archibald T. Robertson": [
+            "Were let loose... in a state of readiness prepared by God.\" ",
+            "All preparation over, the angels are waiting for the signal to begin.",
+            "This one brings death."
+        ],
+        "John Gill": [
+            "They were let loose like so many furies, and in a little time overran and destroyed the whole empire, and settled their own.\" ",
+            "They were ready not only at a year's, a month's, a day's, but at an hour's warning, and all of them together; and as soon as ever they had the divine permission, they lost no time; they improved every opportunity, every year, every month, every day, every hour, to settle and enlarge their dominions to the ruin of others.\" ",
+            "An hour, which is the twenty fourth of a day or year, in the prophetic style, is fifteen days, and a day is a year, and a month is thirty years, and a year is three hundred sixty five years and a quarter, or ninety one days; in all, three hundred and ninety six years, and a hundred and six days..."
+        ],
+        "John Wesley": [
+            "To kill the third part of men \u2014 That is, an immense number of them.",
+            "Now, the second woe, as also the beginning of the third, has its place between the ceasing of the locusts and the rising of the beast out of the sea, even at the time that the Saracens, who were chiefly cavalry, were in the height of their carnage.",
+            "After Ali was dead, his son Ali Hasen, a peaceable prince, was driven out by Muavia; under whom, and his successors, the power of the Saracens so increased, that within fourscore years after Mahomet's death they had extended their conquests farther than the warlike Romans did in four hundred years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the appointed hour, on the appointed day, in the appointed month, and in the appointed year, the angels are prepared and ready to carry out their destructive mission. This woe is not just to hurt, but to bring death. The angels, like fierce furies, were bound and kept ready for the moment when they would be unleashed, wasting no time in overrunning and destroying the empire, settling and enlarging their dominions. This devastation would extend through the entire period indicated, resulting in the death of a significant number of people.",
+            "wordCount": 91,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.7317374318684706,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.92,
+            "commentatorTierSimilarities": [
+                32.04,
+                37.21,
+                30.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the appointed hour, day, month, and year, the angels are prepared and ready to carry out their destructive mission. This woe is not just to hurt, but to bring death. The angels were bound and kept ready for the moment when they would be unleashed and wasted no time in overrunning and destroying the empire, settling and enlarging their dominions, resulting in the death of a significant number of people.",
+            "wordCount": 71,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.8029838146823647,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.29,
+            "commentatorTierSimilarities": [
+                32.32,
+                35.27,
+                32.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "At the appointed hour, day, month, and year, the angels are prepared and ready to carry out their mission. This woe is not just to hurt, but to bring death. The angels were bound and kept ready to be unleashed, wasting no time in overrunning and destroying the empire, settling and enlarging their dominions. This devastation would extend through the entire period indicated, resulting in the death of a significant number of people.",
+            "wordCount": 73,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.710797328879511,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                33.06,
+                36.6,
+                30.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The appointed hour occurring in the appointed day, and that in the appointed month, and that in the appointed year. The angels are prepared unto the hour appointed by God. This hour shall fall in its appointed day and month and year. All preparation over, the angels are waiting for the signal to begin. This woe brings death, not merely to hurt as in the fifth trumpet. The angels were let loose, in a state of readiness prepared by God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 2.031073174905737,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                49.23,
+                36.84,
+                13.93
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the appointed hour, day, month, and year, the angels are prepared and ready to carry out their destructive mission. This woe is not just to hurt, but to bring death. The angels were bound and kept ready for the moment when they would be unleashed, wasting no time in overrunning and destroying the empire, settling and enlarging their dominions. This devastation would extend through the entire period indicated, resulting in the death of a significant number of people.",
+            "wordCount": 79,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.7279231308684757,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.8,
+            "commentatorTierSimilarities": [
+                32.16,
+                36.66,
+                31.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

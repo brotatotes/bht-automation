@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:39:37",
+    "verseRef": "Revelation 2:21",
+    "bestBHT": {
+        "bht": "Despite being given time and opportunity to repent, this individual stubbornly refuses to turn away from their sins as they are compared to harlotry or adultery. The use of the word time highlights the delay in judgment as God's goodness and desire for repentance led to a period of grace. However, this grace was in vain, for the person's hardened heart intentionally chooses not to repent. This refusal to repent serves as a warning to those who reject God's call to turn away from idolatry and sin.",
+        "wordCount": 90,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 2.0824372288400417,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+        "commentatorTierSimilarities": [
+            26.24,
+            37.49,
+            36.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The three oldest manuscripts read, 'and she willeth not to repent of (literally, 'out of,' that is, so as to come out of) her fornication.'",
+            "Here there is a transition from literal to spiritual fornication, as appears from Revelation 2:22.",
+            "The idea arose from Jehovah's covenant relation to the Old Testament Church being regarded as a marriage, any transgression against which was, therefore, harlotry, fornication, or adultery."
+        ],
+        "Albert Barnes": [
+            "The error and sin had been of long standing, but he now resolved to bear with it no longer.",
+            "It is true of almost every great sinner, that sufficient time is given for repentance, and that vengeance is delayed after crime is committed.",
+            "As she did not do it; as she showed no disposition to abandon her course; as all plea of having had no time to repent would now be taken away, it was proper that he should rise in his anger and cut her down."
+        ],
+        "Philip Schaff": [
+            "It is intended by the use of the word \u2018time\u2019 here, that we should fix our thoughts upon the delay of the Son of God in executing His righteous judgments.",
+            "All along punishment was deserved, but He withheld His hand that His goodness might lead the evil-doers to repentance.",
+            "The delay was in vain. The hearts of these transgressors was set in them to do evil. They \u2018willed\u2019 not to repent."
+        ],
+        "Archibald T. Robertson": [
+            "I gave her time... that she should repent.\" ",
+            "And she willeth not... to repent of.",
+            "\u03a0\u03bf\u03c1\u03bd\u03b5\u03b9\u03b1 (fornication) here, but \u03bc\u03bf\u03b9\u03c7\u03b5\u03c5\u03c9 (to commit adultery) in verse Revelation 2:22."
+        ],
+        "John Gill": [
+            "This may have respect to the time of the witnesses, the Waldenses, and others, who bore a testimony against the Romish idolatry, and reproved for it, and denounced the judgment of God in case of impenitence.",
+            "The time for, and means leading to repentance may be given, yet if the grace of repentance itself is not given, men, either particular persons, or whole bodies of men, will never repent of their sins.",
+            "If the grace of repentance itself is not given, men... will never repent of their sins."
+        ],
+        "John Wesley": [
+            "So great is the power of Christ!",
+            "Though repentance is the gift of God, man may refuse it.",
+            "God will not compel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Despite being given time and opportunity to repent, the individual mentioned in the verse stubbornly refuses to turn away from their sins. This act is compared to harlotry or adultery, illustrating how their transgression is seen as a betrayal of the covenant relationship between God and His people. The use of the word time emphasizes the delay in executing judgment, as God's goodness and desire for repentance led to a period of grace. However, this grace was in vain, for the person's heart was hardened and they intentionally chose not to repent. The significance of this refusal to repent may also extend to historical events, serving as a warning to those who reject God's call to turn away from idolatry and sin. Ultimately, repentance is a gift from God, but it is up to individuals to willingly accept it.",
+            "wordCount": 142,
+            "quoteTokenProportion": 32.95,
+            "qualityScore": 1.990912248818566,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.54,
+            "commentatorTierSimilarities": [
+                26.48,
+                36.85,
+                36.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Despite being given time and opportunity to repent, the individual stubbornly refuses to turn away from their sins, likened to harlotry or adultery in the context of the covenant relationship between God and His people. The use of the word time emphasizes the delay in executing judgment, as God's goodness and desire for repentance led to a period of grace. However, this grace was in vain, for the person's heart was hardened and they intentionally chose not to repent. The significance of this refusal may also extend to historical events, serving as a warning against rejecting God's call to turn away from idolatry and sin.",
+            "wordCount": 108,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.9546742856337587,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.33,
+            "commentatorTierSimilarities": [
+                25.84,
+                37.7,
+                36.46
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Despite being given time and opportunity to repent, this individual stubbornly refuses to turn away from their sins as they are compared to harlotry or adultery. The use of the word time highlights the delay in judgment as God's goodness and desire for repentance led to a period of grace. However, this grace was in vain, for the person's hardened heart intentionally chooses not to repent. This refusal to repent serves as a warning to those who reject God's call to turn away from idolatry and sin.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.0824372288400417,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                26.24,
+                37.49,
+                36.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Despite being given time and opportunity to repent, this individual stubbornly refuses to turn away from their sins. The word time signifies the delay in judgment, as God's goodness and desire for repentance granted a period of grace. However, this grace is futile as the person's hardened heart deliberately chooses not to repent. This refusal echoes a warning against those who reject God's call to forsake idolatry and sin, illustrating the crucial role of repentance as a gift from God that requires a willing heart to receive.",
+            "wordCount": 90,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.0268861748118483,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.74,
+            "commentatorTierSimilarities": [
+                24.56,
+                38.2,
+                37.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Despite being given time and opportunity to repent, the individual remains obstinate in their refusal to turn away from their sins. The word time emphasizes the delay in executing judgment, with God's goodness and desire for repentance allowing a period of grace. Yet, this grace is wasted as the person's hardened heart willfully decides not to repent. This serves as a cautionary lesson for those who reject God's call to abandon idolatry and sin, underscoring the importance of willingly accepting the gift of repentance from God.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.0636647460177038,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.96,
+            "commentatorTierSimilarities": [
+                24.13,
+                38.66,
+                37.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

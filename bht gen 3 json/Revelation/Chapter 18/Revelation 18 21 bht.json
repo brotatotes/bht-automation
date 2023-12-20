@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:19",
+    "verseRef": "Revelation 18:21",
+    "bestBHT": {
+        "bht": "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more. One strong angel took up a stone great as a millstone, and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act of violence signifies that Babylon's decline will not be gentle or natural, but brought about by external force. The use of a great millstone emphasizes the magnitude and irrecoverableness of the city's fate.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.11,
+        "qualityScore": 1.8426833121656228,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+        "commentatorTierSimilarities": [
+            24.93,
+            39.51,
+            35.56
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more.",
+            "One strong angel took up a stone great as a millstone, and cast it into the sea.",
+            "Jer. li. 63, 64"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "This verse shows that this prophecy is regarded as still to be fulfilled.",
+            "The judgment on the Egyptian hosts at the Red Sea, Exodus 15:5; Exodus 15:10; Nehemiah 9:11, and the foretold doom of Babylon, the world power, Jeremiah 51:63; Jeremiah 51:64.",
+            "with violence\u2014Greek, 'with impetus.' This verse shows that this prophecy is regarded as still to be fulfilled."
+        ],
+        "Albert Barnes": [
+            "Took up a stone like a great millstone - On the structure of mills among the ancients see the notes on Matthew 24:41.",
+            "And cast it into the sea - As an emblem of the utter ruin of the city; an indication that the city would be as completely destroyed as that stone was covered by the waters.",
+            "Saying, Thus with violence - With force, as the stone was thrown into the sea. The idea is, that it would not be by a gentle and natural decline, but by the application of foreign power."
+        ],
+        "Marvin Vincent": [
+            "A great millstone.",
+            "With violence.",
+            "Impulse or rush."
+        ],
+        "Philip Schaff": [
+            "A symbolic representation of the destruction of Babylon is to be given.",
+            "He is a \u2018mighty\u2019 angel...This angel acts after the manner described in Jeremiah 51:63-64.",
+            "The destruction is sudden and complete. The city disappears like a stone cast into the sea."
+        ],
+        "Archibald T. Robertson": [
+            "Took up (\u03b7\u03c1\u03b5\u03bd). First aorist active indicative of \u03b1\u03b9\u03c1\u03c9.",
+            "This is not a small millstone turned by women (Matthew 24:41), but one requiring an ass to turn it (Mark 9:42), and so 'a great' one.",
+            "Shall be found no more at all (\u03bf\u03c5 \u03bc\u03b7 \u03b5\u03c5\u03c1\u03b5\u03b8\u03b7 \u03b5\u03c4). Double negative with first aorist passive subjunctive of \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9."
+        ],
+        "John Gill": [
+            "Not Christ, nor one of the ministering spirits, but some man or set of men.\" ",
+            "Just as Jeremiah took a stone and bound it to his book after he had read it, and cast it into the river Euphrates, as a sign and token of the destruction of old Babylon.",
+            "Which is expressive of the utter destruction of Rome, and of the violence, force, and power with which it will be destroyed, and of the suddenness and swiftness of its destruction, and of the irrecoverableness of its state and condition."
+        ],
+        "John Wesley": [
+            "And a mighty angel took up a stone, and threw it into the sea \u2014 By a like emblem Jeremiah fore-showed the fall of the Chaldean Babylon, Jeremiah 51:63,64."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more. One strong angel took up a stone great as a millstone, and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act of violence signifies that Babylon's decline will not be gentle or natural, but brought about by external force. The use of a great millstone, which requires significant power to turn, emphasizes the magnitude and irrecoverableness of the city's fate. This prophecy, compared to the judgment on the Egyptian hosts at the Red Sea and the doom of Babylon in the past, is seen as still to be fulfilled.",
+            "wordCount": 117,
+            "quoteTokenProportion": 39.74,
+            "qualityScore": 1.8912390077568992,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.23,
+            "commentatorTierSimilarities": [
+                25.68,
+                38.26,
+                36.06
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more. One strong angel took up a stone great as a millstone, and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act of violence signifies that Babylon's decline will not be gentle or natural, but brought about by external force. The use of a great millstone emphasizes the magnitude and irrecoverableness of the city's fate. This prophecy is regarded as still to be fulfilled.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.831728667259139,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                28.17,
+                36.91,
+                34.92
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more. One strong angel took up a stone great as a millstone, and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act of violence signifies that Babylon's decline will not be gentle or natural, but brought about by external force. The use of a great millstone emphasizes the magnitude and irrecoverableness of the city's fate.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.8426833121656228,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.61,
+            "commentatorTierSimilarities": [
+                24.93,
+                39.51,
+                35.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thus with a rush shall be thrown down Babylon the great city, and shall never be found any more. One strong angel took up a stone great as a millstone, and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act of violence signifies that Babylon's decline will not be gentle or natural, but brought about by external force. The use of a great millstone emphasizes the magnitude and irrecoverableness of the city's fate. This prophecy is regarded as still to be fulfilled.",
+            "wordCount": 91,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.831728667259139,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                28.17,
+                36.91,
+                34.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "With a rush and violence, Babylon the great city will be thrown down, never to be found again. A mighty angel will take up a great millstone and cast it into the sea, symbolizing the complete and sudden destruction of the city. This act signifies that Babylon's decline will be brought about by external force, not by natural causes. The use of a great millstone, which requires significant power to turn, emphasizes the magnitude and irrecoverableness of the city's fate.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 1.791015025919462,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.89,
+            "commentatorTierSimilarities": [
+                24.49,
+                40.83,
+                34.68
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

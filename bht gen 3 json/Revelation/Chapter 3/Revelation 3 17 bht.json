@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:42:33",
+    "verseRef": "Revelation 3:17",
+    "bestBHT": {
+        "bht": "The verse exposes the self-deception of those who pride themselves on spiritual riches, while remaining ignorant of their true poverty and need. Their self-sufficiency and worldly wealth have blinded them to their desperate spiritual condition. Despite their perceived abundance, the church is actually pitiable and wretched. This serves as a warning against pride and materialism and emphasizes the importance of recognizing our need for God's grace and spiritual wealth. It is a reminder that true riches are found in humility and dependence on God.",
+        "wordCount": 87,
+        "quoteTokenProportion": 37.7,
+        "qualityScore": 2.17029510671589,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.5,
+        "commentatorTierSimilarities": [
+            31.49,
+            38.02,
+            30.49
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great self-deceit of which the Lord here complains was not concerning worldly wealth, which was a patent fact, but concerning spiritual, which was a baseless fiction.",
+            "Thou art the wretched and the pitiable one.",
+            "Poor and blind and naked."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Self-sufficiency is the fatal danger of a lukewarm state.",
+            "The riches on which they prided themselves were spiritual riches; though, doubtless, their spiritual self-sufficiency was much fostered by their worldly wealth.",
+            "How different Christ's estimate of men, from their own estimate of themselves, 'I have need of nothing!'"
+        ],
+        "Albert Barnes": [
+            "There is no doubt that there was much wealth in Laodicea, and that, as a people, they prided themselves on their riches... It is not easy to determine which is the true sense; but may it not have been that there was an allusion to both, and that, in every respect, they boasted that they had enough?",
+            "There is no just impression in regard to the real poverty and wretchedness of your condition.",
+            "With all the decorations that wealth can impart, there may be a nakedness of the soul as real as that of the body would be if, without a rag to cover it, it were exposed to cold, and storm, and shame."
+        ],
+        "Marvin Vincent": [
+            "Increased with goods. The reference is to imagined spiritual riches, not to worldly possessions.\" (Quote 1)",
+            "Thou. Emphatic.\" (Quote 2)",
+            "Miserable. An object of pity.\" (Quote 3)"
+        ],
+        "Philip Schaff": [
+            "The spiritually proud have too many positive elements of character to justify such a description in their case. It was worldly prosperity that had made the church indifferent to the energy and power of Divine truth.",
+            "To such a state of mind riches are a bar. The rich may no doubt enter into the kingdom of God as well as the poor, but they do so with difficulty.",
+            "'Thou callest the poor wretched: thou art the wretched one: to thee really belong the misery and the poverty and the blindness and the nakedness for which thou pitiest or professest to pity others.'"
+        ],
+        "Archibald T. Robertson": [
+            "The church 'carried the pride of wealth into its spiritual life'.\" ",
+            "This church was in a rich city and was rich in pride and conceit, but poor in grace and ignorant of its spiritual poverty.",
+            "The figure completes the picture of actual poverty."
+        ],
+        "John Gill": [
+            "Riches seldom do any good to the churches of Christ, they did not in Constantine's time...they will usher in the Laodicean church state.\" ",
+            "True believers, as considered in Christ, stand in need of nothing indeed, they are complete in him, and have everything in him; but, as considered in themselves, they are daily in need of daily food for their souls.",
+            "True believers account themselves wretched, as the Apostle Paul did, on account of indwelling sin, and the plague of their own hearts, which the members of this church, the greater part of them, were ignorant of."
+        ],
+        "John Wesley": [
+            "I am rich \u2014 In gifts and grace, as well as worldly goods.",
+            "And knowest not that thou art \u2014 In God's account, wretched and pitiable.",
+            "Therefore 'I counsel thee,' etc."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse addresses the self-deception of those who believe they are rich spiritually, yet are actually poor, blind, and naked. Their self-sufficiency and pride in worldly wealth have blinded them to their true spiritual poverty. Despite their perceived wealth, the lukewarm state of this church has left them miserable and pitiable. The commentary emphasizes the danger of self-sufficiency and the need for true humility. It reveals that while the church may have boasted of its material riches, it was ignorant of its spiritual poverty. The imagery of being poor, blind, and naked paints a picture of their actual poverty in light of their misplaced confidence.",
+            "wordCount": 108,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.1814113932082404,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.87,
+            "commentatorTierSimilarities": [
+                32.5,
+                40.95,
+                26.55
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The verse reveals the self-deceit of those who boast in their imagined spiritual riches, remaining ignorant of their true spiritual poverty. Their self-sufficiency and pride in worldly wealth have blinded them to their desperate need for grace. Though they appear rich, they are actually wretched and pitiable. The church's lukewarm state and misplaced confidence in material wealth have left them miserable. This serves as a warning against self-sufficiency and hubris, emphasizing the importance of humility and true spiritual wealth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.1614484545790686,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.21,
+            "commentatorTierSimilarities": [
+                32.67,
+                38.12,
+                29.22
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church in question was deceived, believing themselves to be spiritually rich when they were impoverished. Their self-sufficiency and pride in worldly wealth rendered them blind to their true spiritual poverty. Despite their perceived riches, they were actually pitiable and wretched. The commentary highlights the danger of spiritual self-deception and the need for humility. It serves as a reminder that wealth does not guarantee spiritual prosperity, urging us to seek true riches in God rather than placing our confidence in material possessions.",
+            "wordCount": 84,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.085396759569153,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.68,
+            "commentatorTierSimilarities": [
+                32.98,
+                38.78,
+                28.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The verse exposes the self-deception of those who pride themselves on spiritual riches, while remaining ignorant of their true poverty and need. Their self-sufficiency and worldly wealth have blinded them to their desperate spiritual condition. Despite their perceived abundance, the church is actually pitiable and wretched. This serves as a warning against pride and materialism and emphasizes the importance of recognizing our need for God's grace and spiritual wealth. It is a reminder that true riches are found in humility and dependence on God.",
+            "wordCount": 87,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 2.17029510671589,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.5,
+            "commentatorTierSimilarities": [
+                31.49,
+                38.02,
+                30.49
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The church's self-deceit stems from their erroneous belief in their spiritual wealth, while remaining ignorant of their actual poverty. Their self-sufficiency, coupled with their worldly riches, led to blindess to their true spiritual state. Despite their perceived abundance, the church is ultimately pitiable and wretched. The commentary underscores the danger of self-sufficiency and urges the need for genuine humility. It emphasizes that material wealth does not equate to true spiritual prosperity, prompting a reevaluation of priorities and a pursuit of genuine spiritual wealth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.9688340905113981,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                32.99,
+                37.57,
+                29.44
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

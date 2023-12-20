@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:43:20",
+    "verseRef": "Revelation 4:5",
+    "bestBHT": {
+        "bht": "The Holy Spirit is beautifully depicted in this scene, symbolizing His enlightening, purifying, and consuming agency. The majestic repose and ethereal purity of the throne's pavement reflect His presence. The four cherubic forms represent God's sentient creation. The thunderings express His threats against the ungodly, featuring voices within that predict special judgments. The blazing torches before the throne portray the Spirit's penetrating influence, searching the depths of the heart. This vivid imagery conveys God's power, judgment, and constant presence in our lives.",
+        "wordCount": 86,
+        "quoteTokenProportion": 20.97,
+        "qualityScore": 1.8830957537510513,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+        "commentatorTierSimilarities": [
+            40.52,
+            33.08,
+            26.4
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These seem to represent the Holy Spirit in his sevenfold working: in his enlightening and cheering as well as his purifying and consuming agency.",
+            "The material and appearance of this pavement of the throne seem chosen to indicate majestic repose and ethereal purity.",
+            "The four cherubic forms are the representatives of animated nature\u2014of God\u2019s sentient creation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The thunderings express God's threats against the ungodly: there are voices in the thunders, that is, not only does He threaten generally, but also predicts special judgments.",
+            "The Holy Spirit in His sevenfold operation, as the light-and-life Giver and fiery purifier of the godly, and consumer of the ungodly.",
+            "The thunderings express God's threats against the ungodly: there are voices in the thunders, that is, not only does He threaten generally, but also predicts special judgments."
+        ],
+        "Albert Barnes": [
+            "We are at once reminded by this representation of the sublime scene that occurred at Sinai...where 'there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud.'",
+            "These steadily burning lamps would add much to the beauty of the vision.",
+            "In all the scenes of majesty and commotion that occur on the earth, the Spirit of God is present, shedding a constant light, and undisturbed in his influence by all the agitations that are abroad."
+        ],
+        "Marvin Vincent": [
+            "Compare Exodus 19:16. Variously interpreted of God's might, His judgment, His power over nature, and His indignation against the wicked.",
+            "The origin of our lamp, but, properly, a torch; the word for lamp being lucnov, a hand - lamp filled with oil.",
+            "The true Hindoo way of lighting up, is by torches, held by men who feed the flame with oil from a sort of bottle constructed for the purpose."
+        ],
+        "Philip Schaff": [
+            "Judgment against sin is a necessary accompaniment both of holiness and love.",
+            "These lightnings and voices and thunders...are essential and perpetual accompaniments of the throne.",
+            "It is rather [the Spirit's] penetrating influence, similar to that of chap. Revelation 1:14, by which He searches the innermost recesses of the heart."
+        ],
+        "Archibald T. Robertson": [
+            "The thunderstorm is in Hebrew poetry a familiar symbol of the Divine power.\" ",
+            "These torches blaze perpetually before the throne of God.",
+            "Metaphor drawn from Ezekiel 1:13; Zechariah 4:12."
+        ],
+        "John Gill": [
+            "The doctrines of the Gospel...are comparable to 'lightning', both for the light and knowledge they give, and for the swiftness with which they were spread over the world.\" ",
+            "The judgments of God, and the punishments inflicted upon his enemies...may be designed.\" ",
+            "The Spirit's gifts...point at the light the Spirit of God in his gifts communicates to the churches; and that warmth and heat, comfort and refreshment; conveyed to them, through the preaching of the Gospel, and the dispensation of the ordinances of it, under his illuminating and quickening influences."
+        ],
+        "John Wesley": [
+            "And out of the throne go forth lightnings \u2014 Which affect the sight.",
+            "Voices \u2014 Which affect the hearing.",
+            "Thunderings \u2014 Which cause the whole body to tremble."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The scene described in this verse showcases the Holy Spirit in His sevenfold working, representing His enlightening, purifying, and consuming agency. The appearance of the throne's pavement conveys majestic repose and ethereal purity. The four cherubic forms symbolize God's sentient creation. The thunderings express God's threats against the ungodly, and there are voices in the thunders, predicting special judgments. Additionally, the perpetually blazing torches before the throne depict the Spirit's penetrating influence, searching the innermost recesses of the heart. Through this vivid imagery, we see the constant presence and power of the Holy Spirit, as well as God's judgments and His supremacy over nature.",
+            "wordCount": 109,
+            "quoteTokenProportion": 23.61,
+            "qualityScore": 1.9630633449058719,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.61,
+            "commentatorTierSimilarities": [
+                40.03,
+                33.07,
+                26.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Holy Spirit is beautifully portrayed in this passage, representing His enlightening, purifying, and consuming agency as well as His sevenfold operation. The majestic repose and ethereal purity of the throne's pavement highlight the divine presence. The four cherubic forms symbolize God's sentient creation, while the thunderings express His threats against the ungodly. The perpetually blazing torches before the throne signify the Spirit's penetrating influence in searching the heart. Through this vibrant imagery, we witness the power and judgment of God, displaying His supremacy over nature and His constant presence in our lives.",
+            "wordCount": 96,
+            "quoteTokenProportion": 25.37,
+            "qualityScore": 1.9541459718618408,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.32,
+            "commentatorTierSimilarities": [
+                40.58,
+                32.88,
+                26.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Holy Spirit is vividly depicted in this description, embodying His enlightening, purifying, and consuming agency. The pavement of the throne displays majestic repose and ethereal purity. Symbolizing God's sentient creation, the four cherubic forms add depth to the scene. The thunderings represent His threats against the ungodly, with voices within predicting special judgments. The perpetually blazing torches before the throne serve as a metaphor for the Spirit's penetrating influence, searching the depths of the heart. Through this imagery, we witness God's power, judgment, and unchanging presence in our lives.",
+            "wordCount": 93,
+            "quoteTokenProportion": 26.76,
+            "qualityScore": 1.8353824176993223,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                40.06,
+                32.44,
+                27.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Holy Spirit is beautifully depicted in this scene, symbolizing His enlightening, purifying, and consuming agency. The majestic repose and ethereal purity of the throne's pavement reflect His presence. The four cherubic forms represent God's sentient creation. The thunderings express His threats against the ungodly, featuring voices within that predict special judgments. The blazing torches before the throne portray the Spirit's penetrating influence, searching the depths of the heart. This vivid imagery conveys God's power, judgment, and constant presence in our lives.",
+            "wordCount": 86,
+            "quoteTokenProportion": 20.97,
+            "qualityScore": 1.8830957537510513,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.95,
+            "commentatorTierSimilarities": [
+                40.52,
+                33.08,
+                26.4
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This scene presents the Holy Spirit in His sevenfold operation, signifying His enlightening, purifying, and consuming agency. The pavement of the throne reflects majestic repose and ethereal purity. The four cherubic forms represent God's sentient creation. The thunderings express His threats against the ungodly, accompanied by voices that predict special judgments. The continual blazing torches before the throne symbolize the Spirit's penetrating influence, searching the heart's innermost recesses. Through this powerful imagery, we witness the unchanging presence of God and His authority over nature, bringing light, judgment, and comfort to His people.",
+            "wordCount": 95,
+            "quoteTokenProportion": 21.13,
+            "qualityScore": 1.8718715545675888,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.58,
+            "commentatorTierSimilarities": [
+                39.34,
+                32.63,
+                28.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

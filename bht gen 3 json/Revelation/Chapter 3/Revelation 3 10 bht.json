@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:41:39",
+    "verseRef": "Revelation 3:10",
+    "bestBHT": {
+        "bht": "Those who faithfully keep Christ's word of endurance can trust in His promise to keep them from the forthcoming hour of temptation that will test the faith of the entire world. This trial of temptation will reveal the fidelity of the faithful while hardening the hearts of the unfaithful. The word of Christ's endurance, teaching patient waiting, is what believers must hold onto. Through patient endurance, believers will be delivered from the power of this trial and kept entirely out of it. This trial specifically targets the wicked, not all living men.",
+        "wordCount": 94,
+        "quoteTokenProportion": 42.62,
+        "qualityScore": 2.1166215971874864,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+        "commentatorTierSimilarities": [
+            34.01,
+            35.85,
+            30.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because thou didst keep the word of my endurance, I also will keep thee.\" ",
+            "I will keep thee from the hour of temptation which is about to come upon the whole world.",
+            "The trial of the temptation will operate in two ways: on the faithful, by bringing out their fidelity; on the unfaithful and unbelieving, by hardening them in their impenitence."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "\u2018The word of My endurance' is My Gospel word, which teaches patient endurance in expectation of my coming.",
+            "Christ Himself now endures, patiently waiting until the usurper be cast out, and all 'His enemies be made His footstool.' So, too, His Church, for the joy before her of sharing His coming kingdom, endures patiently.",
+            "The temptation brings out the fidelity of those kept by Christ and hardens the unbelieving reprobates."
+        ],
+        "Albert Barnes": [
+            "They had shown this in the trials which they had experienced; he promises now, that in return he will keep them in the future trials that shall come upon the world.",
+            "God does not leave those who have shown that they will not leave him.",
+            "You shall be no kept that what will prove to be a time of temptation to so many, shall not endanger your salvation."
+        ],
+        "Marvin Vincent": [
+            "The word of my patience...the gospel which teaches the need of a patient waiting for Christ.\" ",
+            "From the hour...they shall be delivered out of its power.\" ",
+            "Of temptation...trial."
+        ],
+        "Philip Schaff": [
+            "The reference is neither to any precepts of Christ concerning patience, nor to any accounts given us of the patience of Christ Himself, but simply to Christ\u2019s \u2018word,\u2019 which cannot be kept without much patient endurance on the part of His people.",
+            "Out of\u2019 (comp. John 17:15) this trial believers are to be kept, not that they are to be kept in it, when in the course of providence it comes upon the Church as well as others, but that they are to be kept entirely out of it; it shall not touch them.",
+            "The trial comes upon the whole inhabited world; no part of the world shall escape it. But at the same time, it comes to try them that dwell upon the earth, not all living men without exception, but, as clearly shown by the use of this expression in the Apocalypse, only the wicked."
+        ],
+        "Archibald T. Robertson": [
+            "Patience (\u03c5\u03c0\u03bf\u03bc\u03b5\u03bd\u03b7\u03c2). 'Endurance' as in Revelation 13:10; Revelation 14:12 as also in 2 Thessalonians 3:5.",
+            "From the hour of trial (\u03b5\u03ba \u03c4\u03b7\u03c2 \u03c9\u03c1\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03b9\u03c1\u03b1\u03c3\u03bc\u03bf\u03c5). This use of \u03b5\u03ba after \u03c4\u03b7\u03c1\u03b5\u03c9 in John 17:15, \u03b1\u03c0\u03bf in James 1:27. Trial brings temptation often (James 1:2; James 1:13). Jesus endured (Hebrews 12:1) and he will help them.",
+            "To try (\u03c0\u03b5\u03b9\u03c1\u03b1\u03c3\u03b1). First aorist active infinitive of purpose from \u03c0\u03b5\u03b9\u03c1\u03b1\u03b6\u03c9, probably to tempt (cf. the demons in Revelation 9:1-21), not merely to afflict (Revelation 2:10)."
+        ],
+        "John Gill": [
+            "Because thou hast kept the word of my patience...; that patience, which bears a resemblance to his, in enduring afflictions, reproaches, persecutions, desertions, and temptations, and in waiting for his kingdom and glory.\" ",
+            "This word, the churches, in the Philadelphian state, will keep pure and incorrupt, and observe the ordinances of it according to the directions given in it; and will believe the promise of Christ's personal coming, and patiently wait for it.",
+            "It seems to be the last struggle of the beast of Rome, and to denote some violent and sharp persecution, such as what Daniel mentions, that never was before nor since; but it will be but short, but one hour, the twenty fourth part of a prophetical day or year, perhaps about a fortnight; yet it will be very extensive; it will reach all the world, the whole Roman empire, and all that dwell upon the earth, that are called by the name of Christians, and will try them, whether they are so or not."
+        ],
+        "John Wesley": [
+            "Because thou hast kept the word of my patience \u2014 The word of Christ is indeed a word of patience.\" ",
+            "O happy exemption from that spreading calamity! From the hour of temptation - So that thou shalt not enter into temptation; but it shall pass over thee.",
+            "The whole Roman empire. It went over the Christians, and over the Jews and heathens; though in a very different manner... and did throughly try them that dwelt upon the earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers who faithfully keep the word of endurance can trust that God will keep them from the upcoming hour of temptation that will test the faith of the entire world. This trial of temptation will serve as a way to reveal the fidelity of the faithful, while hardening the hearts of those who are unfaithful. The word of Christ's endurance, which teaches patient waiting for His coming kingdom, is at the core of this promise. Through patient endurance and trust in Christ, believers will be delivered from the power of this trial and kept entirely out of it. This trial is not meant for all living men, but specifically for the wicked.",
+            "wordCount": 113,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 2.189753454819491,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.15,
+            "commentatorTierSimilarities": [
+                33.55,
+                36.14,
+                30.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who faithfully keep Christ's word of endurance can trust in His promise to keep them from the forthcoming hour of temptation that will test the faith of the entire world. This trial of temptation will reveal the fidelity of the faithful while hardening the hearts of the unfaithful. The word of Christ's endurance, teaching patient waiting, is what believers must hold onto. Through patient endurance, believers will be delivered from the power of this trial and kept entirely out of it. This trial specifically targets the wicked, not all living men.",
+            "wordCount": 94,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.1166215971874864,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.72,
+            "commentatorTierSimilarities": [
+                34.01,
+                35.85,
+                30.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers who faithfully keep the word of Christ's endurance can trust in His promise to keep them from the hour of temptation that will test the faith of the whole world. This trial of temptation will reveal the fidelity of the faithful and harden the hearts of the unfaithful. By patiently enduring, believers will be delivered from the power of this trial and kept entirely immune to its effects. This trial is meant to try only the wicked, specifically those dwelling upon the earth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.039796422925208,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.16,
+            "commentatorTierSimilarities": [
+                32.47,
+                37.02,
+                30.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers who faithfully keep the word of Christ's endurance will be kept by Him from the upcoming hour of temptation that will test the faith of the entire world. This trial serves to reveal the fidelity of the faithful and hardens the hearts of the unbelieving. Through patient endurance and trust in Christ's promise, believers will be delivered from the power of this trial and be kept entirely out of it. This trial specifically targets the wicked and those dwelling upon the earth.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.0631516034156454,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.94,
+            "commentatorTierSimilarities": [
+                33.22,
+                35.45,
+                31.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who faithfully keep the word of Christ's endurance can trust in His promise of protection from the forthcoming hour of temptation that will test the faith of the whole world. This trial of temptation will reveal the fidelity of the faithful and harden the hearts of the unbelieving. By patiently enduring and waiting for Christ's coming kingdom, believers will be delivered from the power of this trial and kept entirely out of it. This trial specifically targets the wicked and those dwelling upon the earth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.0755111509481714,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.35,
+            "commentatorTierSimilarities": [
+                32.47,
+                34.44,
+                33.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

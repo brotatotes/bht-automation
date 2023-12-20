@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:50:47",
+    "verseRef": "Revelation 21:23",
+    "bestBHT": {
+        "bht": "The heavenly city requires no natural light sources like the sun or moon because it is illuminated by the glory of God and the Lamb. The direct light of God and the Lamb makes the saints independent of earthly light. The splendor of the sun and moon would pale in comparison to the radiance of God Himself. This highlights the purely spiritual nature of John's vision, as the saints rely solely on the divine illumination, rendering the need for natural light obsolete.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.529128958874517,
+        "qualityScoreNormalizedComparedToV2BHTs": 75.43,
+        "commentatorTierSimilarities": [
+            33.72,
+            31.45,
+            34.83
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The city hath not need of the sun nor yet of the moon, that they should shine on her: for the glory of God... lightened her.\" ",
+            "Her lamp was (or is) the Lamb.",
+            "No assignment of the members of the sentence must be thought of, such as that the glory of God is her Sun, and the Lamb her moon, as has been done by some Commentators."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The direct light of God and the Lamb shall make the saints independent of God's creatures, the sun and moon, for light.",
+            "The light...shall make the saints independent of God's creatures.",
+            "(Shine) on it,\" or literally, \"for her."
+        ],
+        "Albert Barnes": [
+            "No language could give a more striking or beautiful representation of the heavenly state than what is here employed.",
+            "For the glory of God did lighten it - By the visible splendor of his glory. That supplied the place of the sun and the moon.",
+            "And the Lamb is the light thereof - The Son of God; the Messiah."
+        ],
+        "Marvin Vincent": [
+            "The glory of God did lighten it. Compare Isaiah 60:19, Isaiah 60:20. ",
+            "The light [\u03bf \u03bb\u03c5\u03c7\u03bd\u03bf\u03c2] . Rev., better, lamp. See on John 5:35."
+        ],
+        "Philip Schaff": [
+            "It hath no need of the sun neither of the moon to shine upon it. In our present condition all nature is sacramental to the believing eye or ear. All tells of the supernatural behind nature.",
+            "The glory of God spoken of is again the Shechinah, the visible symbol of His presence.",
+            "The Lamb is the lamp thereof. It may seem as if mention of the \u2018lamp\u2019 detracted from the loftiness of the imagery; but, when there is neither sun nor moon, we naturally think of the lamp which men use at night. May there not also be an allusion to the lamps of the Golden Candlestick of the Sanctuary?"
+        ],
+        "Archibald T. Robertson": [
+            "If the sun and moon did shine, they would give no added light in the presence of the Shekinah Glory of God.",
+            "Their splendour is simply put to shame by the glory of God Himself.",
+            "No words could more clearly demonstrate the purely spiritual character of St. John's conception of the New Jerusalem."
+        ],
+        "John Gill": [
+            "And the city had no need of the sun, neither of the moon to shine in it... which all earthly cities need; and which, though they may be in being in the new heavens, yet will not have the use with respect to this city they now have.",
+            "...nor shall everyone teach his neighbour, but all shall know the Lord perfectly...",
+            "In whose light they will see the face of God, and see God face to face; they will see Christ as he is, and behold his glory; and look upon the angels, those glorious forms of light, and all the glorified saints, and know and converse with each other..."
+        ],
+        "John Wesley": [
+            "The glory of God \u2014 Infinitely brighter than the shining of the sun."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The heavenly city does not require the sun or moon to provide light because the glory of God illuminates it. While some have suggested that the glory of God is the city's sun and the Lamb is its moon, this interpretation is not supported. Instead, the direct light of God and the Lamb make the saints independent of God's creatures for light. The splendor of the sun and moon would pale in comparison to the radiance of God Himself. This depiction showcases the purely spiritual nature of John's vision of the New Jerusalem. The light of God's glory is so brilliant that it renders the need for natural light obsolete.",
+            "wordCount": 114,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.511923099915799,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.86,
+            "commentatorTierSimilarities": [
+                33.83,
+                31.08,
+                35.08
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heavenly city does not require the sun or moon to provide light, for the glory of God illuminates it. This directly implies the saints' independence from natural light, as the splendor of the sun and moon would be eclipsed by God's radiance. The absence of necessity for earthly sources of light underscores the spiritual nature of John's vision. The sheer brilliance of God's glory renders the need for natural light obsolete, symbolizing the saints' complete reliance on divine illumination.",
+            "wordCount": 83,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 2.4559219949011273,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.0,
+            "commentatorTierSimilarities": [
+                32.57,
+                31.24,
+                36.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavenly city doesn't rely on the sun or moon for illumination because the glory of God and the Lamb serve as its light. The saints are completely independent of natural light, as the splendor of the sun and moon is outshone by God's radiance. This showcases the spiritual character of John's vision of the New Jerusalem. The sheer brilliance of God's glory surpasses the need for earthly light sources, symbolizing the saints' absolute reliance on divine illumination.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 2.467532099410246,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.39,
+            "commentatorTierSimilarities": [
+                33.76,
+                30.64,
+                35.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavenly city requires no natural light sources like the sun or moon because it is illuminated by the glory of God and the Lamb. The direct light of God and the Lamb makes the saints independent of earthly light. The splendor of the sun and moon would pale in comparison to the radiance of God Himself. This highlights the purely spiritual nature of John's vision, as the saints rely solely on the divine illumination, rendering the need for natural light obsolete.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.529128958874517,
+            "qualityScoreNormalizedComparedToV2BHTs": 75.43,
+            "commentatorTierSimilarities": [
+                33.72,
+                31.45,
+                34.83
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavenly city is not dependent on the sun or moon for light, as the glory of God illuminates it. The saints are self-sufficient in their own illumination, unaffected by the need for earthly light sources. The brilliance of God's glory surpasses the splendor of the sun and moon, emphasizing the spiritual nature of John's vision. The saints' reliance on divine light makes the need for natural light obsolete, symbolizing their complete dependence on God's illuminating presence.",
+            "wordCount": 81,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.4684952700204335,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.42,
+            "commentatorTierSimilarities": [
+                32.77,
+                31.07,
+                36.16
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

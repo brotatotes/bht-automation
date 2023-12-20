@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:50:17",
+    "verseRef": "Revelation 21:7",
+    "bestBHT": {
+        "bht": "Thirsting for salvation is a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance encompasses the kingdom of Christ, eternal glory, and everlasting salvation. Through Christ's victory, this promise is extended to all who are in Him. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence, fulfilling the covenant made to Solomon and David.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.71,
+        "qualityScore": 1.8705994282963685,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+        "commentatorTierSimilarities": [
+            29.48,
+            30.17,
+            40.36
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thirsting for salvation is the first beginning of, and continues forever a characteristic of the believer.",
+            "With 'all things,' compare 1 Corinthians 3:21-23.",
+            "He in particular and in a peculiar sense, above others: Greek, 'shall be to me a son,' in fullest realization of the promise made in type to Solomon, son of David, and antitypically to the divine Son of David."
+        ],
+        "Albert Barnes": [
+            "He that overcometh...Shall inherit all things.\" ",
+            "And I will be his God...He would bestow upon them all the blessings which it was appropriate for God to bestow.",
+            "And he shall be my son - He shall sustain to me the relation of a son, and shall be treated as such."
+        ],
+        "Marvin Vincent": [
+            "All things [\u03c0\u03b1\u03bd\u03c4\u03b1] . The correct reading is tauta these things.",
+            "His God [\u03b1\u03c5\u03c4\u03c9 \u03b8\u03b5\u03bf\u03c2] . Lit., God unto him.",
+            "My Son [\u03bc\u03bf\u03b9 \u03bf \u03c5\u03b9\u03bf\u03c2] . Lit., the Son to me. See on John 1:12. This is the only place in John's writings where uiJov son is used of the relation of man to God."
+        ],
+        "Philip Schaff": [
+            "By the use of the word \u2018overcometh,\u2019 the last part of the Apocalypse is bound closely to its first.\" ",
+            "The promise is, I will be his God, and he shall be my son.",
+            "Living in that love and confidence which mark a son in a loving father\u2019s house and presence."
+        ],
+        "Archibald T. Robertson": [
+            "He that overcometh...Shall inherit...here interpreted for the benefit of these who share in Christ's victory.\" ",
+            "I will be his God...Repeated Old Testament promise (first to Abraham, Genesis 17:7).",
+            "He shall be my son...Made first of Solomon (2 Samuel 7:14) and applied to David later in Psalms 89:26."
+        ],
+        "John Gill": [
+            "He that overcometh,.... All spiritual enemies, sin, Satan, and the world, the antichristian beast, his image, mark, and number of his name; who is more than a conqueror through Christ; one that perseveres to the end, notwithstanding all temptations, trials, and difficulties;",
+            "shall inherit all things; the kingdom of Christ in the new Jerusalem state, and all things in it; heaven, eternal glory and happiness, and everlasting salvation; yea, God himself, who is the portion, and exceeding great reward of his people, and will be all in all.",
+            "Christ is not only concerned in predestination to the adoption of children, in making way by redemption for the enjoyment of this blessing, and in the actual donation of it; but he himself, who is the mighty God, is the everlasting Father, and his people are his spiritual seed and offspring, and in his kingdom he will see his seed, and prolong his days; he will long enjoy them, and present them to himself, and afterwards to his Father..."
+        ],
+        "John Wesley": [
+            "He that overcometh \u2014 Which is more than, 'he that thirsteth.' Shall inherit these things - Which I have made new.",
+            "I will be his God, and he shall be my son \u2014 Both in the Hebrew and Greek language, in which the scriptures were written, what we translate shall and will are one and the same word.",
+            "The only difference consists in an English translation, or in the want of knowledge in him that interprets what he does not understand."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thirsting for salvation is the first beginning of, and continues forever a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance is not limited to material possessions, but encompasses the kingdom of Christ in the new Jerusalem state, eternal glory, and everlasting salvation. In this intimate relationship, God becomes the Father to His spiritual offspring, and they become His sons. This promise harkens back to the Old Testament, where it was initially made to Solomon and later applied to David. Through Christ's victory, this promise is now extended to all who are in Him. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence.",
+            "wordCount": 129,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 1.851320737110793,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                29.99,
+                31.72,
+                38.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thirsting for salvation is a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance encompasses the kingdom of Christ, eternal glory, and everlasting salvation. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence. Through Christ's victory, this promise is extended to all who are in Him. This promise echoes the Old Testament, where it was made to Solomon and later applied to David.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8535074781546974,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                30.78,
+                30.59,
+                38.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thirsting for salvation is a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance encompasses the kingdom of Christ, eternal glory, and everlasting salvation. Through Christ's victory, this promise is extended to all who are in Him. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence. This promise echoes the Old Testament, where it was made to Solomon and later applied to David.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.8535074781546974,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.97,
+            "commentatorTierSimilarities": [
+                30.78,
+                30.59,
+                38.64
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thirsting for salvation is a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance encompasses the kingdom of Christ, eternal glory, and everlasting salvation. Through Christ's victory, this promise is extended to all who are in Him. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence. This promise echoes the Old Testament and fulfills the covenant made to Solomon and David.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8433546631472524,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                30.4,
+                30.66,
+                38.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thirsting for salvation is a characteristic of the believer, and in Revelation 21:7, it is promised that those who overcome will inherit all things. This inheritance encompasses the kingdom of Christ, eternal glory, and everlasting salvation. Through Christ's victory, this promise is extended to all who are in Him. As God's sons, believers will enjoy a love and confidence that mark a son in a loving father's house and presence, fulfilling the covenant made to Solomon and David.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.8705994282963685,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.54,
+            "commentatorTierSimilarities": [
+                29.48,
+                30.17,
+                40.36
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

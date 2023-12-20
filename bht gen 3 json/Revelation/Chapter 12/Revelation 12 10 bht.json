@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:12",
+    "verseRef": "Revelation 12:10",
+    "bestBHT": {
+        "bht": "Now is come the complete and final salvation, an establishment of God's power over the accuser. All power and authority is given to Christ, the mighty strength of God manifested in subduing the enemy of the Church. It is the glorious time of God's triumph, where the kingdom of God shines forth, a pledge of the everlasting kingdom to come. This is the end of accusations brought against the people of God, a moment of deliverance from the power of Satan.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.65,
+        "qualityScore": 2.005083231719051,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+        "commentatorTierSimilarities": [
+            22.09,
+            51.72,
+            26.19
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All power [Greek, 'exousia,' 'authority,' as here; see below] is given unto Me in heaven and in earth.",
+            "the salvation (namely, fully, finally, and victoriously accomplished... yet future; hence, not till now do the blessed raise the fullest hallelujah for salvation to the Lamb.",
+            "Hence the need that the oppressed Church, God's own elect (like the widow, continually coming, so as even to weary the unjust judge), should cry day and night unto Him."
+        ],
+        "Albert Barnes": [
+            "Now is come salvation - That is, complete deliverance from the power of Satan.",
+            "And strength - That is, now is the mighty power of God manifested in casting down and subduing the great enemy of the church.",
+            "Perhaps the most skillful thing that Satan does, and the thing by which he most contributes to diminish the influence of the church, is in thus causing 'accusations' to be brought against the people of God."
+        ],
+        "Marvin Vincent": [
+            "Now is come the salvation, etc., means that these are realized and established.\" ",
+            "The correct form of the Greek for accuser is a transcript of the Rabbinical Hebrew, kathgwr.\" ",
+            "The aorist tense. Once and for all."
+        ],
+        "Archibald T. Robertson": [
+            "Now is come (\u03b1\u03c1\u03c4 \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf). \u0391\u03c1\u03c4 (John 13:33) shows how recent the downfall of Satan here proleptically pictured as behind us in time (aorist tense \u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf).",
+            "The power (\u03b7 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c2). Gods power over the dragon (cf. Revelation 7:12; Revelation 11:17; Revelation 19:1).",
+            "Which accuseth them (\u03bf \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03c9\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2). Articular present active participle of \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b5\u03c9, old verb, to accuse, usually with the genitive of the person (John 5:45), but here with the accusative. This is the devil's constant occupation (Job 1:6)."
+        ],
+        "John Gill": [
+            "salvation\" was come when Christ obtained it by his sufferings and death, and comes to particular persons in the effectual calling, and it will only be fully come when it is perfectly enjoyed in heaven.",
+            "now was come \"strength\"; not the strength of Christ personal, displayed in the redemption of his people; but rather of Christ mystical, of his church and interest, which had been very weak and low, and under oppression and persecution, but was now exalted, and in a flourishing condition, and was become strong and mighty.",
+            "here was now an illustrious appearance of the kingdom of God in the world, such as had never been before; and which was a pledge and presage of the greatness of the kingdom, or of that everlasting kingdom which will be set up hereafter, when all other kingdoms will be at an end."
+        ],
+        "John Wesley": [
+            "The might \u2014 whereby the enemy is cast out.",
+            "The kingdom \u2014 Here the majesty of God is shown.",
+            "The accuser of our brethren \u2014 So long as they remained on earth."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "All power and authority is given to Christ, and now, in this moment, the complete and final salvation has come. It is a salvation that the oppressed Church, God's own elect, has cried out for day and night. This salvation is a realization and establishment of God's power over the accuser, the constant occupation of the devil. This is the moment of complete deliverance from the power of Satan and the manifestation of God's mighty strength in subduing the enemy of the Church. It is in this time that the kingdom of God shines forth, a pledge and presage of the everlasting kingdom to come. This is the glorious moment of God's triumph and the end of accusations brought against the people of God.",
+            "wordCount": 128,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.9269496916942157,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.41,
+            "commentatorTierSimilarities": [
+                25.26,
+                48.06,
+                26.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Now is come the complete and final salvation, an establishment of God's power over the accuser. In this moment, all power and authority is given to Christ, the mighty strength of God manifested in subduing the enemy of the Church. It is the glorious time of God's triumph, where the kingdom of God shines forth, a pledge of the everlasting kingdom to come. This is the end of accusations brought against the people of God, a moment of deliverance from the power of Satan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.0047557042413606,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                22.25,
+                51.51,
+                26.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Now is come the complete and final salvation, an establishment of God's power over the accuser. In this moment, all power and authority is given to Christ, the mighty strength of God manifested in subduing the enemy of the Church. It is the glorious time of God's triumph, where the kingdom of God shines forth, a pledge of the everlasting kingdom to come. This is the end of accusations brought against the people of God, a moment of deliverance from the power of Satan.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.0047557042413606,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                22.25,
+                51.51,
+                26.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Now is come the complete and final salvation, an establishment of God's power over the accuser. All power and authority is given to Christ, the mighty strength of God manifested in subduing the enemy of the Church. It is the glorious time of God's triumph, where the kingdom of God shines forth, a pledge of the everlasting kingdom to come. This is the end of accusations brought against the people of God, a moment of deliverance from the power of Satan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.005083231719051,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+            "commentatorTierSimilarities": [
+                22.09,
+                51.72,
+                26.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Now is come the complete and final salvation, an establishment of God's power over the accuser. All power and authority is given to Christ, the mighty strength of God manifested in subduing the enemy of the Church. It is the glorious time of God's triumph, where the kingdom of God shines forth, a pledge of the everlasting kingdom to come. This is the end of accusations brought against the people of God, a moment of deliverance from the power of Satan.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 2.005083231719051,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.01,
+            "commentatorTierSimilarities": [
+                22.09,
+                51.72,
+                26.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

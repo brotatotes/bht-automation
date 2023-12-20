@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:44:54",
+    "verseRef": "Revelation 8:3",
+    "bestBHT": {
+        "bht": "Christ, the true High Priest and Mediator, stands before the golden altar of incense, offering up the prayers of His people. The saints' prayers and the angel's incensing occur simultaneously, ascending together. The angel with the golden censer adds incense to the prayers, creating a memorial of the trials faced by God's people. Christ as the Angel of the Covenant intercedes perpetually, drawing from His suffering and death, and the prayers of the saints are likened to sweet incense, pleasing to God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.57,
+        "qualityScore": 2.6134214716894566,
+        "qualityScoreNormalizedComparedToV2BHTs": 78.24,
+        "commentatorTierSimilarities": [
+            29.51,
+            34.38,
+            36.11
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He, in Revelation, is always designated by one of His proper titles; though, doubtless, He is the only true High Priest, the Angel of the Covenant, standing before the golden altar of incense, and there, as Mediator, offering up His people's prayers, rendered acceptable before God through the incense of His merit.",
+            "Christ alone is the Mediator through whom, and to whom, prayer is to be offered.",
+            "The saints' praying on earth, and the angel's incensing in heaven, are simultaneous."
+        ],
+        "Albert Barnes": [
+            "The design seems to be, to represent the prayers of the saints as ascending in the anticipation of the approaching series of wonders in the world - and there would be a beautiful propriety in representing them as offered by an angel, feeling deep interest in the church, and ministering in behalf of the saints.",
+            "The firepan, made for the purpose of carrying fire, on which to burn incense in time of worship... There seems reason to suppose that the incense that was offered in the ancient worship was designed to be emblematic of the prayers of saints.",
+            "The idea seems to be, that, at this time, all the saints would unite in calling on God, and in deprecating his wrath. As the events which were about to occur were a matter of common interest to the people of God, it was to be supposed that they would unite in common supplication."
+        ],
+        "Marvin Vincent": [
+            "The best texts read qusiasthriou, which justifies the Rev., 'over the altar.'",
+            "There seems to be no reason for changing the reference from the brazen altar...",
+            "So that the prayers and the incense might ascend together."
+        ],
+        "Philip Schaff": [
+            "He is distinctly pointed to as the Mediator of the prayers of the saints, and to Him all judgment is committed.",
+            "Beside this altar then the angel appears standing with a golden censer. Much incense is given him that he should add it unto the prayers of all the saints, so that the prayers and the incense might ascend together, a memorial before God of the trials and sufferings of His people.",
+            "These prayers are obviously those of the suffering Church; and they are offered, not that she may be prepared to meet the coming judgments, but that she may hasten them."
+        ],
+        "Archibald T. Robertson": [
+            "Another angel (\u03b1\u03bb\u03bb\u03bf\u03c2 \u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2). Not one of the seven... This preliminary incident of the offering of incense on the altar covers verses Revelation 8:3-6.\" ",
+            "A golden censer (\u03bb\u03b9\u03b2\u03b1\u03bd\u03c9\u03c4\u03bf\u03bd \u03c7\u03c1\u03c5\u03c3\u03bf\u03c5\u03bd). Old word for frankincense... but here alone in N.T. and for censer, as is plain by the use of \u03c7\u03c1\u03c5\u03c3\u03bf\u03c5\u03bd (golden) with it.",
+            "That he should add (\u03b9\u03bd\u03b1 \u03b4\u03c9\u03c3\u03b5). Sub-final clause (subject of \u03b5\u03b4\u03bf\u03b8\u03b7, was given... Unto the prayers (\u03c4\u03b1\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03b1\u03b9\u03c2). Dative case. In Revelation 5:18 the \u03b8\u03c5\u03bc\u03b9\u03b1\u03bc\u03b1\u03c4\u03b1 are the prayers."
+        ],
+        "John Gill": [
+            "Christ himself, the Angel of the covenant, and of God's presence, is here intended, who appeared in an angelic form.",
+            "And it is perpetual, or will be for ever...the intercession of Christ proceeds upon his sufferings and death: his blood and sacrifice, from whence all his pleas and arguments are taken in favour of his people, and which always prevail.",
+            "The prayers of the saints, rightly performed, are themselves compared to incense, being very grateful and acceptable to God."
+        ],
+        "John Wesley": [
+            "The interposing of which shows, that the prayers of the saints and the trumpets of the angels go together.",
+            "Incense generally signifies prayer: here it signifies the longing desires of the angels, that the holy counsel of God might be fulfilled.",
+            "The angels are fellowservants with the saints, not mediators for them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 8:3, Christ is depicted as the true High Priest standing before the golden altar of incense, offering up the prayers of His people. He alone is the Mediator through whom prayer is to be offered. The saints' prayers on earth and the angel's incensing in heaven are simultaneous, as the prayers and the incense ascend together. The angel with the golden censer adds incense to the prayers of all the saints, creating a memorial before God of the trials and sufferings of His people. These prayers are offered not to prepare the Church for the coming judgments, but to hasten them. Christ, as the Angel of the Covenant, intercedes perpetually on behalf of His people, based on His sufferings and death. The prayers of the saints are compared to incense, being very pleasing and acceptable to God.",
+            "wordCount": 139,
+            "quoteTokenProportion": 38.36,
+            "qualityScore": 2.441150916608234,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.51,
+            "commentatorTierSimilarities": [
+                29.37,
+                35.95,
+                34.69
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, the true High Priest and Angel of the Covenant, stands before the golden altar of incense in Revelation. He alone is the Mediator for the prayers of His people, offering them up before God. The saints' prayers on earth and the angel's incensing in heaven occur simultaneously, symbolizing their unity. With a golden censer, the angel adds incense to the prayers, creating a memorial of the trials faced by God's people. These prayers, compared to sweet incense, are offered to hasten the coming judgments. Christ continually intercedes for His people, drawing strength from His suffering and death, and their prayers are pleasing to God, like fragrant incense.",
+            "wordCount": 110,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.3941044615596967,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.94,
+            "commentatorTierSimilarities": [
+                30.33,
+                34.93,
+                34.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Revelation, Christ is depicted as the true High Priest and Mediator, standing before the golden altar of incense. The prayers of the saints on earth and the angel's incensing in heaven are simultaneous, ascending together. The angel with the golden censer adds incense to the prayers, creating a memorial of the trials faced by God's people. Christ, as the Angel of the Covenant, intercedes perpetually, drawing from His suffering and death, and the prayers of the saints are likened to sweet incense, pleasing to God.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 2.583523421431342,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.24,
+            "commentatorTierSimilarities": [
+                30.79,
+                33.34,
+                35.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The true High Priest, Christ, stands before the golden altar of incense as the Mediator, offering up the prayers of His people. He alone serves as the conduit through whom prayer is to be offered. The angel adds incense to the prayers of all the saints, creating a memorial before God of their trials and sufferings. These prayers, compared to sweet incense, are offered not to prepare but to hasten the coming judgments. Christ's intercession is based on His sufferings, and the prayers of the saints are pleasing and acceptable to God.",
+            "wordCount": 93,
+            "quoteTokenProportion": 38.6,
+            "qualityScore": 2.4942145991701623,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.27,
+            "commentatorTierSimilarities": [
+                29.33,
+                36.83,
+                33.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, the true High Priest and Mediator, stands before the golden altar of incense, offering up the prayers of His people. The saints' prayers and the angel's incensing occur simultaneously, ascending together. The angel with the golden censer adds incense to the prayers, creating a memorial of the trials faced by God's people. Christ as the Angel of the Covenant intercedes perpetually, drawing from His suffering and death, and the prayers of the saints are likened to sweet incense, pleasing to God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.6134214716894566,
+            "qualityScoreNormalizedComparedToV2BHTs": 78.24,
+            "commentatorTierSimilarities": [
+                29.51,
+                34.38,
+                36.11
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

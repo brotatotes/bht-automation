@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:50:57",
+    "verseRef": "Revelation 22:6",
+    "bestBHT": {
+        "bht": "The sayings in this book are faithful and true, coming from the Lord, the God of the prophets. His angel was sent to reveal what must happen soon, assuring us that these revelations are not mere dreams but the realities of God's sure word. Though it may be hard for us to fully believe in God's goodness, these prophecies are trustworthy and endorsed by the angel. They serve as a reminder that God is faithful and will bring His plans to pass.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.9,
+        "qualityScore": 2.3090294479430495,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.12,
+        "commentatorTierSimilarities": [
+            39.23,
+            28.73,
+            32.04
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These sayings, (the whole book, by what follows) are faithful and true...",
+            "...the Lord (Jehovah) the God of the spirits of the prophets (i. e. of those spirits of theirs, which, informed by the Holy Spirit, have become the vehicles of prophecy)...",
+            "...sent His angel to shew to His servants what things must come to pass shortly..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "For we are slow to believe that God is as good as He is. The news seems to us, habituated as we are to the misery of this fallen world, too good to be true.",
+            "They are no dreams of a visionary, but the realities of God's sure word.",
+            "The Lord God who with His Spirit inspired their spirits so as to be able to prophesy."
+        ],
+        "Albert Barnes": [
+            "These sayings are faithful and true - These communications - all that has been disclosed to you by symbols, or in direct language.",
+            "The Lord God of the holy prophets - The same God who inspired the ancient prophets.",
+            "The things which must shortly be done - The beginning of which must soon occur - though the series of events extended into distant ages, and even into eternity."
+        ],
+        "Marvin Vincent": [
+            "The Lord, the God of the spirits of the prophets.",
+            "The God of the holy prophets.",
+            "Come to pass."
+        ],
+        "Philip Schaff": [
+            "These words are faithful and true.",
+            "It directs us more immediately to that Divine inspiration to which it is the object of the Seer to trace all the revelations which he had enjoyed.",
+            "The last stage in the unfolding of God\u2019s will was only the completing of what had gone before."
+        ],
+        "Archibald T. Robertson": [
+            "The angel seems to endorse as 'faithful and true' not merely the preceding vision, but the revelations of the entire book."
+        ],
+        "John Gill": [
+            "These sayings are faithful and true; not only what are delivered in particular concerning the new Jerusalem state, in which are many things new, and unheard of before, and which may seem strange, and even incredible, but all that are written in this book.\" ",
+            "They are to be believed by all that read them, and in the fulfilment of which the faithfulness of God is engaged and displayed.",
+            "This is said to secure the divine authority of this book against the gainsayers of it, whom the Holy Ghost foresaw would arise in the world."
+        ],
+        "John Wesley": [
+            "These sayings are faithful and true \u2014 All the things which you have heard and seen shall be faithfully accomplished in their order, and are infallibly true.",
+            "The Lord, the God of the holy prophets \u2014 Who inspired and authorised them of old. Hath now sent me his angel, to show his servants - By thee.",
+            "The things which must be done shortly \u2014 Which will begin to be performed immediately."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The words spoken in this book, the entire revelation, are faithful and true. They were given by the Lord, the God of the prophets, through the inspiration of the Holy Spirit. He sent His angel to reveal these things to His servants, to let them know what must come to pass soon. We may struggle to believe that God is as good as He truly is, but these are not just dreams or visions; they are the sure and certain words of God. The angel confirms the truth and reliability of the entire book, endorsing the faithful and true nature of these revelations.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.219146159616751,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.13,
+            "commentatorTierSimilarities": [
+                38.28,
+                29.29,
+                32.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sayings in this book, which will come to pass shortly, are faithful and true. The Lord, the God of the spirits of the prophets, has sent His angel to show His servants what must happen. It can be difficult for us to fully grasp the goodness of God, but these revelations are not mere fantasies; they are the unfailing and reliable words of God. The angel affirms the trustworthiness of the entire book, endorsing the faithfulness and truth of the revelations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 2.248051526175043,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.09,
+            "commentatorTierSimilarities": [
+                38.81,
+                27.55,
+                33.64
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sayings in this book are faithful and true, for they are from the Lord, the God of the spirits of the prophets. He has sent His angel to show His servants what must come to pass soon. We may find it hard to believe in the goodness of God, but these aren't mere dreams - they are the sure and certain words of God. The angel confirms the reliability of the entire book, endorsing the faithfulness and truth of the revelations.",
+            "wordCount": 82,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 2.182278993806864,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+            "commentatorTierSimilarities": [
+                40.43,
+                26.6,
+                32.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The sayings in this book are faithful and true, as they are from the Lord, the God of the spirits of the prophets. Through His angel, God has revealed these things to His servants, giving us a glimpse of what will soon come to pass. It can be challenging to believe in the goodness of God, but these revelations are not mere dreams. They are the genuine and reliable words of God, endorsing the faithfulness and truth of the entire book.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 2.2753989438199174,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.0,
+            "commentatorTierSimilarities": [
+                39.63,
+                26.99,
+                33.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sayings in this book are faithful and true, coming from the Lord, the God of the prophets. His angel was sent to reveal what must happen soon, assuring us that these revelations are not mere dreams but the realities of God's sure word. Though it may be hard for us to fully believe in God's goodness, these prophecies are trustworthy and endorsed by the angel. They serve as a reminder that God is faithful and will bring His plans to pass.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 2.3090294479430495,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.12,
+            "commentatorTierSimilarities": [
+                39.23,
+                28.73,
+                32.04
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

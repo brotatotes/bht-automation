@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:03",
+    "verseRef": "Revelation 19:4",
+    "bestBHT": {
+        "bht": "The twenty-four elders and the four living beings fell down and worshipped God who sits upon the throne, taking part in the general song of praise of the great multitude. They confirm the joy in heaven over the final triumph of the church by adoring Him for delivering it from persecutions and causing it to triumph in the world. With reverence and righteous judgment, they join in the chorus, praising the Lord for the destruction of Rome and the ruin of antichrist.",
+        "wordCount": 83,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 2.0235075998992547,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+        "commentatorTierSimilarities": [
+            26.3,
+            38.2,
+            35.5
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The twenty-four elders and the four living-beings fell down and worshipped God who sitteth upon the throne.\" ",
+            "They say Amen; Hallelujah, thereby confirming the general song of praise of the great multitude."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. beasts\u2014rather, \"living",
+            "\tcreatures.\" ",
+            "\t",
+            "sat\u2014Greek,",
+            "\t\"sitteth."
+        ],
+        "Albert Barnes": [
+            "As representatives of the church, and as interested in its welfare, they are now introduced as rejoicing in its final triumph, and in the destruction of its last foe.",
+            "That is, they now adored him for what he had done in delivering the church from all its persecutions, and causing it to triumph in the world.",
+            "The repetition of this word so many times shows the intenseness of the joy of heaven in view of the final triumph of the church."
+        ],
+        "Philip Schaff": [
+            "The Elders we heard last at chap. Revelation 11:16... declared, \u2018The kingdom of the world is become the kingdom of our Lord and of His Christ.\u2019\" ",
+            "One of the four living creatures we saw last at chap. Revelation 15:7, when it gave to the seven angels their \u2018seven golden bowls full of the wrath of God.\u2019\" ",
+            "With peculiar propriety, therefore, these beings first answer the hosts of heaven with their loud Amen, and then take up their song Hallelujah."
+        ],
+        "Archibald T. Robertson": [
+            "Fell down and worshipped God.",
+            "The twenty-four elders and the four living creatures take up the antiphonal chorus of the angels."
+        ],
+        "John Gill": [
+            "these join in the chorus, and praise the Lord on the account of the destruction of Rome, and ruin of antichrist.",
+            "in great reverence of him, and of his righteous judgments",
+            "joined in the same 'hallelujah', or expressions of praise to God, for this great appearance of his in the downfall of Babylon."
+        ],
+        "John Wesley": [
+            "The living creatures are nearer the throne than the elders.",
+            "Accordingly they [the living creatures] are mentioned before them [the elders], with the praise they render to God.",
+            "Here, therefore, the four and twenty elders are named before the living creatures."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The twenty-four elders and the four living creatures fell down and worshipped God who sits upon the throne, joining in the general song of praise of the great multitude, confirming and intensifying the joy of heaven in the final triumph of the church. As representatives of the church, they adore Him for delivering the church from its persecutions and causing it to triumph in the world. With reverence and righteous judgment, they join in the chorus, praising the Lord for the destruction of Rome and the ruin of antichrist. Positioned closer to the throne, the living creatures are mentioned before the elders as they render their powerful praise to God.",
+            "wordCount": 111,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 2.021213310325351,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                23.99,
+                37.45,
+                38.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The twenty-four elders and the four living creatures fell down and worshipped God who sits upon the throne, joining in the general song of praise of the great multitude, confirming the joy of heaven in the final triumph of the church. As representatives of the church, they adore Him for delivering the church from its persecutions and causing it to triumph in the world. With reverence and righteous judgment, they join in the chorus, praising the Lord for the destruction of Rome and the ruin of antichrist.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 1.988613275604191,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.46,
+            "commentatorTierSimilarities": [
+                23.35,
+                42.07,
+                34.57
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The twenty-four elders and the four living beings fell down and worshipped God who sits upon the throne, taking part in the general song of praise of the great multitude. They confirm the joy in heaven over the final triumph of the church by adoring Him for delivering it from persecutions and causing it to triumph in the world. With reverence and righteous judgment, they join in the chorus, praising the Lord for the destruction of Rome and the ruin of antichrist.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.0235075998992547,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.62,
+            "commentatorTierSimilarities": [
+                26.3,
+                38.2,
+                35.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twenty-four elders and the four living beings fell down and worshipped God who sits upon the throne, taking part in the general song of praise of the great multitude. They join in the chorus, confirming the joy in heaven over the final triumph of the church. With reverence and righteous judgment, they adored Him for delivering the church from persecutions and causing it to triumph in the world. Their powerful praise echoes the destruction of Rome and the ruin of antichrist.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.9321535667125096,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                25.14,
+                39.36,
+                35.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twenty-four elders and the four living creatures fell down and worshipped God who sits upon the throne, joining the general song of praise of the great multitude. As representatives of the church, they adored Him for delivering the church from persecutions and causing it to triumph in the world. With reverence and righteous judgment, they praised the Lord for the destruction of Rome and the ruin of antichrist.",
+            "wordCount": 70,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.9687804349423823,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.8,
+            "commentatorTierSimilarities": [
+                25.75,
+                37.83,
+                36.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

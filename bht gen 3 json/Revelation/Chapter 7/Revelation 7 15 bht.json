@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:44:31",
+    "verseRef": "Revelation 7:15",
+    "bestBHT": {
+        "bht": "Blessed are those who wash their robes, for they can enter the heavenly city and serve God day and night with a spiritual worship. God's dwelling among them signifies a sacred fellowship and His protection. The redeemed will have intimate communion with God, having come out of great affliction and having cleansed their robes in His blood. Their service will entail praising and adoring God's nature and works in the new Jerusalem state.",
+        "wordCount": 75,
+        "quoteTokenProportion": 34.55,
+        "qualityScore": 1.7945215002379293,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+        "commentatorTierSimilarities": [
+            36.73,
+            21.91,
+            41.35
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "On this account they are before the throne of God, and they serve Him by day and by night.\" ",
+            "He that sitteth on the throne shall spread His habitation over them.\" ",
+            "In the term shall tabernacle are contained a multitude of recollections: of the pillar in the wilderness, of the Shechinah in the holy place, of the tabernacle of witness with all its symbolism."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Blessed are those who wash their robes, that they may have right to the tree of life, and may enter in through the gates into the city.",
+            "There is no night\" in the heavenly sanctuary.",
+            "His dwelling among them is to be understood as a secondary truth, besides what is expressed, namely, His being their covert."
+        ],
+        "Albert Barnes": [
+            "No other reason can be given why anyone of the human race is in heaven; and that is reason enough why any of that race are there.",
+            "Day and night constitute the whole of time, and this expression, therefore, denotes constant and uninterrupted service.",
+            "Perhaps the allusion is to the tabernacle in the wilderness. That was regarded as the special dwelling-place of God, and that always occupied a central place among the tribes of Israel."
+        ],
+        "Marvin Vincent": [
+            "Therefore. Because of this washing.",
+            "Serve [\u03bb\u03b1\u03c4\u03c1\u03b5\u03c5\u03bf\u03c5\u03c3\u03b9\u03bd] . See on Luke 1:74. In scripture the verb never expresses any other service but that of the true God, or of the gods of heathenism.",
+            "Dwell [\u03c3\u03ba\u03b7\u03bd\u03c9\u03c3\u03b5\u03b9] . From skhnh a tent or tabernacle. Hence better, as Rev., shall spread His tabernacle. See on John 1:14, and compare Leviticus 26:11; Isaiah 4:5, Isaiah 4:6; Ezekiel 37:27."
+        ],
+        "Archibald T. Robertson": [
+            "All the redeemed are priests [...] in the heavenly temple.\" ",
+            "But this service is that of spiritual worship, not of external rites.\" ",
+            "Shall spread his tabernacle over them [...] a picture of sacred fellowship, and 'the further idea of God's Presence as a protection from all fear of evil'."
+        ],
+        "John Gill": [
+            "Not because of their great tribulations, but because they were brought through them, and out of them, by the grace and power of God.",
+            "The service of these persons in the new Jerusalem state will not lie in attending on the word and ordinances, or in the ministration of them, as in the present state; but in praising God, singing Hallelujahs to him, adoring the perfections of his nature, and admiring his wonderful works of providence and grace.",
+            "They shall enjoy his presence, and have the most intimate communion with him; it will appear most manifest that he is their covenant God, and they are his covenant people."
+        ],
+        "John Wesley": [
+            "Because they came out of great affliction, and have washed their robes in his blood.",
+            "It seems, even nearer than the angels.",
+            "And serve him day and night - Speaking after the manner of men; that is, continually."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who wash their robes have the right to enter the heavenly city and serve God day and night. This service is one of spiritual worship, the true service of the true God. God's dwelling among them is a sacred fellowship and a picture of His protection. Day and night in the heavenly sanctuary signify constant and uninterrupted service. This service in the new Jerusalem state will not be external rites, but praising and adoring God's nature and works. The redeemed will enjoy intimate communion with God, for they have come out of great affliction and washed their robes in His blood.",
+            "wordCount": 104,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.78026494975617,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.54,
+            "commentatorTierSimilarities": [
+                37.22,
+                26.79,
+                35.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who wash their robes have the right to enter the heavenly city and serve God day and night. This service is one of spiritual worship, the true service of the true God. God's dwelling among them is a sacred fellowship and a picture of His protection. This service in the new Jerusalem state will not be external rites, but praising and adoring God's nature and works. The redeemed will enjoy intimate communion with God, for they have come out of great affliction and washed their robes in His blood.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.7703535814643327,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                38.76,
+                23.05,
+                38.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who wash their robes have the right to enter the heavenly city and serve God day and night. This service is one of spiritual worship, the true service of the true God. God's dwelling among them is a sacred fellowship and a picture of His protection. The redeemed will enjoy intimate communion with God, for they have come out of great affliction and washed their robes in His blood.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7832165885746383,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                39.52,
+                21.65,
+                38.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are those who wash their robes and enter the heavenly city, for they have the right to serve God day and night. This service is one of spiritual worship, a true service to the true God. God's dwelling among them is a sacred fellowship and a symbol of His protection. The redeemed will intimately commune with God, having come out of great affliction and cleansing their robes in His blood. Their service will be praising and adoring God's nature and works in the new Jerusalem state.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.7667161700603846,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.09,
+            "commentatorTierSimilarities": [
+                37.3,
+                23.91,
+                38.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are those who wash their robes, for they can enter the heavenly city and serve God day and night with a spiritual worship. God's dwelling among them signifies a sacred fellowship and His protection. The redeemed will have intimate communion with God, having come out of great affliction and having cleansed their robes in His blood. Their service will entail praising and adoring God's nature and works in the new Jerusalem state.",
+            "wordCount": 75,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.7945215002379293,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.01,
+            "commentatorTierSimilarities": [
+                36.73,
+                21.91,
+                41.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

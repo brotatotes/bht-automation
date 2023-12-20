@@ -1,0 +1,114 @@
+{
+    "timestamp": "12-19-2023 21:43:26",
+    "verseRef": "Revelation 7:5",
+    "bestBHT": {
+        "bht": "The twelve thousand sealed ones of Israel form the nucleus of transfigured humanity, joined by the elect Gentiles as a multitude which no man could number. Both groups, while in heaven, have a role in ruling over the earth as ministers of blessing. The twelve apostles stand at the head of the congregation, with the upper and lower assembly distinct but intimately associated. Judah is mentioned first, as Christ's tribe, signifying the need to praise Him for temporal, spiritual, and eternal blessings. The mention of Reuben and Gad further highlights the significance of righteousness, life, and victory through Christ.",
+        "wordCount": 100,
+        "quoteTokenProportion": 32.89,
+        "qualityScore": 1.9559955905756343,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+        "commentatorTierSimilarities": [
+            57.36,
+            0.0,
+            42.64
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The twelve times twelve thousand sealed ones of Israel are the nucleus of transfigured humanity, to which the elect Gentiles are joined, 'a multitude which no man could number.'\" ",
+            "Both are in heaven, yet ruling over the earth, as ministers of blessing to its inhabitants.",
+            "The twelve apostles stand at the head of the whole. The upper and the lower congregation, though distinct, are intimately associated."
+        ],
+        "John Gill": [
+            "Judah is mentioned first, because Christ sprung from that tribe...and shows, that it becomes all the sealed ones...to praise him for all favours and blessings, temporal, spiritual, and eternal.",
+            "Reuben was Jacob's firstborn, but by his sin he lost the honour and privilege of birthright...and shows that the Son of God is to be looked unto for righteousness, life, and salvation.",
+            "Gad...may denote that there would be a numerous company of saints and faithful witnesses...who in the issue would be conquerors, and more than conquerors, through Christ."
+        ],
+        "John Wesley": [
+            "Judah is mentioned first, in respect of the kingdom, and of the Messiah sprung therefrom."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The sealed ones of Israel, along with the elect Gentiles, form the nucleus of transfigured humanity, ruling over the earth as ministers of blessing to its inhabitants. The twelve apostles stand at the head of this whole congregation, while the upper and lower assembly, though distinct, are intimately associated. Judah, the tribe from which Christ descended, is mentioned first, signifying that all the sealed ones should praise Him for their blessings. Reuben, who lost his birthright due to sin, highlights the importance of looking to the Son of God for righteousness and salvation. Gad, representing a numerous company of saints and faithful witnesses, indicate the ultimate conquest through Christ.",
+            "wordCount": 109,
+            "quoteTokenProportion": 36.9,
+            "qualityScore": 1.7817446904588825,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.58,
+            "commentatorTierSimilarities": [
+                52.11,
+                0.0,
+                47.89
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sealed ones of Israel and the elect Gentiles form the core of transfigured humanity, ruling as blessing-bearers over the earth. The twelve apostles lead the entire congregation, harmoniously joined together. Judah, the first mentioned, signifies the kingdom and the Messiah's lineage. Reuben's loss of birthright demonstrates the need to look to the Son of God for righteousness. Gad symbolizes the victorious multitude of saints and faithful witnesses. Together, they embody the united body of believers, inseparably connected and ruled by Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 19.35,
+            "qualityScore": 1.444642477172445,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.38,
+            "commentatorTierSimilarities": [
+                46.98,
+                0.0,
+                53.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The twelve thousand sealed ones of Israel, along with the elect Gentiles, are the core of transfigured humanity ruling over the earth. The twelve apostles lead the congregation, while the upper and lower assemblies are intimately associated. Judah, the tribe from which Christ sprang, is mentioned first, emphasizing the need to praise Him for all blessings. Reuben's loss of birthright highlights the importance of looking to the Son of God. Gad denotes the victorious multitude of saints and witnesses.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.6306676711123613,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                51.17,
+                0.0,
+                48.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twelve thousand sealed ones of Israel form the nucleus of transfigured humanity, joined by the elect Gentiles as a multitude which no man could number. Both groups, while in heaven, have a role in ruling over the earth as ministers of blessing. The twelve apostles stand at the head of the congregation, with the upper and lower assembly distinct but intimately associated. Judah is mentioned first, as Christ's tribe, signifying the need to praise Him for temporal, spiritual, and eternal blessings. The mention of Reuben and Gad further highlights the significance of righteousness, life, and victory through Christ.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.89,
+            "qualityScore": 1.9559955905756343,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.38,
+            "commentatorTierSimilarities": [
+                57.36,
+                0.0,
+                42.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twelve thousand sealed ones of Israel and the elect Gentiles constitute the nucleus of transfigured humanity, governing the earth as ministers of blessing. The twelve apostles hold a prominent position. Judah, Christ's tribe, implies praising Him for all kinds of blessings. Reuben's loss of birthright underscores dependence on the Son of God for righteousness and salvation. Gad symbolizes the victorious saints, conquerors through Christ. Together, these groups form an intimately associated body of believers, united under the rulership of Christ.",
+            "wordCount": 83,
+            "quoteTokenProportion": 23.81,
+            "qualityScore": 1.4399180284653554,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.22,
+            "commentatorTierSimilarities": [
+                48.38,
+                0.0,
+                51.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

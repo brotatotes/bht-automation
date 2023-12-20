@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:08",
+    "verseRef": "Revelation 12:11",
+    "bestBHT": {
+        "bht": "They overcame by their faithful testimony, even unto death, showing their victory over Satan through the blood of the Lamb. Their holy lives, patient sufferings, and unwavering attachment to their Savior revealed the truth and power of religion, triumphing over their accuser. This victory, achieved by Christ's death, marks the failure of Satan's endeavors. The blood of Christ is the ground for their victory, and their love for Christ surpassed their love for their own lives.",
+        "wordCount": 78,
+        "quoteTokenProportion": 30.43,
+        "qualityScore": 2.338469732068091,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.09,
+        "commentatorTierSimilarities": [
+            31.51,
+            41.4,
+            27.09
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They were the persons who overcame.",
+            "It is the same victory (a peculiarly Johannean phrase) over Satan and the world which the Gospel of John describes in the life of Jesus, his Epistle in the life of each believer, and his Apocalypse in the life of the Church.",
+            "On the ground of their faithful testimony, even unto death, they are constituted victors. Their testimony evinced their victory over him by virtue of the blood of the Lamb."
+        ],
+        "Albert Barnes": [
+            "By their holy lives, by their faithful testimony, by their patient sufferings, they showed that all these accusations were false, and that the religion which they professed Was from God, and thus in fact gained a victory over their accuser.",
+            "Christ himself achieved a victory over Satan by his death, and it is in virtue of the victory which he thus achieved that we are now able to triumph over our great foe.",
+            "They did not shrink back when threatened with death, but remained firm in their attachment to their Saviour, and left their dying testimony to the truth and power of religion."
+        ],
+        "Marvin Vincent": [
+            "Overcame... by the blood of the Lamb... because of the shedding of that blood.\" ",
+            "Similarly in the succeeding clause, 'because of the word of their testimony.'",
+            "They loved not their life even unto death."
+        ],
+        "Archibald T. Robertson": [
+            "The victory of the martyrs marks the failure of Satan's endeavours.",
+            "The blood of Christ is here presented by \u03b4\u03b9\u03b1 as the ground for the victory and not the means.",
+            "They did not put their own lives before loyalty to Christ."
+        ],
+        "John Gill": [
+            "And they overcame him by the blood of the Lamb,.... The Lord Jesus Christ, by whose blood they were redeemed and ransomed out of the hands of Satan.",
+            "and by the word of their testimony; either by Christ, the essential Word, they bore record of, who is sharper than any twoedged sword.",
+            "and they loved not their lives unto the death; they did not value them; they made no account of them; they were not anxiously careful to preserve them."
+        ],
+        "John Wesley": [
+            "And they have overcome him \u2014 Carried the cause against him.",
+            "By the blood of the Lamb \u2014 Which cleanses the soul from all sin, and so leaves no room for accusing.",
+            "And by the word of their testimony \u2014 The word of God, which they believed and testified, even unto death."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "They were the persons who overcame, constituted victors by their faithful testimony, even unto death, evincing their victory over Satan by virtue of the blood of the Lamb. Their lives reflected the victory that Jesus achieved over Satan through his death, and through their holy lives, faithful testimony, and patient sufferings, they triumphed over their accuser. They did not shrink back when threatened with death but remained firm in their attachment to their Savior and left their dying testimony to the truth and power of religion. Their victory marked the failure of Satan's endeavors and was grounded in the blood of Christ and the word of their testimony. They loved not their lives even unto death, not putting their own lives before loyalty to Christ.",
+            "wordCount": 126,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 2.486978157437396,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.03,
+            "commentatorTierSimilarities": [
+                29.43,
+                42.07,
+                28.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "They overcame by their faithful testimony, even unto death, showing their victory over Satan through the blood of the Lamb. Their holy lives, patient sufferings, and unwavering attachment to their Savior revealed the truth and power of religion, triumphing over their accuser. This victory, achieved by Christ's death, marks the failure of Satan's endeavors. The blood of Christ is the ground for their victory, and their love for Christ surpassed their love for their own lives.",
+            "wordCount": 78,
+            "quoteTokenProportion": 30.43,
+            "qualityScore": 2.338469732068091,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.09,
+            "commentatorTierSimilarities": [
+                31.51,
+                41.4,
+                27.09
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By their faithful testimony, even unto death, they overcame and were constituted victors over Satan. This victory is grounded in the blood of the Lamb, which cleanses from sin and leaves no room for accusing. Their unwavering attachment to their Savior and their love for Christ, surpassing their love for their own lives, demonstrate their true loyalty. Through their holy lives, patient sufferings, and unwavering testimony, they triumphed over their accuser, revealing the truth and power of religion.",
+            "wordCount": 78,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.165014725351834,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.33,
+            "commentatorTierSimilarities": [
+                28.57,
+                40.07,
+                31.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By virtue of their faithful testimony, even unto death, they overcame and were constituted victors. This victory, rooted in the shedding of the blood of the Lamb, marks the failure of Satan's endeavors. Despite the threat of death, they did not put their own lives before loyalty to Christ. Their unwavering attachment to their Savior and their love for Christ surpassed their love for their own lives. Through their faithful testimony, they revealed the truth and power of religion, triumphing over their accuser.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.1610682548108695,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.2,
+            "commentatorTierSimilarities": [
+                30.48,
+                39.92,
+                29.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "They overcame by their faithful testimony, evincing their victory over Satan due to the shedding of the blood of the Lamb. They did not put their own lives before loyalty to Christ, marking the failure of Satan's endeavors. Their unwavering attachment to their Savior and their love for Christ surpassed their love for their own lives. Through their faithful testimony, they triumphed, revealing the truth and power of religion, and demonstrating the same victory described in Jesus' life and the life of each believer.",
+            "wordCount": 85,
+            "quoteTokenProportion": 38.0,
+            "qualityScore": 2.2396438515013215,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.81,
+            "commentatorTierSimilarities": [
+                31.61,
+                39.36,
+                29.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

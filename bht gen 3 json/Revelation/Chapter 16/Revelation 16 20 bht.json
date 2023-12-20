@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:47:56",
+    "verseRef": "Revelation 16:20",
+    "bestBHT": {
+        "bht": "In this verse, the description of the final judgment is portrayed with tremendous intensity. The language used parallels the scene in another Scripture, depicting the removal of mountains from their places. This signifies the eradication of wicked powers, not only restricted to islands but extending to the mainland as well. Although the magnitude of this judgment may give the impression of the end of the world, it is essential to recognize that it symbolizes a critical turning point rather than the ultimate conclusion.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.68,
+        "qualityScore": 1.283576977314022,
+        "qualityScoreNormalizedComparedToV2BHTs": 34.02,
+        "commentatorTierSimilarities": [
+            27.09,
+            38.21,
+            34.71
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The expression is far stronger than this: amounting to that in ch, vi. 14, that every mountain was removed out of its place and was looked for in vain.",
+            "Mankind in general,\u2014not those who were struck by the hailstones, who would instantly die,\u2014so far from repenting at this great and final judgment of God, blasphemed him and were impenitent.",
+            "The issue is different from that in ch, xi, 13, where the remnant feared, and gave glory to God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "20. Plainly parallel to :-, and by anticipation descriptive of the last judgment. ",
+            "\t",
+            "the mountains\u2014rather as",
+            "\tGreek, \"there were found no mountains."
+        ],
+        "Albert Barnes": [
+            "Expressive of great and terrible judgments, as if the very earth were convulsed, and everything were moved out of its place.",
+            "The mountains were not found."
+        ],
+        "Philip Schaff": [
+            "And every island fled away, and the mountains were not found.\" ",
+            "The particular thus mentioned is the sixth, and the language used is even stronger than that of chap. Revelation 6:14.",
+            "The climax of judgment appears in the climax of description."
+        ],
+        "Archibald T. Robertson": [
+            "Islands sometimes sink in the sea in earthquakes.",
+            "Were not found.",
+            "See Revelation 20:11 for the same idea."
+        ],
+        "John Gill": [
+            "This may be understood either of the dissolution of the world, the present heavens and earth, when there will be no more sea, Revelation 21:1 and so consequently no islands.\" ",
+            "This may signify the utter extirpation of all the antichristian powers in every shape, whether on islands or on the continent.",
+            "May particularly respect the dissolution of monasteries, and the plundering them of their riches and revenues."
+        ],
+        "John Wesley": [
+            "Every island and mountain was 'moved out of its place,' Revelation 6:14; but here they all flee away.",
+            "What a change must this make in the face of the terraqueous globe!",
+            "And yet the end of the world is not come."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 16:20, the vivid imagery used to describe the final judgment is striking. Similar to the scene in Revelation 6:14, where every mountain was removed and no longer found, here we see an escalation in the magnitude of judgment. Not only are the mountains absent, but also the islands flee away. This language conveys the utter extirpation of evil powers, whether on islands or on the continent. The extent of this judgment is such that it seems like the dissolution of the world itself, yet it is important to note that this represents a significant turning point, but it is not the end of the world.",
+            "wordCount": 105,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.4996881220659408,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.21,
+            "commentatorTierSimilarities": [
+                23.34,
+                36.35,
+                40.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the final judgment described in this passage, the mountains are not merely moved out of place, but completely disappear, reminiscent of the scene in Revelation 6:14. This intensified imagery signifies the eradication of evil powers both on islands and on the mainland. It depicts a significant turning point, though not the end of the world. The overwhelming extent of this judgment may give the impression of the dissolution of the entire world, yet it is crucial to recognize that this marks a consequential shift rather than the ultimate culmination.",
+            "wordCount": 89,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.4183316881304342,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.5,
+            "commentatorTierSimilarities": [
+                22.88,
+                34.51,
+                42.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The overwhelming imagery in this section  suggests the complete eradication of mountains and islands during the final judgment. Comparable to Revelation 6:14, where mountains were moved but still found, here they vanish entirely. This indicates the forceful removal of wicked powers existing on both islands and the mainland. While this catastrophic event may give the impression of the end of the world, it marks a significant turning point rather than a conclusive finale.",
+            "wordCount": 72,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.4803606911499418,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.56,
+            "commentatorTierSimilarities": [
+                24.54,
+                35.26,
+                40.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The powerful and vivid language used here emphasizes the complete disappearance of mountains, similar to the event in another part of the Bible (Revelation 6:14). This signifies the utter removal of evil forces, not only on islands but also on the mainland. Though the extent of this judgment might imply the end of the world, it is important to note that it denotes a significant turning point rather than the final culmination.",
+            "wordCount": 71,
+            "quoteTokenProportion": 42.59,
+            "qualityScore": 1.3985570967585048,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.84,
+            "commentatorTierSimilarities": [
+                25.88,
+                33.18,
+                40.94
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this verse, the description of the final judgment is portrayed with tremendous intensity. The language used parallels the scene in another Scripture, depicting the removal of mountains from their places. This signifies the eradication of wicked powers, not only restricted to islands but extending to the mainland as well. Although the magnitude of this judgment may give the impression of the end of the world, it is essential to recognize that it symbolizes a critical turning point rather than the ultimate conclusion.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.283576977314022,
+            "qualityScoreNormalizedComparedToV2BHTs": 34.02,
+            "commentatorTierSimilarities": [
+                27.09,
+                38.21,
+                34.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

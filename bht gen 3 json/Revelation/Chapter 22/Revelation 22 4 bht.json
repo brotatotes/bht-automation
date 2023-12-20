@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:51:04",
+    "verseRef": "Revelation 22:4",
+    "bestBHT": {
+        "bht": "In the future New Jerusalem, the redeemed shall have the privilege of seeing God's face and know Him intimately as they are known by Him. There shall be no need for artificial light, as the Lord God Himself shall shine upon them. Mutual love among the members of Christ's family will flow freely, unencumbered by suspicion. The vision of God that was once reserved only for Jesus and denied to Moses will now be granted to all who are pure in heart. To behold Christ and His glory will be a glorious sight indeed.",
+        "wordCount": 96,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 2.010158272835185,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+        "commentatorTierSimilarities": [
+            32.45,
+            30.54,
+            37.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and they shall see His face and know Him, even us they are known.",
+            "And night shall not be any more.",
+            "Lord God shall shine upon them: and they shall reign to the ages of the ages."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They shall see and know Him with intuitive knowledge of Him, even as they are known by Him.\" ",
+            "God the Father can only be seen in Christ.\" ",
+            "They shall be known as sons of God to all the citizens of the new Jerusalem, so that the free flow of mutual love among the members of Christ's family will not be checked by suspicion as here."
+        ],
+        "Albert Barnes": [
+            "And they shall see his face - See the notes on Matthew 18:10.",
+            "They would be constantly in his presence, and be permitted continually to behold his glory.",
+            "And his name shall be in their foreheads - They shall be designated as his."
+        ],
+        "Marvin Vincent": [
+            "See His face. Compare 1 John 3:2; Matthew 5:8; Exodus 33:20; Psalms 17:15."
+        ],
+        "Philip Schaff": [
+            "The blessing denied to the great leader of the hosts of Israel is granted to those who are taken up into the Mount with God.",
+            "He is revealed to them in the Son, and they shall 'see Him even as He is'.",
+            "The redeemed, now all high priests in the sanctuary, shall wear the same name upon their foreheads."
+        ],
+        "Archibald T. Robertson": [
+            "This vision of God was withheld from Moses, but promised by Jesus to the pure in heart and mentioned in Hebrews 12:14 as possible only to the holy.\" ",
+            "Even here on earth we can see God in the face of Christ, but now in the New Jerusalem we can see Christ face to face.",
+            "It is anthropomorphic language, to be sure, but it touches the essential reality of religion. 'The supreme felicity is reached, immediate presence with God and the Lamb'."
+        ],
+        "John Gill": [
+            "They shall see him as he is; not only the angels, who always behold the face of God, but all the saints, risen and changed, being pure in heart, and perfectly holy.",
+            "They shall behold Christ and his glory both with the eyes of their understanding, and with the eyes of their bodies; and this is a very desirable sight, and will be very glorious and delightful.",
+            "They shall be known to be his servants, as if his name was written and bore on their foreheads; it will be a clear case that they are the children and people of God."
+        ],
+        "John Wesley": [
+            "And shall see his face \u2014 Which was not granted to Moses. They shall have the nearest access to, and thence the highest resemblance of, him.\" ",
+            "Each of them shall be openly acknowledged as God's own property, and his glorious nature most visibly shine forth in them.",
+            "The kingdom of God is taken by force; but the prize is worth all the labour."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the future New Jerusalem, the redeemed shall have the privilege of seeing God's face and know Him intimately as they are known by Him. In this sacred city, there shall be no need for the light of the sun or moon, for the Lord God Himself shall shine upon them. Mutual love among the members of Christ's family will flow freely, unencumbered by suspicion. The vision of God that was once reserved only for Jesus and denied to Moses will now be granted to all who are pure in heart. What a glorious sight it will be to behold Christ and His glory with both the eyes of understanding and the eyes of the body. Being in the presence of God, they will be openly acknowledged as His own, reflecting His glorious nature. The kingdom of God, attained through His grace and effort, will be a prize of immeasurable worth.",
+            "wordCount": 153,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9377989169519392,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                29.79,
+                29.92,
+                40.29
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the New Jerusalem, the redeemed shall see God's face and intimately know Him, just as they are known by Him. There will be no need for artificial light, as the Lord God Himself will shine upon them. Mutual love will flourish, free from suspicion. The vision of God, once reserved for Jesus and denied to Moses, will be granted to all who are pure in heart. Seeing Christ and His glory with both the eyes of understanding and body will be a glorious sight.",
+            "wordCount": 86,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 1.9672328349042498,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                33.42,
+                29.24,
+                37.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The redeemed in the New Jerusalem will have the privilege of seeing God's face and knowing Him intimately, as they are known by Him. The city will be illuminated by the shining of the Lord God, eliminating the need for artificial light. In this glorious setting, mutual love among the members of Christ's family will flow freely without suspicion. Only those with pure hearts will be able to behold the divine presence, experiencing the highest level of fellowship with God. This vision of God is the ultimate goal and blessing for the faithful.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 1.864205912118377,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.33,
+            "commentatorTierSimilarities": [
+                32.09,
+                30.22,
+                37.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the New Jerusalem, the redeemed will have the incredible privilege of seeing God's face and knowing Him intimately, just as He knows them. The city will be illuminated by the radiant glory of the Lord God Himself, making artificial light unnecessary. Within this glorious setting, there will be a genuine, unrestricted flow of love among the members of Christ's family, without any suspicion. Only those with pure hearts will be able to behold the divine presence, experiencing the highest level of fellowship with God. This vision of God is the ultimate goal and blessing for the faithful, a prize of immeasurable worth.",
+            "wordCount": 105,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.8226532469806798,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.94,
+            "commentatorTierSimilarities": [
+                30.62,
+                28.47,
+                40.91
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future New Jerusalem, the redeemed shall have the privilege of seeing God's face and know Him intimately as they are known by Him. There shall be no need for artificial light, as the Lord God Himself shall shine upon them. Mutual love among the members of Christ's family will flow freely, unencumbered by suspicion. The vision of God that was once reserved only for Jesus and denied to Moses will now be granted to all who are pure in heart. To behold Christ and His glory will be a glorious sight indeed.",
+            "wordCount": 96,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 2.010158272835185,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                32.45,
+                30.54,
+                37.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

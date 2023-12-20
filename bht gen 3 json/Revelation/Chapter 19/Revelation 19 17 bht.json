@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:49:40",
+    "verseRef": "Revelation 19:17",
+    "bestBHT": {
+        "bht": "In the blazing radiance of the sun, conspicuously visible to all, a heavenly being declares with a mighty voice to the birds of the sky to gather together for the great banquet of God. This angel's position in the sun serves as a vibrant proclamation to the entire world. The invitation to the feast encompasses the notion of a sacrificial feast spread on God's table, where the vultures of the sky would partake. Meanwhile, the enemies of the Lord are summoned to provide a feast for all fierce and hateful birds.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 1.9921544173592864,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+        "commentatorTierSimilarities": [
+            29.0,
+            37.77,
+            33.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I saw an (literally, one) angel standing in the sun...and he cried with a great voice, saying to all the birds which fly in mid-heaven, Come, be gathered together to the great banquet of God.\" ",
+            "as the place of brightness and glory becoming the herald of so great a victory.",
+            "the central station in mid-heaven for those to whom the call was to be made."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "In the sun\u2014so as to be conspicuous in sight of the whole world.\" ",
+            "To all the fowls\u2014",
+            "Of the great God\u2014A, B, Vulgate, Syriac, Coptic, and ANDREAS read, 'the great supper (that is, banquet) of God.'"
+        ],
+        "Albert Barnes": [
+            "A heavenly being stands in the blaze of the brightest of the orbs that God permits us here to see - yet not consumed, and himself so bright that he can be distinctly seen amidst the dazzling splendors of that luminary.",
+            "And he cried with a loud voice - So that all the fowls of heaven could hear.",
+            "Come and gather yourselves together - All this imagery is taken from the idea that there would be a great slaughter, and that the bodies of the dead would be left unburied to the birds of prey."
+        ],
+        "Marvin Vincent": [
+            "An angel [\u03b5\u03bd\u03b1 \u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03bd] . Lit., 'one angel.'",
+            "Gather yourselves together [\u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c3\u03b8\u03b5] . The best texts read sunacqhte be gathered together, as Rev.",
+            "The supper of the great God [\u03c4\u03bf \u03b4\u03b5\u03b9\u03c0\u03bd\u03bf\u03bd \u03c4\u03bf\u03c5 \u03bc\u03b5\u03b3\u03b1\u03bb\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5] . Read to mega tou for tou megalou, and render the great supper of God."
+        ],
+        "Philip Schaff": [
+            "But another supper has to be eaten: it is ready, and the invitation to it is issued.",
+            "They cannot possibly be the enemies of the Lord, the armies of antichrist, for Revelation 19:18 shows us that these constitute the materials of the banquet, the food that is eaten.",
+            "To this latter the people of the Lord come in peace and joy, and are feasted with the food which has been prepared for them by the Bridegroom of the Church. To the former the enemies of the Lord are summoned, not to feast but to afford a feast to all fierce and hateful birds."
+        ],
+        "Archibald T. Robertson": [
+            "Where all the birds of prey would behold him\" (Beckwith).",
+            "A sacrificial feast spread on God's table for all the vultures of the sky\" (Swete).",
+            "In the Apocalypse priority in the order of sequence does not always imply priority in time\" (Swete)."
+        ],
+        "John Gill": [
+            "\u2026the conspicuousness of Gospel preachers; for, as the church now will be established upon the top of the mountains, so her teachers shall not be removed into corners any more, but her eyes shall behold her teachers...",
+            "...the clear sight they shall have of the doctrines and mysteries of the Gospel, who shall now see eye to eye...",
+            "...the further breakings forth of the glory of the latter day, and the ensuing victory of Christ over all his enemies..."
+        ],
+        "John Wesley": [
+            "Gather yourselves together to the great supper of God \u2014 As to a great feast, which the vengeance of God will soon provide.\" ",
+            "A strongly figurative expression, (taken from Ezekiel 39:17,) denoting the vastness of the ensuing slaughter."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And in the midst of the brilliant sun, a heavenly being stands, visible to all, proclaiming with a resounding voice to the birds in the sky to gather together for the great banquet of God. This angel's position in the sun is significant, as it serves as a signal for the entire world to behold. This grand calling is a symbolic representation of the feast that awaits, likened to a sacrificial feast spread on God's table for the vultures of the sky to partake in. The invitation extends not to the enemies of the Lord, but to those who belong to Him, to partake in the abundant provisions prepared for them by their Bridegroom, while the defeated enemies are summoned to provide the feast for all the fierce and hateful birds.",
+            "wordCount": 133,
+            "quoteTokenProportion": 35.06,
+            "qualityScore": 1.9850096937878545,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.34,
+            "commentatorTierSimilarities": [
+                27.77,
+                39.47,
+                32.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the blazing radiance of the sun, conspicuously visible to all, a heavenly being declares with a mighty voice to the birds of the sky to gather together for the great banquet of God. This angel's position in the sun serves as a vibrant proclamation to the entire world. The invitation to the feast encompasses the notion of a sacrificial feast spread on God's table, where the vultures of the sky would partake. Meanwhile, the enemies of the Lord are summoned to provide a feast for all fierce and hateful birds.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.9921544173592864,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                29.0,
+                37.77,
+                33.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the midst of the luminous sun, a celestial being stands, resplendent and clearly seen. Crying out with a strong voice, the call is made to all the birds that soar high in the heavens, urging them to assemble for the grand banquet of God. The angel's prominence in the sun signifies its conspicuousness for the entire world to witness. This divine invitation, likened to a great supper prepared by God, is not extended to the enemies of the Lord, but rather to those who belong to Him. They are welcomed to partake in the abundance and joy of the feast, prepared by the Bridegroom.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.81306516429854,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.63,
+            "commentatorTierSimilarities": [
+                28.28,
+                37.94,
+                33.78
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Amidst the brilliance of the sun, a radiant angel stands, proclaiming with a tremendous voice to the birds of the sky to gather for God's great banquet. The angel's position in the sun makes it strikingly visible to the entire world. This symbolic feast, compared to a sacrificial meal for the vultures, is an invitation for God's people to partake in the provisions prepared for them by their Bridegroom. Meanwhile, the enemies of the Lord are summoned to present a feast to the fierce and hateful birds.",
+            "wordCount": 90,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.9369578497177138,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.75,
+            "commentatorTierSimilarities": [
+                28.18,
+                39.93,
+                31.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A radiant angel stands in the brilliant sun, audaciously proclaiming to the birds in flight, beckoning them to assemble for God's magnificent banquet. Positioned in the sun, the angel's proclamation resonates throughout the entire world. This vivid imagery of a great feast, compared to a sacrificial banquet for the vultures, extends an invitation to God's faithful people. They are called to partake in the bountiful provisions prepared by the Bridegroom. On the contrary, the enemies of the Lord are summoned to provide a feast for the fierce and hateful birds.",
+            "wordCount": 93,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 1.8761037972038317,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.72,
+            "commentatorTierSimilarities": [
+                28.42,
+                37.88,
+                33.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

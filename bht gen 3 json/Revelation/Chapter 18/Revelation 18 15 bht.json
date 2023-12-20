@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 21:48:35",
+    "verseRef": "Revelation 18:15",
+    "bestBHT": {
+        "bht": "The merchants, who derived riches from the city, shall stand afar off in fear, mourning and wailing for her destruction. They derived their wealth from her, struck with terror and refuse to approach her. These merchants fear that they will share in her punishment, conscious of their partnership in her crimes. Outwardly, they deny their allegiance to her, embracing the reformed religion, but inwardly, they weep and lament the loss of their goods and the downfall of Rome.",
+        "wordCount": 78,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.4257909433027265,
+        "qualityScoreNormalizedComparedToV2BHTs": 38.75,
+        "commentatorTierSimilarities": [
+            12.45,
+            36.4,
+            51.15
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "15. of these things\u2014of the",
+            "\tthings mentioned, Revelation 18:12;",
+            "\tRevelation 18:13. ",
+            "\t",
+            "which\u2014\"who.",
+            "\t",
+            "made rich by\u2014Greek,",
+            "\t\"derived riches from her.\" ",
+            "\t",
+            "stand afar off for the",
+            "\tfear\u2014(Compare Revelation 18:10).",
+            "\t",
+            "wailing\u2014Greek,",
+            "\t\"mourning."
+        ],
+        "Albert Barnes": [
+            "The merchants of these things... Who trafficked in these things...\" ",
+            "Which were made rich by her... By traffic with her.",
+            "Shall stand afar off... Struck with terror by her torment, so that they did not dare to approach her."
+        ],
+        "Archibald T. Robertson": [
+            "Those who grew rich from her.",
+            "Shall stand afar off.",
+            "The two participles \u03ba\u03bb\u03b1\u03b9\u03bf\u03bd\u03c4\u03b5\u03c2 \u03ba\u03b1 \u03c0\u03b5\u03bd\u03b8\u03bf\u03c5\u03bd\u03c4\u03b5\u03c2."
+        ],
+        "John Gill": [
+            "The merchants...which were made rich by her...shall stand afar off for fear of her torment.\" ",
+            "Being conscious to themselves of their being partners in her crimes, and so might justly fear they should share in her punishment.",
+            "They will outwardly deny they are now of her religion, and will externally embrace the reformed religion; though they will be inwardly weeping and wailing for the destruction of Rome, and the loss of their merchandise and goodly things."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The merchants, who grew rich from the city, shall stand afar off in fear, mourning and wailing for her destruction. They derived their wealth from her, but now they are struck with terror and refuse to approach her. These merchants, conscious of their partnership in her crimes, fear that they will share in her punishment. Outwardly, they will deny their allegiance to her, embracing the reformed religion, but inwardly, they weep and lament the loss of their goods and the downfall of Rome.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 1.4171237912681198,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.46,
+            "commentatorTierSimilarities": [
+                12.57,
+                36.12,
+                51.31
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who made riches by trafficking with the city will stand afar off in fear, mourning and wailing for its destruction. They were partners in her crimes and now fear sharing in her punishment. Outwardly, they deny their allegiance, embracing the reformed religion, but inwardly, they weep and lament the loss of their goods and the downfall of Rome.",
+            "wordCount": 59,
+            "quoteTokenProportion": 42.22,
+            "qualityScore": 1.2360867745740232,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.44,
+            "commentatorTierSimilarities": [
+                10.91,
+                29.79,
+                59.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The merchants, who derived riches from her, shall stand afar off, wailing and mourning in fear of her torment. Conscious of their partnership in her crimes, they fear sharing in her punishment. Outwardly, they will deny their allegiance and embrace the reformed religion, yet inwardly, they weep and lament the destruction of Rome and the loss of their goods.",
+            "wordCount": 59,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.3598365343353735,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                12.55,
+                29.45,
+                58.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who were made rich by the city will stand afar off, wailing and mourning in fear of her torment. Conscious of their partnership in her crimes, they fear sharing in her punishment. Outwardly, they deny their allegiance, embracing the reformed religion, yet inwardly, they weep and lament the destruction of Rome and the loss of their merchandise and possessions.",
+            "wordCount": 60,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.3209813746588284,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.27,
+            "commentatorTierSimilarities": [
+                11.46,
+                29.37,
+                59.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The merchants, who derived riches from the city, shall stand afar off in fear, mourning and wailing for her destruction. They derived their wealth from her, struck with terror and refuse to approach her. These merchants fear that they will share in her punishment, conscious of their partnership in her crimes. Outwardly, they deny their allegiance to her, embracing the reformed religion, but inwardly, they weep and lament the loss of their goods and the downfall of Rome.",
+            "wordCount": 78,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.4257909433027265,
+            "qualityScoreNormalizedComparedToV2BHTs": 38.75,
+            "commentatorTierSimilarities": [
+                12.45,
+                36.4,
+                51.15
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

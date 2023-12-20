@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 21:49:28",
+    "verseRef": "Revelation 17:17",
+    "bestBHT": {
+        "bht": "God has put it into their hearts to do His will and be of one mind, until His words are fulfilled. These kings are instruments in God's hands, carrying out His purposes. They act harmoniously in supporting the power of the beast, but ultimately, God has set a limit to its existence. Their actions, even in persecuting the saints, serve to accomplish God's plan. When His purposes are accomplished, these kingdoms will withdraw their support, leading to the downfall of the beast.",
+        "wordCount": 84,
+        "quoteTokenProportion": 43.86,
+        "qualityScore": 2.0215687789449297,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+        "commentatorTierSimilarities": [
+            17.95,
+            42.03,
+            40.02
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For God put it into their hearts to do His mind\" ",
+            "to make one mind",
+            "until the words of God shall be fulfilled"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "hath put\u2014the prophetical",
+            "\tpast tense for the future.",
+            "\t",
+            "Greek,",
+            "\t\"do,\" or \"accomplish.\" The Greek,",
+            "\t\"poiesai,\" is distinct from that which is",
+            "\ttranslated, \"fulfilled,\" Greek, \"telesthesontai,",
+            "\tbelow.",
+            "\t",
+            "the words of God\u2014foretelling",
+            "\tthe rise and downfall of the beast; Greek, \"hoi",
+            "\tlogoi,\" in A, B, and ANDREAS.",
+            "\tEnglish Version reading is Greek, \"ta rhemata,",
+            "\twhich is not well supported. No mere articulate utterances, but the",
+            "\tefficient words of Him who is the Word: Greek, \"logos."
+        ],
+        "Albert Barnes": [
+            "Kings and princes are under the control of God, and, whatever may be their own designs, they are in fact employed to accomplish his purposes, and are instruments in his hands.",
+            "They act harmoniously in their support of this power, and so they will in its final destruction.",
+            "God has fixed a limit to the existence of this power. When his purposes are accomplished, these kingdoms will withdraw their support, and this mighty power will fall to rise no more."
+        ],
+        "Marvin Vincent": [
+            "To fulfill His will, to do his mind.",
+            "To agree, to make one mind.",
+            "The prophetic words."
+        ],
+        "Philip Schaff": [
+            "For God gave it into their hearts to do his mind, and to be of one mind, and to give their kingdom unto the beast.",
+            "Whatever, therefore, they had done in persecuting the saints had been accomplishing Goo\u2019s purpose.",
+            "Until the words of God should be accomplished; until all His purposes should be fulfilled."
+        ],
+        "Archibald T. Robertson": [
+            "They are of one mind because God put them up to it, clear statement of God's over-ruling hand among the nations.",
+            "Until the words of God should be accomplished.",
+            "They will be fulfilled."
+        ],
+        "John Gill": [
+            "For God hath put in their hearts to fulfil his will... it is his will of command, what he will order to be done.\" ",
+            "He who has the hearts of all men, and even of kings in his hands, and can turn them as rivers of water, will move them hereunto.\" ",
+            "That God should put it into the hearts of these kings to fulfil his will, in destroying the whore of Rome, is easily received."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "God has put it into the hearts of these kings to accomplish His will and be of one mind in fulfilling His purposes. The words of God foretelling the rise and downfall of the beast will be fulfilled, for God is the one who has the power to make this happen. These kings, though acting according to their own designs, are in reality instruments in God's hands, carrying out His plans. They may have persecuted the saints, but all their actions have been accomplishing God's purpose. There will come a time when God's purposes are fulfilled, and these kingdoms will withdraw their support, causing the mighty power of the beast to fall and rise no more.",
+            "wordCount": 119,
+            "quoteTokenProportion": 48.61,
+            "qualityScore": 1.9665270524948517,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.73,
+            "commentatorTierSimilarities": [
+                15.94,
+                41.7,
+                42.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "God has put it into the hearts of these kings to fulfill His will and be of one mind in accomplishing His purposes. The prophetic words of God, foretelling the rise and downfall of the beast, will be accomplished as God has ordained. These kings, though acting according to their own designs, are in fact instruments in the hands of God, carrying out His plans. Their actions, including persecuting the saints, are all a part of God's greater purpose. In due time, when all of God's purposes are accomplished, these kingdoms will withdraw their support and the power of the beast will come to an end.",
+            "wordCount": 108,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9716732932098586,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.9,
+            "commentatorTierSimilarities": [
+                16.57,
+                41.99,
+                41.45
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "God has put it into their hearts to do His will and be of one mind, until His words are fulfilled. These kings are instruments in God's hands, carrying out His purposes. They act harmoniously in supporting the power of the beast, but ultimately, God has set a limit to its existence. Their actions, even in persecuting the saints, serve to accomplish God's plan. When His purposes are accomplished, these kingdoms will withdraw their support, leading to the downfall of the beast.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.86,
+            "qualityScore": 2.0215687789449297,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.56,
+            "commentatorTierSimilarities": [
+                17.95,
+                42.03,
+                40.02
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "God has put it into their hearts to fulfill His will and make one mind, until the words of God are fulfilled. These prophetic words, foretelling the rise and downfall of the beast, will be accomplished as God has ordained. Kings and princes, though acting according to their own designs, are instruments in God's hands, carrying out His plans. Their actions, including persecuting the saints, are all a part of fulfilling God's purposes. When all of God's purposes are accomplished, these kingdoms will withdraw their support, leading to the final destruction of the beast.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9825956116406083,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                18.18,
+                41.04,
+                40.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "God has put it into their hearts to fulfill His will and be of one mind in bringing about the words of God. The prophetic words that foretell the rise and downfall of the beast will be accomplished as God has ordained. These kings, acting according to their own designs, are instruments in God's hands, carrying out His plans. Their actions, including the persecution of the saints, serve to fulfill God's purposes. When all of God's purposes are fulfilled, these kingdoms will withdraw their support, leading to the fulfillment of His will.",
+            "wordCount": 95,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.9658554450655612,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                19.81,
+                38.73,
+                41.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

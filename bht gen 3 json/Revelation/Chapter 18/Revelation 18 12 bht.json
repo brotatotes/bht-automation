@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:09",
+    "verseRef": "Revelation 18:12",
+    "bestBHT": {
+        "bht": "In this passage, a variety of precious and costly materials are mentioned, including gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These items were used to create extravagant doors, tables, and other ornate goods. Silk, highly valued by the Romans, was considered a luxurious article. Fragrant woods, like cyrene, were used for incense, while purple fabric was associated with wealth and royalty. These descriptions emphasize the extravagance and opulence of the city being referred to.",
+        "wordCount": 79,
+        "quoteTokenProportion": 28.12,
+        "qualityScore": 1.7678335472144666,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+        "commentatorTierSimilarities": [
+            35.86,
+            37.07,
+            27.07
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "A cargo of gold, and of silver, and of precious Stone, and of pearls...\" ",
+            "It was used for costly doors, with fittings of ivory, and for tables. It had a sweet smell.\" ",
+            "Every article of ivory, and every article of most costly wood, and of brass, and of iron, and of marble..."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "stones . . . pearls\u2014Greek, 'stone . . . pearl.'",
+            "The manufacture for which Egypt was famed. Contrast 'the fine linen' put on Israel and on the New Testament Church, the Bride, by God.",
+            "A sweet-smelling tree of Cyrene in Lybia, used for incense."
+        ],
+        "Albert Barnes": [
+            "Silk, a pound of which was esteemed not inferior in value to a pound of gold.",
+            "Ivory, or the tusk of the elephant, has always been among the precious articles of commerce.",
+            "Marble, for building, for statuary, etc., would likewise be [a valuable article of commerce]."
+        ],
+        "Marvin Vincent": [
+            "Silk was a costly article of luxury among the Romans, so that Tacitus relates that in the reign of Tiberius a law was passed against 'men disgracing themselves with silken garments.'\" ",
+            "The navy of Tarshish brought ivory to Solomon with apes and peacocks. His great throne was made of it.\" ",
+            "In the early ages of Greece ivory was frequently employed for ornamental purposes, for the trappings of horses, the handles of kegs, and the bosses of shields."
+        ],
+        "Archibald T. Robertson": [
+            "An odoriferous North African citrus tree, prized for the colouring of the wood for dining-tables, like a peacock's tail or the stripes of a tiger or panther.\" ",
+            "Silk was a costly article among the Romans, and for women as a rule.",
+            "Fabric colored with purple dye, as in Mark 15:17; Mark 15:20; Luke 16:19."
+        ],
+        "John Gill": [
+            "Things for treasure and ornament, and with which the great whore is said to be decked.",
+            "and may have also a regard to what their images, chalices, crowns, mitres, c. are made of, and what some of them are adorned with.",
+            "the grace of God is meant, which is more precious than gold that perisheth."
+        ],
+        "John Wesley": [
+            "Almost all these are still in use at Rome, both in their idolatrous service, and in common life.",
+            "The sort of it mentioned in the original is exceeding costly.",
+            "Ebony, in particular, which is often mentioned with ivory: the one excelling in whiteness, the other in blackness; and both in uncommon smoothness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 18:12, various valuable and luxurious items are described, such as gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These items were used for exquisite doors, tables, and other ornamental purposes. Silk, known for its costly and luxurious nature, was highly prized among the Romans. Additionally, fragrant woods, like cyrene, were used for incense, while purple fabric was associated with royalty. These lavish materials highlight the opulence of the city described in Revelation and serve as a stark contrast to the purity and simplicity associated with God's people.",
+            "wordCount": 93,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.739645370216485,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                38.26,
+                34.0,
+                27.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, a variety of precious and costly materials are mentioned, including gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These items were used to create extravagant doors, tables, and other ornate goods. Silk, highly valued by the Romans, was considered a luxurious article. Fragrant woods, like cyrene, were used for incense, while purple fabric was associated with wealth and royalty. These descriptions emphasize the extravagance and opulence of the city being referred to.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.7678335472144666,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.12,
+            "commentatorTierSimilarities": [
+                35.86,
+                37.07,
+                27.07
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, an array of precious commodities are listed, including gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These items were utilized in the creation of elaborate doors, tables, and various ornamental pieces. Silk, treasured by the Romans, denoted luxury and opulence. Citrus-scented woods such as cyrene contributed to incense production. Purple fabrics were associated with nobility and featured prominently in extravagant Roman attire. These detailed descriptions emphasize the extravagance and wealth prevalent in the context of this verse.",
+            "wordCount": 85,
+            "quoteTokenProportion": 22.06,
+            "qualityScore": 1.624239134015797,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.35,
+            "commentatorTierSimilarities": [
+                38.09,
+                34.26,
+                27.65
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "An assortment of valuable treasures is mentioned in this passage, including gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These materials were used to create lavish pieces such as doors and tables. Silk, revered by the Romans, represented luxury and status. Fragrant woods like cyrene were utilized for incense, while purple fabric was associated with wealth and indulgence. These descriptions highlight the opulence and worldly wealth depicted in this text.",
+            "wordCount": 74,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.682741146545908,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.29,
+            "commentatorTierSimilarities": [
+                37.3,
+                34.6,
+                28.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this verse, various precious elements are mentioned: gold, silver, precious stones, pearls, ivory, costly wood, brass, iron, and marble. These materials were used to create exquisite items like doors and tables. Silk, highly valued and deemed luxurious by the Romans, represented extravagance. Fragrant woods like cyrene were used for incense, while purple fabric denoted richness and royalty. These details illustrate the extravagance and opulence surrounding the context of this verse.",
+            "wordCount": 71,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.6966982655099732,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.76,
+            "commentatorTierSimilarities": [
+                37.6,
+                33.88,
+                28.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

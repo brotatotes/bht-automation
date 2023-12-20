@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:42:59",
+    "verseRef": "Revelation 4:8",
+    "bestBHT": {
+        "bht": "The four living creatures, full of eyes and wings, depict the redeemed election-Church, serving as ministering king-priests to God. Their countless eyes signify their constant alertness to perceive divine glory. They engage in the ceaseless activity of nature under God's sovereign hand, offering a perpetual tribute of praise. As they watch and worship, they acknowledge God as the Almighty, recognizing their own sinfulness and the holiness needed in their ministry. Their unceasing devotion brings glory to the Creator for His ongoing work and revelation.",
+        "wordCount": 87,
+        "quoteTokenProportion": 24.19,
+        "qualityScore": 1.9288367242678532,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+        "commentatorTierSimilarities": [
+            33.19,
+            33.23,
+            33.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "All round and within (their wings) they are full of eyes.",
+            "The tris-hagion of the Greek liturgies.",
+            "The redeemed election-Church in its relation of ministering king-priests to God, and ministers of blessing to the redeemed earth, and the nations on it, and the animal creation."
+        ],
+        "Albert Barnes": [
+            "An emblem common to them all, denoting that, in reference to each and all the things here symbolized, there was one common characteristic - that in heaven there is the utmost promptness in executing the divine commands.",
+            "The obvious design of this is to mark the universal vigilance of divine providence.",
+            "The meaning, as above explained, is, that the works and ways of God are constantly bringing praise to him."
+        ],
+        "Marvin Vincent": [
+            "Dean Plumptre remarks that the six wings seem the only survival of the higher than angelic state from which Lucifer had fallen.",
+            "The interpretations of the symbols of the four living creatures are, of course, numerous and varied.",
+            "Full of eyes, they are ever on the alert to perceive the manifestations of divine glory."
+        ],
+        "Philip Schaff": [
+            "He to whom it is sung is first addressed as 'Lord' or Jehovah, and is then celebrated as 'God;' as 'the Almighty;'' and as 'He which was, and which is, and which is to come.'",
+            "The work of God as the Creator, Preserver, and Governor of all knows no intermission.",
+            "Therefore do the living creatures, 'full of eyes round about and within,' always waiting upon Him, always watching Him, never rest from adoring, as He never rests from working."
+        ],
+        "Archibald T. Robertson": [
+            "The task of the Cherubim together with the Seraphim and Ophannim is to sing the praises of God.",
+            "This ceaseless activity of nature under the hand of God is a ceaseless tribute of praise.",
+            "The Almighty."
+        ],
+        "John Gill": [
+            "With two of which they might cover their faces as they did, testifying thereby their reverence of God, when in his presence; and with the other two cover their feet, signifying their sense of their sinfulness, weakness, and imperfection.\" ",
+            "They have eyes within, to look into and consult their own experience; for besides the word of God, which lies before them, they have a testimony in themselves of the truth of the doctrines of the Gospel.",
+            "Living under a continual sense of the holiness of God, Father, Son, and Spirit; and how necessary holiness is in themselves, who bear the vessels of the Lord, and in the churches and house of God."
+        ],
+        "John Wesley": [
+            "Round about and within they are full of eyes... To see everything which is farther off from the throne than they are themselves.",
+            "And they rest not \u2014 O happy unrest! Day and night - As we speak on earth. But there is no night in heaven.",
+            "This holiness is the sum of all praise, which is given to the almighty Creator, for all that he does and reveals concerning himself, till the new song brings with it new matter of glory."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The four living creatures, with their wings full of eyes, symbolize the redeemed election-Church who serve as king-priests to God and ministers of blessing to the earth and its inhabitants. They constantly watch for divine glory and sing the praises of God. Their vigilance reflects the promptness of divine providence and the ceaseless activity of nature under God's hand. They acknowledge God as the Almighty, who is constantly at work as the Creator, Preserver, and Governor of all. With unwavering devotion, they adore Him day and night, recognizing their own sinfulness and the holiness required in their service to Him and His house. In their holiness, they give praise and glory to the Almighty for all that He does and reveals.",
+            "wordCount": 124,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.913671366870823,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.97,
+            "commentatorTierSimilarities": [
+                30.53,
+                34.26,
+                35.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The four living creatures, adorned with wings full of eyes, represent the redeemed election-Church. They function as ministering king-priests to God and bearers of blessings to the earth and its inhabitants. Constantly vigilant, they perceive divine glory and offer unceasing praise. Reflecting the promptness of divine providence, they acknowledge God as the Almighty, who tirelessly governs and sustains all creation. Their tireless adoration acknowledges their own sinfulness and the holiness required in their service. Through their constant holiness, they give honor and glory to the Almighty for His continual work and self-revelation.",
+            "wordCount": 95,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.8337192229651211,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.31,
+            "commentatorTierSimilarities": [
+                33.5,
+                32.92,
+                33.58
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The four living creatures, full of eyes within and around their wings, symbolize the redeemed election-Church and their role as ministering king-priests to God. Constantly watchful, their multitude of eyes express their unwavering vigilance in perceiving the divine glory. Their ceaseless activity mirrors God's work as the Creator, Preserver, and Governor, with nature itself offering a continuous tribute of praise. Through their diligent service and perpetual adoration, they honor the Almighty, acknowledging their own sinfulness and the holiness required in their calling.",
+            "wordCount": 85,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.8762608023016207,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.73,
+            "commentatorTierSimilarities": [
+                33.17,
+                32.68,
+                34.15
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The four living creatures, full of eyes and wings, depict the redeemed election-Church, serving as ministering king-priests to God. Their countless eyes signify their constant alertness to perceive divine glory. They engage in the ceaseless activity of nature under God's sovereign hand, offering a perpetual tribute of praise. As they watch and worship, they acknowledge God as the Almighty, recognizing their own sinfulness and the holiness needed in their ministry. Their unceasing devotion brings glory to the Creator for His ongoing work and revelation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 24.19,
+            "qualityScore": 1.9288367242678532,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.48,
+            "commentatorTierSimilarities": [
+                33.19,
+                33.23,
+                33.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The four living creatures, with their wings full of eyes, represent the redeemed Church, fulfilling their role as ministering king-priests to God. Their continuous watchfulness enables them to perceive the manifestations of divine glory and offer an unceasing tribute of praise. Their ceaseless activity echoes nature under God's hand, while their devotion reflects the holiness demanded in their service. They acknowledge God as the Almighty, recognizing their own sinfulness and the importance of constant holiness. Through their constant adoration, they glorify the Creator for His works and self-revelation.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.8998241516226482,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.51,
+            "commentatorTierSimilarities": [
+                31.94,
+                32.6,
+                35.46
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:46:08",
+    "verseRef": "Revelation 11:17",
+    "bestBHT": {
+        "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, assuming power and beginning to reign as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. Now, as the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+        "wordCount": 89,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.9115647160559681,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+        "commentatorTierSimilarities": [
+            25.15,
+            32.27,
+            42.58
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "We give thanks to Thee, O Lord God the Almighty.\" ",
+            "This ascription of thanks is the return for the answer to the prayers of the saints furnished by the judgments of the trumpets.\" ",
+            "Thou hast taken Thy great might and hast reigned."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Thanks for the answer to our prayers, in destroying them which destroy the earth.\" ",
+            "The consummation having actually come, they do not address Him as they did when it was still future, 'Thou that art to come.'",
+            "Christ takes to Him the kingdom as His own of right."
+        ],
+        "Albert Barnes": [
+            "We, as the representatives of the church, and as identified in our feelings with it, acknowledge thy goodness in tires delivering the church from all its troubles, and having conducted it through the times of fiery persecution, thus establishing it upon the earth.",
+            "They, as representatives of the church, would of course rejoice in its prosperity and final triumph.",
+            "The particular idea suggested here seems to be, that he had now shown this by having caused his church to triumph; that is, he had shown that he was the same God who had early promised that it should ultimately triumph; he had carried forward his glorious purposes without modifying or abandoning them amidst all the changes that had occurred in the world."
+        ],
+        "Marvin Vincent": [
+            "O Lord God, etc. See on ch. Revelation 4:8. ",
+            "And art to come. Omit. ",
+            "Hast taken to Thee. Omit to thee."
+        ],
+        "Philip Schaff": [
+            "The name \u2018Lord\u2019 is then followed by three appellations as at chap. Revelation 4:8, first. God; secondly, the Almighty; thirdly, which art and which wast, the third clause usually belonging to this last appellative, \u2018which is to come,\u2019 being left out because no longer needed: the Lord is come.\" ",
+            "This part of the song of praise deals with the general statement that the Lord has taken to Him His great power.\" ",
+            "That power had indeed been always His, but for a time He had permitted His enemies to contend against it. He is to permit this no longer."
+        ],
+        "Archibald T. Robertson": [
+            "Thou hast assumed thy power.",
+            "Didst begin to reign.",
+            "See this combination of tenses (perfect and aorist) without confusion."
+        ],
+        "John Gill": [
+            "he is Lord of all, and truly and properly God, and the Almighty, as his works of creation, preservation, redemption, raising himself from the dead, c. declare and each of these titles exceedingly well suit him",
+            "he always was the mighty God, and, as such, help for his people was laid upon him, he being mighty to save, and able to bear the government of them, laid on his shoulders",
+            "he shall be King over all the earth; his power has been seen in ages past, but now the 'greatness' of his power will be made manifest"
+        ],
+        "John Wesley": [
+            "The Almighty \u2014 He who hath all things in his power as the only Governor of them.",
+            "We thank thee that thou hast taken thy great power, it is all one as, 'We thank thee that thou art come.'",
+            "God has never ceased to use his power; but he has suffered his enemies to oppose it, which he will now suffer no more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, assuming power and beginning to reign as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. You have carried forward your glorious purposes amidst all the changes in the world. Now, as Lord of all, truly God, and the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+            "wordCount": 109,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.846305616818431,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.73,
+            "commentatorTierSimilarities": [
+                25.98,
+                31.79,
+                42.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. You have carried forward your glorious purposes amidst all the changes in the world. Now, as the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+            "wordCount": 97,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.7765241074822056,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.41,
+            "commentatorTierSimilarities": [
+                28.18,
+                30.76,
+                41.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. Now, as the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+            "wordCount": 83,
+            "quoteTokenProportion": 43.33,
+            "qualityScore": 1.8744063435553553,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.67,
+            "commentatorTierSimilarities": [
+                27.47,
+                30.93,
+                41.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, assuming power and beginning to reign as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. Now, as the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9115647160559681,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                25.15,
+                32.27,
+                42.58
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "We give thanks to Thee, O Lord God the Almighty, for answering our prayers and delivering us from those who seek to destroy the earth. Thou hast taken Thy great might and hast reigned, assuming power and beginning to reign as the rightful King. We acknowledge and rejoice in your goodness, for you have shown that you are the same God who promised the ultimate triumph of your church. Now, as the Almighty, you have manifested your power and will permit your enemies to contend against it no longer.",
+            "wordCount": 89,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.9115647160559681,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.9,
+            "commentatorTierSimilarities": [
+                25.15,
+                32.27,
+                42.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

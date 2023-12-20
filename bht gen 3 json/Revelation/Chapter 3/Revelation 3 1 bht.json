@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:02",
+    "verseRef": "Revelation 3:1",
+    "bestBHT": {
+        "bht": "Sardis, esteemed for its spiritual vitality, was shocked to receive a verdict of spiritual death from the One who discerns beyond appearances. Despite their reputation, they were found lacking in works. This apparent contradiction between life and death underscores the need for sincere introspection and spiritual growth. The Church in Sardis represents the state of the church during the Reformation period, prompting us to prioritize authentic spirituality over outward show. Let us seek the strengthening power of the Holy Spirit, worship in truth, and not be deceived by mere names or appearances.",
+        "wordCount": 92,
+        "quoteTokenProportion": 37.14,
+        "qualityScore": 1.5544012480944067,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+        "commentatorTierSimilarities": [
+            25.44,
+            37.13,
+            37.43
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "He who hath all the fulness of the Spirit... implies His infinite power by the Spirit to convict of sin and of a hollow profession.\" ",
+            "The human ministry is the fruit of Christ's sending down the gifts of the Spirit.\" ",
+            "Sardis was famed among the churches for spiritual vitality; yet the Heart-searcher, who seeth not as man seeth, pronounces her dead; how great searchings of heart should her case create among even the best of us!"
+        ],
+        "Albert Barnes": [
+            "I know thy works - That thou hast a name that thou livest - Thou dost profess attachment to me and my cause. The word 'life' is a word that is commonly employed, in the New Testament, to denote religion, in contradistinction from the natural state of man, which is described as death in sin.",
+            "And art dead - That is, spiritually. This is equivalent to saying that their profession was merely in name; and yet this must be understood comparatively, for there were some even in Sardis who truly lived unto God.",
+            "The Saviour does not, as in the case of the churches of Ephesus and Thyatira, specify any prevailing form of error or false doctrine; but it would seem that here it was a simple waist of religion."
+        ],
+        "Marvin Vincent": [
+            "Become what thou art not.",
+            "Strengthen.",
+            "I have found no works of thine."
+        ],
+        "Philip Schaff": [
+            "He that hath the seven Spirits of God and the seven stars...The fact that He has also the \u2018seven Spirits of God,\u2019 or in other words, the Holy Spirit in His fulness, is on the one hand a proof of the doctrine of the Western Church on the relation of the Holy Spirit to our Lord.",
+            "They that worship Him must worship Him in spirit and truth. This last is precisely what the church at Sardis failed to do.",
+            "The outward is not the inward, and that power and splendour of position have no value in the sight of Heaven compared with spirituality of heart and life."
+        ],
+        "Archibald T. Robertson": [
+            "The paradox of death under the name of life.",
+            "A name in contrast with reality.",
+            "Not complete death, but rapidly dying."
+        ],
+        "John Gill": [
+            "This church represents the state of the church from the time of the Reformation by Luther and others, until a more glorious state of the church appears, or until the spiritual reign of Christ in the Philadelphian period; under the Sardian church state we now are.",
+            "This stone, naturalists say, drives away fear, gives boldness, cheerfulness, and sharpness of wit, and frees from witchcrafts and sorceries; which may be expressive of the boldness and courage of the first reformers; of the cheerfulness, joy, and pleasure, which appeared in their countenances, and which they spread in others by preaching the doctrines of the Gospel.",
+            "the reformed churches have had a name for spiritual living, by faith on Christ's righteousness only for justification, that article being the great article of the Reformation: there was in them an appearance of liveliness, by their zeal for Gospel doctrine and worship, and a form of living according to godliness."
+        ],
+        "John Wesley": [
+            "The Holy Spirit, from whom alone all spiritual life and strength proceed.",
+            "The seven stars \u2014 which are subordinate to him.",
+            "That Spirit seeth through all things, and every empty appearance vanishes before him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The church in Sardis was known for its spiritual vitality and reputation, but despite this external appearance, it was actually spiritually dead. This paradox of death under the name of life is highlighted by the fact that Jesus found no works in their name. The commentary emphasizes the importance of becoming what we are not and being strengthened by the Holy Spirit. It warns against the danger of a mere outward appearance without true spirituality and the need to worship God in spirit and truth. The Sardis church represents the state of the church during the Reformation period until the Philadelphian period, and it serves as a reminder that the true power and value lies in spiritual integrity rather than external show.",
+            "wordCount": 122,
+            "quoteTokenProportion": 41.25,
+            "qualityScore": 1.7285989765921705,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.82,
+            "commentatorTierSimilarities": [
+                23.54,
+                40.54,
+                35.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sardis, once known for its spiritual vitality, received a harsh message from the Heart-searcher Himself. Despite their reputation, Jesus found no works and declared them dead. This serves as a reminder to us all of the importance of examining our hearts and not relying solely on outward appearances. The church in Sardis represents the state of the church during the Reformation period, highlighting that true power lies in spirituality rather than external show. Let us seek the power and strength of the Holy Spirit, worshiping God in spirit and truth.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.4658015820315642,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.08,
+            "commentatorTierSimilarities": [
+                22.66,
+                39.34,
+                37.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sardis, renowned for its spiritual vitality, received a stern judgment from the Heart-searcher. Although their reputation was alive, they were pronounced dead by the One who sees beyond appearances. This paradox of death under the name of life serves as a solemn warning, urging us to search our hearts and strengthen our faith. Let us not be deceived by a mere form of religion, but strive for true spirituality. The church in Sardis represents the church during the Reformation period, highlighting the importance of genuine inward devotion over external show.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.54,
+            "qualityScore": 1.5032063704973075,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.32,
+            "commentatorTierSimilarities": [
+                27.76,
+                37.9,
+                34.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Sardis, the spiritually vibrant church, faced a startling reality as Jesus, the Heart-searcher, pronounced them dead. It was a paradox of death disguised as life. Their hollow profession was devoid of works and the vital connecting link with the Spirit. This serves as a crucial reminder for us to seek true transformation, to be strengthened in our faith, and to beware of falling into the trap of a mere outward appearance without genuine spiritual vitality. The church of Sardis represents a significant period during the Reformation, underscoring the paramountcy of internal spirituality over external reputation.",
+            "wordCount": 96,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.5516233082845563,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.93,
+            "commentatorTierSimilarities": [
+                29.84,
+                37.9,
+                32.26
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sardis, esteemed for its spiritual vitality, was shocked to receive a verdict of spiritual death from the One who discerns beyond appearances. Despite their reputation, they were found lacking in works. This apparent contradiction between life and death underscores the need for sincere introspection and spiritual growth. The Church in Sardis represents the state of the church during the Reformation period, prompting us to prioritize authentic spirituality over outward show. Let us seek the strengthening power of the Holy Spirit, worship in truth, and not be deceived by mere names or appearances.",
+            "wordCount": 92,
+            "quoteTokenProportion": 37.14,
+            "qualityScore": 1.5544012480944067,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                25.44,
+                37.13,
+                37.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

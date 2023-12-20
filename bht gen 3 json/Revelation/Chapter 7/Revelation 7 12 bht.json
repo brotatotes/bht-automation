@@ -1,0 +1,132 @@
+{
+    "timestamp": "12-19-2023 21:43:58",
+    "verseRef": "Revelation 7:12",
+    "bestBHT": {
+        "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser.",
+        "wordCount": 97,
+        "quoteTokenProportion": 40.58,
+        "qualityScore": 2.1409080983117486,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+        "commentatorTierSimilarities": [
+            23.86,
+            35.9,
+            40.23
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "saying, Amen: the blessing and the glory and the wisdom and the thanksgiving and the honour and the power and the might (observe the sevenfold ascription) be to our God unto the ages of the ages. Amen. 13\u201317.] Explanation of the vision."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "12. Greek, \"The",
+            "\tblessing, the glory, the wisdom, the",
+            "\tthanksgiving, the honor, the power, the might",
+            "\t[the doxology is sevenfold, implying its totality and",
+            "\tcompleteness], unto the ages of the ages."
+        ],
+        "Albert Barnes": [
+            "The word 'Amen' here is a word strongly affirming the truth of what is said, or expressing hearty assent to it.\" ",
+            "The general idea is, that the highest kind of praise is to be ascribed to God; everything excellent in character is to be attributed to him; every blessing which is received is to be traced to him.",
+            "The use of the language shows that God and the Lamb are regarded in heaven as entitled to equal praise."
+        ],
+        "Marvin Vincent": [
+            "Blessing, etc. On the doxologies, see on chapter Revelation 1:6."
+        ],
+        "Archibald T. Robertson": [
+            "Note \u03b1\u03bc\u03b7\u03bd at the beginning and the close of the doxology. Note also separate feminine article with each of the seven attributes given God, as in Revelation 4:11; Revelation 5:12; Revelation 5:13. "
+        ],
+        "John Gill": [
+            "The angels, though they have no part in it themselves, yet highly approve of it as right and just, that men should give the glory of it where it is due.",
+            "Here a seven fold praise is given to God by the angels, as to the Lamb, in Revelation 5:12, and in words much the same they rightly ascribe blessing to God, who is blessed in himself, and is the source of all blessedness to his creatures, angels and men.",
+            "And the praise and ascription of all this, the angels wish to be given him by themselves and others, to all eternity; and as desiring that so it might be, and as believing that so it would be, they add their to it."
+        ],
+        "John Wesley": [
+            "With this word, all the angels confirm the words of the 'great multitude,' but they likewise carry the praise much higher.",
+            "The blessing, and the glory, and the wisdom, and the thanksgiving, and the honour, and the power, and the strength, be unto our God for ever and ever.",
+            "All the angels give sevenfold praise to God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser. As we join in this hymn of praise, let us affirm our belief that this eternal blessing will be given to God by all creation, both angels and men, forever and ever.",
+            "wordCount": 129,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 2.1631972731247764,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.27,
+            "commentatorTierSimilarities": [
+                23.43,
+                35.86,
+                40.71
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.1409080983117486,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                23.86,
+                35.9,
+                40.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.1409080983117486,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                23.86,
+                35.9,
+                40.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.1409080983117486,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                23.86,
+                35.9,
+                40.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Let it be proclaimed with a resounding Amen, for all blessings, glories, wisdom, thanksgivings, honors, powers, and might belong to our God for all eternity. The heavenly beings join in a sevenfold doxology, emphasizing the totality and completeness of their praise. It is a powerful affirmation of the truth and a heartfelt ascription to God, recognizing His supreme worthiness and the source of all excellence. Even the angels, though they have no part in it themselves, highly approve and desire that humans give the glory where it is due, acknowledging God as the blessed and the blesser.",
+            "wordCount": 97,
+            "quoteTokenProportion": 40.58,
+            "qualityScore": 2.1409080983117486,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                23.86,
+                35.9,
+                40.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

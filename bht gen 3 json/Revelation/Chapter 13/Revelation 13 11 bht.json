@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:31",
+    "verseRef": "Revelation 13:11",
+    "bestBHT": {
+        "bht": "As another beast emerges from the earth, it takes on the appearance of a lamb yet possesses the traits of a dragon. This sacerdotal persecuting power, representative of both pagan and Christian priesthood, compels worship of its image and performs wonders through magic and omens. The Romish priesthood, inheriting pagan rituals and professing Christian ideals, resembles a lamb in appearance but exhibits the cunning and arrogance of the dragon. It is a worldly and deceitful force that aligns itself with the political first beast, wielding both might and cunning in its agenda.",
+        "wordCount": 92,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 1.857736961183817,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+        "commentatorTierSimilarities": [
+            30.05,
+            35.58,
+            34.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And saw another wild-beast coming up out of the earth.",
+            "It had two horns like a lamb.",
+            "It is quite."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The sacerdotal persecuting power, pagan and Christian; the pagan priesthood making an image of the emperors which they compelled Christians to worship, and working wonders by magic and omens; the Romish priesthood, the inheritors of pagan rites, images, and superstitions, lamb-like in Christian professions, dragon-like in word and act.",
+            "The second beast's, or false prophet's rise, coincides in time with the healing of the beast's deadly wound and its revival. Its manifold character is marked by the Lord, 'Many false prophets shall rise,' where He is speaking of the last days.",
+            "The first beast is physical and political; the second a spiritual power, the power of knowledge, ideas... and scientific cultivation. Both alike are beasts, from below, not from above; faithful allies, worldly Antichristian wisdom standing in the service of the worldly Antichristian power: the dragon is both lion and serpent: might and cunning are his armory."
+        ],
+        "Albert Barnes": [
+            "It may not be necessary to carry out this image; but the natural idea, as applied to the two forths of the Roman power supposed to be here referred to, would be that the former - the secular power that sustained the papacy - rose out of the agitated state of the nations in the invasions of the northern hordes, and the convulsions and revolutions of the falling empire of Rome; and that the latter, the spiritual power itself - represented by the beast coming up from the land - grew up under the more settled and stable order of things.",
+            "It is hardly necessary to say that this is a most striking representation of the actual manner in which the power of the papacy has always been put forth - putting on the apparent gentleness of the lamb; or laying claim to great meekness and humility, even when deposing kings, and giving away crowns, and driving thousands to the stake, or throwing them into the dungeons of the Inquisition.",
+            "The general sense is, that while this 'beast' had, in one respect in its resemblance to a lamb - the appearance of great gentleness, meekness, and kindness, it had, in another respect, a haughty, imperious, and arrogant spirit."
+        ],
+        "Philip Schaff": [
+            "The contrast between the \u2018sea\u2019 spoken of in Revelation 13:1 and the \u2018earth\u2019 now mentioned makes it impossible to refer the latter to any one particular portion of the world, such as the Asiatic Continent, or even to the whole world itself, or to human society and its progress, or to earthly thinking and willing.",
+            "The lamb-like form of the horns can only be a travesty of the seven horns of \u2018the Lamb\u2019 spoken of in these visions.",
+            "The beast professed to teach religious truth; but his mode of teaching was fierce and murderous, the very opposite of that of Him who did not strive nor cry aloud, neither did any one hear His voice in the streets."
+        ],
+        "Archibald T. Robertson": [
+            "Another beast... not a different beast.\" (verses 1 and 2)",
+            "Only two horns... without the ferocity of the other beast.\" (verse 11)",
+            "He had the roar of a dragon with all the looks of a lamb."
+        ],
+        "John Gill": [
+            "The same antichrist, but appearing in another light and view.",
+            "Here in his ecclesiastic character, pretending great humility and holiness, showing signs and lying wonders, obliging to idolatry, and exercising tyranny and cruelty on all that will not profess his religion.",
+            "He spake arrogantly, as if he was above all that is called God, and as if he was God himself; and he spake like a dragon cruelly, like the great red dragon, like the devil, who was a murderer from the beginning, breathing out slaughter, and threatenings against the saints, as Rome Pagan."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse depicts the rise of a deceptive power, a spiritual entity that mimics the Lamb while possessing the characteristics of a dragon. This power represents a sacerdotal persecuting authority, both pagan and Christian in nature, which compels individuals to worship its image and performs wonders through magic and omens. The second beast emerges alongside the healing of the first beast, signifying the rise of false prophets in the last days. These beasts, both physical and spiritual, serve as allies, part of worldly Antichristian wisdom and power. The second beast, while appearing gentle like a lamb, exhibits an imperious and arrogant spirit, professing religious truth but resorting to violent and murderous means to enforce its beliefs.",
+            "wordCount": 116,
+            "quoteTokenProportion": 25.32,
+            "qualityScore": 1.876685840058192,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.74,
+            "commentatorTierSimilarities": [
+                31.01,
+                36.34,
+                32.65
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Another beast emerges, appearing lamb-like with its two horns, yet possessing the same Antichrist spirit. This spiritual power, affiliated with pagan and Christian forces, compels worship of its image and performs magic to deceive. It serves as both companion and ally to the political first beast, representing worldly wisdom and power. While it presents itself as gentle, it is in truth haughty and imperious, using violence to enforce its religious teachings, embodying the exact opposite of the humble nature of Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.7031541071184964,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.97,
+            "commentatorTierSimilarities": [
+                27.27,
+                34.82,
+                37.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Another beast emerges from the earth, resembling a lamb but with the roar of a dragon. It represents a sacerdotal persecuting power, pagan and Christian, with the ability to perform wonders through magic and omens. This beast symbolizes the Romish priesthood, both inheriting pagan rites and presenting Christian professions. It is a cunning and worldly entity, loyal to the dragon, standing as an ally to the political first beast. Despite its appearance of gentleness, it embodies the characteristics of the dragon, speaking arrogantly and acting with cruelty.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.7151798010951183,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.37,
+            "commentatorTierSimilarities": [
+                32.6,
+                34.34,
+                33.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As another beast emerges from the earth, it takes on the appearance of a lamb yet possesses the traits of a dragon. This sacerdotal persecuting power, representative of both pagan and Christian priesthood, compels worship of its image and performs wonders through magic and omens. The Romish priesthood, inheriting pagan rituals and professing Christian ideals, resembles a lamb in appearance but exhibits the cunning and arrogance of the dragon. It is a worldly and deceitful force that aligns itself with the political first beast, wielding both might and cunning in its agenda.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.857736961183817,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.11,
+            "commentatorTierSimilarities": [
+                30.05,
+                35.58,
+                34.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The emergence of another beast, resembling a lamb with two horns, signifies a sacerdotal persecuting power that combines pagan and Christian elements. It compels worship of its image and performs supernatural acts through magic and omens. This creature represents the Romish priesthood, which, while claiming Christian virtues, retains pagan rites and superstitions. Despite appearing gentle like a lamb, it possesses the qualities of a dragon \u2013 arrogance and cruelty \u2013 aligning itself with the first beast while exerting its power through worldly wisdom and knowledge.",
+            "wordCount": 83,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8317257132687068,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.25,
+            "commentatorTierSimilarities": [
+                30.04,
+                34.57,
+                35.39
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

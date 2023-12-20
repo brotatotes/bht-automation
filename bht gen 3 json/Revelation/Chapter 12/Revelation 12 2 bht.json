@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:09",
+    "verseRef": "Revelation 12:2",
+    "bestBHT": {
+        "bht": "The woman in this text represents the Church, awaiting the second coming of Christ. The imagery of labor pains and being tormented signifies the Church's longing for the birth of the Messiah and the multiplication of believers. The cries and prayers of the saints are like the pains of childbirth, expressing the Church's eager anticipation of Christ's reign over all nations. Like a woman in labor, the Church anxiously expects the appearance of the Shepherd and King who will establish His kingdom.",
+        "wordCount": 85,
+        "quoteTokenProportion": 28.0,
+        "qualityScore": 1.803254277578004,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+        "commentatorTierSimilarities": [
+            21.9,
+            32.77,
+            45.33
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "tormented\" (basanizomene) [is a] bringing in of the first-begotten into the world AGAIN. (25 words)",
+            "the man-child shall rule all nations with the rod of iron (11 words)",
+            "almost without travail-pangs, she receives (at His second advent), as if born to her, Messiah and a numerous seed. (25 words)"
+        ],
+        "Albert Barnes": [
+            "The woman is evidently designed to symbolize the church.",
+            "The time there referred to is at the early period of the history of the church, when, as it were, it first appears on the theater of things, and going forth in its beauty and majesty over the earth.",
+            "The design of the whole, therefore, I apprehend, is to represent the peril of the church at the time when it was about to be greatly enlarged, or in a season of prosperity, from the rise of a formidable enemy that would stand ready to destroy it."
+        ],
+        "Marvin Vincent": [
+            "Travailing in birth.\" (Reference: Mark 13:9, Acts 2:24)",
+            "Being tormented.\" (Reference: ch. Revelation 11:10)",
+            "For the imagery compare Isaiah 66:7, Isaiah 66:8; John 16:21."
+        ],
+        "Philip Schaff": [
+            "In one sense or another she must be the Church of God, yet not the mere Jewish Church, but the Church in the largest conception that we can form of it, as first indeed planted in Israel but afterwards extended to all nations.",
+            "He is the flower of the Chosen Family, as concerning the flesh He comes of Israel. So much is He one with His people that even His conception by the power of the Spirit and His birth of a virgin (who had no power of her own to produce Him) have their counterpart in them.",
+            "They are born of the Spirit: they are the many children of a mother who was barren."
+        ],
+        "Archibald T. Robertson": [
+            "And she was with child... This is the technical idiom for pregnancy.\" ",
+            "Travailing in birth... old verb (from \u03c9\u03b4\u03b9\u03bd birth-pangs 1 Thessalonians 5:3).\" ",
+            "And in pain... \"And tormented\" (present passive participle of \u03b2\u03b1\u03c3\u03b1\u03bd\u03b9\u03b6\u03c9, for which see already Revelation 9:5; Revelation 11:10)."
+        ],
+        "John Gill": [
+            "Expressive of the fruitfulness of the church in bearing and bringing forth many souls to Christ.",
+            "Metaphors taken from a woman in travail; and may either denote the earnest cries and fervent prayers of the members of the church, and the laborious and painful ministrations of the preachers of the Gospel for the conversion of souls.",
+            "The sore and grievous persecutions which attended the apostles of Christ, and succeeding ministers of the word, throughout the times of the ten Roman emperors."
+        ],
+        "John Wesley": [
+            "The very pain, without any outward opposition, would constrain a woman in travail to cry out.",
+            "These cries, throes, and pains to be delivered were the painful longings, the sighs, and prayers of the saints for the coming of the kingdom of God.",
+            "The woman groaned and travailed in spirit, that Christ might appear, as the Shepherd and King of all nations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of a woman who is tormented as she brings the first-begotten into the world again. Without much struggle, she receives the Messiah and a numerous seed at His second advent. This imagery of labor pains and being tormented is reminiscent of the pain and cries for deliverance that the Church experiences, as it eagerly awaits the coming of Christ and the establishment of His kingdom. The woman symbolizes the Church, which is not limited to Judaism but extends to all nations. Just as a woman in travail groans and longs to give birth, so the Church groans and longs for the appearance of Christ, who will rule all nations with an iron rod.",
+            "wordCount": 117,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.7855220973767476,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                27.13,
+                33.71,
+                39.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tormented woman in the text represents the Church, eagerly awaiting the second coming of Christ and the establishment of His kingdom. The imagery of labor pains and being tormented reflects the Church's longing for the birth of Messiah and a numerous seed. These labor pains symbolize the cries and prayers of the saints for the fulfillment of God's kingdom on earth. The Church, like a woman in travail, groans and yearns for the Shepherd and King to appear and rule all nations with an iron rod.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.7853427432653146,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.7,
+            "commentatorTierSimilarities": [
+                21.74,
+                30.74,
+                47.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The woman in the passage symbolizes the Church, eagerly anticipating the second coming of Christ. The imagery of labor pains and being tormented represents the Church's longing for the birth of the Messiah and the growth of believers. The cries and prayers of the saints are like the pains of childbirth, as they eagerly anticipate Christ's rule over all nations. The Church, like a woman in labor, eagerly waits for the manifestation of the Shepherd and King who will establish His kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 1.7978943285439724,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.12,
+            "commentatorTierSimilarities": [
+                21.82,
+                31.91,
+                46.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The woman in this text represents the Church, awaiting the second coming of Christ. The imagery of labor pains and being tormented signifies the Church's longing for the birth of the Messiah and the multiplication of believers. The cries and prayers of the saints are like the pains of childbirth, expressing the Church's eager anticipation of Christ's reign over all nations. Like a woman in labor, the Church anxiously expects the appearance of the Shepherd and King who will establish His kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 1.803254277578004,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.3,
+            "commentatorTierSimilarities": [
+                21.9,
+                32.77,
+                45.33
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tormented woman symbolizes the Church, yearning for Christ's second coming and the expansion of believers. The labor pains and torment depict the Church's desire for the birth of the Messiah and the growth of a numerous seed. The Church's cries and prayers resemble the intense longing of a woman in labor, anticipating the establishment of Christ's reign over all nations. As they eagerly await the Shepherd and King's appearance, the Church continually groans for the fulfillment of God's kingdom on earth.",
+            "wordCount": 88,
+            "quoteTokenProportion": 21.15,
+            "qualityScore": 1.7592742074933778,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.84,
+            "commentatorTierSimilarities": [
+                19.64,
+                33.91,
+                46.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

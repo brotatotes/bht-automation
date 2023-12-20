@@ -1,0 +1,142 @@
+{
+    "timestamp": "12-19-2023 21:42:41",
+    "verseRef": "Revelation 4:1",
+    "bestBHT": {
+        "bht": "After the existing state of the seven churches was recorded, John witnessed a vision that transported him into heaven through an open door. This transition into the heavenly realm marked the beginning of a succession of separate visions, allowing him to look down upon both heaven and earth. The open door in heaven facilitated the free communication between the two realms, unveiling things that pertained to the church of God. John eagerly responded to the invitation to ascend in spirit, anticipating what the Lord Jesus Christ would reveal to him.",
+        "wordCount": 90,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.0832865546725228,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+        "commentatorTierSimilarities": [
+            33.87,
+            39.98,
+            26.15
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "After these things (or, 'after this,'\u2014is a formula frequently occurring in this book, and nowhere indicating a break in the ecstatic state of the Seer, but only the succession of separate visions.",
+            "He is throughout in the Spirit. It is not I looked, as in A.V.: not the directing of the Seer\u2019s attention which discovers the door to him, but the simple reception of the vision which is recorded.",
+            "Henceforth usually he looks from the heaven down on the earth, seeing however both alike, and being present in either, as the localities of his various visions require."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here is the transition from 'the things which are' (Revelation 1:19), the existing state of the seven churches... to 'the things which shall be hereafter,' namely, in relation to the time when John wrote.\" ",
+            "I saw in vision; not as English Version means, I directed my look that way.\" ",
+            "John is transported in vision through an open door up into heaven, whence he can see things passing on earth or in heaven, according as the scenes of the several visions require."
+        ],
+        "Albert Barnes": [
+            "After this - Greek, 'After these things'; that is, after what he had seen, and after what he had been directed to record in the preceding chapters.",
+            "A door was opened - That is, there was apparently an opening in the sky like a door, so that he could look into heaven.",
+            "Come up hither - To the place whence the voice seemed to proceed - heaven."
+        ],
+        "Marvin Vincent": [
+            "Not indicating a break in the ecstatic state of the seer, but only a succession of separate visions.",
+            " ",
+            "A door set open. The A. V. implies that the seer witnessed the opening of the door. In Heaven.",
+            "A trumpet. Properly a war - trumpet, though the word was also used of a sacred trumpet, with the epithet iJera sacred."
+        ],
+        "Philip Schaff": [
+            "After these things denotes succession of visions, not of time.",
+            "A door opened in heaven, not opening but open, so that there may be the freest intercourse between heaven and earth.",
+            "The Seer is invited to ascend to the place whence the voice issued, and is told what will be shown him."
+        ],
+        "Archibald T. Robertson": [
+            "This vision is of heaven, not of earth as was true of chapters Revelation 4:1; Revelation 4:2.",
+            "Behold. Exclamation of vivid emotion as John looked.",
+            "Come up. Short Koine form for \u03b1\u03bd\u03b1\u03b2\u03b7\u03b8 (second aorist active imperative second person singular of \u03b1\u03bd\u03b1\u03b2\u03b1\u03b9\u03bd\u03c9)."
+        ],
+        "John Gill": [
+            "After he was bid to write what he had seen...he looked about him to see what else he could, having his desires and expectations raised of seeing more, and other things.\" ",
+            "The phrase is to be understood of a discovery of things that were, or were to be in the church of God, which in this book is oftentimes signified by 'heaven'.\" ",
+            "It was the same Person that made the following representation of things...even he who is the Alpha and the Omega, the Lord Jesus Christ, the author of the whole revelation."
+        ],
+        "John Wesley": [
+            "After I had written these letters from the mouth of the Lord.\" ",
+            "St. John always saw and heard, and then immediately wrote down one part after another.",
+            "Said, Come up hither \u2014 Not in body, but in spirit; which was immediately done."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After recording the existing state of the seven churches, John saw a vision that transported him through an open door into heaven. This transition marked the beginning of a series of separate visions, as John looked from the heaven down on the earth. The opening of the door in heaven allowed for free communication between the two realms, facilitating the revelation of things that were or were to be in the church of God. As John was invited to ascend to the place whence the voice issued, he eagerly anticipated the display of what would be shown to him by the Lord Jesus Christ, the Alpha and Omega.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.2094632688516964,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                33.88,
+                38.53,
+                27.59
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After the existing state of the seven churches was recorded, John witnessed a vision that transported him into heaven through an open door. This transition into the heavenly realm marked the beginning of a succession of separate visions, allowing him to look down upon both heaven and earth. The open door in heaven facilitated the free communication between the two realms, unveiling things that pertained to the church of God. John eagerly responded to the invitation to ascend in spirit, anticipating what the Lord Jesus Christ would reveal to him.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0832865546725228,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.61,
+            "commentatorTierSimilarities": [
+                33.87,
+                39.98,
+                26.15
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After recording the existing state of the seven churches, John saw a vision that transported him through an open door into heaven. This transition marked the beginning of a series of separate visions, as John looked from the heaven down on the earth. The opening of the door in heaven allowed for free communication between the two realms, facilitating the revelation of things that were or were to be in the church of God. As John was invited to ascend to the place whence the voice issued, he eagerly anticipated the display of what would be shown to him by the Lord Jesus Christ, the Alpha and Omega.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.2094632688516964,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                33.88,
+                38.53,
+                27.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The transition into separate visions occurred after John recorded the state of the seven churches. Through an open door in heaven, John was transported into a realm where he could observe both heaven and earth. This open door allowed for unhindered communication between the two realms, enabling the revelation of God's plans for the church. As John was called to ascend to the source of the voice, he eagerly anticipated the unveiling of further divine revelations by the Lord Jesus Christ.",
+            "wordCount": 82,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 2.061914313307939,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.9,
+            "commentatorTierSimilarities": [
+                34.21,
+                37.93,
+                27.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After recording the existing state of the seven churches, John saw a vision that transported him through an open door into heaven. This transition marked the beginning of a series of separate visions, as John looked from the heaven down on the earth. The opening of the door in heaven allowed for free communication between the two realms, facilitating the revelation of things that were or were to be in the church of God. As John was invited to ascend to the place whence the voice issued, he eagerly anticipated the display of what would be shown to him by the Lord Jesus Christ, the Alpha and Omega.",
+            "wordCount": 108,
+            "quoteTokenProportion": 39.73,
+            "qualityScore": 2.2094632688516964,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                33.88,
+                38.53,
+                27.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:44:10",
+    "verseRef": "Revelation 7:4",
+    "bestBHT": {
+        "bht": "The Lord knows and seals His own, ensuring the fulness of their number shall be accomplished and not one shall fail. The seal contains His own Name, signifying that they are not only gathered out of the world, but declared ready to be gathered into the city of God. The number 144,000 connotes perfection and represents a fixedness and full completion. This symbolic number includes all faithful people, the true Israel of God. It is important to note that the mark of Satan is set upon all his servants, without distinction of race.",
+        "wordCount": 92,
+        "quoteTokenProportion": 41.27,
+        "qualityScore": 1.6919825210857957,
+        "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+        "commentatorTierSimilarities": [
+            41.32,
+            26.83,
+            31.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The import for us is, that the Lord knoweth and sealeth His own: that the fulness of their number shall be accomplished and not one shall fail.",
+            "The seal contains His own Name... And thus they are not only gathered out of the world, but declared to be ready to be gathered into the city of God.",
+            "And it can hardly be denied, that this view receives strong support from Scripture analogy; e.g. that of Exod. xii. and Ezek. ix., especially the latter, where the exempted ones are marked, as here, on their foreheads."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Twelve by twelve implies fixity and completeness, which is taken a thousandfold in 144,000.\" ",
+            "A thousand implies the world perfectly pervaded by the divine.",
+            "Still the Church will be that 'built on the foundation of the (Twelve) apostles (Israelites), Jesus Christ (an Israelite) being the chief corner-stone.'"
+        ],
+        "Albert Barnes": [
+            "The fair interpretation seems to require that it should be understood as symbolical.",
+            "The representation seems to be rather that of a comparatively small number than a large one.",
+            "Salvation would be confined to no one church or denomination, but among them all there would be found true servants of God."
+        ],
+        "Marvin Vincent": [
+            "An hundred and forty and four thousand. Not literally, but the number symbolical of fixedness and full completion (12 x 12).",
+            "The interpretation of the latter class seems entitled to the greater weight. According to the Apocalyptic usage, Jewish terms are 'christianized and heightened in their meaning, and the word' Israel 'is to be understood of all Christians, the blessed company of all faithful people, the true Israel of God.'",
+            "The mark of Satan which is in the forehead, is set upon all his servants without distinction of race."
+        ],
+        "Archibald T. Robertson": [
+            "The number of the sealed.",
+            "The number connotes perfection.",
+            "There are two opposite views here."
+        ],
+        "John Gill": [
+            "And therefore could be sure of the exact number, which did not depend upon his sight, and telling them, in which some mistake might have been made, but he heard the number expressed.",
+            "Which is a square number arising from twelve, the square root of it, being just twelve times twelve thousand; and may denote their being the true and genuine offspring of the twelve apostles of the Lamb, holding their doctrine, and being built on their foundation.",
+            "And is a certain and determinate number for an uncertain and indeterminate one; and only intends a large number of persons known to God and Christ."
+        ],
+        "John Wesley": [
+            "This is not the number of all the Israelites who are saved from Abraham or Moses to the end of all things; but only of those who were secured from the plagues which were then ready to fall on the earth.",
+            "It may be observed... this book had, in many places, a special view to the people of Israel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It is significant for us to understand that the Lord knows and seals His own, ensuring that the full number of His chosen ones will be accomplished without fail. The seal signifies belonging to the Lord, as these individuals are gathered out of the world and prepared to enter the city of God. The parallels with the Old Testament, such as in Exodus and Ezekiel, support this view, as those who are exempted or marked are represented similarly. The number 144,000 signifies fixity and completeness, expressing that the Church is built upon the foundation of the twelve apostles, with Christ being the chief cornerstone. While the interpretation of this number may vary, it is symbolic of full completion and represents the true Israel of God, encompassing all faithful people. Furthermore, it is important to note that the mark of Satan is indiscriminately placed upon his servants, regardless of their race. Overall, this passage emphasizes the sealed and numbered individuals as God's chosen ones, representative of the perfect and complete Church.",
+            "wordCount": 170,
+            "quoteTokenProportion": 31.73,
+            "qualityScore": 1.6707673011331003,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.9,
+            "commentatorTierSimilarities": [
+                36.88,
+                29.24,
+                33.88
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord knows and seals His own, ensuring the full number is accomplished and none fail to be part of His chosen people. The seal signifies belonging to the Lord and being ready for entry into His city. The number 144,000 symbolizes completeness and fixity, reflecting the Church built on the foundation of the twelve apostles, led by Jesus Christ. This interpretation encompasses all faithful people, representing the true Israel of God. It's essential to note that Satan's mark is indiscriminately placed on his servants, regardless of race.",
+            "wordCount": 89,
+            "quoteTokenProportion": 32.81,
+            "qualityScore": 1.6409895438272692,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.91,
+            "commentatorTierSimilarities": [
+                38.06,
+                26.96,
+                34.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord knows and seals His own, ensuring the full number shall be accomplished and not one shall fail. The seal signifies not only being gathered out of the world, but also being ready for entry into the city of God. The number 144,000 represents fixity and completeness, symbolizing the Church built on the foundation of the twelve apostles. This interpretation includes all faithful people, the true Israel of God. It is important to note that Satan's mark is placed upon all his servants, without distinction of race.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6285309399532775,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.49,
+            "commentatorTierSimilarities": [
+                40.11,
+                27.99,
+                31.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord knows and seals His own, ensuring the fulfillment of their number without fail. The seal signifies belonging to the Lord and readiness for entry into the city of God. Scripture analogies, like Exodus and Ezekiel, support this view of being exempted and marked. The number 144,000 implies fixity and completeness, symbolizing the Church built on the foundation of the twelve apostles. This interpretation encompasses all faithful people, the true Israel of God, regardless of race.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.5853617170946537,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.06,
+            "commentatorTierSimilarities": [
+                38.7,
+                25.64,
+                35.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord knows and seals His own, ensuring the fulness of their number shall be accomplished and not one shall fail. The seal contains His own Name, signifying that they are not only gathered out of the world, but declared ready to be gathered into the city of God. The number 144,000 connotes perfection and represents a fixedness and full completion. This symbolic number includes all faithful people, the true Israel of God. It is important to note that the mark of Satan is set upon all his servants, without distinction of race.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.6919825210857957,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.6,
+            "commentatorTierSimilarities": [
+                41.32,
+                26.83,
+                31.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

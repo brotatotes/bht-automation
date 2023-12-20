@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:47:45",
+    "verseRef": "Revelation 16:6",
+    "bestBHT": {
+        "bht": "Because they shed the blood of saints and prophets, they have been given blood to drink as a measure for measure. The absence of any particle before these words emphasizes their strength. This is a terrible antithesis to the worthy saints. It is a just recompense for the nations who have perpetuated scenes of bloody persecution. Their abundant shedding of blood has caused their drinking-water to be replaced with coagulated blood, symbolizing their guilt.",
+        "wordCount": 75,
+        "quoteTokenProportion": 43.4,
+        "qualityScore": 1.8961956187333027,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+        "commentatorTierSimilarities": [
+            29.19,
+            49.18,
+            21.63
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Because they shed the blood of saints and prophets, and Thou hast given them blood to drink: they are worthy.",
+            "These words are made stronger by the absence of any particle to introduce them."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. (Revelation 11:18;",
+            "\tGenesis 9:6; Isaiah 49:26.)",
+            "\tAn anticipation of Revelation 18:20;",
+            "\tRevelation 18:24; compare Revelation 18:24- :. ",
+            "\t",
+            "For\u2014A, B, C, and",
+            "\tANDREAS omit."
+        ],
+        "Albert Barnes": [
+            "For they have shed the blood of saints...And prophets...And thou hast given them blood to drink...For they are worthy.\" ",
+            "The nations here referred to...have been engaged in scenes of bloody persecution, and this is a just recompense.",
+            "Blood had been poured out in such abundance that it seemed to mingle with the very water that they drank. This was a recompense for their having...poured out so much blood in persecuting the saints and prophets."
+        ],
+        "Marvin Vincent": [
+            "For they are worthy. Omit for."
+        ],
+        "Archibald T. Robertson": [
+            "Blood hast thou given them to drink (\u03b1\u03b9\u03bc\u03b1 \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03b4\u03b5\u03b4\u03c9\u03ba\u03b1\u03c2 \u03c0\u03b5\u03b9\u03bd). H\u03b1\u03b9\u03bc\u03b1 (blood) is the emphatic word, measure for measure for shedding the blood of saints and prophets.",
+            "\u03a0\u03b5\u03b9\u03bd is the abbreviated second aorist active infinitive of \u03c0\u03b9\u03bd\u03c9 for \u03c0\u03b9\u03b5\u03b9\u03bd (\u03b5\u03c0\u03b9\u03bf\u03bd). It is the epexegetical infinitive after \u03b4\u03b5\u03b4\u03c9\u03ba\u03b1\u03c2. There was no more drinking-water, but only this coagulated blood.",
+            "They are worthy (\u03b1\u03be\u03b9\u03bf \u03b5\u03b9\u03c3\u03b9\u03bd). 'Terrible antithesis' (Swete) to Revelation 3:4. The asyndeton adds to it (Alford)."
+        ],
+        "John Gill": [
+            "Rivers and fountains cannot be literally understood, but men are designed, wicked and bloody men.",
+            "It is notorious to all, how much of the blood of the saints, of the preachers of the Gospel, of the prophets and witnesses, have been shed in Italy, Savoy, and other places near Rome, as well as in Rome itself.",
+            "For they are worthy; or deserving, to have their blood shed by the law of retaliation."
+        ],
+        "John Wesley": [
+            "Men do not drink out of the sea, but out of fountains and rivers. Therefore this is fitly added here.",
+            "Is subjoined with a beautiful abruptness.",
+            "They are worthy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Because they shed the blood of saints and prophets, they have been given blood to drink, a measure for measure for their wicked deeds. The absence of any particle before these words emphasizes their strength. This is a terrible antithesis to the worthy saints in Revelation 3:4. It is a just recompense for the nations who have perpetuated scenes of bloody persecution. Their abundant shedding of blood has caused their drinking-water to be replaced with coagulated blood, symbolizing their guilt. This serves as a reminder that those who have poured out the blood of the saints and prophets will receive judgment fitting their actions.",
+            "wordCount": 104,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8672192674252879,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.43,
+            "commentatorTierSimilarities": [
+                28.68,
+                50.01,
+                21.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Because they shed the blood of saints and prophets, they have been given blood to drink as a measure for measure. The absence of any particle before these words emphasizes their strength. This is a terrible antithesis to the worthy saints. It is a just recompense for the nations who have perpetuated scenes of bloody persecution. Their abundant shedding of blood has caused their drinking-water to be replaced with coagulated blood, symbolizing their guilt.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8961956187333027,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                29.19,
+                49.18,
+                21.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Because they shed the blood of saints and prophets, they have been given blood to drink as a measure for measure. The absence of any particle before these words emphasizes their strength. This is a terrible antithesis to the worthy saints. It is a just recompense for the nations who have perpetuated scenes of bloody persecution. Their abundant shedding of blood has caused their drinking-water to be replaced with coagulated blood, symbolizing their guilt.",
+            "wordCount": 75,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8961956187333027,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.39,
+            "commentatorTierSimilarities": [
+                29.19,
+                49.18,
+                21.63
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The pouring out of blood shed by the wicked will be repaid when they themselves are given blood to drink, measure for measure. The absence of an introducing particle amplifies the force of these words. The nations, engaged in scenes of bloody persecution, receive just recompense for their actions. The coagulated blood they drink symbolizes the guilt of their abundant shedding of blood. This is a fitting retribution, a reminder that those who have poured out the blood of saints and prophets will face judgment according to their deeds.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.8211792330510712,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.9,
+            "commentatorTierSimilarities": [
+                25.85,
+                54.87,
+                19.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The pouring out of blood by the wicked will come back to them when they are given blood to drink, a measure for their own actions. The absence of an introducing particle emphasizes the strength of these words. The nations, who have engaged in bloody persecution, receive just recompense for their deeds. The coagulated blood they drink is a fitting symbol of their guilt for shedding so much blood. This is a reminder that those who persecute the saints and prophets will face deserving judgment.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.9,
+            "qualityScore": 1.7920881981845524,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.93,
+            "commentatorTierSimilarities": [
+                26.57,
+                52.78,
+                20.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

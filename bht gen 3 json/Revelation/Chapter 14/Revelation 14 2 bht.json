@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:46:51",
+    "verseRef": "Revelation 14:2",
+    "bestBHT": {
+        "bht": "The voice heard in heaven is described as a voice of many waters and a voice of great thunder, resonating like the sound of the ocean and a mighty cataract. It is likened to the voice of harpers harping with their harps, signifying the elevated, joyous and harmonious music of heaven. Some interpretations suggest that this voice symbolizes the publication of the Gospel, heard widely like thunder, while others see it representing the rapidity and irresistible force of the Gospel, along with the peace, joy, and comfort it brings. This voice combines vocal and instrumental qualities, creating a captivating sound.",
+        "wordCount": 100,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.3728721914746203,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+        "commentatorTierSimilarities": [
+            36.8,
+            29.07,
+            34.13
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I heard a voice out of heaven, as a voice of many waters (reff.), and as a voice of great thunder (ch. vi. 1): and the voice which I heard [was] as of harpers harping with their harps."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As is the voice of Himself, such also is the voice of His people.",
+            "The voice of harpers.",
+            "The voice which I heard (was) as of harpers."
+        ],
+        "Albert Barnes": [
+            "As the sound of the ocean, or of a mighty cataract. That is, it was so loud that it could be heard from heaven to earth.",
+            "No comparison could express this more sublimely than to say that it was like the roar of the ocean.",
+            "The music of heaven, though elevated and joyous, is sweet and harmonious; and perhaps one of the best representations of heaven on earth, is the effect produced on the soul by strains of sweet and solemn music."
+        ],
+        "Marvin Vincent": [
+            "And the voice which I heard (was) as (the voice) of harpers.\" ",
+            "Kiqarwdov is from kiqara a harp and wjdov a singer.",
+            "Properly, one who sings, accompanying himself on the harp."
+        ],
+        "Philip Schaff": [
+            "Revelation 14:2. A voice is heard out of heaven. The description of it shows that it is a voice of mingled terror and sweetness.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "As a voice of many waters.",
+            "Of a great thunder.",
+            "As the voice of harpers harping with their harps."
+        ],
+        "John Gill": [
+            "the voice of a great thunder; to which the Gospel may be compared for its open, loud publication, being heard far and near, as thunder is.",
+            "the harp being a musical instrument, used under the Old Testament in singing praise.",
+            "Others have thought that the different properties and efficacy of the Gospel are designed; as its rapidity and irresistible force, by the many waters; its striking and shaking the consciences of men, by the thunder, Christ's ministers being sometimes 'Boanergeses', sons of thunder; and its harmonious music, pleasant sound, peace, joy, and comfort it brings, by the voice of harpers."
+        ],
+        "John Wesley": [
+            "And I heard a sound out of heaven \u2014 Sounding clearer and clearer: first, at a distance, as the sound of many waters or thunders.\" ",
+            "And afterwards, being nearer, it was as of harpers harping on their harps.",
+            "It sounded vocally and instrumentally at once."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voice that the narrator hears in heaven is described in various ways: as a voice of many waters, as a voice of great thunder, and as the voice of harpers harping with their harps. This voice is like the sound of the ocean or a mighty cataract, with a mixture of terror and sweetness. The music of heaven, represented by the harpers, is elevated, joyous, sweet, and harmonious. Some see the voice as representing the loud publication of the Gospel, heard far and near like thunder. Others see it as symbolizing the rapidity and irresistible force of the Gospel, as well as the peace, joy, and comfort it brings. Ultimately, this voice is both vocal and instrumental, creating a harmonious and captivating sound.",
+            "wordCount": 124,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.2095495399552916,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.81,
+            "commentatorTierSimilarities": [
+                35.99,
+                29.08,
+                34.92
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice in Revelation 14:2 is described as a voice of many waters and a voice of great thunder, resembling the sound of the ocean and a mighty cataract. It is also likened to the voice of harpers harping with their harps, symbolizing the elevated, joyous, and harmonious music of heaven. Some interpretations suggest that this voice represents the loud publication of the Gospel, heard far and wide like thunder, while others see it reflecting the rapidity and irresistible force of the Gospel, along with the peace, joy, and comfort it brings. In essence, this voice encompasses both vocal and instrumental qualities, creating a captivating sound.",
+            "wordCount": 105,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.31677852319658,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.37,
+            "commentatorTierSimilarities": [
+                36.39,
+                28.98,
+                34.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The voice heard in heaven is described as a voice of many waters and a voice of great thunder, resonating like the sound of the ocean and a mighty cataract. It is likened to the voice of harpers harping with their harps, signifying the elevated, joyous and harmonious music of heaven. Some interpretations suggest that this voice symbolizes the publication of the Gospel, heard widely like thunder, while others see it representing the rapidity and irresistible force of the Gospel, along with the peace, joy, and comfort it brings. This voice combines vocal and instrumental qualities, creating a captivating sound.",
+            "wordCount": 100,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.3728721914746203,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.24,
+            "commentatorTierSimilarities": [
+                36.8,
+                29.07,
+                34.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice heard in heaven, described as a voice of many waters and a voice of great thunder, resembles the sound of the ocean and a mighty cataract. It is associated with the voice of harpers harping with their harps, reflecting the elevated, joyous, and harmonious music of heaven. Some perceive this voice as the publication of the Gospel, heard far and wide like thunder, while others view it as representing the rapidity and irresistible force of the Gospel, along with the peace, joy, and comfort it brings. This voice combines vocal and instrumental elements, creating a captivating and harmonious sound.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.333417156766723,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.93,
+            "commentatorTierSimilarities": [
+                36.65,
+                28.97,
+                34.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The voice heard in heaven, described as a voice of many waters and a voice of great thunder, resembles the sound of an ocean or a mighty cataract. It is reminiscent of harpers harping with their harps, reflecting the elevated, joyous, and harmonious music of heaven. Some interpretations suggest that this voice symbolizes the publication of the Gospel, heard far and wide like thunder, while others see it representing the rapidity and irresistible force of the Gospel, along with the peace, joy, and comfort it brings. This voice combines vocal and instrumental qualities, producing a captivating sound.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 2.2708124089855084,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.84,
+            "commentatorTierSimilarities": [
+                35.13,
+                29.49,
+                35.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

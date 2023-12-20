@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:02",
+    "verseRef": "Revelation 2:22",
+    "bestBHT": {
+        "bht": "Behold, I will cast her into a bed of sickness and anguish, transforming her bed of whoredom into a place of punishment. Those who share in her adulteries become partakers of her sin, facing the consequences. Her children will be slain with death, serving as a demonstration of God's discernment of the hearts. The bed of her sin will now become her bed of affliction. It is crucial for God's true servants to distance themselves from her deeds before imminent judgment ensues.",
+        "wordCount": 84,
+        "quoteTokenProportion": 41.07,
+        "qualityScore": 2.042778613287771,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+        "commentatorTierSimilarities": [
+            42.7,
+            28.51,
+            28.8
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold, I cast her into a bed of sickness, will change her bed of whoredom into a bed of anguish.",
+            "Those who share with her in her adulteries, by suffering and encouraging her, make themselves partakers of her sin.",
+            "I will slay with death her children, and all the churches shall know that I am he that searcheth the reins and the hearts."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The place of her sin shall be the place of her punishment.",
+            "The bed of her sin shall be her bed of sickness and anguish.",
+            "God's true servants, who by connivance, are incurring the guilt of her deeds, are distinguished from her."
+        ],
+        "Albert Barnes": [
+            "The harlot\u2019s bed and a sick-bed are thus brought together, as they are often, in fact, in the dispensations of Providence and the righteous judgments of God.",
+            "One cannot be indulged without leading on, sooner or later, to the horrid sufferings of the other: and how soon no one knows.",
+            "There is no sin that produces a mere withering and desolating effect upon the soul than what is here referred to; none which is more certain to be followed with sorrow."
+        ],
+        "Philip Schaff": [
+            "The bed is not one of lust, but of sickness and sorrow.",
+            "She is an adulteress, so they along with her are also adulterers and adulteresses.",
+            "The contrast of 'they' and 'her' in these words is worthy of notice, showing as it does the close identification of the followers of Jezebel with herself."
+        ],
+        "Archibald T. Robertson": [
+            "I do cast (\u03b2\u03b1\u03bb\u03bb\u03c9). Futuristic present active indicative rather than the future \u03b2\u03b1\u03bb\u03c9, since judgment is imminent.",
+            "A bed of sickness in contrast with the bed of adultery\" (Beckwith).",
+            "The actual paramours of the woman Jezebel, guilty of both \u03c0\u03bf\u03c1\u03bd\u03b5\u03b9\u03b1 (fornication, verse Revelation 2:21) and \u03bc\u03bf\u03b9\u03c7\u03b5\u03b9\u03b1 (adultery), works of Jezebel of old and of this Jezebel."
+        ],
+        "John Gill": [
+            "Behold, I will cast her into a bed... the sickly, pining, and languishing state of the church of Rome...",
+            "The whore of Rome has been visibly sickening and decaying.",
+            "Except they repent of their deeds; their spiritual fornication or idolatry, and all the abominations the members of that apostate church are guilty of."
+        ],
+        "John Wesley": [
+            "I will cast her into a bed-into great affliction-and them that commit either carnal or spiritual adultery with her unless they repent.\" ",
+            "Of her works \u2014 Those to which she had enticed them and which she had committed with them.\" ",
+            "This fault ceased when God took vengeance on her. Therefore he is not expressly exhorted to repent, though it is implied."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, I will cast her into a bed of sickness and change her bed of whoredom into a bed of anguish. Those who participate in her adulteries, by supporting and encouraging her, are implicated in her sin. God will punish her by bringing death to her children, and all churches will realize that He searches their thoughts and emotions. The place of her sin will be the place of her punishment\u2014a bed of sickness and anguish. The genuine servants of God are distinguished from her and must not be complicit. It is a warning that judgment is imminent, as God's righteous justice swiftly approaches.",
+            "wordCount": 106,
+            "quoteTokenProportion": 40.32,
+            "qualityScore": 1.971055581587855,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.88,
+            "commentatorTierSimilarities": [
+                40.28,
+                30.57,
+                29.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, I will cast her into a bed of sickness and anguish, where her adulterous actions will bring about her own punishment. Those who participate in her sins will also bear guilt and consequences. God's judgment will be evident as He searches the hearts and minds of individuals. The bed of sin will be transformed into a bed of affliction, a just consequence for her actions. This serves as a warning for God's faithful servants to distance themselves from her deeds before imminent judgment arrives.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.996560116567827,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.73,
+            "commentatorTierSimilarities": [
+                39.28,
+                31.13,
+                29.59
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, I will cast her into a bed of sickness and anguish, turning her bed of whoredom into a bed of punishment. Those who engage in her adulteries will share in her guilt. The judgment of death will come upon her children, serving as a sign of God's discernment of their innermost thoughts and desires. The place where her sin thrived will now become the place of her suffering. This distinction is necessary for God's true servants to distance themselves from her actions before the impending judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.9575922364804041,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.43,
+            "commentatorTierSimilarities": [
+                40.34,
+                29.93,
+                29.73
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Behold, I will cast her into a bed of sickness and anguish, transforming her bed of whoredom into a place of punishment. Those who partake in her adulteries will bear the weight of her sin alongside her. God's impending judgment will bring death to her children, revealing His ability to search the hearts and minds. The very location of her transgression will become the site of her retribution. It is crucial for God's faithful servants to distance themselves from her actions before the swift arrival of judgment.",
+            "wordCount": 89,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.943408955134093,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.96,
+            "commentatorTierSimilarities": [
+                41.03,
+                29.22,
+                29.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Behold, I will cast her into a bed of sickness and anguish, transforming her bed of whoredom into a place of punishment. Those who share in her adulteries become partakers of her sin, facing the consequences. Her children will be slain with death, serving as a demonstration of God's discernment of the hearts. The bed of her sin will now become her bed of affliction. It is crucial for God's true servants to distance themselves from her deeds before imminent judgment ensues.",
+            "wordCount": 84,
+            "quoteTokenProportion": 41.07,
+            "qualityScore": 2.042778613287771,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.26,
+            "commentatorTierSimilarities": [
+                42.7,
+                28.51,
+                28.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

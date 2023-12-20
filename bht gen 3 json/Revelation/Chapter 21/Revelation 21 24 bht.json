@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:50:44",
+    "verseRef": "Revelation 21:24",
+    "bestBHT": {
+        "bht": "In the future, the nations and their highest representatives will willingly bring their glory and honor to lay it down at the feet of their God and Lord in the new Jerusalem. The brightness of the city will supply them with light as they walk in the light of it. This beautiful and glorious picture will be fully experienced in heaven where the kings of the earth, all the moral and spiritual progress of moderns, and the nations will walk by the light of God's presence.",
+        "wordCount": 87,
+        "quoteTokenProportion": 36.54,
+        "qualityScore": 2.040680506394795,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+        "commentatorTierSimilarities": [
+            26.67,
+            38.13,
+            35.2
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "she shall be so bright as to serve the light",
+            "no longer hostile to Christ",
+            "the kings bring their glory into her"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Her brightness shall supply them with light.\" ",
+            "the kings of the earth... do bring their glory into it, to lay it down at the feet of their God and Lord.",
+            "and honour."
+        ],
+        "Albert Barnes": [
+            "Shall walk in the light of it - Shall enjoy its splendor, and be continually in its light.",
+            "All that they consider as constituting their glory, treasures, crowns, scepters, robes. The idea is, that all these will be devoted to God in the future days of the church in its glory.",
+            "Will be, as it were, brought and laid down at the feet of the Saviour in heaven."
+        ],
+        "Marvin Vincent": [
+            "In the light [\u03b5\u03bd \u03c4\u03c9 \u03c6\u03c9\u03c4\u03b9].",
+            "Read dia tou fwtov 'amidst the light' or 'by the light.'",
+            "The present tense, denoting habit."
+        ],
+        "Philip Schaff": [
+            "And the nations shall walk by the light of it.",
+            "The \u2018peoples\u2019 of Revelation 21:3 are the \u2018nations\u2019 of this verse and of chap. Revelation 22:2.",
+            "Not the masses of the nations only, but their highest representatives and dignitaries submit themselves with all that they have to the sway of Him who now rules in righteousness, the universal King."
+        ],
+        "Archibald T. Robertson": [
+            "All the moral and spiritual progress of moderns is due to Christ...",
+            "The nations of earth will be represented, including 'the kings'...",
+            "The picture is beautiful and glorious even if not realized here, but only in heaven."
+        ],
+        "John Gill": [
+            "but these shall walk by sight, enjoying the beatific vision of God, and the Lamb.",
+            "that such who have been Christian kings on earth will prefer the happiness of this state to all their riches and greatness here",
+            "could all the glory of the kings of the earth be put together, it would not equal, but be greatly inferior to the glory of the new Jerusalem"
+        ],
+        "John Wesley": [
+            "Shall walk by the light thereof \u2014 Which throws itself outward from the city far and near.\" ",
+            "And the kings of the earth \u2014 Those of them who have a part there.\" ",
+            "Bring their glory into it \u2014 Not their old glory, which is now abolished; but such as becomes the new earth, and receives an immense addition by their entrance into the city."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the future days of the church in its glory, all the nations and their highest representatives will willingly bring their glory and honor to lay it down at the feet of their God and Lord in the new Jerusalem. The brightness of the city will supply them with light as they walk in the light of it. This beautiful and glorious picture, though not yet realized on earth, will be fully experienced in heaven where the kings of the earth, all the moral and spiritual progress of moderns, and the nations will walk by the light of God's presence.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.011229915041642,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                26.57,
+                37.81,
+                35.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future, the nations and their highest representatives will willingly bring their glory and honor to lay it down at the feet of their God and Lord in the new Jerusalem. The brightness of the city will supply them with light as they walk in the light of it. This beautiful and glorious picture will be fully experienced in heaven where the kings of the earth, all the moral and spiritual progress of moderns, and the nations will walk by the light of God's presence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.040680506394795,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                26.67,
+                38.13,
+                35.2
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future, the nations and their highest representatives will willingly bring their glory and honor to lay it down at the feet of their God and Lord in the new Jerusalem. The brightness of the city will supply them with light as they walk in the light of it. This beautiful and glorious picture will be fully experienced in heaven where the kings of the earth, all the moral and spiritual progress of moderns, and the nations will walk by the light of God's presence.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 2.040680506394795,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.19,
+            "commentatorTierSimilarities": [
+                26.67,
+                38.13,
+                35.2
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The future glory of the new Jerusalem is described as a city so bright that it will serve as its own light. In this glorious city, the nations and their highest representatives, including the kings of the earth, will willingly bring their glory and honor to lay at the feet of their God and Lord. The vision of this beautiful picture, though not yet realized on earth, paints a breathtaking scene where all the moral and spiritual progress of moderns will walk in the light of God's presence.",
+            "wordCount": 89,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 1.9540789170950177,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                26.11,
+                34.83,
+                39.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future days of the church in its glory, all the nations and their highest representatives will willingly bring their glory and honor to lay it down at the feet of their God and Lord in the new Jerusalem. The brightness of the city will supply them with light as they walk in the light of it. This beautiful and glorious picture, though not yet realized on earth, will be fully experienced in heaven where the kings of the earth, all the moral and spiritual progress of moderns, and the nations will walk by the light of God's presence.",
+            "wordCount": 101,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.011229915041642,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                26.57,
+                37.81,
+                35.62
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

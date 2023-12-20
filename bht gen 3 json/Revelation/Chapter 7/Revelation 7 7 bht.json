@@ -1,0 +1,109 @@
+{
+    "timestamp": "12-19-2023 21:43:10",
+    "verseRef": "Revelation 7:7",
+    "bestBHT": {
+        "bht": "The tribe of Levi, known for being joined together in love and holy fellowship with full purpose of heart, serves as a reminder of the rewards of grace bestowed on faithful servants in times of tribulation. Similarly, the tribe of Issachar exemplifies the practical hearing and obedience of the Gospel, receiving the hire and rewards of grace from God. While Levi was once set apart in the Levitical ceremonies, it is now on an equal level with the other tribes, displaying the unity of God's people.",
+        "wordCount": 87,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.9969264054921423,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "The name of this tribe signifies 'hearing'...[and] denotes the spiritual and practical hearing of the Gospel...and yield the obedience of faith unto it.",
+            "This name [Levi] signifies 'joined'...and denotes...being joined one to another in love and holy fellowship, but to Christ, and...members of his body...and cleaved to him with full purpose of heart.",
+            "The interpretation of this name [Issachar] is 'hire' or 'reward'...and may design those rewards of grace which God bestows upon his faithful servants, in times of tribulation."
+        ],
+        "John Wesley": [
+            "After the Levitical ceremonies were abolished, Levi was again on a level with his brethren."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tribe of Issachar signifies the rewards of grace that God bestows upon faithful servants in times of tribulation. Similarly, the tribe of Levi represents being joined together in love and holy fellowship, cleaving to Christ with full purpose of heart. Both tribes exemplify the spiritual and practical hearing of the Gospel and yielding obedience of faith unto it. Though Levi was once set apart in the Levitical ceremonies, it is now on an equal level with the other tribes. Overall, these tribes remind us of the rewards and blessings that come through faithful service and devotion to God.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8441867644307788,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.66,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tribe of Issachar signifies the rewards of grace bestowed on faithful servants in times of tribulation. Similarly, the tribe of Levi represents joining together in love and holy fellowship, cleaving to Christ with full purpose of heart. Both tribes exemplify hearing and obeying the Gospel. Once set apart, Levi is now on an equal level with the other tribes. These tribes remind us of the blessings that come through faithful service and devotion to God.",
+            "wordCount": 76,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.5994381024892297,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.52,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tribe of Levi, whose name signifies joined, represents being joined together in love and holy fellowship, cleaving to Christ with full purpose of heart. Similarly, the name of Issachar signifies hire or reward, symbolizing the rewards of grace that God bestows on faithful servants in times of tribulation. This tribe also highlights the spiritual hearing and practical living out of the Gospel. While Levi was once set apart in the Levitical ceremonies, it is now on an equal level with the other tribes, emphasizing the unity of God's people.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 1.8078389878493715,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.45,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tribe of Levi signifies being joined together in love and holy fellowship, cleaving to Christ with full purpose of heart. The name Issachar represents the rewards of grace bestowed on faithful servants during tribulation. Both tribes exemplify hearing and obeying the Gospel. Once set apart, Levi is now on an equal level with the other tribes. These tribes remind us of the blessings that come through faithful service and devotion to God.",
+            "wordCount": 73,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 1.582111086504126,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.95,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tribe of Levi, known for being joined together in love and holy fellowship with full purpose of heart, serves as a reminder of the rewards of grace bestowed on faithful servants in times of tribulation. Similarly, the tribe of Issachar exemplifies the practical hearing and obedience of the Gospel, receiving the hire and rewards of grace from God. While Levi was once set apart in the Levitical ceremonies, it is now on an equal level with the other tribes, displaying the unity of God's people.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.9969264054921423,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.74,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

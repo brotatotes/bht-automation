@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:43:21",
+    "verseRef": "Revelation 6:11",
+    "bestBHT": {
+        "bht": "These blessed ones, dressed in white robes, rest for a little time in peaceful victory. This resting period will last until their fellow servants who will face persecution are fulfilled and join them. The number of martyrs is divinely determined, and when that number is complete, God will pour out His wrath on those who have persecuted them. These white robes are not exclusive to the martyrs, but are bestowed upon all who overcome, symbolizing purity and victory.",
+        "wordCount": 78,
+        "quoteTokenProportion": 46.67,
+        "qualityScore": 1.7952059836428869,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+        "commentatorTierSimilarities": [
+            28.18,
+            38.11,
+            33.7
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Even as the Captain of their salvation goes forth on a white horse conquering and to conquer; also of purity and sanctity through Christ.",
+            "They are admitted among the blessed ones, who, as spotless priests, minister unto God and the Lamb.",
+            "The full blessedness and glory of all the saints shall be simultaneous. The earlier shall not anticipate the later saints."
+        ],
+        "Marvin Vincent": [
+            "White robes were given unto every one of them...a festive garment.\" ",
+            "Should rest...Not merely rest from their crying for vengeance, but rest in peace.\" ",
+            "Should be fulfilled...Completed in number."
+        ],
+        "Philip Schaff": [
+            "A white robe, denoting the purity of saints perfected in Christ, was bestowed on each of them.",
+            "This robe is the garment of all who overcome, another indication that all such, and not martyrs only, are included in the souls underneath the altar.",
+            "They must rest a little space until their fellow-servants of the New Testament Dispensation shall be completed, and all the children of God shall be gathered together, \u2018no wanderer lost, a family in heaven.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "A white robe... an equipment in clothes, a flowing robe.",
+            "Yet for a little time... rest from their cry for vengeance and also rest in peace.",
+            "Which should be killed... John foresees more persecution coming."
+        ],
+        "John Gill": [
+            "and it was said unto them, that they should rest; or have rest; eternal rest from all their toil and labour, from all their sorrows and sufferings of every kind",
+            "until their fellow servants also, and their brethren, that should be killed as they [were], should be fulfilled",
+            "the number of martyrs, or of those that shall suffer and die in the cause of Christ, and for his Gospel, is fixed and determined by God; and that number shall be perfected and completed, and when that is done, he will pour out all his wrath on them that have persecuted them and put them to death"
+        ],
+        "John Wesley": [
+            "An emblem of innocence, joy, and victory, in token of honour and favourable acceptance.",
+            "They were told how long. They were not left in that uncertainty.",
+            "Till \u2014 It is not said, Immediately after this time is expired, vengeance shall be executed; but only, that immediately after this time their brethren and fellowservants will come to them. This event will precede the other; and there will be some space between."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "These blessed ones, dressed in white robes, rest for a little time in peaceful victory. They have ceased their cry for vengeance, finding solace and respite in their eternal rest from toil and sorrow. This resting period will last until their fellow servants who will face persecution are fulfilled and join them. The number of martyrs is divinely determined, and when that number is complete, God will pour out His wrath on those who have persecuted them. These white robes are not exclusive to the martyrs, but are bestowed upon all who overcome, symbolizing purity and victory.",
+            "wordCount": 97,
+            "quoteTokenProportion": 42.25,
+            "qualityScore": 1.7576004877225637,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                28.58,
+                35.64,
+                35.78
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "These blessed ones, dressed in white robes, rest for a little time in peaceful victory. This resting period will last until their fellow servants who will face persecution are fulfilled and join them. The number of martyrs is divinely determined, and when that number is complete, God will pour out His wrath on those who have persecuted them. These white robes are not exclusive to the martyrs, but are bestowed upon all who overcome, symbolizing purity and victory.",
+            "wordCount": 78,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.7952059836428869,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.03,
+            "commentatorTierSimilarities": [
+                28.18,
+                38.11,
+                33.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "These blessed ones, adorned in white robes, find solace in their restful victory, temporarily ceasing their cries for vengeance. This respite brings them peace, as they await the completion of their fellow servants who will face persecution. The divine determination of the number of martyrs ensures that once the quota is fulfilled, God's wrath will be unleashed upon their persecutors. These white robes, symbolic of purity and triumph, are not restricted to martyrs alone, but are bestowed upon all who overcome.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.766208222892173,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                28.3,
+                38.52,
+                33.19
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Resting in peaceful victory, the blessed ones, adorned in white robes, temporarily pause their cries for vengeance. As they await the fulfillment of their fellow servants who will face persecution, they find solace in the divine determination of the number of martyrs. When this number is complete, God will pour out His wrath upon those who have persecuted them. These white robes, a symbol of purity and triumph, are not confined to the martyrs but bestowed upon all who overcome.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.7427785384990995,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.29,
+            "commentatorTierSimilarities": [
+                29.52,
+                37.18,
+                33.29
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "These blessed ones, adorned in white robes, find solace in their restful victory, temporarily ceasing their cries for vengeance. This respite brings them peace, as they await the completion of their fellow servants who will face persecution. The divine determination of the number of martyrs ensures that once the quota is fulfilled, God's wrath will be unleashed upon their persecutors. These white robes, symbolic of purity and triumph, are not restricted to martyrs alone, but are bestowed upon all who overcome.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.766208222892173,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                28.3,
+                38.52,
+                33.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

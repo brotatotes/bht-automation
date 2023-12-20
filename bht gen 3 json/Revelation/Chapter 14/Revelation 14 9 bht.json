@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:46:58",
+    "verseRef": "Revelation 14:9",
+    "bestBHT": {
+        "bht": "The third angel warns against the worship of the beast and his image, with the reception of the mark as a sign of condemnation. This proclamation exposes the eternal sin of those who willingly engage in idolatry, denouncing both pagan and papal worship. The judgment of God is proclaimed upon all followers of the beast, revealing the consequences of their allegiance to the Popish religion.",
+        "wordCount": 65,
+        "quoteTokenProportion": 40.43,
+        "qualityScore": 2.0045161652913346,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+        "commentatorTierSimilarities": [
+            24.97,
+            38.12,
+            36.91
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any one worshippeth the beast and his image... and receiveth the mark on his forehead, or upon his hand... he also.",
+            "Also either may be almost redundant, introducing the latter portion of the sentence merely as an addition to the former.",
+            "The former sense seems to me the more probable."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. A, B, C, and ANDREAS",
+            "\tread, \"another, a third angel.\" Compare with this verse",
+            "\tRevelation 13:15; Revelation 13:16."
+        ],
+        "Albert Barnes": [
+            "We are not necessarily to suppose that this event would succeed those mentioned before in the order of time, though this would be the natural construction. The design of this is to show that the worshippers of the beast and his image would be certainly and finally destroyed.",
+            "And why should not such denunciations fall on idolaters under the papacy as well as on others? Is it not true that there is as real idolatry there as in the pagan world? Is not the idolatry as gross and debasing? Is it not attended with as real corruption in the heart and the life?",
+            "The word 'receive' here implies that there was, on their part, some degree of voluntariness: it was not a mark impressed by force, but a mark received. This is true in respect to all idolatry; and this lays the ground for condemnation."
+        ],
+        "Marvin Vincent": [
+            "The third angel [\u03c4\u03c1\u03b9\u03c4\u03bf\u03c2 \u03b1\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2] . Add allov another. Rev., another angel, a third."
+        ],
+        "Philip Schaff": [
+            "It is curious to meet here again the \u2018great voice\u2019 which is met in connection with the first angel, but not with the second.",
+            "If any man worshippeth the beast and his image, and receiveth a mark upon his forehead or on his hand.",
+            "Such is the cry of the third angel as he proclaims judgment to all the followers of the beast."
+        ],
+        "Archibald T. Robertson": [
+            "The third of this succession of herald angels denounces the Caesar-worshippers.",
+            "This counter proclamation warns those tempted to yield to the threats of the second beast about boycott and death.",
+            "These Caesar-worshippers are guilty of an 'eternal sin'."
+        ],
+        "John Gill": [
+            "A set of Gospel ministers in the spiritual reign of Christ.",
+            "The first set of them publish the everlasting Gospel, which leads on to the ruin of antichrist.",
+            "This third set denounce the wrath of God upon all that have professed the Popish religion."
+        ],
+        "John Wesley": [
+            "And a third angel followed \u2014 At no great distance of time.",
+            "If any one worship the wild beast \u2014 This worship consists, partly in an inward submission, a persuasion that all who are subject to Christ must be subject to the beast or they cannot receive the influences of divine grace.",
+            "Partly in a suitable outward reverence to the beast himself, and consequently to his image."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "If anyone worships the beast and his image, and receives the mark on their forehead or hand, they will also be condemned. The third angel proclaims this message as a warning to those tempted to yield to the threats of the second beast. The worshippers of the beast are guilty of an eternal sin. The denunciations of idolatry found here apply not only to pagan worship, but also to the idolatry present in papal worship. The word receive implies some degree of voluntariness, as idolatry is willingly embraced. This is a proclamation of judgment to all followers of the beast, a warning of the wrath of God upon those who profess the Popish religion.",
+            "wordCount": 114,
+            "quoteTokenProportion": 41.89,
+            "qualityScore": 1.9416722271766844,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.9,
+            "commentatorTierSimilarities": [
+                26.08,
+                39.7,
+                34.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "If anyone worships the beast and his image, receiving the mark on their forehead or hand, they will also be condemned. This third proclamation warns against yielding to the threats of the second beast, as the worshippers of the beast are guilty of an eternal sin. The denunciations of idolatry found here apply not only to pagan worship, but also to the idolatry present in papal worship. It is a proclamation of judgment to all followers of the beast, revealing the wrath of God towards those who profess the Popish religion.",
+            "wordCount": 91,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9889931198919344,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                23.83,
+                40.11,
+                36.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The third angel's warning is directed towards those who worship the beast and his image, receiving the mark on their forehead or hand. This proclamation exposes the eternal sin of those who engage in such idolatry, emphasizing the voluntary nature of their participation. It serves as a denunciation of both pagan and papal worship, highlighting the corruption and debasement associated with idolatry. The judgment of God is proclaimed upon all who follow the beast, declaring the consequences of their allegiance to the Popish religion.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8364318674257665,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.4,
+            "commentatorTierSimilarities": [
+                23.05,
+                40.43,
+                36.52
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The third angel's warning is directed towards those who worship the beast and his image, receiving the mark on their forehead or hand. This proclamation highlights the eternal sin committed by these idolaters, emphasizing the voluntariness of their actions. It serves as a denunciation of both pagan and papal worship, revealing the corruption and debasement associated with idolatry. The judgment of God is proclaimed upon all who follow the beast, exposing the consequences of their allegiance to the Popish religion.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8433776239268944,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.63,
+            "commentatorTierSimilarities": [
+                24.23,
+                39.17,
+                36.6
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The third angel warns against the worship of the beast and his image, with the reception of the mark as a sign of condemnation. This proclamation exposes the eternal sin of those who willingly engage in idolatry, denouncing both pagan and papal worship. The judgment of God is proclaimed upon all followers of the beast, revealing the consequences of their allegiance to the Popish religion.",
+            "wordCount": 65,
+            "quoteTokenProportion": 40.43,
+            "qualityScore": 2.0045161652913346,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+            "commentatorTierSimilarities": [
+                24.97,
+                38.12,
+                36.91
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

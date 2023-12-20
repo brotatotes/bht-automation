@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:05",
+    "verseRef": "Revelation 2:8",
+    "bestBHT": {
+        "bht": "In the prosperous city of Smyrna, where emperor-worship prevailed, a suffering church found solace in the risen Christ. Their bitter afflictions and persecutions were met with the assurance that their sacrifice was pleasing to Him. Just as Christ overcame death and rose again, they too would be resurrected and live eternally with Him. This description sought to comfort them and dispel their fear of death. The angel of the church in Smyrna, like St. John himself, would find great reassurance in these words of hope.",
+        "wordCount": 86,
+        "quoteTokenProportion": 38.1,
+        "qualityScore": 1.6306208680474334,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+        "commentatorTierSimilarities": [
+            32.49,
+            20.97,
+            46.54
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "IGNATIUS [The Martyrdom of Ignatius 3], on his way to martyrdom in Rome, wrote to POLYCARP, then (A.D. 108) bishop of Smyrna; if his bishopric commenced ten or twelve years earlier, the dates will harmonize.",
+            "As death was to Him but the gate to life eternal, so it is to be to them (Revelation 2:10; Revelation 2:11).",
+            "The attributes of Christ most calculated to comfort the Church of Smyrna under its persecutions; resumed from Revelation 1:17; Revelation 1:18."
+        ],
+        "Albert Barnes": [
+            "These things saith the first and the last.",
+            "Which was dead, and is alive.",
+            "He that overcometh shall not be hurt of the second death."
+        ],
+        "Marvin Vincent": [
+            "Smyrna's fine harbor made it a commercial center; but it was also distinguished for its schools of rhetoric and philosophy.",
+            "It is argued with some plausibility that Polycarp was bishop of Smyrna at the time of the composition of Revelation, and was the person addressed here.",
+            "Rev., properly, lived again; the word being used of restoration to life."
+        ],
+        "Philip Schaff": [
+            "Smyrna was one of the most prosperous and wealthy cities of Asia, lying in the midst of a rich and fertile region, and enjoying peculiar facilities for commerce.",
+            "Its main worship was that of Bacchus, and, as a natural consequence, drunkenness and immorality were extremely prevalent.",
+            "The description is taken from chap. Revelation 1:17-18. For the rendering, rose to life, which we have adopted here, comp. chap. Revelation 13:14 and John 5:21."
+        ],
+        "Archibald T. Robertson": [
+            "Smyrna: North of Ephesus, on a gulf of the Aegean, one of the great cities of Asia, a seat of emperor-worship...\" ",
+            "Poor church (rich in grace) which receives only praise from Christ, scene of the recent massacre of Greeks by the Turks.\" ",
+            "Repeating the language of Revelation 1:17... Emphasis on the resurrection of Christ."
+        ],
+        "John Gill": [
+            "Smyrna signifies 'myrrh', which being bitter of taste, is expressive of the bitter afflictions, and persecutions, and deaths the people of God in this interval endured; and yet, as myrrh is of a sweet smell, so were those saints, in their sufferings for Christ, exceeding grateful and well pleasing to him.\" ",
+            "Christ, who is the eternal God, had in human nature tasted of the bitterness of death for them, and was risen again; suggesting that though they were called to undergo the bitterest deaths for his sake, they should be raised again as he was, and live with him forever.\" ",
+            "The large amphitheater, in which he was put to death, is still to be seen, and his sepulchre is yet preserved in this place... whereby their names and memories are perpetuated and eternized."
+        ],
+        "John Wesley": [
+            "How directly does this description tend to confirm him against the fear of death!",
+            "Even with the comfort wherewith St. John himself was comforted, shall the angel of this church be comforted.",
+            "How directly does this description tend to confirm him against the fear of death!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "To a church enduring persecutions and afflictions, the risen Christ offers comfort and encouragement. Smyrna, a city known for its prosperity and emperor-worship, becomes the backdrop for this message. The attributes of Christ, emphasized in Revelation 1:17-18, are specifically chosen to provide solace to the suffering church. The mention of death as a mere gateway to eternal life echoes Christ's own experience, reminding them that, like Him, those who remain faithful will conquer death and be granted life everlasting. The language used here is meant to inspire courage and strengthen their resolve in the face of persecution, assuring them that their suffering makes them pleasing and fragrant in the eyes of Christ. Their future resurrection is assured, just as Christ Himself rose again. Ultimately, this description is designed to eliminate the fear of death and impart the same comfort that St. John himself experienced to the angel of the church in Smyrna.",
+            "wordCount": 153,
+            "quoteTokenProportion": 29.17,
+            "qualityScore": 1.5546175259940411,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.03,
+            "commentatorTierSimilarities": [
+                37.46,
+                20.4,
+                42.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "To a suffering church enduring afflictions and persecutions, the risen Christ brings comfort and encouragement. Smyrna, a prosperous city known for emperor-worship, becomes the backdrop for this message, with its recent massacre of Greeks by the Turks. The attributes of Christ, emphasized in Revelation 1:17-18, are specifically chosen to assure them that, in their suffering for Christ's sake, they are pleasing and fragrant to Him. Like Christ, who conquered death and rose again, they too will be raised and live with Him forever. This description seeks to eliminate the fear of death and impart profound comfort to the angel of the church in Smyrna.",
+            "wordCount": 105,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5967679251025755,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.43,
+            "commentatorTierSimilarities": [
+                36.61,
+                20.03,
+                43.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the prosperous city of Smyrna, where emperor-worship prevailed, a suffering church found solace in the risen Christ. Their bitter afflictions and persecutions were met with the assurance that their sacrifice was pleasing to Him. Just as Christ overcame death and rose again, they too would be resurrected and live eternally with Him. This description sought to comfort them and dispel their fear of death. The angel of the church in Smyrna, like St. John himself, would find great reassurance in these words of hope.",
+            "wordCount": 86,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.6306208680474334,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.56,
+            "commentatorTierSimilarities": [
+                32.49,
+                20.97,
+                46.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the city of Smyrna, a church undergoing persecutions and afflictions found comfort in the risen Christ. Their sufferings were likened to the bitterness of myrrh, yet their sacrifices were pleasing and cherished by Him. Just as Christ conquered death and rose again, they were assured that their own resurrection and eternal life awaited them. This message sought to strengthen their resolve in the face of persecution and eliminate fear, echoing the comfort that St. John himself experienced.",
+            "wordCount": 78,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 1.5295643185598347,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                33.81,
+                21.4,
+                44.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the city of Smyrna, a suffering church found solace in the crucified and risen Christ. Their bitter trials and persecutions were embraced as sacrifices pleasing to Him. Just as Christ conquered death and rose again, they were assured of their own resurrection and eternal life. This message aimed to fortify their endurance in persecution and banish the fear of death, drawing inspiration from the comfort that St. John himself experienced.",
+            "wordCount": 71,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5876828357729682,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.13,
+            "commentatorTierSimilarities": [
+                34.22,
+                23.19,
+                42.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 21:42:36",
+    "verseRef": "Revelation 3:22",
+    "bestBHT": {
+        "bht": "In this section, we are introduced to a heavenly scene that sets the backdrop for the upcoming visions. Separating oneself and keeping a righteous path is important for not only personal salvation but also to make a positive impact on others. The Savior, being aware of our actions within the church, has the power to both reward and punish. The imperfections of the Church call for growth and endurance through suffering. The Church must remember its purpose and avoid being swayed by the corrupting influences of the world.",
+        "wordCount": 88,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.1879468571099676,
+        "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+        "commentatorTierSimilarities": [
+            18.61,
+            62.54,
+            18.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And herein we have a first great portion, embracing chapp. iv.\u2014xi., the opening of the seals and the sounding of the trumpets.\" ",
+            "But preparatory to both these series of revelations, we have described to us in chapp. iv. v., the heavenly scenery which furnishes the local ground for these visions.",
+            "Of these, ch. iv. is properly the scene itself: ch. v. being a further unfolding of its details with a view to the vision of the seals which is to follow."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "None but those who 'keep themselves' are likely to 'save' others.",
+            "Convict...confute, so as to convince.",
+            "Making a difference\u2014when separating themselves."
+        ],
+        "Albert Barnes": [
+            "There is perhaps no part of the New Testament more searching than these brief epistles to the seven churches; and though those to whom they were addressed have long since passed away, and the churches have long since become extinct; though darkness, error, and desolation have come over the places where these churches once stood, yet the principles laid down in these epistles still live, and they are full of admonition to Christians in all ages and all lands.",
+            "It is a consideration of as much importance to us as it was to these churches, that the Saviour now knows our works; that he sees in the church, and in any individual, all that there is to commend and all that there is to reprove; that he has power to reward or punish now as he had then; that the same rules in apportioning rewards and punishments will still be acted on; that he who overcomes the temptations of the world will find an appropriate reward; that those who live in sin must meet with the proper recompense, and that those who are lukewarm in his service will be spurned with unutterable loathing.",
+            "While they who have embraced error, and they who are living in sin, have occasion to tremble before him, they who are endeavoring to perform their duty may find in these epistles enough to cheer their hearts, and to animate them with the hope of final victory, and of the most ample and glorious reward."
+        ],
+        "Philip Schaff": [
+            "In the first group we have the Church of Christ in herself, in the second the Church of Christ as she mingles with the world and learns its ways.",
+            "The Church had not then, nor has she even now, attained to the \u2018stature of the perfect man in Christ Jesus.\u2019 Sin marks her, and she stands in need of suffering.",
+            "The Church is now in actual contact with the world, and, forgetting her high calling to be Christ\u2019s witness in and against the world, she yields to its corrupting influences."
+        ],
+        "John Gill": [
+            "He that hath an ear, let him hear,....",
+            " :-."
+        ],
+        "John Wesley": [
+            "This stands in the three former letters before the promise; in the four latter, after it; clearly dividing the seven into two parts.",
+            "The titles given our Lord in the three former letters peculiarly respect his power after his resurrection and ascension, particularly over his church; those in the four latter, his divine glory, and unity with the Father and the Holy Spirit.",
+            "It should be observed, that the overcoming, or victory, (to which alone these peculiar promises are annexed,) is not the ordinary victory obtained by every believer; but a special victory over great and peculiar temptations, by those that are strong in faith."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And herein we have a first great portion, embracing the heavenly scenery which furnishes the local ground for these visions. None but those who 'keep themselves' are likely to 'save' others, making a difference when separating themselves. It is a consideration of as much importance to us as it was to these churches, that the Saviour now knows our works; that he sees in the church, and in any individual, all that there is to commend and all that there is to reprove; that he has power to reward or punish now as he had then; that the same rules in apportioning rewards and punishments will still be acted on. The Church had not then, nor has she even now, attained to the \u2018stature of the perfect man in Christ Jesus.\u2019 Sin marks her, and she stands in need of suffering. The Church is now in actual contact with the world, and, forgetting her high calling to be Christ\u2019s witness in and against the world, she yields to its corrupting influences.",
+            "wordCount": 172,
+            "quoteTokenProportion": 48.6,
+            "qualityScore": 1.359937475675418,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.56,
+            "commentatorTierSimilarities": [
+                19.0,
+                62.61,
+                18.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And herein we have a first great portion, embracing the heavenly scenery which furnishes the local ground for these visions. None but those who 'keep themselves' are likely to 'save' others, making a difference when separating themselves. The Saviour now knows our works; he sees in the church all that there is to commend and reprove; he has power to reward or punish now as he had then. The Church had not then, nor has she even now, attained to the \u2018stature of the perfect man in Christ Jesus.\u2019 Sin marks her, and she stands in need of suffering. The Church is in actual contact with the world, forgetting her high calling to be Christ\u2019s witness in and against the world, yielding to its corrupting influences.",
+            "wordCount": 127,
+            "quoteTokenProportion": 48.31,
+            "qualityScore": 1.3459332113195785,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                18.96,
+                61.96,
+                19.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "And herein we have a first great portion, embracing the heavenly scenery which furnishes the local ground for these visions. None but those who 'keep themselves' are likely to 'save' others, making a difference when separating themselves. The Saviour now knows our works; he sees in the church all that there is to commend and reprove; he has power to reward or punish now as he had then. The Church had not then, nor has she even now, attained to the \u2018stature of the perfect man in Christ Jesus.\u2019 Sin marks her, and she stands in need of suffering. The Church is in actual contact with the world, forgetting her high calling to be Christ\u2019s witness in and against the world, yielding to its corrupting influences.",
+            "wordCount": 127,
+            "quoteTokenProportion": 48.31,
+            "qualityScore": 1.3459332113195785,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.1,
+            "commentatorTierSimilarities": [
+                18.96,
+                61.96,
+                19.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the first great portion of this passage, we are presented with heavenly scenery, setting the stage for the visions to come. Keeping ourselves is essential for the possibility of saving others and making a difference by separating ourselves. We must remember that the Savior observes our works in the church, both to commend and reprove. He holds the power to reward or punish, just as before. The imperfections of the Church remind us of the need for growth and the endurance of suffering. It is crucial for the Church to remember its purpose and resist being influenced by the corrupting world.",
+            "wordCount": 102,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.1274377178566686,
+            "qualityScoreNormalizedComparedToV2BHTs": 28.83,
+            "commentatorTierSimilarities": [
+                23.67,
+                55.08,
+                21.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this section, we are introduced to a heavenly scene that sets the backdrop for the upcoming visions. Separating oneself and keeping a righteous path is important for not only personal salvation but also to make a positive impact on others. The Savior, being aware of our actions within the church, has the power to both reward and punish. The imperfections of the Church call for growth and endurance through suffering. The Church must remember its purpose and avoid being swayed by the corrupting influences of the world.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.1879468571099676,
+            "qualityScoreNormalizedComparedToV2BHTs": 30.84,
+            "commentatorTierSimilarities": [
+                18.61,
+                62.54,
+                18.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

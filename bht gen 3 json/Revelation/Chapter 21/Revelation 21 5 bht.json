@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:49:50",
+    "verseRef": "Revelation 21:5",
+    "bestBHT": {
+        "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. The idea of a new heaven and a new earth is the end towards which God has been always working. Behold, I make all things new, emphasizing the word 'new.' These words are trustworthy and reliable. Write these things down, that they might be on record, for saints to find comfort and advantage.",
+        "wordCount": 69,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.6504978705344417,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+        "commentatorTierSimilarities": [
+            31.11,
+            39.76,
+            29.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul.",
+            "But A, B, Vulgate, and Syriac transpose, 'faithful and true' (literally, 'genuine').",
+            "But A, B, Vulgate, and Syriac transpose, 'faithful and true' (literally, 'genuine')."
+        ],
+        "Albert Barnes": [
+            "Behold, I make all things new - A new heaven and new earth...the former state of things...will be changed.",
+            "And he said unto me, Write - Make a record of these things, for they are founded in truth, and they are adapted to bless a suffering world.",
+            "For these words are true and faithful - They are founded in truth, and they are worthy to be believed."
+        ],
+        "Marvin Vincent": [
+            "True and faithful [\u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03b9\u03c3\u03c4\u03bf\u03b9] . The proper order of the Greek is the reverse, as Rev., faithful and true."
+        ],
+        "Philip Schaff": [
+            "[God] breaks His silence; and, as One who dwells with men, directs their thoughts to the accomplishment of His own holy and gracious will.",
+            "His words are, I make all things new, where the emphasis rests upon the word 'new:' 'Old things are passed away; behold, they are become new.'",
+            "The new heavens and the new earth are the end towards which God has been always working."
+        ],
+        "Archibald T. Robertson": [
+            "Behold, I make all things new.\" ",
+            "The idea of a new heaven and a new earth is...\" ",
+            "They are reliable and genuine."
+        ],
+        "John Gill": [
+            "Behold, I make all things new...of the making of the new heaven, and the new earth...and of the new administration of his kingdom...all which is his own doing, and is marvellous.\" ",
+            "Write...that it might be on record for saints to read, and receive comfort and advantage from.",
+            "For these words are true and faithful."
+        ],
+        "John Wesley": [
+            "And he that sat upon the throne said \u2014 Not to St. John only. From the first mention of 'him that sat upon the throne,' Revelation 4:2, this is the first speech which is expressly ascribed to him.",
+            "And he \u2014 The angel. Saith to me Write \u2014 As follows.",
+            "These sayings are faithful and true \u2014 This includes all that went before. The apostle seems again to have ceased writing, being overcome with ecstasy at the voice of him that spake."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. The idea of a new heaven and a new earth is the end towards which God has been always working. And he that sat upon the throne said, Behold, I make all things new, emphasizing the word 'new.' These words are trustworthy and reliable, worthy to be believed. Write these things down, that they might be on record for saints to read, receive comfort, and find advantage from.",
+            "wordCount": 84,
+            "quoteTokenProportion": 46.88,
+            "qualityScore": 1.699520286192715,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.85,
+            "commentatorTierSimilarities": [
+                29.72,
+                38.31,
+                31.97
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. The idea of a new heaven and a new earth is the end towards which God has been always working. Behold, I make all things new, emphasizing the word 'new.' These words are trustworthy and reliable. Write these things down, that they might be on record, for saints to find comfort and advantage.",
+            "wordCount": 69,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.6504978705344417,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.22,
+            "commentatorTierSimilarities": [
+                31.11,
+                39.76,
+                29.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. Behold, I make all things new \u2014 The new heavens and the new earth are the end towards which God has been always working. These words are true and faithful \u2014 They are founded in truth and are worthy to be believed. God breaks His silence and directs our thoughts to the accomplishment of His holy and gracious will. His words are, I make all things new, emphasizing the word new. These sayings are faithful and true, and they are recorded for the comfort and advantage of the saints.",
+            "wordCount": 103,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.8500931128437186,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+            "commentatorTierSimilarities": [
+                29.28,
+                41.98,
+                28.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. God breaks His silence and directs our thoughts to the accomplishment of His holy and gracious will. Behold, I make all things new \u2014 The new heavens and the new earth are the end towards which God has been always working. These words are true and faithful \u2014 They are founded in truth and are worthy to be believed. These sayings are faithful and true, recorded for the comfort and advantage of the saints.",
+            "wordCount": 88,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9050923423246926,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                31.19,
+                40.28,
+                28.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "An earnest of this regeneration and transfiguration of nature is given already in the regenerate soul. God breaks His silence and directs our thoughts to the accomplishment of His holy and gracious will. Behold, I make all things new \u2014 The new heavens and the new earth are the end towards which God has been always working. These words are true and faithful \u2014 They are founded in truth and are worthy to be believed. These sayings are recorded for the comfort and advantage of the saints.",
+            "wordCount": 85,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.803725274921979,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.32,
+            "commentatorTierSimilarities": [
+                29.5,
+                41.69,
+                28.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:48:55",
+    "verseRef": "Revelation 18:8",
+    "bestBHT": {
+        "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy.",
+        "wordCount": 83,
+        "quoteTokenProportion": 38.18,
+        "qualityScore": 2.1767064018768942,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+        "commentatorTierSimilarities": [
+            36.86,
+            28.93,
+            34.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "For this cause in one day shall come her plagues, death and mourning and famine...a nd with fire shall she be burnt...because strong is [the Lord] God who hath judged her.\" ",
+            "The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance.\" ",
+            "Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Literal fire may burn the literal city of Rome, which is situated in the midst of volcanic agencies.\" ",
+            "The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist.\" ",
+            "Faithless and adulterous, carnal, worldly Protestant churches, will not escape for their soundness of creed."
+        ],
+        "Albert Barnes": [
+            "They shall come at the same time - so that all these terrible judgments shall seem to be poured upon her at once.",
+            "The certain and complete destruction of that formidable anti-Christian power is predicted under a great variety of emphatic images.",
+            "The divine hand alone seems to me to hold the element of fire in check by a miracle as great as what protected the cities of the plain, until the righteous Lot had made his escape to the mountains."
+        ],
+        "Marvin Vincent": [
+            "Therefore shall her plagues come, etc. See Isaiah 47:8, Isaiah 47:9. ",
+            "Who judgeth [\u03bf \u03ba\u03c1\u03b9\u03bd\u03c9\u03bd] . Read krinav judged."
+        ],
+        "Philip Schaff": [
+            "In one day her glory shall be turned to shame.",
+            "In the midst of her feasting an unseen hand shall write upon the wall of her banqueting-room that she is weighed in the balances and is found wanting, and \u2018that night\u2019 she shall perish.",
+            "The whole is moulded upon the lamentation over Tyre in Ezekiel 26, 27, and is of unequalled pathos."
+        ],
+        "Archibald T. Robertson": [
+            "Because of her presumption added to her crimes.",
+            "Symbolical term for suddenness like \u03bc\u03b9\u03b1 \u03c9\u03c1\u03b1, in one hour.",
+            "The doom of Babylon is certain because of the power of God."
+        ],
+        "John Gill": [
+            "The seven last plagues, which will be in a very little time executed upon her, very speedily and very quickly, one after another.",
+            "Mourning; for the loss of her children, the destruction of the city of Rome itself, the seat of the beast, and for the darkness of his kingdom, the inhabitants of which shall be in such pain, as to gnaw their tongues for it.",
+            "The burning of Rome has been attempted several times, by different persons, and has been burnt in part, but not wholly: but now it will be entirely destroyed by fire."
+        ],
+        "John Wesley": [
+            "Shall her plagues come - The death of her children, with an incapacity of bearing more.",
+            "Sorrow \u2014 of every kind.",
+            "For strong is the Lord God who judgeth her \u2014 Against whom therefore all her strength, great as it is, will not avail."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy. The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist.",
+            "wordCount": 114,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0961447465797205,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                39.23,
+                27.64,
+                33.13
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.1767064018768942,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.72,
+            "commentatorTierSimilarities": [
+                36.86,
+                28.93,
+                34.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy. The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist.",
+            "wordCount": 114,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0961447465797205,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                39.23,
+                27.64,
+                33.13
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy. The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist.",
+            "wordCount": 114,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0961447465797205,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                39.23,
+                27.64,
+                33.13
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "For this cause in one day shall come her plagues, death and mourning and famine...and with fire shall she be burnt...because strong is the Lord God who hath judged her. The judgments here are more fearful: death, for her scorn of the prospect of widowhood; mourning, for her inordinate revelling; famine, for her abundance. Whether this is to be understood of the literal destruction of the city of Rome by fire, surely doubtful, considering the mystical character of the whole prophecy. The carnal, faithless, and worldly elements in all churches, Roman, Greek, and Protestant, tend towards one common center, and prepare the way for the last form of the beast, namely, Antichrist.",
+            "wordCount": 114,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0961447465797205,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.04,
+            "commentatorTierSimilarities": [
+                39.23,
+                27.64,
+                33.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

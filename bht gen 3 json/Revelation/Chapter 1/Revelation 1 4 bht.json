@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:40:15",
+    "verseRef": "Revelation 1:4",
+    "bestBHT": {
+        "bht": "John signs himself without addition, suggesting his honesty as the writer. The seven represent the universal Church. The seven Spirits which are before his throne refer to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is sacred, signifying God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The phrase Him who is, and was, and is to come denotes God's eternal and unchanging nature. The number seven represents the diversity of the Holy Spirit's operations.",
+        "wordCount": 99,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 1.8529679339476761,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+        "commentatorTierSimilarities": [
+            35.1,
+            31.55,
+            33.35
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "John\u2014the apostle. For none but he (supposing the writer an honest man) would thus sign himself nakedly without addition.\" ",
+            "These seven represent the universal Church of all times and places.",
+            "The seven Spirits which are before his throne\u2014The oldest manuscripts omit 'are.' Before\u2014literally, 'in the presence of.' The Holy Spirit in His sevenfold (that is, perfect, complete, and universal) energy. Corresponding to 'the seven churches.' One in His own essence, manifold in His gracious influences."
+        ],
+        "Albert Barnes": [
+            "From him which is, and which was, and which is to come - From him who is everlasting - embracing all duration, past, present, and to come. No expression could more strikingly denote eternity than this.",
+            "It is clear that as by the phrase, 'who is, and who was, and who is to come,' and by 'Jesus Christ, the faithful and true witness,' he refers to real subsistences, so he must here.",
+            "The number seven may have been given to the Holy Spirit with reference to the diversity or the fulness of his operations on the souls of people, and to his manifold agency on the affairs of the world."
+        ],
+        "Marvin Vincent": [
+            "This sentiment passes over from heathenism into the Old Testament. The number seven was regarded by the Hebrews as a sacred number, and it is throughout Scripture the covenant number, the sign of God 's covenant relation to mankind, and especially to the Church.",
+            "Grace - peace. For grace [\u03c7\u03b1\u03c1\u03b9\u03c2] , see on Luke 1:30. Both words are used by Paul in the salutations of all his Epistles, except the three Pastorals.",
+            "The whole salutation is given in the name of the Holy Trinity : the Father (Him which is, and was, and is to come), the Spirit (the seven spirits), the Son (Jesus Christ). See further below."
+        ],
+        "Archibald T. Robertson": [
+            "There were churches also at Troas and at Colossal and Hierapolis and possibly at Magnesia and Tralles. But these seven were the best points of communication with seven districts and, besides, seven is a favorite number of completion.",
+            "This use of the articular nominative participle of \u03b5\u03b9\u03bc after \u03b1\u03c0\u03bf instead of the ablative is not due to ignorance or a mere slip, for in the next line we have the regular idiom with \u03b1\u03c0\u03bf \u03c4\u03c9\u03bd \u03b5\u03c0\u03c4\u03b1 \u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03c9\u03bd. It is evidently on purpose to call attention to the eternity and unchangeableness of God.",
+            "'The Coming One,' futuristic use of the present participle instead of \u03bf \u03b5\u03c3\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2. See the same idiom in verse Revelation 1:8; Revelation 4:8 and (without \u03bf \u03b5\u03c1\u03c7\u03bf\u03bc\u03b5\u03bd\u03bf\u03c2) in Revelation 11:17; Revelation 16:5."
+        ],
+        "John Gill": [
+            "Grace [be] unto you, and peace; which is the common salutation of the apostles in all their epistles, and includes all blessings of grace, and all prosperity, inward and outward.\" ",
+            "But rather this is to be understood of the first Person, of God the Father; and the phrases are expressive both of his eternity, he being God from everlasting to everlasting; and of his immutability, he being now what he always was, and will be what he now is, and ever was, without any variableness, or shadow of turning.",
+            "By these seven spirits are intended the Holy Spirit of God, who is one in his person, but his gifts and graces are various; and therefore he is signified by this number, because of the fulness and perfection of them, and with respect to the seven churches, over whom he presided, whom he influenced, and sanctified, and filled, and enriched with his gifts and graces."
+        ],
+        "John Wesley": [
+            "Grace be unto you, and peace \u2014 The favour of God, with all temporal and eternal blessings. From him who is, and who was, and who cometh, or, who is to come - A wonderful translation of the great name JEHOVAH: he was of old, he is now, he cometh; that is, will be for ever.",
+            "By these seven spirits, not seven created angels, but the Holy Ghost is to be understood. The angels are never termed spirits in this book; and when all the angels stand up, while the four living creatures and the four and twenty elders worship him that sitteth on the throne, and the Lamb, the seven spirits neither stand up nor worship.",
+            "He is called the seven spirits, not with regard to his essence, which is one, but with regard to his manifold operations."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "John, the apostle, signs himself without addition, suggesting his honesty as the writer of this verse. The seven mentioned here represent the universal Church throughout time and space. The phrase the seven Spirits which are before his throne refers to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is regarded as sacred and represents God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The expression Him who is, and was, and is to come denotes the eternal and unchanging nature of God. The phrase signifies God's everlasting existence, encompassing all time - past, present, and future. The number seven is also given to the Holy Spirit to represent the diversity and fullness of His operations.",
+            "wordCount": 137,
+            "quoteTokenProportion": 27.85,
+            "qualityScore": 2.0161850497036533,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.38,
+            "commentatorTierSimilarities": [
+                32.66,
+                34.97,
+                32.36
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John, the apostle, signs himself without addition, suggesting his honesty as the writer. The seven represent the universal Church. The seven Spirits which are before his throne refer to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is sacred, signifying God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The phrase Him who is, and was, and is to come denotes God's eternal and unchanging nature. The number seven is given to the Holy Spirit to represent the diversity of His operations.",
+            "wordCount": 105,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.9306662785924047,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.54,
+            "commentatorTierSimilarities": [
+                34.93,
+                32.18,
+                32.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John signs himself without addition, suggesting his honesty as the writer. The seven represent the universal Church. The seven Spirits which are before his throne refer to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is sacred, signifying God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The phrase Him who is, and was, and is to come denotes God's eternal and unchanging nature. The number seven represents the diversity of the Holy Spirit's operations.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8529679339476761,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                35.1,
+                31.55,
+                33.35
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John, the apostle, signs himself without addition, suggesting his honesty as the writer. The seven represent the universal Church. The seven Spirits which are before his throne refer to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is sacred, signifying God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The phrase Him who is, and was, and is to come denotes God's eternal and unchanging nature. The number seven represents the diversity of the Holy Spirit's operations.",
+            "wordCount": 101,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.908443091307121,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.8,
+            "commentatorTierSimilarities": [
+                35.09,
+                31.65,
+                33.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "John signs himself without addition, suggesting his honesty as the writer. The seven represent the universal Church. The seven Spirits which are before his throne refer to the Holy Spirit in His perfect and complete energy, corresponding to the seven churches. The number seven is sacred, signifying God's covenant relation to mankind and the Church. This salutation in the name of the Holy Trinity invokes grace and peace. The phrase Him who is, and was, and is to come denotes God's eternal and unchanging nature. The number seven represents the diversity of the Holy Spirit's operations.",
+            "wordCount": 99,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.8529679339476761,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.95,
+            "commentatorTierSimilarities": [
+                35.1,
+                31.55,
+                33.35
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

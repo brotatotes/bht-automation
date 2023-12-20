@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:45:54",
+    "verseRef": "Revelation 11:12",
+    "bestBHT": {
+        "bht": "The ascension of the witnesses is a powerful and public victory, celebrated openly before their enemies. As Jesus ascended, so do the witnesses, representing the triumph of the sealed of Israel and the elect of all nations. Caught up beyond the reach of the Antichristian foe, their transfiguration mirrors the rapture described by Paul. This event, witnessed by those who killed them, echoes the ascension of Elijah. Their ascent serves as a testament to their faithfulness and the ultimate vindication of their testimony.",
+        "wordCount": 83,
+        "quoteTokenProportion": 33.93,
+        "qualityScore": 1.9790681642601726,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+        "commentatorTierSimilarities": [
+            40.3,
+            33.24,
+            26.46
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Come up hither, And they went up to heaven in the cloud.\" ",
+            "The ascension of the witnesses partakes of the character of His ascension.",
+            "No attempt has been made to explain this ascension by those who interpret the witnesses figuratively of the Old and New Testament."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But I prefer taking the article as definitely alluding to THE cloud which received Jesus at His ascension.",
+            "In their ascension is the translation and transfiguration of the sealed of Israel and the elect of all nations, caught up out of the reach of the Antichristian foe.",
+            "The Church caught up to meet the Lord in the air, and transfigured in body, is justified by her Lord before the world."
+        ],
+        "Albert Barnes": [
+            "John says that a voice was addressed to them calling them to ascend to heaven.",
+            "The meaning is, that these witnesses, after bearing a faithful testimony against prevailing errors and sins, would be persecuted and silenced.",
+            "They would again revive, as if the dead were restored to life, and bear a faithful testimony to the truth again."
+        ],
+        "Philip Schaff": [
+            "They went up into heaven in the cloud, not in the clouds, or simply in a cloud; but in a distinct and definite cloud...\" (Revelation 11:12)",
+            "...in the presence of the same beholders, and they obey.\" (Revelation 11:12)",
+            "Their triumph was witnessed by those who killed them.\" (Revelation 11:12)"
+        ],
+        "Archibald T. Robertson": [
+            "Come up hither...The ascension of these two witnesses is in full view of their enemies, not just in the presence of a few friends as with Christ.\" ",
+            "Their triumph is openly celebrated before their enemies and is like the rapture described by Paul in 1 Thessalonians 4:17.\" ",
+            "The ascension of these two witnesses...like Elijah (2 Kings 2:11)."
+        ],
+        "John Gill": [
+            "And they ascended up to heaven in a cloud; which is to be understood not literally, but mystically, of a more glorious state of the church.",
+            "This will be the beginning of the spiritual reign of Christ; and this ascension of the witnesses will be in a cloud, in allusion to our Lord's ascension to heaven, and as expressive of that glory and majesty which will be put upon these risen witnesses.",
+            "It may be that this may denote that the first appearance of these happy times, and of Christ's spiritual reign in his church, and their more comfortable enjoyment, will be at first but dim and obscure, and yet such as, in comparison of their former state, will be visible to, and be taken notice of, even by their very enemies."
+        ],
+        "John Wesley": [
+            "And I heard a great voice \u2014 Designed for all to hear.",
+            "And they went up to heaven, and their enemies beheld them \u2014 who had not taken notice of their rising again; by which some had been convinced before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ascension of the witnesses in Revelation 11:12 is a powerful and public display of victory. They are called to Come up hither and ascend to heaven in the cloud, reminiscent of Jesus' own ascension. This moment of translation and transfiguration represents the triumph of the sealed of Israel and the elect of all nations over the Antichristian foe. Just as the Church will be caught up to meet the Lord in the air and be transfigured in body, the witnesses are openly celebrated before their enemies, akin to the rapture described by Paul. Their ascension in full view of their enemies echoes the likes of Elijah, further emphasizing the magnitude of this event.",
+            "wordCount": 113,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 2.1181189623608914,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+            "commentatorTierSimilarities": [
+                41.42,
+                30.57,
+                28.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The ascension of the witnesses in Revelation 11:12 is a public triumph celebrated openly before their enemies, resembling the rapture described by Paul in 1 Thessalonians 4:17. Their translation and transfiguration symbolize the victory of the sealed of Israel and the elect of all nations over the Antichristian foe, much like the Church being caught up to meet the Lord in the air. This event, reminiscent of Elijah's ascension, highlights the significance and magnitude of their ascent.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.9982807776419373,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.78,
+            "commentatorTierSimilarities": [
+                42.08,
+                30.58,
+                27.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The ascension of the witnesses in Revelation is a public display of victory, akin to Jesus' own ascension. Their translation and transfiguration represent the triumph of the sealed of Israel and the elect of all nations, caught up beyond the reach of the Antichristian foe. It is a moment celebrated openly before their enemies, resembling the rapture described by Paul. This event, witnessed by those who killed them, echoes the ascension of Elijah and reveals the magnitude of their ascent.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 2.0738314779623845,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.3,
+            "commentatorTierSimilarities": [
+                42.82,
+                31.0,
+                26.18
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ascension of the witnesses is a powerful and public victory, celebrated openly before their enemies. As Jesus ascended, so do the witnesses, representing the triumph of the sealed of Israel and the elect of all nations. Caught up beyond the reach of the Antichristian foe, their transfiguration mirrors the rapture described by Paul. This event, witnessed by those who killed them, echoes the ascension of Elijah. Their ascent serves as a testament to their faithfulness and the ultimate vindication of their testimony.",
+            "wordCount": 83,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.9790681642601726,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                40.3,
+                33.24,
+                26.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ascension of the witnesses in Revelation is a powerful and public display of victory, celebrating the triumph of the sealed of Israel and the elect of all nations. Like Jesus' ascension, their translation and transfiguration are witnessed openly before their enemies. This event serves as a testament to their faithfulness and the ultimate vindication of their testimony. Their ascent, resembling the rapture described by Paul, echoes the ascension of Elijah, highlighting the magnitude and significance of their journey.",
+            "wordCount": 79,
+            "quoteTokenProportion": 26.92,
+            "qualityScore": 2.0157868554644494,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.37,
+            "commentatorTierSimilarities": [
+                40.03,
+                32.9,
+                27.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

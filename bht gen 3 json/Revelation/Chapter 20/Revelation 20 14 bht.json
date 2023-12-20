@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:50:04",
+    "verseRef": "Revelation 20:14",
+    "bestBHT": {
+        "bht": "Death, the last enemy, shall be destroyed. Christ and His people shall never more die or be in the state of disembodied spirits, as there is a second and deeper death. In the lake of fire, death and Hades are cast, signifying Christ's victory over death. In this second death, death is personified and abolished. There is no more fear of death, for death is no more. The second death is a state of eternal separation from God's redemption.",
+        "wordCount": 81,
+        "quoteTokenProportion": 43.48,
+        "qualityScore": 3.0151695723416467,
+        "qualityScoreNormalizedComparedToV2BHTs": 91.59,
+        "commentatorTierSimilarities": [
+            36.58,
+            32.12,
+            31.3
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The last enemy that shall be destroyed is death.",
+            "He will swallow up death in victory.",
+            "As there is a second and higher life, so there is also a second and deeper death."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Death and Hades...are said to be cast into the lake of fire to express the truth that Christ and His people shall never more die, or be in the state of disembodied spirits.",
+            "In hell the ancient form of death...shall not continue, but a death of a far different kind reigns there, 'everlasting destruction from the presence of the Lord': an abiding testimony of the victory of Christ.",
+            "Christ and His people shall never more die, or be in the state of disembodied spirits."
+        ],
+        "Albert Barnes": [
+            "The righteous will live forever, and the wicked will linger on in a state never to be terminated by death.",
+            "There might be what would be properly called death, but it would not be death in this form; the soul would live forever, but it would not be in that condition represented by the word \u03b1\u0314\u0301\u0345\u03b4\u03b7\u03c2 hade\u0304s - 'hades'.",
+            "Death, in any form, is the penalty of law; it is attended with pain; it cuts off from hope, from friends, from enjoyment; it subjects him who dies to a much-dreaded condition, and in all these respects it was proper to call the final condition of the wicked 'death' - though it would still be true that the soul would live."
+        ],
+        "Marvin Vincent": [
+            "This is the second death. Add even the lake of fire."
+        ],
+        "Philip Schaff": [
+            "The second death is \u2018the lake of fire,\u2019 clearly showing that the second death is a state.",
+            "It is the state of those who have chosen and confirmed to themselves the death which came upon man by sin.",
+            "From which Christ redeems, but which becomes to those who wilfully reject His redemption a still more fearful, even the second, death."
+        ],
+        "Archibald T. Robertson": [
+            "Death is personified and is disposed of, 'the last enemy' and Paul sings the paean of victory over death.",
+            "Hades has no more terrors, for the saints are in heaven.",
+            "There is no more fear of death, for death is no more."
+        ],
+        "John Gill": [
+            "Death cannot be taken properly, nor hell be the place of torment, for devils and damned spirits; since that is that lake of fire.",
+            "Either by these the devil is meant, who has the power of death, and is the prince of hell.",
+            "The destruction of the soul and body in hell, which will consist in an eternal separation of both from God, and in a continual sense of his wrath and displeasure."
+        ],
+        "John Wesley": [
+            "And death and hades were cast into the lake of fire \u2014 That is, were abolished for ever..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Death, the last enemy, shall be destroyed. As there is a second and deeper death, Christ and His people shall never more die or be in the state of disembodied spirits. In the lake of fire, death and Hades are cast, signifying Christ's victory over death and a testimony that He and His people shall never die again. In this second death, death is personified and abolished. There is no more fear of death, for death is no more. The second death is a state of eternal separation from God's redemption.",
+            "wordCount": 93,
+            "quoteTokenProportion": 46.0,
+            "qualityScore": 3.0038948256588114,
+            "qualityScoreNormalizedComparedToV2BHTs": 91.22,
+            "commentatorTierSimilarities": [
+                37.0,
+                32.52,
+                30.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Death, the last enemy, shall be destroyed. Christ and His people shall never more die or be in the state of disembodied spirits, as there is a second and deeper death. In the lake of fire, death and Hades are cast, signifying Christ's victory over death. In this second death, death is personified and abolished. There is no more fear of death, for death is no more. The second death is a state of eternal separation from God's redemption.",
+            "wordCount": 81,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 3.0151695723416467,
+            "qualityScoreNormalizedComparedToV2BHTs": 91.59,
+            "commentatorTierSimilarities": [
+                36.58,
+                32.12,
+                31.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the final victory over death, Christ and His people will never die or be in a disembodied state. Death and Hades are thrown into the lake of fire, symbolizing the end of death and the triumph of Christ. The second death is a state of eternal separation from God's redemption, where there is no more fear of death. This state is the result of choosing and confirming the death that came through sin, and it represents everlasting destruction from the presence of the Lord.",
+            "wordCount": 86,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.9197225010697854,
+            "qualityScoreNormalizedComparedToV2BHTs": 88.42,
+            "commentatorTierSimilarities": [
+                33.79,
+                33.42,
+                32.79
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the final victory over death, Christ and His people shall never die or be in a disembodied state. Death and Hades are cast into the lake of fire, representing the truth that they will no longer have power. The second death is a state of everlasting destruction, a testimony of Christ's triumph. Death is personified and abolished, and there is no more fear of death. This state is a result of rejecting Christ's redemption and choosing a more fearful, eternal separation from God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 39.29,
+            "qualityScore": 2.7879349717537436,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.04,
+            "commentatorTierSimilarities": [
+                33.8,
+                32.65,
+                33.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the final victory over death, Christ and His people shall never die or be in a disembodied state. Death and Hades are cast into the lake of fire, representing the truth of their defeat. The second death is a state of everlasting destruction, a testimony to Christ's triumph over the ancient form of death. This state is an eternal separation from God's presence, chosen by those who reject His redemption. It is a more fearful death, where the soul and body are separated from God in a place of torment.",
+            "wordCount": 93,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.789108701519089,
+            "qualityScoreNormalizedComparedToV2BHTs": 84.08,
+            "commentatorTierSimilarities": [
+                31.95,
+                33.05,
+                35.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

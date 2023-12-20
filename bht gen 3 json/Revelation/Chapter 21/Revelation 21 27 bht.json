@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:51:00",
+    "verseRef": "Revelation 21:27",
+    "bestBHT": {
+        "bht": "And there shall never enter into her every thing unclean, and working abomination and falsehood, but only they that are written in the book of life of the Lamb... if then the kings of the earth, and the nations, bring their glory and their treasures into her, and if none shall ever enter into her that is not written in the book of life, it follows, that those kings, and these nations, are written in the book of life. As all the filth of the old Jerusalem was carried outside the walls and burnt there, so nothing defiled shall enter the heavenly city, but be burnt outside... There shall in no wise enter into it anything unclean, or he that maketh an abomination and a lie, but only they which are written in the Lamb\u2019s book of life.",
+        "wordCount": 139,
+        "quoteTokenProportion": 53.62,
+        "qualityScore": 2.479980180939318,
+        "qualityScoreNormalizedComparedToV2BHTs": 73.8,
+        "commentatorTierSimilarities": [
+            31.06,
+            38.6,
+            30.34
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And there shall never enter into her every thing unclean, and working abomination and falsehood, but only (literally, except) they that are written in the book of life of the Lamb...\" ",
+            "...if then the kings of the earth, and the nations, bring their glory and their treasures into her, and if none shall ever enter into her that is not written in the book of life, it follows, that those kings, and these nations, are written in the book of life.\" ",
+            "And so perhaps some light may be thrown on one of the darkest mysteries of redemption. There may be,\u2014I say with all diffidence\u2013those who have been saved by Christ without ever forming a part of his visible organized Church."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As all the filth of the old Jerusalem was carried outside the walls and burnt there, so nothing defiled shall enter the heavenly city, but be burnt outside.",
+            "It is striking that the apostle of love, who shows us the glories of the heavenly city, is he also who speaks most plainly of the terrors of hell.",
+            "On Revelation 21:26; Revelation 21:27, ALFORD writes a Note, rash in speculation, about the heathen nations, above what is written, and not at all required by the sacred text."
+        ],
+        "Albert Barnes": [
+            "There shall in no wise - On no account; by no means. This strong language denotes the absolute exclusion of all that is specified in the verse.",
+            "Anything that defileth - Literally, anything 'common.' It means here that nothing will be found in that blessed abode which is unholy or sinful. It will be a pure world.",
+            "But they which are written in the Lamb\u2019s book of life - Whose names are there recorded."
+        ],
+        "Marvin Vincent": [
+            "That defileth...unhallowed...unclean.",
+            "Worketh...maketh or doeth.",
+            "In this present life...we make the nearest approach to knowledge when we have the least possible communion or fellowship with the body."
+        ],
+        "Philip Schaff": [
+            "For these purposes alone shall the open gates be used. There shall in no wise enter into it anything unclean, or he that maketh an abomination and a lie.",
+            "There is indeed now nothing unclean; there is no wilful sinner of any kind to enter. All the enemies of God have been overcome: all sin has been banished for ever.",
+            "But they only which are written in the Lamb\u2019s book of life. Such alone are found upon the earth; and, as we lift our eyes to the city, we behold them flocking in from the East and from the West, from the North and from the South, their toilsome pilgrimage closed, their hard struggle ended, their glory come."
+        ],
+        "Archibald T. Robertson": [
+            "There shall in no wise enter into it...Anything unclean.",
+            "Maketh an abomination and a lie.",
+            "But only they which are written."
+        ],
+        "John Gill": [
+            "No profane sinner, whose mind and conscience are defiled, and whose conversation is defiling, may enter here.",
+            "Only such who are washed in the blood of Christ, and have on his righteousness, and so are without spot or wrinkle; which shows the pure and perfect state of this church.",
+            "They which are written in the Lamb's book of life...are made meet and fit to enter this city."
+        ],
+        "John Wesley": [
+            "Those who are written in the Lamb's book of life \u2014 True, holy, persevering believers.",
+            "This blessedness is enjoyed by those only.",
+            "They are registered among them who are to inherit eternal life."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And there shall never enter into her every thing unclean, and working abomination and falsehood, but only (literally, except) they that are written in the book of life of the Lamb... if then the kings of the earth, and the nations, bring their glory and their treasures into her, and if none shall ever enter into her that is not written in the book of life, it follows, that those kings, and these nations, are written in the book of life. There may be those who have been saved by Christ without ever forming a part of his visible organized Church... As all the filth of the old Jerusalem was carried outside the walls and burnt there, so nothing defiled shall enter the heavenly city, but be burnt outside... There shall in no wise enter into it anything unclean, or he that maketh an abomination and a lie, but only they which are written in the Lamb\u2019s book of life. Such alone are found upon the earth; and, as we lift our eyes to the city, we behold them flocking in from the East and from the West, from the North and from the South, their toilsome pilgrimage closed, their hard struggle ended, their glory come.",
+            "wordCount": 207,
+            "quoteTokenProportion": 49.54,
+            "qualityScore": 2.1710130716469824,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.53,
+            "commentatorTierSimilarities": [
+                30.0,
+                40.17,
+                29.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And there shall never enter into her every thing unclean, and working abomination and falsehood, but only they that are written in the book of life of the Lamb... if then the kings of the earth, and the nations, bring their glory and their treasures into her, and if none shall ever enter into her that is not written in the book of life, it follows, that those kings, and these nations, are written in the book of life. As all the filth of the old Jerusalem was carried outside the walls and burnt there, so nothing defiled shall enter the heavenly city, but be burnt outside... There shall in no wise enter into it anything unclean, or he that maketh an abomination and a lie, but only they which are written in the Lamb\u2019s book of life.",
+            "wordCount": 139,
+            "quoteTokenProportion": 53.62,
+            "qualityScore": 2.479980180939318,
+            "qualityScoreNormalizedComparedToV2BHTs": 73.8,
+            "commentatorTierSimilarities": [
+                31.06,
+                38.6,
+                30.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Only those whose names are written in the book of life of the Lamb will enter the heavenly city. They will not allow anything unclean, abominable, or deceptive to enter their midst. The purity of the city will be preserved, just as the filth of the old Jerusalem was carried away and burned outside the walls. This exclusion of impurity demonstrates the sanctity and holiness of the heavenly city.",
+            "wordCount": 69,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9695631935982627,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.83,
+            "commentatorTierSimilarities": [
+                28.35,
+                36.28,
+                35.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavenly city will not admit anything unclean, abominable, or deceitful, except for those written in the book of life of the Lamb. This emphasizes the importance of being registered in the Lamb's book of life to gain entry into the purity of the city. The filth of old Jerusalem was discarded and burned outside the walls, symbolizing the complete absence of defilement within the heavenly city. The exclusion of impurity highlights the holiness and sanctity of this celestial abode.",
+            "wordCount": 81,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.9180925679524468,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.12,
+            "commentatorTierSimilarities": [
+                29.12,
+                37.43,
+                33.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavenly city will only admit those written in the book of life, excluding anything unclean, abominable, or deceitful. The purity of the city is emphasized by the removal and burning of filth outside the walls, ensuring that nothing defiled enters its gates. This strict exclusion underscores the holiness and sanctity of the heavenly city, where only those who have been saved by Christ and are without spot or wrinkle will dwell.",
+            "wordCount": 72,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.0043685937609923,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.99,
+            "commentatorTierSimilarities": [
+                29.37,
+                38.02,
+                32.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

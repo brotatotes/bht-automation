@@ -1,0 +1,148 @@
+{
+    "timestamp": "12-19-2023 21:45:37",
+    "verseRef": "Revelation 11:6",
+    "bestBHT": {
+        "bht": "Described as having authorized power, the witnesses possess the ability to shut the heaven and prevent rain from moistening the earth, much like Elijah's prayer. Moreover, they can turn waters into blood, representing the confusions and wars that will result from their prophetic messages. With unparalleled authority, the witnesses can smite the earth with every plague as often as they desire, surpassing the capabilities of any other individual or figure from the Old Testament. Their power and influence have immense global significance, shaping blessings and curses alike.",
+        "wordCount": 88,
+        "quoteTokenProportion": 31.82,
+        "qualityScore": 1.8728087263921203,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+        "commentatorTierSimilarities": [
+            23.19,
+            41.68,
+            35.13
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These have the power to shut the heaven, that the rain may not rain during the days of their prophecy.",
+            "They have power over the waters to turn them into blood and to smite the earth with every plague as often as they shall be minded.",
+            "The one impersonates the law, the other the prophets... But whether we are to regard these prophecies as to be fulfilled by individuals, or by lines of testimony, must depend entirely on the indications here given."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. These . . . power\u2014Greek,",
+            "\t\"authorized power.\" ",
+            "\t",
+            "it rain not\u2014Greek,",
+            "\t\"huetos brechee,\" \"rain shower not,",
+            "\tliterally, \"moisten\" not (the earth). ",
+            "\t",
+            "smite . . . with all",
+            "\tplagues\u2014Greek, \"with (literally, 'in') every",
+            "\tplague."
+        ],
+        "Albert Barnes": [
+            "To shut or close up the heavens...is to restrain the rain from descending, or to produce a drought.",
+            "They would be clothed with the power of causing blessings to be withheld from people, as if rain were withheld.",
+            "Anything that would be represented by turning waters into blood, would correspond with all that is necessarily implied in the language."
+        ],
+        "Marvin Vincent": [
+            "To shut up the heaven.\" ",
+            "That it rain not [\u03b9\u03bd\u03b1 \u03bc\u03b7 \u03b2\u03c1\u03b5\u03c7\u03b7 \u03c5\u03b5\u03c4\u03bf\u03c2] . Lit., that the rain may not wet.",
+            "To smite [\u03c0\u03b1\u03c4\u03b1\u03be\u03b1\u03b9] . Used by John only in Revelation, here and Revelation 19:15. Compare Matthew 26:31; Mark 14:27; Luke 22:49, Luke 22:50; Acts 12:7, Acts 12:23. With all plagues [\u03c0\u03b1\u03c3\u03b7 \u03c0\u03bb\u03b7\u03b3\u03b7] . Singular number. Rev., correctly, with every plague."
+        ],
+        "Philip Schaff": [
+            "Not only does fire proceed out of the mouth of the witnesses; they have also the power to shut the heaven that it rain not during the days of their prophecy, and they have power over the waters to turn them into blood, and to smite the earth with every plague as often as they shall desire.\" ",
+            "The power of the witnesses is described in language far stronger than that of the Old Testament.",
+            "The witnesses may smite the whole earth with \u2018every plague as often as they shall desire.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "To shut the heaven... as Elijah did by prayer.",
+            "That it rain not... here with \u03c5\u03b5\u03c4\u03bf\u03c2 as subject.",
+            "As often as they shall desire... 'as often as they will.'"
+        ],
+        "John Gill": [
+            "having the true key of knowledge in matters, both of doctrine and discipline",
+            "the rain of the Gospel withheld during the reign of antichrist, because of the idolatry and superstition of the apostasy",
+            "turning of them into blood designs the confusions and wars raised among them on account of the prophesying of these witnesses, and the persecutions and bloodshed which followed upon it"
+        ],
+        "John Wesley": [
+            "To shut heaven, that it rain not in the days of their prophesying - During those 'twelve hundred and sixty days.' And have power over the waters - In and near Jerusalem.",
+            "To turn them into blood \u2014 As Moses did those in Egypt.",
+            "And to smite the earth with all plagues, as often as they will \u2014 This is not said of Moses or Elijah, or any mere man besides. And how is it possible to understand this otherwise than of two individual persons?"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The power of the witnesses in Revelation 11:6 is described as being authorized by God, allowing them to shut the heaven and prevent rain from moistening the earth, as well as to smite the earth with every plague as often as they desire. This power is reminiscent of Elijah's ability to shut up the heavens through prayer. The witnesses have the ability to bring blessings or withhold them, symbolized by turning waters into blood. Their authority is far stronger than that of the Old Testament, as they can smite the whole earth with every plague.",
+            "wordCount": 95,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.065753723825796,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.03,
+            "commentatorTierSimilarities": [
+                25.91,
+                43.83,
+                30.26
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The witnesses in this passage possess authorized power from God to shut the heaven and prevent rain from moistening the earth, similar to how Elijah did through prayer. They also have the ability to turn waters into blood, symbolizing the confusions and wars that arise as a result of their prophesying. These witnesses hold extraordinary authority, enabling them to smite the earth with every plague as often as they desire, surpassing the power of any other individual or figure in the Old Testament.",
+            "wordCount": 83,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.0152209720564502,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.35,
+            "commentatorTierSimilarities": [
+                23.75,
+                40.08,
+                36.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The witnesses possess authorized power to shut the heaven, preventing rain from moistening the earth, similar to Elijah's ability through prayer. They can turn waters into blood, symbolizing the confusions and wars that result from their prophesying. With extraordinary authority, they can smite the earth with every plague as often as they desire, surpassing the power of any individual in the Old Testament. This signifies their significant role in bringing blessings or withholding them, leaving a profound impact on the world.",
+            "wordCount": 82,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8381400937746935,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.46,
+            "commentatorTierSimilarities": [
+                24.67,
+                41.58,
+                33.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The witnesses in this verse possess authorized power from God to shut the heaven and prevent rain from moistening the earth, similar to Elijah's ability through prayer. They also have the ability to turn waters into blood, symbolizing the confusions and wars that arise as a result of their prophesying. These witnesses hold extraordinary authority, enabling them to smite the earth with every plague as often as they desire, surpassing the power of any other individual or figure in the Old Testament.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 2.0010785508834608,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+            "commentatorTierSimilarities": [
+                23.7,
+                40.55,
+                35.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Described as having authorized power, the witnesses possess the ability to shut the heaven and prevent rain from moistening the earth, much like Elijah's prayer. Moreover, they can turn waters into blood, representing the confusions and wars that will result from their prophetic messages. With unparalleled authority, the witnesses can smite the earth with every plague as often as they desire, surpassing the capabilities of any other individual or figure from the Old Testament. Their power and influence have immense global significance, shaping blessings and curses alike.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 1.8728087263921203,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.61,
+            "commentatorTierSimilarities": [
+                23.19,
+                41.68,
+                35.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

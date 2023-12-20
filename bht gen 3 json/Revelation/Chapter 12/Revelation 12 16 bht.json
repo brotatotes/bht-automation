@@ -1,0 +1,116 @@
+{
+    "timestamp": "12-19-2023 21:45:40",
+    "verseRef": "Revelation 12:16",
+    "bestBHT": {
+        "bht": "During persecution, the earth came to the aid of the woman (symbolizing the church) and swallowed up the flood unleashed by the dragon. This intervention, akin to a mighty flood being suddenly consumed, saved the church from utter destruction. The earth, representing faithful believers, played a crucial role in safeguarding the true church from the forces of darkness. This remarkable act of protection illustrates how the earth sympathized with the woman and interposed to preserve her.",
+        "wordCount": 76,
+        "quoteTokenProportion": 29.41,
+        "qualityScore": 1.4338641628763589,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.02,
+        "commentatorTierSimilarities": [
+            11.55,
+            44.94,
+            43.51
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Albert Barnes": [
+            "The earth seemed to sympathize with the woman in her persecutions, and to interpose to save her.",
+            "During the dark ages many such interventions occurred, saving the church from utter destruction.",
+            "John saw that the church was safe from this attack, and that, in order to preserve it, there was an interposition as marked and wonderful as if the earth should suddenly open and swallow up a mighty flood."
+        ],
+        "Archibald T. Robertson": [
+            "Helped the woman (\u03b5\u03b2\u03bf\u03b7\u03b8\u03b7\u03c3\u03b5\u03bd \u03c4\u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba).",
+            "Herodotus tells of the Lycus disappearing underground near Colossae.",
+            "Swallowed up (\u03ba\u03b1\u03c4\u03b5\u03c0\u03b9\u03b5\u03bd). Second aorist active indicative of \u03ba\u03b1\u03c4\u03b1\u03c0\u03b9\u03bd\u03c9, literally 'drank down.'"
+        ],
+        "John Gill": [
+            "And the earth helped the woman....and swallowed up the flood which the dragon east out of his mouth.",
+            "...the earth helping the woman, the church, and swallowing up this flood...",
+            "...the earth must be interpreted of the corrupt and antichristian church, the idolaters which sustained the force of this inundation, and for some time repelled it, and so secured the true church..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During a time of intense persecution, the earth intervened and provided assistance to the woman, symbolizing the church. It seemed as though the earth sympathized with the woman and acted to protect her. This intervention was so extraordinary that it can be compared to a mighty flood being suddenly swallowed up by the earth. In this way, the church was preserved from utter destruction and the forces of darkness were thwarted. It is evident that the earth, representing the faithful believers, played a crucial role in safeguarding the true church from the onslaught of the enemy.",
+            "wordCount": 96,
+            "quoteTokenProportion": 39.68,
+            "qualityScore": 1.3409147323713375,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.93,
+            "commentatorTierSimilarities": [
+                10.74,
+                46.79,
+                42.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During persecution, the earth came to the aid of the woman (symbolizing the church) and swallowed up the flood unleashed by the dragon. This intervention, akin to a mighty flood being suddenly consumed, saved the church from utter destruction. The earth, representing faithful believers, played a crucial role in safeguarding the true church from the forces of darkness. This remarkable act of protection illustrates how the earth sympathized with the woman and interposed to preserve her.",
+            "wordCount": 76,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.4338641628763589,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.02,
+            "commentatorTierSimilarities": [
+                11.55,
+                44.94,
+                43.51
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of persecution, the earth intervened to support the woman, signifying the church, by swallowing up the flood unleashed by the dragon. This striking act of protection can be compared to a mighty flood being suddenly consumed. The earth's assistance saved the church from complete devastation, demonstrating its solidarity and sympathy with the woman. The faithful believers played a crucial role as the earth, ensuring the preservation of the true church against the opposing forces of darkness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.319131366992976,
+            "qualityScoreNormalizedComparedToV2BHTs": 35.2,
+            "commentatorTierSimilarities": [
+                12.52,
+                42.77,
+                44.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In times of persecution, the earth provided help to the woman, symbolizing the church, by swallowing up the flood released by the dragon. This remarkable intervention can be likened to a mighty flood being suddenly drank down or consumed. Through this act of protection, the church was spared from utter destruction. It is clear that the earth, representing the faithful believers, played a vital role in defending the true church and repelling the forces of darkness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.351349776394673,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.28,
+            "commentatorTierSimilarities": [
+                13.38,
+                42.26,
+                44.36
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Amidst persecution, the woman, symbolizing the church, was aided by the earth as it swallowed up the flood unleashed by the dragon. This act of intervention mirrors a mighty flood being suddenly consumed. The earth's assistance ensured the preservation of the church, preventing its complete destruction. The earth, representing the faithful believers, played a significant role in defending the true church from the forces of darkness, displaying unity and support.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.45,
+            "qualityScore": 1.3507664123586545,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.26,
+            "commentatorTierSimilarities": [
+                12.16,
+                42.61,
+                45.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:48:23",
+    "verseRef": "Revelation 17:13",
+    "bestBHT": {
+        "bht": "The new powers that arise are described as having one mind and purpose, giving their might and power to the beast. They become dependent allies, wholly serving the beast, just as the dragon gave power and authority to him. These powers support the papacy and the purposes of papal Rome, but their allegiance will be short-lived. The true KING OF KINGS will soon appear to swiftly destroy the beast and bring its reign to an end.",
+        "wordCount": 77,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.150732970312936,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+        "commentatorTierSimilarities": [
+            25.46,
+            40.88,
+            33.66
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The present is used in describing them, though they have not yet arisen.",
+            "One mind - one and the same view and intent and consent.",
+            "Give their might and power to the beast - becoming his allies and moving at his beck."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One mind\u2014one sentiment.",
+            "They become his dependent allies.",
+            "The true KING OF KINGS appears and dashes him down in a moment to destruction."
+        ],
+        "Albert Barnes": [
+            "These have one mind - That is, they are united in the promotion of the same object.",
+            "Shall lend their influence to the support of the papacy, and become the upholders of that power.",
+            "All 'their power and strength was given unto the beast'; all was made subservient to the purposes of papal Rome."
+        ],
+        "Marvin Vincent": [
+            "Mind, meaning primarily the faculty of knowing, mind, reason; then that which is thought or known; opinion, purpose.",
+            "Shall give, the present tense, give. The force of dia is over; give over.",
+            "Power and authority. For the distinction, see on 2 Peter 2:11."
+        ],
+        "Philip Schaff": [
+            "These have one mind, and they give their power and authority unto the beast.",
+            "The brute power of the world could of itself effect nothing.",
+            "The false prophet and the harlot, or the kings who have listened to the harlot\u2019s witcheries."
+        ],
+        "Archibald T. Robertson": [
+            "One purpose\" as in Acts 20:3; 1 Corinthians 1:10.",
+            "The new powers are allies of the beast.",
+            "Just as the dragon gave both power and authority to the beast (Revelation 13:2), so they are wholly at the service of the beast."
+        ],
+        "John Gill": [
+            "The princes of these kingdoms, and their subjects, become, in time, of one religion; first they were Arians, and then Papists.",
+            "To him they have given power to exercise all ecclesiastical authority in their kingdoms; as to ordain bishops, and deliver the pall to whom they will; to excommunicate offenders, and even lay their kingdoms under an interdict when they pleased.",
+            "They have given their riches and wealth, which are called the forces of strength... hence the whore of Rome came to be decked with gold, and pearls, and precious stones."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 17:13, we see a description of the new powers that arise, united in their purpose and consent, giving their might and power to the beast. Just as the dragon gave power and authority to the beast in Revelation 13:2, these allies of the beast become wholly at his service. They lend their influence to the support of the papacy, upholding the power of papal Rome. These powers, united in their promotion of the same object, give over their power and authority to the beast, making all subservient to the purposes of papal Rome. Ultimately, the true KING OF KINGS will appear and swiftly bring destruction to the beast.",
+            "wordCount": 108,
+            "quoteTokenProportion": 38.33,
+            "qualityScore": 2.134219947627643,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.3,
+            "commentatorTierSimilarities": [
+                24.83,
+                42.72,
+                32.45
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The new powers described in these verses arise with one mind and purpose, giving their might and power to the beast. They become dependent allies, wholly serving the beast, just as the dragon gave power and authority to him. These powers lend their influence to uphold the papacy and support the purposes of papal Rome. However, their allegiance will be short-lived, as the true KING OF KINGS will soon appear and swiftly destroy the beast.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.148763150753412,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.79,
+            "commentatorTierSimilarities": [
+                24.83,
+                40.07,
+                35.1
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Describing the emergence of these new powers, the first-tier commentary reveals that they are yet to arise, united in one mind and purpose to become dependent allies of the beast. The second-tier commentary further adds that their united effort involves lending their influence to support the papacy and the power of papal Rome. However, the destruction of the beast is imminent, for the true KING OF KINGS will appear and swiftly bring an end to its reign.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.8546789279200513,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                25.4,
+                38.72,
+                35.88
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The new powers that arise are described as having one mind and purpose, giving their might and power to the beast. They become dependent allies, wholly serving the beast, just as the dragon gave power and authority to him. These powers support the papacy and the purposes of papal Rome, but their allegiance will be short-lived. The true KING OF KINGS will soon appear to swiftly destroy the beast and bring its reign to an end.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.150732970312936,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.85,
+            "commentatorTierSimilarities": [
+                25.46,
+                40.88,
+                33.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The emerging powers are depicted as united in one mind and purpose, giving their might and power to the beast, becoming dependent allies. They lend their influence to support the papacy and the power of papal Rome. Yet, their alliance with the beast will come to an end when the true KING OF KINGS appears and swiftly destroys the beast, bringing its reign to a sudden and definitive end.",
+            "wordCount": 69,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.102083250296305,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.24,
+            "commentatorTierSimilarities": [
+                23.91,
+                40.46,
+                35.63
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

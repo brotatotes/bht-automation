@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:42:59",
+    "verseRef": "Revelation 5:6",
+    "bestBHT": {
+        "bht": "The Lamb, standing in the midst of heavenly glory, reflects the concepts of meekness and innocence. Although appearing as though it had been slain, the Lamb is alive, embodying the endearing relation to us as the sacrificial Lamb. With seven eyes symbolizing watchful providence and seven horns representing complete dominion and strength, the Lamb fulfills the roles of prophet, priest, and king. Through His perfect knowledge, wisdom, and powerful Spirit, He executes His purposes, bringing joy to His people and fear to His enemies.",
+        "wordCount": 84,
+        "quoteTokenProportion": 28.33,
+        "qualityScore": 2.105514495077491,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+        "commentatorTierSimilarities": [
+            34.66,
+            36.51,
+            28.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Possibly it may be to put forward more prominently the idea of meekness and innocence.\" ",
+            "Looking as if it had been slain: compare ch. i. 18.\" ",
+            "The seven eyes of the Lamb represent the same Spirit in his sevenfold perfection, profluent, so to speak, from the incarnate Redeemer: busied in His world-wide and world-long energy."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Lamb\u2014Greek, 'arnion' always found in Revelation exclusively, expresses endearment, namely, the endearing relation in which Christ now stands to us, as the consequence of His previous relation as the sacrificial Lamb.",
+            "In the midst of heavenly glory Christ crucified is still the prominent object.",
+            "The seven eyes of the Lamb represent the same sevenfold Spirit profluent from the incarnate Redeemer in His world-wide energy. 'Eyes' symbolize His all-watchful and wise providence for His Church, and against her foes."
+        ],
+        "Albert Barnes": [
+            "An appellation often given to the Messiah, for two reasons: (1)Because the lamb was an emblem of innocence and, (2)Because a lamb was offered commonly in sacrifice.",
+            "The great work which the Redeemer performed - that of making an atonement for sin - was thus represented to John in such a way that he at once recognized him, and saw the reason why the office of breaking the seals was entrusted to him.",
+            "The meaning is, that he had so large a number [of horns] as to denote complete dominion."
+        ],
+        "Marvin Vincent": [
+            "In the midst of. Not on the throne, but perhaps in the space in the center of which is the throne.",
+            "Christ had just been spoken of as a lion. He now appears as a lamb. Some interpreters emphasize the idea of gentleness, others that of sacrifice.",
+            "Though slaughtered the lamb stands. Christ, though slain, is risen and living."
+        ],
+        "Philip Schaff": [
+            "The Seer had been told of a lion, and he beholds a lamb.",
+            "The Lamb 'stands,' stands as a living, not lies as a dead, animal. Jesus risen and glorified is presented to our view.",
+            "In short, we have here the great lesson alike of the Apocalypse and of the Fourth Gospel, that we are redeemed not merely by a Saviour who died, but by one who also rose to everlasting and glorious life."
+        ],
+        "Archibald T. Robertson": [
+            "In the midst (\u03b5\u03bd \u03bc\u03b5\u03c3\u03c9). See Revelation 4:6 for this idiom. It is not quite clear where the Lamb was standing in the vision, whether close to the throne or in the space between the throne and the elders.",
+            "A Lamb (\u03b1\u03c1\u03bd\u03b9\u03bf\u03bd). Elsewhere in the N.T. \u03bf \u03b1\u03bc\u03bd\u03bf\u03c2 is used of Christ (John 1:29; John 1:36; Acts 8:32; 1 Peter 1:19 like Isaiah 53:7), but in the Apocalypse \u03c4\u03bf \u03b1\u03c1\u03bd\u03b9\u03bf\u03bd occurs for the Crucified Christ 29 times in twelve chapters.",
+            "As though it had been slain (\u03c9\u03c2 \u03b5\u03c3\u03c6\u03b1\u03b3\u03bc\u03b5\u03bd\u03bf\u03bd). Perfect passive predicate participle of \u03c3\u03c6\u03b1\u03b6\u03c9, old word, in N.T. only in Revelation 5:6; Revelation 5:9; Revelation 5:12; Revelation 6:4; Revelation 6:9; Revelation 13:3; Revelation 18:24; 1 John 3:12. H\u03c9\u03c2 (as if) is used because the Lamb is now alive, but (in appearance) with the marks of the sacrifice."
+        ],
+        "John Gill": [
+            "Christ had been really slain by the wicked hands of the Jews, and not in appearance only; the as, here, is not a note of mere similitude and likeness, but of reality and truth.",
+            "He, appeared before the throne for them, as their advocate, and stood ready to give them all the assistance, and to do them all the good he could.",
+            "These 'seven eyes' may design the perfect knowledge of Christ, his foresight of future events, and his all wise providence, which is always and everywhere concerned to fulfil and accomplish them."
+        ],
+        "John Wesley": [
+            "Standing \u2014 He lieth no more; he no more falls on his face; the days of his weakness and mourning are ended. He is now in a posture of readiness to execute all his offices of prophet, priest, and king.",
+            "As if he had been slain \u2014 Doubtless with the prints of the wounds which he once received. And because he was slain, he is worthy to open the book, to the joy of his own people, and the terror of his enemies.",
+            "Having seven horns \u2014 As a king, the emblem of perfect strength. And seven eyes \u2014 The emblem of perfect knowledge and wisdom. By these he accomplishes what is contained in the book, namely, by his almighty and all-wise Spirit."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lamb in the midst of heavenly glory takes on the image of meekness and innocence, standing as a living and not dead animal. Though He was slaughtered, Christ is now risen and living, presenting Himself as the sacrificial Lamb who redeemed us and now stands ready to assist and do good for His people. With seven eyes representing His all-watchful and wise providence, and seven horns symbolizing His complete dominion and perfect strength, the Lamb fulfills His roles of prophet, priest, and king. Through His perfect knowledge, wisdom, and powerful Spirit, He executes His purposes to the joy of His people and the terror of His enemies.",
+            "wordCount": 109,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 2.1560054363275243,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.03,
+            "commentatorTierSimilarities": [
+                31.05,
+                34.21,
+                34.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The meekness and innocence of the Lamb is emphasized as He stands in the midst of heavenly glory, appearing as if He had been slain but now risen and living. His seven eyes symbolize His all-watchful and wise providence for His Church, while His seven horns represent His complete dominion and perfect strength. As the sacrificial Lamb, He redeemed us and stands ready to assist and do good for His people. Through His perfect knowledge, wisdom, and powerful Spirit, He executes His roles as prophet, priest, and king, fulfilling His purposes to both the joy of His people and the terror of His enemies.",
+            "wordCount": 105,
+            "quoteTokenProportion": 31.82,
+            "qualityScore": 2.0886186611393,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.79,
+            "commentatorTierSimilarities": [
+                29.72,
+                33.02,
+                37.26
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lamb, appearing as though it had been slain, stands in the midst of heavenly glory, embodying the ideas of meekness and innocence. His standing position represents His risen and living state, offering Himself as the sacrificial Lamb who redeemed us. Through His seven eyes, symbolizing his watchful and wise providence, and His seven horns, symbolizing His complete dominion, He fulfills His roles as prophet, priest, and king. With perfect knowledge and wisdom, He executes His purposes, bringing joy to His people and striking fear into his enemies.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.061212552981069,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.88,
+            "commentatorTierSimilarities": [
+                31.02,
+                34.4,
+                34.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lamb, standing in the midst of heavenly glory, reflects the concepts of meekness and innocence. Although appearing as if it had been slain, the Lamb is alive. Through the seven eyes symbolizing watchful providence and the seven horns representing complete dominion, the Lamb fulfills His roles as prophet, priest, and king. Redeeming us, He stands ready to assist and do good, executing His purposes with perfect knowledge and wisdom. His presence brings joy to His people and fear to His enemies.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 1.931150991859905,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.55,
+            "commentatorTierSimilarities": [
+                32.76,
+                34.74,
+                32.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lamb, standing in the midst of heavenly glory, reflects the concepts of meekness and innocence. Although appearing as though it had been slain, the Lamb is alive, embodying the endearing relation to us as the sacrificial Lamb. With seven eyes symbolizing watchful providence and seven horns representing complete dominion and strength, the Lamb fulfills the roles of prophet, priest, and king. Through His perfect knowledge, wisdom, and powerful Spirit, He executes His purposes, bringing joy to His people and fear to His enemies.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.105514495077491,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.35,
+            "commentatorTierSimilarities": [
+                34.66,
+                36.51,
+                28.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

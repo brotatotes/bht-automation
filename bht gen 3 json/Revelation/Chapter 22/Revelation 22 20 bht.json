@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:51:10",
+    "verseRef": "Revelation 22:20",
+    "bestBHT": {
+        "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming echoes the yearning prayer found in the Song of Solomon, emphasizing the believer's longing for the arrival of the Lord. By saying, Come, Lord Jesus, John's response aligns with Christ's declaration of His imminent arrival, highlighting the shared mindset between the Lord and His faithful followers, as they eagerly await the establishment of His everlasting kingdom.",
+        "wordCount": 85,
+        "quoteTokenProportion": 29.82,
+        "qualityScore": 2.1283168714372342,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+        "commentatorTierSimilarities": [
+            36.52,
+            35.7,
+            27.78
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He who testifieth these things (the Lord Jesus) saith, Yea, I come quickly. Amen (the reply of the Apostle, not the conclusion of our Lord\u2019s saying), Come, Lord Jesus,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Amen. Even so, come\u2014The Song of Solomon (Song of Solomon 8:14) closes with the same yearning prayer for Christ's coming.",
+            "then translate for Amen, 'So be it, come, Lord Jesus'; joining the 'Amen,' or 'So be it,' not with Christ's saying (for He calls Himself the 'Amen' at the beginning of sentences, rather than puts it as a confirmation at the end), but with John's reply.",
+            "Christ's 'I come,' and John's 'Come,' are almost coincident in time; so truly does the believer reflect the mind of his Lord."
+        ],
+        "Albert Barnes": [
+            "The fact that Jesus himself vouches for the truth of what is here revealed, shows the propriety of what John had said in the previous verses about adding to it, or taking from it.",
+            "He longed for his appearing.",
+            "It is appropriate for us as we finish its contemplation, disclosing so much of the glories of the heavenly world, and the blessedness of the redeemed in their final state, when we think of the earth, with its sorrows, trials, and cares, to respond to the prayer, and to say, 'Come, Lord Jesus, come quickly.'"
+        ],
+        "Marvin Vincent": [
+            "Even so [\u03bd\u03b1\u03b9] . Omit."
+        ],
+        "Philip Schaff": [
+            "The Coming of Christ has been the source of her hope, the spring of her joy, throughout all her troubles. When she hears that it is at hand, what can she do but lift up her head and cry 'Come'?\" ",
+            "The grace of the Lord Jesus be with the saints.\" ",
+            "Amen, so let it be."
+        ],
+        "Archibald T. Robertson": [
+            "He which testifieth.",
+            "Amen: come, Lord Jesus.",
+            "\u0391\u03bc\u03b7\u03bd, \u03b5\u03c1\u03c7\u03bf\u03c5, \u039a\u03c5\u03c1\u03b9\u03b5 \u0399\u03b7\u03c3\u03bf\u03c5."
+        ],
+        "John Gill": [
+            "Surely I come quickly; who not only asserts the speediness of his coming, but expresses the certainty of it.",
+            "Christ may have some respect, in this strong repetition of it, to the certainty of the punishment that will then be inflicted upon such who add to, or diminish from this book.",
+            "even so come, Lord Jesus; quickly, speedily as thou hast said, and in all thy glory; set up thy kingdom, let that come, introduce thy people into it, and destroy thine enemies."
+        ],
+        "John Wesley": [
+            "He that testifieth these things \u2014 Even all that is contained in this book.",
+            "Yea \u2014 Answering the call of the Spirit and the bride.",
+            "I come quickly \u2014 To destroy all her enemies, and establish her in a state of perfect and everlasting happiness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming echoes the yearning prayer found in the Song of Solomon, emphasizing the believer's deep longing for the arrival of the Lord. By saying, Come, Lord Jesus, John's response aligns with Christ's declaration of His imminent arrival, highlighting the unity of mind shared between the Lord and His faithful followers. The phrase Amen. Even so, come captures the believer's firm belief in the truth of what is revealed and expresses their desire for the fullness of Christ's kingdom to be established.",
+            "wordCount": 111,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.005629482385001,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.03,
+            "commentatorTierSimilarities": [
+                35.59,
+                37.93,
+                26.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming reflects the yearning prayer found in the Song of Solomon, emphasizing the believer's longing for the arrival of the Lord. By saying, Come, Lord Jesus, John's response aligns with Christ's declaration of His imminent arrival, highlighting the shared mindset between the Lord and His faithful followers, as they eagerly anticipate the establishment of His kingdom.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.1223442174027647,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.91,
+            "commentatorTierSimilarities": [
+                36.66,
+                36.01,
+                27.33
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming echoes the yearning prayer found in the Song of Solomon. John's response, Come, Lord Jesus, expresses the unity of mind between the Lord and His faithful followers as they eagerly anticipate the establishment of His kingdom. The believers firmly believe in the truth revealed and express their desire for the fullness of Christ's kingdom to be established.",
+            "wordCount": 85,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.954819712388077,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.34,
+            "commentatorTierSimilarities": [
+                34.66,
+                37.98,
+                27.37
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming echoes the yearning prayer found in the Song of Solomon, emphasizing the believer's longing for the arrival of the Lord. By saying, Come, Lord Jesus, John's response aligns with Christ's declaration of His imminent arrival, highlighting the shared mindset between the Lord and His faithful followers, as they eagerly await the establishment of His everlasting kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 2.1283168714372342,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.11,
+            "commentatorTierSimilarities": [
+                36.52,
+                35.7,
+                27.78
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "He who testifieth these things says, Yea, I come quickly, and the reply of the Apostle is, Come, Lord Jesus. This cry for Christ's coming echoes the yearning prayer found in the Song of Solomon, emphasizing the believer's longing for the arrival of the Lord. By saying, Come, Lord Jesus, John's response aligns with Christ's declaration of His imminent arrival, reflecting the unity of mind between the Lord and His faithful followers, as they eagerly anticipate the establishment of His kingdom.",
+            "wordCount": 85,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.124250249176201,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.97,
+            "commentatorTierSimilarities": [
+                36.63,
+                36.29,
+                27.08
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:49:57",
+    "verseRef": "Revelation 20:11",
+    "bestBHT": {
+        "bht": "The final judgment reveals a great white throne, denoting blameless justice and the presence of One not seen before. Christ's mediatorial reign aims to prepare the kingdom for the Father's acceptance, after which the Son will surrender it and God will directly commune with His creatures. The non-eternity of matter emphasizes the spiritual realm. The white color of the throne represents its absolute purity as it precedes the general judgment. The burning throne displays the majestic glory of the final Judge of mankind.",
+        "wordCount": 86,
+        "quoteTokenProportion": 27.87,
+        "qualityScore": 1.845273054157523,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+        "commentatorTierSimilarities": [
+            33.49,
+            38.88,
+            27.63
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I saw a great white throne...and Him that sitteth on it...symbolizing the most blameless justice.",
+            "It is necessary to keep to the well-known formula of the book in interpreting Him that sitteth on it.",
+            "These words again seem to indicate the presence of One who has not hitherto appeared: whereas Christ in glory has been long present on earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Son's mediatorial reign is with a view to prepare the kingdom for the Father's acceptance.",
+            "When He has done that, He shall give it up to the Father, 'that God may be all in all,' coming into direct communion with His creatures, without intervention of a Mediator, for the first time since the fall.",
+            "The final conflagration, therefore, precedes the general judgment."
+        ],
+        "Albert Barnes": [
+            "The first thing seen in the vision is the burning throne of the Judge. The things that are specified in regard to it are, that it was 'great,' and that it was 'white.'",
+            "The reference here undoubtedly is to the Lord Jesus Christ, the final Judge of mankind, and the scene described is what will occur at his second advent.",
+            "Every one must admire the sublimity of this image; no one can contemplate it without being awed by the majesty and glory of the final Judge of mankind."
+        ],
+        "Philip Schaff": [
+            "The throne that is seen is \u2018great,\u2019 not so much in contrast with the thrones of Revelation 20:4, as in correspondence with the Great Being who sits upon it.",
+            "It is also \u2018white,\u2019 emblematic of His perfect purity and righteousness.",
+            "From before His face the earth and the heavens flee away, i.e., they are completely removed, time and earth and all that belongs to them coming to an end."
+        ],
+        "Archibald T. Robertson": [
+            "The absolute purity of this Supreme Court is symbolized by the colour of the Throne.\" ",
+            "The non-eternity of matter is a common teaching in the O.T. as in the N.T.",
+            "All is now spiritual. Even scientists today are speaking of the non-eternity of the universe."
+        ],
+        "John Gill": [
+            "This will be the greatest assize that ever was held; it is called the judgment of the great day, and the great and dreadful day of the Lord.",
+            "To whom all judgment is committed, and who is ordained to be Judge of quick and dead; and is every way fit for it, being of great knowledge, wisdom, and sagacity, and of great integrity and faithfulness, as man and Mediator, and being, as God, both omniscient and omnipotent, and so capable both of passing a right sentence, and of executing it.",
+            "After this there will be no place in being but the heaven of angels and saints, and the lake of fire, in which are the devils and damned spirits."
+        ],
+        "John Wesley": [
+            "A representation of that great day of the Lord.",
+            "From whose face the earth and the heaven fled away.",
+            "And all this, not at the strict command of the Lord Jesus; not at his awful presence, or before his fiery indignation; but at the bare presence of his Majesty, sitting with severe but adorable dignity on his throne."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "At the final judgment, a magnificent scene unfolds with a great white throne, representing the utmost justice. This throne signifies the presence of One who has not yet appeared, as Christ's mediatorial reign prepares the kingdom for the Father's acceptance. Once accomplished, the Son relinquishes the kingdom to the Father, allowing God to directly commune with His creatures, without a mediator for the first time since the fall. The non-eternity of matter is emphasized, as all becomes spiritual. This ultimate court's absolute purity is symbolized by the color white, and it precedes the general judgment. As the earth and heaven flee away from the Judge's face, the image of this burning throne showcases the majesty and glory of the final Judge of mankind.",
+            "wordCount": 128,
+            "quoteTokenProportion": 30.95,
+            "qualityScore": 1.8145042511221159,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.67,
+            "commentatorTierSimilarities": [
+                33.65,
+                38.5,
+                27.85
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "At the final judgment, a great white throne symbolizing blameless justice appears. Christ's mediatorial reign prepares the kingdom for the Father's acceptance. Once accomplished, the Son gives up the kingdom to the Father, allowing direct communion with creatures. The non-eternity of matter is emphasized, as all becomes spiritual. This ultimate court's purity is symbolized by the white throne, preceding the general judgment. As earth and heaven flee away, the burning throne showcases the majesty and glory of the final Judge of mankind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 26.23,
+            "qualityScore": 1.7863117560361041,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.74,
+            "commentatorTierSimilarities": [
+                35.68,
+                37.84,
+                26.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The final judgment unveils a great white throne, symbolizing blameless justice and the presence of an entity previously unseen. Christ's mediatorial reign prepares the kingdom, readying it for the Father's acceptance. When accomplished, the Son relinquishes the kingdom, enabling unmediated communion between God and His creatures. The non-eternity of matter is highlighted, emphasizing the spiritual nature of all things. The white color of the throne signifies its absolute purity, while its appearance precedes the general judgment. The burning throne showcases the majestic glory of the final Judge.",
+            "wordCount": 90,
+            "quoteTokenProportion": 21.88,
+            "qualityScore": 1.779726704969859,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.52,
+            "commentatorTierSimilarities": [
+                35.11,
+                38.03,
+                26.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The final judgment reveals a great white throne, denoting blameless justice and the presence of One not seen before. Christ's mediatorial reign aims to prepare the kingdom for the Father's acceptance, after which the Son will surrender it and God will directly commune with His creatures. The non-eternity of matter emphasizes the spiritual realm. The white color of the throne represents its absolute purity as it precedes the general judgment. The burning throne displays the majestic glory of the final Judge of mankind.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.845273054157523,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.7,
+            "commentatorTierSimilarities": [
+                33.49,
+                38.88,
+                27.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "At the final judgment, a great white throne appears, symbolizing blameless justice in the presence of One not seen before. Christ's mediatorial reign prepares the kingdom for the Father's acceptance, and once accomplished, the Son will give up the kingdom so that God may directly commune with His creatures. The non-eternity of matter is emphasized, indicating a spiritual transformation. The purity of the Supreme Court is represented by the color white. Earth and heaven flee away from the majestic presence of the final Judge of mankind.",
+            "wordCount": 89,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.712862592125591,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                34.41,
+                38.35,
+                27.24
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

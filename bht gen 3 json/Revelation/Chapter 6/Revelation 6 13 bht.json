@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 21:43:21",
+    "verseRef": "Revelation 6:13",
+    "bestBHT": {
+        "bht": "When a great wind shakes the heavens, the stars of the sky fall to the earth, and the sky itself splits open like a scroll being rolled up. This cataclysmic event signals the readiness of the Church for glorification and the impending destruction of the Antichristian world. Nature itself will exhibit extraordinary phenomena, aptly described by biblical language that hints at the discoveries of modern science. In this context, the unripe figs symbolize the end of winter, while the violent shaking by a mighty wind echoes the intensity of the impending upheaval.",
+        "wordCount": 92,
+        "quoteTokenProportion": 26.56,
+        "qualityScore": 1.551946814545988,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+        "commentatorTierSimilarities": [
+            51.78,
+            0.0,
+            48.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the stars of the heaven fell to the earth...when shaken by a great wind.\" ",
+            "And the heaven parted asunder as a scroll when rolled up.\" ",
+            "The kings of the earth, and the great men, and the chief captains, and the rich men and the strong men...hid themselves in the caves and in the rocks of the mountains."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Church shall be then ripe for glorification, the Antichristian world for destruction, which shall be accompanied with mighty phenomena in nature.",
+            "Scripture describes natural phenomena as they would appear to the spectator, not in the language of scientific accuracy.",
+            "It drops hints which show that it anticipates the discoveries of modern science."
+        ],
+        "Marvin Vincent": [
+            "Untimely figs [\u03bf\u03bb\u03c5\u03bd\u03b8\u03bf\u03c5\u03c2] . Better, as Rev., unripe. Compare Matthew 24:32; Isaiah 34:4. Only here in the New Testament."
+        ],
+        "Archibald T. Robertson": [
+            "Jesus used the fig tree as a sign of the 'end of the world's long winter'.\" ",
+            "An old word for figs that grow in winter and fall off in the spring without getting ripe.\" ",
+            "Being shaken by a great wind."
+        ],
+        "John Gill": [
+            "All the other inferior deities lost their esteem, worship, and honour.",
+            "They may here likewise include the idolatrous priests among the Heathens, who were discharged and removed by Constantine.",
+            "The rabble of Pagan deities, and idolatrous priests, were easily, and in great numbers, removed through the power of Constantine, which carried all before it."
+        ],
+        "John Wesley": [
+            "And the stars fell to, or towards, the earth - Yea, and so they surely will, let astronomers fix their magnitude as they please.",
+            "As a fig tree casteth its untimely figs, when it is shaken by a mighty wind \u2014 How sublimely is the violence of that shaking expressed by this comparison!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the heavens are shaken by a great wind, the stars themselves fall to the earth and the sky splits apart like a scroll being rolled up. In this cataclysmic event, the kings of the earth, along with the great men, chief captains, rich men, and strong men, will seek refuge in caves and mountains. The Church will be ready for glorification while the Antichristian world meets its destruction, accompanied by extraordinary natural phenomena. Though Scripture describes these events in language not of scientific accuracy, it hints at anticipating the discoveries of modern science. This verse also references the unripe figs, which symbolize the end of winter and the coming of the end times. The shaking by a great wind represents the violence of this upheaval.",
+            "wordCount": 126,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 1.559234485079922,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.19,
+            "commentatorTierSimilarities": [
+                54.27,
+                0.0,
+                45.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When a great wind shakes the heavens, the stars fall to the earth, and the sky splits apart like a rolled-up scroll. This momentous event leads to the kings, great men, chief captains, rich men, and strong men seeking shelter in caves and mountains. It signifies that the Church is ripe for glorification, and the Antichristian world is set for destruction accompanied by extraordinary natural phenomena. While described in a language of symbolism rather than scientific accuracy, these biblical passages hint at anticipating the discoveries of modern science.",
+            "wordCount": 89,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.5012981750342953,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.26,
+            "commentatorTierSimilarities": [
+                54.65,
+                0.0,
+                45.35
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When a great wind shakes the heavens, the stars of the sky fall to the earth, and the sky itself splits open like a scroll being rolled up. This cataclysmic event signals the readiness of the Church for glorification and the impending destruction of the Antichristian world. Nature itself will exhibit extraordinary phenomena, aptly described by biblical language that hints at the discoveries of modern science. In this context, the unripe figs symbolize the end of winter, while the violent shaking by a mighty wind echoes the intensity of the impending upheaval.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.56,
+            "qualityScore": 1.551946814545988,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.94,
+            "commentatorTierSimilarities": [
+                51.78,
+                0.0,
+                48.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "When a great wind shakes the heavens, the stars fall to the earth, and the sky splits apart like a scroll being rolled up. Amidst this cosmic turmoil, the kings, great men, chief captains, rich men, and strong men seek shelter in caves and mountains. The Church is prepared for its glorification, while the Antichristian world meets its destruction, accompanied by remarkable natural phenomena. Scripture uses descriptive language rather than scientific precision, yet it hints at an anticipation of modern science's discoveries. The imagery of unripe figs shaken off by a mighty wind vividly depicts the violence of this upheaval.",
+            "wordCount": 101,
+            "quoteTokenProportion": 27.5,
+            "qualityScore": 1.5351905022513639,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.39,
+            "commentatorTierSimilarities": [
+                54.76,
+                0.0,
+                45.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When a great wind shakes the heavens, the stars fall to the earth and the sky splits apart like a rolled-up scroll. This signifies the Church's readiness for glorification and the impending destruction of the Antichristian world. Extraordinary natural phenomena accompany this cataclysmic event, described in symbolic language that hints at the foresight of modern science. The unripe figs symbolize the end of winter, while the violent shaking by a mighty wind emphasizes the intensity of the impending transformation.",
+            "wordCount": 81,
+            "quoteTokenProportion": 23.33,
+            "qualityScore": 1.530753131556377,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.24,
+            "commentatorTierSimilarities": [
+                52.26,
+                0.0,
+                47.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

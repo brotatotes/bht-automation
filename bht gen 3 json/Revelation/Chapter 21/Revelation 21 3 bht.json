@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:50:44",
+    "verseRef": "Revelation 21:3",
+    "bestBHT": {
+        "bht": "The tabernacle of God, a blessed reality of the Father, will dwell among His peoples as a fulfillment of the promise. In this glorious manifestation, God Himself will permanently dwell with them, signifying the intimate identification between Christ and His people. This personal presence of Christ, like His time of humiliation, signifies the execution of the covenant between God and His people, displaying the most glorious manner in which God fulfills His promise.",
+        "wordCount": 73,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 2.3291122407661957,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+        "commentatorTierSimilarities": [
+            28.88,
+            29.42,
+            41.7
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "the earnest of the true and heavenly tabernacle was afforded in the Jerusalem temple... as about to be, namely, during the millennium.",
+            "Then He was in the weakness of the flesh: but at the new creation of heaven and earth He shall tabernacle among us in the glory of His manifested Godhead.",
+            "His peoples: 'the nations of the saved' being all peculiarly His, as Israel was designed to be."
+        ],
+        "Albert Barnes": [
+            "Behold, the tabernacle of God is with men - The tabernacle, as that word is commonly used in the Scriptures, referring to the sacred 'tent' erected in the wilderness, was regarded as the unique dwelling-place of God among his people.",
+            "And he will dwell with them - As in a tent, or tabernacle - \u03c3\u03ba\u03b7\u03bd\u03c9\u0301\u03c3\u03b5\u03b9 ske\u0304no\u0304sei. This is a common idea in the Scriptures.",
+            "And God himself shall be with them - Shall be permanently with them; shall never leave them."
+        ],
+        "Marvin Vincent": [
+            "He shall dwell [\u03c3\u03ba\u03b7\u03bd\u03c9\u03c3\u03b5\u03b9]. Lit., tabernacle. Only in Revelation and John 1:14. The word 'denotes much more than the mere general notion of dwelling. There lies in it one of the particulars of that identification of Christ and His people which is fundamental to the seer.'\" ",
+            "The word [\u03bb\u03b1\u03bf\u03b9], people, is plural, because many nations shall partake of the fulfillment of the promise. Compare ver. 24.",
+            "And God Himself shall be with them and be their God."
+        ],
+        "Philip Schaff": [
+            "Behold, the tabernacle of God is with men, and he shall tabernacle with them, and they shall be his people, and he himself, even God with them, shall be their God.\" (Revelation 21:3) ",
+            "In the Son only do we know the Father, the 'only God'.\" ",
+            "He shall no longer be at a distance from them, nor they from Him. No boundary shall be placed around the mount: no cloud shall conceal His glory."
+        ],
+        "Archibald T. Robertson": [
+            "The tabernacle of God is with men... It is one of the angels of the Presence speaking.",
+            "And he shall dwell with them... a blessed reality of the Father.",
+            "God is now Immanuel in fact, as was true of Christ."
+        ],
+        "John Gill": [
+            "Behold the tabernacle of God is with men...and designs something distinct from the spiritual presence of Christ in his church.\" ",
+            "The phrase seems to denote the personal presence of Christ with his saints in human nature, like, though different from, that in the time of his humiliation.\" ",
+            "And God himself shall be with them; the 'Immanuel', God with us; not by his Spirit, as he was after his ascension to heaven, and since is; but in person."
+        ],
+        "John Wesley": [
+            "They shall be his people, and God himself shall be with them, and be their God \u2014 So shall the covenant between God and his people be executed in the most glorious manner."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is revealed that the tabernacle of God will be among His people, just as it was in the Jerusalem temple. This time, however, it will be in the glory of His manifested Godhead. This dwelling of God signifies the intimate identification between Christ and His people, as fundamental to the seer. It is a blessed reality where God Himself will be permanently present with His people, as their God. This personal presence of Christ, like His time of humiliation, shows the fulfillment of the covenant between God and His people in the most glorious manner.",
+            "wordCount": 99,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.2352266222912007,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.66,
+            "commentatorTierSimilarities": [
+                30.17,
+                30.35,
+                39.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tabernacle of God will be among His people, just as it was in the Jerusalem temple, affording an earnest of the true and heavenly tabernacle. This time, it will be in the glory of His manifested Godhead. It signifies the intimate identification between Christ and His people, fundamental to the seer. God Himself will permanently dwell with them, fulfilling the covenant in the most glorious manner.",
+            "wordCount": 67,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.103430246331132,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.28,
+            "commentatorTierSimilarities": [
+                31.68,
+                31.43,
+                36.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tabernacle of God, a blessed reality of the Father, will be among His peoples in the glory of His manifested Godhead. This intimate identification between Christ and His people is fundamental to the seer. It represents the personal presence of Christ, like His time of humiliation, where God Himself will permanently dwell with them as their God. This fulfills the covenant between God and His people in the most glorious manner.",
+            "wordCount": 72,
+            "quoteTokenProportion": 43.75,
+            "qualityScore": 2.233507104362693,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.6,
+            "commentatorTierSimilarities": [
+                29.46,
+                28.96,
+                41.58
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tabernacle of God, a blessed reality of the Father, will dwell among His peoples, signifying the intimate identification between Christ and His people. In this fulfillment of the promise, God Himself will permanently dwell with them as their God. This personal presence of Christ, like His time of humiliation, will be in the glory of His manifested Godhead. It represents the execution of the covenant between God and His people in the most glorious manner.",
+            "wordCount": 76,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.2312106277008197,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                29.22,
+                29.15,
+                41.64
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tabernacle of God, a blessed reality of the Father, will dwell among His peoples as a fulfillment of the promise. In this glorious manifestation, God Himself will permanently dwell with them, signifying the intimate identification between Christ and His people. This personal presence of Christ, like His time of humiliation, signifies the execution of the covenant between God and His people, displaying the most glorious manner in which God fulfills His promise.",
+            "wordCount": 73,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.3291122407661957,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.78,
+            "commentatorTierSimilarities": [
+                28.88,
+                29.42,
+                41.7
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

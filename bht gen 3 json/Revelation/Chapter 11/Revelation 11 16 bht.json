@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:45:44",
+    "verseRef": "Revelation 11:16",
+    "bestBHT": {
+        "bht": "The twenty-four elders, as representatives of the redeemed, show humility by falling on their faces in worship before God, even though they are seated on thrones. Alongside the four living creatures, who symbolize the forces of nature, they offer thanksgiving to God. With profound adoration, the elders express their enjoyment of the divine presence and their restored, undisturbed state. Reigning over the earth, the elders differ from angels as they sit on their thrones before God.",
+        "wordCount": 77,
+        "quoteTokenProportion": 39.62,
+        "qualityScore": 1.9793719803343373,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+        "commentatorTierSimilarities": [
+            37.46,
+            26.01,
+            36.53
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the twenty-four elders (representing the church in glory) which before God sat upon their thrones, fell upon their faces, and worshipped God,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "16. before God\u2014B and Syriac",
+            "\tread, \"before the throne of God.\" But A, C, Vulgate,",
+            "\tand Coptic read as English Version.",
+            "",
+            "seats\u2014Greek,",
+            "\t\"thrones."
+        ],
+        "Albert Barnes": [
+            "Fell upon their faces, and worshipped God - Prostrated themselves before him - the usual form of profound adoration.\" ",
+            "See the notes on Revelation 4:4.",
+            "See the notes on Revelation 5:8-14."
+        ],
+        "Philip Schaff": [
+            "The voices in heaven are now answered by the twenty-four Elders.\" ",
+            "Enraptured with the prospect before them.\" ",
+            "These fell upon their faces and worshipped God."
+        ],
+        "Archibald T. Robertson": [
+            "Though seated on thrones of their own, yet they fall upon their faces in every act of worship to God and Christ.",
+            "The elders here again represent the redeemed, as the four living creatures the forces of nature.",
+            "In the great thanksgiving here."
+        ],
+        "John Gill": [
+            "which may be expressive of their enjoyment of the divine Presence",
+            "their quiet and undisturbed situation, being restored to their former places",
+            "fell upon their faces and worshipped God; in a very humble and reverential posture, and in a way of praise and thanksgiving."
+        ],
+        "John Wesley": [
+            "And the four and twenty elders \u2014 These shall reign over the earth, Revelation 5:10.",
+            "Who sit before God on their thrones \u2014 which we do not read of any angel."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The twenty-four elders, representing the church in glory, were seated on their thrones but fell upon their faces in worship before God, demonstrating their humility and reverence. As representatives of the redeemed, they join the forces of nature, portrayed by the four living creatures, in offering thanksgiving to God. The elders' prostration is an act of profound adoration, and their worship is an expression of their enjoyment of the divine presence. This scene portrays their quiet and undisturbed state, having been restored to their rightful places. These elders, who will reign over the earth, are distinct from angels, as they sit before God on their thrones.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8346598067907498,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                37.24,
+                26.1,
+                36.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Representing the redeemed, the twenty-four elders fell on their faces in profound adoration before God, despite being seated on thrones. This act of worship demonstrates their humility and reverence. Alongside the four living creatures, who symbolize the forces of nature, they offer thanksgiving. By prostrating themselves, they express their enjoyment of the divine presence and their restored, undisturbed state. These elders, who will reign over the earth, are distinct from angels, as they sit before God on their thrones.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 1.7931354137540143,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.96,
+            "commentatorTierSimilarities": [
+                35.78,
+                27.05,
+                37.17
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The twenty-four elders, symbolizing the church in glory, fell upon their faces in worship of God, despite being seated on thrones. This act of profound adoration showcases their humility and reverence. Alongside the four living creatures signifying the forces of nature, they join in offering thanksgiving. By prostrating themselves, they express their enjoyment of the divine presence and their restored, undisturbed state. These elders, who will reign over the earth, are distinct from angels, as they sit before God on their thrones.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.7947401738096445,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.02,
+            "commentatorTierSimilarities": [
+                36.04,
+                27.22,
+                36.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twenty-four elders, representing the church in glory, were seated on their thrones but fell upon their faces in worship before God, demonstrating their humility and reverence. As representatives of the redeemed, they join the forces of nature, portrayed by the four living creatures, in offering thanksgiving to God. The elders' prostration is an act of profound adoration, and their worship is an expression of their enjoyment of the divine presence. This scene portrays their quiet and undisturbed state, having been restored to their rightful places. These elders, who will reign over the earth, are distinct from angels, as they sit before God on their thrones.",
+            "wordCount": 107,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 1.8346598067907498,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.34,
+            "commentatorTierSimilarities": [
+                37.24,
+                26.1,
+                36.66
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twenty-four elders, as representatives of the redeemed, show humility by falling on their faces in worship before God, even though they are seated on thrones. Alongside the four living creatures, who symbolize the forces of nature, they offer thanksgiving to God. With profound adoration, the elders express their enjoyment of the divine presence and their restored, undisturbed state. Reigning over the earth, the elders differ from angels as they sit on their thrones before God.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.62,
+            "qualityScore": 1.9793719803343373,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                37.46,
+                26.01,
+                36.53
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

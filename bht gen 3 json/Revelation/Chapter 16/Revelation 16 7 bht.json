@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:47:45",
+    "verseRef": "Revelation 16:7",
+    "bestBHT": {
+        "bht": "Personifying the altar, the voice speaks with the concentrated testimony of the prayers of the saints and the cries for vengeance from the souls of the martyrs beneath. Affirming the true and righteous judgments of the Almighty, the martyred saints acknowledge the deservedness of the judgments upon their persecutors. They applaud the judgments for being what were threatened and in alignment with the realities they faced. This response echoes the demands of perfect righteousness and embraces the righteousness of God's judgment.",
+        "wordCount": 82,
+        "quoteTokenProportion": 28.0,
+        "qualityScore": 2.1464038737133175,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+        "commentatorTierSimilarities": [
+            22.87,
+            41.05,
+            36.09
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Certainly the simplest understanding of these words is, that they involve personification of the altar.",
+            "On the altar are the prayers of the saints, offered before God: beneath the altar are the souls of the martyrs crying for vengeance.",
+            "When therefore the altar speaks, it is the concentrated testimony of these which speaks by it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I heard the altar [personified] saying.\" ",
+            "On it the prayers of saints are presented before God.\" ",
+            "Beneath it are the souls of the martyrs crying for vengeance on the foes of God."
+        ],
+        "Albert Barnes": [
+            "True and righteous are thy judgments.\" ",
+            "These scenes followed closely on the French revolution, and grew out of it as a natural consequence, and would be properly represented as a second 'vial' poured out immediately after the first.",
+            "There was a propriety, therefore, that a voice should be heard ascribing righteousness to God for avenging the blood of the saints Revelation 16:5-6, and that another voice should be heard from the 'altar' of the martyrs Revelation 16:7 responding and saying, 'Even so, Lord God Almighty, true and righteous are thy judgments.'"
+        ],
+        "Marvin Vincent": [
+            "I heard the altar.",
+            "The altar personified.",
+            "The Almighty."
+        ],
+        "Philip Schaff": [
+            "Not only is an acknowledgment of the righteousness of God\u2019s judgment given by the \u2018waters;\u2019 the martyred saints also respond.\" ",
+            "They who have suffered own that the judgments of the Almighty upon those who persecuted them even unto death are true and righteous.",
+            "Conformable to the realities of things and to the demands of perfect righteousness."
+        ],
+        "Archibald T. Robertson": [
+            "O Lord God, the Almighty (\u039a\u03c5\u03c1\u03b9\u03b5 \u03bf \u03b8\u03b5\u03bf\u03c2 \u03bf \u03c0\u03b1\u03bd\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03c9\u03c1).",
+            "Just as in Revelation 15:3 in the Song of Moses and of the Lamb, vocative with the article \u03bf.",
+            "\"Judgments\" (\u03ba\u03c1\u03b9\u03c3\u03b5\u03b9\u03c2) here instead of \"ways\" (\u03bf\u03b4\u03bf) there, and with the order of the adjectives reversed (\u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03b1 \u03ba\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03b1, true and righteous)."
+        ],
+        "John Gill": [
+            "Even so, Lord God Almighty, true and righteous are thy judgments.",
+            "Applauding the judgments of Christ upon the worshippers of the beast, from the verity of them, being what were threatened, and from the justice of them, being what they deserved.",
+            "The same as in Revelation 15:3."
+        ],
+        "John Wesley": [
+            "Yea \u2014 Answering the angel of the waters, and affirming of God's judgments in general, what he had said of one particular judgment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Certainly, the simplest understanding of this verse is that it involves the personification of the altar. On the altar are the prayers of the saints, offered before God, and beneath it are the souls of the martyrs crying for vengeance. When the altar speaks, it is the concentrated testimony of these that speaks through it. The Almighty, the Lord God, is addressed and praised for His true and righteous judgments. This response from the martyrs is in perfect conformity with the realities of their suffering and the demands of perfect righteousness. The martyred saints acknowledge that the judgments of the Almighty upon their persecutors are true and righteous, applauding them for being what were threatened and what was deserved.",
+            "wordCount": 119,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 2.1864513399132943,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.04,
+            "commentatorTierSimilarities": [
+                34.35,
+                34.07,
+                31.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice of the personified altar speaks with the concentrated testimony of the prayers of the saints and the cries for vengeance from the souls of the martyrs beneath it. Addressing the Almighty, they affirm that His judgments are true and righteous. This response from the martyrs aligns with the realities they faced and the demands of perfect righteousness. They acknowledge that the judgments upon their persecutors are deserved and praise them for being what were threatened.",
+            "wordCount": 77,
+            "quoteTokenProportion": 36.73,
+            "qualityScore": 2.105219773551165,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                23.91,
+                41.28,
+                34.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Personifying the altar, the voice echoes the concentrated testimony of the saints' prayers and the martyrs' cries for vengeance beneath it. Praising the Almighty, they affirm the truth and righteousness of His judgments. The response of the martyred saints aligns with the demands of perfect righteousness and recognizes that the judgments upon their persecutors are deserved. It applauds them for being what were threatened, in accordance with the realities they faced.",
+            "wordCount": 71,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 2.0389999318393133,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.14,
+            "commentatorTierSimilarities": [
+                25.97,
+                41.72,
+                32.31
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice of the personified altar resonates with the concentrated testimony of the prayers of the saints presented before God, as well as the cries for vengeance from the souls of the martyrs beneath it. Addressing the Almighty, they affirm that His judgments are true and righteous. This response from the martyred saints aligns with the realities of their suffering and accords with perfect righteousness. They acknowledge the deservedness of the judgments upon their persecutors and praise them for being what were threatened.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.18,
+            "qualityScore": 2.129336646267002,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.14,
+            "commentatorTierSimilarities": [
+                24.77,
+                40.47,
+                34.76
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Personifying the altar, the voice speaks with the concentrated testimony of the prayers of the saints and the cries for vengeance from the souls of the martyrs beneath. Affirming the true and righteous judgments of the Almighty, the martyred saints acknowledge the deservedness of the judgments upon their persecutors. They applaud the judgments for being what were threatened and in alignment with the realities they faced. This response echoes the demands of perfect righteousness and embraces the righteousness of God's judgment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.0,
+            "qualityScore": 2.1464038737133175,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.71,
+            "commentatorTierSimilarities": [
+                22.87,
+                41.05,
+                36.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

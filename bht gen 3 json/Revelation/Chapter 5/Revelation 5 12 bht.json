@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:43:01",
+    "verseRef": "Revelation 5:12",
+    "bestBHT": {
+        "bht": "Worthy is the Lamb that was slain to receive the power, riches, wisdom, strength, honor, glory, and blessing. The Lamb's worthiness is grounded in his sacrificial death and he is deserving of all these attributes as he shares in the power and glory of God. This sevenfold praise forms a complete aggregate belonging to the Lamb, signifying his authority and completeness. Let us honor and bless the Lamb, recognizing his equality with the Father, and offering our utmost admiration and respect.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.0769769710901946,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+        "commentatorTierSimilarities": [
+            29.43,
+            35.02,
+            35.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Worthy is the 'Lamb that hath been slain to receive (by way of ascribed praise: see ch. iv. 11 and note) the power and riches and wisdom and strength and honour and glory and blessing.\" ",
+            "In each of those places the article the is repeated before each particular: here, one article includes them all.",
+            "The article seems to point out the fact of all these, as one, belonging to God, whose power and glory the Lamb is declared worthy to share."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The remaining six (the whole being seven, the number for perfection and completeness) are all, as well as 'power,' ranged under the one Greek article, to mark that they form one complete aggregate belonging to God and His co-equal, the Lamb.\" ",
+            "Riches\u2014both spiritual and earthly.",
+            "Blessing\u2014ascribed praise: the will on the creature's part, though unaccompanied by the power, to return blessing for blessing conferred."
+        ],
+        "Albert Barnes": [
+            "The fact that he was slain, or was made a sacrifice for sin, was the ground or reason for what is here ascribed to him.",
+            "He is here spoken of as 'worthy' of all these things.",
+            "To bless one is to desire that he may have happiness and prosperity; that he may be successful, respected, and honored."
+        ],
+        "Marvin Vincent": [
+            "Power, etc. Rev., 'the power.' Compare the ascription in chapter Revelation 4:11, on which see note, and notice that each separate particular there has the article, while here it is attached only to the first, the power, the one article including all the particulars, as if they formed but one word.",
+            "Riches [\u03c0\u03bb\u03bf\u03c5\u03c4\u03bf\u03bd] . Not limited to spiritual riches, but denoting the fulness of every gift of God. James 1:17; Acts 17:25. Only here in a doxology.",
+            "Blessing [\u03b5\u03c5\u03bb\u03bf\u03b3\u03b9\u03b1\u03bd] . See on the kindred word eujloghtov blessed, 1 Peter 1:3."
+        ],
+        "Philip Schaff": [
+            "Worthy is the Lamb that was slaughtered to take the power, and riches and wisdom and might and honour and glory and blessing.\" ",
+            "The thought of \u2018the power\u2019 then is no doubt prominent, either because \u2018reigning\u2019 had been spoken of immediately before, or, as has been suggested, because of Revelation 5:3.\" ",
+            "The other things ascribed to Him follow as parts of the Messianic kingdom, the kingdom of redemption; and it may be noticed that all, taken together, make up the sacred number seven."
+        ],
+        "Archibald T. Robertson": [
+            "The point of the song is the same as that in verses Revelation 5:9; Revelation 5:10, but the language differs.",
+            "Note the repeated article \u03c4\u03bf (the lamb the slain) referring to verses Revelation 5:6; Revelation 5:9.",
+            "Here grouping them all together, 'a heptad of praise' (Swete)."
+        ],
+        "John Gill": [
+            "worthy is the Lamb that was slain",
+            "to receive power and riches, and wisdom, and strength, and honour, and glory, and blessing",
+            "honour is due to him, as the Son of God, he being to be honoured equally as the Father"
+        ],
+        "John Wesley": [
+            "Worthy is the Lamb\" - The elders said, Revelation 5:9, \"Worthy art thou.\" They were more nearly allied to him than the angels.",
+            "This sevenfold applause answers the seven seals\" - This sevenfold applause answers the seven seals, of which the four former describe all visible, the latter all invisible, things, made subject to the Lamb.",
+            "Every one of these seven words bears a resemblance to the seal\" - And every one of these seven words bears a resemblance to the seal which it answers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Worthy is the Lamb that was slain, for he is deserving to receive the power, riches, wisdom, strength, honor, glory, and blessing. The repetition of the article the before each particular highlights that these attributes form a complete aggregate belonging to God and the Lamb. The Lamb's worthiness is grounded in his sacrificial death, and the ascribed praise encompasses both spiritual and earthly blessings. This sevenfold applause corresponds to the seven seals, signifying the Lamb's authority over all visible and invisible things. Let us give honor and blessing to the Lamb, recognizing that he is equal to the Father and deserving of our highest admiration and respect.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.56,
+            "qualityScore": 2.089359989342419,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                31.13,
+                32.29,
+                36.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Worthy is the Lamb that was slain to receive the power, riches, wisdom, strength, honor, glory, and blessing. The Lamb's worthiness is grounded in his sacrificial death and he is deserving of all these attributes as he shares in the power and glory of God. This sevenfold praise forms a complete aggregate belonging to the Lamb, signifying his authority and completeness. Let us honor and bless the Lamb, recognizing his equality with the Father, and offering our utmost admiration and respect.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.0769769710901946,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.4,
+            "commentatorTierSimilarities": [
+                29.43,
+                35.02,
+                35.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Worthy is the Lamb that was slain, for he is deserving to receive the power, riches, wisdom, strength, honor, glory, and blessing. The Lamb's worthiness is grounded in his sacrificial death. The remaining six attributes form a complete aggregate belonging to God and His co-equal, the Lamb. This sevenfold praise signifies the Lamb's authority and completeness, as he shares in the power and glory of God. Let us honor and bless the Lamb, recognizing his equality with the Father and offering our utmost admiration and respect.",
+            "wordCount": 89,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 1.993008494812766,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.61,
+            "commentatorTierSimilarities": [
+                29.75,
+                33.91,
+                36.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Worthy is the Lamb that was slain, for he is deserving to receive the power, riches, wisdom, strength, honor, glory, and blessing. This sevenfold praise marks the completeness and perfection of God and the Lamb. The Lamb's worthiness is grounded in his sacrificial death, and he shares in the power and glory of God. Let us honor and bless the Lamb, recognizing his equality with the Father and offering our utmost admiration and respect for his authority over all things visible and invisible.",
+            "wordCount": 84,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0611159809862483,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.87,
+            "commentatorTierSimilarities": [
+                28.16,
+                35.41,
+                36.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Worthy is the Lamb that was slain, deserving to receive the power, riches, wisdom, strength, honor, glory, and blessing. This sevenfold praise signifies the completeness and perfection of God and the Lamb. The Lamb's worthiness is grounded in his sacrificial death, and he shares in the power and glory of God. Let us honor and bless the Lamb, recognizing his equality with the Father, and offering our utmost admiration and respect for his authority over all things visible and invisible.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 2.0604812558207213,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                28.35,
+                35.08,
+                36.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

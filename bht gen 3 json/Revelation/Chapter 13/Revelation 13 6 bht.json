@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:46:26",
+    "verseRef": "Revelation 13:6",
+    "bestBHT": {
+        "bht": "The antagonist begins a series of discourses filled with blasphemies against God, aiming to enhance the enormity of the blasphemy by emphasizing the sacred nature of God's name and dwelling place. The blasphemies extend towards both heavenly beings and believers on earth, reflecting a complete defiance in the face of God. This behavior includes arrogant claims, impiety, and derogatory declarations against divine authority. The fulfillment of these predicted blasphemies can be witnessed in the historical reproaches suffered by sincere followers of Christ during periods of papal rule.",
+        "wordCount": 88,
+        "quoteTokenProportion": 27.69,
+        "qualityScore": 1.92150370641955,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+        "commentatorTierSimilarities": [
+            28.79,
+            34.68,
+            36.53
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "and he opened his mouth (spoken of the commencement of a series of discourses)\" ",
+            "for blasphemies against God, to blaspheme His name and His tabernacle, which dwell in heaven",
+            "the apposition is strange, but if the and must be omitted, the meaning is to enhance the enormity of the blasphemy by bringing out the lofty nature of God\u2019s holy Name and dwelling place"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "opened . . . mouth\u2014The usual formula in the case of a set speech, or series of speeches.\" ",
+            "and them\u2014So Vulgate, Coptic, ANDREAS, and PRIMASIUS read. A and C omit 'and': 'them that dwell (literally, 'tabernacle') in heaven,' mean not only angels and the departed souls of the righteous, but believers on earth who have their citizenship in heaven, and whose true life is hidden from the Antichristian persecutor in the secret of God's tabernacle.",
+            "See on Revelation 13:5- :; Revelation 13:5- :."
+        ],
+        "Albert Barnes": [
+            "By his own arrogant claims; by his assumed authority in matters of conscience; by setting aside the divine authority; and by impious declarations in derogation of the divine claims.",
+            "There would be a course of conduct in regard to the true church - the dwelling-place of God on the earth - which could properly be regarded as blasphemy.",
+            "No one acquainted with the reproaches cast on the devoted and sincere followers of the Saviour during the dark periods of the papal rule can fail to see that there was in that a complete fulfillment of all that is here predicted."
+        ],
+        "Marvin Vincent": [
+            "The best texts omit kai and, making the following words in apposition with onoma and skhnhn name and tabernacle.\" ",
+            "Thus the literal sense would be to blaspheme the name and tabernacle which dwell in heaven.",
+            "The meaning is to enhance the enormity of the blasphemy by bringing out the lofty nature of God's holy name and dwelling-place (Alford)."
+        ],
+        "Philip Schaff": [
+            "Revelation 13:6. In this verse the blasphemies of Revelation 13:5 are more particularly described.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "For the purpose of blasphemies.",
+            "Face to face with God\" in sheer defiance.",
+            "They directed their blasphemy against heaven itself."
+        ],
+        "John Gill": [
+            "By sitting as God in the temple of God, showing himself that he is God; by suffering himself to be called by the name of God, God on earth, Lord God the pope, and to be worshipped as God...",
+            "Moreover, by the name of God may be meant the Scriptures, which are the means by which God reveals and makes known himself and these the man of sin blasphemes...",
+            "And them that dwell in heaven; either saints below, members of a Gospel church, who are born from above, are partakers of the heavenly calling, and whose conversation is in heaven..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes how the antagonist opens his mouth and begins a series of discourses filled with blasphemies against God. The intention is to enhance the enormity of the blasphemy by highlighting the sacred nature of God's name and dwelling place. The blasphemies are directed not only towards angels and the departed souls of the righteous, but also towards believers on earth who have their citizenship in heaven. The blasphemy is an act of sheer defiance against God and is directed even towards heaven itself. The verse also alludes to the arrogant claims and impious declarations made by the antagonist, which can be seen as a fulfillment of the predicted blasphemies.",
+            "wordCount": 112,
+            "quoteTokenProportion": 43.06,
+            "qualityScore": 2.01874398985919,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.46,
+            "commentatorTierSimilarities": [
+                34.93,
+                27.71,
+                37.37
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The antagonist commences a series of discourses, opening his mouth with blasphemies against God, aiming to enhance the enormity of the blasphemy by emphasizing the sacred nature of God's name and dwelling place. The blasphemies extend not only towards angels and departed souls of the righteous, but also to believers on earth who have their citizenship in heaven. The defiant act of blasphemy is directed even towards heaven itself, demonstrating an arrogant disregard for divine authority. This aligns with the predicted fulfillment of impious declarations during dark periods of papal rule.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.03,
+            "qualityScore": 1.8708897107895013,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.55,
+            "commentatorTierSimilarities": [
+                32.77,
+                31.7,
+                35.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The antagonist begins a series of discourses filled with blasphemies against God, aiming to enhance the enormity of the blasphemy by emphasizing the sacred nature of God's name and dwelling place. The blasphemies extend towards both heavenly beings and believers on earth, reflecting a complete defiance in the face of God. This behavior includes arrogant claims, impiety, and derogatory declarations against divine authority. The fulfillment of these predicted blasphemies can be witnessed in the historical reproaches suffered by sincere followers of Christ during periods of papal rule.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.69,
+            "qualityScore": 1.92150370641955,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.23,
+            "commentatorTierSimilarities": [
+                28.79,
+                34.68,
+                36.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The antagonist opens his mouth, commencing a series of discourses filled with blasphemies against God. The enormity of the blasphemy is heightened by the recognition of the sacred nature of God's name and dwelling place. This defiant act is not only directed towards heavenly beings but also towards believers on earth whose citizenship is in heaven. The predicted fulfillment of impious declarations and arrogant claims can be seen in the reproaches endured by sincere followers of Christ during periods of papal rule.",
+            "wordCount": 83,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.8958865486842598,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.38,
+            "commentatorTierSimilarities": [
+                30.71,
+                30.78,
+                38.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The antagonist launches into a series of discourses, spewing blasphemies against God. The gravity of these blasphemies is magnified by their target\u2014God's holy name and heavenly dwelling place. The act of blasphemy is a defiant challenge, not only directed towards heavenly beings but also believers whose true home is in heaven. The predicted fulfilment of these blasphemous acts can be observed in the historical mistreatment suffered by sincere followers of Christ during the oppressive reign of the papal rule.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 1.7900396717943898,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.86,
+            "commentatorTierSimilarities": [
+                31.58,
+                30.66,
+                37.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

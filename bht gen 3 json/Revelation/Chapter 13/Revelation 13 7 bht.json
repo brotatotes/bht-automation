@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:46:24",
+    "verseRef": "Revelation 13:7",
+    "bestBHT": {
+        "bht": "There was given to the beast power to make war with the saints and conquer them, exerting its authority over every tribe, people, tongue, and nation. Those who belonged to the Lord were not spared from the beast's rule, as it waged war against them relentlessly. The Romish antichrist, influenced by Satan, maliciously sought to make war with the saints, even resorting to physical violence. Yet, the faithful believers who endured and overcame, triumphed not only over the beast but also over the world and antichrist, proving themselves to be more than conquerors through Christ's love.",
+        "wordCount": 98,
+        "quoteTokenProportion": 44.12,
+        "qualityScore": 1.8920060768195288,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+        "commentatorTierSimilarities": [
+            24.55,
+            21.99,
+            53.46
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And there was given to it to make war with the saints and to conquer them.",
+            "There was given to it power over every tribe and people and tongue and nation.",
+            "This is a wider statement and there was given to it power over every tribe and people and tongue and nation (viz, universal empire)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. power\u2014Greek,",
+            "\t\"authority.\" ",
+            "\t",
+            "all kindreds . . . tongues .",
+            "\t. . nations\u2014Greek, \"every tribe . . . tongue . . .",
+            "\tnation.\" A, B, C, Vulgate, Syriac, ANDREAS,",
+            "\tand PRIMASIUS add \"and",
+            "\tpeople,\" after \"tribe\" or \"kindred."
+        ],
+        "Albert Barnes": [
+            "And it was given unto him - By the same power that taught him to blaspheme God and his church.",
+            "To make war with the saints...And to overcome them - In those wars.",
+            "Over all kindreds, and tongues, and nations - For the meaning of these words see the notes on Revelation 7:9."
+        ],
+        "Marvin Vincent": [
+            "The saints.",
+            "Every tribe.",
+            "Nation."
+        ],
+        "Philip Schaff": [
+            "Revelation 13:7. The third thing is \u2018given;\u2019 and the authority is universal, the whole world being marked out by the four departments into which it is divided.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "To make war with the saints and to overcome them.\" ",
+            "There was no escape from the beast's rule in the Mediterranean world.",
+            "See Revelation 5:9 for the phrases here used, there for praise to the Lamb."
+        ],
+        "John Gill": [
+            "Against such Satan always bore an enmity; and it is an aggravation of the wickedness of the Romish antichrist, that he makes war with such, which he is stirred up to by Satan, with a malicious intent, and is permitted by God for the trial of the faith and patience of his people.",
+            "This war of antichrist, with the saints, may be understood not merely spiritually, of his anathemas, excommunications, bulls, and the like, but literally, of his drawing the temporal sword against them.",
+            "And who, by dying in the faith and cause of Christ, overcome Satan, get the victory over the world, and antichrist, and are more than conquerors through him that has loved them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "There was given to the beast power to make war with the saints and conquer them, exerting its authority over every tribe, people, tongue, and nation. Those who belonged to the Lord were not spared from the beast's rule, as it waged war against them relentlessly. The Romish antichrist, influenced by Satan, maliciously sought to make war with the saints, even resorting to physical violence. Yet, the faithful believers who endured and overcame, triumphed not only over the beast but also over the world and antichrist, proving themselves to be more than conquerors through Christ's love.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.12,
+            "qualityScore": 1.8920060768195288,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.25,
+            "commentatorTierSimilarities": [
+                24.55,
+                21.99,
+                53.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "There was given to the beast power to make war with the saints and conquer them, exerting its authority over every tribe, people, tongue, and nation. The saints found no escape from the relentless rule of the beast in the Mediterranean world. This war of the Romish antichrist with the saints may be understood both spiritually, through anathemas and excommunications, and literally, through the drawing of the temporal sword. However, those who endured and overcame were more than conquerors through the love of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.7934373448234562,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.97,
+            "commentatorTierSimilarities": [
+                28.67,
+                20.04,
+                51.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The beast was given power to make war with the saints and conquer them, extending its authority over all tribes, peoples, tongues, and nations. The saints had no escape from the beast's rule in the Mediterranean world. This war waged by the Romish antichrist against the saints can be understood both spiritually and literally, as the antichrist employed anathemas, excommunications, and the temporal sword. Nevertheless, those who endured and overcame the trials proved themselves to be more than conquerors through Christ's love.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.8138855890539605,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.65,
+            "commentatorTierSimilarities": [
+                28.84,
+                19.67,
+                51.49
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And there was given to it power over every tribe and people and tongue and nation. The beast's power was widespread, extending over all kinds of people and nations. The saints found themselves in the midst of a war with the beast, with no escape from its rule in the Mediterranean world. Despite the challenges they faced, the faithful believers who overcame and remained steadfast in their faith proved to be more than conquerors through the love of Christ.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.7575665166557326,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.78,
+            "commentatorTierSimilarities": [
+                36.74,
+                26.92,
+                36.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "And there was given to it power over every tribe and people and tongue and nation. The power given to the beast was vast, encompassing all tribes, people, tongues, and nations. The saints were engaged in a war with the beast, with no means of escaping its rule in the Mediterranean world. However, those who remained faithful and resilient in their faith were able to overcome, demonstrating that they were more than conquerors through the love of Christ.",
+            "wordCount": 78,
+            "quoteTokenProportion": 45.45,
+            "qualityScore": 1.816163879735367,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.73,
+            "commentatorTierSimilarities": [
+                37.76,
+                25.9,
+                36.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

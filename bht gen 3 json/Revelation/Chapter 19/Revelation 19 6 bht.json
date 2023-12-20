@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:49:19",
+    "verseRef": "Revelation 19:6",
+    "bestBHT": {
+        "bht": "I heard a multitude's voice, like the roar of many waters and thunder, declaring Hallelujah, for the Lord God Almighty reigns. This acknowledges the Lord's omnipotence and the already established nature of His reign. Prophetic in nature, it signifies Christ's imminent reign following the judgment on Babylon. The powerful voices, resembling mighty thunders, unite as a vast multitude to offer this fourth Hallelujah. They praise God for His kingdom's full realization on earth, recognizing the Lord Jesus Christ as the Almighty ruler.",
+        "wordCount": 86,
+        "quoteTokenProportion": 28.81,
+        "qualityScore": 2.1128124808894526,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+        "commentatorTierSimilarities": [
+            38.27,
+            27.8,
+            33.93
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I heard as it were the voice of much multitude (see ver. 1), and as it were the voice of many waters, and as it were the voice of strong thunders, saying, Hallelujah, because the Lord God Almighty reigneth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The Lord God omnipotent\u2014Greek, 'the Omnipotent.'",
+            "His reign is a fact already established.",
+            "Christ is prophetically considered as already reigning, so soon does His advent follow the judgment on the harlot."
+        ],
+        "Albert Barnes": [
+            "In the former case it was distinct; here it was confused - bearing a resemblance to the sound of roaring waters, or to muttering thunder, but less distinct than the former.",
+            "The comparison of the voices of a host of people with the roar of mighty waters is not uncommon in the Scriptures.",
+            "The loud, deep, heavy voice of thunder. The distant shouts of a multitude may properly be represented by the sound of heavy thunder."
+        ],
+        "Philip Schaff": [
+            "The song is new, celebrating something greater and higher than the last.",
+            "Not merely judgment on foes, but the full taking possession of His kingdom by the Lord.",
+            "Hallelujah, for the Lord hath taken to him his kingdom, even our God, the Almighty."
+        ],
+        "Archibald T. Robertson": [
+            "The voice of mighty thunders\" (\u03b2\u03c1\u03bf\u03bd\u03c4\u03c9\u03bd \u03b9\u03c3\u03c7\u03c5\u03c1\u03c9\u03bd) as in Revelation 6:1; Revelation 10:3.",
+            "The fourth 'Hallelujah' comes from this vast multitude.",
+            "God became king\" in fulness of power on earth with the fall of the world power."
+        ],
+        "John Gill": [
+            "A vast multitude of converted Jews and Gentiles, in the several parts of the world, who in answer to the voice out of the throne, which came with great power and energy, lift up their voices in praise to God, both for their own conversion, and for the downfall of Babylon.",
+            "These are the same voices which will be heard in the church when the seventh angel sounds his trumpet.",
+            "The reason for their saying 'hallelujah' follows, for the Lord God omnipotent reigneth; by whom is meant the Lord Jesus Christ, who is Lord of all, and God over all, blessed for ever, and is the Almighty."
+        ],
+        "John Wesley": [
+            "And I heard the voice of a great multitude. So all his servants did praise him.",
+            "The Almighty reigneth \u2014 More eminently and gloriously than ever before."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I heard the voice of a vast multitude, like the sound of many waters and strong thunders, proclaiming Hallelujah, because the Lord God Almighty reigns. This proclamation acknowledges that the Lord God is omnipotent and already established as the reigning authority. The voices, resembling the roar of mighty waters and the deep, heavy voice of thunder, signify the triumphant celebration of something new and greater than before. It is not merely a judgment on foes, but the full taking possession of His kingdom by the Lord. This declaration of praise is made by a multitude of converted individuals worldwide, grateful for their own conversion and the downfall of Babylon. Truly, the Lord Jesus Christ, who is Lord of all and God over all, blessed forever, is the Almighty reigning in His kingdom with unmatched eminence and glory.",
+            "wordCount": 137,
+            "quoteTokenProportion": 35.63,
+            "qualityScore": 2.086739656777035,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.73,
+            "commentatorTierSimilarities": [
+                35.59,
+                30.17,
+                34.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I heard the voice of a vast multitude, a chorus like many waters and thunder, shouting Hallelujah, for the Almighty reigns. This declaration acknowledges the Lord's omnipotence and established reign. It foretells the immediate reign of Christ, who follows the judgment on the harlot. The voices, reminiscent of powerful thunders, represent a multitude arising in celebration. The assurance that God became king is evident. The Hallelujah is from this immense crowd. His kingdom is fully realized on earth, as He is Lord over all.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9053320535445395,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                38.61,
+                27.42,
+                33.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I heard a powerful chorus, resonating like the voice of countless waters and mighty thunders, proclaiming Hallelujah, for the Lord God Almighty reigns. This declaration highlights the Lord's omnipotence and established reign, already in effect. It signifies the prophetic understanding of Christ's imminent reign, coinciding with the judgment on Babylon. The grand multitude echoes the voice of strong thunders, joining in the fourth Hallelujah expression. This vast gathering praises God for His kingdom's establishment, acknowledging the almighty reign of the Lord.",
+            "wordCount": 84,
+            "quoteTokenProportion": 22.81,
+            "qualityScore": 2.0825255666585267,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.58,
+            "commentatorTierSimilarities": [
+                39.38,
+                27.16,
+                33.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I heard a resounding chorus, resembling the voice of multitudes and the sound of powerful thunders, declaring Hallelujah, for the Lord God Almighty reigns. This proclamation recognizes the Lord's omnipotence and the established reality of His reign. It anticipates the prophetic vision of Christ already reigning, closely following the judgment on the harlot. The voices, like mighty thunders, join together in this fourth Hallelujah, praising God for His kingdom's full establishment on earth. Truly, the Lord Jesus Christ, our God, reigns as the Almighty.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 2.1078492176280244,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.43,
+            "commentatorTierSimilarities": [
+                38.25,
+                27.5,
+                34.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I heard a multitude's voice, like the roar of many waters and thunder, declaring Hallelujah, for the Lord God Almighty reigns. This acknowledges the Lord's omnipotence and the already established nature of His reign. Prophetic in nature, it signifies Christ's imminent reign following the judgment on Babylon. The powerful voices, resembling mighty thunders, unite as a vast multitude to offer this fourth Hallelujah. They praise God for His kingdom's full realization on earth, recognizing the Lord Jesus Christ as the Almighty ruler.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.1128124808894526,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.59,
+            "commentatorTierSimilarities": [
+                38.27,
+                27.8,
+                33.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

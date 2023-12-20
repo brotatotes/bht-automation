@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:12",
+    "verseRef": "Revelation 12:7",
+    "bestBHT": {
+        "bht": "In a momentous war in heaven, Satan is cast out and the voice of Christ is no longer heard before God, marking the dawn of acceptance in Christ Jesus. This conflict, led by the archangel Michael and his faithful angels, is more than the overthrow of paganism; it is a judicial victory. Michael's role as the prince and guardian of the Jewish nation reveals his pivotal role in this battle, which assures the reconciliation of all things to Christ in heaven and establishes peace.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.306807019362024,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.04,
+        "commentatorTierSimilarities": [
+            30.16,
+            34.63,
+            35.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His voice is heard before God no more: the day of acceptance in Christ Jesus has dawned.\" ",
+            "Satan\u2019s being cast out of heaven to the earth is the result...of the appointed conflict with his faithful fellow-angels led on by the archangel Michael.",
+            "I would appeal...to the solemnity of the terms here used, and the particularity of the designation, and ask whether it is possible to understand this of the mere casting down of paganism from the throne of the Roman empire?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "When Christ appeared before God as our Advocate, Satan, the accusing adversary, could no longer appear before God against us, but was cast out judicially.",
+            "Michael is peculiarly the prince, or presiding angel, of the Jewish nation.",
+            "Then, and not till then, fully shall ALL things be reconciled unto Christ IN HEAVEN, and there shall be peace in heaven."
+        ],
+        "Albert Barnes": [
+            "There is a vision of the persecuted church - of the woman fleeing into the desert - and the course of the narrative is here interrupted by going back Revelation 12:7-13 to describe the conflict which led to this result.",
+            "Michael, the archangel, is here represented as the guardian of the church, and as contending against Satan for its protection.",
+            "If Satan is permitted to make war against the church, there is no improbability in supposing that, in those higher regions where the war is carried on, and in those aspects of it which lie beyond the power and the knowledge of man, good angels should be employed to defeat his plans."
+        ],
+        "Marvin Vincent": [
+            "War in heaven.\" ",
+            "Michael.",
+            "Going forth to war against the dragon."
+        ],
+        "Archibald T. Robertson": [
+            "The birth and rapture of the Woman's Son issue in a war which invades the \u03b5\u03c0\u03bf\u03c5\u03c1\u03b1\u03bd\u03b9\u03b1.\" ",
+            "As the coming of Christ brought on fresh manifestations of diabolic power, just so Christ's return to heaven is pictured as being the occasion of renewed attacks there.\" ",
+            "John even describes this last conflict as in heaven itself."
+        ],
+        "John Gill": [
+            "Not in the third heaven, the habitation of God, the seat of the angels and glorified saints, there is no discord, jars, and contentions there, nothing but peace, love, and joy.",
+            "Michael and his angels fought against the dragon",
+            "Christ, who is equal with God, is his fellow, is one with the Father, and in whom the fulness of the Godhead dwells bodily: he is the Archangel, the first of the chief princes, the head of all principality and power"
+        ],
+        "John Wesley": [
+            "There was war in heaven - Here Satan makes his grand opposition to the kingdom of God; but an end is now put to his accusing the saints before God.\" ",
+            "And Michael executes the sentence. That Michael is a created angel, appears from his not daring, in disputing with Satan, Jude 9, to bring a railing accusation; but only saying, 'The Lord rebuke thee.'\" ",
+            "And this modesty is implied in his very name; for Michael signifies, 'Who is like God?' which implies also his deep reverence toward God, and distance from all self-exaltation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation, there is a war in heaven where Satan is cast out and God's voice is heard no more. This conflict is not merely the defeat of paganism, but a judicial victory for Christ and a crucial moment in the reconciliation of all things to him in heaven. Michael, the prince and protector of the Jewish nation, leads this battle against the dragon. As Christ's return to heaven brings renewed attacks, the birth and rapture of the Son of the Woman in the previous vision leads to this heavenly war. Ultimately, this conflict demonstrates the power and authority of Michael, the archangel, in contending against Satan for the protection and ultimate triumph of the Church.",
+            "wordCount": 118,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 2.242958967381492,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.92,
+            "commentatorTierSimilarities": [
+                29.0,
+                38.85,
+                32.15
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a momentous war in heaven, Satan is cast out and the voice of Christ is no longer heard before God, marking the dawn of acceptance in Christ Jesus. This conflict, led by the archangel Michael and his faithful angels, is more than the overthrow of paganism; it is a judicial victory. Michael's role as the prince and guardian of the Jewish nation reveals his pivotal role in this battle, which assures the reconciliation of all things to Christ in heaven and establishes peace.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.306807019362024,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.04,
+            "commentatorTierSimilarities": [
+                30.16,
+                34.63,
+                35.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The war in heaven described in Revelation involves the casting out of Satan from God's presence. It signifies the day of acceptance in Christ Jesus, when Satan can no longer accuse believers before God. The archangel Michael leads the faithful angels in this conflict, demonstrating his role as the prince and presiding angel of the Jewish nation. This cosmic battle is not limited to earthly affairs, but has profound implications in the heavenly realms, bringing reconciliation and peace in heaven.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 2.188795122591376,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.12,
+            "commentatorTierSimilarities": [
+                31.22,
+                33.53,
+                35.25
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In a pivotal conflict, Satan is cast out from heaven to the earth, as the archangel Michael leads the faithful angels against him. This momentous event marks the dawn of acceptance in Christ Jesus, when Satan's accusing presence before God is removed. The war in heaven is more than a mere overthrow of paganism; it is a judicial victory that brings reconciliation and peace to all things in heaven. Michael, as the prince and presiding angel, plays a critical role in this battle.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1900009005944137,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.16,
+            "commentatorTierSimilarities": [
+                29.94,
+                33.89,
+                36.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In a momentous conflict, Satan is cast out of heaven by the archangel Michael and the faithful angels. This war in heaven signifies the dawn of acceptance in Christ Jesus, as Satan's accusing presence before God is no more. It is not a mere overthrow of paganism, but a judicial victory that ushers in reconciliation and peace in heaven. Michael's role as the prince and presiding angel of the Jewish nation is crucial in this epic battle against the dragon.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.2490958429633636,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.12,
+            "commentatorTierSimilarities": [
+                30.72,
+                31.99,
+                37.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

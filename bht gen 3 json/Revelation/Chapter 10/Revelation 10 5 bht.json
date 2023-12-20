@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:45:07",
+    "verseRef": "Revelation 10:5",
+    "bestBHT": {
+        "bht": "The angel in Revelation, with one foot on the earth and the other on the sea, lifts his right hand towards heaven, a gesture reminiscent of the practice of swearing in the Bible. By lifting his hand in this way, the angel takes a solemn oath and appeals to the God of truth. This oath signifies the angel's assertion of his kingly authority on behalf of the eternal God and almighty Creator against all his adversaries.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.29516110065612,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+        "commentatorTierSimilarities": [
+            27.06,
+            34.73,
+            38.21
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The angel whom I saw standing upon the sea and upon the earth, lifted his right hand towards heaven.\" ",
+            "Not both hands, as in Daniel above, seeing that the little book lay open on his left.",
+            "On the practice of lifting the hand in swearing, compare Gen. xiv. 22 [Exod. vi. 8 and Num. xiv. 30, margin], Deut. xxii. 40."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It was customary to lift up the hand towards heaven, appealing to the God of truth, in taking a solemn oath.",
+            "There is in this part of the vision an allusion to Daniel 12:1-13.",
+            "Here, on the contrary, the angel standing with his left foot on the earth, and his right upon the sea, swears there shall be time no longer."
+        ],
+        "Albert Barnes": [
+            "And the angel which I saw stand...Lifted up his hand to heaven\" - Revelation 10:2.",
+            "That is, John saw him standing in this posture when he made the oath which he proceeds to record.",
+            "The usual attitude in taking an oath, as if one called heaven to witness."
+        ],
+        "Marvin Vincent": [
+            "His hand. Add thn dexian the right, and see on ver. 2. On lifting the hand in swearing, see Genesis 14:22; Exodus 6:8 (margin); Deuteronomy 32:40."
+        ],
+        "Archibald T. Robertson": [
+            "Standing (\u03b5\u03c3\u03c4\u03c9\u03c4\u03b1). Second perfect active participle of \u03b9\u03c3\u03c4\u03b7\u03bc (intransitive).",
+            "Lifted up (\u03b7\u03c1\u03b5\u03bd). First aorist active indicative of \u03b1\u03b9\u03c1\u03c9, to lift up.",
+            "To heaven (\u03b5\u03b9\u03c2 \u03c4\u03bf\u03bd \u03bf\u03c5\u03c1\u03b1\u03bd\u03bf\u03bd). Toward heaven."
+        ],
+        "John Gill": [
+            "And the angel which I saw stand upon the sea and upon the earth,.... His right foot being on the one, and his left foot upon the other.\" ",
+            "The lifting up of the hand was a gesture used in swearing.",
+            "Whether the right hand or the left, is an oath."
+        ],
+        "John Wesley": [
+            "The angel appeals to the prophets of former times; Christ, to his own two witnesses.",
+            "Therefore the angel comprises, in his posture and in his oath, both heaven, sea, and earth, and makes on the part of the eternal God and almighty Creator, a solemn protestation, that he will assert his kingly authority against all his enemies.",
+            "He lifted up his right hand toward heaven \u2014 The angel in Daniel, Daniel 12:7, (not improbably the same angel,) lifted up both his hands."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 10:5, the angel is described as standing with his left foot on the earth and his right foot on the sea, lifting his right hand towards heaven. This gesture of lifting the hand symbolizes the angel taking a solemn oath, appealing to the God of truth. It is reminiscent of the practice of swearing by lifting the hand in the Bible, such as in Genesis 14:22 and Exodus 6:8. By making this oath, the angel asserts his kingly authority on behalf of the eternal God and almighty Creator against all his enemies.",
+            "wordCount": 91,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.253599974665571,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.27,
+            "commentatorTierSimilarities": [
+                30.58,
+                32.59,
+                36.82
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel in Revelation, with one foot on the earth and the other on the sea, lifts his right hand towards heaven, a gesture reminiscent of the practice of swearing in the Bible. By lifting his hand in this way, the angel takes a solemn oath and appeals to the God of truth. This oath signifies the angel's assertion of his kingly authority on behalf of the eternal God and almighty Creator against all his adversaries.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.29516110065612,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.65,
+            "commentatorTierSimilarities": [
+                27.06,
+                34.73,
+                38.21
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel in Revelation, standing on the sea and the earth, lifts his right hand towards heaven. This gesture symbolizes the angel taking a solemn oath, appealing to the God of truth. The angel's posture alludes to Daniel 12:1-13. By lifting his hand in this way, the angel asserts his authority against his enemies. This act of lifting the hand in swearing is a customary gesture, calling heaven to witness the angel's oath.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.55,
+            "qualityScore": 2.2237365443629162,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.28,
+            "commentatorTierSimilarities": [
+                26.96,
+                35.96,
+                37.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel in Revelation, standing upon the sea and the earth, lifts his right hand towards heaven. This act of raising the hand is a gesture used in swearing, a solemn oath appealing to the God of truth. The angel's posture and oath encompass the heavens, sea, and earth, signifying the Almighty Creator's authority against adversaries. The lifting up of the hand towards heaven is a customary attitude when taking an oath, as seen in various biblical instances.",
+            "wordCount": 80,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.2725679029811223,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.9,
+            "commentatorTierSimilarities": [
+                27.98,
+                36.41,
+                35.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel in Revelation is described to be standing with one foot on the earth and the other on the sea, lifting his right hand towards heaven. This posture of lifting the hand is a customary gesture used in taking a solemn oath, appealing to the God of truth. By making this oath, the angel asserts his kingly authority on behalf of the eternal God and almighty Creator against all his enemies. This act of lifting the hand is seen as a recognition of the angel's allegiance and commitment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.1322761255699145,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.24,
+            "commentatorTierSimilarities": [
+                27.78,
+                34.2,
+                38.02
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

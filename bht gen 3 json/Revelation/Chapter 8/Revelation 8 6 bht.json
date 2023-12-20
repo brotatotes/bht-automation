@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:44:23",
+    "verseRef": "Revelation 8:6",
+    "bestBHT": {
+        "bht": "The blowing of the seven trumpets in Revelation signifies the punishment and retribution upon the enemies of God. These judgments not only inflict plagues but also bring about retribution based on the ungodly's own sins and depravity. The purpose of the trumpets is to gradually subdue the earth and establish God's kingdom, disrupting the ordinary means of subsistence, comfort, and knowledge. The blowing of the trumpets serves as a signal, reminding people to repent and prepare for God's forthcoming judgments.",
+        "wordCount": 83,
+        "quoteTokenProportion": 32.73,
+        "qualityScore": 2.001160363630534,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+        "commentatorTierSimilarities": [
+            35.37,
+            34.81,
+            29.81
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Egyptian plagues are beyond doubt remembered in the sacred imagery, if they are not reproduced. The secret of interpretation here I believe to be this: The whole seven trumpets bring before us the punishment of the enemies of God during the period indicated by their course.",
+            "These punishments are not merely direct inflictions of plagues, but consist in great part of that judicial retribution on them that know not God, which arises from their own depravity, and in which their own sins are made to punish themselves.",
+            "I regard these first four trumpets as setting forth the gradual subjugation of the earth to Him whose kingdom it is in the end to become, by judgments inflicted on the ungodly, as regards the vitiating and destroying the ordinary means of subsistence, and comfort, and knowledge."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "6. sound\u2014blow the trumpets."
+        ],
+        "Albert Barnes": [
+            "The way is now prepared for the sounding of the trumpets, and for the fearful commotions and changes which would be indicated by that.",
+            "The last seal is opened; heaven stands in suspense to know what is to be disclosed; the saints, filled with solicitude, have offered their prayers.",
+            "The censer of coals has been cast to the earth, as if these judgments could be no longer stayed by prayer; and the angels prepare to sound the trumpets indicative of what is to occur."
+        ],
+        "Marvin Vincent": [
+            "To sound [\u03b9\u03bd\u03b1 \u03c3\u03b1\u03bb\u03c0\u03b9\u03c3\u03c9\u03c3\u03b9\u03bd] . Lit., that they should blow the trumpets. Raised their trumpets to their mouths in act to blow."
+        ],
+        "Philip Schaff": [
+            "The prayers of the suffering Church have been heard, and the answer is to be given.",
+            "The seven angels prepared themselves to sound.",
+            "They mark a transition point, preparatory to the latter."
+        ],
+        "Archibald T. Robertson": [
+            "They knew the signal and got ready.",
+            "The infinitive could have been used."
+        ],
+        "John Gill": [
+            "This was giving notice of what was coming upon the earth, and a kind of warning to men, and a call upon them to repentance, and to prepare to meet God in the way of his judgments.",
+            "And it must be observed, that the Emperor Theodosius, at his death, left the empire divided between his two sons, Arcadius and Honorius, the eastern part of it, which had Constantinople for its seat, to the former, and the western part of it, which had Rome for its seat, to the latter.",
+            "The first four trumpets bring in a barbarous people out of the north, the Goths, Huns, and Vandals, into the western part, who, by various incursions and wars, at last utterly destroy it; and the fifth and sixth trumpets bring in the Saracens under Mahomet, and the Turks into the eastern part, who took possession of that, and have kept it unto this day."
+        ],
+        "John Wesley": [
+            "And the seven angels prepared themselves to sound... That each, when it should come to his turn, might sound without delay.\" ",
+            "But while they do sound, they still stand before God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The seven trumpets in Revelation 8:6 bring about a series of punishments and judgments upon the enemies of God during a specific period of time. These punishments not only serve as direct inflictions of plagues, but also as a form of judicial retribution stemming from the depravity and sins of those who do not know God. The blowing of the trumpets signifies a gradual subjugation of the earth to God's kingdom, as these judgments impair the ordinary means of sustaining life, comfort, and knowledge for the ungodly. The sounding of the trumpets acts as a signal, a warning, and a call to repentance, prompting people to prepare themselves for the divine judgments to come.",
+            "wordCount": 114,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.9426790035383315,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.94,
+            "commentatorTierSimilarities": [
+                35.46,
+                33.44,
+                31.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seven trumpets of Revelation introduce a period of divine judgment and punishment upon the enemies of God. These judgments, reminiscent of the plagues in Egypt, serve as retribution for the sins of the ungodly and gradually subjugate the earth to God's kingdom. They disrupt the ordinary means of sustenance, comfort, and knowledge, acting as a warning and a call to repentance. The blowing of the trumpets acts as a signal, prompting people to prepare for the coming judgments.",
+            "wordCount": 80,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.9108006145554444,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.88,
+            "commentatorTierSimilarities": [
+                33.57,
+                34.91,
+                31.52
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seven trumpets of Revelation serve as a means of punishment and retribution upon the enemies of God during a specific period of time. These judgments not only inflict plagues, but also involve the consequences of the ungodly's own depravity and sins. The purpose of the trumpets is to gradually subdue the earth and bring it under God's kingdom by disrupting the ordinary means of sustenance, comfort, and knowledge. They serve as a warning, prompting people to repent and prepare for God's impending judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 1.8560407652261968,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                32.68,
+                35.06,
+                32.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The seven trumpets in Revelation bring punishment to the enemies of God, mirroring the plagues of Egypt. In these judgments, the ungodly face the retribution arising from their own depravity and sins. The trumpets gradually subjugate the earth to God's kingdom by disrupting the means of subsistence, comfort, and knowledge of the ungodly. They act as a warning, calling people to repent and prepare for God's judgments to come. The blowing of the trumpets signifies the signal given, as the angels get ready to sound.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.79,
+            "qualityScore": 1.94614906870907,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.05,
+            "commentatorTierSimilarities": [
+                33.89,
+                34.73,
+                31.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blowing of the seven trumpets in Revelation signifies the punishment and retribution upon the enemies of God. These judgments not only inflict plagues but also bring about retribution based on the ungodly's own sins and depravity. The purpose of the trumpets is to gradually subdue the earth and establish God's kingdom, disrupting the ordinary means of subsistence, comfort, and knowledge. The blowing of the trumpets serves as a signal, reminding people to repent and prepare for God's forthcoming judgments.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.73,
+            "qualityScore": 2.001160363630534,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.88,
+            "commentatorTierSimilarities": [
+                35.37,
+                34.81,
+                29.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

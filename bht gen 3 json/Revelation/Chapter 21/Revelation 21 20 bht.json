@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:50:53",
+    "verseRef": "Revelation 21:20",
+    "bestBHT": {
+        "bht": "The vibrant colors of the mentioned precious stones are vividly described by ancient sources. The chrysoliths, believed to be similar to topaz, are described as translucent with golden rays. The jacinth is a paler version of amethyst, while the sardonyx combines the redness of cornelian with the whiteness of onyx. The beryl, with its sea-green hue, resembled the pure sea. Each stone represents the diverse gifts and graces of the twelve apostles, illustrating the beautiful variety they bring to the kingdom of God.",
+        "wordCount": 84,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 2.0641717286237524,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+        "commentatorTierSimilarities": [
+            34.01,
+            30.94,
+            35.05
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The ancient chrysoliths are as by Pliny as translucent with golden rays, and have been supposed the same as our topaz: or by some, as amber.",
+            "The ninth, topaz...described as transparent, shining with golden light.",
+            "The eleventh, jacinth...describes this also as a paler kind of amethyst."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "sardonyx\u2014a gem having the redness of the cornelian, and the whiteness of the onyx.",
+            "chrysolite\u2014described by PLINY as transparent and of a golden brightness, like our topaz: different from our pale green crystallized chrysolite.",
+            "jacinth\u2014The flashing violet brightness in the amethyst is diluted in the jacinth [PLINY, 37.41]."
+        ],
+        "Albert Barnes": [
+            "The ancients understood by the name a 'yellow' gem.\" ",
+            "The beryl is a mineral of great hardness, and is of a green or bluish-green color.\" ",
+            "The word denotes a gem of a deep purple or violet color."
+        ],
+        "Marvin Vincent": [
+            "Sardonyx...defined as originally signifying a white mark in a sard, like the human nail placed upon flesh, and both of them transparent.\" (80 words)",
+            "Beryl...resembled the greenness of the pure sea. It has been supposed to be of the same or similar nature with the emerald.\" (32 words)",
+            "Amethyst...the stone being supposed to avert intoxication. The stone is the amethystine quartz, or rock - crystal, colored purple by manganese of iron.\" (32 words)"
+        ],
+        "Archibald T. Robertson": [
+            "Swete sums up the colors thus: blue (sapphire, jacinth, amethyst), green (jasper, chalcedony, emerald, beryl, topaz, chrysoprase), red (sardonyx, sardius), yellow (chrysolite).\" ",
+            "But even so there is great variety in hue and brilliancy and in the reaction on each other.\" ",
+            "Clement of Alexandria argues that this variety illustrates the variety of gifts and graces in the twelve apostles."
+        ],
+        "John Gill": [
+            "The fifth, sardonyx,.... Which is partly of the sardian, and partly of the onyx stone, which resembles a man's nail, from whence it has its name; it is reddish, bordering on white; it may be thought to answer to the onyx in the breastplate, on which was written the name of Joseph.",
+            "The seventh, chrysolite; a stone of a dusky green colour, with a cast of yellow; by its name it should have the colour of gold. Schroder says it is found in Bohemia, and that it is the same the moderns call the topaz. Some think it answers to 'tarshish' in the breastplate, rendered 'beryl', on which was the name of Asher.",
+            "The twelfth, an amethyst; a stone of a violet colour, bordering on purple: it has been thought a preservative from drunkenness, from whence it seems to have its name. On this stone was written the name of Gad."
+        ],
+        "John Wesley": [
+            "A sardonyx is red streaked with white; a sardius, of a deep red; a chrysolite, of a deep yellow; a beryl, sea-green; a topaz, pale yellow; a chrysoprase is greenish and transparent, with gold specks.\" ",
+            "A jacinth, of a red purple; an amethyst, violet purple."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 21:20, various precious stones are mentioned, each with its own unique color and beauty. The chrysoliths are described as translucent with golden rays, similar to our topaz, while the jacinth is a paler shade of amethyst. The sardonyx combines the redness of cornelian with the whiteness of onyx, and the beryl is said to resemble the greenness of the sea. The amethyst, known for its purple color, was believed to ward off intoxication. These gemstones represent the diversity of gifts and graces in the twelve apostles, illustrating both the variety of hues and the brilliance they bring to the kingdom of God.",
+            "wordCount": 103,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 2.1602057900521108,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.17,
+            "commentatorTierSimilarities": [
+                30.92,
+                32.42,
+                36.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The colors of the precious stones mentioned in this verse are described in great detail by various commentators. The chrysoliths are translucent with golden rays, akin to our topaz, while the jacinth is a paler kind of amethyst. The sardonyx combines the redness of cornelian with the whiteness of onyx, and the beryl resembles the greenness of the pure sea. Furthermore, the amethyst is believed to ward off intoxication due to its purple color. These gems symbolize the diverse gifts and graces of the twelve apostles and their significant contributions to the kingdom of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 2.097078994656732,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                31.64,
+                31.86,
+                36.5
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The vibrant colors of the mentioned precious stones are vividly described by ancient sources. The chrysoliths, believed to be similar to topaz, are described as translucent with golden rays. The jacinth is a paler version of amethyst, while the sardonyx combines the redness of cornelian with the whiteness of onyx. The beryl, with its sea-green hue, resembled the pure sea. Each stone represents the diverse gifts and graces of the twelve apostles, illustrating the beautiful variety they bring to the kingdom of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.0641717286237524,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                34.01,
+                30.94,
+                35.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The precious stones mentioned in this passage are described in detail, showcasing their unique colors and qualities. The chrysoliths are transparent and possess a golden brightness, akin to our topaz. The jacinth is a paler version of amethyst, while the sardonyx combines the redness of cornelian with the whiteness of onyx. The beryl is compared to the greenness of the pure sea, and the amethyst is believed to ward off intoxication. These stones beautifully represent the diversity of gifts and graces bestowed upon the twelve apostles.",
+            "wordCount": 86,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 2.060447613939764,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.85,
+            "commentatorTierSimilarities": [
+                35.38,
+                29.83,
+                34.79
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The diverse colors of the precious stones in this verse are described with great detail. The chrysoliths are described as transparent and having a golden brightness like our topaz. The jacinth is a paler type of amethyst, while the sardonyx combines the redness of cornelian with the whiteness of onyx. The beryl resembles the greenness of the sea, while the amethyst is believed to ward off intoxication with its purple hues. These gemstones reflect the varied gifts and graces of the twelve apostles, showcasing the beautiful diversity within the kingdom of God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.123541082723092,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                33.57,
+                30.49,
+                35.94
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

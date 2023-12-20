@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:46:14",
+    "verseRef": "Revelation 12:6",
+    "bestBHT": {
+        "bht": "During the Church-historic period, the Christian Church, symbolized by the woman, is sheltered in the wilderness, where she is nourished by God amidst the persecutions of the dragon. The 1260 days can be seen as a representation of this long interval, recapitulated on a shorter scale during the reign of the last Antichrist. Although the dragon cannot destroy God's people completely, they do not immediately partake in the rapture of Christ. The wilderness represents certain countries in Europe, where the Church finds solace and sustenance until the time of the Reformation emerges more prominently.",
+        "wordCount": 95,
+        "quoteTokenProportion": 35.38,
+        "qualityScore": 1.864872108022892,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+        "commentatorTierSimilarities": [
+            34.3,
+            33.57,
+            32.12
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The heathen world, the wilderness, could not nourish the Church, but only afford her an outward shelter.",
+            "During the whole Church-historic period, or 'times of the Gentiles,' wherein 'Jerusalem is trodden down of the Gentiles,' there is no believing Jewish Church, and therefore, only the Christian Church can be 'the woman.'",
+            "Probably the 1260 days, or periods, representing this long interval, are RECAPITULATED on a shorter scale analogically during the last Antichrist's short reign."
+        ],
+        "Albert Barnes": [
+            "Having briefly referred to this, the writer Revelation 12:7-13 gives an account of the efforts of Satan consequent on the removal of the child to heaven.",
+            "The meaning is, that during that time the true church, though obscure and almost unknown, would be the object of the divine protection and care.",
+            "The church during that time would find true friends, and would be kept alive."
+        ],
+        "Marvin Vincent": [
+            "Of God [\u03b1\u03c0\u03bf \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5] . Lit., from God, the preposition marking the source from which the preparation came. For a similar use, see James 1:13, \"tempted of God."
+        ],
+        "Philip Schaff": [
+            "The first is ideal, the second actual. Strictly speaking, the woman in Revelation 12:1-6 is neither the Jewish nor the Christian Church. She is light from Him 'who is light, and with whom there is no darkness at all,' light which had been always shining before it was partially embodied either in the Church of the old or the new covenant.",
+            "The dragon is ideal darkness, the power of sin before it begins its deadly warfare against the children of God.",
+            "Christ\u2019s true people as well as Himself are made to sit down with Him in His throne, even as He sat down with His Father in His throne."
+        ],
+        "Archibald T. Robertson": [
+            "God's people do not at once share the rapture of Christ, but the dragon is unable to destroy them completely.",
+            "Where - there) as in Revelation 3:8; Revelation 8:9; Revelation 8:9; Revelation 13:8; Revelation 13:12; Revelation 17:9; Revelation 20:8.",
+            "Purpose clause with \u03b9\u03bd\u03b1 and the present for continued action: active subjunctive according to A P though C reads \u03c4\u03c1\u03b5\u03c6\u03bf\u03c5\u03c3\u03b9\u03bd, present active indicative, as is possible also in Revelation 13:17 and certainly so in 1 John 5:20."
+        ],
+        "John Gill": [
+            "God has had, and will have a church in the worst of times; as he reserved a number in Elijah's time, so he did in the times of the antichristian apostasy, who bowed not the knee to idolatry.",
+            "The wilderness is a place of retirement and safety, as well as of obscurity.",
+            "The church in the wilderness must be considered as contemporary, as also with the Thyatirian and Sardian church states; for though, at the Reformation, which the Sardinian church state introduces, the church appeared again, and has been ever since coming up out of the wilderness, yet she is still in it."
+        ],
+        "John Wesley": [
+            "And this must be in Europe; as Asia and Afric were wholly in the hands of the Turks and Saracens; and in a part of it where the woman had not been before.",
+            "The wilderness is, those countries of Europe which lie on this side the Danube; for the countries which lie beyond it had received Christianity before.",
+            "So long the woman enjoyed a safe and convenient place in Europe, which was chiefly Bohemia; where she was fed, till God provided for her more plentifully at the Reformation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the Church-historic period, the Christian Church, symbolized by the woman, is sheltered in the wilderness, where she is nourished by God amidst the persecutions of the dragon. The 1260 days can be seen as a representation of this long interval, recapitulated on a shorter scale during the reign of the last Antichrist. Although the dragon cannot destroy God's people completely, they do not immediately partake in the rapture of Christ. The mention of the wilderness as a place of retirement and safety, which represents certain countries in Europe, suggests that the Church finds solace and sustenance there until the time of the Reformation when she emerges more prominently.",
+            "wordCount": 110,
+            "quoteTokenProportion": 36.49,
+            "qualityScore": 1.8776332274782455,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.77,
+            "commentatorTierSimilarities": [
+                34.55,
+                32.78,
+                32.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the whole Church-historic period, only the Christian Church can be the woman who finds shelter in the wilderness, nourished by God alone. The 1260 days symbolize this long interval, recapitulated on a shorter scale in the last Antichrist's reign. Although the dragon cannot completely destroy God's people, they do not immediately partake in the rapture of Christ. This wilderness represents certain countries in Europe, where the Church finds safety and sustenance until the time of the Reformation emerges more prominently.",
+            "wordCount": 83,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.8235688148005549,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.98,
+            "commentatorTierSimilarities": [
+                34.83,
+                32.36,
+                32.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the Church-historic period, the Christian Church, symbolized by the woman, is sheltered in the wilderness, where she is nourished by God amidst the persecutions of the dragon. The 1260 days can be seen as a representation of this long interval, recapitulated on a shorter scale during the reign of the last Antichrist. Although the dragon cannot destroy God's people completely, they do not immediately partake in the rapture of Christ. The wilderness represents certain countries in Europe, where the Church finds solace and sustenance until the time of the Reformation emerges more prominently.",
+            "wordCount": 95,
+            "quoteTokenProportion": 35.38,
+            "qualityScore": 1.864872108022892,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.35,
+            "commentatorTierSimilarities": [
+                34.3,
+                33.57,
+                32.12
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "During the Church-historic period, the Christian Church, symbolized by the woman, finds shelter in the wilderness. Although the wilderness cannot nourish the Church, it provides an outward shelter. The 1260 days represent a long interval, recapitulated on a shorter scale during the reign of the last Antichrist. While the dragon cannot annihilate God's people, they do not immediately share in the rapture of Christ. The wilderness signifies certain European countries where the Church seeks safety and sustenance until the time of the Reformation brings about a more abundant provision.",
+            "wordCount": 90,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.7856168686465805,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.71,
+            "commentatorTierSimilarities": [
+                34.55,
+                33.74,
+                31.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the Church-historic period, the Christian Church seeks shelter in the wilderness, which provides her an outward haven. While the wilderness cannot nourish the Church, it offers protection. The 1260 days are representative of a long interval, recapitulated analogically during the last Antichrist's reign. Although the dragon cannot completely destroy God's people, they are not immediately raptured with Christ. The wilderness represents certain European countries where the Church finds refuge and sustenance until the time of the Reformation brings about a more abundant provision.",
+            "wordCount": 86,
+            "quoteTokenProportion": 34.38,
+            "qualityScore": 1.7454518926635347,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.38,
+            "commentatorTierSimilarities": [
+                34.15,
+                33.4,
+                32.45
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

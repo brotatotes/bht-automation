@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:35",
+    "verseRef": "Revelation 13:2",
+    "bestBHT": {
+        "bht": "The description of the beast in this depiction combines the characteristics of a leopard, bear, and lion, symbolizing the opposition to God throughout history. Serving as Satan's agent, this beast represents the universal power of the enemy in all ages and places. The imagery draws upon the qualities of various empires, such as the Babylonian, Median, Persian, and Roman, showcasing their strength, brutality, vigilance, and roar. This ongoing war reflects Satan's claim to power and his opposition to Christ, as seen in Matthew 4:9 and John 12:31.",
+        "wordCount": 87,
+        "quoteTokenProportion": 25.86,
+        "qualityScore": 2.0794413867863204,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+        "commentatorTierSimilarities": [
+            31.87,
+            35.12,
+            33.01
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the beast...was like...a leopard...feet as of a bear...and its mouth as...a lion...\" ",
+            "...this beast, this earthly persecuting power, was the vicegerent and instrument of the devil...and used by him for his purposes of hostility...",
+            "...hostility against the remnant of the seed of the woman."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It represents comprehensively in one figure the world power of all times and places, not merely of one period and one locality, viewed as opposed to God.\" ",
+            "This view is favored also by the fact, that the beast is the vicarious representative of Satan, who similarly has seven heads and ten horns: a general description of his universal power in all ages and places of the world.\" ",
+            "Satan appears as a serpent, as being the archetype of the beast nature."
+        ],
+        "Albert Barnes": [
+            "In this description, it is observable that John has combined in one animal or monster, all those which Daniel brought successively on the scene of action as representing different empires.",
+            "At the same time there was an obvious propriety in the symbol itself; for the bloodthirstiness and cruelty of the leopard would well represent the ferocity and cruelty of the Roman power, especially as John saw it here as the great antagonistic power of the true church, sustaining the papal claim, and thirsting for blood.",
+            "The authority was great. It extended over a large part of the earth, and, alike in its extent and character, it was such as we may suppose Satan would set up in the world."
+        ],
+        "Marvin Vincent": [
+            "A leopard [\u03c0\u03b1\u03c1\u03b4\u03b1\u03bb\u03b5\u03b9]...stands for either. Leopard is leo - pard, the lion - pard, which was supposed to be a mongrel between a panther and a lioness.\" ",
+            "Bear. Compare Daniel 7:5.",
+            "Lion. Compare Daniel 7:4."
+        ],
+        "Philip Schaff": [
+            "The qualities represented are the most offensive of their kind, the swift cruel spring of the leopard, the brutish relentlessness of the bear, and the devouring power of the lion.",
+            "The \u2018beast\u2019 before us is thus the symbol of the world-power in its absoluteness and universality.",
+            "Finally, we may remark that, in so far as the power of Rome enters into the description, it can only be that of Pagan, not Christian, Rome."
+        ],
+        "Archibald T. Robertson": [
+            "The leopard (\u03bb\u03b5\u03bf, \u03c0\u03b1\u03c1\u03b4) was considered a cross between a panther and a lioness.",
+            "The strength and brutality of the Babylonian, Median, and Persian empires appeared in the Roman Empire. The catlike vigilance of the leopard, the slow and crushing power of the bear, and the roar of the lion were all familiar features to the shepherds in Palestine (Swete).",
+            "The beast is simply Satan's agent. Satan claimed this power to Christ (Matthew 4:9; Luke 4:6) and Christ called Satan the prince of this world (John 12:31; John 14:30; John 16:11). So the war is on."
+        ],
+        "John Gill": [
+            "And to which the Roman Papal monarchy bears some resemblance; for as the Grecian monarchy was divided into several parts, which the leopard's spots may also point out, so the Roman empire was divided into ten parts, and united under the pope, as the head of them...",
+            "It lies in wait for its prey, and suddenly falls upon it, and devours it; and is a lively picture of the cunning sleight of the antichristian party, who lie in wait to deceive, and of their blood thirstiness and barbarity.",
+            "He gave him his cunning and subtlety, as the old serpent, and taught him his arts and tricks to deceive mankind; and gave him a power to do signs and lying wonders, as well as communicated his malice and cruelty to persecute and oppress the saints..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The description of the beast in this verse draws upon various animal characteristics to represent the world power throughout history that opposes God. The beast is portrayed as a combination of a leopard, a bear, and a lion, symbolizing the strength, brutality, and vigilance inherent in earthly empires. This beast, serving as Satan's representative, is Satan's means of waging war against the remnant of God's people. The imagery of the beast reflects the universal power of Satan in all ages and places of the world. This description links back to the Babylonian, Median, Persian, and Roman empires, embodying their respective qualities. Thus, the war between the beast and the remnant of God's people continues.",
+            "wordCount": 118,
+            "quoteTokenProportion": 28.79,
+            "qualityScore": 1.9533035326874324,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.29,
+            "commentatorTierSimilarities": [
+                34.44,
+                36.32,
+                29.24
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The beast depicted in this portrayal combines the characteristics of a leopard, bear, and lion to symbolize the world power opposing God throughout history. Serving as Satan's instrument, this beast acts as a vicegerent, engaged in hostility towards the remnant of God's people. The representation of the beast encompasses all times and locations, showcasing Satan's universal power. The features attributed to the beast, such as the leopard's vigilance, bear's strength, and lion's roar, find familiarity among Palestinian shepherds. The ongoing war between this beast and God's people persists as Satan's claim to power opposes Christ.",
+            "wordCount": 103,
+            "quoteTokenProportion": 23.73,
+            "qualityScore": 2.0310234447234636,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.87,
+            "commentatorTierSimilarities": [
+                36.55,
+                36.42,
+                27.03
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The beast described in this passage is a composite creature, taking on the characteristics of a leopard, bear, and lion. It represents the world power that opposes God throughout all times and places. Serving as Satan's instrument, this beast is used to carry out his purposes of hostility against God's people. The imagery draws from various empires, including the Babylonian, Median, Persian, and Roman, symbolizing their strength, brutality, vigilance, and roar. The ongoing war between the beast and the remnant of God's people reflects Satan's universal power and opposition to Christ.",
+            "wordCount": 95,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.9555639586660294,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                34.57,
+                36.03,
+                29.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The description of the beast in this depiction combines the characteristics of a leopard, bear, and lion, symbolizing the opposition to God throughout history. Serving as Satan's agent, this beast represents the universal power of the enemy in all ages and places. The imagery draws upon the qualities of various empires, such as the Babylonian, Median, Persian, and Roman, showcasing their strength, brutality, vigilance, and roar. This ongoing war reflects Satan's claim to power and his opposition to Christ, as seen in Matthew 4:9 and John 12:31.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 2.0794413867863204,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.48,
+            "commentatorTierSimilarities": [
+                31.87,
+                35.12,
+                33.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The portrayal of the beast in this description is a comprehensive symbol of the world power opposing God. Combining the characteristics of a leopard, bear, and lion, the beast represents earthly empires and their strengths and brutality. Acting as Satan's vicegerent, the beast is employed to carry out his hostile purposes against the remnant of God's people. This depiction emphasizes the ongoing war between the beast and the people of God, reflecting Satan's universal power and opposition to Christ. Matthew 4:9 and John 12:31 further elucidate the nature of this conflict.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.9130555692147881,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.95,
+            "commentatorTierSimilarities": [
+                34.97,
+                36.28,
+                28.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

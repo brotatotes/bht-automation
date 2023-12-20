@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:13",
+    "verseRef": "Revelation 12:9",
+    "bestBHT": {
+        "bht": "The old serpent, also known as the Devil and Satan, is a cunning deceiver who can even lead astray God's chosen ones through his beguiling ways. The dragon, representing his venomous and cruel nature, is linked to the serpent that deceived Eve in the beginning. Throughout history, he has used his angels as instruments to carry out his will, deceiving the whole world into unbelief and wickedness. His influence has been pervasive, beginning with our first parents and continuing to perpetuate hatred and persecution of faith and goodness.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.71,
+        "qualityScore": 1.8893846842840163,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+        "commentatorTierSimilarities": [
+            28.1,
+            33.11,
+            38.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "that old serpent\u2014alluding to Genesis 3:1; Genesis 3:4.",
+            "Devil\u2014the Greek, for 'accuser,' or 'slanderer.'",
+            "Satan\u2014the Hebrew for 'adversary,' especially in a court of justice. The twofold designation, Greek and Hebrew, marks the twofold objects of his accusations and temptations, the elect Gentiles and the elect Jews."
+        ],
+        "Albert Barnes": [
+            "That there may be an allusion in the language here to what actually occurred in some far distant period of the past, when Satan was ejected from heaven, there can be no reason to doubt.",
+            "This doubtless refers to the serpent that deceived Eve [...] and this passage may be adduced as a proof that the real tempter of Eve was the devil, who assumed the form of a serpent.",
+            "The first and the only revolt in heaven was quelled; and the result furnished to the universe an impressive proof that none who rebelled there would be forgiven - that apostasy so near the throne could not be pardoned."
+        ],
+        "Marvin Vincent": [
+            "That old serpent [\u03bf \u03bf\u03c6\u03b9\u03c2 \u03bf \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03c2]. Lit., the serpent, the old (serpent).",
+            "The Devil. See on Matthew 4:1.",
+            "The deceiver [\u03bf \u03c0\u03bb\u03b1\u03bd\u03c9\u03bd]. Lit., he that deceiveth."
+        ],
+        "Archibald T. Robertson": [
+            "The dragon in both places is identified with the old serpent (Genesis 3:1) and called \u03b1\u03c1\u03c7\u03b1\u03b9\u03bf\u03c2 (from \u03b1\u03c1\u03c7\u03b7, beginning), as Jesus said that the devil was a murderer 'from the beginning' (John 8:44).\" ",
+            "Satan can almost 'lead astray' the very elect of God (Matthew 24:24), so artful is he in his beguilings as he teaches us how to deceive ourselves (1 John 1:8).",
+            "'The earth was no new sphere of Satan's working' (Swete)."
+        ],
+        "John Gill": [
+            "The old serpent; who is so called, because, of old, from the beginning, almost as soon as the world was, he appeared in the form of a serpent, or rather made use of it as an instrument and means, by which he seduced Eve, and so brought on the ruin of mankind.",
+            "which deceiveth the whole world; which he did by deceiving our first parents, from whom all mankind spring, and in whose loins they were when they were deceived.",
+            "his angels were cast out with him; the Heathen emperors, magistrates, priests, and other votaries of his, which he made use of as instruments to do his will."
+        ],
+        "John Wesley": [
+            "He is termed the great dragon, as appearing here in that shape, to intimate his poisonous and cruel disposition.",
+            "The ancient serpent \u2014 In allusion to his deceiving Eve in that form. Dragons are a kind of large serpent.",
+            "He has deceived the whole world - Not only in their first parents, but through all ages, and in all countries, into unbelief and all wickedness; into the hating and persecuting faith and all goodness."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the old serpent, the Devil, and Satan, alluding to his role as the accuser and slanderer. The dragon is identified with the old serpent, associated with his cunning and deceptiveness. He has the ability to deceive even the elect of God and lead them astray. The earth has always been a sphere for Satan's influence, and his angels are his instruments in furthering his will. This deception began with our first parents, resulting in the ruin of mankind. Throughout history, he has continued to deceive the whole world into unbelief and wickedness, perpetuating hatred and persecution of faith and goodness.",
+            "wordCount": 105,
+            "quoteTokenProportion": 36.23,
+            "qualityScore": 1.7779195969150026,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.46,
+            "commentatorTierSimilarities": [
+                31.66,
+                30.81,
+                37.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The old serpent, also known as the Devil and Satan, is a cunning deceiver who can even lead astray God's chosen ones through his beguiling ways. The dragon, representing his venomous and cruel nature, is linked to the serpent that deceived Eve in the beginning. Throughout history, he has used his angels as instruments to carry out his will, deceiving the whole world into unbelief and wickedness. His influence has been pervasive, beginning with our first parents and continuing to perpetuate hatred and persecution of faith and goodness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8893846842840163,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.16,
+            "commentatorTierSimilarities": [
+                28.1,
+                33.11,
+                38.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The old serpent, known as the Devil and Satan, is a shrewd deceiver and accuser. He has the ability to lead even the chosen ones astray with his cunning ways. The dragon, associated with the serpent who tempted Eve, symbolizes the serpent's cruel and venomous nature. Throughout history, he has utilized his angels as instruments to carry out his will. This deceptive influence began with the first human parents and continues to mislead the entire world, fostering unbelief, wickedness, and hostility towards faith and goodness.",
+            "wordCount": 86,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 1.7127697382288778,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.29,
+            "commentatorTierSimilarities": [
+                28.89,
+                32.72,
+                38.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The old serpent, also known as the Devil and Satan, is a shrewd deceiver and accuser. He operates with artful cunning, leading even the elect astray. The dragon, associated with the serpent from Genesis, represents his poisonous and cruel nature. He has the ability to deceive the whole world, starting with our first parents and spreading wickedness and unbelief throughout history. His influence extends to his angels, who carry out his will. This deceitfulness perpetuates hostility towards faith and goodness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.6299568097996833,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.54,
+            "commentatorTierSimilarities": [
+                32.64,
+                28.75,
+                38.61
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The old serpent, known as the Devil and Satan, is a shrewd deceiver who can even lead astray the chosen ones of God. The dragon symbolizes his cruel and venomous nature, reminiscent of the serpent who deceived Eve. He wields deceptive power over the whole world, starting with our first parents, and continues to spread unbelief and wickedness throughout history. His angels serve as instruments to carry out his will, perpetuating hostility towards faith and goodness.",
+            "wordCount": 76,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.8501687945131655,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.86,
+            "commentatorTierSimilarities": [
+                28.78,
+                32.21,
+                39.01
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

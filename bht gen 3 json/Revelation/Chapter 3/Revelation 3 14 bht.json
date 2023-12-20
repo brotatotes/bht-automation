@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:42:51",
+    "verseRef": "Revelation 3:14",
+    "bestBHT": {
+        "bht": "Christ, known as the Amen, is the embodiment of unchanging truth and faithfulness. He is the source and primary fountain-head of the whole creation. As the faithful and true witness, He fulfills all of God's promises and reveals the truth. His role as the beginning of the creation of God signifies his position as the head and prince of creation. He is the perfect witness for God, approving only what aligns with the truth and bringing about the purposes of redemption.",
+        "wordCount": 83,
+        "quoteTokenProportion": 31.11,
+        "qualityScore": 2.3510332802310248,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.51,
+        "commentatorTierSimilarities": [
+            31.7,
+            38.92,
+            29.38
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Christ is the Amen, inasmuch as His words shall never pass away, but shall find certain ratification.",
+            "There is then yea in all things said of Him; i. e, all is truth, and none a lie.",
+            "In Him the whole creation of God is begun and conditioned: He is its source and primary fountain-head."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He who not only says, but is, the Truth.",
+            "His unchanging faithfulness as 'the Amen' contrasts with Laodicea's wavering of purpose.",
+            "As 'the Amen' expresses the unchangeable truth of His promises, so 'the faithful the true witness' expresses the truth of His revelations."
+        ],
+        "Albert Barnes": [
+            "The word 'Amen' means 'true,' 'certain,' 'faithful'; and, as used here, it means that he to whom it is applied is eminently true and faithful. What he affirms is true; what he promises or threatens is certain.",
+            "He is a witness for God and his truth, and he can approve of nothing which the God of truth would not approve.",
+            "He is the beginning of the creation of God, in the sense that he is the head or prince of the creation; that is, that he presides over it so far as the purposes of redemption are to be accomplished, and so far as is necessary for those purposes."
+        ],
+        "Marvin Vincent": [
+            "The term applied to the Lord signifies that He Himself is the fulfilment of all that God has spoken to the churches.",
+            "The veracity of Christ is thus asserted in the word faithful, true being not true as distinguished from false, but true to the normal idea of a witness.",
+            "The beginner, or author; not as Colossians 1:15, the first and most excellent creature of God's hands."
+        ],
+        "Philip Schaff": [
+            "The Lord is rather there named \u2018Amen;\u2019 and the meaning of the name here is not that the Divine promises shall be accomplished by Him to whom it is given, but that He is Himself the fulfilment of all that God has spoken to His churches.",
+            "His work is to be a witness of God, and in that work He has been perfectly \u2018faithful,\u2019 absolutely \u2018true.\u2019",
+            "He is the beginning of the creation of God, not merely the first and highest of all creatures, but the principle, the initial force, to which the \u2018creation\u2019 of God owes its origin."
+        ],
+        "Archibald T. Robertson": [
+            "No praise is bestowed on this church, but only blame for its lukewarmness.",
+            "The Amen... applied to Christ.",
+            "Not the first of creatures... the originating source of creation through whom God works."
+        ],
+        "John Gill": [
+            "This church represents the state of the church, from the end of the spiritual reign of Christ, till the time of his personal appearing and kingdom, to judge the quick and dead.",
+            "The faithful and true witness; who as he was in the days of his flesh, Revelation 1:18-; so he will be at the day of judgment, a swift witness against all ungodly men.",
+            "The beginning of the creation of God; not the first creature that God made, but the first cause of the creation; the first Parent, producer, and efficient cause of every creature."
+        ],
+        "John Wesley": [
+            "These things saith the Amen \u2014 That is, the True One, the God of truth.",
+            "The beginning \u2014 The Author, Prince, and Ruler.",
+            "Of the creation of God \u2014 Of all creatures; the beginning, or Author, by whom God made them all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Christ, the Amen, embodies unchanging truth and faithfulness. He is the source and foundation of all creation, not as a mere creature, but as the originating force through which God works. This contrasts with the lukewarmness of the church of Laodicea. As the faithful and true witness, Christ is the fulfilment of all God's promises and the embodiment of God's truth. His role as the beginning of the creation of God signifies his position as the head and prince of creation. He is the perfect witness for God, approving only what aligns with the truth.",
+            "wordCount": 97,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.2700587933901466,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+            "commentatorTierSimilarities": [
+                32.51,
+                37.35,
+                30.14
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Christ, the Amen, is the embodiment of unchanging truth and faithfulness. He is not merely the first of creatures, but the originating source of creation through whom God works. This signifies his position as the head and prince of creation. As the faithful and true witness, he fulfills all of God's promises. His role as the beginning of the creation of God affirms his authority and presiding power. He is the perfect witness for God, approving only what aligns with the truth.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.0,
+            "qualityScore": 2.3157740893016805,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.34,
+            "commentatorTierSimilarities": [
+                31.14,
+                38.44,
+                30.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ, known as the Amen, is the embodiment of unchanging truth and faithfulness. He is the source and primary fountain-head of the whole creation. As the faithful and true witness, He fulfills all of God's promises and reveals the truth. His role as the beginning of the creation of God signifies his position as the head and prince of creation. He is the perfect witness for God, approving only what aligns with the truth and bringing about the purposes of redemption.",
+            "wordCount": 83,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.3510332802310248,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.51,
+            "commentatorTierSimilarities": [
+                31.7,
+                38.92,
+                29.38
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Christ, referred to as the Amen, represents the unchangeable truth and faithfulness. He is the source and primary fountain-head of God's creation. As the faithful and true witness, He fulfills the promises of God and serves as the embodiment of truth. The term the beginning of the creation of God highlights His authority and position as the head of all creation. In contrast, the lukewarmness of the Laodicean church is condemned. Christ is the perfect witness, approving only of what aligns with the truth.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.66,
+            "qualityScore": 2.1736788334869863,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.62,
+            "commentatorTierSimilarities": [
+                34.35,
+                35.3,
+                30.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Christ, the Amen, represents unchanging truth and faithfulness. He is the primary fountain-head of all creation, not merely a creature. As the faithful and true witness, He fulfills God's promises and reveals the truth. His role as the beginning of the creation of God signifies His authority and position as the head of creation. The lukewarmness of the Laodicean church is contrasted with the unwavering faithfulness of Christ. He is the perfect witness, approving only what aligns with the truth.",
+            "wordCount": 82,
+            "quoteTokenProportion": 28.26,
+            "qualityScore": 2.201650015667992,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.55,
+            "commentatorTierSimilarities": [
+                34.29,
+                36.07,
+                29.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

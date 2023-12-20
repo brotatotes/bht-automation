@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:42:31",
+    "verseRef": "Revelation 4:10",
+    "bestBHT": {
+        "bht": "The twenty-four elders, assumed to be either angels or redeemed men, continually fall down before God's throne, worshiping Him and casting down their crowns as an act of submission and homage. By doing so, they acknowledge that all honor and dignity belong to God alone. This act of casting down crowns has historical significance, observed among kings and princes as a symbol of subjection. This eternal act of worship emphasizes the perpetual praise and recognition that God deserves, as we rejoice in witnessing His divine character and purposes.",
+        "wordCount": 90,
+        "quoteTokenProportion": 42.65,
+        "qualityScore": 2.3084857650787014,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.1,
+        "commentatorTierSimilarities": [
+            32.48,
+            39.57,
+            27.95
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the twenty-four elders shall fall down before Him that sitteth upon the throne, and shall worship Him that liveth to the ages of the ages\" ",
+            "and shall cast down their crowns\" ",
+            "(to disclaim all honour and dignity of their own, and acknowledge that all belongs to Him. Instances of casting down crowns are cited by the Commentators. Tacitus relates that Tiridates advanced to the image of Nero, took his crown from his head and threw it down at the feet of the image) before the throne, saying,"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "shall fall down\": implying that this ascription of praise shall be repeated onward to eternity.",
+            "shall worship . . . shall cast their crowns,\" namely, in acknowledgment that all the merit of their crowns is due to Him."
+        ],
+        "Albert Barnes": [
+            "The church of God always rejoices when there is any new manifestation of the principles of the divine administration.",
+            "As all these acts, in reality, bring glory and honor to God, the church, as often as there is any new manifestation of the divine character and purposes, renders praise anew.",
+            "They are here represented as casting their crowns at his feet, in token that they owe their triumph to Him."
+        ],
+        "Marvin Vincent": [
+            "The casting of the crowns is an act of submission and homage.",
+            "Pompey 'raised him up, and replaced on his head the diadem which he had thrown down.'",
+            "Tiridates approached, and having immolated the victims in due form, he lifted the diadem from his head and laid it at the feet of the statue, while every heart throbbed with intense emotion."
+        ],
+        "Philip Schaff": [
+            "The four and twenty elders shall fall down before him that sitteth on the throne, and shall worship him that liveth for ever and ever, and shall cast their crowns before the throne, saying.\" ",
+            "Three acts of worship and homage on the part of the elders are described, \u2018falling down,\u2019 \u2018worshipping,\u2019 and \u2018casting their crowns before the throne.\u2019",
+            "It is not necessary to ask whether the crowns thus cast down are again resumed, for it is simply the act of homage that is described."
+        ],
+        "Archibald T. Robertson": [
+            "They thus acknowledge that all this kingly dignity comes from God, who is King of kings and Lord of lords.",
+            "The two actions by the two groups (living creatures, elders) are coordinated (simultaneous in the repetition).",
+            "Charles takes the elders, however, to be angels, not redeemed men."
+        ],
+        "John Gill": [
+            "The ministers of the Gospel begin the worship of God, and lead in it, who are the four living creatures.",
+            "They are unworthy to wear them in his presence, being but unprofitable servants in all they do.",
+            "Such like actions have been done by kings and princes to one another, in token of subjection."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The twenty-four elders, representing either angels or redeemed men, continuously fall down before God's throne, worshiping Him and casting down their crowns as an act of submission and homage. By doing so, they acknowledge that all honor and dignity belong to God alone. This act of casting down crowns has been observed in historical instances among kings and princes, symbolizing their subjection to one another. The repetition of this worship throughout eternity emphasizes the everlasting praise and recognition that God deserves. As the church witnesses new manifestations of God's divine character and purposes, they rejoice and join in giving Him glory and honor.",
+            "wordCount": 106,
+            "quoteTokenProportion": 38.67,
+            "qualityScore": 2.290770241906746,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.51,
+            "commentatorTierSimilarities": [
+                32.02,
+                39.75,
+                28.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The twenty-four elders, possibly angels or redeemed men, continuously fall down before God's throne to worship Him and submit to His authority. In an act of homage, they cast down their crowns, acknowledging that all glory and honor belong to Him alone. This gesture, also seen in historical instances between kings and princes, symbolizes their subjection to one another. The repetition of this worship throughout eternity emphasizes the perpetual recognition and praise that God deserves, as the church rejoices in witnessing His divine character and purposes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.31,
+            "qualityScore": 2.291200305581707,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.52,
+            "commentatorTierSimilarities": [
+                32.76,
+                38.23,
+                29.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Revelation 4:10, the twenty-four elders, representing either angels or redeemed men, continuously fall down before God's throne, worshiping Him and casting down their crowns as an act of submission and homage. By doing so, they acknowledge that all honor and dignity belong to God alone. This act of casting down crowns has been observed in historical instances among kings and princes, symbolizing their subjection to one another. The repetition of this worship throughout eternity emphasizes the everlasting praise and recognition that God deserves.",
+            "wordCount": 85,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.308575753045595,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.1,
+            "commentatorTierSimilarities": [
+                33.46,
+                38.06,
+                28.48
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twenty-four elders, assumed to be either angels or redeemed men, continually fall down before God's throne, worshiping Him and casting down their crowns as an act of submission and homage. By doing so, they acknowledge that all honor and dignity belong to God alone. This act of casting down crowns has historical significance, observed among kings and princes as a symbol of subjection. This eternal act of worship emphasizes the perpetual praise and recognition that God deserves, as we rejoice in witnessing His divine character and purposes.",
+            "wordCount": 90,
+            "quoteTokenProportion": 42.65,
+            "qualityScore": 2.3084857650787014,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.1,
+            "commentatorTierSimilarities": [
+                32.48,
+                39.57,
+                27.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twenty-four elders, whether angels or redeemed individuals, continually fall down before God's throne to worship Him and express their submission by casting down their crowns. This act of homage signifies their recognition that all honor and dignity belong to God alone. Throughout history, such actions have been observed among kings and princes as a symbolic display of subjection. This repetitive act of worship underscores the everlasting praise and acknowledgment that God deserves, while we joyfully observe His divine character and purposes unfold.",
+            "wordCount": 85,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 2.231259434502562,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.53,
+            "commentatorTierSimilarities": [
+                31.42,
+                37.78,
+                30.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "timestamp": "12-19-2023 21:51:02",
+    "verseRef": "Revelation 22:7",
+    "bestBHT": {
+        "bht": "The one who keeps the sayings of this prophecy is blessed, for it is a direct message from God, a prediction of doom on Christ's enemies, and a comforting picture of triumph for the faithful. The word keepeth signifies the importance of obedience and love for Christ. Our Lord promises to come quickly according to God's time, and this second coming holds great significance. Therefore, let us diligently observe and meditate upon these sayings, aligning our lives with their instructions and preparing for His return.",
+        "wordCount": 87,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8273603246364454,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+        "commentatorTierSimilarities": [
+            25.94,
+            36.3,
+            37.75
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And behold, I come quickly... Blessed is he that keepeth the sayings of the prophecy of this book.",
+            "I John [am he] who heard and saw these things: and when I heard and saw, I fell down to worship before the feet of the angel who shewed me these things."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "7. \"And\" is omitted in",
+            "\tCoptic and ANDREAS",
+            "\twith English Version, but is inserted by A, B, Vulgate",
+            "\tand Syriac.",
+            "",
+            "blessed\u2014 ( :-)."
+        ],
+        "Albert Barnes": [
+            "Behold, I come quickly - See the notes on Revelation 1:3. The words used here are undoubtedly the words of the Redeemer, although they are apparently repeated by the angel.",
+            "The meaning is, that they were used by the angel as the words of the Redeemer. See Revelation 22:12, Revelation 22:20.",
+            "Blessed is he that keepeth the sayings of the prophecy of this book - That receives them as a divine communication; that makes use of them to comfort himself in the days of darkness, persecution, and trial; and that is obedient to the precepts here enjoined. See the notes on Revelation 1:3."
+        ],
+        "Marvin Vincent": [
+            "Keepeth [\u03c4\u03b7\u03c1\u03c9\u03bd]. A favorite word with John, occurring in his writings more frequently than in all the rest of the New Testament together.",
+            "Book [\u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03c5]. Diminutive, properly a little book or scroll.",
+            "See on reserved."
+        ],
+        "Philip Schaff": [
+            "And behold, I come quickly. The Lord Himself...presents to His Church that theme which was her encouragement and hope amidst all her troubles.\" ",
+            "The book indeed was but a transcript of those eternal verities which had been written in the counsels of God from before the foundation of the world.",
+            "The word 'keepeth' is a favourite one with the Apostle. It is not enough to hear or to enjoy...it is the test of the love of believers, 'If ye love Me, ye will keep My commandments'."
+        ],
+        "Archibald T. Robertson": [
+            "\u03c4\u03b1\u03c7\u03c5 and \u03b5\u03bd \u03c4\u03b1\u03c7\u03b5 are according to God's time, not ours.\" ",
+            "This book is here called a 'prophecy' as in verses Revelation 22:10; Revelation 22:18; Revelation 22:19. It is Christ's revelation from God, a direct message from God.",
+            "Part of it is prediction of doom on Christ's enemies, but most of it is a comforting picture of final triumph and bliss for the faithful in a time of great distress and persecution."
+        ],
+        "John Gill": [
+            "Behold, I come quickly... but of the second and personal coming of Christ to judgment... sooner than is generally expected by men.",
+            "The second coming of Christ is an affair of the utmost moment, and will be attended with events of the greatest consequence and importance.",
+            "To keep these sayings is to read them with observation, to take notice of the accomplishment of them, so far as it has taken place, to keep them in mind and memory, to meditate upon them, and through the grace of God to steer the life and conversation according to the instructions, directions, and cautions here given."
+        ],
+        "John Wesley": [
+            "Behold, I come quickly \u2014 Saith our Lord himself, to accomplish these things.",
+            "Happy is he that keepeth \u2014 Without adding or diminishing, the words of this book.",
+            "verses18,19, Revelation 22:18,19"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed is the one who keeps the sayings of the prophecy in this book, for it is a direct message from God, revealing both the prediction of doom on Christ's enemies and a comforting picture of final triumph and bliss for the faithful. The word keepeth is of great importance, indicating the need for obedience and the test of believers' love for Christ. Our Lord Himself promises to come quickly, not according to our time but according to God's time, and this second coming is an affair of the utmost moment, attended with events of the greatest consequence. Therefore, let us diligently observe and meditate upon these sayings, steering our lives in line with their instructions and cautions, so that we may be found faithful when the Lord returns.",
+            "wordCount": 131,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.9126922972440086,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.94,
+            "commentatorTierSimilarities": [
+                25.26,
+                36.75,
+                37.99
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed is the one who keeps the sayings of this prophecy, for it is a direct message from God that predicts doom on Christ's enemies and offers comfort and hope to the faithful in times of distress. The word keepeth emphasizes the need for obedience and reflects believers' love for Christ. Our Lord promises to come quickly, according to God's time, and this second coming holds great consequence. Therefore, let us diligently observe and meditate upon these sayings, aligning our lives with their instructions and cautions, preparing for His return.",
+            "wordCount": 92,
+            "quoteTokenProportion": 32.86,
+            "qualityScore": 1.7830800922134171,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.63,
+            "commentatorTierSimilarities": [
+                24.83,
+                36.44,
+                38.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The one who keeps the sayings of this prophecy is blessed, for it is a direct message from God, a prediction of doom on Christ's enemies, and a comforting picture of triumph for the faithful. The word keepeth signifies the importance of obedience and love for Christ. Our Lord promises to come quickly according to God's time, and this second coming holds great significance. Therefore, let us diligently observe and meditate upon these sayings, aligning our lives with their instructions and preparing for His return.",
+            "wordCount": 87,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8273603246364454,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                25.94,
+                36.3,
+                37.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed is the one who keeps the sayings of this prophecy, for it is a direct message from God, revealing both the prediction of doom on Christ's enemies and a comforting picture of final triumph and bliss for the faithful. The word keepeth is of great importance, indicating the need for obedience and the test of believers' love for Christ. Our Lord Himself promises to come quickly, not according to our time but according to God's time. Therefore, let us diligently observe and meditate upon these sayings, steering our lives in line with their instructions and cautions, so that we may be found faithful when the Lord returns.",
+            "wordCount": 110,
+            "quoteTokenProportion": 40.26,
+            "qualityScore": 1.8558673189143928,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                26.4,
+                37.37,
+                36.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed is the one who diligently keeps the sayings of this prophecy, for it is a direct message from God, containing both foretelling of doom on Christ's enemies and a comforting depiction of final triumph for the faithful amidst persecution. The word keepeth underscores the need for obedience, truly reflecting believers' love for Christ. Our Lord assures his imminent return, according to God's timetable, an event of utmost significance. Hence, we should attentively heed, meditate, and align our lives with these teachings, eagerly preparing for His coming.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.7241577503064436,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.67,
+            "commentatorTierSimilarities": [
+                24.25,
+                38.1,
+                37.65
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

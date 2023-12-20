@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:45:41",
+    "verseRef": "Revelation 11:8",
+    "bestBHT": {
+        "bht": "The dead bodies of the witnesses lie in the great city, spiritually identified as Sodom and Egypt, but also historically known as Jerusalem where their Lord was crucified. The placement in the street signifies contempt and dishonor, as leaving a body unburied was seen as the ultimate disrespect. This indicates that the city is characterized by oppression and perversion of God's doctrines towards His people, reflecting a corrupted form of Christianity entangled with worldly influences.",
+        "wordCount": 76,
+        "quoteTokenProportion": 30.51,
+        "qualityScore": 2.0214497033253567,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+        "commentatorTierSimilarities": [
+            23.93,
+            44.11,
+            31.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The singular is used, not for any mystical reason, but simply because the word in the original does not properly signify a dead body, but that which has fallen, be it of one, or of many.",
+            "The great city of the succeeding visions, of which this is anticipatory and compendious.",
+            "Not the specific term crucifixion, but the general fact of death by per-secution, underlying it, being in the Writer's mind."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Sodom\u2014The very term applied by Isaiah 1:10 to apostate Jerusalem.",
+            "Egypt\u2014the nation which the Jews' besetting sin was to lean upon.",
+            "This identifies the city as Jerusalem, though the Lord was crucified outside of the city."
+        ],
+        "Albert Barnes": [
+            "To leave a body unburied is to treat it with contempt, and among the ancients nothing was regarded as more dishonorable than such treatment.",
+            "The particular idea, then, which seems to be conveyed here is, that the 'city' referred to would be characterized by acts of oppression and wrong toward the people of God.",
+            "As he lives in his church, the acts of perverting his doctrines, and persecuting his people, would be, in fact, an act of crucifying the Lord again."
+        ],
+        "Marvin Vincent": [
+            "Dead bodies [\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b1] . Read ptwma carcass.\" ",
+            "Spiritually [\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03c9\u03c2] . Typically or allegorically.",
+            "Our Lord. Read aujtwn their for hJmwn our."
+        ],
+        "Philip Schaff": [
+            "Their dead body lies in the street, in the broad open way, where there are many passers-by to behold the contempt and the profanation.",
+            "This street belongs to the great city, several characteristics of which are next given. Spiritually it is called Sodom and Egypt, and there also their Lord was crucified.",
+            "We are thus led to regard 'the great city' as a designation for a degenerate Christianity which has submitted to the world."
+        ],
+        "Archibald T. Robertson": [
+            "Their dead bodies lie, a corpse, a carcase.",
+            "Of the great city, Jerusalem in view of the closing clause.",
+            "Where also their Lord was crucified, a reference to the fact of Christ's crucifixion in Jerusalem."
+        ],
+        "John Gill": [
+            "The dead bodies of those witnesses being said to lie here, may design the publicness of their silence, disgrace, and contempt.",
+            "It may have been truly called a glorious holy mountain, or a mountain of delight; and what place between the seas is there to which these characters can agree, but Great Britain?",
+            "Christ has been crucified at Rome itself in his members, who have suffered persecution and death, and even the death of the cross there; and he has been crucified afresh, both by the sins and immoralities of those who have bore the Christian name there, and by the frequent sacrifices of him in the Mass."
+        ],
+        "John Wesley": [
+            "And their bodies shall be \u2014 Perhaps hanging on a cross.",
+            "This is described both spiritually and historically: spiritually, as it is called Sodom...and Egypt.",
+            "Historically: Where also their Lord was crucified - This possibly refers to the very ground where his cross stood."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes the great city where the bodies of the witnesses lie, indicating the public display of their silence, disgrace, and contempt. This city is spiritually referred to as Sodom and Egypt, symbolizing its apostate and sinful nature. Additionally, it is explicitly identified as Jerusalem, where their Lord was crucified. The imagery suggests that this city is characterized by oppression, wrong towards God's people, and perversion of His doctrines. Furthermore, the desecration of their bodies in the open street signifies the dishonor and contempt shown towards them, paralleling the ancient belief that leaving a body unburied was the ultimate act of disrespect. Thus, the great city represents a corrupted form of Christianity entangled with worldly influences.",
+            "wordCount": 118,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.981670184000167,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.23,
+            "commentatorTierSimilarities": [
+                25.57,
+                43.04,
+                31.38
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dead bodies of the witnesses lie in the great city, spiritually identified as Sodom and Egypt, but also historically known as Jerusalem where their Lord was crucified. The placement in the street signifies contempt and dishonor, as leaving a body unburied was seen as the ultimate disrespect. This indicates that the city is characterized by oppression and perversion of God's doctrines towards His people, reflecting a corrupted form of Christianity entangled with worldly influences.",
+            "wordCount": 76,
+            "quoteTokenProportion": 30.51,
+            "qualityScore": 2.0214497033253567,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.55,
+            "commentatorTierSimilarities": [
+                23.93,
+                44.11,
+                31.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The bodies of the witnesses lie in the great city, spiritually identified as Sodom and Egypt, but also historically known as Jerusalem where their Lord was crucified. This placement signifies contempt and dishonor, as leaving a body unburied was seen as the ultimate disrespect. It suggests that the city is characterized by oppression and perversion of God's doctrines towards His people, reflecting a corrupted form of Christianity entangled with worldly influences.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.9901895554189775,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.51,
+            "commentatorTierSimilarities": [
+                24.1,
+                43.23,
+                32.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the great city, where their Lord was crucified, the bodies of the witnesses lie as a public display of disgrace and contempt. This city is spiritually referred to as Sodom and Egypt, symbolizing its apostate and sinful nature. The imagery suggests that it is characterized by oppression, perversion of God's doctrines, and wrong towards His people. Additionally, leaving the bodies unburied in the street signifies the ultimate disrespect and dishonor shown towards them. This signifies a corrupted form of Christianity entangled with worldly influences.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.8843920048607825,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.0,
+            "commentatorTierSimilarities": [
+                23.04,
+                44.19,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the great city, where their Lord was crucified, the bodies of the witnesses lie as a public display of disgrace. This city is spiritually referred to as Sodom and Egypt, symbolizing its apostate and sinful nature. The bodies lying unburied in the street signifies the ultimate disrespect shown towards them, reflecting a corrupted form of Christianity entangled with worldly influences. The city is characterized by oppression, perversion of God's doctrines, and wrong towards His people.",
+            "wordCount": 77,
+            "quoteTokenProportion": 31.03,
+            "qualityScore": 2.0112225959426167,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                24.21,
+                45.3,
+                30.49
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

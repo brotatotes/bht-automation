@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:43:23",
+    "verseRef": "Revelation 4:11",
+    "bestBHT": {
+        "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise look on creation from without, and that thanksgiving, which creation renders for its being, becomes in their view a tribute to Him who called them into being, and thus a testimony to His creative power. With God to will is to effect: to determine is to perform. It is THOU who didst create. Their thanksgiving is a tribute to the creative power which called them into being.",
+        "wordCount": 97,
+        "quoteTokenProportion": 52.54,
+        "qualityScore": 2.0509444325870048,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+        "commentatorTierSimilarities": [
+            41.87,
+            26.76,
+            31.37
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might.",
+            "The elders, though themselves belonging to creation, in this ascription of praise look on creation from without, and that thanksgiving, which creation renders for its being, becomes in their view a tribute to Him who called them into being, and thus a testimony to His creative power.",
+            "Because Thou didst create all things, and on account of Thy will they were, and were created."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "It is THOU who didst create.",
+            "With God to will is to effect: to determine is to perform.",
+            "They were existing, as contrasted with their previous non-existence."
+        ],
+        "Albert Barnes": [
+            "No man worships him aright who does not feel that there is that in his nature and his doings which makes it proper that he should receive universal adoration.",
+            "The putting forth of that will explains all; and, consequently, whatever wisdom, power, goodness, is manifested in the universe, is to be traced to God.",
+            "Let us fancy ourselves, therefore, with the holy seer looking into heaven, and listen with reverence to what the great God discloses respecting the various changes that are to occur until every foe of the church shall be subdued, and the earth shall acknowledge his sway, and the whole scene shall close in the triumphs and joys of heaven."
+        ],
+        "Marvin Vincent": [
+            "To receive [\u03bb\u03b1\u03b2\u03b5\u03b9\u03bd] . Or perhaps, better, to take, since the glory, honor, and power are the absolute possession of the Almighty.",
+            "Their thanksgiving is a tribute to the creative power which called them into being.",
+            "Created, being visible and tangible and having a body, and therefore sensible; and all sensible things which are apprehended by opinion and sense are in a process of creation and created."
+        ],
+        "Philip Schaff": [
+            "The word \u2018our\u2019 is introduced, marking the more intimate relationship in which these redeemed ones stand to God.",
+            "The Church cannot view God first as Creator simply, and then as Redeemer. Her view of Him is one, and in the works of His hands, as well as in the provisions of His grace, she beholds her redeeming God.",
+            "No explanation seems possible but that which leads us to think of an eternal type existing in the Divine mind before anything was called into existence, and in conformity with which it was created when the moment of creation came."
+        ],
+        "Archibald T. Robertson": [
+            "Our Lord and our God.\" ",
+            "To receive, worthy, the glory, the honour, the power.\" ",
+            "Reason for creation of the universe...they were...and were created."
+        ],
+        "John Gill": [
+            "Thou art worthy, O Lord, to receive glory honour, and power",
+            "God is the first cause, and the last end of all things; by his power they are made, and according to his will, and for his own glory",
+            "What is here said is contrary to a notion imbibed by the Jews"
+        ],
+        "John Wesley": [
+            "Worthy art thou to receive \u2014 This he receives not only when he is thus praised, but also when he destroys his enemies and glorifies himself anew.",
+            "Creation is the ground of all the works of God: therefore, for this, as well as for his other works, will he be praised to all eternity.",
+            "It is to the free, gracious and powerfully-working will of Him who cannot possibly need anything that all things owe their first existence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise look on creation from without, and that thanksgiving, which creation renders for its being, becomes in their view a tribute to Him who called them into being, and thus a testimony to His creative power. With God to will is to effect: to determine is to perform. It is THOU who didst create. Their thanksgiving is a tribute to the creative power which called them into being. They were existing, as contrasted with their previous non-existence. Our Lord and our God. To receive, worthy, the glory, the honour, the power. Reason for creation of the universe...they were...and were created.",
+            "wordCount": 132,
+            "quoteTokenProportion": 48.57,
+            "qualityScore": 1.9360419092029297,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.71,
+            "commentatorTierSimilarities": [
+                43.54,
+                25.26,
+                31.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise look on creation from without, and that thanksgiving, which creation renders for its being, becomes in their view a tribute to Him who called them into being, and thus a testimony to His creative power. With God to will is to effect: to determine is to perform. It is THOU who didst create. Their thanksgiving is a tribute to the creative power which called them into being.",
+            "wordCount": 97,
+            "quoteTokenProportion": 52.54,
+            "qualityScore": 2.0509444325870048,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.53,
+            "commentatorTierSimilarities": [
+                41.87,
+                26.76,
+                31.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise, view creation as a testimony to His creative power. With God, to will is to effect, to determine is to perform. Their thanksgiving is a tribute to the creative power which called them into being. It is THOU who didst create.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.0118204357797596,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                41.91,
+                26.89,
+                31.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise, view creation as a testimony to His creative power. With God, to will is to effect, to determine is to perform. Their thanksgiving is a tribute to the creative power which called them into being. It is THOU who didst create.",
+            "wordCount": 71,
+            "quoteTokenProportion": 46.94,
+            "qualityScore": 2.0118204357797596,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.23,
+            "commentatorTierSimilarities": [
+                41.91,
+                26.89,
+                31.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Thou art worthy, O Lord and our God, to receive the glory and the honour and the might. The elders, though themselves belonging to creation, in this ascription of praise, look on creation from without, and that thanksgiving, which creation renders for its being, becomes in their view a tribute to Him who called them into being, and thus a testimony to His creative power. With God to will is to effect: to determine is to perform. It is THOU who didst create. Their thanksgiving is a tribute to the creative power which called them into being. They were existing, as contrasted with their previous non-existence.",
+            "wordCount": 107,
+            "quoteTokenProportion": 50.75,
+            "qualityScore": 1.9793003067588413,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.15,
+            "commentatorTierSimilarities": [
+                42.72,
+                26.99,
+                30.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

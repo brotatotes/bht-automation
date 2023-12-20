@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:49:02",
+    "verseRef": "Revelation 18:19",
+    "bestBHT": {
+        "bht": "People, filled with sorrow, cast earth upon their heads and cried out in weeping and mourning, saying, Woe, woe, the great city... This great city was the source of riches for those who had ships in the sea and became rich out of her costliness. The city's destruction was swift, happening in just one hour, leaving it laid waste. The act of casting dust on their heads is a common sign of lamentation and mourning, reflecting disorder and debasement. The downfall of this city brings to mind the downfall of Tyre, as described in Ezekiel.",
+        "wordCount": 96,
+        "quoteTokenProportion": 36.36,
+        "qualityScore": 1.6098705756635612,
+        "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+        "commentatorTierSimilarities": [
+            27.35,
+            35.39,
+            37.26
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And they cast earth upon their heads... and cried out weeping and mourning, saying, Woe, woe, the great city...\" (Revelation 18:19). ",
+            "The great city in which all who have their ships in the sea became rich out of her costliness...\" (Revelation 18:19). ",
+            "For in one hour she hath been laid waste.\" (Revelation 18:19)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "19. wailing\u2014\"mourning.",
+            "\t",
+            "that had ships\u2014A, B,",
+            "\tand C read, \"that had their ships\": literally, \"the",
+            "\tships.\" ",
+            "\t",
+            "costliness\u2014her costly",
+            "\ttreasures: abstract for concrete."
+        ],
+        "Albert Barnes": [
+            "And they cast dust on their heads - A common sign of lamentation and mourning among the Orientals.",
+            "By reason of her costliness - The luxury of a great city enriches many individuals, however much it may impoverish itself.",
+            "For in one hour is she made desolate - So it seemed to them."
+        ],
+        "Marvin Vincent": [
+            "Cast dust on their heads. Compare Ezekiel 27:30. See on Luke 10:13."
+        ],
+        "Archibald T. Robertson": [
+            "They cast dust (\u03b5\u03b2\u03b1\u03bb\u03bf\u03bd \u03c7\u03bf\u03c5\u03bd).",
+            "This is the dirge of the sea-folk.",
+            "Common in the papyri as a title like 'Your Honor'."
+        ],
+        "John Gill": [
+            "This was a gesture used in mourning when persons were in afflicted and distressed circumstances, denoting disorder, confusion, and debasement\" ",
+            "These accumulated great wealth to themselves, and got the best of lands into their possession for the use and support of their abbeys and monasteries",
+            "The remembrance of these things, of which they will be deprived, will affect and grieve them, as well as the suddenness of Rome's ruin"
+        ],
+        "John Wesley": [
+            "And they cast dust on their heads \u2014 As mourners.",
+            "Most of the expressions here used in describing the downfall of Babylon are taken from Ezekiel's description of the downfall of Tyre, Ezekiel 26:1."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, people are seen casting earth on their heads, weeping and mourning over the great city. This city is described as the source of riches for those who have ships in the sea, due to its costliness and luxurious treasures. The suddenness of the city's demise, happening in just one hour, is a cause for lamentation. This act of casting dust on their heads is a common sign of mourning and distress, symbolizing disorder and debasement. The abundance of wealth in the city enriches individuals while impoverishing the city itself. The downfall of this city is reminiscent of the downfall of Tyre in Ezekiel's description.",
+            "wordCount": 109,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.5332022269057322,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.32,
+            "commentatorTierSimilarities": [
+                23.12,
+                40.26,
+                36.62
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "People, filled with sorrow, cast dust on their heads and mourn over the great city that enriched them. It was known for its costliness and luxurious treasures that brought wealth to those who had ships. The city's sudden destruction, unfolding in one hour, is a cause for lamentation. This act of casting dust signifies mourning and distress, symbolizing disorder and debasement. The city's downfall reminds us of the downfall of Tyre, as described in Ezekiel.",
+            "wordCount": 77,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5609499345548814,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.24,
+            "commentatorTierSimilarities": [
+                24.32,
+                34.27,
+                41.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "People, filled with sorrow, cast earth upon their heads and cried out in weeping and mourning, saying, Woe, woe, the great city... This great city was the source of riches for those who had ships in the sea and became rich out of her costliness. The city's destruction was swift, happening in just one hour, leaving it laid waste. The act of casting dust on their heads is a common sign of lamentation and mourning, reflecting disorder and debasement. The downfall of this city brings to mind the downfall of Tyre, as described in Ezekiel.",
+            "wordCount": 96,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 1.6098705756635612,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.87,
+            "commentatorTierSimilarities": [
+                27.35,
+                35.39,
+                37.26
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In their sorrow, people cast earth upon their heads, weeping and mourning over the great city. This city served as a source of wealth for those with ships in the sea, due to its costliness and luxurious treasures. The city's devastation was swift, taking place in just one hour. The act of casting dust on their heads was a common sign of mourning, signifying disorder and debasement. This city's downfall brings to mind the downfall of Tyre, as described in Ezekiel's account.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5451479807216622,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.72,
+            "commentatorTierSimilarities": [
+                23.76,
+                40.18,
+                36.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Mourners cast earth on their heads, weeping and lamenting over the great city that brought riches to those with ships in the sea. Its costliness and luxurious treasures led to its destruction in just one hour. The act of casting dust on their heads is a symbolic expression of mourning, representing disorder and debasement. This city's demise evokes the downfall of Tyre described in Ezekiel, illustrating the swift and abrupt nature of its ruin.",
+            "wordCount": 75,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.567143780528383,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.45,
+            "commentatorTierSimilarities": [
+                25.14,
+                34.11,
+                40.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

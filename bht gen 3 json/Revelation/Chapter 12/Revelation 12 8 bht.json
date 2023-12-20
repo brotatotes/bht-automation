@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 21:45:42",
+    "verseRef": "Revelation 12:8",
+    "bestBHT": {
+        "bht": "Satan and his angels, in their ever deepening downfall, failed to prevail and their place in heaven was no more to be found. This marks the final expulsion of the dragon from heaven and his ultimate casting into the lake of fire. While it is difficult to comprehend Satan having had access to heaven, his defeat and removal from authority is a significant victory, akin to the expulsion of Paganism after Theodosius.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.0,
+        "qualityScore": 1.7377439413767837,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+        "commentatorTierSimilarities": [
+            30.92,
+            35.33,
+            33.75
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Not only did they not prevail, but not even their place was found any more in heaven.\" ",
+            "There are four gradations in the ever deeper downfall of Satan.\" ",
+            "After having been loosed for a while, he is cast for ever into the lake of fire."
+        ],
+        "Albert Barnes": [
+            "Satan and his angels failed in their purpose.",
+            "They were cast out, and were seen there no more.",
+            "They were defeated and driven away, though for a time they were suffered to carry on the warfare elsewhere."
+        ],
+        "Marvin Vincent": [
+            "Prevailed [\u03b9\u03c3\u03c7\u03c5\u03c3\u03b1\u03bd] . See on Luke 14:30; Luke 16:3; James 5:16."
+        ],
+        "Archibald T. Robertson": [
+            "And they prevailed not (\u03ba\u03b1 \u03bf\u03c5\u03ba \u03b9\u03c3\u03c7\u03c5\u03c3\u03b1\u03bd). Here \u03ba\u03b1 equals 'and yet' or 'but.' A few MSS. read the singular \u03b9\u03c3\u03c7\u03c5\u03c3\u03b5\u03bd like \u03b5\u03c0\u03bf\u03bb\u03b5\u03bc\u03b7\u03c3\u03b5\u03bd, but wrongly so.",
+            "Neither was their place found any more (\u03bf\u03c5\u03b4\u03b5 \u03c4\u03bf\u03c0\u03bf\u03c2 \u03b5\u03c5\u03c1\u03b5\u03b8\u03b7 \u03b1\u03c5\u03c4\u03c9\u03bd \u03b5\u03c4). First aorist passive indicative of \u03b5\u03c5\u03c1\u03b9\u03c3\u03ba\u03c9, to find.",
+            "The dragon is finally expelled from heaven (cf. Job 1:6), though to us it seems a difficult conception to think of Satan having had access to heaven."
+        ],
+        "John Gill": [
+            "And prevailed not...were conquered by them.\" ",
+            "Satan the prince of the world, who had long governed in it, was now cast out of all power and authority in it.\" ",
+            "After Theodosius, who cleared the empire of Paganism, there never was any, and there is reason to believe there never will be."
+        ],
+        "John Wesley": [
+            "Neither was this place found any more in heaven \u2014 So till now he had a place in heaven. How deep a mystery is this!\" ",
+            "One may compare this with Luke 10:18; Ephesians 2:2; 4:8; 6:12."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Satan and his angels not only failed in their purpose but were completely conquered, with their place in heaven no longer to be found. This marks the final and permanent downfall of the dragon, as he is cast into the lake of fire. It is a difficult concept to comprehend that Satan had access to heaven, but now he is expelled from it. While for a time Satan was allowed to carry on his warfare elsewhere, he and his followers were ultimately defeated and driven away. This victory over Satan and the casting out of his authority is significant, comparable to the expulsion of Paganism from the empire after Theodosius.",
+            "wordCount": 110,
+            "quoteTokenProportion": 44.59,
+            "qualityScore": 1.7400360187150672,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.2,
+            "commentatorTierSimilarities": [
+                28.76,
+                39.06,
+                32.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Satan and his angels, in their ever deepening downfall, failed to prevail and their place in heaven was no more to be found. This marks the final expulsion of the dragon from heaven and his ultimate casting into the lake of fire. While it is difficult to comprehend Satan having had access to heaven, his defeat and removal from authority is a significant victory, akin to the expulsion of Paganism after Theodosius.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.0,
+            "qualityScore": 1.7377439413767837,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.12,
+            "commentatorTierSimilarities": [
+                30.92,
+                35.33,
+                33.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Satan and his angels failed to prevail and their place was found no more in heaven. This signifies the depths of Satan's downfall, leading to his everlasting banishment into the lake of fire. Although difficult to conceive, Satan once had access to heaven, but he is ultimately expelled. This victory over Satan and the removal of his authority can be likened to the eradication of Paganism from the empire after Theodosius.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.7258745456591686,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                30.45,
+                34.74,
+                34.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Satan and his angels failed to prevail, and their place was found no more in heaven. This marks the final expulsion of the dragon, as he is cast into the lake of fire. It is a challenging concept to grasp that Satan once had access to heaven, but his defeat and removal from authority are significant. This victory over Satan and the eradication of his power parallel the expulsion of Paganism after Theodosius.",
+            "wordCount": 73,
+            "quoteTokenProportion": 47.17,
+            "qualityScore": 1.6976924305996195,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.79,
+            "commentatorTierSimilarities": [
+                29.95,
+                36.97,
+                33.08
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Satan and his angels failed to prevail and their place was found no more in heaven. This signifies the depths of Satan's downfall, leading to his everlasting banishment into the lake of fire. Although difficult to conceive, Satan once had access to heaven, but he is ultimately expelled. This victory over Satan and the removal of his authority can be likened to the eradication of Paganism from the empire after Theodosius.",
+            "wordCount": 72,
+            "quoteTokenProportion": 44.23,
+            "qualityScore": 1.7258745456591686,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.73,
+            "commentatorTierSimilarities": [
+                30.45,
+                34.74,
+                34.81
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

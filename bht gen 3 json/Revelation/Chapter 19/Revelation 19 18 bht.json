@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:49:23",
+    "verseRef": "Revelation 19:18",
+    "bestBHT": {
+        "bht": "The followers of the beast, marked by their gross carnality, refuse to give Christ's witnesses proper burial, resulting in birds feeding on their flesh as retribution. This proclamation extends to the kings who have given their power to the beast, as well as men from all classes affected by the battle. The repetition of flesh emphasizes the severity of the impending slaughter, reminding us that war shows no favoritism and affects individuals regardless of their status.",
+        "wordCount": 77,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 1.8407581993291262,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+        "commentatorTierSimilarities": [
+            32.44,
+            31.7,
+            35.86
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The insertion is made, as above, to shew the greatness and. universality of the coming slaughter.",
+            "The proclamation is evidently not to be pressed into a place in the prophecy, nor are its details to be sought in the interpretation.",
+            "The birds...[are not] angels"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The repetition of flesh (in the Greek it is plural: masses of flesh) five times in this verse, marks the gross carnality of the followers of the beast.",
+            "Again, the giving of their flesh to the fowls to eat, is a righteous retribution for their not suffering the dead bodies of Christ's witnesses to be put in graves.",
+            "The 'kings' are 'the ten' who 'give their power unto the beast.'"
+        ],
+        "Albert Barnes": [
+            "That ye may eat the flesh of kings - Of the kings under the control of the beast and the false prophet.",
+            "And the flesh of captains - Of those subordinate to kings in command.",
+            "And the flesh of all men, both free and bond - Freemen and slaves."
+        ],
+        "Marvin Vincent": [
+            "Captains [\u03c7\u03b9\u03bb\u03b9\u03b1\u03c1\u03c7\u03c9\u03bd] . See on Mark 6:21; Luke 7:2."
+        ],
+        "Philip Schaff": [
+            "Revelation 19:18. The idea of Revelation 19:17 is expanded in this verse, the enemies of Christ being grouped under the various classes mentioned in it.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "The flesh of kings... and of all classes and conditions of men who fell in the battle.\" ",
+            "Pieces of flesh\" (plural of \u03c3\u03b1\u03c1\u03be, flesh) ",
+            "War is no respecter of persons."
+        ],
+        "John Gill": [
+            "That ye may eat the flesh of kings... [and] possess and enjoy their kingdoms and dominions."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 19:18, the greatness and universality of the coming slaughter is emphasized in order to convey the severity of the judgment. The repetition of the word flesh highlights the extreme carnality of the followers of the beast, while the birds eating their flesh serves as a retribution for their refusal to give proper respect to Christ's witnesses. The kings mentioned in this verse are the ones who have given their power to the beast, and the proclamation extends to all classes and conditions of men who fell in battle. This passage shows that war does not discriminate against anyone, as both kings and common people are affected.",
+            "wordCount": 108,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 1.9193599808607904,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.16,
+            "commentatorTierSimilarities": [
+                31.36,
+                33.35,
+                35.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this portion, the seriousness of the judgment is depicted through the mention of the vast slaughter to come. The repetition of the term flesh signifies the extreme carnality displayed by the followers of the beast. Their refusal to give proper burial to Christ's witnesses is repaid through the birds feeding on their flesh. The proclamation encompasses not only kings but individuals from all walks of life, demonstrating that war does not discriminate between social classes.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.93,
+            "qualityScore": 1.6303712712154805,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.55,
+            "commentatorTierSimilarities": [
+                33.33,
+                32.56,
+                34.12
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The followers of the beast, depicted in this verse, display gross carnality and refuse to give proper burial to Christ's witnesses. The proclamation extends to kings who have given their power to the beast, as well as all classes and conditions of men affected by the battle. The repetition of flesh emphasizes the severity of the coming slaughter, while the birds feeding on their flesh serves as a righteous retribution. This passage underscores the indiscriminate nature of war, which affects individuals from all walks of life.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8271736267405014,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                33.1,
+                33.89,
+                33.01
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The followers of the beast, displaying extreme carnality, face righteous retribution as birds feed on their flesh. This proclamation extends to kings who have surrendered their power, as well as individuals from all classes affected by the battle. The repetition of flesh underscores the severity of the impending slaughter. This verse reveals the indiscriminate nature of war, which does not discriminate based on social status.",
+            "wordCount": 65,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.670659987112365,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.89,
+            "commentatorTierSimilarities": [
+                33.2,
+                32.45,
+                34.35
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The followers of the beast, marked by their gross carnality, refuse to give Christ's witnesses proper burial, resulting in birds feeding on their flesh as retribution. This proclamation extends to the kings who have given their power to the beast, as well as men from all classes affected by the battle. The repetition of flesh emphasizes the severity of the impending slaughter, reminding us that war shows no favoritism and affects individuals regardless of their status.",
+            "wordCount": 77,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.8407581993291262,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                32.44,
+                31.7,
+                35.86
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

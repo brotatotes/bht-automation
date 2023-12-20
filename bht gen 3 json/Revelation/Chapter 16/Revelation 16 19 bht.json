@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:48:02",
+    "verseRef": "Revelation 16:19",
+    "bestBHT": {
+        "bht": "The great city, possibly Jerusalem under Antichrist, became divided into three parts as a prelude to God's plan of making Babylon, representing Rome, drink the cup of His wrath. These material judgments serve as a call for God's people to escape from Babylon and anticipate the utter ruin of the Romish antichrist. This chapter signifies the certain and entire ruin of the power, affecting not only Rome but also the cities of the nations under papal control.",
+        "wordCount": 79,
+        "quoteTokenProportion": 35.09,
+        "qualityScore": 2.325320165821865,
+        "qualityScoreNormalizedComparedToV2BHTs": 68.66,
+        "commentatorTierSimilarities": [
+            38.5,
+            29.51,
+            31.99
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the great city became into three parts, and the cities of the nations fell.",
+            "Babylon the great was remembered before God, to give her the cup of the wine of the fierceness of His wrath.",
+            "The sense is, that all these material judgments were but prefatory; the divine intent, in the midst of them, being to make Babylon drink the cup of His wrath in her judgment which follows."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The city in [Revelation 16:19] is probably distinct, namely, Jerusalem under Antichrist.",
+            "The great city [Babylon] 'became (Greek) into three parts' by the earthquake.",
+            "It is now that the last call to escape from Babylon is given to God's people in her."
+        ],
+        "Albert Barnes": [
+            "The certain and entire ruin of the power is predicted by this, but still it is not improbable that it will be by such divisions, or such successions of judgments, that it is proper to represent the city as divided into three portions.",
+            "The cities of numerous 'nations' are now, and have been for ages, under the control of the papal power, or the spiritual Babylon; and the calamity that will smite the central power as such - that is, as a spiritual power - will reach and affect them all.",
+            "If it falls in Rome, there is not influence enough out of Rome to continue it in being - and in all its extended ramifications it will die as the body dies when the head is severed; as the power of provinces ceases when ruin comes upon the capital."
+        ],
+        "Philip Schaff": [
+            "The meaning is that the city was broken up and overthrown.",
+            "But what is a merciful chastisement to Israel is a judgment on 'the nations,' and the destroying of their only refuge.",
+            "Now it is viewed in its widest meaning, as embracing not only the essence and principle of 'the world' once exhibited among 'the Jews,' but that principle as it appears in the Gentile not less than in the Jew."
+        ],
+        "Archibald T. Robertson": [
+            "Came into three parts\" (\u03b3\u03b9\u03bd\u03bf\u03bc\u03b1 again). In Revelation 11:3 a tenth part of the city fell. Babylon (Rome) is meant (Revelation 17:18).",
+            "Babylon (Rome) had not been overlooked. God was simply biding his time with Rome.",
+            "The cup of the wine of the fierceness of his wrath (\u03c4\u03bf \u03c0\u03bf\u03c4\u03b7\u03c1\u03b9\u03bf\u03bd \u03c4\u03bf\u03c5 \u03bf\u03b9\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03b8\u03c5\u03bc\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03bf\u03c1\u03b3\u03b7\u03c2 \u03b1\u03c5\u03c4\u03bf\u03c5). \"The cup of the wine of the wrath of his anger,\" using both \u03b8\u03c5\u03bc\u03bf\u03c2 (boiling rage) and \u03bf\u03c1\u03b3\u03b7 (settled anger). See both in Jeremiah 30:24."
+        ],
+        "John Gill": [
+            "the whole Romish jurisdiction, which is the great city, that reigns over the kings of the earth",
+            "denotes the utter ruin of the Romish antichrist, in all its branches and remains",
+            "the pouring out of all his vengeance, to the utter ruin of the Romish antichrist"
+        ],
+        "John Wesley": [
+            "And the great city \u2014 Namely, Jerusalem, here opposed to the heathen cities in general, and in particular to Rome.",
+            "And the cities of the nations fell \u2014 Were utterly overthrown.",
+            "And Babylon was remembered before God \u2014 He did not forget the vengeance which was due to her, though the execution of it was delayed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 16:19, the great city, possibly Jerusalem under Antichrist, is divided into three parts. This division is a prelude to God's plan of making Babylon, which represents Rome, drink the cup of His wrath. The judgment upon Babylon is a merciful chastisement for Israel, but a judgment upon the nations. This chapter signifies the certain and entire ruin of the power, affecting not only Rome but also the cities of the nations under papal control. These material judgments serve as a call for God's people to escape from Babylon and anticipate the utter ruin of the Romish antichrist.",
+            "wordCount": 100,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 2.2317764252831624,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.55,
+            "commentatorTierSimilarities": [
+                39.11,
+                30.08,
+                30.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The great city, possibly Jerusalem under Antichrist, became divided into three parts as a prelude to God's plan of making Babylon, representing Rome, drink the cup of His wrath. These material judgments serve as a call for God's people to escape from Babylon and anticipate the utter ruin of the Romish antichrist. This chapter signifies the certain and entire ruin of the power, affecting not only Rome but also the cities of the nations under papal control.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.325320165821865,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.66,
+            "commentatorTierSimilarities": [
+                38.5,
+                29.51,
+                31.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The great city, possibly Jerusalem under Antichrist, is divided into three parts as a prelude to God's plan of making Babylon, representing Rome, drink the cup of His wrath. These material judgments serve as a call for God's people to escape from Babylon and anticipate the utter ruin of the Romish antichrist. This chapter signifies the certain and entire ruin of the power, affecting not only Rome but also the cities of the nations under papal control.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.09,
+            "qualityScore": 2.3159875724294228,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.35,
+            "commentatorTierSimilarities": [
+                38.3,
+                29.64,
+                32.06
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The great city, likely Jerusalem under Antichrist, is divided into three parts, symbolizing the preface to God's plan of making Babylon, representing Rome, drink the cup of His wrath. These material judgments serve as a call for God's people to escape from Babylon, anticipating the inevitable ruin of the Romish antichrist. This chapter foreshadows the certain and complete destruction of the power, extending its impact beyond Rome to the cities under the papal authority.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.2661721916532764,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.69,
+            "commentatorTierSimilarities": [
+                40.75,
+                27.27,
+                31.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The great city, possibly Jerusalem under Antichrist, became divided into three parts, signifying the divine intent to make Babylon, representing Rome, experience the cup of the wine of the fierceness of His wrath. These material judgments serve as a call for God's people to escape from Babylon, as the city faces utter ruin. This chapter emphasizes the certain and entire destruction of the power, extending its impact to the cities of the nations under papal control. The pouring out of God's vengeance on the Romish antichrist is impending.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.31,
+            "qualityScore": 2.154859875642055,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.99,
+            "commentatorTierSimilarities": [
+                39.9,
+                26.56,
+                33.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

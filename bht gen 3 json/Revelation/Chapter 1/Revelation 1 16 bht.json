@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:39:48",
+    "verseRef": "Revelation 1:16",
+    "bestBHT": {
+        "bht": "In this verse, Jesus is depicted as the Guardian, Provider, and Nourisher of the seven churches, symbolizing them with the stars held in His hand. His word is described as a sharp two-edged sword, executing His will in reproving and punishing sinners. The radiant countenance of Jesus, like the sun in its strength, emphasizes His glorious majesty. This portrays the righteous shining with the reflection of the Sun of righteousness and highlights the comforting truth that God is a God of judgment.",
+        "wordCount": 83,
+        "quoteTokenProportion": 27.78,
+        "qualityScore": 1.8904474226576278,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+        "commentatorTierSimilarities": [
+            37.21,
+            24.88,
+            37.91
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If the seven churches which the seven stars symbolize, were on the Lord\u2019s hand as rings, they would seem to be serving (adorning?) Him, and not to be the objects of his action: but now that He holds them in his hand, He appears as their Guardian, their Provider, their Nourisher.",
+            "His countenance... as the sun shineth in his strength.",
+            "The attributes of the word of God...in the way of comforting and of threatening."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He holds them as a star-studded 'crown of glory,' or 'royal diadem,' in His hand: so Isaiah 62:3. He is their Possessor and Upholder.",
+            "His WORD is omnipotent in executing His will in punishing sinners. It is the sword of His Spirit. Reproof and punishment, rather than its converting winning power, is the prominent point.",
+            "So shall the righteous shine, reflecting the image of the Sun of righteousness. This exalting of the essence above the form marks their deeper religious earnestness."
+        ],
+        "Albert Barnes": [
+            "The two edges were designed to cut both ways; and such a sword is a striking emblem of the penetrating power of truth, or of words that proceed from the mouth.",
+            "He heard him speak; he felt the penetrating power of his words; and they were as if a sharp sword proceeded from his mouth.",
+            "There could be no more striking description of the majesty and glory of the countenance than to compare it with the overpowering splendor of the sun."
+        ],
+        "Philip Schaff": [
+            "No one shall pluck them out of My hand.\" ",
+            "There is no thought of 'comforting' or of 'the grace and saving power of the Word.' Its destroying power is alone in view.",
+            "That God is a God of judgment is everywhere throughout the prophets of the Old Testament the comfort of the righteous."
+        ],
+        "Archibald T. Robertson": [
+            "And he had... a Hebraism, Charles calls it.\" (9 words)",
+            "In his right hand... as in John 10:28.\" (9 words)",
+            "A sharp two-edged sword... Hebrews 4:12.\" (8 words)"
+        ],
+        "John Gill": [
+            "The ministers of the Gospel are compared to stars, because of their efficient cause, God, who has made them, and fixed them in their proper place, and for his glory.",
+            "The word of God...is a sharp sword, contains sharp reproofs for sin, severe threatenings against it, and gives cutting convictions of it.",
+            "His countenance [was] as the sun shineth in his strength;...the manifestation of himself in the glories of his person, and in the riches of his grace."
+        ],
+        "John Wesley": [
+            "And he had in his right hand seven stars - In token of his favour and powerful protection.\" ",
+            "And out of his mouth went a sharp two-edged sword - Signifying his justice and righteous anger, continually pointed against his enemies as a sword; sharp, to stab; two-edged, to hew.\" ",
+            "And his countenance was as the sun shineth in his strength - Without any mist or cloud."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 1:16, the imagery of the verse presents Jesus as the Guardian, Provider, and Nourisher of the seven churches. The symbols of the stars held in His hand can be seen as a representation of His possession and support of them. The sharp two-edged sword that comes out of His mouth signifies the power of the word of God in both reproving and punishing sinners. The radiant countenance of Jesus, compared to the strength of the sun, highlights His glory and majesty. This verse emphasizes the righteous shining with the reflection of the Sun of righteousness and the comforting assurance that God is a God of judgment.",
+            "wordCount": 108,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.8179064503274265,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.79,
+            "commentatorTierSimilarities": [
+                35.77,
+                26.56,
+                37.67
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage reveals Jesus as the Guardian, Provider, and Nourisher of the seven churches, symbolized by the stars held in His hand. His word is depicted as a sharp two-edged sword, executing His will to reprove and punish sinners. The description of His countenance as shining like the sun in its strength showcases His glorious majesty. This verse reminds us of the righteous shining with the reflection of the Sun of righteousness and the comforting truth that God is a God of judgment.",
+            "wordCount": 84,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 1.8559800024973194,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.05,
+            "commentatorTierSimilarities": [
+                36.72,
+                25.61,
+                37.67
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, Jesus is depicted as the Guardian, Provider, and Nourisher of the seven churches, symbolizing them with the stars held in His hand. His word is described as a sharp two-edged sword, executing His will in reproving and punishing sinners. The radiant countenance of Jesus, like the sun in its strength, emphasizes His glorious majesty. This portrays the righteous shining with the reflection of the Sun of righteousness and highlights the comforting truth that God is a God of judgment.",
+            "wordCount": 83,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.8904474226576278,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.2,
+            "commentatorTierSimilarities": [
+                37.21,
+                24.88,
+                37.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus, portrayed in this passage as the Guardian of the seven churches, holds them in His hand like a star-studded crown of glory. The sharp two-edged sword represents His word, with its power to reprove and punish sinners. His countenance, shining like the sun, showcases His majestic glory. The righteous shine, reflecting the image of the Sun of righteousness. This verse reminds us that God is a God of judgment, providing comfort to the righteous and a warning to those who oppose Him.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.8157827079093591,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                37.33,
+                26.0,
+                36.68
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The imagery in this depiction of Jesus shows Him as the Guardian and Provider of the seven churches, symbolized by the stars held in His hand. His word is a powerful two-edged sword, executing His will to reprove and punish sinners. The radiant countenance of Jesus, shining like the sun, reflects His glorious majesty. This verse emphasizes the righteous shining as they reflect the image of the Sun of righteousness and serves as a reminder that God is a God of judgment, offering comfort to the righteous.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8420048294377795,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.59,
+            "commentatorTierSimilarities": [
+                36.82,
+                25.57,
+                37.61
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

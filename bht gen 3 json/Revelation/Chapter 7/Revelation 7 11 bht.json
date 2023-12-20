@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:44:01",
+    "verseRef": "Revelation 7:11",
+    "bestBHT": {
+        "bht": "The angels, who were standing round the throne, respond to the ascription of praise by joining in the anthem, rejoicing in the salvation of men, and engaging in reverential worship of God. They sympathize with the redeemed and see new displays of God's character in that redemption, rejoicing in the church being rescued and brought triumphant to heaven. The redeemed occupy the inner circle near the throne, while the angels stand in the outer circle, uniting with them in adoring and praising God, reflecting the order and measure of worship in heaven.",
+        "wordCount": 93,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 2.182301380413386,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+        "commentatorTierSimilarities": [
+            21.63,
+            57.82,
+            20.55
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The choir of angels...respond to the ascription of praise.\" ",
+            "And all the angels were standing round the throne...and worshipped God.",
+            "Then they were in the vision in the similitude of men."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "11. The angels, as in :-, in their turn take up the anthem of praise. There it was",
+            "\t\"many angels,\" here it is \"all the",
+            "\tangels.\" ",
+            "\t",
+            "stood\u2014\"were",
+            "\tstanding\" [ALFORD]."
+        ],
+        "Albert Barnes": [
+            "The angels sympathize with the church redeemed and triumphant...They see in that redemption new displays of the character of God, and they rejoice that that church is rescued from its troubles, and is now brought triumphant to heaven.",
+            "The redeemed, it is manifest, occupied the inner circle...near the throne.",
+            "The angels stood in the outer circle...and appropriately unite with [the redeemed church] in adoring and praising God."
+        ],
+        "Marvin Vincent": [
+            "Stood [\u03b5\u03c3\u03c4\u03b7\u03ba\u03b5\u03c3\u03b1\u03bd] . Rev., more correctly, were standing. The tense is the pluperfect, used in this verb as an imperfect."
+        ],
+        "Archibald T. Robertson": [
+            "The angels here rejoice in the salvation of men.",
+            "In reverential worship of God.",
+            "The dative \u03c4\u03c9 \u03b8\u03b5\u03c9 (God) with \u03c0\u03c1\u03bf\u03c3\u03ba\u03c5\u03bd\u03b5\u03c9 (to worship) is the usual construction for that meaning."
+        ],
+        "John Gill": [
+            "The holy and elect angels, even all of them...who are represented in the same position.\" ",
+            "In token of submission and reverence.",
+            "By celebrating the perfections of his nature, and ascribing to him the glory of all his works."
+        ],
+        "John Wesley": [
+            "And all the angels stood \u2014 In waiting.",
+            "The heavenly ceremonial has its fixed order and measure.",
+            "So do the elders, once only, Revelation 11:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angels, who were standing round the throne and worshipping God, respond to the ascription of praise by joining in the anthem. They rejoice in the salvation of men and engage in reverential worship of God. The angels sympathize with the church redeemed and triumphant, seeing new displays of God's character in that redemption. They rejoice that the church is rescued and brought triumphant to heaven. The redeemed occupy the inner circle near the throne, while the angels stand in the outer circle and unite with them in adoring and praising God. This heavenly ceremonial reflects the order and measure of worship in heaven.",
+            "wordCount": 105,
+            "quoteTokenProportion": 25.42,
+            "qualityScore": 2.0743981461458776,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                22.96,
+                52.31,
+                24.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angels, who were standing round the throne, respond to the ascription of praise by joining in the anthem, rejoicing in the salvation of men, and engaging in reverential worship of God. They sympathize with the redeemed and see new displays of God's character in that redemption, rejoicing in the church being rescued and brought triumphant to heaven. The redeemed occupy the inner circle near the throne, while the angels stand in the outer circle, uniting with them in adoring and praising God, reflecting the order and measure of worship in heaven.",
+            "wordCount": 93,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.182301380413386,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.9,
+            "commentatorTierSimilarities": [
+                21.63,
+                57.82,
+                20.55
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angels, who were standing round the throne, respond to the ascription of praise by joining in the anthem, rejoicing in the salvation of men, and engaging in reverential worship of God. They sympathize with the church redeemed and triumphant, seeing new displays of God's character in that redemption, rejoicing in the church being rescued and brought triumphant to heaven. The redeemed occupy the inner circle near the throne, while the angels stand in the outer circle, uniting with them in adoring and praising God. This heavenly ceremonial reflects the order and measure of worship in heaven.",
+            "wordCount": 98,
+            "quoteTokenProportion": 25.86,
+            "qualityScore": 2.0864060347902766,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.71,
+            "commentatorTierSimilarities": [
+                21.61,
+                54.79,
+                23.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angels, standing round the throne, respond to the ascription of praise and join in the anthem, rejoicing in the salvation of men and engaging in reverential worship of God. They sympathize with the church redeemed and triumphant, rejoicing that it is rescued from troubles and brought triumphantly to heaven. The redeemed occupy the inner circle near the throne, while the angels stand in the outer circle, uniting with them in adoring and praising God. This heavenly ceremonial reflects the order and measure of worship in heaven.",
+            "wordCount": 87,
+            "quoteTokenProportion": 26.42,
+            "qualityScore": 2.0339673818820505,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.97,
+            "commentatorTierSimilarities": [
+                21.3,
+                54.52,
+                24.17
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angels, standing round the throne, respond to the ascription of praise and join in the anthem, rejoicing in the salvation of men. They worship God in reverential adoration and unite with the church redeemed and triumphant, celebrating the perfections of His nature and ascribing glory to all His works. This heavenly ceremonial reflects the order and measure of worship in heaven, with the redeemed in the inner circle near the throne and the angels standing in the outer circle, waiting and praising God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 20.83,
+            "qualityScore": 2.1180596510659413,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.77,
+            "commentatorTierSimilarities": [
+                23.01,
+                51.39,
+                25.6
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

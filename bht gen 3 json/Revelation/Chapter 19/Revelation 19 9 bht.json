@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:50:48",
+    "verseRef": "Revelation 19:9",
+    "bestBHT": {
+        "bht": "Blessed are they who are called into the marriage supper of the Lamb, for these sayings are the true and veritable words of God. In times of persecution, the church should hold fast to the solemn truth that the religion of Christ will ultimately prevail, bringing joy and triumph in heaven. As the faithful followers of the Lord, we are both the bride of the Lamb and the guests at the marriage supper. This revelation assures us that the entire believing Church is the Lamb's bride, and these are the genuine words of God.",
+        "wordCount": 95,
+        "quoteTokenProportion": 36.84,
+        "qualityScore": 2.126620627501857,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+        "commentatorTierSimilarities": [
+            33.72,
+            37.45,
+            28.83
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed are they who are bidden to the supper of the marriage of the Lamb.",
+            "These [sayings] are the true [sayings] of God.",
+            "Are the very truth of God, and shall veritably come to pass."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Called\u2014effectually, not merely externally. The 'unto,' or into,' seems to express this: not merely invited to (Greek, 'epi'), but called INTO, so as to be partakers of (Greek, 'eis').\" ",
+            "Marriage supper\u2014Greek, 'the supper of the marriage.' Typified by the Lord's Supper.\" ",
+            "True\u2014Greek, 'genuine'; veritable sayings which shall surely be fulfilled, namely, all the previous revelations."
+        ],
+        "Albert Barnes": [
+            "Blessed are they - See the notes on Revelation 14:13.",
+            "The image in the passage before us is that of many guests invited to a great festival.",
+            "The idea is, that in all times of persecution - in every dark hour of despondency - the church, as such, and every individual member of the church, should receive it as a solemn truth never to be doubted, that the religion of Christ would finally prevail, and that all persecution and sorrow here would be followed by joy and triumph in heaven."
+        ],
+        "Philip Schaff": [
+            "Those who are faithful in the Lord are at once the Lamb\u2019s bride, and the Lamb\u2019s guests.",
+            "By the Lamb\u2019s wife, too, we must surely understand the whole believing Church, and not any separate section of it distinguished from, and more highly favoured than, the rest.",
+            "The last revelations made; and they are \u2018true,\u2019 expressive of the great realities now taking place."
+        ],
+        "Archibald T. Robertson": [
+            "Write (\u0393\u03c1\u03b1\u03c8\u03bf\u03bd). First aorist active imperative of \u03b3\u03c1\u03b1\u03c6\u03c9 as in Revelation 1:11; Revelation 14:13.",
+            "It is another beatitude (\u03bc\u03b1\u03ba\u03b1\u03c1\u03b9\u03bf, Blessed) like that in Revelation 14:13 (fourth of the seven in the book).",
+            "These are true words of God (H\u03bf\u03c5\u03c4\u03bf \u03bf \u03bb\u03bf\u03b3\u03bf \u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5 \u03b5\u03b9\u03c3\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "Blessed are they which are called to the marriage supper of the Lamb...on which account they are pronounced blessed, being the bride, the Lamb's wife, having on his righteousness, partaking of his benefits, and being called unto, and made meet for eternal glory and happiness.\" ",
+            "Or else these may design converted Gentiles, who will be invited to join with them, and will.\" ",
+            "And he saith unto me, these are the true sayings of God; being true, it is plain they are of God, and being of God, it is certain they are true; for he is the God of truth, and cannot lie, and therefore may be depended upon."
+        ],
+        "John Wesley": [
+            "Write - St. John seems to have been so amazed at these glorious sights, that he needeth to be reminded of this.",
+            "Happy are they who are invited to the marriage supper of the Lamb - Called to glory.",
+            "And he saith - After a little pause."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who are called into the marriage supper of the Lamb, for these sayings are the true and veritable words of God and shall surely come to pass. The image presented here is that of a great festival, where many guests are invited. In times of persecution and despondency, the church and its individual members should hold fast to the solemn truth that the triumph and joy of the religion of Christ will ultimately prevail. As the faithful followers of the Lord, we are both the bride of the Lamb and the guests at the marriage supper. This revelation assures us that the entire believing Church, without distinction or favoritism, is the Lamb's wife. It is these last and true revelations that are taking place, and they are the genuine words of God.",
+            "wordCount": 136,
+            "quoteTokenProportion": 37.35,
+            "qualityScore": 1.974922045711093,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.01,
+            "commentatorTierSimilarities": [
+                32.69,
+                40.29,
+                27.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are they who are called into the marriage supper of the Lamb, for these sayings are the true and veritable words of God and shall surely come to pass. In times of persecution and despondency, the church should hold fast to the solemn truth that the triumph and joy of the religion of Christ will ultimately prevail. As the faithful followers of the Lord, we are the bride of the Lamb and the guests at the marriage supper. This revelation assures us that the entire believing Church is the Lamb's wife.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.0742554984704755,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.31,
+            "commentatorTierSimilarities": [
+                33.41,
+                38.55,
+                28.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are they who are called into the marriage supper of the Lamb, for these sayings are the true and veritable words of God. It is a solemn truth that in times of persecution and sorrow, the church and its members should firmly believe in the final triumph and joy of the religion of Christ. We are both the bride of the Lamb and the guests at the marriage supper, representing the entirety of the believing Church. These revelations are genuine, true words from God that will undoubtedly be fulfilled.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.0442427130566756,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.31,
+            "commentatorTierSimilarities": [
+                35.76,
+                36.19,
+                28.05
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are those who are called into the marriage supper of the Lamb, for these true and genuine sayings of God will surely come to pass. In times of persecution, the church should hold fast to the solemn truth that the religion of Christ will ultimately prevail, bringing joy and triumph in heaven. As faithful followers of the Lord, we are both the bride of the Lamb and the guests at the marriage supper. This revelation assures us that the entire believing Church is the Lamb's bride.",
+            "wordCount": 88,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.0894786044765272,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.82,
+            "commentatorTierSimilarities": [
+                32.79,
+                38.83,
+                28.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are they who are called into the marriage supper of the Lamb, for these sayings are the true and veritable words of God. In times of persecution, the church should hold fast to the solemn truth that the religion of Christ will ultimately prevail, bringing joy and triumph in heaven. As the faithful followers of the Lord, we are both the bride of the Lamb and the guests at the marriage supper. This revelation assures us that the entire believing Church is the Lamb's bride, and these are the genuine words of God.",
+            "wordCount": 95,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 2.126620627501857,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.05,
+            "commentatorTierSimilarities": [
+                33.72,
+                37.45,
+                28.83
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

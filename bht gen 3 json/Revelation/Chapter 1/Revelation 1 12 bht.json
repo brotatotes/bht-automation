@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:39:41",
+    "verseRef": "Revelation 1:12",
+    "bestBHT": {
+        "bht": "In this depiction, the voice represents God the Father, highlighting Christ as our High Priest. The seven golden candlesticks symbolize the local churches, entrusted with the task of spreading the divine light given by the Lord. These candlesticks showcase the unity and richness of the New Testament Dispensation, emphasizing the Church's worth, purity, and splendor. Christians are called to be bearers of light, illuminating their surroundings and reflecting the essence of true religion to the world.",
+        "wordCount": 77,
+        "quoteTokenProportion": 24.14,
+        "qualityScore": 1.7661915298862865,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+        "commentatorTierSimilarities": [
+            34.31,
+            33.6,
+            32.09
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "the voice, the acting energy, being used to signify the person whose voice it was",
+            "the seven golden candlesticks are [united in one] part of the furniture of the tabernacle",
+            "Each local church has now its candlestick, to be retained or removed from its place according to its own works"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The voice is that of God the Father, as at Christ's baptism and transfiguration, so here in presenting Christ as our High Priest.",
+            "The candlestick is not light, but the bearer of light, holding it forth to give light around. The light is the Lord's, not the Church's; from Him she receives it.",
+            "She is to be a light-bearer to His glory. The candlestick stood in the holy place, the type of the Church on earth, as the holiest place was type of the Church in heaven."
+        ],
+        "Albert Barnes": [
+            "To see the 'voice' here means to see the 'person' who spake.",
+            "These were the 'first' things that met his eye. This must have been in 'vision,' of course, and the meaning is, that there 'seemed' to be there seven such lamps or candelabras.",
+            "Light is often used in the Scriptures as an emblem of true religion; Christians are represented as 'the light of the world' (Matthew 5:14; compare Philippians 2:15; John 8:12), and a Christian church may be represented as a light standing in the midst of surrounding darkness."
+        ],
+        "Philip Schaff": [
+            "The Seer naturally turns to see; and the first thing that strikes his eyes as the outer circle of the vision is seven golden candlesticks.\" ",
+            "That we have seven candlesticks instead of one points to the richness and fulness of the New Testament Dispensation in its contrast with the Old.",
+            "The number seven is not less expressive of unity than unity itself."
+        ],
+        "Archibald T. Robertson": [
+            "The voice put for the person speaking.",
+            "Symbols of the seven churches as explained in verse Revelation 1:20.",
+            "Here the lampstands are separate."
+        ],
+        "John Gill": [
+            "that is, to see who it was that spoke, from whom the voice came, and by whom it was uttered.",
+            "the churches of Christ have no light of themselves, but what is put into them; and the light which is put into them, is not the mere light of nature, nor the law of Moses, but the Gospel of Christ.",
+            "and they are compared to 'golden' candlesticks, because of their excellency, preciousness, and value, in the esteem of Christ; and for their brightness and purity in doctrine, discipline, and life; and for their splendour, glory, and beauty; and for their stability and duration; and though they are liable to corruption and taint, yet may be melted, refined, and purified as gold."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 1:12, the voice signifies the person speaking, God the Father, who presents Christ as our High Priest. The seven golden candlesticks represent the local churches, each with its own candlestick that symbolizes being a light-bearer to God's glory. The Church receives its light from the Lord and is to hold it forth to illuminate the world. These candlesticks represent the unity and richness of the New Testament Dispensation, showcasing the brightness, purity, and value of the Church in the eyes of Christ. As Christians, we are called to be the light of the world, shining amidst darkness.",
+            "wordCount": 100,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.8157749263430154,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                35.0,
+                33.84,
+                31.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this verse, the voice represents God the Father, affirming Christ as our High Priest. The seven golden candlesticks symbolize the local churches, each holding the light bestowed upon them by the Lord. The Church is called to be a light-bearer, illuminating the world. These candlesticks exemplify the unity and richness of the New Testament Dispensation, reflecting the Church's value, purity, and splendor in the eyes of Christ. Christians are tasked with shining as lights amidst surrounding darkness, embracing their role as representatives of true religion.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.36,
+            "qualityScore": 1.7679954875706372,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.13,
+            "commentatorTierSimilarities": [
+                36.51,
+                32.21,
+                31.29
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this passage, the voice signifies the person behind it, God the Father, presenting Christ as our High Priest. The seven golden candlesticks represent the local churches, each responsible for holding and sharing the divine light bestowed upon them by the Lord. These candlesticks exemplify the unity and richness of the New Testament Dispensation, emphasizing the Church's value, purity, and glory. Christians are called to be light-bearers, illuminating their surroundings and reflecting true religion to the world.",
+            "wordCount": 79,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7379690122574742,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.13,
+            "commentatorTierSimilarities": [
+                34.45,
+                32.85,
+                32.69
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In this depiction, the voice represents God the Father, highlighting Christ as our High Priest. The seven golden candlesticks symbolize the local churches, entrusted with the task of spreading the divine light given by the Lord. These candlesticks showcase the unity and richness of the New Testament Dispensation, emphasizing the Church's worth, purity, and splendor. Christians are called to be bearers of light, illuminating their surroundings and reflecting the essence of true religion to the world.",
+            "wordCount": 77,
+            "quoteTokenProportion": 24.14,
+            "qualityScore": 1.7661915298862865,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.07,
+            "commentatorTierSimilarities": [
+                34.31,
+                33.6,
+                32.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In this depiction, the voice signifies the Father's authority, introducing Christ as our High Priest. The seven golden candlesticks represent the local churches, responsible for carrying and sharing the divine light bestowed by the Lord. These candlesticks demonstrate the unity and richness of the New Testament Dispensation, highlighting the Church's value, purity, and beauty. Christians are called to be light-bearers, disseminating the radiance of true religion in their lives and impacting the world around them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.676256255001498,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.08,
+            "commentatorTierSimilarities": [
+                33.66,
+                31.06,
+                35.28
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

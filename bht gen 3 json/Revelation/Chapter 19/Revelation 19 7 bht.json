@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:24",
+    "verseRef": "Revelation 19:7",
+    "bestBHT": {
+        "bht": "The marriage of the Lamb brings forth great rejoicing and exultation, as it signifies the perfect union between Christ and His people. This symbolic union represents the triumph over evil and the establishment of God's kingdom. The bride, the elect-Church, is transformed and joined with the Lord in His victory over the enemy. Through this marriage, believers partake in the joy, glory, and kingdom of Christ, as they are made ready by the grace of their loving Savior. It is indeed a time for exceeding gladness and rejoicing in God's glorious plan.",
+        "wordCount": 95,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 2.176989423115341,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+        "commentatorTierSimilarities": [
+            34.33,
+            38.39,
+            27.27
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Let us rejoice and exult, and we will give the glory to Him; because the marriage of the Lamb is come.",
+            "This series, properly speaking, includes in itself the overthrow of the kings of the earth, the binding of Satan, the thousand years\u2019 reign, the loosing of Satan, the final overthrow of the enemy, and the general judgment.",
+            "This figure, of a marriage between the Lord and His people, is too frequent and familiar to need explanation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The elect-Church, the heavenly Bride, soon after the destruction of the harlot, is transfigured at the Lord's coming, and joins with Him in His triumph over the beast.",
+            "Perfect union with Him personally, and participation in His holiness; joy, glory, and kingdom, are included in this symbol of 'marriage'.",
+            "Individually, believers are effectually-called guests; collectively, they constitute the bride. The harlot divides her affections among many lovers: the bride gives hers exclusively to Christ."
+        ],
+        "Albert Barnes": [
+            "Let all in heaven rejoice - for all have an interest in the triumph of truth; all should be glad that the government of God is set up over an apostate world.",
+            "Because the work is glorious; and became it is by his power alone that it has been accomplished.",
+            "The church was now to triumph and rejoice as if in permanent union with her glorious head and Lord."
+        ],
+        "Marvin Vincent": [
+            "The marriage of the Lamb. For the figure, compare Isaiah 54:1-8; Ezekiel 16:7-14; Hosea 2:19; Matthew 9:15; John 3:29; Ephesians 5:25."
+        ],
+        "Philip Schaff": [
+            "Let us rejoice, and be exceeding glad, and let us give the glory to him, for the marriage of the Lamb is come.\" ",
+            "Up to this time the actual marriage of the Redeemer to His people has not taken place.",
+            "At length the hour has come when the marriage shall be completed, the Lord Himself being manifested in glory and His bride along with Him."
+        ],
+        "Archibald T. Robertson": [
+            "Let us rejoice and be exceeding glad.",
+            "The marriage of the Lamb.",
+            "Made herself ready."
+        ],
+        "John Gill": [
+            "The saints particularly; the converted Jews will call upon one another to express their gladness at the glorious display of Christ's kingly power and authority, and at the destruction of his enemies, and the happy and comfortable state of his church and people.\" ",
+            "And now the time will be come for the accomplishment of it, the evidence of which follows: and his wife hath made herself ready, or 'dressed herself'; by decking herself with jewels, and putting on her wedding garment provided for her, and given to her by her husband, the Lamb.\" ",
+            "And that her preparation is not by her own merits and works of righteousness, but by the grace of her husband, is clear from the following verse."
+        ],
+        "John Wesley": [
+            "The marriage of the Lamb is come \u2014 Is near at hand, to be solemnized speedily.",
+            "What this implies, none of 'the spirits of just men,' even in paradise, yet know.",
+            "And what purity of heart should there be, to meditate upon them!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The marriage of the Lamb is the culmination of a series of significant events, which include the defeat of the kings of the earth, the binding of Satan, and the final overthrow of the enemy. This concept of the Lord's union with His people is a familiar one, symbolizing perfect union with Him and participation in His holiness. It is a joyous occasion, where the bride, the elect-Church, joins with the Lord in His triumph over evil. The preparation of the bride is not by her own merits, but through the grace of her husband, the Lamb. It is a time for rejoicing and exceeding gladness, for the establishment of God's government over a fallen world.",
+            "wordCount": 119,
+            "quoteTokenProportion": 32.35,
+            "qualityScore": 2.0641059064071166,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                34.34,
+                35.73,
+                29.93
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The marriage of the Lamb is the culmination of a series of significant events, which include the defeat of the kings of the earth, the binding of Satan, and the final overthrow of the enemy. This concept of the Lord's union with His people is a familiar one, symbolizing perfect union with Him and participation in His holiness. The preparation of the bride is not by her own merits, but through the grace of her husband, the Lamb. It is a time for rejoicing and exceeding gladness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.9638283008202708,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.64,
+            "commentatorTierSimilarities": [
+                35.84,
+                33.69,
+                30.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The marriage of the Lamb is the ultimate expression of joy and glory, representing perfect union with Christ and participation in His holiness. This familiar symbol of a marriage between the Lord and His people signifies complete devotion to Him. The bride, the elect-Church, is transfigured and joins in triumph over evil. This significant event marks the defeat of earthly kings, the binding of Satan, and the final overthrow of the enemy. It is a time for rejoicing and gladness, as the bride is prepared by the grace of her loving husband, the Lamb.",
+            "wordCount": 95,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.1220706925170925,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.9,
+            "commentatorTierSimilarities": [
+                36.05,
+                34.45,
+                29.5
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The marriage of the Lamb signifies the unity and holiness between Christ and His people. It is a joyous occasion, representing the triumph over evil and the fulfillment of God's plan. The bride, the elect-Church, is transformed and joins in the victory over the enemy. This symbol of marriage holds deep significance, encompassing perfect union, joy, glory, and participation in Christ's kingdom. The bride's preparation is not by her own efforts but by the grace of her loving husband, the Lamb. It is a time for rejoicing and gladness as God's government is established.",
+            "wordCount": 99,
+            "quoteTokenProportion": 29.03,
+            "qualityScore": 2.056064795324468,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.71,
+            "commentatorTierSimilarities": [
+                33.88,
+                37.09,
+                29.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The marriage of the Lamb brings forth great rejoicing and exultation, as it signifies the perfect union between Christ and His people. This symbolic union represents the triumph over evil and the establishment of God's kingdom. The bride, the elect-Church, is transformed and joined with the Lord in His victory over the enemy. Through this marriage, believers partake in the joy, glory, and kingdom of Christ, as they are made ready by the grace of their loving Savior. It is indeed a time for exceeding gladness and rejoicing in God's glorious plan.",
+            "wordCount": 95,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.176989423115341,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.73,
+            "commentatorTierSimilarities": [
+                34.33,
+                38.39,
+                27.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

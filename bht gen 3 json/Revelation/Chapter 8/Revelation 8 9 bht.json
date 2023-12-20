@@ -1,0 +1,130 @@
+{
+    "timestamp": "12-19-2023 21:44:35",
+    "verseRef": "Revelation 8:9",
+    "bestBHT": {
+        "bht": "The ships mentioned here may represent churches, particularly the early ones shaped like inverted ships. The Greek word translated as destroyed also refers to heretical corruption. The use of life might be connected to another scriptural reference, while ships could be linked to a different context. The destruction of the ships symbolizes the devastating impact of a blazing mountain thrown into the sea, signifying the displacement and desolation of a powerful nation. These savage invaders caused widespread death, pillaged wealth, and led to the destruction of a significant number of ships, resulting in profound suffering for society.",
+        "wordCount": 97,
+        "quoteTokenProportion": 25.71,
+        "qualityScore": 1.541335251706136,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+        "commentatorTierSimilarities": [
+            26.61,
+            43.12,
+            30.28
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The symbolical interpreters take the ships here to be churches.",
+            "The first churches were in the shape of an inverted ship.",
+            "The Greek for destroyed is also used of heretical corruptings."
+        ],
+        "Albert Barnes": [
+            "It is designed to describe an effect, pertaining to the maritime portion of the world, as if a third portion of all that was in the sea should perish.",
+            "'The ships' was produced, in some way, by casting the mountain into the sea - either by their being consumed by the contact with the burning mass, or by being sunk by the agitation of the waters.",
+            "The symbol of a blazing or burning mountain, torn from its foundation, and precipitated into the ocean, would well represent this mighty nation moved from its ancient seat, and borne along toward the maritime parts of the empire, and its desolations there."
+        ],
+        "Marvin Vincent": [
+            "Life [\u03c8\u03c5\u03c7\u03b1\u03c2] . See on 3 John 1:2. ",
+            "Ships [\u03c0\u03bb\u03bf\u03b9\u03c9\u03bd] . See on Luke 5:2."
+        ],
+        "Archibald T. Robertson": [
+            "Even they that had life.",
+            "Was destroyed.",
+            "The plural \u03c0\u03bb\u03bf\u03b9\u03bf\u03bd just before the verb makes the idea plural."
+        ],
+        "John Gill": [
+            "And the third part of the creatures which were in the sea... and had life, died; were put to death by these savage and barbarous people...",
+            "...killed all they met with, men, women, and children, young and old, rich and poor, high and low...",
+            "...the third part of the ships were destroyed; by which may be designed... the goods and effects, which they pillaged, and carried off the wealth and riches of the people..."
+        ],
+        "John Wesley": [
+            "And the third part of the creatures that were in the sea \u2014 That is, of all sorts of men, of every station and degree.",
+            "Died \u2014 By those merciless invaders.",
+            "And the third part of the ships were destroyed \u2014 It is a frequent thing to resemble a state or republic to a ship, wherein many people are embarked together, and share in the same dangers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The ships in Revelation 8:9 symbolize churches, particularly the first churches which were shaped like inverted ships. The Greek word for destroyed is also used to describe heretical corruptings. The mention of life in the verse is linked to 3 John 1:2, and the word ships is connected to Luke 5:2. The destruction of the ships represents the devastation caused by a blazing mountain being cast into the sea, which signifies the displacement and desolation of a mighty nation. This nation, in their savage nature, killed indiscriminately, men and women of all ages and social statuses. They pillaged goods and carried off the wealth of the people, resulting in the destruction of a third of the ships and causing immense suffering in all aspects of society.",
+            "wordCount": 122,
+            "quoteTokenProportion": 28.95,
+            "qualityScore": 1.5541461379406822,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.02,
+            "commentatorTierSimilarities": [
+                26.49,
+                39.19,
+                34.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Some commentators suggest that the ships mentioned in the passage symbolize churches, specifically the early churches that were shaped like inverted ships. The Greek word for destroyed is also associated with heretical corruptions. The mention of life may connect to a parallel verse, while the word ships may be linked to another passage. The destruction of the ships could represent the devastating impact of a blazing mountain cast into the sea, signifying the displacement and desolation of a powerful nation. This nation, in their barbarity, caused widespread death and pillaged the wealth of the people, resulting in the destruction of a significant portion of the ships and inflicting great suffering on society.",
+            "wordCount": 112,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.5682707621604306,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.49,
+            "commentatorTierSimilarities": [
+                25.37,
+                43.9,
+                30.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The mention of ships in the verse could symbolize churches, especially the early ones shaped like inverted ships. The Greek word meaning destroyed could also refer to heretical corruptions. The reference to life may be linked to another biblical passage, while the term ships might connect to a separate verse. The ships' destruction could represent the devastating impact of a blazing mountain cast into the sea, reflecting the displacement and desolation of a mighty nation. This nation, with their savage nature, caused widespread death and pillaged the people's wealth, resulting in the loss of a significant portion of the ships and immense suffering in society.",
+            "wordCount": 106,
+            "quoteTokenProportion": 23.61,
+            "qualityScore": 1.6056279142474428,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.73,
+            "commentatorTierSimilarities": [
+                26.17,
+                44.36,
+                29.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The ships mentioned here may represent churches, particularly the early ones shaped like inverted ships. The Greek word translated as destroyed also refers to heretical corruption. The use of life might be connected to another scriptural reference, while ships could be linked to a different context. The destruction of the ships symbolizes the devastating impact of a blazing mountain thrown into the sea, signifying the displacement and desolation of a powerful nation. These savage invaders caused widespread death, pillaged wealth, and led to the destruction of a significant number of ships, resulting in profound suffering for society.",
+            "wordCount": 97,
+            "quoteTokenProportion": 25.71,
+            "qualityScore": 1.541335251706136,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.59,
+            "commentatorTierSimilarities": [
+                26.61,
+                43.12,
+                30.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The ships in this passage are thought to symbolize churches, particularly the early inverted ship-shaped ones. The Greek word translated as destroyed is also associated with heretical corruption. The mention of life may have a connection to another reference, while ships could be linked to a different context. The destruction of the ships is representative of a blazing mountain cast into the sea, depicting the displacement and desolation of a powerful nation. The merciless invaders caused widespread death, plundered wealth, and led to the destruction of a significant portion of the ships, resulting in immense suffering throughout society.",
+            "wordCount": 99,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.524354925841578,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.03,
+            "commentatorTierSimilarities": [
+                25.36,
+                44.88,
+                29.76
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

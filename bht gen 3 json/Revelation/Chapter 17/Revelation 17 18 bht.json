@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:48:33",
+    "verseRef": "Revelation 17:18",
+    "bestBHT": {
+        "bht": "The prophecy refers to a city situated on seven hills, widely believed to be Rome. Though some argue that history didn't verify this, others see Rome's immorality, power, pride, and influence on the world as evidence. The harlot and the beast are symbolic, but the woman represents the city of Rome, which has ruled over the kings of the earth. It is debated whether this includes Rome as pagan or Christian, and if there may be successors to Rome in the future. Ultimately, Rome is portrayed as facing judgment, with its power limited and its downfall inevitable.",
+        "wordCount": 99,
+        "quoteTokenProportion": 40.85,
+        "qualityScore": 2.3484073698016883,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+        "commentatorTierSimilarities": [
+            29.62,
+            27.85,
+            42.53
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The 'city on seven hills which rules the world,' can be but one, and that one ROME.",
+            "If we understand it thus, nothing is left us but to say, as indeed some of this school are not afraid to say, that only the Seer\u2019s wish dictated his words, and that history has not verified them.",
+            "For us, who believe the prophecy is to be fulfilled, what was Rome then, is Rome now. Her fornications and abominations, as well as her power and pride, are matter of history and of present fact: and we look for her destruction to come, as we believe it is rapidly coming, by the means and in the manner here foretold."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The harlot cannot be a mere city literally, but is called so in a spiritual sense.",
+            "Also the beast cannot represent a spiritual power, but a world power.",
+            "In this verse the harlot is presented before us ripe for judgment."
+        ],
+        "Albert Barnes": [
+            "Rome, either as pagan or as Christian, is referred to.",
+            "The chapter shows that its power is limited; and that, although for purposes which he saw to be wise, God allows it to have a wide influence over the nations of the earth, yet, in his own appointed time, the very powers that have sustained it will become its foes, and combine for its overthrow.",
+            "Europe needs but little further provocation, and the fires of liberty... will again be aroused in a manner which cannot be allayed, and that mighty power...will come to an end."
+        ],
+        "Marvin Vincent": [
+            "Reigneth [\u03b5\u03c7\u03bf\u03c5\u03c3\u03b1 \u03b2\u03b1\u03bf\u03b9\u03bb\u03b5\u03b9\u03b1\u03bd] . Lit., hath a kingdom. "
+        ],
+        "Philip Schaff": [
+            "That Rome may be here present to the mind of St. John it would be difficult to deny.",
+            "The idea of the Seer is certainly wider than that of any single city or power of the world.",
+            "The city must be some faithless spiritual power which, under the last manifestation of the beast, enters into a league with the world, ministers to it, and lends to its material forces an influence for evil which they would not otherwise possess."
+        ],
+        "Archibald T. Robertson": [
+            "The woman is the city of Rome 'which reigneth over the kings of the earth.'\" ",
+            "Rome followed Babylon, and other cities may follow in their train."
+        ],
+        "John Gill": [
+            "And the woman which thou sawest... is that great city, often mentioned in this book; great Babylon, the city of Rome, which reigneth over the kings of the earth.\" ",
+            "This clearly points out the city of Rome, for there was no other city then, but that, which reigned over the kings of the earth; that was then the metropolis of the Roman empire, to which the whole world was subject.",
+            "Since, all the kings of the empire have been under the jurisdiction of Rome Papal."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The passage speaks of a city on seven hills that rules the world, and many scholars believe this city to be Rome. Some argue that history did not verify this prophecy, but those who believe it to be true see Rome's power, pride, and immoral acts as evidence. While the harlot and the beast are often interpreted symbolically, the woman referred to is the city of Rome, which has reigned over the kings of the earth. Some believe this could also include Rome as pagan or as Christian, and that Rome may have successors in the future. Overall, the verse portrays the city of Rome as ripe for judgment, with its power ultimately limited and its downfall inevitable.",
+            "wordCount": 119,
+            "quoteTokenProportion": 44.3,
+            "qualityScore": 2.4229707732971657,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.9,
+            "commentatorTierSimilarities": [
+                29.67,
+                26.99,
+                43.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophecy refers to a city situated on seven hills, widely believed to be Rome. Though some argue that history didn't verify this, others see Rome's immorality, power, pride, and influence on the world as evidence. The harlot and the beast are symbolic, but the woman represents the city of Rome, which has ruled over the kings of the earth. It is debated whether this includes Rome as pagan or Christian, and if there may be successors to Rome in the future. Ultimately, Rome is portrayed as facing judgment, with its power limited and its downfall inevitable.",
+            "wordCount": 99,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 2.3484073698016883,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.42,
+            "commentatorTierSimilarities": [
+                29.62,
+                27.85,
+                42.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy identifies a city on seven hills as the ruling power, widely believed to be Rome. While some argue that history didn't confirm this, others point to Rome's historical and present-day existence, along with its immorality, power, and pride. The woman in the prophecy represents Rome, which has reigned over the kings of the earth. The interpretation of Rome extends to its pagan and Christian era. The prophecy suggests that Rome will face judgment, with its power ultimately limited and its downfall certain.",
+            "wordCount": 87,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.3033891485395444,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.93,
+            "commentatorTierSimilarities": [
+                29.99,
+                26.69,
+                43.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy points to a city on seven hills, potentially Rome, as the ruling power. History may not confirm this, but the evidence lies in Rome's past and present influence, immorality, power, and pride. The woman mentioned represents Rome, reigning over the kings of the earth. It is debated whether Rome refers to its pagan or Christian era, and there may be successors to Rome in the future. Regardless, Rome is seen as ripe for judgment, with its power limited and its impending destruction foretold.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 2.339939093088208,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.14,
+            "commentatorTierSimilarities": [
+                29.76,
+                28.01,
+                42.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy identifies a city, potentially Rome, situated on seven hills as the ruling power. Although some argue that history did not verify this, others believe that Rome's immoral acts, pride, and power make it the likely candidate. The symbolism of the harlot and the beast is debated, but the woman represents Rome, which has governed over the kings of the earth. Rome's spiritual and worldly influence may have successors in the future, yet its judgment and downfall are certain.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.271138091426017,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.86,
+            "commentatorTierSimilarities": [
+                30.51,
+                29.36,
+                40.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

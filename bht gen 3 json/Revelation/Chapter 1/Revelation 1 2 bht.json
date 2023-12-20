@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:40:06",
+    "verseRef": "Revelation 1:2",
+    "bestBHT": {
+        "bht": "John faithfully transmits an apocalyptic vision to the churches, testifying through the word of God and the testimony of Jesus Christ. He sets down all that he saw, not hiding anything. This testimony confirms the authority and divine origin of the book, urging readers to engage with its contents. It includes the Gospel, which testifies to the truth of Christ's divinity and humanity, as well as the physical manifestations of Christ that John witnessed.",
+        "wordCount": 75,
+        "quoteTokenProportion": 35.85,
+        "qualityScore": 2.100497139889731,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+        "commentatorTierSimilarities": [
+            31.65,
+            32.11,
+            36.24
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "These words must, in all fairness of construction, be referred to this present book, and not, as by some of the older Expositors, and recently by Ebrard, to the Gospel of St. John.",
+            "The Evangelist distinctly tells us, John xx. 30, that in writing his Gospel, he did not set down as much as he saw, but only a portion of the things which Jesus did in the presence of His disciples, whereas in the case of this Revelation it was otherwise: he set down all which he saw.",
+            "As a faithful transmitter of the Apocalyptic vision to the churches."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The word of God constitutes his testimony.\" ",
+            "The testimony of Jesus - 'the Spirit of prophecy'.",
+            "Translate, 'whatsoever things he saw' in apposition with 'the word of God and the testimony of Jesus Christ'."
+        ],
+        "Albert Barnes": [
+            "It was a characteristic of the writer to bear simple but faithful testimony to the truth which God communicated to people in the gospel.",
+            "He concealed nothing; he held nothing back; he made it known precisely as it was seen by him.",
+            "Among the most gentle and amiable of people... he yet had mental characteristics which made it proper that he should be called 'a son of thunder.'"
+        ],
+        "Marvin Vincent": [
+            "The reference is to the present book and not to the Gospel.",
+            "The words and the idea are characteristic of Revelation as of the Gospel and Epistles.",
+            "For the verb as denoting the immediate intuition of the seer."
+        ],
+        "Philip Schaff": [
+            "Individually St. John is nothing: he is only a witness to the Divine, to the word of God, and to the testimony given by Jesus Christ.",
+            "The verse as a whole is thus to be understood of the revelation of this book.",
+            "The emphasis lies upon 'bare witness,' upon the attitude of the Seer rather than upon the things seen."
+        ],
+        "Archibald T. Robertson": [
+            "The word of God (\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd \u03c4\u03bf\u03c5 \u03b8\u03b5\u03bf\u03c5). Subjective genitive, given by God. The prophetic word as in Revelation 1:9; Revelation 6:9; Revelation 20:4, not the personal Word as in Revelation 19:14.",
+            "The testimony of Jesus Christ (\u03c4\u03b7\u03bd \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03b1\u03bd \u0399\u03b7\u03c3\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03c5). Subjective genitive again, borne witness to by Jesus Christ.",
+            "Even of all the things that he saw (\u03bf\u03c3\u03b1 \u03b5\u03b9\u03b4\u03b5\u03bd). Relative clause in apposition with \u03bb\u03bf\u03b3\u03bf\u03bd and \u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03b9\u03b1\u03bd."
+        ],
+        "John Gill": [
+            "And of the testimony of Jesus Christ; that is, the Gospel, which testifies of the person of Christ, of the truth of his divinity, and reality of his human nature; of the union of the two natures, divine and human, his person.\" ",
+            "And of all things that he saw; with his bodily eyes, as the human body of Christ, the miracles he wrought in it, the transfiguration of it on the mount, the crucifixion of it, and the piercing of it with a spear, and the resurrection of it from the dead.",
+            "And such a faithful witness serves greatly to confirm the authority of this book, and to recommend the perusal of it."
+        ],
+        "John Wesley": [
+            "The word of God - Given directly by God.",
+            "The testimony of Jesus - Which he hath left us, as the faithful and true witness.",
+            "Whatsoever things he saw - In such a manner as was a full confirmation of the divine original of this book."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse refers to the book of Revelation and not to the Gospel of John. The author, John, faithfully transmits the apocalyptic vision to the churches, testifying through the word of God and the testimony of Jesus Christ. He did not hold back, but rather set down all that he saw. The emphasis lies on his role as a witness, confirming the authority and divine origin of this book. This testimony includes the Gospel, which testifies to the truth of Christ's divinity and human nature, as well as all the things he physically witnessed, such as his miracles, crucifixion, and resurrection. In this way, John's faithful witness serves to urge readers to engage with the book and affirm its significance.",
+            "wordCount": 122,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.188440974533499,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.11,
+            "commentatorTierSimilarities": [
+                31.68,
+                32.34,
+                35.98
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The book of Revelation, written by John, is a faithful transmission of an apocalyptic vision to the churches. Through the word of God and the testimony of Jesus Christ, John bears witness to the truth. He does not hold back, but diligently sets down all that he saw. This testimony confirms the authority and divine origin of the book, impressing upon readers the significance and urging them to engage with its contents. It includes the Gospel, which testifies to the truth of Christ's divinity and humanity, as well as all the physical manifestations of Christ that John witnessed.",
+            "wordCount": 99,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 2.1466853673305493,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.72,
+            "commentatorTierSimilarities": [
+                32.9,
+                31.48,
+                35.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "John faithfully transmits an apocalyptic vision to the churches, testifying through the word of God and the testimony of Jesus Christ. He sets down all that he saw, not hiding anything. This testimony confirms the authority and divine origin of the book, urging readers to engage with its contents. It includes the Gospel, which testifies to the truth of Christ's divinity and humanity, as well as the physical manifestations of Christ that John witnessed.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.100497139889731,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.18,
+            "commentatorTierSimilarities": [
+                31.65,
+                32.11,
+                36.24
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The book of Revelation, faithfully transmitted by John, includes the word of God and the testimony of Jesus Christ. John did not hold back, but set down all that he saw, confirming the authority of the book. This testimony includes the Gospel, which testifies to the truth of Christ's divinity and humanity, as well as the physical manifestations John witnessed. The importance of John's faithful witness serves to recommend the perusal of the book and confirm its divine origin.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 2.3742493412344174,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.28,
+            "commentatorTierSimilarities": [
+                31.26,
+                31.22,
+                37.53
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The book of Revelation, faithfully transmitted by John, includes the word of God and the testimony of Jesus Christ. John set down all that he saw, both confirming the authority of the book and urging readers to engage with it. This testimony includes the Gospel, testifying to the truth of Christ's divinity and humanity. John's faithful witness serves to recommend the book and confirm its divine origin.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.11,
+            "qualityScore": 2.3499187580305456,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.47,
+            "commentatorTierSimilarities": [
+                31.16,
+                30.66,
+                38.18
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

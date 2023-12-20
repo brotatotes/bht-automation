@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:42:30",
+    "verseRef": "Revelation 5:3",
+    "bestBHT": {
+        "bht": "No being, whether man or of any other order, was capable of looking upon the contents of the book and read them. This limitation extended to angels and souls in Hades, leaving no one with the power to open the scroll or comprehend its prophecies. It is implied that the cry for understanding went unanswered by the universe -- from heaven, earth, to under the earth. The restricted faculties of both angels and humans prevent them from knowing what is to come.",
+        "wordCount": 81,
+        "quoteTokenProportion": 45.76,
+        "qualityScore": 1.7233808697902422,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+        "commentatorTierSimilarities": [
+            23.66,
+            38.0,
+            38.34
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "No one of any order of beings.",
+            "Not merely no man, but also no one of any order of beings.",
+            "To look upon the contents, so as to read them."
+        ],
+        "Albert Barnes": [
+            "There is no limitation in the original to man. The idea is, that there was no one in heaven - evidently alluding to the created beings there - who could open the volume.\" ",
+            "Is it not taught here that angels cannot penetrate the future, and disclose what is to come? Are not their faculties limited in this respect like those of man?\" ",
+            "Even if anyone had been found who had a rank and a moral character which might have seemed to justify the effort, there was no one who had the power of reading what was recorded respecting coming events."
+        ],
+        "Marvin Vincent": [
+            "Under the earth. In Hades. ",
+            "To look [\u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03bd] . See on John 1:29. To take a single look at the contents."
+        ],
+        "Philip Schaff": [
+            "And no one in heaven, nor on the earth, nor under the earth, was able to open the roll, or to look thereon.\" ",
+            "The universe is designated under the three divisions here mentioned.\" ",
+            "It is implied that no answer is given to the cry."
+        ],
+        "Archibald T. Robertson": [
+            "The MSS. vary in the negative conjunctions after \u03bf\u03c5\u03b4\u03b5\u03b9\u03c2 (no one) between \u03bf\u03c5\u03b4\u03b5--\u03bf\u03c5\u03b4\u03b5 (continuative, and not--nor) and \u03bf\u03c5\u03c4\u03b5--\u03bf\u03c5\u03c4\u03b5 (disjunctive, neither--nor).\" ",
+            "To look thereon (\u03b2\u03bb\u03b5\u03c0\u03b5\u03b9\u03bd \u03b1\u03c5\u03c4\u03bf). Into the contents of the book.\" ",
+            "The universe declines the challenge."
+        ],
+        "John Gill": [
+            "No one in heaven, whether angels or the souls of departed saints, know anything of what is to come, until it is revealed unto them.",
+            "Among all the men on earth, even those of the greatest sagacity and penetration, no one knows what is to come.",
+            "There was no creature in heaven, earth, or hell, who were masters of the deepest knowledge, and made pretensions to any, that were able to foresee and foretell things to come."
+        ],
+        "John Wesley": [
+            "And none \u2014 No creature; no, not Mary herself.",
+            "In heaven, or in earth, neither under the earth \u2014 That is, none in the universe.",
+            "Was able to open the book \u2014 To declare the counsels of God."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Not a single being, whether man, angel, or even those in Hades, possessed the ability to open the scroll and comprehend its contents. The challenge was extended to all realms of existence, yet no one, regardless of their rank or moral character, could unlock the prophecies concealed within. This declaration encompasses the entire universe, leaving no room for exceptions. The limited knowledge of angels and humans alike prevents them from unveiling the future. Hence, the cry for understanding goes unanswered by all.",
+            "wordCount": 82,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.4956059127086936,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.07,
+            "commentatorTierSimilarities": [
+                24.18,
+                39.42,
+                36.4
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No being, whether man or of any other order, possessed the ability to look upon the contents of the book and read them. This incapacity extends to angels and souls in Hades, leaving no one with the power to open the scroll or comprehend its prophecies. The cry for understanding goes unanswered by the universe \u2014 from heaven, earth, to under the earth. The limited faculties of both angels and humans prevent them from knowing what is to come.",
+            "wordCount": 78,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6803895096799375,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.22,
+            "commentatorTierSimilarities": [
+                24.91,
+                34.46,
+                40.63
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No being, whether man or of any other order, was capable of looking upon the contents of the book and read them. This limitation extended to angels and souls in Hades, leaving no one with the power to open the scroll or comprehend its prophecies. It is implied that the cry for understanding went unanswered by the universe -- from heaven, earth, to under the earth. The restricted faculties of both angels and humans prevent them from knowing what is to come.",
+            "wordCount": 81,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.7233808697902422,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.64,
+            "commentatorTierSimilarities": [
+                23.66,
+                38.0,
+                38.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No one, whether human or of any other order, possessed the ability to look upon and read the contents of the book. The limitations extended to angels and souls in Hades, leaving no being with the power to open the scroll or understand its hidden prophecies. The cry for understanding remained unanswered throughout the universe - from heaven to earth, and even under the earth. Angels and humans alike were restrained by their limited faculties, unable to perceive what is to come.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.6829978028146808,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.3,
+            "commentatorTierSimilarities": [
+                24.62,
+                34.93,
+                40.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No one, whether human or any other being, had the capacity to look upon the contents of the book and comprehend them. Not even angels or souls in Hades possessed the power to open the scroll and reveal its hidden prophecies. The cry for understanding went unanswered throughout the entire universe. From those in heaven to those on earth, and even under the earth, all were unable to grasp what lay ahead. The limited faculties of angels and humans prevented them from having knowledge of future events.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.6891060034525776,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.5,
+            "commentatorTierSimilarities": [
+                23.56,
+                36.14,
+                40.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

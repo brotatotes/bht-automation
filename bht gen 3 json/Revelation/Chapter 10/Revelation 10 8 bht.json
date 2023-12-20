@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:45:11",
+    "verseRef": "Revelation 10:8",
+    "bestBHT": {
+        "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven, before the mystery should be finished. Just as it is necessary for ordinary prophesying or preaching to be called and sent by God, so too should one receive the Gospel and its doctrines with a commission from Jesus Christ, who has all power in heaven and in earth. This parallels the Angel's oath and the fulfilling of the mystery of God, explained in later chapters.",
+        "wordCount": 98,
+        "quoteTokenProportion": 44.62,
+        "qualityScore": 1.9708015335956213,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+        "commentatorTierSimilarities": [
+            20.43,
+            31.01,
+            48.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the voice which I heard out of heaven, [I] again [heard] talking with me...\" ",
+            "Go take the book which lieth open in the hand of the angel...",
+            "...which standeth upon the sea and upon the earth."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "But A, B, C, '(I heard) again speaking with me, and saying'.",
+            "little book\u2014So Aleph and B read.",
+            "But A and C, 'the book.'"
+        ],
+        "Albert Barnes": [
+            "And the voice which I heard from heaven - Revelation 10:4. This is not the voice of the angel, but a direct divine command.",
+            "That is, take it out of his hand, and do with it as you shall be commanded.",
+            "The passage here Revelation 10:8 introduces a new symbol, that of 'eating the book,' and evidently refers to something that was to occur before the 'mystery should be finished'; that is, before the seventh trumpet should sound."
+        ],
+        "Marvin Vincent": [
+            "Spake unto me. Render, as Rev., \"I heard it again speaking."
+        ],
+        "Philip Schaff": [
+            "Revelation 10:8. The Seer is commanded to take the open book-roll in the hand of the angel.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "No great distinction is to be made here between \u03bb\u03b1\u03bb\u03b5\u03c9 and \u03bb\u03b5\u03b3\u03c9.",
+            "The use of \u03c5\u03c0\u03b1\u03b3\u03b5 (exclamation like \u03b9\u03b4\u03b5) is common in N.T.",
+            "Note the repeated article here (\u03c4\u03bf) referring to the open book in the hand of the angel, only here \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03bd is used."
+        ],
+        "John Gill": [
+            "It was necessary that he should have a mission and a commission from heaven.",
+            "Just so to ordinary prophesying, or preaching, it is necessary that men should have their commission from heaven, should be called of God, and sent by him.",
+            "They should also receive the Gospel, and the doctrines of it, with gifts, and a commission to preach it, from the Angel of the covenant, Jesus Christ, who has all power both in heaven and in earth."
+        ],
+        "John Wesley": [
+            "And \u2014 what follows from this verse to chap. xi13, Revelation 11:13 runs parallel with the oath of the angel, and with 'the fulfilling of the mystery of God,' as it follows under the trumpet of the seventh angel.\" ",
+            "What is said, verse11, Revelation 11:11 concerning St. John's 'prophesying again,' is unfolded immediately after.\" ",
+            "What is said, verse7, Revelation 11:7 concerning 'the fulfilling the mystery of God,' is unfolded, Rev. xi15-19, Revelation 11:15-19 and in the following chapters."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven, before the mystery should be finished. Just as it is necessary for ordinary prophesying or preaching to be called and sent by God, so too should one receive the Gospel and its doctrines with gifts and a commission from Jesus Christ. This verse, along with the following verses, runs parallel with the Angel's oath and the fulfilling of the mystery of God. The fulfillment of this mystery and the unfolding of John's prophesying again are explained in later chapters.",
+            "wordCount": 113,
+            "quoteTokenProportion": 40.85,
+            "qualityScore": 1.8789034238276234,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.82,
+            "commentatorTierSimilarities": [
+                19.72,
+                30.18,
+                50.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven, before the mystery should be finished. Just as it is necessary for ordinary prophesying or preaching to be called and sent by God, so too should one receive the Gospel and its doctrines with a commission from Jesus Christ, who has all power in heaven and in earth. This parallels the Angel's oath and the fulfilling of the mystery of God, explained in later chapters.",
+            "wordCount": 98,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 1.9708015335956213,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.87,
+            "commentatorTierSimilarities": [
+                20.43,
+                31.01,
+                48.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven before the mystery should be finished. Just as it is necessary for prophesying and preaching to be called and sent by God, so too should one receive the Gospel and its doctrines with a commission from Jesus Christ. This parallels the Angel's oath and the fulfilling of the mystery of God, which is explained in later chapters.",
+            "wordCount": 90,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9617335363969617,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.57,
+            "commentatorTierSimilarities": [
+                20.51,
+                31.42,
+                48.07
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven before the mystery should be finished. It is necessary for prophesying and preaching to be called and sent by God, just as one should receive the Gospel and its doctrines with a commission from Jesus Christ. This parallels the fulfilling of the mystery of God, which is further explained in later chapters.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8741753170430817,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                20.15,
+                31.74,
+                48.11
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The voice from heaven commanded, Go take the book which lieth open in the hand of the angel. This symbol of eating the book refers to a mission and commission from heaven before the mystery should be finished. Just as it is necessary for prophesying and preaching to be called and sent by God, one should receive the Gospel and its doctrines with a commission from Jesus Christ. This parallels the fulfilling of the mystery of God, which is further explained in later chapters.",
+            "wordCount": 84,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.8796647769511314,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                20.42,
+                31.58,
+                48.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

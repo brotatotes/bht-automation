@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:42:28",
+    "verseRef": "Revelation 5:2",
+    "bestBHT": {
+        "bht": "No one in heaven, on earth, or under the earth can open or even look at the book, highlighting the need for someone worthy to do so. The angel's strong voice resounds throughout the universe, reflecting both physical and moral strength. This proclamation instills a longing to uncover the book's contents, while showcasing the unsurpassed glory, ability, and worth of Jesus Christ, the only one qualified to open its seals.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.9521787196261502,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+        "commentatorTierSimilarities": [
+            31.18,
+            34.32,
+            34.5
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The looking on the book is an act subsequent to the opening it,\u2014the looking on the book, with a view to read it.\" ",
+            "The claim to open the book must be founded on a claim of worthiness to see that which was contained in it.",
+            "No one was able, in heaven, nor yet upon the earth, nor yet under the earth, to open the book, nor yet to look on it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "2. strong\u2014 ( :-). His voice penetrated heaven, earth, and Hades ( :-)."
+        ],
+        "Albert Barnes": [
+            "An angel endowed with great strength, as if such strength was necessary to enable him to give utterance to the loud voice of the inquiry.",
+            "The design undoubtedly is to impress the mind with a sense of the importance of the disclosures about to be made, and at the same time with a sense of the impossibility of penetrating the future by any created power.",
+            "It would require moral qualities of an exalted character to justify him in approaching the seat of the holy God, to take the book from his hands; it would require an ability beyond that of any created being to penetrate the future, and disclose the meaning of the symbols which were employed."
+        ],
+        "Marvin Vincent": [
+            "Strong. Either as being of higher rank, or with reference to the great voice. ",
+            "Worthy [\u03b1\u03be\u03b9\u03bf\u03c2] . As in John 1:27. Morally entitled."
+        ],
+        "Philip Schaff": [
+            "The angel of this verse is strong, and his voice is great, because his cry has to be heard in every region of the universe, in heaven, in earth, and in Hades.",
+            "That an 'angel' raises the cry may remind us of the interest taken by angels in the plan of redemption and in the fortunes of the Church.",
+            "At the same time, it may be nothing more than a part of that imagery of this book of which we have already spoken."
+        ],
+        "Archibald T. Robertson": [
+            "A strong angel... 'whose call could reach to the farthest limits of the universe.'\" ",
+            "Worthy to open and to loose... Worthy by rank and character as well as by ability.\" ",
+            "The articles here refer to the book and the seals... It is a husteron-proteron, since the loosing of the seals precedes the opening of the book."
+        ],
+        "John Gill": [
+            "Angels are said to be mighty, and to excel in strength: this is called so here, chiefly with respect to his voice, which he, by reason of his great strength, exerted so loudly, as to be heard by all the creatures in heaven, and in earth, and under the earth.",
+            "Who is worthy to open the book, and to loose the seals thereof?...and it seems, that he must not only be one of power and ability, but of dignity and authority, a person of greatness and worth.",
+            "This proclamation was made to stir up an earnest desire in John, and all the saints he represents, to know what was in this book; and to show the impotence of all creatures to make any discovery of it; and to illustrate, and set off with a greater foil, the glory, excellency, ability, and worth of Jesus Christ."
+        ],
+        "John Wesley": [
+            "This proclamation to every creature was too great for a man to make, and yet not becoming the Lamb himself.",
+            "It was therefore made by an angel, and one of uncommon eminence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "No one, whether in heaven, on earth, or under the earth, is able to open the book or even look at it. This emphasizes the importance of finding someone worthy enough to read its contents. The angel who proclaims this is described as strong, with a voice that reaches all corners of the universe. His strength is not only physical, but also moral and qualified by his rank and character. The proclamation is meant to stir up a desire to know what lies within the book and to highlight the glory, excellency, ability, and worth of Jesus Christ, who alone is able to open its seals.",
+            "wordCount": 106,
+            "quoteTokenProportion": 46.67,
+            "qualityScore": 1.8036004894486772,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.31,
+            "commentatorTierSimilarities": [
+                30.5,
+                34.43,
+                35.07
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "No one, whether in heaven, on earth, or under the earth, is able to open the book or even look at it. The angel who proclaims this is described as strong, with a voice that reaches all corners of the universe. His strength is not only physical, but also moral and qualified by his rank and character. The proclamation is meant to stir up a desire to know what lies within the book and to highlight the glory, excellency, ability, and worth of Jesus Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 48.44,
+            "qualityScore": 1.8986719301183963,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                31.79,
+                33.32,
+                34.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "No one, whether in heaven, on earth, or under the earth, is able to open the book or even look at it. The angel who proclaims this is described as strong, with a voice that reaches all corners of the universe. His strength is not only physical, but also moral and qualified by his rank and character. The proclamation stirs up a desire to know what lies within the book, emphasizing the glory, excellency, ability, and worth of Jesus Christ as the only one able to open its seals.",
+            "wordCount": 89,
+            "quoteTokenProportion": 49.23,
+            "qualityScore": 1.9157634735948603,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.04,
+            "commentatorTierSimilarities": [
+                32.39,
+                33.15,
+                34.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "No one in heaven, on earth, or under the earth can open or even look at the book, highlighting the need for someone worthy to do so. The angel's strong voice resounds throughout the universe, reflecting both physical and moral strength. This proclamation instills a longing to uncover the book's contents, while showcasing the unsurpassed glory, ability, and worth of Jesus Christ, the only one qualified to open its seals.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9521787196261502,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.25,
+            "commentatorTierSimilarities": [
+                31.18,
+                34.32,
+                34.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "No one, neither in heaven, nor on earth, nor under the earth, has the ability to open or even look at the book. The angel who makes this proclamation possesses great strength, as seen in his powerful voice that reaches every region of the universe. His strength extends beyond the physical realm and is accompanied by moral worthiness. This declaration ignites a deep longing to discover the contents of the book and underscores the unparalleled glory, ability, and worth of Jesus Christ, the one who alone is deserving and capable of opening its seals.",
+            "wordCount": 94,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.9051318463118294,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.69,
+            "commentatorTierSimilarities": [
+                30.31,
+                34.39,
+                35.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

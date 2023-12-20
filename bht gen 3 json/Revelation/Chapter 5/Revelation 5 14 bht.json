@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:42:23",
+    "verseRef": "Revelation 5:14",
+    "bestBHT": {
+        "bht": "The four living-beings and the elders, in silent adoration, ratify the chorus of praise from all of creation, affirming God's worthiness to receive glory, honor, and power as the Creator of all things. Through their worship, they give their approval to the universal doxology and signify the culmination of the visions, assuring believers of the glorious outcome. Their adoration represents the joy and gratitude of the Church, as they acknowledge the eternal nature of God and His rightful place as the object of worship.",
+        "wordCount": 86,
+        "quoteTokenProportion": 25.93,
+        "qualityScore": 2.1721126463072826,
+        "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+        "commentatorTierSimilarities": [
+            31.17,
+            35.9,
+            32.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The four living-beings assert the worthiness of God to receive the glory and the honour and the power on account of His having created all things.",
+            "The four living-beings say their Amen to creation's chorus of praise, being themselves the representatives of the animated Creation.",
+            "The elders fell down and worshipped in silent adoration of God and of the Lamb."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the four living creatures ratify by their 'Amen' the whole creation's ascription of the glory to Him.",
+            "four and twenty\u2014omitted in the oldest manuscripts: Vulgate supports it.",
+            "here, where the thanksgiving is expressed, the words are appropriate; but here less so, as their worship is that of silent prostration."
+        ],
+        "Albert Barnes": [
+            "The voice of universal praise came to them from abroad, and they accorded with it, and ascribed honor to God.",
+            "The whole universe, therefore, is sublimely represented as in a state of profound adoration, waiting for the developments to follow on the opening of the mysterious volume.",
+            "The fact that [Christ] does this is the foundation of joy and gratitude for the church... when the gospel shall spread over the world, and when truth and righteousness shall be triumphant."
+        ],
+        "Marvin Vincent": [
+            "Four and twenty. Omit. ",
+            "Worshipped. In silent adoration. ",
+            "Him that liveth forever and ever. Omit. "
+        ],
+        "Philip Schaff": [
+            "The four living creatures give the solemn assent \u2018Amen;\u2019 and...the whole service of praise...may return to the point from which it started.\" ",
+            "The elders fall down and worship in silent adoration. The heart of the Church is for the moment too full to speak.",
+            "Thus ends the series of visions...assuring us of its glorious issue."
+        ],
+        "Archibald T. Robertson": [
+            "The four living creatures give their approval to the doxology after the antiphonal songs.",
+            "In silent adoration that closes the whole service of praise to the One upon the throne and to the Lamb.",
+            "He is here worshipped by the universe."
+        ],
+        "John Gill": [
+            "Giving their assent to what the angels and every creature said, and expressing their desires and wishes that so it might be, and also their faith, that so it was, and would be.",
+            "The four and twenty elders fell down and worshipped him that liveth for ever and ever...",
+            "The four living creatures and four and twenty elders...being the persons more immediately concerned in the death and sufferings of the Lamb, and redemption by him, and in the sealed book, and in the things contained in it."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The four living beings and the elders, in silent adoration, confirm the worthiness of God to receive glory, honor, and power for creating all things. Their Amen serves as a response to the universe's praise and affirms the doxology after the antiphonal songs. This moment of worship signifies the culmination of the visions, assuring believers of the glorious outcome to come. The ascription of glory to God and the Lamb encompasses the entire service of praise, as their adoration represents the joy and gratitude of the Church.",
+            "wordCount": 88,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 2.0141288459114373,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.31,
+            "commentatorTierSimilarities": [
+                31.63,
+                36.67,
+                31.7
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In silent adoration, the four living creatures and the elders express their unanimous approval of the doxology presented by the entire creation. Their worship signifies the fulfillment of the visions, assuring believers of the glorious outcome. This collective worship gives honor to God for His act of creation, confirming His worthiness of glory, honor, and power. The ascription of glory to Him and the Lamb encompasses the entire service of praise, representing the joy and gratitude of the Church.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 2.0207214285737383,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.53,
+            "commentatorTierSimilarities": [
+                33.33,
+                34.66,
+                32.01
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The four living-beings and the elders, in silent adoration, ratify the chorus of praise from all of creation, affirming God's worthiness to receive glory, honor, and power as the Creator of all things. Through their worship, they give their approval to the universal doxology and signify the culmination of the visions, assuring believers of the glorious outcome. Their adoration represents the joy and gratitude of the Church, as they acknowledge the eternal nature of God and His rightful place as the object of worship.",
+            "wordCount": 86,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.1721126463072826,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.56,
+            "commentatorTierSimilarities": [
+                31.17,
+                35.9,
+                32.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The four living-beings in silent adoration confirm the worthiness of God to receive glory, honor, and power as the Creator of all things. Their worship serves as a response to the universal chorus of praise, signifying the culmination of the visions and assuring believers of the glorious outcome. This adoration expresses the joy and gratitude of the Church, acknowledging the eternal nature of God and His rightful place as the object of worship.",
+            "wordCount": 74,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 2.123721751910239,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.95,
+            "commentatorTierSimilarities": [
+                30.91,
+                38.53,
+                30.55
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In silent adoration, the four living-beings and the elders affirm the worthiness of God to receive glory, honor, and power for being the Creator of all things. Their worship ratifies the chorus of praise from the entire creation and serves as the final act of the visions, providing assurance to believers of the glorious outcome. This collective adoration expresses the joy and gratitude of the Church, acknowledging the eternal nature of God and His rightful place as the object of worship.",
+            "wordCount": 82,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 2.1024532186213736,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.25,
+            "commentatorTierSimilarities": [
+                31.59,
+                37.03,
+                31.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

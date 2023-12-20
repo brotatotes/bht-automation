@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:50:52",
+    "verseRef": "Revelation 22:5",
+    "bestBHT": {
+        "bht": "In the future abode of the righteous, there will be no more night as they reign with a glory surpassing their reign in heaven. They will have no need for lamps or the sun, as the Lord God Himself will give them light. Their reign will be eternal, with divine authority over all things. They will be always strong and vigorous in their service to the Lord, finding everlasting peace and happiness. Their sufferings will work out for them an eternal weight of glory, serving as an encouragement for their faithfulness.",
+        "wordCount": 91,
+        "quoteTokenProportion": 45.61,
+        "qualityScore": 1.997570758255308,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+        "commentatorTierSimilarities": [
+            27.94,
+            33.91,
+            38.15
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "(There shall be no night) any longer.\" ",
+            "They shall not have need.\" ",
+            "Reign with a glory probably transcending that of their reign in heaven with Christ over the millennial nations in the flesh."
+        ],
+        "Albert Barnes": [
+            "There will be a new heaven and a new earth: a new order of things, and a world adapted to the condition of the righteous.\" ",
+            "In that future abode he will be permitted to know all that is to be known in those worlds that shine upon his path by day or by night; all that is to be known in the character of their Maker, and the principles of his government.",
+            "Our Lady sings Magnificat, With tune surpassing sweet; And all the virgins bear their parts, Sitting above her feet."
+        ],
+        "Marvin Vincent": [
+            "No night there [\u03b5\u03ba\u03b5\u03b9] . Substitute eti any more. Rev., there shall be night no more."
+        ],
+        "Philip Schaff": [
+            "They shall be always strong and vigorous for the service of their Lord.",
+            "He who is \u2018without variableness or shadow cast by turning\u2019 is now their light, and that light never fades.",
+            "They share the Divine authority over all things around them, and their authority is without interruption and without end. They reign \u2018for ever and ever.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "They have no need of lamp or sun... they have no light of sun.\" ",
+            "Shall give them light.\" ",
+            "Reign eternally in contrast with the limited millennial reign."
+        ],
+        "John Gill": [
+            "The happiness of this state will greatly lie in the light thereof; it will be one everlasting day.",
+            "For the Lord God giveth them light; immediately from himself, without the use of means and ordinances.",
+            "They are made kings now, and in this state they shall reign with Christ for the space of a thousand years; and when they are ended, they shall not cease to reign."
+        ],
+        "John Wesley": [
+            "What encouragement is this to the patience and faithfulness of the saints, that, whatever their sufferings are, they will work out for them 'an eternal weight of glory!'",
+            "Thus ends the doctrine of this Revelation, in the everlasting happiness of all the faithful.",
+            "The mysterious ways of Providence are cleared up, and all things issue in an eternal Sabbath, an everlasting state of perfect peace and happiness, reserved for all who endure to the end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the future abode of the righteous, there will be no more night, as they will reign with a glory surpassing their reign in heaven with Christ. They will have no need of lamp or sun, for the Lord God Himself will be their light. Their reign will be eternal, in contrast to the limited millennial reign. They will have the Divine authority over all things, without interruption or end. In this everlasting state of perfect peace and happiness, they will be always strong and vigorous for the service of their Lord. This is the great encouragement for the patience and faithfulness of the saints, that their sufferings will work out for them an eternal weight of glory.",
+            "wordCount": 118,
+            "quoteTokenProportion": 42.03,
+            "qualityScore": 1.9660730145864196,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.71,
+            "commentatorTierSimilarities": [
+                28.18,
+                32.92,
+                38.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future abode of the righteous, there will be no more night as they reign with surpassing glory. They will have no need for lamp or sun, as the Lord God Himself will give them light. Their reign will be eternal, and they will have divine authority without interruption. They will be strong and vigorous in their service to the Lord, with their sufferings ultimately leading to an eternal weight of glory. This is the encouragement for the saints, as the faithful will find everlasting peace and happiness.",
+            "wordCount": 89,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 1.9922284959458687,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.58,
+            "commentatorTierSimilarities": [
+                28.45,
+                32.62,
+                38.93
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the future abode of the righteous, there will be no more night as they enjoy a glory that transcends their reign in heaven with Christ. They will have no need for lamps or the sun, for the Lord God Himself will illuminate their path. Their reign will be eternal, with divine authority over all things. They will be forever strong and vigorous in their service to the Lord, finding everlasting peace and happiness. Their sufferings will lead to an eternal weight of glory, providing encouragement for the faithful.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.66,
+            "qualityScore": 1.9742166641486696,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.98,
+            "commentatorTierSimilarities": [
+                27.91,
+                33.29,
+                38.8
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future abode of the righteous, there will be no more night as they reign with a glory surpassing their reign in heaven. They will have no need for lamps or the sun, as the Lord God Himself will give them light. Their reign will be eternal, with divine authority over all things. They will be always strong and vigorous in their service to the Lord, finding everlasting peace and happiness. Their sufferings will work out for them an eternal weight of glory, serving as an encouragement for their faithfulness.",
+            "wordCount": 91,
+            "quoteTokenProportion": 45.61,
+            "qualityScore": 1.997570758255308,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.76,
+            "commentatorTierSimilarities": [
+                27.94,
+                33.91,
+                38.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future abode of the righteous, there will be no more night as they reign with a glory that transcends their reign in heaven with Christ. They will have no need for lamps or the sun, for the Lord God Himself will give them light. Their reign will be eternal, with divine authority over all things. They will be forever strong and vigorous in serving the Lord, finding everlasting peace and happiness. Their sufferings will work out an eternal weight of glory, providing encouragement for their faithfulness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 1.9794450535373682,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.16,
+            "commentatorTierSimilarities": [
+                28.59,
+                32.57,
+                38.84
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

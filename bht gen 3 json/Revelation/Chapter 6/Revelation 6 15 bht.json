@@ -1,0 +1,126 @@
+{
+    "timestamp": "12-19-2023 21:43:16",
+    "verseRef": "Revelation 6:15",
+    "bestBHT": {
+        "bht": "Where was now the spirit of those whom the world has so greatly feared? The mighty and strong, the great men and chief captains, will be terror-stricken, alongside the self-satisfied and complacent rich. The two extremes of society, every bondman and freeman alike, will cower, beseeching the rocks of the mountains to fall upon them, desperate to escape the wrath brought upon them. It is a humbling reminder that even those who once held power and prominence will find themselves trembling before the judgment of the Lamb.",
+        "wordCount": 89,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.4588002085380096,
+        "qualityScoreNormalizedComparedToV2BHTs": 39.85,
+        "commentatorTierSimilarities": [
+            52.72,
+            0.0,
+            47.28
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Where was now the spirit of those whom the world has so greatly feared?\" (BENGEL)",
+            "The three oldest manuscripts, A, B, C, transpose thus, 'chief captains . . . rich men.'\" ",
+            "The three oldest manuscripts, A, B, and C read, 'strong' physically."
+        ],
+        "Marvin Vincent": [
+            "Great men [\u03bc\u03b5\u03b3\u03b9\u03c3\u03c4\u03b1\u03bd\u03b5\u03c2] . Rev., princes.",
+            "Chief captains [\u03c7\u03b9\u03bb\u03b9\u03b1\u03c1\u03c7\u03bf\u03b9] .",
+            "The mighty [\u03bf\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03bf\u03b9] . The best texts read oiJ ijscuroi. Rev., the strong."
+        ],
+        "Archibald T. Robertson": [
+            "Not merely those in civil and military authority will be terror-stricken, but the self-satisfied and complacent rich.",
+            "The strong, who usually scoff at fear.",
+            "The two extremes of society: every bondman and freeman."
+        ],
+        "John Gill": [
+            "and not to take notice of any other, this was remarkably true of their kings or emperors Dioclesian and Herculius Maximianus, who were emperors together, in the height of their imperial glory and grandeur, the one being at Nicomedia, and the other at Milan, did, on one and the same day, of their own accord, abdicate the empire, and divested themselves of their imperial crown and government, and retired to a private life",
+            "Maximinus, who succeeded them, being overcome by Licinius, laid aside his imperial habit, and hid himself among the common people, and skulked about in fields and villages",
+            "Maxentius, another emperor, fled from Constantine, the instrument of the wrath of the Lamb, and the pouring it out upon his enemies, and fell into the river Tiber, from the Mylvian bridge, where he perished"
+        ],
+        "John Wesley": [
+            "And the kings of the earth \u2014 They who had been so in their day.",
+            "And the great men and chief captains \u2014 The generals and nobles.",
+            "In the rocks of the mountains \u2014 There are also rocks on the plains; but they were rocks on high, which they besought to fall upon them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Where was now the spirit of those whom the world has so greatly feared? The mighty and strong, the great men and chief captains, will be terror-stricken, alongside the self-satisfied and complacent rich. The two extremes of society, every bondman and freeman alike, will cower, beseeching the rocks of the mountains to fall upon them, desperate to escape the wrath brought upon them. It is a humbling reminder that even those who once held power and prominence will find themselves trembling before the judgment of the Lamb.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4588002085380096,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.85,
+            "commentatorTierSimilarities": [
+                52.72,
+                0.0,
+                47.28
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Where was now the spirit of those whom the world has so greatly feared? The mighty and strong, the great men and chief captains, will be terror-stricken, alongside the self-satisfied and complacent rich. The two extremes of society, every bondman and freeman alike, will cower, beseeching the rocks of the mountains to fall upon them, desperate to escape the wrath brought upon them. It is a humbling reminder that even those who once held power and prominence will find themselves trembling before the judgment of the Lamb.",
+            "wordCount": 89,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.4588002085380096,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.85,
+            "commentatorTierSimilarities": [
+                52.72,
+                0.0,
+                47.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the face of divine judgment, the once feared great men, chief captains, and the strong will be filled with terror. The self-satisfied and complacent rich, along with every bondman and freeman, will tremble in fear. They will beg for the rocks of the mountains to fall on them, seeking escape from the impending wrath. This serves as a humbling reminder that even those in positions of power and authority cannot escape the judgment brought upon them by the Lamb.",
+            "wordCount": 81,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.3727289983950786,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.99,
+            "commentatorTierSimilarities": [
+                49.25,
+                0.0,
+                50.75
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The mighty and strong, along with the great men, chief captains, and the self-satisfied and complacent rich, will be gripped by fear when faced with divine judgment. They will desperately seek refuge as they tremble before the wrath of the Lamb. Every bondman and freeman, representing the two extremes of society, will be filled with terror and plead for the rocks of the mountains to fall upon them. This serves as a humbling reminder that even those in positions of power cannot escape the impending judgment.",
+            "wordCount": 87,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.2765031278054864,
+            "qualityScoreNormalizedComparedToV2BHTs": 33.79,
+            "commentatorTierSimilarities": [
+                49.26,
+                0.0,
+                50.74
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The mighty, great men, chief captains, and self-satisfied rich will be terror-stricken before the Lamb's judgment. This fear will extend to every bondman and freeman, as they desperately plead for the mountains to fall on them. The looming wrath serves as a humbling reminder that even those in power cannot escape divine judgment.",
+            "wordCount": 56,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.3584694089415454,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.51,
+            "commentatorTierSimilarities": [
+                53.43,
+                0.0,
+                46.57
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

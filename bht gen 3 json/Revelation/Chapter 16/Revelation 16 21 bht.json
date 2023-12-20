@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:48:09",
+    "verseRef": "Revelation 16:21",
+    "bestBHT": {
+        "bht": "When the hail of divine wrath descends upon the people, it does not invoke repentance or reverence for God; on the contrary, they blaspheme Him. This is in stark contrast to previous instances where calamities led to acknowledgement and glorification of God. The hailstones themselves are symbolic of God's judgement, and their immense weight signifies the complete and awful destruction that they bring. The men who blaspheme are the ungodly, and their defiance serves as evidence that the final judgement is imminent.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.34,
+        "qualityScore": 1.5246225743853905,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+        "commentatorTierSimilarities": [
+            30.55,
+            36.91,
+            32.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "fell\u2014Greek, 'descends.' upon men\u2014Greek, 'the men.' and men blasphemed God\u2014not those struck who died, but the rest.",
+            "Unlike the result in the case of Jerusalem (Revelation 11:13), where 'the remnant . . . affrighted . . . gave glory to the God of heaven.'",
+            "was\u2014Greek, 'is.'"
+        ],
+        "Albert Barnes": [
+            "Whichever weight is adopted, it is easy to conceive what must be the horror of such a storm, and what destruction it must cause.\" ",
+            "The design of the whole is to show that the destruction would be complete and awful.\" ",
+            "The fair interpretation of prophecy leads us to suppose that that formidable power will, at no very distant period, be overthrown in a manner that would be well represented by such a fearful storm."
+        ],
+        "Marvin Vincent": [
+            "Hailstones are a symbol of divine wrath.",
+            "Hail of a talent's weight; i.e., having each stone of that weight.",
+            "Every stone is therefore explanatory, and not in the text."
+        ],
+        "Philip Schaff": [
+            "Each hailstone is magnified to an enormous extent. Each is a talent, or between 50 and 60 lbs., in weight.\" ",
+            "The \u2018men\u2019 spoken of are again the ungodly, nor is it possible to limit their number to that of those who survive the plague.",
+            "They blaspheme; they are hardened; and, when all that ought to convert \u2018men\u2019 hardens, we have a proof that the hour of final judgment is come."
+        ],
+        "Archibald T. Robertson": [
+            "Because of the plague of hail. 'As a result of the plague of hail.' This punishment had the same effect as in verses Revelation 16:9; Revelation 16:11.",
+            "Hail. As in Revelation 8:17; Revelation 11:19.",
+            "Exceeding great. Emphatic positions at ends of the clause (great--exceedingly)."
+        ],
+        "John Gill": [
+            "Which must be understood not as after the fall of the cities, and the flight of the islands and mountains, but at the same time; and it looks as if such men that shall escape at the battle of Armageddon, that hail stones from heaven will fall upon them and destroy them.",
+            "God's judgments are sometimes signified by hail storms...which may respect the same as here: the Jews now expect a great hail in the times of Gog and Magog.",
+            "It will have the same effect as the fourth and fifth vials: for the plague thereof was exceeding great."
+        ],
+        "John Wesley": [
+            "And a great hail falleth out of heaven \u2014 From which there was no defence.",
+            "From the earthquake men would fly into the fields; but here also they are met by the hail.",
+            "Nor were they secure if they returned into the houses, when each hail-stone weighed sixty pounds."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the hail of divine wrath descends upon the people, it does not invoke repentance or reverence for God; on the contrary, they blaspheme Him. This is in stark contrast to previous instances where calamities led to acknowledgement and glorification of God. The hailstones themselves are symbolic of God's judgement, and their immense weight signifies the complete and awful destruction that they bring. The men who blaspheme are the ungodly, and their defiance serves as evidence that the final judgement is imminent. The hailstorm is an overwhelming force that leaves no one untouched, rendering all attempts at escape or protection futile.",
+            "wordCount": 102,
+            "quoteTokenProportion": 38.16,
+            "qualityScore": 1.504613881274237,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.37,
+            "commentatorTierSimilarities": [
+                28.46,
+                37.44,
+                34.11
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the hail of divine wrath descends upon the people, it does not invoke repentance or reverence for God; on the contrary, they blaspheme Him. This is in stark contrast to previous instances where calamities led to acknowledgement and glorification of God. The hailstones themselves are symbolic of God's judgement, and their immense weight signifies the complete and awful destruction that they bring. The men who blaspheme are the ungodly, and their defiance serves as evidence that the final judgement is imminent.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 1.5246225743853905,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.04,
+            "commentatorTierSimilarities": [
+                30.55,
+                36.91,
+                32.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the hail of divine wrath descends upon men, their response is not one of repentance, but rather blasphemy towards God. This contrast sharply with previous instances where calamity led to acknowledgment and glorification of God. The hailstones symbolize His judgment, with their tremendous weight signifying the utter devastation they bring. The defiant blasphemy of these ungodly men serves as evidence that the final judgment is imminent. The hailstorm is an overwhelming force that renders all attempts at escape or protection futile.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.4674368729101022,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.13,
+            "commentatorTierSimilarities": [
+                30.17,
+                35.92,
+                33.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "As the hail descends, bringing divine wrath upon men, their response is not one of humility, but rather blasphemy towards God. This stands in stark contrast to previous instances where calamity led people to acknowledge and glorify Him. The hailstones, symbolic of God's judgment, are of an immense weight, signifying the complete destruction they bring. This blasphemous response from the ungodly serves as evidence that the final judgment is imminent. The hailstorm, an overwhelming force, leaves no room for escape or protection.",
+            "wordCount": 83,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.4396665652928116,
+            "qualityScoreNormalizedComparedToV2BHTs": 39.21,
+            "commentatorTierSimilarities": [
+                30.32,
+                34.5,
+                35.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the hail of divine wrath descends upon men, they respond not with repentance, but with blasphemous defiance towards God. This stands in contrast to previous instances where calamity led to acknowledgment and glorification of the Almighty. The hailstones serve as a symbol of God's judgment, with their immense weight signifying the complete and devastating destruction they bring. The ungodly respond with blasphemy, providing evidence that the final judgment is imminent. The hailstorm is an overpowering force, leaving no escape or protection from its fury.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.4809206903553773,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.58,
+            "commentatorTierSimilarities": [
+                30.68,
+                35.26,
+                34.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

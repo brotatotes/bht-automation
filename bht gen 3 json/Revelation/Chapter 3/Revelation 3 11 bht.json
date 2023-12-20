@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:41:34",
+    "verseRef": "Revelation 3:11",
+    "bestBHT": {
+        "bht": "Hold fast to the truth and piety you possess, for the Lord's coming is near. This should encourage you to persevere and not let anyone snatch away the crown that is meant for you. The crown represents the future glory and reward that you will receive if you remain faithful. Be on guard against enemies of truth who seek to rob you, and do not be swayed by compromise or ease. The Lord's coming is imminent, giving you the incentive to remain faithful and find consolation in present hardships.",
+        "wordCount": 91,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 2.0651977369175163,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+        "commentatorTierSimilarities": [
+            31.97,
+            32.34,
+            35.69
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I come quickly...to be taken as an encouragement and comfort to the Philadelphian church, arising from the nearness of the Lord\u2019s coming to reward her.\" ",
+            "Hold fast that which thou hast...a treasure, to be firmly grasped, as against those who are ever ready to snatch it away.",
+            "That no one take thy crown...merely to deprive the possessor."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "I come quickly\u2014the great incentive to persevering faithfulness, and the consolation under present trials.",
+            "The word of my patience, or endurance, which He had just commended them for keeping, and which involved with it the attaining of the kingdom; this they would lose if they yielded to the temptation of exchanging consistency and suffering for compromise and ease.",
+            "That no man take thy crown\u2014which otherwise thou wouldst receive: that no tempter cause thee to lose it."
+        ],
+        "Albert Barnes": [
+            "Hold that fast which thou hast - That is, whatever of truth and piety you now possess.",
+            "The truth which is taught bore is, that by negligence or unfaithfulness in duty we may be deprived of the glory which we might have obtained if we had been faithful to our God and Savior.",
+            "We need to be on our constant guard, that, in a world of temptation, where the enemies of truth abound, we may not be robbed of the crown that we might have worn forever."
+        ],
+        "Marvin Vincent": [
+            "The idea is not that of one believer stepping into the place which was designed for another, but of an enemy taking away from another the reward which he himself has forfeited.",
+            "Treat him gently; for I swear that when God sent thee to us, we had already strung pearls to crown him, and he seeth that thou hast snatched the kingdom out of his grasp.",
+            "Thy crown is not the crown which thou hast, but the crown which thou shalt have if thou shalt prove faithful."
+        ],
+        "Philip Schaff": [
+            "He was to 'come' in the first, to 'come as a thief' in the second; now He 'comes quickly.'",
+            "That no one take thy crown, that is, take it away.",
+            "The crown is the crown of future glory, the kingly crown."
+        ],
+        "Archibald T. Robertson": [
+            "I come quickly. As in Revelation 2:16; Revelation 22:7; Revelation 22:12; Revelation 22:20. 'The keynote of the book' (Beckwith). But allow the author's own meaning of 'quickly.'\" ",
+            "Hold fast that which thou hast. Sort of motto for each church (Revelation 2:25).\" ",
+            "That no one take. Purpose clause with \u03b9\u03bd\u03b1 and second aorist active subjunctive of \u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03c9. Here to take away 'thy crown' (Revelation 2:10) which will be thine if really won and not forfeited by failure (2 Timothy 4:8). In that case it will go to another (Matthew 25:28; Romans 11:17)."
+        ],
+        "John Gill": [
+            "Behold, I come quickly...to destroy antichrist, and introduce the latter day glory.",
+            "Hold that fast which thou hast...the doctrines of the Gospel, and the ordinances of it.",
+            "That no man take thy crown...either her honour for her faith and faithfulness, or the glorious things which were spoken of this church state."
+        ],
+        "John Wesley": [
+            "Thy crown \u2014 Which is ready for thee, if thou endure to the end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Hold fast to the truth and piety that you possess, for the Lord's coming is near and should be an encouragement to persevere. Do not let anyone snatch away the crown that is meant for you. This crown represents the future glory and reward that you will receive if you remain faithful. Be on guard against the enemies of truth, for they seek to rob you of the crown that could have been yours forever. Do not be swayed by compromise or ease, but endure through trials and hold firm to the word of endurance. The Lord's coming is imminent, and in it lies the incentive to remain faithful and the consolation in present hardships.",
+            "wordCount": 117,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 2.0592136065432336,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+            "commentatorTierSimilarities": [
+                32.03,
+                32.24,
+                35.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Hold fast to the truth and piety you possess, for the Lord's coming is near. This should encourage you to persevere and not let anyone snatch away the crown that is meant for you. The crown represents the future glory and reward that you will receive if you remain faithful. Be on guard against enemies of truth who seek to rob you, and do not be swayed by compromise or ease. The Lord's coming is imminent, giving you the incentive to remain faithful and find consolation in present hardships.",
+            "wordCount": 91,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.0651977369175163,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.01,
+            "commentatorTierSimilarities": [
+                31.97,
+                32.34,
+                35.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Hold fast to what you have, for the Lord's coming is near. This encouragement should motivate you to endure and not let anyone take away your crown, which represents the future glory and reward that awaits the faithful. Beware of those who would seek to snatch away what could be yours forever. Stay faithful to the truth and piety you possess, guarding against compromise and the ease that would lead to losing the crown meant for you. Be steadfast in anticipation of the Lord's imminent return.",
+            "wordCount": 88,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9719270939691804,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.91,
+            "commentatorTierSimilarities": [
+                32.54,
+                29.0,
+                38.47
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Stay faithful and hold fast to the truth and piety you currently possess, for the Lord's coming is near. This nearness serves as both an incentive to persevere in faithfulness and a source of consolation in trials. Do not allow anyone to snatch away the crown that represents the future glory and reward awaiting the faithful. Remain committed to the endurance and patience that have been commended, guarding against compromise and the temptation for an easier path. The Lord's imminent arrival encourages endurance and steadfastness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 31.75,
+            "qualityScore": 1.8547636993064471,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.01,
+            "commentatorTierSimilarities": [
+                35.99,
+                29.28,
+                34.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Hold fast to the truth and piety you possess, for the Lord's coming is near. This encouragement to persevere arises from the nearness of the Lord's coming to reward the faithful. Do not let anyone snatch away the crown that represents the future glory and reward meant for you. Stay committed to the endurance and patience that have been commended, guarding against compromise and the temptation for an easier path. The Lord's imminent arrival serves as both an incentive to remain faithful and a source of consolation in present trials.",
+            "wordCount": 93,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9298208946879054,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.51,
+            "commentatorTierSimilarities": [
+                35.42,
+                29.91,
+                34.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

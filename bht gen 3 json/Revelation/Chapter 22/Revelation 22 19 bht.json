@@ -1,0 +1,127 @@
+{
+    "timestamp": "12-19-2023 21:51:07",
+    "verseRef": "Revelation 22:19",
+    "bestBHT": {
+        "bht": "Those who add or take away from this book risk being deprived of their share in the tree of life, suffering a curse. The book is to be received as a revelation from God, even if initially obscure, for it will eventually be made clear. Those who corrupt the divine oracles reveal their lack of true religion and will be excluded from heaven. Anyone who tampers with the prophecy of this book will have their portion in the book of life taken away, forever without the joy and happiness it brings.",
+        "wordCount": 91,
+        "quoteTokenProportion": 44.26,
+        "qualityScore": 2.0042485711816145,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.98,
+        "commentatorTierSimilarities": [
+            18.81,
+            45.46,
+            35.73
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The adding and taking away are in the application and reception in the heart."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Shall deprive him of participation in the tree of life.",
+            "(Take away his part, that is, portion) from the tree of life.",
+            "A curse is denounced against those who add to, or take from, it."
+        ],
+        "Albert Barnes": [
+            "The whole book was to be received - with all its fearful truths - as a revelation from God; and however obscure it might seem, in due time it would be made plain.",
+            "Perhaps there is here an intimation that this would be most likely to be done by those who professed to be Christians, and who supposed that their names were in the book of life.",
+            "Such corruption of the divine oracles would show that they had no true religion, and would be excluded from heaven."
+        ],
+        "Marvin Vincent": [
+            "The Book of Life. Read tou xulou the tree. So Rev."
+        ],
+        "Archibald T. Robertson": [
+            "If any man shall take away... Such a man is unworthy of his inheritance.\" ",
+            "Ablative neuter plural articular perfect passive participle in apposition with... out of the holy city.",
+            "Condition of the third class with... for the more usual..."
+        ],
+        "John Gill": [
+            "And if any man shall take away from the prophecy of this book... God shall take away his part out of the book of life...",
+            "The worshippers of the beast... are not written in it.",
+            "Such shall never enter into it, and enjoy the happiness of it, but shall ever be without."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who add or take away from the Book of Revelation risk being deprived of their share in the tree of life, suffering a curse. The book is to be received as a revelation from God, even if initially obscure, for it will eventually be made clear. Those who corrupt the divine oracles reveal their lack of true religion and will be excluded from heaven. Anyone who tampers with the prophecy of this book will have their portion in the book of life taken away, and they will be forever without the joy and happiness it brings.",
+            "wordCount": 97,
+            "quoteTokenProportion": 45.16,
+            "qualityScore": 2.0388364950135447,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.13,
+            "commentatorTierSimilarities": [
+                18.32,
+                46.26,
+                35.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who add or take away from this book risk being deprived of their share in the tree of life, suffering a curse. The book is to be received as a revelation from God, even if initially obscure, for it will eventually be made clear. Those who corrupt the divine oracles reveal their lack of true religion and will be excluded from heaven. Anyone who tampers with the prophecy of this book will have their portion in the book of life taken away, forever without the joy and happiness it brings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 2.0042485711816145,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.98,
+            "commentatorTierSimilarities": [
+                18.81,
+                45.46,
+                35.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Adding or taking away from the Book of Revelation leads to a serious consequence - being deprived of the tree of life and enduring a curse. The book is meant to be received as a divine revelation, even if initially unclear, as it will eventually become evident. Corrupting the divine oracles indicates a lack of genuine faith, resulting in exclusion from heaven. Anyone who tampers with the prophecy within this book will have their part in the book of life taken away, leaving them forever without joy and happiness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 1.9335075686322063,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                19.64,
+                45.14,
+                35.21
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who manipulate or alter the Book of Revelation risk losing their place in the tree of life and enduring a curse. It is crucial to accept this book as a revelation from God, even if its meaning is initially unclear, as it will eventually be made clear. Any corruption of these divine teachings reveals a lack of true faith and leads to exclusion from heaven. Those who tamper with the prophecies in this book will have their share in the book of life taken away, forever separating them from joy and happiness.",
+            "wordCount": 93,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.8699260216407345,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.52,
+            "commentatorTierSimilarities": [
+                18.62,
+                44.94,
+                36.44
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who tamper with the Book of Revelation risk losing their portion in the tree of life and facing a curse. It is essential to accept this book as a divine revelation, even if initially unclear, for it will eventually be made evident. Those who corrupt the sacred teachings show their lack of true faith and will be excluded from heaven. If anyone alters the prophecies in this book, they will have their share in the book of life taken away, forever devoid of joy and happiness.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.9385848897017688,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.8,
+            "commentatorTierSimilarities": [
+                19.22,
+                42.85,
+                37.93
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

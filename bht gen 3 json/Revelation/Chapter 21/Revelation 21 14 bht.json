@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:50:37",
+    "verseRef": "Revelation 21:14",
+    "bestBHT": {
+        "bht": "The twelve apostles serve as foundations alongside Jesus Christ Himself, the true foundation of the Church. The names of the apostles are inscribed on the twelve foundations of the New Jerusalem, representing their everlasting remembrance. These wise master builders, the apostles, have their names written on the foundations, signifying their vital role in the establishment and growth of the Church. This serves as a testament to the importance of their apostolic testimony about Christ, which forms the foundation of the faith delivered to the saints.",
+        "wordCount": 85,
+        "quoteTokenProportion": 33.33,
+        "qualityScore": 2.1289118219823306,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+        "commentatorTierSimilarities": [
+            36.64,
+            26.84,
+            36.52
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Peter is not the only apostolic rock on whose preaching Christ builds His Church. Christ Himself is the true foundation...\" (Commentary)",
+            "The twelve are foundations only in regard to their apostolic testimony concerning Him.\" (Commentary)",
+            "As architects often have their names inscribed on their great works, so the names of the apostles shall be held in everlasting remembrance.\" (Commentary)"
+        ],
+        "Albert Barnes": [
+            "The former would seem to be the most probable, as the latter would indicate comparative feebleness and liability to fall.",
+            "That is, the names of the apostles were cut or carved in them so as to be conspicuous.",
+            "Of the Lamb of God; the Messiah."
+        ],
+        "Marvin Vincent": [
+            "Foundations [\u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03bf\u03c5\u03c2] . See on the kindred verb qemeliwsei shalt settle, 1 Peter 5:10.",
+            "In them the names [\u03b5\u03bd \u03b1\u03c5\u03c4\u03bf\u03b9\u03c2 \u03bf\u03bd\u03bf\u03bc\u03b1\u03c4\u03b1] .",
+            "The correct reading is ejp' aujtwn dwdeka ojnomata, on them twelve names."
+        ],
+        "Philip Schaff": [
+            "We are not to think of foundations buried in the earth, but of great and massive stones rising above the soil as a pediment sustaining the whole structure.",
+            "The twelve Apostles are 'Apostles of the Lamb,' placed by Him in their several positions, and fulfilling in Him their several functions.",
+            "The whole passage is symbolical; the Jewish imagery could not have admitted thirteen instead of twelve foundations, and St. Paul is no more excluded from the number of Apostles than are Gentile Christians from the happiness of the city."
+        ],
+        "Archibald T. Robertson": [
+            "Twelve foundations (\u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03bf\u03c5\u03c2 \u03b4\u03c9\u03b4\u03b5\u03ba\u03b1). Foundation stones, old adjective (from \u03b8\u03b5\u03bc\u03b1, from \u03c4\u03b9\u03b8\u03b7\u03bc), here as in 1 Corinthians 3:11; 2 Timothy 2:19, with \u03bb\u03b9\u03b8\u03bf\u03c5\u03c2 (stones understood), though often neuter substantive to \u03b8\u03b5\u03bc\u03b5\u03bb\u03b9\u03bf\u03bd (Luke 6:48; Acts 16:26).",
+            "Twelve because of the twelve apostles as foundation stones (Ephesians 2:20).",
+            "Jesus had spoken of twelve thrones for the apostles (Matthew 19:28); names of all twelve are here written, not just that of Peter, as some would argue from Matthew 16:18."
+        ],
+        "John Gill": [
+            "Christ is the one and only foundation of his church and people, of the covenant of grace, and of salvation; and of faith, hope, peace, and joy, and of eternal happiness, and so of this glorious state of the church.",
+            "He will be the light and temple of it, the glory and safety of it; he will be all in all in it.",
+            "These wise master builders will be had in everlasting remembrance."
+        ],
+        "John Wesley": [
+            "And the wall of the city had twelve foundations, and on them the names of the twelve apostles of the Lamb.\" ",
+            "Figuratively showing that the inhabitants of the city had built only on that faith which the apostles once delivered to the saints."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Jesus Christ is not only the foundation of His Church, but He is also the true foundation Himself. The twelve apostles serve as foundations in terms of their testimony about Christ. Their names will be forever remembered, inscribed on the foundations as a testament to their great works. Just as architects have their names inscribed on their buildings, the apostles' names are written on the twelve foundations of the New Jerusalem. This symbolizes the importance and permanence of their role in the establishment and growth of the Church. While some argue that only Peter's name should be written based on Matthew 16:18, all twelve apostles are recognized in the everlasting remembrance of their foundational impact.",
+            "wordCount": 115,
+            "quoteTokenProportion": 44.93,
+            "qualityScore": 1.9253684145244125,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.36,
+            "commentatorTierSimilarities": [
+                39.93,
+                26.51,
+                33.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus Christ Himself is the true foundation upon which His Church is built. The twelve apostles, including Peter, serve as foundations through their testimony about Him. The names of the apostles are inscribed on the twelve foundations, symbolizing their everlasting remembrance and the importance of their role in the establishment and growth of the Church. This highlights the significance of their apostolic work and their contribution to the faith that was once delivered to the saints.",
+            "wordCount": 76,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.9738850149248939,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.97,
+            "commentatorTierSimilarities": [
+                36.31,
+                26.46,
+                37.23
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Christ is not the only apostolic rock on whose preaching the Church is built. The twelve apostles serve as foundations through their testimony about Him. Just as architects often have their names inscribed on their great works, the names of the apostles will be held in everlasting remembrance, written on the twelve foundations of the New Jerusalem. All twelve apostles are included, not just Peter, as some argue from Matthew 16:18. This signifies the significance of their apostolic work and their role in the establishment and growth of the Church.",
+            "wordCount": 89,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.0094385363697436,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.15,
+            "commentatorTierSimilarities": [
+                40.81,
+                27.16,
+                32.03
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The twelve apostles, including Peter, are foundations of the Church. Their names are inscribed on the twelve foundations of the New Jerusalem, symbolizing their everlasting remembrance and significance in the establishment and growth of the Church. Although Christ is the true foundation, the apostles play a vital role through their testimony about Him. Their names serve as a testament to the great works accomplished by these wise master builders. This highlights their foundational impact and the faith they delivered to the saints.",
+            "wordCount": 82,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 1.84238867636205,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                34.92,
+                26.24,
+                38.85
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The twelve apostles serve as foundations alongside Jesus Christ Himself, the true foundation of the Church. The names of the apostles are inscribed on the twelve foundations of the New Jerusalem, representing their everlasting remembrance. These wise master builders, the apostles, have their names written on the foundations, signifying their vital role in the establishment and growth of the Church. This serves as a testament to the importance of their apostolic testimony about Christ, which forms the foundation of the faith delivered to the saints.",
+            "wordCount": 85,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.1289118219823306,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                36.64,
+                26.84,
+                36.52
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

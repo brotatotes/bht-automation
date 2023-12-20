@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:40:10",
+    "verseRef": "Revelation 1:6",
+    "bestBHT": {
+        "bht": "Through Christ, believers are made a kingdom consisting of those who are His, and they will reign with Him. They will be both kings and priests, with individual access to God and the ability to offer acceptable worship. This priesthood of believers is grounded in the priesthood of Christ. In this kingdom, the distinction between priests and people will cease, as all will have equal access to God. Christians have the privilege and power to rule as kings and offer worship as priests.",
+        "wordCount": 83,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 2.2985330880808608,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+        "commentatorTierSimilarities": [
+            32.02,
+            41.76,
+            26.23
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "he made [us] a kingdom...consisting of those who are His, and consummated at His glorious coming.\" ",
+            "This kingdom is one in which His saints will themselves reign... 'and they shall reign upon the earth.'",
+            "priests...to God and His Father, to Him be... the glory and the might unto the ages (i.e. for ever)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The saints shall constitute peculiarly a kingdom of God, and shall themselves be kings.",
+            "They are kings because they are priests: the priesthood is the continuous ground and legitimization of their kingship.",
+            "The distinction of priests and people, nearer and more remote from God, shall cease; all shall have nearest access to Him."
+        ],
+        "Albert Barnes": [
+            "Christ had made us in fact kings and priests; that is, Christians are exalted to the dignity and are invested with the office.",
+            "The word 'kings,' as applied to them, refers to the exalted rank and dignity which they will have; to the fact that they, in common with their Saviour, will reign triumphant over all enemies.",
+            "The word 'priests' refers to the fact that they are engaged in the holy service of God, or that they offer to him acceptable worship."
+        ],
+        "Marvin Vincent": [
+            "Priests indicates their individual position. Peter observes the same distinction (1 Peter 2:5) in the phrases living stones (individuals) and a spiritual house (the body collectively), and combines both kings and priests in another collective term, royal priesthood (verse 9). The priesthood of believers grows out of the priesthood of Christ.",
+            "The consummation of this ideal appears in Revelation 21:22, where the heavenly Jerusalem is represented as without temple. It is all temple. 'It is the abolition of the distinction between holy and profane...through all being henceforth holy, all being brought to the nearest whereof it is capable, to Him' (Trench).",
+            "Trench remarks upon the prominence of the doxological element in the highest worship of the Church as contrasted with the very subordinate place which it often occupies in ours. 'We can perhaps make our requests known unto God, and this is well, for it is prayer; but to give glory to God, quite apart from anything to be directly gotten by ourselves in return, this is better, for it is adoration.'"
+        ],
+        "Archibald T. Robertson": [
+            "The idea here is that Christians are the true spiritual Israel in God's promise to Abraham as explained by Paul.",
+            "Each member of this true kingdom is a priest unto God, with direct access to him at all times.",
+            "The adoration of Christ which vibrates in this doxology is one of the most impressive features of the book."
+        ],
+        "John Gill": [
+            "The saints are made 'kings' by Christ; they are so now; they have received a kingdom of grace, which cannot be taken away; and they have the power of kings over sin, Satan, and the world, and all their enemies.",
+            "And they become such by being the sons of God, which power and privilege they receive from Christ, and so are heirs of God, and joint heirs with him, and by being united to him.",
+            "And he also makes them 'priests' to offer up the spiritual sacrifices of prayer and praise, and those of a broken heart, and of a contrite spirit, and even their souls and bodies, as a holy, living, and acceptable sacrifice unto God, by anointing and sanctifying them by his Spirit."
+        ],
+        "John Wesley": [
+            "To him that loveth us, and... hath washed us... with his own blood.\" ",
+            "...hath made us kings - Partakers... heirs of his eternal, kingdom.",
+            "To him be the glory... And the might."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Bible verse reminds us that through Christ, believers are made part of a kingdom where they will reign with Him. They are both kings and priests, with individual access and direct connection to God. This priesthood stems from the priesthood of Christ and signifies the close relationship between God and His people. In this true kingdom, the distinction between priests and people is abolished, as all have equal proximity to God. It is important for believers to focus not only on making requests to God but also on giving Him glory through adoration, as this adoration is an integral part of true worship. This verse highlights the significance of Christians as the true spiritual Israel, and through Christ, they have the privilege and power to rule as kings and offer worship as priests.",
+            "wordCount": 134,
+            "quoteTokenProportion": 44.16,
+            "qualityScore": 2.2344351543138847,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.64,
+            "commentatorTierSimilarities": [
+                33.7,
+                40.08,
+                26.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Through Christ, believers are made a kingdom consisting of those who are His, and they will reign with Him. They will be both kings and priests, with individual access to God and the ability to offer acceptable worship. This priesthood of believers is grounded in the priesthood of Christ. In this kingdom, the distinction between priests and people will cease, as all will have equal access to God. It is important for believers to not only make requests but also give glory to God through adoration, which is a vital part of true worship. Christians are the true spiritual Israel, with the privilege and power to rule as kings and offer worship as priests.",
+            "wordCount": 114,
+            "quoteTokenProportion": 51.52,
+            "qualityScore": 2.2157419122831428,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                33.02,
+                40.7,
+                26.28
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers are made a kingdom through Christ and will reign with Him. They are both kings and priests, with individual access to God. This priesthood of believers stems from the priesthood of Christ. In this kingdom, the distinction between priests and people will cease, with all having equal access to God. Giving glory to God through adoration is an important aspect of true worship. Christians, as the true spiritual Israel, have the privilege and power to rule as kings and offer worship as priests.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 2.2008146195397824,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.52,
+            "commentatorTierSimilarities": [
+                33.47,
+                39.72,
+                26.82
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Through Christ, believers are made a kingdom consisting of those who are His, and they will reign with Him. They will be both kings and priests, with individual access to God and the ability to offer acceptable worship. This priesthood of believers is grounded in the priesthood of Christ. In this kingdom, the distinction between priests and people will cease, as all will have equal access to God. Christians have the privilege and power to rule as kings and offer worship as priests.",
+            "wordCount": 83,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 2.2985330880808608,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.77,
+            "commentatorTierSimilarities": [
+                32.02,
+                41.76,
+                26.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through Christ, believers are made a kingdom consisting of those who are His, and they will reign with Him. They are both kings and priests, with individual access to God and the ability to offer acceptable worship. This priesthood of believers is grounded in the priesthood of Christ. In this kingdom, the distinction between priests and people will cease, as all will have equal access to God. Christians have the privilege and power to rule as kings and offer worship as priests.",
+            "wordCount": 82,
+            "quoteTokenProportion": 48.94,
+            "qualityScore": 2.2924297025098834,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.56,
+            "commentatorTierSimilarities": [
+                32.04,
+                41.63,
+                26.33
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

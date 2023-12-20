@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:42:54",
+    "verseRef": "Revelation 5:4",
+    "bestBHT": {
+        "bht": "John's abundant tears in the book of Revelation reveal his earnest desire to comprehend the revelations of the future that he had been promised. His weeping acts as a representation of the human longing to penetrate the mysteries of what is to come, accompanied by the sorrow that arises when such efforts fail. Despite his tears, John recognizes that there is one who possesses the authority and wisdom to open the sealed book. Thus, his tears serve as a reminder for us to approach the book with humility and a teachable spirit to truly fathom its profound teachings.",
+        "wordCount": 99,
+        "quoteTokenProportion": 36.76,
+        "qualityScore": 1.8605706879914419,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+        "commentatorTierSimilarities": [
+            26.14,
+            40.04,
+            33.82
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And I wept much.\" ",
+            "There was no weakness of faith.",
+            "Christ... is not yet revealed to him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "One oldest manuscript, ORIGEN, CYPRIAN, and HILARY omit the clause.",
+            "John having been promised a revelation of 'things which must be hereafter,' weeps now at his earnest desire being apparently frustrated.",
+            "He is a pattern to us to imitate, as an eager and teachable learner of the Apocalypse."
+        ],
+        "Albert Barnes": [
+            "The tears of the apostle here may be regarded as an illustration of two things which are occurring constantly in the minds of people: The strong desire to penetrate the future [...] and The weeping of the apostle may be regarded as an instance of the deep grief which people often experience when all efforts to penetrate the future fail.",
+            "Often is the soul overpowered with grief, and often are the eyes filled with sadness at the reflection that there is an absolute limit to the human powers; that all that man can arrive at by his own efforts is uncertain conjecture, and that there is no way possible by which he can make nature speak out and disclose what is to come.",
+            "Nowhere does man find himself more fettered and limited in his powers than here; nowhere does he feel that there is such an intense disproportion between his desires and his attainments."
+        ],
+        "Marvin Vincent": [
+            "I wept [\u03b5\u03ba\u03bb\u03b1\u03b9\u03bf\u03bd] . Audible weeping. See on Luke 6:21."
+        ],
+        "Philip Schaff": [
+            "There is nothing in this weeping inconsistent with the fact that a revelation had been promised.",
+            "Therefore he weeps because he fears that the revelation may be already about to close.",
+            "One, however, there is who is worthy to do what no other creature can."
+        ],
+        "Archibald T. Robertson": [
+            "I wept much... I kept on weeping much; natural tense in these vivid visions.\" ",
+            "Perhaps weeping aloud.",
+            "Worthy."
+        ],
+        "John Gill": [
+            "But for the sake of the church of God, whose representative he was, and to whom the knowledge of this book, and the things contained in it, he judged must be very useful and profitable.",
+            "Because there was no creature in heaven, earth, or under it, that were of dignity and authority, as well as of ability, to open the book by unsealing it.",
+            "The phrase of being worthy to look on it seems to be Jewish; of the book of the generation of Adam, Genesis 5:1, the Jews say that 'whoever is worthy to look in it', knows by it the wisdom which is from above.'"
+        ],
+        "John Wesley": [
+            "The Revelation was not written without tears; neither without tears will it be understood.",
+            "How far are they from the temper of St. John who inquire after anything rather than the contents of this book!",
+            "Yea, who applaud their own clemency if they excuse those that do inquire into them!"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 5:4, John wept much as his earnest desire to understand the revelation of things which must be hereafter seemingly went unfulfilled. His tears reflect the strong desire of many to penetrate the future and the grief experienced when all efforts to do so fail. Despite the promise of a revelation, John fears that it may be closing, leading to his weeping. However, there is one who is worthy, who possesses both dignity and authority, to open the sealed book. It is important for us to imitate John's eagerness and teachability as we strive to understand the contents of this book. May we approach the Revelation with humility and a deep appreciation for its significance.",
+            "wordCount": 116,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.752497173925195,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.61,
+            "commentatorTierSimilarities": [
+                25.62,
+                41.15,
+                33.23
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "John's tears in the book of Revelation signify his deep grief and strong desire to understand the future revelations he was promised. He wept abundantly, exemplifying the limitations of human knowledge and the frustration felt when trying to unveil what lies ahead. However, there is one who is worthy to open the sealed book, possessing the authority and wisdom that no other creature possesses. John's tears serve as a reminder that true understanding of the book comes with earnestness, humility, and a willingness to embrace its profound teachings.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.849560621001109,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.84,
+            "commentatorTierSimilarities": [
+                24.48,
+                39.82,
+                35.7
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the book of Revelation, John's abundant tears reflect his intense desire for the promised revelation of future events. His weeping serves as a representation of the human longing to penetrate the mysteries of the future and the grief experienced when efforts to do so fail. However, amidst this longing, John recognizes that there is one who is worthy to open the sealed book. This serves as a reminder for us to approach the book with humility, as only through earnestness and teachability can we truly grasp its profound teachings.",
+            "wordCount": 91,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 1.7784605099885673,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.48,
+            "commentatorTierSimilarities": [
+                24.25,
+                42.04,
+                33.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "John's abundant tears in the book of Revelation reveal his earnest desire to comprehend the revelations of the future that he had been promised. His weeping acts as a representation of the human longing to penetrate the mysteries of what is to come, accompanied by the sorrow that arises when such efforts fail. Despite his tears, John recognizes that there is one who possesses the authority and wisdom to open the sealed book. Thus, his tears serve as a reminder for us to approach the book with humility and a teachable spirit to truly fathom its profound teachings.",
+            "wordCount": 99,
+            "quoteTokenProportion": 36.76,
+            "qualityScore": 1.8605706879914419,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.21,
+            "commentatorTierSimilarities": [
+                26.14,
+                40.04,
+                33.82
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the book of Revelation, John's abundant tears reflect his deep longing to understand the promised revelations of what is to come. His weeping serves as a poignant reminder of the limitations of human knowledge and the grief that arises when attempts to uncover the future prove futile. However, amidst his tears, John acknowledges that there is one who possesses the authority and wisdom to open the sealed book. His tears urge us to approach the book with humility and a genuine eagerness to learn, embracing its profound teachings.",
+            "wordCount": 90,
+            "quoteTokenProportion": 30.65,
+            "qualityScore": 1.8370900207087357,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.42,
+            "commentatorTierSimilarities": [
+                26.31,
+                39.52,
+                34.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

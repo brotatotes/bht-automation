@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:42:32",
+    "verseRef": "Revelation 5:9",
+    "bestBHT": {
+        "bht": "The theme of redemption is embodied in the continuous, unceasing worship of the election-Church, gathered from Jews and Gentiles. They sing a new song, symbolizing the worthiness of the Lamb to open the sealed book. This song of redemption emphasizes the value of Christ's purchase with his precious blood. His sacrifice has united believers from every tribe, tongue, people, and nation, rescuing them from the servitude of Satan. The new song reflects the everlasting praises and fresh thoughts surrounding the act of redemption through the blood of the Lamb.",
+        "wordCount": 91,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.8164339915482222,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+        "commentatorTierSimilarities": [
+            29.34,
+            38.06,
+            32.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The theme of redemption is ever new, ever suggesting fresh thoughts of praise, embodied in the 'new song.'\" ",
+            "The present election-church gathered out of the world, as distinguished from the peoples gathered to Christ as the subjects, not of an election, but of a general and world-wide conversion of all nations.",
+            "Thus there is here marked the election-Church gathered from Jews and Gentiles."
+        ],
+        "Albert Barnes": [
+            "The song of redemption was a different song, and is one that would never have been sung there if man had not fallen, and if the Redeemer had not died.",
+            "He who has died to save the soul is worthy of all honor, and is suited to accomplish what no other being in the universe can do.",
+            "The true nature of redemption, that by the price paid we are rescued from the servitude of Satan, and are henceforth to regard ourselves as belonging unto God."
+        ],
+        "Marvin Vincent": [
+            "Present tense, denoting the continuous, unceasing worship of heaven.",
+            "The value of the thing purchased being contained in the price.",
+            "Often in the New Testament of the twelve tribes of Israel."
+        ],
+        "Archibald T. Robertson": [
+            "They sing (\u03b1\u03b9\u03b4\u03bf\u03c5\u03c3\u03b9\u03bd). Present active indicative of \u03b1\u03b9\u03b4\u03c9.",
+            "A new song (\u03c9\u03b9\u03b4\u03b7\u03bd \u03ba\u03b1\u03b9\u03bd\u03b7\u03bd).",
+            "The blood of Christ as the price of our redemption runs all through the Apocalypse."
+        ],
+        "John Gill": [
+            "Upon a new occasion and subject, redemption by the blood of the Lamb, and his worthiness to open the sealed book; and in distinction from the old song of Moses and the children of Israel at the Red sea.",
+            "Thou art worthy to take the book, and open the seals thereof.",
+            "This shows, that as the four living creatures, and four and twenty elders, were not angels, so they were not representatives of the Jewish church; or the patriarchs and prophets of the Old Testament; not even the apostles of the New; for they were all Jews, and could not be said to be redeemed out of every tongue, nation, and people."
+        ],
+        "John Wesley": [
+            "And they sing a new song \u2014 One which neither they nor any other had sung before.",
+            "Thou hast redeemed us \u2014 So the living creatures also were of the number of the redeemed.",
+            "This does not so much refer to the act of redemption, which was long before, as to the fruit of it; and so more directly to those who had finished their course, 'who were redeemed from the earth,' Revelation 14:1, out of every tribe, and tongue, and people, and nation - That is, out of all mankind."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Revelation reveals the continuous and unceasing worship of the election-Church, composed of both Jews and Gentiles. They sing a new song, the theme of which is redemption by the blood of Christ, symbolizing the worthiness of the Lamb to open the sealed book. This song of redemption highlights the unique role of Jesus in saving mankind from the servitude of Satan. Through His sacrifice, He has rescued believers from every tribe, tongue, people, and nation, forming a new covenant and uniting them as the redeemed. The song of redemption is a testament to the ever-fresh thoughts of praise and the everlasting value of Christ's purchase with His precious blood.",
+            "wordCount": 115,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.8514395820008085,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.9,
+            "commentatorTierSimilarities": [
+                28.06,
+                37.34,
+                34.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The book of Revelation unveils the continuous worship of the election-Church, composed of both Jews and Gentiles, as they sing a new song. This song symbolizes redemption by the blood of Christ, showcasing His worthiness to open the sealed book. The unique role of Jesus in saving humanity is highlighted, as He rescues believers from Satan's servitude. Through His sacrifice, He forms a new covenant, uniting people from every tribe, tongue, nation, and people. The song of redemption celebrates the unceasing praise and eternal value of Christ's purchase.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.98,
+            "qualityScore": 1.7692448968582015,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.17,
+            "commentatorTierSimilarities": [
+                30.05,
+                37.65,
+                32.3
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The theme of redemption is embodied in the continuous, unceasing worship of the election-Church, gathered from Jews and Gentiles. They sing a new song, symbolizing the worthiness of the Lamb to open the sealed book. This song of redemption emphasizes the value of Christ's purchase with his precious blood. His sacrifice has united believers from every tribe, tongue, people, and nation, rescuing them from the servitude of Satan. The new song reflects the everlasting praises and fresh thoughts surrounding the act of redemption through the blood of the Lamb.",
+            "wordCount": 91,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.8164339915482222,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.74,
+            "commentatorTierSimilarities": [
+                29.34,
+                38.06,
+                32.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The continuous worship of the election-Church gathers believers from Jews and Gentiles, expressing the theme of redemption in a new song. This song emphasizes the worthiness of the Lamb, symbolizing Christ's sacrifice and the unceasing praise offered in heaven. The blood of Christ, representing the price of our redemption, is woven throughout the book of Revelation. Through his precious blood, believers from every tribe, tongue, people, and nation are united, forming a redeemed community that worships in eternal gratitude.",
+            "wordCount": 81,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.8523846183878194,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.93,
+            "commentatorTierSimilarities": [
+                30.57,
+                37.42,
+                32.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The new song sung by the election-Church, made up of believers from Jews and Gentiles, celebrates the theme of redemption and the continuous worship in heaven. This song highlights the worthiness of the Lamb, whose blood was the price of our redemption. The book of Revelation emphasizes the unceasing praise and fresh thoughts surrounding this redemption, uniting believers from every tribe, tongue, people, and nation. It is a testament to the eternal value of Christ's sacrifice and the unending worship of the redeemed.",
+            "wordCount": 85,
+            "quoteTokenProportion": 29.82,
+            "qualityScore": 1.86896057424092,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.48,
+            "commentatorTierSimilarities": [
+                29.09,
+                38.04,
+                32.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

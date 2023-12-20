@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:45:11",
+    "verseRef": "Revelation 10:1",
+    "bestBHT": {
+        "bht": "This vision unveils a mighty angel, symbolizing God's judgment, cloaked in a cloud and with feet of fire. The rainbow adorning the angel's head signifies divine favor, akin to a previous mention. The angel's face emanates the brilliance of the sun, reminiscent of Christ's glorious radiance. These images suggest that the new era will bring enlightenment, knowledge, and a benevolent impact. Though the prayers of the saints may still await full answers, the presence of this angel assures them that the culmination is nearing, fortifying their faith against dark forces.",
+        "wordCount": 94,
+        "quoteTokenProportion": 27.54,
+        "qualityScore": 1.932148722115602,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+        "commentatorTierSimilarities": [
+            31.84,
+            35.78,
+            32.38
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The last vision witnessed the destruction of a third part of the ungodly by the horsemen from the East, and left the remainder in a state of impenitent idolatry and sin.\" ",
+            "Manifestly then the prayers of the saints are not yet answered, however near the time may be for that answer.",
+            "If then this Episode contains some assurance of the approach of that answer in its completeness, it will be what we might expect at this point in the series of visions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "another mighty angel\u2014as distinguished from the mighty angel who asked as to the former and more comprehensive book, 'Who is worthy to open the book?'\" ",
+            "clothed with a cloud\u2014the emblem of God coming in judgment.",
+            "feet as pillars of fire\u2014(Revelation 1:15; Ezekiel 1:7). The angel, as representative of Christ, reflects His glory and bears the insignia attributed in Revelation 1:15; Revelation 1:16; Revelation 4:3, to Christ Himself."
+        ],
+        "Albert Barnes": [
+            "He looked with a benign aspect upon people, and the effect of his coming would be like that of sunshine after a storm.",
+            "The brightness is probably the main idea, but the appearance of the angel would naturally suggest the ideas of intelligence and benignity.",
+            "The symbol would denote that the new order of things would be attended with light; with knowledge; with what would be benign in its influence on human affairs."
+        ],
+        "Marvin Vincent": [
+            "A cloud. The expression occurs seven times in Revelation, and in all of them is connected with the Son of Man.",
+            "Rainbow. See on ch. Revelation 4:3.",
+            "Pillars of fire. Compare ch. 1 15."
+        ],
+        "Philip Schaff": [
+            "The expression \u2018a cloud,\u2019 or \u2018the cloud,\u2019 or \u2018clouds,\u2019 is met with seven times in the Apocalypse, and in five of these it is distinctly connected with the Son of man as He comes to judgment.",
+            "And the rainbow was upon his head. The article does not lead us to the well-known ordinary rainbow, or to the rainbow of Genesis 9:13, but to that already mentioned at chap. Revelation 4:3.",
+            "And his face was as the sun. These words take us back to chap. Revelation 1:16, and again bring the sun before us in a light similar to that in which it is presented there, as the source of burning, scorching heat."
+        ],
+        "Archibald T. Robertson": [
+            "But the seventh trumpet does not sound till Revelation 11:15.",
+            "The rainbow (\u03b7 \u03b9\u03c1\u03b9\u03c2). See Revelation 4:3 for this word.",
+            "As the sun (\u03c9\u03c2 \u03bf \u03b7\u03bb\u03b9\u03bf\u03c2). The very metaphor applied to Christ in Revelation 1:16."
+        ],
+        "John Gill": [
+            "He appears now as 'another' angel, distinct from the seven angels who had trumpets given them to sound, and six of which had already sounded.",
+            "Christ appearing in this form at this time when the world was overflowed with Popery and Mahometanism, shows that God was still mindful of his covenant.",
+            "His goings forth towards them in a way both of providence and grace, were in such a manner, as to strengthen and confirm them in the faith of him against all the powers of hell and earth."
+        ],
+        "John Wesley": [
+            "And a rainbow upon his head \u2014 A lovely token of the divine favour.",
+            "And yet it is not too glorious for a creature: the woman, Revelation 12:1, is described more glorious still.",
+            "And his face as the sun \u2014 Nor is this too much for a creature: for all the righteous 'shall shine forth as the sun,' Matthew 13:43."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse portrays the image of a mighty angel, clothed with a cloud and feet as pillars of fire, coming as an emblem of God's judgment. The angel's appearance includes a rainbow upon his head, reminiscent of the one seen in Revelation 4:3. This symbol signifies divine favor and demonstrates that the new order of things will be attended by light, knowledge, and a benign influence. The angel's face is described as the sun, which evokes both brightness and burning heat, reflecting the radiant glory attributed to Christ in Revelation 1:16. This vision serves as a reminder that God remains faithful to His covenant and continues to strengthen and confirm the saints in their faith against the powers of darkness. Although the prayers of the saints may not yet be fully answered, the presence of this angel assures them that the time for their complete answer draws near.",
+            "wordCount": 149,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 2.091779347152364,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.89,
+            "commentatorTierSimilarities": [
+                33.92,
+                34.66,
+                31.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This vision reveals a mighty angel, clothed with a cloud, representing God's judgment, with feet like pillars of fire. The angel bears a rainbow, symbolizing divine favor, similar to the one mentioned earlier. His face shines like the sun, reminiscent of Christ's radiance. This image signifies that the new order will bring light, knowledge, and a benevolent impact. While the saints' prayers may not be fully answered yet, the presence of this angel assures their forthcoming complete answer, strengthening their faith against the powers of darkness.",
+            "wordCount": 88,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 1.898685615029195,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.47,
+            "commentatorTierSimilarities": [
+                30.29,
+                36.47,
+                33.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This vision presents a powerful angel, clothed with a cloud symbolizing God's judgment, and feet resembling fiery pillars. The rainbow on his head represents divine favor, similar to the one mentioned earlier. His face reflects the brightness of the sun, echoing the radiant glory ascribed to Christ. This imagery suggests that with the new order, there will be enlightenment, knowledge, and a benign influence. Although the prayers of the saints may not be completely fulfilled yet, the presence of this angel assures them that their complete answer is approaching, strengthening their faith against the forces of darkness.",
+            "wordCount": 98,
+            "quoteTokenProportion": 29.73,
+            "qualityScore": 1.8796354447422137,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.84,
+            "commentatorTierSimilarities": [
+                30.19,
+                38.13,
+                31.68
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This vision displays a mighty angel, clothed with a cloud, symbolizing God's judgment, and feet like pillars of fire. The rainbow upon his head signifies divine favor, as seen in a previous mention. His face shines like the sun, reminiscent of the radiant glory attributed to Christ. These elements suggest that the new order will bring light, knowledge, and a benevolent influence. Though the prayers of the saints may not yet be fully answered, the presence of this angel reassures them that the complete fulfillment is drawing near, strengthening their faith against the powers of darkness.",
+            "wordCount": 97,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 1.8666754779102577,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.41,
+            "commentatorTierSimilarities": [
+                30.01,
+                36.48,
+                33.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "This vision unveils a mighty angel, symbolizing God's judgment, cloaked in a cloud and with feet of fire. The rainbow adorning the angel's head signifies divine favor, akin to a previous mention. The angel's face emanates the brilliance of the sun, reminiscent of Christ's glorious radiance. These images suggest that the new era will bring enlightenment, knowledge, and a benevolent impact. Though the prayers of the saints may still await full answers, the presence of this angel assures them that the culmination is nearing, fortifying their faith against dark forces.",
+            "wordCount": 94,
+            "quoteTokenProportion": 27.54,
+            "qualityScore": 1.932148722115602,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.59,
+            "commentatorTierSimilarities": [
+                31.84,
+                35.78,
+                32.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

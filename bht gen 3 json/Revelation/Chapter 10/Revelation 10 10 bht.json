@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:45:15",
+    "verseRef": "Revelation 10:10",
+    "bestBHT": {
+        "bht": "The angel's emphasis on the bitterness of the book's contents guards against misinterpretations, while John's prompt obedience in eating the book showcases his immediate response. The reversal of the results - sweetness in the mouth, bitterness in the belly - reflects John's actual experience. The nature of the tidings, both sweet (the Lord's love for the Church) and bitter (the Church's potential to forget Him), brings mixed emotions. The Gospel brings pleasure to faithful ministers, yet can also cause sadness and sorrow in their preaching and to those who hear it.",
+        "wordCount": 95,
+        "quoteTokenProportion": 30.16,
+        "qualityScore": 1.7697980161285756,
+        "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+        "commentatorTierSimilarities": [
+            25.73,
+            31.75,
+            42.51
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Angel, dwelling most on the most important thing, the working of the contents of the book, puts the bitterness first.\" ",
+            "The text itself will guard us against some misinterpretations of this bitterness and sweetness.",
+            "Nor again must we invert the order, imagining [us others] that the first bitterness leads afterwards to sweetness and joy, or [as others again] that the bitterness in the belly indicates the reception by the Evangelist, but the sweetness in the mouth, the declaration to others."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "10. the little book\u2014So A and",
+            "\tC, but B, Aleph, and Vulgate, \"the book.\" ",
+            "\t",
+            "was bitter\u2014Greek,",
+            "\t\"was embittered."
+        ],
+        "Albert Barnes": [
+            "And as soon as I had eaten it, my belly was bitter.",
+            "The effect immediately followed: that is, as soon as he was made acquainted with the contents of the book.",
+            "Either... requiring him to deliver some message of woe and wrath which it would be painful to deliver, or that the consequence of receiving it was to bring on bitter persecutions and trials."
+        ],
+        "Philip Schaff": [
+            "The double character of this effect was not produced by different parts of the contents of the book, as if these were partly sweet partly bitter, partly of joyful partly of sorrowful tidings.",
+            "The bitterness proceeds from the nature of the tidings.",
+            "To learn that the Lord had chosen out of the nations a people for His name; that He \u2018loved the Church, and gave Himself up for it, that He might sanctify it, having cleansed it by the washing of water with the Word, that He might present the Church to Himself a glorious Church, not having spot or wrinkle or any such thing; but that it should be holy and without blemish;\u2019 such tidings could not fail to be sweet. But then to learn still further that that Church would forget her Lord, yield to the seductions of the world, and become lukewarm in the service of One who had bought her with His own precious blood, was bitter."
+        ],
+        "Archibald T. Robertson": [
+            "I took--and ate it up...to show John's prompt obedience to the command.",
+            "The order of the results is here changed to the actual experience (sweet in the mouth, bitter in the belly).",
+            "The simplex verb \u03b5\u03c6\u03b1\u03b3\u03bf\u03bd (I ate) is now used, not the compound \u03ba\u03b1\u03c4\u03b5\u03c6\u03b1\u03b3\u03bf\u03bd (I ate up)."
+        ],
+        "John Gill": [
+            "And it was in my mouth sweet as honey; so is the Gospel in the mouth of a faithful minister of it...",
+            "The view it gave him of the glorious state of the church, and kingdom of Christ on earth, filled with unspeakable pleasure.",
+            "So the ministration of the Gospel occasions bitterness, grief, and sorrow, to the preachers and professors of it..."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The angel focuses on the bitterness of the book's contents, emphasizing that interpreting the bitterness as leading to subsequent sweetness or as indicating the evangelist's reception and declaration is incorrect. John's immediate obedience to eat the book highlights his promptness, and the reversal of the order of the results indicates his actual experience--sweetness in the mouth, bitterness in the belly. This effect is not caused by different parts of the book, but rather by the nature of the tidings themselves. Discovering the Lord's love for the Church, yet also realizing their potential to forget Him and become lukewarm, brings both sweetness and bitterness. The Gospel is a source of pleasure to faithful ministers, yet it can also be accompanied by sadness and sorrow.",
+            "wordCount": 128,
+            "quoteTokenProportion": 34.57,
+            "qualityScore": 1.6688611495909864,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.83,
+            "commentatorTierSimilarities": [
+                26.64,
+                35.32,
+                38.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The angel's emphasis on the bitterness of the book's contents guards against misinterpretations. John's obedience to eat the book reveals his promptness, and the reversal of the results - sweetness in the mouth, bitterness in the belly - reflects his actual experience. The nature of the tidings, both sweet (the Lord's love for the Church) and bitter (the Church's potential to forget Him), evokes mixed emotions. The Gospel brings pleasure to faithful ministers, yet can also cause sadness and sorrow in their preaching and to those who hear it.",
+            "wordCount": 92,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.7569790424937888,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.76,
+            "commentatorTierSimilarities": [
+                25.53,
+                31.81,
+                42.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The angel's emphasis on the bitterness of the book's contents guards against misinterpretations, while John's prompt obedience in eating the book showcases his immediate response. The reversal of the results - sweetness in the mouth, bitterness in the belly - reflects John's actual experience. The nature of the tidings, both sweet (the Lord's love for the Church) and bitter (the Church's potential to forget Him), brings mixed emotions. The Gospel brings pleasure to faithful ministers, yet can also cause sadness and sorrow in their preaching and to those who hear it.",
+            "wordCount": 95,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.7697980161285756,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.19,
+            "commentatorTierSimilarities": [
+                25.73,
+                31.75,
+                42.51
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The angel's emphasis on the bitterness of the book's contents guards against misinterpretations, as John's prompt obedience in eating the book illustrates. The reversal of the results - sweetness in the mouth, bitterness in the belly - reflects his actual experience. The tidings, both sweet (the Lord's love for the Church) and bitter (the Church's potential to forget Him), evoke mixed emotions. The Gospel brings pleasure to faithful ministers, yet can also cause sadness and sorrow in their preaching and to those who hear it.",
+            "wordCount": 88,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 1.7476553114938502,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.45,
+            "commentatorTierSimilarities": [
+                25.69,
+                31.3,
+                43.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel emphasizes the bitterness of the book's contents, guarding against misinterpretations. John's prompt obedience in eating the book shows his immediate response, and the reversal of results - sweetness in the mouth, bitterness in the belly - portrays his actual experience. The tidings, both sweet (the Lord's love for the Church) and bitter (the Church's potential to forget Him), evoke mixed emotions. The Gospel brings pleasure to faithful ministers, yet can also cause sadness and sorrow in their preaching and to those who hear it.",
+            "wordCount": 88,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.7444687325683477,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.35,
+            "commentatorTierSimilarities": [
+                25.64,
+                31.27,
+                43.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

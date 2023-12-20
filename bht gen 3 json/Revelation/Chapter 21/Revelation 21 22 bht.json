@@ -1,0 +1,137 @@
+{
+    "timestamp": "12-19-2023 21:50:50",
+    "verseRef": "Revelation 21:22",
+    "bestBHT": {
+        "bht": "In this heavenly city, the Lord God Almighty Himself is the temple. The inhabitants no longer need a physical place of worship or sacrifice, as the great Sacrifice Himself is present. Means of grace and church ordinances will cease, replaced by uninterrupted, direct communion with God and the Lamb. The entire city becomes a holy temple, sanctified by the eternal presence of God and the Lamb. In this perfected state, God will be immediately present, filling the new heaven and earth, and sanctifying all within.",
+        "wordCount": 85,
+        "quoteTokenProportion": 32.14,
+        "qualityScore": 2.5515589026576135,
+        "qualityScoreNormalizedComparedToV2BHTs": 76.18,
+        "commentatorTierSimilarities": [
+            33.64,
+            26.77,
+            39.6
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord God Almighty is the temple of it.\" ",
+            "The inhabitants need no place of worship or sacrifice.",
+            "The object of all worship being present, and the great Sacrifice Himself being there."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As God now dwells in the spiritual Church, His 'temple', so the Church when perfected shall dwell in Him as her 'temple'.",
+            "Means of grace shall cease when the end of grace is come. Church ordinances shall give place to the God of ordinances.",
+            "Uninterrupted, immediate, direct, communion with Him and the Lamb shall supersede intervening ordinances."
+        ],
+        "Albert Barnes": [
+            "It was all temple - nothing but a temple.",
+            "It was all one great temple reared in honor of his name, and where worship ascended from every part of it.",
+            "They are present in all parts of it in their glory; they fill it with light; and the splendor of their presence may be said to be the temple."
+        ],
+        "Marvin Vincent": [
+            "No temple. The entire city is now one holy temple of God. See on ch. Revelation 1:6."
+        ],
+        "Philip Schaff": [
+            "There could indeed be no spot more holy than another where all was holy, none purer than another where all was pure.",
+            "God Himself and the Lamb in whom He is revealed to men sanctified every spot of ground within the city by their immediate presence.",
+            "The inhabitants dwelt as if continually in the temple \u2018praising God.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The whole city is a temple in one sense, but it is something more than a temple even with its sanctuary and Shekinah Glory in the Holy of Holies.",
+            "The Eternal Presence is the Shekinah Glory of God.",
+            "In 2 Corinthians 6:16 we are the sanctuary of God here, but now God is our Sanctuary, and so is the Lamb."
+        ],
+        "John Gill": [
+            "And I saw no temple therein... for in this state there will be no such external form of worship as now.\" ",
+            "For the Lord God Almighty, and the Lamb, are the temple of it; God will be immediately present with his people...\" ",
+            "...Christ in his human nature, in the temple of his body, that tabernacle which God pitched, and not man, which is filled with the train of the divine perfections."
+        ],
+        "John Wesley": [
+            "The Lord God and the Lamb are the temple of it \u2014 He fills the new heaven and the new earth. He surrounds the city and sanctifies it, and all that are therein. He is \"all in all."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 21:22, it is revealed that the Lord God Almighty Himself is the temple of the city. In this heavenly city, the inhabitants no longer need a physical place of worship or sacrifice because the object of all worship is present, and the great Sacrifice Himself is there. This perfect state of the Church is a fulfillment of how God now dwells in the spiritual Church as her temple, and in turn, the Church shall one day dwell in Him as her temple. This means that means of grace and church ordinances will cease, and uninterrupted, direct communion with God and the Lamb will take their place. The entire city becomes a holy temple of God, and the eternal presence of God and the Lamb is the Shekinah Glory that sanctifies every part of it. In this new state, God will be immediately present with His people, filling the new heaven and earth, and sanctifying all that is therein.",
+            "wordCount": 159,
+            "quoteTokenProportion": 38.27,
+            "qualityScore": 2.580572958915087,
+            "qualityScoreNormalizedComparedToV2BHTs": 77.14,
+            "commentatorTierSimilarities": [
+                33.14,
+                26.26,
+                40.6
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this heavenly city, the Lord God Almighty Himself is the temple. The inhabitants no longer need a physical place of worship or sacrifice, as the great Sacrifice Himself is present. Means of grace and church ordinances will cease, replaced by uninterrupted, direct communion with God and the Lamb. The entire city becomes a holy temple, sanctified by the eternal presence of God and the Lamb. In this perfected state, God will be immediately present, filling the new heaven and earth, and sanctifying all within.",
+            "wordCount": 85,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.5515589026576135,
+            "qualityScoreNormalizedComparedToV2BHTs": 76.18,
+            "commentatorTierSimilarities": [
+                33.64,
+                26.77,
+                39.6
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the heavenly city, the Lord God Almighty Himself serves as the temple, making traditional places of worship unnecessary. The perfected Church will dwell in Him, superseding the need for church ordinances and means of grace. The entire city becomes a holy temple, sanctified by the immediate presence of God and the Lamb. In this profound state, God fills the new heaven and earth, surrounding and sanctifying all within.",
+            "wordCount": 69,
+            "quoteTokenProportion": 30.61,
+            "qualityScore": 2.4969425459345524,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.36,
+            "commentatorTierSimilarities": [
+                33.57,
+                27.77,
+                38.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In Revelation 21:22, it is revealed that the Lord God Almighty Himself serves as the temple of the city. In this heavenly dwelling, the inhabitants no longer require a physical place of worship or sacrifice, as the object of all worship is present, and the great Sacrifice Himself is in their midst. This signifies a transition from the spiritual Church, where God dwells as her temple, to the perfected Church that dwells in Him. The means of grace and church ordinances will give way to direct, uninterrupted communion with God and the Lamb. The entire city becomes a sanctified temple, as the eternal presence of God and the Lamb imparts their Shekinah Glory to every part of it. God will be immediately present with His people, filling the new heavens and the new earth, sanctifying all that is within.",
+            "wordCount": 138,
+            "quoteTokenProportion": 37.18,
+            "qualityScore": 2.5037364044630253,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.59,
+            "commentatorTierSimilarities": [
+                33.33,
+                26.75,
+                39.92
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the heavenly city, the Lord God Almighty Himself serves as the temple, making traditional places of worship unnecessary. The perfected Church will dwell in Him, superseding the need for church ordinances and means of grace. The entire city becomes a holy temple, sanctified by the immediate and uninterrupted presence of God and the Lamb. In this state, God fills the new heaven and earth, sanctifying all within its bounds.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 2.4927413570556856,
+            "qualityScoreNormalizedComparedToV2BHTs": 74.22,
+            "commentatorTierSimilarities": [
+                33.53,
+                27.33,
+                39.14
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

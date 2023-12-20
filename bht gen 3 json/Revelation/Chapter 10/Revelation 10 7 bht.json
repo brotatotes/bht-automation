@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:45:18",
+    "verseRef": "Revelation 10:7",
+    "bestBHT": {
+        "bht": "When the seventh angel sounds his trumpet, the mystery of God's plan of redemption will be fulfilled. This fulfillment is proclaimed by the prophets in the Gospel, contrasting the mystery of iniquity associated with Babylon. Throughout human history, God's purpose gradually unfolds, leading up to the establishment of the Messiah's kingdom on earth. This significant moment marks the beginning of Christ's thousand-year reign, characterized by an abundance of light. The church, comprising the converted Jews and the Gentiles, will reach its completion, bringing comfort and assurance to the faithful.",
+        "wordCount": 94,
+        "quoteTokenProportion": 26.47,
+        "qualityScore": 2.0416132743485518,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+        "commentatorTierSimilarities": [
+            30.98,
+            32.17,
+            36.85
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "When the seventh angel does sound, the completed time of the fulfilment is simultaneous with his blowing.",
+            "The mystery of God is fulfilled... as unfolded in the course of the Gospel dispensation.",
+            "As He declared the glad tidings to His servants the prophets."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "There shall be no longer time (that is, delay), but in the days of the voice of the seventh angel, when he is about to sound his trumpet, then the mystery of God is finished.\" ",
+            "What a grand contrast to the 'mystery of iniquity Babylon!' The mystery of God's scheme of redemption, once hidden in God's secret counsel and dimly shadowed forth in types and prophecies, but now more and more clearly revealed according as the Gospel kingdom develops itself, up to its fullest consummation at the end.",
+            "The mystery of God is the Gospel glad tidings. The office of the prophets is to receive the glad tidings from God, in order to declare them to others. The final consummation is the great theme of the Gospel announced to, and by, the prophets."
+        ],
+        "Albert Barnes": [
+            "The affairs of this world would not be consummated in that period embraced in the sounding of the sixth trumpet, but in that embraced in the sounding of the seventh and last of the trumpets.",
+            "Then all the 'mystery' would be revealed; the plan would be unfolded; the divine purpose, so long concealed, would be manifested, and the kingdom of the Messiah and of the saints would be set up on the earth.",
+            "This series of visions, terminating at Revelation 11:18, refers, as the leading thing, to what would occur in relation to the Roman empire considered as a secular power, in which the church would be interested; what follows Revelation 11:19; Rev. 12\u201320 to the Roman power considered as a great apostasy, and setting up a mighty and most oppressive domination over the true church, manifested in deep corruption and bloody persecutions, running on in its disastrous influence on the world, until that power should be destroyed, Babylon fall, and the reign of the saints be introduced."
+        ],
+        "Marvin Vincent": [
+            "Shall begin to sound...when he is about to sound.\" ",
+            "The mystery...of declaring the mystery of the kingdom.",
+            "Declared...declaring the mystery of the kingdom."
+        ],
+        "Archibald T. Robertson": [
+            "Whenever he is about to begin to sound.",
+            "The whole purpose of God in human history is meant.",
+            "The prophets who hoped for a cleaning up of all mysteries in the last days."
+        ],
+        "John Gill": [
+            "But in the days of the voice of the seventh angel, when he shall begin to sound... for now will be the time of Christ's kingdom on earth, which shall last a thousand years... it will be a time of unspeakable and everlasting light...",
+            "Though there will be time, it will be another sort of time, quite different from the former... this will put an end to antichristian time; and at the end of his sounding will begin the time of Christ, or the thousand years' reign...",
+            "By which is meant, not the resurrection of the dead, and the change of the living, which is called a mystery... it may be best of all to understand this of the church of God, the general assembly and church of the firstborn, even all the elect of God, whose number will now be finished and completed in the conversion of the Jews, and in the bringing in the fulness of the Gentiles..."
+        ],
+        "John Wesley": [
+            "The beginning of them is in heaven, as soon as the seventh trumpet sounds; the end is on the earth and the sea. So long as the third woe remains on the earth and the sea, the mystery of God is not fulfilled.",
+            "The angel's swearing is peculiarly for the comfort of holy men, who are afflicted under that woe. Indeed the wrath of God must be first fulfilled, by the pouring out of the phials: and then comes the joyful fulfilling of the mystery of God.",
+            "The ancient prophecies relate partly to that grand period, from the birth of Christ to the destruction of Jerusalem; partly to the time of the seventh angel, wherein they will be fully accomplished."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the days when the seventh angel sounds his trumpet, the mystery of God's scheme of redemption will be fulfilled, as proclaimed by the prophets in the Gospel. This is the contrast to the mystery of iniquity of Babylon. The purpose of God's plan throughout human history will be fully revealed and the kingdom of the Messiah and the saints will be established on earth. This period of fulfillment will bring unspeakable and everlasting light, marking the beginning of Christ's thousand-year reign. It will be a time when the church of God, comprised of the elect, will be completed through the conversion of the Jews and the inclusion of the Gentiles. This fulfillment will coincide with the pouring out of God's wrath and the ultimate destruction of Babylon, bringing comfort to the faithful.",
+            "wordCount": 138,
+            "quoteTokenProportion": 25.97,
+            "qualityScore": 2.1470374245549912,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.73,
+            "commentatorTierSimilarities": [
+                26.76,
+                34.28,
+                38.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the seventh angel sounds his trumpet, the mystery of God's plan of redemption will be fulfilled, as proclaimed by the prophets in the Gospel. This is in contrast to the mystery of iniquity of Babylon. The purpose of God's plan throughout history will be fully revealed and the kingdom of the Messiah and the saints will be established on earth. This period marks the beginning of Christ's thousand-year reign, bringing unspeakable and everlasting light. The church of God will be completed through the conversion of the Jews and the inclusion of the Gentiles, bringing comfort to the faithful.",
+            "wordCount": 103,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.1476025277101147,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.75,
+            "commentatorTierSimilarities": [
+                28.31,
+                34.69,
+                37.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the seventh angel sounds his trumpet, the mystery of God's scheme of redemption will be fulfilled, as declared by the prophets in the Gospel. This is the contrast to the mystery of iniquity of Babylon. The purpose of God's plan throughout human history will be fully revealed and the kingdom of the Messiah and the saints will be established on earth. This period marks the beginning of Christ's thousand-year reign, bringing unspeakable and everlasting light. The church of God will be completed through the conversion of the Jews and the inclusion of the Gentiles, bringing comfort to the faithful.",
+            "wordCount": 104,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 2.144838837627314,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.66,
+            "commentatorTierSimilarities": [
+                28.67,
+                34.03,
+                37.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "At the sounding of the seventh angel's trumpet, the mystery of God's scheme of redemption will be fulfilled, as declared by the prophets in the Gospel. This fulfillment stands in stark contrast to the mystery of iniquity propagated by Babylon. Throughout human history, God's purpose will be unveiled, leading to the establishment of the Messiah's kingdom on earth. This momentous event heralds the beginning of Christ's thousand-year reign, a time of unprecedented light. The church of God will be completed, encompassing the converted Jews and the fulness of the Gentiles. Trust in this promise brings comfort to the faithful.",
+            "wordCount": 105,
+            "quoteTokenProportion": 21.21,
+            "qualityScore": 1.939297538634016,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.82,
+            "commentatorTierSimilarities": [
+                29.42,
+                33.14,
+                37.45
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "When the seventh angel sounds his trumpet, the mystery of God's plan of redemption will be fulfilled. This fulfillment is proclaimed by the prophets in the Gospel, contrasting the mystery of iniquity associated with Babylon. Throughout human history, God's purpose gradually unfolds, leading up to the establishment of the Messiah's kingdom on earth. This significant moment marks the beginning of Christ's thousand-year reign, characterized by an abundance of light. The church, comprising the converted Jews and the Gentiles, will reach its completion, bringing comfort and assurance to the faithful.",
+            "wordCount": 94,
+            "quoteTokenProportion": 26.47,
+            "qualityScore": 2.0416132743485518,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.22,
+            "commentatorTierSimilarities": [
+                30.98,
+                32.17,
+                36.85
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

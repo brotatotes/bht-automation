@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:47:00",
+    "verseRef": "Revelation 13:18",
+    "bestBHT": {
+        "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. The number 666, representing the beast, confounds interpreters and escapes easy solutions. Some propose the word lateinos, but the true calculation remains uncertain. It takes special sagacity and uncommon skill to compute and ascertain the exact import of the number, revealing the name and nature of the antichristian beast. Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it.",
+        "wordCount": 80,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.0891871118991827,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+        "commentatorTierSimilarities": [
+            30.66,
+            32.83,
+            36.51
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Here is wisdom: let him who hath understanding calculate the number of the beast.",
+            "The number may be calculated: and is intended to be known.",
+            "There is but one [word], which seems to approach near enough to an adequate solution to require serious consideration...and that one is the word mentioned, though not adopted, by Irenaeus, lateinos."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it.",
+            "The number six is the world number; in 666 it occurs in units, tens, and hundreds. It is next neighbor to the sacred seven, but is severed from it by an impassable gulf.",
+            "Papal Rome has similarly substituted the standard of the Keys for the standard of the Cross; so on the papal coinage (the image of power). The two first letters of 'Christ', Ch, R, represent seven hundred, the perfect number. The Ch, X, St represent an imperfect number, a triple falling away (apostasy) from septenary perfection."
+        ],
+        "Albert Barnes": [
+            "The idea is, either that there would be need of special sagacity in determining what the 'number' of the 'beast' or of his 'name' was, or that special 'wisdom' was shown by the fact that the number could be thus expressed.",
+            "It implied that it was practicable to 'count the number of the name'; and that it would require uncommon skill to do it.",
+            "The word here means 'compute'; that is, ascertain the exact import of the number, so as to identify the beast."
+        ],
+        "Marvin Vincent": [
+            "The number of a man. It is counted as men usually count.",
+            "Each letter represents a component of the whole number.",
+            "The interpretations of this number form a jungle from which escape is apparently hopeless."
+        ],
+        "Philip Schaff": [
+            "The 'beast,' alike of our present passage and of chap. 17, can be no other than the Emperor Nero, the foulest monster that ever stained the page of history with deeds of cruelty and lust and blood.",
+            "The figures 666 correspond to the name of the beast when its meaning, otherwise known, is taken into account. Both tell the same tale; behold how God expresses Himself regarding it!",
+            "It is scarcely necessary to allude to an interpretation of"
+        ],
+        "Archibald T. Robertson": [
+            "Here is wisdom. The puzzle that follows as in Revelation 17:9.",
+            "He that understands. 'The one having intelligence' in such matters.",
+            "All sorts of solutions are offered for this conundrum. Charles is satisfied with the Hebrew letters for Nero Caesar, which give 666, and with the Latin form of Nero (without the final n), which makes 616. Surely this is ingenious and it may be correct. But who can really tell?"
+        ],
+        "John Gill": [
+            "Here is wisdom,.... Not only in the above description of the two beasts, but in what follows as to the number of the beast, these two now coalescing in one, and have one and the same number; and to wrap it up, and conceal it in such an obscure manner, shows great wisdom in God.",
+            "let him that hath understanding count the number of, the beast; whoever has skill numbers, let him make use of it, that he may know the name and nature of the antichristian beast, and the numerical letters of his name, or the number of him, and of the time when he arose, and when he will expire.",
+            "for it is the number of a man: either a number that may be reckoned by man, or which is in common use among men; see Revelation 21:17; or that which is contained in the name of a man:"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it. The number 666, the number of a man, is counted as men usually count, and could potentially be represented by the word lateinos. The interpretations of this number form a jungle from which escape is apparently hopeless. All sorts of solutions are offered for this conundrum, but who can really tell? It takes special sagacity and uncommon skill to compute and ascertain the exact import of the number, revealing the name and nature of the antichristian beast.",
+            "wordCount": 108,
+            "quoteTokenProportion": 36.62,
+            "qualityScore": 2.0379607349945275,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.1,
+            "commentatorTierSimilarities": [
+                31.79,
+                30.89,
+                37.32
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it. The number 666, the number of a man, is counted as men usually count, and could potentially be represented by the word lateinos. The interpretations of this number form a jungle from which escape is apparently hopeless. All sorts of solutions are offered for this conundrum, but who can really tell?",
+            "wordCount": 82,
+            "quoteTokenProportion": 43.1,
+            "qualityScore": 2.006169129718604,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.05,
+            "commentatorTierSimilarities": [
+                35.13,
+                28.51,
+                36.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it. The number 666, representing the beast, confounds interpreters and escapes easy solutions. Though some propose the word lateinos, the true calculation remains uncertain. It takes special sagacity and uncommon skill to compute and ascertain the exact import of the number, revealing the name and nature of the antichristian beast.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.067719683575887,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.09,
+            "commentatorTierSimilarities": [
+                30.5,
+                32.54,
+                36.96
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. The number 666, representing the beast, confounds interpreters and escapes easy solutions. Some propose the word lateinos, but the true calculation remains uncertain. It takes special sagacity and uncommon skill to compute and ascertain the exact import of the number, revealing the name and nature of the antichristian beast. Spiritual wisdom is needed to solve the mystery of iniquity, so as not to be beguiled by it.",
+            "wordCount": 80,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.0891871118991827,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.81,
+            "commentatorTierSimilarities": [
+                30.66,
+                32.83,
+                36.51
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Here is wisdom: let him who hath understanding calculate the number of the beast. The number 666, representing the beast, confounds interpreters and escapes easy solutions. Though some propose the word lateinos, the true calculation remains uncertain. It takes special sagacity and uncommon skill to compute and ascertain the exact import of the number, revealing the name and nature of the antichristian beast. Spiritual wisdom is needed to solve this conundrum, for it is the number of a man, and all sorts of solutions are offered for this conundrum.",
+            "wordCount": 88,
+            "quoteTokenProportion": 30.36,
+            "qualityScore": 2.072338612376148,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                29.85,
+                31.48,
+                38.66
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

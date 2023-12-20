@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:41:20",
+    "verseRef": "Revelation 3:8",
+    "bestBHT": {
+        "bht": "The Lord grants an open door to the church in Philadelphia, giving them an opportunity for mission work despite their small strength. Their weakness makes them a fitting vessel for God's power to rest upon, bringing glory to the Lord Christ. Despite their limited strength, they remained faithful and did not deny His name when tested. This open door is a gift from Christ, allowing them to engage in missionary efforts even in the face of opposition. Though their enemies may persecute them, their efforts will be in vain.",
+        "wordCount": 90,
+        "quoteTokenProportion": 39.06,
+        "qualityScore": 1.7359743884602998,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+        "commentatorTierSimilarities": [
+            29.01,
+            38.23,
+            32.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I have given before thee a door opened... an opportunity for the mission work of the church.\" ",
+            "The Lord will confer this great advantage on the Philadelphian church, because... thou hast little power\" ",
+            "The original importing 'thy strength is but small,' and the A.V. importing 'thou hast some strength,' the fact of its smallness vanishing under the indefinite term 'a little.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The opening of a door by Him to the Philadelphian Church accords with the previous assignation to Him of 'the key of David.'",
+            "He sets before Philadelphia an open door because she has 'but little strength': being consciously weak herself, she is the fitter object for God's power to rest on, that so the Lord Christ may have all the glory.",
+            "Thou didst keep . . . didst not deny My name: alluding to some particular occasion when her faithfulness was put to the test."
+        ],
+        "Albert Barnes": [
+            "The 'open door' here evidently refers to the enjoyment of some privilege or honor.",
+            "The more natural interpretation of the phrase 'an open door' is that it refers to access to a thing rather than egress from a thing.",
+            "As long as there were some degree of energy and vitality, the door was still open for them to do good."
+        ],
+        "Marvin Vincent": [
+            "I have set [\u03b4\u03b5\u03b4\u03c9\u03ba\u03b1] . Lit., I have given.",
+            "An open door (quran ajnewgmenhn). Rev., more literally, a door opened.",
+            "Hast kept my word [\u03b5\u03c4\u03b7\u03c1\u03b7\u03c3\u03b1\u03c2 \u03bc\u03bf\u03c5 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03bf\u03bd] . Rev., rendering the aorist more strictly, didst keep."
+        ],
+        "Philip Schaff": [
+            "Every advantage we possess, every privilege we enjoy, every victory we gain, is the gift of Him in whom we live.",
+            "The 'opened door,' then, is no other than that by which the faithful enter into the enjoyment of the heavenly glory.",
+            "Their enemies may frown upon them, persecute them as they persecuted their Lord, but it will be in vain."
+        ],
+        "Archibald T. Robertson": [
+            "I have given\" (a gift of Christ, this open door).",
+            "Probably it means here a good opportunity for missionary effort in spite of the Jewish hostility.",
+            "And yet (adversative use of \u03ba\u03b1) didst keep\" (first aorist active indicative of \u03c4\u03b7\u03c1\u03b5\u03c9) my word in some crisis of trial."
+        ],
+        "John Gill": [
+            "This 'open door' may design an uncommon opportunity of preaching the Gospel; and a very great freedom of mind in the preachers of it, and great attention in the hearers, whose hearts will be opened to observe, receive, and embrace it.",
+            "For thou hast a little strength; which is not to be understood of inward spiritual strength, but outward power and authority: some great men, and princes of the earth, will come into the churches of Christ.",
+            "And hast kept my word; both the commands and ordinances of Christ in practice, and that in their primitive purity, as they were delivered by Christ and his apostles, particularly baptism and the Lord's supper."
+        ],
+        "John Wesley": [
+            "I have given before thee an opened door \u2014 To enter into the joy of thy Lord; and, meantime, to go on unhindered in every good work.",
+            "Thou hast a little strength \u2014 But little outward human strength; a little, poor, mean, despicable company.",
+            "Yet thou hast kept my word - Both in judgment and practice."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I have given before thee a door opened... an opportunity for the mission work of the church because the church in Philadelphia had little power and were consciously weak, making them the perfect vessel for God's power to shine through. This open door was a gift from Christ, granting them a good opportunity for missionary efforts despite Jewish hostility. Despite their small strength, they remained faithful and did not deny the name of Christ when tested. Every advantage and privilege they enjoyed was bestowed upon them by Christ, and even though their enemies may have persecuted them, it was in vain.",
+            "wordCount": 102,
+            "quoteTokenProportion": 43.24,
+            "qualityScore": 1.9090972378404711,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.82,
+            "commentatorTierSimilarities": [
+                31.74,
+                33.74,
+                34.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The opening of a door by Him to the church in Philadelphia, given their little strength, provides an opportunity for mission work. Being consciously weak, they are the fitter object for God's power to rest on, bringing glory to the Lord. Despite their small strength, they faithfully kept His word and did not deny His name. Every advantage and privilege they enjoyed was a gift from Christ. Their enemies may persecute them, but their efforts will be in vain.",
+            "wordCount": 80,
+            "quoteTokenProportion": 42.19,
+            "qualityScore": 1.7114088547730186,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.25,
+            "commentatorTierSimilarities": [
+                28.96,
+                38.63,
+                32.41
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord grants an open door to the church in Philadelphia, giving them an opportunity for mission work due to their small strength. Being consciously weak themselves, they are the fitter object for God's power to rest on, allowing the Lord Christ to receive all the glory. Despite their limited strength, they faithfully kept His word, demonstrating their commitment. This open door is a gift from Christ, presenting them with a great chance for missionary efforts despite opposition. Although their adversaries may persecute them, their efforts will be fruitless.",
+            "wordCount": 90,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.7341606118664625,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.0,
+            "commentatorTierSimilarities": [
+                30.71,
+                36.41,
+                32.87
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord grants an open door to the church in Philadelphia, giving them an opportunity for mission work despite their small strength. Their weakness makes them a fitting vessel for God's power to rest upon, bringing glory to the Lord Christ. Despite their limited strength, they remained faithful and did not deny His name when tested. This open door is a gift from Christ, allowing them to engage in missionary efforts even in the face of opposition. Though their enemies may persecute them, their efforts will be in vain.",
+            "wordCount": 90,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.7359743884602998,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.06,
+            "commentatorTierSimilarities": [
+                29.01,
+                38.23,
+                32.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord opens a door for the church in Philadelphia, providing an opportunity for mission work due to their little strength. Their conscious weakness makes them a suitable vessel for God's power to glorify Him. They faithfully kept His word and did not deny His name when tested. This open door is a gift from Christ, equipping them for missionary endeavors despite opposition. Though persecuted, their enemies will ultimately fail in their efforts.",
+            "wordCount": 74,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6251619758386275,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.38,
+            "commentatorTierSimilarities": [
+                30.06,
+                38.85,
+                31.09
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

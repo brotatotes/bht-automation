@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:39:52",
+    "verseRef": "Revelation 2:9",
+    "bestBHT": {
+        "bht": "The church in Smyrna is composed of both poor rich-men and rich poor-men, who are Jews by descent but lack spiritual connection to the true circumcision. They have turned away from God and transformed into a synagogue of Satan due to their opposition and unbelief. Though they experience tribulation and poverty, this church is rich in grace toward God and good deeds, standing in stark contrast to the spiritual poverty of the Laodicean church.",
+        "wordCount": 76,
+        "quoteTokenProportion": 40.38,
+        "qualityScore": 2.2875792027729833,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+        "commentatorTierSimilarities": [
+            38.02,
+            34.77,
+            27.21
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "There are both poor rich-men, and rich poor-men in God's sight.",
+            "Jews by national descent, but not spiritually of 'the true circumcision.'",
+            "The Jews, who might have been 'the Church of God,' had now, by their opposition and unbelief, become the synagogue of Satan."
+        ],
+        "Albert Barnes": [
+            "Poverty is no hindrance to the favor of God, and there are some things in it which are favorable to the promotion of a right spirit toward God which are not found where there is abundant wealth.",
+            "However keen the feeling arising from the reflection 'I am a poor man,' the edge of the sorrow is taken off if the mind can be turned to a brighter image - 'but thou art rich.'",
+            "That spirit of bitter opposition was indeed often manifested in their treatment of Christians, as it had been of the Saviour, but still it was foreign to the true nature of their religion."
+        ],
+        "Marvin Vincent": [
+            "Because, like all the other early Christian churches, the majority of its members were of the poorer classes, and also, perhaps, with reference to their robbery by persecutors.",
+            "Not primarily direct blasphemy against God, but reviling at believers.",
+            "The title is not given them by the Spirit, nor by the seer, but by themselves; and none would use that title except such as were Jews by birth and by religion."
+        ],
+        "Philip Schaff": [
+            "Like all the churches of that early time, the church at Smyrna was composed of members for the most part poor... But in the possession of a better inheritance it was 'rich,' 'rich in faith, and an heir of the kingdom which the Lord promised to them that love Him.'",
+            "The Jews at least worshipped God, and assembled in His synagogue to study the Law and the Prophets; of these blasphemers it could only be said that they were a synagogue of Satan.",
+            "That mixing of Jews and Christians in the same congregation, which had marked the dawn of the Church\u2019s history, had come to an end. A complete separation had taken place between the adherents of the old and the new faith. Christians were a 'church,' the Jews alone met in 'synagogue.'"
+        ],
+        "Archibald T. Robertson": [
+            "thy tribulation and thy poverty...the tribulation was probably persecution, which helped to intensify the poverty of the Christians...in contrast with the wealthy church in Laodicea.",
+            "But thou art rich...rich in grace toward God and in good deeds...rich in contrast with the spiritual poverty in Laodicea.",
+            "a synagogue of Satan...serving the devil instead of the Lord."
+        ],
+        "John Gill": [
+            "But thou art rich; they were rich, in faith, and heirs of a kingdom, though poor in this world.",
+            "They were rich with the riches of Christ, with the blessings of the covenant, with the graces of the Spirit, and in good works.",
+            "And [I know] the blasphemy of them which say they are Jews, and are not; who asserted themselves to be the true Israel of God, Jews that were so inwardly, regenerate persons, or truly Christians."
+        ],
+        "John Wesley": [
+            "A poor prerogative in the eyes of the world!",
+            "In faith and love, of more value than all the kingdoms of the earth.",
+            "A synagogue of Satan - who, like them, was a liar and a murderer from the beginning."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 2:9, the church in Smyrna is described as being comprised of both poor rich-men and rich poor-men in God's sight. Though they are Jews by national descent, they are not spiritually of the true circumcision. The Jews, who once could have been the Church of God, have now become the synagogue of Satan due to their opposition and unbelief. This church faced tribulation and poverty, likely due to persecution by the Jews. However, in contrast with their material poverty, the church in Smyrna is rich in grace toward God and good deeds. They are a synagogue of Satan, serving the devil instead of the Lord.",
+            "wordCount": 109,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.1342236111540336,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.3,
+            "commentatorTierSimilarities": [
+                39.96,
+                32.86,
+                27.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, the church in Smyrna is described as a mixture of poor rich-men and rich poor-men in God's perspective. These individuals, who are Jews by national descent but not spiritually part of the true circumcision, have turned away from God and become a synagogue of Satan due to their opposition and unbelief. Despite facing tribulation and poverty, this church is rich in grace toward God and good deeds, serving as a stark contrast to the material poverty of the Laodicean church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.2239427200593536,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.29,
+            "commentatorTierSimilarities": [
+                38.03,
+                36.01,
+                25.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this verse, the church in Smyrna, consisting of both poor rich-men and rich poor-men in God's view, is addressed. Although they are Jews by national descent, they lack spiritual connection to the true circumcision. No longer representing the Church of God, they have become a synagogue of Satan due to their opposition and unbelief. While facing persecution and poverty, this church remains rich in grace toward God and good deeds, standing in stark contrast to the spiritual poverty of the Laodicean church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 35.71,
+            "qualityScore": 2.1457530793966564,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.69,
+            "commentatorTierSimilarities": [
+                39.58,
+                34.37,
+                26.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The church in Smyrna is described as a mixture of poor rich-men and rich poor-men, Jews by national descent but not spiritually part of the true circumcision. They have become a synagogue of Satan due to their opposition and unbelief. Despite facing tribulation and poverty, this church is rich in grace toward God and good deeds, serving as a stark contrast to the material poverty of the Laodicean church.",
+            "wordCount": 71,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 2.2104040933807783,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.84,
+            "commentatorTierSimilarities": [
+                38.14,
+                34.48,
+                27.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The church in Smyrna is composed of both poor rich-men and rich poor-men, who are Jews by descent but lack spiritual connection to the true circumcision. They have turned away from God and transformed into a synagogue of Satan due to their opposition and unbelief. Though they experience tribulation and poverty, this church is rich in grace toward God and good deeds, standing in stark contrast to the spiritual poverty of the Laodicean church.",
+            "wordCount": 76,
+            "quoteTokenProportion": 40.38,
+            "qualityScore": 2.2875792027729833,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.4,
+            "commentatorTierSimilarities": [
+                38.02,
+                34.77,
+                27.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

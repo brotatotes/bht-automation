@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:50:43",
+    "verseRef": "Revelation 21:21",
+    "bestBHT": {
+        "bht": "In the description of the new Jerusalem, the twelve gates are each made of one pearl, signifying the high rank and preciousness of pearls. The streets of the city are said to be pure gold, like transparent glass, which underscores the magnificence and beauty of the future abode of the saints. This depiction of gold transfigured and glorified highlights how everything in the city is of the same material but transformed into something greater. Ultimately, these descriptions point towards the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+        "wordCount": 94,
+        "quoteTokenProportion": 38.71,
+        "qualityScore": 1.9765848866293796,
+        "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+        "commentatorTierSimilarities": [
+            18.31,
+            40.97,
+            40.72
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the twelve gates, twelve pearls (Isa. liv. 12, 'carbuncles.')",
+            "(Wetstein quotes from a Rabbinical work, that God shall place in the gates of the new Jerusalem pearls thirty cubits long and as many broad)",
+            "And the street (generic: the street-material, throughout) of the city [was] pure gold like transparent glass"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. every several\u2014Greek,",
+            "\t\"each one severally."
+        ],
+        "Albert Barnes": [
+            "Every several gate was of one pearl - Each gate... nothing could give a more striking view of the magnificence of the future abode of the saints.",
+            "And the street of the city was pure gold - Was paved with gold; that is, all the vacant space that was not occupied with buildings was of pure gold.",
+            "The idea is that of ornament and beauty... a more striking view of the magnificence of the future abode of the saints."
+        ],
+        "Marvin Vincent": [
+            "Pearls held the highest rank among precious stones.",
+            "Among the motives which impelled Caesar to attempt the conquest of Britain, was the fame of its pearl - fisheries.",
+            "The word became in time restricted to the fine, spherical pearls, while the generic name was margarita."
+        ],
+        "Philip Schaff": [
+            "And the twelve gates were twelve pearls; every several gate was of one pearl. No attempt is made to attain verisimilitude. It is enough that the figure helps to bring out the surpassing splendour.",
+            "And the street of the city was pure gold, as it were transparent glass. We are probably not to think of only one street, for a city so large, and with so many gates, must have had many streets.",
+            "Each is of the same material as the rest, and all are of gold, but, as in Revelation 21:18, of gold transfigured and glorified."
+        ],
+        "Archibald T. Robertson": [
+            "Each of these (cf. Isaiah 54:12) is a pearl, one of the commonest of jewels.\" ",
+            "Each one (\u03b1\u03bd\u03b1 \u03b5\u03b9\u03c2 \u03b5\u03ba\u03b1\u03c3\u03c4\u03bf\u03c2). Distributive use of \u03b1\u03bd\u03b1, but with the nominative (used as adverb, not preposition) as appears also in Mark 14:19; John 8:9; with \u03ba\u03b1\u03c4\u03b1 in Romans 12:5.",
+            "Transparent (\u03b4\u03b9\u03b1\u03c5\u03b3\u03b7\u03c2). Old word (from \u03b4\u03b9\u03b1, through, \u03b1\u03c5\u03b3\u03b7, ray, shining through), here alone in N.T."
+        ],
+        "John Gill": [
+            "Denoting the purity and preciousness of Christ, by whom the saints enter, and of the saints who enter in thereat, as well as of the place into which they enter.",
+            "This shows that this account cannot be taken literally, but mystically, for no such pearl was ever known, large enough to make a gate of.",
+            "Denoting the preciousness and delightfulness of the saints' conversation one with another; and the purity and cleanness of it, there being no mire and filth of sin in these streets."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 21:21, the description of the new Jerusalem includes twelve gates, each made of one pearl. The use of pearls in this context signifies their high rank and preciousness. It's interesting to note that in ancient times, pearls were highly valued and even Caesar was attracted to Britain due to its pearl-fisheries. The streets of the city are described as pure gold, like transparent glass. This emphasizes the magnificence and beauty of the future abode of the saints. The mention of gold transfigured and glorified indicates that everything in the city is of the same material but transformed into something greater. Ultimately, these descriptions point towards the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+            "wordCount": 123,
+            "quoteTokenProportion": 36.14,
+            "qualityScore": 1.7722307804873676,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.27,
+            "commentatorTierSimilarities": [
+                20.01,
+                41.33,
+                38.66
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the description of the new Jerusalem, the twelve gates are each made of one pearl, symbolizing their high rank and preciousness. The streets of the city are pure gold, emphasizing its magnificence and beauty. The mention of gold transfigured and glorified suggests that everything in the city is of the same material but transformed into something greater. These details highlight the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+            "wordCount": 76,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8379451582071415,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.45,
+            "commentatorTierSimilarities": [
+                17.08,
+                42.55,
+                40.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the description of the new Jerusalem, the twelve gates are each made of one pearl, signifying the high rank and preciousness of pearls. The streets of the city are said to be pure gold, like transparent glass, which underscores the magnificence and beauty of the future abode of the saints. This depiction of gold transfigured and glorified highlights how everything in the city is of the same material but transformed into something greater. Ultimately, these descriptions point towards the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+            "wordCount": 94,
+            "quoteTokenProportion": 38.71,
+            "qualityScore": 1.9765848866293796,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.06,
+            "commentatorTierSimilarities": [
+                18.31,
+                40.97,
+                40.72
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The new Jerusalem is described as having twelve gates, each made of one pearl, symbolizing their high rank and preciousness. The streets of the city are pure gold, emphasizing its magnificence. The mention of gold transfigured and glorified suggests that everything in the city is of the same material but transformed into something greater. These details highlight the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.8653710355385091,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.37,
+            "commentatorTierSimilarities": [
+                18.3,
+                42.45,
+                39.25
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The new Jerusalem's twelve gates are each made of one pearl, reflecting their high rank and preciousness. The streets of the city are described as pure gold, resembling transparent glass, emphasizing its magnificence. This image of gold transfigured and glorified indicates that everything in the city is of the same material but transformed into something greater. These descriptions point to the purity, preciousness, and delightfulness of Christ and the saints who enter through the gates.",
+            "wordCount": 76,
+            "quoteTokenProportion": 42.11,
+            "qualityScore": 1.9138268568042611,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.98,
+            "commentatorTierSimilarities": [
+                19.08,
+                41.63,
+                39.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

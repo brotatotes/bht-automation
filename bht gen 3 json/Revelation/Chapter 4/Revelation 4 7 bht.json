@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:42:32",
+    "verseRef": "Revelation 4:7",
+    "bestBHT": {
+        "bht": "The calf in this revelation reflects the strength and laboriousness of the ministers of the word, as they endure hardships and bear the burdens of the weak. It symbolizes their humility, meekness, wisdom, and understanding in their mission to spread the Gospel. The calf represents what is noblest, strongest, wisest, and swiftest in the natural world, and potentially alludes to the Trinity and the incarnation of the second Person.",
+        "wordCount": 69,
+        "quoteTokenProportion": 26.67,
+        "qualityScore": 1.5276366274478574,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.14,
+        "commentatorTierSimilarities": [
+            21.34,
+            33.63,
+            45.03
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "7. calf\u2014\"a steer",
+            "\t[ALFORD]. The Septuagint",
+            "\toften uses the Greek term here for an ox (Exodus 22:1;",
+            "\tExodus 29:10, &amp;c.). ",
+            "\t",
+            "as a man\u2014The oldest",
+            "\tmanuscripts have \"as of a man."
+        ],
+        "Albert Barnes": [
+            "The lion is the monarch of the woods, the king of beasts, and he becomes thus the emblem of dominion, of authority, of government in general.",
+            "A young bullock was worshipped in Egypt as a god... and the image appears to have been adopted early and extensively to represent the divinity.",
+            "All living things, and all acts of the Almighty, conspire to proclaim his glory... and all the acts and ways of God declare also his majesty and glory: for around his throne, and beneath his throne, are expressive symbols of the firmness, energy, intelligence, and power with which his government is administered."
+        ],
+        "Marvin Vincent": [
+            "From this passage is derived the familiar symbolism of the four Evangelists; Mark seated on a lion, Luke on a steer, Matthew on a man, and John on an eagle.\" ",
+            "These are varied however. Irenaeus attributes the lion to John, and the eagle to Mark. Augustine the lion to Matthew, the man to Mark.",
+            "Calf [\u03bc\u03bf\u03c3\u03c7\u03c9] . Compare Luke 14:23. In the Septuagint for an ox or steer. Exodus 22:1; Ezekiel 1:10."
+        ],
+        "Archibald T. Robertson": [
+            "The four forms represent whatever is noblest, strongest, wisest, and swiftest in nature\" (Swete).",
+            "The likeness in each instance extended only to the face.",
+            "The \u03b1\u03b5\u03c4\u03bf\u03c2 in Matthew 24:28; Luke 17:37 may be a form of vulture going after carrion, but not in Revelation 8:13; Revelation 12:14."
+        ],
+        "John Gill": [
+            "And this figure expresses the strength of the ministers of the word... to do the work they are called to, to endure hardness, as good soldiers of Christ, and to bear the infirmities of the weak.",
+            "And it designs the laboriousness of Christ's faithful ministers... who labour in the word and doctrine, and are labourers with God; as also their humility, meekness, and patience in bearing insults, reproaches, and sufferings for Christ, and instructing those that oppose themselves.",
+            "And points at the humanity and tender heartedness, the wisdom, prudence, knowledge, and understanding, and the use of the reasoning faculty, together with a manly spirit in abiding by the Gospel at any rate; all which are so necessary in the ministers of the word."
+        ],
+        "John Wesley": [
+            "Just such were the four cherubim in Ezekiel, who supported the moving throne of God",
+            "each of those that overshadowed the mercy-seat in the holy of holies had all these four faces",
+            "whence a late great man supposes them to have been emblematic of the Trinity, and the incarnation of the second Person"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The calf in Revelation 4:7 is often understood as symbolizing strength, laboriousness, and ministerial work. It represents the strength of the ministers of the word, their ability to endure hardships and bear the infirmities of the weak. Furthermore, it signifies the laboriousness, humility, meekness, and patience of Christ's faithful ministers. This symbol also points to humanity, tender-heartedness, wisdom, prudence, knowledge, understanding, and the use of reasoning in abiding by the Gospel. The four forms in this verse, including the calf, represent what is noblest, strongest, wisest, and swiftest in nature, and may also symbolize the Trinity and the incarnation of the second Person.",
+            "wordCount": 104,
+            "quoteTokenProportion": 23.53,
+            "qualityScore": 1.4912222283072307,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.93,
+            "commentatorTierSimilarities": [
+                22.6,
+                33.5,
+                43.9
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The calf in this passage is a symbol of strength and laboriousness. It represents the ministers of the word, who endure hardships and bear the infirmities of the weak. The calf also signifies their humility, meekness, and patience in suffering for Christ, as well as their wisdom, understanding, and reasoning in abiding by the Gospel. It is a representation of what is noblest, strongest, wisest, and swiftest in nature, and may even symbolize the Trinity and the incarnation of the second Person.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.5443900635776346,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.69,
+            "commentatorTierSimilarities": [
+                22.87,
+                35.69,
+                41.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The calf in this revelation represents the strength and laboriousness of the ministers of the word. It symbolizes their endurance, their ability to bear hardships and support the weak. The calf also signifies their humility, meekness, wisdom, and understanding in spreading the Gospel. It embodies what is noblest, strongest, wisest, and swiftest in nature and may even serve as a symbol of the Trinity and the incarnation of the second Person.",
+            "wordCount": 71,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.4830322030180267,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.65,
+            "commentatorTierSimilarities": [
+                21.63,
+                37.47,
+                40.9
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The calf in this revelation reflects the strength and laboriousness of the ministers of the word, as they endure hardships and bear the burdens of the weak. It symbolizes their humility, meekness, wisdom, and understanding in their mission to spread the Gospel. The calf represents what is noblest, strongest, wisest, and swiftest in the natural world, and potentially alludes to the Trinity and the incarnation of the second Person.",
+            "wordCount": 69,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 1.5276366274478574,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.14,
+            "commentatorTierSimilarities": [
+                21.34,
+                33.63,
+                45.03
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The calf in this revelation represents the strength and laboriousness of the ministers of the word, who endure hardships and bear the infirmities of the weak. It symbolizes their humility, meekness, and patience in suffering for Christ, and highlights their wisdom, prudence, knowledge, and understanding in abiding by the Gospel. The four forms in this verse, including the calf, embody what is noblest, strongest, wisest, and swiftest in nature. It may also hold significance as a representation of the Trinity and the incarnation of the second Person.",
+            "wordCount": 87,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.5522455246787144,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.95,
+            "commentatorTierSimilarities": [
+                22.67,
+                33.03,
+                44.31
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:16",
+    "verseRef": "Revelation 12:4",
+    "bestBHT": {
+        "bht": "His dragging down the stars with his tail symbolizes his persuasion to apostatize. The dragon's attempts to devour males during the birth of the nation, as well as its connection to fallen angels, show its destructive nature. The dragon's actions parallel the attempts to destroy the child Jesus at his birth. This monstrous dragon represents a power that seeks to dominate, while the woman symbolizes the church and the potential for life that the dragon seeks to annihilate.",
+        "wordCount": 80,
+        "quoteTokenProportion": 35.29,
+        "qualityScore": 1.8233663229280421,
+        "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+        "commentatorTierSimilarities": [
+            27.51,
+            42.31,
+            30.18
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "His dragging down the stars with his tail (lashed back and forward in his fury) implies his persuading to apostatize, like himself, and to become earthy.",
+            "So the dragon, represented by his agent Pharaoh... was ready to devour Israel's males at the birth of the nation.",
+            "Antitypically the true Israel, Jesus, when born, was sought for destruction by Herod, who slew all the males in and around Bethlehem."
+        ],
+        "Albert Barnes": [
+            "The main idea here undoubtedly is that of power, and the object of John is to show that the power of the dragon was as if it extended to the stars, and as if it dragged down a third part of them to the earth, or swept them away with its tail, leaving two-thirds unaffected.",
+            "A power that would sweep them all away would be universal; a power that would sweep away one-third only would represent a dominion of that extent only.",
+            "A sufficient fulfillment is found if there was a period when the church, bright, glorious, and prosperous, was apparently about to become greatly enlarged, but when the monstrous pagan power still held its sway over a considerable part of the world, exposing the church to persecution."
+        ],
+        "Marvin Vincent": [
+            "Some expositors find an allusion to the fallen angels.",
+            "Compare Daniel 8:10.",
+            "The dragon doing what Pharaoh did to Israel."
+        ],
+        "Philip Schaff": [
+            "The woman was pregnant with life, the dragon can do nothing but destroy.",
+            "Against men who are made to shine as stars in the heavenly firmament the dragon can do nothing.",
+            "The dragon is in direct contrast with the woman. She is to bear a living child: he would destroy it as soon as it was born."
+        ],
+        "Archibald T. Robertson": [
+            "Like a great comet is this monster.",
+            "John may have in mind the martyrs before Christ and after Christ's ascension.",
+            "This is what Pharaoh did to Israel. Precisely so the devil tried to destroy the child Jesus on his birth."
+        ],
+        "John Gill": [
+            "This is said in allusion to Antiochus Epiphanes, in Daniel 8:10; and designs either the subduing of the third part of the principalities, states, and kingdoms of the known world, to the Roman empire, through its great power and strength... or else the influence the dragon should have upon the ministers of the word.",
+            "The Pagan empire, or the Pagan emperors, took every opportunity to stifle the kingdom of Christ in embryo, and to prevent the bringing forth of any illustrious person; and sought to destroy him as soon as he appeared.",
+            "The instances Brightman produces are appropriate, and to the purpose; as of Maximinus destroying Alexander the son of Mammea, who he saw was inclined to the Christians; and of Decius taking off the two Philips, father and son, who were favourable to their cause; but especially the watchfulness of the dragon to destroy the man child was very manifest in the Roman emperors towards Constantine."
+        ],
+        "John Wesley": [
+            "And his tail \u2014 His falsehood and subtilty.",
+            "The third part \u2014 A very large number.",
+            "And the dragon stood before the woman, that when she had brought forth, he might devour the child."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The dragon in Revelation 12:4 is depicted as dragging down the stars with its tail, symbolizing its persuasion to apostatize. This imagery is seen in Pharaoh's attempt to devour Israel's males during the birth of the nation and in Herod's slaughter of male infants during the time of Jesus. The dragon's actions also allude to the fallen angels. It is notable that this monster-like dragon and its attempts to destroy are reminiscent of the persecution faced by both the early martyrs and the child Jesus. The power of the dragon signifies its dominion over a considerable part of the world, while the woman represents the church, which carries the potential for bringing forth life that the dragon seeks to destroy.",
+            "wordCount": 124,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 1.8590888043842795,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.16,
+            "commentatorTierSimilarities": [
+                31.07,
+                38.39,
+                30.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His dragging down the stars with his tail symbolizes his persuasion to apostatize. The dragon's attempts to devour males during the birth of the nation, as well as its connection to fallen angels, show its destructive nature. The dragon's actions parallel the attempts to destroy the child Jesus at his birth. This monstrous dragon represents a power that seeks to dominate, while the woman symbolizes the church and the potential for life that the dragon seeks to annihilate.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.8233663229280421,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.97,
+            "commentatorTierSimilarities": [
+                27.51,
+                42.31,
+                30.18
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The imagery of the dragon in Revelation 12:4 dragging down the stars with its tail signifies its persuasion to apostatize, akin to what Pharaoh did to Israel and Herod's attempt to destroy the child Jesus. The fallen angels are also alluded to. This monstrous dragon, like a great comet, represents a power that seeks to devour and destroy. The dragon's actions reflect the persecution faced by early martyrs and the watchfulness of the Roman emperors towards Constantine. The woman, on the other hand, symbolizes the church and the potential for life that the dragon seeks to annihilate.",
+            "wordCount": 98,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.814521495110003,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.67,
+            "commentatorTierSimilarities": [
+                30.58,
+                38.25,
+                31.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The dragon in Revelation 12:4 persuades others to apostatize and become earthy, reflecting Pharaoh's attempt to devour Israel's males and Herod's slaughter of the infants in Bethlehem. The dragon's actions allude to the fallen angels and its similarity to a great comet. The persecution faced by martyrs before and after Christ's ascension is paralleled with the dragon's attempts to destroy. Meanwhile, the woman symbolizes the church and the potential for life that the dragon seeks to annihilate.",
+            "wordCount": 82,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 1.840760936337988,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.55,
+            "commentatorTierSimilarities": [
+                34.19,
+                36.39,
+                29.42
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The dragon in Revelation 12:4 attempts to persuade others to apostatize, just as Pharaoh and Herod sought the destruction of Israel's males and Jesus, respectively. This monstrous dragon, resembling a great comet, symbolizes a power that seeks to devour and destroy. The dragon's actions reflect the persecutions faced by both early martyrs and the infant Jesus. Meanwhile, the woman represents the church and the potential for life that the dragon seeks to annihilate.",
+            "wordCount": 74,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 1.8403288897192147,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.53,
+            "commentatorTierSimilarities": [
+                30.71,
+                37.95,
+                31.34
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

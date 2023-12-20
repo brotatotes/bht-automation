@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:44:57",
+    "verseRef": "Revelation 9:18",
+    "bestBHT": {
+        "bht": "By the fire, smoke, and brimstone that go forth out of their mouths, a third part of men are killed. This is not a literal death toll, but rather a significant portion of the human race. The plagues symbolize the destructive effects of warfare, specifically the firing of guns by the Turks. The imagery here is reminiscent of the plagues in Egypt, emphasizing the judgment and punishment brought upon those who oppose God's people. The devastation caused by these plagues serves as a reminder of the consequences of rebellion against God.",
+        "wordCount": 92,
+        "quoteTokenProportion": 38.46,
+        "qualityScore": 1.9729856677793207,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+        "commentatorTierSimilarities": [
+            28.46,
+            31.41,
+            40.14
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "From these three plagues were killed the third part of men...",
+            "...by the fire and the smoke and the brimstone which goeth forth out of their mouths."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "By these three\u2014A, B, C, and Aleph read (apo for kupo), 'From'; implying the direction whence the slaughter came; not direct instrumentality as 'by' implies.",
+            "A, B, C, Aleph also add 'plagues' after 'three.' English Version reading, which omits it, is not well supported.",
+            "By the fire\u2014Greek, 'owing to the fire,' literally, 'out of.'"
+        ],
+        "Albert Barnes": [
+            "By these three - Three things - explained immediately as referring to the fire, the smoke, and the brimstone.",
+            "Was the third part of men killed - See the notes on Revelation 8:7-12, on each of which verses we have notices of calamities that came upon the third part of the race, of the sea, of rivers, etc.",
+            "We are not to suppose that this is to be taken literally, but the description is given as it appeared to John. Those immense numbers of horsemen would sweep over the world, and a full third part of the race of people would seem to fall before them."
+        ],
+        "Marvin Vincent": [
+            "These three. Add plhgwn plagues, on which see on Mark 3:10; Luke 10:30."
+        ],
+        "Philip Schaff": [
+            "By these three plagues was the third part of men killed, the third part, that is, of men over the whole earth.",
+            "Whatever the division of the human race to which they belonged.",
+            "The effect of the three plagues that issue from their mouths is noticed."
+        ],
+        "Archibald T. Robertson": [
+            "By these three plagues...It is used in Exodus 11:1 for the plagues in Egypt.",
+            "The three plagues here are the fire, smoke, and brimstone which proceed from the mouths of the horses.",
+            "First aorist passive indicative of \u03b1\u03c0\u03bf\u03ba\u03c4\u03b5\u03b9\u03bd\u03c9, to kill, third person plural, though \u03c4\u03bf \u03c4\u03c1\u03b9\u03c4\u03bf\u03bd is neuter singular because a collective idea."
+        ],
+        "John Gill": [
+            "By these three was the third part of men killed... by the Turks, through the use of guns, out of which issued fire, smoke, and brimstone.\" ",
+            "... the eastern Roman empire by the third part of men; vast numbers of the inhabitants of which were destroyed by the Turks...",
+            "By the fire, and by the smoke, and by the brimstone, which issued out of their mouths; that is, by the firing of guns."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "By the fire, smoke, and brimstone that came forth from their mouths, a third of humanity was killed. This passage does not mean that exactly one-third of all people were killed, but rather it represents a significant portion of the human race. These plagues can be understood as the devastating effects of warfare. The fire, smoke, and brimstone are symbolic of the destruction and death brought about by military weapons, which were used by the Turks in their conquests. The imagery of these plagues is reminiscent of the plagues in Egypt, emphasizing the judgment and punishment that comes upon those who oppose God's people.",
+            "wordCount": 106,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.062343273197272,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.91,
+            "commentatorTierSimilarities": [
+                29.14,
+                32.77,
+                38.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "By the fire, smoke, and brimstone that go forth out of their mouths, a third of men are killed. It's important to note that this does not necessarily mean exactly one-third of all individuals. Rather, it represents a substantial portion of humanity. These plagues are symbolic of the devastating effects of warfare, as seen in the imagery of fire, smoke, and brimstone. The Turks are specifically mentioned as the ones responsible for these plagues, using guns that produce fire, smoke, and brimstone. The judgment and destruction brought upon those who oppose God's people is reminiscent of the plagues in Egypt.",
+            "wordCount": 103,
+            "quoteTokenProportion": 41.18,
+            "qualityScore": 1.8755464674807332,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.7,
+            "commentatorTierSimilarities": [
+                28.6,
+                31.51,
+                39.89
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "By the fire, smoke, and brimstone that go forth out of their mouths, a third part of men are killed. This is not a literal death toll, but rather a significant portion of the human race. The plagues symbolize the destructive effects of warfare, specifically the firing of guns by the Turks. The imagery here is reminiscent of the plagues in Egypt, emphasizing the judgment and punishment brought upon those who oppose God's people. The devastation caused by these plagues serves as a reminder of the consequences of rebellion against God.",
+            "wordCount": 92,
+            "quoteTokenProportion": 38.46,
+            "qualityScore": 1.9729856677793207,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.94,
+            "commentatorTierSimilarities": [
+                28.46,
+                31.41,
+                40.14
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "By the fire, smoke, and brimstone that go forth out of their mouths, a third part of men are killed. This passage does not mean exactly one-third of all people, but rather a significant portion of humanity. These plagues symbolize the devastating effects of warfare, specifically the firing of guns by the Turks. The imagery of fire, smoke, and brimstone evokes the judgment and punishment brought upon those who oppose God's people. It serves as a reminder of the consequences of rebellion against God.",
+            "wordCount": 86,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 1.9205343685884948,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.2,
+            "commentatorTierSimilarities": [
+                28.23,
+                30.06,
+                41.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "By the fire, smoke, and brimstone that go forth out of their mouths, a third part of men are killed. This does not mean exactly one-third of all people, but rather a significant portion of humanity. These plagues symbolize the devastating effects of warfare, specifically the firing of guns by the Turks. The imagery of fire, smoke, and brimstone serves as a reminder of the consequences of rebellion against God, as seen in the plagues of Egypt. It emphasizes the judgment and punishment brought upon those who oppose God's people.",
+            "wordCount": 92,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.9195487469499555,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.17,
+            "commentatorTierSimilarities": [
+                28.07,
+                30.52,
+                41.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

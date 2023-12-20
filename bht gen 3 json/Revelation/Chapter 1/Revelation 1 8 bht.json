@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:40:21",
+    "verseRef": "Revelation 1:8",
+    "bestBHT": {
+        "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. These words, spoken by the Eternal Father, assert the eternal being of Christ, who is of one essence with the Father. In Christ, the beginning and the end, the Alpha and the Omega, converge. He is constant and unchanging, providing comfort in the face of trials. With the title of the Almighty, Christ affirms His divinity and everlasting existence.",
+        "wordCount": 83,
+        "quoteTokenProportion": 39.13,
+        "qualityScore": 2.298029897036132,
+        "qualityScoreNormalizedComparedToV2BHTs": 67.75,
+        "commentatorTierSimilarities": [
+            28.4,
+            30.27,
+            41.33
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty.\" ",
+            "Certainly as they here stand, they must be understood as uttered by the Eternal Father.\" ",
+            "Nor need we be surprised, that He who is of one essence with the Father should assert of Himself the same eternal being as the Father."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God in Christ comprises all that goes between, as well as the first and last.\" ",
+            "In Christ, Genesis, the Alpha of the Old Testament, and Revelation, the Omega of the New Testament, meet together.\" ",
+            "Always the same; before the dragon, the beast, false prophet, and all foes. An anticipatory consolation to the saints under the coming trials of the Church."
+        ],
+        "Albert Barnes": [
+            "It means that he is the beginning and the end of all things; that he was at the commencement, and will be at the close; and it is thus equivalent to saying that he has always existed, and that he will always exist.",
+            "There can be no doubt that the language here would be naturally understood as implying divinity, and it could be properly applied to no one but the true God.",
+            "As he was clothed with omnipotence, and would continue to exist through all ages to come as he had existed in all ages past, there could be no doubt about his ability to execute all which it is said he would execute."
+        ],
+        "Marvin Vincent": [
+            "The words are explained by the gloss, properly omitted from the text, the beginning and the ending.",
+            "God, as the old tradition declares, holding in His hand the beginning, middle, and end of all that is.",
+            "The Almighty. Used only once outside of Revelation, in 2 Corinthians 6:18, where it is a quotation."
+        ],
+        "Philip Schaff": [
+            "It is Christ, 'the Lord,' who speaks, and who says that He is the Alpha and the Omega; that He is God...and that all culminates in His title the Almighty.\" ",
+            "To suppose that the words are spoken by the Father is to introduce a thought not strictly corresponding to what precedes.",
+            "The words are thus highly important as witnessing to the true Divinity of Christ, and in particular to His possessing the same eternity as the Almighty."
+        ],
+        "Archibald T. Robertson": [
+            "The Alpha and the Omega (\u03c4\u03bf \u0391\u03bb\u03c6\u03b1 \u03ba\u03b1 \u03c4\u03bf \u039f). The first and the last letters of the Greek alphabet, each with its own neuter (grammatical gender) article.",
+            "The change of speaker here is unannounced, as in Revelation 16:15; Revelation 18:20. Only here and Revelation 21:5. is God introduced as the speaker.",
+            "Late compound (\u03c0\u03b1\u03c2 and \u03ba\u03c1\u03b1\u03c4\u03b5\u03c9), in Cretan inscription and a legal papyrus, common in LXX and Christian papyri, in N.T. only in 2 Corinthians 6:18 (from Jeremiah 38:35) and Revelation 1:8; Revelation 4:8; Revelation 11:17; Revelation 15:3; Revelation 16:7; Revelation 16:14; Revelation 19:6; Revelation 19:15; Revelation 21:22."
+        ],
+        "John Gill": [
+            "Alpha is the first letter, and Omega the last in the Greek alphabet, and signifies that Christ is the first and the last...",
+            "These letters, Alpha and Omega, being the first and the last in the alphabet, may stand for the whole...",
+            "He is the Alpha and Omega, the first and last, the chief, the whole of things..."
+        ],
+        "John Wesley": [
+            "Let his enemies boast and rage ever so much in the intermediate time, yet the Lord God is both the Alpha, or beginning, and the Omega, or end, of all things.",
+            "God is the beginning, as he is the Author and Creator of all things, and as he proposes, declares, and promises so great things: he is the end, as he brings all the things which are here revealed to a complete and glorious conclusion.",
+            "Therefore God is the Alpha and the Omega, the beginning and the end; that is, one who is all things, and always the same."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. Certainly as they here stand, they must be understood as uttered by the Eternal Father. Nor need we be surprised, that He who is of one essence with the Father should assert of Himself the same eternal being as the Father. In Christ, Genesis, the Alpha of the Old Testament, and Revelation, the Omega of the New Testament, meet together. Always the same; before the dragon, the beast, false prophet, and all foes. An anticipatory consolation to the saints under the coming trials of the Church. The Almighty. Used only once outside of Revelation. The Alpha and the Omega (\u03c4\u03bf \u0391\u03bb\u03c6\u03b1 \u03ba\u03b1 \u03c4\u03bf \u039f). The first and the last letters of the Greek alphabet. It means that he is the beginning and the end of all things; that he was at the commencement, and will be at the close; and it is thus equivalent to saying that he has always existed, and that he will always exist. As he was clothed with omnipotence, and would continue to exist through all ages to come as he had existed in all ages past, there could be no doubt about his ability to execute all which it is said he would execute. It is Christ, 'the Lord,' who speaks, and who says that He is the Alpha and the Omega; that He is God...and that all culminates in His title the Almighty.",
+            "wordCount": 254,
+            "quoteTokenProportion": 43.59,
+            "qualityScore": 2.1251236449773616,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.0,
+            "commentatorTierSimilarities": [
+                30.46,
+                31.59,
+                37.95
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. Certainly as they here stand, they must be understood as uttered by the Eternal Father. Nor need we be surprised, that He who is of one essence with the Father should assert of Himself the same eternal being as the Father. In Christ, Genesis, the Alpha of the Old Testament, and Revelation, the Omega of the New Testament, meet together. Always the same; before the dragon, the beast, false prophet, and all foes.",
+            "wordCount": 97,
+            "quoteTokenProportion": 50.85,
+            "qualityScore": 2.2871252852909376,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.39,
+            "commentatorTierSimilarities": [
+                34.38,
+                28.37,
+                37.25
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. These words, spoken by the Eternal Father, assert the eternal being of Christ, who is of one essence with the Father. In Christ, the beginning and the end, the Alpha and the Omega, converge. He is constant and unchanging, providing comfort in the face of trials. With the title of the Almighty, Christ affirms His divinity and everlasting existence.",
+            "wordCount": 83,
+            "quoteTokenProportion": 39.13,
+            "qualityScore": 2.298029897036132,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.75,
+            "commentatorTierSimilarities": [
+                28.4,
+                30.27,
+                41.33
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. These words, spoken by the Eternal Father, assert the same eternal being of Christ as the Father. In Christ, the beginning and the end, the Alpha and the Omega, converge. Always constant, He provides consolation to His saints amidst the trials of the Church. His title, the Almighty, testifies to His divine power. Christ is the embodiment of Genesis and Revelation, the first and the last.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 2.261463959120993,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                30.96,
+                28.67,
+                40.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "I am the Alpha and the Omega, saith the Lord God, He that is and that was and that is to come, the Almighty. These words affirm the eternal being of Christ, who shares the same essence as the Father. In Christ, the Alpha and the Omega, the beginning and the end, converge. His unchanging nature provides solace amidst the impending trials of the Church. As the Almighty, Christ possesses divine power and authority. He encompasses all things, serving as the culmination of Genesis and Revelation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 2.175166808068132,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.66,
+            "commentatorTierSimilarities": [
+                30.14,
+                28.57,
+                41.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

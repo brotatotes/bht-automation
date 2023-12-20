@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:18",
+    "verseRef": "Revelation 18:22",
+    "bestBHT": {
+        "bht": "The once lively city shall no longer resonate with the melodies of harpers and musicians, the skillful craftsmanship of artisans, or the grinding sound of the millstone. These sounds, intertwined with the corrupt practices of a fallen Christendom, have been desecrated. The absence of music, art, and skilled labor in this desolate state symbolizes utter decay. Rome's impending destruction will result in a famine, leaving no inhabitants to even partake in the grinding of corn, signifying the end of rich feasts and luxurious living.",
+        "wordCount": 85,
+        "quoteTokenProportion": 25.4,
+        "qualityScore": 1.647912029072161,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.14,
+        "commentatorTierSimilarities": [
+            22.21,
+            39.68,
+            38.11
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The sound of harpers and musicians and flute-players shall never be heard in thee any more.",
+            "Every artisan of every art shall never be found in thee any more.",
+            "The sound of the millstone shall never be heard in thee any more."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "22. pipers\u2014flute players.",
+            "\t\"Musicians,\" painters and sculptors, have desecrated their",
+            "\tart to lend fascination to the sensuous worship of corrupt",
+            "\tChristendom. ",
+            "\t",
+            "craftsman\u2014artisan."
+        ],
+        "Albert Barnes": [
+            "Of course, in a great and 'fun' city, there would be all kinds of music; and when it is said that this would be heard there no more it is a most striking image of utter desolation.",
+            "The general idea is, that the sound of music, as an indication of festivity and joy, would cease.",
+            "The word used here - \u03c4\u03b5\u03c7\u03bd\u03b9\u0301\u03c4\u03b7\u03c2 technite\u0304s - would include all artisans or mechanics, all who were engaged in any kind of trade or craft. The meaning here is, that all these would disappear, an image, of course, of utter decay."
+        ],
+        "Marvin Vincent": [
+            "The primitive education at Athens consisted of two branches: gymnastics for the body, music for the mind.",
+            "During the middle of the fifth century B.C. at Athens, there came thus to be found among the musical teachers men of the most distinguished abilities and eminence.",
+            "The female flute-players, usually dissolute characters, were indispensable attendants at the Greek banquets."
+        ],
+        "Archibald T. Robertson": [
+            "The voice (\u03c6\u03c9\u03bd\u03b7). Cf. Ezekiel 26:13. Or 'sound' as in 1 Corinthians 14:8 with \u03c3\u03b1\u03bb\u03c0\u03b9\u03b3\u03be (trumpet). For this song of judgment see Jeremiah 25:10.",
+            "Of flute-players (\u03b1\u03c5\u03bb\u03b7\u03c4\u03c9\u03bd). Old word (from \u03b1\u03c5\u03bb\u03b5\u03c9, to play on a flute, Matthew 11:17, \u03b1\u03c5\u03bb\u03bf\u03c2, flute, 1 Corinthians 14:7), in N.T. only here and Matthew 9:23.",
+            "Shall be heard no more at all (\u03bf\u03c5 \u03bc\u03b7 \u03b1\u03ba\u03bf\u03c5\u03c3\u03b8\u03b7). First aorist passive subjunctive of \u03b1\u03ba\u03bf\u03c5\u03c9 with the double negative as below, with \u03c6\u03c9\u03bd\u03b7 \u03bc\u03c5\u03bb\u03bf\u03c5 (sound of the millstone),... and as in verse Revelation 18:21 with \u03bf\u03c5 \u03bc\u03b7 \u03b5\u03c5\u03c1\u03b5\u03b8\u03b7 and again with \u03c0\u03b1\u03c2 \u03c4\u03b5\u03c7\u03bd\u03b9\u03c4\u03b7\u03c2 (craftsman)."
+        ],
+        "John Gill": [
+            "There will be no more bells, nor organs, or any other instruments of music; no more chanters, and sub-chanters, choristers, singing men and boys.\" ",
+            "There will be a famine at the time that Rome is besieged... and after it is destroyed, there will be no corn to grind, nor inhabitants to eat it, and so no use of the millstone.",
+            "This may also refer to feasts and rich entertainments, for which spices were ground and prepared by a hand mill in the house; and so may signify here that there would be no more of such entertainments and rich living."
+        ],
+        "John Wesley": [
+            "No artificer \u2014 Arts of every kind, particularly music, sculpture, painting, and statuary, were there carried to their greatest height. No, nor even the sound of a mill-stone shall be heard any more in thee.",
+            "All these expressions denote absolute and eternal desolation.",
+            "The desolation of Rome is therefore described in such a manner, as to show that neither rich nor poor, neither persons of middle rank, nor those of the lowest condition, should be able to live there any more."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the verse, it is proclaimed that the once vibrant and bustling city shall no longer hear the harmonious melodies of harpers, musicians, and flute-players. The sounds of artistry and craftsmanship, the skillful work of artisans, shall cease to exist within its walls. Even the hum of the millstone grinding shall no longer be heard. These sounds and talents, once used to bring delight and joy, have been corrupted and exploited for the sensuous worship of a fallen Christendom. The desolation of Rome, described in such vivid terms, reveals the absolute and eternal destruction that awaits, a devastation that will render all inhabitants unable to reside there again.",
+            "wordCount": 109,
+            "quoteTokenProportion": 32.47,
+            "qualityScore": 1.689325276326167,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.51,
+            "commentatorTierSimilarities": [
+                24.77,
+                39.06,
+                36.16
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The vibrant city will never again be filled with the enchanting sounds of harpers, musicians, and flute-players. It will be devoid of skilled artisans and craftsmen who once brought beauty to its walls. The grinding of the millstone, a familiar sound of daily life, will also fall silent. These once cherished expressions of talent and creativity have been tainted by the corrupt practices of a fallen Christendom. The desolation of Rome will be complete, leaving no possibility for habitation.",
+            "wordCount": 80,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.5097749763182629,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.54,
+            "commentatorTierSimilarities": [
+                23.17,
+                39.45,
+                37.38
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The once lively city shall no longer resonate with the melodies of harpers and musicians, the skillful craftsmanship of artisans, or the grinding sound of the millstone. These sounds, intertwined with the corrupt practices of a fallen Christendom, have been desecrated. The absence of music, art, and skilled labor in this desolate state symbolizes utter decay. Rome's impending destruction will result in a famine, leaving no inhabitants to even partake in the grinding of corn, signifying the end of rich feasts and luxurious living.",
+            "wordCount": 85,
+            "quoteTokenProportion": 25.4,
+            "qualityScore": 1.647912029072161,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.14,
+            "commentatorTierSimilarities": [
+                22.21,
+                39.68,
+                38.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The vibrant sounds of harpers, musicians, and flute-players will cease to be heard in the once bustling city. The skilled craftsmanship of artisans and the familiar grinding of the millstone will also fade into silence. These expressions of talent and creativity have lost their purity and have become tools for a corrupt Christendom. Rome's forthcoming destruction will result in a devastating famine, eradicating the inhabitants and leaving behind a desolate wasteland. The absence of artistry and industry symbolizes the irreversible decay and desolation that awaits.",
+            "wordCount": 87,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.5421891414276976,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.62,
+            "commentatorTierSimilarities": [
+                22.07,
+                38.83,
+                39.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The flourishing sounds of harpers, musicians, and flute-players will cease to echo within the city's walls. The skillful craftsmanship of artisans and the grinding of the millstone will fade into silence as well. These once celebrated expressions of creativity have been tainted to serve the corrupted worship of Christendom. Rome's eminent destruction will result in a famine, eliminating both inhabitants and sustenance. The absence of artistry and labor depicts the irreversible desolation that awaits.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.546414166548348,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.76,
+            "commentatorTierSimilarities": [
+                22.86,
+                38.5,
+                38.64
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

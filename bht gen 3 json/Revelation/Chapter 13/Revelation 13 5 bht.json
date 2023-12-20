@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:34",
+    "verseRef": "Revelation 13:5",
+    "bestBHT": {
+        "bht": "During the rise of the antichrist, he will be given power and authority for 42 months to carry out his works, speaking great and blasphemous things. The duration of his existence aligns with the timeframe associated with the papacy. His claims assert a divine right and involve control over people's freedoms and consciences. The source of his power is Satan, with divine permission. Throughout his reign, he will continue to blaspheme, marking the entirety of his rule.",
+        "wordCount": 77,
+        "quoteTokenProportion": 30.19,
+        "qualityScore": 1.755842473212743,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+        "commentatorTierSimilarities": [
+            23.11,
+            30.3,
+            46.58
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And there was given unto him a mouth speaking great and blasphemous things.",
+            "There was given to it power to work forty-two months.",
+            "The well-known period of the agency of antichrist; 3 \u00bd years; 1260 days."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "blasphemies\u2014So ANDREAS reads. B reads 'blasphemy.' A, 'blasphemous things' (compare Daniel 7:8; Daniel 11:25).",
+            "power\u2014'authority'; legitimate power (Greek, 'exousia').",
+            "to continue\u2014Greek, 'poiesai,' 'to act,' or 'work.' B reads, 'to make war' (compare Daniel 11:25). But A, C, Vulgate, Syriac, and ANDREAS omit 'war.'"
+        ],
+        "Albert Barnes": [
+            "These arrogant claims consisted in the assertion of a divine right; in the power assumed over the liberty, the property, and the consciences of the people; in the arbitrary commands that were issued; and in the right asserted of giving absolute law.",
+            "The whole power represented by the 'beast' will be blasphemous.",
+            "The duration of the existence of this power is the same as what is everywhere ascribed to the papacy, in the passages which refer to it; and all the circumstances, as before remarked, show that the same general power is referred to by the two 'beasts' which are described in this chapter."
+        ],
+        "Marvin Vincent": [
+            "To continue forty and two months. Lit., to make forty and two months.\" ",
+            "The best expositors, however, render poihsai absolutely, to work, and the following accusative as the accusative of duration, 'during forty and two months.'",
+            "Rev., margin to do his works during, etc."
+        ],
+        "Philip Schaff": [
+            "And there was given him a mouth speaking great things and blasphemies.",
+            "This is the first of three things spoken of (Revelation 13:5-7) as 'given,' i.e given by God to whom in its utmost might the beast is subject.",
+            "The second thing 'given' is authority to work forty and two months."
+        ],
+        "Archibald T. Robertson": [
+            "The ultimate source of power is God, but the reference seems to be Satan here.",
+            "Speaking great things and blasphemies.",
+            "To continue... as in Matthew 20:12; Acts 20:3; James 4:13."
+        ],
+        "John Gill": [
+            "And this was given him, it was at the instigation of Satan, and by divine permission; his coming, speaking, and acting, were after the working of Satan, but not without the will of God.\" ",
+            "As long as he continues, he will continue blaspheming; as soon as he arose he had a name of blasphemy on his heads, and his mouth was immediately opened in blasphemy, and so it continues, and will to the end of this date.",
+            "Hence it appears, that 1260 prophetic days, that is, years, contain the whole period of antichrist's reign and continuance; so that could we tell where they began, it might be exactly known when his reign will end."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "During the rise of the antichrist, he will be given power and authority for a limited period of 42 months to carry out his works, which include speaking great and blasphemous things. The duration of his existence corresponds to the timeframe associated with the papacy. His arrogant claims assert a divine right and involve exerting control over the people's freedoms, property, and conscience. This power is ultimately sourced from Satan, with divine permission. The antichrist's reign is marked by continual blasphemy, starting from its inception and carrying on until its end. This period of 1260 prophetic days, or years, signifies the entirety of antichrist's rule.",
+            "wordCount": 106,
+            "quoteTokenProportion": 30.67,
+            "qualityScore": 1.7527282934931256,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.62,
+            "commentatorTierSimilarities": [
+                21.04,
+                29.22,
+                49.74
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "During the rise of the antichrist, there is given to him power and authority for 42 months, during which he will speak great and blasphemous things. This duration corresponds to the timeframe attributed to the papacy. His arrogant claims assert a divine right and involve control over the people's freedoms and conscience. The source of this power is Satan, although with divine permission. The antichrist's reign is characterized by continual blasphemy, starting from its inception until its end, signifying the entirety of his rule.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 1.740521212840093,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.21,
+            "commentatorTierSimilarities": [
+                20.78,
+                31.46,
+                47.76
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "During the rise of the antichrist, he will be given authority for 42 months to carry out his works, speaking great and blasphemous things. This duration aligns with the timeframe associated with the papacy. His claims assert a divine right and involve control over people's freedoms and consciences. The source of his power is Satan, with divine permission. Throughout his reign, he will continue to blaspheme, marking the entirety of his rule.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 1.704230951534937,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.01,
+            "commentatorTierSimilarities": [
+                22.77,
+                29.57,
+                47.66
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The antichrist will receive power and authority for a period of 42 months to carry out his works, including speaking great and blasphemous things. This timeframe corresponds to the duration of the papacy. His claims assert a divine right, exerting control over people's freedoms and consciences. The ultimate source of his power is Satan, with divine permission. Throughout his reign, he will continue to blaspheme, marking the entirety of his rule.",
+            "wordCount": 71,
+            "quoteTokenProportion": 28.85,
+            "qualityScore": 1.7190543429216172,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.5,
+            "commentatorTierSimilarities": [
+                23.3,
+                30.8,
+                45.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "During the rise of the antichrist, he will be given power and authority for 42 months to carry out his works, speaking great and blasphemous things. The duration of his existence aligns with the timeframe associated with the papacy. His claims assert a divine right and involve control over people's freedoms and consciences. The source of his power is Satan, with divine permission. Throughout his reign, he will continue to blaspheme, marking the entirety of his rule.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.19,
+            "qualityScore": 1.755842473212743,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.72,
+            "commentatorTierSimilarities": [
+                23.11,
+                30.3,
+                46.58
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

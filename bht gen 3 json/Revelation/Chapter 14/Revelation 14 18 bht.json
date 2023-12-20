@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:47:31",
+    "verseRef": "Revelation 14:18",
+    "bestBHT": {
+        "bht": "And another angel, who has power over the fire, came from the altar. The description of this angel is unique in the vision, representing the justice of God executing His wrath on the ungodly who are ripe for judgment. The angel is commanded to gather the clusters of the vine of the earth, symbolizing the multitude of the wicked, because their wickedness is great and their iniquity is full. This angel, coming from the altar, signifies that he is acting on behalf of God's justice and the prayers of the saints for vengeance.",
+        "wordCount": 94,
+        "quoteTokenProportion": 37.5,
+        "qualityScore": 2.2164355620345924,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+        "commentatorTierSimilarities": [
+            28.91,
+            29.07,
+            42.02
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And another angel came out from the altar... he that hath power over the fire.\" ",
+            "It is to be observed that the whole description of this angel, coming from the altar of vengeance, differs widely from anything in the former part of the vision.",
+            "Put forth thy sharp sickle, and gather the bunches of the vine of the earth, because her grapes are ripe."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The incense-accompanied prayers of all saints, which bring down in answer God's fiery judgment on the Church's foes.",
+            "The fire being taken from the altar and cast upon the earth.",
+            "Come to their acme\": ripe for punishment."
+        ],
+        "Albert Barnes": [
+            "As the work now to be done was a work of destruction, this was an appropriate place in the representation.",
+            "Fire is the usual emblem of destruction; and as the work now to be done was such, it was proper to represent this angel as engaged in it.",
+            "The image here employed occurs elsewhere to denote the destruction of the wicked."
+        ],
+        "Marvin Vincent": [
+            "Altar. See on Acts 17:23.",
+            "Gather. From trugh dryness, included in the notion of ripeness, and hence the vintage, harvest.",
+            "Are fully ripe. Only here in the New Testament. From ajkmh, transcribed in acme, the highest point. Hence the verb means to reach the height of growth, to be ripe."
+        ],
+        "Philip Schaff": [
+            "It is this fire, not fire in general, that is referred to when the angel is described as he that hath power over the fire.\" ",
+            "The fire is the judgments of God upon the earth.",
+            "As in Revelation 14:16 we were told only of the harvest of the good, so here we are told only of the vintage of the wicked."
+        ],
+        "Archibald T. Robertson": [
+            "The fifth angel above Swete terms 'the Angel of vengeance.'",
+            "If it is the altar of burnt offering, we are reminded of the blood of the martyrs.",
+            "'Gather' (\u03c4\u03c1\u03c5\u03b3\u03b7\u03c3\u03bf\u03bd). First aorist active imperative of \u03c4\u03c1\u03c5\u03b3\u03b1\u03c9, old verb (from \u03c4\u03c1\u03c5\u03b3\u03b7 dryness, ripeness), in N.T. only Revelation 15:18 and Luke 6:44."
+        ],
+        "John Gill": [
+            "The angel coming from thence signifies, that he came on the behalf of the justice of God, treating that he, to whom vengeance belonged, would execute it upon all the ungodly, who were ripe for judgment.",
+            "Fire is to be taken here, not for the Spirit, and his gifts, which not a created angel, but Christ only, has power over, to baptize with; nor the Gospel, nor martyrdom, but rather the wrath of God, which in Scripture is often compared to fire, of which this angel was an executioner.",
+            "And the clusters of it may denote the great multitude of the wicked now to be cut down, gathered in, and destroyed, the reason given, for her grapes are fully ripe; their wickedness very great, their iniquity full, the measure of their sins filled up, and they fitted for destruction, and ripe for ruin."
+        ],
+        "John Wesley": [
+            "And another angel from the altar \u2014 Of burnt offering; from whence the martyrs had cried for vengeance.",
+            "Who had power over fire \u2014 As 'the angel of the waters,' Revelation 16:5, had over water.",
+            "Cried, saying, Lop off the clusters of the vine of the earth \u2014 All the wicked are considered as constituting one body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "And another angel came out from the altar and it is to be observed that the whole description of this angel differs widely from anything in the former part of the vision. This angel, representing the justice of God, comes on behalf of the righteous and carries the fire of God\u2019s wrath. He is commanded to gather the wicked, described as clusters of the vine of the earth, because their wickedness is great and their iniquity is full, making them ripe for judgment. This image of fire is a symbol of the destruction that awaits the ungodly, and the angel from the altar is the executioner of God\u2019s righteous judgment.",
+            "wordCount": 112,
+            "quoteTokenProportion": 41.27,
+            "qualityScore": 2.2148035284861987,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.98,
+            "commentatorTierSimilarities": [
+                28.07,
+                32.71,
+                39.22
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "And another angel, who has power over the fire, came from the altar. The description of this angel is unique in the vision, representing the justice of God executing His wrath on the ungodly who are ripe for judgment. The angel is commanded to gather the clusters of the vine of the earth, symbolizing the multitude of the wicked, because their wickedness is great and their iniquity is full. This angel, coming from the altar, signifies that he is acting on behalf of God's justice and the prayers of the saints for vengeance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 2.2164355620345924,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.04,
+            "commentatorTierSimilarities": [
+                28.91,
+                29.07,
+                42.02
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From the altar of vengeance came another angel with power over the fire, a distinct figure in the vision. This angel, representing God's justice, is commanded to gather the ripe bunches of the vine, symbolizing the multitude of the wicked. The clusters are to be cut down and destroyed because their wickedness is great and their sins are fully ripe for judgment. The fire, representing the judgments of God, is cast upon the earth by the angel, executing divine justice upon the ungodly.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.36,
+            "qualityScore": 2.2036694134611894,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.61,
+            "commentatorTierSimilarities": [
+                27.07,
+                32.22,
+                40.71
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "And from the altar of vengeance, another angel emerged, possessing power over the fire. This angel's purpose contrasts greatly with the previous visions. Commanded to gather the ripe bunches of the vine symbolizing the multitude of the wicked, their wickedness has reached its peak, making them ripe for punishment. The fire, extracted from the altar, is a representation of God's wrathful judgment, to be unleashed upon the ungodly. This angel serves as the executor of divine justice upon those deserving of retribution.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.9,
+            "qualityScore": 2.114851129200664,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.66,
+            "commentatorTierSimilarities": [
+                30.45,
+                30.12,
+                39.43
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Emerging from the altar, another angel, distinct from the previous visions, comes forth with power over the fire. Instructed to gather the clusters of the vine, symbolizing the multitude of the wicked, he does so because their iniquity is fully ripe for judgment. This fire, taken from the altar, represents God's wrath and serves as a fitting punishment for the ungodly. The angel acts on behalf of God's justice, executing His fiery judgment upon those deserving of His retribution.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 2.200089451032292,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.49,
+            "commentatorTierSimilarities": [
+                29.07,
+                31.22,
+                39.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

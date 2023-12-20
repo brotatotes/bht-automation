@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:48:33",
+    "verseRef": "Revelation 17:14",
+    "bestBHT": {
+        "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads.",
+        "wordCount": 84,
+        "quoteTokenProportion": 45.65,
+        "qualityScore": 2.1254654947058413,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+        "commentatorTierSimilarities": [
+            43.65,
+            29.08,
+            27.27
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lamb shall conquer them, because He is Lord of lords and King of kings.\" ",
+            "All that are chosen are first called.\" ",
+            "The arrangement of the sentence in the original seems against this view."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These shall ... war with the Lamb\u2014in league with the beast.\" ",
+            "Lord of lords, &c.\u2014anticipating Revelation 19:16.\" ",
+            "And they that are with Him, called chosen, and faithful (shall overcome them, namely, the beast and his allied kings)."
+        ],
+        "Albert Barnes": [
+            "They would combine with the papacy in opposing evangelical religion.",
+            "In spite of all opposition and persecution, that would still live in the world, until it would be said that a complete triumph was gained.",
+            "In their steadfast adherence to the truth, they had shown that they were truly chosen by the Saviour, and could be relied on in the warfare against the powers of evil."
+        ],
+        "Philip Schaff": [
+            "It may be noticed that the statement of the last half of the verse is not that of the Authorised Version, that the Lamb shall overcome because they that are with Him are called and chosen and faithful, but that they that are with him, called, and chosen, and faithful, shall be partakers of the victory.\" ",
+            "The Seer now returns to the woman who sat upon the beast.",
+            "In this verse, the war of the ten kings with the Lamb is described, but it is unnecessary to dwell upon it."
+        ],
+        "Archibald T. Robertson": [
+            "And the Lamb shall overcome them. This is the glorious outcome, victory by the Lamb over the coalition of kings as against the beast before.\" ",
+            "For he is Lord of lords and King of kings. Crowned heads are Christ's subjects.",
+            "And they also shall overcome that are with him. They will share in the triumph of the Lamb, as they shared in the conflict. Called and chosen and faithful. These are the three notes of those who share in the victory."
+        ],
+        "John Gill": [
+            "nor can anything separate them from the love of Christ, or prevail upon them to desert him, his truths and ordinances, cause and interest, but are more than conquerors through him, and so he overcomes in them",
+            "he is so by nature, as God and Creator, to whom the kingdom of nature and providence belongs; and by office, as Mediator, being made higher than the kings of the earth; hence he is more than a match for them, they cannot stand before him",
+            "they are chosen in Christ from all eternity, to grace here, and glory hereafter, and so stand opposed to the admirers of the beast, whose names are not written in the book of life"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. They are the ones who stand steadfast in their adherence to the truth, demonstrating that they are chosen by the Savior and reliable in the battle against evil. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads. Those who share in His triumph have the three distinguishing marks of being called, chosen, and faithful.",
+            "wordCount": 129,
+            "quoteTokenProportion": 44.78,
+            "qualityScore": 2.0568928547486505,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.73,
+            "commentatorTierSimilarities": [
+                39.75,
+                30.16,
+                30.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. They are the ones who stand steadfast in their adherence to the truth, demonstrating that they are chosen by the Savior and reliable in the battle against evil. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads.",
+            "wordCount": 112,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.079602267199908,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.49,
+            "commentatorTierSimilarities": [
+                40.18,
+                30.39,
+                29.43
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.1254654947058413,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                43.65,
+                29.08,
+                27.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.1254654947058413,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                43.65,
+                29.08,
+                27.27
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lamb conquers because He is the Lord of lords and King of kings. Those who are chosen are first called, and they will war with the Lamb in alliance with the beast. The Lamb will overcome the kings who are allied with the beast, for He is the victorious Lord. Those who are with Him, called, chosen, and faithful, will also share in this triumph. The Lamb's victory is the glorious outcome, as He is the rightful ruler over all crowned heads.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.65,
+            "qualityScore": 2.1254654947058413,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.01,
+            "commentatorTierSimilarities": [
+                43.65,
+                29.08,
+                27.27
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

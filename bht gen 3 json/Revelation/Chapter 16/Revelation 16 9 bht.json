@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 21:47:57",
+    "verseRef": "Revelation 16:9",
+    "bestBHT": {
+        "bht": "When the men experienced the plagues and were scorched with great heat, they refused to repent and give God glory. Instead, this affliction hardened their hearts and caused them to blaspheme God. They blamed Him for the plagues and failed to recognize His power over them. This highlights the sobering reality that even deserved punishment can lead to further hardness of the heart, rather than repentance. Truly, repentance is not a power within ourselves, but a gracious gift from God.",
+        "wordCount": 80,
+        "quoteTokenProportion": 47.54,
+        "qualityScore": 2.128645517088459,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.12,
+        "commentatorTierSimilarities": [
+            24.53,
+            33.57,
+            41.9
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Men were scorched with great heat, and blasphemed the name of God...",
+            "...who hath power over these plagues...",
+            "...and did not repent to give Him glory."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "9. men\u2014Greek, \"the",
+            "\tmen.\" ",
+            "\t",
+            "repented not to give him",
+            "\tglory\u2014 (Revelation 9:20).",
+            "\tAffliction, if it does not melt, hardens the sinner. Compare the",
+            "\tbetter result on others, Revelation 11:13;",
+            "\tRevelation 14:7; Revelation 15:4."
+        ],
+        "Albert Barnes": [
+            "The effect would be to cause them to blaspheme God or to reproach him as the author of these calamities.",
+            "The effect was not to produce repentance, though it was manifest that these judgments had come upon them on account of their sins.",
+            "None of these judgments brought people to 'repentance, that they might give God the glory.'"
+        ],
+        "Marvin Vincent": [
+            "Repent to give Him glory. Glorify Him by repentance.",
+            "His kingdom was darkened. Compare Exodus 10:21, Exodus 10:22.",
+            "They gnawed [\u03b5\u03bc\u03b1\u03c3\u03c3\u03c9\u03bd\u03c4\u03bf] . Only here in the New Testament."
+        ],
+        "Philip Schaff": [
+            "The blaspheming is produced not by the last plague alone, but by the four that have been spoken of, \u2018plagues\u2019 not plague.",
+            "There is no repentance. Those visited are the followers of the beast. They have chosen their portion; they have hardened themselves.",
+            "They are made worse by judgment."
+        ],
+        "Archibald T. Robertson": [
+            "With great heat (\u03ba\u03b1\u03c5\u03bc\u03b1 \u03bc\u03b5\u03b3\u03b1). Cognate accusative retained with the passive verb.\" ",
+            "They blamed God for the plagues.",
+            "Even deserved punishment may harden the heart."
+        ],
+        "John Gill": [
+            "Plagues or judgments are from God, when and wherever they come; they are sent and inflicted by him, and he can lessen or increase them, continue or remove them, as he pleases.\" ",
+            "Unless sanctified, [plagues] will not reform men, but harden them, and set them a blaspheming the author of them.",
+            "This shows that repentance is not in man's power, but in the gift of God's grace."
+        ],
+        "John Wesley": [
+            "And the men blasphemed God, who had power over these plagues \u2014 They could not but acknowledge the hand of God, yet did they harden themselves against him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "When the men in Revelation 16:9 were scorched with great heat and experienced the plagues, they chose not to repent and give God glory. Instead, they hardened their hearts and blasphemed His name, blaming Him for their sufferings. This displays how affliction, even when deserved, can have the opposite effect on the sinner, causing them to resist rather than submit to God. These plagues were meant to bring about repentance, but instead they brought out the worst in people, leading to blasphemy and a refusal to acknowledge God's sovereignty over these judgments. It is a stark reminder that repentance is a grace given by God, not a power within ourselves to attain.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.101653273531258,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                21.85,
+                35.06,
+                43.09
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "When the men experienced the plagues and were scorched with great heat, they refused to repent and give God glory. Instead, this affliction hardened their hearts and caused them to blaspheme God. They blamed Him for the plagues and failed to recognize His power over them. This highlights the sobering reality that even deserved punishment can lead to further hardness of the heart, rather than repentance. Truly, repentance is not a power within ourselves, but a gracious gift from God.",
+            "wordCount": 80,
+            "quoteTokenProportion": 47.54,
+            "qualityScore": 2.128645517088459,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.12,
+            "commentatorTierSimilarities": [
+                24.53,
+                33.57,
+                41.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "When the men in Revelation 16:9 were scorched with great heat and experienced the plagues, they chose not to repent and give God glory. Instead, they hardened their hearts and blasphemed His name, blaming Him for their sufferings. This displays how affliction, even when deserved, can have the opposite effect on the sinner, causing them to resist rather than submit to God. These plagues were meant to bring about repentance, but instead they brought out the worst in people, leading to blasphemy and a refusal to acknowledge God's sovereignty over these judgments. It is a stark reminder that repentance is a grace given by God, not a power within ourselves to attain.",
+            "wordCount": 112,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.101653273531258,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.22,
+            "commentatorTierSimilarities": [
+                21.85,
+                35.06,
+                43.09
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The men in this passage faced scorching heat and plagues but refused to repent or acknowledge God's power and glory. Instead, they blasphemed and blamed Him for their afflictions. This shows how even deserved punishment can harden the heart and lead to further rebellion. The plagues were intended to bring about repentance, but instead, they incited blasphemy and denial of God's authority. It serves as a reminder that repentance is a gift of God's grace, not something we can achieve on our own.",
+            "wordCount": 86,
+            "quoteTokenProportion": 44.62,
+            "qualityScore": 2.10106030218757,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.2,
+            "commentatorTierSimilarities": [
+                24.09,
+                32.85,
+                43.06
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The men faced scorching heat and plagues, yet they refused to repent and give God glory. Instead, they blasphemed and blamed Him for their sufferings. This reveals that affliction can harden the sinner, leading to further rebellion. Despite the purpose of the plagues being to bring about repentance, they only intensified the blasphemy and denial of God's authority. It serves as a stark reminder that repentance is a gift of God's grace, not a self-attainable power.",
+            "wordCount": 79,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 2.122747416482575,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.92,
+            "commentatorTierSimilarities": [
+                24.07,
+                33.43,
+                42.5
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

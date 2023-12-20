@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:47:35",
+    "verseRef": "Revelation 15:5",
+    "bestBHT": {
+        "bht": "The temple of the tabernacle, called the holy place of the testimony, is where God's witness and covenant will be fulfilled. This tabernacle, housing the ark with the testimony against sin, reveals the secret purpose behind God's righteous dealings. Angels are sent from this holy presence to execute God's judgments on the corrupt anti-Christian power. The opening of this temple signifies the establishment of Gospel churches, a clear revelation of God's judgments on antichrist, and a new stage for their manifestation.",
+        "wordCount": 86,
+        "quoteTokenProportion": 31.58,
+        "qualityScore": 2.416955883453966,
+        "qualityScoreNormalizedComparedToV2BHTs": 71.7,
+        "commentatorTierSimilarities": [
+            34.08,
+            31.21,
+            34.71
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The temple (proper) is the holy place of the tabernacle, to which latter the appellation of the testimony is here peculiarly appropriate, seeing that the witness and covenant of God are about to receive their great fulfilment.",
+            "The witness and covenant of God are about to receive their great fulfilment.",
+            "The temple of the tabernacle of the testimony in heaven."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The tabernacle of the testimony\" appropriately here comes to view, where God's faithfulness in avenging His people with judgments on their foes is about to be set forth.",
+            "We need to get a glimpse within the Holy place to \"understand\" the secret spring and the end of God's righteous dealings.",
+            "It is supported only by Vulgate, Coptic, and PRIMASIUS, but no manuscript."
+        ],
+        "Albert Barnes": [
+            "I saw the preparation made for the execution of these purposes of judgment.",
+            "The same word came naturally to be applied to the temple that was reared for the same purpose in Jerusalem.",
+            "From his holy presence now came forth the angels to execute his purposes of judgment on that anti-Christian power which had so long corrupted religion and oppressed the world."
+        ],
+        "Marvin Vincent": [
+            "The temple of the tabernacle [\u03bf \u03bd\u03b1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03ba\u03b7\u03bd\u03b7\u03c2] . The sanctuary of the tabernacle.\" ",
+            "The tabernacle was called 'the Tabernacle of the Testimony' because it contained the ark with the law of God which testifies against sin.",
+            "Compare ch. 11 19."
+        ],
+        "Philip Schaff": [
+            "When at chap. Revelation 11:19 the \u2018temple of God that is in heaven\u2019 was opened there was seen \u2018the ark of the covenant\u2019 reminding of mercy here the same ark is seen, but now it is in \u2018the tabernacle of witness,\u2019 i.e in the tabernacle containing the tables of the law by which God witnessed against Israel.\" ",
+            "At present, therefore, there is only judgment in view, and God is to take immediate part in it.",
+            "After these things I saw, and the temple of the tabernacle of witness in heaven was opened."
+        ],
+        "Archibald T. Robertson": [
+            "The temple of the tabernacle of the testimony is in mind and the tent of meeting.",
+            "Probably the tabernacle or tent of witness is in mind.",
+            "For \u03bd\u03b1\u03bf\u03c2 see Revelation 3:12; Revelation 7:15; Revelation 14:15; Revelation 14:17; Revelation 16:1; Revelation 16:17."
+        ],
+        "John Gill": [
+            "The church is called 'the temple,' in allusion to Solomon's temple, because of its builder, materials, situation, magnificence, strength, holiness, and use.",
+            "By the opening of the temple... is meant a free exercise of the true religion, a setting up of Gospel churches according to the original plan, a keeping of the ordinances, as they were first delivered, and a more clear discovery of Gospel truths.",
+            "It is the same with the open door in the Philadelphian church state... as well as that at this time there will be a full manifestation of the judgments of God upon antichrist."
+        ],
+        "John Wesley": [
+            "After these things the temple of the tabernacle of the testimony \u2014 The holiest of all.",
+            "Was opened \u2014 Disclosing a new theatre for the coming forth of the judgments of God now made manifest."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple of the tabernacle, known as the holy place of the testimony, is about to witness the fulfillment of God's witness and covenant. This tabernacle, which contained the ark with the testimony of God's law against sin, represents the secret spring and purpose behind God's righteous dealings. From this holy presence, angels are sent forth to execute God's judgments on the corrupt and oppressive anti-Christian power. This opening of the temple signifies a free exercise of true religion, the establishment of Gospel churches, and a clear revelation of God's judgments upon antichrist. It unveils a new stage for the manifestation of God's judgments that have been made known.",
+            "wordCount": 116,
+            "quoteTokenProportion": 32.39,
+            "qualityScore": 2.280324707590594,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.16,
+            "commentatorTierSimilarities": [
+                31.72,
+                32.23,
+                36.04
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple of the tabernacle, called the holy place of the testimony, is where God's witness and covenant will be fulfilled. This tabernacle, housing the ark with the testimony against sin, reveals the secret purpose behind God's righteous dealings. Angels are sent from this holy presence to execute God's judgments on the corrupt anti-Christian power. The opening of this temple signifies the establishment of Gospel churches, a clear revelation of God's judgments on antichrist, and a new stage for their manifestation.",
+            "wordCount": 86,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.416955883453966,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.7,
+            "commentatorTierSimilarities": [
+                34.08,
+                31.21,
+                34.71
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple of the tabernacle, known as the holy place of the testimony, is about to witness the fulfillment of God's witness and covenant. This tabernacle, which contained the ark with the testimony of God's law against sin, represents the secret spring and purpose behind God's righteous dealings. From this holy presence, angels are sent forth to execute God's judgments on the corrupt and oppressive anti-Christian power. This opening of the temple unveils a new stage for the manifestation of God's judgments that have been made known.",
+            "wordCount": 93,
+            "quoteTokenProportion": 36.21,
+            "qualityScore": 2.403330290193626,
+            "qualityScoreNormalizedComparedToV2BHTs": 71.25,
+            "commentatorTierSimilarities": [
+                33.4,
+                32.61,
+                34.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple and tabernacle, referred to as the holy place of the testimony, reveal God's witness and covenant coming to fruition. This tabernacle holds the ark with the testimony against sin, symbolizing the purpose behind God's righteous dealings. Angels are dispatched from this sacred dwelling to execute judgments on the anti-Christian power that corrupts and oppresses. Through the opening of this temple, a new platform emerges for the manifestation of God's known judgments, signaling the establishment of Gospel churches and the revelation of His judgments on antichrist.",
+            "wordCount": 91,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.304062628428928,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.95,
+            "commentatorTierSimilarities": [
+                33.27,
+                31.45,
+                35.28
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple of the tabernacle, known as the holy place of the testimony, is about to witness the fulfillment of God's witness and covenant. From this sacred dwelling, angels are sent forth to execute God's judgments on the corrupt and oppressive anti-Christian power. The opening of this temple unveils a new stage for the manifestation of God's known judgments, symbolizing the establishment of Gospel churches and the revelation of His judgments on antichrist. It signifies a free exercise of true religion and a clearer discovery of Gospel truths.",
+            "wordCount": 92,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 2.1425560353463604,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.58,
+            "commentatorTierSimilarities": [
+                31.16,
+                30.62,
+                38.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:44:56",
+    "verseRef": "Revelation 9:12",
+    "bestBHT": {
+        "bht": "The interpretations of the locusts from the pit in Revelation are numerous, but none are completely satisfactory. These locusts represent the imminent judgments before Christ's second coming, which will not affect the sealed of Israel. The phrase the one woe signifies the first of two significant events that will bring sorrow to mankind. As we progress through the judgments, the magnitude deepens, demanding a more solemn observance. One woe has already passed, and there are two more to come.",
+        "wordCount": 80,
+        "quoteTokenProportion": 44.07,
+        "qualityScore": 1.8572719253056558,
+        "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+        "commentatorTierSimilarities": [
+            34.68,
+            31.71,
+            33.62
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There is an endless Babel of allegorical and historical interpretation of these locusts from the pit.",
+            "The various und mysterious particulars of the vision will no doubt clear themselves up to the church of God when the time of its fulfillment arrives.",
+            "No such clearing up has yet taken place, a very few hours of research among histories of apocalyptic interpretation will serve to convince any reader who is not himself the servant of a preconceived system."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "These locusts from the abyss refer to judgments about to fall on the ungodly immediately before Christ's second advent.\" ",
+            "None of the interpretations which regard them as past, are satisfactory.",
+            "The locust judgment [is] confined to Palestine, the sealed of Israel alone needed to be expressly excepted from the visitation."
+        ],
+        "Albert Barnes": [
+            "Two momentous and important events that will be attended with sorrow to mankind.",
+            "It cannot be intended that there would be no other evils that would visit mankind.",
+            "The eye, in glancing along the future, rested on these as having a special pre-eminence in affecting the destiny of the church and the world."
+        ],
+        "Marvin Vincent": [
+            "The first woe [\u03b7 \u03bf\u03c5\u03b1\u03b9 \u03b7 \u03bc\u03b9\u03b1] . Lit., the one woe."
+        ],
+        "Philip Schaff": [
+            "We are now at a higher stage of judgment than in the seals.",
+            "More solemnity therefore befits the occasion.",
+            "The one woe is passed; behold, there come yet two woes hereafter."
+        ],
+        "Archibald T. Robertson": [
+            "The first woe (\u03b7 \u03bf\u03c5\u03b1 \u03b7 \u03bc\u03b9\u03b1).",
+            "Note also the ordinal use of \u03bc\u03b9\u03b1 (one) like \u03c0\u03c1\u03c9\u03c4\u03b7 (first) as in Revelation 6:1; Mark 16:2.",
+            "It is true that \u03bf\u03c5\u03b1 is an interjection and indeclinable, but it is here used with \u03b4\u03c5\u03bf and is feminine just before, and not neuter."
+        ],
+        "John Gill": [
+            "One woe is past,.... One of the three woe trumpets, the first of them...\" ",
+            "Behold there come two woes more hereafter; under the blowing of the sixth and seventh trumpets."
+        ],
+        "John Wesley": [
+            "The Persian power, under which was the first woe, was now broken by the Saracens: from this time the first pause made a wide way for the two succeeding woes.",
+            "And when the usurper Phocas had, in the year 606, not only declared the Bishop of Rome, Boniface III., universal bishop, but also the church of Rome the head of all churches, this was a sure step to advance the Papacy to its utmost height.",
+            "Thus, after the passing away of the first woe, the second, yea, and the third, quickly followed; as indeed they were both on the way together with it before the first effectually began."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The book of Revelation contains various interpretations of the locusts from the pit, and the church of God eagerly awaits the fulfillment of these visions. Past interpretations fail to fully satisfy the meaning behind these locusts, which ultimately symbolize the impending judgments on the ungodly right before Christ's second coming. These judgments are not intended for the sealed of Israel, but are confined to Palestine. The phrase the one woe denotes the first of two momentous events that will bring sorrow to mankind. As we progress through the judgments, the gravity of the situation deepens, demanding a more solemn observation. One woe has already passed, but two more remain.",
+            "wordCount": 110,
+            "quoteTokenProportion": 35.53,
+            "qualityScore": 1.7647636272552458,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.02,
+            "commentatorTierSimilarities": [
+                35.94,
+                31.71,
+                32.35
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The interpretations of the locusts from the pit in Revelation are numerous, but none are completely satisfactory. These locusts represent the imminent judgments before Christ's second coming, which will not affect the sealed of Israel. The phrase the one woe signifies the first of two significant events that will bring sorrow to mankind. As we progress through the judgments, the magnitude deepens, demanding a more solemn observance. One woe has already passed, and there are two more to come.",
+            "wordCount": 80,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 1.8572719253056558,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.1,
+            "commentatorTierSimilarities": [
+                34.68,
+                31.71,
+                33.62
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The interpretations and understanding of the locusts from the pit in Revelation vary greatly. Although many historical and allegorical explanations have been proposed, it is clear that the true meaning will only be known when the time of its fulfillment arrives. However, previous interpretations that claim these locusts have already appeared do not provide a satisfactory explanation. The locust judgment is specific to Palestine, exempting the sealed of Israel from its impact. The phrase the one woe refers to the first of two impactful events that will bring sorrow to humankind.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.3,
+            "qualityScore": 1.7050357869724424,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.03,
+            "commentatorTierSimilarities": [
+                46.26,
+                26.88,
+                26.86
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The interpretations of the locusts from the pit in Revelation vary, and only when the time of their fulfillment approaches will their true meaning become clear. Previous explanations that suggest the locusts are already part of the past fail to provide a satisfactory understanding. These locusts symbolize impending judgments on the ungodly before Christ's second coming, but their effects will not reach the sealed of Israel. The phrase the one woe refers to the first of two significant events that will bring sorrow to mankind, emphasizing the gravity of the situation as we progress through the judgments.",
+            "wordCount": 98,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 1.8356650612854268,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.38,
+            "commentatorTierSimilarities": [
+                40.62,
+                26.05,
+                33.32
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Interpretations of the locusts from the pit in Revelation are varied, and none that consider them as past events are satisfactory. These locusts are symbolic of impending judgments on the ungodly before Christ's second coming, with the sealed of Israel exempted. Referred to as the one woe, these locusts represent the first of two significant events that will bring sorrow to mankind. As the judgments progress, the gravity of the situation deepens, emphasizing the need for a solemn approach. One woe has passed, leaving two more to come.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.8088837524309802,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.49,
+            "commentatorTierSimilarities": [
+                35.46,
+                29.55,
+                34.99
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

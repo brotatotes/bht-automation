@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:47:46",
+    "verseRef": "Revelation 16:14",
+    "bestBHT": {
+        "bht": "The kings of the whole world, unlike the saints, are of this world and under the influence of Satan's lies. They are driven by the dragon, the beast, and the false prophet to wage a war against God. This war goes beyond mere national conflicts; it is a battle against the truth and God Himself. These deceptive spirits lead the ungodly kings to their own destruction, as they are enticed and ensnared in this futile attempt to fight against the Almighty.",
+        "wordCount": 82,
+        "quoteTokenProportion": 38.89,
+        "qualityScore": 1.9378136350638884,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+        "commentatorTierSimilarities": [
+            30.6,
+            32.73,
+            36.67
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Translate, 'kings of the whole habitable world,' who are 'of this world,' in contrast to 'the kings of (from) the East' (the sun-rising), namely, the saints to whom Christ has appointed a kingdom, and who are 'children of light.'\" ",
+            "God, in permitting Satan's miracles, as in the case of the Egyptian magicians who were His instruments in hardening Pharaoh's heart, gives the reprobate up to judicial delusion preparatory to their destruction.",
+            "So this, or whatever is antitypical to it, will be the last effort of the dragon, beast, and false prophet."
+        ],
+        "Albert Barnes": [
+            "Working what seemed to be miracles; that is, such wonders as to deceive the world with the belief that they were miracles.",
+            "No class of people have been more under the influence of pagan superstition, Muhammedan delusion, or the papacy, than kings and princes.",
+            "There would be a combined struggle against the truth, and in that God would appear by his providence and Spirit on the side of the church, and would give it the victory."
+        ],
+        "Marvin Vincent": [
+            "Of the earth and of the whole world.",
+            "World [\u03bf\u03b9\u03ba\u03bf\u03c5\u03bc\u03b5\u03b7\u03c2] . See on Luke 2:1.",
+            "The battle [\u03c0\u03bf\u03bb\u03b5\u03bc\u03bf\u03bd] . Rev., more literally, war. Battle is mach."
+        ],
+        "Philip Schaff": [
+            "They thus show at once their hellish origin, and the power lent them in order that they may be the better enabled to effect their end.",
+            "It is that Satanic might and deception may be exerted to their utmost, so that the enemies of God from all parts of the world may be led to go up to the war in which they shall be destroyed.",
+            "These lying spirits in like manner persuade the kings of the whole godless world to rush upon the fate prepared for them in the last great judgment of God \u2018His day.\u2019"
+        ],
+        "Archibald T. Robertson": [
+            "The three evil spirits (dragon and the two beasts) spur on the kings of the whole world to a real world war.\" ",
+            "Some take this to be war between nations, like Mark 13:8, but it is more likely war against God.",
+            "The battle pictured in Revelation 17:14; Revelation 19:19. Cf. 2 Peter 3:12, 'the day of God,' his reckoning with the nations."
+        ],
+        "John Gill": [
+            "They are of their father the devil; they are acted and influenced by him, he works effectually in them, and leads them captive at his will; they do his lusts, and are murderers and liars, and false teachers, like him.",
+            "they will go forth to them like the lying spirit to Ahab's prophets",
+            "this will be the battle of the Lord, who is God Almighty, and it will be fighting against him; and therefore the attempt must be vain and fruitless, and issue in the ruin of those who are gathered to it, who will be deceived and drawn into it by these diabolical spirits"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 16:14, the kings of the whole world, who are of this world and in contrast to the kings of the East, are driven by the three evil spirits\u2014the dragon, the beast, and the false prophet\u2014to engage in a war against God. This battle, or war, is not simply a conflict between nations, but a struggle against the truth and God Himself. These lying spirits deceive the godless kings and lead them to their destruction. Ultimately, this war of the Lord, who is God Almighty, will end in the ruin of those who are gathered to it, as they are deceived and drawn into it by these diabolical spirits.",
+            "wordCount": 111,
+            "quoteTokenProportion": 44.44,
+            "qualityScore": 2.071411257190205,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.22,
+            "commentatorTierSimilarities": [
+                29.33,
+                32.19,
+                38.48
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In a Revelation passage, the kings of the whole world and those of the East are contrasted, with the former being children of darkness and the latter being the saints appointed by Christ. The three evil spirits - the dragon, the beast, and the false prophet - incite a war against God, not merely between nations but against the ultimate truth. These deceptive spirits lead the godless kings to their inevitable ruin, as they are lured into this battle against the Lord Himself.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.83,
+            "qualityScore": 2.0020808963204626,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                30.4,
+                32.62,
+                36.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The kings of the whole world, unlike the saints, are of this world and under the influence of Satan's lies. They are driven by the dragon, the beast, and the false prophet to wage a war against God. This war goes beyond mere national conflicts; it is a battle against the truth and God Himself. These deceptive spirits lead the ungodly kings to their own destruction, as they are enticed and ensnared in this futile attempt to fight against the Almighty.",
+            "wordCount": 82,
+            "quoteTokenProportion": 38.89,
+            "qualityScore": 1.9378136350638884,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.77,
+            "commentatorTierSimilarities": [
+                30.6,
+                32.73,
+                36.67
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The war depicted in this verse involves the kings of the whole world, who are children of darkness, being spurred on by the dragon, the beast, and the false prophet. It is not a mere conflict between nations but a battle against God Himself. These evil spirits deceive and delude the godless kings, leading them to their inevitable ruin. Ultimately, this war will culminate in God's judgment and the destruction of those who have been deceived by these diabolical forces.",
+            "wordCount": 81,
+            "quoteTokenProportion": 44.26,
+            "qualityScore": 1.9825206450580284,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.26,
+            "commentatorTierSimilarities": [
+                31.37,
+                31.68,
+                36.95
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The kings of the entire world, being of this world, are contrasted with the saints who are children of light. The dragon, the beast, and the false prophet agitate these godless rulers to engage in a war against God Himself. This is not a mere conflict between nations, but a battle against the ultimate truth. These misleading spirits tempt and mislead the kings, leading them to their own destruction. Ultimately, this war will culminate in God's judgment, resulting in the ruin of those who have been deceived by these demonic influences.",
+            "wordCount": 92,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.821008516417213,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.89,
+            "commentatorTierSimilarities": [
+                31.42,
+                32.84,
+                35.75
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

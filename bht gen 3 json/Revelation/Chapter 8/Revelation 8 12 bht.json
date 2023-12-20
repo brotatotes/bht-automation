@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:44:46",
+    "verseRef": "Revelation 8:12",
+    "bestBHT": {
+        "bht": "A partial obscuration of light occurs, as a third part of the light is withdrawn, resulting in the darkening of the night sky. This darkening is reminiscent of the ninth Egyptian plague and signifies a calamity for the world. The obscured sun, moon, and stars serve as an emblem of great disaster and spread darkness, leaving the world in gloom. This decline in evangelical light and knowledge contributes to the rise of antichrist's dominion and leads to the downfall of the empire.",
+        "wordCount": 83,
+        "quoteTokenProportion": 25.0,
+        "qualityScore": 1.5621072635323658,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+        "commentatorTierSimilarities": [
+            29.61,
+            35.99,
+            34.41
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "third part\u2014not a total obscurion... This partial obscuration... comes between the prayers of the martyrs under the fifth seal, and the last overwhelming judgments on the ungodly under the sixth seal...\".",
+            "the night likewise\u2014withdrew a third part of the light...\".",
+            "which the bright Eastern moon and stars ordinarily afford."
+        ],
+        "Albert Barnes": [
+            "The darkening of the heavenly luminaries is everywhere an emblem of any great calamity - as if the light of the sun, moon, and stars should be put out.",
+            "It would be separated in some important sense - of time, place, or degree - from those which were to follow, for there is a pause here.",
+            "The calamity would come as if darkness should spread over the sun, the moon, and the stars, leaving the world in gloom."
+        ],
+        "Philip Schaff": [
+            "Yet it must not be supposed that, because these heavenly bodies are now introduced, we are taken beyond the condition of men in the present world.",
+            "Sun, moon, and stars are thought of only in their relation to earth and its life and comfort, so that when they are affected it also suffers.",
+            "The whole series of the trumpets is more intense in judgment than that of the seals, but not to such a degree that the judgment of the fourth trumpet may not be lighter than that of the sixth seal."
+        ],
+        "Archibald T. Robertson": [
+            "That should be darkened (\u03b9\u03bd\u03b1 \u03c3\u03ba\u03bf\u03c4\u03b9\u03c3\u03b8\u03b7). Purpose clause with \u03b9\u03bd\u03b1 and the first aorist passive subjunctive of \u03c3\u03ba\u03bf\u03c4\u03b9\u03b6\u03c9.",
+            "And the day should not shine (\u03ba\u03b1 \u03b7 \u03b7\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b7 \u03c6\u03b1\u03bd\u03b7). Negative purpose clause with \u03b9\u03bd\u03b1 \u03bc\u03b7 and the first aorist active subjunctive of \u03c6\u03b1\u03b9\u03bd\u03c9.",
+            "The eclipse here is only partial and is kin to the ninth Egyptian plague (Exodus 10:21)."
+        ],
+        "John Gill": [
+            "When the doctrine concerning the person and offices of Christ, who is the sun and light of the world, was obscured by heresies; and the discipline of the church, which, like the moon, has all its light, beauty, and order from Christ, was sadly defaced by the introduction of Jewish and Paganish rites and ceremonies; and the ministers, the stars, were drawn by the tail of the dragon, and cast to the earth, became corrupt in their principles, and carnal and sensual in their lives; so that it was a time of great darkness and gloominess, night and day.",
+            "From this time there was a visible decline, as of evangelical light and knowledge, so of all kind of useful knowledge, and nothing but ignorance, stupidity, and barbarity, took place everywhere; and which were very assisting to the man of sin, antichrist, to fix and settle his dominion over the kingdoms which rose up out of the empire at this time.",
+            "Jerom, who lived about the time of the first inundation of these nations, in very mournful language expresses the inhumanity and impiety of them, and the ruin they threatened the empire with; and, says w, 'The [Roman] empire is falling'."
+        ],
+        "John Wesley": [
+            "The darkness which fell on the Roman, particularly the western empire; for the stroke began long before Odoacer, namely, when the barbarians first conquered the capital city.",
+            "The men that live under them, who are so overwhelmed with calamities in those days of darkness, that they can no longer enjoy the light of heaven: unless it may be thought to imply their being killed; so that the sun, moon, and stars shine to them no longer.",
+            "The three last trumpets have the time of their continuance fixed, and between each of them there is a remarkable pause: whereas between the four former there is no pause, nor is the time of their continuance mentioned; but all together these four seem to take up a little less than four hundred years."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "A partial obscuration of light occurs, like the darkening of the night sky, which affects the sun, moon, and stars. This eclipse is reminiscent of the ninth Egyptian plague and represents a significant calamity for the world. While the heavenly bodies are seen in relation to earthly life and comfort, their affected state reflects the suffering experienced. This period of darkness, occurring between the prayers of the martyrs and the final judgments, signifies a decline in evangelical light and knowledge. As the empire falls, ignorance, stupidity, and barbarity spread, aiding the rise of antichrist's dominion. The darkness and calamities inflicted during this time deprive people of the light of heaven, leading to the empire's ruin.",
+            "wordCount": 117,
+            "quoteTokenProportion": 20.25,
+            "qualityScore": 1.5311487602693212,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.25,
+            "commentatorTierSimilarities": [
+                27.63,
+                35.19,
+                37.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "A partial obscuration of light occurs, as the night sky darkens and a third part of the light is withdrawn. This eclipse, akin to the ninth Egyptian plague, signifies a calamity that affects the world. The darkened sun, moon, and stars serve as an emblem of great disaster. This darkness spreads over the heavenly bodies, leaving the world in gloom. It represents a decline in evangelical light and knowledge, leading to the rise of antichrist's dominion and the empire's downfall.",
+            "wordCount": 82,
+            "quoteTokenProportion": 26.32,
+            "qualityScore": 1.512389193927037,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.63,
+            "commentatorTierSimilarities": [
+                30.07,
+                38.88,
+                31.05
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In Revelation 8:12, a partial obscuration of light occurs, as the night sky darkens and a third part of the light is withdrawn. It resembles the ninth Egyptian plague and signifies a calamity affecting the world. The darkened sun, moon, and stars serve as an emblem of great disaster, spreading darkness and gloom. This darkness represents a decline in evangelical light and knowledge, aiding the rise of antichrist's dominion and leading to the downfall of the empire.",
+            "wordCount": 77,
+            "quoteTokenProportion": 24.53,
+            "qualityScore": 1.5626928747118949,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.3,
+            "commentatorTierSimilarities": [
+                29.95,
+                34.35,
+                35.7
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "A partial obscuration of light occurs, as a third part of the light is withdrawn, resulting in the darkening of the night sky. This darkening is reminiscent of the ninth Egyptian plague and signifies a calamity for the world. The obscured sun, moon, and stars serve as an emblem of great disaster and spread darkness, leaving the world in gloom. This decline in evangelical light and knowledge contributes to the rise of antichrist's dominion and leads to the downfall of the empire.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.5621072635323658,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.28,
+            "commentatorTierSimilarities": [
+                29.61,
+                35.99,
+                34.41
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A partial obscuration of light occurs as a third of the light is withdrawn, resulting in the darkening of the night sky. This darkening symbolizes a calamity for the world, similar to the ninth Egyptian plague. It represents a decline in evangelical light and knowledge, contributing to the rise of antichrist's dominion and eventually leading to the downfall of the empire. The obscured sun, moon, and stars serve as an emblem of this great disaster, spreading darkness and gloom throughout the world.",
+            "wordCount": 83,
+            "quoteTokenProportion": 25.93,
+            "qualityScore": 1.5405372117822114,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.57,
+            "commentatorTierSimilarities": [
+                29.23,
+                35.65,
+                35.12
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

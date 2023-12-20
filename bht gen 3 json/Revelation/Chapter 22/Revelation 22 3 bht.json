@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:51:04",
+    "verseRef": "Revelation 22:3",
+    "bestBHT": {
+        "bht": "In the future paradise, God's residence among His people will be unhindered, as every curse and accursed thing will be abolished. The throne of God and the Lamb will be established, representing His authority, while His servants will worship and serve Him with authentic devotion. This state of purity and love will be free from the consequences of sin, death, and sorrow. The redeemed will have continuous access to the throne of God, performing their priestly functions and celebrating His praises fervently. In this glorious presence and reign of God, there will only be pure life and blessing.",
+        "wordCount": 99,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 2.1417063107912107,
+        "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+        "commentatorTierSimilarities": [
+            24.87,
+            32.82,
+            42.32
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And every curse shall exist no longer...There shall no more be these accursed things which bar the residence of God among His people.\" ",
+            "The throne of God and of the Lamb shall be in her.\" ",
+            "His servants shall serve Him in administration and holy service."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God can only dwell where the curse and its cause, the cursed thing sin, are removed.",
+            "The throne of God and of the Lamb shall be in it.",
+            "Serve him with worship."
+        ],
+        "Albert Barnes": [
+            "And there shall be no more curse...what now properly comes under the name of a curse, or whatever is part of the curse pronounced on man by the fall, will be there unknown.",
+            "The earth will be no more cursed, and will produce no more thorns and thistles; man will be no more compelled to earn his bread by the sweat of his brow; woman will be no more doomed to bear the sufferings which she does now; and the abodes of the blessed will be no more cursed by sickness, sorrow, tears, and death.",
+            "But the throne of God and of the Lamb shall be in it...the principles of purity and love which the Lamb of God came to establish, will pervade that blessed abode to all eternity."
+        ],
+        "Marvin Vincent": [
+            "The word originally means to serve for hire.",
+            "In the New Testament, of the worship or service of God in the use of the rites intended for His worship.",
+            "Hence the significant application of the term to Christian service by Paul in Philippians 3:3."
+        ],
+        "Philip Schaff": [
+            "And there shall be no more anything accursed, anything upon which the curse of the Almighty rests, and fit only to be cast out of His presence.",
+            "The \u2018throne\u2019 therefore is not concealed. The redeemed have constant access to it.",
+            "They shall perform their priestly functions for ever in His presence."
+        ],
+        "Archibald T. Robertson": [
+            "There shall be no curse any more.",
+            "Shall do him service.",
+            "Shall keep on serving."
+        ],
+        "John Gill": [
+            "In this new earth, and paradisiacal state, and on the inhabitants of it, will be no curse; here will be no sin, the cause of the curse, nor pain and sorrow, nor death, corporeal, spiritual, and eternal, or the wrath of God, the several effects of sin, and parts of the curse.",
+            "the righteousness of Christ, which all in the new Jerusalem will be clothed with, and so be blessed and secure from the curse, they will be perfectly pure and holy in nature, and constant and complete in their obedience and service; they will always do the will of God on earth, as it is done in heaven.",
+            "the service the saints will be employed in, in this state, will not be preaching the word, or attending on the ministry of it, or subjecting to ordinances, which will now be at an end, but celebrating the praises of God, adoring the perfections of his nature, ascribing the glory of every providence, and of all salvation to him, and magnifying the riches of his grace; and this they will perform in the most spiritual, fervent, and perfect manner, and that continually."
+        ],
+        "John Wesley": [
+            "And there shall be no more curse \u2014 But pure life and blessing; every effect of the displeasure of God for sin being now totally removed.",
+            "But the throne of God and the Lamb shall be in it \u2014 That is, the glorious presence and reign of God.",
+            "And his servants \u2014 The highest honour in the universe. Shalt worship him \u2014 The noblest employment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In the future paradise described in this verse, all curses and accursed things will cease to exist, allowing for the uninterrupted residence of God among His people. The throne of God and the Lamb will be established, symbolizing His authority and sovereignty. His servants will serve Him, not in a contractual way, but with authentic worship and devotion. This new earth will be free from the consequences of sin and will be characterized by purity, love, and eternal life. The redeemed will have constant access to the throne of God, performing their priestly functions and celebrating His praises with spiritual fervor. In this state, there will be no more curse, only pure life and blessing in the glorious presence and reign of God.",
+            "wordCount": 123,
+            "quoteTokenProportion": 31.65,
+            "qualityScore": 2.107318276389482,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.41,
+            "commentatorTierSimilarities": [
+                24.6,
+                32.83,
+                42.56
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the future paradise, God's residence among His people will be unhindered, as every curse and accursed thing will be abolished. The throne of God and the Lamb will be established, representing His authority, while His servants will worship and serve Him with authentic devotion. This state of purity and love will be free from the consequences of sin, death, and sorrow. The redeemed will have continuous access to the throne of God, performing their priestly functions and celebrating His praises fervently. In this glorious presence and reign of God, there will only be pure life and blessing.",
+            "wordCount": 99,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 2.1417063107912107,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.55,
+            "commentatorTierSimilarities": [
+                24.87,
+                32.82,
+                42.32
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In this future paradise, the removal of every curse and accursed thing will allow for the uninterrupted residence of God among His people. The throne of God and the Lamb will establish His authority, while His servants will serve Him in worship and holy service. The absence of curses and the presence of purity and love will characterize this blessed abode. The redeemed will have constant access to the throne, performing their priestly functions and celebrating God's praises with fervor. In this state, pure life and blessing will prevail in the glorious presence of God.",
+            "wordCount": 96,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.128939207572029,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.13,
+            "commentatorTierSimilarities": [
+                26.15,
+                32.86,
+                40.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the future paradise, every curse and accursed thing will cease to exist, enabling God to reside among His people unhindered. The throne of God and the Lamb will symbolize His authority and presence. His servants will serve Him with worship, engaging in the rites intended for His worship. Sin and its consequences will be removed, allowing for a state of purity and the absence of any curse. The redeemed will have continuous access to the throne, serving and worshiping God fervently in this glorious realm.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 2.1363849634795398,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.38,
+            "commentatorTierSimilarities": [
+                28.36,
+                33.34,
+                38.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the future paradise, God will dwell among His people freely, as every curse and accursed thing will be abolished. The throne of God and the Lamb will represent His authority and sovereignty, while His servants will worship and serve Him with authentic devotion. In this state of purity and love, sin and its consequences will be removed. The redeemed will have constant access to the throne of God, fulfilling their priestly functions and offering continuous worship in His glorious presence.",
+            "wordCount": 81,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.121111101122248,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.87,
+            "commentatorTierSimilarities": [
+                25.98,
+                32.95,
+                41.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

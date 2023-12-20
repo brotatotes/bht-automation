@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:44:51",
+    "verseRef": "Revelation 9:4",
+    "bestBHT": {
+        "bht": "The plague described here is one that falls on the unbelievers while the saints are protected. It is either a purely spiritual affliction or one that occurs in a different state from the present. The locusts are supernaturally restrained from harming the saints, distinguishing them from the locust invasions of Christendom. Only those without the seal of God on their foreheads are affected by this plague.",
+        "wordCount": 66,
+        "quoteTokenProportion": 46.81,
+        "qualityScore": 1.9077934415757412,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+        "commentatorTierSimilarities": [
+            36.03,
+            33.32,
+            30.65
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "It denotes a plague which falls on the unbelieving inhabitants of the earth after the servants of God have been marked out among them, and of which the saints are not partakers.",
+            "Either then it denotes something purely spiritual, some misery from which those are exempt who have peace with God,\u2014which can hardly be, consistently with vv. 5, 6\u2014or it takes place in a state totally different from this present one, in which the wheat and tares are mingled together.",
+            "The fact of Mahomet\u2019s mission being avowedly against corrupt Christianity as idolatry, does not in the remotest degree answer the conditions."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their natural instinct is supernaturally restrained to mark the judgment as altogether divine.",
+            "None of the saints are hurt by these locusts, which is not true of the saints in Mohammed's attack.",
+            "Mohammedan invasions of Christendom."
+        ],
+        "Albert Barnes": [
+            "Their purpose would be to vex and trouble people; not to spread desolation over vineyards, olive-yards, and fields of grain.",
+            "There would be some sense in which these invaders would be characterized in a manner that was not common among invaders, to wit, that they would show particular care not to carry their devastations into the vegetable world.",
+            "They commenced war against that part of the human race only... The language here properly denotes those who were not the friends of God."
+        ],
+        "Marvin Vincent": [
+            "Green. See on ch. Revelation 6:8. ",
+            "Men which [\u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5\u03c2 \u03bf\u03b9\u03c4\u03b9\u03bd\u03b5\u03c2] . The double relative denotes the class. Rev., such men as have, etc."
+        ],
+        "Philip Schaff": [
+            "In one respect, indeed, there is a remarkable distinction between the ravages of the locusts mentioned here and those of the common locusts of the earth.\" ",
+            "It was said unto them that they should not hurt the grass of the earth, neither any green thing, neither any tree; and the prohibition may be so given in order to bring out, more strongly than would otherwise be done, the singleness with which their rage is directed against men.",
+            "Not all men, however, but only such men as have not the seal of God on their foreheads, are to be smitten by the plague; and the inference, in its bearing on the interpretation of the sealing in chap, 7, ought not to pass unnoticed."
+        ],
+        "Archibald T. Robertson": [
+            "Except the men who (the very ones who).",
+            "The seal of God upon their foreheads.",
+            "As Israel in Egypt escaped the plagues which punished their neighbours, so the new Israel is exempted from the attack of the locusts of the Abyss\" (Swete)."
+        ],
+        "John Gill": [
+            "Christ takes care of these; these are as the apple of his eye, his jewels, his sheep, his sealed ones; none shall hurt them, they shall never perish; he knows them that are his, and he will preserve them amidst fire and smoke, amidst all the corruptions and calamities in the world.",
+            "...the eastern and western locusts, the Mahometans and Papists, have been very desirous of rooting out and destroying; but Christ takes care of these...",
+            "...the western locusts, the clergy of the church of Rome, had only influence over the reprobate part of mankind, and only wrought with all deceivableness of unrighteousness in them that perish, who were given up to believe a lie, that they might be damned, but not upon any of the chosen ones."
+        ],
+        "John Wesley": [
+            "And it was commanded them \u2014 By the secret power of God.",
+            "Not to hurt the grass, neither any green thing, nor any tree \u2014 Neither those of low, middling, or high degree, but only such of them as were not sealed - Principally the unbelieving Israelites.",
+            "But many who were called Christians suffered with them."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The plague described in this verse is one that falls on the unbelievers while the saints are protected. It is either a purely spiritual affliction or one that occurs in a different state from the present, where the righteous and wicked are separated. The locusts are supernaturally restrained from harming the saints, distinguishing them from the locust invasions of Christendom. The purpose of these locusts is to trouble and vex people, but they are careful not to cause devastation in the natural world. Only those without the seal of God on their foreheads are affected by this plague.",
+            "wordCount": 98,
+            "quoteTokenProportion": 42.42,
+            "qualityScore": 1.9991026407190926,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.81,
+            "commentatorTierSimilarities": [
+                32.04,
+                36.67,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The plague described here is one that falls on the unbelievers while the saints are protected. It is either a purely spiritual affliction or one that occurs in a different state from the present. The locusts are supernaturally restrained from harming the saints, distinguishing them from the locust invasions of Christendom. Only those without the seal of God on their foreheads are affected by this plague.",
+            "wordCount": 66,
+            "quoteTokenProportion": 46.81,
+            "qualityScore": 1.9077934415757412,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.78,
+            "commentatorTierSimilarities": [
+                36.03,
+                33.32,
+                30.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The plague depicted in this passage is a spiritual affliction that befalls the unbelievers, while the saints who have the seal of God on their foreheads remain unharmed. The locusts, symbolizing the invaders, purposely avoid causing devastation in nature, focusing instead on vexing and troubling humanity. This distinction highlights the divine intervention in this affliction, as it solely targets those without the seal of God. Therefore, the saints, who are marked by God, are exempted from this plague, emphasizing their protection amid the calamities faced by the world.",
+            "wordCount": 88,
+            "quoteTokenProportion": 34.43,
+            "qualityScore": 2.010083661604615,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.18,
+            "commentatorTierSimilarities": [
+                32.16,
+                38.86,
+                28.98
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The plague referred to here is a spiritual affliction that specifically affects the unbelievers on earth, leaving the saints unharmed. The locusts symbolize the invading forces, who are divinely restrained from harming the saints. This affliction is distinct from the historical invasions by the likes of Mohammed, as it is exclusively directed towards those who lack the seal of God. Thus, the faithful are protected amidst the corruptions and calamities of the world.",
+            "wordCount": 73,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.8703652669587765,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.53,
+            "commentatorTierSimilarities": [
+                33.51,
+                34.77,
+                31.72
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The plague mentioned in this verse is a spiritual affliction that falls on the unbelieving inhabitants of the earth, while the saints are not affected. The locusts represent the invading forces, who are supernaturally restrained from harming the saints. This plague is distinct from the attacks by Mohammed and the clergy of the Papal Church. It solely targets those without the seal of God, protecting the chosen ones amidst the corruptions and calamities of the world.",
+            "wordCount": 76,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.9364271509295239,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.73,
+            "commentatorTierSimilarities": [
+                33.18,
+                34.28,
+                32.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

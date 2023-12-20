@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:47:40",
+    "verseRef": "Revelation 16:4",
+    "bestBHT": {
+        "bht": "The rivers and fountains of water becoming blood is confirmed by what follows. This could signify the contamination of the fresh-water supply by blood and the resulting devastation in parts of Europe. Another understanding proposes that it represents the destruction of Popish writings, leading to a reformation. In any case, the transformation portrays a complete and irreversible change in the water sources, rendering them undrinkable.",
+        "wordCount": 66,
+        "quoteTokenProportion": 35.42,
+        "qualityScore": 1.5475597208403449,
+        "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+        "commentatorTierSimilarities": [
+            22.13,
+            34.58,
+            43.3
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "That the fact was so, is testified by what follows.\" ",
+            "In which it is assumed that the sources of ordinary drink have become blood.\" ",
+            "They became blood."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "4. ( :-.) ",
+            "\t",
+            "angel\u2014so Syriac,",
+            "\tCoptic, and ANDREAS.",
+            "\tBut A, B, C, and Vulgate omit it."
+        ],
+        "Albert Barnes": [
+            "The invasion of the Roman empire by Attila, king of the Huns, was referred to, affecting mainly those parts of the empire where the rivers and streams had their origin.",
+            "The analogy would lead us, in the fulfillment of the passage before us, to look for some similar desolations on those portions of Europe.",
+            "This would properly mean that they became as blood; or became red with blood; and it would be fulfilled if bloody battles were fought near them, so that they seemed to run blood."
+        ],
+        "Marvin Vincent": [
+            "The third angel. Omit angel. ",
+            "They became [\u03b5\u03b3\u03b5\u03bd\u03b5\u03c4\u03bf] . There is no necessity for rendering the singular verb in the plural. We may say either it became or there came."
+        ],
+        "Philip Schaff": [
+            "Again we see the increased potency of the third bowl as compared with the third trumpet.\" ",
+            "All rivers, etc., are affected, and they become more than bitter, they become blood.",
+            "They became blood."
+        ],
+        "Archibald T. Robertson": [
+            "Contamination of the fresh-water supply by blood follows that of the sea.",
+            "Complete again."
+        ],
+        "John Gill": [
+            "nor of the destruction of Popish fleets and navies, such as the Spanish armada in 1588, and others since; but rather of Popish writings, of the most learned and subtle men among them, who like rivers and fountains, which supply and fill the sea, support and keep up the Romish jurisdiction and hierarchy.",
+            "the utter destruction of their principal orders, and chief men among them, as cardinals, archbishops, bishops, priests, Jesuits, c.",
+            "these countries will be covered with blood, and a reformation will ensue upon it; the allusion is to Exodus 7:19."
+        ],
+        "John Wesley": [
+            "The third poured out his phial on the rivers and fountains of water \u2014 Which were over all the earth.\" ",
+            "And they became blood \u2014 So that none could drink thereof."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse speaks of the rivers and fountains of water becoming blood, as testified by what follows. Some commentaries suggest that this could refer to the contamination of the fresh-water supply by blood, following the contamination of the sea. Others propose that this could symbolize desolations on certain parts of Europe, where battles were fought and rivers seemed to run blood. The third tier commentary suggests that this could also refer to the destruction of Popish writings and the reformation that would ensue. Ultimately, the verse implies a complete transformation of the water sources, rendering them undrinkable.",
+            "wordCount": 98,
+            "quoteTokenProportion": 35.48,
+            "qualityScore": 1.622312685822759,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.28,
+            "commentatorTierSimilarities": [
+                20.82,
+                37.66,
+                41.52
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The rivers and fountains of water turning into blood is supported by what follows. This transformation could symbolize the contamination of the fresh-water supply by blood and the ensuing desolations in certain parts of Europe. Another interpretation suggests that it represents the destruction of Popish writings, leading to a reformation. Regardless, the verse portrays a complete and irreversible change in the water sources, rendering them undrinkable.",
+            "wordCount": 67,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.5562327948839676,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.09,
+            "commentatorTierSimilarities": [
+                20.48,
+                35.66,
+                43.86
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The rivers and fountains of water becoming blood is confirmed by what follows. This could signify the contamination of the fresh-water supply by blood and the resulting devastation in parts of Europe. Another understanding proposes that it represents the destruction of Popish writings, leading to a reformation. In any case, the transformation portrays a complete and irreversible change in the water sources, rendering them undrinkable.",
+            "wordCount": 66,
+            "quoteTokenProportion": 35.42,
+            "qualityScore": 1.5475597208403449,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.8,
+            "commentatorTierSimilarities": [
+                22.13,
+                34.58,
+                43.3
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The rivers and fountains of water becoming blood is attested by subsequent events. This transformation could imply the contamination of the fresh-water supply by blood, following the contamination of the sea. It may also symbolize desolations in certain parts of Europe, where battles were fought and rivers appeared to run blood. Another interpretation suggests that it signifies the destruction of Popish writings, leading to a reformation. Ultimately, this verse portrays a comprehensive and irreversible change in the water sources, rendering them undrinkable.",
+            "wordCount": 83,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.5832054238877868,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.98,
+            "commentatorTierSimilarities": [
+                20.68,
+                39.52,
+                39.8
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The transformation of rivers and fountains of water into blood is confirmed by subsequent events. This change could signify the contamination of fresh-water sources, following the contamination of the sea. It could also symbolize desolations in Europe, where battles led to rivers appearing as if they were running blood. Another interpretation suggests the destruction of specific writings, triggering a reformation. Ultimately, this portrays a definitive and irreversible alteration, making the water undrinkable.",
+            "wordCount": 73,
+            "quoteTokenProportion": 34.55,
+            "qualityScore": 1.494329547718424,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.03,
+            "commentatorTierSimilarities": [
+                19.28,
+                38.4,
+                42.32
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

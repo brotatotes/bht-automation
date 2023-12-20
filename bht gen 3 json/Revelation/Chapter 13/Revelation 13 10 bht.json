@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:33",
+    "verseRef": "Revelation 13:10",
+    "bestBHT": {
+        "bht": "The warning in this quote is clear: those who lead others into captivity will themselves be led into captivity, while those who kill with the sword must also face the same fate. It emphasizes the principle of divine justice, as God judges and recompenses tribulation to those who trouble His people. The endurance and faith of the saints shine through in times of persecution, as they are encouraged to embrace captivity as a means of receiving grace. It serves as a reminder to believers to resist the temptation of retaliating and instead put their trust in God's righteous judgment.",
+        "wordCount": 100,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.9062698139176892,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+        "commentatorTierSimilarities": [
+            33.18,
+            27.93,
+            38.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "If any one is for captivity, into captivity he goeth: if any to be slain with the sword... he must be slain with the sword.\" ",
+            "Such as are for death, to death and such as are for the sword, to the sword: and such as are for the famine, to the famine: and such as are for captivity, to captivity.",
+            "Here is (viz. in the endurance of these persecutions) the endurance and the faith of the saints."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "He that leadeth into captivity\u2014A, B, C, and Vulgate read, 'if any one (be) for captivity.' shall go into captivity\u2014Greek present, 'goeth into captivity.'",
+            "he that killeth with the sword, must be killed with the sword\u2014So B and C read. But A reads, 'if any (is for) being (literally, 'to be') killed with the sword.'",
+            "Here\u2014\"Herein\": in bearing their appointed sufferings lies the patient endurance . . . of the saints. This is to be the motto and watchword of the elect during the period of the world kingdom."
+        ],
+        "Albert Barnes": [
+            "If anyone leadeth into captivity, it would be a characteristic of the power here referred to.",
+            "Compute the numbers of human beings that have been put to death by that Roman power, and no better language could have been chosen to characterize it.",
+            "Nothing is more probable than this in itself; nothing could be more in accordance with the principles of the divine dealings in the world."
+        ],
+        "Marvin Vincent": [
+            "He that leadeth into captivity shall go into captivity.",
+            "The persecutors of the Church shall suffer that which they inflict on the saints.",
+            "In the thought that God judgeth in the earth."
+        ],
+        "Philip Schaff": [
+            "There is a lex talionis in the dealings of God.",
+            "They who lead His people into captivity, they who kill them with the sword, shall experience a similar fate.",
+            "Surely there is enough to nerve our patience and to stimulate our faith in the thought that \u2018God judgeth in the earth,\u2019 and that it is a righteous thing with Him \u2018to recompense tribulation\u2019 to them that trouble His people."
+        ],
+        "Archibald T. Robertson": [
+            "John means this as a warning to the Christians not to resist force with force, but to accept captivity as he had done as a means of grace.\" ",
+            "It is a picture of the persecutor drawn here like that by Jesus in Matthew 26:52.\" ",
+            "The killer is killed."
+        ],
+        "John Gill": [
+            "He that leadeth into captivity shall go into captivity... these shall be taken and cast into the lake which burns with fire and brimstone.",
+            "He that killeth with the sword must be killed with the sword... blood shall be given him to drink, and he shall be used in like manner he has used others.",
+            "Here is the patience and the faith of the saints... it requires both faith and patience in the saints, to believe that antichrist will be thus destroyed, and to wait quietly till the time comes."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, a powerful warning is given to those who persecute the saints. It is declared that those who lead others into captivity will themselves be led into captivity, and those who kill with the sword will be killed in the same manner. This principle of an eye for an eye is emphasized here, revealing God's justice in dealing with the persecutors of His people. The endurance and faith of the saints are highlighted in the face of such persecution, as they are encouraged to trust in God's judgment. This serves as a caution for believers not to resist force with force, but to accept captivity as a means of grace. Ultimately, the fate of the persecutors will mirror the suffering they inflicted upon the saints.",
+            "wordCount": 129,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.912585486099768,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.93,
+            "commentatorTierSimilarities": [
+                35.18,
+                26.72,
+                38.1
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In this passage, it is proclaimed that those who lead others into captivity will themselves be led into captivity, and those who kill with the sword will suffer the same fate. This underscores the principle of divine justice whereby God judges and recompenses tribulation to those who trouble His people. The endurance and faith of the saints are significant in the midst of persecution, as they are called to embrace captivity as a means of grace. Believers are cautioned against retaliating, instead placing their trust in God's righteous judgment.",
+            "wordCount": 90,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 1.9315972158638308,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.57,
+            "commentatorTierSimilarities": [
+                33.35,
+                29.12,
+                37.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The verse warns persecutors that they will face the consequences of their actions: those who lead into captivity will themselves be led into captivity, while those who kill with the sword will experience the same fate. God's justice prevails, and He will recompense tribulation to those who trouble His people. The endurance and faith of the saints are showcased amidst persecution, as they are urged to accept captivity as a means of grace. The message cautions believers to refrain from responding with force and to trust in God's righteous judgment.",
+            "wordCount": 92,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 1.9422196942244296,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.92,
+            "commentatorTierSimilarities": [
+                33.53,
+                28.15,
+                38.32
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The warning in this quote is clear: those who lead others into captivity will themselves be led into captivity, while those who kill with the sword must also face the same fate. It emphasizes the principle of divine justice, as God judges and recompenses tribulation to those who trouble His people. The endurance and faith of the saints shine through in times of persecution, as they are encouraged to embrace captivity as a means of receiving grace. It serves as a reminder to believers to resist the temptation of retaliating and instead put their trust in God's righteous judgment.",
+            "wordCount": 100,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.9062698139176892,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.72,
+            "commentatorTierSimilarities": [
+                33.18,
+                27.93,
+                38.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who subject others to captivity will themselves be taken captive, and those who use the sword to kill will meet a similar fate. This passage highlights the concept of divine justice, as God ensures that those who trouble His people are repaid with tribulation. The endurance and faith of the saints are exemplified in the face of persecution, as they are encouraged to accept captivity as a means of receiving God's grace. Believers are cautioned against responding with aggression and are urged to trust in God's righteous judgment.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 1.9010197386042775,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.55,
+            "commentatorTierSimilarities": [
+                33.28,
+                28.93,
+                37.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

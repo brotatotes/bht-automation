@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:49:39",
+    "verseRef": "Revelation 19:11",
+    "bestBHT": {
+        "bht": "Behold, a white horse and its Rider who is conquering and will continue to conquer. This horse symbolizes the final victory over evil, representing the triumph of the Church. The white color signifies righteousness, indicating that the Lord, both Judge and Warrior, acts with righteousness. With the sword of His mouth, He brings judgment and war against the world power, while bringing redemption, transfiguration, and power to the Church. This image portrays the culmination of God's plan, as the Lord brings salvation to His people and destruction to His enemies.",
+        "wordCount": 91,
+        "quoteTokenProportion": 31.15,
+        "qualityScore": 2.064161299676422,
+        "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+        "commentatorTierSimilarities": [
+            32.84,
+            36.63,
+            30.54
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This horse and Rider are the same as there: the 'conquering and to conquer' is on the point of its completion: the other horses and their riders, dark forms in His great world-long procession to victory, will now for ever vanish, and war and famine and pestilence be known no more.",
+            "And I saw heaven opened, and behold a white horse...and He that sitteth upon him [called] faithful and true.",
+            "   ",
+            "In righteousness He judgeth and warreth (both those acts being his concern in his present triumphant progress)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here as there he comes forth 'conquering and to conquer.'\" ",
+            "The horse was used for war: and here He is going forth to war with the beast. The ass is for peace.",
+            "He comes to judge with vengeance the world power, and to bring to the Church redemption, transfiguration, and power over the world."
+        ],
+        "Albert Barnes": [
+            "He saw a new vision, as if an opening were made through the sky, and he was permitted to look into heaven.",
+            "He is here the symbol of the final victory that is to be obtained over the beast and the false prophet, and of the final triumph of the church.",
+            "He would thus show that he was faithful - or worthy of the confidence of his church in delivering it from all its enemies; and true to all the promises that he has made to it."
+        ],
+        "Marvin Vincent": [
+            "A white horse. Compare ch. 6 2."
+        ],
+        "Philip Schaff": [
+            "It is the Lord Himself who comes to wind up the history of the world, to bring salvation to His own, and destruction to His enemies.",
+            "He who then went forth \u2018conquering and to conquer\u2019 returns in triumph. His victory is won.",
+            "In His own being He has proved Himself to be \u2018faithful and true,\u2019 \u2018faithful\u2019 to all His promises, \u2018true\u2019 as the essence of all that is real and everlasting."
+        ],
+        "Archibald T. Robertson": [
+            "In righteousness he doth judge and make war.\" ",
+            "The Messiah is both Judge and Warrior, but he does both in righteousness.",
+            "Satan had offered Christ a victory of compromise which was rejected."
+        ],
+        "John Gill": [
+            "And it may also design the clear revelation and discerning John had...",
+            "And behold a white horse which, as in Revelation 6:2 may be a symbol...",
+            "And in righteousness he doth judge and make war; which is to be understood not of the last judgment..."
+        ],
+        "John Wesley": [
+            "Many little regarded Christ, when he came meek, 'riding upon an ass;' but what will they say, when he goes forth upon his white horse, with the sword of his mouth?\" ",
+            "And he that sitteth on him, called Faithful, and True, and in righteousness, He judgeth and maketh war.",
+            "Often the sentence and execution go together."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Behold, a white horse with a Rider who is conquering and will continue to conquer. This majestic horse represents the final victory over the forces of evil and signifies the triumph of the Church. The white color symbolizes purity and righteousness, indicating that the Lord, who is both Judge and Warrior, will carry out His acts in righteousness. With the sword of His mouth and in His faithfulness, He will bring judgment and war upon the world power, while simultaneously bringing redemption, transfiguration, and power to the Church. In contrast to Satan's compromise, the Messiah's victory is one of unwavering truth and faithfulness. This powerful image depicts the ultimate culmination of God's plan, as the Lord Himself comes to bring salvation to His people and destruction to His enemies.",
+            "wordCount": 132,
+            "quoteTokenProportion": 27.85,
+            "qualityScore": 2.063903035424545,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                30.91,
+                40.13,
+                28.96
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Behold, a white horse and its Rider who is conquering and will continue to conquer. This horse symbolizes the final victory over evil, representing the triumph of the Church. The white color signifies righteousness, indicating that the Lord, both Judge and Warrior, acts with righteousness. With the sword of His mouth, He brings judgment and war against the world power, while bringing redemption, transfiguration, and power to the Church. This image portrays the culmination of God's plan, as the Lord brings salvation to His people and destruction to His enemies.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.15,
+            "qualityScore": 2.064161299676422,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.97,
+            "commentatorTierSimilarities": [
+                32.84,
+                36.63,
+                30.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Behold, a white horse carrying a conquering Rider. This horse represents the completion of victory, as the other horses and riders vanish. The Rider is called faithful and true, judging and warring with righteousness. He goes forth to war against the beast, while bringing redemption, transfiguration, and power to the Church. The Messiah is both Judge and Warrior, staying faithful to His promises and rejecting compromise. The white horse symbolizes purity, signifying the final triumph over evil and the fulfillment of God's plan.",
+            "wordCount": 84,
+            "quoteTokenProportion": 26.67,
+            "qualityScore": 2.032882550262279,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.93,
+            "commentatorTierSimilarities": [
+                34.28,
+                33.16,
+                32.56
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The vision in Revelation reveals a white horse with the conquering Rider, symbolizing the imminent completion of His triumph. As the other horses and riders fade away, war, famine, and pestilence will be no more. The horse, a symbol of war, represents the victorious battle against the beast. The Rider is known as faithful and true, judging and warring in righteousness, bringing judgment to the world power and redemption, transfiguration, and power to the Church. This white horse signifies purity and the final fulfillment of God's plan.",
+            "wordCount": 88,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 2.028297644574527,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.78,
+            "commentatorTierSimilarities": [
+                34.23,
+                31.68,
+                34.09
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "A white horse with a Rider conquering and continuing to conquer signifies the imminent completion of victory. The other horses and riders now vanish, while war, famine, and pestilence cease to exist. The horse, symbolizing warfare, signifies the battle against the beast, whereas the ass signifies peace. With righteousness, the Rider judges and wages war, executing divine vengeance on the world power and bestowing redemption, transfiguration, and power to the Church. This image of the white horse represents the triumph accomplished by the faithful and true Rider.",
+            "wordCount": 87,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.9891145944475843,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.48,
+            "commentatorTierSimilarities": [
+                36.35,
+                30.44,
+                33.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "timestamp": "12-19-2023 21:43:04",
+    "verseRef": "Revelation 6:16",
+    "bestBHT": {
+        "bht": "Sinners dread the revealed Presence of God, for what they fear most is not death, but the deep-seated wrath that comes from His face. The Lamb, who is both gentle and fierce, shows the terribleness of His wrath. This scene reminds us of the mourning in Revelation 1:7 and the woes pronounced on the wicked in Matthew 25:41, revealing that sinners choose death over life when confronted with the overpowering presence of God.",
+        "wordCount": 72,
+        "quoteTokenProportion": 42.31,
+        "qualityScore": 1.7301070329029202,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+        "commentatorTierSimilarities": [
+            47.26,
+            0.0,
+            52.74
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "16. from the face\u2014 ( :-). On the whole verse, compare Hosea 10:8;",
+            "\tLuke 23:30."
+        ],
+        "Marvin Vincent": [
+            "Said [\u03bb\u03b5\u03b3\u03bf\u03c5\u03c3\u03b9\u03bd] . Lit., say. So Rev. ",
+            "Fall on us. Compare Hosea 10:8; Luke 23:30. ",
+            "Wrath [\u03bf\u03c1\u03b3\u03b7\u03c2] . Denoting a deep - seated wrath. See on John 3:36."
+        ],
+        "Archibald T. Robertson": [
+            "What sinners dread most is not death, but the revealed Presence of God.\" ",
+            "The Lamb is the Lion again in the terribleness of his wrath.\" ",
+            "Recall the mourning in Revelation 1:7. See Matthew 25:41 where Jesus pronounces the woes on the wicked."
+        ],
+        "John Gill": [
+            "They chose death rather than life.",
+            "Thus they owned the proper deity, and almighty power of God, and Christ, which they dreaded.",
+            "This passage shows, that Christ, God's firstborn, is higher than the kings of the earth; yea, that he is equal with him that sits upon the throne, with God his Father."
+        ],
+        "John Wesley": [
+            "To the mountains and the rocks \u2014 Which were tottering already, verse12. Revelation 6:12 Hide us from the face of him - Which \"is against the ungodly,\" Psalm 34:16."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse portrays sinners experiencing deep-seated wrath from the revealed presence of God, as they cry out for the mountains and rocks to hide them from the face of God. This displays their recognition of God's proper deity and almighty power, as they dread the Lion-like wrath of the Lamb. This scene echoes the mourning described in Revelation 1:7 and the woes pronounced on the wicked in Matthew 25:41. Ultimately, sinners choose death over life when confronted with the overwhelming presence of God.",
+            "wordCount": 84,
+            "quoteTokenProportion": 29.31,
+            "qualityScore": 1.6189776286083322,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.17,
+            "commentatorTierSimilarities": [
+                40.0,
+                0.0,
+                60.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Sinners dread the revealed Presence of God, for what they fear most is not death, but the deep-seated wrath that comes from His face. The Lamb, who is both gentle and fierce, shows the terribleness of His wrath. This scene reminds us of the mourning in Revelation 1:7 and the woes pronounced on the wicked in Matthew 25:41, revealing that sinners choose death over life when confronted with the overpowering presence of God.",
+            "wordCount": 72,
+            "quoteTokenProportion": 42.31,
+            "qualityScore": 1.7301070329029202,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.87,
+            "commentatorTierSimilarities": [
+                47.26,
+                0.0,
+                52.74
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Sinners in the face of God's wrath cry out for the mountains and rocks to hide them, fearing His revealed Presence. This scene reminds us of the mourning described in Revelation 1:7 and the woes pronounced on the wicked in Matthew 25:41. It shows that sinners choose death over life when confronted with the overpowering presence of God. The Lamb's wrath is terrible, revealing his lion-like nature. Sinners acknowledge the power and deity of God and Christ, which they dread.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.5663245509175532,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.42,
+            "commentatorTierSimilarities": [
+                40.05,
+                0.0,
+                59.95
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the face of God's wrath, sinners cry out to the mountains and rocks, desperately seeking to hide from the revealed presence of God. Their fear goes beyond death; it is a deep-seated dread of the Lion-like wrath of the Lamb. This scene echoes the mourning described in Revelation 1:7 and the woes pronounced on the wicked in Matthew 25:41. It signifies that sinners choose death over life when confronted with the overwhelming power and deity of God and Christ.",
+            "wordCount": 81,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 1.6195021230380529,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.19,
+            "commentatorTierSimilarities": [
+                39.85,
+                0.0,
+                60.15
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Sinners fear the revealed Presence of God's deep-seated wrath, crying out for the mountains and rocks to hide them from His face. This echoes the mourning in Revelation 1:7 and the woe pronounced on the wicked in Matthew 25:41. Their fear extends beyond death; it is a dread of the Lion-like wrath of the Lamb. Face the terribleness of His wrath they must, acknowledging the power and deity of God and Christ in the face of inevitable death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 36.54,
+            "qualityScore": 1.6635598963439735,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.66,
+            "commentatorTierSimilarities": [
+                40.79,
+                0.0,
+                59.21
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

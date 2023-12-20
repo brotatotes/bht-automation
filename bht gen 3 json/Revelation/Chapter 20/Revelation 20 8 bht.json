@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:49:49",
+    "verseRef": "Revelation 20:8",
+    "bestBHT": {
+        "bht": "After a thousand years of being bound, Satan is released and tempts the nations to rebel against God, gathering Gog and Magog from the northern nations. This is a fulfillment of prophecy and draws people from all corners of the earth, including the most cultured and civilized nations, to oppose the saints. It is evident that the previous reign with Christ on earth was not universally shared, as Satan finds a vast following upon his release, dispelling the idea of an entirely opposition-free millennium.",
+        "wordCount": 85,
+        "quoteTokenProportion": 36.51,
+        "qualityScore": 2.2701666546820114,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+        "commentatorTierSimilarities": [
+            35.87,
+            32.06,
+            32.06
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "There will be nations on earth besides the saints reigning with Christ, who during the binding of Satan have been quiet and willing subjects of the Kingdom, but who on his being let loose are again subjected to his temptations, which stir them into rebellion against God.",
+            "This which is here prophesied is the great final fulfillment of those chapters.",
+            "It seems to be a general name for the northern nations, and Gog, if at least we may follow the analogy of Ezekiel, xxxviii. 2, is their prince."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Gog and Magog\u2014 ( :-; see on :-). Magog is a general name for northern nations of Japheth's posterity, whose ideal head is Gog (Genesis 10:2)."
+        ],
+        "Albert Barnes": [
+            "The meaning here is, that he would again, for a time, act in his true character, and in some way delude the nations once more.",
+            "It would be, however, clearly an appeal to the wicked passions of mankind, exciting a hope that they might yet overthrow the kingdom of God on the earth.",
+            "Man, under powerful temptations, would be liable to be deluded by the great master spirit that has so often corrupted the race. Once more he would be permitted to make the trial, and then his power would forever come to an end."
+        ],
+        "Marvin Vincent": [
+            "Magog is a general name for the northern nations, and, according to Ezekiel, Gog is their prince.",
+            "Josephus says that the descendants of Magog were the Scythians.",
+            "Compare Genesis 10:2, where Magog appears as a son of Japhet."
+        ],
+        "Philip Schaff": [
+            "Two things may be noticed in connection with it: (1) That the corners of the earth presuppose a centre from which they are distinct; (2) That, though thus distinct from the centre, the powers emanating from them influence the whole earth, and are not confined to the corners.",
+            "Nothing less can be in the writer\u2019s view than all the heathen, including nations the most cultured and the most civilised. Such too is the meaning of the words \u2018the nations\u2019 not only in the New Testament generally, but in this particular book.",
+            "After the pause of the thousand years, there is a fresh outbreak of opposition against the saints, in which the heathen play the prominent part. These \u2018nations\u2019 assemble under the leadership of Satan, of whom it is said that he comes forth out of his prison 'to deceive the nations, to gather them together to the war.'"
+        ],
+        "Archibald T. Robertson": [
+            "To deceive the nations (\u03c0\u03bb\u03b1\u03bd\u03b7\u03c3\u03b1 \u03c4\u03b1 \u03b5\u03b8\u03bd\u03b7).",
+            "Clearly the reign with Christ, if on earth, was not shared in by all on earth, for Satan finds a large and ready following on his release.",
+            "Clearly then the millennium, whatever it is, does not mean a period when Satan has no following on earth, for this vast host rallies at once to his standard."
+        ],
+        "John Gill": [
+            "to deceive the nations: as he had done before the thousand years began, and from which he was restrained during that time",
+            "nor is antichrist himself intended, who will be destroyed in the spiritual reign of Christ, with the breath of his mouth",
+            "nor is there any reason to believe there will be there more enemies of Christ's people than in any other part, since in the spiritual reign of Christ the earth shall be full of his knowledge, and his spiritual kingdom will be to the ends of the earth"
+        ],
+        "John Wesley": [
+            "And shall go forth to deceive the nations in the four corners of the earth.\" ",
+            "Gog and Magog signify high or lifted up; a name well suiting both the prince and people.",
+            "Whose number is as the sand of the sea \u2014 Immensely numerous: a proverbial expression."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "After being bound for a thousand years, Satan is released and once again tempts the nations on earth to rebel against God. Gog and Magog, representing the northern nations, rally behind Satan's standard. This event marks the final fulfillment of prophecy, drawing people from all corners of the earth into opposition against the saints. Even during the previous reign with Christ, not all on earth shared in it, as Satan still found a large and ready following. This reveals that the millennium does not imply a period without Satan's influence. It is a time when Satan is temporarily restrained and, upon his release, finds a vast host willing to be deceived.",
+            "wordCount": 113,
+            "quoteTokenProportion": 40.24,
+            "qualityScore": 2.065405067023342,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.02,
+            "commentatorTierSimilarities": [
+                37.63,
+                30.86,
+                31.51
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "After being bound for a thousand years, Satan is released and tempts the nations on earth into rebellion against God. Gog and Magog, representing the northern nations, rally behind Satan. This event fulfills prophecy and draws people from all corners of the earth against the saints. Even during the previous reign with Christ, not all shared in it, as Satan found a ready following. The millennium does not mean a period without Satan's influence, for he quickly gathers a vast host upon his release.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.91,
+            "qualityScore": 2.098269315599502,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.11,
+            "commentatorTierSimilarities": [
+                38.16,
+                30.31,
+                31.53
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "After being bound for a thousand years, Satan is released and tempts the nations on earth into rebellion against God. Gog and Magog, representing the northern nations, rally behind Satan, fulfilling prophecy. This event draws people from all corners of the earth against the saints, demonstrating that not everyone shared in the previous reign with Christ. The millennium does not imply a period without Satan's influence, as he quickly amasses a large and willing following upon his release.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.62,
+            "qualityScore": 2.1114601450188233,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.55,
+            "commentatorTierSimilarities": [
+                36.15,
+                31.87,
+                31.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "After a thousand-year imprisonment, Satan is released and tempts the nations to rebel against God, rallying Gog and Magog from the northern regions. This fulfillment of prophetic scripture gathers people from all corners of the earth, including both cultured and civilized nations, to oppose the saints. It becomes clear that the previous reign with Christ on earth was not universally shared, for Satan promptly finds a vast following upon his release, undermining any notion of a complete absence of opposition during the millennium.",
+            "wordCount": 84,
+            "quoteTokenProportion": 35.82,
+            "qualityScore": 2.2546420956599733,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.31,
+            "commentatorTierSimilarities": [
+                35.63,
+                32.87,
+                31.5
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "After a thousand years of being bound, Satan is released and tempts the nations to rebel against God, gathering Gog and Magog from the northern nations. This is a fulfillment of prophecy and draws people from all corners of the earth, including the most cultured and civilized nations, to oppose the saints. It is evident that the previous reign with Christ on earth was not universally shared, as Satan finds a vast following upon his release, dispelling the idea of an entirely opposition-free millennium.",
+            "wordCount": 85,
+            "quoteTokenProportion": 36.51,
+            "qualityScore": 2.2701666546820114,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.82,
+            "commentatorTierSimilarities": [
+                35.87,
+                32.06,
+                32.06
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

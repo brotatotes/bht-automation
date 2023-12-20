@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:39:47",
+    "verseRef": "Revelation 1:15",
+    "bestBHT": {
+        "bht": "His feet were like chalcolibanus, appearing as if they had been made fiery and red-hot in a furnace, symbolizing the stability and strength of our great High Priest. His voice, on the other hand, was described as the terrifying rush of many waters, highlighting its power and authority. In comparing his voice to the roar of the ocean, nothing could be a more sublime description of his majesty and sovereignty. This voice both comforts his friends and strikes fear into his enemies. The image of burnished brass, resembling a metal unknown to us, further emphasizes the refinement and intensity of his feet as they tread upon his foes. The significance of the voice and feet in this verse can be seen in their representations of Christ's power, authority, and judgment.",
+        "wordCount": 132,
+        "quoteTokenProportion": 37.65,
+        "qualityScore": 1.6145724403797066,
+        "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+        "commentatorTierSimilarities": [
+            29.56,
+            33.71,
+            36.72
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "His feet were like chalcolibanus... as if they had been burnt in a furnace.\" ",
+            "His voice as the voice of many waters.\" ",
+            "The power of the voice as resembling the rushing of many waters."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Glowing brass, as if they had been made fiery (red-hot) in a furnace.\" ",
+            "The feet of the priests were bare in ministering in the sanctuary. So our great High Priest here.\" ",
+            "His voice, however, is here regarded in its terribleness to His foes."
+        ],
+        "Albert Barnes": [
+            "The word used here - \u03c7\u03b1\u03bb\u03ba\u03bf\u03bb\u03b9\u03b2\u03b1\u0301\u03bd\u03c9 chalkolibano\u0304 - occurs in the New Testament only here and in Revelation 2:18.",
+            "The kind of metal here referred to, however, would seem to be some compound of brass - of a whitish and brilliant color.",
+            "Nothing could be a more sublime description of majesty and authority than to compare the voice of a speaker with the roar of the ocean."
+        ],
+        "Archibald T. Robertson": [
+            "Burnished brass. This word has so far been found nowhere else save here and Revelation 2:18. It is in reality an unknown metal.\" ",
+            "As if it had been refined. The feminine gender shows that \u03b7 \u03c7\u03b1\u03bb\u03ba\u03bf\u03bb\u03b9\u03b2\u03b1\u03bd\u03bf\u03c2 is referred to with \u03c4\u03b7\u03c2 \u03c7\u03b1\u03bb\u03ba\u03bf\u03bb\u03b9\u03b2\u03b1\u03bd\u03bf\u03c5 understood.",
+            "In a furnace. Old word, in N.T. also Revelation 9:2; Matthew 13:42; Matthew 13:50."
+        ],
+        "John Gill": [
+            "By which is meant, not his human nature in a suffering state; or his people, the meaner and lower parts of his mystical body, in a like state; or his apostles and ministers, who are supporters of his church, and run to and fro with spiritual knowledge, for which, though they suffer much, are permanent and glorious.",
+            "either the power of Christ in bearing up and supporting his people, in the care and government and defence of them; or his ways, works, and walks in his churches, and all his providential administrations towards them, which are holy, just, and righteous, and will be manifest;",
+            "or his wrath and vengeance in treading down and trampling upon his enemies."
+        ],
+        "John Wesley": [
+            "And his feet like fine brass \u2014 Denoting his stability and strength.",
+            "As if they burned in a furnace \u2014 As if having been melted and refined, they were still red hot.",
+            "And his voice \u2014 To the comfort of his friends, and the terror of his enemies."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "His feet were like chalcolibanus, appearing as if they had been made fiery and red-hot in a furnace, symbolizing the stability and strength of our great High Priest. His voice, on the other hand, was described as the terrifying rush of many waters, highlighting its power and authority. In comparing his voice to the roar of the ocean, nothing could be a more sublime description of his majesty and sovereignty. This voice both comforts his friends and strikes fear into his enemies. The image of burnished brass, resembling a metal unknown to us, further emphasizes the refinement and intensity of his feet as they tread upon his foes. The significance of the voice and feet in this verse can be seen in their representations of Christ's power, authority, and judgment.",
+            "wordCount": 132,
+            "quoteTokenProportion": 37.65,
+            "qualityScore": 1.6145724403797066,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.03,
+            "commentatorTierSimilarities": [
+                29.56,
+                33.71,
+                36.72
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "His feet, resembling burnished brass that had been refined in a furnace, illustrate the stability and strength of our great High Priest. His voice, compared to the powerful rush of many waters, carries an overwhelming and terrifying authority. This voice brings comfort to his friends and strikes fear into his enemies. The description of the burnished brass, an unknown metal, adds to the image of intensity and refinement. These powerful images in Revelation highlight Christ's power, authority, and judgment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.486089869525533,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.76,
+            "commentatorTierSimilarities": [
+                30.1,
+                33.09,
+                36.82
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "His feet, glowing like fiery brass that had been made red-hot in a furnace, symbolize the stability and strength of our great High Priest. Similarly, his voice, described as the powerful rushing of many waters, showcases its tremendous authority. This voice is both comforting to his friends and terrifying to his enemies. The burnished brass, an unknown and refined metal, further emphasizes the intensity and refinement of his feet. These vivid descriptions in Revelation capture the immense power, authority, and judgment of Christ.",
+            "wordCount": 84,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.5639048553402328,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.34,
+            "commentatorTierSimilarities": [
+                33.6,
+                31.32,
+                35.08
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "His feet, resembling fiery red-hot brass that had been refined in a furnace, convey the stability and strength of our great High Priest. His voice, like the powerful rushing of many waters, holds a commanding authority. This voice brings comfort to his friends and strikes fear into his enemies. The burnished brass, an unfamiliar metal, highlights the intensity and refinement of his feet. These vivid descriptions in Revelation vividly depict Christ's power, authority, and judgment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5613624399274115,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.26,
+            "commentatorTierSimilarities": [
+                33.48,
+                31.28,
+                35.23
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "His feet, shining like fiery brass that had been refined in a furnace, symbolize the stability and strength of our great High Priest. His voice, resembling the powerful rushing of many waters, carries a remarkable authority. This voice brings comfort to his friends and terrorizes his enemies. The burnished brass, an unknown and refined metal, further highlights the intense and refined nature of his feet. These striking descriptions in Revelation portray the immense power, authority, and judgment of Christ.",
+            "wordCount": 79,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.529449621154595,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.2,
+            "commentatorTierSimilarities": [
+                33.96,
+                29.32,
+                36.72
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

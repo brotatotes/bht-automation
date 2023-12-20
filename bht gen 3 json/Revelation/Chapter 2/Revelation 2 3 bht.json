@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:39:34",
+    "verseRef": "Revelation 2:3",
+    "bestBHT": {
+        "bht": "The Ephesian church is praised for their unwavering loyalty to Christ, diligently laboring without growing weary. They bear the reproach of Christ with constancy, cheerfulness, and without complaint. Their endurance is reflected in their discernment and rejection of false teachings, passionately upholding the true doctrine of Christ. Despite facing trials and opposition, they remain steadfast in their commitment. Their unfaltering dedication is evident in their ability to withstand hardships with perseverance and without faltering.",
+        "wordCount": 74,
+        "quoteTokenProportion": 21.57,
+        "qualityScore": 1.5195315480708411,
+        "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+        "commentatorTierSimilarities": [
+            22.57,
+            42.82,
+            34.6
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Thou hast borne My reproach, but thou canst not bear the evil.\" ",
+            "Thou hast laboured, and hast not fainted.",
+            "Thou hast not been wearied out with labor."
+        ],
+        "Albert Barnes": [
+            "That is, you have not given way to murmuring or complaints in trial, you have not abandoned the principles of truth and yielded to the prevalence of error.",
+            "The state of mind, considered as the state of mind appropriate to a Christian, here represented, is, that we should not tolerate error and sin, but that we should bear up under the trials which they may incidentally occasion us.",
+            "...we should not be weary of it; and that though we may have many perplexities, and may meet with much opposition, yet we should not relax our zeal, but should persevere with an ardor that never faints, until our Saviour calls us to our reward."
+        ],
+        "Marvin Vincent": [
+            "The best texts omit hast not grown weary and read hast not grown weary.",
+            "The transcribers supposed the verb kopiao to mean only to labor.",
+            "It includes the sense of weariness from labor."
+        ],
+        "Philip Schaff": [
+            "The chief point of commendation in the state of the Christians at Ephesus is their instinctive discernment and rejection of false teachers, and their zeal for the true doctrine of Christ.",
+            "Here was the 'toil' that never wearied, the 'endurance' that never failed, the 'bearing' of that bitter cross which consisted...in contending against the 'grievous wolves' that had entered into God's heritage.",
+            "The first 'work' of Christ, to maintain God's true revelation of Himself against selfish error, appears in the Ephesian church."
+        ],
+        "Archibald T. Robertson": [
+            "Continued possession of patience.",
+            "The Ephesian church can bear anything except the presence of impostors in her membership.",
+            "Tired in loyalty, not of it."
+        ],
+        "John Gill": [
+            "And hast borne them with constancy and cheerfulness, and were not moved by them.",
+            "It was in exercise in a suitable time, and it continued with them; it was not worn out through the length and greatness of their trials.",
+            "And there never was an interval in which this was more true: and hast not fainted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse highlights the commendable qualities of the Ephesian church - their unwavering loyalty, diligent labor, and the ability to withstand hardships without growing weary. Despite facing trials and reproach, they have not given in to complaints or abandoned the principles of truth. Their commitment to discerning and rejecting false teachings is praised, as they tirelessly contend against those who seek to distort the true doctrine of Christ. Their endurance and perseverance in upholding God's true revelation make them exemplary in their dedication. They bear the reproach of Christ with constancy and cheerfulness, never faltering or growing weary.",
+            "wordCount": 98,
+            "quoteTokenProportion": 28.99,
+            "qualityScore": 1.5249222489564125,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.05,
+            "commentatorTierSimilarities": [
+                19.7,
+                47.77,
+                32.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Ephesian church is commended for bearing the reproach of Christ and laboring without growing weary. They have shown steadfastness in their loyalty, not tiring of it but remaining diligent in their efforts. Their endurance is particularly evident in their discernment and rejection of false teachers, as they zealously uphold the true doctrine of Christ. Their unwavering commitment to maintaining God's revelation amidst trials and opposition is praiseworthy. They have borne the reproach with constancy and cheerfulness, proving their loyalty in the face of adversity.",
+            "wordCount": 86,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.5165898418913542,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.77,
+            "commentatorTierSimilarities": [
+                21.33,
+                44.68,
+                33.99
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Ephesian church is praised for their unwavering loyalty to Christ, diligently laboring without growing weary. They bear the reproach of Christ with constancy, cheerfulness, and without complaint. Their endurance is reflected in their discernment and rejection of false teachings, passionately upholding the true doctrine of Christ. Despite facing trials and opposition, they remain steadfast in their commitment. Their unfaltering dedication is evident in their ability to withstand hardships with perseverance and without faltering.",
+            "wordCount": 74,
+            "quoteTokenProportion": 21.57,
+            "qualityScore": 1.5195315480708411,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.87,
+            "commentatorTierSimilarities": [
+                22.57,
+                42.82,
+                34.6
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The commendation for the Ephesian church lies in their ability to bear the reproach of Christ while avoiding weariness. They have toiled diligently and not grown faint, showing a tireless commitment to their work. Not only have they endured trials, but they have also steadfastly rejected false teachers, upholding the true doctrine of Christ. This unwavering loyalty and resilience in the face of opposition exemplify their exceptional dedication. They have borne the reproach with constancy, cheerfulness, and remarkable endurance, symbolizing their unyielding loyalty to Christ.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.46930678535111,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.2,
+            "commentatorTierSimilarities": [
+                21.48,
+                43.88,
+                34.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Ephesian church is commended for their unwavering loyalty and diligent labor without weariness. They bear the reproach of Christ with constancy, cheerfulness, and remarkable endurance. Their ability to discern and reject false teachings showcases their zeal for upholding the true doctrine of Christ. In the face of trials and opposition, they remain resolute and unwavering in their commitment. They embody an exceptional dedication to enduring hardships with steadfastness, showcasing their unwavering loyalty to Christ.",
+            "wordCount": 75,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 1.472546590488634,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.3,
+            "commentatorTierSimilarities": [
+                22.06,
+                42.35,
+                35.59
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

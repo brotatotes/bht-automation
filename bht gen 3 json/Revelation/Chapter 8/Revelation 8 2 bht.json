@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:44:48",
+    "verseRef": "Revelation 8:2",
+    "bestBHT": {
+        "bht": "The prayers of the saints, already offered, will soon be answered through the seven well-known angels who stand before God. With the seven trumpets, these angels will execute God's will and bring judgment upon the ungodly, overturning world kingdoms to make way for Christ's universal reign. The trumpets are not mere manifestations of will, but rather instruments of war and battle that announce and initiate significant events, shaking opposing powers and leading to the establishment of God's kingdom on earth.",
+        "wordCount": 84,
+        "quoteTokenProportion": 36.07,
+        "qualityScore": 2.238358933943396,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+        "commentatorTierSimilarities": [
+            28.93,
+            31.55,
+            39.52
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The evolution of the courses of visions out of one another does not legitimately lead to the conclusion that the events represented by them are consecutive in order of time.",
+            "Any theological difficulty which belongs to the one belongs also to the other; and it is a canon which we must strictly observe in interpretation, that we are not, on account of supposed doctrinal propriety, to depart from the plain meaning of words.",
+            "The prayers, being already offered, received the smoke of the incense. The whole imagery introduces the fact that those prayers are about to be answered in the following judgments."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The seven angels... [are] one of the seven holy angels which present the prayers of the saints, and which go in and out before the glory of the Holy One.",
+            "These [seven trumpets] come in during the time while the martyrs rest until their fellow servants also, that should be killed as they were, should be fulfilled. All the ungodly, and not merely some one portion of them, are meant, all the opponents and obstacles in the way of the kingdom of Christ and His saints.",
+            "By the seven trumpets the world kingdoms are overturned to make way for Christ's universal kingdom."
+        ],
+        "Albert Barnes": [
+            "John might use this language either because the angels had been spoken of before; or because it would be sufficiently understood, from the common use of language, who would be referred to.",
+            "It would be entirely in accordance with the usage of the article for one to say that he saw an army, and the commander-in-chief, and the four staff-officers, and the five bands of music, and the six companies of sappers and miners, etc.",
+            "Trumpets were used then, as now, for various purposes; to summon an assembly; to muster the hosts of battle; to inspirit and animate troops in conflict. Here they are given to announce a series of important events producing great changes in the world as if God summoned and led on his hosts to accomplish his designs."
+        ],
+        "Marvin Vincent": [
+            "Stood [\u03b5\u03c3\u03c4\u03b7\u03ba\u03b1\u03c3\u03b9\u03bd] . Rev., correctly, stand. ",
+            "Trumpets [\u03c3\u03b1\u03bb\u03c0\u03b9\u03b3\u03b3\u03b5\u03c2] . See on chapter Revelation 1:10."
+        ],
+        "Philip Schaff": [
+            "The seven angels spoken of stand before God ready to execute His will.",
+            "These trumpets are neither those of festal proclamation, nor are they, with some recent commentators, to be regarded as a mere \u2018manifestation of will.\u2019 They are trumpets of war and battle.",
+            "The seals only announce judgment. The trumpets indicate action, which at the same time they arouse and quicken."
+        ],
+        "Archibald T. Robertson": [
+            "The article (the seven angels) seems to point to seven well-known angels.",
+            "We see trumpets assigned to angels in Matthew 24:31; 1 Thessalonians 4:16; 1 Corinthians 15:52; Revelation 4:1; Revelation 4:4.",
+            "These seven trumpets are soon to break the half hour of silence."
+        ],
+        "John Gill": [
+            "Not the seven spirits of God, Revelation 1:4; their names, as well as their office, differ; nor the ministers of the word, though these are often called angels in this book, and blow the trumpet of the Gospel, and lift up their voice like a trumpet.",
+            "the angelic spirits, and these either evil ones, since they are the executioners of wrath and vengeance, and bring judgments on the earth; and who, are sometimes said to stand before God, 1 Kings 22:21; or rather good angels, who are sometimes ministers of divine wrath...",
+            "the trumpet being an alarm, preparing for, proclaiming, and introducing these things; Jeremiah 4:19; these are said to be given them; either by him that sat upon the throne, about which they were; or by the Lamb that opened the seal; and shows that they did nothing but what they had a commission and order to do."
+        ],
+        "John Wesley": [
+            "The seven trumpets belong to the seventh seal, as do the seven phials to the seventh trumpet.",
+            "The seven angels which stood before God - A character of the highest eminence.",
+            "And the angels here made known by these trumpets the wonderful works of God, whereby all opposing powers are successively shaken, till the kingdom of the world becomes the kingdom of God and his Anointed."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prayers of the saints, which are already offered, are about to be answered through the seven angels with their trumpets. These trumpets serve as a means to announce and execute God's will, bringing judgment and initiating action in the world. The seven well-known angels, who stand before God, are ready to accomplish His designs and overcome all opposition to establish the kingdom of Christ. The seven trumpets signify the overturning of world kingdoms to make way for Christ's universal kingdom, as the ungodly are defeated. Through these trumpets, the wonderful works of God are made known, progressively shaking and transforming all opposing powers until the kingdom of the world becomes the kingdom of God and His Anointed.",
+            "wordCount": 121,
+            "quoteTokenProportion": 38.57,
+            "qualityScore": 2.1593285949848506,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.14,
+            "commentatorTierSimilarities": [
+                28.84,
+                29.98,
+                41.18
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prayers of the saints are soon to be answered by the seven well-known angels who stand before God. Accompanied by the seven trumpets, these angels will execute God's will, bringing judgment and initiating action in the world. Through the trumpets, the ungodly will be overcome, and world kingdoms will be overturned to make way for Christ's universal kingdom. These trumpets signify the wonderful works of God, progressively shaking and transforming opposing powers until the kingdom of the world becomes the kingdom of God and His Anointed.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.160072086480447,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.16,
+            "commentatorTierSimilarities": [
+                30.03,
+                28.93,
+                41.04
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prayers of the saints will be answered through the seven angels, who will use the seven trumpets to execute God's will. These well-known angels, standing before God, signify the forthcoming judgments that will overthrow world kingdoms and make way for Christ's universal kingdom. The trumpets are a means to announce and initiate God's designs, bringing great changes to the world. As these trumpets of war and battle sound, opposing powers will be shaken, ultimately leading to the establishment of the kingdom of God and His Anointed.",
+            "wordCount": 91,
+            "quoteTokenProportion": 31.58,
+            "qualityScore": 2.1909378291701214,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.19,
+            "commentatorTierSimilarities": [
+                27.4,
+                32.6,
+                40.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prayers of the saints, already offered, will soon be answered through the seven well-known angels who stand before God. With the seven trumpets, these angels will execute God's will and bring judgment upon the ungodly, overturning world kingdoms to make way for Christ's universal reign. The trumpets are not mere manifestations of will, but rather instruments of war and battle that announce and initiate significant events, shaking opposing powers and leading to the establishment of God's kingdom on earth.",
+            "wordCount": 84,
+            "quoteTokenProportion": 36.07,
+            "qualityScore": 2.238358933943396,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.77,
+            "commentatorTierSimilarities": [
+                28.93,
+                31.55,
+                39.52
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Through the seven well-known angels who stand before God, the prayers of the saints will soon be answered. Using the seven trumpets, these angels will execute God's will and bring judgment upon the ungodly, overthrowing world kingdoms to make way for Christ's universal reign. The trumpets serve as instruments of war and battle, announcing and initiating significant events that will shake opposing powers. Ultimately, these acts of divine intervention will establish the kingdom of God and His Anointed, transforming the world according to His purposes.",
+            "wordCount": 88,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 2.045902466954484,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.37,
+            "commentatorTierSimilarities": [
+                27.59,
+                31.93,
+                40.48
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

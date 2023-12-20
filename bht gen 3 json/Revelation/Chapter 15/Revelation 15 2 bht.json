@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:47:34",
+    "verseRef": "Revelation 15:2",
+    "bestBHT": {
+        "bht": "The victorious saints, having come off triumphantly from the beast and his image, stand on a firm glassy sea, holding harps of God in their hands. This glassy sea, clear and fiery, represents their stability amidst instability and the purification that is part of their deliverance. The sea, mingled with fire, symbolizes the element belonging to this part of the prophecy. The saints' praise on their harps of God far surpasses any earthly instruments, reflecting the abundant power of Christ's blood in cleansing and justifying them from sin.",
+        "wordCount": 89,
+        "quoteTokenProportion": 29.51,
+        "qualityScore": 1.958492478691423,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+        "commentatorTierSimilarities": [
+            27.47,
+            35.11,
+            37.42
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The as it were indicates the likeness: it was as it were made of glass.",
+            "The addition mingled with fire is probably made as bringing into the previous celestial imagery an element belonging to this portion of the prophecy.",
+            "They have come victorious out of the strife."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "As the sea typifies the troubled state out of which the beast arose, and which is to be no more in the blessed world to come, so the victorious saints stand on it, having it under their feet... Firmness of footing amidst apparent instability is thus represented.",
+            "Their happiness is heightened by the retrospect of the dangers through which they have passed.",
+            "Harps of God - in the hands of these heavenly virgins, infinitely surpassing the timbrels of Miriam and the Israelitesses."
+        ],
+        "Albert Barnes": [
+            "The sea of glass here means a sea clear, pellucid, like glass: an expanse that seemed to be made of glass. There it was entirely clear; here it is mingled with fire.",
+            "The very sight of the pavement, therefore, on which they stood when worshipping God, would keep before their minds impressive views of his character and dealings.",
+            "In all the attempts of that power to subdue them - to intimidate them - to induce them to give up their attachment to the truth as it is in Jesus - they had remained steadfast in the faith, and had triumphed."
+        ],
+        "Marvin Vincent": [
+            "A glassy sea.",
+            "Coming triumphant out of [the beast].",
+            "Instruments devoted wholly to His praise."
+        ],
+        "Philip Schaff": [
+            "The next thing seen is a glassy sea mingled with fire.",
+            "Those that occupy this sea are next described as they that come victorious out of the beast, and out of his image, and out of the number of his name.",
+            "For the harps of God which they hold in their hands."
+        ],
+        "Archibald T. Robertson": [
+            "As it were a glassy sea.\" ",
+            "Mingled with fire.",
+            "Them that come off victorious from the beast and from his image."
+        ],
+        "John Gill": [
+            "Not baptism, but rather the blood of Christ, which may be compared to a sea, for its abundant virtue and efficacy in cleansing from all sin; and to a sea 'of glass', since in it are clearly seen free justification, full pardon, peace and reconciliation; and may be said to be 'mingled with fire', being attended in the application of it with the Spirit of God, whose gifts and graces are sometimes signified by fire.\" ",
+            "the pure church of God, as washed in the blood of the Lamb; compared to a sea for the multitude of which it consists, and to a sea of glass, because of the transparency and clearness of its principles and practices\" ",
+            "the Gospel, as in :-; and which may be said to be mingled with fire, either because of the powerful and clear demonstration of the Spirit that attends it to the minds of many, or that heat of persecution which is raised by it"
+        ],
+        "John Wesley": [
+            "And I saw as it were a sea of glass mingled with fire - It was before 'clear as crystal,' Revelation 4:6, but now mingled with fire, which devours the adversaries.",
+            "The mark of the beast, the mark of his name, and the number of his name, seem to mean here nearly the same thing.",
+            "Having the harps of God - Given by him, and appropriated to his praise."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The victorious saints, who have triumphantly emerged from the struggles with the beast and its image, stand firm on a sea that is like glass, clear and transparent. This glassy sea represents their steadfastness amidst instability, reminding them of the dangers they have overcome. In their hands, they hold harps of God, far surpassing any earthly instruments of praise. The sea is now mingled with fire, symbolizing the element belonging to this portion of the prophecy and the purification that accompanies their deliverance. The image of the sea, both clear and fiery, portrays the abundant virtue of Christ's blood, cleansing and justifying them.",
+            "wordCount": 104,
+            "quoteTokenProportion": 29.58,
+            "qualityScore": 1.933393987610729,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.63,
+            "commentatorTierSimilarities": [
+                27.81,
+                36.16,
+                36.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The victorious saints, having come off triumphantly from the beast and his image, stand on a firm glassy sea that represents their stability amid instability. This sea, mingled with fire, signifies the element belonging to this portion of the prophecy and the purification that accompanies their deliverance. Holding harps of God, they offer praise and worship that surpasses any earthly instruments. This glassy sea, clear and fiery, symbolizes the abundant virtue of Christ's blood in cleansing and justifying them from all sin.",
+            "wordCount": 83,
+            "quoteTokenProportion": 28.57,
+            "qualityScore": 1.8911102580819603,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.22,
+            "commentatorTierSimilarities": [
+                26.48,
+                33.91,
+                39.61
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The victorious saints, having emerged triumphant from the beast and its image, stand on a firm glassy sea, reminiscent of their stability amidst instability. This sea, mingled with fire, represents the ongoing element in this part of the prophecy and the purification that comes with their deliverance. Holding harps of God in their hands, they offer a praise that far exceeds that of Miriam and the Israelites. The glassy sea, clear and fiery, showcases the abundant power of Christ's blood in cleansing and justifying them from sin.",
+            "wordCount": 88,
+            "quoteTokenProportion": 25.0,
+            "qualityScore": 1.897454020962622,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.43,
+            "commentatorTierSimilarities": [
+                25.77,
+                35.49,
+                38.74
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The victorious saints, having come off triumphantly from the beast and his image, stand on a firm glassy sea that represents their stability amidst instability. This sea, mingled with fire, signifies the purification that accompanies their deliverance and the element belonging to this portion of the prophecy. Holding harps of God, their praise surpasses any earthly instruments. The glassy sea, clear and fiery, symbolizes the abundant virtue of Christ's blood in cleansing and justifying them.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.8983855939755538,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                27.81,
+                33.89,
+                38.3
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The victorious saints, having come off triumphantly from the beast and his image, stand on a firm glassy sea, holding harps of God in their hands. This glassy sea, clear and fiery, represents their stability amidst instability and the purification that is part of their deliverance. The sea, mingled with fire, symbolizes the element belonging to this part of the prophecy. The saints' praise on their harps of God far surpasses any earthly instruments, reflecting the abundant power of Christ's blood in cleansing and justifying them from sin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 29.51,
+            "qualityScore": 1.958492478691423,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.46,
+            "commentatorTierSimilarities": [
+                27.47,
+                35.11,
+                37.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

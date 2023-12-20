@@ -1,0 +1,133 @@
+{
+    "timestamp": "12-19-2023 21:50:47",
+    "verseRef": "Revelation 21:12",
+    "bestBHT": {
+        "bht": "The heavenly Jerusalem is portrayed with a wall great and high, signifying the security and exclusion of the Church. The twelve angels guarding the gates represent perfect security, while the gates being never shut symbolize liberty and peace. These large gates, with names written on them, offer ample accessibility for God's people, both Jew and Gentile. This description reveals the fullness of salvation and the assurance that it will be enjoyed by those with an interest, as the angels continue to wait upon the heirs of salvation.",
+        "wordCount": 88,
+        "quoteTokenProportion": 39.39,
+        "qualityScore": 1.8445836271892087,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+        "commentatorTierSimilarities": [
+            29.86,
+            32.84,
+            37.31
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And\u2014A and B omit. :-, has a similar description, which implies that the millennial Jerusalem shall have its exact antitype in the heavenly Jerusalem which shall descend on the finally regenerated earth.",
+            "wall great and high\u2014setting forth the security of the Church. Also, the exclusion of the ungodly.",
+            "twelve angels\u2014guards of the twelve gates: an additional emblem of perfect security, while the gates being never shut imply perfect liberty and peace."
+        ],
+        "Albert Barnes": [
+            "The word 'great' means that it was thick and strong. Its height also is particularly noticed, for it was unusual.\" ",
+            "The idea seems to be that there would be ample opportunity of access and egress.\" ",
+            "The New Jerusalem is the eternal residence of the children of God, and this is indicated at every gate."
+        ],
+        "Marvin Vincent": [
+            "And had [\u03b5\u03c7\u03bf\u03c5\u03c3\u03b1\u03bd \u03c4\u03b5] . Rev., more simply and literally, having. ",
+            "Gates [\u03c0\u03c5\u03bb\u03c9\u03bd\u03b1\u03c2] . Properly large gates. See on Luke 16:20; Acts 12:13. Compare Ezekiel 48:30 sqq."
+        ],
+        "Philip Schaff": [
+            "Hence the New Jerusalem has not only a wall, but a wall 'great and high.'",
+            "These gates were twelve in number, disposed like the gates of the encampment of Israel around the Tabernacle.",
+            "These twelve tribes represent the whole people of God, Gentile as well as Jew."
+        ],
+        "Archibald T. Robertson": [
+            "Having a wall great and high (\u03b5\u03c7\u03bf\u03c5\u03c3\u03b1 \u03c4\u03b5\u03b9\u03c7\u03bf\u03c2 \u03bc\u03b5\u03b3\u03b1 \u03ba\u03b1 \u03c5\u03c8\u03b7\u03bb\u03bf\u03bd).",
+            "At the gates (\u03b5\u03c0 \u03c4\u03bf\u03b9\u03c2 \u03c0\u03c5\u03bb\u03c9\u03c3\u03b9\u03bd). 'Upon the gate towers.'",
+            "Names written thereon (\u03bf\u03bd\u03bf\u03bc\u03b1\u03c4\u03b1 \u03b5\u03c0\u03b9\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b1). Perfect passive participle of \u03b5\u03c0\u03b9\u03b3\u03c1\u03b1\u03c6\u03c9. Which are the names (\u03b1 \u03b5\u03c3\u03c4\u03b9\u03bd)."
+        ],
+        "John Gill": [
+            "Not the Spirit of God, who separates, sanctifies, and preserves the saints...nor the eternal decree of God, the unpassable gulf between heaven and hell...this regards not the ultimate state of happiness.",
+            "It may be best to interpret this [wall] of salvation itself, which is by Jesus Christ...salvation in this state will be enjoyed in its fulness...and not to be got over or enjoyed by those who have no interest in it.",
+            "These gates are said to be twelve, in allusion to the twelve apostles...and to the twelve tribes of Israel, who represent all the elect of God, who enter in thereat."
+        ],
+        "John Wesley": [
+            "Twelve angels \u2014 Still waiting upon the heirs of salvation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The heavenly Jerusalem, described in Revelation 21:12, is portrayed as having a wall great and high, symbolizing the security and exclusivity of the Church. The twelve angels guarding the gates further emphasize the perfect security, while the gates themselves being never shut signify ultimate liberty and peace. The New Jerusalem's gates are described as large and having names written thereon, indicating that this eternal residence of God's children offers ample opportunity for access and egress for all the people of God, both Jew and Gentile. Ultimately, the description of the heavenly city and its gates provides a glimpse into the fullness of salvation and the assurance that it will be enjoyed by those who have an interest in it, with the angels still waiting upon the heirs of salvation.",
+            "wordCount": 130,
+            "quoteTokenProportion": 37.21,
+            "qualityScore": 1.8812576142534394,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.89,
+            "commentatorTierSimilarities": [
+                29.5,
+                32.0,
+                38.49
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The heavenly Jerusalem is depicted as having a wall great and high, symbolizing the security and exclusivity of the Church. The twelve angels guarding the gates emphasize perfect security, while the gates being never shut signify liberty and peace. The gates themselves are described as large and having names written thereon, indicating ample access for all of God's people. This description provides a glimpse into the fullness of salvation and the assurance that it will be enjoyed by those with an interest in it, with angels still waiting upon the heirs of salvation.",
+            "wordCount": 94,
+            "quoteTokenProportion": 39.71,
+            "qualityScore": 1.8416878488304156,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.58,
+            "commentatorTierSimilarities": [
+                29.94,
+                33.15,
+                36.9
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The heavenly Jerusalem is depicted as having a wall great and high, emphasizing the security and exclusion of the Church. The twelve angels guarding the gates signify perfect security, and the gates, which are never shut, represent freedom and peace. These gates, described as large and having names written thereon, provide ample access for all of God's people. This description offers a glimpse into the fullness of salvation, ensuring it will be enjoyed by those who have an interest, with angels awaiting the heirs of salvation.",
+            "wordCount": 87,
+            "quoteTokenProportion": 36.92,
+            "qualityScore": 1.8155527923476065,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.71,
+            "commentatorTierSimilarities": [
+                30.75,
+                33.33,
+                35.93
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The heavenly Jerusalem is portrayed with a wall great and high, signifying the security and exclusion of the Church. The twelve angels guarding the gates represent perfect security, while the gates being never shut symbolize liberty and peace. These large gates, with names written on them, offer ample accessibility for God's people, both Jew and Gentile. This description reveals the fullness of salvation and the assurance that it will be enjoyed by those with an interest, as the angels continue to wait upon the heirs of salvation.",
+            "wordCount": 88,
+            "quoteTokenProportion": 39.39,
+            "qualityScore": 1.8445836271892087,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.67,
+            "commentatorTierSimilarities": [
+                29.86,
+                32.84,
+                37.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The heavenly Jerusalem is depicted with a wall great and high, emphasizing the Church's security and exclusion of the ungodly. The twelve angels guarding the gates provide perfect security, while the gates being never shut signify complete liberty and peace. These large gates, with names written on them, offer ample access for all of God's people. This description reveals the fullness of salvation, enjoyed by those who have an interest, with angels awaiting the heirs of salvation.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.59,
+            "qualityScore": 1.8170661122330807,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.76,
+            "commentatorTierSimilarities": [
+                31.79,
+                31.41,
+                36.8
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:44:59",
+    "verseRef": "Revelation 8:13",
+    "bestBHT": {
+        "bht": "An eagle soaring in mid-heaven, crying out woe, woe, woe, serves as a powerful symbol of divine judgment. This proclamation marks the completion of one phase of judgment while signaling an interval before the next series of calamities. The distress inflicted by barbarous nations on the western empire was significant, but the impending trials brought by the Saracens and Turks on the eastern empire would be even more severe. This woe warns the ungodly of the imminent arrival of more intense tribulations.",
+        "wordCount": 83,
+        "quoteTokenProportion": 35.0,
+        "qualityScore": 1.6648673445986144,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+        "commentatorTierSimilarities": [
+            30.63,
+            24.5,
+            44.87
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "any application of that saying would be far more aptly reserved for our ch. xix. 17.",
+            "the symbol of judgment and vengeance rushing to its prey",
+            "Woe, woe, woe, to those that dwell upon the earth"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "the symbol of judgment descending fatally from on high; the king of birds pouncing on the prey.",
+            "John is compared in the cherubim (according to the primitive interpretation) to a flying eagle: Christ's divine majesty in this similitude is set forth in the Gospel according to John, His judicial visitations in the Revelation of John.",
+            "Not that they sought personal revenge, but their zeal was for the honor of God against the foes of God and His Church."
+        ],
+        "Albert Barnes": [
+            "Woe, woe, woe - That is, there will be great woe. The repetition of the word is intensive, and the idea is, that the sounding of the three remaining trumpets would indicate great and fearful calamities.",
+            "These three are grouped together as if they pertained to a similar series of events, as the first four had been.",
+            "The two classes are separated from each other by this interval and by this proclamation - implying that the first series had been completed, and that there would be some interval, either of space or time, before the other series would come upon the world."
+        ],
+        "Marvin Vincent": [
+            "An angel read ajetou eagle. Lit., one eagle.",
+            "The eagle is a symbol of vengeance in Deuteronomy 28:49; Hosea 8:1; Habakkuk 1:8.",
+            "Mid heaven means, properly, the meridian, the highest point in the heavens which the sun occupies at noon; not the space between heaven and earth."
+        ],
+        "Philip Schaff": [
+            "But we are dealing with a higher potency of judgment than that which met us under the seals.",
+            "The reading of the Authorised Version \u2018angel\u2019 instead of \u2018eagle\u2019 is undoubtedly a mistake of copyists.",
+            "By them \u2018that dwell on the earth\u2019 are to be understood the ungodly alone."
+        ],
+        "Archibald T. Robertson": [
+            "Flying in mid-heaven. \u039c\u03b5\u03c3\u03bf\u03c5\u03c1\u03b1\u03bd\u03b7\u03bc\u03b1 is a late word for the sun at noon...This eagle is flying where all can see, and crying so that all can hear.",
+            "Woe, woe, woe. Triple because three trumpets yet to come. In Revelation 18:10; Revelation 18:16; Revelation 18:19 the double \u03bf\u03c5\u03b1 is merely for emphasis.",
+            "By reason of the other voices. 'As a result of the rest of the voices.' There is more and worse to come."
+        ],
+        "John Gill": [
+            "did the next trumpet introduce Popery, as some have supposed, Gregory bishop of Rome might be thought, as he is by some, to be the angel here intended",
+            "woe, woe, woe; three times, answerable to the three trumpets yet to be blown; and which are therefore called the woe trumpets",
+            "the distresses and ruin which the barbarous nations had brought upon the western empire were very great; yet those which would come upon the eastern empire by the Saracens and Turks, under the sounding of the fifth and sixth trumpets, would be much more grievous"
+        ],
+        "John Wesley": [
+            "In the midst of heaven \u2014 The three woes, as we shall see, stretch themselves over the earth from Persia eastward, beyond Italy, westward; all which space had been filled with the gospel by the apostles.",
+            "Woe, woe, woe - Toward the end of the fifth century, there were many presages of approaching calamities.",
+            "Heavy trials were coming on them all. Even while the angel was proclaiming this, the preludes of these three woes were already in motion."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse describes an eagle flying in mid-heaven and proclaiming woe, woe, woe, to those that dwell upon the earth. This symbolizes judgment descending from on high, with the eagle representing divine majesty and the symbol of judgment and vengeance. The repetition of woe intensifies the idea that great and fearful calamities will follow with the sounding of the three remaining trumpets. This proclamation marks the completion of the first series of judgments and a future interval of more severe judgments to come. The distresses brought by barbarous nations on the western empire are noted, but the even more grievous ones brought by the Saracens and Turks on the eastern empire are anticipated. The woe announces the impending heavy trials and acts as a warning to the ungodly.",
+            "wordCount": 129,
+            "quoteTokenProportion": 28.4,
+            "qualityScore": 1.7035324493467556,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.98,
+            "commentatorTierSimilarities": [
+                31.52,
+                26.64,
+                41.83
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "An eagle flying in mid-heaven and declaring woe, woe, woe foreshadows the coming judgment and vengeance. The repetition of woe intensifies the gravity of the impending calamities. This proclamation marks the completion of one series of judgments and suggests an interval before the next series would begin. The distresses caused by barbarous nations on the western empire were severe, but the ones brought by the Saracens and Turks on the eastern empire would be even more devastating. The woe serves as a warning to the ungodly, indicating that more intense trials are on the horizon.",
+            "wordCount": 96,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.6477615056262351,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.13,
+            "commentatorTierSimilarities": [
+                29.17,
+                26.98,
+                43.85
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "An eagle flying in mid-heaven delivers a powerful message of impending woe and judgment. The repetition of woe emphasizes the magnitude of the calamities to come. This proclamation marks the completion of one phase of judgment and warns of a future interval before the next series of events. The distresses caused by barbarous nations on the western empire were significant, but the forthcoming trials brought by the Saracens and Turks on the eastern empire would be even more severe. This woe serves as a solemn warning to the ungodly, signaling the approach of heavier tribulations.",
+            "wordCount": 96,
+            "quoteTokenProportion": 30.3,
+            "qualityScore": 1.6039672814752675,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.67,
+            "commentatorTierSimilarities": [
+                30.6,
+                25.87,
+                43.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The eagle flying in mid-heaven symbolizes judgment and vengeance descending upon Earth. The repeated cry of woe, woe, woe signifies the intensity and severity of the forthcoming calamities. This proclamation concludes one series of judgments, suggesting an interval before the next wave arrives. The distresses caused by barbarous nations on the western empire were great, but the trials brought by the Saracens and Turks on the eastern empire would be even more grievous. This woe acts as a warning to the ungodly, foreshadowing the heavier trials that lie ahead.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 1.6365801811788272,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.76,
+            "commentatorTierSimilarities": [
+                30.89,
+                26.97,
+                42.14
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "An eagle soaring in mid-heaven, crying out woe, woe, woe, serves as a powerful symbol of divine judgment. This proclamation marks the completion of one phase of judgment while signaling an interval before the next series of calamities. The distress inflicted by barbarous nations on the western empire was significant, but the impending trials brought by the Saracens and Turks on the eastern empire would be even more severe. This woe warns the ungodly of the imminent arrival of more intense tribulations.",
+            "wordCount": 83,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 1.6648673445986144,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.7,
+            "commentatorTierSimilarities": [
+                30.63,
+                24.5,
+                44.87
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

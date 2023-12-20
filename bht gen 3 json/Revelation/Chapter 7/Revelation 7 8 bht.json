@@ -1,0 +1,111 @@
+{
+    "timestamp": "12-19-2023 21:43:23",
+    "verseRef": "Revelation 7:8",
+    "bestBHT": {
+        "bht": "The sealing of twelve thousand from each tribe, including Zabulon, Joseph, and Benjamin, is a significant sign. Zabulon signifies dwelling, reflecting God's gracious inhabitation among the sealed ones. Joseph signifies adding, implying the increase of numbers and spiritual gifts in the churches of that time. Benjamin, meaning the Son of the right hand, signifies that the sealed ones are as dear to God as a man's right hand is to him. However, Dan is not mentioned, possibly due to early idolatry and being reduced to a single family.",
+        "wordCount": 90,
+        "quoteTokenProportion": 32.2,
+        "qualityScore": 1.5630484866372094,
+        "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Of the tribe of Zabulon [were] sealed twelve thousand,.... Which signifies 'dwelling'... and may denote his gracious inhabitation, as well as that of God the Father, and of the Spirit, among the saints and sealed ones.",
+            "Of the tribe of Joseph [were] sealed twelve thousand; whose name signifies 'adding'... and may intend the additions both of numbers, and of gifts and graces to the churches of those times.",
+            "Of the tribe of Benjamin [were] sealed twelve thousand; this word signifies 'the Son of the right hand'... these sealed ones are as a signet on God's right hand, and are as near and dear unto him as a man's right hand is to him."
+        ],
+        "John Wesley": [
+            "Of the tribe of Joseph \u2014 Or Ephraim; perhaps not mentioned by name, as having been, with Dan, the most idolatrous of all the tribes.",
+            "It is farther observable of Dan, that it was very early reduced to a single family; which family itself seems to have been cut off in war, before the time of Ezra.",
+            "For in the Chronicles, where the posterity of the patriarchs is recited, Dan is wholly omitted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse talks about the sealing of twelve thousand from each of the twelve tribes, including Zabulon, Joseph, and Benjamin. Zabulon signifies dwelling, pointing to how God graciously dwells among the sealed ones. Joseph signifies adding, hinting at the increase of both numbers and spiritual gifts and graces in the churches at that time. Benjamin, meaning the Son of the right hand, signifies that the sealed ones are like a signet on God's right hand, intimately close to Him. However, Dan is not explicitly mentioned, possibly due to their early idolatry and being reduced to a single family.",
+            "wordCount": 99,
+            "quoteTokenProportion": 35.29,
+            "qualityScore": 1.5750950410414055,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.71,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The sealing of twelve thousand from each tribe, including Zabulon, Joseph, and Benjamin, is a significant sign. Zabulon signifies dwelling, reflecting God's gracious inhabitation among the sealed ones. Joseph signifies adding, implying the increase of numbers and spiritual gifts in the churches of that time. Benjamin, meaning the Son of the right hand, signifies that the sealed ones are as dear to God as a man's right hand is to him. However, Dan is not mentioned, possibly due to early idolatry and being reduced to a single family.",
+            "wordCount": 90,
+            "quoteTokenProportion": 32.2,
+            "qualityScore": 1.5630484866372094,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.31,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The sealing of the twelve tribes, including Zabulon, Joseph, and Benjamin, holds profound significance. Zabulon signifies dwelling, symbolizing the gracious presence of God among the sealed ones. Joseph signifies adding, suggesting the growth in numbers and spiritual gifts bestowed upon the churches in those times. Benjamin, meaning the Son of the right hand, represents the sealed ones as precious and close to God, like a signet on His right hand. However, Dan's absence could be attributed to their early idolatry and diminished status as a tribe.",
+            "wordCount": 87,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 1.3960875289442103,
+            "qualityScoreNormalizedComparedToV2BHTs": 37.76,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In the sealing of the twelve tribes, Zabulon signifies dwelling, highlighting the gracious inhabitation of God among the sealed ones. Joseph indicates adding, suggesting both numerical growth and the abundance of gifts and graces in the churches during that period. Benjamin, meaning the Son of the right hand, portrays the sealed ones as precious and intimate to God, akin to a signet on His right hand. Nonetheless, Dan's exclusion could be attributed to their early idolatry and their subsequent decline as a tribe.",
+            "wordCount": 84,
+            "quoteTokenProportion": 28.81,
+            "qualityScore": 1.535830473781946,
+            "qualityScoreNormalizedComparedToV2BHTs": 42.41,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The sealing of the twelve tribes includes Zabulon, Joseph, and Benjamin. Zabulon signifies dwelling, pointing to God's gracious inhabitance among the sealed ones. Joseph denotes adding, signifying the increase in numbers, as well as spiritual gifts and graces bestowed upon the churches. Benjamin, meaning the Son of the right hand, represents the sealed ones as dear and close to God. However, Dan's absence may be due to their early idolatry and diminished status as a tribe.",
+            "wordCount": 78,
+            "quoteTokenProportion": 29.09,
+            "qualityScore": 1.4891995096728339,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.86,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

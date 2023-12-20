@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:41:18",
+    "verseRef": "Revelation 3:5",
+    "bestBHT": {
+        "bht": "Those who conquer and endure as Christ's soldiers and servants will receive the reward of white garments, representing transfigured spiritual bodies shining with the likeness of Christ. Their names, if found in the book of life, will never be erased. This book serves as a register of God's chosen ones, a list of those who have overcome sin and remained undefiled. As they confess Christ on earth, He will confess their names before the Father in the great day, granting them eternal glory, happiness, and prosperity.",
+        "wordCount": 88,
+        "quoteTokenProportion": 33.87,
+        "qualityScore": 2.1214819761942745,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+        "commentatorTierSimilarities": [
+            31.06,
+            35.01,
+            33.94
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He that conquereth, he shall be clad in white garments... and I will not wipe out his name out of the book of life.\" ",
+            "Only he whose name is a living name, can remain on those pages.\" ",
+            "If they endure to the end as His soldiers and servants, and obtain the victory, shall not... have their names erased from it."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The body transfigured into the likeness of Christ's body, and emitting beams of light reflected from Him, is probably the 'white raiment' promised here.\" ",
+            "He that overcometh shall receive the same reward as they who 'have not defiled their garments' therefore the two are identical.\" ",
+            "An undesigned coincidence, proving that these epistles are, as they profess, in their words, as well as substance, Christ's own addresses; not even tinged with the color of John's style..."
+        ],
+        "Albert Barnes": [
+            "Whosoever he may be that shall overcome sin and the temptations of this world, shall be admitted to this glorious reward.",
+            "The hope that is thus held out before us, is that of appearing with the Redeemer in his kingdom, clad in robes expressive of holiness and joy.",
+            "And let it be remembered that the period is coming when it will be felt to be a higher honor to have the name enrolled in that book than in the books of heraldry."
+        ],
+        "Marvin Vincent": [
+            "Book of life. Lit., the book of the life.\" ",
+            "I will confess [\u03b5\u03be\u03bf\u03bc\u03bb\u03bf\u03b3\u03b7\u03c3\u03bf\u03bc\u03b1\u03b9]. Openly confess [\u03b5\u03be].",
+            "Compare Luke 10:20; Hebrews 12:23."
+        ],
+        "Philip Schaff": [
+            "He that overcometh shall thus be clothed in white garments. He shall be clothed about, shall be wrapped round and round with the glistering glory of Revelation 3:4.",
+            "The 'book of life' is a book conceived of as a register, containing the names of the true citizens of Zion.",
+            "He who has sought no name before men shall have his 'name' confessed by his Lord in the great day."
+        ],
+        "Archibald T. Robertson": [
+            "Shall be arrayed...usually in this book with the accusative of the thing, retained in the passive or with the middle.",
+            "In white garments...apparently the spiritual bodies in the risen life...often in Revelation.",
+            "The name of the one who overcomes...clear reminiscence of the words of Christ about confessing to the Father those who confess him here."
+        ],
+        "John Gill": [
+            "He shall have abundance of spiritual peace and joy, great success and prosperity, both inward and outward, in himself and in the church.",
+            "He shall enjoy eternal glory and happiness!",
+            "And I will not blot out his name out of the book of life; they will always remain in the number of God's elect, and can never become reprobates, or shall ever perish."
+        ],
+        "John Wesley": [
+            "He shall be clothed in white raiment \u2014 The colour of victory, joy, and triumph.",
+            "And I will not blot his name out of the book of life \u2014 Like that of the angel of the church at Sardis: but he shall live for ever.",
+            "I will confess his name \u2014 As one of my faithful servants and soldiers."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who conquer and endure as soldiers and servants of Christ will be clothed in white garments. Their names, living and faithful, will not be erased from the book of life. The white garments represent the transfigured bodies of the redeemed, shining with the likeness of Christ. This reward is the same for those who have remained undefiled throughout their journey. The mention of the book of life emphasizes its significance as a register of God's chosen ones. The promise of confessing their names in the presence of the Father echoes Jesus' words about confessing to the Father those who confess Him on earth. Ultimately, those who overcome sin and the temptations of the world will enjoy eternal glory and happiness, never to be blotted out from the book of life.",
+            "wordCount": 132,
+            "quoteTokenProportion": 34.62,
+            "qualityScore": 1.9671004842727426,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.75,
+            "commentatorTierSimilarities": [
+                32.03,
+                35.78,
+                32.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who conquer and endure as soldiers and servants of Christ will be clad in white garments, symbolizing their transfigured bodies reflecting the likeness of Christ. Their names, living and faithful, cannot be erased from the book of life, which serves as a significant register of God's chosen ones. This reward is the same for those who remain undefiled. By confessing their names, Christ acknowledges them as His faithful servants and soldiers. Through their victory over sin and temptations, they will experience eternal glory, joy, and prosperity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 38.1,
+            "qualityScore": 1.9155460791625591,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.03,
+            "commentatorTierSimilarities": [
+                30.25,
+                34.2,
+                35.54
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Those who conquer and endure as Christ's soldiers and servants will receive the reward of white garments, representing transfigured spiritual bodies shining with the likeness of Christ. Their names, if found in the book of life, will never be erased. This book serves as a register of God's chosen ones, a list of those who have overcome sin and remained undefiled. As they confess Christ on earth, He will confess their names before the Father in the great day, granting them eternal glory, happiness, and prosperity.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.87,
+            "qualityScore": 2.1214819761942745,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.88,
+            "commentatorTierSimilarities": [
+                31.06,
+                35.01,
+                33.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Those who conquer and endure as Christ's soldiers and servants will be clothed in white garments, which reflect their transfigured spiritual bodies shining like Christ. Their names, unblotted from the book of life, signify their status as God's elect who cannot become reprobates or perish. By confessing their names, Christ will acknowledge them as faithful servants and soldiers. Through their victory over sin and temptations, they will enjoy eternal glory, prosperity, and joy in the presence of the Father.",
+            "wordCount": 81,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 2.002053280042422,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.91,
+            "commentatorTierSimilarities": [
+                28.89,
+                33.13,
+                37.97
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Those who conquer as Christ's soldiers and servants will be clad in white garments, representing their transfigured spiritual bodies resembling Christ's. Their names will remain in the book of life, a register of God's chosen, never to be erased. The promise of confessing their names reflects Christ's acknowledgement of their faithfulness. By overcoming sin and temptation, they will be rewarded with eternal glory, happiness, and prosperity.",
+            "wordCount": 70,
+            "quoteTokenProportion": 32.0,
+            "qualityScore": 1.9508624736634634,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.21,
+            "commentatorTierSimilarities": [
+                30.18,
+                34.09,
+                35.73
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:50:26",
+    "verseRef": "Revelation 19:21",
+    "bestBHT": {
+        "bht": "The Lord Himself, as in 2 Thess., destroys the adversaries with the sword out of His own mouth. His personal presence is wanted for the victory over the rest of the enemy, classed together in one indiscriminate mass. The leaders who had deceived the deceived multitudes are distinguished from them, and the bird of prey is filled with the flesh of the killed. The evil they chose brings irresistible destruction upon them.",
+        "wordCount": 71,
+        "quoteTokenProportion": 43.14,
+        "qualityScore": 1.8867875299303174,
+        "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+        "commentatorTierSimilarities": [
+            24.16,
+            46.07,
+            29.77
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Lord Himself, as in 2 Thess., destroys the adversaries with the sword out of His own mouth.\" ",
+            "But clearly all must not be thus spiritualized.",
+            "Why is His personal presence wanted for the victory?"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "21. the remnant\u2014Greek,",
+            "\t\"the rest,\" that is, \"the kings and their armies",
+            "\t(Revelation 19:19) classed together in",
+            "\tone indiscriminate mass. A solemn confirmation of the warning in Revelation 19:19- :."
+        ],
+        "Albert Barnes": [
+            "A proper distinction is thus made between the deceived multitudes and the leaders who had deceived them.",
+            "Perhaps this indicates that the effect that is to be produced when these great powers shall be destroyed is a moral effect; that is, that they will be subdued by the word of the Son of God.",
+            "The true religion would be as triumphant as if the Son of God should go forth as a warrior in his own might, and secure their leaders for punishment, and give up their hosts to the birds of prey."
+        ],
+        "Marvin Vincent": [
+            "Were filled [\u03b5\u03c7\u03bf\u03c1\u03c4\u03b1\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd] . See on Matthew 5:6. "
+        ],
+        "Philip Schaff": [
+            "By \u2018the rest\u2019 here spoken of it seems probable that we are to understand all who have imbibed the principles of the beast and the false prophet, as distinguished from these two great enemies of Christ themselves.",
+            "This \u2018rest\u2019 might have partaken of the supper of the Lamb, but they rejected the light because they loved the darkness.",
+            "The evil which they chose now brings with it swift and irresistible destruction."
+        ],
+        "Archibald T. Robertson": [
+            "The rest (\u03bf \u03bb\u03bf\u03b9\u03c0\u03bf). Of the enemy (the kings and their hosts of verse Revelation 19:19).",
+            "Were killed (\u03b1\u03c0\u03b5\u03ba\u03c4\u03b1\u03bd\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist (effective) passive indicative of \u03b1\u03c0\u03bf\u03ba\u03c4\u03b5\u03b9\u03bd\u03c9. Those affected by the Caesar-worship (Revelation 14:9) were not at once cast into the lake with the two beasts.",
+            "Were filled (\u03b5\u03c7\u03bf\u03c1\u03c4\u03b1\u03c3\u03b8\u03b7\u03c3\u03b1\u03bd). First aorist (effective) passive of \u03c7\u03bf\u03c1\u03c4\u03b1\u03b6\u03c9. As they had been invited to do in verse Revelation 19:17."
+        ],
+        "John Gill": [
+            "And the remnant were slain... even all the enemies of Christ.\" ",
+            "Either that these shall be subdued, conquered, and converted by the word; and so are fitly called a 'remnant', a remnant according to the election of grace among the antichristian party.",
+            "And all the fowls were filled with their flesh; all the Christian princes and people will be satisfied with their kingdoms, riches, and wealth, and will rejoice at their destruction, and in the righteousness of God, which will be displayed in it."
+        ],
+        "John Wesley": [
+            "It has, in particular, one exquisite beauty; that, after exhibiting the two opposite armies, and all the apparatus for a battle...then follows immediately...the account of the victory, without one word of an engagement or fighting.",
+            "Here is the most exact propriety; for what struggle can there be between omnipotence, and the power of all the creation united against it!",
+            "Every description must have fallen short of this admirable silence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In this verse, the Lord Himself destroys the adversaries with the sword out of His own mouth. However, not everything should be spiritualized. His personal presence is necessary for the victory over the rest of the enemy. This signifies the distinction between the deceived multitudes and their leaders who had deceived them. The rest, or the kings and their armies, were killed and the birds of prey were filled with their flesh. The evil they chose brought forth swift and irresistible destruction upon them.",
+            "wordCount": 84,
+            "quoteTokenProportion": 45.76,
+            "qualityScore": 1.672375865803144,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.95,
+            "commentatorTierSimilarities": [
+                26.51,
+                43.03,
+                30.46
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The Lord Himself destroys His adversaries with the sword from His own mouth, emphasizing the need for His personal presence in the victory over the remaining enemy. This distinction is made between the deceived multitudes and the leaders who deceived them. The rest, the kings and their armies, are killed, and their flesh fills the birds of prey. The swift and irresistible destruction that follows is a consequence of the evil they chose.",
+            "wordCount": 73,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.851078338778962,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.89,
+            "commentatorTierSimilarities": [
+                21.15,
+                50.38,
+                28.47
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Lord Himself, as in 2 Thess., destroys the adversaries with the sword out of His own mouth. His personal presence is wanted for the victory over the rest of the enemy, classed together in one indiscriminate mass, a confirmation of the warning in Revelation 19:19. The leaders who had deceived the deceived multitudes are distinguished from them, and the bird of prey is filled with the flesh of the killed. The evil they chose brings irresistible destruction upon them.",
+            "wordCount": 78,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 1.95877627428214,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                25.92,
+                45.85,
+                28.23
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The Lord Himself, as in 2 Thess., destroys the adversaries with the sword out of His own mouth. His personal presence is wanted for the victory over the rest of the enemy, classed together in one indiscriminate mass. The leaders who had deceived the deceived multitudes are distinguished from them, and the bird of prey is filled with the flesh of the killed. The evil they chose brings irresistible destruction upon them.",
+            "wordCount": 71,
+            "quoteTokenProportion": 43.14,
+            "qualityScore": 1.8867875299303174,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.08,
+            "commentatorTierSimilarities": [
+                24.16,
+                46.07,
+                29.77
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The Lord Himself destroys the adversaries with the sword from His own mouth, emphasizing the need for His personal presence in the victory over the remaining enemy. The rest, or the kings and their armies, are killed, and their flesh fills the birds of prey. The evil they chose brings forth swift and irresistible destruction upon them.",
+            "wordCount": 57,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.8273280359605923,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.1,
+            "commentatorTierSimilarities": [
+                23.1,
+                45.77,
+                31.13
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

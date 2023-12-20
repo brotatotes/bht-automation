@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:47:37",
+    "verseRef": "Revelation 15:6",
+    "bestBHT": {
+        "bht": "The seven angels are seen coming forth from the temple, clothed in linen that is pure and glistening. Girt round their breasts with golden girdles, their attire resembles that of the Lord and signifies their elevated status. The clothing of these angels, studded with precious stones, symbolizes their holiness and their readiness for divine service. This clothing, described as a pure and spotless robe, represents the righteousness of Christ and emphasizes their important role as saints.",
+        "wordCount": 76,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 1.9592408791556006,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+        "commentatorTierSimilarities": [
+            26.51,
+            43.05,
+            30.44
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "there came forth the seven angels... clad in linen pure and glistening.\" ",
+            "the well-known clothing of angels and heavenly beings.\" ",
+            "girt round their breasts with golden girdles."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "having\u2014So B reads. But A and C, read 'who have': not that they had them yet (compare Revelation 15:7), but they are by anticipation described according to their office.",
+            "linen\u2014So B reads. But A, C, and Vulgate, 'a stone.' On the principle that the harder reading is the one least likely to be an interpolation, we should read, 'a stone pure ('and' is omitted in A, B, C, and ANDREAS), brilliant' (so the Greek): probably the diamond.",
+            "golden girdles\u2014resembling the Lord in this respect (Revelation 1:13)."
+        ],
+        "Albert Barnes": [
+            "Came out of the temple - Were seen to come from the temple; that is, from the immediate presence of God.",
+            "Clothed in pure and white linen - The emblem of holiness - the common representation in regard to the heavenly inhabitants.",
+            "And having their breasts girded with golden girdles - The meaning is, that they were attired in a manner befitting their rank and condition."
+        ],
+        "Marvin Vincent": [
+            "The idea is that of raiment studded with precious stones.",
+            "Mostly applied in the New Testament to clothing.",
+            "Girt round their breasts."
+        ],
+        "Philip Schaff": [
+            "The seven angels that have the seven plagues now issue from the temple, that is, from the innermost shrine of the heavenly sanctuary.",
+            "Their clothing, according to the later and more correct reading of the Greek, has seemed to many to be absurd: they are clothed with a stone pure and lustrous.",
+            "The seven angels thus issue from the temple to be priests of destruction instead of salvation."
+        ],
+        "Archibald T. Robertson": [
+            "There came out (\u03b5\u03be\u03b7\u03bb\u03b8\u03b1\u03bd). Second aorist active indicative of \u03b5\u03be\u03b5\u03c1\u03c7\u03bf\u03bc\u03b1 with -\u03b1\u03bd rather than -\u03bf\u03bd. Proleptic and prophetic aorist.\" ",
+            "Arrayed (\u03b5\u03bd\u03b4\u03b5\u03b4\u03c5\u03bc\u03b5\u03bd\u03bf). Perfect passive participle of \u03b5\u03bd\u03b4\u03c5\u03c9.\" ",
+            "Girt (\u03c0\u03b5\u03c1\u03b9\u03b5\u03b6\u03c9\u03c3\u03bc\u03b5\u03bd\u03bf). Perfect passive participle of \u03c0\u03b5\u03c1\u03b9\u03b6\u03c9\u03bd\u03bd\u03c5\u03c9."
+        ],
+        "John Gill": [
+            "rather saints are meant, who appear in the habit of priests, being all made kings and priests; and denotes their being clothed with the pure and spotless robe of Christ's righteousness",
+            "their sackcloth being put off, in which they, the witnesses, before appeared.",
+            "this may denote their strength and readiness for what service they shall be called to"
+        ],
+        "John Wesley": [
+            "In this was the visible testimony of God's presence.",
+            "Linen is the habit of service and attendance.",
+            "White \u2014 Or bright and shining, which implies much more than bare innocence."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 15:6, we see the seven angels coming forth from the temple, dressed in the well-known clothing of angels and heavenly beings. They are girt round their breasts with golden girdles, resembling the Lord himself. They are described as being clad in linen pure and glistening, which may be a representation of their holiness and their readiness for the service they will be called to. This clothing, studded with precious stones, symbolizes their elevated status and conveys the idea of a pure and spotless robe of Christ's righteousness.",
+            "wordCount": 90,
+            "quoteTokenProportion": 35.94,
+            "qualityScore": 1.9529719929011864,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.28,
+            "commentatorTierSimilarities": [
+                28.48,
+                41.94,
+                29.58
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The seven angels emerge from the temple, dressed in the familiar clothing of angels and heavenly beings. Girt round their breasts with golden girdles, their attire resembles that of the Lord himself. Clad in pure and glistening linen, their clothing signifies their holiness and readiness for divine service. Adorned with precious stones, their garments represent a pure and spotless robe of Christ's righteousness, emphasizing their elevated status as saints and their preparation for the tasks they will undertake.",
+            "wordCount": 79,
+            "quoteTokenProportion": 24.56,
+            "qualityScore": 1.9474237967728008,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.09,
+            "commentatorTierSimilarities": [
+                27.57,
+                42.66,
+                29.77
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The seven angels are seen coming forth from the temple, clothed in linen that is pure and glistening. Girt round their breasts with golden girdles, their attire resembles that of the Lord and signifies their elevated status. The clothing of these angels, studded with precious stones, symbolizes their holiness and their readiness for divine service. This clothing, described as a pure and spotless robe, represents the righteousness of Christ and emphasizes their important role as saints.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 1.9592408791556006,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.49,
+            "commentatorTierSimilarities": [
+                26.51,
+                43.05,
+                30.44
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Emerging from the temple, the seven angels are dressed in the familiar clothing of angels and heavenly beings, girt round their breasts with golden girdles. Their attire, described as linen pure and glistening, signifies their holiness and readiness for divine service. Resembling the Lord Himself, their garments studded with precious stones convey their elevated status. As saints, they are clothed in the pure and spotless robe of Christ's righteousness, exemplifying their strength, readiness, and their role as priests of destruction.",
+            "wordCount": 81,
+            "quoteTokenProportion": 21.05,
+            "qualityScore": 1.9588851887185972,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.47,
+            "commentatorTierSimilarities": [
+                25.12,
+                41.84,
+                33.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The seven angels come forth from the temple clad in linen that is pure and glistening. Their golden girdles around their breasts resemble the Lord's appearance in Revelation 1:13. Their clothing, studded with precious stones, signifies their elevated status as heavenly beings. Clothed in the pure and spotless robe of Christ's righteousness, they embody saints who are ready for divine service. As priests of destruction, they issue from the temple to fulfill their appointed roles.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.9624938869153525,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.59,
+            "commentatorTierSimilarities": [
+                25.5,
+                45.53,
+                28.97
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

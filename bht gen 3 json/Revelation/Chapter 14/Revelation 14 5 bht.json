@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:46:51",
+    "verseRef": "Revelation 14:5",
+    "bestBHT": {
+        "bht": "Those who are described as blameless in their words are likened to those who walk blamelessly and speak truth in their hearts. They stand on Mount Zion, together with Him who embodies this character. While they are not blameless in themselves, they are regarded as such based on their trust in Christ and their faithful service to Him. These righteous individuals, who are without blemish, find their place before the throne of God, offering a glimpse of the bright hope of heaven.",
+        "wordCount": 82,
+        "quoteTokenProportion": 42.86,
+        "qualityScore": 1.7108981121752764,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+        "commentatorTierSimilarities": [
+            29.39,
+            40.46,
+            30.14
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And in their mouth was not found falsehood: they are blameless.",
+            "Who shall dwell in thy holy mountain? He that watketh blamelessly... speaketh truth in his heart, and hath not deceived with his tongue.",
+            "Theso stand on Mount Zion, with Him who eminently fulfilled this character, and being in all things like Him."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Not absolutely, and in themselves blameless; but regarded as such on the ground of His righteousness in whom alone they trusted, and whom they faithfully served by His Spirit in them.",
+            "The allusion seems to be to Psalms 15:1; Psalms 15:2. Compare Psalms 15:2-: 'stood on Mount Sion.'",
+            "The oldest Vulgate manuscript supports them."
+        ],
+        "Albert Barnes": [
+            "And in their mouth was found no guile - No deceit, fraud, hypocrisy. They were sincerely and truly what they professed to be - the children of God.\" ",
+            "For they are without fault before the throne of God - The word here rendered 'without fault' - \u03b1\u0313\u0301\u03bc\u03c9\u03bc\u03bf\u03b9 amo\u0304moi - means, properly, 'spotless, without blemish.'\" ",
+            "What could be better suited than this view to sustain the souls of the persecuted and the sorrowful? And how often since in the history of the church in the dark times of religious declension and of persecution - has there been occasion to seek consolation in this bright view of heaven?"
+        ],
+        "Marvin Vincent": [
+            "Guile [\u03b4\u03bf\u03bb\u03bf\u03c2] . Read yeudov lie. ",
+            "Without fault [\u03b1\u03bc\u03c9\u03bc\u03bf\u03b9] . Rev., blemish. See on 1 Peter 1:19. ",
+            "Before the throne of God. Omit."
+        ],
+        "Archibald T. Robertson": [
+            "Was found no lie...but the difference is not great.\" ",
+            "Without blemish. As Christ the Paschal Lamb is, so the followers of the Lamb are to be in the end."
+        ],
+        "John Gill": [
+            "The superstition and idolatry of the church of Rome were not among them.",
+            "They did not speak lies in hypocrisy, as the followers of antichrist do.",
+            "They were without spot or wrinkle, or any such thing, as being washed in the blood of Christ."
+        ],
+        "John Wesley": [
+            "And in their month there was found no guile - Part for the whole. Nothing untrue, unkind, unholy.",
+            "They are without fault - Having preserved inviolate a virgin purity both of soul and body."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 14:5, it is said that in their mouth was not found falsehood: they are blameless. This verse echoes the words of Psalm 15, describing those who dwell in God's holy mountain as those who speak truth and do not deceive. It is noteworthy that those described as blameless stand on Mount Zion with Him who perfectly fulfills this character. These individuals are not considered blameless in themselves, but rather in Christ, in whom they trust and faithfully serve. They are without blemish, like the Paschal Lamb, and they are found without fault before the throne of God. This depiction of the righteous offers comfort and encouragement to the persecuted and sorrowful throughout the ages, reminding them of the bright hope of heaven.",
+            "wordCount": 123,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 1.8412455491950261,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.56,
+            "commentatorTierSimilarities": [
+                30.57,
+                40.42,
+                29.02
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who are described as blameless in their words are likened to those who walk blamelessly and speak truth in their hearts. They stand on Mount Zion, together with Him who embodies this character. While they are not blameless in themselves, they are regarded as such based on their trust in Christ and their faithful service to Him. These righteous individuals, who are without blemish, find their place before the throne of God, offering a glimpse of the bright hope of heaven.",
+            "wordCount": 82,
+            "quoteTokenProportion": 42.86,
+            "qualityScore": 1.7108981121752764,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.23,
+            "commentatorTierSimilarities": [
+                29.39,
+                40.46,
+                30.14
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The blameless ones described in Revelation 14:5 are those whose mouths contain no falsehood. They are like those who walk blamelessly and speak truth in their hearts, standing on Mount Zion alongside Christ. Though they are not inherently faultless, they are considered blameless because of their trust in Christ and their faithful service to Him. These followers of the Lamb are without blemish, resembling the spotless Paschal Lamb, and are found faultless before the throne of God, offering hope in times of persecution and darkness.",
+            "wordCount": 84,
+            "quoteTokenProportion": 34.48,
+            "qualityScore": 1.8423521942428016,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.6,
+            "commentatorTierSimilarities": [
+                28.69,
+                38.34,
+                32.97
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The blameless ones described in this passage are characterized by their truthful speech and lack of deceit. Standing on Mount Zion with Christ, they reflect His righteousness and faithfully serve Him. Their blamelessness does not come from their own perfection, but rather from their trust in Christ. As the followers of the Lamb, they are without fault, resembling the spotless Paschal Lamb. Their presence before the throne of God offers a glimmer of hope amidst persecution and dark times in the history of the church.",
+            "wordCount": 85,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.7208609923127658,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.56,
+            "commentatorTierSimilarities": [
+                28.65,
+                40.73,
+                30.63
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The blameless ones in this scene are characterized by their truthful speech and lack of deceit. They stand with Christ on Mount Zion and reflect His righteousness, faithfully serving Him. Their blamelessness does not stem from their own perfection, but from their trust in Christ. As followers of the Lamb, they are faultless, resembling the sinless Paschal Lamb. This depiction brings assurance and comfort to the persecuted, offering a glimpse of the hope found in heaven during times of darkness.",
+            "wordCount": 80,
+            "quoteTokenProportion": 36.67,
+            "qualityScore": 1.6344880605516123,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.69,
+            "commentatorTierSimilarities": [
+                29.11,
+                39.14,
+                31.74
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:48:38",
+    "verseRef": "Revelation 18:10",
+    "bestBHT": {
+        "bht": "The prophecy challenges a literal interpretation, as it's unlikely for the kings to witness the city's destruction. Yet fear of God's judgments fades quickly, and the kings align with the blasphemous beast. The burning city holds a strange charm, and the dirge mourns its downfall. Rome, once strong, now faces swift judgment, causing reflection on its former grandeur.",
+        "wordCount": 61,
+        "quoteTokenProportion": 31.25,
+        "qualityScore": 1.7324438755223004,
+        "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+        "commentatorTierSimilarities": [
+            40.23,
+            26.8,
+            32.96
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "This feature in the prophecy is an objection to the literal understanding of its details.\" ",
+            "Hardly be imagined that the kings should bodily stand and look as described.",
+            "No combination of events contemplated in the prophecy has brought them together as yet."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "God's judgments inspire fear even in the worldly, but it is of short duration.",
+            "The kings and great men soon attach themselves to the beast in its last and worst shape.",
+            "Claiming all that the harlot had claimed in blasphemous pretensions and more."
+        ],
+        "Albert Barnes": [
+            "Standing afar off for the fear of her torment.",
+            "Alas, alas, that great city Babylon.",
+            "For in one hour is thy judgment come."
+        ],
+        "Archibald T. Robertson": [
+            "There is a weird charm in a burning city. They feared the same fate.",
+            "Woe, woe, the great city. For the dative see Revelation 8:13, once so 'strong.'",
+            "In one hour. This is the dirge of the kings."
+        ],
+        "John Gill": [
+            "It will aggravate their sorrow when they reflect upon the former grandeur, magnificence, power, and authority of the city and see of Rome...",
+            "The reason of which, another of them says, is because Rome is become great above all kingdoms...",
+            "...her vengeance was suddenly come upon her; this is the judgment of the great whore..."
+        ],
+        "John Wesley": [
+            "Thou strong city.",
+            "Rome was anciently termed by its inhabitants, Valentia, that is, strong.",
+            "And the word Rome itself, in Greek, signifies strength."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The prophecy in Revelation 18:10 challenges a literal interpretation of its details, as it would be unlikely for the kings to physically witness the city's destruction. However, the fear inspired by God's judgments is short-lived, and the kings and great men ultimately align themselves with the blasphemous beast. The burning city holds a strange fascination, and the dirge of the kings mourns its downfall. Rome, once a strong and powerful city, now faces swift judgment, causing those who once admired its grandeur to reflect on its former glory.",
+            "wordCount": 90,
+            "quoteTokenProportion": 34.85,
+            "qualityScore": 1.684035224437027,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.34,
+            "commentatorTierSimilarities": [
+                40.92,
+                22.88,
+                36.2
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The prophecy challenges a literal interpretation, as it's unlikely for the kings to witness the city's destruction. Yet fear of God's judgments fades quickly, and the kings align with the blasphemous beast. The burning city holds a strange charm, and the dirge mourns its downfall. Rome, once strong, now faces swift judgment, causing reflection on its former grandeur.",
+            "wordCount": 61,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.7324438755223004,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.95,
+            "commentatorTierSimilarities": [
+                40.23,
+                26.8,
+                32.96
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The prophecy questions a literal understanding, as it's hard to imagine the kings bodily witnessing the described events. The fear inspired by God's judgments is short-lived, as the kings and great men align with the blasphemous beast. The burning city holds a strange fascination, and the dirge mourns the downfall. Rome, formerly strong, faces swift judgment, prompting reflection on its past grandeur.",
+            "wordCount": 65,
+            "quoteTokenProportion": 23.08,
+            "qualityScore": 1.6497381428393756,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.2,
+            "commentatorTierSimilarities": [
+                41.71,
+                24.18,
+                34.11
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The prophecy's objections to a literal interpretation challenge the idea that the kings would physically witness the events described. The fear inspired by God's judgments is brief, and the kings align themselves with the blasphemous beast. The allure of a burning city captivates, and the dirge serves as a mourning for its demise. Rome, previously a stronghold, now faces swift judgment, prompting reflection on its former greatness.",
+            "wordCount": 69,
+            "quoteTokenProportion": 31.48,
+            "qualityScore": 1.564550939179143,
+            "qualityScoreNormalizedComparedToV2BHTs": 43.36,
+            "commentatorTierSimilarities": [
+                41.8,
+                22.84,
+                35.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The prophecy in question raises objections to a literal interpretation of its details, questioning the physical presence of the kings and great men during the described events. The fear instilled by God's judgments is transient, as the kings ultimately align themselves with the blasphemous beast. The allure of a burning city is both eerie and captivating, and the dirge sung by the kings mourns its downfall. Swift judgment befalls Rome, a once formidable city, prompting contemplation of its former grandeur.",
+            "wordCount": 81,
+            "quoteTokenProportion": 27.59,
+            "qualityScore": 1.6294565067897833,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.52,
+            "commentatorTierSimilarities": [
+                42.26,
+                24.51,
+                33.23
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

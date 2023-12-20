@@ -1,0 +1,106 @@
+{
+    "timestamp": "12-19-2023 21:43:04",
+    "verseRef": "Revelation 7:6",
+    "bestBHT": {
+        "bht": "The tribe of Asher, pronounced Aser, is referred to as blessed in the Septuagint. The meaning of the tribe's name, wrestlings, suggests that they may have faced challenges and struggles along their journey. However, it is worth noting that the word can also be interpreted as forgetting. This implies that despite the trials Asher experienced, they eventually found themselves in a state of blessedness, likely by learning to let go and forget the difficulties they encountered.",
+        "wordCount": 77,
+        "quoteTokenProportion": 41.38,
+        "qualityScore": 1.223212038609426,
+        "qualityScoreNormalizedComparedToV2BHTs": 32.02,
+        "commentatorTierSimilarities": [
+            0.0,
+            0.0,
+            100.0
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "John Gill": [
+            "Asher\", which the Septuagint pronounce \"Aser\", as here, signifies \"blessed.\" ",
+            "The name of this tribe signifies \"wrestlings.",
+            "This word signifies \"forgetting."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The tribe of Asher, which means blessed or fortunate, is mentioned in Revelation 7:6. The name of this tribe also carries the connotation of wrestlings, indicating struggles that they may have faced. However, it is also significant to note that the word can also mean forgetting. This suggests that despite the trials and challenges encountered by the tribe of Asher, they ultimately found themselves in a state of blessedness, possibly by learning to let go and forget the troubles they faced.",
+            "wordCount": 80,
+            "quoteTokenProportion": 40.74,
+            "qualityScore": 1.3620999143618389,
+            "qualityScoreNormalizedComparedToV2BHTs": 36.63,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The tribe of Asher, pronounced Aser, is referred to as blessed in the Septuagint. The meaning of the tribe's name, wrestlings, suggests that they may have faced challenges and struggles along their journey. However, it is worth noting that the word can also be interpreted as forgetting. This implies that despite the trials Asher experienced, they eventually found themselves in a state of blessedness, likely by learning to let go and forget the difficulties they encountered.",
+            "wordCount": 77,
+            "quoteTokenProportion": 41.38,
+            "qualityScore": 1.223212038609426,
+            "qualityScoreNormalizedComparedToV2BHTs": 32.02,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The tribe of Asher, mentioned in Revelation 7:6, carries the name that signifies blessed. This tribe's name also holds the meaning of wrestlings, suggesting that they faced struggles and challenges in their journey. Interestingly, the word can also mean forgetting. This implies that despite the obstacles they encountered, the tribe of Asher ultimately found themselves in a state of blessedness, possibly by learning to let go and forget the trials they faced.",
+            "wordCount": 72,
+            "quoteTokenProportion": 32.65,
+            "qualityScore": 1.4995667057564654,
+            "qualityScoreNormalizedComparedToV2BHTs": 41.2,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The tribe mentioned in Revelation 7:6, called Asher, has a name that is associated with being blessed according to the Septuagint. Additionally, this tribe's name carries the connotation of wrestlings, suggesting that they encountered struggles and challenges. Interestingly, the word associated with their name can also mean forgetting. This implies that despite the difficulties they faced, the tribe of Asher eventually found themselves in a state of blessedness by possibly learning to let go and forget about the trials they encountered.",
+            "wordCount": 81,
+            "quoteTokenProportion": 37.5,
+            "qualityScore": 1.4657285058696552,
+            "qualityScoreNormalizedComparedToV2BHTs": 40.08,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The tribe mentioned in Revelation 7:6, referred to as Asher, carries a name that signifies blessed. This name also signifies wrestlings, indicating struggles this tribe may have faced. Furthermore, the word for Asher can mean forgetting. This suggests that despite the challenges they encountered, the tribe of Asher ultimately found themselves in a state of blessedness, possibly by learning to let go and forget the troubles they experienced.",
+            "wordCount": 67,
+            "quoteTokenProportion": 38.78,
+            "qualityScore": 1.815957642063899,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.72,
+            "commentatorTierSimilarities": [
+                0.0,
+                0.0,
+                100.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:46:36",
+    "verseRef": "Revelation 12:12",
+    "bestBHT": {
+        "bht": "Believers, hidden in the secret of God's tabernacle, exult in judgment on the prince of this world. Satan, expelled from heaven and aware of his limited time on earth, intensifies his power to destroy souls. As light becomes victorious, the struggles of darkness increase, leading to the manifestation of Antichrist with an intensity of iniquity greater than ever before. Though Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. His departure from heavenly warfare reveals his limited time for harm, igniting his great wrath.",
+        "wordCount": 93,
+        "quoteTokenProportion": 32.84,
+        "qualityScore": 2.0809777436254366,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+        "commentatorTierSimilarities": [
+            32.91,
+            38.72,
+            28.38
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "They in spirit are hidden 'in the secret of God's tabernacle.' They belong not to the world, and, therefore, exult in judgment having been passed on the prince of this world.",
+            "Furious at his expulsion from heaven, and knowing that his time on earth is short until he shall be cast down lower, when Christ shall come to set up His kingdom, Satan concentrates all his power to destroy as many souls as he can.",
+            "Though no longer able to accuse the elect in heaven, he can tempt and persecute on earth. The more light becomes victorious, the greater will be the struggles of the powers of darkness; whence, at the last crisis, Antichrist will manifest himself with an intensity of iniquity greater than ever before."
+        ],
+        "Albert Barnes": [
+            "Here the heavens are called on to rejoice because of the signal victory which it was seen would be achieved over the great enemy.",
+            "Satan would ultimately be entirely overcome - a fact that was symbolized by his being cast out of heaven; but there would be still temporary war upon the earth.",
+            "Satan knows that he must do all that he ever can do to destroy souls, and to spread woe through the earth, and hence, it is not unnatural that he should be represented as excited to deeper wrath, and as rousing all his energy to destroy the church."
+        ],
+        "Marvin Vincent": [
+            "Dwell.",
+            "Wrath.",
+            "Time."
+        ],
+        "Archibald T. Robertson": [
+            "Satan is no longer in the heavens.",
+            "The inhabitants of heaven (angels and saints) have cause to rejoice, and earth reason to mourn.",
+            "The devil's departure from his warfare in the heavens reveals to him that his time for doing harm to men is limited, and hence his great wrath."
+        ],
+        "John Gill": [
+            "And a greater woe cannot be upon men on earth, than to have the devil among them, who always brings mischief with him, and breathes nothing but ruin and destruction to men; he having lost his power in the Roman empire, possessed the above persons, and took up his residence among them; he came down, but not willingly, he was forced to it, he was cast down.",
+            "This his great wrath was seen in stirring up the Arians to persecute the Christians; and in the times of Julian, when he endeavoured to regain his lost power; and in bringing in the Goths, Huns, and Vandals, into the empire, to waste and destroy it; and in moving the antichristian party, which soon prevailed, to make war against the saints.",
+            "Ere he should be shut up in the bottomless pit, or be confined in the place of torment, and ere his full punishment should be inflicted on him; which time of his to tempt, deceive, disturb, and distress men, is to be no longer than during the forty two months of antichrist's reign, and the 1260 days, or years, of the witnesses prophesying in sackcloth, and of the church's being in the wilderness, and no longer than till the thousand years' reign of Christ with his saints begins, which, in comparison of his long reign in the Gentile world, is but a short time; and though, after the thousand years are ended, he will be let loose, yet it will be but for a season, a very small time, when he will be cast into the lake of fire and brimstone, and be tormented night and day, for ever and ever."
+        ],
+        "John Wesley": [
+            "We live in the little time wherein Satan hath great wrath; and this little time is now upon the decline.",
+            "Let him who does not take these warnings for senseless outcries, and blind alarms, beg of God, with all possible earnestness, to give him his heavenly light herein.",
+            "And the more dangerous any period of time is, the greater is the help which it affords."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Believers are hidden in God's tabernacle and do not belong to the world, rejoicing in judgment passed on the prince of this world. Satan, furious at his expulsion from heaven and knowing his time on earth is short, concentrates his power to destroy souls. As light becomes victorious, the struggles of darkness intensify, leading to the manifestation of Antichrist. Though Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. The devil's departure from his heavenly warfare reveals that his time for harm is limited, sparking his great wrath. This time of Satan's wrath, though dangerous, provides an opportunity for believers to seek heavenly light and receive greater help.",
+            "wordCount": 119,
+            "quoteTokenProportion": 31.17,
+            "qualityScore": 2.1409923117516714,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.53,
+            "commentatorTierSimilarities": [
+                32.75,
+                37.45,
+                29.81
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Believers, hidden in the secret of God's tabernacle, do not belong to the world. They rejoice in judgment passed on the prince of this world. Satan, expelled from heaven and aware of his limited time on earth, intensifies his power to destroy souls. As light becomes victorious, Antichrist will manifest with an intensity of evil greater than ever before. While Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. His departure from heavenly warfare sparks his great wrath, but this time offers an opportunity for believers to seek heavenly light and find greater help.",
+            "wordCount": 103,
+            "quoteTokenProportion": 36.99,
+            "qualityScore": 1.9566161963997195,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.4,
+            "commentatorTierSimilarities": [
+                33.41,
+                39.35,
+                27.24
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers, hidden in the secret of God's tabernacle, do not belong to the world. They exult in judgment passed on the prince of this world. Satan, knowing his time on earth is short, concentrates his power to destroy souls. As light becomes victorious, the struggles of darkness intensify, culminating in the manifestation of Antichrist. Though Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. His departure from heavenly warfare reveals his limited time for harm, sparking his great wrath. This time of Satan's wrath, though dangerous, offers an opportunity for believers to seek heavenly light and receive greater help.",
+            "wordCount": 109,
+            "quoteTokenProportion": 30.14,
+            "qualityScore": 1.918831337999717,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.14,
+            "commentatorTierSimilarities": [
+                33.37,
+                38.46,
+                28.17
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers, hidden in the secret of God's tabernacle, exult in judgment on the prince of this world. Satan, expelled from heaven and aware of his limited time on earth, intensifies his power to destroy souls. As light becomes victorious, the struggles of darkness increase, leading to the manifestation of Antichrist with an intensity of iniquity greater than ever before. Though Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. His departure from heavenly warfare reveals his limited time for harm, igniting his great wrath.",
+            "wordCount": 93,
+            "quoteTokenProportion": 32.84,
+            "qualityScore": 2.0809777436254366,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.53,
+            "commentatorTierSimilarities": [
+                32.91,
+                38.72,
+                28.38
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers, hidden in the secret of God's tabernacle, do not belong to the world. They exult in judgment on the prince of this world, while Satan concentrates his power to destroy souls. As light becomes victorious, the struggles of darkness intensify, leading to the manifestation of Antichrist. Though Satan can no longer accuse the elect in heaven, he can still tempt and persecute on earth. His departure from heavenly warfare reveals his limited time for harm, sparking his great wrath. This dangerous time presents an opportunity for believers to seek heavenly light and find greater help.",
+            "wordCount": 97,
+            "quoteTokenProportion": 31.43,
+            "qualityScore": 1.89377387773319,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.31,
+            "commentatorTierSimilarities": [
+                33.18,
+                37.53,
+                29.29
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

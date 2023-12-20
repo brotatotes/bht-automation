@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:47:51",
+    "verseRef": "Revelation 16:3",
+    "bestBHT": {
+        "bht": "The second vial is poured out and results in a horrifying transformation. The sea turns into blood, resembling the putrid, corrupt blood of a dead man. This leads to the complete destruction of every living soul in the sea. The term soul refers to the physical life of animals, emphasizing the widespread devastation caused by this vial. The description of the blood as thick, unnatural, and offensive highlights the increased potency of this plague. The imagery draws parallels to the plagues of Egypt and signifies a total and gruesome end.",
+        "wordCount": 90,
+        "quoteTokenProportion": 22.41,
+        "qualityScore": 1.828829879105637,
+        "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+        "commentatorTierSimilarities": [
+            32.47,
+            37.94,
+            29.59
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the second poured out his vial into the sea: and it became blood as of a dead man... loathsome and corrupting.\" ",
+            "Every soul of life died, all the things in the sea.",
+            "Soul being used in its physical sense of animal soul."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "became as . . . blood\u2014answering to another Egyptian plague.",
+            "of a dead man\u2014putrefying.",
+            "living soul\u2014So B and ANDREAS. But A, C, and Syriac, 'soul of life' (compare Genesis 1:30; Genesis 7:21; Genesis 7:22)."
+        ],
+        "Albert Barnes": [
+            "The ocean would become discolored, and indicating that this was the effect of blood shed in great quantities on its waters.",
+            "It is as if every living thing - \u03c0\u03b1\u0342\u03c3\u03b1 \u03c8\u03c5\u03c7\u03b7\u0300 \u03b6\u03c9\u0342\u03c3\u03b1 pasa psuche\u0304 zo\u0304sa - had died.",
+            "A series of naval disasters [...] completely demolished the most formidable naval power that had ever been prepared by any nation under the papal dominion."
+        ],
+        "Marvin Vincent": [
+            "Blood. Compare Exodus 7:19. As of a dead man. Thick, corrupt, and noisome.\" ",
+            "Living soul [\u03c8\u03c5\u03c7\u03b7 \u03b6\u03c9\u03c3\u03b1] . The best texts read yuch zwhv soul of life."
+        ],
+        "Philip Schaff": [
+            "The increased potency of the plague is also shown in the description given of the blood, not merely blood, but blood as of a dead man, thick, unnatural, offensive to the eye.",
+            "Every living soul, too, died, and not merely \u2018the third part\u2019 of the creatures that were in the sea.",
+            "It can hardly be doubted that we have in this bowl a reference to one of the plagues of Egypt (Exodus 7:19). But literal interpretation cannot be thought of."
+        ],
+        "Archibald T. Robertson": [
+            "Like the first Egyptian plague, though only the Nile affected then.",
+            "The picture of a murdered man weltering in his blood.",
+            "Complete destruction, not partial."
+        ],
+        "John Gill": [
+            "Not literally; and so does not design the stagnation of it, which it is thought will be before the general conflagration; nor is it to be understood of the sea of this world, and the men of it, who are like a troubled sea; but rather of Popish doctrines and councils, which are a sea of errors, and will now be confuted and put an end to.",
+            "Sea here may design the whole jurisdiction of Rome, or mystical Babylon...",
+            "This, and the following vial, are referred by Mr. Daubuz, the one to the first crusades, or holy wars, for the regaining of the holy land, and the other to the latter of them."
+        ],
+        "John Wesley": [
+            "And it become blood, as of a dead man - Thick, congealed, and putrid.",
+            "And every living soul - Men, beasts, and fishes, whether on or in the sea, died.",
+            "The second poured out his phial upon the sea - As opposed to the dry land."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The pouring out of the second vial in Revelation 16:3 is depicted as the transformation of the sea into blood, specifically blood that is thick, putrid, and reminiscent of that of a dead man. This plague brings complete destruction, causing the death of every living soul in the sea. The use of the term soul here refers to the physical life of animals, emphasizing the widespread devastation caused by the vial. This imagery draws parallels to the plagues of Egypt, specifically the turning of the Nile into blood. Though there are some who interpret this passage as symbolic of naval disasters or the falling of papal dominion, it is clear that the language used portrays a grotesque and total annihilation.",
+            "wordCount": 119,
+            "quoteTokenProportion": 30.26,
+            "qualityScore": 1.9469874568670855,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.08,
+            "commentatorTierSimilarities": [
+                28.91,
+                39.68,
+                31.42
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The pouring out of the second vial results in a disturbing transformation. The sea becomes blood, resembling the putrid, thick blood of a dead man. This plague brings complete destruction, causing the death of every living soul in the sea. The term soul here refers to the physical life of animals, highlighting the extensive devastation caused by the vial. This imagery recalls the plagues of Egypt and their impact. While some may interpret this event symbolically, the language suggests a revolting and utter annihilation.",
+            "wordCount": 84,
+            "quoteTokenProportion": 27.12,
+            "qualityScore": 1.7688999130007312,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.16,
+            "commentatorTierSimilarities": [
+                31.36,
+                38.24,
+                30.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The second vial is poured out and results in a horrifying transformation. The sea turns into blood, resembling the putrid, corrupt blood of a dead man. This leads to the complete destruction of every living soul in the sea. The term soul refers to the physical life of animals, emphasizing the widespread devastation caused by this vial. The description of the blood as thick, unnatural, and offensive highlights the increased potency of this plague. The imagery draws parallels to the plagues of Egypt and signifies a total and gruesome end.",
+            "wordCount": 90,
+            "quoteTokenProportion": 22.41,
+            "qualityScore": 1.828829879105637,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.15,
+            "commentatorTierSimilarities": [
+                32.47,
+                37.94,
+                29.59
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The second vial poured in Revelation unleashes a terrifying sight. The sea is transformed into blood, resembling the repugnant, putrefying blood of a dead body. This plague brings complete annihilation, resulting in the death of every living creature in the sea. The term soul here refers to the physical life of animals, emphasizing the widespread devastation caused by this vial. This imagery evokes the plagues of Egypt and serves as a graphic depiction of a catastrophic and irreversible destruction.",
+            "wordCount": 79,
+            "quoteTokenProportion": 23.21,
+            "qualityScore": 1.8525257245749405,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.94,
+            "commentatorTierSimilarities": [
+                30.67,
+                38.87,
+                30.46
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The pouring out of the second vial in Revelation results in a gruesome transformation. The sea turns into blood, resembling the putrid, corrupt blood of a dead man. This plague brings about the complete destruction and death of every living soul in the sea. The use of the term soul here refers to the physical life of animals, emphasizing the extensive devastation caused by this vial. This distressing imagery draws parallels to the plagues of Egypt, highlighting the terrifying and thorough annihilation.",
+            "wordCount": 82,
+            "quoteTokenProportion": 23.64,
+            "qualityScore": 1.906853370057389,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.74,
+            "commentatorTierSimilarities": [
+                32.18,
+                36.44,
+                31.38
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

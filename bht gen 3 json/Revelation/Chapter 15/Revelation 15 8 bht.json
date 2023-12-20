@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:47:52",
+    "verseRef": "Revelation 15:8",
+    "bestBHT": {
+        "bht": "The temple was filled with smoke, arising from the glory and power of God, making it unapproachable. This smoke served as a symbol of God's presence and formed a metaphorical smoke screen to keep all out of the sanctuary until the completion of the seven plagues. It represented the withdrawal of God's wrathful presence and emphasized that He could not be approached at that moment. The smoke from the glory of God indicates His fully manifested glory and power during the execution of these judgments.",
+        "wordCount": 87,
+        "quoteTokenProportion": 43.64,
+        "qualityScore": 2.3705137377451937,
+        "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+        "commentatorTierSimilarities": [
+            32.85,
+            33.29,
+            33.86
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And the temple was filled with smoke from (arising from) the glory of God and from His might... the unapproachableness of God, when immediately present and working, by any created being.",
+            "No one was able to enter into the temple until the seven plagues of the seven angels should be finished... the wrathful presence and agency of God being withdrawn, He might again be approached.",
+            "Many other meanings more or less far-fetched have been given, but where Scripture analogy is so plain, the simplest is the best."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "temple . . . filled\u2014 ( :-); compare Exodus 40:34; 2 Chronicles 5:14, as to the earthly temple, of which this is the antitype.",
+            "the glory of God and . . . power\u2014then fully manifested.",
+            "no man was able to enter . . . the temple\u2014because of God's presence in His manifested glory and power during the execution of these judgments."
+        ],
+        "Albert Barnes": [
+            "The smoke was the proper accompaniment of the Divine Being when appearing in majesty.",
+            "The purpose here seems to have been, partly to represent the smoke as the proper symbol of the divine presence, and partly to represent it as so filling the temple that no one could enter it until the seven plagues were fulfilled.",
+            "The point, therefore, at which this vision leaves us is, that where all the preparations are made for the infliction of the threatened punishment on the grand anti-Christian power which had so long stood up against the truth; where the agents had prepared to go forth; and where no intercession will ever avail to turn away the infliction of the divine wrath."
+        ],
+        "Marvin Vincent": [
+            "Smoke.",
+            "None was able to enter.",
+            "God cannot be approached at the moment when He is revealing Himself in all the terrors of His indignation."
+        ],
+        "Philip Schaff": [
+            "This smoke is no smoke of incense, nor is it simply the thick cloud of the majesty of God. It is the smoke by which He is surrounded as the righteous Lawgiver, that which proceeds from the fire of His wrath.",
+            "God cannot be approached at the moment when He is revealing Himself in all the terrors of His indignation.",
+            "The meaning of these words is perhaps best to be ascertained by comparing them with Exodus 19:21."
+        ],
+        "Archibald T. Robertson": [
+            "Smoke is here the symbol of God's presence.",
+            "Till should be finished, a metaphorical and symbolic 'smoke screen' to keep all out of the sanctuary for the time being."
+        ],
+        "John Gill": [
+            "Not with the smoke of false doctrine and superstition... but rather this may be understood of judicial blindness and hardness of heart...\" (48 words)",
+            "God's powerful and gracious presence in his church... a protection and defence, to the saints, so that none can come into the temple to hurt them...\" (37 words)",
+            "None of the anti-Christian party will attempt to enter in, because of their blindness and obduracy; nor can they get in to do any mischief, because the glorious and powerful presence of God is a defence against them...\" (43 words)"
+        ],
+        "John Wesley": [
+            "The cloud of glory was the visible manifestation of God's presence in the tabernacle and temple.",
+            "So proper is the emblem of smoke from the glory of God, or from the cloud of glory, to express the execution of judgment, as well as to be a sign of favour.",
+            "Till the seven plagues of the seven angels were fulfilled \u2014 Which did not take up a long time, like the seven trumpets, but swiftly followed each other."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The temple was filled with smoke from the glory of God and from His might, symbolizing His unapproachableness and the withdrawal of His wrathful presence. The smoke served as a smoke screen, keeping everyone out of the sanctuary until the seven plagues were accomplished. This smoke, which surrounds God as the righteous Lawgiver, represents His revealed presence in all the terrors of His indignation. It is a symbol of the execution of judgment and the fulfillment of the seven plagues. No one can enter the temple because of God's manifested glory and power during the execution of these judgments.",
+            "wordCount": 100,
+            "quoteTokenProportion": 44.07,
+            "qualityScore": 2.254980852073609,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.32,
+            "commentatorTierSimilarities": [
+                31.09,
+                33.52,
+                35.39
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The temple was filled with smoke from the glory of God and from His might, signifying the unapproachableness of God's presence. None were able to enter until the seven plagues were completed. This smoke serves as a symbolic smoke screen, keeping all out of the sanctuary for the time being. It represents God's revealed presence in all the terrors of His indignation, executing judgment and fulfilling the seven plagues. Thus, no one can approach God in His manifested glory and power during these judgments.",
+            "wordCount": 86,
+            "quoteTokenProportion": 46.55,
+            "qualityScore": 2.1112837265440993,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.54,
+            "commentatorTierSimilarities": [
+                33.0,
+                32.34,
+                34.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The temple was filled with smoke from the glory and power of God, making it unapproachable. This smoke was a symbol of God's presence and served as a barrier that prevented anyone from entering until the seven plagues were finished. The smoke screen represented the withdrawal of God's wrathful presence and the moment when He could be approached again. It is the simplest interpretation, reinforcing the analogy with the earthly temple.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.82,
+            "qualityScore": 2.2805365034803398,
+            "qualityScoreNormalizedComparedToV2BHTs": 67.17,
+            "commentatorTierSimilarities": [
+                32.28,
+                34.56,
+                33.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The temple was filled with smoke, arising from the glory and power of God, making it unapproachable. This smoke served as a symbol of God's presence and formed a metaphorical smoke screen to keep all out of the sanctuary until the completion of the seven plagues. It represented the withdrawal of God's wrathful presence and emphasized that He could not be approached at that moment. The smoke from the glory of God indicates His fully manifested glory and power during the execution of these judgments.",
+            "wordCount": 87,
+            "quoteTokenProportion": 43.64,
+            "qualityScore": 2.3705137377451937,
+            "qualityScoreNormalizedComparedToV2BHTs": 70.16,
+            "commentatorTierSimilarities": [
+                32.85,
+                33.29,
+                33.86
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The temple was filled with smoke, a symbol of God's presence and the unapproachableness of His might. No one could enter until the seven plagues were finished, highlighting the withdrawal of God's wrathful presence and the need to approach Him after. This smoke acted like a smoke screen, keeping all out of the sanctuary temporarily. It represented God's revealed presence in the terrors of His indignation, executing judgment and fulfilling the seven plagues. Thus, entrance was restricted due to God's manifested glory and power during these judgments.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.151619835018795,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.88,
+            "commentatorTierSimilarities": [
+                31.87,
+                33.7,
+                34.43
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

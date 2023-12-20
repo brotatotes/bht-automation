@@ -1,0 +1,128 @@
+{
+    "timestamp": "12-19-2023 21:48:03",
+    "verseRef": "Revelation 17:7",
+    "bestBHT": {
+        "bht": "Why are you so amazed? I will explain the hidden meaning of the woman and the beast that carries her, with its seven heads and ten horns. The angel's purpose is to remove John's surprise, to give him a correct view of the symbols. First, he explains the beast, and then he will explain the woman. The angel's words, 'I will tell thee the mystery,' reveal that until this point, it was a mystery to John.",
+        "wordCount": 79,
+        "quoteTokenProportion": 50.0,
+        "qualityScore": 1.7406083427108967,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+        "commentatorTierSimilarities": [
+            34.7,
+            27.54,
+            37.76
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Wherefore didst thou wonder? I will tell to thee the mystery (which, be it noted, is but one) of the woman and of the wild-beast that carrieth her...",
+            "...the mystery (which, be it noted, is but one) of the woman and of the wild-beast that carrieth her...",
+            "...the woman and of the wild-beast that carrieth her, which hath the seven heads and the ten horns..."
+        ],
+        "Albert Barnes": [
+            "The question asked him, 'why' he wondered, was designed to show him that the cause of his surprise would be removed or lessened, for that he would proceed so to explain this that he might have a correct view of its design.",
+            "I will explain what is meant by the symbol - the hidden meaning that is couched under it. That is, he would so far explain it that a just view might be obtained of its signification.",
+            "And of the beast that carrieth her, ..."
+        ],
+        "Philip Schaff": [
+            "Revelation 17:7. The angel proceeds to explain what St. John had seen, taking the two parts of the vision in inverted order; first, the beast (Revelation 17:8-14), and secondly, the woman (Revelation 17:15-18).",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "I will tell thee the mystery.\" ",
+            "The angel gives his interpretation of the woman and the beast.",
+            "\u0395\u03c1\u03c9 is the future active of \u03b5\u03b9\u03c0\u03bf\u03bd (defective verb), to tell, to say."
+        ],
+        "John Gill": [
+            "his admiration was an amazement, or stupefaction of mind, joined with indignation\" ",
+            "what is mysteriously or mystically designed by her; for till it was made known to John by the angel, it was a mystery to him",
+            "The hidden meaning of this woman, or the mystery of her"
+        ],
+        "John Wesley": [
+            "I will tell thee the mystery \u2014 The hidden meaning of this."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Why are you so amazed? I will explain the hidden meaning of the woman and the beast that carries her, with its seven heads and ten horns. The angel's purpose is to remove John's surprise, to give him a correct view of the symbols. First, he explains the beast, and then he will explain the woman. The angel's words, 'I will tell thee the mystery,' reveal that until this point, it was a mystery to John.",
+            "wordCount": 79,
+            "quoteTokenProportion": 50.0,
+            "qualityScore": 1.7406083427108967,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.22,
+            "commentatorTierSimilarities": [
+                34.7,
+                27.54,
+                37.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Why are you wondering? Let me explain to you the mystery of the woman and the beast that carries her, the one with seven heads and ten horns. The angel proceeds to interpret the symbolism of the vision, revealing the hidden meaning of the woman and the beast. He assures John that he will provide a correct understanding of its significance. This woman and the beast carrying her were previously a mystery, but now it will be revealed to John through the angel's explanation.",
+            "wordCount": 85,
+            "quoteTokenProportion": 45.28,
+            "qualityScore": 1.7612879186965897,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.9,
+            "commentatorTierSimilarities": [
+                34.89,
+                28.76,
+                36.34
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Why are you wondering? Let me explain to you the mystery of the woman and the beast that carries her, the one with seven heads and ten horns. The angel gives his interpretation of the woman and the beast, revealing the hidden meaning that was previously a mystery to John. He assures John that he will provide a correct understanding of its significance.",
+            "wordCount": 63,
+            "quoteTokenProportion": 45.24,
+            "qualityScore": 1.7028431576868295,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.96,
+            "commentatorTierSimilarities": [
+                34.7,
+                27.91,
+                37.39
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Why are you wondering? I will tell you the mystery of the woman and the beast that carries her, the one with seven heads and ten horns. The angel gives his interpretation, revealing the hidden meaning that was previously a mystery. He assures John that he will provide a correct understanding of its significance.",
+            "wordCount": 54,
+            "quoteTokenProportion": 45.0,
+            "qualityScore": 1.6535656277227715,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.32,
+            "commentatorTierSimilarities": [
+                35.32,
+                24.67,
+                40.01
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Why are you wondering? I will tell you the mystery of the woman and of the wild-beast that carrieth her, which hath the seven heads and the ten horns. The angel gives his interpretation, revealing the hidden meaning that is couched under it. He assures John that he will provide a correct understanding of its signification.",
+            "wordCount": 57,
+            "quoteTokenProportion": 44.19,
+            "qualityScore": 1.667741339801494,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.79,
+            "commentatorTierSimilarities": [
+                38.34,
+                23.84,
+                37.82
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "timestamp": "12-19-2023 21:43:23",
+    "verseRef": "Revelation 6:10",
+    "bestBHT": {
+        "bht": "The elect, under Christ's covering in Paradise, cry fervently day and night to God, their Master, seeking His vengeance on their behalf. The cry is a plea for God to judge and avenge their cause, desiring to see His holiness and justice revealed. The ungodly dwell upon the earth and are encompassed by the cry for justice. The glory of the elect in Paradise will only be complete when Christ's enemies are cast out and the earth becomes His kingdom.",
+        "wordCount": 82,
+        "quoteTokenProportion": 41.51,
+        "qualityScore": 1.7396718689232888,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+        "commentatorTierSimilarities": [
+            32.41,
+            36.02,
+            31.57
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The elect (not only on earth, but under Christ's covering, and in His presence in Paradise) cry day and night to God, who will assuredly, in His own time, avenge His and their cause.",
+            "The glory even of those in Paradise will only be complete when Christ's and the Church's foes are cast out, and the earth will become Christ's kingdom at His coming to raise the sleeping saints.",
+            "He has them and their foes and all His creatures as absolutely at His disposal, as a master has his slaves."
+        ],
+        "Marvin Vincent": [
+            "O Lord [\u03bf \u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b7\u03c2] . See on 2 Peter 2:1. Only here in Revelation. Addressed to God rather than to Christ, and breathing, as Professor Milligan remarks, 'the feeling of Old Testament rather than of New Testament relation.'\" (100 words)",
+            "Judge [\u03ba\u03c1\u03b9\u03bd\u03b5\u03b9\u03c2] . Originally the verb means to separate; thence the idea of selection: to pick out, and so to discriminate or judge.\" (25 words)",
+            "Avenge [\u03b5\u03ba\u03b4\u03b9\u03ba\u03b5\u03b9\u03c2] . Compare Luke 18:3; Romans 12:19.\" (10 words)"
+        ],
+        "Philip Schaff": [
+            "The cry is addressed to Him who is spoken of as \u2018Master,\u2019 and by whom we are most probably to understand not Christ but God.",
+            "Those who are thus to be judged are then described as \u2018they that dwell upon the earth;\u2019 and by the \u2018earth\u2019 here, as almost always in the Apocalypse, is to be understood the ungodly earth: those that dwell on it are the ungodly.",
+            "It may be observed that all the ungodly are included. This is allowed by the best commentators, and it supplies a strong argument in favour of what was said with regard to the number of those underneath the altar, there all the godly belonging to the time spoken of; here all the ungodly."
+        ],
+        "Archibald T. Robertson": [
+            "How long (\u03b5\u03c9\u03c2 \u03c0\u03bf\u03c4\u03b5). 'Until when.'",
+            "O Master (\u03bf \u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b7\u03c2). Nominative articular form, but used as vocative (\u03b4\u03b5\u03c3\u03c0\u03bf\u03c4\u03b1) as in Revelation 4:11 (John 20:28).",
+            "The holy and true (\u03bf \u03b1\u03b3\u03b9\u03bf\u03c2 \u03ba\u03b1 \u03b1\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf\u03c2). See Revelation 3:7 for these attributes of God."
+        ],
+        "John Gill": [
+            "With great ardour and fervency, being very pressing and importunate...",
+            "...the soul does not sleep with the body in the grave, or is after the death of that in a state of insensibility and inactivity...",
+            "...they desire not out of any sinful or malicious affection, but that the holiness and justice of God might appear..."
+        ],
+        "John Wesley": [
+            "O Lord \u2014 The Greek word properly signifies the master of a family: it is therefore beautifully used by these, who are peculiarly of the household of God.",
+            "Thou Holy One and true \u2014 Both the holiness and truth of God require him to execute judgment and vengeance.",
+            "How long dost thou not judge 'He hath judged the great whore, and avenge our blood? and hath avenged the blood of his servants.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The elect, both on earth and in Paradise, cry day and night to God, who will avenge their cause. Even in Paradise, their glory will only be complete when Christ's enemies are defeated and the earth becomes His kingdom. God has absolute control over His creatures, like a master over his slaves. The cry is addressed to God, not Christ, and reflects the feeling of an Old Testament relationship. The cry implores God to judge and avenge their blood, longing for the holiness and justice of God to be revealed.",
+            "wordCount": 91,
+            "quoteTokenProportion": 40.68,
+            "qualityScore": 1.7146389834181641,
+            "qualityScoreNormalizedComparedToV2BHTs": 48.35,
+            "commentatorTierSimilarities": [
+                34.1,
+                34.6,
+                31.3
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The elect cry day and night to God, seeking His vengeance and justice. The glory of those in Paradise will only be complete when Christ's enemies are cast out. God has absolute control over His creatures, as a master over his slaves. The cry is addressed to God, reflecting an Old Testament relationship. The cry implores God to judge and avenge, longing for His holiness and justice to be revealed.",
+            "wordCount": 71,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 1.5943134771421814,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.35,
+            "commentatorTierSimilarities": [
+                33.69,
+                31.65,
+                34.66
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The elect, under Christ's covering, cry day and night to God, who will surely avenge their cause. Even in Paradise, their glory awaits completion when Christ's foes are removed and the earth becomes His kingdom. God has absolute control over His creatures, as a master over his slaves. The cry is addressed to God, invoking an Old Testament sense of relationship. It implores Him to judge and avenge, desiring the manifestation of His holiness and justice.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.93,
+            "qualityScore": 1.6123266977412616,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.95,
+            "commentatorTierSimilarities": [
+                33.9,
+                34.11,
+                31.99
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The elect, under Christ's covering in Paradise, cry fervently day and night to God, their Master, seeking His vengeance on their behalf. The cry is a plea for God to judge and avenge their cause, desiring to see His holiness and justice revealed. The ungodly dwell upon the earth and are encompassed by the cry for justice. The glory of the elect in Paradise will only be complete when Christ's enemies are cast out and the earth becomes His kingdom.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.7396718689232888,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.19,
+            "commentatorTierSimilarities": [
+                32.41,
+                36.02,
+                31.57
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The elect in Paradise cry day and night to God, their Master, seeking His vengeance. Their cry implores God to judge and avenge, desiring the manifestation of His holiness and justice. The ungodly on earth are encompassed by this plea for justice. The glory of the elect in Paradise will be complete when Christ's enemies are cast out and the earth becomes His kingdom.",
+            "wordCount": 65,
+            "quoteTokenProportion": 38.64,
+            "qualityScore": 1.622465004664234,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.29,
+            "commentatorTierSimilarities": [
+                33.0,
+                32.83,
+                34.17
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

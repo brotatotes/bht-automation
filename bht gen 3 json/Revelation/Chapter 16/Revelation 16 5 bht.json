@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:47:31",
+    "verseRef": "Revelation 16:5",
+    "bestBHT": {
+        "bht": "Thou art righteous, O Lord, which art, and wast, and shalt be: in view of the judgments that reddened these streams and fountains with the blood of people, the angel ascribes righteousness to God for bringing just retribution on the guilty. The angel sees in all this only the act of a righteous God, who is eternal - existing now, who has existed in all past time, and who will exist ever onward. The Lord Jesus Christ, righteous in all his ways and works, exercises his judgments on antichrist as the eternal 'I AM', which is, and was, and shall be.",
+        "wordCount": 100,
+        "quoteTokenProportion": 43.08,
+        "qualityScore": 2.2614122454365138,
+        "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+        "commentatorTierSimilarities": [
+            22.83,
+            53.9,
+            23.27
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Thou art righteous who art and wast (as in ch. xi. 2, the 'and art to come' is omitted) holy",
+            "because Thou didst judge thus (lit., 'these things:': viz. the issue mentioned in ver. 4; the turning the drinking-water into blood: 'Thou didst inflict this judgment')",
+            "the angel of the waters (i. e. the angel who was set over the waters; see ch. vii. 1, xiv. 18) saying"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "angel of the waters\u2014that is, presiding over the waters.\" ",
+            "The Lord is now no longer He that shall come, for He is come in vengeance.",
+            "Thou didst inflict this judgment."
+        ],
+        "Albert Barnes": [
+            "Thou art righteous, O Lord - In view of the judgments that reddened these streams and fountains with the blood of people, the angel ascribes righteousness to God.\" ",
+            "These judgments seemed terrible - the numbers slain were so vast - the bloody stream indicated so great slaughter, and such severity of the divine judgment; yet the angel sees in all this only the act of a righteous God bringing just retribution on the guilty.",
+            "Who art, and wast, and shalt be - That is, who art eternal - existing now; who hast existed in all past time; and who will exist ever onward."
+        ],
+        "Marvin Vincent": [
+            "The angel of the waters. Set over the waters as other angels over the winds and over the fire.",
+            "And shalt be. Following the reading, Thou Holy One.",
+            "Thou didst thus judge [\u03c0\u03b1\u03c5\u03c4\u03b1 \u03b5\u03ba\u03c1\u03b9\u03bd\u03b1\u03c2]. Lit., Thou didst judge these things."
+        ],
+        "Archibald T. Robertson": [
+            "The angel of the waters.",
+            "Which art and which wast.",
+            "Thou Holy One."
+        ],
+        "John Gill": [
+            "Thou art righteous, O Lord, which art, and wast, and shall be: which may be understood either of God the Father, who had power over these plagues, Revelation 16:9 and sent them; or of the Lord Jesus Christ, who is Lord of all, and is righteous in all his ways and works, in all his judgments on antichrist, and is the eternal 'I AM', which is, and was, and shall be; see Revelation 1:8.\" ",
+            "The purity and holiness of Christ will be seen in the judgments which he will exercise.",
+            "The justice of which appears from the following reason."
+        ],
+        "John Wesley": [
+            "The Gracious one \u2014 So he is styled when his judgments are abroad, and that with a peculiar propriety.",
+            "In the time of his taking vengeance, for his mercy.",
+            "Of his power there could then be no doubt."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Thou art righteous, O Lord, which art, and wast, and shalt be: in view of the judgments that reddened these streams and fountains with the blood of people, the angel ascribes righteousness to God for bringing just retribution on the guilty. The angel sees in all this only the act of a righteous God, who is eternal - existing now, who has existed in all past time, and who will exist ever onward. The Lord Jesus Christ, righteous in all his ways and works, exercises his judgments on antichrist as the eternal 'I AM', which is, and was, and shall be.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.2614122454365138,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                22.83,
+                53.9,
+                23.27
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Thou art righteous, O Lord, which art, and wast, and shalt be: the angel ascribes righteousness to God for bringing just retribution on the guilty. The angel sees in all this only the act of a righteous God, who is eternal - existing now, who has existed in all past time, and who will exist ever onward. The Lord Jesus Christ, righteous in all his ways and works, exercises his judgments on antichrist as the eternal 'I AM', which is, and was, and shall be.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.2020618844971676,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+            "commentatorTierSimilarities": [
+                24.74,
+                51.53,
+                23.73
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Thou art righteous, O Lord, which art, and wast, and shalt be: in view of the judgments that reddened these streams and fountains with the blood of people, the angel ascribes righteousness to God for bringing just retribution on the guilty. The angel sees in all this only the act of a righteous God, who is eternal - existing now, who has existed in all past time, and who will exist ever onward. The Lord Jesus Christ, righteous in all his ways and works, exercises his judgments on antichrist as the eternal 'I AM', which is, and was, and shall be.",
+            "wordCount": 100,
+            "quoteTokenProportion": 43.08,
+            "qualityScore": 2.2614122454365138,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.53,
+            "commentatorTierSimilarities": [
+                22.83,
+                53.9,
+                23.27
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Thou art righteous, O Lord, which art, and wast, and shalt be: the angel ascribes righteousness to God for bringing just retribution on the guilty. The angel sees in all this only the act of a righteous God, who is eternal - existing now, who has existed in all past time, and who will exist ever onward. The Lord Jesus Christ, righteous in all his ways and works, exercises his judgments on antichrist as the eternal 'I AM', which is, and was, and shall be.",
+            "wordCount": 84,
+            "quoteTokenProportion": 44.64,
+            "qualityScore": 2.2020618844971676,
+            "qualityScoreNormalizedComparedToV2BHTs": 64.56,
+            "commentatorTierSimilarities": [
+                24.74,
+                51.53,
+                23.73
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The angel acknowledges God's righteousness for bringing just retribution on the guilty. In these judgments where streams and fountains turn to blood, the angel sees the act of a righteous God, eternal and present throughout all time. The Lord Jesus Christ exercises his judgments as the eternal 'I AM', righteous in all his ways and works, against antichrist. His righteousness is evident in his mercy and power displayed during the time of vengeance.",
+            "wordCount": 74,
+            "quoteTokenProportion": 39.22,
+            "qualityScore": 2.01097449940524,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.21,
+            "commentatorTierSimilarities": [
+                22.78,
+                45.43,
+                31.79
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

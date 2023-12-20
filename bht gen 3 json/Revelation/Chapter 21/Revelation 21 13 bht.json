@@ -1,0 +1,129 @@
+{
+    "timestamp": "12-19-2023 21:50:02",
+    "verseRef": "Revelation 21:13",
+    "bestBHT": {
+        "bht": "The gates on the north, south, east, and west serve as a symbol of the accessibility of the heavenly city from all corners of the world. These gates suggest that those who enter the city will come from every land, reflecting the gathering of saints from all parts of the world. Just as the tribes were arranged by gates in Ezekiel, this arrangement highlights that salvation and entry into God's kingdom are open to people from all origins.",
+        "wordCount": 79,
+        "quoteTokenProportion": 40.0,
+        "qualityScore": 1.6721684093771452,
+        "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+        "commentatorTierSimilarities": [
+            26.0,
+            29.17,
+            44.83
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "And on the north and on the south.",
+            "In Ezekiel, Joseph, Benjamin, Dan... are on the east",
+            "Reuben, Judah, Levi, are on the north... Simeon, Issachar, Zebulun, on the south... Gad, Asher, Naphtali, on the west... Dan, Asher, Naphtali, on the north."
+        ],
+        "Albert Barnes": [
+            "There does not appear to be any special significancy in this fact, unless it be to denote that there is access to this city from all quarters of the world...\" ",
+            "...and that they who dwell there will have come from each of the great divisions of the earth.",
+            "...from every land."
+        ],
+        "Marvin Vincent": [
+            "East [\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b7\u03c2] . See on Matthew 2:2, and on day - spring, Luke 1:78. See the tribes arranged by gates in Ezekiel 48:31-34. ",
+            "West [\u03b4\u03c5\u03c3\u03bc\u03c9\u03bd] . Lit., the goings down or settings."
+        ],
+        "Philip Schaff": [
+            "Revelation 21:13. The distribution of the gates follows in this verse.",
+            "\t"
+        ],
+        "Archibald T. Robertson": [
+            "Three gates (\u03c0\u03c5\u03bb\u03c9\u03bd\u03b5\u03c2 \u03c4\u03c1\u03b5\u03b9\u03c2) on each of the four sides as in Ezekiel 42:16.\" ",
+            "Starting from the east as in Revelation 16:12.",
+            "From the north, as in Luke 13:29."
+        ],
+        "John Gill": [
+            "This denotes the collection of the saints from all parts of the world, who shall come from east, west, north, and south, and sit down in the kingdom of God.\" ",
+            "Here are gates at every point to enter in at.\" ",
+            "See Isaiah 43:5.\" "
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 21:13, the inclusion of gates on the north, south, east, and west is not without significance. It demonstrates that there is access to the heavenly city from all corners of the world, and that those who dwell there will come from every land. It is a symbol of the collection of the saints from all parts of the world, who will enter the kingdom of God from every direction. This arrangement of gates also brings to mind the tribes of Israel in Ezekiel, who were arranged by gates. This verse is a powerful reminder that salvation and access to God's kingdom is open to all, regardless of where they come from.",
+            "wordCount": 113,
+            "quoteTokenProportion": 39.06,
+            "qualityScore": 1.6972609439597934,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.78,
+            "commentatorTierSimilarities": [
+                27.36,
+                30.44,
+                42.19
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The gates found on the north, south, east, and west in this passage signify the accessibility of the heavenly city from all corners of the earth. The inclusion of gates from each direction conveys that those who enter the city will come from every land, reflecting the collection of saints from all parts of the world. Just as the tribes of Israel were arranged by gates in Ezekiel, this arrangement reminds us that salvation and entry into God's kingdom are available to all people, regardless of their origin.",
+            "wordCount": 89,
+            "quoteTokenProportion": 37.1,
+            "qualityScore": 1.770579123868015,
+            "qualityScoreNormalizedComparedToV2BHTs": 50.21,
+            "commentatorTierSimilarities": [
+                27.35,
+                29.0,
+                43.65
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The gates on the north, south, east, and west serve as a symbol of the accessibility of the heavenly city from all corners of the world. These gates suggest that those who enter the city will come from every land, reflecting the gathering of saints from all parts of the world. Just as the tribes were arranged by gates in Ezekiel, this arrangement highlights that salvation and entry into God's kingdom are open to people from all origins.",
+            "wordCount": 79,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.6721684093771452,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.94,
+            "commentatorTierSimilarities": [
+                26.0,
+                29.17,
+                44.83
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The gates placed on the north, south, east, and west indicate the wide accessibility of the heavenly city from all corners of the world. These gates signify that those who enter the city will come from every land, representing the gathering of saints from various parts of the world. As seen in the arrangement of the tribes in Ezekiel, this arrangement emphasizes that salvation and entry into God's kingdom are open to individuals of all origins.",
+            "wordCount": 77,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.6348653461571367,
+            "qualityScoreNormalizedComparedToV2BHTs": 45.7,
+            "commentatorTierSimilarities": [
+                25.15,
+                30.15,
+                44.71
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The placement of gates on the north, south, east, and west emphasizes the global accessibility of the heavenly city. These gates serve as a reminder that people from all around the world will enter the city, symbolizing the gathering of saints from diverse lands. Just as the tribes were organized by gates in Ezekiel, this arrangement underscores that salvation and entry into God's kingdom are available to individuals of every origin. The inclusion of gates from each direction highlights that the kingdom of God welcomes all who seek it, regardless of their location.",
+            "wordCount": 94,
+            "quoteTokenProportion": 37.88,
+            "qualityScore": 1.5881694870728666,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.15,
+            "commentatorTierSimilarities": [
+                25.67,
+                28.31,
+                46.03
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

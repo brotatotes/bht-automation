@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:13",
+    "verseRef": "Revelation 11:14",
+    "bestBHT": {
+        "bht": "The arrival of the third woe is imminent, foretelling the completion of God's avenging judgments on the earth and the establishment of Christ's kingdom. The second woe, represented by the sixth trumpet, brought both woe to the world and anticipation of redemption for the faithful. Now, the third woe, often associated with the Parousia, approaches swiftly. It signifies the grand consummation and the triumph of the Church, accompanied by the destruction of those who harm the earth, sealing their demise.",
+        "wordCount": 82,
+        "quoteTokenProportion": 32.08,
+        "qualityScore": 2.0705395639804935,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+        "commentatorTierSimilarities": [
+            36.21,
+            30.6,
+            33.19
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Behold, the third woe cometh quickly.",
+            "Before he [the Seer] does so, another series of prophetic visions must be given, regarding not merely the dwellers on the earth, but the Church herself, her glory and her shame, her faithfulness and her apostasy.",
+            "God\u2019s avenging judgments on the earth, in answer to the prayers of His saints, having reached their final point of accomplishment, and the armies of heaven having given solemn thanks for the hour being come, again the veil is dropt, and again a new procession of visions begins from the beginning."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The second woe\u2014that under the sixth trumpet... Woe to the world, joy to the faithful, as their redemption draweth nigh.",
+            "The third woe cometh quickly... Instead of the third woe being detailed, the grand consummation is summarily noticed, the thanksgiving of the twenty-four elders in heaven for the establishment of Christ's kingdom on earth...",
+            "...attended with the destruction of the destroyers of the earth."
+        ],
+        "Albert Barnes": [
+            "During that long period of apostasy, darkness, corruption, and sin, there would be faithful witnesses for the truth, who, though they were few in number, would be sufficient to keep up the knowledge of the truth on the earth, and to bear testimony against the prevailing errors and abominations.\" ",
+            "No events have ever taken place in history that would be better compared with the shock of an earthquake than those which occurred when the long-established governments of Europe, and especially the domination of the papacy, so long consolidated and confirmed, were shaken by the Reformation.",
+            "The sudden destruction of a tenth part of a great city by an earthquake would well represent the convulsion at the breaking out of the Reformation, by which a considerable portion of the papal power would fall."
+        ],
+        "Philip Schaff": [
+            "The object of the verse, therefore, is to remind us of what we might perhaps have forgotten, that the second woe had closed some time before.",
+            "Nothing shall now interrupt the sounding of the seventh trumpet on the coming of the third Woe, the triumph of the Church.",
+            "The greater and more glorious the [triumph of the Church] the more disastrous and humilitating must be [the overthrow of her enemies]."
+        ],
+        "Archibald T. Robertson": [
+            "The second woe is the sixth trumpet with the two episodes attached.\" ",
+            "The third woe is the seventh trumpet, which now 'cometh quickly', usually pointing to the Parousia.",
+            "Usually pointing to the Parousia."
+        ],
+        "John Gill": [
+            "The second woe is past... the second woe trumpet... will now have done sounding.\" ",
+            "When the four angels... shall have been loosed, and they, with their horsemen, shall have done what they were designed to do.",
+            "Behold the third woe cometh quickly; immediately, upon the passing of the other; namely, the sounding of the seventh trumpet."
+        ],
+        "John Wesley": [
+            "The second woe is past \u2014 The butchery made by the Saracens ceased about the year 847, when their power was so broken by Charles the Great that they never recovered it.",
+            "Behold, the third woe cometh quickly \u2014 Its prelude came while the Roman see took all opportunities of laying claim to its beloved universality, and enlarging its power and grandeur.",
+            "And in the year 755 the bishop of Rome became a secular prince, by king Pepin's giving him the exarchate of Lombardy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The verse reveals that the third woe is approaching swiftly, signifying God's avenging judgments on the earth and the establishment of Christ's kingdom on earth. The preceding second woe, under the sixth trumpet, brought woe to the world and joy to the faithful as their redemption drew near. Now, the third woe, usually pointing to the Parousia, is the seventh trumpet, which is coming quickly. It represents the grand consummation and the destruction of the destroyers of the earth. As the triumph of the Church becomes greater and more glorious, the overthrow of her enemies becomes more disastrous and humilitating.",
+            "wordCount": 102,
+            "quoteTokenProportion": 27.87,
+            "qualityScore": 2.1187963327033104,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.79,
+            "commentatorTierSimilarities": [
+                34.89,
+                33.49,
+                31.63
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The imminent arrival of the third woe serves as a reminder, following the closure of the second woe, that the grand consummation is approaching. The seventh trumpet, typically associated with the Parousia, will bring about the establishment of Christ's kingdom on earth and the destruction of those who harm the earth. As the Church's triumph grows more glorious, the downfall of her adversaries becomes increasingly disastrous and shaming. The joy of the faithful intensifies as redemption draws near amidst God's avenging judgments.",
+            "wordCount": 85,
+            "quoteTokenProportion": 28.33,
+            "qualityScore": 1.955566500208328,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.36,
+            "commentatorTierSimilarities": [
+                35.32,
+                32.6,
+                32.08
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The impending third woe represents the culmination of God's avenging judgments on earth and the establishment of Christ's kingdom. It follows the second woe that brought destruction and marked the nearness of redemption for the faithful. The swift arrival of the third woe, usually indicating the Parousia, heralds the triumph of the Church and the demise of her enemies. As the glory of the Church increases, the downfall of her adversaries becomes increasingly severe and humiliating.",
+            "wordCount": 78,
+            "quoteTokenProportion": 22.92,
+            "qualityScore": 2.068051918741321,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.1,
+            "commentatorTierSimilarities": [
+                33.42,
+                34.54,
+                32.04
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The approaching third woe signifies the fulfillment of God's avenging judgments on the earth and the establishment of Christ's kingdom. It swiftly follows the second woe, which brought woe to the world but brought joy to the faithful as their redemption drew near. The third woe, often pointing to the Parousia, summarily highlights the grand culmination, including the thanksgiving of the twenty-four elders in heaven for the establishment of Christ's kingdom on earth, accompanied by the destruction of those who harm the earth.",
+            "wordCount": 87,
+            "quoteTokenProportion": 35.19,
+            "qualityScore": 2.059221604260882,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.81,
+            "commentatorTierSimilarities": [
+                37.5,
+                31.26,
+                31.24
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The arrival of the third woe is imminent, foretelling the completion of God's avenging judgments on the earth and the establishment of Christ's kingdom. The second woe, represented by the sixth trumpet, brought both woe to the world and anticipation of redemption for the faithful. Now, the third woe, often associated with the Parousia, approaches swiftly. It signifies the grand consummation and the triumph of the Church, accompanied by the destruction of those who harm the earth, sealing their demise.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.08,
+            "qualityScore": 2.0705395639804935,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.19,
+            "commentatorTierSimilarities": [
+                36.21,
+                30.6,
+                33.19
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

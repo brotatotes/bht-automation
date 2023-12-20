@@ -1,0 +1,140 @@
+{
+    "timestamp": "12-19-2023 21:43:50",
+    "verseRef": "Revelation 7:1",
+    "bestBHT": {
+        "bht": "The impending judgment of the Lord is depicted under the sixth seal with angels holding the four winds. This signifies the restoration of the kingdom to Israel after the completion of the times of the Gentiles. The restrained winds symbolize impending ruin, temporarily held back by a higher power. These judgments are an answer to the prayers of the martyrs. This episode serves as a preparation for the momentous events yet to unfold, the opening of the seventh seal.",
+        "wordCount": 79,
+        "quoteTokenProportion": 33.96,
+        "qualityScore": 1.7477973314178967,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+        "commentatorTierSimilarities": [
+            35.27,
+            29.98,
+            34.75
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The great day of the Lord\u2019s judgment is not described; it is all but brought before us under the sixth seal, and is actually going on in the first of these episodes.",
+            "All allegorizing and all individualizing interpretations are out of the question.",
+            "Holding the four winds of the earth, that the wind may not blow on the earth nor on the sea nor against any tree."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The second advent will be the time of the restoration of the kingdom to Israel, when the times of the Gentiles shall have been fulfilled.",
+            "The period of the Lord's absence has been a blank in the history of the Jews as a nation.",
+            "The judgments to descend on these are in answer to the martyrs' prayer under the fifth seal."
+        ],
+        "Albert Barnes": [
+            "The meaning is, that events would occur which would be properly represented by four angels standing in the four quarters of the world, and having power over the winds.",
+            "The essential ideas, therefore, in this portion of the symbol, cannot be mistaken. They are two: (1) That at the period of time here referred to...there would be a state of things which would be well represented by rising tempests and storms...and (2) That this impending ruin was held back as if by angels having control of those winds.",
+            "A suspended tempest calamity held in check; armies hovering on the borders of a kingdom, but not allowed to proceed for a time; hordes of invaders detained, or stayed in their march, as if by some restraining power not their own, and from causes not within themselves - any of these things would be an obvious fulfilling of the meaning of the symbol."
+        ],
+        "Marvin Vincent": [
+            "These things [\u03c4\u03b1\u03c5\u03c4\u03b1] . Read touto this. ",
+            "Holding [\u03ba\u03c1\u03b1\u03c4\u03bf\u03c5\u03bd\u03c4\u03b1\u03c2] . Holding fast or firmly. See on Mark 7:3; Acts 3:11."
+        ],
+        "Philip Schaff": [
+            "The words 'After this' denote succession of visions rather than of time.",
+            "The winds are those upon which the Almighty rides, and the symbols of His judgments.",
+            "The object is that no wind should blow on the earth, nor on the sea, nor on any tree."
+        ],
+        "Archibald T. Robertson": [
+            "Instead of the seventh seal (Revelation 8:1) being opened, two other episodes or preliminary visions occupy chapter 7.",
+            "The four winds (cf. Matthew 24:31) are held prisoner by angels at each of the four corners.",
+            "Some Jews held the winds from due north, south, east, west to be favorable, while those from the angles were unfavorable."
+        ],
+        "John Gill": [
+            "God would have throughout all this, and in, every age of time, a sealed number, a true church, hidden and secured, even until the seventh angel has sounded his trumpet, and time shall be no more.\" ",
+            "Such things as are chiefly affected with winds are particularly observed, as the earth, upon which buildings are thrown down by them; and the sea, in which ships are wrecked; and trees, which by the violence of them, are blown down, and torn up by the roots.\" ",
+            "This mystical way of speaking seems to agree with the notions of the Jews, who speak of angels standing at the gates of the four winds, and the keys of the wind in their hands."
+        ],
+        "John Wesley": [
+            "What follows is a preparation for the seventh seal, which is the weightiest of all.\" ",
+            "They have their employ with the four first trumpets, as have other evil angels with the three last.",
+            "These expressions betoken the several quarters of the world; that the earth signifies that to the east of Patmos, Asia, which was nearest to St. John, and where the trumpet of the first angel had its accomplishment."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "In Revelation 7:1, the great day of the Lord's judgment is alluded to, as it is depicted under the sixth seal and symbolically represented by angels holding the four winds. This passage cannot be allegorized or individualized, as it refers to the restoration of the kingdom to Israel after the Gentiles' time is fulfilled. The judgments to come are in response to the prayers of the martyrs. The significance of the four winds held by angels at the corners of the earth suggests a state of impending ruin that is restrained for a time. This symbolizes a suspended tempest calamity, where destruction is held back by a higher power. Ultimately, this verse serves as a preparation for the upcoming seventh seal, which holds significant weight in the unfolding of events.",
+            "wordCount": 130,
+            "quoteTokenProportion": 29.63,
+            "qualityScore": 1.8722667027416877,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.59,
+            "commentatorTierSimilarities": [
+                29.03,
+                35.43,
+                35.54
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "In the day of the Lord's judgment, the restoration of the kingdom to Israel will take place after the fulfillment of the times of the Gentiles. The four winds, symbolizing impending ruin, are held back by angels. This signifies a suspended tempest calamity, where destruction is restrained by a higher power. The judgments that follow are in response to the prayers of the martyrs. This episode is a preparation for the weighty events to come.",
+            "wordCount": 76,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 1.692750716683967,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.63,
+            "commentatorTierSimilarities": [
+                31.17,
+                34.43,
+                34.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "In the day of the Lord's judgment, the restoration of the kingdom to Israel will take place after the fulfillment of the times of the Gentiles. The four winds, symbolizing impending ruin, are held back by angels who have control over them. This signifies a suspended tempest calamity, where destruction is restrained by a higher power. The judgments that follow are in response to the prayers of the martyrs. This episode is a preparation for the weighty events to come.",
+            "wordCount": 81,
+            "quoteTokenProportion": 36.84,
+            "qualityScore": 1.697022817119487,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.77,
+            "commentatorTierSimilarities": [
+                30.41,
+                35.05,
+                34.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The impending judgment of the Lord is depicted under the sixth seal with angels holding the four winds. This signifies the restoration of the kingdom to Israel after the completion of the times of the Gentiles. The restrained winds symbolize impending ruin, temporarily held back by a higher power. These judgments are an answer to the prayers of the martyrs. This episode serves as a preparation for the momentous events yet to unfold, the opening of the seventh seal.",
+            "wordCount": 79,
+            "quoteTokenProportion": 33.96,
+            "qualityScore": 1.7477973314178967,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.46,
+            "commentatorTierSimilarities": [
+                35.27,
+                29.98,
+                34.75
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "In the time of the Lord's judgment, the restoration of the kingdom to Israel will occur after the fulfillment of the times of the Gentiles. Angels holding the four winds reveal impending ruin temporarily restrained by a higher power. The judgments that follow are an answer to the prayers of the martyrs. This episode serves as a preparation for the significant events to come, as the seventh seal holds great weight in this unfolding narrative.",
+            "wordCount": 76,
+            "quoteTokenProportion": 27.78,
+            "qualityScore": 1.67305666766973,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.97,
+            "commentatorTierSimilarities": [
+                34.9,
+                29.91,
+                35.2
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

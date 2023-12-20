@@ -1,0 +1,134 @@
+{
+    "timestamp": "12-19-2023 21:39:48",
+    "verseRef": "Revelation 2:12",
+    "bestBHT": {
+        "bht": "The church in Pergamos was situated in the city of Pergamum, known for its production of parchment, ointments, pottery, and tapestries. This city, rich with pagan worship and emperor-worship, held a prominent seat for Satan. Christ's words, symbolized by the sharp two-edged sword, possessed the power to convict, convert, and condemn. His words, like a piercing sword, exposed the wickedness within the church. The use of this metaphor was fitting for Pergamos, a place infiltrated by licentiousness and witchcraft, battling against the growing corruptions of antichrist.",
+        "wordCount": 89,
+        "quoteTokenProportion": 25.81,
+        "qualityScore": 1.7411785497085872,
+        "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+        "commentatorTierSimilarities": [
+            30.0,
+            32.84,
+            37.16
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "Parchment, that is, Pergamena charta, was here discovered for book purposes.",
+            "He which hath the sharp sword with two edges\u2014appropriate to His address having a twofold bearing, a searching power so as to convict and convert some.",
+            "Convict and condemn to punishment others."
+        ],
+        "Albert Barnes": [
+            "His words cut and penetrate deep, and it was easy to picture him as having a sword proceeding from his mouth; that is, his words were as piercing as a sharp sword.",
+            "Reproof cuts deep; and this is the idea represented here.",
+            "As he was about to reprove the church at Pergamos, there was a propriety in referring to this power of the Saviour."
+        ],
+        "Marvin Vincent": [
+            "The city was mainly indebted to Eumenes 2 (B. C. 197 - 159) for its embellishment and extension.",
+            "Pergamum was celebrated for the manufacture of ointments, pottery, tapestries, and parchment, which derives its name [\u03c7\u03b7\u03b1\u03c1\u03c4\u03b1 \u03c0\u03b5\u03c1\u03b3\u03b1\u03bc\u03b5\u03bd\u03b1] from the city.",
+            "The city has been described as a sort of union of a pagan cathedral - city, a university - town, and a royal residence, embellished during a succession of years by kings who all had a passion for expenditure and ample means of gratifying it."
+        ],
+        "Philip Schaff": [
+            "Without in any degree attempting to trace its history, which in no way concerns us here, it may simply be remarked that in the apostolic age Pergamos was especially noted for its worship of AEsculapius the god of medicine.",
+            "Licentiousness and wickedness of every kind were the inevitable result.",
+            "Satan had at Pergamos an almost peculiar seat, and that what the Old Testament condemns under the name of witchcraft or attempts to traffic with any spirit, however evil, in order to obtain knowledge or gratify desire was more than ordinarily prevalent among the inhabitants of the city."
+        ],
+        "Archibald T. Robertson": [
+            "Pergamum is a very centre of emperor-worship 'where Satan dwells'.\" ",
+            "Pergamum was the first city in Asia with a temple for the worship of Augustus.\" ",
+            "The sharp two-edged sword...singling out each point."
+        ],
+        "John Gill": [
+            "This church represents the church from the time of Constantine, and onward, rising up to, and enjoying great power, riches, and honour.",
+            "The only weapon this church, and the true ministers and members of it had, to defend themselves against the growing corruptions of antichrist, who in this interval rose up by degrees, and was revealed, and came to the height of his power, was the word of God, the Scriptures of truth.",
+            "In process of time... the man of sin should be destroyed, with the breath of Christ's mouth, and the brightness of his coming; of which his fighting against the Nicolaitans, with the sword of his mouth, Revelation 2:16, is an emblem."
+        ],
+        "John Wesley": [
+            "The sword \u2014 With which I will cut off the impenitent, verse16. Revelation 2:16"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The city of Pergamum, where the church of Pergamos was located, was a prestigious city known for its wealth, culture, and pagan worship, including the worship of the emperor Augustus. It was also acclaimed for its production of parchment, ointments, pottery, and tapestries. The use of the metaphor of the sharp two-edged sword in Revelation 2:12 is fitting, as it illustrates the penetrating and convicting power of Christ's words, which can bring conviction and conversion to some while condemning others. This language is relevant to the church in Pergamos, where the wickedness and corruption were prevalent, influenced by the city's association with Satan and idolatrous practices. Through this imagery, it is clear that the sword is a symbol of reproof and judgment, intended to expose and combat the evils within the church and the city.",
+            "wordCount": 137,
+            "quoteTokenProportion": 32.14,
+            "qualityScore": 1.6550168665476814,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.37,
+            "commentatorTierSimilarities": [
+                28.73,
+                30.54,
+                40.73
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The city of Pergamum, renowned for its arts and pagan worship, where the church of Pergamos was located, was described as a combination of a pagan cathedral, a university town, and a royal residence. Christ's words, likened to a sharp two-edged sword, hold a twofold power: to convict and convert some, while condemning others. This imagery is fitting for the church in Pergamos, plagued by wickedness and influenced by Satan's presence in the city. The metaphor illustrates the penetrating nature of Christ's words, meant to expose and combat the corruptions within the church and the city.",
+            "wordCount": 100,
+            "quoteTokenProportion": 30.16,
+            "qualityScore": 1.6640504263522922,
+            "qualityScoreNormalizedComparedToV2BHTs": 46.67,
+            "commentatorTierSimilarities": [
+                30.01,
+                32.3,
+                37.69
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The church in Pergamos was situated in the city of Pergamum, known for its production of parchment, ointments, pottery, and tapestries. This city, rich with pagan worship and emperor-worship, held a prominent seat for Satan. Christ's words, symbolized by the sharp two-edged sword, possessed the power to convict, convert, and condemn. His words, like a piercing sword, exposed the wickedness within the church. The use of this metaphor was fitting for Pergamos, a place infiltrated by licentiousness and witchcraft, battling against the growing corruptions of antichrist.",
+            "wordCount": 89,
+            "quoteTokenProportion": 25.81,
+            "qualityScore": 1.7411785497085872,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.24,
+            "commentatorTierSimilarities": [
+                30.0,
+                32.84,
+                37.16
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The city of Pergamum, a hub of emperor-worship and known for producing parchment, ointments, pottery, and tapestries, was where the church of Pergamos resided. Christ's words, compared to a sharp two-edged sword, would expose and combat the wickedness within the church and the city. The metaphor captures the piercing and convicting power of His words, able to convert some while condemning others. As the church in Pergamos faced the pervasive influence of Satan and idolatry, this imagery highlights the necessity of Christ's reproof and judgment in addressing their spiritual state.",
+            "wordCount": 94,
+            "quoteTokenProportion": 29.69,
+            "qualityScore": 1.681140441481691,
+            "qualityScoreNormalizedComparedToV2BHTs": 47.24,
+            "commentatorTierSimilarities": [
+                28.37,
+                31.3,
+                40.34
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Pergamum, a city known for its elaborate embellishments and a center of emperor-worship, was where the church of Pergamos resided. Christ's words, depicted as a sharp two-edged sword, would expose the wickedness within the church and the city. This metaphor signifies the penetrating power of His words, capable of convicting and converting some while condemning others. With its association with Satan and pervasive idolatrous practices, Pergamum needed Christ's reproof to combat corruption and uphold righteousness within the church.",
+            "wordCount": 82,
+            "quoteTokenProportion": 32.76,
+            "qualityScore": 1.6060422575523923,
+            "qualityScoreNormalizedComparedToV2BHTs": 44.74,
+            "commentatorTierSimilarities": [
+                28.86,
+                35.07,
+                36.07
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "timestamp": "12-19-2023 21:43:02",
+    "verseRef": "Revelation 6:1",
+    "bestBHT": {
+        "bht": "The first seal in Revelation signifies God's Providence orchestrating events that lead to the final revelation of His divine purposes. The cries of Come by the living creatures represent creation's groaning for the manifestation of God's kingdom and a prayer for Christ's return. The lion-like first living creature symbolizes the boldness and testimony of the faithful before Christ's coming. These seals are not specific historical events, but interconnected symbols within the book. The urgent cries of the living creatures are an invitation to accept Christ's salvation while there is still time.",
+        "wordCount": 98,
+        "quoteTokenProportion": 33.85,
+        "qualityScore": 1.9418762384575081,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+        "commentatorTierSimilarities": [
+            36.94,
+            35.06,
+            28.0
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The openings of these seals correspond to the various arrangements of God\u2019s Providence by which the way is prepared for the final opening of the closed book of His purposes to His glorified Church.",
+            "I see represented in this fourfold Come the groaning and travailing together of creation for the manifestation of the sons of God, expressed in each case in a prayer for Christ\u2019s coming.",
+            "Victory, we may safely say, on the part of that kingdom against which the gates of hell shall not prevail: whose fortunes and whose trials are the great subject of this revelation."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The first living creature was like a lion: his voice is in consonance. Implying the lion-like boldness with which, in the successive great revivals, the faithful have testified for Christ, and especially a little before His coming shall testify.\" ",
+            "Contrast the form of expression, Revelation 4:7-. It is much more likely to be the cry of the redeemed to the Redeemer, 'Come' and deliver the groaning creature from the bondage of corruption.",
+            "If the four living creatures represent the four Gospels, the 'Come' will be their invitation to everyone to accept Christ's salvation while there is time."
+        ],
+        "Albert Barnes": [
+            "No one had been found in the universe who could open the seals but the Lamb of God.",
+            "The representation in this place is, therefore, that of a volume with a small portion unrolled, and written on both sides of the parchment.",
+            "John saw the Lamb open the seal; he heard the loud voice; he looked and beheld a white horse - that is, evidently, he looked on the unfolding volume, and saw the representation of a horse and his rider."
+        ],
+        "Marvin Vincent": [
+            "Of the seals. Add seven. ",
+            "And see. Omit."
+        ],
+        "Philip Schaff": [
+            "The probability is that they do; but that alone will not entitle us to find a special connection between each of the four and the vision introduced in answer to its \u2018cry,\u2019 as if the lion called for subjugation, the bull-calf for sacrificial slaughter, the man for mourning, and the eagle for tearing the prey.",
+            "It is enough to say that the visions are introduced with peculiar propriety as an answer to the cry of the living creatures.",
+            "The living creature cries \u2018Come,\u2019 not \u2018Come and see.\u2019 In the latter case the cry would be addressed to the Seer. It is really addressed to Jesus."
+        ],
+        "Archibald T. Robertson": [
+            "The first four seals have a common note from one of the four \u03b6\u03c9\u03b1 and the appearance of a horse.",
+            "No effort will be made here to interpret these seals as referring to persons or historical events in the past, present, or future, but simply to relate the symbolism to the other symbols in the book.",
+            "The command is not addressed to the Lamb nor to John (the correct text omits \u03ba\u03b1 \u03b9\u03b4\u03b5 'and see') as in Revelation 17:1; Revelation 21:9, but to one of the four horsemen each time."
+        ],
+        "John Gill": [
+            "These seals express events to be fulfilled and therefore cannot respect the steps towards, and the signs of Jerusalem's destruction, and that itself, which had been accomplished some years before the vision of the seals.",
+            "These seals...are so many gradual steps to the ruin of [the Pagan empire], and to the advancing and increasing of the kingdom of Christ.",
+            "...the ministers of the Gospel, who, as sons of thunder, loudly and publicly preached the Gospel, and, as lions, boldly and bravely defended, and took notice of the power and providence of God in succeeding their ministry."
+        ],
+        "John Wesley": [
+            "I heard one-That is, the first. Of the living creatures - Who looks forward toward the east."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The opening of the first seal in Revelation 6:1 represents God's Providence preparing the way for His ultimate plans. The fourfold cry of Come symbolizes creation's longing for the manifestation of God's kingdom and a prayer for Christ's return. The first living creature, like a lion, reflects the boldness and testimony of the faithful who testify for Christ. These seals are not to be interpreted as specific historical events, but rather as interconnected symbols within the book. The cries of the living creatures are an invitation to accept Christ's salvation while there is still time, illustrating the urgency of embracing God's redemption.",
+            "wordCount": 107,
+            "quoteTokenProportion": 31.94,
+            "qualityScore": 1.9366639443207045,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.74,
+            "commentatorTierSimilarities": [
+                37.36,
+                34.8,
+                27.84
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The opening of the first seal in Revelation signifies God's Providence working towards the fulfillment of His purposes for His Church. The cries of Come by the living creatures represent creation's longing for the manifestation of God's kingdom and a plea for Christ's return. The first living creature, resembling a lion, embodies the boldness and testimony of the faithful who courageously testify for Christ. These seals should not be interpreted as specific historical events, but rather as interconnected symbols in the book. The cries of the living creatures serve as an urgent invitation for people to accept Christ's salvation before it is too late.",
+            "wordCount": 109,
+            "quoteTokenProportion": 33.8,
+            "qualityScore": 1.915288575611306,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.02,
+            "commentatorTierSimilarities": [
+                34.86,
+                35.16,
+                29.97
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The opening of the first seal in Revelation reveals the unfolding of God's Providence for His Church, preparing the way for His ultimate purposes. The cries of Come by the living creatures express creation's deep longing for the visible manifestation of God's kingdom and a fervent prayer for the return of Christ. As the first living creature resembles a lion, it represents the fearless testimony and boldness of the faithful in proclaiming Christ's salvation. These seals should not be narrowly interpreted as specific historical events, but rather as interconnected symbols with a profound spiritual meaning. The cries of the living creatures serve as an urgent invitation for all to embrace Christ's redemption while there is still time.",
+            "wordCount": 122,
+            "quoteTokenProportion": 31.25,
+            "qualityScore": 1.9243470557014883,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.33,
+            "commentatorTierSimilarities": [
+                35.03,
+                36.04,
+                28.94
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The opening of the first seal in Revelation reveals God's Providence at work, preparing the way for His purposes to be fulfilled. The cries of Come by the living creatures express creation's longing for the manifestation of God's kingdom and a prayer for Christ's return. The boldness of the lion-like first living creature symbolizes the unwavering testimony of the faithful before Christ's coming. These seals should not be interpreted as specific historical events, but as interconnected symbols throughout the book. The cries of the living creatures urgently invite all to accept Christ's salvation before it is too late.",
+            "wordCount": 105,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 1.9231913741554694,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.29,
+            "commentatorTierSimilarities": [
+                35.15,
+                34.64,
+                30.21
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The first seal in Revelation signifies God's Providence orchestrating events that lead to the final revelation of His divine purposes. The cries of Come by the living creatures represent creation's groaning for the manifestation of God's kingdom and a prayer for Christ's return. The lion-like first living creature symbolizes the boldness and testimony of the faithful before Christ's coming. These seals are not specific historical events, but interconnected symbols within the book. The urgent cries of the living creatures are an invitation to accept Christ's salvation while there is still time.",
+            "wordCount": 98,
+            "quoteTokenProportion": 33.85,
+            "qualityScore": 1.9418762384575081,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.91,
+            "commentatorTierSimilarities": [
+                36.94,
+                35.06,
+                28.0
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

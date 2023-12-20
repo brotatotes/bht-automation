@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:41:28",
+    "verseRef": "Revelation 3:12",
+    "bestBHT": {
+        "bht": "Believers who overcome will have a fixed and important place in the glorified church, openly declaring their belonging to Christ in His state of eternal rest and triumph. As priests for God, they will be secure and adorned with the visible nature and image of God. This new name signifies their ownership by Him, granting them the freedom and stability of the heavenly city. They will go out no more and be forever holy, happy, and adorned like a pillar in the temple of God.",
+        "wordCount": 85,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 1.945203077804182,
+        "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+        "commentatorTierSimilarities": [
+            34.61,
+            29.5,
+            35.89
+        ],
+        "generationAttempt": 4
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "He shall have a fixed and important place in the glorified church hereafter.",
+            "Those Commentators who have understood the promise of the church militant, have been obliged to take the going out as passive, shall not be cast out.",
+            "By the inscription on him of this new name of the glorified Saviour is declared, that he belongs to Him in His new and glorious state of eternal rest and triumph."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "They shall be priests for ever unto God...therefore secure.",
+            "As the saints in their heavenly royal priesthood shall bear His name openly, as consecrated to Him.",
+            "New also relates to Christ, who shall assume a new character (answering to His 'new name') entering with His saints on a kingdom."
+        ],
+        "Albert Barnes": [
+            "The characteristic of the church: it was 'lukewarm' - neither 'cold nor hot.'\" ",
+            "A solemn reproof of their self-confidence, of their ignorance of themselves.\" ",
+            "...a solemn counsel to them to apply to him for those things which would make them truly rich - which would cover up the shame of their nakedness, and which would give them clear spiritual vision."
+        ],
+        "Marvin Vincent": [
+            "The exact meaning is doubtful. Some explain, he shall have a fixed and important place in the glorified church.\" ",
+            "Others emphasize the idea of stability, and find a possible local reference to the frequent earthquakes from which Philadelphia had suffered, and which had shaken its temples.",
+            "The believer whose brow is adorned with this name has the freedom of the heavenly city. Even on earth his commonwealth is in heaven."
+        ],
+        "Philip Schaff": [
+            "Him will I make a pillar in the temple of my God. He shall not merely be a living stone in the temple, but something much more beautiful and glorious.",
+            "The believer, when crowned with his glory, shall in like manner be safe from all future trial.",
+            "They express in one way or another the relation of the believer to God as his Father, to Christ as the Revelation of the Father, and to the privileges and joys of citizenship in the kingdom made known to us in the Father and the Son."
+        ],
+        "Archibald T. Robertson": [
+            "Fixity of character is at last achieved.",
+            "He, like the pillar, remains in place.",
+            "He receives this triple name (of God, of the city of God, of Christ) on his forehead just as the high-priest wore the name of Jehovah upon his forehead, the new name, without any magical or talismanic power, but as proof of ownership by God."
+        ],
+        "John Gill": [
+            "They become very ornamental in the church, they are made honourable members of it.",
+            "And this shall be as plain and as evident as an inscription on a pillar.",
+            "They shall now more openly appear to be kings, and to reign with him in his spiritual kingdom."
+        ],
+        "John Wesley": [
+            "I will make him a pillar in the temple of my God \u2014 I will fix him as beautiful, as useful, and as immovable as a pillar in the church of God.",
+            "And he shall go out no more \u2014 But shall be holy and happy forever.",
+            "And I will write upon him the name of my God \u2014 So that the nature and image of God shall appear visibly upon him."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Those who belong to Christ and overcome will have a secure and significant place in the glorified church, where they will bear openly the name of their Savior. This new name signifies their belonging to Christ in His glorious state of rest and triumph. They will serve as priests for God forever and experience the freedom and stability of the heavenly city. Just as the high-priest wore the name of Jehovah on his forehead, those adorned with this new name will bear the visible nature and image of God, testifying to their ownership by Him.",
+            "wordCount": 96,
+            "quoteTokenProportion": 37.7,
+            "qualityScore": 1.925823045004464,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.37,
+            "commentatorTierSimilarities": [
+                39.52,
+                27.72,
+                32.76
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Those who overcome in Christ will have a fixed and important place in the glorified church. They will bear openly the name of their Savior, declaring their belonging to Him in His state of eternal rest and triumph. As priests for God, they will be secure and adorned with the visible nature and image of God. This new name signifies their ownership by Him and grants them the freedom and stability of the heavenly city.",
+            "wordCount": 75,
+            "quoteTokenProportion": 41.51,
+            "qualityScore": 1.8981800691116213,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.46,
+            "commentatorTierSimilarities": [
+                38.91,
+                27.03,
+                34.06
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Believers who overcome in Christ will have an important and stable place in the glorified church, where they will bear openly the name of their Savior. This new name signifies their belonging to Christ in His glorious state of rest and triumph. As priests for God, they will be secure and adorned with the visible nature and image of God, visibly displaying their ownership by Him. This new name grants them the freedom and stability of the heavenly city, where they will go out no more and be forever holy and happy.",
+            "wordCount": 92,
+            "quoteTokenProportion": 41.94,
+            "qualityScore": 1.9062896099268667,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.73,
+            "commentatorTierSimilarities": [
+                38.41,
+                28.06,
+                33.53
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Believers who overcome will have a fixed and important place in the glorified church, openly declaring their belonging to Christ in His state of eternal rest and triumph. As priests for God, they will be secure and adorned with the visible nature and image of God. This new name signifies their ownership by Him, granting them the freedom and stability of the heavenly city. They will go out no more and be forever holy, happy, and adorned like a pillar in the temple of God.",
+            "wordCount": 85,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.945203077804182,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.02,
+            "commentatorTierSimilarities": [
+                34.61,
+                29.5,
+                35.89
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Believers who overcome will have a fixed and important place in the glorified church, openly declaring their belonging to Christ in His state of eternal rest and triumph. As priests for God, they will be adorned with the visible nature and image of God. This new name signifies their ownership by Him, granting them the freedom and stability of the heavenly city. They will go out no more and be forever holy and happy, like a pillar in the temple of God.",
+            "wordCount": 82,
+            "quoteTokenProportion": 41.67,
+            "qualityScore": 1.9361146680903714,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.72,
+            "commentatorTierSimilarities": [
+                33.88,
+                29.08,
+                37.05
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

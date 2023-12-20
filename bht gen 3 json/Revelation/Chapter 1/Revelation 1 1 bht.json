@@ -1,0 +1,144 @@
+{
+    "timestamp": "12-19-2023 21:40:08",
+    "verseRef": "Revelation 1:1",
+    "bestBHT": {
+        "bht": "The unveiling of divine mysteries is given to Jesus Christ from God, which He imparts to His Church. The phrase must come to pass shortly corrects our human estimation of time and events, teaching us to understand the times in light of Jesus's second advent. Revelation reveals the hidden purposes of the eternal God, showing Jesus's followers the future. By being the medium of all revelation, Jesus provides divine insight to His Church about the unfolding of divine plans.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.91,
+        "qualityScore": 2.105178976479529,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+        "commentatorTierSimilarities": [
+            42.76,
+            31.34,
+            25.9
+        ],
+        "generationAttempt": 5
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "The Revelation of Jesus Christ, which God gave to Him, to shew His servants what things must come to pass shortly.",
+            "The man Christ Jesus, even in His glorified state, receives from the Father, by his hypostatic union with Him, that revelation which by His Spirit He imparts to His Church.",
+            "The words cannot signify 'which must soon begin to come to pass,' but, 'which, in their entirety, must soon come to pass.'"
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Revelation is to teach us to understand the times, not the times to interpret to us the Apocalypse.",
+            "The Apocalypse is the book of His second advent and the events preliminary to it.",
+            "Not that the things prophesied were according to man's computation near; but this word 'shortly' implies a corrective of our estimate of worldly events and periods."
+        ],
+        "Albert Barnes": [
+            "The word rendered 'Revelation' - \u0391\u0313\u03c0\u03bf\u03ba\u03b1\u0301\u03bb\u03c5\u03c8\u03b9\u03c2 Apokalupsis, whence we have derived our word 'Apocalypse' - means properly an that is, nakedness; from \u03b1\u0313\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u0301\u03c0\u03c4\u03c9 apokalupto\u0304, to uncover.",
+            "The ideas which would be naturally conveyed by the use of this word in this connection are two:",
+            " (1) That there was something which was before hidden, obscure, or unknown; and,",
+            " (2) That this was so disclosed by these communications as to be seen or known.",
+            "All that is proper in this place is, without reference to any theory of interpretation, to inquire into the proper meaning of the language, or to ascertain what idea it would naturally convey:",
+            "(a) The phrase properly and literally means, 'with quickness, swiftness, speed; that is, speedily, quickly, shortly' (Robinson\u2019s Lexicon; Stuart, in loco)."
+        ],
+        "Marvin Vincent": [
+            "The word is compounded with ajpo from, and kaluptw to cover. Hence, to remove the cover from anything; to unveil.",
+            "The Revelation here is the unveiling of the divine mysteries.",
+            "Expressions like this must be understood, not according to human measurement of time, but rather as in 2 Peter 3:8. The idea is, before long, as time is computed by God."
+        ],
+        "Philip Schaff": [
+            "The book is a revelation, a drawing back of the veil which, to the merely human eye, hangs over the purposes of God.",
+            "The object of the revelation on the part of Jesus Christ is to show certain things unto his servants.",
+            "They are the purposes of no fallible or mortal creature, but of the infallible and eternal God."
+        ],
+        "Archibald T. Robertson": [
+            "The precise meaning here turns on the genitive following.",
+            "It is the Son who received the revelation from the Father.",
+            "Jesus is the medium of all revelation."
+        ],
+        "John Gill": [
+            "It was he, the lion of the tribe of Judah, that took the book, and opened the seals of it, and which is a very considerable proof of his deity.",
+            "It treats much of his person, offices, and grace, and of Christ mystical, of the state of his church, in the several ages of time.",
+            "The end of its being given him was, to show unto his servant things which must shortly come to pass."
+        ],
+        "John Wesley": [
+            "It is, as it were, a manifesto, wherein the Heir of all things declares that all power is given him in heaven and earth, and that he will in the end gloriously exercise that power, maugre all the opposition of all his enemies.",
+            "The whole structure of it breathes the art of God, comprising, in the most finished compendium, things to come, many, various; near, intermediate, remote; the greatest, the least; terrible, comfortable; old, new; long, short; and these interwoven together, opposite, composite; relative to each other at a small, at a great, distance; and therefore sometimes, as it were, disappearing, broken off, suspended, and afterwards unexpectedly and most seasonably appearing again.",
+            "The showing things to come, is the great point in view throughout the whole. And St. John writes what he has seen, and what is, only as it has an influence on, or gives light to, what shall be."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "This verse reveals the unveiling of divine mysteries to His Church. Even in His glorified state, the man Christ Jesus receives revelation from the Father and imparts it to His followers. The phrase must come to pass shortly does not imply imminent fulfillment in human terms, but rather corrects our understanding of worldly events and time periods. The book of Revelation teaches us to understand the times in light of Jesus's second advent and the events leading up to it. Its purpose is to show His servants the things that will unfold in the future, unveiling the hidden purposes of the infallible and eternal God.",
+            "wordCount": 106,
+            "quoteTokenProportion": 31.51,
+            "qualityScore": 2.053700183779674,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.63,
+            "commentatorTierSimilarities": [
+                41.77,
+                29.59,
+                28.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "This passage signifies the unveiling of divine mysteries to the Church through Jesus Christ. The term must come to pass shortly challenges our earthly understanding of time and events, reminding us to comprehend the times based on God's perspective. Revelation focuses on Jesus's second coming and the events preceding it. Its purpose is to show His followers what will unfold in the future, exposing the hidden purposes of the eternal God. Jesus, as the medium of all revelation, imparts divine insight to His Church.",
+            "wordCount": 86,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.0047466674053123,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.0,
+            "commentatorTierSimilarities": [
+                41.91,
+                31.33,
+                26.75
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "This unveiling of divine mysteries is given to Jesus Christ by God, who imparts it to His Church. The phrase must come to pass shortly corrects our human estimation of time and events, teaching us to understand the times in light of Jesus's second advent. The purpose of Revelation is to show Jesus's followers what will transpire in the future, revealing the hidden purposes of the eternal God. With Jesus as the medium of all revelation, His Church gains insight into the unfolding of divine plans.",
+            "wordCount": 88,
+            "quoteTokenProportion": 35.0,
+            "qualityScore": 2.0708300432383506,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.2,
+            "commentatorTierSimilarities": [
+                43.01,
+                30.64,
+                26.34
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "This unveiling of divine mysteries is conveyed to Jesus Christ from God, who then imparts it to His Church. The phrase must come to pass shortly challenges our human perception of time and events, serving as a correction to our understanding. The book of Revelation aims to provide insight into Jesus's second advent and the preceding events, offering a glimpse into the concealed intentions of the eternal God. Jesus acts as the medium through whom all revelation is channeled, enlightening His Church about unfolding divine plans.",
+            "wordCount": 87,
+            "quoteTokenProportion": 32.79,
+            "qualityScore": 2.001799169337099,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.9,
+            "commentatorTierSimilarities": [
+                41.83,
+                30.2,
+                27.98
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The unveiling of divine mysteries is given to Jesus Christ from God, which He imparts to His Church. The phrase must come to pass shortly corrects our human estimation of time and events, teaching us to understand the times in light of Jesus's second advent. Revelation reveals the hidden purposes of the eternal God, showing Jesus's followers the future. By being the medium of all revelation, Jesus provides divine insight to His Church about the unfolding of divine plans.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.91,
+            "qualityScore": 2.105178976479529,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.34,
+            "commentatorTierSimilarities": [
+                42.76,
+                31.34,
+                25.9
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

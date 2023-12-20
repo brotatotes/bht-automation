@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:44:48",
+    "verseRef": "Revelation 9:5",
+    "bestBHT": {
+        "bht": "It was allotted to the locusts, who were charged to injure but not kill, to torment the unsealed for a period of five months. The reason behind this five-month duration is the fact that locusts usually ravage for five months each year. The torment inflicted by the locusts is compared to that of a scorpion's sting, which is extremely painful. The locusts, in their role as tormentors, fulfilled their specific task of inflicting distress without causing death.",
+        "wordCount": 79,
+        "quoteTokenProportion": 41.82,
+        "qualityScore": 2.3485368996253055,
+        "qualityScoreNormalizedComparedToV2BHTs": 69.43,
+        "commentatorTierSimilarities": [
+            34.35,
+            36.52,
+            29.13
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And it was given to them (allotted to them by God as the limit of their appointed work and office: here the statement expresses rather the limitation than the extension of the grant) that they should not kill them (the unsealed), but that they (the unsealed: the subject is changed) shall be tormented five months.",
+            "The reason seems to be correct, which several Commentators have given for this number being chosen: viz. that five months is the ordinary time in the year during which locusts commit their ravages.",
+            "Their torment (i. e. that of the sufferers) is as the torment of (arising from) a scorpion, when it has smitten (by its bite or sting) a man."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The subject changes: the first 'they' is the locusts; the second is the unsealed.",
+            "Five months\u2014the ordinary time in the year during which locusts continue their ravages.",
+            "This fifth verse and :- cannot refer to an invading army. For an army would kill, and not merely torment."
+        ],
+        "Albert Barnes": [
+            "The fact that they did not kill them, but tormented them - if such a fact should be found to exist - would be in every sense a fulfillment of what is here said.",
+            "Perhaps all that would be necessarily meant by this would be, not that individual people would not be killed, but that they would be sent to inflict plagues and torments rather than to take life, and that the characteristic effects of their appearing would be distress and suffering rather than death.",
+            "Their torment was as the torment of a scorpion... That is, it would be painful, severe, dangerous."
+        ],
+        "Marvin Vincent": [
+            "They should be tormented.\" ",
+            "The scorpion cannot strike sideways.\" ",
+            "All accounts agree as to the fearful pain from its sting."
+        ],
+        "Philip Schaff": [
+            "The killing of men is reserved for a still higher stage of judgment, under the sixth trumpet. In the meantime torment alone is to be inflicted, but that of a kind most painful and acute, as the torment of a scorpion when it striketh a man.",
+            "The time during which the torment is to be inflicted is \u2018five months,\u2019 and the explanation most commonly accepted is, that five months are the period of the year during which locusts commit their ravages.",
+            "Five is the half of ten: it denotes a broken, imperfect, limited, shortened time. The type of the period spoken of may perhaps be found in the Deluge, which lasted for five months."
+        ],
+        "Archibald T. Robertson": [
+            "The locusts are charged to injure men, but not to kill them.",
+            "The actual locust is born in the spring and dies at the end of summer (about five months).",
+            "The wound of the scorpion was not usually fatal, though exceedingly painful."
+        ],
+        "John Gill": [
+            "And thus, though the Saracens killed great numbers in the eastern empire, by their frequent incursions and ravages, and made large conquests, yet they could never destroy the empire itself, or bring it in subjection to them.",
+            "The western locusts have most dreadfully tormented men by their exorbitant dues demanded of them; and by obliging them to confessions, and to attend Mass; by enjoining them whippings, fastings, pilgrimages, and penances, and with the terrors of purgatory, and the like.",
+            "It signifies how troublesome and afflictive those locusts were; to be among them was to live among scorpions."
+        ],
+        "John Wesley": [
+            "Not to kill them \u2014 Very few of them were killed: in general, they were imprisoned and variously tormented."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "It was allotted to the locusts, who were charged to injure but not kill, to torment the unsealed for a period of five months. The reason behind this five-month duration is the fact that locusts usually ravage for five months each year. The torment inflicted by the locusts is compared to that of a scorpion's sting, which is extremely painful. Although the scorpion's bite is not usually fatal, it causes intense suffering. The locusts, in their role as tormentors, fulfilled their specific task of inflicting distress without causing death.",
+            "wordCount": 92,
+            "quoteTokenProportion": 39.34,
+            "qualityScore": 2.31932937804994,
+            "qualityScoreNormalizedComparedToV2BHTs": 68.46,
+            "commentatorTierSimilarities": [
+                34.43,
+                37.0,
+                28.57
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "It was allotted to the locusts, who were charged to injure but not kill, to torment the unsealed for a period of five months. The reason behind this five-month duration is the fact that locusts usually ravage for five months each year. The torment inflicted by the locusts is compared to that of a scorpion's sting, which is extremely painful. The locusts, in their role as tormentors, fulfilled their specific task of inflicting distress without causing death.",
+            "wordCount": 79,
+            "quoteTokenProportion": 41.82,
+            "qualityScore": 2.3485368996253055,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.43,
+            "commentatorTierSimilarities": [
+                34.35,
+                36.52,
+                29.13
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The locusts were given the power to torment the unsealed for five months, without the authority to kill them. This time frame coincides with the usual duration of a locust's ravages, which is typically about five months. The torment inflicted by the locusts is likened to the pain of a scorpion's sting, causing excruciating agony. The locusts were specifically directed to bring distress but not death, fulfilling their role as instruments of suffering.",
+            "wordCount": 75,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 2.2674341987768307,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.73,
+            "commentatorTierSimilarities": [
+                34.09,
+                37.1,
+                28.81
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The locusts, having been allotted the task of tormenting the unsealed, were restricted from killing them, instead inflicting pain for a period of five months. This duration coincides with the typical time frame in which locusts engage in their destructive activities. The torment the unsealed endured was likened to the anguish caused by a scorpion's sting. The locusts were commissioned to afflict mankind without causing their demise. Thus, their purpose was to cause distress, fulfilling their role as agents of torment.",
+            "wordCount": 82,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.097192972761794,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.07,
+            "commentatorTierSimilarities": [
+                32.81,
+                36.88,
+                30.31
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The locusts, allotted the task of tormenting the unsealed, were restricted from killing them but rather caused pain for five months, coinciding with the duration of a locust's ravages. The torment resembled the agonizing effect of a scorpion's sting. The locusts fulfilled their role in inflicting distress without bringing about death, serving as instruments of suffering.",
+            "wordCount": 58,
+            "quoteTokenProportion": 34.78,
+            "qualityScore": 2.25678020574267,
+            "qualityScoreNormalizedComparedToV2BHTs": 66.38,
+            "commentatorTierSimilarities": [
+                33.54,
+                36.79,
+                29.67
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

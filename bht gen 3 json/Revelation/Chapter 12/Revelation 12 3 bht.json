@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:46:02",
+    "verseRef": "Revelation 12:3",
+    "bestBHT": {
+        "bht": "The dragon's red color and seven diadems represent its fiery rage and universal dominion, while the ten horns symbolize its worldly instruments of power. This second tableau is inseparable from the first, highlighting the dragon's association with the Roman Pagan empire and its cruelty in persecuting Christians. The dragon's disposition is reflected in its fiery-red color, and its immense power and rule over the kingdoms of the world are depicted through its seven heads and ten horns.",
+        "wordCount": 81,
+        "quoteTokenProportion": 30.0,
+        "qualityScore": 2.077641465674232,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+        "commentatorTierSimilarities": [
+            31.02,
+            40.19,
+            28.79
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The color of the dragon implies his fiery rage as a murderer from the beginning.\" ",
+            "His universal dominion as prince of this fallen world is implied by the seven diadems, the caricature of the seven Spirits of God.",
+            "His worldly instruments of power are marked by the ten horns, ten being the number of the world."
+        ],
+        "Albert Barnes": [
+            "The dragon was supposed to inhabit waste places and solitudes... and it became, therefore, an object of great terror.",
+            "The seven heads would somehow denote power, or seats of power.",
+            "Rome was built, as is well known, on seven hills... The situation of the city, if that was destined to be represented by the dragon, would naturally suggest the idea of the seven-headed monster."
+        ],
+        "Marvin Vincent": [
+            "Red [\u03c0\u03c5\u03c1\u03c1\u03bf\u03c2] . See on ch. Revelation 6:4.",
+            "Dragon [\u03b4\u03c1\u03b1\u03ba\u03c9\u03bd] . Satan. See ver. 9. The word is found only in Revelation.",
+            "Crowns [\u03b4\u03b9\u03b1\u03b4\u03b7\u03bc\u03b1\u03c4\u03b1] . The Kingly crown, not the chaplet [\u03c3\u03c4\u03b5\u03c6\u03b1\u03bd\u03bf\u03c2] . See on ch. Revelation 2:10."
+        ],
+        "Philip Schaff": [
+            "The dragon is \u2018great\u2019 in power. He is \u2018red\u2019 with the colour of blood because he kills men.",
+            "He has \u2018seven heads and ten horns,\u2019 a figure by which is indicated his rule over all the kingdoms of this world as well as the force with which he rules them.",
+            "Even in the greatest lustre of his might the dragon is not a conqueror."
+        ],
+        "Archibald T. Robertson": [
+            "A second tableau following close upon the first and inseparable from it.",
+            "One wonders if these and the Chinese dragons are not race memories of conflicts with the diplodocus and like monsters before their disappearance.",
+            "If Christ as Conqueror has 'many diadems,' it is not strange that Satan should wear seven (ten in Revelation 13:1)."
+        ],
+        "John Gill": [
+            "the Roman Pagan empire, as under the influence of Satan, the god of this world, is fitly compared to a 'dragon', for its policy and cunning in circumventing and ensnaring the professors of Christianity; and for its cruelty and inhumanity in persecuting them; and for its poison of idolatry, will worship, and superstition.\" ",
+            "it may be called a 'great' one, for its strength and power, which lay in its immense treasure and riches, in numbers of men, in powerful armies, in strong cities...\" ",
+            "the Roman Pagan empire, as under the dominion of Satan, is manifestly designed by the dragon thus described."
+        ],
+        "John Wesley": [
+            "His fiery-red colour denoting his disposition.",
+            "Implying vast wisdom.",
+            "Not properly crowns, but costly bindings, such as kings anciently wore; for, though fallen, he was a great potentate still, even 'the prince of this world.'"
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The fiery rage and murderous nature of the dragon is depicted through its red color and seven diadems, symbolizing its universal dominion over the fallen world. The ten horns signify the dragon's worldly instruments of power. This second tableau follows closely upon the first, showing the inseparable nature of these two scenes. The dragon's association with the Roman Pagan empire, under the influence of Satan, is fitting due to its cunning, cruelty, and poison of idolatry. The dragon's red color signifies its disposition, while the seven heads and ten horns reflect its immense power and rule over the kingdoms of the world.",
+            "wordCount": 105,
+            "quoteTokenProportion": 28.12,
+            "qualityScore": 1.9179834800083213,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.11,
+            "commentatorTierSimilarities": [
+                33.84,
+                39.16,
+                27.0
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The dragon's red color and seven diadems represent its fiery rage and universal dominion, while the ten horns symbolize its worldly instruments of power. This second tableau is inseparable from the first, highlighting the dragon's association with the Roman Pagan empire and its cruelty in persecuting Christians. The dragon's disposition is reflected in its fiery-red color, and its immense power and rule over the kingdoms of the world are depicted through its seven heads and ten horns.",
+            "wordCount": 81,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.077641465674232,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.42,
+            "commentatorTierSimilarities": [
+                31.02,
+                40.19,
+                28.79
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The dragon's fiery rage is portrayed by its red color and seven diadems, signifying its universal dominion. Its worldly power is represented by the ten horns. This second scene closely follows the first, suggesting inseparable events. The association of the dragon with the Roman Pagan empire, influenced by Satan, is fitting due to its cunning, cruelty, and idolatrous practices. The dragon's disposition is depicted through its fiery-red color, while its immense power and control over worldly kingdoms are symbolized by its seven heads and ten horns.",
+            "wordCount": 89,
+            "quoteTokenProportion": 28.07,
+            "qualityScore": 1.8081416938440773,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.46,
+            "commentatorTierSimilarities": [
+                34.25,
+                38.22,
+                27.54
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The dragon's fiery rage is represented by its red color and seven diadems, signifying its universal dominion. Its worldly power is reflected in the ten horns, while the association with the Roman Pagan empire portrays its cunning, cruelty, and idolatrous practices. The dragon's disposition is depicted through its fiery-red color, and its immense power and control over worldly kingdoms are symbolized by the seven heads and ten horns.",
+            "wordCount": 71,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.0710187483425653,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.2,
+            "commentatorTierSimilarities": [
+                30.71,
+                40.18,
+                29.1
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The dragon's fiery rage is depicted by its red color, and its universal dominion is implied by the seven diadems, symbolizing the fallen world. The ten horns represent its worldly instruments of power. The dragon's association with the Roman Pagan empire, under the influence of Satan, is fitting due to its cunning, cruelty, and idolatrous practices. Its fiery-red color signifies its disposition, while the seven heads and ten horns signify its immense power and rule over worldly kingdoms.",
+            "wordCount": 81,
+            "quoteTokenProportion": 25.49,
+            "qualityScore": 2.0237977052186875,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.63,
+            "commentatorTierSimilarities": [
+                32.04,
+                38.54,
+                29.42
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

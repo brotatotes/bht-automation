@@ -1,0 +1,141 @@
+{
+    "timestamp": "12-19-2023 21:49:27",
+    "verseRef": "Revelation 19:15",
+    "bestBHT": {
+        "bht": "From His mouth comes a sharp sword, symbolizing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, crushing rebellious grapes under His feet. The fierceness of Christ's wrath will be executed with the power of omnipotence, representing the utter destruction of all His foes. This image of treading the winepress of Almighty God's wrath combines the severity of His judgment with the imagery of divine judgment depicted in previous passages.",
+        "wordCount": 80,
+        "quoteTokenProportion": 27.27,
+        "qualityScore": 2.2279160610868285,
+        "qualityScoreNormalizedComparedToV2BHTs": 65.42,
+        "commentatorTierSimilarities": [
+            32.94,
+            32.7,
+            34.36
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "And out of His mouth goeth forth a sharp sword... that with it He may smite the nations...\" ",
+            "He shall rule them with a rod of iron...\" ",
+            "He treadeth the winepress of the wine of the fierceness of the wrath of Almighty God."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Here in its avenging power, 2 Thessalonians 2:8, 'consume with the Spirit of His mouth'...not in its convicting and converting efficacy.",
+            "He, who would have shepherded them with pastoral rod and with the golden scepter of His love, shall dash them in pieces, as refractory rebels, with 'a rod of iron.'",
+            "The fierceness of Christ's wrath against His foes will be executed with the resources of omnipotence."
+        ],
+        "Albert Barnes": [
+            "The sword seems to be an emblem of his words or doctrines, as penetrating the hearts of people; here it is the emblem of a work of destruction worked on his foes.",
+            "And he shall rule them with a rod of iron.",
+            "It means here that his enemies would be certainly crushed before him - as grapes are crushed under the feet of him that treads in the winevat."
+        ],
+        "Marvin Vincent": [
+            "Sword. See on ch. Revelation 1:16.",
+            "Shall rule [\u03c0\u03bf\u03b9\u03bc\u03b1\u03bd\u03b5\u03b9]. See on ch. Revelation 2:27.",
+            "Of the fierceness of the wrath. See on John 3:36."
+        ],
+        "Philip Schaff": [
+            "On the sharp sword mentioned in this verse comp. chaps. Revelation 1:16, Revelation 2:12; Revelation 2:16.",
+            "On the tending as a shepherd comp. Revelation 2:27, Revelation 12:5.",
+            "The heaping up of words of judgment in the last clause is very striking, the winepress of the wine of the fierceness of the wrath of Almighty God."
+        ],
+        "Archibald T. Robertson": [
+            "A sharp sword...a figure here for forensic and judicial condemnation.\" ",
+            "And he shall rule them...with a rod of iron.\" ",
+            "The winepress of the fierceness of the wrath of Almighty God...these images are here combined."
+        ],
+        "John Gill": [
+            "The word of God, or the judiciary sentence of Christ according to it, and which he will fully execute, to the utter destruction of all his enemies...",
+            "Use them with the utmost severity; the phrase is taken out of Psalms 2:9 a prophecy of Christ...",
+            "The fierce wrath of God against sinners is compared to a winepress; and the wicked antichristian party are likened to clusters of grapes..."
+        ],
+        "John Wesley": [
+            "And he shall rule them \u2014 Who are not slain by his sword.",
+            "With a rod of iron \u2014 That is, if they will not submit to his golden sceptre.",
+            "And he treadeth the wine press of the wrath of God \u2014 That is, he executes his judgments on the ungodly."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "From His mouth comes a sharp sword, symbolizing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, no longer as a shepherd but as a judge who crushes rebellious grapes. The fierceness of Christ's wrath will be executed with the power of omnipotence, representing the utter destruction of all his foes. This image of treading the winepress of Almighty God's wrath combines the severity of His judgment with the imagery of divine judgment depicted in previous passages.",
+            "wordCount": 87,
+            "quoteTokenProportion": 30.0,
+            "qualityScore": 2.184339218652361,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.97,
+            "commentatorTierSimilarities": [
+                32.59,
+                32.91,
+                34.5
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "From His mouth comes a sharp sword, symbolizing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, crushing rebellious grapes under His feet. The fierceness of Christ's wrath will be executed with the power of omnipotence, representing the utter destruction of all His foes. This image of treading the winepress of Almighty God's wrath combines the severity of His judgment with the imagery of divine judgment depicted in previous passages.",
+            "wordCount": 80,
+            "quoteTokenProportion": 27.27,
+            "qualityScore": 2.2279160610868285,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.42,
+            "commentatorTierSimilarities": [
+                32.94,
+                32.7,
+                34.36
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "From His mouth goes forth a sharp sword, representing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, dashing them in pieces as refractory rebels. The fierceness of Christ's wrath will be executed with the resources of omnipotence. This portrayal of treading the winepress of the fierceness of the wrath of Almighty God combines the severity of His judgment with the imagery previously used to depict divine judgment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 30.77,
+            "qualityScore": 2.1473847037095717,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.74,
+            "commentatorTierSimilarities": [
+                35.05,
+                30.49,
+                34.46
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "From His mouth goes forth a sharp sword, a figure representing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, smashing them as refractory rebels. The fierceness of Christ's wrath will be executed with the resources of omnipotence. This image of treading the winepress of the fierceness of the wrath of Almighty God combines the severity of His judgment with the imagery previously used to depict divine judgment.",
+            "wordCount": 77,
+            "quoteTokenProportion": 29.41,
+            "qualityScore": 2.145408192252536,
+            "qualityScoreNormalizedComparedToV2BHTs": 62.68,
+            "commentatorTierSimilarities": [
+                34.97,
+                30.85,
+                34.18
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "From His mouth goes forth a sharp sword, symbolizing the forensic and judicial condemnation of His enemies. He will rule them with a rod of iron, dashing them in pieces as refractory rebels. The fierceness of Christ's wrath will be executed with the resources of omnipotence. This portrayal of treading the winepress of the fierceness of the wrath of Almighty God combines the severity of His judgment with the imagery used to depict divine judgment.",
+            "wordCount": 76,
+            "quoteTokenProportion": 31.37,
+            "qualityScore": 2.1618954867659896,
+            "qualityScoreNormalizedComparedToV2BHTs": 63.22,
+            "commentatorTierSimilarities": [
+                35.17,
+                30.42,
+                34.41
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

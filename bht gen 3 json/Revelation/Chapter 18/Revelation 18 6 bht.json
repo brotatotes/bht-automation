@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:48:39",
+    "verseRef": "Revelation 18:6",
+    "bestBHT": {
+        "bht": "Receiving a just recompense, the Babylonian kingdom is to be repaid and their deeds doubled. The punishment is intended to match their actions, a principle rooted in the Old Testament law of an eye for an eye. The severity of the judgment is emphasized, with Babylon's sins deserving a double portion. Those who suffered persecution at the hands of Babylon are encouraged not to hold back in seeking retribution, as the magnitude of her transgressions justly warrant such punishment.",
+        "wordCount": 80,
+        "quoteTokenProportion": 37.29,
+        "qualityScore": 1.934512513727956,
+        "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+        "commentatorTierSimilarities": [
+            30.03,
+            39.42,
+            30.56
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Repay to her as she also repaid... Hers was a giving, this is a giving back.\" ",
+            "Double the double according to her works.\" ",
+            "In the cup which she mixed, mix for her double."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "She had given the world power that which was its due, namely, spiritual delusions.",
+            "The people like to be deceived, and let them be deceived.",
+            "Contrast with this the double of joy which Jerusalem shall receive for her past suffering."
+        ],
+        "Albert Barnes": [
+            "Reward her even as she rewarded you - It is not said to whom this command is addressed, but it would seem to be to those who had been persecuted and wronged.",
+            "And double unto her double according to her works - That is, bring upon her double the amount of calamity which she has brought upon others; take ample vengeance upon her.",
+            "Fill to her double - Let her drink abundantly of the wine of the wrath of God - double what she has dealt out to others."
+        ],
+        "Marvin Vincent": [
+            "Double [\u03b4\u03b9\u03c0\u03bb\u03c9\u03c3\u03b1\u03c4\u03b5] . Only here in the New Testament. Compare Isaiah 40:2; Jeremiah 16:18; Zechariah 9:19. The Levitical law insisted on the double recompense. See Exodus 22:4, Exodus 22:7, Exodus 22:9."
+        ],
+        "Philip Schaff": [
+            "Render unto her even as she rendered, and double unto her double according to her works: in the cup which she filled fill to her double.",
+            "Judgment is administered according to the lex talionis; and the doubling seems to be founded on the law of Exodus 22:4; Exodus 22:7; Exodus 22:9, and on the threatening of Jeremiah 16:18.",
+            "Her sins have been so great that there has been a double mention of them, and the punishment shall be proportioned to the sin."
+        ],
+        "Archibald T. Robertson": [
+            "Render as she rendered... the lex talionis which is in the O.T.\" ",
+            "Double the double... a full requital according to the Levitical law.\" ",
+            "Mingle unto her double... with the same idea of double punishment."
+        ],
+        "John Gill": [
+            "They should use her with double severity to that she had used them with; seeing her sins deserved a severer treatment than even they had had from her.\" ",
+            "It suggests that they should not spare her, nor pity her, but use her with the greatest severity imaginable, it being not possible to exceed her due deserts, or what her works required.",
+            "In the cup of afflictions and trouble, which she wrung out to the people of God, in that give her double portion."
+        ],
+        "John Wesley": [
+            "Reward her \u2014 This God speaks to the executioners of his vengeance.",
+            "Even as she hath rewarded \u2014 Others; in particular, the saints of God.",
+            "And give her double \u2014 This, according to the Hebrew idiom, implies only a full retaliation."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Revelation 18:6 speaks of repaying and doubling the punishment for the deeds of the Babylonian kingdom. The language used suggests a fair and just recompense, relying on the principle of an eye for an eye as found in the Old Testament law. The severity of the punishment is emphasized, as Babylon's sins are deemed deserving of a double portion. This serves as a warning to those who had been persecuted by Babylon to not hold back in their retribution, for the punishment should match the magnitude of her transgressions.",
+            "wordCount": 89,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 1.9747355517468321,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.0,
+            "commentatorTierSimilarities": [
+                28.77,
+                40.36,
+                30.87
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Receiving a just recompense, the Babylonian kingdom is to be repaid and their deeds doubled. The punishment is intended to match their actions, a principle rooted in the Old Testament law of an eye for an eye. The severity of the judgment is emphasized, with Babylon's sins deserving a double portion. Those who suffered persecution at the hands of Babylon are encouraged not to hold back in seeking retribution, as the magnitude of her transgressions justly warrant such punishment.",
+            "wordCount": 80,
+            "quoteTokenProportion": 37.29,
+            "qualityScore": 1.934512513727956,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.66,
+            "commentatorTierSimilarities": [
+                30.03,
+                39.42,
+                30.56
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The Babylonian kingdom is to be repaid for their actions, receiving a double punishment for their deeds. This recompense is just, following the principle of an eye for an eye found in the Old Testament law. The severity of their judgment is emphasized, as their sins have warranted a double portion. Those who have suffered at the hands of Babylon are encouraged to seek retribution without hesitation, as the magnitude of their wrongdoings calls for such a response.",
+            "wordCount": 78,
+            "quoteTokenProportion": 37.74,
+            "qualityScore": 1.9025328548365494,
+            "qualityScoreNormalizedComparedToV2BHTs": 54.6,
+            "commentatorTierSimilarities": [
+                30.33,
+                38.75,
+                30.91
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "In accordance with the principle of an eye for an eye, the Babylonian kingdom will experience repayment and a double portion of punishment for their actions. The severity of their judgment reflects the magnitude of their sins and serves as a just recompense. Those who have suffered at the hands of Babylon are urged to seek retribution without hesitation, as it is only fitting that the consequences match the enormity of their wrongdoings.",
+            "wordCount": 73,
+            "quoteTokenProportion": 43.4,
+            "qualityScore": 1.8353477892273409,
+            "qualityScoreNormalizedComparedToV2BHTs": 52.37,
+            "commentatorTierSimilarities": [
+                24.62,
+                40.83,
+                34.54
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Babylon, being deserving of punishment, is to receive a double recompense for its deeds according to the principle of an eye for an eye. The severity of the judgment reinforces the gravity of Babylon's sins, calling for a just retribution. Those who have endured persecution by Babylon are urged to seek retaliation without hesitation, as the scale of their transgressions warrants such an unfaltering response.",
+            "wordCount": 66,
+            "quoteTokenProportion": 39.58,
+            "qualityScore": 1.7997641338680412,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.18,
+            "commentatorTierSimilarities": [
+                23.0,
+                40.63,
+                36.37
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "timestamp": "12-19-2023 21:51:08",
+    "verseRef": "Revelation 22:16",
+    "bestBHT": {
+        "bht": "I am the root and the race of David, the bright morning star, the one who brings in the everlasting day, declares Jesus, the Lord of the angels. As the root and offspring of David, Jesus, both divine and human, fulfills the sure mercies promised to Israel and extends them to the Gentiles. He is the morning star that ushered in the day of grace and will, in the end, usher in the everlasting day of glory. Christ, the true morning star, brings light, purity, and joy to a dark world.",
+        "wordCount": 91,
+        "quoteTokenProportion": 32.69,
+        "qualityScore": 2.4329907528958166,
+        "qualityScoreNormalizedComparedToV2BHTs": 72.24,
+        "commentatorTierSimilarities": [
+            32.84,
+            33.69,
+            33.47
+        ],
+        "generationAttempt": 1
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "I am the root and the race of David.",
+            "I am the bright morning star.",
+            "I am the one who brings in the everlasting day."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "mine angel\u2014for Jesus is Lord of the angels.",
+            "root . . . offspring of David\u2014appropriate title here where assuring His Church of 'the sure mercies of David,' secured to Israel first, and through Israel to the Gentiles. Root of David, as being Jehovah; the offspring of David as man. David's Lord, yet David's son.",
+            "the morning star\u2014that ushered in the day of grace in the beginning of this dispensation and that shall usher in the everlasting day of glory at its close."
+        ],
+        "Albert Barnes": [
+            "I Jesus - Here the Saviour appears expressly as the speaker - ratifying and confirming all that had been communicated by the instrumentality of the angel.",
+            "I am the root - ...that he was the 'root-shoot' of David, or that he himself sprang from him, as a sprout starts up from a decayed and fallen tree...",
+            "And the bright and morning star - ...that he sustains a relation to a dark world similar to this beautiful star."
+        ],
+        "Marvin Vincent": [
+            "The root. Compare Isaiah 11:1, Isaiah 11:10. See on Nazarene, Matthew 2:23. The morning - star. See on ch. Revelation 2:28."
+        ],
+        "Philip Schaff": [
+            "The closing message of the Book begins with these words, and it comes from Him who only here, and in His words to Saul (Acts 9:5), calls Himself by the name \u2018Jesus.\u2019",
+            "The words which follow, I am the root and the offspring of David, the bright, the morning star, enlarge this description, and that in the manner of those double pictures which are so common in the writings of St. John.",
+            "Jesus is also \u2018the bright, the morning star,\u2019 the most brilliant star in the firmament of heaven, now the harbinger of that day the light of which never dims."
+        ],
+        "Archibald T. Robertson": [
+            "I Jesus (\u0395\u03b3\u03c9 \u0399\u03b7\u03c3\u03bf\u03c5\u03c2). The last and most solemn attestation to the book that from Jesus (the historic Jesus known to the churches), in harmony with Revelation 1:1.",
+            "I am the root and the offspring of David (\u0395\u03b3\u03c9 \u03b5\u03b9\u03bc\u03b7 \u03b7 \u03c1\u03b9\u03b6\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b3\u03b5\u03bd\u03bf\u03c2 \u0394\u03b1\u03c5\u03b5\u03b9\u03b4).",
+            "The bright, the morning star (\u03bf \u03b1\u03c3\u03c4\u03b7\u03c1 \u03bf \u03bb\u03b1\u03bc\u03c0\u03c1\u03bf\u03c2 \u03bf \u03c0\u03c1\u03c9\u03b9\u03bd\u03bf\u03c2). The Davidic King is called a star in Numbers 24:17; Luke 1:78. This 'day-star' (\u03c6\u03c9\u03c3\u03c6\u03bf\u03c1\u03bf\u03c2) is interpreted as Christ (2 Peter 1:19)."
+        ],
+        "John Gill": [
+            "But will give credit, and pay a regard to this revelation of his, which he sent by his angel, one of his ministering spirits, made by him, and under his command, he being the Creator, Lord, and head of angels.",
+            "Christ gives a further account of himself, for the greater confirmation of the faith of his people, in the certain accomplishment of the things herein written, by saying, I am the root and the offspring of David.",
+            "Christ is compared to a 'star', as in Numbers 24:17 for its light, the light of nature, and of grace, and of the new Jerusalem state being from him."
+        ],
+        "John Wesley": [
+            "I Jesus have sent my angel to testify these things \u2014 Primarily.",
+            "Am the root \u2014 And source of David's family and kingdom; as man, an descended from his loins.",
+            "I am the star out of Jacob... usher in an eternal day of light, purity, and joy."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "I am the root and the race of David, the bright morning star, the one who brings in the everlasting day, declares Jesus, the Lord of the angels. As the root and offspring of David, Jesus, both divine and human, fulfills the sure mercies promised to Israel and extends them to the Gentiles. He is the morning star that ushered in the day of grace and will, in the end, usher in the everlasting day of glory. Christ, the true morning star, brings light, purity, and joy to a dark world.",
+            "wordCount": 91,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.4329907528958166,
+            "qualityScoreNormalizedComparedToV2BHTs": 72.24,
+            "commentatorTierSimilarities": [
+                32.84,
+                33.69,
+                33.47
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Jesus, the root and offspring of David, the bright morning star, is the one who brings in the everlasting day. As the Lord of the angels, he sends his angel to testify to these things. He is the star that brings light, purity, and joy to the world, ushering in an eternal day of glory. By identifying himself in this way, Jesus confirms the fulfillment of the promises and the sure mercies bestowed upon Israel, extending them to the Gentiles as well.",
+            "wordCount": 82,
+            "quoteTokenProportion": 37.04,
+            "qualityScore": 2.2252548584054987,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.33,
+            "commentatorTierSimilarities": [
+                29.0,
+                34.6,
+                36.4
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Jesus proclaims, I am the root and the race of David, the bright morning star, the one who brings in the everlasting day. He is both the divine root of David and his human offspring, fulfilling the sure mercies promised to Israel and extending them to the Gentiles. Jesus, the morning star, ushered in the day of grace and will usher in the everlasting day of glory. His role as the star of Jacob symbolizes his light, purity, and joy that bring hope and salvation to the world.",
+            "wordCount": 88,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.338711385544063,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.1,
+            "commentatorTierSimilarities": [
+                31.85,
+                33.72,
+                34.43
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Jesus declares, I am the root and the offspring of David, the bright morning star. He assures His Church of the sure mercies secured to Israel first and then extended to the Gentiles. As the morning star, He ushered in the day of grace and will bring forth the everlasting day of glory. By identifying Himself as the root and offspring of David, Jesus solidifies His authority and divine nature. He is the star that shines brightly, illuminating the path of light, purity, and everlasting joy.",
+            "wordCount": 86,
+            "quoteTokenProportion": 32.69,
+            "qualityScore": 2.215561945392196,
+            "qualityScoreNormalizedComparedToV2BHTs": 65.01,
+            "commentatorTierSimilarities": [
+                31.05,
+                33.79,
+                35.16
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Jesus proclaims, I am the root and the offspring of David, the bright morning star. As the root, He is Jehovah, and as David's descendant, He is the Son of Man. Jesus, the morning star, symbolizes the beginning of the day of grace and foretells the everlasting day of glory. His role as the star of Jacob illuminates the world with light, purity, and joy, ushering in the eternal day of hope and salvation. Truly, He is the source of David's kingdom and the harbinger of an unending day of divine radiance.",
+            "wordCount": 94,
+            "quoteTokenProportion": 24.0,
+            "qualityScore": 2.3436381152410517,
+            "qualityScoreNormalizedComparedToV2BHTs": 69.27,
+            "commentatorTierSimilarities": [
+                31.57,
+                33.89,
+                34.54
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

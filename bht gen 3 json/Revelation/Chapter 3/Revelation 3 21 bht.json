@@ -1,0 +1,135 @@
+{
+    "timestamp": "12-19-2023 21:41:30",
+    "verseRef": "Revelation 3:21",
+    "bestBHT": {
+        "bht": "The promise of sitting with Jesus on His throne is exclusively for those who overcome the trials of this world. This privilege belongs to the present time while Satan reigns, providing the scope for conflict and victory. Just as Christ triumphed over sin and death, we too can be victorious through Him and share in the Messiah's rule. This promise is the highest of all given to the seven churches, signifying a remarkable honor to sit with Jesus on His glorious throne.",
+        "wordCount": 83,
+        "quoteTokenProportion": 40.98,
+        "qualityScore": 2.0129906614558215,
+        "qualityScoreNormalizedComparedToV2BHTs": 58.27,
+        "commentatorTierSimilarities": [
+            24.55,
+            37.22,
+            38.22
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Jamieson-Fausset-Brown": [
+            "The highest place is within reach of the lowest; the faintest spark of grace may be fanned into the mightiest flame of love.",
+            "Two thrones are here mentioned: His Father's, upon which He now sits, and has sat since His ascension, and the throne which shall be peculiarly His as the once humbled and then glorified Son of man, to be set up over the whole earth.",
+            "This privilege of our high calling belongs exclusively to the present time while Satan reigns, when alone there is scope for conflict and for victory. When Satan shall be bound, there shall be no longer scope for it, for all on earth shall know the Lord from the least to the greatest."
+        ],
+        "Albert Barnes": [
+            "Will I grant to sit with me in my throne - That is, they will share his honors and his triumphs.",
+            "As the reward of this, he is exalted to the throne of the universe Philippians 2:6-11, and in these honors, achieved by their great and glorious Head, all the redeemed will share.",
+            "That is, he has dominion over the universe. All things are put under his feet, and in the strictest unison and with perfect harmony he is united with the Father in administering the affairs of all worlds."
+        ],
+        "Marvin Vincent": [
+            "He that overcometh. See on chapter Revelation 2:7. ===Revelation 4:0 ",
+            "CHAPTER IV ",
+            "The Revelation proper now begins."
+        ],
+        "Philip Schaff": [
+            "He that overcometh, to him will I grant to sit down along with me in my throne, etc. This promise is the highest of all that we have met in the seven Epistles.\" ",
+            "The throne of Jesus is the throne of God, 'I in them, and Thou in Me, that they may be perfected into one;' 'Father, that which Thou hast given Me, I will that, where I am, they also may be with Me' (John 17:23-24).\" ",
+            "The promise is the 'apotheosis of victory,' and as such it has evidently a reference not only to the church at Laodicea, but to the whole series of the seven churches, and of the promises addressed to them."
+        ],
+        "Archibald T. Robertson": [
+            "This promise grows out of the prophecy that the saints will share in the Messiah's rule, made to the twelve, repeated by Paul, enlarged in Revelation 22:1-5.\" ",
+            "James and John took this hope and promise literally, not metaphorically.\" ",
+            "Each of these seven messages begins alike and ends alike. Each is the message of the Christ and of the Holy Spirit to the angel of the church."
+        ],
+        "John Gill": [
+            "And this is the blessing promised the overcomers in the Laodicean state, that when Christ shall set up his kingdom among men, and reign gloriously before his ancients, they shall sit on the same throne with him, or share with him in his kingdom and glory.",
+            "even as I also overcame; sin, Satan, the world, death, and hell",
+            "it is on Christ's throne on earth, or in his personal reign there, that the saints shall sit down with him; and which honour they shall all have, all that are more than conquerors through him, and are made kings by him."
+        ],
+        "John Wesley": [
+            "I will give him to sit with me on my throne \u2014 In unspeakable happiness and glory.",
+            "Elsewhere, heaven itself is termed the throne of God: but this throne is in heaven."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "The privilege of sitting with Jesus on His throne is a remarkable promise that belongs exclusively to the present time. It is a reward for those who overcome the trials and temptations of this world. This promise is the highest of all the promises given to the seven churches and it signifies a shared participation in the Messiah's rule. Just as Christ overcame sin and death, we too can overcome through Him and be granted the incredible honor of sitting with Him on His glorious throne.",
+            "wordCount": 87,
+            "quoteTokenProportion": 42.37,
+            "qualityScore": 1.8743607296717373,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.66,
+            "commentatorTierSimilarities": [
+                23.77,
+                40.17,
+                36.05
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "The highest place, within reach of the lowest, is the promise for those who overcome. It is the privilege of the present time when Satan reigns, providing scope for conflict and victory. This promise signifies a shared participation in the Messiah's rule, a reward for the redeemed. Just as Christ overcame sin and death, we too can triumph through Him and be granted the incredible honor of sitting on His glorious throne.",
+            "wordCount": 73,
+            "quoteTokenProportion": 40.35,
+            "qualityScore": 1.7604700766338928,
+            "qualityScoreNormalizedComparedToV2BHTs": 49.88,
+            "commentatorTierSimilarities": [
+                27.9,
+                38.29,
+                33.81
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "The promise of sitting with Jesus on His throne is exclusively for those who overcome the trials of this world. This privilege belongs to the present time while Satan reigns, providing the scope for conflict and victory. Just as Christ triumphed over sin and death, we too can be victorious through Him and share in the Messiah's rule. This promise is the highest of all given to the seven churches, signifying a remarkable honor to sit with Jesus on His glorious throne.",
+            "wordCount": 83,
+            "quoteTokenProportion": 40.98,
+            "qualityScore": 2.0129906614558215,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.27,
+            "commentatorTierSimilarities": [
+                24.55,
+                37.22,
+                38.22
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "The promise of sitting with Jesus on His throne is exclusively for those who overcome in the present time. This privilege is the highest of all promises to the seven churches and signifies a shared participation in the Messiah's rule. By overcoming sin and the temptations of the world, we can partake in the incredible honor of sitting on His glorious throne. This promise reflects the triumph of grace, from the lowest to the mightiest flame of love.",
+            "wordCount": 79,
+            "quoteTokenProportion": 35.85,
+            "qualityScore": 1.857065398814494,
+            "qualityScoreNormalizedComparedToV2BHTs": 53.09,
+            "commentatorTierSimilarities": [
+                25.65,
+                39.3,
+                35.05
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "The highest place is within reach of the lowest, as a faint spark of grace can grow into the mightiest flame of love. This incredible promise is exclusively for those who overcome in the present time, when there is still scope for conflict and victory. It is the privilege of sharing in the Messiah's rule and sitting on His throne that awaits those who triumph over sin and embrace the hope of reigning with Christ in His glorious kingdom.",
+            "wordCount": 80,
+            "quoteTokenProportion": 38.98,
+            "qualityScore": 1.8120232060998913,
+            "qualityScoreNormalizedComparedToV2BHTs": 51.59,
+            "commentatorTierSimilarities": [
+                32.66,
+                34.12,
+                33.22
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

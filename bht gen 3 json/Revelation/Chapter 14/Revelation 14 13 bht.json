@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:47:24",
+    "verseRef": "Revelation 14:13",
+    "bestBHT": {
+        "bht": "Blessed are the dead who die in the Lord from henceforth, for their complete blessedness commences as they rest from their labors. Their works accompany them in blessed memory, not in a life of activity, but in the highest form of spiritual service. This blessedness is affirmed by the voice of God the Father and confirmed by the Spirit, and it goes beyond what Paul had spoken. The assurance of this blessedness brings comfort to those facing persecution and death, offering the hope that even if their growth on earth is cut short, it can still be utilized in heaven.",
+        "wordCount": 100,
+        "quoteTokenProportion": 42.47,
+        "qualityScore": 2.122887174147062,
+        "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+        "commentatorTierSimilarities": [
+            35.91,
+            33.61,
+            30.48
+        ],
+        "generationAttempt": 2
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Blessed are the dead who die in the Lord from henceforth...the complete blessedness of the holy dead commences: when the garner is filled and the chaff cast out.\" ",
+            "The affirmation of the Spirit ratifies the blessedness proclaimed, and assigns a reason for it...they shall rest from their labours.",
+            "They rest from their labours, because the time of working is over, their works accompanying them not in a life of activity, but in blessed memory; wherefore not labour, but rest is their lot."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "Their full blessedness is now 'from henceforth,' that is, FROM THIS TIME, when the judgment on the beast and the harvest gatherings of the elect are imminent.",
+            "They are blessed in being about to sit down to the marriage supper of the Lamb, and in having part in the first resurrection, and in having right to the tree of life.",
+            "The words of God the Father (the 'voice from heaven') are echoed back and confirmed by the Spirit... All 'God's promises in Christ are yea.'"
+        ],
+        "Albert Barnes": [
+            "Blessed are the dead - That is, the condition of those who die in the manner which is immediately specified, is to be regarded as a blessed or happy one.\" ",
+            "To 'die in the Lord' implies the following things: (2) To 'die in the Lord' would seem also to imply that there should be, at the time, the evidence of his favor and friendship.\" ",
+            "From henceforth... They would rise to eternal life and peace... It may be added that the declaration here made is true still, and ever will be. It is a blessed thing to die in the Lord."
+        ],
+        "Philip Schaff": [
+            "\u2018Blessed are the dead which die in the Lord'...the death referred to was such a death as His.",
+            "During all that time the 144,000 are being gathered in amidst the temptations of Babylon and the opposition of the beast.",
+            "Those who thus die are blessed because \u2018they rest from their labours;\u2019 they have that rest from toil and suffering which they cannot obtain here below."
+        ],
+        "Archibald T. Robertson": [
+            "This new beatitude for the Christian dead goes farther than Paul's words.\" ",
+            "Probably 'from henceforth' goes with 'those who die in the Lord,' giving comfort to those facing persecution and death.",
+            "There is this to comfort us for all our growth here. Even if cut short, it can be utilized in heaven, which is not a place of idleness, but of the highest form of spiritual service."
+        ],
+        "John Gill": [
+            "Merely to die is not an happiness, for death is common to all, good and bad; it is a disunion of soul and body, and cannot be in itself desirable; it is the fruit of sin, and has something in it awful and terrible; and though it is the privilege of believers, as its sting is removed by Christ, yet not as simply and absolutely considered; but to die in the Lord is a blessedness.",
+            "To suffer death for the sake of Christ and his Gospel is a gift and an honour, and what glorifies Christ; and there is a glory consequent upon it, which such shall enjoy.",
+            "This is directly opposite to the notions of the Jews, who say, that when a man departs this life, his works 'go before him', and say unto him, thou hast done so and so, in such a place, and on such a day; and that whoever does a good work in this world, it shall 'go before him' in the world to come; and so they represent good works as saying to a man when he is about to die, 'go in peace; before thou gettest thither, we will go before thee.'"
+        ],
+        "John Wesley": [
+            "Happy are the dead - From henceforth particularly: 1. Because they escape the approaching calamities: 2. Because they already enjoy so near an approach to glory.",
+            "Who die in the Lord - In the faith of the Lord Jesus. For they rest - No pain, no purgatory follows; but pure, unmixed happiness.",
+            "Their works - Each one's peculiar works. Follow - or accompany them; that is, the fruit of their works. Their works do not go before to procure them admittance into the mansions of joy; but they follow them when admitted."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Blessed are those who die in the Lord from henceforth, for they enter into complete blessedness and rest from their labors. Their works accompany them in blessed memory, not in a life of activity. This blessedness commences at the time when the judgment on the beast and the harvest gatherings of the elect are imminent. They are blessed in partaking in the marriage supper of the Lamb and the first resurrection, and in having the right to the tree of life. The voice of God the Father, echoed back and confirmed by the Spirit, affirms this blessedness. Even if our growth on earth is cut short, it can be utilized in heaven, not as idleness, but as the highest form of spiritual service.",
+            "wordCount": 123,
+            "quoteTokenProportion": 40.0,
+            "qualityScore": 1.925094918561774,
+            "qualityScoreNormalizedComparedToV2BHTs": 55.35,
+            "commentatorTierSimilarities": [
+                39.35,
+                32.48,
+                28.17
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Blessed are the dead who die in the Lord from henceforth, for their complete blessedness commences as they rest from their labors. Their works accompany them in blessed memory, not in a life of activity, but in the highest form of spiritual service. This blessedness is affirmed by the voice of God the Father and confirmed by the Spirit, and it goes beyond what Paul had spoken. The assurance of this blessedness brings comfort to those facing persecution and death, offering the hope that even if their growth on earth is cut short, it can still be utilized in heaven.",
+            "wordCount": 100,
+            "quoteTokenProportion": 42.47,
+            "qualityScore": 2.122887174147062,
+            "qualityScoreNormalizedComparedToV2BHTs": 61.93,
+            "commentatorTierSimilarities": [
+                35.91,
+                33.61,
+                30.48
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Blessed are those who die in the Lord from henceforth, for their complete blessedness commences as they rest from their labors. Their works accompany them in blessed memory, not in a life of activity. This blessedness is affirmed by the voice of God the Father and confirmed by the Spirit. It goes beyond what Paul had spoken and brings comfort to those facing persecution and death. Even if their growth on earth is cut short, it can still be utilized in heaven, where the highest form of spiritual service awaits them.",
+            "wordCount": 91,
+            "quoteTokenProportion": 43.48,
+            "qualityScore": 1.9539219823766243,
+            "qualityScoreNormalizedComparedToV2BHTs": 56.31,
+            "commentatorTierSimilarities": [
+                37.53,
+                33.11,
+                29.36
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Blessed are the dead who die in the Lord from henceforth, for their complete blessedness commences as they rest from their labors. Their works accompany them in blessed memory, not in a life of activity. This blessedness goes beyond what Paul had spoken and brings comfort to those facing persecution and death. Even if growth on earth is cut short, it can still be utilized in heaven, where the highest form of spiritual service awaits.",
+            "wordCount": 75,
+            "quoteTokenProportion": 46.03,
+            "qualityScore": 2.049617164045289,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.49,
+            "commentatorTierSimilarities": [
+                35.78,
+                34.03,
+                30.19
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Blessed are those who die in the Lord from henceforth, for their complete blessedness commences as they rest from their labors. Their full blessedness is now, when the judgment on the beast and the harvest gatherings of the elect are imminent. Even if cut short, their growth on earth can be utilized in heaven, where the highest form of spiritual service awaits. This blessedness is affirmed by the voice of God the Father and confirmed by the Spirit, echoing back and confirming His promises.",
+            "wordCount": 84,
+            "quoteTokenProportion": 42.62,
+            "qualityScore": 2.003630639855089,
+            "qualityScoreNormalizedComparedToV2BHTs": 57.96,
+            "commentatorTierSimilarities": [
+                39.84,
+                32.87,
+                27.3
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}

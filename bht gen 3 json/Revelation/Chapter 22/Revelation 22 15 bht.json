@@ -1,0 +1,136 @@
+{
+    "timestamp": "12-19-2023 21:51:09",
+    "verseRef": "Revelation 22:15",
+    "bestBHT": {
+        "bht": "Outside the heavenly city, impure persons, sorcerers, fornicators, murderers, idolaters, and those who love and practice falsehood are compared to dogs. These individuals, like scavengers in Eastern cities, are without a home or owner, feeding on refuse and filth. The term dogs was originally used by the Judaizers to label Gentiles as impure. Those outside the city are separated forever from the ones within, who experience eternal fellowship with God. Satan, the father of lies, finds a congenial place among those who propagate falsehood, depicting the state of hell.",
+        "wordCount": 89,
+        "quoteTokenProportion": 31.34,
+        "qualityScore": 2.072481203611298,
+        "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+        "commentatorTierSimilarities": [
+            33.04,
+            33.56,
+            33.4
+        ],
+        "generationAttempt": 3
+    },
+    "choicestQuotes": {
+        "Henry Alford": [
+            "Outside are the dogs (impure persons, see reff.), a nd the sorcerers, and the fornicators, and the murderers, and the idolaters and every one loving and practising falsehood (see on these, ch. xxi. 8)."
+        ],
+        "Jamieson-Fausset-Brown": [
+            "The impure, filthy.",
+            "Whosoever practiceth a lie."
+        ],
+        "Albert Barnes": [
+            "For without are dogs - The wicked, the depraved, the vile: for of such characters the dogs, an unclean animal among the Jews, was regarded as a symbol.\" ",
+            "The word 'without' means that they would not be admitted into the heavenly city, the New Jerusalem.",
+            "Those who 'love and make a lie' are added to the list; that is, who delight in lies, or what is false."
+        ],
+        "Marvin Vincent": [
+            "Dogs...This was the term of reproach with which the Judaizers stigmatized the Gentiles as impure.",
+            "The herds of dogs which prowl about Eastern cities, without a home and without an owner, feeding on the refuse and filth of the streets, quarreling among themselves, and attacking the passer-by, explain both applications of the image.",
+            "Fornicators...or doeth."
+        ],
+        "Philip Schaff": [
+            "Without are the dogs, and the sorcerers, and the fornicators, and the murderers, and the idolaters, and whosoever loveth and maketh a lie.\" ",
+            "The latter are within the city, separated for ever from the classes now described, the very mention of which awakens pain and horror in the mind.",
+            "The word \u2018dogs\u2019 is a general appellative applicable to all these classes, and is to be explained by remembering the light in which such animals were regarded by the Jews."
+        ],
+        "Archibald T. Robertson": [
+            "Dogs in the Oriental cities are the scavengers and excite unspeakable contempt.",
+            "Both are pictures (symbolic language) of hell, the eternal absence from fellowship with God.",
+            "Satan is the father of lying and Satan's home is a congenial place for those who love and practise lying."
+        ],
+        "John Gill": [
+            "For without are dogs,.... That is, without the holy city are such persons who are comparable to dogs for their filthiness, impudence, and voraciousness.",
+            "And sorcerers, and whoremongers, and murderers, and idolaters; characters of the antichristian party, who will have no place in this city, or glorious kingdom of Christ.",
+            "And whosoever loveth and maketh a lie; who loves both to invent and tell lies, and loves to hear them told by others; meaning more especially the doctrinal lies of antichrist, which are spoken in hypocrisy by him, and his followers are given up to believe."
+        ],
+        "John Wesley": [
+            "Without are dogs \u2014 The sentence in the original is abrupt, as expressing abhorrence. The gates are ever open; but not for dogs; fierce and rapacious men."
+        ]
+    },
+    "choicestPrompt": "choicest prompt v0.4",
+    "bhtPrompt": "bht prompt v0.8",
+    "commentators": [
+        "Henry Alford",
+        "Jamieson-Fausset-Brown",
+        "Albert Barnes",
+        "Marvin Vincent",
+        "John Calvin",
+        "Philip Schaff",
+        "Archibald T. Robertson",
+        "John Gill",
+        "John Wesley"
+    ],
+    "bhtAttemptsLimit": 5,
+    "bhtAttemptsCount": 5,
+    "bhtAttempts": [
+        {
+            "bht": "Outside the heavenly city, Revelation reveals that there are those who are impure, practicing falsehood, and engaging in sinful behaviors like fornication and murder. These individuals are likened to scavenging dogs, despised in Eastern cities, as they feed on the refuse and filth of the streets. The term dogs was originally used by the Judaizers to denigrate Gentiles as impure. Satan, the father of lies, also finds a congenial place for those who love and propagate falsehood. In contrast, within the city are those separated forever from these wicked individuals, experiencing eternal fellowship with God. The dogs and the other condemned ones symbolically represent the state of hell and the absence of God's presence.",
+            "wordCount": 115,
+            "quoteTokenProportion": 30.38,
+            "qualityScore": 2.068681948740771,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.12,
+            "commentatorTierSimilarities": [
+                32.55,
+                33.81,
+                33.64
+            ],
+            "generationAttempt": 1
+        },
+        {
+            "bht": "Outside the heavenly city are impure persons, sorcerers, fornicators, murderers, idolaters, and those who love and practice falsehood. Described as dogs, they are like scavengers in Eastern cities, without a home or owner, feeding on refuse and filth. This term dogs was used by the Judaizers to disparage Gentiles. They are separated forever from those within the city, experiencing eternal absence from fellowship with God. Satan, the father of lying, finds a home among those who love and practice falsehood, representing the state of hell.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.018368765288748,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                32.87,
+                33.76,
+                33.37
+            ],
+            "generationAttempt": 2
+        },
+        {
+            "bht": "Outside the heavenly city, impure persons, sorcerers, fornicators, murderers, idolaters, and those who love and practice falsehood are compared to dogs. These individuals, like scavengers in Eastern cities, are without a home or owner, feeding on refuse and filth. The term dogs was originally used by the Judaizers to label Gentiles as impure. Those outside the city are separated forever from the ones within, who experience eternal fellowship with God. Satan, the father of lies, finds a congenial place among those who propagate falsehood, depicting the state of hell.",
+            "wordCount": 89,
+            "quoteTokenProportion": 31.34,
+            "qualityScore": 2.072481203611298,
+            "qualityScoreNormalizedComparedToV2BHTs": 60.25,
+            "commentatorTierSimilarities": [
+                33.04,
+                33.56,
+                33.4
+            ],
+            "generationAttempt": 3
+        },
+        {
+            "bht": "Outside the heavenly city are impure persons, sorcerers, fornicators, murderers, idolaters, and those who love and practice falsehood. Described as dogs, they are like scavengers in Eastern cities, without a home or owner, feeding on refuse and filth. This term dogs was used by the Judaizers to disparage Gentiles. They are separated forever from those within the city, experiencing eternal absence from fellowship with God. Satan, the father of lying, finds a home among those who love and practice falsehood, representing the state of hell.",
+            "wordCount": 85,
+            "quoteTokenProportion": 34.92,
+            "qualityScore": 2.018368765288748,
+            "qualityScoreNormalizedComparedToV2BHTs": 58.45,
+            "commentatorTierSimilarities": [
+                32.87,
+                33.76,
+                33.37
+            ],
+            "generationAttempt": 4
+        },
+        {
+            "bht": "Outside the heavenly city, impure persons, sorcerers, fornicators, murderers, idolaters, and those who love and practice falsehood are compared to scavenging dogs. Despised in Eastern cities, these dogs are without a home or owner, nourishing themselves on the filth of the streets. This derogatory term, originally used by the Judaizers, labels Gentiles as impure. Excluded from the city, they are eternally separated from those who enjoy fellowship with God. The father of lying, Satan, welcomes those who propagate lies into his congenial abode, symbolizing the state of hell.",
+            "wordCount": 88,
+            "quoteTokenProportion": 33.33,
+            "qualityScore": 2.056447487825539,
+            "qualityScoreNormalizedComparedToV2BHTs": 59.72,
+            "commentatorTierSimilarities": [
+                33.06,
+                33.24,
+                33.71
+            ],
+            "generationAttempt": 5
+        }
+    ]
+}
